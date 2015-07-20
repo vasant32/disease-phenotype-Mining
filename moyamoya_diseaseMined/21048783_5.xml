@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:e sem="disease" ids="C0026654" disease_type="Disease or Syndrome" abbrv="MYMY|MYMY1">Moyamoya disease</z:e> (MMD) shows progressive cerebral <z:e sem="disease" ids="C0042373" disease_type="Disease or Syndrome" abbrv="">angiopathy</z:e> characterized by bilateral internal carotid <z:mp ids='MP_0006135'>artery stenosis</z:mp> and abnormal collateral vessels </plain></SENT>
+<SENT sid="1" pm="."><plain>Although ∼ 15% of MMD cases are familial, the MMD gene(s) remain unknown </plain></SENT>
+<SENT sid="2" pm="."><plain>A genome-wide association study of 785,720 single-nucleotide polymorphisms (SNPs) was performed, comparing 72 Japanese MMD patients with 45 Japanese controls and resulting in a strong association of chromosome 17q25-ter with MMD risk </plain></SENT>
+<SENT sid="3" pm="."><plain>This result was further confirmed by a locus-specific association study using 335 SNPs in the 17q25-ter region </plain></SENT>
+<SENT sid="4" pm="."><plain>A single haplotype consisting of seven SNPs at the RNF213 locus was tightly associated with MMD (P = 5.3 × 10(-10)) </plain></SENT>
+<SENT sid="5" pm="."><plain>RNF213 encodes a really interesting new gene finger protein with an AAA ATPase domain and is abundantly expressed in spleen and leukocytes </plain></SENT>
+<SENT sid="6" pm="."><plain>An <z:chebi fb="40" ids="33697">RNA</z:chebi> in situ hybridization analysis of mouse tissues indicated that mature lymphocytes express higher levels of Rnf213 <z:chebi fb="2" ids="33699">mRNA</z:chebi> than their immature counterparts </plain></SENT>
+<SENT sid="7" pm="."><plain>Mutational analysis of RNF213 revealed a <z:e sem="disease" ids="C0263541" disease_type="Disease or Syndrome" abbrv="">founder</z:e> mutation, p.R4859K, in 95% of MMD families, 73% of non-familial MMD cases and 1.4% of controls; this mutation greatly increases the risk of MMD (P = 1.2 × 10(-43), odds ratio = 190.8, 95% confidence interval = 71.7-507.9) </plain></SENT>
+<SENT sid="8" pm="."><plain>Three additional missense mutations were identified in the p.R4859K-negative patients </plain></SENT>
+<SENT sid="9" pm="."><plain>These results indicate that RNF213 is the first identified susceptibility gene for MMD </plain></SENT>
+</text></document>

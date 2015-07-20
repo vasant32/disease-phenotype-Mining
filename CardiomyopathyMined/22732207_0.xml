@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:e sem="disease" ids="C0026703" disease_type="Disease or Syndrome" abbrv="">Mucopolysaccharidosis</z:e> type I (MPS I) is a rare <z:hpo ids='HP_0000007'>autosomal recessive</z:hpo> disease caused by deficiency of the lysosomal enzyme alpha-L-iduronidase </plain></SENT>
+<SENT sid="1" pm="."><plain>This enzyme is involved in the degradation of the <z:chebi fb="0" ids="18085">glycosaminoglycans</z:chebi> (GAGs) dermatan and <z:chebi fb="0" ids="24500">heparan</z:chebi> <z:chebi fb="100" ids="16189">sulphate</z:chebi> and its deficiency results in the accumulation of GAGs and a progressive multisystem disease </plain></SENT>
+<SENT sid="2" pm="."><plain>Cardiac involvement is common in MPS patients and usually consists of progressive valvular thickening with incompetence and <z:hpo ids='HP_0001638'>cardiomyopathy</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>We present an attenuated MPS I patient with a primary apical left <z:hpo ids='HP_0006698'>ventricular aneurysm</z:hpo> not associated with <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> </plain></SENT>
+<SENT sid="4" pm="."><plain>We speculate that the defect in GAG catabolism leads not only to the storage of GAGs but also to alterations of the myocardial extracellular matrix </plain></SENT>
+<SENT sid="5" pm="."><plain>The latter ultimately being responsible for the formation of the <z:hpo ids='HP_0002617'>aneurysm</z:hpo> </plain></SENT>
+<SENT sid="6" pm="."><plain>This case emphasizes the importance of careful surveillance for cardiac lesions in MPS patients </plain></SENT>
+</text></document>

@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>MGCD0103 is an isotype-selective inhibitor of <z:chebi fb="0" ids="15358">histone</z:chebi> deacetylases (HDACs) targeted to isoforms 1, 2, 3, and 11 </plain></SENT>
+<SENT sid="1" pm="."><plain>In a phase 1 study in patients with <z:hpo ids='HP_0001909'>leukemia</z:hpo> or <z:hpo ids='HP_0002863'>myelodysplastic syndromes</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e>), MGCD0103 was administered orally 3 times weekly without interruption </plain></SENT>
+<SENT sid="2" pm="."><plain>Twenty-nine patients with a median age of 62 years (range, 32-84 years) were enrolled at planned dose levels (20, 40, and 80 mg/m(2)) </plain></SENT>
+<SENT sid="3" pm="."><plain>The majority of patients (76%) had <z:hpo ids='HP_0004808'>acute myelogenous leukemia</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">AML</z:e>) </plain></SENT>
+<SENT sid="4" pm="."><plain>In <z:hpo ids='HP_0000001'>all</z:hpo>, 24 (83%) of 29 patients had received 1 or more prior chemotherapies (range, 0-5), and 18 (62%) of 29 patients had abnormal cytogenetics </plain></SENT>
+<SENT sid="5" pm="."><plain>The maximum tolerated dose was determined to be 60 mg/m(2), with dose-limiting toxicities (DLTs) of <z:mp ids='MP_0002899'>fatigue</z:mp>, <z:hpo ids='HP_0002018'>nausea</z:hpo>, <z:hpo ids='HP_0002013'>vomiting</z:hpo>, and <z:hpo ids='HP_0002014'>diarrhea</z:hpo> observed at higher doses </plain></SENT>
+<SENT sid="6" pm="."><plain>Three patients achieved a complete bone marrow response (blasts &lt;or= 5%) </plain></SENT>
+<SENT sid="7" pm="."><plain>Pharmacokinetic analyses indicated absorption of MGCD0103 within 1 hour and an elimination half-life in plasma of 9 (+/- 2) hours </plain></SENT>
+<SENT sid="8" pm="."><plain>Exposure to MGCD0103 was proportional to dose up to 60 mg/m(2) </plain></SENT>
+<SENT sid="9" pm="."><plain>Analysis of peripheral white cells demonstrated induction of <z:chebi fb="0" ids="15358">histone</z:chebi> acetylation and dose-dependent inhibition of HDAC enzyme activity </plain></SENT>
+<SENT sid="10" pm="."><plain>In summary, MGCD0103 was safe and had antileukemia activity that was mechanism based in patients with advanced <z:hpo ids='HP_0001909'>leukemia</z:hpo> </plain></SENT>
+</text></document>

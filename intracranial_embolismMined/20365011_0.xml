@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We discuss the physics of embolic <z:hpo ids='HP_0001297'>stroke</z:hpo> using a minimal model of emboli moving through the cerebral arteries </plain></SENT>
+<SENT sid="1" pm="."><plain>Our model of the blood flow network consists of a bifurcating tree into which we introduce particles (emboli) that halt flow on reaching a node of similar size </plain></SENT>
+<SENT sid="2" pm="."><plain>Flow is weighted away from blocked arteries inducing an effective interaction between emboli </plain></SENT>
+<SENT sid="3" pm="."><plain>We justify the form of the flow weighting using a steady flow (Poiseuille) analysis and a more complicated nonlinear analysis </plain></SENT>
+<SENT sid="4" pm="."><plain>We discuss free flowing and heavily congested limits and examine the transition from free flow to <z:mpath ids='MPATH_107'>congestion</z:mpath> using numerics </plain></SENT>
+<SENT sid="5" pm="."><plain>The correlation time is found to increase significantly at a critical value and a finite-size scaling is carried out </plain></SENT>
+<SENT sid="6" pm="."><plain>An order parameter for nonequilibrium critical behavior is identified as the overlap of blockages' flow shadows </plain></SENT>
+<SENT sid="7" pm="."><plain>Our work shows embolic <z:hpo ids='HP_0001297'>stroke</z:hpo> to be a feature of the cerebral blood flow network on the verge of a phase transition </plain></SENT>
+</text></document>

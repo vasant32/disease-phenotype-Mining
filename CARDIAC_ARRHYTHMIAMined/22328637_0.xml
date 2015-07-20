@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: To determine the rate of major adverse cardiac events (MACE) in patients assessed in an emergency department (ED) for <z:hpo ids='HP_0100749'>chest pain</z:hpo> with a non-ischaemic ECG, Thrombolysis in <z:hpo ids='HP_0001658'>Myocardial Infarction</z:hpo> (TIMI) score of 0 and initial troponin I (TnI) ≤99th centile </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: This was a sub-study of a prospective observational study of adult patients with potentially cardiac <z:hpo ids='HP_0100749'>chest pain</z:hpo> who underwent evaluation for <z:hpo ids='HP_0011009'>acute</z:hpo> coronary syndrome in an urban teaching hospital </plain></SENT>
+<SENT sid="2" pm="."><plain>Adult patients with non-traumatic <z:hpo ids='HP_0100749'>chest pain</z:hpo> were eligible for inclusion </plain></SENT>
+<SENT sid="3" pm="."><plain>Those with ECG evidence of <z:hpo ids='HP_0011009'>acute</z:hpo> <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischaemia</z:e> or an alternative diagnosis were excluded </plain></SENT>
+<SENT sid="4" pm="."><plain>Data collected included demographic, clinical, ECG, biomarker and outcome data </plain></SENT>
+<SENT sid="5" pm="."><plain>Low risk was defined as a TIMI risk score of 0 and initial TnI ≤99th centile </plain></SENT>
+<SENT sid="6" pm="."><plain>Primary outcome of interest was defined as MACE within 7 days </plain></SENT>
+<SENT sid="7" pm="."><plain>MACE included <z:hpo ids='HP_0011420'>death</z:hpo>, <z:hpo ids='HP_0001695'>cardiac arrest</z:hpo>, revascularisation, cardiogenic shock, <z:hpo ids='HP_0011675'>arrhythmia</z:hpo>, and prevalent (cause of presentation) and incident (occurring within the follow-up period) <z:hpo ids='HP_0001658'>myocardial infarction</z:hpo> (MI) </plain></SENT>
+<SENT sid="8" pm="."><plain>Analysis was by descriptive and clinical performance analyses </plain></SENT>
+<SENT sid="9" pm="."><plain>RESULTS: 651 patients were studied of whom 215 met the low risk criteria </plain></SENT>
+<SENT sid="10" pm="."><plain>There was one MACE in this group (0.47%, 95% CI 0.08% to 2.6%)-a revascularisation within 7 days without prevalent MI </plain></SENT>
+<SENT sid="11" pm="."><plain>Negative predictive value of low risk classification was 99.5% (95% CI 97% to 100%) at both 7 and 30 days </plain></SENT>
+<SENT sid="12" pm="."><plain>Negative likelihood ratio, weighted by prevalence, was 0.005 at both intervals </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSION: Risk stratification for early discharge based on ECG, TIMI score of 0 and presentation TnI ≤99th centile appears to identify a group at very low risk of MACE </plain></SENT>
+<SENT sid="14" pm="."><plain>Research to prospectively validate this is warranted </plain></SENT>
+</text></document>

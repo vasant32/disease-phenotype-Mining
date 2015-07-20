@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>CONTEXT: In most patients, <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> results from T-cell-mediated immune destruction of bone marrow </plain></SENT>
+<SENT sid="1" pm="."><plain><z:hpo ids='HP_0001915'>Aplastic anemia</z:hpo> can be effectively treated by stem cell transplantation or immunosuppression </plain></SENT>
+<SENT sid="2" pm="."><plain>OBJECTIVE: To assess long-term outcomes after immunosuppressive therapy </plain></SENT>
+<SENT sid="3" pm="."><plain>DESIGN, SETTING, AND PATIENTS: Cohort of 122 patients (31 were &lt; or =18 years and 91 were &gt;18 years) with severe <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo>, as determined by bone marrow cellularity and blood cell count criteria, were enrolled in a single-arm interventional research protocol from 1991 to 1998 at a federal government research hospital </plain></SENT>
+<SENT sid="4" pm="."><plain>INTERVENTIONS: A dose of 40 mg/kg per day of antithymocyte globulin administered for 4 days, 10 to 12 mg/kg per day of <z:chebi fb="0" ids="4031">cyclosporine</z:chebi> for 6 months (adjusted for blood levels), and a short course of <z:chebi fb="0" ids="50858">corticosteroids</z:chebi> (1 mg/d of <z:chebi fb="0" ids="6888">methylprednisolone</z:chebi> for about 2 weeks) </plain></SENT>
+<SENT sid="5" pm="."><plain>MAIN OUTCOME MEASURES: Survival, improvement of <z:hpo ids='HP_0001876'>pancytopenia</z:hpo> and transfusion-independence, relapse, and evolution to other <z:e sem="disease" ids="C0018939" disease_type="Disease or Syndrome" abbrv="">hematologic diseases</z:e> </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: Response rates were 60% at 3 months after initiation of treatment, 61% at 6 months, and 58% at 1 year </plain></SENT>
+<SENT sid="7" pm="."><plain>The blood cell counts of patients who responded no longer satisfied severity criteria and they were transfusion-independent </plain></SENT>
+<SENT sid="8" pm="."><plain>Overall actuarial survival at 7 years was 55% </plain></SENT>
+<SENT sid="9" pm="."><plain>Survival was associated with early satisfaction of response criteria (86% vs 40% at 5 years; P&lt;.001) and by blood counts at 3 months (reticulocyte count or platelet count of &gt;50 x 10(3)/ microL predicted survival at 5 years of 90% [64/71] vs 42% [12/34] for patients with less robust recovery [P&lt;.001 by log-rank test]) </plain></SENT>
+<SENT sid="10" pm="."><plain>There were no <z:hpo ids='HP_0011420'>deaths</z:hpo> among responders more than 3 years after treatment </plain></SENT>
+<SENT sid="11" pm="."><plain>Relapse was common, but severe <z:hpo ids='HP_0001876'>pancytopenia</z:hpo> usually did not recur </plain></SENT>
+<SENT sid="12" pm="."><plain>Relapse did not influence survival </plain></SENT>
+<SENT sid="13" pm="."><plain>Thirteen patients showed evolution to other <z:e sem="disease" ids="C0018939" disease_type="Disease or Syndrome" abbrv="">hematologic diseases</z:e>, including <z:mp ids='MP_0004026'>monosomy</z:mp> 7 </plain></SENT>
+<SENT sid="14" pm="."><plain>CONCLUSIONS: Approximately half of patients with severe <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> treated with antithymocyte globulin and <z:chebi fb="0" ids="4031">cyclosporine</z:chebi> have durable recovery and excellent long-term survival </plain></SENT>
+<SENT sid="15" pm="."><plain>These outcomes were related to the quality of hematologic recovery </plain></SENT>
+</text></document>

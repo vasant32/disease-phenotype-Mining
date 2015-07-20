@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: We wanted to evaluate the usefulness of the computer-aided detection (CAD) system for detecting pulmonary nodules in real clinical practice by using the CT images </plain></SENT>
+<SENT sid="1" pm="."><plain>MATERIALS AND METHODS: Our Institutional Review Board approved our retrospective study with a waiver of informed consent </plain></SENT>
+<SENT sid="2" pm="."><plain>This study included 166 CT examinations that were performed for the evaluation of <z:e sem="disease" ids="C0153676" disease_type="Neoplastic Process" abbrv="">pulmonary metastasis</z:e> in 166 patients with <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> </plain></SENT>
+<SENT sid="3" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> the CT examinations were interpreted by radiologists and they were also evaluated by the CAD system </plain></SENT>
+<SENT sid="4" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> the nodules detected by the CAD system were evaluated with regard to whether or not they were true nodules, and they were classified into micronodules (MN, diameter &lt; 4 mm) and significant nodules (SN, 4 ≤ diameter ≤ 10 mm) </plain></SENT>
+<SENT sid="5" pm="."><plain>The radiologic reports and CAD results were compared </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: The CAD system helped detect 426 nodules; 115 (27%) of the 426 nodules were classified as true nodules and 35 (30%) of the 115 nodules were SNs, and 83 (72%) of the 115 were not mentioned in the radiologists' reports and three (4%) of the 83 nodules were non-calcified SNs </plain></SENT>
+<SENT sid="7" pm="."><plain>One of three non-calcified SNs was confirmed as a metastatic nodule </plain></SENT>
+<SENT sid="8" pm="."><plain>According to the radiologists' reports, 60 true nodules were detected, and 28 of the 60 were not detected by the CAD system </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSION: Although the CAD system missed many SNs that are detected by radiologists, it helps detect additional nodules that are missed by the radiologists in real clinical practice </plain></SENT>
+<SENT sid="10" pm="."><plain>Therefore, the CAD system can be useful to support a radiologist's detection performance </plain></SENT>
+</text></document>

@@ -1,0 +1,7 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Esophageal <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> (EAC) arises from <z:hpo ids='HP_0100580'>Barrett esophagus</z:hpo> (BE), intestinal-like columnar <z:mpath ids='MPATH_160'>metaplasia</z:mpath> linked to reflux <z:hpo ids='HP_0100633'>esophagitis</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>In a transgenic mouse model of BE, esophageal overexpression of interleukin-1β phenocopies human pathology with evolution of <z:hpo ids='HP_0100633'>esophagitis</z:hpo>, Barrett-like <z:mpath ids='MPATH_160'>metaplasia</z:mpath> and EAC </plain></SENT>
+<SENT sid="2" pm="."><plain>Histopathology and gene signatures closely resembled human BE, with upregulation of TFF2, Bmp4, Cdx2, Notch1, and IL-6 </plain></SENT>
+<SENT sid="3" pm="."><plain>The development of BE and EAC was accelerated by exposure to <z:chebi fb="1" ids="3098">bile acids</z:chebi> and/or <z:chebi fb="2" ids="35803">nitrosamines</z:chebi>, and inhibited by IL-6 deficiency </plain></SENT>
+<SENT sid="4" pm="."><plain>Lgr5(+) gastric cardia stem cells present in BE were able to lineage trace the early BE lesion </plain></SENT>
+<SENT sid="5" pm="."><plain>Our data suggest that BE and EAC arise from gastric progenitors due to a <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e>-promoting IL-1β-IL-6 signaling cascade and Dll1-dependent Notch signaling </plain></SENT>
+</text></document>

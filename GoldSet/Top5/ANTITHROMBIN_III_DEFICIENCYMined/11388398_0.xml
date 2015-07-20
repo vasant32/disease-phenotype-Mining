@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We report a patient with <z:hpo ids='HP_0002639'>Budd-Chiari syndrome</z:hpo> (BCS) and extrahepatic <z:e sem="disease" ids="C0265029" disease_type="Disease or Syndrome" abbrv="">portal obstruction</z:e> (EHO) associated with congenital antithrombin (AT) III deficiency </plain></SENT>
+<SENT sid="1" pm="."><plain>A 35-year-old man was admitted to Nishi Kobe Medical Center for evaluation of abnormal intrahepatic veins </plain></SENT>
+<SENT sid="2" pm="."><plain>By various imaging modalities, BCS and EHO were diagnosed </plain></SENT>
+<SENT sid="3" pm="."><plain>Laboratory data revealed parallel decreases in activity and antigen concentration of AT III despite <z:mpath ids='MPATH_458'>normal</z:mpath> liver function </plain></SENT>
+<SENT sid="4" pm="."><plain>Taken together, the etiology of both BCS and EHO was considered to be <z:mp ids='MP_0005048'>thrombosis</z:mp>, associated with congenital AT III deficiency </plain></SENT>
+<SENT sid="5" pm="."><plain>Two years after beginning <z:chebi fb="8" ids="10033">warfarin</z:chebi> therapy, the patient has no symptoms and his liver function remains <z:mpath ids='MPATH_458'>normal</z:mpath> </plain></SENT>
+<SENT sid="6" pm="."><plain><z:chebi fb="3" ids="50249">Anticoagulant</z:chebi> therapy is considered useful for preventing progression of the disease </plain></SENT>
+</text></document>

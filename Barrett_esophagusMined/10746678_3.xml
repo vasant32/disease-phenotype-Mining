@@ -1,0 +1,19 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A variety of prognostic markers have been related to decreased patient survival in patients with epithelial <z:e sem="disease" ids="C0006826" disease_type="Neoplastic Process" abbrv="">malignancies</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>These include expression of the homotypic <z:e sem="disease" ids="C0001511" disease_type="Disease or Syndrome;Acquired Abnormality" abbrv="">adhesion</z:e> molecule E-cadherin (ECAD) and the <z:chebi fb="1" ids="16336">hyaluronic acid</z:chebi> receptor CD44 </plain></SENT>
+<SENT sid="2" pm="."><plain>Expression of ECAD and CD44 was evaluated in Barrett's-associated <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> (BAd) from 67 patients </plain></SENT>
+<SENT sid="3" pm="."><plain>Expression was determined by immunoperoxidase staining and graded semiquantitatively based on the proportion of positively stained cells </plain></SENT>
+<SENT sid="4" pm="."><plain>These data were then correlated with clinical and pathological parameters, including the presence or absence of chemoradiotherapy (chemrad) and patient survival </plain></SENT>
+<SENT sid="5" pm="."><plain>There were 56 men and 11 women (mean age, 62 years) </plain></SENT>
+<SENT sid="6" pm="."><plain>Thirty-nine (58%) patients received preoperative chemrad </plain></SENT>
+<SENT sid="7" pm="."><plain>ECAD expression was detected in <z:hpo ids='HP_0000001'>all</z:hpo> (100%) <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumors</z:e> </plain></SENT>
+<SENT sid="8" pm="."><plain>The ECAD staining grade did not correlate with other pathological features of the <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumors</z:e> </plain></SENT>
+<SENT sid="9" pm="."><plain>However, ECAD staining was significantly increased in BAd of patients who received chemrad (P = .003), in comparison with those who did not, and in individual patients when prechemrad biopsies and postchemrad resection specimens were compared (P = .04) </plain></SENT>
+<SENT sid="10" pm="."><plain>In terms of prognosis, increased ECAD expression was associated with shortened patient survival only in BAd patients who had received chemrad (univariate analysis of chemrad patients with stage I and II BAd, P = .02) </plain></SENT>
+<SENT sid="11" pm="."><plain>ECAD expression was not significantly associated with survival in BAd patients who did not receive chemrad </plain></SENT>
+<SENT sid="12" pm="."><plain>CD44 expression was detected in 88% of cases </plain></SENT>
+<SENT sid="13" pm="."><plain>CD44 expression did not correlate with any of the pathological features of the <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumors</z:e> or with chemrad status </plain></SENT>
+<SENT sid="14" pm="."><plain>Increased expression of CD44 was significantly associated with shortened patient survival in chemrad patients only (univariate analysis P = .03, multivariate analysis P = .04), although a strong trend was observed when <z:hpo ids='HP_0000001'>all</z:hpo> patients were analyzed regardless of chemrad status (P = .07) </plain></SENT>
+<SENT sid="15" pm="."><plain>The results of this study indicate that chemrad alters the expression of ECAD in BAd </plain></SENT>
+<SENT sid="16" pm="."><plain>Thus, the prognostic utility of ECAD expression must be evaluated in the context of chemrad status </plain></SENT>
+<SENT sid="17" pm="."><plain>CD44 also may be a valuable prognostic marker in BAd </plain></SENT>
+</text></document>

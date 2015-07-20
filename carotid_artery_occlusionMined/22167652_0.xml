@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0011010'>Chronic</z:hpo> <z:e sem="disease" ids="C1695782" disease_type="Disease or Syndrome" abbrv="">cerebral hypoperfusion</z:e> contributes to a <z:hpo ids='HP_0001268'>cognitive decline</z:hpo> related to <z:e sem="disease" ids="C0006111" disease_type="Disease or Syndrome" abbrv="">brain disorders</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>Its experimental model in rats is a permanent bilateral common carotid <z:mp ids='MP_0006134'>artery occlusion</z:mp> (2VO) </plain></SENT>
+<SENT sid="2" pm="."><plain>Overstimulation of the glutamatergic system excitotoxicity due to brain energetic disturbance in 2VO animals seems to play a pivotal role as a mechanism of cerebral damage </plain></SENT>
+<SENT sid="3" pm="."><plain>The <z:chebi fb="0" ids="33838">nucleoside</z:chebi> <z:chebi fb="0" ids="16750">guanosine</z:chebi> (GUO) exerts extracellular effects including antagonism of glutamatergic activity </plain></SENT>
+<SENT sid="4" pm="."><plain>Accordingly, our group demonstrated several neuroprotective effects of GUO against glutamatergic excitotoxicity </plain></SENT>
+<SENT sid="5" pm="."><plain>Therefore, in this study, we evaluated a <z:hpo ids='HP_0011010'>chronic</z:hpo> GUO treatment effects in rats submitted to 2VO </plain></SENT>
+<SENT sid="6" pm="."><plain>We evaluated the animals performance in the <z:mp ids='MP_0001465'>Morris water maze</z:mp> and hippocampal damage by neurons and astrocytes immunohistochemistry </plain></SENT>
+<SENT sid="7" pm="."><plain>In addition, we investigated the cerebrospinal fluid (CSF) brain derived neurotrophic factor (BDNF) and serum S100B levels </plain></SENT>
+<SENT sid="8" pm="."><plain>Additionally, the <z:chebi fb="0" ids="35584">purine</z:chebi> CSF and plasma levels were determined </plain></SENT>
+<SENT sid="9" pm="."><plain>GUO treatment did not prevent the <z:hpo ids='HP_0100543'>cognitive impairment</z:hpo> promoted by 2VO </plain></SENT>
+<SENT sid="10" pm="."><plain>However, none of the 2VO animals treated with GUO showed differences in the hippocampal regions compared to control, while 20% of 2VO rats not treated with GUO presented loss of pyramidal neurons and increased glial labeling cells in CA1 hippocampal region </plain></SENT>
+<SENT sid="11" pm="."><plain>In addition, we did not observe differences in CSF BDNF nor serum S100B levels among the groups </plain></SENT>
+<SENT sid="12" pm="."><plain>Of note, both the 2VO surgery and GUO treatment changed the <z:chebi fb="0" ids="35584">purine</z:chebi> CSF and plasma profile </plain></SENT>
+<SENT sid="13" pm="."><plain>In conclusion, GUO treatment did not prevent the <z:hpo ids='HP_0100543'>cognitive impairment</z:hpo> observed in 2VO animals, but our data suggest that GUO could be neuroprotective against hippocampal damage induced by 2VO </plain></SENT>
+</text></document>

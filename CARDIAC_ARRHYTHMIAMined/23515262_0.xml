@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Background- <z:mp ids='MP_0004071'>Prolonged P-wave</z:mp> duration, indicating atrial conduction delay, is a potent precursor of <z:hpo ids='HP_0005110'>atrial fibrillation</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain><z:hpo ids='HP_0002870'>Obstructive sleep apnea</z:hpo> (OSA) is a risk factor for <z:hpo ids='HP_0005110'>atrial fibrillation</z:hpo> development </plain></SENT>
+<SENT sid="2" pm="."><plain>We investigated the association of P-wave duration with OSA and its treatment </plain></SENT>
+<SENT sid="3" pm="."><plain>Methods and Results- We enrolled 80 consecutive men with <z:mpath ids='MPATH_458'>normal</z:mpath> sinus rhythms who underwent polysomnography, had no history of <z:hpo ids='HP_0005110'>atrial fibrillation</z:hpo> or <z:e sem="disease" ids="C0151744" disease_type="Disease or Syndrome" abbrv="IHD">ischemic heart disease</z:e>, and no evidence of <z:hpo ids='HP_0001635'>heart failure</z:hpo> </plain></SENT>
+<SENT sid="4" pm="."><plain>Signal-averaged P-wave duration (SAPWD) was measured in <z:hpo ids='HP_0000001'>all</z:hpo> participants </plain></SENT>
+<SENT sid="5" pm="."><plain>Multivariable regression analysis showed that age, <z:hpo ids='HP_0000822'>hypertension</z:hpo>, and log-transformed <z:hpo ids='HP_0002104'>apnea</z:hpo>-<z:mp ids='MP_0001956'>hypopnea</z:mp> index were significantly and independently correlated with SAPWD </plain></SENT>
+<SENT sid="6" pm="."><plain>SAPWD was repeatedly measured after 1 month of continuous positive airway pressure (CPAP) therapy in 62 patients with moderate-to-severe OSA </plain></SENT>
+<SENT sid="7" pm="."><plain>As controls, 18 patients with moderate-to-severe OSA were enrolled </plain></SENT>
+<SENT sid="8" pm="."><plain>Their SAPWD was also measured at baseline and after 1 month without CPAP therapy </plain></SENT>
+<SENT sid="9" pm="."><plain>No significant change in SAPWD was found between baseline and after 1 month in the controls </plain></SENT>
+<SENT sid="10" pm="."><plain>However, SAPWD was significantly shortened after 1 month of CPAP therapy (from 137.5±8.6 to 129.7±8.5 ms; P&lt;0.001), and the SAPWD change was significantly different in patients with CPAP therapy compared with controls (P&lt;0.001) </plain></SENT>
+<SENT sid="11" pm="."><plain>In addition, the SAPWD change in patients with CPAP therapy correlated inversely with nightly CPAP usage (r=-0.52; P&lt;0.001) </plain></SENT>
+<SENT sid="12" pm="."><plain>Conclusions- OSA severity was significantly associated with prolonged SAPWD </plain></SENT>
+<SENT sid="13" pm="."><plain>CPAP therapy significantly shortened SAPWD in patients with moderate-to-severe OSA </plain></SENT>
+<SENT sid="14" pm="."><plain>Thus, OSA may cause atrial conduction disturbances, leading to an increased risk of <z:hpo ids='HP_0005110'>atrial fibrillation</z:hpo> development, which may be modifiable by alleviating OSA with CPAP therapy </plain></SENT>
+</text></document>

@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIMS: This study assessed the efficacy and safety of once-daily insulin initiation using insulin detemir (detemir) or insulin glargine (glargine) added to existing <z:chebi fb="0" ids="6801">metformin</z:chebi> in type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> (T2D) </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: This 26-week, multinational, randomized, treat-to-target trial involved 457 insulin-naïve adults with T2D (HbA1c 7-9%) </plain></SENT>
+<SENT sid="2" pm="."><plain>Detemir or glargine was added to current <z:chebi fb="0" ids="6801">metformin</z:chebi> therapy [any second oral <z:chebi fb="0" ids="35526">antidiabetic</z:chebi> drug (OAD) discontinued] and titrated to a target fasting plasma <z:chebi fb="105" ids="17234">glucose</z:chebi> (FPG) ≤90 mg/dl (≤5.0 mmol/l) </plain></SENT>
+<SENT sid="3" pm="."><plain>Primary efficacy endpoint was change in HbA1c </plain></SENT>
+<SENT sid="4" pm="."><plain>RESULTS: Mean (s.d.) HbA1c decreased with detemir and glargine by 0.48 and 0.74%-points, respectively, to 7.48% (0.91%) and 7.13% (0.72%) [estimated between-treatment difference, 0.30 (95% CI: 0.14-0.46)] </plain></SENT>
+<SENT sid="5" pm="."><plain>Non-inferiority for detemir at the a priori level of 0.4%-points was not established </plain></SENT>
+<SENT sid="6" pm="."><plain>The proportions of patients reaching HbA1c ≤ 7% at 26 weeks were 38% and 53% (p���= 0.026) with detemir and glargine, respectively </plain></SENT>
+<SENT sid="7" pm="."><plain>FPG decreased ∼43.2 mg/dl (∼2.4 mmol/l) in both groups [non-significant (NS)] </plain></SENT>
+<SENT sid="8" pm="."><plain>Treatment satisfaction was good for both insulins </plain></SENT>
+<SENT sid="9" pm="."><plain><z:e sem="disease" ids="C0020615" disease_type="Disease or Syndrome" abbrv="">Hypoglycaemia</z:e>, which occurred infrequently, was observed less with detemir than glargine [rate ratio 0.73 (95% CI 0.54-0.98)] </plain></SENT>
+<SENT sid="10" pm="."><plain>The proportions of patients reaching HbA1c ≤ 7% without <z:e sem="disease" ids="C0020615" disease_type="Disease or Syndrome" abbrv="">hypoglycaemia</z:e> in the detemir and glargine groups were 32% and 38% (NS), respectively </plain></SENT>
+<SENT sid="11" pm="."><plain>Weight decreased with detemir [-0.49 (3.3) kg] and increased with glargine [+1.0 (3.1) kg] (95% CI for difference: -2.17 to -0.89 kg) </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSION: While both detemir and glargine, when added to <z:chebi fb="0" ids="6801">metformin</z:chebi> therapy, improved glycaemic control, glargine resulted in greater reductions in HbA1c, while detemir demonstrated less <z:mp ids='MP_0005456'>weight gain</z:mp> and <z:e sem="disease" ids="C0020615" disease_type="Disease or Syndrome" abbrv="">hypoglycaemia</z:e> </plain></SENT>
+</text></document>

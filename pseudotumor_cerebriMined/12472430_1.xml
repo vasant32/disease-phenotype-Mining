@@ -1,0 +1,6 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 17-year-old Caucasian female patient, who had been prescribed <z:chebi fb="1" ids="50694">minocycline</z:chebi> for <z:hpo ids='HP_0001061'>acne</z:hpo> vulgaris, presented with postural visual obscurations </plain></SENT>
+<SENT sid="1" pm="."><plain>Ophthalmoscopic examination revealed <z:e sem="disease" ids="C0030353" disease_type="Disease or Syndrome" abbrv="">papilloedema</z:e> in each eye </plain></SENT>
+<SENT sid="2" pm="."><plain>Neuro-imaging of the brain and orbits was <z:mpath ids='MPATH_458'>normal</z:mpath> </plain></SENT>
+<SENT sid="3" pm="."><plain>A diagnosis of <z:chebi fb="1" ids="50694">minocycline</z:chebi> induced benign intracranial <z:hpo ids='HP_0000822'>hypertension</z:hpo> was made </plain></SENT>
+<SENT sid="4" pm="."><plain>Withdrawal of <z:chebi fb="1" ids="50694">minocycline</z:chebi> led to resolution of her symptoms and the <z:e sem="disease" ids="C0030353" disease_type="Disease or Syndrome" abbrv="">papilloedema</z:e> </plain></SENT>
+</text></document>

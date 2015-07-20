@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Allogeneic hematopoietic stem cell transplantation (allo-HSCT) is performed mainly in patients with high-risk or advanced <z:e sem="disease" ids="C0376545" disease_type="Neoplastic Process" abbrv="">hematologic malignancies</z:e> and congenital or acquired <z:hpo ids='HP_0001915'>aplastic anemias</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>In the context of the significant risk of graft failure after allo-HSCT from alternative donors and the risk of relapse in recipients transplanted for <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">malignancy</z:e>, the precise monitoring of posttransplant hematopoietic chimerism is of utmost interest </plain></SENT>
+<SENT sid="2" pm="."><plain>Useful molecular methods for chimerism quantification after allogeneic transplantation, aimed at distinguishing precisely between donor's and recipient's cells, are PCR-based analyses of polymorphic DNA markers </plain></SENT>
+<SENT sid="3" pm="."><plain>Such analyses can be performed regardless of donor's and recipient's sex </plain></SENT>
+<SENT sid="4" pm="."><plain>Additionally, in patients after sex-mismatched allo-HSCT, fluorescent in situ hybridization (FISH) can be applied </plain></SENT>
+<SENT sid="5" pm="."><plain>METHODS: We compared different techniques for analysis of posttransplant chimerism, namely FISH and PCR-based molecular methods with automated detection of fluorescent products in an ALFExpress DNA Sequencer (Pharmacia) or ABI 310 Genetic Analyzer (PE) </plain></SENT>
+<SENT sid="6" pm="."><plain>We used Spearman correlation test </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: We have found high correlation between results obtained from the PCR/ALF Express and PCR/ABI 310 Genetic Analyzer </plain></SENT>
+<SENT sid="8" pm="."><plain>Lower, but still positive correlations were found between results of FISH technique and results obtained using automated DNA sizing technology </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSIONS: <z:hpo ids='HP_0000001'>All</z:hpo> the methods applied enable a rapid and accurate detection of post-HSCT chimerism </plain></SENT>
+</text></document>

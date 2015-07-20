@@ -1,0 +1,18 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>An otherwise healthy 73-year-old female was admitted to our department in 1997 because of <z:hpo ids='HP_0000978'>easy bruising</z:hpo> and a platelet count of 12 x 10(9)/L </plain></SENT>
+<SENT sid="1" pm="."><plain>The patient was taking no medications </plain></SENT>
+<SENT sid="2" pm="."><plain>Bone marrow examination revealed <z:hpo ids='HP_0012132'>erythroid hyperplasia</z:hpo>, megakaryocytic <z:mpath ids='MPATH_133'>hypoplasia</z:mpath>, and no sign of <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">malignancy</z:e> </plain></SENT>
+<SENT sid="3" pm="."><plain>Chromosome analysis showed a <z:mpath ids='MPATH_458'>normal</z:mpath> karyotype </plain></SENT>
+<SENT sid="4" pm="."><plain>There was serological evidence of previous <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infection</z:e> with parvovirus B19 </plain></SENT>
+<SENT sid="5" pm="."><plain>No antibodies to HBV, HCV, CMV, or EBV were found </plain></SENT>
+<SENT sid="6" pm="."><plain>ANA and <z:chebi fb="0" ids="28494">cardiolipin</z:chebi> antibodies were not detected </plain></SENT>
+<SENT sid="7" pm="."><plain>Treatment with <z:chebi fb="2" ids="8378">prednisolone</z:chebi> was without effect, but 3 weeks after i.v </plain></SENT>
+<SENT sid="8" pm="."><plain>gamma-globulin therapy, the platelet count was <z:mpath ids='MPATH_458'>normal</z:mpath>, 233 x 10(9)/L </plain></SENT>
+<SENT sid="9" pm="."><plain>Two years later, the patient was readmitted with a platelet count of 11 x 10(9)/L </plain></SENT>
+<SENT sid="10" pm="."><plain>At this time, treatment with <z:chebi fb="0" ids="50858">corticosteroids</z:chebi>, <z:chebi fb="2" ids="2948">azathioprine</z:chebi>, and gamma-globulin had only a temporary effect, and further therapy was stopped because of side effects </plain></SENT>
+<SENT sid="11" pm="."><plain>During the next 3 years, the patient developed transfusion-dependent <z:hpo ids='HP_0001903'>anemia</z:hpo>, and her white blood cell count decreased to 1.8 x 10(9)/L </plain></SENT>
+<SENT sid="12" pm="."><plain>A new bone marrow examination showed <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> with bone marrow cellularity about 10% </plain></SENT>
+<SENT sid="13" pm="."><plain>After an <z:hpo ids='HP_0001342'>intracerebral hemorrhage</z:hpo>, the patient accepted treatment with rituximab and received 4 weekly doses of 375 mg/m2 </plain></SENT>
+<SENT sid="14" pm="."><plain>This therapy was followed by an increase in the platelet count to 232 x 10(9)/L, white blood cell count to 6.8 x 10(9)/L, and no more need for blood transfusions </plain></SENT>
+<SENT sid="15" pm="."><plain>A bone marrow examination 5 months after treatment with rituximab showed hyperplastic myelopoiesis, normoblastic erythropoiesis, and slightly reduced megakaryopoiesis </plain></SENT>
+<SENT sid="16" pm="."><plain>The use of anti-CD20 monoclonal antibody in <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> warrants further investigation </plain></SENT>
+</text></document>

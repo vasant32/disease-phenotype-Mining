@@ -1,0 +1,6 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Antiangiogenesis is an efficient therapy for eliminating <z:hpo ids='HP_0003003'>colon cancers</z:hpo>, but because of recurrence it remains only palliative </plain></SENT>
+<SENT sid="1" pm="."><plain>We hypothesized that certain populations of <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> cells resist antiangiogenesis-induced <z:mpath ids='MPATH_3'>apoptosis</z:mpath> and explored the underlying mechanism </plain></SENT>
+<SENT sid="2" pm="."><plain>We demonstrated that the CD133(+) population of cells in <z:hpo ids='HP_0003003'>colon cancer</z:hpo> is resistant to anti-<z:mpath ids='MPATH_177'>angiogenesis</z:mpath> therapy </plain></SENT>
+<SENT sid="3" pm="."><plain>Additionally, we identified an anti-apoptotic signaling pathway responsible for this resistance involving PP2A, p38MAPK, MAPKAPK2, and Hsp27 </plain></SENT>
+<SENT sid="4" pm="."><plain>Thus, this pathway may offer a new avenue to develop target therapy for <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> </plain></SENT>
+</text></document>

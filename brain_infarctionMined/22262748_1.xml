@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: Cerebral microbleeds are frequently found in the general elderly population and may reflect underlying <z:e sem="disease" ids="C0042373" disease_type="Disease or Syndrome" abbrv="">vascular disease</z:e>, but their role in cognitive function is unknown </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: We investigated the association between cerebral microbleeds and performance in multiple cognitive domains in 3,979 persons without <z:hpo ids='HP_0000726'>dementia</z:hpo> (mean age, 60.3 years) </plain></SENT>
+<SENT sid="2" pm="."><plain>Mini-Mental State Examination (MMSE) score and neuropsychological tests were used to assess global cognition and the following cognitive domains: memory, information processing speed, executive function, and motor speed </plain></SENT>
+<SENT sid="3" pm="."><plain>We used number of microbleeds as continuous variable, and additionally distinguished between persons with no microbleeds, 1 microbleed, 2-4 microbleeds, and ≥5 microbleeds </plain></SENT>
+<SENT sid="4" pm="."><plain>The association of microbleeds with different cognitive domains was estimated using linear regression models </plain></SENT>
+<SENT sid="5" pm="."><plain>Additional adjustments were made for vascular risk factors, brain <z:mpath ids='MPATH_127'>atrophy</z:mpath>, and other imaging markers of cerebral small vessel disease </plain></SENT>
+<SENT sid="6" pm="."><plain>We stratified analyses by location of microbleeds </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: A higher number of microbleeds was associated with lower MMSE score and worse performance on tests of information processing speed and motor speed </plain></SENT>
+<SENT sid="8" pm="."><plain>When analyzed per category, presence of 5 or more microbleeds was associated with worse performance in <z:hpo ids='HP_0000001'>all</z:hpo> cognitive domains, except memory </plain></SENT>
+<SENT sid="9" pm="."><plain>These associations were most robust in participants with strictly lobar microbleeds, whereas after additional adjustments associations disappeared for deep or infratentorial microbleeds </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSIONS: Presence of numerous microbleeds, especially in a strictly lobar location, is associated with worse performance on tests measuring cognitive function, even after adjustments for vascular risk factors and other imaging markers of small vessel disease </plain></SENT>
+<SENT sid="11" pm="."><plain>These results suggest an independent role for microbleed-associated vasculopathy in <z:hpo ids='HP_0100543'>cognitive impairment</z:hpo> </plain></SENT>
+</text></document>

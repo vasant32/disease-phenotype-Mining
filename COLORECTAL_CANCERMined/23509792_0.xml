@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>p55PIK, regulatory subunit of class IA phosphatidylinositol 3-kinase (PI3K), plays a crucial role in cell cycle progression by interaction with <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> repressor <z:hpo ids='HP_0009919'>retinoblastoma</z:hpo> (Rb) protein </plain></SENT>
+<SENT sid="1" pm="."><plain>A recent study showed that Rb protein can localize to the mitochondria in proliferative cells </plain></SENT>
+<SENT sid="2" pm="."><plain>Aberrant p55PIK expression may contribute to <z:hpo ids='HP_0001427'>mitochondrial</z:hpo> dysfunction in <z:e sem="disease" ids="C0178874" disease_type="Neoplastic Process" abbrv="">cancer progression</z:e> </plain></SENT>
+<SENT sid="3" pm="."><plain>To reveal the mechanisms of p55PIK transcriptional regulation, the p55PIK promoter characteristics were analyzed </plain></SENT>
+<SENT sid="4" pm="."><plain>The data show that myeloid zinc finger 1, MZF1, is necessary for p55PIK gene transcription activation </plain></SENT>
+<SENT sid="5" pm="."><plain>ChIP (Chromatin immuno-precipitation) assay shows that MZF1 binds to the cis-element "TGGGGA" in p55PIK promoter </plain></SENT>
+<SENT sid="6" pm="."><plain>In MZF1 overexpressed cells, the promoter activity, expression of p55PIK, and cell proliferation rate were observed to be significantly enhanced </plain></SENT>
+<SENT sid="7" pm="."><plain>Whereas in MZF1-silenced cells, the promoter activity and expression of p55PIK and cell proliferation level was statistically decreased </plain></SENT>
+<SENT sid="8" pm="."><plain>In <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e> tissues, MZF1 and p55PIK <z:chebi fb="2" ids="33699">mRNA</z:chebi> expression were increased (P = 0.046, P = 0.047, resp.) </plain></SENT>
+<SENT sid="9" pm="."><plain>A strong positive correlation (Rs = 0.94) between MZF1 and p55PIK <z:chebi fb="2" ids="33699">mRNA</z:chebi> expression was observed </plain></SENT>
+<SENT sid="10" pm="."><plain>Taken together, we concluded that p55PIK is transcriptionally activated by MZF1, resulting in increased proliferation of <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> cells </plain></SENT>
+</text></document>

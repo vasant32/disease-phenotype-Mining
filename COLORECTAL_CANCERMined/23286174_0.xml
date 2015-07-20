@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>In this study, we propose a computational diagnosis system for detecting the <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> from histopathological slices </plain></SENT>
+<SENT sid="1" pm="."><plain>The computational analysis was usually performed on patch level where only a small part of the slice is covered </plain></SENT>
+<SENT sid="2" pm="."><plain>However, slice-based classification is more realistic for histopathological diagnosis </plain></SENT>
+<SENT sid="3" pm="."><plain>The developed method combines both textural and structural features from patch images and proposes a two level classification scheme </plain></SENT>
+<SENT sid="4" pm="."><plain>In the first level, the patches in slices are classified into possible classes (adenomatous, inflamed, <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> and <z:mpath ids='MPATH_458'>normal</z:mpath>) and the distribution of the patches into these classes is considered as the information representing the slices </plain></SENT>
+<SENT sid="5" pm="."><plain>Then the slices are classified using a logistic linear classifier </plain></SENT>
+<SENT sid="6" pm="."><plain>In patch level, we obtain the correct classification accuracies of 94.36% and 96.34% for the <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> and <z:mpath ids='MPATH_458'>normal</z:mpath> classes, respectively </plain></SENT>
+<SENT sid="7" pm="."><plain>However, in slice level, the accuracies of the 79.17% and 92.68% are achieved for <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> and <z:mpath ids='MPATH_458'>normal</z:mpath> classes, respectively </plain></SENT>
+</text></document>

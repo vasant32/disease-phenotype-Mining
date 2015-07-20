@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Magnetic resonance (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e>) images of 20 patients with medullary infarction have been reviewed </plain></SENT>
+<SENT sid="1" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> patients were imaged on a 1.5 Tesla high-field scanner (GE, Signa) </plain></SENT>
+<SENT sid="2" pm="."><plain>Clinical diagnoses of these 20 patients were <z:e sem="disease" ids="C0043019" disease_type="Disease or Syndrome" abbrv="">Wallenberg's syndrome</z:e> (15), cerebellar <z:mpath ids='MPATH_124'>infarct</z:mpath> (3), right <z:hpo ids='HP_0001269'>hemiparesis</z:hpo> (1), and multiple cerebral <z:mpath ids='MPATH_124'>infarcts</z:mpath> (1) </plain></SENT>
+<SENT sid="3" pm="."><plain>Locations of <z:mpath ids='MPATH_124'>infarct</z:mpath> were right lateral (8), right postero-lateral (2), left lateral (5), left postero-lateral (4) and left anterior (1) </plain></SENT>
+<SENT sid="4" pm="."><plain>Associated ipsilateral cerebellar <z:mpath ids='MPATH_124'>infarcts</z:mpath> were observed in six patients </plain></SENT>
+<SENT sid="5" pm="."><plain>Ipsilateral vertebral artery (VA) occlusions were detected in six patients, and VA <z:hpo ids='HP_0002617'>aneurysm</z:hpo> in two </plain></SENT>
+<SENT sid="6" pm="."><plain>Thus, <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e> imaging is a pertinent diagnostic modality for evaluating medullary infarction and associated <z:e sem="disease" ids="C0042373" disease_type="Disease or Syndrome" abbrv="">vascular diseases</z:e> </plain></SENT>
+</text></document>

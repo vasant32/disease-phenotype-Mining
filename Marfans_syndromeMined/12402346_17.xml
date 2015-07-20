@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Mutations in the gene encoding fibrillin-1 (FBN1) cause <z:e sem="disease" ids="C0024796" disease_type="Disease or Syndrome" abbrv="MFS|MFS1">Marfan syndrome</z:e> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MFS</z:e>) and other related <z:e sem="disease" ids="C0009782" disease_type="Disease or Syndrome" abbrv="">connective tissue disorders</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>In this study we performed SSCP to analyze <z:hpo ids='HP_0000001'>all</z:hpo> 65 exons of the FBN1 gene in 76 patients presenting with classical <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MFS</z:e> or related phenotypes </plain></SENT>
+<SENT sid="2" pm="."><plain>We report 7 missense mutations, 3 splice site alterations, one indel mutation, one nonsense mutation and two mutations causing frameshifts: a 16bp deletion and a single nucleotide insertion </plain></SENT>
+<SENT sid="3" pm="."><plain>5 of the missense mutations (Y1101C, C1806Y, T1908I, G1919D, C2251R) occur in calcium-binding Epidermal Growth Factor-like (EGFcb) domains of exons 26, 43, 46 and 55, respectively </plain></SENT>
+<SENT sid="4" pm="."><plain>One missense mutation (V449I) substitutes a <z:chebi fb="0" ids="32861">valine residue</z:chebi> in the non-calcium-binding epidermal growth factor like domain (EGFncb) of exon 11 </plain></SENT>
+<SENT sid="5" pm="."><plain>One missense mutation (G880S) affects the "hybrid" motif in exon 21 by replacing glycine to serine </plain></SENT>
+<SENT sid="6" pm="."><plain>The 3 splice site mutations detected are: IVS1-1G&gt;A in intron 1, IVS38-1G&gt;A in intron 38 and IVS46+5G&gt;A in intron 46 </plain></SENT>
+<SENT sid="7" pm="."><plain>C628delinsK was identified in exon 15 leading to the substitution of a conserved <z:chebi fb="0" ids="32460">cysteine residue</z:chebi> </plain></SENT>
+<SENT sid="8" pm="."><plain>Furthermore two frameshift mutations were found in exon 15 (1904-1919del ) and exon 63 (8025insC) leading to premature termination codons (PTCs) in exon 17 and 64 respectively </plain></SENT>
+<SENT sid="9" pm="."><plain>Finally we identified a nonsense mutation (R429X) located in the proline rich domain in exon 10 of the FBN1 gene </plain></SENT>
+<SENT sid="10" pm="."><plain>Y1101C, IVS46+5G&gt;A and R429X have been reported before </plain></SENT>
+</text></document>

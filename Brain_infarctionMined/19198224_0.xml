@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 31-year-oldman presented with a 6-month history of right testicular enlargement </plain></SENT>
+<SENT sid="1" pm="."><plain>The patient underwent a right inguinal orchiectomy </plain></SENT>
+<SENT sid="2" pm="."><plain>Histopathological examination showed nonseminomatous <z:mpath ids='MPATH_310'>germ cell tumor</z:mpath> (<z:hpo ids='HP_0100768'>choriocarcinoma</z:hpo>&gt;<z:mpath ids='MPATH_317'>seminoma</z:mpath>) which was confined to the tunica albuginea </plain></SENT>
+<SENT sid="3" pm="."><plain>The postoperative serum level of alpha-fetoprotein (AFP) and <z:chebi fb="4" ids="24996">lactate</z:chebi> dehydrogenase were <z:mpath ids='MPATH_458'>normal</z:mpath> </plain></SENT>
+<SENT sid="4" pm="."><plain>Serum level of human chorionic gonadotrophin(HCG), however, was 23,000 mIU/ml (<z:mpath ids='MPATH_458'>normal</z:mpath>, &lt; 0.7 mIU/ml) </plain></SENT>
+<SENT sid="5" pm="."><plain>A thoracic computed tomography (CT) at that time showed bilateral and multiple <z:e sem="disease" ids="C0027627" disease_type="Neoplastic Process" abbrv="mets">metastases</z:e> to the lungs but the abdominal CT was <z:mpath ids='MPATH_458'>normal</z:mpath> </plain></SENT>
+<SENT sid="6" pm="."><plain>After the surgery, the patient was treated with conventional doses of <z:chebi fb="2" ids="27899">cisplatin</z:chebi>, <z:chebi fb="0" ids="4911">etoposide</z:chebi>, and <z:chebi fb="0" ids="3139">bleomycin</z:chebi> </plain></SENT>
+<SENT sid="7" pm="."><plain>On day 11 of the second chemotherapy course, the patient developed <z:hpo ids='HP_0001289'>confusion</z:hpo> and right sided <z:mp ids='MP_0000746'>weakness</z:mp> </plain></SENT>
+<SENT sid="8" pm="."><plain>Brain magnetic resonance imaging (MRI) showed an ischemic lesion in the left middle cerebral artery area </plain></SENT>
+<SENT sid="9" pm="."><plain>An echocardiogram showed <z:mpath ids='MPATH_458'>normal</z:mpath> left ventricular function and no valvular vegetations </plain></SENT>
+<SENT sid="10" pm="."><plain>Finally, the patient completed one additional course of chemotherapy with considerable measures to prevent side effects </plain></SENT>
+<SENT sid="11" pm="."><plain>A thoracic CT at the end of the third cycle showed no evidence of <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> </plain></SENT>
+<SENT sid="12" pm="."><plain>At 3 months followup after chemotherapy, he suffered from partial <z:hpo ids='HP_0003470'>paralysis</z:hpo> of right-sided upper and lower limbs but due to intensive rehabilitation he overcame the <z:hpo ids='HP_0003470'>paralysis</z:hpo> and is able to walk by himself </plain></SENT>
+<SENT sid="13" pm="."><plain>There was no evidence of <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> recurrence </plain></SENT>
+</text></document>

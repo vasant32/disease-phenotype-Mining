@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: Patients with the <z:hpo ids='HP_0003613'>antiphospholipid antibody</z:hpo> syndrome (APS) often experience recurrent arterial and <z:hpo ids='HP_0004936'>venous thrombosis</z:hpo> and pregnancy losses </plain></SENT>
+<SENT sid="1" pm="."><plain>Intravenous immunoglobulin (IVIG) therapy has prevented pregnancy loss in some women with APS and has reversed <z:e sem="disease" ids="C0015951" disease_type="Disease or Syndrome" abbrv="">fetal resorption</z:e> rates in murine models of pregnancy loss </plain></SENT>
+<SENT sid="2" pm="."><plain>Although the basis for these effects is unknown, effector mechanisms of pathogenic antibodies often involve receptors for IgG (Fc gamma receptors [Fc gammaR]) </plain></SENT>
+<SENT sid="3" pm="."><plain>We examined the potential mechanisms of action of WIG in an in vivo murine model of <z:hpo ids='HP_0003613'>antiphospholipid antibody</z:hpo> (aPL)-induced <z:mp ids='MP_0005048'>thrombosis</z:mp> and endothelial cell activation </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS: Mice infused with IgG containing human anticardiolipin antibodies (aCL) were treated with IVIG (36 microg i.v.), saline, or ovalbumin </plain></SENT>
+<SENT sid="5" pm="."><plain>Surgically induced <z:e sem="disease" ids="C0302148,C0087086" disease_type="Disease or Syndrome;Acquired Abnormality" abbrv="">thrombus</z:e> formation and in vivo leukocyte <z:e sem="disease" ids="C0001511" disease_type="Disease or Syndrome;Acquired Abnormality" abbrv="">adhesion</z:e> to endothelial cells were measured </plain></SENT>
+<SENT sid="6" pm="."><plain>Circulating levels of aCL were measured by enzyme-linked immunosorbent assay </plain></SENT>
+<SENT sid="7" pm="."><plain>To determine whether Fc gammaR are required for the effects of IVIG, we treated mice deficient in stimulatory Fc gammaR </plain></SENT>
+<SENT sid="8" pm="."><plain>To examine the effects of IVIG on endogenously generated antibody, we treated mice immunized with beta2-<z:chebi fb="2" ids="17089">glycoprotein</z:chebi> I (beta2GPI) </plain></SENT>
+<SENT sid="9" pm="."><plain>RESULTS: IVIG treatment inhibited aPL-induced endothelial cell activation and enhancement of <z:mp ids='MP_0005048'>thrombosis</z:mp> in mice passively infused with human aPL-containing IgG, and this was associated with a decrease in aPL levels </plain></SENT>
+<SENT sid="10" pm="."><plain>Similarly, IVIG lowered aPL levels and inhibited thrombogenesis in mice immunized with beta2GPI </plain></SENT>
+<SENT sid="11" pm="."><plain>The thrombophilic effects of aPL were evident in Fc gammaR-deficient mice </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSION: Treatment with IVIG inhibits the thrombogenic effects of aPL in vivo and reduces the levels of aCL in the circulation </plain></SENT>
+<SENT sid="13" pm="."><plain>Blockade of stimulatory Fc gammaR on inflammatory cells is not necessary for this effect </plain></SENT>
+<SENT sid="14" pm="."><plain>The mechanism of action of IVIG is more likely saturation of the IgG transport receptor, leading to accelerated catabolism of pathogenic aPL </plain></SENT>
+<SENT sid="15" pm="."><plain>These results have implications in the management of <z:mp ids='MP_0005048'>thrombosis</z:mp> in APS and may have applications for pregnant patients with a history of APS </plain></SENT>
+</text></document>

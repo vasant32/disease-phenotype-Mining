@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A t(14;18) chromosomal translocation is found in approximately 85% of follicular <z:hpo ids='HP_0002665'>lymphomas</z:hpo> by both cytogenetic and molecular analyses </plain></SENT>
+<SENT sid="1" pm="."><plain>This rearrangement deregulates expression of the bcl-2 proto-oncogene by translocation into the immuno-globulin heavy chain locus and is probably mediated by illegitimate V(D)J recombination </plain></SENT>
+<SENT sid="2" pm="."><plain>We have developed a quantitative nested PCR method for detecting this event in lymphocytes of healthy individuals </plain></SENT>
+<SENT sid="3" pm="."><plain>Genomic DNA is purified from peripheral blood lymphocytes, and 2.5 microg (representing 4 X 10(5) cells) are amplified with translocation-specific primers under conditions in which a single copy, if present, will give a detectable PCR product </plain></SENT>
+<SENT sid="4" pm="."><plain>Multiple replicates are analyzed for each individual, and Poisson statistics are then used to estimate the translocation mutant frequency </plain></SENT>
+<SENT sid="5" pm="."><plain>We have examined lymphocyte DNA from 34 healthy individuals by this assay and found the frequency of cells with t(14;18) to range from &lt;0.8-96X10(-7) </plain></SENT>
+<SENT sid="6" pm="."><plain>The molecular nature of the translocations has been investigated by determining the DNA sequence at the translocation junctions </plain></SENT>
+<SENT sid="7" pm="."><plain>In several individuals, multiple isolates of the same translocation event were recovered, indicating that the cell with the original translocation had undergone clonal expansion </plain></SENT>
+<SENT sid="8" pm="."><plain>In addition, multiple independent translocations were shown to occur within an individual </plain></SENT>
+<SENT sid="9" pm="."><plain>Since this translocation appears to be one step in the progression of a <z:mpath ids='MPATH_458'>normal</z:mpath> cell to a <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> cell, this assay may have utility as an effects biomarker for environmental carcinogen exposure </plain></SENT>
+</text></document>

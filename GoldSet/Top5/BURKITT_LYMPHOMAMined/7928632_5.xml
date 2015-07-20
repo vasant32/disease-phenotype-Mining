@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Natural killer cell stimulatory factor (NKSF/IL-12) has been found to induce cytotoxic activity of human blood T cells </plain></SENT>
+<SENT sid="1" pm="."><plain>In the present study, the effect of NKSF on induction of cytotoxic CD8+ T cells in the presence or absence of monocytes was examined </plain></SENT>
+<SENT sid="2" pm="."><plain>Highly purified lymphocytes (&gt; 99%) and monocytes (&gt; 90%) were isolated by centrifugal elutriation from peripheral blood of <z:mpath ids='MPATH_458'>normal</z:mpath> donors </plain></SENT>
+<SENT sid="3" pm="."><plain>Then, CD8+ cells were isolated with antibody-bound magnetic beads from purified lymphocytes </plain></SENT>
+<SENT sid="4" pm="."><plain>The cytotoxicity of CD8+ cells was measured by <z:chebi fb="0" ids="50076">51Cr</z:chebi> release assay for 4 h </plain></SENT>
+<SENT sid="5" pm="."><plain>NKSF enhanced the proliferative response of CD8+ cells stimulated with suboptimal concentrations of interleukin-2 (IL-2), but rather inhibited their proliferative and cytotoxic responses on stimulation with an optimal concentration of IL-2 </plain></SENT>
+<SENT sid="6" pm="."><plain>NKSF stimulated CD8+ cells to produce interferon gamma (IFN gamma) irrespective of the presence of added IL-2, and this effect was augmented by co-cultivation with monocytes </plain></SENT>
+<SENT sid="7" pm="."><plain>Blood monocytes upregulated induction of cytotoxic CD8+ cells stimulated with NKSF alone, and this effect was abolished by addition of antibody against IFN gamma, but not of antibody against <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> <z:mp ids='MP_0001651'>necrosis</z:mp> factor alpha </plain></SENT>
+<SENT sid="8" pm="."><plain>Induction of NKSF-inducible cytotoxic CD8+ cells was inhibited by addition of transforming growth factor beta, but not of IL-4 </plain></SENT>
+<SENT sid="9" pm="."><plain>These observations suggest that in situ induction of NKSF-stimulated cytotoxic CD8+ cells may be regulated by complex cytokine networks, depending on the participation of monocytes </plain></SENT>
+</text></document>

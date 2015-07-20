@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVES: recently, a new algorithm for transcranial Doppler (TCD) ultrasound detection of microembolic signals (<z:chebi fb="28" ids="39005,39010">MES</z:chebi>) was developed </plain></SENT>
+<SENT sid="1" pm="."><plain>In the present study, we investigated its on-line performance in TCD monitoring after carotid endarterectomy (CEA) and assessed off-line its accuracy in detecting <z:chebi fb="28" ids="39005,39010">MES</z:chebi> </plain></SENT>
+<SENT sid="2" pm="."><plain>MATERIALS AND METHODS: first, the feasibility of <z:chebi fb="28" ids="39005,39010">MES</z:chebi> detection in TCD monitoring after CEA in a routine clinical setting was evaluated in 50 patients </plain></SENT>
+<SENT sid="3" pm="."><plain>Second, to test the reliability of the software a 2-h digital audio study tape was made and analysed by the algorithm and five human experts </plain></SENT>
+<SENT sid="4" pm="."><plain>The "gold standard" was defined as the agreement between human experts: a <z:chebi fb="28" ids="39005,39010">MES</z:chebi> was considered to be present if at least three human observers agreed </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: TCD monitoring for emboli detection after CEA was well tolerated by the patients and could be performed reliably </plain></SENT>
+<SENT sid="6" pm="."><plain>In the study tape, the human gold standard detected 107 MES, with 93 MES having an intensity of &gt; or =7 dB </plain></SENT>
+<SENT sid="7" pm="."><plain>The software detected 81 and 77 MES, respectively </plain></SENT>
+<SENT sid="8" pm="."><plain>Using the 7 dB intensity threshold, the software had no false positives and 16 false negatives </plain></SENT>
+<SENT sid="9" pm="."><plain>The kappa value between the human gold standard and the software was 0.91, the proportion of specific agreement was 0.83 </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSIONS: the tested algorithm provides a reliable method for automated on-line microemboli detection after CEA </plain></SENT>
+<SENT sid="11" pm="."><plain>This makes monitoring of the effectiveness of antiplatelet agents in the prevention of <z:hpo ids='HP_0001297'>stroke</z:hpo> after CEA more practicable </plain></SENT>
+</text></document>

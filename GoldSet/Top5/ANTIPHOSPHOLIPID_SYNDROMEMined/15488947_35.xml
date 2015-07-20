@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Studies in gene-targeted mice have demonstrated that factor B of the alternative complement pathway plays an important role in several <z:e sem="disease" ids="C0684309" disease_type="Experimental Model of Disease" abbrv="">disease models</z:e>, but an exogenous inhibitor of factor B has not previously been available </plain></SENT>
+<SENT sid="1" pm="."><plain>We have developed an inhibitory monoclonal antibody directed against a critical <z:chebi fb="0" ids="53000">epitope</z:chebi> on mouse factor B and have tested it in a model of antiphospholipid (aPL) antibody (Ab)-induced fetal loss </plain></SENT>
+<SENT sid="2" pm="."><plain>Gene-targeted factor B-deficient mice (fB-/-) were injected with a fusion protein comprised of the second and third short consensus repeat (SCR) domains of mouse factor B linked to a mouse IgG1 Fc domain </plain></SENT>
+<SENT sid="3" pm="."><plain>Hybridomas were made from splenocytes of the immunized mouse </plain></SENT>
+<SENT sid="4" pm="."><plain>One mAb, designated 1379, produced an IgG1 antibody that inhibited alternative pathway activation in vitro and in vivo by preventing formation of the C3bBb complex </plain></SENT>
+<SENT sid="5" pm="."><plain>Strikingly, this mAb inhibited alternative pathway activation in serum from mice, rats, humans, monkeys, pigs and horses </plain></SENT>
+<SENT sid="6" pm="."><plain>Fab fragments made from this mAb also inhibited alternative pathway activation </plain></SENT>
+<SENT sid="7" pm="."><plain><z:chebi fb="0" ids="53000">Epitope</z:chebi> mapping demonstrated that this antibody binds to factor B within the third SCR domain </plain></SENT>
+<SENT sid="8" pm="."><plain>When mAb 1379 was administered to mice that also received human IgG containing <z:hpo ids='HP_0003613'>antiphospholipid antibodies</z:hpo>, it provided significant protection from <z:hpo ids='HP_0003613'>antiphospholipid antibody</z:hpo>-induced complement activation and fetal loss </plain></SENT>
+<SENT sid="9" pm="."><plain>Thus, this mAb to factor B has broad species reactivity and effectively inhibits alternative pathway activation </plain></SENT>
+<SENT sid="10" pm="."><plain>The mAb protects mice in an in vivo model of <z:hpo ids='HP_0003613'>antiphospholipid antibody</z:hpo> syndrome, demonstrating the therapeutic potential for the inhibition of factor B in this disease </plain></SENT>
+</text></document>

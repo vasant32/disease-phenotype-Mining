@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Beta-asarone has significant pharmacological effects on the central <z:mp ids='MP_0008912'>nervous</z:mp> system </plain></SENT>
+<SENT sid="1" pm="."><plain>It can attenuate neuronal <z:mpath ids='MPATH_3'>apoptosis</z:mpath>, but its effects on the <z:e sem="disease" ids="C0007786" disease_type="Disease or Syndrome" abbrv="">brain ischemia</z:e>-reperfusion-induced autophagy have not been reported yet </plain></SENT>
+<SENT sid="2" pm="."><plain>Our study was a two-stage procedure: evaluation of β-asarone effects on the autophagy at first, and then analysis of the possible mechanism </plain></SENT>
+<SENT sid="3" pm="."><plain>The middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (MCAO) model was adopted to make the brain injure and Beclin 1 was used to evaluate the autophagy </plain></SENT>
+<SENT sid="4" pm="."><plain>We hypothesized that the mechanism might be related to c-Jun N-terminal kinases (JNK), phospho-JNK (p-JNK), Bcl-2 and Beclin 1 </plain></SENT>
+<SENT sid="5" pm="."><plain>To test this hypothesis, we evaluated JNK, p-JNK, Bcl-2 and Beclin 1 levels with flow cytometry </plain></SENT>
+<SENT sid="6" pm="."><plain>Additionally, we divided the brain into three regions: ischemic region, ischemic penumbra, and <z:mpath ids='MPATH_458'>normal</z:mpath> region, and analyzed them respectively </plain></SENT>
+<SENT sid="7" pm="."><plain>We found, compared to both groups II (model control) and III (low dose), Beclin 1 levels in groups IV (medium dose) and V (high dose) were significantly decreased </plain></SENT>
+<SENT sid="8" pm="."><plain>Beclin 1, JNK and p-JNK levels in groups VII (β-asarone) and VIII (JNK inhibitor) were significantly decreased, but Bcl-2 levels were significantly increased </plain></SENT>
+<SENT sid="9" pm="."><plain>Additionally, Beclin 1, JNK, p-JNK and Bcl-2 levels among the three regions had no significant differences </plain></SENT>
+<SENT sid="10" pm="."><plain>We conclude that β-asarone can attenuate the autophagy in a dose-dependent manner </plain></SENT>
+<SENT sid="11" pm="."><plain>The mechanism is likely that β-asarone can decrease JNK and p-JNK levels at first, and then increase Bcl-2 level, finally interfere with the functions of Beclin 1 during the execution of autophagy </plain></SENT>
+<SENT sid="12" pm="."><plain>Additionally, β-asarone can attenuate autophagy in a widespread manner </plain></SENT>
+</text></document>

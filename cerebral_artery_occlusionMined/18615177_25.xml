@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Endocannabinoids are released following brain injury and may protect against excitotoxic damage during the <z:hpo ids='HP_0011009'>acute</z:hpo> stage of injury </plain></SENT>
+<SENT sid="1" pm="."><plain>Brain injury also activates microglia in a secondary inflammatory phase of more widespread damage </plain></SENT>
+<SENT sid="2" pm="."><plain>Most drugs targeting the <z:hpo ids='HP_0011009'>acute</z:hpo> stage are not effective if administered more than 6 hours after injury </plain></SENT>
+<SENT sid="3" pm="."><plain>Therefore, drugs targeting microglia later in the neurodegenerative cascade are desirable </plain></SENT>
+<SENT sid="4" pm="."><plain>We have found that cannabinoid CB2 receptors are up-regulated during the activation of microglia following brain injury </plain></SENT>
+<SENT sid="5" pm="."><plain>Specifically, CB2-positive cells appear in the rat brain following both <z:mp ids='MP_0005039'>hypoxia</z:mp>-<z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> (HI) and middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (MCAO) </plain></SENT>
+<SENT sid="6" pm="."><plain>This may regulate post-injury microglial activation and inflammatory functions </plain></SENT>
+<SENT sid="7" pm="."><plain>In this paper we review in vivo and in vitro studies of CB2 receptors in microglia, including our results on CB2 expression post-injury </plain></SENT>
+<SENT sid="8" pm="."><plain>Taken together, studies show that CB2 is up-regulated during a process in which microglia become primed to proliferate, and then become fully reactive </plain></SENT>
+<SENT sid="9" pm="."><plain>In addition, CB2 activation appears to prevent or decrease microglial activation </plain></SENT>
+<SENT sid="10" pm="."><plain>In a <z:e sem="disease" ids="C1519106" disease_type="Experimental Model of Disease" abbrv="">rodent model</z:e> of <z:e sem="disease" ids="C0002395" disease_type="Disease or Syndrome" abbrv="SDAT">Alzheimer's disease</z:e> microglial activation was completely prevented by administration of a selective CB2 <z:chebi fb="4" ids="48705">agonist</z:chebi> </plain></SENT>
+<SENT sid="11" pm="."><plain>The presence of CB2 receptors in microglia in the human Alzheimer's diseased brain suggests that CB2 may provide a novel target for a range of neuropathologies </plain></SENT>
+<SENT sid="12" pm="."><plain>We conclude that the administration of CB2 <z:chebi fb="4" ids="48705">agonists</z:chebi> and <z:chebi fb="68" ids="48706">antagonists</z:chebi> may differentially alter microglia-dependent neuroinflammation </plain></SENT>
+<SENT sid="13" pm="."><plain>CB2 specific compounds have considerable therapeutic appeal over CB1 compounds, as the exclusive expression of CB2 on immune cells within the brain provides a highly specialised target, without the psychoactivity that <z:e sem="disease" ids="C0032064" disease_type="Disease or Syndrome" abbrv="">plagues</z:e> CB1 directed therapies </plain></SENT>
+</text></document>

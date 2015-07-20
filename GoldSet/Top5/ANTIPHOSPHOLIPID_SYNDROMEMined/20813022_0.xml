@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>INTRODUCTION: The laboratory criteria of the <z:e sem="disease" ids="C0085278" disease_type="Disease or Syndrome" abbrv="">antiphospholipid syndrome</z:e> (APS) include <z:e sem="disease" ids="C0024138,C0024141,C0024131,C0409974" disease_type="Disease or Syndrome" abbrv="">lupus</z:e> <z:chebi fb="3" ids="50249">anticoagulant</z:chebi> (LAC), anticardiolipin antibodies (aCL) and anti-β2glycoprotein I antibodies (aβ2GPI) IgG or IgM </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: We evaluated three commercial ELISAs for aCL and aβ2GPI IgG and IgM: Asserachrom® ('Stago'), Bio-Rad ('BR') and the Bindazyme™ (the Binding Site, 'BS') </plain></SENT>
+<SENT sid="2" pm="."><plain>RESULTS: Results of <z:hpo ids='HP_0000001'>all</z:hpo> assays and of LAC were correlated with the clinical background (n=228) </plain></SENT>
+<SENT sid="3" pm="."><plain>Sensitivity for Stago/BS/BR aCL IgG was 14%/15%/18%, for aCL IgM 1%/5%/4%, for aβ2GPI IgG 9%/10%/17% and for aβ2GPI IgM 4%/4%/3% </plain></SENT>
+<SENT sid="4" pm="."><plain>The specificity for Stago/BS/BR for <z:hpo ids='HP_0000001'>all</z:hpo> assays ranged from 86% to 98% </plain></SENT>
+<SENT sid="5" pm="."><plain>The positive predictive value (<z:chebi fb="0" ids="53261">PPV</z:chebi>) for Stago/BS/BR aCL IgG was 46%/52%/40%, for aCL IgM 8%/36%/19%, for aβ2GPI IgG 70%/67%/45% and for aβ2GPI IgM 23%/23%/20% </plain></SENT>
+<SENT sid="6" pm="."><plain>Combining LAC with aCL and aβ2GPI antibodies increased the sensitivity (Stago/BS/BR IgG: 26%/27%/31%, IgM: 22%/21%/26%) and <z:chebi fb="0" ids="53261">PPV</z:chebi> (Stago/BS/BR IgG: 41%/46%/36%, IgM: 34%/40%/36%) </plain></SENT>
+<SENT sid="7" pm="."><plain>Comparing the diagnostic power of the tests, only Stago/BS aβ2GPI IgG had a Chi-square P-value lower than 0.05 </plain></SENT>
+<SENT sid="8" pm="."><plain>The combination of LAC and IgG ELISAs of BS resulted in the lowest P-value (0.098) compared to the other combinations </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSION: <z:hpo ids='HP_0000001'>All</z:hpo> evaluated ELISAs are a practical tool in the laboratory diagnosis of APS </plain></SENT>
+<SENT sid="10" pm="."><plain>The diagnostic performance shows slight differences between the ELISAs from the different manufacturers </plain></SENT>
+</text></document>

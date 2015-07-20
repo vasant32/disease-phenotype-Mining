@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND PURPOSE: Recent studies have shown the antiapoptotic neuroprotective effects of lecithinized <z:chebi fb="1" ids="18421">superoxide</z:chebi> dismutase (PC-SOD) in different forms of brain injury </plain></SENT>
+<SENT sid="1" pm="."><plain>We tested the effects of PC-SOD in focal <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> in the rat middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> model (MCAO) </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: Adult male Sprague-Dawley rats were treated with PC-SOD (0.3, 1.0, and 3.0 mg/kg) administered intravenously after 90 minutes of occlusion (beginning of reperfusion) </plain></SENT>
+<SENT sid="3" pm="."><plain>Physiological parameters, neurological score, and <z:mpath ids='MPATH_124'>infarct</z:mpath> volume were assessed at 24 and 72 hours in 3 groups of animals: sham-operated (n=18), MCAO treated with vehicle (n=26), and MCAO treated with PC-SOD (n=37) </plain></SENT>
+<SENT sid="4" pm="."><plain><z:mp ids='MP_0003674'>Oxidative stress</z:mp> was evaluated by malondialdehyde assay, and the apoptotic mechanisms were studied by Western blotting </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: PC-SOD treatment significantly reduced <z:mpath ids='MPATH_124'>infarct</z:mpath> volume and improved neurological scores at different time points compared with the vehicle-treated group </plain></SENT>
+<SENT sid="6" pm="."><plain>PC-SOD treatment decreased malondialdehyde levels, <z:chebi fb="1" ids="18070">cytochrome c</z:chebi>, and cleaved caspase 3 expression and increased <z:hpo ids='HP_0001427'>mitochondrial</z:hpo> Bcl-2 expression </plain></SENT>
+<SENT sid="7" pm="."><plain>CONCLUSIONS: Inhibition of <z:mp ids='MP_0003674'>oxidative stress</z:mp> with PC-SOD treatment improves outcomes after focal <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> </plain></SENT>
+<SENT sid="8" pm="."><plain>This neuroprotective effect is likely exerted by antiapoptotic mechanisms </plain></SENT>
+</text></document>

@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: To compare the effects of opioid and non-opioid sedation on gastric emptying </plain></SENT>
+<SENT sid="1" pm="."><plain>DESIGN: Prospective, randomized trial </plain></SENT>
+<SENT sid="2" pm="."><plain>SETTING: University teaching hospital ICU </plain></SENT>
+<SENT sid="3" pm="."><plain>PATIENTS: 21 brain injured patients requiring sedation, mechanical ventilation and intracranial pressure (ICP) monitoring for &gt; 24 h </plain></SENT>
+<SENT sid="4" pm="."><plain>INTERVENTIONS: Patients were randomized to receive infusions of either <z:chebi fb="71" ids="17303">morphine</z:chebi> plus midazolam (M), or <z:chebi fb="3" ids="44915">propofol</z:chebi> (P) </plain></SENT>
+<SENT sid="5" pm="."><plain>Gastric emptying was assessed by the <z:chebi fb="58" ids="46195">paracetamol</z:chebi> absorption technique and by residual volumes following a 200 ml test feed </plain></SENT>
+<SENT sid="6" pm="."><plain>MEASUREMENTS AND RESULTS: Pre-sedation Glasgow <z:hpo ids='HP_0001259'>Coma</z:hpo> Score, mean ICP and the presence of bowel sounds were noted </plain></SENT>
+<SENT sid="7" pm="."><plain>Plasma concentrations of <z:chebi fb="58" ids="46195">paracetamol</z:chebi> were measured over 3 h following a 1 g gastric dose </plain></SENT>
+<SENT sid="8" pm="."><plain>There were no differences in median peak <z:chebi fb="58" ids="46195">paracetamol</z:chebi> concentration (M, 18.5 versus P, 20.8 mg/l), median time to peak concentration (M, 20 versus P, 25 min), median area under the concentration-time curve (AUC), or in the median residual volumes at 1 h (M, 14 versus P, 10.5 ml) and 2 h (M, 5 versus P, 3 ml) </plain></SENT>
+<SENT sid="9" pm="."><plain>In patients with ICP &gt; 20 mmHg, <z:chebi fb="58" ids="46195">paracetamol</z:chebi> concentrations were lower (p &lt; 0.05), and AUC after 30 min was lower (165 mg.min/l versus 411 mg.min/l, p = 0.023) </plain></SENT>
+<SENT sid="10" pm="."><plain>Mean ICP was correlated with AUC (Kendall rank p = 0.027) </plain></SENT>
+<SENT sid="11" pm="."><plain>Gastric emptying did not correlate with initial Glasgow <z:hpo ids='HP_0001259'>Coma</z:hpo> Score or presence of bowel sounds </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: Gastric emptying is not improved in patients with brain injury by avoiding <z:chebi fb="71" ids="17303">morphine</z:chebi> (1-8 mg/h) in the sedative regimen </plain></SENT>
+<SENT sid="13" pm="."><plain>Intracranial <z:hpo ids='HP_0000822'>hypertension</z:hpo> is associated with reduced gastric emptying </plain></SENT>
+</text></document>

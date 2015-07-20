@@ -1,0 +1,7 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Severe <z:hpo ids='HP_0001907'>thromboembolism</z:hpo> occurred in 3 of 37 patients who had undergone Fontan-type operations for correction of <z:hpo ids='HP_0002564'>congenital heart defects</z:hpo> several months to years after the operation </plain></SENT>
+<SENT sid="1" pm="."><plain>The patients were screened for coagulation factor abnormalities to find out whether known prothrombotic risk factors could explain the high frequency of <z:hpo ids='HP_0001907'>thromboembolism</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>63 abnormalities were found in 24 of the 37 patients </plain></SENT>
+<SENT sid="3" pm="."><plain>The commonest and most pronounced abnormality was deficiency of protein C, a known risk factor </plain></SENT>
+<SENT sid="4" pm="."><plain>Concentrations of antithrombin III and factors II and X were significantly lower in protein-C-deficient patients than in those with <z:mpath ids='MPATH_458'>normal</z:mpath> protein C concentrations </plain></SENT>
+<SENT sid="5" pm="."><plain>These findings suggest that the high thrombotic risk in these patients is caused or at least associated with an imbalance between procoagulant and <z:chebi fb="3" ids="50249">anticoagulant</z:chebi> factors </plain></SENT>
+</text></document>

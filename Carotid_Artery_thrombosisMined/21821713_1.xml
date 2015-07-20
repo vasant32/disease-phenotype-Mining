@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The Akt family of serine/threonine kinases includes Akt1, Akt2, and Akt3 isoforms </plain></SENT>
+<SENT sid="1" pm="."><plain>Prior studies have reported that Akt1 and Akt2, but not Akt3, are expressed in platelets </plain></SENT>
+<SENT sid="2" pm="."><plain>Here, we show that Akt3 is expressed in substantial amounts in platelets </plain></SENT>
+<SENT sid="3" pm="."><plain>Akt3(-/-) mouse platelets selectively exhibit <z:hpo ids='HP_0003540'>impaired platelet aggregation</z:hpo> and secretion in response to low concentrations of thrombin receptor <z:chebi fb="4" ids="48705">agonists</z:chebi> and <z:chebi fb="0" ids="26995">thromboxane</z:chebi> A₂ (<z:chebi fb="0" ids="36088">TXA</z:chebi>₂), but not collagen or VWF </plain></SENT>
+<SENT sid="4" pm="."><plain>In contrast, platelets from Akt1(-/-) or Akt2(-/-) mice are defective in platelet activation induced by thrombin, <z:chebi fb="0" ids="36088">TXA</z:chebi>₂, and VWF, but only Akt1(-/-) platelets show significant defects in response to collagen, indicating differences among Akt isoforms </plain></SENT>
+<SENT sid="5" pm="."><plain>Akt3(-/-) platelets exhibit a significant reduction in thrombin-induced phosphorylation of <z:chebi fb="15" ids="28087">glycogen</z:chebi> synthase kinase 3β (GSK-3β) at Ser9, which is known to inhibit GSK-3β function </plain></SENT>
+<SENT sid="6" pm="."><plain>Thus, Akt3 is important in inhibiting GSK-3β </plain></SENT>
+<SENT sid="7" pm="."><plain>Accordingly, treatment of Akt3(-/-) platelets with a GSK-3β inhibitor rescued the defect of Akt3(-/-) platelets in thrombin-induced aggregation, suggesting that negatively regulating GSK-3β may be a mechanism by which Akt3 promotes platelet activation </plain></SENT>
+<SENT sid="8" pm="."><plain>Importantly, Akt3(-/-) mice showed retardation in FeCl₃-induced carotid artery <z:mp ids='MP_0005048'>thrombosis</z:mp> in vivo </plain></SENT>
+<SENT sid="9" pm="."><plain>Thus, Akt3 plays an important and distinct role in platelet activation and in <z:mp ids='MP_0005048'>thrombosis</z:mp> </plain></SENT>
+</text></document>

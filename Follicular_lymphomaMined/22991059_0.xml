@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Maintenance therapy with rituximab for follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (FL) responding to induction at the first-line, significantly increases progression-free survival compared with observation </plain></SENT>
+<SENT sid="1" pm="."><plain>To estimate the efficiency of this therapeutic option, we performed a cost-effectiveness analysis of maintenance therapy of the follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (FL) that responds to induction in first line, with rituximab, compared with the option of "watch and wait" strategy </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: We did a Markov model of the FL, with four health states (progression free survival in first or second line, progression and <z:hpo ids='HP_0011420'>death</z:hpo>) </plain></SENT>
+<SENT sid="3" pm="."><plain>The transition probabilities between states were obtained from clinical trials PRIMA and EORTC 20981 </plain></SENT>
+<SENT sid="4" pm="."><plain>Health state utilities were obtained from literature </plain></SENT>
+<SENT sid="5" pm="."><plain>The use of health resources, from the perspective of the National Health System was estimated by a panel of Spanish clinical experts </plain></SENT>
+<SENT sid="6" pm="."><plain>Unit costs (euros in 2011) were obtained from Spanish sources </plain></SENT>
+<SENT sid="7" pm="."><plain>Deterministic and probabilistic analyses were made </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: In the deterministic base case analysis, for a time horizon of 30 years, the cost per life year gained (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">LYG</z:e>) and quality-adjusted life-years (QALYs) gained, was euros 5,663 and euros 6,253 respectively </plain></SENT>
+<SENT sid="9" pm="."><plain>The sensitivity analyses confirmed the stability of the base case for time horizons of 10 and 20 years and various statistical distributions (Weibull, exponential, log-logistic, log-<z:mpath ids='MPATH_458'>normal</z:mpath>, Gompertz, and gamma) ranging between euros 4,222 and euros 8,766 </plain></SENT>
+<SENT sid="10" pm="."><plain>Rituximab maintenance is cost-effective from a time horizon of 5.7 years (cost per QALY gained of euros 29,998) </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSION: Compared with observation, rituximab maintenance treatment of the FL that responds to induction therapy in first line, is cost-effective according to the present model </plain></SENT>
+</text></document>

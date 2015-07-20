@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:mp ids='MP_0005048'>Thrombosis</z:mp> is initiated by tissue factor (TF), a coagulation cofactor/receptor expressed in the vessel wall, on myeloid cells, and on microparticles (MPs) with variable procoagulant activity </plain></SENT>
+<SENT sid="1" pm="."><plain>However, the molecular pathways that generate prothrombotic TF in vivo are poorly defined </plain></SENT>
+<SENT sid="2" pm="."><plain>The oxidoreductase <z:chebi fb="0" ids="16249">protein disulfide</z:chebi> isomerase (PDI) is thought to be involved in the activation of TF </plain></SENT>
+<SENT sid="3" pm="."><plain>Here, we found that in mouse myeloid cells, ATP-triggered signaling through purinergic receptor P2X, ligand-gated ion channel, 7 (P2X7 receptor; encoded by P2rx7) induced activation (decryption) of TF procoagulant activity and promoted release of TF+ MPs from macrophages and SMCs </plain></SENT>
+<SENT sid="4" pm="."><plain>The generation of prothrombotic MPs required P2X7 receptor-dependent production of ROS leading to increased availability of solvent-accessible extracellular <z:chebi fb="0" ids="29256">thiols</z:chebi> </plain></SENT>
+<SENT sid="5" pm="."><plain>An antibody to PDI with antithrombotic activity in vivo attenuated the release of procoagulant MPs </plain></SENT>
+<SENT sid="6" pm="."><plain>In addition, P2rx7-/- mice were protected from TF-dependent <z:chebi fb="0" ids="30808">FeCl3</z:chebi>-induced carotid artery <z:mp ids='MP_0005048'>thrombosis</z:mp> </plain></SENT>
+<SENT sid="7" pm="."><plain>BM chimeras revealed that P2X7 receptor prothrombotic function was present in both hematopoietic and vessel wall compartments </plain></SENT>
+<SENT sid="8" pm="."><plain>In contrast, an alternative anti-PDI antibody showed activities consistent with cellular activation typically induced by P2X7 receptor signaling </plain></SENT>
+<SENT sid="9" pm="."><plain>This anti-PDI antibody restored TF-dependent <z:mp ids='MP_0005048'>thrombosis</z:mp> in P2rx7-/- mice </plain></SENT>
+<SENT sid="10" pm="."><plain>These data suggest that PDI regulates a critical P2X7 receptor-dependent signaling pathway that generates prothrombotic TF, defining a link between <z:mp ids='MP_0001845'>inflammation</z:mp> and <z:mp ids='MP_0005048'>thrombosis</z:mp> with potential implications for antithrombotic therapy </plain></SENT>
+</text></document>

@@ -1,0 +1,4 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>In vivo experiments in dogs demonstrated angiographically that the subarachnoid injection of blood produced cerebral arterial apasm both immediately after the injection of blood and 2 days later </plain></SENT>
+<SENT sid="1" pm="."><plain>The sublingual adminstration of <z:chebi fb="1" ids="7565">nifedipine</z:chebi> reversed both the <z:hpo ids='HP_0011009'>acute</z:hpo> and the delayed <z:e sem="disease" ids="C0265110" disease_type="Disease or Syndrome" abbrv="">cerebral arterial spasm</z:e> </plain></SENT>
+<SENT sid="2" pm="."><plain>In addition, sublingual administration of <z:chebi fb="1" ids="7565">nifedipine</z:chebi> 20 minutes before the subarachnoid injection of blood prevented the <z:hpo ids='HP_0011009'>acute</z:hpo> spasm </plain></SENT>
+</text></document>

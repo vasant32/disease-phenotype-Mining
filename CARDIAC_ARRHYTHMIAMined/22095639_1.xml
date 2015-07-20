@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: The AV delay optimization of biventricular pacemakers (cardiac resynchronization therapy) may maximize hemodynamic benefit but consumes specialist time to conduct echocardiographically </plain></SENT>
+<SENT sid="1" pm="."><plain>Noninvasive BP monitoring is a potentially automatable alternative, but it is unknown whether it gives the same information and similar precision (signal/noise ratio) </plain></SENT>
+<SENT sid="2" pm="."><plain>Moreover, the immediate BP increment on optimization has been reported to decay away: it is unclear whether this is the result of an (undesirable) decrease in <z:hpo ids='HP_0001297'>stroke</z:hpo> volume or a (desirable) compensatory relief of peripheral vasoconstriction </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS AND RESULTS: To discriminate between these alternative mechanisms, we measured simultaneous beat-to-beat <z:hpo ids='HP_0001297'>stroke</z:hpo> volume (flow) using Doppler echocardiography, and BP using finger photoplethysmography, during and after AV delay changes from 40 to 120 ms in 19 subjects with cardiac pacemakers </plain></SENT>
+<SENT sid="4" pm="."><plain>BP and <z:hpo ids='HP_0001297'>stroke</z:hpo> volume both increased immediately (P&lt;0.001, within 1 heartbeat) </plain></SENT>
+<SENT sid="5" pm="."><plain>BP showed a clear decline a few seconds later (average rate, -0.65 mm Hg/beat; r=0.95 [95% CI, 0.86-0.98]); in contrast, <z:hpo ids='HP_0001297'>stroke</z:hpo> volume did not decline (P=0.87) </plain></SENT>
+<SENT sid="6" pm="."><plain>The immediate BP increment correlated strongly with the <z:hpo ids='HP_0001297'>stroke</z:hpo> volume increment (r=0.74, P&lt;0.001) </plain></SENT>
+<SENT sid="7" pm="."><plain>The signal/noise ratio was 3-fold better for BP than <z:hpo ids='HP_0001297'>stroke</z:hpo> volume (6.8±3.5 versus 2.3±1.4; P&lt;0.001) </plain></SENT>
+<SENT sid="8" pm="."><plain>CONCLUSIONS: Improving AV delay immediately increases BP, but the effect begins to decay within a few seconds </plain></SENT>
+<SENT sid="9" pm="."><plain>Reassuringly, this is because of compensatory vasodilatation rather than reduction in cardiac function </plain></SENT>
+<SENT sid="10" pm="."><plain>Pacemaker optimization will never be reliable unless there is an adequate signal/noise ratio </plain></SENT>
+<SENT sid="11" pm="."><plain>Using BP rather than Doppler minimizes noise </plain></SENT>
+<SENT sid="12" pm="."><plain>The early phase (before vascular compensation) has the richest signal lode </plain></SENT>
+</text></document>

@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVES: A 69 yr old male was referred for assessment of a very low plasma <z:chebi fb="4" ids="47775">HDL cholesterol</z:chebi> and <z:chebi fb="0" ids="39015">apolipoprotein</z:chebi> AI concentration </plain></SENT>
+<SENT sid="1" pm="."><plain>At age 65, he had undergone triple vessel coronary bypass graft surgery </plain></SENT>
+<SENT sid="2" pm="."><plain>He had a strong family history of early <z:e sem="disease" ids="C0010068" disease_type="Disease or Syndrome" abbrv="">coronary heart disease</z:e> </plain></SENT>
+<SENT sid="3" pm="."><plain>We analyzed the molecular basis of his clinical and biochemical abnormalities </plain></SENT>
+<SENT sid="4" pm="."><plain>DESIGN AND METHODS: We used DNA sequencing to determine whether mutations in LCAT were present </plain></SENT>
+<SENT sid="5" pm="."><plain>We also evaluated plasma biochemistry and LCAT activity </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: DNA sequencing revealed that the patient was a heterozygote for the G30S mutation in the gene encoding lecithin:cholesteol acyl transferase (LCAT) </plain></SENT>
+<SENT sid="7" pm="."><plain>His plasma was found to have half-<z:mpath ids='MPATH_458'>normal</z:mpath> LCAT activity </plain></SENT>
+<SENT sid="8" pm="."><plain>CONCLUSIONS: The findings in this patient suggest that rare dysfunctional mutations in candidate genes, such as LCAT, can contribute to the spectrum of patients ascertained because of <z:hpo ids='HP_0003233'>low HDL cholesterol</z:hpo> </plain></SENT>
+</text></document>

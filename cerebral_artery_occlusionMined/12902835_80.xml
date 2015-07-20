@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Diffuse optical tomography (DOT) is an attractive approach for evaluating <z:hpo ids='HP_0001297'>stroke</z:hpo> <z:mp ids='MP_0001532'>physiology</z:mp> </plain></SENT>
+<SENT sid="1" pm="."><plain>It provides hemodynamic and metabolic imaging with unique potential for continuous noninvasive bedside imaging in humans </plain></SENT>
+<SENT sid="2" pm="."><plain>To date there have been few quantitative spatial-temporal studies of <z:hpo ids='HP_0001297'>stroke</z:hpo> pathophysiology based on diffuse optical signatures </plain></SENT>
+<SENT sid="3" pm="."><plain>The authors report DOT images of hemodynamic and metabolic contrasts using a rat middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (MCAO) <z:hpo ids='HP_0001297'>stroke</z:hpo> model </plain></SENT>
+<SENT sid="4" pm="."><plain>This study used a novel DOT device that concurrently obtains coregistered images of relative cerebral blood volume (rCBV), tissue-averaged <z:chebi fb="0" ids="35143">hemoglobin</z:chebi> oxygen saturation (Sto(2)), and relative cerebral blood flow (rCBF) </plain></SENT>
+<SENT sid="5" pm="."><plain>The authors demonstrate how these hemodynamic measures can be synthesized to calculate an index of the oxygen extraction fraction (OEF) and the cerebral metabolic rate of oxygen consumption (CMRo(2)) </plain></SENT>
+<SENT sid="6" pm="."><plain>Temporary (60-minute) MCAO was performed on five rats </plain></SENT>
+<SENT sid="7" pm="."><plain>Ischemic changes, averaged over the 60 minutes of occlusion, were as follows: rCBF = 0.42 +/- 0.04, rCBV = 1.02 +/- 0.04, DeltaSto(2) = -11 +/- 2%, rOEF = 1.39 +/- 0.06 and rCMRo(2) = 0.59 +/- 0.07 </plain></SENT>
+<SENT sid="8" pm="."><plain>Although rOEF increased in response to decreased blood flow, rCMRo(2) decreased </plain></SENT>
+<SENT sid="9" pm="."><plain>The sensitivity of this method of DOT analysis is discussed in terms of assumptions about baseline <z:mp ids='MP_0001532'>physiology</z:mp>, and the diffuse optical results are compared with <z:chebi fb="4" ids="30225">positron</z:chebi> emission tomography, magnetic resonance imaging, and histology observations in the literature </plain></SENT>
+</text></document>

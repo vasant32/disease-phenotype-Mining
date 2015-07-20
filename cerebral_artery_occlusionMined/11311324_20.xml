@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:e sem="disease" ids="C0007786" disease_type="Disease or Syndrome" abbrv="">Brain ischemia</z:e> is characterized by local <z:mp ids='MP_0001845'>inflammation</z:mp> reflected by accumulation of inflammatory cells and a multitude of mediators </plain></SENT>
+<SENT sid="1" pm="."><plain>Among them, cytokines and chemokines may influence the inflammatory cascade that follows <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>Here we report on brain hemispheric and systemic increase of pro-inflammatory IL-17 and IFN-gamma, the anti-inflammatory cytokines IL-4 and IL-10, and the chemokines IP-10, IL-8 and MIP-2, 1 h to 6 days after permanent middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (pMCAO) </plain></SENT>
+<SENT sid="3" pm="."><plain>IL-17 and IFN-gamma <z:chebi fb="2" ids="33699">mRNA</z:chebi> levels were elevated in the ischemic hemispheres of pMCAO-operated rats compared with corresponding hemispheres of sham-operated rats </plain></SENT>
+<SENT sid="4" pm="."><plain>Levels were slightly elevated at 1 h, and peaked at 6 days after pMCAO </plain></SENT>
+<SENT sid="5" pm="."><plain>IL-8 and MIP-2 levels in the ischemic hemispheres peaked at 24 h, whereas IP-10 showed a biphasic profile with two peaks at 6 h and 6 days after pMCAO </plain></SENT>
+<SENT sid="6" pm="."><plain>IL-4 peaked in the ischemic hemispheres at 6 h, when IL-10 levels were lower than in sham-operated rats, and IL-10 levels peaked at 2 days after pMCAO </plain></SENT>
+<SENT sid="7" pm="."><plain>Systemically, the numbers of IL-17 and IFN-gamma <z:chebi fb="2" ids="33699">mRNA</z:chebi> expressing blood mononuclear cells were elevated already at 1 h after pMCAO, preceding the changes in the ischemic hemispheres </plain></SENT>
+<SENT sid="8" pm="."><plain>Altered levels of IL-17 and IFN-gamma after pMCAO may affect outcome of <z:e sem="disease" ids="C0007786" disease_type="Disease or Syndrome" abbrv="">brain ischemia</z:e> </plain></SENT>
+</text></document>

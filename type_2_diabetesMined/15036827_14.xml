@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The purpose of this study is to examine the association between <z:hpo ids='HP_0001645'>sudden cardiac death</z:hpo> (SCD) and heart rate variability (HRV) in subjects with and without type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> and to determine whether low HRV can predict SCD in type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="1" pm="."><plain>Subjects were 8917 consecutively examined persons (3089 diabetic, and 5828 nondiabetic subjects) aged 35-69 years who underwent a 75 g oral <z:chebi fb="105" ids="17234">glucose</z:chebi> tolerance test (OGTT) together with electrocardiography (ECG) </plain></SENT>
+<SENT sid="2" pm="."><plain>HRV was calculated from the 12-lead ECG as the coefficient of variance for 100 R-R intervals (CV(R-R)) </plain></SENT>
+<SENT sid="3" pm="."><plain>During a median observation period of 5.2 years, SCD occurred in 56 subjects (33 diabetic, and 23 nondiabetic) </plain></SENT>
+<SENT sid="4" pm="."><plain>Among diabetic subjects, mortality from SCD tended to be higher in subjects with a low CV(R-R) (P=0.004) </plain></SENT>
+<SENT sid="5" pm="."><plain>After adjustment for age, gender, systolic blood pressure, total cholesterol (TC), <z:chebi fb="4" ids="17855">triglycerides</z:chebi> (TG), BMI, ischemic ECG change, and smoking history, relative risk (RR) of SCD was 2.07 (95% CI 1.02-4.17) in diabetic subjects with a CV(R-R) &lt;2.2% compared with those with a CV(R-R) &gt; or =2.2% </plain></SENT>
+<SENT sid="6" pm="."><plain>Diabetic subjects with a CV(R-R) &lt;2.2% had significantly higher cumulative mortality from SCD than those with a CV(R-R) &gt; or =2.2% (P=0.007) </plain></SENT>
+<SENT sid="7" pm="."><plain>In type 2 <z:mp ids='MP_0002055'>diabetes</z:mp>, a low CV(R-R) carried an increased risk of SCD </plain></SENT>
+</text></document>

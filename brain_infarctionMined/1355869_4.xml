@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Spontaneous magnetic slow wave brain activity can be used to locate the underlying sources with sufficient accuracy by using the single current dipole model </plain></SENT>
+<SENT sid="1" pm="."><plain>To locate focal sources from spontaneous activity a tool had to be developed to extract focal densities of dipoles across time-the dipole density plot </plain></SENT>
+<SENT sid="2" pm="."><plain>The first version works on discrete volume units and is used for screening </plain></SENT>
+<SENT sid="3" pm="."><plain>The second version avoids a possible localization error and works continuously and this even is done on individual slices </plain></SENT>
+<SENT sid="4" pm="."><plain>The DDP seems to be a valuable tool for extracting and separating different focal sources from the background activity </plain></SENT>
+<SENT sid="5" pm="."><plain>Not only <z:e sem="disease" ids="C0751955" disease_type="Disease or Syndrome" abbrv="">brain infarctions</z:e> and haemorrhages (and <z:mpath ids='MPATH_62'>cysts</z:mpath> and <z:mp ids='MP_0002947'>angiomas</z:mp>) could be located, but also functional sources associated with <z:hpo ids='HP_0002326'>TIAs</z:hpo> even one week after the symptoms </plain></SENT>
+<SENT sid="6" pm="."><plain>First results let us assume that clinically silent <z:hpo ids='HP_0002326'>TIAs</z:hpo> also (in analogy to clinically silent <z:e sem="disease" ids="C0751955" disease_type="Disease or Syndrome" abbrv="">brain infarctions</z:e>) could be detected and located </plain></SENT>
+</text></document>

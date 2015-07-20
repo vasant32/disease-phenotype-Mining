@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Familial Mediterranean <z:hpo ids='HP_0001945'>fever</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">FMF</z:e>) is associated with mutations in the gene coding for pyrin which lead to accentuated innate immune responses resulting in increased production of IL-1 </plain></SENT>
+<SENT sid="1" pm="."><plain>We present a teenager who had severe <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">FMF</z:e> and <z:chebi fb="6" ids="22696">Beh</z:chebi>çet's disease and developed moderate <z:hpo ids='HP_0000093'>proteinuria</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>Renal biopsy showed secondary <z:hpo ids='HP_0011034'>amyloidosis</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>Anakinra was started at 1 mg/kg/day subcutaneously along with <z:chebi fb="0" ids="23359">colchicine</z:chebi> treatment </plain></SENT>
+<SENT sid="4" pm="."><plain>The clinical response was excellent </plain></SENT>
+<SENT sid="5" pm="."><plain><z:hpo ids='HP_0011009'>Acute</z:hpo> phase reactants decreased </plain></SENT>
+<SENT sid="6" pm="."><plain>The level of <z:hpo ids='HP_0000093'>proteinuria</z:hpo> and renal functions remained stable and the <z:hpo ids='HP_0003073'>hypoalbuminemia</z:hpo> returned to <z:mpath ids='MPATH_458'>normal</z:mpath> </plain></SENT>
+<SENT sid="7" pm="."><plain>Her clinical and laboratory symptoms returned when anakinra had to be stopped at 6 months </plain></SENT>
+<SENT sid="8" pm="."><plain>Thus, the drug was restarted and she is now clinically in excellent condition a year after the start of therapy </plain></SENT>
+<SENT sid="9" pm="."><plain>She has <z:mpath ids='MPATH_458'>normal</z:mpath> renal functions, <z:mpath ids='MPATH_458'>normal</z:mpath> serum proteins, and <z:mpath ids='MPATH_458'>normal</z:mpath> <z:hpo ids='HP_0011009'>acute</z:hpo>-phase reactants </plain></SENT>
+<SENT sid="10" pm="."><plain>However, recently, after 18 months of anakinra treatment, her <z:hpo ids='HP_0000093'>proteinuria</z:hpo> gradually increased and albumin levels decreased </plain></SENT>
+<SENT sid="11" pm="."><plain>We suggest that anti-IL-1 treatment is beneficial for the suppression of <z:mp ids='MP_0001845'>inflammation</z:mp>; however, long-term studies are needed to understand whether progressive <z:e sem="disease" ids="C0022658" disease_type="Disease or Syndrome" abbrv="">renal disease</z:e> will be prevented </plain></SENT>
+</text></document>

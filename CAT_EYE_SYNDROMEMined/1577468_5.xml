@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:mp ids='MP_0002538'>DiGeorge syndrome</z:mp> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">DGS</z:e>) is a human developmental defect of the structures derived from the third and fourth pharyngeal pouches </plain></SENT>
+<SENT sid="1" pm="."><plain>It apparently arises due to deletion of 22q11 </plain></SENT>
+<SENT sid="2" pm="."><plain>We describe a strategy for the isolation of DNA probes for this region </plain></SENT>
+<SENT sid="3" pm="."><plain>A deleted chromosome 22, which includes 22q11, was flow-sorted from a lymphoblastoid cell line of a patient with <z:e sem="disease" ids="C0265493" disease_type="Disease or Syndrome" abbrv="CES">cat eye syndrome</z:e> and used as the source of DNA </plain></SENT>
+<SENT sid="4" pm="."><plain>A DNA library was constructed from this chromosome by cloning into the EcoR1 site of the vector Lambda gt10 </plain></SENT>
+<SENT sid="5" pm="."><plain>Inserts were amplified by PCR and mapped using a somatic cell hybrid panel of this region </plain></SENT>
+<SENT sid="6" pm="."><plain>Out of 32 probes, 14 were mapped to 22q11 </plain></SENT>
+<SENT sid="7" pm="."><plain>These probes were further sublocalised within the region by dosage analysis of <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">DGS</z:e> patients, and by the use of two new hybrid cell lines which we have produced from <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">DGS</z:e> patients </plain></SENT>
+<SENT sid="8" pm="."><plain>One of these lines (7939B662) contains the altered human chromosome segregated from its <z:mpath ids='MPATH_458'>normal</z:mpath> homologue </plain></SENT>
+<SENT sid="9" pm="."><plain>This chromosome 22 contains an interstitial deletion in 22q11, and will be useful for localising further probes to the <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">DGS</z:e> region </plain></SENT>
+</text></document>

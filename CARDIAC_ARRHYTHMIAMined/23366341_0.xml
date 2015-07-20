@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Most countries face high and increasing rates of <z:e sem="disease" ids="C0007222" disease_type="Disease or Syndrome" abbrv="CVD">cardiovascular disease</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>Each year, <z:e sem="disease" ids="C0018799" disease_type="Disease or Syndrome" abbrv="">heart disease</z:e> kills more Americans than <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> </plain></SENT>
+<SENT sid="2" pm="."><plain>Therefore, there has been a promising market for portable ECG equipment and it is increasing </plain></SENT>
+<SENT sid="3" pm="."><plain>To use portable ECG measuring devices, it is essential to define a suitable location for the measuring as we need to reduced electrode size and distance </plain></SENT>
+<SENT sid="4" pm="."><plain>This research proposes to study how the inter-electrode distance affects the signal and how the electrode pair should be placed on the chest in order to obtain a sufficiently reliable ECG signal to detect heart <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> in any environment, such as home or work </plain></SENT>
+<SENT sid="5" pm="."><plain>Therefore, we developed a compact, portable patch type ambulatory ECG monitoring system, Heart Tracker, using a microprocessor for preliminary study of signal analysis </plain></SENT>
+<SENT sid="6" pm="."><plain>To optimize the electrode arrangement in wireless environment, we compared HT and standard 12 lead with changing electrode position </plain></SENT>
+</text></document>

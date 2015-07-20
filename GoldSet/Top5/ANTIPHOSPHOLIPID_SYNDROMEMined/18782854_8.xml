@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVES: To describe how certain peripheral immune parameters reflect the inflammatory alterations in patients with primary APS </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: Twenty-eight patients with newly diagnosed primary APS were studied </plain></SENT>
+<SENT sid="2" pm="."><plain>The control group included 26 patients with stable <z:hpo ids='HP_0001677'>coronary disease</z:hpo> and 38 healthy individuals </plain></SENT>
+<SENT sid="3" pm="."><plain>Peripheral blood lymphocyte subgroups were quantified, intracellular cytokines were measured by flow cytometry, soluble cytokines and auto-antibodies were assessed using ELISA </plain></SENT>
+<SENT sid="4" pm="."><plain><z:e sem="disease" ids="C0856169" disease_type="Disease or Syndrome" abbrv="">Endothelial dysfunction</z:e> was evaluated by measuring endothelium-dependent (flow-mediated; FMD) vasodilation </plain></SENT>
+<SENT sid="5" pm="."><plain>Carotid duplex ultrasound was performed to quantify the carotid artery intima-media thickness (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">IMT</z:e>) </plain></SENT>
+<SENT sid="6" pm="."><plain>Stiffness parameters, augmentation index (AIx) and pulse wave velocity (PWV) were assessed by TensioClinic technology </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: Serum IL-4 and IL-6 levels were significantly higher in APS </plain></SENT>
+<SENT sid="8" pm="."><plain>CD4+IL10+ and CD8+IL10+ cell percentages in APS were significantly increased compared with controls </plain></SENT>
+<SENT sid="9" pm="."><plain>Th 0 and T cytotoxic 0 cell percentages were significantly decreased in patients compared with controls </plain></SENT>
+<SENT sid="10" pm="."><plain>FMD in APS was significantly lower, while <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">IMT</z:e> was higher than that of controls </plain></SENT>
+<SENT sid="11" pm="."><plain>FMD showed strong association with stiffness parameters, AIx and PWV </plain></SENT>
+<SENT sid="12" pm="."><plain>A significant negative linear correlation was detected between PWV and CD8+IL10+ cell percentages and significant positive linear correlation was found between PWV and CD8+IL10- cell percentage </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSION: In APS, the orchestrated pro-inflammatory cascade can eventually result in <z:e sem="disease" ids="C0856169" disease_type="Disease or Syndrome" abbrv="">endothelial dysfunction</z:e>, leading to the characteristic <z:hpo ids='HP_0002597'>vascular abnormalities</z:hpo> of the disease </plain></SENT>
+</text></document>

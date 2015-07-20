@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: Polymorphisms in the human TCF7L2 gene are associated with <z:mp ids='MP_0003059'>reduced insulin secretion</z:mp> and an increased risk of type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="1" pm="."><plain>However, the mechanisms by which TCF7L2 affect insulin secretion are still unclear </plain></SENT>
+<SENT sid="2" pm="."><plain>We define the effects of TCF7L2 expression level on mature beta-cell function and suggest a potential mechanism for its actions </plain></SENT>
+<SENT sid="3" pm="."><plain>RESEARCH DESIGN AND METHODS: TCF7L2 expression in rodent islets and beta-cell lines was altered using RNAi or adenoviral transduction </plain></SENT>
+<SENT sid="4" pm="."><plain>Beta-cell gene profiles were measured by quantitative real-time PCR and the effects on intracellular signaling and exocytosis by live cell imaging, electron microscopy, and patch clamp electrophysiology </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: Reducing TCF7L2 expression levels by RNAi decreased <z:chebi fb="105" ids="17234">glucose</z:chebi>- but not <z:chebi fb="0" ids="32588">KCl</z:chebi>-induced insulin secretion </plain></SENT>
+<SENT sid="6" pm="."><plain>The <z:chebi fb="105" ids="17234">glucose</z:chebi>-induced increments in both ATP/<z:chebi fb="13" ids="16761">ADP</z:chebi> ratio and cytosolic free <z:chebi fb="0" ids="29108">Ca2+</z:chebi> concentration ([<z:chebi fb="0" ids="29108">Ca2+</z:chebi>]i) were increased compared with controls </plain></SENT>
+<SENT sid="7" pm="."><plain>Overexpression of TCF7L2 exerted minor inhibitory effects on <z:chebi fb="105" ids="17234">glucose</z:chebi>-regulated changes in [<z:chebi fb="0" ids="29108">Ca2+</z:chebi>]i and insulin release </plain></SENT>
+<SENT sid="8" pm="."><plain>Gene expression profiling in TCF7L2-silenced cells revealed increased levels of <z:chebi fb="2" ids="33699">mRNA</z:chebi> encoding syntaxin 1A but decreased Munc18-1 and ZnT8 <z:chebi fb="2" ids="33699">mRNA</z:chebi> </plain></SENT>
+<SENT sid="9" pm="."><plain>Whereas the number of morphologically docked vesicles was unchanged by TCF7L2 suppression, secretory granule movement increased and capacitance changes decreased, indicative of defective vesicle fusion </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSION: TCF7L2 is involved in maintaining expression of beta-cell genes regulating secretory granule fusion </plain></SENT>
+<SENT sid="11" pm="."><plain>Defective insulin exocytosis may thus underlie increased <z:mp ids='MP_0002055'>diabetes</z:mp> incidence in carriers of the at-risk TCF7L2 alleles </plain></SENT>
+</text></document>

@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The Epstein-Barr virus (EBV) latent-lytic switch is mediated by the BZLF1 immediate-early protein </plain></SENT>
+<SENT sid="1" pm="."><plain>EBV is normally latent in memory B cells, but cellular factors which promote <z:mp ids='MP_0001799'>viral</z:mp> latency specifically in B cells have not been identified </plain></SENT>
+<SENT sid="2" pm="."><plain>In this report, we demonstrate that the B-cell specific transcription factor, Oct-2, inhibits the function of the <z:mp ids='MP_0001799'>viral</z:mp> immediate-early protein, BZLF1, and prevents lytic <z:mp ids='MP_0001799'>viral</z:mp> reactivation </plain></SENT>
+<SENT sid="3" pm="."><plain>Co-transfected Oct-2 reduces the ability of BZLF1 to activate lytic gene expression in two different latently infected nasopharyngeal <z:mp ids='MP_0002038'>carcinoma</z:mp> cell lines </plain></SENT>
+<SENT sid="4" pm="."><plain>Furthermore, Oct-2 inhibits BZLF1 activation of lytic EBV promoters in reporter gene assays, and attenuates BZLF1 binding to lytic <z:mp ids='MP_0001799'>viral</z:mp> promoters in vivo </plain></SENT>
+<SENT sid="5" pm="."><plain>Oct-2 interacts directly with BZLF1, and this interaction requires the DNA-binding/dimerization domain of BZLF1 and the POU domain of Oct-2 </plain></SENT>
+<SENT sid="6" pm="."><plain>An Oct-2 mutant (Δ262-302) deficient for interaction with BZLF1 is unable to inhibit BZLF1-mediated lytic reactivation </plain></SENT>
+<SENT sid="7" pm="."><plain>However, an Oct-2 mutant defective for DNA-binding (Q221A) retains the ability to inhibit BZLF1 transcriptional effects and DNA-binding </plain></SENT>
+<SENT sid="8" pm="."><plain>Importantly, shRNA-mediated knockdown of endogenous Oct-2 expression in several EBV-positive Burkitt <z:hpo ids='HP_0002665'>lymphoma</z:hpo> and lymphoblastoid cell lines increases the level of lytic EBV gene expression, while decreasing EBNA1 expression </plain></SENT>
+<SENT sid="9" pm="."><plain>Moreover, treatments which induce EBV lytic reactivation, such as anti-IgG cross-linking and chemical inducers, also decrease the level of Oct-2 protein expression at the transcriptional level </plain></SENT>
+<SENT sid="10" pm="."><plain>We conclude that Oct-2 potentiates establishment of EBV latency in B cells </plain></SENT>
+</text></document>

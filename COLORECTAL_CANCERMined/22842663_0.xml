@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND AIMS: Aerobic exercise capacity appears impaired in children with <z:e sem="disease" ids="C0021390" disease_type="Disease or Syndrome" abbrv="">inflammatory bowel disease</z:e> (IBD) </plain></SENT>
+<SENT sid="1" pm="."><plain>Whether this holds true in adults with IBD is not known </plain></SENT>
+<SENT sid="2" pm="."><plain>Using cardiopulmonary exercise testing (CPET), we assessed anaerobic threshold (AT) in such patients comparing data with reference values and other elective surgical patients </plain></SENT>
+<SENT sid="3" pm="."><plain>We also sought to confirm whether the presence of a <z:mpath ids='MPATH_70'>fistula</z:mpath> further reduced AT </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS: CPET was performed between November 2007 and December 2010 on patients awaiting abdominopelvic surgery </plain></SENT>
+<SENT sid="5" pm="."><plain>Gender-specific <z:mpath ids='MPATH_458'>normal</z:mpath> reference values were used for comparison </plain></SENT>
+<SENT sid="6" pm="."><plain>Unadjusted comparison between two groups was made using Mann-Whitney U test and by unpaired t test </plain></SENT>
+<SENT sid="7" pm="."><plain>Data were adjusted by analysis of covariance, using age and sex as covariates </plain></SENT>
+<SENT sid="8" pm="."><plain>Differences between patients' observed values and reference values were tested using paired t tests </plain></SENT>
+<SENT sid="9" pm="."><plain>RESULTS: Four hundred and fourteen patients (234 male) were studied (mean ± SD age, 56.6 ± 16.4 years; weight, 74.2 ± 15.6 kg) </plain></SENT>
+<SENT sid="10" pm="."><plain>Adjusted AT values in <z:hpo ids='HP_0100280'>Crohn's disease</z:hpo> (CD) were lower than <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> (11.4 ± 3.4 vs 13.2 ± 3.5 ml.kg(-1).min(-1), p = 0.03) and for <z:hpo ids='HP_0000001'>all</z:hpo> other colorectal disease groups combined (12.6 ± 3.5 ml.kg(-1).min(-1), p = 0.03) </plain></SENT>
+<SENT sid="11" pm="."><plain>AT of <z:hpo ids='HP_0100279'>Ulcerative colitis</z:hpo> (UC) and CD patients together were reduced compared to population reference values (p &lt; 0.05) </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSION: After adjusting for age and sex, CD patients had a reduced AT compared to patients with <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> and other colorectal disease groups combined </plain></SENT>
+<SENT sid="13" pm="."><plain>The pathogenesis of this low AT remains to be defined and warrants further investigation </plain></SENT>
+</text></document>

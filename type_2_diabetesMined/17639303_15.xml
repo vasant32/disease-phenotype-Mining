@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIMS/HYPOTHESIS: In humans, one of the hallmarks of type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> is a reduced plasma concentration of <z:chebi fb="17" ids="39025">HDL</z:chebi> and its major protein component, <z:chebi fb="0" ids="39015">apolipoprotein</z:chebi> A-I (APOA-I) </plain></SENT>
+<SENT sid="1" pm="."><plain>However, it is unknown whether APOA-I directly protects against <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="2" pm="."><plain>The aim of this study was to characterise the functional role of APOA-I in <z:chebi fb="105" ids="17234">glucose</z:chebi> homeostasis </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: The effects of APOA-I on phosphorylation of <z:chebi fb="47" ids="16027,28971">AMP</z:chebi>-activated protein kinase (AMPK) and <z:chebi fb="9" ids="46887">acetyl</z:chebi>-<z:chebi fb="3" ids="15346">coenzyme A</z:chebi> carboxylase (ACC), <z:chebi fb="105" ids="17234">glucose</z:chebi> uptake and endocytosis were analysed in C2C12 myocytes </plain></SENT>
+<SENT sid="4" pm="."><plain><z:chebi fb="105" ids="17234">Glucose</z:chebi> metabolism was investigated in Apoa-I knockout (Apoa-I (-/-)) mice </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: APOA-I was able to stimulate the phosphorylation of AMPK and ACC, and elevated <z:chebi fb="105" ids="17234">glucose</z:chebi> uptake in C2C12 myocytes </plain></SENT>
+<SENT sid="6" pm="."><plain>APOA-I could be endocytosed into C2C12 myotubes through a clathrin-dependent endocytotic process </plain></SENT>
+<SENT sid="7" pm="."><plain>Inhibition of endocytosis abrogated APOA-I-stimulated AMPK phosphorylation </plain></SENT>
+<SENT sid="8" pm="."><plain>In Apoa-I (-/-) mice, AMPK phosphorylation was reduced in skeletal muscle and liver, and expression of gluconeogenic enzymes was increased in liver </plain></SENT>
+<SENT sid="9" pm="."><plain>In addition, the Apoa-I (-/-) mice had increased fat content and compromised <z:chebi fb="105" ids="17234">glucose</z:chebi> tolerance </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSIONS/INTERPRETATION: Our data indicate that APOA-I has a protective effect against <z:mp ids='MP_0002055'>diabetes</z:mp> via activation of AMPK </plain></SENT>
+<SENT sid="11" pm="."><plain>ApoA-I deletion in the mouse led to increased fat mass and <z:hpo ids='HP_0000833'>impaired glucose tolerance</z:hpo> </plain></SENT>
+</text></document>

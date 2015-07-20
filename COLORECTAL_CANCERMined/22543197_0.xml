@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Adequate evidence mounts to the fact that several bacteria and their toxins have protective or curative roles in <z:e sem="disease" ids="C1527249" disease_type="Neoplastic Process" abbrv="">colorectal cancers</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>Thermostable direct hemolysin (TDH), produced by Vibrio parahaemolyticus, down regulates cell proliferation in colon <z:mp ids='MP_0002038'>carcinoma</z:mp> cell lines </plain></SENT>
+<SENT sid="2" pm="."><plain>TDH induces <z:chebi fb="0" ids="29108">Ca2+</z:chebi> influx from an extracellular environment accompanied by protein kinase C phosphorylation </plain></SENT>
+<SENT sid="3" pm="."><plain>Activated protein kinase C inhibits the tyrosine kinase activity of epidermal growth factor receptor (EGFR), the rational target of anti-<z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> therapy </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS: Immunoblotting analyses were performed to ascertain protein kinase C activation, EGFR status, EGFR phosphorylation and <z:chebi fb="0" ids="52290">mitogen</z:chebi> activated protein kinase (MAPK) activity </plain></SENT>
+<SENT sid="5" pm="."><plain>Flow cytometry analysis and ELISA reconfirmed tyrosine phosphorylation of EGFR and ERK activations, respectively </plain></SENT>
+<SENT sid="6" pm="."><plain>PKC-α siRNA knockdown was done to corroborate the involvement of PKC-α in the undertaken study </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: Our study showed the translocation of PKC-α from cytosol to the membrane fraction in colon <z:mp ids='MP_0002038'>carcinoma</z:mp> cell lines on incubation with TDH </plain></SENT>
+<SENT sid="8" pm="."><plain>The EGFR tyrosine kinase activity exhibited a down regulation on TDH treatment which involved PKC-α, as confirmed by siRNA knockdown </plain></SENT>
+<SENT sid="9" pm="."><plain>Also ERK phosphorylation occurred on PKC-α activation </plain></SENT>
+<SENT sid="10" pm="."><plain>Conclusion: TDH activated PKC-α down regulates EGFR tyrosine kinase activity by MEK dependent mechanism involving MAPK </plain></SENT>
+<SENT sid="11" pm="."><plain>GENERAL SIGNIFICANCE: In this study we have seen that TDH has an implication in EGFR based therapeutic approach in <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> via PKC mediated mechanism </plain></SENT>
+</text></document>

@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Stem cell therapy holds great promise for treating <z:hpo ids='HP_0002180'>neurodegenerative disease</z:hpo>, but major barriers to effective therapeutic strategies remain </plain></SENT>
+<SENT sid="1" pm="."><plain>A complete understanding of the derived phenotype is required for predicting cell response once introduced into the host tissue </plain></SENT>
+<SENT sid="2" pm="."><plain>We sought to identify major axonal guidance cues present in neurons derived from the transient overexpression of neurogenin-1 (Neurog1) in mouse embryonic stem cells (ESCs) </plain></SENT>
+<SENT sid="3" pm="."><plain>Neurog1 upregulated the netrin-1 axon guidance receptors <z:chebi fb="8" ids="53090">DCC</z:chebi> (deleted in <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e>) and neogenin (NEO1) </plain></SENT>
+<SENT sid="4" pm="."><plain>Quantitative polymerase chain reaction results showed a 2-fold increase in NEO1 <z:chebi fb="2" ids="33699">mRNA</z:chebi> and a 36-fold increase in <z:chebi fb="8" ids="53090">DCC</z:chebi> <z:chebi fb="2" ids="33699">mRNA</z:chebi> in Neurog1-induced compared with control ESCs </plain></SENT>
+<SENT sid="5" pm="."><plain>Immunohistochemistry indicated that <z:chebi fb="8" ids="53090">DCC</z:chebi> was primarily expressed on cells positive for the neuronal marker TUJ1 </plain></SENT>
+<SENT sid="6" pm="."><plain><z:chebi fb="8" ids="53090">DCC</z:chebi> was preferentially localized to the cell soma and growth-cones of induced neurons </plain></SENT>
+<SENT sid="7" pm="."><plain>In contrast, NEO1 expression showed less specificity, labeling both TUJ1-positive and TUJ1-negative cells as well as uninduced control cells </plain></SENT>
+<SENT sid="8" pm="."><plain>Axonal outgrowth was directed preferentially toward aggregates of HEK293 cells secreting a recombinant active fragment of netrin-1 </plain></SENT>
+<SENT sid="9" pm="."><plain>These data indicate that <z:chebi fb="8" ids="53090">DCC</z:chebi> and NEO1 are downstream products of Neurog1 and may guide the integration of Neurog1-induced ESCs with target cells secreting netrin-1 </plain></SENT>
+<SENT sid="10" pm="."><plain>Differential expression profiles for netrin receptors could indicate different roles for this guidance cue on neuronal and non-neuronal cells </plain></SENT>
+</text></document>

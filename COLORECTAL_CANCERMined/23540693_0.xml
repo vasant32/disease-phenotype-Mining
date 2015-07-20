@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>LINE-1 (L1) retrotransposons are mobile genetic elements comprising ∼17% of the human genome </plain></SENT>
+<SENT sid="1" pm="."><plain>New L1 insertions can profoundly alter gene function and cause disease, though their significance in <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> remains unclear </plain></SENT>
+<SENT sid="2" pm="."><plain>Here, we applied enhanced retrotransposon capture sequencing (RC-seq) to 19 <z:hpo ids='HP_0001402'>hepatocellular carcinoma</z:hpo> (<z:mp ids='MP_0003331'>HCC</z:mp>) genomes and elucidated two archetypal L1-mediated mechanisms enabling <z:mp ids='MP_0002006'>tumorigenesis</z:mp> </plain></SENT>
+<SENT sid="3" pm="."><plain>In the first example, 4/19 (21.1%) donors presented germline retrotransposition events in the <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> suppressor mutated in <z:e sem="disease" ids="C1527249" disease_type="Neoplastic Process" abbrv="">colorectal cancers</z:e> (MCC) </plain></SENT>
+<SENT sid="4" pm="."><plain>MCC expression was ablated in each case, enabling oncogenic β-catenin/Wnt signaling </plain></SENT>
+<SENT sid="5" pm="."><plain>In the second example, suppression of tumorigenicity 18 (ST18) was activated by a <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e>-specific L1 insertion </plain></SENT>
+<SENT sid="6" pm="."><plain>Experimental assays confirmed that the L1 interrupted a negative feedback loop by blocking ST18 repression of its enhancer </plain></SENT>
+<SENT sid="7" pm="."><plain>ST18 was also frequently amplified in <z:mp ids='MP_0003331'>HCC</z:mp> nodules from Mdr2(-/-) mice, supporting its assignment as a candidate liver oncogene </plain></SENT>
+<SENT sid="8" pm="."><plain>These proof-of-principle results substantiate L1-mediated retrotransposition as an important etiological factor in <z:mp ids='MP_0003331'>HCC</z:mp> </plain></SENT>
+</text></document>

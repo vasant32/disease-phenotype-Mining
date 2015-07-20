@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIMS: Network for Pharmacoepidemiology (NEPI) Antidiabetes Study-Eye is a randomized placebo-controlled Swedish trial investigating if treatment with sulphonylurea, in addition to dietary regulation and increased exercise, delays the development of <z:hpo ids='HP_0000488'>retinopathy</z:hpo> in subjects with impaired fasting <z:chebi fb="105" ids="17234">glucose</z:chebi> (IFG) </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: Subjects were surveyed in primary care with repeated fasting blood <z:chebi fb="105" ids="17234">glucose</z:chebi> measurements </plain></SENT>
+<SENT sid="2" pm="."><plain>Those with a mean of two consecutive values &gt;or=5.6 and &lt;6.1 mmol/l were invited to participate </plain></SENT>
+<SENT sid="3" pm="."><plain>Baseline physical examination included blood pressure and body mass index (BMI) </plain></SENT>
+<SENT sid="4" pm="."><plain>Fundus photos were taken in two fields using 35-mm diafilm </plain></SENT>
+<SENT sid="5" pm="."><plain>The alternative classification of the Wisconsin Epidemiologic Study of Diabetic <z:hpo ids='HP_0000488'>Retinopathy</z:hpo> was used to classify the <z:hpo ids='HP_0000488'>retinopathy</z:hpo> level </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: At baseline, 90 men and 64 women with IFG were photographed </plain></SENT>
+<SENT sid="7" pm="."><plain>Of these, 16 subjects (10%) had mild or very mild <z:hpo ids='HP_0000488'>retinopathy</z:hpo> </plain></SENT>
+<SENT sid="8" pm="."><plain>There was no difference in occurrence of <z:hpo ids='HP_0000488'>retinopathy</z:hpo> between subjects with known diagnosis of <z:hpo ids='HP_0000822'>hypertension</z:hpo> or not </plain></SENT>
+<SENT sid="9" pm="."><plain>However, subjects with <z:hpo ids='HP_0000488'>retinopathy</z:hpo> had significantly higher systolic (154 vs. 141 mmHg, p = 0.013) and diastolic (86 vs. 81 mmHg, p = 0.008) blood pressure levels independent of differences in age, sex and known <z:hpo ids='HP_0000822'>hypertension</z:hpo> </plain></SENT>
+<SENT sid="10" pm="."><plain>There was a corresponding difference in BMI, being greater in subjects with than in those without <z:hpo ids='HP_0000488'>retinopathy</z:hpo> (32.4 vs. 29.2 kg/m(2), p = 0.013) </plain></SENT>
+<SENT sid="11" pm="."><plain>There were no associations between levels of fasting blood <z:chebi fb="105" ids="17234">glucose</z:chebi> or <z:chebi fb="34" ids="35143">haemoglobin</z:chebi> A1c, on the one hand, and <z:hpo ids='HP_0000488'>retinopathy</z:hpo>, on the other </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSION: <z:hpo ids='HP_0000488'>Retinopathy</z:hpo> may be present even before type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> is manifest </plain></SENT>
+<SENT sid="13" pm="."><plain>It is associated with higher blood pressure levels and higher BMI values, that is, with predominant features of the <z:e sem="disease" ids="C0948265" disease_type="Disease or Syndrome" abbrv="">metabolic syndrome</z:e> </plain></SENT>
+</text></document>

@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The Blood coagulation system was converted to a mathematical model which was described using differential equations </plain></SENT>
+<SENT sid="1" pm="."><plain>The calculated output patterns of the mathematical model against various input stimulations were compared with results of in vitro assay </plain></SENT>
+<SENT sid="2" pm="."><plain>The simulated results of (1) <z:e sem="disease" ids="C0684275,C0019069" disease_type="Disease or Syndrome" abbrv="">Hemophilia</z:e> A, (2) anticoagulation effect of antithrombin III and (3) anticoagulation effect of <z:chebi fb="5" ids="28304">heparin</z:chebi> corresponded to the results of in vitro assay and clinical reports </plain></SENT>
+<SENT sid="3" pm="."><plain>However, the simulated result of (4) anticoagulation effect of synthesized arginine derivative No. 805 (MD-805) did not correspond to the results of in vitro assay </plain></SENT>
+<SENT sid="4" pm="."><plain>Therefore, a new series simulation of MD-805 was done, supposing that MD-805 had an inhibitory activity not only on coagulation factor IIa but also VIIa </plain></SENT>
+<SENT sid="5" pm="."><plain>The new simulation pattern closely resembled the results of in vitro assay </plain></SENT>
+<SENT sid="6" pm="."><plain>From these facts, it was theoretically indicated that MD-805 also has an inhibitory activity on VIIa </plain></SENT>
+</text></document>

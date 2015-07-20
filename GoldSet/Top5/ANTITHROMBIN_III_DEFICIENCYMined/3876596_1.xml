@@ -1,0 +1,6 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 45-year-old man with primary <z:hpo ids='HP_0011034'>amyloidosis</z:hpo> was initially seen with <z:hpo ids='HP_0000100'>nephrotic syndrome</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Factor X was found to be 5% and antithrombin III (AT III) 45% of <z:mpath ids='MPATH_458'>normal</z:mpath> plasma values </plain></SENT>
+<SENT sid="2" pm="."><plain>During an 11-month period, despite severe <z:e sem="disease" ids="C0015519" disease_type="Disease or Syndrome" abbrv="">factor X deficiency</z:e>, the patient did not have any <z:mp ids='MP_0001914'>bleeding</z:mp> complications </plain></SENT>
+<SENT sid="3" pm="."><plain>He developed <z:hpo ids='HP_0000106'>progressive renal failure</z:hpo> and AT III levels increased to <z:mpath ids='MPATH_458'>normal</z:mpath>, at which time he developed severe <z:mp ids='MP_0001914'>bleeding</z:mp> complications </plain></SENT>
+<SENT sid="4" pm="."><plain>These findings suggest a protective role of AT III deficiency against <z:mp ids='MP_0001914'>bleeding</z:mp> in a patient with severe <z:e sem="disease" ids="C0015519" disease_type="Disease or Syndrome" abbrv="">factor X deficiency</z:e> </plain></SENT>
+</text></document>

@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0011010'>Chronic</z:hpo> elevations in plasma levels of fatty acids (FAs) adversely affect pancreatic beta-cell function in type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="1" pm="."><plain>In vitro, we have previously shown that deleterious effects of prolonged exposure of isolated islets to FAs were dependent on the presence of elevated <z:chebi fb="105" ids="17234">glucose</z:chebi> concentration </plain></SENT>
+<SENT sid="2" pm="."><plain>This led us to hypothesize that both <z:hpo ids='HP_0003077'>hyperlipidemia</z:hpo> and <z:hpo ids='HP_0003074'>hyperglycemia</z:hpo> must be present simultaneously for FAs to affect beta-cell function </plain></SENT>
+<SENT sid="3" pm="."><plain>To test this hypothesis in vivo, we administered a high-fat diet for 6 weeks to Goto-Kakizaki (GK) rats </plain></SENT>
+<SENT sid="4" pm="."><plain>High-fat feeding had no effect on insulin secretion, insulin content, or insulin <z:chebi fb="2" ids="33699">mRNA</z:chebi> levels in islets from normoglycemic Wistar rats </plain></SENT>
+<SENT sid="5" pm="."><plain>In contrast, high-fat feeding markedly impaired <z:chebi fb="105" ids="17234">glucose</z:chebi>-induced insulin secretion in islets from GK rats </plain></SENT>
+<SENT sid="6" pm="."><plain>High-fat feeding did not affect <z:chebi fb="0" ids="17855">triglyceride</z:chebi> (TG) content or the rate of <z:chebi fb="105" ids="17234">glucose</z:chebi> oxidation in islets </plain></SENT>
+<SENT sid="7" pm="."><plain>It was, however, accompanied by a twofold increase in uncoupling protein (UCP)-2 levels in GK rat islets </plain></SENT>
+<SENT sid="8" pm="."><plain>Insulin treatment completely normalized <z:chebi fb="105" ids="17234">glucose</z:chebi>-induced insulin secretion and prevented the increase in UCP-2 expression in islets from high-fat-fed GK rats </plain></SENT>
+<SENT sid="9" pm="."><plain>We conclude that <z:hpo ids='HP_0003077'>hyperlipidemia</z:hpo> induced by high-fat feeding affects insulin secretion in islets from hyperglycemic GK rats only, by a mechanism which may involve, at least in part, modulation of UCP-2 expression </plain></SENT>
+</text></document>

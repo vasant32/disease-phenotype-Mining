@@ -1,0 +1,5 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Computertomography permits an early diagnosis of <z:hpo ids='HP_0011009'>acute</z:hpo> <z:hpo ids='HP_0001342'>intracerebral hemorrhage</z:hpo> a few hours after <z:hpo ids='HP_0003674'>onset</z:hpo> of symptoms </plain></SENT>
+<SENT sid="1" pm="."><plain>Embolic or thrombotic <z:mpath ids='MPATH_124'>infarcts</z:mpath> may be detected only after 2 to 3 days </plain></SENT>
+<SENT sid="2" pm="."><plain>Late manifestations of ischemic <z:mpath ids='MPATH_124'>infarcts</z:mpath> are unequivocal when confined to the circulation area of a cerebral artery </plain></SENT>
+<SENT sid="3" pm="."><plain>They must, however, be differentiated from small <z:hpo ids='HP_0009733'>gliomas</z:hpo> with <z:hpo ids='HP_0000969'>edema</z:hpo>, while in <z:hpo ids='HP_0001342'>cerebral hemorrhage</z:hpo> the differential diagnosis must consider <z:mp ids='MP_0001914'>bleeding</z:mp> from <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumors</z:e> and vascular malformations </plain></SENT>
+</text></document>

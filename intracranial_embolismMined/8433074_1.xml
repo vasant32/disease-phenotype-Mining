@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>To study <z:e sem="disease" ids="C0587044" disease_type="Disease or Syndrome" abbrv="">left ventricular thrombus</z:e> (LVT) formation and arterial embolism (AE), 106 consecutive patients with a first <z:hpo ids='HP_0011009'>acute</z:hpo> anterior <z:hpo ids='HP_0001658'>myocardial infarction</z:hpo> (AAMI) underwent two-dimensional echocardiography before discharge </plain></SENT>
+<SENT sid="1" pm="."><plain>Repeated assessments for detection of AE were performed </plain></SENT>
+<SENT sid="2" pm="."><plain>Patients were non-randomly allocated to either no <z:chebi fb="5" ids="28304">heparin</z:chebi>, low-dose <z:chebi fb="5" ids="28304">heparin</z:chebi> or high-dose <z:chebi fb="5" ids="28304">heparin</z:chebi> </plain></SENT>
+<SENT sid="3" pm="."><plain>LVT was found in 25 (26.9%) of 93 patients with technically satisfactory echocardiograms </plain></SENT>
+<SENT sid="4" pm="."><plain>Left ventricular (LV) wall motion impairment (P = 0.0017) and treatment with either <z:chebi fb="5" ids="28304">heparin</z:chebi> or low-dose <z:chebi fb="5" ids="28304">heparin</z:chebi> (P = 0.0019) were independent predictors of LVT formation </plain></SENT>
+<SENT sid="5" pm="."><plain>AE, <z:hpo ids='HP_0000001'>all</z:hpo> <z:hpo ids='HP_0001297'>strokes</z:hpo>, occurred in 10 patients (9.4%) and was strongly associated with high age (P = 0.0013) </plain></SENT>
+<SENT sid="6" pm="."><plain>In conclusion, LVT and AE are frequent complications to AAMI </plain></SENT>
+<SENT sid="7" pm="."><plain>LV wall motion impairment predisposes for LVT and low-dose <z:chebi fb="5" ids="28304">heparin</z:chebi> seems not to prevent these complications </plain></SENT>
+</text></document>

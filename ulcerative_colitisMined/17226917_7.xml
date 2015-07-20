@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The early hypersensitivity reaction and late bone marrow <z:hpo ids='HP_0000716'>depression</z:hpo> are well-known side-effects of <z:chebi fb="2" ids="2948">azathioprine</z:chebi>, whereas interstitial <z:hpo ids='HP_0002090'>pneumonia</z:hpo> is a rare complication </plain></SENT>
+<SENT sid="1" pm="."><plain>A 40-year old male patient had been treated with <z:chebi fb="2" ids="2948">azathioprine</z:chebi> in consequence of extensive <z:hpo ids='HP_0100279'>ulcerative colitis</z:hpo> for 10 years </plain></SENT>
+<SENT sid="2" pm="."><plain>He then complained of 7 d of <z:hpo ids='HP_0001945'>fever</z:hpo>, cough and catarrhal signs, without symptoms of active <z:hpo ids='HP_0002583'>colitis</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain><z:e sem="disease" ids="C0029118" disease_type="Disease or Syndrome" abbrv="">Opportunistic infections</z:e> were ruled out </plain></SENT>
+<SENT sid="4" pm="."><plain>The chest X-ray, CT and lung biopsy demonstrated the presence of interstitial <z:mp ids='MP_0001845'>inflammation</z:mp> </plain></SENT>
+<SENT sid="5" pm="."><plain><z:chebi fb="2" ids="2948">Azathioprine</z:chebi> therapy was discontinued as a potential source of the pulmonary infiltrate </plain></SENT>
+<SENT sid="6" pm="."><plain>In response to steroid therapy, and intensive care, the pulmonary infiltrate gradually decreased within 4 wk </plain></SENT>
+<SENT sid="7" pm="."><plain>Three months later, his <z:hpo ids='HP_0100279'>ulcerative colitis</z:hpo> relapsed, and ileo-anal pouch surgery was performed </plain></SENT>
+<SENT sid="8" pm="."><plain>In cases of atypical <z:hpo ids='HP_0002090'>pneumonia</z:hpo>, without a proven <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infection</z:e>, <z:chebi fb="2" ids="2948">azathioprine</z:chebi>-associated <z:hpo ids='HP_0006515'>interstitial pneumonitis</z:hpo> may be present, which heals after withdrawal of the drug </plain></SENT>
+</text></document>

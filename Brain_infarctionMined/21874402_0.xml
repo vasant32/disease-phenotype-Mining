@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Several lines of evidence have shown that plasma C-reactive protein (CRP) is associated with increased risk of <z:hpo ids='HP_0001297'>stroke</z:hpo>; however, previous studies were not adequately powered to assess whether plasma CRP levels are associated with <z:hpo ids='HP_0001297'>stroke</z:hpo> progression </plain></SENT>
+<SENT sid="1" pm="."><plain>In the current study, we designed a rabbit <z:hpo ids='HP_0001297'>stroke</z:hpo> model and investigated the relationship between plasma CRP and infarcted brain tissue </plain></SENT>
+<SENT sid="2" pm="."><plain>To produce a rabbit <z:hpo ids='HP_0001297'>stroke</z:hpo> model, we injected autologous <z:e sem="disease" ids="C0087086" disease_type="Disease or Syndrome" abbrv="">thrombi</z:e> into the left internal carotid artery </plain></SENT>
+<SENT sid="3" pm="."><plain>The plasma CRP levels were measured by ELISA at 0.5, 3, 6, 9, and 12 h poststroke </plain></SENT>
+<SENT sid="4" pm="."><plain>At 12 h, the rabbits were sacrificed, and the whole brains were examined by H &amp; E and immunohistochemical staining with a monoclonal antibody against rabbit CRP </plain></SENT>
+<SENT sid="5" pm="."><plain>CRP <z:chebi fb="2" ids="33699">mRNA</z:chebi> expression in the infarcted tissue was evaluated by RT-PCR </plain></SENT>
+<SENT sid="6" pm="."><plain>Plasma CRP was markedly increased after embolic <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+<SENT sid="7" pm="."><plain>Plasma CRP positively correlated with the cerebral <z:mpath ids='MPATH_124'>infarct</z:mpath> area (r = 0.98, P &lt; 0.01) </plain></SENT>
+<SENT sid="8" pm="."><plain>Immunohistochemical staining revealed that CRP was frequently present in the infarcted area but not in <z:mpath ids='MPATH_458'>normal</z:mpath> cerebral tissue </plain></SENT>
+<SENT sid="9" pm="."><plain>RT-PCR showed that CRP was expressed in infarcted brain tissue </plain></SENT>
+<SENT sid="10" pm="."><plain>The plasma CRP level was significantly elevated after <z:hpo ids='HP_0001297'>stroke</z:hpo> and was closely correlated with the size of infarction, suggesting that CRP is an ideal marker to assess the <z:hpo ids='HP_0011009'>acute</z:hpo> embolic <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+</text></document>

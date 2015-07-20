@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0000822'>Hypertension</z:hpo> is associated with the development of <z:hpo ids='HP_0005110'>atrial fibrillation</z:hpo>; however, the electrophysiological consequences of this condition remain poorly understood </plain></SENT>
+<SENT sid="1" pm="."><plain>ATP-sensitive <z:chebi fb="0" ids="29103">K(+)</z:chebi> (K(ATP)) channels, which contribute to <z:hpo ids='HP_0004308'>ventricular arrhythmias</z:hpo>, are also expressed in the atria </plain></SENT>
+<SENT sid="2" pm="."><plain>We hypothesized that salt-induced elevated blood pressure (BP) leads to atrial K(ATP) channel activation and increased <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> inducibility </plain></SENT>
+<SENT sid="3" pm="."><plain>Elevated BP was induced in mice with a high-salt diet (HS) for 4 wk </plain></SENT>
+<SENT sid="4" pm="."><plain>High-resolution optical mapping was used to measure atrial <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> inducibility, effective refractory period (ERP), and action potential duration at 90% repolarization (APD(90)) </plain></SENT>
+<SENT sid="5" pm="."><plain>Excised patch clamping was performed to quantify K(ATP) channel properties and density </plain></SENT>
+<SENT sid="6" pm="."><plain>K(ATP) channel protein expression was also evaluated </plain></SENT>
+<SENT sid="7" pm="."><plain>Atrial <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> inducibility was 22% higher in HS hearts compared with control hearts </plain></SENT>
+<SENT sid="8" pm="."><plain>ERP and APD(90) were significantly shorter in the right atrial appendage and left atrial appendage of HS hearts compared with control hearts </plain></SENT>
+<SENT sid="9" pm="."><plain>Perfusion with 1 μM <z:chebi fb="0" ids="5441">glibenclamide</z:chebi> or 300 μM <z:chebi fb="0" ids="27999">tolbutamide</z:chebi> significantly decreased <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> inducibility and prolonged APD(90) in HS hearts compared with untreated HS hearts </plain></SENT>
+<SENT sid="10" pm="."><plain>K(ATP) channel density was 156% higher in myocytes isolated from HS animals compared with control animals </plain></SENT>
+<SENT sid="11" pm="."><plain><z:chebi fb="0" ids="26831">Sulfonylurea</z:chebi> receptor 1 protein expression was increased in the left atrial appendage and right atrial appendage of HS animals (415% and 372% of NS animals, respectively) </plain></SENT>
+<SENT sid="12" pm="."><plain>In conclusion, K(ATP) channel activation provides a mechanistic link between salt-induced elevated BP and increased atrial <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> inducibility </plain></SENT>
+<SENT sid="13" pm="."><plain>The findings of this study have important implications for the treatment and prevention of atrial <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> in the setting of <z:e sem="disease" ids="C0152105" disease_type="Disease or Syndrome" abbrv="">hypertensive heart disease</z:e> and may lead to new therapeutic approaches </plain></SENT>
+</text></document>

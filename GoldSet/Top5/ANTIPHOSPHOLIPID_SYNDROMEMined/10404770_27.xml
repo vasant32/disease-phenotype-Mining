@@ -1,0 +1,22 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:e sem="disease" ids="C0024138,C0024141,C0024131,C0409974" disease_type="Disease or Syndrome" abbrv="">Lupus</z:e> <z:chebi fb="2" ids="50249">anticoagulants</z:chebi> (LA) are immunoglobulins directed to either prothrombin or Beta-2-<z:chebi fb="2" ids="17089">glycoprotein</z:chebi> 1(beta1GPI) bound to <z:chebi fb="1" ids="16247">phospholipids</z:chebi> </plain></SENT>
+<SENT sid="1" pm="."><plain>Most patients with LA have both beta2GPI- and prothrombin-dependent antibodies </plain></SENT>
+<SENT sid="2" pm="."><plain>Several recent reports have shown that LA is more strongly associated with <z:mp ids='MP_0005048'>thrombosis</z:mp> than anticardiolipin antibodies (aCL) </plain></SENT>
+<SENT sid="3" pm="."><plain>Therefore, an accurate detection of LA is of utmost importance in patients suspected of an <z:e sem="disease" ids="C0085278" disease_type="Disease or Syndrome" abbrv="">antiphospholipid syndrome</z:e> </plain></SENT>
+<SENT sid="4" pm="."><plain>We recently raised a series of murine monoclonal antibodies against human Beta-2-<z:chebi fb="2" ids="17089">glycoprotein</z:chebi> I (beta2GPI) with LA activity similar to affinity purified human beta2GPI-dependent LAs </plain></SENT>
+<SENT sid="5" pm="."><plain>A <z:mpath ids='MPATH_458'>normal</z:mpath> plasma pool, and the same pool spiked with LA positive anti-beta2GPI antibodies at two potency levels, were used as materials in an external quality assessment scheme organised by the European Concerted Action on <z:mp ids='MP_0005048'>Thrombosis</z:mp> (ECAT) </plain></SENT>
+<SENT sid="6" pm="."><plain>Fifty nine laboratories participating in this trial were asked to test for the presence of a LA in the 3 samples submitted </plain></SENT>
+<SENT sid="7" pm="."><plain>The majority (82%) of the participants found the high potency LA sample to be positive </plain></SENT>
+<SENT sid="8" pm="."><plain>Only 37% of the laboratories considered the weak potency LA sample to be positive </plain></SENT>
+<SENT sid="9" pm="."><plain>The submission of a <z:mpath ids='MPATH_458'>normal</z:mpath> sample, a weakly positive sample and a clearly positive sample enabled us to compare the relative LA responsiveness of the different screening assays used </plain></SENT>
+<SENT sid="10" pm="."><plain>Clotting time ratios varied from 0.81 to 3.28 for sample B and from 0.66 to 5.32 for sample D </plain></SENT>
+<SENT sid="11" pm="."><plain>In general, the highest clotting time ratios were found with the dilute prothrombin time (dPT), the dilute Russell Viper Venom time (dRVVT) and the Kaolin Clotting time </plain></SENT>
+<SENT sid="12" pm="."><plain>The most frequently used screening tests were the aPTT and the dRVVT </plain></SENT>
+<SENT sid="13" pm="."><plain>With the various assay systems, LA responsiveness varied largely according to the reagents used </plain></SENT>
+<SENT sid="14" pm="."><plain>For the beta2GPI-dependent LA used in this study, PTT LA clearly showed the highest responsiveness among the aPTT reagents and Innovin among the dPT reagents </plain></SENT>
+<SENT sid="15" pm="."><plain>The present study also shows that many laboratories still rely on poorly responsive screening assays for their LA tests </plain></SENT>
+<SENT sid="16" pm="."><plain>Other laboratories rely on sensitive and more specific integrated test systems based on a sensitive screening assay with a low <z:chebi fb="0" ids="16247">phospholipid</z:chebi> content and a confirmatory test employing high <z:chebi fb="0" ids="16247">phospholipid</z:chebi> concentrations </plain></SENT>
+<SENT sid="17" pm="."><plain>The most used integrated system was dRVVT based </plain></SENT>
+<SENT sid="18" pm="."><plain>However, also here the LA responsiveness was largely reagent dependent </plain></SENT>
+<SENT sid="19" pm="."><plain>In conclusion, many laboratories still rely on poorly responsive screening assays by which weakly positive LA samples are misdiagnosed </plain></SENT>
+<SENT sid="20" pm="."><plain>LA positive anti-beta2GPI moabs have a potential for the unlimited production of LA control specimens, that may help hemostasis laboratories choose more LA responsive assay systems and to assess intralaboratory precision of their LA testing </plain></SENT>
+</text></document>

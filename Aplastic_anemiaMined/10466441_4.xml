@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:e sem="disease" ids="C1167779" disease_type="Disease or Syndrome" abbrv="">Neutropenic infections</z:e> are the major cause of morbidity and mortality in the treatment of <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> (AA) with antilymphocyte globulin (ALG), <z:chebi fb="0" ids="4031">cyclosporin A</z:chebi> (CSA), and <z:chebi fb="0" ids="6888">methylprednisolone</z:chebi> (MP) </plain></SENT>
+<SENT sid="1" pm="."><plain>Recent data suggest a beneficial effect of administering G-CSF as an adjunct to immunosuppression </plain></SENT>
+<SENT sid="2" pm="."><plain>We have treated 11 consecutive patients with AA using a combined immunosuppressive regimen including ALG, CSA, and MP plus G-CSF at a dose of 5 microg/kg/day until neutropoietic recovery </plain></SENT>
+<SENT sid="3" pm="."><plain>In addition to measuring routine hematological parameters we have performed serial determinations of reticulocyte counts and in vitro progenitor cell cultures before and after therapy in order to assess their predictive value for treatment response and to determine the impact of therapy on early hematopoiesis </plain></SENT>
+<SENT sid="4" pm="."><plain>One patient died on day 34 of neutropenic <z:mpath ids='MPATH_681'>septicemia</z:mpath> </plain></SENT>
+<SENT sid="5" pm="."><plain>At 1 year, 81% of patients showed response to treatment </plain></SENT>
+<SENT sid="6" pm="."><plain>The median time to ANC values &gt;0.5 and &gt;1.0 x 10(9)/l were 19 and 35 days, respectively </plain></SENT>
+<SENT sid="7" pm="."><plain>Reticulocyte counts started to recover after 6 weeks, and transfusion independence was observed on day 52 for red blood cell transfusions and on day 53 for platelet concentrates </plain></SENT>
+<SENT sid="8" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> patients with detectable colony formation in peripheral blood achieved a complete hematological remission, as compared with only one of five patients without progenitor cell growth </plain></SENT>
+<SENT sid="9" pm="."><plain>Although <z:mpath ids='MPATH_458'>normal</z:mpath> ranges were rarely achieved, there was a small but definitive improvement in progenitor cell numbers as compared with baseline values in most patients </plain></SENT>
+<SENT sid="10" pm="."><plain>Our results confirm the good tolerability and high efficacy of this G-CSF-supported combined immunosuppressive therapy for AA </plain></SENT>
+<SENT sid="11" pm="."><plain>Detectable colony growth at diagnosis seems to predict a high chance for complete hematological response </plain></SENT>
+</text></document>

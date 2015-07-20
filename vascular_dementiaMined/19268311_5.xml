@@ -1,0 +1,36 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Our studies of the brain microvascular system have focused on some aspects not commonly studied by other research groups because we use some techniques not often used by others </plain></SENT>
+<SENT sid="1" pm="."><plain>Our observations tend to add new details to the pathological picture rather than contradict the mainstream findings </plain></SENT>
+<SENT sid="2" pm="."><plain>We use large, thick celloidin sections which provide a three dimensional view of vascular networks, and alkaline phosphatase (AP) staining which allows one to differentiate between afferent and efferent vessels </plain></SENT>
+<SENT sid="3" pm="."><plain>We found millions of <z:chebi fb="23" ids="18059">lipid</z:chebi> microemboli in the brains of patients after cardiac surgery, and concluded that they caused vascular <z:hpo ids='HP_0000726'>dementia</z:hpo> in many patients </plain></SENT>
+<SENT sid="4" pm="."><plain>We previously proposed an animal model of vascular <z:hpo ids='HP_0000726'>dementia</z:hpo> using brain irradiation, which induces capillary loss </plain></SENT>
+<SENT sid="5" pm="."><plain><z:chebi fb="23" ids="18059">Lipid</z:chebi> emboli might also be used to create an animal model of vascular <z:hpo ids='HP_0000726'>dementia</z:hpo> </plain></SENT>
+<SENT sid="6" pm="."><plain>The deep white matter is vulnerable to <z:hpo ids='HP_0011010'>chronic</z:hpo> hypoperfusion because the blood vessels supplying this region arise from the border-zone and have the longest course of <z:hpo ids='HP_0000001'>all</z:hpo> vessels penetrating the cerebrum </plain></SENT>
+<SENT sid="7" pm="."><plain>In cases with leukoaraiosis (LA), we found periventricular venous <z:e sem="disease" ids="C0235910" disease_type="Disease or Syndrome" abbrv="">collagenosis</z:e> (<z:mp ids='MP_0010018'>PVC</z:mp>), resulting in stenosis </plain></SENT>
+<SENT sid="8" pm="."><plain>Thirteen of 20 subjects older than 60 years had <z:mp ids='MP_0010018'>PVC</z:mp>, and 10 of 13 subjects with severe <z:mp ids='MP_0010018'>PVC</z:mp> had LA </plain></SENT>
+<SENT sid="9" pm="."><plain><z:mp ids='MP_0005412'>Vascular stenosis</z:mp> might induce <z:hpo ids='HP_0011010'>chronic</z:hpo> <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> and/or <z:hpo ids='HP_0000969'>edema</z:hpo> in the deep white matter, leading to LA </plain></SENT>
+<SENT sid="10" pm="."><plain>We suggest three mechanisms for a possible genetic predisposition to <z:mp ids='MP_0010018'>PVC</z:mp>: i) a predisposition to excessive venous <z:e sem="disease" ids="C0235910" disease_type="Disease or Syndrome" abbrv="">collagenosis</z:e>; ii) an indirect effect that causes <z:hpo ids='HP_0011010'>chronic</z:hpo> periventricular <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> with a reactive over-production of collagen; and iii) mechanical damage to small vessels due to increased pulsatile motion </plain></SENT>
+<SENT sid="11" pm="."><plain>We found tortuous arterioles supplying the deep white matter beginning at about age 50 </plain></SENT>
+<SENT sid="12" pm="."><plain>We also found a trend toward an increase in tortuosity in LA </plain></SENT>
+<SENT sid="13" pm="."><plain>If tortuosity is a factor in LA, it is probably significant in only a subset of cases </plain></SENT>
+<SENT sid="14" pm="."><plain>String vessels, remnants of capillaries, occur commonly in the brain, and are increased in <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e>, AD, and irradiation </plain></SENT>
+<SENT sid="15" pm="."><plain>Capillary injury or shutdown of blood flow can lead to capillary loss and string vessel formation </plain></SENT>
+<SENT sid="16" pm="."><plain>We found string vessels in brains from preterm babies to the very old </plain></SENT>
+<SENT sid="17" pm="."><plain>They seem to disappear after some months or years </plain></SENT>
+<SENT sid="18" pm="."><plain>We found an early loss of capillaries in LA, followed in a few years by the disappearance of string vessels </plain></SENT>
+<SENT sid="19" pm="."><plain>LA lesions do not progress to cortical cavitating lesions </plain></SENT>
+<SENT sid="20" pm="."><plain>Our findings raise three questions </plain></SENT>
+<SENT sid="21" pm="."><plain>1 </plain></SENT>
+<SENT sid="22" pm="?"><plain>Why is the capillary loss arrested before infarction </plain></SENT>
+<SENT sid="23" pm="."><plain>2 </plain></SENT>
+<SENT sid="24" pm="?"><plain>Why is there a floor below which the vascular density will not fall </plain></SENT>
+<SENT sid="25" pm="."><plain>3 </plain></SENT>
+<SENT sid="26" pm="?"><plain>Why does the process which initiates string vessels shut down </plain></SENT>
+<SENT sid="27" pm="."><plain>We explain the vascular changes in LA as follows </plain></SENT>
+<SENT sid="28" pm="."><plain>LA induces <z:mpath ids='MPATH_3'>apoptosis</z:mpath> with loss of oligodendrocytes </plain></SENT>
+<SENT sid="29" pm="."><plain>Capillaries and neuropil are lost </plain></SENT>
+<SENT sid="30" pm="."><plain>Increased oxygen extraction from the blood in the deep white matter in LA implies that there are too many cells for the remaining capillaries </plain></SENT>
+<SENT sid="31" pm="."><plain>Thus, the capillaries appear to die first </plain></SENT>
+<SENT sid="32" pm="?"><plain>But why do they stop dying </plain></SENT>
+<SENT sid="33" pm="."><plain>Perhaps a minimum number of capillaries are needed to transport the arterial blood to the venous system </plain></SENT>
+<SENT sid="34" pm="."><plain>Once the capillaries stop dying, no more string vessels are formed, and the string vessels gradually disappear </plain></SENT>
+</text></document>

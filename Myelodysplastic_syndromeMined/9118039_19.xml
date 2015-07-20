@@ -1,0 +1,19 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: The Eastern Cooperative <z:hpo ids='HP_0002664'>Oncology</z:hpo> Group (ECOG) performed a Phase III comparison of melphalan and <z:chebi fb="0" ids="8382">prednisone</z:chebi> (MP) with <z:chebi fb="0" ids="28445">vincristine</z:chebi>, <z:chebi fb="0" ids="3423">carmustine</z:chebi> (BCNU), melphalan, <z:chebi fb="0" ids="4027">cyclophosphamide</z:chebi>, and <z:chebi fb="0" ids="8382">prednisone</z:chebi> (VBMCP) in an attempt to determine which of these regimens should be the standard treatment for <z:hpo ids='HP_0006775'>multiple myeloma</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: Four hundred seventy-nine previously untreated patients with <z:hpo ids='HP_0006775'>multiple myeloma</z:hpo> from 23 ECOG institutions were enrolled </plain></SENT>
+<SENT sid="2" pm="."><plain>Treatment, assigned by randomization, consisted of either 4-week cycles of MP or 5-week cycles of VBCMP </plain></SENT>
+<SENT sid="3" pm="."><plain>After 1 year of induction therapy, patients received MP or VBMCP maintenance therapy at 6- and 8- week intervals, respectively, until relapse </plain></SENT>
+<SENT sid="4" pm="."><plain>Patients who experienced treatment failure with MP were eligible for crossover therapy with VBMCP </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: Objective responses were obtained for 51% of patients receiving MP, as compared with 72% of patients receiving VBMCP (P &lt; 0.001) </plain></SENT>
+<SENT sid="6" pm="."><plain>Response duration was also longer with VBMCP (median, 18 months with MP vs. 24 months with VBMCP; P = 0.007) </plain></SENT>
+<SENT sid="7" pm="."><plain>Overall survival was not significantly different between MP and VBMCP (P = 0.30) </plain></SENT>
+<SENT sid="8" pm="."><plain>The 5-year survival for VBMCP was 26%, as compared with 19% for MP </plain></SENT>
+<SENT sid="9" pm="."><plain>VBMCP was associated with more <z:hpo ids='HP_0002018'>nausea</z:hpo>, peripheral nerve toxicity, <z:hpo ids='HP_0001596'>alopecia</z:hpo>, and <z:hpo ids='HP_0001875'>neutropenia</z:hpo>, but the <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infection</z:e> rate was equal to that observed with MP </plain></SENT>
+<SENT sid="10" pm="."><plain>Both regimens were generally well tolerated </plain></SENT>
+<SENT sid="11" pm="."><plain>The main exception was that elderly patients who were confined to bed had a higher risk of <z:hpo ids='HP_0011420'>death</z:hpo> with VBMCP </plain></SENT>
+<SENT sid="12" pm="."><plain>The two regimens produced a similar incidence of late secondary <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo> and <z:hpo ids='HP_0002488'>acute leukemia</z:hpo> </plain></SENT>
+<SENT sid="13" pm="."><plain>Crossover VBMCP for patients failing with MP was only minimally effective, with an objective response rate of 20% and median survival of 11 months after crossover </plain></SENT>
+<SENT sid="14" pm="."><plain>CONCLUSIONS: VBMCP is more effective than MP in producing and sustaining remission of <z:hpo ids='HP_0006775'>multiple myeloma</z:hpo> </plain></SENT>
+<SENT sid="15" pm="."><plain>It is associated with a marginal survival advantage and an apparently greater chance of surviving 5 years for patients who can tolerate moderately intensive combination chemotherapy </plain></SENT>
+<SENT sid="16" pm="."><plain><z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">Cancer</z:e> 1997;79:1561-7 </plain></SENT>
+<SENT sid="17" pm="."><plain>1997 American <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">Cancer</z:e> Society </plain></SENT>
+</text></document>

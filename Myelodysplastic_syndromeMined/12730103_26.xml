@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:chebi fb="0" ids="49648">Holmium</z:chebi>-166 1, 4, 7, 10-tetraazcyclododecane-1, 4, 7, 10-tetramethylenephosphonate (166Ho-DOTMP) is a radiotherapeutic that localizes specifically to the skeleton and can deliver high-dose radiation to the bone and bone marrow </plain></SENT>
+<SENT sid="1" pm="."><plain>In patients with <z:hpo ids='HP_0006775'>multiple myeloma</z:hpo> undergoing autologous hematopoietic stem cell transplantation two phase 1/2 dose-escalation studies of high-dose 166Ho-DOTMP plus melphalan were conducted </plain></SENT>
+<SENT sid="2" pm="."><plain>Patients received a 30 mCi (1.110 Gbq) tracer dose of 166Ho-DOTMP to assess skeletal uptake and to calculate a patient-specific therapeutic dose to deliver a nominal radiation dose of 20, 30, or 40 Gy to the bone marrow </plain></SENT>
+<SENT sid="3" pm="."><plain>A total of 83 patients received a therapeutic dose of 166Ho-DOTMP followed by autologous hematopoietic stem cell transplantation 6 to 10 days later </plain></SENT>
+<SENT sid="4" pm="."><plain>Of the patients, 81 had rapid and sustained hematologic recovery, and 2 died from <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infection</z:e> before day 60 </plain></SENT>
+<SENT sid="5" pm="."><plain>No grades 3 to 4 nonhematologic toxicities were reported within the first 60 days </plain></SENT>
+<SENT sid="6" pm="."><plain>There were 27 patients who experienced grades 2 to 3 hemorrhagic <z:e sem="disease" ids="C0010692" disease_type="Disease or Syndrome" abbrv="">cystitis</z:e>, only 1 of whom had received continuous bladder irrigation </plain></SENT>
+<SENT sid="7" pm="."><plain>There were 7 patients who experienced complications considered to be caused by severe <z:e sem="disease" ids="C0034155" disease_type="Disease or Syndrome" abbrv="">thrombotic microangiopathy</z:e> (<z:chebi fb="39" ids="18139,53050">TMA</z:chebi>) </plain></SENT>
+<SENT sid="8" pm="."><plain>No cases of severe <z:chebi fb="39" ids="18139,53050">TMA</z:chebi> were reported in patients receiving in 166Ho-DOMTP doses lower than 30 Gy </plain></SENT>
+<SENT sid="9" pm="."><plain>Approximately 30% of patients experienced grades 2 to 4 renal toxicity, usually at doses targeting more than 40 Gy to the bone marrow </plain></SENT>
+<SENT sid="10" pm="."><plain>Complete remission was achieved in 29 (35%) of evaluable patients </plain></SENT>
+<SENT sid="11" pm="."><plain>With a minimum follow-up of 23 months, the median survival had not been reached and the median event-free survival was 22 months </plain></SENT>
+<SENT sid="12" pm="."><plain>166Ho-DOTMP is a promising therapy for patients with <z:hpo ids='HP_0006775'>multiple myeloma</z:hpo> and merits further evaluation </plain></SENT>
+</text></document>

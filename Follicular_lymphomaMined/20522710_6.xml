@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Active immunization with the idiotype of follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo> induces <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e>-specific immunity </plain></SENT>
+<SENT sid="1" pm="."><plain>T cells induced in vivo by idiotype vaccination recognize human leukocyte antigen (HLA)--restricted hypervariable but not conserved idiotype <z:chebi fb="7" ids="16670">peptides</z:chebi> </plain></SENT>
+<SENT sid="2" pm="."><plain>We hypothesized that idiotype-directed T-cell immunity occurs naturally and performed a reverse immunology analysis of idiotype HLA binding in 39 follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo> patients </plain></SENT>
+<SENT sid="3" pm="."><plain>For every idiotype, the sum of HLA-A or -B binding scores of the 20 highest-scoring <z:chebi fb="7" ids="16670">peptides</z:chebi> was calculated for <z:hpo ids='HP_0000001'>all</z:hpo> 39 HLA types through the BIMAS algorithm </plain></SENT>
+<SENT sid="4" pm="."><plain>The idiotype sum score of every patient's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> was compared on the respective patient's HLA type to the mean of the sum scores of the remaining 38 idiotypes </plain></SENT>
+<SENT sid="5" pm="."><plain>Autologous idiotypes had lower immunogenicity than allogeneic idiotypes </plain></SENT>
+<SENT sid="6" pm="."><plain>Differential immunogenicity resided predominantly in <z:hpo ids='HP_0000001'>all</z:hpo> 3 complementarity-determining regions rather than in framework <z:chebi fb="7" ids="16670">peptides</z:chebi> </plain></SENT>
+<SENT sid="7" pm="."><plain>Idiotype immunogenicity was not changed by somatic hypermutation </plain></SENT>
+<SENT sid="8" pm="."><plain>These findings indicate T cell-mediated immunosurveillance of follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo> directed specifically against individual idiotype <z:chebi fb="0" ids="53000">epitopes</z:chebi> </plain></SENT>
+</text></document>

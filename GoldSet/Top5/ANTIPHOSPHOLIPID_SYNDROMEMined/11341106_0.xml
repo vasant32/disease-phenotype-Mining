@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The clinical features of antiphospholipid (or Hughes') syndrome (APS) are most commonly seen in individuals who have raised levels of IgG anticardiolipin antibodies </plain></SENT>
+<SENT sid="1" pm="."><plain>Most murine models of the syndrome have involved the administration of such antibodies to <z:mpath ids='MPATH_458'>normal</z:mpath> mice </plain></SENT>
+<SENT sid="2" pm="."><plain>However, APS can occur in the presence of raised levels of serum IgM anticardiolipin antibodies alone </plain></SENT>
+<SENT sid="3" pm="."><plain>The present study was designed to see if an IgM monoclonal antibody can induce changes in mice similar to those seen in human APS </plain></SENT>
+<SENT sid="4" pm="."><plain>This antibody, BH1, has previously been derived from a patient with primary APS </plain></SENT>
+<SENT sid="5" pm="."><plain>In its ligand-binding and idiotypic characteristics it is representative of <z:hpo ids='HP_0003613'>antiphospholipid antibodies</z:hpo> (aPL) found in the serum of patients with APS </plain></SENT>
+<SENT sid="6" pm="."><plain>In order to minimise the immune response to human IgM, we used transgenic mice (F15) which express, and are predicted to be tolerant of, human immunoglobulin mu chains </plain></SENT>
+<SENT sid="7" pm="."><plain>The features of APS may develop more readily in individuals who have an existing <z:e sem="disease" ids="C0004364" disease_type="Disease or Syndrome" abbrv="">autoimmune disorder</z:e>, such as <z:hpo ids='HP_0002725'>systemic lupus erythematosus</z:hpo> (SLE) </plain></SENT>
+<SENT sid="8" pm="."><plain>We therefore crossed these transgenic mice with New Zealand Black (NZB, SLE-prone) mice, and used the progeny (F15 x NZB/F1) in our experiments </plain></SENT>
+<SENT sid="9" pm="."><plain>Twenty-four F15 x NZB/F1 mice were given BH1, or a control IgM antibody, (A5566) immediately preceding and then three times during pregnancy </plain></SENT>
+<SENT sid="10" pm="."><plain>There was a reduction in the mean number of foetuses in animals given BH1 compared with those given A5566 (8.6 vs 11.0; P &lt; 0.05), and a similar reduction in mean total foetal weight per pregnancy (9.05 vs 12.73 g; P &lt; 0.05) </plain></SENT>
+<SENT sid="11" pm="."><plain>Two mice showed a marked reduction in platelet count </plain></SENT>
+<SENT sid="12" pm="."><plain>No evidence of <z:mp ids='MP_0005048'>thrombosis</z:mp> was detected macroscopically or histologically </plain></SENT>
+<SENT sid="13" pm="."><plain>Our results show a lower incidence of APS-type features compared to previous studies in which mice have been administered aPL </plain></SENT>
+<SENT sid="14" pm="."><plain>This may be because BH1 is an IgM antibody </plain></SENT>
+<SENT sid="15" pm="."><plain>Nevertheless, the data support the concept that IgM aPL of particular ligand-binding specificities may have a direct pathogenetic role in certain cases of human APS </plain></SENT>
+</text></document>

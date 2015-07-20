@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: <z:e sem="disease" ids="C0021390" disease_type="Disease or Syndrome" abbrv="">Inflammatory bowel disease</z:e> (IBD) is associated with an increased incidence of <z:hpo ids='HP_0001907'>thromboembolic disease</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain><z:e sem="disease" ids="C0598608" disease_type="Disease or Syndrome" abbrv="">Hyperhomocysteinaemia</z:e> (hyper-tHcy), a condition associated with the C677T variant of 5, 10-<z:chebi fb="0" ids="25297">methylenetetrahydrofolate</z:chebi> reductase (MTHFR), is linked with an increased incidence of <z:hpo ids='HP_0001907'>thromboembolic disease</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>Hyper-tHcy has been reported in patients with IBD </plain></SENT>
+<SENT sid="3" pm="."><plain>AIMS: To assess the prevalence of the C677T MTHFR genotype and the contribution of this genotype to hyper-tHcy in patients with IBD </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS: Patients with established IBD (n=174) and healthy controls (n=273) were studied </plain></SENT>
+<SENT sid="5" pm="."><plain>DNA samples were genotyped for the MTHFR (C677T) mutation </plain></SENT>
+<SENT sid="6" pm="."><plain>Subjects were categorised as homozygous for the thermolabile variant (TT), heterozygous for <z:mp ids='MP_0002169'>wild type</z:mp> and variant (CT), or homozygous for the <z:mp ids='MP_0002169'>wild type</z:mp> (CC) </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: Plasma <z:chebi fb="0" ids="17230">homocysteine</z:chebi> concentrations were significantly higher in patients with IBD than in healthy controls </plain></SENT>
+<SENT sid="8" pm="."><plain>A total of 17.5% of <z:hpo ids='HP_0100279'>ulcerative colitis</z:hpo> and 16.8% of <z:hpo ids='HP_0100280'>Crohn's disease</z:hpo> patients were homozygous for the C677T variant compared with 7.3% of controls </plain></SENT>
+<SENT sid="9" pm="."><plain>Homozygosity (TT) for the variant was associated with higher plasma tHcy levels in patients with IBD and in healthy controls </plain></SENT>
+<SENT sid="10" pm="."><plain>When <z:hpo ids='HP_0000001'>all</z:hpo> subjects who were TT for the variant were excluded, median plasma tHcy was still significantly higher in IBD than controls </plain></SENT>
+<SENT sid="11" pm="."><plain>Plasma vitamin B(12) levels were lower in patients with IBD irrespective of MTHFR genotype </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: There is an association between the thermolabile MTHFR C677T variant and IBD </plain></SENT>
+<SENT sid="13" pm="."><plain>This accounts in part for the raised plasma tHcy found in patients with IBD and may contribute to the increased incidence of thromboembolic complications </plain></SENT>
+<SENT sid="14" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> patients with IBD should receive low dose <z:chebi fb="9" ids="27470">folic acid</z:chebi> and vitamin B(12) therapy to protect against the thromboembolic complications of raised tHcy </plain></SENT>
+</text></document>

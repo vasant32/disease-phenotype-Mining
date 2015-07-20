@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: As studies on gastrointestinal neuroendocrine <z:mp ids='MP_0002038'>carcinoma</z:mp> (WHO G3) (GI-NEC) are limited, we reviewed clinical data to identify predictive and prognostic markers for advanced GI-NEC patients </plain></SENT>
+<SENT sid="1" pm="."><plain>PATIENTS AND METHODS: Data from advanced GI-NEC patients diagnosed 2000-2009 were retrospectively registered at 12 Nordic hospitals </plain></SENT>
+<SENT sid="2" pm="."><plain>RESULTS: The median survival was 11 months in 252 patients given palliative chemotherapy and 1 month in 53 patients receiving best supportive care (BSC) only </plain></SENT>
+<SENT sid="3" pm="."><plain>The response rate to first-line chemotherapy was 31% and 33% had stable disease </plain></SENT>
+<SENT sid="4" pm="."><plain>Ki-67&lt;55% was by receiver operating characteristic analysis the best cut-off value concerning correlation to the response rate </plain></SENT>
+<SENT sid="5" pm="."><plain>Patients with Ki-67&lt;55% had a lower response rate (15% versus 42%, P&lt;0.001), but better survival than patients with Ki-67≥55% (14 versus 10 months, P&lt;0.001) </plain></SENT>
+<SENT sid="6" pm="."><plain><z:chebi fb="240" ids="33364,33400">Platinum</z:chebi> schedule did not affect the response rate or survival </plain></SENT>
+<SENT sid="7" pm="."><plain>The most important negative prognostic factors for survival were poor performance status (PS), primary <z:e sem="disease" ids="C0009404" disease_type="Neoplastic Process" abbrv="">colorectal tumors</z:e> and elevated platelets or <z:chebi fb="4" ids="24996">lactate</z:chebi> dehydrogenase (LDH) levels </plain></SENT>
+<SENT sid="8" pm="."><plain>CONCLUSIONS: Advanced GI-NEC patients should be considered for chemotherapy treatment without delay.PS, colorectal primary and elevated platelets and LDH levels were prognostic factors for survival </plain></SENT>
+<SENT sid="9" pm="."><plain>Patients with Ki-67&lt;55% were less responsive to <z:chebi fb="240" ids="33364,33400">platinum</z:chebi>-based chemotherapy, but had a longer survival </plain></SENT>
+<SENT sid="10" pm="."><plain>Our data indicate that it may not be correct to consider <z:hpo ids='HP_0000001'>all</z:hpo> GI-NEC as one single disease entity </plain></SENT>
+</text></document>

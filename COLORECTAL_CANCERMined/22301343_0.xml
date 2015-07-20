@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Confocal endomicroscopy has revolutionized endoscopy by offering subcellular images of the GI epithelium; however, the field of view is limited </plain></SENT>
+<SENT sid="1" pm="."><plain>Multiscale endoscopy platforms that use widefield imaging are needed to better direct the placement of high-resolution probes </plain></SENT>
+<SENT sid="2" pm="."><plain>DESIGN: Feasibility study </plain></SENT>
+<SENT sid="3" pm="."><plain>OBJECTIVE: This study evaluated the feasibility of a single agent, <z:chebi fb="0" ids="8452">proflavine</z:chebi> hemisulfate, as a contrast medium during both widefield and high-resolution imaging to characterize the morphologic changes associated with a variety of GI conditions </plain></SENT>
+<SENT sid="4" pm="."><plain>SETTING: The University of Texas MD Anderson <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">Cancer</z:e> Center, Houston, Texas, and Mount Sinai Medical Center, New York, New York </plain></SENT>
+<SENT sid="5" pm="."><plain>PATIENTS, INTERVENTIONS, AND MAIN OUTCOME MEASUREMENTS: Resected specimens were obtained from 15 patients undergoing EMR, esophagectomy, or colectomy </plain></SENT>
+<SENT sid="6" pm="."><plain><z:chebi fb="0" ids="8452">Proflavine</z:chebi> hemisulfate, a vital <z:chebi fb="2" ids="51121">fluorescent dye</z:chebi>, was applied topically </plain></SENT>
+<SENT sid="7" pm="."><plain>The specimens were imaged with a widefield multispectral microscope and a high-resolution microendoscope </plain></SENT>
+<SENT sid="8" pm="."><plain>The images were compared with histopathologic examination </plain></SENT>
+<SENT sid="9" pm="."><plain>RESULTS: Widefield fluorescence imaging enhanced visualization of <z:mp ids='MP_0000002'>morphology</z:mp>, including the presence and spatial distribution of glands, glandular distortion, <z:mpath ids='MPATH_127'>atrophy</z:mpath>, and crowding </plain></SENT>
+<SENT sid="10" pm="."><plain>High-resolution imaging of widefield abnormal areas revealed that <z:e sem="disease" ids="C0178874" disease_type="Neoplastic Process" abbrv="">neoplastic progression</z:e> corresponded to glandular <z:hpo ids='HP_0001425'>heterogeneity</z:hpo> and nuclear crowding in <z:mpath ids='MPATH_589'>dysplasia</z:mpath>, with glandular effacement in <z:mp ids='MP_0002038'>carcinoma</z:mp> </plain></SENT>
+<SENT sid="11" pm="."><plain>These widefield and high-resolution image features correlated well with the histopathologic features </plain></SENT>
+<SENT sid="12" pm="."><plain>LIMITATIONS: This imaging approach must be validated in vivo with a larger sample size </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSIONS: Multiscale <z:chebi fb="0" ids="8452">proflavine</z:chebi>-enhanced fluorescence imaging can delineate epithelial changes in a variety of GI conditions </plain></SENT>
+<SENT sid="14" pm="."><plain>Distorted glandular features seen with widefield imaging could serve as a critical bridge to high-resolution probe placement </plain></SENT>
+<SENT sid="15" pm="."><plain>An endoscopic platform combining the two modalities with a single vital dye may facilitate point-of-care decision making by providing real-time, in vivo diagnoses </plain></SENT>
+</text></document>

@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIM: It is often difficult and challenging task to differentiate <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> (AA) from hypoplastic <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo> (HMDS) among the patients with bone marrow <z:mpath ids='MPATH_58'>aplasia</z:mpath> </plain></SENT>
+<SENT sid="1" pm="."><plain>This is possibly because of the considerable clinical, cytological and histological similarities between these two disorders </plain></SENT>
+<SENT sid="2" pm="."><plain>As prognostic and therapeutic approach to AA and HMDS are different, it is imperative to differentiate them at the time of initial diagnosis </plain></SENT>
+<SENT sid="3" pm="."><plain>Various attempts have been made in the past to differentiate AA from HMDS </plain></SENT>
+<SENT sid="4" pm="."><plain>In the present study, we explored the value of certain new parameters i.e. S-phase fraction (SPF) and <z:mp ids='MP_0004024'>aneuploidy</z:mp> that could be used for this purpose </plain></SENT>
+<SENT sid="5" pm="."><plain>MATERIALS AND METHODS: The study included 46 consecutive patients with <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo>, 15 patients with HMDS along with 32 age and sex-matched control subjects </plain></SENT>
+<SENT sid="6" pm="."><plain>S-phase fraction and <z:mp ids='MP_0004024'>aneuploidy</z:mp> analysis was carried out by flow cytometry using Mod Fit-LT V3.0 software </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: The mean SPF value was significantly lower (p=0.02) in patients with AA and higher (p=0.01) in HMDS as compared to that of the control </plain></SENT>
+<SENT sid="8" pm="."><plain><z:mp ids='MP_0004024'>Aneuploidy</z:mp> was present in 15.2% patients with AA and in 33.3% HMDS cases </plain></SENT>
+<SENT sid="9" pm="."><plain>During follow-up, 4 patients with AA developed <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e>, out of these, three patients had <z:mp ids='MP_0004024'>aneuploidy</z:mp> as well as high SPF value at the time of diagnosis </plain></SENT>
+<SENT sid="10" pm="."><plain>Two patients with HMDS who had <z:mp ids='MP_0004024'>aneuploidy</z:mp> and high SPF, converted into <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">AML</z:e> </plain></SENT>
+<SENT sid="11" pm="."><plain>Eleven patients died during the study, in whom 8 had <z:mp ids='MP_0004024'>aneuploidy</z:mp> and high SPF value </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSION: We conclude that high SPF value and presence of <z:mp ids='MP_0004024'>aneuploidy</z:mp> favour the diagnosis of HMDS rather than AA </plain></SENT>
+<SENT sid="13" pm="."><plain>SPF and <z:mp ids='MP_0004024'>aneuploidy</z:mp> may be important parameters in patients with AA to predict their propensity to evolve into <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo> and <z:hpo ids='HP_0004808'>acute myeloid leukemia</z:hpo> </plain></SENT>
+<SENT sid="14" pm="."><plain>SPF value may also be useful in the early diagnosis of HMDS before morphologically evidence of <z:mpath ids='MPATH_589'>dysplasia</z:mpath> is apparent </plain></SENT>
+</text></document>

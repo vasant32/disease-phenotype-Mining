@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Recently, we demonstrated immunological and clinical responses to a RHAMM-R3 <z:chebi fb="7" ids="16670">peptide</z:chebi> vaccine in patients with <z:hpo ids='HP_0004808'>acute myeloid leukemia</z:hpo>, <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo> and <z:hpo ids='HP_0006775'>multiple myeloma</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>To improve the outcome of the vaccine, a second cohort was vaccinated with a higher dose of 1,000 microg <z:chebi fb="7" ids="16670">peptide</z:chebi> </plain></SENT>
+<SENT sid="2" pm="."><plain>DESIGN AND METHODS: Nine patients received four vaccinations subcutaneously at a biweekly interval </plain></SENT>
+<SENT sid="3" pm="."><plain>Immunomonitoring of cytotoxic CD8(+) as well as regulatory CD4(+) T cells was performed by flow cytometry as well as by enzyme-linked immunospot (ELISpot) assays </plain></SENT>
+<SENT sid="4" pm="."><plain>Parameters of clinical response were assessed </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: In 4 of 9 patients (44%) we detected positive immunological responses </plain></SENT>
+<SENT sid="6" pm="."><plain>These patients showed an increase of CD8(+)RHAMM-R3_tetramer(+)/CD45RA(+)/CCR7(-)/CD27(-)/CD28(-) effector T cells and an increase of R3-specific CD8+ T cells </plain></SENT>
+<SENT sid="7" pm="."><plain>Two of these patients showed a significant decrease of regulatory T cells (Tregs) </plain></SENT>
+<SENT sid="8" pm="."><plain>In one patient without response Tregs frequency increased from 5 to 16% </plain></SENT>
+<SENT sid="9" pm="."><plain>Three patients showed clinical effects: one patient with <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo> <z:e sem="disease" ids="C1318550" disease_type="Neoplastic Process" abbrv="">RAEB-1</z:e> showed a reduction of leukemic blasts in the bone marrow, another <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo> patient an improvement of peripheral blood counts and one patient with <z:hpo ids='HP_0006775'>multiple myeloma</z:hpo> a reduction of free light chains </plain></SENT>
+<SENT sid="10" pm="."><plain>Clinical and immunological reactions were lower in this cohort than in the 300 microg cohort </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: High-dose RHAMM-R3 <z:chebi fb="7" ids="16670">peptide</z:chebi> vaccination induced immunological responses and positive clinical effects </plain></SENT>
+<SENT sid="12" pm="."><plain>Therefore, RHAMM constitutes a promising structure for further targeted immunotherapies in patients with different <z:e sem="disease" ids="C0376545" disease_type="Neoplastic Process" abbrv="">hematologic malignancies</z:e> </plain></SENT>
+<SENT sid="13" pm="."><plain>However, higher doses of <z:chebi fb="7" ids="16670">peptide</z:chebi> did not improve the frequency and intensity of immune responses in this trial </plain></SENT>
+</text></document>

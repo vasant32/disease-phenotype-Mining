@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Epstein-Barr virus (EBV) is associated with a variety of lymphoid <z:e sem="disease" ids="C0006826" disease_type="Neoplastic Process" abbrv="">malignancies</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain><z:chebi fb="0" ids="52717">Bortezomib</z:chebi> activates EBV lytic gene expression </plain></SENT>
+<SENT sid="2" pm="."><plain><z:chebi fb="0" ids="52717">Bortezomib</z:chebi>, a <z:chebi fb="0" ids="52726">proteasome inhibitor</z:chebi>, leads to increased levels of CCAAT/enhancer-binding proteinβ (C/EBPβ) in a variety of <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> cell lines </plain></SENT>
+<SENT sid="3" pm="."><plain>C/EBPβ activates the promoter of the EBV lytic switch gene ZTA </plain></SENT>
+<SENT sid="4" pm="."><plain><z:chebi fb="0" ids="52717">Bortezomib</z:chebi> treatment leads to increased binding of C/EBP to previously recognized binding sites in the ZTA promoter </plain></SENT>
+<SENT sid="5" pm="."><plain>Knockdown of C/EBPβ inhibits <z:chebi fb="0" ids="52717">bortezomib</z:chebi> activation of EBV lytic gene expression </plain></SENT>
+<SENT sid="6" pm="."><plain><z:chebi fb="0" ids="52717">Bortezomib</z:chebi> also induces the unfolded protein response (UPR), as evidenced by increases in ATF4, CHOP10, and XBP1s and cleavage of ATF6 </plain></SENT>
+<SENT sid="7" pm="."><plain>Thapsigargin, an inducer of the UPR that does not interfere with proteasome function, also induces EBV lytic gene expression </plain></SENT>
+<SENT sid="8" pm="."><plain>The effects of thapsigargin on EBV lytic gene expression are also inhibited by C/EBPβ knock-down </plain></SENT>
+<SENT sid="9" pm="."><plain>Therefore, C/EBPβ mediates the activation of EBV lytic gene expression associated with <z:chebi fb="0" ids="52717">bortezomib</z:chebi> and another UPR inducer </plain></SENT>
+</text></document>

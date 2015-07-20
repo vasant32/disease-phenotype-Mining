@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0000618'>Blindness</z:hpo> means no light perception </plain></SENT>
+<SENT sid="1" pm="."><plain>In that case one observes a fixed dilated pupil </plain></SENT>
+<SENT sid="2" pm="."><plain>An unilateral <z:e sem="disease" ids="C0376288" disease_type="Disease or Syndrome" abbrv="">amaurosis</z:e> of sudden <z:hpo ids='HP_0003674'>onset</z:hpo> is caused either by an ocular or an optic nerve condition </plain></SENT>
+<SENT sid="3" pm="."><plain>The most common causes are: --occlusion of the central <z:chebi fb="46" ids="15035">retinal</z:chebi> artery --<z:e sem="disease" ids="C0038454" disease_type="Disease or Syndrome" abbrv="">apoplexy</z:e> of the papilla --traumatic lesions to the optic nerve Bilateral <z:hpo ids='HP_0000618'>blindness</z:hpo> occurring suddenly is for anatomic reasons due to a chiasmatic lesion </plain></SENT>
+<SENT sid="4" pm="."><plain>It is mainly associated with <z:e sem="disease" ids="C0032001" disease_type="Disease or Syndrome" abbrv="">pituitary apoplexy</z:e> </plain></SENT>
+<SENT sid="5" pm="."><plain>More commonly bilateral <z:hpo ids='HP_0000618'>blindness</z:hpo> develops sequentially and may be discovered only after the second event </plain></SENT>
+<SENT sid="6" pm="."><plain>Besides other ocular diseases bilateral occipital <z:e sem="disease" ids="C0751955" disease_type="Disease or Syndrome" abbrv="">brain infarction</z:e> has to be considered </plain></SENT>
+</text></document>

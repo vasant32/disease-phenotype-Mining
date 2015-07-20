@@ -1,0 +1,18 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We investigated breathing patterns and the occurrence of <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> and ST-segment changes during sleep in patients with <z:e sem="disease" ids="C1142166" disease_type="Disease or Syndrome" abbrv="SUNDS">Brugada syndrome</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>Patients with <z:e sem="disease" ids="C1142166" disease_type="Disease or Syndrome" abbrv="SUNDS">Brugada syndrome</z:e> are more likely to die from <z:hpo ids='HP_0004308'>ventricular arrhythmias</z:hpo> during sleep </plain></SENT>
+<SENT sid="2" pm="."><plain>ST-segment changes have been correlated with risk of <z:hpo ids='HP_0001645'>sudden cardiac death</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>Whether <z:hpo ids='HP_0002360'>sleep disturbances</z:hpo> may contribute to arrhythmogenesis is unknown </plain></SENT>
+<SENT sid="4" pm="."><plain>Patients with <z:e sem="disease" ids="C1142166" disease_type="Disease or Syndrome" abbrv="SUNDS">Brugada syndrome</z:e> underwent overnight polysomnography with simultaneous 12-lead electrocardiographic recording </plain></SENT>
+<SENT sid="5" pm="."><plain>A control group matched by age, gender, and body mass index (BMI) also underwent polysomnography </plain></SENT>
+<SENT sid="6" pm="."><plain>Twenty patients were included (50 ± 15 years old, 75% men) </plain></SENT>
+<SENT sid="7" pm="."><plain>Despite their <z:mpath ids='MPATH_458'>normal</z:mpath> BMI (24.7 ± 2.7 kg/m(2)), 45% had <z:e sem="disease" ids="C0037315" disease_type="Disease or Syndrome" abbrv="">sleep-disordered breathing</z:e> (SDB), with a mean <z:hpo ids='HP_0002104'>apnea</z:hpo>-<z:mp ids='MP_0001956'>hypopnea</z:mp> index of 17.2 ± 14 events/hour </plain></SENT>
+<SENT sid="8" pm="."><plain>In patients with a high risk of <z:hpo ids='HP_0011675'>arrhythmias</z:hpo>, 5 (63%) had SDB </plain></SENT>
+<SENT sid="9" pm="."><plain>In the control group, 27% had SDB </plain></SENT>
+<SENT sid="10" pm="."><plain>Atrial or <z:hpo ids='HP_0004308'>ventricular arrhythmias</z:hpo> were not observed </plain></SENT>
+<SENT sid="11" pm="."><plain>Spontaneous ST-segment changes occurred in 2 patients over 45 different time points </plain></SENT>
+<SENT sid="12" pm="."><plain>Most ST-segment changes were observed during rapid eye movement sleep (31%) or within 1 minute of arousals (44%) </plain></SENT>
+<SENT sid="13" pm="."><plain>Regarding respiratory events, 25 (56%) of ST-segment changes were related to occurrence of <z:hpo ids='HP_0002104'>apnea</z:hpo> or <z:mp ids='MP_0001956'>hypopnea</z:mp> </plain></SENT>
+<SENT sid="14" pm="."><plain>In conclusion, patients with <z:e sem="disease" ids="C1142166" disease_type="Disease or Syndrome" abbrv="SUNDS">Brugada syndrome</z:e> have a high prevalence of SDB even in the setting of <z:mpath ids='MPATH_458'>normal</z:mpath> BMI </plain></SENT>
+<SENT sid="15" pm="."><plain>The higher incidence of nocturnal <z:hpo ids='HP_0011420'>death</z:hpo> in patients with <z:e sem="disease" ids="C1142166" disease_type="Disease or Syndrome" abbrv="SUNDS">Brugada syndrome</z:e> may be conceivably related to co-morbid SDB </plain></SENT>
+<SENT sid="16" pm="."><plain>Moreover, <z:e sem="disease" ids="C0262385" disease_type="Disease or Syndrome" abbrv="">autonomic instability</z:e> encountered in rapid eye movement sleep and arousals could potentiate the risk of <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> </plain></SENT>
+</text></document>

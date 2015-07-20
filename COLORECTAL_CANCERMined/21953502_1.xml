@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PURPOSE: An ancillary phase II study was conducted to study interindividual variability in cetuximab pharmacokinetics and its influence on progression-free survival (PFS) in <z:e sem="disease" ids="C0948380" disease_type="Neoplastic Process" abbrv="">metastatic colorectal cancer</z:e> patients cotreated with irinotecan and <z:chebi fb="0" ids="46345">5-fluorouracil</z:chebi> </plain></SENT>
+<SENT sid="1" pm="."><plain>EXPERIMENTAL DESIGN: Ninety-six patients received cetuximab as an infusion loading dose of 400 mg/m(2) followed by weekly infusions of 250 mg/m(2) </plain></SENT>
+<SENT sid="2" pm="."><plain>Doses of irinotecan and <z:chebi fb="0" ids="46345">5-fluorouracil</z:chebi> were adjusted individually </plain></SENT>
+<SENT sid="3" pm="."><plain>Cetuximab concentrations were measured by ELISA </plain></SENT>
+<SENT sid="4" pm="."><plain>Compartmental pharmacokinetic parameters were estimated by a population approach, and PFS was analyzed using a Cox model </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: Cetuximab pharmacokinetics was best described using a two-compartment model with both first-order and saturable (zero-order) elimination </plain></SENT>
+<SENT sid="6" pm="."><plain>Estimated pharmacokinetic parameters (% standard error) were as follows: central volume of distribution V(1) = 2.96 L (4%), peripheral volume of distribution V(2) = 4.65 L (6%), elimination clearance CL = 0.497 L/d (4%), distribution clearance Q = 0.836 L/d (8%), and zero-order elimination rate k(0) = 8.71 mg/d (10%) </plain></SENT>
+<SENT sid="7" pm="."><plain>Body surface area influenced V(1), V(2), and k(0) </plain></SENT>
+<SENT sid="8" pm="."><plain>Pretreatment serum albumin influenced CL </plain></SENT>
+<SENT sid="9" pm="."><plain>Risk of disease progression decreased with cetuximab global clearance (cumulative dose/cumulative area under the concentration versus time curve; P = 0.00016) </plain></SENT>
+<SENT sid="10" pm="."><plain>Median PFS of patients with a cetuximab residual concentration on day 14 below median value was 3.3 months as compared with 7.8 months for the other patients (P = 0.004) </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: Cetuximab pharmacokinetics in <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> patients can be described using a model combining linear and nonlinear elimination rates </plain></SENT>
+<SENT sid="12" pm="."><plain>PFS is influenced by global clearance of cetuximab, a parameter that can be estimated using cetuximab residual concentration on day 14 </plain></SENT>
+</text></document>

@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Interferon-alpha (IFN-alpha) is known to exhibit antiviral, antiproliferative, and immunomodulatory properties through mechanisms still not fully understood </plain></SENT>
+<SENT sid="1" pm="."><plain>Nuclear transcription factor-kappaB (NF-kappaB) plays a major role in <z:mp ids='MP_0001799'>viral</z:mp> replication, cell proliferation, and immune response </plain></SENT>
+<SENT sid="2" pm="."><plain>Whether antiproliferative effects of IFN are mediated through suppression of NF-kappaB is not known </plain></SENT>
+<SENT sid="3" pm="."><plain>We, therefore, examined the relationship between the antiproliferative effects of IFN-alpha and NF-kappaB activity in a human Burkitt <z:hpo ids='HP_0002665'>lymphoma</z:hpo> Daudi cell line </plain></SENT>
+<SENT sid="4" pm="."><plain>These cells were found to constitutively express high levels of active NF-kappaB that cannot be further activated by <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> <z:mp ids='MP_0001651'>necrosis</z:mp> factor (TNF) </plain></SENT>
+<SENT sid="5" pm="."><plain>Treatment of cells with IFN-alpha suppressed the activated NF-kappaB in a dose-dependent manner, with an optimum effect at 10 U/ml in 72 h </plain></SENT>
+<SENT sid="6" pm="."><plain>Suppression of NF-kappaB correlated with a concomitant decrease in the cytoplasmic levels of IkappaBalpha, the inhibitory protein of NF-kappaB, known to be regulated by NF-kappaB </plain></SENT>
+<SENT sid="7" pm="."><plain>Downregulation of constitutive NF-kappaB activity correlated with a decrease in cell proliferation by IFN-alpha </plain></SENT>
+<SENT sid="8" pm="."><plain>Overall, our results suggest that IFN-alpha is a potent suppressor of constitutive NF-kappaB, which may contribute to the inhibition of cell proliferation </plain></SENT>
+</text></document>

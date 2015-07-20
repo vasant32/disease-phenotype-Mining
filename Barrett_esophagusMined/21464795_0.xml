@@ -1,0 +1,19 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: The risk for development of certain <z:e sem="disease" ids="C0006826" disease_type="Neoplastic Process" abbrv="">malignancies</z:e> after transplantation is well known </plain></SENT>
+<SENT sid="1" pm="."><plain>Especially in <z:e sem="disease" ids="C0850639" disease_type="Neoplastic Process" abbrv="">premalignant lesions</z:e> of the skin and colon, <z:hpo ids='HP_0003678'>rapid progression</z:hpo> is described </plain></SENT>
+<SENT sid="2" pm="."><plain>The aim of this study is to evaluate the progress of Barrett's mucosa to <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> of the esophagus after liver transplantation </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: Between 2000 and 2009, 895 patients underwent a liver transplantation in our department </plain></SENT>
+<SENT sid="4" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> patients had an upper endoscopy as part of the evaluation before transplantation </plain></SENT>
+<SENT sid="5" pm="."><plain>Patients who had Barrett's mucosa described in their endoscopy report were identified </plain></SENT>
+<SENT sid="6" pm="."><plain>The records of these patients were retrospectively reviewed </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: There were seven patients who had Barrett's mucosa in the preoperative endoscopy </plain></SENT>
+<SENT sid="8" pm="."><plain>Five of these patients (71%) developed an esophageal <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> in a median time of 66 months after liver transplantation </plain></SENT>
+<SENT sid="9" pm="."><plain>One had stage II disease and four had stage III disease </plain></SENT>
+<SENT sid="10" pm="."><plain>Three of them underwent neoadjuvant therapy </plain></SENT>
+<SENT sid="11" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> patients underwent an en bloc esophagectomy </plain></SENT>
+<SENT sid="12" pm="."><plain>One patient developed <z:e sem="disease" ids="C0277556" disease_type="Disease or Syndrome" abbrv="">recurrent disease</z:e> after 12 months and died 37 months after esophagectomy </plain></SENT>
+<SENT sid="13" pm="."><plain>The other four patients are still alive without recurrence and have a median survival of 16 months </plain></SENT>
+<SENT sid="14" pm="."><plain>CONCLUSION: <z:e sem="disease" ids="C0546837,C0014859" disease_type="Neoplastic Process" abbrv="">Esophageal cancer</z:e> after liver transplantation is rare, whereas the risk for progression of <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> to <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> is extremely high </plain></SENT>
+<SENT sid="15" pm="."><plain>Surveillance endoscopy with aggressive endoscopic treatment of the Barrett's is essential for these patients to prevent them from <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> <z:hpo ids='HP_0011420'>death</z:hpo> </plain></SENT>
+<SENT sid="16" pm="."><plain>Furthermore, immunosuppression therapy based on <z:chebi fb="1" ids="35705">immunosuppressants</z:chebi> with antitumoral effects should be preferred </plain></SENT>
+<SENT sid="17" pm="."><plain>The esophagectomy with neoadjuvant therapy is also in <z:chebi fb="1" ids="35705">immunosuppressant</z:chebi> patients feasible without increased risk for complications </plain></SENT>
+</text></document>

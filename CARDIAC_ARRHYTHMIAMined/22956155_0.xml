@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Next-generation sequencing (NGS) provides an unprecedented opportunity to assess genetic variation underlying human disease </plain></SENT>
+<SENT sid="1" pm="."><plain>Here, we compared two NGS approaches for diagnostic sequencing in inherited <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> syndromes </plain></SENT>
+<SENT sid="2" pm="."><plain>We compared PCR-based target enrichment and long-read sequencing (PCR-LR) with in-solution hybridization-based enrichment and short-read sequencing (Hyb-SR) </plain></SENT>
+<SENT sid="3" pm="."><plain>The PCR-LR assay comprehensively assessed five long-QT genes routinely sequenced in diagnostic laboratories and "hot spots" in RYR2 </plain></SENT>
+<SENT sid="4" pm="."><plain>The Hyb-SR assay targeted 49 genes, including those in the PCR-LR assay </plain></SENT>
+<SENT sid="5" pm="."><plain>The sensitivity for detection of control variants did not differ between approaches </plain></SENT>
+<SENT sid="6" pm="."><plain>In both assays, the major limitation was upstream target capture, particular in regions of extreme GC content </plain></SENT>
+<SENT sid="7" pm="."><plain>These initial experiences with NGS cardiovascular diagnostics achieved up to 89 % sensitivity at a fraction of current costs </plain></SENT>
+<SENT sid="8" pm="."><plain>In the next iteration of these assays we anticipate sensitivity above 97 % for <z:hpo ids='HP_0000001'>all</z:hpo> <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">LQT</z:e> genes </plain></SENT>
+<SENT sid="9" pm="."><plain>NGS assays will soon replace conventional sequencing for <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">LQT</z:e> diagnostics and molecular pathology </plain></SENT>
+</text></document>

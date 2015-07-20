@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Recent studies have demonstrated a much higher incidence of venous <z:hpo ids='HP_0001907'>thromboembolism</z:hpo> (VTE) among Asian patients compared with previous studies </plain></SENT>
+<SENT sid="1" pm="."><plain>This study aims to determine dietary and behavioral factors that may have contributed to this increase </plain></SENT>
+<SENT sid="2" pm="."><plain>A case-control study was conducted </plain></SENT>
+<SENT sid="3" pm="."><plain>Cases were objectively confirmed VTE between 2006 and 2009 at King Chulalongkorn Memorial Hospital </plain></SENT>
+<SENT sid="4" pm="."><plain>Patients with underlying <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e>, <z:e sem="disease" ids="C0085278" disease_type="Disease or Syndrome" abbrv="">antiphospholipid syndrome</z:e> and <z:hpo ids='HP_0004420'>arterial thrombosis</z:hpo> were excluded </plain></SENT>
+<SENT sid="5" pm="."><plain>Controls were age and sex-matched healthy volunteers </plain></SENT>
+<SENT sid="6" pm="."><plain>Food consumption was assessed using a food frequency questionnaire modified from the Thailand National Health Examination Survey III previously validated in the Thai population </plain></SENT>
+<SENT sid="7" pm="."><plain>There were 97 cases and 195 controls </plain></SENT>
+<SENT sid="8" pm="."><plain>The mean age was 54.6 years and 70% were women </plain></SENT>
+<SENT sid="9" pm="."><plain>VTE patients consumed significantly less vegetable, fish and spicy food compared with <z:mpath ids='MPATH_458'>normal</z:mpath> individuals with an odds ratio (OR) for <z:hpo ids='HP_0004936'>venous thrombosis</z:hpo> of 3.74 [95% confidence interval (CI) 2.24-6.26, P &lt; 0.001], 2.05 (95% CI 1.24-3.41, P = 0.005) and 2.30 (95% CI 1.29-4.11, P = 0.01), respectively </plain></SENT>
+<SENT sid="10" pm="."><plain>Additionally, <z:mp ids='MP_0005048'>thrombosis</z:mp> was associated with overweight (OR 2.1, 95% CI 1.21-3.62, P = 0.002), <z:hpo ids='HP_0001513'>obesity</z:hpo> (OR 3.1, 95% CI 1.46-6.74, P = 0.001) and <z:chebi fb="0" ids="50114">estrogen</z:chebi> uses (OR 3.7, 95% CI 1.05-13.2, P = 0.02), but not with smoking or lack of exercise </plain></SENT>
+<SENT sid="11" pm="."><plain>A multivariate analysis showed that low vegetable consumption (OR 3.74, 95% CI 1.85-7.55, P &lt; 0.001), female hormones (OR 5.80, 95% CI 1.51-22.22, P = 0.011) and body mass index (BMI, P = 0.048) were independently associated with VTE </plain></SENT>
+<SENT sid="12" pm="."><plain>Low vegetable intake, hormonal use and high BMI are the risk factors for noncancer-related VTE in Thai population </plain></SENT>
+</text></document>

@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0002138'>Subarachnoid hemorrhage</z:hpo> (SAH) volume was measured by three-dimensional computed tomography (3D-CT) and the correlation examined between the SAH volume and the occurrence of symptomatic vasospasm (SVS) </plain></SENT>
+<SENT sid="1" pm="."><plain>Experimental (in vitro) <z:mp ids='MP_0008817'>hematomas</z:mp> were made with blood obtained from 10 volunteers </plain></SENT>
+<SENT sid="2" pm="."><plain>The <z:mp ids='MP_0008817'>hematoma</z:mp> volume was determined by actual measurements and by 3D-CT using a CT number in the range of 40-80 Hounsfield units (HU) on days 1, 4, 7, 11, and 14 </plain></SENT>
+<SENT sid="3" pm="."><plain>The coefficients on days 1 and 4 were relatively high and the correlation between measured and estimated volumes was significant on days 7, 11, and 14 </plain></SENT>
+<SENT sid="4" pm="."><plain>3D-CT was also performed in 50 patients with SAH at <z:hpo ids='HP_0003674'>onset</z:hpo> (day 0) and on days 1, 4, 7, and 14 </plain></SENT>
+<SENT sid="5" pm="."><plain>The <z:mp ids='MP_0008817'>hematoma</z:mp> volume including the volume of <z:mpath ids='MPATH_458'>normal</z:mpath> structures was automatically calculated (V1) </plain></SENT>
+<SENT sid="6" pm="."><plain>The volume of <z:mpath ids='MPATH_458'>normal</z:mpath> structures (V2) with CT numbers of 40-80 HU was calculated in another 50 patients without intracranial lesions as 12 ml </plain></SENT>
+<SENT sid="7" pm="."><plain>The total <z:mp ids='MP_0008817'>hematoma</z:mp> volume was defined as V1 minus mean V2 </plain></SENT>
+<SENT sid="8" pm="."><plain>The mean SAH volume was 44, 36, 21, 11, and 8 ml on days 0, 1, 4, 7, and 14, respectively </plain></SENT>
+<SENT sid="9" pm="."><plain>The <z:mp ids='MP_0008817'>hematoma</z:mp> volumes were significantly larger in patients with SVS than in patients without SVS at <z:hpo ids='HP_0000001'>all</z:hpo> time points </plain></SENT>
+<SENT sid="10" pm="."><plain>The minimum <z:mp ids='MP_0008817'>hematoma</z:mp> volume in patients with SVS was 92, 76, 42, 24, and 12 ml on days 0, 1, 4, 7, and 14, respectively </plain></SENT>
+<SENT sid="11" pm="."><plain>This method allows the quantitative determination of SAH volume based on 3D-CT, and may be useful in clinical studies of <z:e sem="disease" ids="C0265110" disease_type="Disease or Syndrome" abbrv="">cerebral vasospasm</z:e> </plain></SENT>
+</text></document>

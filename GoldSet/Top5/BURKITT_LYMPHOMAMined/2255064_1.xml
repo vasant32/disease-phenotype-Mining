@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 26-year-old woman was admitted to our hospital because of abdominal mass </plain></SENT>
+<SENT sid="1" pm="."><plain>She became <z:hpo ids='HP_0002595'>ileus</z:hpo> and an emergency operation was consequently performed </plain></SENT>
+<SENT sid="2" pm="."><plain>A histological examination of the <z:e sem="disease" ids="C0000735" disease_type="Neoplastic Process" abbrv="">abdominal tumor</z:e> indicated proliferation of undifferentiated lymphoblasts with intermingled histiocytes so called "starry sky appearance" </plain></SENT>
+<SENT sid="3" pm="."><plain>The diagnosis was Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> </plain></SENT>
+<SENT sid="4" pm="."><plain>On the 4th post-operative day, a <z:e sem="disease" ids="C0007177" disease_type="Disease or Syndrome" abbrv="">cardiac tamponade</z:e> became evident </plain></SENT>
+<SENT sid="5" pm="."><plain>The <z:hpo ids='HP_0001698'>pericardial effusion</z:hpo> contained many lymphoblasts and the diagnosis was <z:hpo ids='HP_0001701'>pericarditis</z:hpo> due to the invasion of <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cells </plain></SENT>
+<SENT sid="6" pm="."><plain>The <z:hpo ids='HP_0001701'>pericarditis</z:hpo> was successfully treated by infusion of <z:chebi fb="1" ids="50845">doxycycline</z:chebi> into the pericardial space following drainage </plain></SENT>
+<SENT sid="7" pm="."><plain>The patient responded to systemic chemotherapy with complete remission </plain></SENT>
+<SENT sid="8" pm="."><plain>7 courses of systemic chemotherapy along with intrathecal infusions for <z:chebi fb="7" ids="29425,29426,29441,29447">CNS</z:chebi> prophylaxis were subsequently carried out </plain></SENT>
+<SENT sid="9" pm="."><plain>A state of complete remission has continued for more than 13 months </plain></SENT>
+<SENT sid="10" pm="."><plain><z:e sem="disease" ids="C0007177" disease_type="Disease or Syndrome" abbrv="">Cardiac tamponade</z:e> accompanied by Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> is quite rare and has not ever been reported in Japan in our knowledge </plain></SENT>
+<SENT sid="11" pm="."><plain>The efficacy of surgical treatment before systemic chemotherapy and the series of intrathecal infusions for <z:chebi fb="7" ids="29425,29426,29441,29447">CNS</z:chebi> prophylaxis was demonstrated in this case </plain></SENT>
+</text></document>

@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The P3HR-1 Burkitt <z:hpo ids='HP_0002665'>lymphoma</z:hpo> line carries the Epstein-Barr virus (EBV) genome and a small proportion of the cells (1-3%) enter the lytic cycle spontaneously </plain></SENT>
+<SENT sid="1" pm="."><plain>Treatment with <z:chebi fb="6" ids="15702,53394">TPA</z:chebi> and <z:chebi fb="0" ids="17968">n-butyrate</z:chebi> elevates considerably the number of virus-producing cells (25-35%) </plain></SENT>
+<SENT sid="2" pm="."><plain>Cells which enter the lytic cycle express the EBV early antigen EA, the <z:mp ids='MP_0001799'>viral</z:mp> capsid antigen VCA, and the membrane antigen MA </plain></SENT>
+<SENT sid="3" pm="."><plain>Antibodies against these antigens are present in EBV-immune human sera </plain></SENT>
+<SENT sid="4" pm="."><plain>The expression of virus envelope protein on the plasma membrane renders the cells sensitive to immune effector mechanisms </plain></SENT>
+<SENT sid="5" pm="."><plain>These were shown to be initiated by the alternative complement pathway (<z:chebi fb="65" ids="13534">ACP</z:chebi>)-activating capacity of the cells and by their reactivity with antibodies directed to the MA </plain></SENT>
+<SENT sid="6" pm="."><plain>When incubated with EBV-immune or nonimmune human serum, the induced (P3HR-1-V) cells activated C3 through <z:chebi fb="65" ids="13534">ACP</z:chebi> and fixed the generated C3 fragments </plain></SENT>
+<SENT sid="7" pm="."><plain>The efficiency of opsonization was higher in immune serum </plain></SENT>
+<SENT sid="8" pm="."><plain>By varying the experimental conditions we showed the damage of the induced cells by the complement system and by blood lymphocytes, and analysed the involvement of antibodies and the activated C3 fragments in the lymphocyte-mediated lysis </plain></SENT>
+<SENT sid="9" pm="."><plain>P3HR-1-V cells were lysed by immune serum and also by nonimmune serum though with lower efficiency </plain></SENT>
+<SENT sid="10" pm="."><plain>The induced cells had elevated sensitivity to the NK effect which was potentiated if the conditions allowed their opsonization </plain></SENT>
+<SENT sid="11" pm="."><plain>In the presence of antibodies the lymphocyte-mediated lysis was considerably higher and the ADCC mechanism was also potentiated by opsonization </plain></SENT>
+<SENT sid="12" pm="."><plain>These experiments suggest that B cells which enter the virus-producing cycle may be eliminated in EBV nonimmune host by NK cells </plain></SENT>
+<SENT sid="13" pm="."><plain>After the antibody response against the virus develops, the attack on these cells is more efficient through complement and lymphocyte-mediated antibody-dependent mechanisms </plain></SENT>
+<SENT sid="14" pm="."><plain>These effector mechanisms are enhanced by opsonization which is the consequence of the C3-activating capacity of the cells </plain></SENT>
+<SENT sid="15" pm="."><plain>The multiple ways of the immune attack on the B cells prepared to produce EBV may explain the absence of EA and VCA positive B cells in <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> cell populations and during the <z:hpo ids='HP_0011009'>acute</z:hpo> phase of <z:e sem="disease" ids="C0021345" disease_type="Disease or Syndrome" abbrv="">infectious mononucleosis</z:e> </plain></SENT>
+</text></document>

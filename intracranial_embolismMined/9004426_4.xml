@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>It is well documented that transcranial Doppler ultrasound has the ability to detect <z:e sem="disease" ids="C0007780" disease_type="Disease or Syndrome" abbrv="">cerebral emboli</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>During intraoperative patient monitoring studies, many signals due to artefact (probe motion, patient movement or surgical manipulation) are also detected and can be difficult to distinguish from genuine embolic events </plain></SENT>
+<SENT sid="2" pm="."><plain>We have constructed a Doppler system that can simultaneously range-gate at two separate depths, in order to test the hypothesis that it should be possible to distinguish between emboli and artefact by comparing the signal from the two separate regions within the vessel </plain></SENT>
+<SENT sid="3" pm="."><plain>The classification algorithm is based on the principle that emboli propagate with blood motion (whereas artefacts do not) and thus will be detected sequentially at different depths along the insonated cerebral artery </plain></SENT>
+<SENT sid="4" pm="."><plain>One hundred thirty-eight (presumed) embolic and 170 artefact signals were analysed </plain></SENT>
+<SENT sid="5" pm="."><plain>The median (interquartile range) gate separation was 10.01 mm (7.41-10.78 mm) </plain></SENT>
+<SENT sid="6" pm="."><plain>The time delay between detection of embolic signals in the two channels was 11.04 ms (6.24-16.41 ms, but was only 0.08 ms (-0.48(-)+0.64 ms) for artefact (p &lt; 0.0001) </plain></SENT>
+<SENT sid="7" pm="."><plain>Dual-gated Doppler ultrasound is a conclusive and independent method that differentiates emboli from artefact </plain></SENT>
+<SENT sid="8" pm="."><plain>Incorporation of this system for long-term monitoring may eliminate the need for an experienced observer to be present </plain></SENT>
+</text></document>

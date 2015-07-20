@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> (BE) is the predominant risk factor for the development of esophageal <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> </plain></SENT>
+<SENT sid="1" pm="."><plain>BE is characterized by <z:mpath ids='MPATH_167'>intestinal metaplasia</z:mpath> with goblet cells </plain></SENT>
+<SENT sid="2" pm="."><plain>Reflux of <z:chebi fb="1" ids="3098">bile acids</z:chebi> is known to induce <z:mpath ids='MPATH_167'>intestinal metaplasia</z:mpath>, but the mechanisms are unclear </plain></SENT>
+<SENT sid="3" pm="."><plain>Inhibition of Notch signaling accompanied by increased Hath1 and induction of caudal homeobox 2 (CDX2) may be involved in development of intestinal goblet cells </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS: Esophageal <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> cell lines OE19 and OE33 were exposed for up to 8 hours to DCA (100-300 microM), and for up to 24 hours with and without the gamma-secretase inhibitor, DAPT (20 microM) </plain></SENT>
+<SENT sid="5" pm="."><plain>Notch signaling components and CDX2 levels were measured by real-time PCR (for <z:chebi fb="2" ids="33699">mRNA</z:chebi>) and by Western blot analysis (for proteins) </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: DCA induced a time and concentration dependent decrease in Notch pathway components <z:chebi fb="2" ids="33699">mRNAs</z:chebi> in OE33 and in the proteins in both cell lines </plain></SENT>
+<SENT sid="7" pm="."><plain>CDX2 <z:chebi fb="2" ids="33699">mRNA</z:chebi> and Hath1 protein were increased in OE19 by 3-fold </plain></SENT>
+<SENT sid="8" pm="."><plain>Inhibition of Notch pathway by DAPT decreased downstream Notch signaling <z:chebi fb="2" ids="33699">mRNAs</z:chebi> and proteins in both cell lines and increased Hath1 and CDX2 proteins only in OE19 </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSION: <z:chebi fb="0" ids="3098">Bile acid</z:chebi> inhibition of Notch signaling in esophageal cells is correlated with an increase in Hath1 and CDX2 and may be one of the key processes contributing to the formation of BE </plain></SENT>
+</text></document>

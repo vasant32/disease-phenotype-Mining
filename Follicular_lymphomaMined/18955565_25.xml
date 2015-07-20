@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Autologous stem cell transplantation (ASCT) as first-line therapy for follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (FL) remains controversial </plain></SENT>
+<SENT sid="1" pm="."><plain>The multicenter study randomized 172 patients with untreated FL for either immunochemotherapy or high-dose therapy (HDT) followed by purged ASCT </plain></SENT>
+<SENT sid="2" pm="."><plain>Conditioning was performed with total body irradiation (TBI) and <z:chebi fb="0" ids="4027">cyclophosphamide</z:chebi> </plain></SENT>
+<SENT sid="3" pm="."><plain>The 9-year overall survival (OS) was similar in the HDT and conventional chemotherapy groups (76% and 80%, respectively) </plain></SENT>
+<SENT sid="4" pm="."><plain>The 9-year progression-free survival (PFS) was higher in the ASCT than the chemotherapy group (64% vs 39%; P = .004) </plain></SENT>
+<SENT sid="5" pm="."><plain>A PFS plateau was observed in the HDT group after 7 years </plain></SENT>
+<SENT sid="6" pm="."><plain>On multivariate analysis, OS and PFS were independently affected by the per-formance status score, the number of nodal areas involved, and the treatment group </plain></SENT>
+<SENT sid="7" pm="."><plain><z:e sem="disease" ids="C0027627" disease_type="Neoplastic Process" abbrv="mets">Secondary malignancies</z:e> were more frequent in the HDT than in the chemotherapy group (6 secondary <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo>/<z:hpo ids='HP_0004808'>acute myeloid leukemia</z:hpo> and 6 second <z:e sem="disease" ids="C0280100" disease_type="Neoplastic Process" abbrv="">solid tumor</z:e> <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancers</z:e> vs 1 <z:hpo ids='HP_0004808'>acute myeloid leukemia</z:hpo>, P = .01) </plain></SENT>
+<SENT sid="8" pm="."><plain>The occurrence of a PFS plateau suggests that a subgroup of patients might have their FL cured by ASCT </plain></SENT>
+<SENT sid="9" pm="."><plain>However, the increased rate of <z:e sem="disease" ids="C0027627" disease_type="Neoplastic Process" abbrv="mets">secondary malignancies</z:e> may discourage the use of purged ASCT in combination with TBI as first-line treatment for FL </plain></SENT>
+<SENT sid="10" pm="."><plain>This trial has been registered with ClinicalTrials.gov under identifier NCT00696735 </plain></SENT>
+</text></document>

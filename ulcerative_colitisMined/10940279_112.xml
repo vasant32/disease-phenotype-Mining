@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Evaluation of histological activity in <z:hpo ids='HP_0100279'>ulcerative colitis</z:hpo> needs to be reproducible but has rarely been tested </plain></SENT>
+<SENT sid="1" pm="."><plain>This could be useful both clinically and in clinical trials </plain></SENT>
+<SENT sid="2" pm="."><plain>AIM: To develop reproducible criteria which are valid in the assessment of <z:hpo ids='HP_0011009'>acute</z:hpo> <z:mp ids='MP_0001845'>inflammation</z:mp> (activity) and chronicity, and to evaluate these features in an interobserver variability study </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: A six grade classification system for <z:mp ids='MP_0001845'>inflammation</z:mp> was developed which could also be fine tuned within each grade </plain></SENT>
+<SENT sid="4" pm="."><plain>The grades were: 0, structural change only; 1, <z:hpo ids='HP_0011010'>chronic</z:hpo> <z:mp ids='MP_0001845'>inflammation</z:mp>; 2, lamina propria neutrophils; 3, neutrophils in epithelium; 4, crypt destruction; and 5, <z:mpath ids='MPATH_580'>erosions</z:mpath> or <z:mpath ids='MPATH_579'>ulcers</z:mpath> </plain></SENT>
+<SENT sid="5" pm="."><plain>Ninety nine <z:chebi fb="1" ids="51686">haematoxylin</z:chebi>-eosin sections from endoscopically inflamed and non-inflamed mucosa from patients with distal <z:hpo ids='HP_0100279'>ulcerative colitis</z:hpo> were assessed in two separate readings by three pathologists independently and without knowledge of the clinical status </plain></SENT>
+<SENT sid="6" pm="."><plain>Interobserver agreement was compared pairwise using kappa statistics </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: Initially, kappa values between the observers were 0.20, 0.42, and 0.26, which are too low to be of value </plain></SENT>
+<SENT sid="8" pm="."><plain>Following development of a semiquantitative pictorial scale for each criterion, kappa values improved to 0.62, 0.70, and 0.59 </plain></SENT>
+<SENT sid="9" pm="."><plain>For activity defined by neutrophils between epithelial cells, kappa values were 0.903, 1.000, and 0.907 </plain></SENT>
+<SENT sid="10" pm="."><plain>Complete agreement was reached in 64% of samples of endoscopically <z:mpath ids='MPATH_458'>normal</z:mpath> and in 66% of endoscopically inflamed tissue </plain></SENT>
+<SENT sid="11" pm="."><plain>Neutrophils in epithelium correlated with the presence of crypt destruction and ulceration </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSION: A histological activity system was developed for <z:hpo ids='HP_0100279'>ulcerative colitis</z:hpo> that showed good reproducibility and modest agreement with the endoscopic grading system which it complemented </plain></SENT>
+<SENT sid="13" pm="."><plain>It has potential value both clinically and in clinical trials </plain></SENT>
+</text></document>

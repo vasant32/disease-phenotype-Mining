@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: <z:e sem="disease" ids="C0085278" disease_type="Disease or Syndrome" abbrv="">Antiphospholipid syndrome</z:e> (APS) is characterized by <z:mp ids='MP_0005048'>thrombosis</z:mp> and the presence of <z:hpo ids='HP_0003613'>antiphospholipid antibodies</z:hpo> (aPL) </plain></SENT>
+<SENT sid="1" pm="."><plain>In patients with primary APS, expression of tissue factor (TF) on the surface of monocytes is increased, which may contribute to <z:mp ids='MP_0005048'>thrombosis</z:mp> in these patients </plain></SENT>
+<SENT sid="2" pm="."><plain>However, the intracellular mechanisms involved in aPL-mediated up-regulation of TF on monocytic cells are not understood </plain></SENT>
+<SENT sid="3" pm="."><plain>This study was undertaken to investigate the intracellular signals induced by aPL that mediate TF activation in monocytes from APS patients </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS: We analyzed, both in vivo and in vitro, aPL interactions with proteins that have signaling functions, including <z:chebi fb="0" ids="52290">mitogen</z:chebi>-activated protein kinases (MAP kinases) and NF-kappaB/Rel proteins </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: In vivo studies demonstrated significantly higher levels of both TF <z:chebi fb="5" ids="33699">messenger RNA</z:chebi> and TF protein in monocytes from APS patients compared with controls </plain></SENT>
+<SENT sid="6" pm="."><plain>At the molecular level, increased proteolysis of IkappaBalpha and activation of NF-kappaB were observed </plain></SENT>
+<SENT sid="7" pm="."><plain>Constitutive activation of both p38 and ERK-1 MAP kinases was also found </plain></SENT>
+<SENT sid="8" pm="."><plain>Treatment of <z:mpath ids='MPATH_458'>normal</z:mpath> monocytes with aPL activated ERK-1 and p38 MAP kinases, as well as the IkappaB/NF-kappaB pathway, in a dose-dependent manner </plain></SENT>
+<SENT sid="9" pm="."><plain>NF-kappaB activation and IkappaBalpha degradation induced by aPL were inhibited by the NF-kappaB inhibitor SN50 and the p38 MAP kinase inhibitor SB203580, thus suggesting crosstalk between these pathways </plain></SENT>
+<SENT sid="10" pm="."><plain>However, the MEK-1/ERK inhibitor PD98059 did not affect aPL-induced NF-kappaB binding activity </plain></SENT>
+<SENT sid="11" pm="."><plain>TF expression induced by aPL was significantly inhibited by combined treatment with the 3 inhibitors </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSION: Our results suggest that aPL induces TF expression in monocytes from APS patients by activating, simultaneously and independently, the phosphorylation of MEK-1/ERK proteins, and the p38 MAP kinase-dependent nuclear translocation and activation of NF-kappaB/Rel proteins </plain></SENT>
+</text></document>

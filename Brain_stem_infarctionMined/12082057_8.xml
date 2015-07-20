@@ -1,0 +1,6 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A young woman with pre-<z:hpo ids='HP_0100601'>eclampsia</z:hpo> became unresponsive shortly after delivery </plain></SENT>
+<SENT sid="1" pm="."><plain>Examination revealed extensive brain stem dysfunction with absent pupillary light reflexes and decerebrate posturing </plain></SENT>
+<SENT sid="2" pm="."><plain>Computed tomography showed hypodensity throughout the brain stem, and it was initially thought that she had suffered catastrophic <z:e sem="disease" ids="C0521542" disease_type="Disease or Syndrome" abbrv="">brain stem infarction</z:e> </plain></SENT>
+<SENT sid="3" pm="."><plain>However, magnetic resonance diffusion imaging and apparent diffusion coefficient mapping showed that she had brain stem vasogenic <z:hpo ids='HP_0000969'>oedema</z:hpo> (posterior reversible <z:hpo ids='HP_0001298'>encephalopathy</z:hpo> syndrome, PRES), rather than cytotoxic <z:hpo ids='HP_0000969'>oedema</z:hpo> </plain></SENT>
+<SENT sid="4" pm="."><plain>With <z:chebi fb="0" ids="35674">antihypertensive</z:chebi> and supportive treatment, she recovered rapidly, and had no abnormalities on repeat imaging </plain></SENT>
+</text></document>

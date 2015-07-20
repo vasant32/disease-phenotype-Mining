@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PURPOSES: We aimed to evaluate the Global Registry of <z:hpo ids='HP_0011009'>Acute</z:hpo> Cardiac Events (GRACE) and Thrombolysis in <z:hpo ids='HP_0001658'>Myocardial Infarction</z:hpo> (TIMI) scores in patients with suspected but not proven <z:hpo ids='HP_0011009'>acute</z:hpo> coronary syndrome (ACS) </plain></SENT>
+<SENT sid="1" pm="."><plain>BASIC PROCEDURES: We conducted a secondary analysis of data from the RATPAC trial </plain></SENT>
+<SENT sid="2" pm="."><plain>Standardized data were collected from 2263 patients presenting to 6 emergency departments with suspected but not proven ACS </plain></SENT>
+<SENT sid="3" pm="."><plain>Patients were followed up by record review and postal questionnaire at 30 and 90 days after recruitment to identify major adverse events, defined as <z:hpo ids='HP_0011420'>death</z:hpo>, emergency revascularization, life-threatening <z:hpo ids='HP_0011675'>arrhythmia</z:hpo>, hospitalization for ACS, or nonfatal <z:hpo ids='HP_0011009'>acute</z:hpo> <z:hpo ids='HP_0001658'>myocardial infarction</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">AMI</z:e>) </plain></SENT>
+<SENT sid="4" pm="."><plain>MAIN FINDINGS: Data were available for 2243 patients (mean age, 54.5 years; 58% male) </plain></SENT>
+<SENT sid="5" pm="."><plain>The major adverse event rate was 43 (2%) of 2243 after 30 days and 62 (3%) of 2243 after 90 days </plain></SENT>
+<SENT sid="6" pm="."><plain>The c statistics for 30-day events were 0.717 (95% confidence interval [CI], 0.698-0.735) for GRACE and 0.682 (95% CI, 0.662-0.701) for TIMI </plain></SENT>
+<SENT sid="7" pm="."><plain>The corresponding 90-day c statistics were 0.726 (95% CI, 0.707-0.745) for GRACE and 0.693 (95% CI, 0.674-0.712) for TIMI </plain></SENT>
+<SENT sid="8" pm="."><plain>The c statistic for patient age alone was 0.656 for 30-day events and 0.689 for 90-day events </plain></SENT>
+<SENT sid="9" pm="."><plain>PRINCIPAL CONCLUSIONS: The GRACE and TIMI scores are little better than age alone as predictors of major adverse events in patients with suspected but not proven ACS, and thus add little to prognostic assessment of such patients </plain></SENT>
+</text></document>

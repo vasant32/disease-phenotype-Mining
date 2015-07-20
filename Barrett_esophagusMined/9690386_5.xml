@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> (BE) is a <z:e sem="disease" ids="C0032927" disease_type="Neoplastic Process" abbrv="">premalignant condition</z:e>, due to <z:hpo ids='HP_0011010'>chronic</z:hpo> <z:hpo ids='HP_0002020'>gastroesophageal reflux</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Effective antireflux therapy may diminish <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> risk </plain></SENT>
+<SENT sid="2" pm="."><plain>To evaluate this option an intermediate marker is needed </plain></SENT>
+<SENT sid="3" pm="."><plain>We developed a methodology for measurement of epithelial cell proliferative activity of Barrett's mucosa as an intermediate marker and correlated the activity with traditional <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> risk markers and other parameters </plain></SENT>
+<SENT sid="4" pm="."><plain>Fifty-six patients (21-74 years of age) with <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> and established acid <z:hpo ids='HP_0002020'>gastroesophageal reflux</z:hpo> were included </plain></SENT>
+<SENT sid="5" pm="."><plain>Biopsies were taken from Barrett's mucosa at 3-cm intervals </plain></SENT>
+<SENT sid="6" pm="."><plain>Reflux was measured by 24-hr pH-metry </plain></SENT>
+<SENT sid="7" pm="."><plain>Proliferative activity was determined using in vitro labeling with 5-bromodeoxyuridine and immunohistochemistry and was expressed as labeling index (LI) </plain></SENT>
+<SENT sid="8" pm="."><plain>The length of BE correlated with erect <z:e sem="disease" ids="C0017168" disease_type="Disease or Syndrome" abbrv="GERD">acid reflux</z:e> (P=0.002) </plain></SENT>
+<SENT sid="9" pm="."><plain>LI in specialized columnar <z:mpath ids='MPATH_160'>metaplasia</z:mpath> was higher than in <z:mp ids='MP_0005213'>gastric metaplasia</z:mp>, especially in crypt epithelium (P &lt; 0.05) </plain></SENT>
+<SENT sid="10" pm="."><plain>Multiple regression analysis revealed independent positive correlations for surface LI with <z:mpath ids='MPATH_589'>dysplasia</z:mpath> (P=0.011), distance from the incisors (P=0.041), and crypt LI (P=0.000) </plain></SENT>
+<SENT sid="11" pm="."><plain>Crypt LI showed an independent positive correlation with the length of BE (P=0.033) and type of <z:mpath ids='MPATH_160'>metaplasia</z:mpath> (P=0.007) </plain></SENT>
+<SENT sid="12" pm="."><plain>In conclusion, epithelial cell proliferative activity of BE correlates with several known risk factors for <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> </plain></SENT>
+<SENT sid="13" pm="."><plain>Proliferative activity is an attractive intermediate marker to evaluate the effects of interventional measures to decrease <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> risk in <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> </plain></SENT>
+</text></document>

@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Thrombolytic therapy with recombinant tissue plasminogen activator (rtPA) after <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> is effective </plain></SENT>
+<SENT sid="1" pm="."><plain>However, rtPA potentiates neuronal damage, and interactions between rtPA and thrombolysis products (TLP) have been reported to play a role in this </plain></SENT>
+<SENT sid="2" pm="."><plain>In the present study we investigated the mechanisms underlying rtPA- and TLP-induced neurotoxicity </plain></SENT>
+<SENT sid="3" pm="."><plain>Adult male Sprague-Dawley rats were subjected to 60-min intraluminal middle cerebral artery (<z:chebi fb="70" ids="34342">MCA</z:chebi>) occlusion, and then treated with rtPA (10 mg/kg), TLP, or saline </plain></SENT>
+<SENT sid="4" pm="."><plain>To evaluate the effects of a free radical scavenger, treatment with <z:chebi fb="0" ids="31530">edaravone</z:chebi> and TLP was evaluated </plain></SENT>
+<SENT sid="5" pm="."><plain>To investigate the role of red blood cells (RBCs), RBC-depleted TLP was used </plain></SENT>
+<SENT sid="6" pm="."><plain>Neurological deficit scores, <z:mpath ids='MPATH_124'>infarct</z:mpath> volume, and immuno-histochemical localization of oxidative end products for <z:chebi fb="23" ids="18059">lipid</z:chebi> and DNA (<z:chebi fb="0" ids="32585">4-hydroxy-2-nonenal</z:chebi> [4-HNE] and 8-hydroxy-deoxyguanosine [8-OHdG]) were evaluated </plain></SENT>
+<SENT sid="7" pm="."><plain>TLP increased the <z:mpath ids='MPATH_124'>infarct</z:mpath> volume, worsened the neurological deficits, and increased accumulations of 4-HNE and 8-OHdG </plain></SENT>
+<SENT sid="8" pm="."><plain><z:chebi fb="0" ids="31530">Edaravone</z:chebi> treatment significantly reduced the lesion volume and improved the neurological score </plain></SENT>
+<SENT sid="9" pm="."><plain>Both <z:mpath ids='MPATH_124'>infarct</z:mpath> volume and accumulation of oxidative products were significantly suppressed when RBC-depleted TLP was used </plain></SENT>
+<SENT sid="10" pm="."><plain>In this mechanical model of <z:chebi fb="70" ids="34342">MCA</z:chebi> occlusion, rtPA-induced TLP, especially in the presence of RBCs, contributed to neuronal damage by accelerating free radical injury </plain></SENT>
+</text></document>

@@ -1,0 +1,28 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>INTRODUCTION: <z:e sem="disease" ids="C0021390" disease_type="Disease or Syndrome" abbrv="">Inflammatory bowel disease</z:e> (IBD) often requires long term immunosuppressive therapy with <z:chebi fb="0" ids="35666">thiopurines</z:chebi> such as <z:chebi fb="2" ids="2948">azathioprine</z:chebi> (AZA) or <z:chebi fb="0" ids="50667">mercaptopurine</z:chebi> (MP) and anti-<z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumour</z:e> <z:mp ids='MP_0001651'>necrosis</z:mp> factor (TNF) agents </plain></SENT>
+<SENT sid="1" pm="."><plain>Despite the variable response to <z:chebi fb="0" ids="35666">thiopurines</z:chebi> and anti-TNF agents, few predictive factors of response have been identified </plain></SENT>
+<SENT sid="2" pm="."><plain>A lower body mass index (BMI) has been associated with a better outcome for <z:chebi fb="2" ids="2948">azathioprine</z:chebi> therapy, infliximab and adalimumab </plain></SENT>
+<SENT sid="3" pm="."><plain><z:mp ids='MP_0001261'>Obese</z:mp> IBD patients are more likely to have active disease or be hospitalised </plain></SENT>
+<SENT sid="4" pm="."><plain>This study examined the association between weight and <z:chebi fb="0" ids="35666">thiopurine</z:chebi> therapy by examining 6-thioguanine nucleotide (6-TGN) levels </plain></SENT>
+<SENT sid="5" pm="."><plain>METHODS: We conducted a retrospective analysis of patients who were treated at the Royal Liverpool University Hospital with a <z:chebi fb="0" ids="35666">thiopurine</z:chebi> </plain></SENT>
+<SENT sid="6" pm="."><plain>The dose of <z:chebi fb="0" ids="35666">thiopurines</z:chebi> was adjusted as tolerated to a maximum of 2.5 mg/kg for AZA and 1.5 mg/kg for MP </plain></SENT>
+<SENT sid="7" pm="."><plain>Eligible patients had a 6-TGN measurement with their height and weight recorded at the same time </plain></SENT>
+<SENT sid="8" pm="."><plain>Associations between 6-TGN, BMI, weight, patient demographics and biochemical indices were estimated using a multivariable linear regression model </plain></SENT>
+<SENT sid="9" pm="."><plain>Body fat index was calculated as described previously </plain></SENT>
+<SENT sid="10" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> tests were declared statistically significant if p &lt; 0.05 </plain></SENT>
+<SENT sid="11" pm="."><plain>RESULTS: 106 patients (48 male, 58 female) were included and contributed 133 measurements </plain></SENT>
+<SENT sid="12" pm="."><plain>55% had <z:hpo ids='HP_0100280'>Crohn's disease</z:hpo> and 45% had <z:hpo ids='HP_0100279'>ulcerative colitis</z:hpo> </plain></SENT>
+<SENT sid="13" pm="."><plain>91% were on AZA and 9% were on MP </plain></SENT>
+<SENT sid="14" pm="."><plain>After adjustment, a one kilogram increase in weight was associated with a 1.62 unit decrease in 6-TGN levels (95% CI: 0.40 to 2.82, p = 0.0094) </plain></SENT>
+<SENT sid="15" pm="."><plain>Body fat index correlated strongly with weight for both males and females (0.8345 and 0.8860 respectively) and a significant difference was found between BFI for each sex (p &lt; 0.001) with females, on average, having a higher BFI </plain></SENT>
+<SENT sid="16" pm="."><plain>Weight, BMI and BFI differed significantly across sub-therapeutic, therapeutic and supra-therapeutic 6-TGN groups (Table 1). gutjnl;63/Suppl_1/A168-a/T1T1T1 Abstract PWE-100 Table 1 6TGN Level Sub (&lt;230 pg/ml) n = 63 Therapeutic (230-450 pg/ml) n = 48 Supra (&gt;250 pg/ml) n = 22 p Dose per kg: 1.71 (0.65) 1.62 (0.66) 1.84 (0.70) 0.4641 Weight 79.3 (26) 67.5 (14) 62.2 (14) 0.0008 Body Mass Index (BMI) 27.4 (9) 23.4 (4) 22.6 (5) 0.0024 Body Fat Index (BFI) 31.1 (12) 25.6 (9) 25.6 (11) 0.0199 CONCLUSION: 6-TGN levels decreased significantly with increasing weight and BMI despite a similar weight based dosing </plain></SENT>
+<SENT sid="17" pm="."><plain>This may explain the previously noted adverse outcomes in <z:mp ids='MP_0001261'>obese</z:mp> IBD subjects and underscores the importance of <z:chebi fb="0" ids="35666">thiopurine</z:chebi> metabolite testing DISCLOSURE OF INTEREST: S </plain></SENT>
+<SENT sid="18" pm="."><plain>Subramanian Speaker bureau with: Speaker honoraria from Warner Chilcott, Shire, <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MSD</z:e>, Abbvie and Almirall, Conflict with: Conference support from Abbvie, <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MSD</z:e> and Warner Chillcott, S </plain></SENT>
+<SENT sid="19" pm="."><plain>Poon: None Declared, A </plain></SENT>
+<SENT sid="20" pm="."><plain>Kneebone: None Declared, R </plain></SENT>
+<SENT sid="21" pm="."><plain>Asher: None Declared, R </plain></SENT>
+<SENT sid="22" pm="."><plain>Jackson: None Declared, B </plain></SENT>
+<SENT sid="23" pm="."><plain>Gregg: None Declared, P </plain></SENT>
+<SENT sid="24" pm="."><plain>Collins: None Declared, C </plain></SENT>
+<SENT sid="25" pm="."><plain>Probert: None Declared, M </plain></SENT>
+<SENT sid="26" pm="."><plain>Dibb: None Declared </plain></SENT>
+</text></document>

@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIMS: To improve knowledge of epidemiological data, management, and clinical outcome of <z:hpo ids='HP_0011009'>acute</z:hpo> <z:hpo ids='HP_0001635'>heart failure</z:hpo> (AHF) in a real-life setting in France </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS AND RESULTS: We conducted an observational survey constituting a single-day snapshot of <z:hpo ids='HP_0000001'>all</z:hpo> unplanned hospitalizations because of AHF in 170 hospitals throughout France (the OFICA survey) </plain></SENT>
+<SENT sid="2" pm="."><plain>A total of 1658 patients (median age 79 years, 55% male) were included </plain></SENT>
+<SENT sid="3" pm="."><plain>Family doctors were the first medical contact in 43% of cases, and patients were admitted through emergency departments in 64% of cases </plain></SENT>
+<SENT sid="4" pm="."><plain>Clinical scenarios were mainly acutely decompensated HF (48%) and <z:hpo ids='HP_0011009'>acute</z:hpo> pulmonary <z:hpo ids='HP_0000969'>oedema</z:hpo> (38%) with similar clinical and biological characteristics as well as outcome </plain></SENT>
+<SENT sid="5" pm="."><plain>Characteristics were different and severity higher in both shock and right HF </plain></SENT>
+<SENT sid="6" pm="."><plain><z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">Infection</z:e> and <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> were the most frequent precipitating factors (27% and 24% of cases); <z:mp ids='MP_0002055'>diabetes</z:mp> and <z:hpo ids='HP_0011010'>chronic</z:hpo> <z:e sem="disease" ids="C0024115" disease_type="Disease or Syndrome" abbrv="">pulmonary disease</z:e> were the most frequent co-morbidities (31% and 21%) </plain></SENT>
+<SENT sid="7" pm="."><plain>Over 80% of patients underwent both natriuretic <z:chebi fb="7" ids="16670">peptide</z:chebi> testing and echocardiography </plain></SENT>
+<SENT sid="8" pm="."><plain>LVEF was preserved (&gt;50%) in 36% of patients and associated with specific characteristics and lower severity </plain></SENT>
+<SENT sid="9" pm="."><plain>Median hospital stay was 13 days; in-hospital mortality was 8.2%, and independent predictors were age, blood pressure, and <z:chebi fb="0" ids="16737">creatinine</z:chebi> </plain></SENT>
+<SENT sid="10" pm="."><plain>Treatment at discharge in patients with reduced LVEF included <z:chebi fb="2" ids="35457">ACE inhibitors</z:chebi>/ARBs, beta-blockers, and <z:chebi fb="0" ids="27584,30834">aldosterone</z:chebi> inhibitors in 78, 67, and 27% cases </plain></SENT>
+<SENT sid="11" pm="."><plain>Non-surgical devices were reported in &lt;20% of potential candidates </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSION: This comprehensive survey analysing AHF in real life emphasizes the <z:hpo ids='HP_0001425'>heterogeneous</z:hpo> nature and overall high severity of AHF </plain></SENT>
+<SENT sid="13" pm="."><plain>It could be a useful tool to identify unsolved medical issues and improve outcome </plain></SENT>
+<SENT sid="14" pm="."><plain>Trial registration: NCT01080937 </plain></SENT>
+</text></document>

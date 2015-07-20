@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: Compelling biological pathways suggest that <z:chebi fb="19" ids="27568">selenium</z:chebi> (Se) may lower <z:hpo ids='HP_0003674'>onset</z:hpo> of type 2 <z:hpo ids='HP_0000819'>diabetes mellitus</z:hpo> (T2DM), but very few studies have evaluated this relationship, with mixed results </plain></SENT>
+<SENT sid="1" pm="."><plain>We examined the association between toenail Se and incidence of T2DM </plain></SENT>
+<SENT sid="2" pm="."><plain>RESEARCH DESIGN AND METHODS: We performed prospective analyses in two separate U.S. cohorts, including 3,630 women and 3,535 men, who were free of prevalent T2DM and <z:e sem="disease" ids="C0018799" disease_type="Disease or Syndrome" abbrv="">heart disease</z:e> at baseline in 1982-1983 and 1986-1987, respectively </plain></SENT>
+<SENT sid="3" pm="."><plain>Toenail Se concentration was quantified using neutron activation analysis, and <z:mp ids='MP_0002055'>diabetes</z:mp> cases were identified by biennial questionnaires and confirmed by a detailed supplementary questionnaire </plain></SENT>
+<SENT sid="4" pm="."><plain>Hazard ratios of incident T2DM according to Se levels were calculated using Cox proportional hazards </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: During 142,550 person-years of follow-up through 2008, 780 cases of incident T2DM occurred </plain></SENT>
+<SENT sid="6" pm="."><plain>After multivariable adjustment, the risk of T2DM was lower across increasing quintiles of Se, with pooled relative risks across the two cohorts of 1.0 (reference), 0.91 (95% CI 0.73-1.14), 0.78 (0.62-0.99), 0.72 (0.57-0.91), and 0.76 (0.60-0.97), respectively (P for trend = 0.01) </plain></SENT>
+<SENT sid="7" pm="."><plain>Results were similar excluding the few individuals (4%) who used Se supplements </plain></SENT>
+<SENT sid="8" pm="."><plain>In semiparametric analyses, the inverse relationship between Se levels and T2DM risk appeared to be linear </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSIONS: At dietary levels of intake, individuals with higher toenail Se levels are at lower risk for T2DM </plain></SENT>
+<SENT sid="10" pm="."><plain>Further research is required to determine whether varying results in this study versus prior trials relate to differences in dose, source, statistical power, residual confounding factors, or underlying population risk </plain></SENT>
+</text></document>

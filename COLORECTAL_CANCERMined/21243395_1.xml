@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: <z:chebi fb="0" ids="31941">Oxaliplatin</z:chebi> is a third-generation <z:chebi fb="240" ids="33364,33400">platinum</z:chebi> compound and a key agent for the management of <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>Patients treated with <z:chebi fb="0" ids="31941">oxaliplatin</z:chebi> are at risk for hypersensitivity reactions </plain></SENT>
+<SENT sid="2" pm="."><plain>We designed a modified premedication regimen to prevent <z:chebi fb="0" ids="31941">oxaliplatin</z:chebi>-related hypersensitivity reactions and assessed if this approach is effective </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: A retrospective cohort study of patients with advanced <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> who received modified FOLFOX6 (mFOLFOX6) was performed </plain></SENT>
+<SENT sid="4" pm="."><plain>Patients received routine premedication with <z:chebi fb="0" ids="41879">dexamethasone</z:chebi> 8 mg and granisetron 3 mg for the first five cycles of mFOLFOX6 </plain></SENT>
+<SENT sid="5" pm="."><plain>From the sixth cycle onward, cohort 1 received the same premedication, and cohort 2 received modified premedication (diphenhydramine 50 mg orally, followed by <z:chebi fb="0" ids="41879">dexamethasone</z:chebi> 20 mg, granisetron 3 mg, and <z:chebi fb="0" ids="4975">famotidine</z:chebi> 20 mg) </plain></SENT>
+<SENT sid="6" pm="."><plain>We compared the incidence of hypersensitivity reactions, duration of treatment, and reasons for treatment withdrawal between the two cohorts </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: A total of 181 patients were studied (cohort 1, 81; cohort 2, 100) </plain></SENT>
+<SENT sid="8" pm="."><plain>Hypersensitivity reactions developed in 16 patients (20%) in cohort 1 and 7 (7.0%) in cohort 2 (P = 0.0153) </plain></SENT>
+<SENT sid="9" pm="."><plain>The median number of cycles increased from 9 in cohort 1 to 12 in cohort 2 </plain></SENT>
+<SENT sid="10" pm="."><plain>Apart from progressive disease, neurotoxicity was the reason for discontinuing treatment in 20% of the patients in cohort 1, as compared with 53% in cohort 2 </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSION: Increased doses of <z:chebi fb="0" ids="41879">dexamethasone</z:chebi> and <z:chebi fb="6" ids="37956">antihistamine</z:chebi> significantly reduced <z:chebi fb="0" ids="31941">oxaliplatin</z:chebi>-related hypersensitivity reactions </plain></SENT>
+<SENT sid="12" pm="."><plain>This effective approach should be considered for <z:hpo ids='HP_0000001'>all</z:hpo> patients who receive FOLFOX, allowing treatment to be completed as planned </plain></SENT>
+</text></document>

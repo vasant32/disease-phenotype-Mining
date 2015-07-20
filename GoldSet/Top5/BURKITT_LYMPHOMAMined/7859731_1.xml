@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Two-dimensional <z:chebi fb="0" ids="53656">polyacrylamide</z:chebi> gel electrophoresis (2-D PAGE) was used to identify cellular proteins in T and B <z:hpo ids='HP_0006721'>acute lymphoblastic leukemia</z:hpo> (ALL) cell lines </plain></SENT>
+<SENT sid="1" pm="."><plain>Five lines, REH and <z:e sem="disease" ids="C0023435" disease_type="Neoplastic Process" abbrv="">BALL</z:e>-1 of B-cell lineage, CCRF-CEM and HPB-ALL of T-cell lineage, and a <z:mpath ids='MPATH_458'>normal</z:mpath> Epstein-Barr virus (EBV)-transformed line of B-origin (SKLN1) were studied </plain></SENT>
+<SENT sid="2" pm="."><plain>The lines were immunophenotyped using flow cytometry and lineage associated monoclonal antibodies </plain></SENT>
+<SENT sid="3" pm="."><plain>Whole cell lysates of the cell lines were subjected to 2-D PAGE analyses </plain></SENT>
+<SENT sid="4" pm="."><plain>2-D gels were analyzed with an image scanning computer and the qualitative as well as quantitative differences of the protein patterns were studied </plain></SENT>
+<SENT sid="5" pm="."><plain>Despite the great similarities in the patterns of the B- and T-gels, three proteins were unique to B-cell lines, while eight were unique to T-cell lines </plain></SENT>
+<SENT sid="6" pm="."><plain>Using cell lines is the first step toward identifying potential markers in ALL and can provide important information regarding the human ALL databases </plain></SENT>
+<SENT sid="7" pm="."><plain>Whether these proteins are definite markers for B- or <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">T-ALL</z:e> or are unique to the cell lines studied needs further exploration </plain></SENT>
+</text></document>

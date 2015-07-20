@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PURPOSE: Although previous studies have revealed the mechanisms of changes in diffusivity (apparent diffusion coefficient [<z:chebi fb="49" ids="35181">ADC</z:chebi>]) in <z:hpo ids='HP_0011009'>acute</z:hpo> <z:e sem="disease" ids="C0751955" disease_type="Disease or Syndrome" abbrv="">brain infarction</z:e>, changes in diffusion anisotropy (fractional anisotropy [FA]) in white matter have not been examined </plain></SENT>
+<SENT sid="1" pm="."><plain>We hypothesized that membrane permeability as well as axonal swelling play important roles, and we therefore constructed a simulation model using random walk simulation to replicate the diffusion of water molecules </plain></SENT>
+<SENT sid="2" pm="."><plain>MATERIALS AND METHODS: We implemented a numerical diffusion simulation model of <z:mpath ids='MPATH_458'>normal</z:mpath> and infarcted human brains using C++ language </plain></SENT>
+<SENT sid="3" pm="."><plain>We constructed this 2-pool model using simple tubes aligned in a single direction </plain></SENT>
+<SENT sid="4" pm="."><plain>Random walk simulation diffused water </plain></SENT>
+<SENT sid="5" pm="."><plain>Axon diameters and membrane permeability were then altered in step-wise fashion </plain></SENT>
+<SENT sid="6" pm="."><plain>To estimate the effects of axonal swelling, axon diameters were changed from 6 to 10 microm </plain></SENT>
+<SENT sid="7" pm="."><plain>Membrane permeability was altered from 0% to 40% </plain></SENT>
+<SENT sid="8" pm="."><plain>Finally, both elements were combined to explain increasing FA in the hyperacute stage of white matter infarction </plain></SENT>
+<SENT sid="9" pm="."><plain>RESULTS: The simulation demonstrated that simple water shift into the intracellular space reduces <z:chebi fb="49" ids="35181">ADC</z:chebi> and increases FA, but not to the extent expected from actual human cases (<z:chebi fb="49" ids="35181">ADC</z:chebi> approximately 50%; FA approximately +20%) </plain></SENT>
+<SENT sid="10" pm="."><plain>Similarly, membrane permeability alone was insufficient to explain this phenomenon </plain></SENT>
+<SENT sid="11" pm="."><plain>However, a combination of both factors successfully replicated changes in diffusivity indices </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSION: Both axonal swelling and reduced membrane permeability appear important in explaining changes in <z:chebi fb="49" ids="35181">ADC</z:chebi> and FA based on eigenvalues in hyperacute-stage white matter infarction </plain></SENT>
+</text></document>

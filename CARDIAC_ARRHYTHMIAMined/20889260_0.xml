@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0011675'>Arrhythmias</z:hpo> is one of the leading causes of <z:hpo ids='HP_0011420'>death</z:hpo> in the world </plain></SENT>
+<SENT sid="1" pm="."><plain>Current antiarrhythmic drugs are limited by unsatisfactory efficacy and adverse effects such as proarrhythmias </plain></SENT>
+<SENT sid="2" pm="."><plain>Reentry mechanism plays an important role in persistence of <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>Reentry can only continue when reentry path-length is longer than cardiac wavelength which is equal to the product of conduction velocity (CV) and effective refractory period (ERP) </plain></SENT>
+<SENT sid="4" pm="."><plain>Gap junctions uncoupling is associated with proarrhythmic CV slowing and transmural dispersion of repolarization (TDR) increasing in many <z:e sem="disease" ids="C0018799" disease_type="Disease or Syndrome" abbrv="">cardiac diseases</z:e> </plain></SENT>
+<SENT sid="5" pm="."><plain>Vaughan Williams class III antiarrhythmic drugs prolong ERP with an augmented TDR which is the main mechanism of the proarrhythmic effects </plain></SENT>
+<SENT sid="6" pm="."><plain>Gap junctions enhancer can augment CV and diminish TDR </plain></SENT>
+<SENT sid="7" pm="."><plain>As a result, gap junctions enhancer combined with class III drugs may be a promising antiarrhythmic method </plain></SENT>
+</text></document>

@@ -1,0 +1,21 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Purpose </plain></SENT>
+<SENT sid="1" pm="."><plain>To investigate, using multifocal electroretinography (mfERG) and optical coherence tomography (OCT), potential spatial associations between local neuroretinal function and local <z:chebi fb="46" ids="15035">retinal</z:chebi> thickness in patients with <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="2" pm="."><plain>Methods </plain></SENT>
+<SENT sid="3" pm="."><plain>Forty-five patients without <z:hpo ids='HP_0000488'>retinopathy</z:hpo> (10 with Type 1 <z:mp ids='MP_0002055'>diabetes</z:mp>; 35 with Type 2 <z:mp ids='MP_0002055'>diabetes</z:mp>; 49.9 ± 10.9 years old) and 29 age-similar controls (47.0 ± 12.8 years old) were studied </plain></SENT>
+<SENT sid="4" pm="."><plain>N1-P1 amplitude (<z:chebi fb="47" ids="16027,28971">AMP</z:chebi>) and P1 implicit time (IT) of mfERGs within the central approximately 20° diameter were compared to spatially corresponding full <z:chebi fb="46" ids="15035">retinal</z:chebi> thickness measurements acquired by Stratus OCT3 </plain></SENT>
+<SENT sid="5" pm="."><plain><z:chebi fb="47" ids="16027,28971">AMP</z:chebi> and IT were converted to Z-scores and <z:chebi fb="46" ids="15035">retinal</z:chebi> thickness was converted to percentile values </plain></SENT>
+<SENT sid="6" pm="."><plain>Local abnormalities were defined as P ≤ 0.023 </plain></SENT>
+<SENT sid="7" pm="."><plain>Subject group differences were examined using t-tests </plain></SENT>
+<SENT sid="8" pm="."><plain><z:chebi fb="46" ids="15035">Retinal</z:chebi> thickness was compared to mfERGs to determine spatial associations </plain></SENT>
+<SENT sid="9" pm="."><plain>Results </plain></SENT>
+<SENT sid="10" pm="."><plain>Average <z:chebi fb="46" ids="15035">retinal</z:chebi> thicknesses were similar for <z:hpo ids='HP_0000001'>all</z:hpo> subject groups </plain></SENT>
+<SENT sid="11" pm="."><plain>The Type 1 group and controls had similar IT and <z:chebi fb="47" ids="16027,28971">AMP</z:chebi> </plain></SENT>
+<SENT sid="12" pm="."><plain>The Type 2 group had reduced <z:chebi fb="47" ids="16027,28971">AMP</z:chebi> and longer IT than the controls and the Type 1 group (P &lt; 0.001) </plain></SENT>
+<SENT sid="13" pm="."><plain>Local associations between <z:chebi fb="46" ids="15035">retinal</z:chebi> thickness and mfERGs were not significant within any subject group or individuals, even for abnormal locations (P ≥ 0.09) </plain></SENT>
+<SENT sid="14" pm="."><plain>Abnormalities in most measures were greater in the patient groups than in the controls (P &lt; 0.008) except <z:chebi fb="46" ids="15035">retinal</z:chebi> thinning in the Type 1 group </plain></SENT>
+<SENT sid="15" pm="."><plain>Conclusions </plain></SENT>
+<SENT sid="16" pm="."><plain>Local neuroretinal function is not associated with full <z:chebi fb="46" ids="15035">retinal</z:chebi> thickness measured locally in patients with <z:mp ids='MP_0002055'>diabetes</z:mp> and no <z:hpo ids='HP_0000488'>retinopathy</z:hpo>, even in abnormal locations </plain></SENT>
+<SENT sid="17" pm="."><plain>Full <z:chebi fb="46" ids="15035">retinal</z:chebi> thickness measured locally by OCT is not a surrogate for mfERGs in early <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="18" pm="."><plain>Neuroretinal function in Type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> is worse than in Type 1 <z:mp ids='MP_0002055'>diabetes</z:mp> and controls </plain></SENT>
+<SENT sid="19" pm="."><plain>Fewer subjects in the Type 1 group could be a potential limitation </plain></SENT>
+</text></document>

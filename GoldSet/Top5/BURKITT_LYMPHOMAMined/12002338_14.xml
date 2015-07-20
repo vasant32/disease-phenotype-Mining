@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The HMG-I/Y gene encodes the HMG-I and -Y architectural, chromatin binding proteins originally identified based on their association with chromosomal DNA </plain></SENT>
+<SENT sid="1" pm="."><plain>HMG-I/Y proteins bind to AT-rich regions in chromosomal DNA and alter gene expression </plain></SENT>
+<SENT sid="2" pm="."><plain>Increased HMG-I/Y protein expression also correlates with <z:e sem="disease" ids="C0007621" disease_type="Neoplastic Process" abbrv="">neoplastic transformation</z:e> </plain></SENT>
+<SENT sid="3" pm="."><plain>Previous work from our laboratory has shown that HMG-I/Y is a direct c-Myc target gene involved in <z:e sem="disease" ids="C0007621" disease_type="Neoplastic Process" abbrv="">neoplastic transformation</z:e> in Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> </plain></SENT>
+<SENT sid="4" pm="."><plain>We also observed that HMG-I/Y proteins have several oncogenic properties </plain></SENT>
+<SENT sid="5" pm="."><plain>In this report, we show that HMG-I/Y proteins are increased in several human <z:hpo ids='HP_0003002'>breast cancer</z:hpo> cell lines compared to a human breast cell line derived from <z:mpath ids='MPATH_458'>normal</z:mpath> breast cells </plain></SENT>
+<SENT sid="6" pm="."><plain>Decreasing HMG-I/Y proteins using an antisense ribozyme approach inhibits transformation in human <z:hpo ids='HP_0003002'>breast cancer</z:hpo> cells, suggesting that HMG-I/Y is important for the transformed phenotype observed in these cells </plain></SENT>
+<SENT sid="7" pm="."><plain>In addition, increased expression of the HMG-I isoform in <z:mpath ids='MPATH_458'>normal</z:mpath> human breast cells leads to transformation </plain></SENT>
+<SENT sid="8" pm="."><plain>These results suggest that HMG-I/Y is an oncogene important in the pathogenesis of human <z:hpo ids='HP_0003002'>breast cancer</z:hpo> </plain></SENT>
+<SENT sid="9" pm="."><plain>Although additional studies with animal models are needed, the antisense experiments, which result in blocking transformation suggest that this approach may have therapeutic potential in patients with <z:hpo ids='HP_0003002'>breast cancer</z:hpo> characterized by increased HMG-I/Y expression </plain></SENT>
+</text></document>

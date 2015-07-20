@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Spatial dispersion of action potential duration (APD) is a substrate for the maintenance of cardiac <z:mp ids='MP_0006109'>fibrillation</z:mp>, but the mechanisms are poorly understood </plain></SENT>
+<SENT sid="1" pm="."><plain>We investigated the role played by spatial APD dispersion in fibrillatory dynamics </plain></SENT>
+<SENT sid="2" pm="."><plain>We used an in vitro model in which spatial gradients in the expression of <z:chebi fb="91" ids="25698">ether</z:chebi>-à-go-go-related (hERG) protein, and thus rapid delayed rectifying <z:chebi fb="0" ids="29103">K(+)</z:chebi> current (I(Kr)) density, served to generate APD dispersion, high-frequency rotor formation, wavebreak and fibrillatory conduction </plain></SENT>
+<SENT sid="3" pm="."><plain>A unique adenovirus-mediated magnetofection technique generated well-controlled gradients in hERG and green fluorescent protein (GFP) expression in neonatal rat ventricular myocyte monolayers </plain></SENT>
+<SENT sid="4" pm="."><plain>Computer simulations using a realistic neonatal rat ventricular myocyte monolayer model provided crucial insight into the underlying mechanisms </plain></SENT>
+<SENT sid="5" pm="."><plain>Regional hERG overexpression shortened APD and increased rotor incidence in the hERG overexpressing region </plain></SENT>
+<SENT sid="6" pm="."><plain>An APD profile at 75 percent repolarization with a 16.6 ± 0.72 ms gradient followed the spatial profile of hERG-GFP expression; conduction velocity was not altered </plain></SENT>
+<SENT sid="7" pm="."><plain>Rotors in the infected region whose maximal dominant frequency was 12.9 Hz resulted in wavebreak at the interface (border zone) between infected and non-infected regions; dominant frequency distribution was uniform when the maximal dominant frequency was &lt;12.9 Hz or the rotors resided in the uninfected region </plain></SENT>
+<SENT sid="8" pm="."><plain>Regularity at the border zone was lowest when rotors resided in the infected region </plain></SENT>
+<SENT sid="9" pm="."><plain>In simulations, a fivefold regional increase in I(Kr) abbreviated the APD and hyperpolarized the resting potential </plain></SENT>
+<SENT sid="10" pm="."><plain>However, the steep APD gradient at the border zone proved to be the primary mechanism of wavebreak and fibrillatory conduction </plain></SENT>
+<SENT sid="11" pm="."><plain>This study provides insight at the molecular level into the mechanisms by which spatial APD dispersion contributes to wavebreak, rotor stabilization and fibrillatory conduction </plain></SENT>
+</text></document>

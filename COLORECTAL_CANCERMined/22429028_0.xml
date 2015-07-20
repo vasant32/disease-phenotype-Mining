@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Dietary components play an important role in <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> prevention </plain></SENT>
+<SENT sid="1" pm="."><plain>Many ingredients from apples have been proven to have antitumor potency </plain></SENT>
+<SENT sid="2" pm="."><plain>We thus made low molecular weight apple <z:chebi fb="5" ids="18154">polysaccharides</z:chebi> (LMWAP) and evaluated the effects of it on <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e>) </plain></SENT>
+<SENT sid="3" pm="."><plain>The effects of LMWAP on human colon <z:mp ids='MP_0002038'>carcinoma</z:mp> cells (HT-29) were evaluated using a microarray </plain></SENT>
+<SENT sid="4" pm="."><plain>Then, cell-cycle distribution was measured by flow cytometric analysis </plain></SENT>
+<SENT sid="5" pm="."><plain>A <z:hpo ids='HP_0002583'>colitis</z:hpo>-associated <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> mouse model was used to assess the effect of LMWAP on in vivo <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e> prevention </plain></SENT>
+<SENT sid="6" pm="."><plain>Treatment of HT-29 cells with LMWAP resulted in 333 genes expression over cutoff values (≥2-fold) </plain></SENT>
+<SENT sid="7" pm="."><plain>Further analysis demonstrated that pathways of cell cycle were mainly influenced </plain></SENT>
+<SENT sid="8" pm="."><plain>At the concentrations from 0.001 to 0.1 mg/mL, LMWAP induced a G(0)/G(1) phase block in HT-29 cells in a dose-dependent way </plain></SENT>
+<SENT sid="9" pm="."><plain>In vivo studies revealed that administration of LMWAP could protect ICR mice against <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e> effectively </plain></SENT>
+<SENT sid="10" pm="."><plain>The results of Western blot suggested LMWAP induced cell-cycle arrest in a p53 independent manner </plain></SENT>
+<SENT sid="11" pm="."><plain>These data indicate that LMWAP could inhibit the development of <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e> through affecting cell cycle, and it has potential for clinical prevention for <z:hpo ids='HP_0003003'>colon cancer</z:hpo> </plain></SENT>
+</text></document>

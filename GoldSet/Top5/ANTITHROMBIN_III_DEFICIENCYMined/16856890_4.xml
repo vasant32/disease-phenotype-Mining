@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:mp ids='MP_0005048'>Thrombosis</z:mp> occurs in 37% of children with <z:hpo ids='HP_0011009'>acute</z:hpo> lymphoblastic <z:mpath ids='MPATH_336'>leukaemia</z:mpath> (ALL) and is related to an L-asparaginase-induced acquired antithrombin (AT) deficiency </plain></SENT>
+<SENT sid="1" pm="."><plain>The incidence dictates the need for <z:chebi fb="3" ids="50249">anticoagulant</z:chebi> prophylaxis </plain></SENT>
+<SENT sid="2" pm="."><plain>Direct thrombin inhibitors (DTI) are independent of AT for effect and may thus have advantages in this population </plain></SENT>
+<SENT sid="3" pm="."><plain>The objective of this study was to determine the interaction of an AT deficiency with the <z:chebi fb="3" ids="50249">anticoagulant</z:chebi> effects of a DTI and a low molecular weight <z:chebi fb="5" ids="28304">heparin</z:chebi> (LMWH) </plain></SENT>
+<SENT sid="4" pm="."><plain>Plasma samples from children with ALL were pooled (mean AT 0.53 U/ml) </plain></SENT>
+<SENT sid="5" pm="."><plain>LMWH 0.3 and 0.7 U/ml or melagatran 0.3 and 0.5 micromol/l were added to the pools, then divided and AT was added back to one aliquot </plain></SENT>
+<SENT sid="6" pm="."><plain>In additional experiments, AT was added to AT immuno-depleted plasma </plain></SENT>
+<SENT sid="7" pm="."><plain>Endogenous thrombin generation capacity (ETGC) was assessed by the continuous method </plain></SENT>
+<SENT sid="8" pm="."><plain>In plasma with LMWH, there was a 66-88% decrease in ETGC in AT-normalised samples compared with neat </plain></SENT>
+<SENT sid="9" pm="."><plain>Conversely, no significant difference in ETGC with or without AT added for melagatran was seen </plain></SENT>
+<SENT sid="10" pm="."><plain>Experiments with AT-depleted plasma showed no effect of AT level on <z:chebi fb="3" ids="50249">anticoagulant</z:chebi> activity of DTI, but a significant relationship for LMWH </plain></SENT>
+<SENT sid="11" pm="."><plain>By contrast to LMWH, DTI provides a consistent <z:chebi fb="3" ids="50249">anticoagulant</z:chebi> response independent of AT levels in children with AT deficiency </plain></SENT>
+</text></document>

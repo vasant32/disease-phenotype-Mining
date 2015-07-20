@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Intraoperative <z:hpo ids='HP_0001907'>thromboembolism</z:hpo> and the systemic inflammatory reaction are thought to play a role in causing <z:e sem="disease" ids="C0262405" disease_type="Disease or Syndrome" abbrv="">cerebral dysfunction</z:e> following cardiopulmonary bypass (CPB) </plain></SENT>
+<SENT sid="1" pm="."><plain>Increased levels of S100B, an astroglial protein, have been linked to neuropsychological deficits after CPB </plain></SENT>
+<SENT sid="2" pm="."><plain>The present study investigated whether S100B release correlates with intraoperative <z:mpath ids='MPATH_110'>embolus</z:mpath> formation, thrombin formation, or the release of inflammatory parameters </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: 40 patients undergoing coronary artery bypass grafting were included </plain></SENT>
+<SENT sid="4" pm="."><plain>Blood samples were taken before, during, and after CPB, and levels of S100B, thrombin-antithrombin complex (TAT), complement C5a, and interleukin 8 were analysed </plain></SENT>
+<SENT sid="5" pm="."><plain><z:mpath ids='MPATH_110'>Embolus</z:mpath> formation was assessed by Doppler ultrasound at the arterial line of CPB </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: The release of S100B correlated with <z:mpath ids='MPATH_110'>embolus</z:mpath> count (r = 0.42; p = 0.009) and TAT formation (r = 0.71; p = 0.0001) </plain></SENT>
+<SENT sid="7" pm="."><plain>The correlation of S100B with interleukin 8 (r = 0.58; p = 0.0001) was due to the dependence of both parameters on bypass time (r = 0.29; p = 0.075, partial correlation) </plain></SENT>
+<SENT sid="8" pm="."><plain>A correlation of S100B with C5a formation could not be observed </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSIONS: S100B release is related to <z:mpath ids='MPATH_110'>embolus</z:mpath> and thrombin formation during CPB, indicating that thrombofibrinous embolism is involved in perioperative brain damage </plain></SENT>
+<SENT sid="10" pm="."><plain>Inflammatory parameters (i.e. interleukin 8 and C5a) seem to have no influence on S100B release </plain></SENT>
+</text></document>

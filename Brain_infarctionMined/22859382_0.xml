@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 68-year-old man with no <z:e sem="disease" ids="C0850624" disease_type="Disease or Syndrome" abbrv="">cardiovascular risk factors</z:e> was admitted with a <z:hpo ids='HP_0001297'>stroke</z:hpo> because of multiple brain <z:mpath ids='MPATH_124'>infarcts</z:mpath> in different vascular territories </plain></SENT>
+<SENT sid="1" pm="."><plain>He required mechanical ventilation for <z:mp ids='MP_0005039'>hypoxia</z:mp> as a result of <z:hpo ids='HP_0011951'>aspiration pneumonia</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>Subsequent recovery was hindered by episodic, unexplained <z:mp ids='MP_0005039'>hypoxia</z:mp> </plain></SENT>
+<SENT sid="3" pm="."><plain>Investigations excluded <z:hpo ids='HP_0002204'>pulmonary embolism</z:hpo>, <z:hpo ids='HP_0002092'>pulmonary hypertension</z:hpo> and severe <z:e sem="disease" ids="C0024115" disease_type="Disease or Syndrome" abbrv="">lung diseases</z:e> </plain></SENT>
+<SENT sid="4" pm="."><plain>Transthoracic echocardiography (TTE) with saline bubble contrast showed mild, delayed, right-to-left shunting, thought to represent an insignificant, intrapulmonary, non-<z:hpo ids='HP_0001693'>cardiac shunt</z:hpo> </plain></SENT>
+<SENT sid="5" pm="."><plain>Hypoxic episodes worsened, requiring admission from community rehabilitation hospital to our centre and another period of mechanical ventilation </plain></SENT>
+<SENT sid="6" pm="."><plain>Elevated alveolar-arterial gradients indicated a non-hypoventilatory cause </plain></SENT>
+<SENT sid="7" pm="."><plain>Repeat TTE bubble contrast study and transoesophageal echocardiography (TOE) demonstrated a <z:hpo ids='HP_0001655'>patent foramen ovale</z:hpo> (<z:mp ids='MP_0004225'>PFO</z:mp>) with large shunt potential, associated with an aneurysmal interatrial septum </plain></SENT>
+<SENT sid="8" pm="."><plain>This provided a unifying explanation for cryptogenic <z:hpo ids='HP_0001297'>stroke</z:hpo> and recurrent hypoxaemia </plain></SENT>
+<SENT sid="9" pm="."><plain>After percutaneous <z:mp ids='MP_0004225'>PFO</z:mp> closure hypoxic episodes ceased and he returned successfully to rehabilitation </plain></SENT>
+</text></document>

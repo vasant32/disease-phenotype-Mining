@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Nucleophosmin (NPM1) gene mutations are reported to predict a favorable prognosis in <z:hpo ids='HP_0004808'>acute myeloid leukemia</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">AML</z:e>) patients </plain></SENT>
+<SENT sid="1" pm="."><plain>Aberrant cytoplasmic localization of nucleophosmin (NPM) protein is reported be a surrogate for NPM1 gene mutation </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: Using immunohistochemical (IHC) analysis, we assessed for NPM (clone 376) expression in formalin-fixed, <z:chebi fb="3" ids="30751">formic acid</z:chebi>-decalcified bone marrow biopsy specimens </plain></SENT>
+<SENT sid="3" pm="."><plain>DNA sequencing of exon 12 of NPM1 gene was performed in 104 patients </plain></SENT>
+<SENT sid="4" pm="."><plain>RESULTS: The study included 252 AML patients: 192 de novo <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">AML</z:e>, 33 AML preceded by either <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo> or <z:hpo ids='HP_0011010'>chronic</z:hpo> myelomonocytic <z:hpo ids='HP_0001909'>leukemia</z:hpo>, and 27 therapy-related <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">AML</z:e> </plain></SENT>
+<SENT sid="5" pm="."><plain>The median age was 62 years and 115 patients were &lt;or=60 years old </plain></SENT>
+<SENT sid="6" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> patients received intensive chemotherapy </plain></SENT>
+<SENT sid="7" pm="."><plain>Cytoplasmic NPM was detected in 59 of 252 (23%) patients, including 48 of 192 (25%) de novo <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">AML</z:e> and 33 of 94 (35%) with a <z:mpath ids='MPATH_458'>normal</z:mpath> karyotype </plain></SENT>
+<SENT sid="8" pm="."><plain>DNA sequencing identified NPM1 mutations in 30 of 38 cases with cytoplasmic NPM and 10 of 66 cases with nuclear NPM </plain></SENT>
+<SENT sid="9" pm="."><plain>Cytoplasmic NPM was associated with young patient age (P=.024), FLT3/ITD (P=.005), CD34 negative blasts (P&lt;.001), high peripheral blood blast count (P=.041), and high serum albumin level (P=.028) </plain></SENT>
+<SENT sid="10" pm="."><plain>No statistical differences in overall or event-free survival were found on the basis of NPM localization </plain></SENT>
+<SENT sid="11" pm="."><plain>Similar results were obtained in patients&lt;or=60 years old with <z:mpath ids='MPATH_458'>normal</z:mpath> karyotype and <z:mp ids='MP_0002169'>wild-type</z:mp> FLT3 (P=.768) </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: IHC assessment for NPM localization did not predict prognosis in this patient cohort </plain></SENT>
+<SENT sid="13" pm="."><plain>The discordance between immunohistochemistry and DNA sequencing results indicates that DNA sequencing cannot be replaced by IHC assessment </plain></SENT>
+</text></document>

@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: <z:hpo ids='HP_0001635'>Heart failure</z:hpo> (HF) complicated by <z:hpo ids='HP_0005110'>atrial fibrillation</z:hpo>/flutter (AF/AFL) is associated with worse outcomes </plain></SENT>
+<SENT sid="1" pm="."><plain>However, the clinical profile and outcomes of patients following hospitalization for HF with AF/AFL on initial electrocardiogram (ECG) has not been well studied </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: EVEREST was a randomized trial of vasopressin-2 receptor blockade, in addition to standard therapy, in 4133 patients hospitalized with HF with ejection fraction ≤40% </plain></SENT>
+<SENT sid="3" pm="."><plain>A post hoc analysis was performed comparing the clinical characteristics and outcomes [<z:hpo ids='HP_0000001'>all</z:hpo>-cause mortality and cardiovascular mortality/HF hospitalization] of patients with AF/AFL versus sinus rhythm (SR) on baseline ECG, which were centrally analyzed </plain></SENT>
+<SENT sid="4" pm="."><plain>Times to events were compared using log-rank tests and Cox regression models </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: Of the 4133 patients, 1195 (29%) were classified with AF/AFL and 2071(50%) with SR </plain></SENT>
+<SENT sid="6" pm="."><plain>The remaining patients (21%) were excluded because ECGs were unavailable (n = 106), rhythm was paced (n = 727), or junctional/other supraventricular (n = 34) </plain></SENT>
+<SENT sid="7" pm="."><plain>AF/AFL patients were older, with <z:mp ids='MP_0001260'>increased weight</z:mp>, faster heart rate, higher blood <z:chebi fb="20" ids="16199">urea</z:chebi> nitrogen, and natriuretic <z:chebi fb="7" ids="16670">peptide</z:chebi> levels compared to SR patients </plain></SENT>
+<SENT sid="8" pm="."><plain>Anticoagulation was prescribed in 67% of AF/AFL patients on discharge </plain></SENT>
+<SENT sid="9" pm="."><plain>AF/AFL patients were less likely to receive β-blockers or <z:chebi fb="0" ids="35457">angiotensin-converting enzyme inhibitors</z:chebi>/angiotensin receptor blockers (<z:hpo ids='HP_0000001'>all</z:hpo> P &lt; .05) </plain></SENT>
+<SENT sid="10" pm="."><plain>After risk adjustment, AF/AFL was associated with increased mortality (hazard ratio 1.23; 95% CI, 1.04-1.46) and cardiovascular mortality/HF hospitalization (hazard ratio 1.26; 95% CI, 1.07-1.47) </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSION: AF/AFL on initial ECG in patients hospitalized with HF with reduced ejection fraction is associated with lower use of evidence-based therapies and increased mortality and rehospitalization compared to patients in SR </plain></SENT>
+</text></document>

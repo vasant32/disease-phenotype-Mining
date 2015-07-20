@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVES: <z:e sem="disease" ids="C0302148,C0087086" disease_type="Disease or Syndrome;Acquired Abnormality" abbrv="">Thrombus</z:e> and secondary <z:mp ids='MP_0005048'>thrombosis</z:mp> plays a key role in <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Recent molecular imaging provides in vivo imaging of activated factor XIII (FXIIIa), an important mediator of <z:mp ids='MP_0005048'>thrombosis</z:mp> or fibrinolytic resistance </plain></SENT>
+<SENT sid="2" pm="."><plain>The present study was to investigate the <z:mpath ids='MPATH_179'>fibrin deposition</z:mpath> in a <z:hpo ids='HP_0001727'>thromboembolic stroke</z:hpo> mice model by FXIIIa-targeted near-infrared fluorescence (NIRF) imaging </plain></SENT>
+<SENT sid="3" pm="."><plain>MATERIALS AND METHODS: The experimental protocol was approved by our institutional animal use committee </plain></SENT>
+<SENT sid="4" pm="."><plain>Seventy-six C57B/6J mice were subjected to thromboembolic middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> or sham operation </plain></SENT>
+<SENT sid="5" pm="."><plain>Mice were either intravenously injected with the FXIIIa-targeted probe or control probe </plain></SENT>
+<SENT sid="6" pm="."><plain>In vivo and ex vivo NIRF imaging were performed thereafter </plain></SENT>
+<SENT sid="7" pm="."><plain>Probe distribution was assessed with fluorescence microscopy by spectral imaging and quantification system </plain></SENT>
+<SENT sid="8" pm="."><plain><z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e> scans were performed to measure lesion volumes in vivo, which were correlated with histology after animal euthanasia </plain></SENT>
+<SENT sid="9" pm="."><plain>RESULTS: In vivo significant higher fluorescence intensity over the <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e>-affected hemisphere, compared to the contralateral side, was detected in mice that received FXIIIa-targeted probe, but not in the controlled mice </plain></SENT>
+<SENT sid="10" pm="."><plain>Significantly NIRF signals showed time-dependent processes from 8 to 96 hours after injection of FXIIIa-targeted probes </plain></SENT>
+<SENT sid="11" pm="."><plain>Ex vivo NIRF image showed an intense fluorescence within the ischemic territory only in mice injected with FXIIIa-targeted probe </plain></SENT>
+<SENT sid="12" pm="."><plain>The fluorescence microscopy demonstrated distribution of FXIIIa-targeted probe in the ischemic region and nearby micro-vessels, and FXIIIa-targeted probe signals showed good overlap with immune-fluorescent fibrin staining images </plain></SENT>
+<SENT sid="13" pm="."><plain>There was a significant correlation between total targeted signal from in vivo or ex vivo NIRF images and lesion volume </plain></SENT>
+<SENT sid="14" pm="."><plain>CONCLUSION: Non-invasive detection of <z:mpath ids='MPATH_179'>fibrin deposition</z:mpath> in ischemic mouse brain using NIRF imaging is feasible and this technique may provide an in vivo experimental tool in studying the role of fibrin in <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+</text></document>

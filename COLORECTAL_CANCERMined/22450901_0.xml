@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PURPOSE: In July 2007, the Centers for Medicare &amp; Medicaid Services released a national coverage determination (NCD) for erythropoiesis-stimulating agent (ESA) use in <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> patients, mandating payment restrictions likely to reduce ESA use and possibly increase red blood cell transfusions </plain></SENT>
+<SENT sid="1" pm="."><plain>We aimed to quantify ESA and transfusion use pre-NCD and post-NCD </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: Medicare 5% sample data, 2005-2007, were used </plain></SENT>
+<SENT sid="3" pm="."><plain>Patients were 66 years or older, had lung, breast, or <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> or <z:hpo ids='HP_0002665'>lymphomas</z:hpo>, and initiated chemotherapy in pre-NCD and post-NCD periods (September-November 2006, September-November 2007) </plain></SENT>
+<SENT sid="4" pm="."><plain>ESA use and transfusions were identified from claims </plain></SENT>
+<SENT sid="5" pm="."><plain>Differences in proportions of patients using ESAs and receiving transfusions pre-NCD and post-NCD were evaluated using logistic regression; differences in transfusion event rates were evaluated using a Poisson model </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: The pre-NCD cohort included 1897 patients and the post-NCD cohort 1877 </plain></SENT>
+<SENT sid="7" pm="."><plain>In the pre-NCD cohort, 31% of patients had <z:e sem="disease" ids="C0242379" disease_type="Neoplastic Process" abbrv="">lung cancer</z:e>, 29% <z:hpo ids='HP_0002665'>lymphoma</z:hpo>, 20% <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e>, and 20% <z:hpo ids='HP_0003002'>breast cancer</z:hpo>; distribution was similar in the post-NCD cohort </plain></SENT>
+<SENT sid="8" pm="."><plain>Overall, ESA use decreased from 35.0% pre-NCD to 15.2% post-NCD </plain></SENT>
+<SENT sid="9" pm="."><plain>Transfusion use increased from 9.3% to 10.4%, and transfusion event rates from 19.0 to 21.8 per 100 patient-quarters </plain></SENT>
+<SENT sid="10" pm="."><plain>Results adjusted for baseline characteristics and comorbid conditions were similar </plain></SENT>
+<SENT sid="11" pm="."><plain>ESA use reduction achieved statistical significance; transfusion use and rate increases did not </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: ESA use decreased sharply post-NCD </plain></SENT>
+<SENT sid="13" pm="."><plain>This was accompanied by an estimated 1.1% (95% confidence interval -0.8% to 3.0%) absolute increase in transfusion use </plain></SENT>
+</text></document>

@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>CONTEXT: Epidermal growth factor receptor (EGFR) is overexpressed in up to 80% of colorectal and <z:hpo ids='HP_0012114'>endometrial carcinomas</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Deletions of the polyA tract in the 3' untranslated region (3' UTR) have been reported in microsatellite instability-high (MSI-H) colonic <z:mp ids='MP_0002038'>carcinomas</z:mp>, but their impacts on EGFR expression and downstream pathways are unclear </plain></SENT>
+<SENT sid="2" pm="."><plain>This phenomenon has not been reported in other MSI-H <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumors</z:e> </plain></SENT>
+<SENT sid="3" pm="."><plain>OBJECTIVE: To assess the 3' UTR polyA tract of EGFR in both endometrial and colorectal <z:mp ids='MP_0002038'>carcinomas</z:mp> and the mutational status of EGFR downstream pathways </plain></SENT>
+<SENT sid="4" pm="."><plain>DESIGN: Ninety-eight colorectal <z:mp ids='MP_0002038'>carcinomas</z:mp> and 47 <z:hpo ids='HP_0012114'>endometrial carcinomas</z:hpo> were included </plain></SENT>
+<SENT sid="5" pm="."><plain>EGFR 3' UTR polyA status was detected by capillary electrophoresis and Sanger sequencing </plain></SENT>
+<SENT sid="6" pm="."><plain>EGFR gene expression, EGFR copy numbers, and KRAS and BRAF mutation status were analyzed accordingly </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: The 3' UTR polyA tract was deleted in 18 of 23 (78%) MSI-H versus 0 of 24 microsatellite-stable <z:hpo ids='HP_0012114'>endometrial carcinomas</z:hpo> (P &lt; .001) </plain></SENT>
+<SENT sid="8" pm="."><plain>Similar observations were seen in colorectal <z:mp ids='MP_0002038'>carcinomas</z:mp>, in which 29 of 36 (81%) MSI-H, 1 of 62 (1.6%) microsatellite instability-low, and none of the microsatellite-stable <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumors</z:e> harbored the deletion (P &lt; .001) </plain></SENT>
+<SENT sid="9" pm="."><plain>A moderate increase in EGFR <z:chebi fb="2" ids="33699">mRNA</z:chebi> level was observed in <z:hpo ids='HP_0012114'>endometrial carcinomas</z:hpo> with 3' UTR polyA deletions versus those with <z:mp ids='MP_0002169'>wild-type</z:mp> polyA tract </plain></SENT>
+<SENT sid="10" pm="."><plain>Amplification of the EGFR gene was not observed </plain></SENT>
+<SENT sid="11" pm="."><plain>Deletions in polyA tract do not seem to affect the frequency of KRAS and BRAF mutations </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: Deletions of EGFR 3' UTR polyA are frequent in endometrial and colorectal <z:mp ids='MP_0002038'>carcinomas</z:mp>, are confined almost exclusively to MSI-H <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumors</z:e>, and do not affect KRAS and BRAF mutations </plain></SENT>
+</text></document>

@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Calpain, a Ca(2+)-dependent cysteine protease, in vitro converts calcineurin (CaN) to constitutively active forms of 45 kDa and 48 kDa by cleaving the autoinhibitory domain of the 60 kDa subunit </plain></SENT>
+<SENT sid="1" pm="."><plain>In a mouse middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (MCAO) model, calpain converted the CaN A subunit to the constitutively active form with 48 kDa in vivo </plain></SENT>
+<SENT sid="2" pm="."><plain>We also confirmed increased Ca(2+)/CaM-independent CaN activity in brain extracts </plain></SENT>
+<SENT sid="3" pm="."><plain>The generation of constitutively active and Ca(2+)/CaM-independent activity of CaN peaked 2 h after reperfusion in brain extracts </plain></SENT>
+<SENT sid="4" pm="."><plain>Increased constitutively active CaN activity was associated with dephosphorylation of <z:chebi fb="40" ids="18243">dopamine</z:chebi>-regulated phosphoprotein-32 in the brain </plain></SENT>
+<SENT sid="5" pm="."><plain>Generation of constitutively active CaN was accompanied by translocation of nuclear factor of activated T-cells (NFAT) into nuclei of hippocampal CA1 pyramidal neurons </plain></SENT>
+<SENT sid="6" pm="."><plain>In addition, a novel calmodulin <z:chebi fb="68" ids="48706">antagonist</z:chebi>, DY-9760e, blocked the generation of constitutively active CaN by calpain, thereby inhibiting NFAT nuclear translocation </plain></SENT>
+<SENT sid="7" pm="."><plain>Together with previous studies indicating that NFAT plays a critical role in <z:mpath ids='MPATH_3'>apoptosis</z:mpath>, we propose that calpain-induced CaN activation in part mediates delayed neuronal <z:hpo ids='HP_0011420'>death</z:hpo> in <z:e sem="disease" ids="C0007786" disease_type="Disease or Syndrome" abbrv="">brain ischemia</z:e> </plain></SENT>
+</text></document>

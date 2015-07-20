@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIMS/HYPOTHESIS: An increase in PAI-1 activity is thought to be a key factor underlying <z:hpo ids='HP_0001658'>myocardial infarction</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Mouse Pai-1 (mPai-1) activity shows a daily rhythm in vivo, and its transcription seems to be controlled not only by clock genes but also by humoral factors such as insulin and <z:chebi fb="4" ids="17855">triglycerides</z:chebi> </plain></SENT>
+<SENT sid="2" pm="."><plain>Thus, we investigated daily clock genes and mPai-1 mRNA expression in the liver of db/db mice exhibiting high levels of <z:chebi fb="105" ids="17234">glucose</z:chebi>, insulin and <z:chebi fb="4" ids="17855">triglycerides</z:chebi> </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: Locomotor activity was measured using an infrared detection system </plain></SENT>
+<SENT sid="4" pm="."><plain>RT-PCR or in situ hybridisation methods were applied to measure gene expression </plain></SENT>
+<SENT sid="5" pm="."><plain>Humoral factors were measured using measurement kits </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: The db/ db mice showed attenuated locomotor activity rhythms </plain></SENT>
+<SENT sid="7" pm="."><plain>The rhythmic expression of mPer2 <z:chebi fb="2" ids="33699">mRNA</z:chebi> was severely diminished and the phase of mBmal1 oscillation was advanced in the db/db mouse liver, whereas mPai-1 mRNA was highly and constitutively expressed </plain></SENT>
+<SENT sid="8" pm="."><plain>Night-time restricted feeding led to a recovery not only from the diminished locomotor activity, but also from the diminished Per2 and advanced mBmal1 <z:chebi fb="2" ids="33699">mRNA</z:chebi> rhythms </plain></SENT>
+<SENT sid="9" pm="."><plain>Expression of mPai-1 mRNA in db/db mice was reduced to levels far below <z:mpath ids='MPATH_458'>normal</z:mpath> </plain></SENT>
+<SENT sid="10" pm="."><plain><z:chebi fb="0" ids="8228">Pioglitazone</z:chebi> treatment slightly normalised <z:chebi fb="105" ids="17234">glucose</z:chebi> and insulin levels, with a slight reduction in mPai-1 gene expression </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS/INTERPRETATION: We demonstrated that Type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> impairs the oscillation of the peripheral oscillator </plain></SENT>
+<SENT sid="12" pm="."><plain>Night-time restricted feeding rather than <z:chebi fb="0" ids="8228">pioglitazone</z:chebi> injection led to a recovery from the diminished locomotor activity, and altered oscillation of the peripheral clock and mPai-1 mRNA rhythm </plain></SENT>
+<SENT sid="13" pm="."><plain>Thus, we conclude that scheduled restricted food intake may be a useful form of treatment for <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+</text></document>

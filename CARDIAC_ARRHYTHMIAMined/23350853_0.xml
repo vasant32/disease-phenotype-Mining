@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: <z:hpo ids='HP_0005110'>Atrial fibrillation</z:hpo> (AF) is the most common <z:hpo ids='HP_0011675'>cardiac arrhythmia</z:hpo>, and its incidence is expected to grow </plain></SENT>
+<SENT sid="1" pm="."><plain>A genetic predisposition for AF has long been recognized, but its manifestation in these patients likely involves a combination of rare and common genetic variants </plain></SENT>
+<SENT sid="2" pm="."><plain>Identifying genetic variants that associate with a high penetrance for AF would represent a significant breakthrough for understanding the mechanisms that associate with disease </plain></SENT>
+<SENT sid="3" pm="."><plain>METHOD AND RESULTS: Candidate gene sequencing in 5 unrelated families with familial AF identified the KCNQ1 missense mutation p.Arg231His (R231H) </plain></SENT>
+<SENT sid="4" pm="."><plain>In addition to AF, several of the family members have abnormal QTc intervals, <z:hpo ids='HP_0001279'>syncope</z:hpo> or experienced sudden <z:hpo ids='HP_0001695'>cardiac arrest</z:hpo> or <z:hpo ids='HP_0011420'>death</z:hpo> </plain></SENT>
+<SENT sid="5" pm="."><plain>KCNQ1 encodes the voltage-gated <z:chebi fb="0" ids="29103">K(+)</z:chebi> channel that conducts the slowly activating delayed rectifier <z:chebi fb="0" ids="29103">K(+)</z:chebi> current in the heart </plain></SENT>
+<SENT sid="6" pm="."><plain>Functional and computational analyses suggested that R231H increases KCNQ1 current (I(KCNQ1) ) to shorten the atrial action potential (AP) duration </plain></SENT>
+<SENT sid="7" pm="."><plain>R231H is predicted to minimally affect ventricular excitability, but it prevented the increase in I(KCNQ1) following PKA activation </plain></SENT>
+<SENT sid="8" pm="."><plain>The unique properties of R231H appeared to be caused by a loss in voltage-dependent gating </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSIONS: The R231H variant causes a high penetrance for interfamilial early-<z:hpo ids='HP_0003674'>onset</z:hpo> AF </plain></SENT>
+<SENT sid="10" pm="."><plain>Our study indicates R231H likely shortens atrial refractoriness to promote a substrate for reentry </plain></SENT>
+<SENT sid="11" pm="."><plain>Additionally, R231H might cause abnormal ventricular repolarization by disrupting PKA activation of I(KCNQ1)  </plain></SENT>
+<SENT sid="12" pm="."><plain>We conclude genetic variants, which increase I(Ks) during the atrial AP, decrease the atrial AP duration, and/or shorten atrial refractoriness, present a high risk for interfamilial AF </plain></SENT>
+</text></document>

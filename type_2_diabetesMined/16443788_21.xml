@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Insulin infusion improves myocardial blood flow (MBF) in healthy subjects </plain></SENT>
+<SENT sid="1" pm="."><plain>Until now, the effect of insulin on myocardial perfusion in type 2 diabetic subjects with <z:hpo ids='HP_0001677'>coronary artery disease</z:hpo> (CAD) has been unknown </plain></SENT>
+<SENT sid="2" pm="."><plain>We studied the effects of insulin on MBF in ischemic regions evaluated by single-<z:chebi fb="23" ids="30212">photon</z:chebi> emission-computed tomography and coronary angiography and in nonischemic regions in 43 subjects (ages 63 +/- 7 years) with type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> (HbA(1c) 7.1 +/- 0.9%) </plain></SENT>
+<SENT sid="3" pm="."><plain>MBF was measured at fasting and during a euglycemic-hyperinsulinemic clamp at rest (n = 43) and during <z:chebi fb="3" ids="16335">adenosine</z:chebi>-induced (140 mug  </plain></SENT>
+<SENT sid="4" pm="."><plain>kg(-1)  </plain></SENT>
+<SENT sid="5" pm="."><plain>min(-1) for 7 min) hyperemia (n = 26) using <z:chebi fb="4" ids="30225">positron</z:chebi> emission tomography and (15)O-labeled water </plain></SENT>
+<SENT sid="6" pm="."><plain>MBF was significantly attenuated in ischemic regions as compared with in nonischemic regions (P &lt; 0.0001) and was increased by insulin as compared with in the fasting state (P &lt; 0.0001) </plain></SENT>
+<SENT sid="7" pm="."><plain>At rest, insulin infusion increased MBF by 13% in ischemic regions (P = 0.043) and 22% in nonischemic regions (P = 0.003) </plain></SENT>
+<SENT sid="8" pm="."><plain>During <z:chebi fb="3" ids="16335">adenosine</z:chebi> infusion, insulin enhanced MBF by 20% (P = 0.018) in ischemic regions and 18% (P = 0.045) in nonischemic regions </plain></SENT>
+<SENT sid="9" pm="."><plain>In conclusion, insulin infusion improved MBF similarly in ischemic and nonischemic regions in type 2 diabetic subjects with CAD </plain></SENT>
+<SENT sid="10" pm="."><plain>Consequently, in addition to its metabolic effects, insulin infusion may improve endothelial function and thus increase the threshold for <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> and partly contribute to the beneficial effects found in clinical trials in these subjects </plain></SENT>
+</text></document>

@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The pore-forming Ca(2+) channel subunit Ca(V)3.2 mediates a low voltage-activated (T-type) Ca(2+) current (I(CaT)) that contributes pivotally to neuronal and cardiac pacemaker activity </plain></SENT>
+<SENT sid="1" pm="."><plain>Despite the importance of tightly regulated Ca(V)3.2 levels, the mechanisms regulating its transcriptional dynamics are not well understood </plain></SENT>
+<SENT sid="2" pm="."><plain>Here, we have identified two key factors that up- and down-regulate the expression of the gene encoding Ca(V)3.2 (Cacna1h) </plain></SENT>
+<SENT sid="3" pm="."><plain>First, we determined the promoter region and observed several stimulatory and inhibitory clusters </plain></SENT>
+<SENT sid="4" pm="."><plain>Furthermore, we found binding sites for the transcription factor early growth response 1 (Egr1/Zif268/Krox-24) to be highly overrepresented within the Ca(V)3.2 promoter region </plain></SENT>
+<SENT sid="5" pm="."><plain><z:chebi fb="2" ids="33699">mRNA</z:chebi> expression analyses and dual-luciferase promoter assays revealed that the Ca(V)3.2 promoter was strongly activated by Egr1 overexpression in vitro and in vivo </plain></SENT>
+<SENT sid="6" pm="."><plain>Subsequent chromatin immunoprecipitation assays in NG108-15 cells and mouse hippocampi confirmed specific Egr1 binding to the Ca(V)3.2 promoter </plain></SENT>
+<SENT sid="7" pm="."><plain>Congruently, whole-cell I(CaT) values were significantly larger after Egr1 overexpression </plain></SENT>
+<SENT sid="8" pm="."><plain>Intriguingly, Egr1-induced activation of the Ca(V)3.2 promoter was effectively counteracted by the repressor element 1-silencing transcription factor (REST) </plain></SENT>
+<SENT sid="9" pm="."><plain>Thus, Egr1 and REST can bi-directionally regulate Ca(V)3.2 promoter activity and <z:chebi fb="2" ids="33699">mRNA</z:chebi> expression and, hence, the size of I(CaT) </plain></SENT>
+<SENT sid="10" pm="."><plain>This mechanism has critical implications for the regulation of neuronal and cardiac Ca(2+) homeostasis under physiological conditions and in episodic disorders such as <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> and <z:e sem="disease" ids="C0014544" disease_type="Disease or Syndrome" abbrv="">epilepsy</z:e> </plain></SENT>
+</text></document>

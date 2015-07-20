@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Upon activation, B cells divide, form a germinal center, and express the activation induced deaminase (AID), an enzyme that triggers somatic hypermutation of the variable regions of immunoglobulin (Ig) loci </plain></SENT>
+<SENT sid="1" pm="."><plain>Recent evidence indicates that at least 25% of expressed genes in germinal center B cells are mutated or deaminated by AID </plain></SENT>
+<SENT sid="2" pm="."><plain>One of the most deaminated genes, c-Myc, frequently appears as a translocation partner with the Ig heavy chain gene (Igh) in mouse <z:hpo ids='HP_0011857'>plasmacytomas</z:hpo> and human Burkitt's <z:hpo ids='HP_0002665'>lymphomas</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>This indicates that the two genes or their double-strand break ends come into close proximity at a biologically relevant frequency </plain></SENT>
+<SENT sid="4" pm="."><plain>However, the proximity of c-Myc and Igh has never been measured in germinal center B cells, where many such translocations are thought to occur </plain></SENT>
+<SENT sid="5" pm="."><plain>We hypothesized that in germinal center B cells, not only is c-Myc near Igh, but other mutating non-Ig genes are deaminated by AID because they are near Ig genes, the primary targets of AID </plain></SENT>
+<SENT sid="6" pm="."><plain>We tested this "collateral damage" model using 3D-fluorescence in situ hybridization (3D-FISH) to measure the distance from non-Ig genes to Ig genes in germinal center B cells </plain></SENT>
+<SENT sid="7" pm="."><plain>We also made mice transgenic for human MYC and measured expression and mutation of the transgenes </plain></SENT>
+<SENT sid="8" pm="."><plain>We found that there is no correlation between proximity to Ig genes and levels of AID targeting or gene mutation, and that c-Myc was not closer to Igh than were other non-Ig genes </plain></SENT>
+<SENT sid="9" pm="."><plain>In addition, the human MYC transgenes did not accumulate mutations and were not deaminated by AID </plain></SENT>
+<SENT sid="10" pm="."><plain>We conclude that proximity to Ig loci is unlikely to be a major determinant of AID targeting or mutation of non-Ig genes, and that the MYC transgenes are either missing important regulatory elements that allow mutation or are unable to mutate because their new nuclear position is not conducive to AID deamination </plain></SENT>
+</text></document>

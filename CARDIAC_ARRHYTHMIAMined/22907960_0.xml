@@ -1,0 +1,7 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>In this paper, we propose a new approach for heartbeat classification based on a combination of morphological and dynamic features </plain></SENT>
+<SENT sid="1" pm="."><plain>Wavelet transform and independent component analysis (ICA) are applied separately to each heartbeat to extract morphological features </plain></SENT>
+<SENT sid="2" pm="."><plain>In addition, RR interval information is computed to provide dynamic features </plain></SENT>
+<SENT sid="3" pm="."><plain>These two different types of features are concatenated and a support vector machine classifier is utilized for the classification of heartbeats into one of 16 classes </plain></SENT>
+<SENT sid="4" pm="."><plain>The procedure is independently applied to the data from two ECG leads and the two decisions are fused for the final classification decision </plain></SENT>
+<SENT sid="5" pm="."><plain>The proposed method is validated on the baseline <z:chebi fb="75" ids="27847,53620">MIT</z:chebi>-BIH <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> database and it yields an overall accuracy (i.e., the percentage of heartbeats correctly classified) of 99.3% (99.7% with 2.4% rejection) in the "class-oriented" evaluation and an accuracy of 86.4% in the "subject-oriented" evaluation, comparable to the state-of-the-art results for automatic heartbeat classification </plain></SENT>
+</text></document>

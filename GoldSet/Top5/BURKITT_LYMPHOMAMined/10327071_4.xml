@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> susceptibility gene, TSG101, has been identified as a candidate <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> suppressor gene </plain></SENT>
+<SENT sid="1" pm="."><plain>We have examined the expression of TSG101 in Burkitt <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cell lines </plain></SENT>
+<SENT sid="2" pm="."><plain>Several aberrant messages were detected in <z:hpo ids='HP_0000001'>all</z:hpo> cell lines </plain></SENT>
+<SENT sid="3" pm="."><plain>Aberrant splice donor sites are located within exon 1 at positions 132, 154, 172 and 284 </plain></SENT>
+<SENT sid="4" pm="."><plain>Splice acceptors are located at positions 847 and 1054 within exon 5 </plain></SENT>
+<SENT sid="5" pm="."><plain>The aberrant messages are coexpressed with a <z:mpath ids='MPATH_458'>normal</z:mpath> message and could be the result of additional splicing reactions of the mature message that behaves as an intermediate </plain></SENT>
+<SENT sid="6" pm="."><plain>The <z:mpath ids='MPATH_458'>normal</z:mpath> message codes for 46 kDa protein (TSG101A) </plain></SENT>
+<SENT sid="7" pm="."><plain>One aberrant message joins in frame <z:chebi fb="9" ids="36976">nucleotides</z:chebi> 283-1055 and codes for a protein isoform of 17 kDa (TSG101B), as demonstrated by in vitro translation assays </plain></SENT>
+<SENT sid="8" pm="."><plain>The TSG101B isoform lacks the leucine zipper near the C-terminus, a transcriptional repressor domain, and retains most of the N-terminal region which has homology to E2 ubiquitin regulatory enzymes and the CROC-1 transcriptional regulator </plain></SENT>
+<SENT sid="9" pm="."><plain>The TSG101B isoform was detected in sixteen out of twenty-two (72%) <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">BL</z:e> cell lines, but not in <z:mpath ids='MPATH_458'>normal</z:mpath> lymphoid populations </plain></SENT>
+<SENT sid="10" pm="."><plain>The presence of two TSG101 isoforms with different dimerization potential opens up a new level of regulation of the TSG101 proteins possibly affecting cell cycle regulation </plain></SENT>
+</text></document>

@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Patients who experience <z:hpo ids='HP_0001658'>myocardial infarction</z:hpo> (MI) are at risk of gastrointestinal (GI) <z:mp ids='MP_0001914'>bleeding</z:mp> complications </plain></SENT>
+<SENT sid="1" pm="."><plain>Endoscopic evaluation may lead to cardiopulmonary complications </plain></SENT>
+<SENT sid="2" pm="."><plain>Guidelines and studies regarding the safety of endoscopy in this population are limited </plain></SENT>
+<SENT sid="3" pm="."><plain>OBJECTIVE: To evaluate the safety of endoscopy in a retrospective cohort of <z:e sem="disease" ids="C0856742" disease_type="Disease or Syndrome" abbrv="">post-MI</z:e> patients at a Canadian tertiary centre </plain></SENT>
+<SENT sid="4" pm="."><plain>Methods: Using hospital diagnostic⁄procedure codes, the charts of patients meeting the inclusion criteria of having ST elevation MI or non-ST elevation MI, and GI <z:mp ids='MP_0001914'>bleeding</z:mp> detected at endoscopy were reviewed </plain></SENT>
+<SENT sid="5" pm="."><plain>The information retrieved included demographics, medical history, medications, endoscopy details and cardiopulmonary⁄GI events </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: A total of 121 patients experienced an MI and underwent endoscopy within 30 days </plain></SENT>
+<SENT sid="7" pm="."><plain>However, only 44 met the inclusion criteria and were reviewed </plain></SENT>
+<SENT sid="8" pm="."><plain>The mean age of the patients was 75 years, and 55% were female </plain></SENT>
+<SENT sid="9" pm="."><plain>The mean <z:chebi fb="0" ids="35143">hemoglobin</z:chebi> level was 86 g⁄L, and 38 of 44 patients required a transfusion </plain></SENT>
+<SENT sid="10" pm="."><plain>Comorbidities included <z:hpo ids='HP_0000822'>hypertension</z:hpo> (82%), <z:mp ids='MP_0002055'>diabetes</z:mp> (46%), <z:hpo ids='HP_0001635'>heart failure</z:hpo> (55%), <z:hpo ids='HP_0001297'>stroke</z:hpo> (21%), <z:e sem="disease" ids="C0024115" disease_type="Disease or Syndrome" abbrv="">lung disease</z:e> (27%), previous MI (46%), cardiac bypass surgery (30%), history of GI bleed (25%), history of <z:mpath ids='MPATH_579'>ulcer</z:mpath> (18%) and ejection fraction &lt;50% (48%) </plain></SENT>
+<SENT sid="11" pm="."><plain>The median number of days to endoscopy after MI was three </plain></SENT>
+<SENT sid="12" pm="."><plain>Complications included seven patients with <z:hpo ids='HP_0011009'>acute</z:hpo> coronary syndrome, one with <z:hpo ids='HP_0011675'>arrhythmia</z:hpo>, one with <z:hpo ids='HP_0002093'>respiratory failure</z:hpo>, one with <z:hpo ids='HP_0011951'>aspiration pneumonia</z:hpo> and two with <z:mpath ids='MPATH_81'>perforation</z:mpath> </plain></SENT>
+<SENT sid="13" pm="."><plain>Age, <z:chebi fb="0" ids="35143">hemoglobin</z:chebi> level or timing of endoscopy did not significantly predict a complication </plain></SENT>
+<SENT sid="14" pm="."><plain>CONCLUSIONS: Patients with GI <z:mp ids='MP_0001914'>bleeding</z:mp> after MI often have comorbidities and are on antiplatelet agents </plain></SENT>
+<SENT sid="15" pm="."><plain>Endoscopy is a valuable tool in the diagnosis and management of <z:mp ids='MP_0001914'>bleeding</z:mp> complications, but must be weighed against the potential risk of other complications, which in the present study occurred in more than 25% of procedures </plain></SENT>
+</text></document>

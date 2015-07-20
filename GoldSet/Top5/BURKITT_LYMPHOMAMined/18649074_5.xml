@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Interest in biological studies on various cell types for many biomedical applications, from research to patient treatments, is constantly increasing </plain></SENT>
+<SENT sid="1" pm="."><plain>The ability to discriminate (sort) and/or quantify distinct subpopulations of cells has become increasingly important </plain></SENT>
+<SENT sid="2" pm="."><plain>For instance, not only detection but also the highest <z:mpath ids='MPATH_63'>depletion</z:mpath> of neoplastic cells from <z:mpath ids='MPATH_458'>normal</z:mpath> cells is an important requisite in the autologous transplantation of lymphocytes for <z:e sem="disease" ids="C0376544" disease_type="Neoplastic Process" abbrv="">blood cancer</z:e> treatments </plain></SENT>
+<SENT sid="3" pm="."><plain>In this work, gravitational field-flow fractionation (GrFFF) is shown to be effective for sorting a <z:hpo ids='HP_0001425'>heterogeneous</z:hpo> mixture of human, living lymphocytes constituted of neoplastic B cells from a Burkitt <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cell line and healthy T and B lymphocytes from blood samples </plain></SENT>
+<SENT sid="4" pm="."><plain>GrFFF does not require the use of fluorescent immunotags for sorting cells, and the sorted cells can be collected for their further characterization </plain></SENT>
+<SENT sid="5" pm="."><plain>Flow cytometry was used to assess the viability of the cells collected, and to evaluate the cell fractionation achieved </plain></SENT>
+<SENT sid="6" pm="."><plain>A low amount of neoplastic B lymphocytes (less than 2%) was found in a specific fraction obtained by GrFFF </plain></SENT>
+<SENT sid="7" pm="."><plain>The high <z:mpath ids='MPATH_63'>depletion</z:mpath> from neoplastic cells (more than 98%) was confirmed by a clonogenicity test </plain></SENT>
+</text></document>

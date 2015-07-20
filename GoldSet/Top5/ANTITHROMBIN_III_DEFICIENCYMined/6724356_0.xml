@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The clinical picture of antithrombin III (AT-III) deficiency is characterized by early manifestations of serious venous <z:hpo ids='HP_0001907'>thromboembolism</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>The <z:hpo ids='HP_0000005'>inheritance</z:hpo> is <z:hpo ids='HP_0000006'>autosomal dominant</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>The precipitating factors of the clinical signs are <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infections</z:e>, trauma and pregnancy </plain></SENT>
+<SENT sid="3" pm="."><plain>For a correct diagnosis, application of various methods (immunological, amidolytic, electrophoresis) are needed </plain></SENT>
+<SENT sid="4" pm="."><plain>There are several types of AT-III defect; they are characterized by a decrease in amount and function, a functional decrease, or a pathological <z:chebi fb="5" ids="28304">heparin</z:chebi>-binding </plain></SENT>
+<SENT sid="5" pm="."><plain>Adequate treatment of thromboembolic episodes caused by AT-III deficiency is a lifelong <z:chebi fb="2" ids="28794">coumarin</z:chebi> therapy </plain></SENT>
+<SENT sid="6" pm="."><plain>In pregnancy and after surgery <z:chebi fb="5" ids="28304">heparin</z:chebi> can only be given together with AT-III substitution </plain></SENT>
+<SENT sid="7" pm="."><plain>The decreased AT-III activity may change during treatment and this has a diagnostic importance </plain></SENT>
+</text></document>

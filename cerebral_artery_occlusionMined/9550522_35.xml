@@ -1,0 +1,20 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND PURPOSE: Endothelins (ETs) are potent vasoconstrictors </plain></SENT>
+<SENT sid="1" pm="."><plain>Plasma ET levels increase during <z:hpo ids='HP_0011009'>acute</z:hpo> <z:e sem="disease" ids="C0007786" disease_type="Disease or Syndrome" abbrv="">brain ischemia</z:e> and may worsen the ischemic damage </plain></SENT>
+<SENT sid="2" pm="."><plain>Diffusion-weighted MRI (DWI) and perfusion imaging (PI) are powerful tools for evaluation of <z:hpo ids='HP_0011009'>acute</z:hpo> <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>We studied the effects of A-127722, a novel ET(A)-selective ET <z:chebi fb="68" ids="48706">antagonist</z:chebi>, on cerebral ischemic lesion size using 2,3,5-triphenyltetrazolium <z:chebi fb="76" ids="17996">chloride</z:chebi> (TTC) staining postmortem, on <z:hpo ids='HP_0011009'>acute</z:hpo> ischemic lesion development with DWI, and on the cerebral circulation using PI </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS: Twenty male Sprague-Dawley rats received either 5 mg/kg of A-127722 or vehicle (n=10 per group) intravenously 30 minutes and subcutaneously 4 hours after middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (MCAO) </plain></SENT>
+<SENT sid="5" pm="."><plain>Whole-brain DWI and single-slice PI were done before initiation of treatment and repeated frequently thereafter up to 4 hours after MCAO </plain></SENT>
+<SENT sid="6" pm="."><plain>The animals were reperfused in the MRI scanner 90 minutes after the <z:hpo ids='HP_0003674'>onset</z:hpo> of MCAO </plain></SENT>
+<SENT sid="7" pm="."><plain>At 24 hours the animals were killed, and the brains were cut into six 2-mm-thick slices and stained with 2% TTC </plain></SENT>
+<SENT sid="8" pm="."><plain>Percent hemispheric lesion volume (%HLV) was calculated for each animal </plain></SENT>
+<SENT sid="9" pm="."><plain>RESULTS: Physiological parameters, body weight, neurological scores, and premature mortality (2 versus 2) did not differ between the two groups </plain></SENT>
+<SENT sid="10" pm="."><plain>No <z:hpo ids='HP_0002615'>hypotension</z:hpo>, <z:mp ids='MP_0004924'>abnormal behavior</z:mp>, or other adverse effects were seen </plain></SENT>
+<SENT sid="11" pm="."><plain>TTC-derived %HLV was 25.3+/-5.6% for controls and 16.2+/-9.6% for treated animals (36% reduction, P&lt;.02) </plain></SENT>
+<SENT sid="12" pm="."><plain>Six animals in each group had successful reperfusion as shown by PI </plain></SENT>
+<SENT sid="13" pm="."><plain>Among these animals, %HLV was 23.2+/-3.1% for controls and 9.3+/-4.4% for treated animals (60% reduction, P=.0001) </plain></SENT>
+<SENT sid="14" pm="."><plain>The beneficial effect of A-127722 was limited to animals in which successful reperfusion was demonstrated </plain></SENT>
+<SENT sid="15" pm="."><plain>No difference in PI-detected perfusion deficit size was observed between the groups </plain></SENT>
+<SENT sid="16" pm="."><plain>DWI did not demonstrate significant in vivo lesion size differences </plain></SENT>
+<SENT sid="17" pm="."><plain>CONCLUSIONS: A-127722 significantly reduced ischemic lesion size in rats without observable adverse effects </plain></SENT>
+<SENT sid="18" pm="."><plain>It is not clear whether the effect was due to vasodilatation of collateral arterioles not detectable by PI or whether A-127722 has neuroprotective properties that are independent of vascular effects </plain></SENT>
+</text></document>

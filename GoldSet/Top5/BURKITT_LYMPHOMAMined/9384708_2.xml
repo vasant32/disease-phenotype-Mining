@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Management of <z:hpo ids='HP_0006721'>acute lymphoblastic leukemia</z:hpo> (ALL) patients may include growth factors (GFs) to reduce post-chemotherapy <z:mpath ids='MPATH_58'>aplasia</z:mpath> </plain></SENT>
+<SENT sid="1" pm="."><plain>A potential risk of GF administration is a stimulatory signal on the leukemic population </plain></SENT>
+<SENT sid="2" pm="."><plain>In the present study we investigated the proliferative and programmed cell <z:hpo ids='HP_0011420'>death</z:hpo> (PCD) effect of two cytokines that have recently entered clinical use, stem cell factor (SCF) and the granulocyte colony stimulating factor/IL-3 fusion molecule (PIXY-321), on 14 ALL samples </plain></SENT>
+<SENT sid="3" pm="."><plain>The activity of IL-7, a cytokine involved in the regulation of ALL cell proliferation, was also tested alone and in combination with these two cytokines </plain></SENT>
+<SENT sid="4" pm="."><plain>Using the <z:chebi fb="0" ids="51739">acridine orange</z:chebi> flow cytometric technique and the clonogenic assay, we showed that none of these cytokines was capable of significantly increasing the mean percentage of S-phase cells and CFU-L number </plain></SENT>
+<SENT sid="5" pm="."><plain>A mean decrease of G0 cells from 60.6% to 52.6% (p = 0.02), coupled by a significant increase of G1 cells from 28.2% to 37.9% (p = 0.003) was demonstrated in the presence of PIXY-321 </plain></SENT>
+<SENT sid="6" pm="."><plain>IL-7 alone and in combination with either PIXY-321 or SCF induced similar changes in the percentage of cells in G0 and G1 </plain></SENT>
+<SENT sid="7" pm="."><plain>SCF showed no activity on G0 <z:mpath ids='MPATH_63'>depletion</z:mpath> </plain></SENT>
+<SENT sid="8" pm="."><plain>When each individual samples was analyzed separately, some <z:hpo ids='HP_0001425'>heterogeneity</z:hpo> was observed </plain></SENT>
+<SENT sid="9" pm="."><plain>An increase of S phase was recorded in a proportion of cases after SCF and PIXY-321 exposure </plain></SENT>
+<SENT sid="10" pm="."><plain>However, none of the cytokines evaluated by a clonogenic assay following liquid culture was capable of maintaining or promoting self-renewal of leukemic precursors, as determined by plating fresh cells at time 0 </plain></SENT>
+<SENT sid="11" pm="."><plain>Detection of cytokine effects of <z:mpath ids='MPATH_3'>apoptosis</z:mpath> showed that SCF and PIXY-321 did not significantly reduce the mean percentage of cells in PCD, whereas a significant protective effect was observed in the presence of IL-7 (p = 0.02) </plain></SENT>
+<SENT sid="12" pm="."><plain>We conclude that PIXY-321 and, to a further extent, SCF fail to induce leukemic lymphoid cell proliferation, and do not protect cells from entering <z:mpath ids='MPATH_3'>apoptosis</z:mpath> </plain></SENT>
+<SENT sid="13" pm="."><plain>These in vitro findings may be useful for ALL clinical trial design </plain></SENT>
+</text></document>

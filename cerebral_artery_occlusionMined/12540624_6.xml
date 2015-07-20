@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>It is well known that <z:mp ids='MP_0002055'>diabetes</z:mp> aggravates brain damage in experimental and clinical <z:hpo ids='HP_0001297'>stroke</z:hpo> subjects </plain></SENT>
+<SENT sid="1" pm="."><plain><z:mp ids='MP_0002055'>Diabetes</z:mp> accelerates maturation of neuronal damage, increases <z:mpath ids='MPATH_124'>infarct</z:mpath> volume, and induces postischemic <z:hpo ids='HP_0001250'>seizures</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>The mechanism by which <z:mp ids='MP_0002055'>diabetes</z:mp> increases ischemic brain damage is still elusive </plain></SENT>
+<SENT sid="3" pm="."><plain>Our previous experiments indicate that mitochondria dysfunction may play a role in neuronal <z:hpo ids='HP_0011420'>death</z:hpo> </plain></SENT>
+<SENT sid="4" pm="."><plain>The objective of this study is to determine whether <z:chebi fb="1" ids="9288">streptozotocin</z:chebi>-induced <z:mp ids='MP_0002055'>diabetes</z:mp> activates cell <z:hpo ids='HP_0011420'>death</z:hpo> pathway after a brief period of focal <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> </plain></SENT>
+<SENT sid="5" pm="."><plain>Both diabetic and nondiabetic rats were subjected to 30 min of transient middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp>, followed by 0, 0.5, 3, and 6 h of reperfusion </plain></SENT>
+<SENT sid="6" pm="."><plain>We first determined the pathological outcomes after 7 days of recovery by histopathology, and then detected key components of programmed cell <z:hpo ids='HP_0011420'>death</z:hpo> pathway using immunocytochemistry coupled with confocal laser-scanning microscopy and Western blot analysis </plain></SENT>
+<SENT sid="7" pm="."><plain>The results show that the cytosolic <z:chebi fb="1" ids="18070">cytochrome c</z:chebi> increased mildly after reperfusion in nondiabetic samples </plain></SENT>
+<SENT sid="8" pm="."><plain>This increase was markedly enhanced in diabetic rats in both ischemic focus and penumbra </plain></SENT>
+<SENT sid="9" pm="."><plain>Subsequently, caspase-3 was activated and poly-<z:chebi fb="13" ids="16761">ADP</z:chebi> <z:chebi fb="1" ids="33942">ribose</z:chebi> polymerase (PARP) was cleaved </plain></SENT>
+<SENT sid="10" pm="."><plain>Our results suggest that activation of apoptotic cell <z:hpo ids='HP_0011420'>death</z:hpo> pathway may play a pivotal role in exaggerating brain damage in diabetic subjects </plain></SENT>
+</text></document>

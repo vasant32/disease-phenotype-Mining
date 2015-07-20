@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AimsGenetic factors may be important in the development of <z:hpo ids='HP_0005110'>atrial fibrillation</z:hpo> (AF) in the young </plain></SENT>
+<SENT sid="1" pm="."><plain>KCNA5 encodes the <z:chebi fb="120" ids="26216">potassium</z:chebi> channel α-subunit K(V)1.5, which underlies the voltage-gated atrial-specific <z:chebi fb="120" ids="26216">potassium</z:chebi> current I(Kur) </plain></SENT>
+<SENT sid="2" pm="."><plain>KCNAB2 encodes K(V)β2, a β-subunit of K(V)1.5, which increases I(Kur) </plain></SENT>
+<SENT sid="3" pm="."><plain>Three studies have identified loss-of-function mutations in KCNA5 in patients with idiopathic AF </plain></SENT>
+<SENT sid="4" pm="."><plain>We hypothesized that early-<z:hpo ids='HP_0003674'>onset</z:hpo> lone AF is associated with high prevalence of genetic variants in KCNA5 and KCNAB2.Methods and resultsThe coding sequences of KCNA5 and KCNAB2 were sequenced in 307 patients with mean age of 33 years at the <z:hpo ids='HP_0003674'>onset</z:hpo> of lone AF, and in 216 healthy controls </plain></SENT>
+<SENT sid="5" pm="."><plain>We identified six novel non-synonymous mutations [E48G, Y155C, A305T (twice), D322H, D469E, and P488S] in KCNA5 in seven patients </plain></SENT>
+<SENT sid="6" pm="."><plain>None were present in controls </plain></SENT>
+<SENT sid="7" pm="."><plain>We identified a significantly higher frequency of rare deleterious variants in KCNA5 in the patients than in controls </plain></SENT>
+<SENT sid="8" pm="."><plain>The mutations were analysed with confocal microscopy and whole-cell patch-clamp techniques </plain></SENT>
+<SENT sid="9" pm="."><plain>The mutant proteins Y155C, D469E, and P488S displayed decreased surface expression and loss-of-function in patch-clamp studies, whereas E48G, A305T, and D322H showed preserved surface expression and gain-of-function for K(V)1.5.ConclusionThis study is the first to present gain-of-function mutations in KCNA5 in patients with early-<z:hpo ids='HP_0003674'>onset</z:hpo> lone AF </plain></SENT>
+<SENT sid="10" pm="."><plain>We identified three gain-of-function and three loss-of-function mutations </plain></SENT>
+<SENT sid="11" pm="."><plain>We report a high prevalence of variants in KCNA5 in these patients </plain></SENT>
+<SENT sid="12" pm="."><plain>This supports the hypothesis that both increased and decreased <z:chebi fb="120" ids="26216">potassium</z:chebi> currents enhance AF susceptibility </plain></SENT>
+</text></document>

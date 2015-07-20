@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: An 11-year-old girl, presenting with <z:mp ids='MP_0002899'>fatigue</z:mp> and <z:mp ids='MP_0009275'>bruising</z:mp>, was found to be profoundly pancytopenic </plain></SENT>
+<SENT sid="1" pm="."><plain>Bone marrow exam and clinical evaluation were consistent with <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>Family members were studied as potential stem cell donors, revealing that both younger siblings displayed significant <z:hpo ids='HP_0001873'>thrombocytopenia</z:hpo>, whereas both parents had <z:mpath ids='MPATH_458'>normal</z:mpath> blood counts </plain></SENT>
+<SENT sid="3" pm="."><plain>We evaluated this pedigree to understand the unusually late presentation of congenital <z:hpo ids='HP_0004859'>amegakaryocytic thrombocytopenia</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CAMT</z:e>) </plain></SENT>
+<SENT sid="4" pm="."><plain>MATERIALS AND METHODS: The coding region and the intron/exon junctions of MPL were sequenced from each family member </plain></SENT>
+<SENT sid="5" pm="."><plain>Vectors representing each of the mutations were constructed and tested for the ability to support growth of Baf3/Mpl(mutant) cells </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: <z:hpo ids='HP_0000001'>All</z:hpo> three siblings had elevated thrombopoietin levels </plain></SENT>
+<SENT sid="7" pm="."><plain>Analysis of genomic DNA demonstrated that each parent had mutations/polymorphisms in a single MPL allele and that each child was a compound heterozygote, having inherited both abnormal alleles </plain></SENT>
+<SENT sid="8" pm="."><plain>The maternal allele encoded a mutation of the donor splice-junction at the exon-3/intron-3 boundary </plain></SENT>
+<SENT sid="9" pm="."><plain>A mini-gene construct encoding <z:mpath ids='MPATH_458'>normal</z:mpath> vs mutant versions of the intron-3 donor-site demonstrated that physiologic splicing was significantly reduced in the mutant construct </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSIONS: Mutations that incompletely eliminate Mpl expression/function may result in delayed diagnosis of <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CAMT</z:e> and <z:hpo ids='HP_0001289'>confusion</z:hpo> with <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> </plain></SENT>
+</text></document>

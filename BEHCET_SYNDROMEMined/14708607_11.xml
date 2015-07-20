@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Thalidomide is an effective treatment for several inflammatory and <z:hpo ids='HP_0002960'>autoimmune disorders</z:hpo> including <z:hpo ids='HP_0010783'>erythema</z:hpo> nodosum leprosum, <z:e sem="disease" ids="C0004943" disease_type="Disease or Syndrome" abbrv="">Behcet's syndrome</z:e>, <z:hpo ids='HP_0007417'>discoid lupus erythematosus</z:hpo>, and <z:hpo ids='HP_0100280'>Crohn's disease</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Thalidomide is believed to exert its anti-inflammatory effects, at least in part, by inhibiting <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> <z:mp ids='MP_0001651'>necrosis</z:mp> factor-alpha (TNF-alpha) production by monocytes </plain></SENT>
+<SENT sid="2" pm="."><plain>We studied the effects of thalidomide on epidermal Langerhans cells (LC) </plain></SENT>
+<SENT sid="3" pm="."><plain>LCs are epidermal antigen-presenting dendritic cells that play important roles in skin immune responses </plain></SENT>
+<SENT sid="4" pm="."><plain>Using the murine epidermis-derived dendritic cell lines, XS106A from A/J mice and XS52 from BALB/c mice as surrogates for LC, we found that thalidomide inhibited TNF-alpha production in a concentration-dependent manner </plain></SENT>
+<SENT sid="5" pm="."><plain>Northern blot analysis revealed that thalidomide significantly decreased the peak-induced <z:chebi fb="2" ids="33699">mRNA</z:chebi> level of TNF-alpha in XS106A cells and XS52 cells </plain></SENT>
+<SENT sid="6" pm="."><plain>We then examined the effect of thalidomide on fresh LC enriched to approximately 98% using positive selection of Ia+ cells with antibodies conjugated to magnetic microspheres </plain></SENT>
+<SENT sid="7" pm="."><plain>TNF-alpha production was reduced by 67.7% at a thalidomide concentration of 200 microg per mL </plain></SENT>
+<SENT sid="8" pm="."><plain>Thalidomide also had a profound inhibitory effect on the ability of LC to present antigen to a responsive TH1 clone </plain></SENT>
+<SENT sid="9" pm="."><plain>Thalidomide inhibits TNF-alpha production and the antigen-presenting ability of epidermal LCs </plain></SENT>
+<SENT sid="10" pm="."><plain>These mechanisms may contribute to the therapeutic effects observed with this agent </plain></SENT>
+</text></document>

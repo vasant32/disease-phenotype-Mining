@@ -1,0 +1,18 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Due to DNA technology, it is now apparent that the mechanisms of <z:e sem="disease" ids="C0019247" disease_type="Disease or Syndrome" abbrv="">genetic disease</z:e> are more complex than the model of a gene with biallelic expression in the diploid state </plain></SENT>
+<SENT sid="1" pm="."><plain>If a gene is imprinted, monoallelic expression is the norm when the chromosomes of a pair are inherited normally from each parent </plain></SENT>
+<SENT sid="2" pm="."><plain><z:mp ids='MP_0008867'>Uniparental disomy</z:mp> (UPD) is the abnormal situation where both chromosomes of a pair come from the same parent </plain></SENT>
+<SENT sid="3" pm="."><plain>When the chromosome contains an imprinted gene, UPD may result in nullisomy or disomy for a functional copy of that gene </plain></SENT>
+<SENT sid="4" pm="."><plain>If there are two imprinted loci on the same chromosome, UPD for that chromosome results in nullisomy for one imprinted gene but functional disomy for the other a "diploid overdose" (DO) </plain></SENT>
+<SENT sid="5" pm="."><plain>This situation has been well demonstrated in the Prader-Willi syndrome (PWS) which is the nullisomic phenotype for the PWS gene(s) on chromosome 15q11-13 </plain></SENT>
+<SENT sid="6" pm="."><plain>Chromosome 15q11-13 also contains the gene for <z:e sem="disease" ids="C0162635" disease_type="Disease or Syndrome" abbrv="">Angelman syndrome (AS)</z:e> which has a phenotype distinct from PWS </plain></SENT>
+<SENT sid="7" pm="."><plain>Both loci are subject to imprinting--in PWS, the imprint is on the maternal chromosome 15, in AS it is on the paternal chromosome 15 </plain></SENT>
+<SENT sid="8" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> individuals with PWS due to maternal UPD, while functionally nullisomic for the PWS locus, are functionally disomic for the AS locus--a DO situation </plain></SENT>
+<SENT sid="9" pm="."><plain>Assuming that biallelic expression of an imprinted gene is harmful, one would expect DO for an imprinted gene to produce a phenotypic effect </plain></SENT>
+<SENT sid="10" pm="."><plain>Cases of PWS due to UPD do not appear to differ from those due to deletion (<z:hpo ids='HP_0001010'>hypopigmentation</z:hpo> in deletional cases can be explained by loss of D15S12 downstream from the critical region) </plain></SENT>
+<SENT sid="11" pm="."><plain>There is no good evidence of DO for the AS locus in PWS due to UPD </plain></SENT>
+<SENT sid="12" pm="."><plain>Why then was it 'necessary' in evolutionary terms to imprint the AS locus and maintain the imprint faithfully for life </plain></SENT>
+<SENT sid="13" pm="."><plain>A similar situation of two imprinted genes on the same chromosome occurs with IGF2 and H19 on chromosome 11p15 </plain></SENT>
+<SENT sid="14" pm="."><plain><z:mp ids='MP_0003122'>Maternal imprinting</z:mp> for IGF2 and <z:mp ids='MP_0003123'>paternal imprinting</z:mp> for H19 is the norm </plain></SENT>
+<SENT sid="15" pm="."><plain>Paternal UPD in this situation does lead to a DO effect, namely <z:e sem="disease" ids="C0004903" disease_type="Disease or Syndrome;Congenital Abnormality" abbrv="">Beckwith-Wiedemann syndrome</z:e> </plain></SENT>
+<SENT sid="16" pm="."><plain>The possibility of a DO effect needs to be considered when assessing the phenotypic spectrum of UPD for other chromosomes currently under investigation </plain></SENT>
+</text></document>

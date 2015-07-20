@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0002863'>Myelodysplastic syndromes</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e>) are a <z:hpo ids='HP_0001425'>heterogeneous</z:hpo> group of clonal hematopoietic diseases with inefficient hematopoiesis </plain></SENT>
+<SENT sid="1" pm="."><plain>Diagnosis is based on the persistence of at least one cytopenia for more than 6 months, together with cytological and cytogenetic <z:e sem="disease" ids="C0549539" disease_type="Disease or Syndrome" abbrv="">bone marrow abnormalities</z:e>, a variety of other diagnosis being discarded </plain></SENT>
+<SENT sid="2" pm="."><plain>Most patients will die from the consequences of cytopenias </plain></SENT>
+<SENT sid="3" pm="."><plain>These diseases can progress to <z:hpo ids='HP_0002488'>acute leukemia</z:hpo> </plain></SENT>
+<SENT sid="4" pm="."><plain>The last WHO classification (2008) distinguishes 6 MDS types </plain></SENT>
+<SENT sid="5" pm="."><plain>An International Prognostic Scoring System (IPSS) based on the percentage of blast cells in the bone marrow, the cytogenetic abnormalities and the number of cytopenias completes the WHO classification </plain></SENT>
+<SENT sid="6" pm="."><plain>The patient care depends of the disease severity, cytogenetic abnormalities, age and performance status </plain></SENT>
+<SENT sid="7" pm="."><plain>Supportive care is required in <z:hpo ids='HP_0000001'>all</z:hpo> cases </plain></SENT>
+<SENT sid="8" pm="."><plain>In low risk patients, drugs are possibly used to correct cytopenias whereas in high risk patients, the treatment aims to increase survival through induction of a complete response </plain></SENT>
+<SENT sid="9" pm="."><plain><z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> classification may become molecular in the coming years, based on the genetic abnormalities that lead either to <z:mpath ids='MPATH_3'>apoptosis</z:mpath> of blood cell progenitors in the bone marrow or the accumulation of blast cells that precedes <z:hpo ids='HP_0002488'>acute leukemia</z:hpo> </plain></SENT>
+</text></document>

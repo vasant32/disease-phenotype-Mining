@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Somatic hypermutation (SHM) of the Ig genes is required for affinity maturation of the humoral response to foreign antigens </plain></SENT>
+<SENT sid="1" pm="."><plain>Activation-induced <z:chebi fb="0" ids="17562">cytidine</z:chebi> deaminase (AID), which is specifically expressed in germinal center centroblasts, is indispensable for this process </plain></SENT>
+<SENT sid="2" pm="."><plain>Expression of AID is sufficient to activate SHM in hybridomas, non-B cells, and Escherichia coli, suggesting that it initiates the mutational process by deaminating DNA </plain></SENT>
+<SENT sid="3" pm="."><plain>However, the cis-acting sequences that are responsible for targeting AID activity to the variable (V) region of Ig genes are unknown </plain></SENT>
+<SENT sid="4" pm="."><plain>Here we show that expression of AID in B cell lines (i.e., Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> Ramos and hybridoma P1-5) not only causes hypermutation of Ig sequences, but also of the AID transgene itself </plain></SENT>
+<SENT sid="5" pm="."><plain>Because it is possible that B cell-specific transacting factors bind to and recruit the "mutator" to the AID transgene, we tested whether the AID transgene can mutate in non-B cells </plain></SENT>
+<SENT sid="6" pm="."><plain>Indeed, we show that expression of AID in Chinese hamster ovary cells causes SHM of both the Ig and AID transgenes </plain></SENT>
+<SENT sid="7" pm="."><plain>These data suggest that high transcription rates alone may predispose any gene to mutation by AID but do not preclude that there are specific B cell factors that account for the extremely high rate of V mutation in vivo and its targeting to the V region </plain></SENT>
+</text></document>

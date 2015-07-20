@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Between July 1991 and January 1994, 52 patients with <z:e sem="disease" ids="C0376545" disease_type="Neoplastic Process" abbrv="">hematologic malignancies</z:e> underwent BMT using BU/CY2 as conditioning regimen </plain></SENT>
+<SENT sid="1" pm="."><plain>Median patient age was 38 years </plain></SENT>
+<SENT sid="2" pm="."><plain>Eleven patients underwent autologous BMT, 22 HLA-identical allogeneic BMT, and 19 patients underwent a MUD or an allogeneic mismatched BMT </plain></SENT>
+<SENT sid="3" pm="."><plain>GVHD prophylaxis was with <z:chebi fb="0" ids="4031">cyclosporine</z:chebi>/methylprednisone in 26 patients; T cell <z:mpath ids='MPATH_63'>depletion</z:mpath> was used in 15 patients </plain></SENT>
+<SENT sid="4" pm="."><plain><z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">VOD</z:e> was observed in 7.5% of patients, IP in 12%, <z:hpo ids='HP_0001250'>seizures</z:hpo> in 4% </plain></SENT>
+<SENT sid="5" pm="."><plain>The overall incidence of grade II-IV <z:hpo ids='HP_0011009'>acute</z:hpo> GVHD was 35% </plain></SENT>
+<SENT sid="6" pm="."><plain>Delayed platelet engraftment was observed in seven of 11 patients who underwent autologous BMT </plain></SENT>
+<SENT sid="7" pm="."><plain>Graft failure was seen in seven of 19 (37%) patients who underwent MUD or allogeneic mismatched BMT </plain></SENT>
+<SENT sid="8" pm="."><plain>Six of the seven patients received T cell <z:mpath ids='MPATH_63'>depletion</z:mpath> as GVHD prophylaxis </plain></SENT>
+<SENT sid="9" pm="."><plain>BU/CY2 transplantation from an unrelated or family-mismatched donor with T cell <z:mpath ids='MPATH_63'>depletion</z:mpath> is associated with a high incidence of graft failure </plain></SENT>
+</text></document>

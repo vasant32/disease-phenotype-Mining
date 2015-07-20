@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Background: Indisetron is a <z:chebi fb="19" ids="28790">serotonin</z:chebi> (5-hydroxytryptamine type 3) receptor <z:chebi fb="68" ids="48706">antagonist</z:chebi> that also antagonizes 5-hydroxytryptamine type 4 receptors </plain></SENT>
+<SENT sid="1" pm="."><plain>We designed a pilot study in order to explore the optimal dosing period for indisetron during modified FOLFOX6 (mFOLFOX6) </plain></SENT>
+<SENT sid="2" pm="."><plain>Patients and Methods: Forty-two chemotherapy-naive patients with advanced <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> scheduled to receive mFOLFOX6 were randomly assigned to either a 1- or 3-day indisetron regimen arm </plain></SENT>
+<SENT sid="3" pm="."><plain>The primary endpoint was complete protection from <z:hpo ids='HP_0002013'>vomiting</z:hpo> </plain></SENT>
+<SENT sid="4" pm="."><plain>Results: Proportions of patients with complete protection from <z:hpo ids='HP_0002013'>vomiting</z:hpo> were 85.7% [95% confidence interval (CI) 63.7-97.0] with the 3-day regimen and 81.0% (95% CI 58.1-94.6) with the 1-day regimen </plain></SENT>
+<SENT sid="5" pm="."><plain>Proportions of patients with complete protection from <z:hpo ids='HP_0002018'>nausea</z:hpo> were 47.6% in each arm (95% CI 25.7-70.2) </plain></SENT>
+<SENT sid="6" pm="."><plain>No rescue therapy rates were 66.7% (95% CI 43.0-85.4) versus 57.1% (95% CI 34.0-78.2) </plain></SENT>
+<SENT sid="7" pm="."><plain>No severe adverse events were observed in either arm </plain></SENT>
+<SENT sid="8" pm="."><plain>Conclusion: Both 1- and 3-day indisetron regimens were feasible for preventing <z:hpo ids='HP_0002017'>nausea and vomiting</z:hpo> induced by mFOLFOX6 </plain></SENT>
+</text></document>

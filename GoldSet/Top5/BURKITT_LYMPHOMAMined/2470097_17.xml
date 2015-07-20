@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Chromosomal translocations in Burkitt <z:hpo ids='HP_0002665'>lymphoma</z:hpo> and mouse <z:hpo ids='HP_0011857'>plasmacytomas</z:hpo> typically lie within or near the protooncogene MYC </plain></SENT>
+<SENT sid="1" pm="."><plain>In some instances, however, these <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumors</z:e> contain variant translocations with breakpoints located more distant from and downstream of MYC, in a domain commonly known as pvt-1 </plain></SENT>
+<SENT sid="2" pm="."><plain>Until now, there has been no evidence that pvt-1 marks the location of a functional gene </plain></SENT>
+<SENT sid="3" pm="."><plain>Here we report the identification of a large transcriptional unit in human DNA that includes pvt-1 </plain></SENT>
+<SENT sid="4" pm="."><plain>We have designated this unit as PVT </plain></SENT>
+<SENT sid="5" pm="."><plain>PVT begins 57 kilobase pairs downstream of MYC and occupies a minimum of 200 kilobase pairs of DNA </plain></SENT>
+<SENT sid="6" pm="."><plain>Some of the translocations that occur downstream of MYC in Burkitt <z:hpo ids='HP_0002665'>lymphoma</z:hpo> transect PVT; others lie between the two genes </plain></SENT>
+<SENT sid="7" pm="."><plain>None of the translocations we have studied appear to enhance transcription from an intact allele of PVT (indeed, they may inactivate that transcription), but some are associated with the production of abundant and anomalous 0.8- to 1.0-kilobase <z:chebi fb="40" ids="33697">RNAs</z:chebi> that contain the 5' exon of PVT and sequences transcribed from the constant region of an immunoglobulin gene (the reciprocal participant in the translocation) </plain></SENT>
+<SENT sid="8" pm="."><plain>Identification of PVT should facilitate the exploration of how translocations downstream of MYC and insertions of retroviral DNA in the vicinity of pvt-1 might contribute to <z:mp ids='MP_0002006'>tumorigenesis</z:mp> </plain></SENT>
+</text></document>

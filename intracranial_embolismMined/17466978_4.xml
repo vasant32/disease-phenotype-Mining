@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Antithrombotic therapy has been shown to be effective in preventing secondary <z:hpo ids='HP_0001297'>strokes</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Inhibition of platelet function may reduce formation of <z:e sem="disease" ids="C0087086" disease_type="Disease or Syndrome" abbrv="">thrombi</z:e> thereby reducing the incidence of <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>However, stronger inhibition of platelets is correlated with increased risk of <z:mp ids='MP_0001914'>bleeding</z:mp> events </plain></SENT>
+<SENT sid="3" pm="."><plain>The purpose of this study was to test the protective effects of combination therapy with <z:chebi fb="0" ids="4653">dipyridamole</z:chebi> and <z:chebi fb="0" ids="15365">acetylsalicylic acid</z:chebi> (<z:chebi fb="37" ids="15365">ASA</z:chebi>) in comparison to <z:chebi fb="37" ids="15365">ASA</z:chebi> alone, and whether such combination treatment may produce any added benefits when tissue plasminogen activator (tPA) treatment is also used </plain></SENT>
+<SENT sid="4" pm="."><plain>The study was divided into three parts </plain></SENT>
+<SENT sid="5" pm="."><plain>In part A, effect of antiplatelets on <z:mpath ids='MPATH_124'>infarct</z:mpath> volume was assessed </plain></SENT>
+<SENT sid="6" pm="."><plain>In part B, perfusion deficits were measured </plain></SENT>
+<SENT sid="7" pm="."><plain>In part C, efficacy of antiplatelet therapy in combination with tPA was assessed </plain></SENT>
+<SENT sid="8" pm="."><plain>In part A, <z:chebi fb="0" ids="4653">dipyridamole</z:chebi> and aspirin treatment significantly reduced <z:mpath ids='MPATH_124'>infarct</z:mpath> volume (P&lt;0.05) </plain></SENT>
+<SENT sid="9" pm="."><plain>In part B, treatment with <z:chebi fb="0" ids="4653">dipyridamole</z:chebi> significantly reduced the perfusion deficits as compared to control (P&lt;0.05) </plain></SENT>
+<SENT sid="10" pm="."><plain>In part C, <z:chebi fb="0" ids="4653">dipyridamole</z:chebi> plus tPA or <z:chebi fb="0" ids="4653">dipyridamole</z:chebi> and aspirin plus tPA significantly decreased <z:mpath ids='MPATH_124'>infarct</z:mpath> volume as compared to tPA alone (P&lt;0.05) </plain></SENT>
+<SENT sid="11" pm="."><plain>The present study suggests that there is significant protection with <z:chebi fb="0" ids="4653">dipyridamole</z:chebi> as both <z:mpath ids='MPATH_124'>infarct</z:mpath> volume and perfusion deficits are significantly reduced </plain></SENT>
+<SENT sid="12" pm="."><plain><z:chebi fb="0" ids="4653">Dipyridamole</z:chebi> with tPA also significantly reduced <z:mpath ids='MPATH_124'>infarct</z:mpath> volume as compared to tPA alone </plain></SENT>
+<SENT sid="13" pm="."><plain>Our data suggests that higher doses of antithrombotic therapy with <z:chebi fb="0" ids="4653">dipyridamole</z:chebi> offer best neuroprotection </plain></SENT>
+</text></document>

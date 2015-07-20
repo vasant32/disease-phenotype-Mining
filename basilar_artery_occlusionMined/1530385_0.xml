@@ -1,0 +1,21 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Although therapeutic occlusion of the basilar artery has been an accepted treatment for inaccessible giant <z:hpo ids='HP_0002617'>aneurysms</z:hpo>, several such problems have been reported as incomplete <z:mp ids='MP_0005048'>thrombosis</z:mp>, growth or rupture of <z:hpo ids='HP_0002617'>aneurysms</z:hpo>, <z:e sem="disease" ids="C0007780" disease_type="Disease or Syndrome" abbrv="">cerebral embolism</z:e> originating from an aneurysmal cavity </plain></SENT>
+<SENT sid="1" pm="."><plain>Hemodynamic changes after occlusion therapy are suspected to be responsible for these events </plain></SENT>
+<SENT sid="2" pm="."><plain>It is usually difficult to solve these problems or to predict them before operation because multiple factors are related in a complex fashion in a living body </plain></SENT>
+<SENT sid="3" pm="."><plain>One of the effective means is to simulate these hemodynamic conditions by a hydraulic vascular model </plain></SENT>
+<SENT sid="4" pm="."><plain>A glass-made sphere of 2.5 cm in diameter was connected to a hydraulic vascular model of the brain and was regarded as a giant <z:hpo ids='HP_0002617'>aneurysm</z:hpo> so as to evaluate hemodynamic changes after therapeutic occlusion of the parent artery </plain></SENT>
+<SENT sid="5" pm="."><plain>40% <z:chebi fb="3" ids="17754">glycerol</z:chebi> solution at 25 degrees C, having similar viscosity and specific gravity to those of human whole blood at 37 degrees C, was used as a perfusate in this study </plain></SENT>
+<SENT sid="6" pm="."><plain>A device to measure a half-life of the dye injected in an <z:hpo ids='HP_0002617'>aneurysm</z:hpo> was made from a stable luminous source and a <z:chebi fb="0" ids="37130">Cds</z:chebi> photocell </plain></SENT>
+<SENT sid="7" pm="."><plain>Good correlation was obtained between the output from the device and dye concentration in an <z:hpo ids='HP_0002617'>aneurysm</z:hpo> </plain></SENT>
+<SENT sid="8" pm="."><plain>Intensity change of the transmitted light was measured when the dye was injected into the <z:hpo ids='HP_0002617'>aneurysm</z:hpo> during perfusion </plain></SENT>
+<SENT sid="9" pm="."><plain>Half-life was calculated from thus obtained clearance curve and was regarded as an index of intra-aneurysmal stagnation </plain></SENT>
+<SENT sid="10" pm="."><plain>The flow volumes have been estimated in our previous study: 60 ml/min to the territory of one posterior cerebral artery (<z:chebi fb="20" ids="36751">PCA</z:chebi>) and 80 ml/min to the cerebellum and the brain stem </plain></SENT>
+<SENT sid="11" pm="."><plain>A </plain></SENT>
+<SENT sid="12" pm="."><plain>Basilar <z:mp ids='MP_0006134'>artery occlusion</z:mp> therapy for a basilar bifurcation <z:hpo ids='HP_0002617'>aneurysm</z:hpo> </plain></SENT>
+<SENT sid="13" pm="."><plain>For the simulation before occlusion therapy, the flow volume of the basilar artery (BA) was fixed to be 120 ml/min </plain></SENT>
+<SENT sid="14" pm="."><plain>When the BA is occluded distal to the exit of the superior cerebellar artery, a flow tangential to the aneurysmal neck occurs from the side of larger posterior communicating artery (Pcom) to the other side through P1 segment of the <z:chebi fb="20" ids="36751">PCAs</z:chebi> </plain></SENT>
+<SENT sid="15" pm="."><plain>Its flow volume is considered to change from 60 ml/min to 0 ml/min depending on the diameter ratio of two Pcoms </plain></SENT>
+<SENT sid="16" pm="."><plain>The results are as follows: 1) BA occlusion makes intra-aneurysmal dye stagnate and the half-life elongate significantly from 2.5 seconds to 16 seconds </plain></SENT>
+<SENT sid="17" pm="."><plain>2) The time gradually increases as the flow volume through P1 segment decreases from 60 ml/min to 20 ml/min, below which it increases drastically </plain></SENT>
+<SENT sid="18" pm="."><plain>3) The P1 flow volume less than 20 ml/min corresponds to the diameter ratio of two Pcoms lager than 0.71 </plain></SENT>
+<SENT sid="19" pm="."><plain>4) <z:mp ids='MP_0005048'>Thrombosis</z:mp> in the aneurysmal cavity would be expected when diameter ratio of the Pcoms is lager than 0.71.(ABSTRACT TRUNCATED AT 400 WORDS) </plain></SENT>
+</text></document>

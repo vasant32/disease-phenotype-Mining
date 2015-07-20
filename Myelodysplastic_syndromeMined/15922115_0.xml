@@ -1,0 +1,6 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0001915'>Aplastic anemia</z:hpo> (AA) is associated with non-trival mortality </plain></SENT>
+<SENT sid="1" pm="."><plain>Although diagnostic boarders with other <z:hpo ids='HP_0002863'>myelodysplastic syndromes</z:hpo> are unclear, AA is thought, at some point in the chain of events that destroy marrow hematopoiesis, to involve overproduction of <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> <z:mp ids='MP_0001651'>necrosis</z:mp> factor-alpha (TNF) and that TNF is the proximal <z:hpo ids='HP_0011420'>death</z:hpo> programming signal the stem cells receive </plain></SENT>
+<SENT sid="2" pm="."><plain>Thus agents that lower TNF may be of benefit in AA </plain></SENT>
+<SENT sid="3" pm="."><plain>In preliminary studies we have found that the commonly used antidepressant <z:chebi fb="0" ids="3219">bupropion</z:chebi> lowers TNF </plain></SENT>
+<SENT sid="4" pm="."><plain>Thus, <z:chebi fb="0" ids="3219">bupropion</z:chebi> is a potential initial small molecule TNF inhibitor to consider for AA </plain></SENT>
+</text></document>

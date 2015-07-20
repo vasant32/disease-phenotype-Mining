@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0003741'>Congenital muscular dystrophies</z:hpo> (CMD) such as muscle-eye-<z:e sem="disease" ids="C0006111" disease_type="Disease or Syndrome" abbrv="">brain disease</z:e> caused by defective glycosylation of α-dystroglycan (α-DG) exhibit defective photoreceptor synaptic function </plain></SENT>
+<SENT sid="1" pm="."><plain>Mouse knockouts of dystroglycan and its extracellular matrix binding partner pikachurin recapitulate this phenotype </plain></SENT>
+<SENT sid="2" pm="."><plain>In this study, pikachurin-α-dystroglycan interactions in several mouse models of CMD were examined by pikachurin overlay experiments </plain></SENT>
+<SENT sid="3" pm="."><plain>The results show that hypoglycosylation of α-dystroglycan resulted in markedly reduced pikachurin-α-dystroglycan interactions </plain></SENT>
+<SENT sid="4" pm="."><plain>Expression of pikachurin is abolished at the outer plexiform layer of two mouse models, protein O-<z:chebi fb="0" ids="37684">mannose</z:chebi> N-acetylglucosaminyl transferase 1 (POMGnT1) knockout and Large(myd) mice </plain></SENT>
+<SENT sid="5" pm="."><plain>Overexpressing LARGE restored this interaction in POMGnT1 knockout cells </plain></SENT>
+<SENT sid="6" pm="."><plain>These results indicate that pikachurin interactions with α-dystroglycan and its localization at the photoreceptor ribbon synapse require <z:mpath ids='MPATH_458'>normal</z:mpath> glycosylation of α-dystroglycan </plain></SENT>
+</text></document>

@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We propose a methodology for conducting phase II clinical trials in settings where the disease is categorized into multiple subtypes </plain></SENT>
+<SENT sid="1" pm="."><plain>A hierarchical Bayesian model is assumed for treatment effects within the subtypes </plain></SENT>
+<SENT sid="2" pm="."><plain>The hierarchical model, which is tailored to each particular application, allows treatment effects to differ across subtypes while assuming a priori that the effects are exchangeable and correlated </plain></SENT>
+<SENT sid="3" pm="."><plain>Two applications are described </plain></SENT>
+<SENT sid="4" pm="."><plain>The first is a trial of <z:chebi fb="0" ids="45783">imatinib</z:chebi> for <z:hpo ids='HP_0100242'>sarcoma</z:hpo> in which treatment activity is characterized by a binary indicator of <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumour</z:e> response </plain></SENT>
+<SENT sid="5" pm="."><plain>The second is a phase II trial of a new preparative regimen for allogeneic bone marrow transplantation in patients with <z:e sem="disease" ids="C0376545" disease_type="Neoplastic Process" abbrv="">haematologic malignancies</z:e>, with treatment effect characterized by the mean time from transplant to disease progression or <z:hpo ids='HP_0011420'>death</z:hpo> </plain></SENT>
+<SENT sid="6" pm="."><plain>The applications illustrate how the hierarchical Bayesian model borrows strength across subtypes </plain></SENT>
+</text></document>

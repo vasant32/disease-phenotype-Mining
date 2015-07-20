@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Glucagon-like <z:chebi fb="7" ids="16670">peptide</z:chebi> (GLP)-1 is a gut hormone that stimulates insulin secretion, gene expression, and beta-cell growth </plain></SENT>
+<SENT sid="1" pm="."><plain>Together with the related hormone <z:chebi fb="105" ids="17234">glucose</z:chebi>-dependent insulinotropic <z:chebi fb="1" ids="15841">polypeptide</z:chebi> (GIP), it is responsible for the incretin effect, the augmentation of insulin secretion after oral as opposed to intravenous administration of <z:chebi fb="105" ids="17234">glucose</z:chebi> </plain></SENT>
+<SENT sid="2" pm="."><plain>Type 2 diabetic patients typically have little or no incretin-mediated augmentation of insulin secretion </plain></SENT>
+<SENT sid="3" pm="."><plain>This is due to decreased secretion of GLP-1 and loss of the insulinotropic effects of GIP </plain></SENT>
+<SENT sid="4" pm="."><plain>GLP-1, however, retains insulinotropic effects, and the hormone effectively improves metabolism in patients with type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="5" pm="."><plain>Continuous subcutaneous administration greatly improved <z:chebi fb="105" ids="17234">glucose</z:chebi> profiles and lowered body weight and HbA1c levels </plain></SENT>
+<SENT sid="6" pm="."><plain>Further, free fatty acid levels were lowered, <z:hpo ids='HP_0000855'>insulin resistance</z:hpo> was improved, and beta-cell performance was greatly improved </plain></SENT>
+<SENT sid="7" pm="."><plain>The natural <z:chebi fb="7" ids="16670">peptide</z:chebi> is rapidly degraded by the enzyme dipeptidyl peptidase IV (DPP IV), but resistant analogs as well as inhibitors of DPP IV are now under development, and both approaches have shown remarkable efficacy in experimental and clinical studies </plain></SENT>
+</text></document>

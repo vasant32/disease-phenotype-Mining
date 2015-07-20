@@ -1,0 +1,19 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND PURPOSE: Emboli and proinflammatory mediators are suspected of generating <z:hpo ids='HP_0002181'>cerebral edema</z:hpo> after coronary surgery </plain></SENT>
+<SENT sid="1" pm="."><plain>In contrast to cardiopulmonary bypass (CPB), off-pump coronary artery bypass surgery (OPCAB) reduces microemboli count and proinflammatory mediator release but carries the risk of <z:e sem="disease" ids="C0948268" disease_type="Disease or Syndrome" abbrv="">hemodynamic instability</z:e> </plain></SENT>
+<SENT sid="2" pm="."><plain>A microaxial blood pump can augment cardiac output </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: Coronary bypasses were constructed in pigs with CPB and cardioplegia (n=9), OPCAB (n=9), or blood-pump support CAB (n=9) </plain></SENT>
+<SENT sid="4" pm="."><plain>Nine animals underwent sham operation </plain></SENT>
+<SENT sid="5" pm="."><plain><z:mpath ids='MPATH_110'>Embolus</z:mpath> count was monitored and regional cerebral blood flow was assessed with microspheres in 21 brain specimens per animal (n=189 per group) </plain></SENT>
+<SENT sid="6" pm="."><plain>Interleukins 6 and 8 and <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> <z:mp ids='MP_0001651'>necrosis</z:mp> factor-alpha concentrations were determined </plain></SENT>
+<SENT sid="7" pm="."><plain>These variables were studied before, during, and for 4 hours after surgery </plain></SENT>
+<SENT sid="8" pm="."><plain>Finally, cerebral water content was determined </plain></SENT>
+<SENT sid="9" pm="."><plain>RESULTS: During CPB and blood-pump CAB, a significant number of emboli were counted in contrast to OPCAB and controls (P&lt;0.05) </plain></SENT>
+<SENT sid="10" pm="."><plain>During CPB, regional cerebral blood flow was affected (32 of 189) and showed reactive hyperemia except in 10 specimens after aortic cross-clamp release </plain></SENT>
+<SENT sid="11" pm="."><plain>This impairment persisted in 20 specimens </plain></SENT>
+<SENT sid="12" pm="."><plain>During and after OPCAB, regional cerebral blood flow remained nearly unchanged but showed low flow during (58 of 189) and after (35 of 189) the blood-pump run </plain></SENT>
+<SENT sid="13" pm="."><plain>A significant increase in proinflammatory mediators was observed only in the CPB group </plain></SENT>
+<SENT sid="14" pm="."><plain>CPB and blood-pump CAB significantly increased cerebral water content (P&lt;0.05) </plain></SENT>
+<SENT sid="15" pm="."><plain>A strong correlation between embolic load and cerebral water content was observed in <z:hpo ids='HP_0000001'>all</z:hpo> groups </plain></SENT>
+<SENT sid="16" pm="."><plain>No correlation between proinflammatory mediator release and cerebral water content was detected </plain></SENT>
+<SENT sid="17" pm="."><plain>CONCLUSIONS: Emboli formation rather than <z:mp ids='MP_0002501'>inflammatory mediators</z:mp> are responsible for increased cerebral water content after conventional and assisted beating-heart myocardial revascularization </plain></SENT>
+</text></document>

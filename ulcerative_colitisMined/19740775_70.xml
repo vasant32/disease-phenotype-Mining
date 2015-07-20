@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND AIMS: Interleukin 17 (IL17) is now known to be involved in a number of <z:hpo ids='HP_0011010'>chronic</z:hpo> <z:e sem="disease" ids="C1290884" disease_type="Disease or Syndrome" abbrv="">inflammatory disorders</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>However, the mechanisms regulating its production in <z:e sem="disease" ids="C0021390" disease_type="Disease or Syndrome" abbrv="">inflammatory bowel disease</z:e> (IBD) are still unclear </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: Endoscopic biopsies or surgical specimens were taken from inflamed and uninflamed colonic mucosa of 72 patients with IBD (38 with <z:hpo ids='HP_0100280'>Crohn's disease</z:hpo> and 34 with <z:hpo ids='HP_0100279'>ulcerative colitis</z:hpo>), and <z:mpath ids='MPATH_458'>normal</z:mpath> colon of 38 control subjects </plain></SENT>
+<SENT sid="3" pm="."><plain>IL17 and interferon gamma (IFNgamma) were detected by ELISA in the supernatants of biopsies cultured ex vivo, and anti-CD3/CD28-stimulated lamina propria mononuclear cells (LPMCs) incubated with IL12, IL23, IL1beta plus IL6, transforming growth factor beta1 (TGFbeta1), or anti-IL21 neutralising antibody </plain></SENT>
+<SENT sid="4" pm="."><plain>Intracellular flow cytometry was performed to analyse mucosal Th17 and Th1/Th17 cells </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: IL17 production by organ culture biopsies was higher in IBD inflamed mucosa than IBD uninflamed mucosa and controls, and was equivalent in amount to IFNgamma </plain></SENT>
+<SENT sid="6" pm="."><plain>Anti-CD3/CD28-stimulated IBD LPMCs produced higher IL17 amounts compared to controls </plain></SENT>
+<SENT sid="7" pm="."><plain>The percentages of Th17 and Th1/Th17 cells were increased in patients with IBD </plain></SENT>
+<SENT sid="8" pm="."><plain>IL23 and IL1beta plus IL6 had no effect on IBD LPMC production of IL17; however, IL12 markedly increased IFNgamma production and decreased IL17 production </plain></SENT>
+<SENT sid="9" pm="."><plain>TGFbeta1 dose-dependently decreased IFNgamma, but had no significant inhibitory effect on IL17 production </plain></SENT>
+<SENT sid="10" pm="."><plain>Blocking IL21 significantly downregulated IL17 production </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: Our findings support a role for IL12, TGFbeta and IL21 in modulating IL17/IFNgamma production in IBD </plain></SENT>
+<SENT sid="12" pm="."><plain>The abundant IL17 in inflamed IBD mucosa may help explain the relative lack of efficacy of anti-IFNgamma antibodies in clinical trials of <z:hpo ids='HP_0100280'>Crohn's disease</z:hpo> </plain></SENT>
+</text></document>

@@ -1,0 +1,18 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: To investigate the therapeutic effects of overexpression of interleukin-1 receptor <z:chebi fb="68" ids="48706">antagonist</z:chebi> (IL-1ra), administered by gene transfer, on the transient cerebral ischemic injury in an experimental mice suture model </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: Adenovirus vector encoding human IL-1ra gene (Ad.RSVIL-1ra) or LacZ gene (Ad.RSVLacZ) or <z:mpath ids='MPATH_458'>normal</z:mpath> saline was administered by injection into the right lateral ventricle in adult CD-1 mice </plain></SENT>
+<SENT sid="2" pm="."><plain>Five days after the virus injection, the mice received 1 h transient middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> with 23 h reperfusion </plain></SENT>
+<SENT sid="3" pm="."><plain>Surface cerebral blood flow was measured using laser Doppler flowmetry </plain></SENT>
+<SENT sid="4" pm="."><plain>Brain <z:mpath ids='MPATH_124'>infarct</z:mpath> volume was evaluated on the sections with <z:chebi fb="1" ids="51686">hematoxylin</z:chebi>-eosin staining </plain></SENT>
+<SENT sid="5" pm="."><plain>Blood-brain barrier (<z:chebi fb="2" ids="33602">BBB</z:chebi>) permeability was determined using immunostaining of extravasated endogenous albumin </plain></SENT>
+<SENT sid="6" pm="."><plain>The number of intracellular <z:e sem="disease" ids="C0001511" disease_type="Disease or Syndrome;Acquired Abnormality" abbrv="">adhesion</z:e> molecular-1-positive vessels was determined by immunohistochemistry </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: The <z:mpath ids='MPATH_124'>infarct</z:mpath> volume in the Ad </plain></SENT>
+<SENT sid="8" pm="."><plain>RSVIL-1ra transfected mice was markedly reduced compared with the Ad </plain></SENT>
+<SENT sid="9" pm="."><plain>RSVLacZ transfected or saline mice (36.0 +/- 5.3 mm(3) vs 60.0 +/- 6.2 mm(3), 69.5 +/- 6.3 mm(3), P &lt; 0.05) </plain></SENT>
+<SENT sid="10" pm="."><plain><z:chebi fb="2" ids="33602">BBB</z:chebi> disruption area was also smaller in the Ad </plain></SENT>
+<SENT sid="11" pm="."><plain>RSVIL-1ra transfected mice than in the Ad </plain></SENT>
+<SENT sid="12" pm="."><plain>RSVLacZ transfected and saline mice (P &lt; 0.05) </plain></SENT>
+<SENT sid="13" pm="."><plain>The expression of intracellular <z:e sem="disease" ids="C0001511" disease_type="Disease or Syndrome;Acquired Abnormality" abbrv="">adhesion</z:e> molecular-1 (ICAM-1) positive vessels in the ischemic cortex and basal ganglia was greatly attenuated in the Ad </plain></SENT>
+<SENT sid="14" pm="."><plain>RSVIL-1ra transfected mice (cortex: 135 +/- 23, vs 311 +/- 40 and 357 +/- 51 pound sterling basal ganglia: 90 +/- 21, vs 207 +/- 43 and 259 +/- 43, P &lt; 0.05 </plain></SENT>
+<SENT sid="15" pm="."><plain>CONCLUSION: IL-1ra has neuroprotective property during <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e>/reperfusion injury </plain></SENT>
+<SENT sid="16" pm="."><plain>Overexpression of IL-1ra via gene transfer can attenuate the expression of ICAM-1 in the ischemic area </plain></SENT>
+</text></document>

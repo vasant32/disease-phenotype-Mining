@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Prognosis in <z:hpo ids='HP_0002863'>myelodysplastic syndromes</z:hpo> is extremely variable </plain></SENT>
+<SENT sid="1" pm="."><plain>The prognostic value of the FAB classification has been demonstrated in many studies </plain></SENT>
+<SENT sid="2" pm="."><plain>However, within the same FAB subtype, some patients may experience prolonged survival, whereas others die in a few weeks </plain></SENT>
+<SENT sid="3" pm="."><plain>This prognostic <z:hpo ids='HP_0001425'>heterogeneity</z:hpo> makes the therapy decision difficult </plain></SENT>
+<SENT sid="4" pm="."><plain>In an attempt to identify significant prognostic factors for survival in <z:hpo ids='HP_0005505'>refractory anemia</z:hpo> with excess of blasts (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">RAEB</z:e>), clinical and hematological characteristics were analyzed in 91 patients </plain></SENT>
+<SENT sid="5" pm="."><plain>Multivariate regression analysis showed that bone marrow total blast cells percentages, sex and <z:chebi fb="0" ids="35143">hemoglobin</z:chebi> level were the characteristics significantly associated with survival </plain></SENT>
+<SENT sid="6" pm="."><plain>A scoring index based upon these three characteristics may be proposed and had a great prognostic value (p &lt; 0.00001) </plain></SENT>
+<SENT sid="7" pm="."><plain>It allows us to separate patients into three groups with low, intermediate and high score with a median survival of 239, 133 and 45 days for each group respectively </plain></SENT>
+<SENT sid="8" pm="."><plain>This scoring index may be useful in the design of therapy and analysis of future clinical trials </plain></SENT>
+<SENT sid="9" pm="."><plain>However, its predictive value needs to be confirmed in other series </plain></SENT>
+</text></document>

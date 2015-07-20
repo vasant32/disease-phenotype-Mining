@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Transcranial Doppler ultrasound (US) can be used to detect microemboli in the cerebral circulation, but is still limited because it usually relies on "human experts" (HEs) to identify signals corresponding to embolic events </plain></SENT>
+<SENT sid="1" pm="."><plain>The purpose of this study was to develop an automatic system that could replace the HE and, thus, make the technique more widely applicable and, potentially, more reliable </plain></SENT>
+<SENT sid="2" pm="."><plain>An expert system, based around a digital signal-processing board, analysed Doppler signal patterns in both the time domain and frequency domain </plain></SENT>
+<SENT sid="3" pm="."><plain>The system was trained and tested on Doppler signals recorded during the dissection and recovery phases of carotid endarterectomy </plain></SENT>
+<SENT sid="4" pm="."><plain>It was tested with 74 separate 2.5-min recordings that contained at least 575 artefacts in addition to 253 s of diathermy interference </plain></SENT>
+<SENT sid="5" pm="."><plain>The results were compared with the results obtained by three HEs </plain></SENT>
+<SENT sid="6" pm="."><plain>Using a "gold-standard" that classified any event detected by the majority of HEs as an <z:mpath ids='MPATH_110'>embolus</z:mpath>, the automatic system displayed a sensitivity of 94.7% and a specificity of 95.1% for 1151 candidate events 7 dB or more above the clutter (signal-to-clutter ratio, SCR, &gt; or = 7 dB), and 89.6% and 95.3%, respectively, for 2098 candidate events with SCR &gt; or = 5 dB </plain></SENT>
+<SENT sid="7" pm="."><plain>The system had a very similar performance to individual HEs for SCR &gt; or = 7dB, and was only marginally worse for SCR &gt; or = 5 dB </plain></SENT>
+</text></document>

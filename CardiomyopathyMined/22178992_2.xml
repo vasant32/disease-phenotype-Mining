@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: <z:hpo ids='HP_0001639'>Hypertrophic cardiomyopathy</z:hpo> (HCM), typically characterized by asymmetrical <z:hpo ids='HP_0001712'>left ventricular hypertrophy</z:hpo>, frequently is caused by mutations in sarcomeric proteins </plain></SENT>
+<SENT sid="1" pm="."><plain>We studied if changes in sarcomeric properties in HCM depend on the underlying protein mutation </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS AND RESULTS: Comparisons were made between cardiac samples from patients carrying a MYBPC3 mutation (MYBPC3(mut); n=17), mutation negative HCM patients without an identified sarcomere mutation (HCM(mn); n=11), and nonfailing donors (n=12) </plain></SENT>
+<SENT sid="3" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> patients had <z:mpath ids='MPATH_458'>normal</z:mpath> systolic function, but impaired diastolic function </plain></SENT>
+<SENT sid="4" pm="."><plain>Protein expression of myosin binding protein C (cMyBP-C) was significantly lower in MYBPC3(mut) by 33±5%, and similar in HCM(mn) compared with donor </plain></SENT>
+<SENT sid="5" pm="."><plain>cMyBP-C phosphorylation in MYBPC3(mut) was similar to donor, whereas it was significantly lower in HCM(mn) </plain></SENT>
+<SENT sid="6" pm="."><plain>Troponin I phosphorylation was lower in both patient groups compared with donor </plain></SENT>
+<SENT sid="7" pm="."><plain>Force measurements in single permeabilized cardiomyocytes demonstrated comparable sarcomeric dysfunction in both patient groups characterized by lower maximal force generating capacity in MYBPC3(mut) and HCM(mn,) compared with donor (26.4±2.9, 28.0±3.7, and 37.2±2.3 kN/m(2), respectively), and higher myofilament Ca(2+)-sensitivity (EC(50)=2.5±0.2, 2.4±0.2, and 3.0±0.2 μmol/L, respectively) </plain></SENT>
+<SENT sid="8" pm="."><plain>The sarcomere length-dependent increase in Ca(2+)-sensitivity was significantly smaller in both patient groups compared with donor (ΔEC(50): 0.46±0.04, 0.37±0.05, and 0.75±0.07 μmol/L, respectively) </plain></SENT>
+<SENT sid="9" pm="."><plain>Protein kinase A treatment restored myofilament Ca(2+)-sensitivity and length-dependent activation in both patient groups to donor values </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSIONS: Changes in sarcomere function reflect the clinical HCM phenotype rather than the specific MYBPC3 mutation </plain></SENT>
+<SENT sid="11" pm="."><plain>Hypocontractile sarcomeres are a common deficit in human HCM with <z:mpath ids='MPATH_458'>normal</z:mpath> systolic left ventricular function and may contribute to HCM disease progression </plain></SENT>
+</text></document>

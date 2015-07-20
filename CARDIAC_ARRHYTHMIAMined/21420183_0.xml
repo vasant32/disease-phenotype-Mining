@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Microvolt T wave alternans (MTWA) is an indicator of repolarization <z:hpo ids='HP_0001425'>heterogeneity</z:hpo> and a predictor of <z:hpo ids='HP_0004308'>ventricular arrhythmia</z:hpo> in adults with ischemic or <z:hpo ids='HP_0001644'>dilated cardiomyopathy</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Its implication in patients with repaired <z:hpo ids='HP_0001636'>tetralogy of Fallot</z:hpo> (TOF) is still unclear </plain></SENT>
+<SENT sid="2" pm="."><plain>This study sought to define the changes and the clinical implication of MTWA in these patients </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: Treadmill examination with modified moving average beat analysis (<z:chebi fb="0" ids="34840">MMA</z:chebi>) for MTWA was performed in 101 repaired TOF patients (60.4% male) </plain></SENT>
+<SENT sid="4" pm="."><plain>Data from 103 age- and sex-matched subjects with <z:mpath ids='MPATH_458'>normal</z:mpath> hearts served as controls </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: The age at latest follow-up was 20.0 ± 10.6 years </plain></SENT>
+<SENT sid="6" pm="."><plain>Total repair (60.4% received a transannular right ventricular outflow patch) was performed at a mean age of 4.8(± 5.8) years </plain></SENT>
+<SENT sid="7" pm="."><plain>After excluding 11 patients with indeterminate data, the MTWA data in 90 TOF patients revealed higher values than those in the control (25.1 ± 14.0 vs. 17.6 ± 9.2 μV, p&lt;0.001) </plain></SENT>
+<SENT sid="8" pm="."><plain>The values were best correlated to the presence of severe <z:mp ids='MP_0006048'>pulmonary regurgitation</z:mp> (p=0.006) </plain></SENT>
+<SENT sid="9" pm="."><plain>Ten (9.9%) patients experienced late ventricular arrhythmic events </plain></SENT>
+<SENT sid="10" pm="."><plain>They tended to have higher MTWA values than those without (34.0 ± 16.5 vs. 24.2 ± 13.5 and p=0.053) </plain></SENT>
+<SENT sid="11" pm="."><plain>Although the MTWA per se would not predict the late <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> events better than QRS duration alone, the positive and negative predictive values increased slightly after adding the MTWA to QRS duration </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: MTWA, as measured by <z:chebi fb="0" ids="34840">MMA</z:chebi>, increased in repaired TOF patients particularly in those with severe <z:mp ids='MP_0006048'>pulmonary regurgitation</z:mp> and late <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> events </plain></SENT>
+<SENT sid="13" pm="."><plain>To predict late <z:hpo ids='HP_0004308'>ventricular arrhythmia</z:hpo>, MTWA however was not superior to QRS duration alone </plain></SENT>
+</text></document>

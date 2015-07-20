@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECT: Resolution of <z:hpo ids='HP_0003396'>syringomyelia</z:hpo> is common following hindbrain decompression for <z:hpo ids='HP_0002308'>Chiari malformation</z:hpo>, yet little is known about the kinetics governing this process </plain></SENT>
+<SENT sid="1" pm="."><plain>The authors sought to establish the volumetric rate of <z:hpo ids='HP_0003396'>syringomyelia</z:hpo> resolution </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: A retrospective cohort of patients undergoing hindbrain decompression for a <z:hpo ids='HP_0002308'>Chiari malformation</z:hpo> Type I with preoperative cervical or thoracic <z:hpo ids='HP_0003396'>syringomyelia</z:hpo> was identified </plain></SENT>
+<SENT sid="3" pm="."><plain>Patients were included in the study if they had at least 3 neuroimaging studies that detailed the entirety of their preoperative <z:hpo ids='HP_0003396'>syringomyelia</z:hpo> over a minimum of 6 months postoperatively </plain></SENT>
+<SENT sid="4" pm="."><plain>The authors reconstructed the <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e> images in 3 dimensions and calculated the volume of the <z:hpo ids='HP_0003396'>syringomyelia</z:hpo> </plain></SENT>
+<SENT sid="5" pm="."><plain>They plotted the <z:hpo ids='HP_0003396'>syringomyelia</z:hpo> volume over time and constructed regression models using the method of least squares </plain></SENT>
+<SENT sid="6" pm="."><plain>The Akaike information criterion and Bayesian information criterion were used to calculate the relative goodness of fit </plain></SENT>
+<SENT sid="7" pm="."><plain>The coefficients of determination R(2) (unadjusted and adjusted) were calculated to describe the proportion of variability in each individual data set accounted for by the statistical model </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: Two patients were identified as meeting inclusion criteria </plain></SENT>
+<SENT sid="9" pm="."><plain>Plots of the least-squares best fit were identified as 4.01459e(-0.0180804)(x) and 13.2556e(-0.00615859)(x) </plain></SENT>
+<SENT sid="10" pm="."><plain>Decay of the <z:hpo ids='HP_0003396'>syringomyelia</z:hpo> followed an exponential model in both patients (R(2) = 0.989582 and 0.948864) </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: Three-dimensional analysis of <z:hpo ids='HP_0003396'>syringomyelia</z:hpo> resolution over time enables the kinetics to be estimated </plain></SENT>
+<SENT sid="12" pm="."><plain>This technique is yet to be validated in a large cohort </plain></SENT>
+<SENT sid="13" pm="."><plain>Because <z:hpo ids='HP_0003396'>syringomyelia</z:hpo> is the final common pathway for a number of different pathological processes, it is possible that this exponential only applies to <z:hpo ids='HP_0003396'>syringomyelia</z:hpo> related to treatment of <z:hpo ids='HP_0002308'>Chiari malformation</z:hpo> Type I </plain></SENT>
+</text></document>

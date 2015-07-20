@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The chemokine receptor 2 (CCR2) is involved in inflammatory reactions following <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Monocyte chemoattractant protein-1 (<z:chebi fb="17" ids="50099">MCP</z:chebi>-1) binds with high affinity to CCR2 </plain></SENT>
+<SENT sid="2" pm="."><plain><z:chebi fb="17" ids="50099">MCP</z:chebi>-1 is necessary for recruiting blood-borne cells to the injury site whereas it does not affect microglia activation and migration </plain></SENT>
+<SENT sid="3" pm="."><plain><z:chebi fb="17" ids="50099">MCP</z:chebi>-1-deficient mice develop smaller <z:mpath ids='MPATH_124'>infarcts</z:mpath> and show a better functional outcome </plain></SENT>
+<SENT sid="4" pm="."><plain>CCR2-deficient mice also develop smaller <z:mpath ids='MPATH_124'>infarcts</z:mpath> and have a reduced expression of inflammatory cytokines during reperfusion </plain></SENT>
+<SENT sid="5" pm="."><plain>In the present study we investigated the differential role of inflammatory cells in CCR2-deficient mice, using green fluorescent protein (GFP)-transgenic bone marrow chimeras </plain></SENT>
+<SENT sid="6" pm="."><plain>After 30 min of transient middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (MCAO), activation of local microglia was similar in CCR2-deficient animals and their littermate controls over the study period, whereas an influx of GFP-positive cells was diminished in CCR2-deficient mice </plain></SENT>
+<SENT sid="7" pm="."><plain>Infiltrating macrophages were significantly reduced at day seven in the deficient animals (26.04+/-25.19 cells/mm(2)) compared to control mice (86.83+/-44.41 cells/mm(2), p&lt;0.001) </plain></SENT>
+<SENT sid="8" pm="."><plain>Neutrophils were also significantly reduced in CCR2-deficient mice (83% on day 2, 76% on day 4 and 89% on day 7, p&lt;0.001) </plain></SENT>
+<SENT sid="9" pm="."><plain>A significant reduction of <z:mpath ids='MPATH_124'>infarct</z:mpath> volume in CCR2-deficient animals could not be detected </plain></SENT>
+<SENT sid="10" pm="."><plain>In this study a clear differentiation of local and blood-borne inflammatory cell reaction after <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> could be shown, demonstrating that CCR2-deficiency attenuates hematogenous cell recruitment to the injury site whereas microglia activation and migration is not affected </plain></SENT>
+</text></document>

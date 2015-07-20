@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">Cancer</z:e> stem-like cells (<z:chebi fb="11" ids="17437,53115">CSCs</z:chebi>) in <z:e sem="disease" ids="C1527249" disease_type="Neoplastic Process" abbrv="">colorectal cancers</z:e> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e>) may account for the failure of treatments because they are resistant to many current anticancer therapies </plain></SENT>
+<SENT sid="1" pm="."><plain>Salinomycin, a <z:chebi fb="120" ids="26216">potassium</z:chebi> <z:chebi fb="0" ids="24869">ionophore</z:chebi>, was recently identified as a selective inhibitor of breast <z:chebi fb="11" ids="17437,53115">CSCs</z:chebi> </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: The human <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e> cell lines HT29 and SW480 were treated with salinomycin and <z:chebi fb="0" ids="31941">oxaliplatin</z:chebi> </plain></SENT>
+<SENT sid="3" pm="."><plain>Cell viability was determined with cell counting kit 8 </plain></SENT>
+<SENT sid="4" pm="."><plain>Fraction of CD133+ cell subpopulations was assessed by Flow Cytometric analysis </plain></SENT>
+<SENT sid="5" pm="."><plain>Clonogenecity and migration were determined with soft agar and Boyden chamber assays </plain></SENT>
+<SENT sid="6" pm="."><plain>Molecular changes were assessed by immunofluorescence staining, RT-PCR, and Western blot analysis </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: We report that salinomycin reduces the proportion of CD133+ subpopulations in human <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e> HT29 and SW480 cells </plain></SENT>
+<SENT sid="8" pm="."><plain>Furthermore, salinomycin treatment decreases colony-forming ability and cell motility in HT29 cells </plain></SENT>
+<SENT sid="9" pm="."><plain>Moreover, salinomycin downregulates the expression of vimentin and induces the E-cadherin expression in HT29 cells </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSIONS: This study demonstrates the ability of salinomycin to selectively target "CD133+" cell subpopulations and decrease the malignant traits in <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> lines </plain></SENT>
+</text></document>

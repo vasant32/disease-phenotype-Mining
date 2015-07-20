@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIMS: Remodelling and regional gradients in expression of connexins (Cx) are thought to contribute to atrial electrical dysfunction and <z:hpo ids='HP_0005110'>atrial fibrillation</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>We assessed the effect of interaction between Cx43, Cx40, and Cx45 on atrial cell-to-cell coupling and inward Na current (I(Na)) in engineered pairs of atrial myocytes derived from <z:mp ids='MP_0002169'>wild-type</z:mp> mice (Cx43(+/+)) and mice with genetic ablation of Cx43 (Cx43(-/-)) </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS AND RESULTS: Cell pairs were engineered by microcontact printing from atrial Cx43(+/+) and Cx43(-/-) murine myocytes (1 day before birth, 3-5 days in culture) </plain></SENT>
+<SENT sid="3" pm="."><plain>Dual and single voltage clamp were used to measure intercellular electrical conductance, g(j), and its dependence on transjunctional voltage, V(j), single gap junction channel conductances, and I(Na) </plain></SENT>
+<SENT sid="4" pm="."><plain>3D reconstructions of Cx43, Cx40, and Cx45 immunosignals in gap junctions were made from confocal slices </plain></SENT>
+<SENT sid="5" pm="."><plain>Full genetic Cx43 ablation produced a decrease in immunosignals of Cx40 to 62 ± 10% (mean ± SE; n= 17) and Cx45 to 66 ± 8% (n= 16) </plain></SENT>
+<SENT sid="6" pm="."><plain>G(j) decreased from 80 ± 9 nS (Cx43(+/+), n= 17) to 24 ± 2 nS (Cx43(-/-), n= 35) </plain></SENT>
+<SENT sid="7" pm="."><plain>Single channel analysis showed a shift in the main peak of the channel histogram from 49 ± 1.7 nS (Cx43(+/+)) to 67 ± 1.8 nS (Cx43(-/-)) with a second minor peak appearing at 27 ± 1.5 pS </plain></SENT>
+<SENT sid="8" pm="."><plain>The dependence of g(j) on V(j) decreased with Cx43 ablation </plain></SENT>
+<SENT sid="9" pm="."><plain>Importantly, peak I(Na) decreased from -350 ± 44 pA/pF (Cx43(+/+)) to -154 ± 28 pA/pF (Cx43(-/-)) </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSIONS: The dependence of Cx40, Cx45, and I(Na) on Cx43 expression indicates a complex interaction between connexins and I(Na) in the atrial intercalated discs that is likely to be of relevance for arrhythmogenesis </plain></SENT>
+</text></document>

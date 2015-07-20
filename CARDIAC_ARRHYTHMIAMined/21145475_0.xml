@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: The incidence and effect of <z:hpo ids='HP_0005110'>atrial fibrillation</z:hpo> or flutter (AF) after lung transplant are variable </plain></SENT>
+<SENT sid="1" pm="."><plain>An effect of pharmacologic treatment on outcomes is undetermined </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: One hundred thirty-seven consecutive lung or heart-lung transplant patients were reviewed retrospectively </plain></SENT>
+<SENT sid="3" pm="."><plain>Uni- and multivariate analyses were performed to determine statistically significant risk factors for AF and short-term mortality </plain></SENT>
+<SENT sid="4" pm="."><plain>RESULTS: AF occurred in 45.0% of patients within 26 days </plain></SENT>
+<SENT sid="5" pm="."><plain>By univariate analysis, male gender was predictive of AF (hazard ratio [HR] = 2.25, 95% confidence interval [CI] 1.21 to 4.20, p = 0.011) </plain></SENT>
+<SENT sid="6" pm="."><plain>Mortality within 200 days occurred in 36 of 137 (22.6%) patients </plain></SENT>
+<SENT sid="7" pm="."><plain>Those with AF had higher mortality than those without AF (27 of 62 [43.5%] vs 9 of 75 [12%]; p &lt; 0.0001) </plain></SENT>
+<SENT sid="8" pm="."><plain>Twenty-four of the 38 (63.1%) patients treated with <z:chebi fb="0" ids="2663">amiodarone</z:chebi> died, whereas 3 of 26 (11.5%) patients treated without <z:chebi fb="0" ids="2663">amiodarone</z:chebi> died (p &lt; 0.0001) </plain></SENT>
+<SENT sid="9" pm="."><plain>Mortality was similar among patients without AF, and those with AF not receiving <z:chebi fb="0" ids="2663">amiodarone</z:chebi> (9 of 75 [12%] vs 3 of 26 [11.5%], p = 1.00) </plain></SENT>
+<SENT sid="10" pm="."><plain>By multivariate analysis, <z:hpo ids='HP_0006510'>chronic obstructive pulmonary disease</z:hpo> (HR = 0.395, CI 0.175 to 0.892, p = 0.025), primary <z:hpo ids='HP_0002092'>pulmonary hypertension</z:hpo> (HR = 7.245, CI 1.89 to 27.84, p = 0.0039), and use of <z:chebi fb="0" ids="2663">amiodarone</z:chebi> (HR = 2.967, CI 1.187 to 7.415, p = 0.020) were associated with <z:hpo ids='HP_0011420'>death</z:hpo> </plain></SENT>
+<SENT sid="11" pm="."><plain><z:chebi fb="0" ids="2663">Amiodarone</z:chebi> was shown to be a significant statistical moderator (p &lt; 0.0001) and mediator (p &lt; 0.001) of mortality in AF patients </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: There was a high incidence of AF after lung or heart-lung transplant, and a significant increase in mortality in AF patients treated with <z:chebi fb="0" ids="2663">amiodarone</z:chebi> </plain></SENT>
+<SENT sid="13" pm="."><plain>In patients with severe lung pathology, <z:chebi fb="0" ids="2663">amiodarone</z:chebi> pulmonary toxicity may be more common than previously known, and may be a significant contributor to mortality </plain></SENT>
+<SENT sid="14" pm="."><plain><z:chebi fb="0" ids="2663">Amiodarone</z:chebi> use should be restricted in the lung transplant patient population </plain></SENT>
+</text></document>

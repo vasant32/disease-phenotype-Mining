@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>This paper shows 21 patients with <z:e sem="disease" ids="C0085278" disease_type="Disease or Syndrome" abbrv="">antiphospholipid syndrome</z:e>, that were diagnosed after <z:mp ids='MP_0005048'>thrombosis</z:mp>, recurrent fetal loss or <z:hpo ids='HP_0001873'>thrombocytopenia</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain><z:e sem="disease" ids="C0024138,C0024141,C0024131,C0409974" disease_type="Disease or Syndrome" abbrv="">Lupus</z:e> <z:chebi fb="3" ids="50249">anticoagulant</z:chebi> was detected in 18, anticardiolipin antibodies in 15 and VDRL test was positive in 6 patients </plain></SENT>
+<SENT sid="2" pm="."><plain>Nine patients had <z:hpo ids='HP_0004850'>recurrent venous thrombosis</z:hpo>, 6 pulmonary <z:mpath ids='MPATH_110'>embolus</z:mpath>, 9 recurrent fetal loss and 15 were with <z:hpo ids='HP_0001873'>low platelet count</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>Secondary prevention with oral <z:chebi fb="2" ids="50249">anticoagulants</z:chebi> was applied according to the level of INR 2.5-3.5 </plain></SENT>
+<SENT sid="4" pm="."><plain>Only one patient relapsed due to deficient anticoagulation </plain></SENT>
+<SENT sid="5" pm="."><plain>Three pregnant patients were treated with aspirin, and low molecular weight <z:chebi fb="5" ids="28304">heparin</z:chebi>, alone or in combination with <z:chebi fb="0" ids="8382">prednisone</z:chebi> </plain></SENT>
+<SENT sid="6" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> of them had recurrent <z:hpo ids='HP_0005268'>spontaneous abortions</z:hpo> between 20 and 28 weeks of gestation </plain></SENT>
+<SENT sid="7" pm="."><plain>In conclusion, early diagnosis of <z:e sem="disease" ids="C0085278" disease_type="Disease or Syndrome" abbrv="">antiphospholipid syndrome</z:e> is very important </plain></SENT>
+<SENT sid="8" pm="."><plain>Secondary prevention of thromboembolic complications is recommended according to the level of INR &gt; or = 3 </plain></SENT>
+<SENT sid="9" pm="."><plain>For the prevention of fetal loss we have not agreed upon treatment of <z:hpo ids='HP_0000001'>all</z:hpo> patients </plain></SENT>
+<SENT sid="10" pm="."><plain>Further studies are needed to define more precisely the optimal type, intensity, and the duration of therapy </plain></SENT>
+</text></document>

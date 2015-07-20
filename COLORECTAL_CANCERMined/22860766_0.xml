@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Recent evidence suggests that fatty acid synthase mediating de novo fatty acid synthesis plays a crucial role in the <z:e sem="disease" ids="C0596263" disease_type="Neoplastic Process" abbrv="">carcinogenesis</z:e> process of various <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancers</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>Moreover, HER2 and related PI3K/Akt signaling pathway, which links intimately with cellular metabolism, influence <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> biological behavior </plain></SENT>
+<SENT sid="2" pm="."><plain>However, it remains unknown whether malignant phenotype of <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> cells is regulated by the HER2-PI3K/Akt-FASN signaling pathway </plain></SENT>
+<SENT sid="3" pm="."><plain>In this study, Caco-2 cells were selected for functional characterization, and treated with ZSTK474, followed by RT-qPCR and Western blot assays examining PI3K, Akt, HER2, and FASN expression </plain></SENT>
+<SENT sid="4" pm="."><plain>The <z:chebi fb="0" ids="53233">MTT</z:chebi> and colony formation assays were used to assess proliferation </plain></SENT>
+<SENT sid="5" pm="."><plain>The migration was investigated by transwell, <z:mpath ids='MPATH_3'>apoptosis</z:mpath>, and cell-cycle analysis </plain></SENT>
+<SENT sid="6" pm="."><plain>We found that the blockade of PI3K/Akt signaling pathway by ZSTK474 treatment led to downregulation of PI3K, Akt, HER2, and FASN expression </plain></SENT>
+<SENT sid="7" pm="."><plain>The proliferation was decreased upon treatment which was consistent with an increased percentage of G(1) arrested cells instead of <z:mpath ids='MPATH_3'>apoptosis</z:mpath> </plain></SENT>
+<SENT sid="8" pm="."><plain>The migration of Caco-2 cells was also impaired by ZSTK474 treatment </plain></SENT>
+<SENT sid="9" pm="."><plain>Inhibition of HER2-PI3K/Akt signaling pathway suppresses FASN expression of Caco-2 cells, and inhibition of FASN expression changes malignant phenotype of Caco-2 cells </plain></SENT>
+</text></document>

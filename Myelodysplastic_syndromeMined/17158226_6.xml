@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>In a search for new genes involved in the regulation of erythropoiesis, we identified murine Penumbra cDNA from a multipotent hematopoietic cell line based on its predominant expression in erythroblasts </plain></SENT>
+<SENT sid="1" pm="."><plain>Subsequently, we identified the human PENUMBRA from a bone marrow cDNA library </plain></SENT>
+<SENT sid="2" pm="."><plain>Penumbra is a new member of the tetraspanin superfamily of membrane proteins, many of which are thought to function as organizers of supramolecular signaling complexes </plain></SENT>
+<SENT sid="3" pm="."><plain>Human and murine Penumbras contain 283 amino acids and are 97% identical </plain></SENT>
+<SENT sid="4" pm="."><plain>The human PENUMBRA gene is mapped to chromosome 7q32, a hot spot for deletions in <z:hpo ids='HP_0002863'>myelodysplastic syndromes</z:hpo> and <z:hpo ids='HP_0004808'>acute myelogenous leukemias</z:hpo> </plain></SENT>
+<SENT sid="5" pm="."><plain>Penumbra is targeted to the cell surface and forms <z:chebi fb="0" ids="48343">disulfide</z:chebi>-bonded homodimers </plain></SENT>
+<SENT sid="6" pm="."><plain>To study the effects of Penumbra deletions, we created a knockout mouse model by gene targeting </plain></SENT>
+<SENT sid="7" pm="."><plain>Penumbra(-/-) mice develop massive <z:hpo ids='HP_0001744'>splenomegaly</z:hpo>, basophilic macrocytic red blood cells, and <z:hpo ids='HP_0001903'>anemia</z:hpo> as they age </plain></SENT>
+<SENT sid="8" pm="."><plain>A multipotent hematopoietic cell line, EMX, was established from the bone marrow of a Penumbra(-/-) mouse </plain></SENT>
+<SENT sid="9" pm="."><plain>EMX exhibits <z:hpo ids='HP_0010972'>ineffective erythropoiesis</z:hpo> in the presence of erythropoietin, a defect that is reversed by reexpression of Penumbra </plain></SENT>
+<SENT sid="10" pm="."><plain>These findings indicate that Penumbra has a positive function in erythropoiesis and its deletion or mutation may result in <z:hpo ids='HP_0001903'>anemia</z:hpo> </plain></SENT>
+</text></document>

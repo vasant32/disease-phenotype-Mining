@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0003741'>Congenital muscular dystrophy</z:hpo> (CMD) due to merosin (laminin alpha2 chain) deficiency is an autosomal recessively inherited disorder characterized by severe <z:hpo ids='HP_0001324'>muscular weakness</z:hpo> and <z:mp ids='MP_0004144'>hypotonia</z:mp> from birth on </plain></SENT>
+<SENT sid="1" pm="."><plain>Brain involvement is the rule and characterized by variable T2 hyperintensities of white matter which appears swollen on cranial MRI </plain></SENT>
+<SENT sid="2" pm="."><plain>The pathophysiology of these white matter changes is not clear </plain></SENT>
+<SENT sid="3" pm="."><plain>In five patients with laminin alpha2 deficient CMD we performed short-echo time localized proton MRS with determination of absolute metabolite concentrations in grey and white matter </plain></SENT>
+<SENT sid="4" pm="."><plain>In affected white matter, a consistent pattern of metabolites was detected comprising reduced concentrations of N-acetylaspartate and N-acetylaspartylglutamate, <z:chebi fb="2" ids="16919">creatine</z:chebi>, and phosphocreatine, and to a milder degree of <z:chebi fb="3" ids="15354">choline</z:chebi>-containing compounds </plain></SENT>
+<SENT sid="5" pm="."><plain>In contrast, concentrations of <z:chebi fb="0" ids="17268">myo-inositol</z:chebi> were in the <z:mpath ids='MPATH_458'>normal</z:mpath> range </plain></SENT>
+<SENT sid="6" pm="."><plain>Spectra of cortical and subcortical grey matter were <z:mpath ids='MPATH_458'>normal</z:mpath> </plain></SENT>
+<SENT sid="7" pm="."><plain>The observed metabolite profile is consistent with white matter <z:hpo ids='HP_0000969'>edema</z:hpo>, that is reduced cellular density, and relative <z:hpo ids='HP_0002446'>astrocytosis</z:hpo> </plain></SENT>
+<SENT sid="8" pm="."><plain>This interpretation is in line with the hypothesis that laminin alpha2 deficiency results in leakage of fluids across the blood-brain barrier and a histopathological report of astrocytic proliferation in CMD </plain></SENT>
+</text></document>

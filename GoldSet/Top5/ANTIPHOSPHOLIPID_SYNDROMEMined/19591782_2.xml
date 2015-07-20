@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Between 20% and 40% of patients with <z:hpo ids='HP_0002725'>systemic lupus erythematosus</z:hpo> (SLE) have positive blood tests for <z:hpo ids='HP_0003613'>antiphospholipid antibodies</z:hpo> (aPLs) </plain></SENT>
+<SENT sid="1" pm="."><plain>This article explains what tests are used to detect these antibodies and outlines the complexities of interpreting and acting upon a positive result </plain></SENT>
+<SENT sid="2" pm="."><plain>If aPLs are persistently positive, the patient may develop <z:e sem="disease" ids="C0085278" disease_type="Disease or Syndrome" abbrv="">antiphospholipid syndrome</z:e> (APS) characterised by vascular <z:mp ids='MP_0005048'>thrombosis</z:mp>, pregnancy morbidity or both </plain></SENT>
+<SENT sid="3" pm="."><plain>In patients with SLE who are aPL-positive but have not developed APS, there is some evidence that low-dose aspirin should be used prophylactically, but it is not conclusive </plain></SENT>
+<SENT sid="4" pm="."><plain>APS in patients with SLE is clinically similar to primary APS and should be treated in the same way, with anticoagulation to prevent <z:hpo ids='HP_0004419'>recurrent thrombosis</z:hpo> or with aspirin and sometimes <z:chebi fb="5" ids="28304">heparin</z:chebi> to prevent pregnancy loss </plain></SENT>
+<SENT sid="5" pm="."><plain>Current best practice in use of these treatments is discussed </plain></SENT>
+<SENT sid="6" pm="."><plain>However, these treatments are not ideal as they can have major side effects such as haemorrhage </plain></SENT>
+<SENT sid="7" pm="."><plain>Research which may lead to better, more targeted therapy for APS is discussed at the end of the article </plain></SENT>
+</text></document>

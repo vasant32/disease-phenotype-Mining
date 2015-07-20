@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0002637'>Cerebral ischemia</z:hpo> resulting from a disruption of blood flow to the brain initiates a cascade of events that causes neuron <z:hpo ids='HP_0011420'>death</z:hpo> and leads to neurologic dysfunction </plain></SENT>
+<SENT sid="1" pm="."><plain>Reactive oxygen species are thought, at least in part, to mediate this disease process </plain></SENT>
+<SENT sid="2" pm="."><plain>The authors recently cloned and characterized an <z:chebi fb="11" ids="22586">antioxidant</z:chebi> protein, SAG (sensitive to <z:mpath ids='MPATH_3'>apoptosis</z:mpath> gene), that is redox inducible and protects cells from <z:mpath ids='MPATH_3'>apoptosis</z:mpath> induced by redox agents in a number of in vitro cell model systems </plain></SENT>
+<SENT sid="3" pm="."><plain>This study reports a neuroprotective role of SAG in <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e>/reperfusion-induced brain injury in an in vivo mouse model </plain></SENT>
+<SENT sid="4" pm="."><plain>SAG was expressed at a low level in brain tissue and was inducible after middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> with peak expression at 6 to 12 hours </plain></SENT>
+<SENT sid="5" pm="."><plain>At the cellular level, SAG was mainly expressed in the cytoplasm of neurons and astrocytes, revealed by double immunofluorescence </plain></SENT>
+<SENT sid="6" pm="."><plain>An injection of recombinant adenoviral vector carrying human SAG into mouse brain produced an overexpression of SAG protein in the injected areas </plain></SENT>
+<SENT sid="7" pm="."><plain>Transduction of AdCMVSAG (<z:mp ids='MP_0002169'>wild-type</z:mp>), but not AdCMVmSAG (mutant), nor the AdCMVlacZ control, protected brain cells from ischemic brain injury, as evidenced by significant reduction of the <z:mpath ids='MPATH_124'>infarct</z:mpath> areas where SAG was highly expressed </plain></SENT>
+<SENT sid="8" pm="."><plain>The result suggests a rather specific protective role of SAG in the current in vivo model </plain></SENT>
+<SENT sid="9" pm="."><plain>Mechanistically, SAG overexpression decreased reactive oxygen species production and reduced the number of apoptotic cells in the ischemic areas </plain></SENT>
+<SENT sid="10" pm="."><plain>Thus, <z:chebi fb="11" ids="22586">antioxidant</z:chebi> SAG appears to protect against reactive oxygen species-induced brain damage in mice </plain></SENT>
+<SENT sid="11" pm="."><plain>Identification of SAG as a neuroprotective molecule could lead to potential <z:hpo ids='HP_0001297'>stroke</z:hpo> therapies </plain></SENT>
+</text></document>

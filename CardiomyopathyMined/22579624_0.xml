@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Familial <z:hpo ids='HP_0001639'>hypertrophic cardiomyopathy</z:hpo> (FHC) is one of the most common genetic causes of <z:e sem="disease" ids="C0018799" disease_type="Disease or Syndrome" abbrv="">heart disease</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>Approximately 15% of FHC-related mutations are found in cTnT [cardiac troponin (cTn) T] </plain></SENT>
+<SENT sid="2" pm="."><plain>Most of the cTnT FHC-related mutations are in or flanking the N-tail TNT1 domain that directly interacts with overlapping tropomyosin (Tm) </plain></SENT>
+<SENT sid="3" pm="."><plain>We investigate two sets of cTnT mutations at opposite ends of TNT1, mutations in residue 92 in the Tm-Tm overlap region of TNT1 and mutations in residues 160 and 163 in the C-terminal portion of TNT1 adjacent to the cTnT H1-H2 linker </plain></SENT>
+<SENT sid="4" pm="."><plain>Though <z:hpo ids='HP_0000001'>all</z:hpo> the mutations are located within TNT1, they have widely different phenotypes clinically and biophysically </plain></SENT>
+<SENT sid="5" pm="."><plain>Using a complete atomistic model of the cTn-Tm complex, we identify mechanisms by which the effects of TNT1 mutations propagate to the cTn core and site II of cTnC, where calcium binding and dissociation occurs </plain></SENT>
+<SENT sid="6" pm="."><plain>We find that mutations in TNT1 alter the flexibility of TNT1, which is inversely proportional to the cooperativity of calcium activation of the thin filament </plain></SENT>
+<SENT sid="7" pm="."><plain>Further, we identify a pathway of propagation of structural and dynamic changes from TNT1 to site II of cTnC, including TNT1, cTnT linker, I-T arm, regulatory domain of cTnI, the D-E linker of cTnC, and site II cTnC </plain></SENT>
+<SENT sid="8" pm="."><plain>Mutationally induced changes at site II of cTnC alter calcium coordination that corresponds to biophysical measurements of calcium sensitivity </plain></SENT>
+<SENT sid="9" pm="."><plain>Finally, we compare this pathway of mutational propagation with that of the calcium activation of the thin filament and find that they are identical but opposite in direction </plain></SENT>
+</text></document>

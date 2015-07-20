@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The recent failure of many clinical trials of neuroprotective compounds may be due in part to poor animal models of human <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>We have developed an endovascular <z:hpo ids='HP_0001297'>stroke</z:hpo> model in nonhuman primates that is compatible with serial magnetic resonance imaging (MRI) monitoring </plain></SENT>
+<SENT sid="2" pm="."><plain>Using cynomologous macaques (n = 4), a microcatheter was navigated transarterially (under fluoroscopic guidance) from the femoral artery to the middle cerebral artery (<z:chebi fb="70" ids="34342">MCA</z:chebi>) </plain></SENT>
+<SENT sid="3" pm="."><plain>The microcatheter was wedged in a branch of the <z:chebi fb="70" ids="34342">MCA</z:chebi> for 3 hours to cause focal <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo>, as verified angiographically </plain></SENT>
+<SENT sid="4" pm="."><plain>During occlusion and/or reperfusion, animals were scanned with MRI, and imaging findings were compared with the stained brain sections </plain></SENT>
+<SENT sid="5" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> animals demonstrated small <z:hpo ids='HP_0001297'>stroke</z:hpo> lesions in the expected vascular territory, as seen on diffusion-weighted MRI and confirmed by postmortem examination </plain></SENT>
+<SENT sid="6" pm="."><plain>Reperfusion after 3 hours was confirmed angiographically (n = 2) and also by MRI (n = 4) </plain></SENT>
+<SENT sid="7" pm="."><plain>The mean initial lesion volume, measured on the postreperfusion MRI scans, was 2.3 +/- 1.3 mL (n = 4) </plain></SENT>
+<SENT sid="8" pm="."><plain>There was good agreement between anatomic location of the lesion on MRI and postmortem histological staining (n = 3) </plain></SENT>
+<SENT sid="9" pm="."><plain>A "minimally invasive" primate model of focal <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> was developed that is ideally suited to MRI studies of both <z:hpo ids='HP_0011009'>acute</z:hpo> and <z:hpo ids='HP_0011010'>chronic</z:hpo> <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+<SENT sid="10" pm="."><plain>By using serial MRI scans to measure changes in lesion size over time, we will be able to control for variability in lesion size/location </plain></SENT>
+<SENT sid="11" pm="."><plain>This model should prove useful as a test bed for new <z:hpo ids='HP_0001297'>stroke</z:hpo> therapies, in which noninvasive imaging findings are readily comparable to human <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+</text></document>

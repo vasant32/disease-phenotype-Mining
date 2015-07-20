@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>CBFA2(AML1) has emerged as a gene critical in hematopoiesis; its protein product forms the DNA-binding subunit of the heterodimeric core-binding factor (CBF) that binds to the transcriptional regulatory regions of genes, some of which are active specifically in hematopoiesis </plain></SENT>
+<SENT sid="1" pm="."><plain>CBFA2 forms a fusion gene with <z:chebi fb="0" ids="27561">ETO</z:chebi> and MDS1/EVI1 in translocations in myeloid <z:hpo ids='HP_0001909'>leukemia</z:hpo> and with ETV6(<z:chebi fb="18" ids="30182">TEL</z:chebi>) in the t(12;21) common in childhood pre-B <z:hpo ids='HP_0006721'>acute lymphoblastic leukemia</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>We have analyzed samples from 30 <z:hpo ids='HP_0001909'>leukemia</z:hpo> patients who had chromosome rearrangements involving 21q22 by using fluorescence in situ hybridization (FISH) </plain></SENT>
+<SENT sid="3" pm="."><plain>Our analysis showed that 7 of them involved CBFA2 and new translocation partners </plain></SENT>
+<SENT sid="4" pm="."><plain>Two patients had a t(17;21)(q11.2;q22), whereas the other 5 had translocations involving 1p36, 5q13, 12q24, 14q22, or 15q22 </plain></SENT>
+<SENT sid="5" pm="."><plain>Five of these novel breakpoints in CBFA2 occurred in intron 6; this same intron is involved in the t(3;21) </plain></SENT>
+<SENT sid="6" pm="."><plain>One breakpoint mapped to the t(8;21) breakpoint region in intron 5, and 1 mapped 5' to that region </plain></SENT>
+<SENT sid="7" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> 7 CBFA2 rearrangements resulted from balanced translocations </plain></SENT>
+<SENT sid="8" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> 7 patients had myeloid disorders (<z:hpo ids='HP_0004808'>acute myeloid leukemia</z:hpo> or <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo>); 2 were de novo and 5 had treatment histories that included topoisomerase II targeting agents </plain></SENT>
+<SENT sid="9" pm="."><plain>The association of therapy-related disorders with translocations involving CBFA2 was significant by Fisher's exact test (P &lt; .003) </plain></SENT>
+<SENT sid="10" pm="."><plain>These results provide further evidence that this region of CBFA2 is susceptible to breakage in cells exposed to <z:chebi fb="0" ids="50750">topoisomerase II inhibitors</z:chebi> </plain></SENT>
+</text></document>

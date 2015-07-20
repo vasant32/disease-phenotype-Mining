@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECT: Investigators in experimental and clinical studies have used the intrathecal route to deliver drugs to prevent or treat vasospasm </plain></SENT>
+<SENT sid="1" pm="."><plain>However, a clot near an artery or arteries after <z:hpo ids='HP_0002138'>subarachnoid hemorrhage</z:hpo> (SAH) may hamper distribution and limit the effects of intrathecally delivered compounds </plain></SENT>
+<SENT sid="2" pm="."><plain>In a primate model of right middle cerebral artery (<z:chebi fb="70" ids="34342">MCA</z:chebi>) SAH, the authors examined the distribution of Isovue-M 300 and 3% Evans blue after infusion into the cisterna magna CSF </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: Ten cynomolgus monkeys were assigned to SAH and sham SAH surgery groups (5 in each group) </plain></SENT>
+<SENT sid="4" pm="."><plain>Monkeys received CSF injections as long as 28 days after SAH and were killed 3 hours after the contrast/Evans blue injection </plain></SENT>
+<SENT sid="5" pm="."><plain>The authors assessed the distribution of contrast material on serial CT within 2 hours after contrast injection and during autopsy within 3 hours after Evans blue staining </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: Computed tomography cisternographies showed no contrast in the vicinity of the right <z:chebi fb="70" ids="34342">MCA</z:chebi> (p &lt; 0.05 compared with left); the distribution of contrast surrounding the entire right cerebral hemisphere was substantially reduced </plain></SENT>
+<SENT sid="7" pm="."><plain>Postmortem analysis demonstrated much less Evans blue staining of the right hemisphere surface compared with the left </plain></SENT>
+<SENT sid="8" pm="."><plain>Furthermore, the Evans blue dye did not penetrate into the right sylvian fissure, which occurred surrounding the left <z:chebi fb="70" ids="34342">MCA</z:chebi> </plain></SENT>
+<SENT sid="9" pm="."><plain>The authors observed the same pattern of changes and differences in contrast distribution between SAH and sham SAH animals and between the right and the left hemispheres on Days 1, 3, 7, 14, 21, and 28 after SAH </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSIONS: Intrathecal drug distribution is substantially limited by SAH </plain></SENT>
+<SENT sid="11" pm="."><plain>Thus, when using intrathecal drug delivery after SAH, vasoactive drugs are unlikely to reach the arteries that are at the highest risk of delayed <z:e sem="disease" ids="C0265110" disease_type="Disease or Syndrome" abbrv="">cerebral vasospasm</z:e> </plain></SENT>
+</text></document>

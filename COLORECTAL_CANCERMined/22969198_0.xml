@@ -1,0 +1,25 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIM: To examine effects of <z:hpo ids='HP_0011010'>chronic</z:hpo> <z:chebi fb="70" ids="6807">methadone</z:chebi> usage on bowel visualization, preparation, and repeat colonoscopy </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: In-patient colonoscopy reports from October, 2004 to May, 2009 for <z:chebi fb="70" ids="6807">methadone</z:chebi> dependent (MD) patients were retrospectively evaluated and compared to matched opioid naive controls (C) </plain></SENT>
+<SENT sid="2" pm="."><plain>Strict criteria were applied to exclude patients with risk factors known to cause <z:hpo ids='HP_0002019'>constipation</z:hpo> or gastric dysmotility </plain></SENT>
+<SENT sid="3" pm="."><plain>Colonoscopy reports of <z:hpo ids='HP_0000001'>all</z:hpo> eligible patients were analyzed for degree of bowel visualization, assessment of bowel preparation (good, fair, or poor), and whether a repeat colonoscopy was required </plain></SENT>
+<SENT sid="4" pm="."><plain>Bowel visualization was scored on a 4 point scale based on multiple prior studies: excellent = 1, good = 2, fair = 3, or poor = 4 </plain></SENT>
+<SENT sid="5" pm="."><plain>Analysis of variance (ANOVA) and Pearson χ(2) test were used for data analyses </plain></SENT>
+<SENT sid="6" pm="."><plain>Subgroup analysis included correlation between <z:chebi fb="70" ids="6807">methadone</z:chebi> dose and colonoscopy outcomes </plain></SENT>
+<SENT sid="7" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> variables significantly differing between MD and C groups were included in both univariate and multivariate logistic regression analyses </plain></SENT>
+<SENT sid="8" pm="."><plain>P values were two sided, and &lt; 0.05 were considered statistically significant </plain></SENT>
+<SENT sid="9" pm="."><plain>RESULTS: After applying exclusionary criteria, a total of 178 MD patients and 115 C patients underwent a colonoscopy during the designated study period </plain></SENT>
+<SENT sid="10" pm="."><plain>A total of 67 colonoscopy reports for MD patients and 72 for C were included for data analysis </plain></SENT>
+<SENT sid="11" pm="."><plain>Age and gender matched controls were randomly selected from this population to serve as controls in a numerically comparable group </plain></SENT>
+<SENT sid="12" pm="."><plain>The average age for MD patients was 52.2 ± 9.2 years (range: 32-72 years) years compared to 54.6 ± 15.5 years (range: 20-81 years) for C (P = 0.27) </plain></SENT>
+<SENT sid="13" pm="."><plain>Sixty nine percent of patients in MD and 65% in C group were males (P = 0.67) </plain></SENT>
+<SENT sid="14" pm="."><plain>When evaluating colonoscopy reports for bowel visualization, MD patients had significantly greater percentage of solid stool (i.e., poor visualization) compared to C (40.3% vs 6.9%, P &lt; 0.001) </plain></SENT>
+<SENT sid="15" pm="."><plain>Poor bowel preparation (35.8% vs 9.7%, P &lt; 0.001) and need for repeat colonoscopy (32.8% vs 12.5%, P = 0.004) were significantly higher in MD group compared to C, respectively </plain></SENT>
+<SENT sid="16" pm="."><plain>Under univariate analysis, factors significantly associated with MD group were presence of fecal particulate [odds ratio (OR), 3.89, 95% CI: 1.33-11.36, P = 0.01] and solid stool (OR, 13.5, 95% CI: 4.21-43.31, P &lt; 0.001) </plain></SENT>
+<SENT sid="17" pm="."><plain>Fair (OR, 3.82, 95% CI: 1.63-8.96, P = 0.002) and poor (OR, 8.10, 95% CI: 3.05-21.56, P &lt; 0.001) assessment of bowel preparation were more likely to be associated with MD patients </plain></SENT>
+<SENT sid="18" pm="."><plain>Requirement for repeat colonoscopy was also significant higher in MD group (OR, 3.42, 95% CI: 1.44-8.13, P = 0.01) </plain></SENT>
+<SENT sid="19" pm="."><plain>In the multivariate analyses, the only variable independently associated with MD group was presence of solid stool (OR, 7.77, 95% CI: 1.66-36.47, P = 0.01) </plain></SENT>
+<SENT sid="20" pm="."><plain>Subgroup analysis demonstrated a general trend towards poorer bowel visualization with higher <z:chebi fb="70" ids="6807">methadone</z:chebi> dosage </plain></SENT>
+<SENT sid="21" pm="."><plain>ANOVA analysis demonstrated that mean <z:chebi fb="70" ids="6807">methadone</z:chebi> dose associated with presence of solid stool (poor visualization) was significantly higher compared to mean dosage for clean colon (excellent visualization, P = 0.02) or for those with liquid stool only (good visualization, P = 0.01) </plain></SENT>
+<SENT sid="22" pm="."><plain>CONCLUSION: <z:chebi fb="70" ids="6807">Methadone</z:chebi> dependence is a risk factor for poor bowel visualization and leads to more repeat colonoscopies </plain></SENT>
+<SENT sid="23" pm="."><plain>More aggressive bowel preparation may be needed in MD patients </plain></SENT>
+</text></document>

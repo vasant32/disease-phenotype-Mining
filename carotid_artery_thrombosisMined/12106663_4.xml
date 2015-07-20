@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Severe hemorrhagic transformation (HT) is an important complication of thrombolytic therapy </plain></SENT>
+<SENT sid="1" pm="."><plain>A method to identify <z:hpo ids='HP_0001297'>stroke</z:hpo> victims destined to severe HT could improve the patient selection and thus the safety of such treatment </plain></SENT>
+<SENT sid="2" pm="."><plain>In this study, we investigated whether very early serial diffusion weighted magnetic resonance imaging (DWI) could predict the occurrence of HT in an embolic model of experimental <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>We tested the hypothesis that the ischemic brains with very low initial apparent diffusion coefficients (<z:chebi fb="49" ids="35181">ADC</z:chebi>) are destined to severe early (&lt;or=5.5 h) HT </plain></SENT>
+<SENT sid="4" pm="."><plain>We retrospectively analyzed DWI scans of 45 New Zealand white rabbits subjected to <z:hpo ids='HP_0001727'>thromboembolic stroke</z:hpo> and treated with thrombolysis </plain></SENT>
+<SENT sid="5" pm="."><plain>DWI was obtained 0.5, 2, 3 and 5 h after embolization </plain></SENT>
+<SENT sid="6" pm="."><plain>Various thrombolytics were administered 1 h post embolization </plain></SENT>
+<SENT sid="7" pm="."><plain>The percentage of pixels within the ischemic hemisphere with <z:chebi fb="49" ids="35181">ADC</z:chebi> values below 550 x 10(-6) mm(2)/s was calculated and then compared to the severity of HT observed on gross brain sections at 5.5 h </plain></SENT>
+<SENT sid="8" pm="."><plain>As early as 30 min after embolization, ischemic brains destined to severe HT exhibited a significantly greater percentage of pixels below the cut-off value compared to those without HT: severe HT: 25%, 18.75-37.25% vs. no HT: 12%, 5.00-16.00% (median, 25th-75th %, P&lt;0.001) </plain></SENT>
+<SENT sid="9" pm="."><plain>Petechial HT when percentages were in the intermediate range </plain></SENT>
+<SENT sid="10" pm="."><plain>Quantitative analysis of initial <z:chebi fb="49" ids="35181">ADC</z:chebi> value might identify individual <z:hpo ids='HP_0001297'>stroke</z:hpo> patients at risk of severe HT </plain></SENT>
+</text></document>

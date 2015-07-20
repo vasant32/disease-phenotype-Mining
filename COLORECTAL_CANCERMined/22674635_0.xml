@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: EZN-2208 is a water-soluble, <z:chebi fb="1" ids="46793">polyethylene glycol</z:chebi> drug conjugate of SN38, which is the active moiety of irinotecan </plain></SENT>
+<SENT sid="1" pm="."><plain>In this study, the authors evaluated the tolerability, pharmacokinetics (PK), and activity of EZN-2208 in adult patients with advanced <z:e sem="disease" ids="C0280100" disease_type="Neoplastic Process" abbrv="">solid tumors</z:e> </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: Patients in sequential cohorts (3 + 3 design) received intravenous EZN-2208 at doses between 1.25 mg/m(2) and 25 mg/m(2) once every 21 days </plain></SENT>
+<SENT sid="3" pm="."><plain>RESULTS: Thirty-nine patients received EZN-2208 </plain></SENT>
+<SENT sid="4" pm="."><plain>The median number of prior therapies was 2 (range, 0-10 prior therapies) </plain></SENT>
+<SENT sid="5" pm="."><plain>Seventeen patients received prior irinotecan </plain></SENT>
+<SENT sid="6" pm="."><plain>Two maximum tolerated doses (MTDs) were defined: EZN-2208 with (16.5 mg/m(2)) and without (10 mg/m(2)) granulocyte-colony-stimulating factor (G-CSF) </plain></SENT>
+<SENT sid="7" pm="."><plain>The dose-limiting toxicity (DLT) was febrile <z:hpo ids='HP_0001875'>neutropenia</z:hpo> </plain></SENT>
+<SENT sid="8" pm="."><plain>Two of 19 patients who were heterozygous for a polymorphism in the <z:chebi fb="0" ids="17659">uridine diphosphate</z:chebi> glucuronosyltransferase 1 family, <z:chebi fb="1" ids="15841">polypeptide</z:chebi> A1 (UGT1A1) gene (UGT1A1*28) developed DLTs (dose, 25 mg/m(2) with G-CSF), and 2 patients who were homozygous for UGT1A1*28 were treated without DLTs (dose, 5 mg/m(2)) </plain></SENT>
+<SENT sid="9" pm="."><plain>PK analysis indicated a mean terminal half-life of 19.4 ± 3.4 hours </plain></SENT>
+<SENT sid="10" pm="."><plain>Sixteen patients (41%) achieved stable disease, including 6 of 39 patients (15%) who had stable disease that lasted ≥ 4 months </plain></SENT>
+<SENT sid="11" pm="."><plain>One patient with <z:mpath ids='MPATH_354'>cholangiocarcinoma</z:mpath> (no prior irinotecan) achieved a short-lived 32% <z:mp ids='MP_0010537'>tumor regression</z:mp> </plain></SENT>
+<SENT sid="12" pm="."><plain>Among 6 patients who had stable disease that lasted for ≥ 4 months, 3 had received prior irinotecan, and 1 had KRAS-positive <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSIONS: EZN-2208 was well tolerated and produced stable disease that lasted for ≥ 4 months/unconfirmed partial responses in 7 of 39 heavily pretreated patients (18%) with advanced <z:e sem="disease" ids="C0280100" disease_type="Neoplastic Process" abbrv="">solid tumors</z:e>, including those who had failed prior irinotecan therapy </plain></SENT>
+</text></document>

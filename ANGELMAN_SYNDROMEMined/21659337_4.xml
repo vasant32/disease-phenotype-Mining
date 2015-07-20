@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The human chromosomal 15q11-15q13 region is subject to both maternal and paternal <z:mp ids='MP_0003121'>genomic imprinting</z:mp> </plain></SENT>
+<SENT sid="1" pm="."><plain>Absence of paternal gene expression from this region results in Prader-Willi syndrome (PWS), while absence of maternal gene expression leads to <z:e sem="disease" ids="C0162635" disease_type="Disease or Syndrome" abbrv="">Angelman syndrome</z:e> </plain></SENT>
+<SENT sid="2" pm="."><plain>Transcription of paternally expressed genes in the region depends upon an imprinting center termed the PWS-IC </plain></SENT>
+<SENT sid="3" pm="."><plain>Imprinting defects in PWS can be caused by microdeletions and the smallest commonly deleted region indicates that the PWS-IC lies within a region of 4.3 kb </plain></SENT>
+<SENT sid="4" pm="."><plain>The function and location of the PWS-IC is evolutionarily conserved, but delineation of the PWS-IC in mouse has proven difficult </plain></SENT>
+<SENT sid="5" pm="."><plain>The first targeted mutation of the PWS-IC, a deletion of 35 kb spanning Snrpn exon 1, exhibited a complete PWS-IC deletion phenotype </plain></SENT>
+<SENT sid="6" pm="."><plain>Pups inheriting this mutation paternally showed a complete loss of paternal gene expression and died neonatally </plain></SENT>
+<SENT sid="7" pm="."><plain>A reported deletion of 4.8 kb showed only a reduction in paternal gene expression and <z:hpo ids='HP_0003829'>incomplete penetrance</z:hpo> of <z:mp ids='MP_0002058'>neonatal lethality</z:mp>, suggesting that some PWS-IC function had been retained </plain></SENT>
+<SENT sid="8" pm="."><plain>Here, we report that a 6 kb deletion spanning Snrpn exon 1 exhibits a complete PWS-IC deletion phenotype </plain></SENT>
+<SENT sid="9" pm="."><plain>Pups inheriting this mutation paternally lack detectable expression of <z:hpo ids='HP_0000001'>all</z:hpo> PWS genes and paternal silencing of Ube3a, exhibit maternal DNA methylation imprints at Ndn and Mkrn3 and suffer <z:hpo ids='HP_0001508'>failure to thrive</z:hpo> leading to a fully penetrant <z:mp ids='MP_0002058'>neonatal lethality</z:mp> </plain></SENT>
+</text></document>

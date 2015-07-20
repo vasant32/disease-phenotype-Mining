@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Side clamping to perform saphenous vein-to-aorta proximal anastomosis is a well known cause of cerebral embolization during coronary bypass surgery </plain></SENT>
+<SENT sid="1" pm="."><plain>Automatic and manual devices have been introduced to avoid aortic clamping and facilitate proximal anastomosis but the manual ones only allow the traditional hand-sewing running suture </plain></SENT>
+<SENT sid="2" pm="."><plain>Nevertheless, they are not easy to use and very expensive to buy </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: We developed a simple object that helps to perform a manual proximal anastomosis without the need to clamp the side of the aorta </plain></SENT>
+<SENT sid="4" pm="."><plain>This device is a steel bar which blocks the aortic hole and simultaneously it provides a slit to receive the needle </plain></SENT>
+<SENT sid="5" pm="."><plain>Through the slit comes out a thin, sharp, straight, but also well directed and predictable jet of blood which could be easily controlled during the suture </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: The function of the object is quite different from other devices </plain></SENT>
+<SENT sid="7" pm="."><plain>Nothing is deployed in the aorta </plain></SENT>
+<SENT sid="8" pm="."><plain>The object is only placed on the aorta with the small appendage slipped into the hole </plain></SENT>
+<SENT sid="9" pm="."><plain>The main advantage of the device is that while manipulation of the aorta is avoided no foreign bodies are incorporated in the suture and - most importantly - the aortic intima is not touched at <z:hpo ids='HP_0000001'>all</z:hpo> </plain></SENT>
+<SENT sid="10" pm="."><plain>The main drawback of the device is the blood jet coming from the slit so that the blood pressure has to be lowered by <z:chebi fb="1" ids="35620">vasodilators</z:chebi> during the anastomosis </plain></SENT>
+<SENT sid="11" pm="."><plain>Moreover, the suture has to change direction and the needle has to enter the aortic wall first to slip out through the slit </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSION: The object was named "Slit Device" and is not a routine instrument </plain></SENT>
+<SENT sid="13" pm="."><plain>It would be only an alternative to other anastomotic devices with the same surgical indications </plain></SENT>
+<SENT sid="14" pm="."><plain>In the case of ascending <z:e sem="disease" ids="C0003493" disease_type="Disease or Syndrome" abbrv="">aortic disease</z:e> and saphenous vein grafting, the Slit Device avoids aortic clamping thereby preventing <z:e sem="disease" ids="C0149649" disease_type="Disease or Syndrome" abbrv="">atheroembolism</z:e> and also avoiding the need for hypothermic <z:e sem="disease" ids="C0444720" disease_type="Disease or Syndrome" abbrv="">circulatory arrest</z:e> in patients with unclampable aorta </plain></SENT>
+</text></document>

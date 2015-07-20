@@ -1,0 +1,18 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>UNLABELLED: The integration of myocardial scar models in 3-dimensional (3D) mapping systems may provide a novel way of helping to guide <z:hpo ids='HP_0004756'>ventricular tachycardia</z:hpo> (VT) ablations </plain></SENT>
+<SENT sid="1" pm="."><plain>This study assessed the value of (201)Tl SPECT perfusion imaging to define ventricular myocardial scar areas and to characterize electrophysiology voltage-derived myocardial substrate categories of scar, border zone (BZ), and <z:mpath ids='MPATH_458'>normal</z:mpath> myocardium regions </plain></SENT>
+<SENT sid="2" pm="."><plain>Scar and BZ regions have been implicated in the genesis of <z:hpo ids='HP_0004308'>ventricular arrhythmias</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: Ten patients scheduled for VT ablation underwent (201)Tl SPECT before the ablation procedure </plain></SENT>
+<SENT sid="4" pm="."><plain>3D left ventricular (LV) scar models were created from the SPECT images </plain></SENT>
+<SENT sid="5" pm="."><plain>These scar models were registered with the LV voltage maps and analyzed with a 17-segment cardiac model </plain></SENT>
+<SENT sid="6" pm="."><plain>Scar location and scar burden were compared between the SPECT scar models and voltage maps </plain></SENT>
+<SENT sid="7" pm="."><plain>In addition, (201)Tl SPECT uptake was quantified using a 68-segment cardiac model and compared among voltage-defined scar, BZ, and <z:mpath ids='MPATH_458'>normal</z:mpath> segments </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: 3D models of LV myocardium and scar were successfully created from (201)Tl SPECT images and integrated in a clinical mapping system </plain></SENT>
+<SENT sid="9" pm="."><plain>The surface registration error with the electrophysiology voltage map was 4.4 ± 1.0 mm </plain></SENT>
+<SENT sid="10" pm="."><plain>The 3D scar location from SPECT matched in 72% of the segments with the voltage map findings </plain></SENT>
+<SENT sid="11" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> successful ablation sites were located within the SPECT-defined scar or within 1 cm of its border, with 73% of the successful ablation sites within 1 cm of the scar border </plain></SENT>
+<SENT sid="12" pm="."><plain>Voltage measurements in SPECT-defined scar and <z:mpath ids='MPATH_458'>normal</z:mpath> areas were 1.2 ± 1.7 and 3.4 ± 2.8 mV, respectively (P &lt; 0.001) </plain></SENT>
+<SENT sid="13" pm="."><plain>The fractional SPECT scar burden area (18.8% ± 5.2%) agreed better with the abnormal (scar plus BZ) voltage area (20.8% ± 15.7%) than with the scar voltage area (5.8% ± 5.8%) </plain></SENT>
+<SENT sid="14" pm="."><plain>Mean normalized (201)Tl uptake was 55% ± 21% in the voltage-defined scar, 63% ± 20% in BZ, and 79% ± 17% in <z:mpath ids='MPATH_458'>normal</z:mpath> myocardial segments (P &lt; 0.05 for scar or BZ vs. <z:mpath ids='MPATH_458'>normal</z:mpath>) </plain></SENT>
+<SENT sid="15" pm="."><plain>CONCLUSION: 3D SPECT surface models of LV scar were accurately integrated into a clinical mapping system and predicted endocardial voltage-defined scar </plain></SENT>
+<SENT sid="16" pm="."><plain>These preliminary data support the possible use of widely available (201)Tl SPECT to facilitate substrate-guided VT ablations </plain></SENT>
+</text></document>

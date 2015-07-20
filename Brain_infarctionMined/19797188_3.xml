@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND PURPOSE: Lesion volume measured on follow-up magnetic resonance imaging (MRI) is commonly used as an outcome parameter in clinical <z:hpo ids='HP_0001297'>stroke</z:hpo> trials </plain></SENT>
+<SENT sid="1" pm="."><plain>However, few studies have evaluated the optimal sequence choice and the interrater reliability of this outcome measure </plain></SENT>
+<SENT sid="2" pm="."><plain>The objective of this study was to quantify the geometric interrater agreement for lesion delineation of <z:hpo ids='HP_0011010'>chronic</z:hpo> <z:mpath ids='MPATH_124'>infarcts</z:mpath> on T2-weighted and fluid-attenuated inverse recovery (FLAIR) MRI </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: In a retrospective study of 14 patients, lesions on 90-day follow-up FLAIR and T2 fast spin echo MRI were outlined by 9 independent, blinded, experienced neuroradiologists </plain></SENT>
+<SENT sid="4" pm="."><plain>Voxel-wise interrater agreement was measured as (1) the volume of the intersection of individual rater's lesion outlines relative to the mean lesion volume (overlap ratio) and (2) the Hausdorff distance between the lesion markings </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: Mean patient age was 64.4 years (range, 45 to 79) </plain></SENT>
+<SENT sid="6" pm="."><plain>Lesion volumes on FLAIR were, on average, 2.5 mL greater than were T2 volumes (median; P&lt;0.001) </plain></SENT>
+<SENT sid="7" pm="."><plain>We found considerable differences between raters' lesion markings, but interrater agreement was consistently better on FLAIR than on T2 images, as measured by a greater overlap ratio (P&lt;0.0001) and a smaller Hausdorff distance (P&lt;0.0001) on FLAIR than on T2 </plain></SENT>
+<SENT sid="8" pm="."><plain>CONCLUSIONS: FLAIR should be used to quantify follow-up <z:mpath ids='MPATH_124'>infarct</z:mpath> size to minimize interrater variability </plain></SENT>
+<SENT sid="9" pm="."><plain>Our study suggests that imaging analysis performed by 1 or a few trained readers may be preferred </plain></SENT>
+<SENT sid="10" pm="."><plain>Future studies should address objective and preferably automated criteria for final lesion delineation </plain></SENT>
+</text></document>

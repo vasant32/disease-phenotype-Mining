@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Striated muscle contraction is regulated by the actin binding proteins tropomyosin and troponin </plain></SENT>
+<SENT sid="1" pm="."><plain>Defects in these proteins lead to <z:hpo ids='HP_0003198'>myopathies</z:hpo> and <z:hpo ids='HP_0001638'>cardiomyopathies</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>Deletion of the 14 C-terminal residues of cardiac troponin T leads to <z:hpo ids='HP_0001639'>hypertrophic cardiomyopathy</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>We showed earlier that regulated actin containing Δ14 TnT was more readily activated than <z:mp ids='MP_0002169'>wild-type</z:mp> regulated actin </plain></SENT>
+<SENT sid="4" pm="."><plain>We suggested that the equilibria among the inactive (blocked), intermediate (closed or calcium), and active (open or myosin) states was shifted to the active state </plain></SENT>
+<SENT sid="5" pm="."><plain>We now show that, in addition, such regulated actin filaments cannot enter the inactive or blocked state </plain></SENT>
+<SENT sid="6" pm="."><plain>Regulated actin containing Δ14 TnT had ATPase activities in the absence of <z:chebi fb="0" ids="29108">Ca2+</z:chebi> that were higher than <z:mp ids='MP_0002169'>wild-type</z:mp> filaments but far below the fully active rate </plain></SENT>
+<SENT sid="7" pm="."><plain>The rapid dissociation of S1-ATP from regulated actin filaments containing Δ14 TnT and acrylodan-labeled tropomyosin did not show the fluorescence increase characteristic of moving to the inactive state </plain></SENT>
+<SENT sid="8" pm="."><plain>Replacing <z:mp ids='MP_0002169'>wild-type</z:mp> TnI with S45E TnI, that favors the inactive state, did not restore the fluorescence change </plain></SENT>
+<SENT sid="9" pm="."><plain>We conclude that TnT has a previously unrecognized role in forming the inactive state of regulated actin </plain></SENT>
+</text></document>

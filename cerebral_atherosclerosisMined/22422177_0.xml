@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND PURPOSE: The severity of white matter hyperintensity, or leukoaraiosis, is a marker of cerebrovascular disease </plain></SENT>
+<SENT sid="1" pm="."><plain>In <z:hpo ids='HP_0001297'>stroke</z:hpo>, WMH burden is strongly linked to <z:e sem="disease" ids="C0333559" disease_type="Disease or Syndrome" abbrv="">lacunar infarction</z:e>; however, impaired cerebral perfusion due to extracranial or intracranial <z:hpo ids='HP_0002621'>atherosclerosis</z:hpo> may also contribute to WMH burden </plain></SENT>
+<SENT sid="2" pm="."><plain>We sought to determine whether WMH burden is associated with extracranial or intracranial stenosis in patients with AIS </plain></SENT>
+<SENT sid="3" pm="."><plain>MATERIALS AND METHODS: Patients with AIS with admission head/neck CTA and brain <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e> imaging were included in this analysis. "Extracranial stenosis" was defined as &gt;50% stenosis in the extracranial ICA, and "intracranial," as &gt;50% stenosis in either the middle, anterior, or posterior cerebral arteries on CTA, on either side </plain></SENT>
+<SENT sid="4" pm="."><plain>WMHV was determined by using a validated semiautomated protocol </plain></SENT>
+<SENT sid="5" pm="."><plain>Multiple regression was used to assess the relationship between WMHV and extracranial/intracranial <z:hpo ids='HP_0002621'>atherosclerosis</z:hpo> </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: Of 201 subjects, 51 (25.4%) had extracranial and 63 (31.5%) had intracranial stenosis </plain></SENT>
+<SENT sid="7" pm="."><plain>Mean age was 62 ± 15 years; 36% were women </plain></SENT>
+<SENT sid="8" pm="."><plain>Mean WMHV was 12.87 cm(3) in the extracranial and 8.59 cm(3) in the intracranial stenosis groups </plain></SENT>
+<SENT sid="9" pm="."><plain>In univariate analysis, age (P &lt; .0001), SBP and <z:chebi fb="4" ids="35861">DBP</z:chebi> (P = .004), and <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">HTN</z:e> (P = .0003) were associated with WMHV </plain></SENT>
+<SENT sid="10" pm="."><plain>Extracranial stenosis was associated with greater WMHV after adjustment for intracranial stenosis (P = .04) </plain></SENT>
+<SENT sid="11" pm="."><plain>In multivariate analysis including extracranial stenosis, only age (P &lt; .0001) and <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">HTN</z:e> (P = .03) demonstrated independent effects on WMHV </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: In our cohort of patients with AIS, age and <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">HTN</z:e> were the strongest determinants of the WMHV severity </plain></SENT>
+<SENT sid="13" pm="."><plain>Future studies are warranted to unravel further association between WMHV and cerebral vessel <z:hpo ids='HP_0002621'>atherosclerosis</z:hpo> </plain></SENT>
+</text></document>

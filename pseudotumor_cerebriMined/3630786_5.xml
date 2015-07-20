@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Four patients are described presenting <z:e sem="disease" ids="C0030353" disease_type="Disease or Syndrome" abbrv="">papilloedema</z:e>, increased pressure and reduced CSF absorption--caused by either <z:e sem="disease" ids="C0037930" disease_type="Neoplastic Process" abbrv="">spinal tumours</z:e>, leptomeningeal <z:e sem="disease" ids="C0205699" disease_type="Neoplastic Process" abbrv="">carcinomatosis</z:e> or <z:hpo ids='HP_0002383'>encephalitis</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Remarkably they <z:hpo ids='HP_0000001'>all</z:hpo> had a <z:mpath ids='MPATH_458'>normal</z:mpath> CT without signs of <z:hpo ids='HP_0000238'>hydrocephalus</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>A 24-hour intracranial pressure monitoring showed a mean pressure of 30-35 mm Hg, recurrent plateau waves and high occurrence of B waves </plain></SENT>
+<SENT sid="3" pm="."><plain>Conductance to CSF outflow studied by a constant perfusion test was severely reduced 0.010-0.026 ml min-1 mm Hg-1 (<z:mpath ids='MPATH_458'>normal</z:mpath> greater than 0.12 ml mm Hg-1 min-1) </plain></SENT>
+<SENT sid="4" pm="."><plain>Despite these findings no ventricular enlargement was seen on serial CT scans </plain></SENT>
+<SENT sid="5" pm="."><plain>The reason therefore remains unknown </plain></SENT>
+<SENT sid="6" pm="."><plain>Disappearance of <z:e sem="disease" ids="C0030353" disease_type="Disease or Syndrome" abbrv="">papilloedema</z:e> and a variable clinical improvement followed shunt-insertion </plain></SENT>
+</text></document>

@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: <z:e sem="disease" ids="C0017551" disease_type="Disease or Syndrome" abbrv="">Gilbert's syndrome</z:e> (GS) is a hereditary deficiency of <z:chebi fb="0" ids="16990">bilirubin</z:chebi> <z:chebi fb="15" ids="17659">UDP</z:chebi>-glucuronosyltransferase (UGT) </plain></SENT>
+<SENT sid="1" pm="."><plain>The aim of this study was to analyze changes in the metabolism of <z:chebi fb="58" ids="46195">paracetamol</z:chebi>, which is primarily eliminated by liver glucuronidation, through urine concentrations of its four principal hepatic metabolites, in persons with GS </plain></SENT>
+<SENT sid="2" pm="."><plain>MATERIAL AND METHODS: Thirty-two healthy volunteers and 18 persons with GS were studied </plain></SENT>
+<SENT sid="3" pm="."><plain>Subjects were given 1.5 g of oral <z:chebi fb="58" ids="46195">paracetamol</z:chebi> </plain></SENT>
+<SENT sid="4" pm="."><plain>Elimination of free <z:chebi fb="58" ids="46195">paracetamol</z:chebi>, as well as derivatives of its conjugation (<z:chebi fb="0" ids="24302">glucuronide</z:chebi>, <z:chebi fb="0" ids="16189">sulfate</z:chebi>) and of its oxidation (cysteine, <z:chebi fb="0" ids="28939">mercapturic acid</z:chebi>), was determined in 24-hour urine by high performance liquid chromatography (HPLC) </plain></SENT>
+<SENT sid="5" pm="."><plain>Results were expressed as a percentage of the total quantity of <z:chebi fb="58" ids="46195">paracetamol</z:chebi> eliminated </plain></SENT>
+<SENT sid="6" pm="."><plain>Patients with GS were divided in two subgroups (GS-I and GS-II) according to whether glucuronidation was greater than or less than 50% </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: Patients with GS showed no significant differences in the urinary elimination of metabolites compared with controls </plain></SENT>
+<SENT sid="8" pm="."><plain>However, the subgroup GS-II showed decreased glucuronidation (p = 0.0012) and increased oxidation (p = 0.0051) compared with the other two groups </plain></SENT>
+<SENT sid="9" pm="."><plain>Moreover, there was an inverse correlation between the <z:chebi fb="0" ids="24302">glucuronide</z:chebi> conjugate and oxidation derivatives (r = 0.08718; p &lt; 0.005) </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSIONS: Persons with GS form a <z:hpo ids='HP_0001425'>heterogeneous</z:hpo> group as far as <z:chebi fb="58" ids="46195">paracetamol</z:chebi> metabolism is concerned </plain></SENT>
+<SENT sid="11" pm="."><plain>In one subgroup metabolism was <z:mpath ids='MPATH_458'>normal</z:mpath> and in the other glucuronication was clearly decreased and oxidation was increased </plain></SENT>
+<SENT sid="12" pm="."><plain>These alterations could make these subjects more susceptible to liver damage after <z:chebi fb="58" ids="46195">paracetamol</z:chebi> overdose </plain></SENT>
+</text></document>

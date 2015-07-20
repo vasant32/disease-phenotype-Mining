@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Erythropoietin (EPO) is a potent neuroprotective agent that could be developed as a new treatment for <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>However, the blood-brain barrier (<z:chebi fb="2" ids="33602">BBB</z:chebi>) is intact in the early hours after <z:hpo ids='HP_0001297'>stroke</z:hpo> when neuroprotection is still possible, and EPO does not cross the intact <z:chebi fb="2" ids="33602">BBB</z:chebi> </plain></SENT>
+<SENT sid="2" pm="."><plain>To enable <z:chebi fb="2" ids="33602">BBB</z:chebi> transport, human EPO was re-engineered as an IgG-EPO fusion protein, wherein the IgG part is a monoclonal antibody (MAb) against the human insulin receptor (HIR) </plain></SENT>
+<SENT sid="3" pm="."><plain>The HIRMAb acts as a <z:chebi fb="2" ids="33602">BBB</z:chebi> molecular Trojan horse to ferry the fused EPO across the <z:chebi fb="2" ids="33602">BBB</z:chebi> via transport on the <z:chebi fb="2" ids="33602">BBB</z:chebi> insulin receptor </plain></SENT>
+<SENT sid="4" pm="."><plain>The HIRMAb part of the HIRMAb-EPO fusion protein does not recognize the rat insulin receptor </plain></SENT>
+<SENT sid="5" pm="."><plain>However, the EPO part of the fusion protein does recognize the rat EPO receptor </plain></SENT>
+<SENT sid="6" pm="."><plain>Therefore, the neuroprotective properties of the HIRMAb-EPO fusion protein were investigated with a permanent middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> model in the rat </plain></SENT>
+<SENT sid="7" pm="."><plain>The HIRMAb-EPO fusion protein was injected into the ipsilateral brain under stereotaxic guidance </plain></SENT>
+<SENT sid="8" pm="."><plain>High doses of the HIRMAb-EPO fusion protein (61pmol) completely eliminated both cortical and sub-cortical infarction </plain></SENT>
+<SENT sid="9" pm="."><plain>Lower doses of the fusion protein (4.5pmol) eliminated the cortical <z:mpath ids='MPATH_124'>infarct</z:mpath> with no significant effect on sub-cortical <z:mpath ids='MPATH_124'>infarct</z:mpath> </plain></SENT>
+<SENT sid="10" pm="."><plain>The neurologic deficit was reduced by 35% and 90%, respectively, by the 4.5 and 61pmol doses of the HIRMAb-EPO fusion protein </plain></SENT>
+<SENT sid="11" pm="."><plain>In conclusion, these studies demonstrate the biological activity of the HIRMAb-EPO fusion protein in the brain in vivo, and that EPO retains neuroprotective properties following fusion to the HIRMAb <z:chebi fb="2" ids="33602">BBB</z:chebi> Trojan horse </plain></SENT>
+</text></document>

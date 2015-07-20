@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We isolated a human leukemic cell line UT-7/GM from UT-7, which can differentiate into mature erythroid cells with erythropoietin (EPO) treatment </plain></SENT>
+<SENT sid="1" pm="."><plain>Using this cell line, we examined the effect of a truncated human EPO receptor (EPOR-T) on EPO-induced erythroid differentiation </plain></SENT>
+<SENT sid="2" pm="."><plain>Transfection studies revealed that UT-7/GM cells expressing exogenous EPOR-T were likely to undergo <z:mpath ids='MPATH_3'>apoptosis</z:mpath> even in the presence of EPO </plain></SENT>
+<SENT sid="3" pm="."><plain>In addition, EPOR-T-transfected cells could not differentiate into <z:chebi fb="0" ids="35143">hemoglobin</z:chebi>-positive cells after administration of EPO </plain></SENT>
+<SENT sid="4" pm="."><plain>These results suggest that EPOR-T is a negative regulator of EPO-induced anti-<z:mpath ids='MPATH_3'>apoptosis</z:mpath> and EPO-induced erythroid differentiation </plain></SENT>
+<SENT sid="5" pm="."><plain>The EPOR-T form was expressed in seven of nine cases of <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo> but not in <z:mpath ids='MPATH_458'>normal</z:mpath> controls </plain></SENT>
+<SENT sid="6" pm="."><plain>In patients with <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo>, dysregulated expression of EPOR-T may cause <z:mpath ids='MPATH_3'>apoptosis</z:mpath> and blockage of erythroid differentiation, resulting in <z:hpo ids='HP_0010972'>ineffective erythropoiesis</z:hpo> </plain></SENT>
+</text></document>

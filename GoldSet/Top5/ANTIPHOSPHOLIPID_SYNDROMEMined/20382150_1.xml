@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The aim of this study was to evaluate the influence on the results of the main variables of ELISA used for the detection of antiphosphatidylethanolamine antibodies (aPE) </plain></SENT>
+<SENT sid="1" pm="."><plain>Forty sera from patients with either <z:hpo ids='HP_0002960'>autoimmune disorders</z:hpo> including <z:e sem="disease" ids="C0085278" disease_type="Disease or Syndrome" abbrv="">antiphospholipid syndrome</z:e> (APS) or the clinical features of APS only were assayed by ELISA performed under different conditions </plain></SENT>
+<SENT sid="2" pm="."><plain>Variables were sources of PE (egg yolk, soybean, bovine brain or Escherichiacoli), microtiter plates (plain or gamma irradiated) and buffer components-fetal calf serum (FCS), adult bovine plasma (ABP), adult bovine serum (ABS) or bovine serum albumin (BSA) </plain></SENT>
+<SENT sid="3" pm="."><plain>aPE binding was decreased with PE from E. coli while the other tested PE gave comparable results </plain></SENT>
+<SENT sid="4" pm="."><plain>The influence of the type of plates was restricted to IgM isotype with slightly, but significantly higher optical densities with plain than with irradiated plates </plain></SENT>
+<SENT sid="5" pm="."><plain>Most importantly, the component buffer had the highest impact on the results as shown by a strong decrease of the signal by ABP or ABS </plain></SENT>
+<SENT sid="6" pm="."><plain>This inhibitory effect was confirmed by using mixtures of FCS or BSA with increasing concentrations of ABS </plain></SENT>
+<SENT sid="7" pm="."><plain>Partial delipidation of ABS resulted in a recovery of OD levels close to those obtained with FCS </plain></SENT>
+<SENT sid="8" pm="."><plain>This study is the first to demonstrate that aPE reactivity is dependent on the <z:chebi fb="23" ids="18059">lipid</z:chebi> concentration of the buffer component </plain></SENT>
+<SENT sid="9" pm="."><plain>These results highlight the need for standardization of aPE-ELISA for a better understanding of their clinical significance </plain></SENT>
+</text></document>

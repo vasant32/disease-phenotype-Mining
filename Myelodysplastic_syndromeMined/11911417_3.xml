@@ -1,0 +1,6 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Recent reports have highlighted an associated of pure red cell <z:mpath ids='MPATH_58'>aplasia</z:mpath> (PRCA) with <z:hpo ids='HP_0002863'>myelodysplasia</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e>) </plain></SENT>
+<SENT sid="1" pm="."><plain>There are minimal data on the response of PRCA in this context to immunosuppression; in particular the role of <z:chebi fb="0" ids="4031">cyclosporin A</z:chebi> (CSA) has not been evaluated </plain></SENT>
+<SENT sid="2" pm="."><plain>We describe a patient with PRCA/<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> in whom CSA and low dose <z:chebi fb="2" ids="8378">prednisolone</z:chebi> led to restoration of marrow erythropoietic activity </plain></SENT>
+<SENT sid="3" pm="."><plain>Tests indicated the PRCA was likely to be mediated by cytotoxic lymphocytes rather than an inhibitory effect of cytokines </plain></SENT>
+<SENT sid="4" pm="."><plain>These observations suggest that CSA, due to its suppressive effect on cytotoxic T cell activity, is a rational therapy in this context </plain></SENT>
+</text></document>

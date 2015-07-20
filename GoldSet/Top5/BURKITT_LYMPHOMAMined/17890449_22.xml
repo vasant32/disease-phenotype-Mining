@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Human herpesvirus-8 (HHV-8), also known as Kaposi <z:hpo ids='HP_0100242'>sarcoma</z:hpo>-associated herpesvirus (KSHV), is etiologically linked to primary effusion <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (PEL) </plain></SENT>
+<SENT sid="1" pm="."><plain>At least 10 KSHV-encoded proteins with potential roles in KSHV-associated <z:hpo ids='HP_0002664'>neoplasia</z:hpo> have been identified </plain></SENT>
+<SENT sid="2" pm="."><plain>However, with few exceptions, these putative oncogenes were analyzed in heterologous systems only using overexpression of single genes </plain></SENT>
+<SENT sid="3" pm="."><plain>Thus, the pathogenetic relevance of most of these putative oncogenes remains essentially unclear </plain></SENT>
+<SENT sid="4" pm="."><plain>We used <z:chebi fb="40" ids="33697">RNA</z:chebi> interference (RNAi) to knock down the expression of several KSHV genes in cultured PEL cells carrying the KSHV genome </plain></SENT>
+<SENT sid="5" pm="."><plain>The <z:mp ids='MP_0001799'>viral</z:mp> interferon-regulatory factor-3 (vIRF-3) was found to be required for proliferation and survival of cultured PEL cells </plain></SENT>
+<SENT sid="6" pm="."><plain>Knock-down of vIRF-3 expression by various RNAi approaches unequivocally resulted in reduced proliferation and increased activity of caspase-3 and/or caspase-7 </plain></SENT>
+<SENT sid="7" pm="."><plain>Thus, vIRF-3 can be seen as a bona fide oncogene of KSHV-associated <z:hpo ids='HP_0002665'>lymphoma</z:hpo> </plain></SENT>
+<SENT sid="8" pm="."><plain>Surprisingly, although the related Epstein-Barr virus (EBV) is usually sufficient to immortalize human B lymphocytes, silencing of vIRF-3 reduced the viability of both EBV(-) and EBV(+) PEL cells </plain></SENT>
+<SENT sid="9" pm="."><plain>This suggests that KSHV is the driving force in the pathogenesis of PEL </plain></SENT>
+</text></document>

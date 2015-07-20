@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We tested the effects of insulin, on production of NO-related substances (<z:chebi fb="95" ids="16301">nitrites</z:chebi> and nitrates, NOx) following (15)N-arginine iv infusion, and on ADMA and SDMA concentrations, in conditions reportedly associated with altered NO availability, i.e. ageing, <z:hpo ids='HP_0000822'>hypertension</z:hpo>, <z:hpo ids='HP_0003124'>hypercholesterolemia</z:hpo>, and Type-2 <z:mp ids='MP_0002055'>Diabetes</z:mp> (T2DM) </plain></SENT>
+<SENT sid="1" pm="."><plain>A total of 26 male subjects (age: 23-71 yrs, BMI: 23-33 kg/m(2)), some of them affected by mixed pathologic features, were enrolled </plain></SENT>
+<SENT sid="2" pm="."><plain>NOx fractional synthesis rate (FSR) was lower in elderly (p&lt;0.015) and T2DM subjects p&lt;0.03), than in matched controls </plain></SENT>
+<SENT sid="3" pm="."><plain><z:hpo ids='HP_0000842'>Hyperinsulinemia</z:hpo> generally increased both NOx FSR and ASR (Absolute Synthesis Rate), and reduced NOx, ADMA and SDMA concentrations </plain></SENT>
+<SENT sid="4" pm="."><plain>Insulin-sensitivity was impaired only in T2DM </plain></SENT>
+<SENT sid="5" pm="."><plain>Using simple linear regression analysis across <z:hpo ids='HP_0000001'>all</z:hpo> subjects, age was inversely correlated with both NOx FSR (R(2) = 0.23, p&lt;0.015) and ASR (R(2) = 0.21, p&lt;0.02) </plain></SENT>
+<SENT sid="6" pm="."><plain>NOx FSR inversely correlated with both ADMA and SDMA </plain></SENT>
+<SENT sid="7" pm="."><plain>Using multiple regression analysis and various models, NOx FSR remained inversely associated with age and ADMA, whereas ASR was inversely associated with age and <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="8" pm="."><plain>No association with insulin sensitivity was found </plain></SENT>
+<SENT sid="9" pm="."><plain>We conclude that whole-body NOx production is decreased in ageing and T2DM </plain></SENT>
+<SENT sid="10" pm="."><plain>Age, ADMA concentration and T2DM, but not <z:hpo ids='HP_0000855'>insulin-resistance</z:hpo>, appear as negative regulators of whole-body NOx production </plain></SENT>
+</text></document>

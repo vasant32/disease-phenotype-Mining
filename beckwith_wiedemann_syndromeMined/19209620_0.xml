@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Opposite (epi)mutations affecting the imprinted region 11p15 are associated with Silver-Russell (SRS) and <z:e sem="disease" ids="C0004903" disease_type="Disease or Syndrome;Congenital Abnormality" abbrv="">Beckwith-Wiedemann syndrome</z:e> (BWS) </plain></SENT>
+<SENT sid="1" pm="."><plain>Apart from other disturbances more than 35% of patients with SRS show hypomethylation at the imprinting control region 1 (ICR1) in 11p15 </plain></SENT>
+<SENT sid="2" pm="."><plain>ICR1 is paternally methylated and regulates the expression of the paternally expressed growth factor IGF2 and the maternally expressed gene H19 </plain></SENT>
+<SENT sid="3" pm="."><plain>The exact function of the non-coding <z:chebi fb="40" ids="33697">RNA</z:chebi> H19 is still unknown </plain></SENT>
+<SENT sid="4" pm="."><plain>However, the finding that this gene is highly conserved in mammals indicates profound functional relevance </plain></SENT>
+<SENT sid="5" pm="."><plain>Due to the supposed function of H19 in the regulation of the imprinted region 11p15 we searched for mutations in the transcribed sequence and the CTCF binding sites of H19 in 44 patients with SRS </plain></SENT>
+<SENT sid="6" pm="."><plain>In two cases different 3 base-pair (bp) deletions in exon 1 could be identified </plain></SENT>
+<SENT sid="7" pm="."><plain>A third patient carried a 39 bp duplication affecting exon 2 and intron 2 </plain></SENT>
+<SENT sid="8" pm="."><plain>These three variants were not detected in 100 controls and 42 patients with isolated <z:hpo ids='HP_0001510'>growth retardation</z:hpo> </plain></SENT>
+<SENT sid="9" pm="."><plain>One of the patients carrying a mutation also showed hypomethylation at the ICR1 in 11p15 </plain></SENT>
+<SENT sid="10" pm="."><plain>Splicing studies in HEK cells transfected with constructs carrying the three different variants revealed a deviation from the <z:mpath ids='MPATH_458'>normal</z:mpath> H19 splicing pattern in two of these individuals </plain></SENT>
+<SENT sid="11" pm="."><plain>However, analysis of lymphocytes of one of these two patients did not verify an altered expression pattern of H19 </plain></SENT>
+<SENT sid="12" pm="."><plain>Nevertheless, our results indicate a relevant role of H19 in the aetiology of SRS: functional effects of these variants on chromatin restructuring of the ICR1, or altered function of H19 as a posttranslational modifying factor (microRNA/antisense <z:chebi fb="40" ids="33697">RNA</z:chebi>) are conceivable </plain></SENT>
+</text></document>

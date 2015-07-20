@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Galantamine is a reversible inhibitor of acetylcholinesterase and an allosteric-potentiating ligand of the nicotinic <z:chebi fb="9" ids="15355">acetylcholine</z:chebi> receptors </plain></SENT>
+<SENT sid="1" pm="."><plain>It is used for treating mild-to-moderate <z:e sem="disease" ids="C0002395" disease_type="Disease or Syndrome" abbrv="SDAT">Alzheimer's disease</z:e> </plain></SENT>
+<SENT sid="2" pm="."><plain>Interestingly, QT interval prolongation on the electrocardiogram (ECG), malignant <z:hpo ids='HP_0004308'>ventricular arrhythmias</z:hpo> and <z:hpo ids='HP_0001279'>syncope</z:hpo> have been reported with galantamine </plain></SENT>
+<SENT sid="3" pm="."><plain>Our objective was to evaluate the effects of galantamine on cardiac ventricular repolarization </plain></SENT>
+<SENT sid="4" pm="."><plain>Three sets of experiments were undertaken: 1) Whole cell patch-clamp experiments: HERG- or KCNQ1+KCNE1-transfected cells were exposed to galantamine 0.1-1000 μmol/l (n=25 cells, total) to assess drug effect on HERG and KCNQ1+KCNE1 currents </plain></SENT>
+<SENT sid="5" pm="."><plain>2) Langendorff perfusion experiments: Isolated hearts from male Hartley guinea pigs (n=9) were exposed to galantamine 1 μmol/l to assess drug-induced prolongation of monophasic action potential duration measured at 90% repolarization (MAPD(90)) </plain></SENT>
+<SENT sid="6" pm="."><plain>3) Cardiac telemetry experiments: Guinea pigs (n=7) implanted with wireless transmitters were injected a single intraperitoneal (i.p.) dose of galantamine 3mg/kg and 24h ECG recordings were made </plain></SENT>
+<SENT sid="7" pm="."><plain>1) The estimated IC(50) for galantamine on HERG current was 760.2 μmol/l </plain></SENT>
+<SENT sid="8" pm="."><plain>Moreover, galantamine 10 μmol/l had a small inhibiting effect on KCNQ1+KCNE1 current (12.17 ± 2.19% inhibition, n=10 cells) </plain></SENT>
+<SENT sid="9" pm="."><plain>2) While pacing at cycle lengths of 150, 200 or 250 ms, galantamine 1 μmol/l prolonged MAPD(90) by respectively 5.1 ± 1.6 ms, 9.4 ± 1.9 ms and 12.1 ± 2.1 ms </plain></SENT>
+<SENT sid="10" pm="."><plain>3) Galantamine 3 mg/kgi.p. caused a maximal 11.9 ± 2.7 ms prolongation of the corrected QT (QTc) </plain></SENT>
+<SENT sid="11" pm="."><plain>Galantamine is a weak HERG blocker </plain></SENT>
+<SENT sid="12" pm="."><plain>This contributes to its mild QT-prolonging effect </plain></SENT>
+<SENT sid="13" pm="."><plain>Patients could be at risk of cardiac proarrhythmia during drug overdosage or interactions involving <z:chebi fb="0" ids="4056">cytochrome</z:chebi> 2D6 drug-metabolizing enzyme </plain></SENT>
+</text></document>

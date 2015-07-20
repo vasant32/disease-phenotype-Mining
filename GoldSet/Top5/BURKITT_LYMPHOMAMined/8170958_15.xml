@@ -1,0 +1,5 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:chebi fb="7" ids="16670">Peptide</z:chebi> ligands for the antigen binding site of the surface immunoglobulin receptor of a human B-cell <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cell line were identified with the use of filamentous phage libraries displaying random 8- and 12-amino acid <z:chebi fb="7" ids="16670">peptides</z:chebi> </plain></SENT>
+<SENT sid="1" pm="."><plain>Corresponding synthetic <z:chebi fb="7" ids="16670">peptides</z:chebi> bound specifically to the antigen binding site of this immunoglobulin receptor and blocked the binding of an anti-idiotype antibody </plain></SENT>
+<SENT sid="2" pm="."><plain>The ligands, when conjugated to form dimers or tetramers, induced cell <z:hpo ids='HP_0011420'>death</z:hpo> by <z:mpath ids='MPATH_3'>apoptosis</z:mpath> in vitro with an IC50 between 40 and 200 nM </plain></SENT>
+<SENT sid="3" pm="."><plain>This effect was associated with specific stimulation of intracellular protein tyrosine phosphorylation </plain></SENT>
+</text></document>

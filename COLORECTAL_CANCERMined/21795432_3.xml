@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PURPOSE: For patients with <z:e sem="disease" ids="C0948380" disease_type="Neoplastic Process" abbrv="">metastatic colorectal cancer</z:e> (mCRC), no standard therapy exists after progression on <z:chebi fb="0" ids="46345">5-fluorouracil</z:chebi>, <z:chebi fb="0" ids="31941">oxaliplatin</z:chebi>, irinotecan, bevacizumab, and cetuximab or panitumumab </plain></SENT>
+<SENT sid="1" pm="."><plain>Preclinical data demonstrated that combined vascular endothelial growth factor and mammalian target of <z:chebi fb="0" ids="9168">rapamycin</z:chebi> inhibition has greater antiangiogenic and antitumor activity than either monotherapy </plain></SENT>
+<SENT sid="2" pm="."><plain>A phase I study of bevacizumab plus everolimus demonstrated that the combination is safe; activity was seen in several patients with refractory mCRC </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: Fifty patients with refractory mCRC were enrolled and received bevacizumab at 10 mg/kg every 2 weeks and everolimus at 10 mg orally daily </plain></SENT>
+<SENT sid="4" pm="."><plain>RESULTS: Of the 50 patients enrolled, the median age was 56 years and the median number of prior regimens was four </plain></SENT>
+<SENT sid="5" pm="."><plain>Forty-seven patients (96%) had prior bevacizumab exposure and 42 patients (84%) had documented progression on prior bevacizumab-based therapy </plain></SENT>
+<SENT sid="6" pm="."><plain>Forty-nine patients were evaluable for response; eight patients had minor responses (16%) and an additional 15 patients (30%) had stable disease (SD) </plain></SENT>
+<SENT sid="7" pm="."><plain>No complete or partial responses were seen </plain></SENT>
+<SENT sid="8" pm="."><plain>The median progression-free survival interval was 2.3 months; however, 26% of patients achieved prolonged SD for ≥6 months, and three patients (6%) were on study for &gt;1 year </plain></SENT>
+<SENT sid="9" pm="."><plain>The median overall survival duration was 8.1 months </plain></SENT>
+<SENT sid="10" pm="."><plain>The most common grade 1-2 toxicities were mucositis (68%) and <z:hpo ids='HP_0003077'>hyperlipidemia</z:hpo> (64%) </plain></SENT>
+<SENT sid="11" pm="."><plain>Clinically significant grade ≥3 toxicities included <z:hpo ids='HP_0000822'>hypertension</z:hpo> (14%), <z:mpath ids='MPATH_70'>fistula</z:mpath>/<z:mpath ids='MPATH_612'>abscess</z:mpath>/<z:mpath ids='MPATH_81'>perforation</z:mpath> (8%), mucositis (6%), and <z:mp ids='MP_0001914'>hemorrhage</z:mp> (2%) </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: Bevacizumab plus everolimus is generally tolerable but may have risks related to mucosal damage and/or wound healing </plain></SENT>
+<SENT sid="13" pm="."><plain>Bevacizumab plus everolimus appears to have modest activity in refractory mCRC in patients </plain></SENT>
+</text></document>

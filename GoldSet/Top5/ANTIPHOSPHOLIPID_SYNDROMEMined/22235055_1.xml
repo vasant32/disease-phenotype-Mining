@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Adjuvants may induce <z:hpo ids='HP_0002960'>autoimmune diseases</z:hpo> in susceptible individuals, a phenomenon recently defined as autoimmune/inflammatory syndrome induced by adjuvants (ASIA) </plain></SENT>
+<SENT sid="1" pm="."><plain>Patients with both <z:hpo ids='HP_0003613'>antiphospholipid antibodies</z:hpo> (aPL) and the genetic <z:hpo ids='HP_0003256'>coagulopathy</z:hpo> factor V Leiden (FVL) are frequently found </plain></SENT>
+<SENT sid="2" pm="."><plain>We therefore evaluated whether adjuvant can induce aPL in heterozygous FVL mice </plain></SENT>
+<SENT sid="3" pm="."><plain>aPL were measured in naïve mice and at 1 and 5 months after immunization with either complete or incomplete Freund's adjuvant (CFA, IFA) in FVL and control C57/B6 background mice </plain></SENT>
+<SENT sid="4" pm="."><plain>We defined antibody levels 3 SD above the mean of C57/B6 mice immunized with adjuvant as positive (specificity of 99%) </plain></SENT>
+<SENT sid="5" pm="."><plain>For β(2)GPI-dependent aPL, 28.6% (6/21) of FVL mice 5 months after immunization with adjuvant (both IFA and CFA) were positive compared with 4.8% (1/22) of FVL mice 1 month after adjuvant and 0% of naïve FVL and C57/B6 mice (0/16, p &lt; 0.001) </plain></SENT>
+<SENT sid="6" pm="."><plain>aPL levels correlated with behavioral <z:hpo ids='HP_0000752'>hyperactivity</z:hpo> in the staircase test </plain></SENT>
+<SENT sid="7" pm="."><plain>FVL mice immunized with adjuvant did not develop β(2)GPI-independent aPL </plain></SENT>
+<SENT sid="8" pm="."><plain>We hypothesize that the FVL aPL association is not a coincidence, but that <z:hpo ids='HP_0011010'>chronic</z:hpo> <z:e sem="disease" ids="C0005779" disease_type="Disease or Syndrome" abbrv="">coagulation defects</z:e> combined with external inflammatory stimuli analogous to adjuvant may induce aPL and also <z:e sem="disease" ids="C0085278" disease_type="Disease or Syndrome" abbrv="">antiphospholipid syndrome</z:e>, thus supporting the notion of ASIA </plain></SENT>
+</text></document>

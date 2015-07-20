@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:e sem="disease" ids="C0265110" disease_type="Disease or Syndrome" abbrv="">Cerebral vasospasm</z:e> (CVS) is the main complication of spontaneous <z:hpo ids='HP_0002138'>subarachnoid hemorrhage</z:hpo> (SAH), severely affecting clinical outcome of patients with SAH </plain></SENT>
+<SENT sid="1" pm="."><plain><z:chebi fb="0" ids="39015">Apolipoprotein</z:chebi> E gene (APOE) is associated with prognosis of spontaneous <z:hpo ids='HP_0002138'>subarachnoid hemorrhage</z:hpo> (SAH), and APOEε4 allele is reported to be apt to CVS after SAH </plain></SENT>
+<SENT sid="2" pm="."><plain>The current study aimed to investigate the association of APOE polymorphisms with CVS after SAH </plain></SENT>
+<SENT sid="3" pm="."><plain>One hundred and eighty-five patients with spontaneous SAH were recruited in the study </plain></SENT>
+<SENT sid="4" pm="."><plain>APOE genotypes were determined by polymerase chain reaction-restriction fragment length polymorphism (PCR-RFLP) </plain></SENT>
+<SENT sid="5" pm="."><plain>CVS was judged by Transcranial Doppler sonography (TCD) combined with patients' condition. χ2-test and logistic regression analysis were done by SPSS (version 11.5) </plain></SENT>
+<SENT sid="6" pm="."><plain>The distributions of APOE genotypes and alleles matched Hardy-Weinberg Law </plain></SENT>
+<SENT sid="7" pm="."><plain>In 185 patients, 21 of 32 (65.7%) patients with APOEε4 allele showed CVS, which was significantly different from those without APOE ε4 allele (56 of 153 patients, 36.6%, P=0.022) </plain></SENT>
+<SENT sid="8" pm="."><plain>However, neither the presence of ε2 nor ε3 was significantly different from those absent of it (P&gt;0.05) </plain></SENT>
+<SENT sid="9" pm="."><plain>Logistic regression analysis demonstrated that ApoEε4 allele was a risk factor (OR=2.842 </plain></SENT>
+<SENT sid="10" pm="."><plain>95% CI 1.072-6.124 </plain></SENT>
+<SENT sid="11" pm="."><plain>P=0.019) to predispose to CVS after adjusting for age, sex, <z:hpo ids='HP_0000822'>hypertension</z:hpo> or not, <z:mp ids='MP_0001548'>hyperlipemia</z:mp> or not, Fisher grade, and Hunt-Hess grade after SAH </plain></SENT>
+<SENT sid="12" pm="."><plain>Our finding suggests that the patients with APOEε4 allele predispose to CVS after spontaneous SAH </plain></SENT>
+</text></document>

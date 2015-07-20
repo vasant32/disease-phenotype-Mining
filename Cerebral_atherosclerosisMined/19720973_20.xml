@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: There is growing evidence that vascular risk factors (VRF) contribute to <z:hpo ids='HP_0001268'>cognitive decline</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Whether their treatment can slow down the progression of <z:hpo ids='HP_0002511'>Alzheimer disease</z:hpo> (AD) remains unsettled </plain></SENT>
+<SENT sid="2" pm="."><plain>The aim of this observational study was to evaluate whether the treatment of VRF is associated with a slower <z:hpo ids='HP_0001268'>cognitive decline</z:hpo> in patients who have AD without cerebrovascular disease (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CVD</z:e>) </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: We recruited 301 consecutive patients who had AD without <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CVD</z:e> (mean age 71.7 years; 69.4% women; first Mini-Mental State Examination [MMSE] mean score 21.6; mean follow-up 2.3 years), who had attended a memory clinic between 1997 and 2003 </plain></SENT>
+<SENT sid="4" pm="."><plain>VRF sought were <z:mp ids='MP_0002842'>high blood pressure</z:mp>, <z:e sem="disease" ids="C0242339" disease_type="Disease or Syndrome" abbrv="">dyslipidemia</z:e>, <z:hpo ids='HP_0000819'>diabetes mellitus</z:hpo>, tobacco smoking, and atherosclerotic disease </plain></SENT>
+<SENT sid="5" pm="."><plain>Only 21 patients (7.0%) had no VRF </plain></SENT>
+<SENT sid="6" pm="."><plain>Others were classified as having no VRF treated (n = 72; 25.7%), some VRF treated (n = 119; 42.5%), or <z:hpo ids='HP_0000001'>all</z:hpo> VRF treated (n = 89; 31.8%) </plain></SENT>
+<SENT sid="7" pm="."><plain>We compared MMSE progression over time among these 3 groups using a mixed random effects regression model </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: Baseline MMSE scores were similar in the 3 groups </plain></SENT>
+<SENT sid="9" pm="."><plain>With adjustment for confounding factors, MMSE progression over time differed significantly between groups (p = 0.002) </plain></SENT>
+<SENT sid="10" pm="."><plain>Patients with <z:hpo ids='HP_0000001'>all</z:hpo> their VRF treated declined less than those with none of their VRF treated </plain></SENT>
+<SENT sid="11" pm="."><plain>Those with some VRF treated tended to have an intermediate decline </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: In patients who have <z:hpo ids='HP_0002511'>Alzheimer disease</z:hpo> without <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CVD</z:e>, treatment of vascular risk factors (VRF) is associated with a slower decline in Mini-Mental State Examination score </plain></SENT>
+<SENT sid="13" pm="."><plain>Randomized controlled trials are needed to confirm this association, but our data suggest that <z:hpo ids='HP_0000726'>dementia</z:hpo> should not prevent treatment of VRF </plain></SENT>
+</text></document>

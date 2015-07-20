@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Interferon regulatory factor-1 (IRF-1) acts as a transcriptional activator in the interferon system and as a <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> suppressor </plain></SENT>
+<SENT sid="1" pm="."><plain>The loss of functional IRF-1 has been observed in a significant number of patients with <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e>) and <z:hpo ids='HP_0001909'>leukemia</z:hpo>, suggesting a potentially critical role of IRF-1 in human oncostasis </plain></SENT>
+<SENT sid="2" pm="."><plain>Here we report an alternative mechanism by which IRF-1 may be inactivated </plain></SENT>
+<SENT sid="3" pm="."><plain>We purified an IRF-1 association molecule which was revealed to be identical to a nuclear factor nucleophosmin (NPM)/B23/numatrin </plain></SENT>
+<SENT sid="4" pm="."><plain>Functional analysis showed that NPM inhibited the DNA-binding and transcriptional activity of IRF-1 </plain></SENT>
+<SENT sid="5" pm="."><plain>Moreover, NPM was overexpressed in several clinical <z:hpo ids='HP_0001909'>leukemia</z:hpo> samples and human-derived <z:hpo ids='HP_0001909'>leukemia</z:hpo> cell lines </plain></SENT>
+<SENT sid="6" pm="."><plain>Finally, overexpression of NPM in NIH3T3 cells resulted in <z:e sem="disease" ids="C1608408" disease_type="Neoplastic Process" abbrv="">malignant transformation</z:e> </plain></SENT>
+<SENT sid="7" pm="."><plain>These results suggest the possible involvement of NPM in inactivating IRF-1-dependent anti-oncogenic surveillance in human <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> development </plain></SENT>
+</text></document>

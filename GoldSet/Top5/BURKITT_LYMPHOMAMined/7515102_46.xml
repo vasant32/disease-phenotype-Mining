@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>CD40 plays an important role in B cell activation, proliferation, and Ig class switching </plain></SENT>
+<SENT sid="1" pm="."><plain>The signal transduction pathway mediated by CD40 was studied using monoclonal antibody (mAb) 626.1 to CD40 </plain></SENT>
+<SENT sid="2" pm="."><plain>Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> and Epstein-Barr virus-transformed B cell lines and tonsilar B lymphocytes were treated with the anti-CD40 mAb for various lengths of time </plain></SENT>
+<SENT sid="3" pm="."><plain>The early events triggered by CD40 were examined by monitoring the changes in tyrosine phosphorylation of cellular proteins with anti-phosphotyrosine mAb </plain></SENT>
+<SENT sid="4" pm="."><plain>Dephosphorylation of specific proteins ranging between 50-110 kD and the appearance of a 28-kD tyrosine phosphorylated protein were seen within 30 s in human B cell lines </plain></SENT>
+<SENT sid="5" pm="."><plain>The dephosphorylation was reversed and the 28-kD protein was dephosphorylated in cells stimulated for 1 min </plain></SENT>
+<SENT sid="6" pm="."><plain>In resting B cells, the appearance of the 28-kD phosphoprotein was observed in 30 s after the addition of the anti-CD40 mAb </plain></SENT>
+<SENT sid="7" pm="."><plain>The tyrosine phosphorylation of this protein persisted </plain></SENT>
+<SENT sid="8" pm="."><plain>The patterns of protein tyrosine phosphorylation differed from those induced by an anti-immunoglobulin M mAb </plain></SENT>
+<SENT sid="9" pm="."><plain>The changes in the state of tyrosine phosphorylation induced by the anti-CD40 mAb were obviated by mAb to CD45, a protein tyrosine phosphatase (<z:chebi fb="0" ids="52242">PTP</z:chebi>) or by the addition of <z:chebi fb="199" ids="26708">sodium</z:chebi> orthovanadate, a broad <z:chebi fb="0" ids="52242">PTP</z:chebi> inhibitor </plain></SENT>
+<SENT sid="10" pm="."><plain>They were also blocked by protein tyrosine kinase (PTK) inhibitors, herbimycin A and <z:chebi fb="0" ids="28088">genistein</z:chebi>, and PKC and protein serine/threonine kinase inhibitors, H7 and HA1004 </plain></SENT>
+<SENT sid="11" pm="."><plain>In addition, the alteration in the tyrosine phosphorylation of PTKs Lyn, Fyn, and Syk was directly demonstrated </plain></SENT>
+<SENT sid="12" pm="."><plain>Engagement of CD40 for 30 s induced a transient decrease in tyrosine phosphorylation of these PTKs </plain></SENT>
+<SENT sid="13" pm="."><plain>These results indicate that the early events in CD40 signaling involve the complex interaction between <z:chebi fb="0" ids="52242">PTP</z:chebi> and protein kinases </plain></SENT>
+</text></document>

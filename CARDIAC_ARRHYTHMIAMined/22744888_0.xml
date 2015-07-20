@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Drug-induced QT prolongation usually leads to <z:hpo ids='HP_0001664'>torsade de pointes</z:hpo> (TdP), thus for drugs in the early phase of development this risk should be evaluated </plain></SENT>
+<SENT sid="1" pm="."><plain>In the present study, we demonstrated a visualized transgenic zebrafish as an in vivo high-throughput model to assay the risk of drug-induced QT prolongation </plain></SENT>
+<SENT sid="2" pm="."><plain>Zebrafish larvae 48 h post-fertilization expressing green fluorescent protein in myocardium were incubated with compounds reported to induce QT prolongation or block the human <z:chebi fb="91" ids="25698">ether</z:chebi>-a-go-go-related gene (hERG) K⁺ current </plain></SENT>
+<SENT sid="3" pm="."><plain>The compounds sotalol, indapaminde, <z:chebi fb="2" ids="42355,48923">erythromycin</z:chebi>, ofoxacin, levofloxacin, <z:chebi fb="0" ids="9212">sparfloxacin</z:chebi> and <z:chebi fb="0" ids="32109">roxithromycin</z:chebi> were additionally administrated by microinjection into the larvae yolk sac </plain></SENT>
+<SENT sid="4" pm="."><plain>The ventricle heart rate was recorded using the automatic monitoring system after incubation or microinjection </plain></SENT>
+<SENT sid="5" pm="."><plain>As a result, 14 out of 16 compounds inducing dog QT prolongation caused <z:hpo ids='HP_0001662'>bradycardia</z:hpo> in zebrafish </plain></SENT>
+<SENT sid="6" pm="."><plain>A similar result was observed with 21 out of 26 compounds which block hERG current </plain></SENT>
+<SENT sid="7" pm="."><plain>Among the 30 compounds which induced human QT prolongation, 25 caused <z:hpo ids='HP_0001662'>bradycardia</z:hpo> in this model </plain></SENT>
+<SENT sid="8" pm="."><plain>Thus, the risk of compounds causing <z:hpo ids='HP_0001662'>bradycardia</z:hpo> in this transgenic zebrafish correlated with that causing QT prolongation and hERG K⁺ current blockage in established models </plain></SENT>
+<SENT sid="9" pm="."><plain>The tendency that high logP values lead to high risk of QT prolongation in this model was indicated, and non-sensitivity of this model to <z:chebi fb="0" ids="33282">antibacterial agents</z:chebi> was revealed </plain></SENT>
+<SENT sid="10" pm="."><plain>These data suggest application of this transgenic zebrafish as a high-throughput model to screen QT prolongation-related cardio toxicity of the drug candidates </plain></SENT>
+</text></document>

@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PURPOSE: To determine the maximum tolerated dose and safety of the epothilone, KOS-862, in patients with advanced <z:e sem="disease" ids="C0280100" disease_type="Neoplastic Process" abbrv="">solid tumors</z:e> or <z:hpo ids='HP_0002665'>lymphoma</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>PATIENTS AND METHODS: Patients were treated weekly for 3 out of 4 weeks (Schedule A) or 2 out of 3 weeks (Schedule B) with KOS-862 (16-120 mg/m(2)) </plain></SENT>
+<SENT sid="2" pm="."><plain>Pharmacokinetic (PK) sampling was performed during cycles 1 and 2; pharmacodynamic (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">PD</z:e>) assessment for microtubule bundle formation (MTBF) was performed after the 1st dose, only at or above 100 mg/m(2) </plain></SENT>
+<SENT sid="3" pm="."><plain>RESULTS: Thirty-two patients were enrolled, and twenty-nine completed ≥1 cycle of therapy </plain></SENT>
+<SENT sid="4" pm="."><plain>Dose limiting toxicity [DLT] was observed at 120 mg/m(2) </plain></SENT>
+<SENT sid="5" pm="."><plain>PK data were linear from 16 to 100 mg/m(2), with proportional increases in mean C(max) and AUC(tot) as a function of dose </plain></SENT>
+<SENT sid="6" pm="."><plain>Full PK analysis (mean ± SD) at 100 mg/m(2) revealed the following: half-life (t (½)) = 9.1 ± 2.2 h; volume of distribution (V(z)) = 119 ± 41 L/m(2); clearance (CL) = 9.3 ± 3.2 L/h/m(2) </plain></SENT>
+<SENT sid="7" pm="."><plain>MTBF (n = 9) was seen in 40% of PBMCs within 1 h and in 15% of PBMC at 24-hours post infusion at 100 mg/m(2) </plain></SENT>
+<SENT sid="8" pm="."><plain><z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">Tumor</z:e> shrinkage (n = 2, <z:hpo ids='HP_0002665'>lymphoma</z:hpo>), stable disease &gt;3 months (n = 5, renal, prostate, oropharynx, <z:mpath ids='MPATH_354'>cholangiocarcinoma</z:mpath>, and Hodgkin <z:hpo ids='HP_0002665'>lymphoma</z:hpo>), and <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> marker reductions (n = 1, <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e>/CEA) were observed </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSION: KOS-862 was well tolerated with manageable toxicity, favorable PK profile, and the suggestion of clinical activity </plain></SENT>
+<SENT sid="10" pm="."><plain>The maximum tolerated dose was determined to be 100 mg/m(2) weekly 3-on/1-off </plain></SENT>
+<SENT sid="11" pm="."><plain>MTBF can be demonstrated in PBMCs of patients exposed to KOS-862 </plain></SENT>
+</text></document>

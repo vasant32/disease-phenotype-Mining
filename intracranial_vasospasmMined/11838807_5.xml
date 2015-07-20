@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECT: The value of transcranial Doppler ultrasonography for the detection of middle cerebral artery (<z:chebi fb="70" ids="34342">MCA</z:chebi>) spasm has been asserted </plain></SENT>
+<SENT sid="1" pm="."><plain>None of the published studies, however, has adequately scrutinized the overall diagnostic accuracy of this procedure </plain></SENT>
+<SENT sid="2" pm="."><plain>There are only <z:hpo ids='HP_0003745'>sporadic</z:hpo> reports concerning the utility of transcranial color Doppler (TCCD) ultrasonography, although this method has been proved to be more precise </plain></SENT>
+<SENT sid="3" pm="."><plain>In this study the authors attempted to estimate the performance of TCCD ultrasonography in detecting <z:chebi fb="70" ids="34342">MCA</z:chebi> narrowing by using receiver operating characteristic (ROC) curve analysis, based on TCCD studies obtained in a relatively large, randomly selected population of patients </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS: Transcranial color Doppler ultrasonography studies were obtained in 100 consecutive patients (54 men and 46 women ages 18-74 years, median age 50 years) routinely referred by neurosurgeons for intraarterial angiography </plain></SENT>
+<SENT sid="5" pm="."><plain>The M1 segment of the <z:chebi fb="70" ids="34342">MCA</z:chebi> was insonated using a 2.5-MHz probe via a temporal acoustic window, and angle-corrected flow velocities were obtained </plain></SENT>
+<SENT sid="6" pm="."><plain>Angiographically depicted vasospasm was graded as none, mild (&lt; or = 25% vessel caliber reduction), and moderate to severe (&gt; 25% vessel caliber reduction) </plain></SENT>
+<SENT sid="7" pm="."><plain>The effectiveness of TCCD ultrasonography in diagnosing <z:chebi fb="70" ids="34342">MCA</z:chebi> spasm was evaluated by calculating the areas under the ROC curves (Az) </plain></SENT>
+<SENT sid="8" pm="."><plain>Of the 200 MCAs examined, 173 were successfully visualized with the aid of TCCD ultrasonography </plain></SENT>
+<SENT sid="9" pm="."><plain>Mild vasospasm was angiographically diagnosed in 15 arteries and moderate-to-severe vasospasm in 28 </plain></SENT>
+<SENT sid="10" pm="."><plain>The best-performing TCCD parameter for the detection of <z:chebi fb="70" ids="34342">MCA</z:chebi> narrowing was revealed to be peak systolic velocity </plain></SENT>
+<SENT sid="11" pm="."><plain>The Az value for moderate-to-severe vasospasm only was 0.93 and that for <z:hpo ids='HP_0000001'>all</z:hpo> vasospasms was 0.8 </plain></SENT>
+<SENT sid="12" pm="."><plain>The best efficiency, that is, the optimal tradeoff between sensitivity and specificity in diagnosing vasospasms, was associated with a peak systolic velocity of 182 cm/second </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSIONS: The performance of TCCD ultrasonography in the diagnosis of advanced <z:chebi fb="70" ids="34342">MCA</z:chebi> narrowing is very good, and is acceptable for <z:hpo ids='HP_0000001'>all</z:hpo> vasospasms </plain></SENT>
+<SENT sid="14" pm="."><plain>The best-performing parameter was peak systolic velocity </plain></SENT>
+</text></document>

@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>C-MOPP is a chemotherapy regimen for the treatment of Non-Hodgkin <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (NHL) </plain></SENT>
+<SENT sid="1" pm="."><plain>Because rituximab improves results in B-cell NHL, we added rituximab to C-MOPP, giving it the term C-MOPP-R </plain></SENT>
+<SENT sid="2" pm="."><plain>We retrospectively report the results of C-MOPP-R treatment for follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo> at Saint Louis University <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">Cancer</z:e> Center from 2000-2009 </plain></SENT>
+<SENT sid="3" pm="."><plain>Treatment response was assessed with fusion PET/CT using International Harmonization Project Criteria and toxicity using National <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">Cancer</z:e> Institute Common Terminology Criteria for Adverse Events, version 3.0 </plain></SENT>
+<SENT sid="4" pm="."><plain>Thirty-seven patients with follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo> were treated at our institution with C-MOPP-R </plain></SENT>
+<SENT sid="5" pm="."><plain>The complete response rate was ninety-four percent and sixty-eight percent in untreated and relapsed patients, respectively </plain></SENT>
+<SENT sid="6" pm="."><plain>The median progression-free and overall survivals were not reached with median observation time of 34 months </plain></SENT>
+<SENT sid="7" pm="."><plain>Development of <z:hpo ids='HP_0009830'>peripheral neuropathy</z:hpo> required truncation of planned <z:chebi fb="0" ids="28445">vincristine</z:chebi> dosing in nearly half of patients </plain></SENT>
+<SENT sid="8" pm="."><plain>We believe that C-MOPP-R results in excellent response rates, progression-free, and overall survival for untreated and relapsed follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo> and capped <z:chebi fb="0" ids="28445">vincristine</z:chebi> dosing is essential to optimize safety </plain></SENT>
+</text></document>

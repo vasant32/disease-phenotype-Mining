@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Hypoxic ischemic (HI) injury in neonates may have devastating, long-term consequences </plain></SENT>
+<SENT sid="1" pm="."><plain>Recently completed clinical trials in HI neonates indicate that <z:hpo ids='HP_0002045'>hypothermia</z:hpo> within 6 h of birth results in modest improvement in the combined outcome of <z:hpo ids='HP_0011420'>death</z:hpo> or severe disability </plain></SENT>
+<SENT sid="2" pm="."><plain>The aim of this study was to investigate the effects of combining <z:hpo ids='HP_0002045'>hypothermia</z:hpo> and <z:chebi fb="0" ids="28939">N-acetylcysteine</z:chebi> (NAC) on brain injury, neonatal reflexes and myelination after neonatal HI </plain></SENT>
+<SENT sid="3" pm="."><plain>Seven-day-old rats were subjected to right common carotid artery ligation and <z:mp ids='MP_0005039'>hypoxia</z:mp> (8% oxygen) for 2 h </plain></SENT>
+<SENT sid="4" pm="."><plain>Systemic <z:hpo ids='HP_0002045'>hypothermia</z:hpo> (30 + 0.5 degrees C) was induced immediately after the period of HI and was maintained for 2 h </plain></SENT>
+<SENT sid="5" pm="."><plain>NAC (50 mg/kg) was administered by intraperitoneal injection daily until sacrifice </plain></SENT>
+<SENT sid="6" pm="."><plain>Brain <z:mpath ids='MPATH_124'>infarct</z:mpath> volumes were significantly reduced at 48 h post-HI in the <z:hpo ids='HP_0002045'>hypothermia</z:hpo> plus NAC group (21.5 +/- 3.84 mm3) compared with vehicle (240.85 +/- 4.08 mm3) </plain></SENT>
+<SENT sid="7" pm="."><plain>Neonatal reflexes were also significantly improved by combination therapy at days 1 and 7 </plain></SENT>
+<SENT sid="8" pm="."><plain>There was a significant loss of right hemispheric brain volume in the untreated group at 2 and 4 wk after HI insult </plain></SENT>
+<SENT sid="9" pm="."><plain>Brain volumes were preserved in <z:hpo ids='HP_0002045'>hypothermia</z:hpo> plus NAC group and were not significantly different when compared with the sham group </plain></SENT>
+<SENT sid="10" pm="."><plain>Similarly, increased myelin expression was seen in brain sections from <z:hpo ids='HP_0002045'>hypothermia</z:hpo> plus NAC group, when stained for Luxol Fast Blue (LFB), Myelin Basic Protein (MBP) and Proteolipid protein (PLP) </plain></SENT>
+<SENT sid="11" pm="."><plain>These results indicate that <z:hpo ids='HP_0002045'>hypothermia</z:hpo> plus NAC combination therapy improves <z:mpath ids='MPATH_124'>infarct</z:mpath> volume, myelin expression and functional outcomes after focal HI injury </plain></SENT>
+</text></document>

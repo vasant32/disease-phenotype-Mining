@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>EBV-immortalized B cells induce a complex immune response such that the virus persists as a clinically silent <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infection</z:e> for the lifetime of the infected host </plain></SENT>
+<SENT sid="1" pm="."><plain>B7-H1, also called <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">PD</z:e>-L1, is a cosignaling molecule of the B7 family that can inhibit activated T cell effectors by interaction with its receptor <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">PD</z:e>-1 </plain></SENT>
+<SENT sid="2" pm="."><plain>In this work, we have studied the dependence of B7-H1 on NF-κB and c-Myc, the two main transcription factors in EBV latency III proliferating B cells, on various lymphoblastoid and Burkitt <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cell lines, some of them being inducible or not for the EBV latency III program and/or for c-Myc </plain></SENT>
+<SENT sid="3" pm="."><plain>We found that B7-H1 repressed killing of EBV-immortalized B cells by their autologous T and NK cells </plain></SENT>
+<SENT sid="4" pm="."><plain>At the <z:chebi fb="2" ids="33699">mRNA</z:chebi> level, NF-κB was a weak inducer whereas c-Myc was a strong repressor of B7-H1 expression, an effect mediated by STAT1 inhibition </plain></SENT>
+<SENT sid="5" pm="."><plain>At the protein level, B7-H1 molecules were stored in both degradative and unconventional secretory lysosomes </plain></SENT>
+<SENT sid="6" pm="."><plain>Surface membrane B7-H1 molecules were constitutively internalized and proteolyzed in lysosomes </plain></SENT>
+<SENT sid="7" pm="."><plain>The EBV latency III program increased the amounts of B7-H1-containing secretory lysosomes and their export to the surface membrane </plain></SENT>
+<SENT sid="8" pm="."><plain>By repressing actin polymerization, c-Myc blocked secretory lysosome migration and B7-H1 surface membrane export </plain></SENT>
+<SENT sid="9" pm="."><plain>In addition to B7-H1, various immunoregulatory molecules participating in the immunological synapse are stored in secretory lysosomes </plain></SENT>
+<SENT sid="10" pm="."><plain>By playing on actin polymerization, c-Myc could thus globally regulate the immunogenicity of transformed B cells, acting on export of secretory lysosomes to plasma membrane </plain></SENT>
+</text></document>

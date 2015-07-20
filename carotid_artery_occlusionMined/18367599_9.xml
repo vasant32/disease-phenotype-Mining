@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:e sem="disease" ids="C0752304" disease_type="Disease or Syndrome" abbrv="">Hypoxic-ischemic brain injury</z:e> is regulated in part by neurotransmitter and chemokine signaling via G-protein-coupled receptors (GPCRs) </plain></SENT>
+<SENT sid="1" pm="."><plain>GPCR-kinase 2 (GRK2) protects these receptors against overstimulation by inducing desensitization </plain></SENT>
+<SENT sid="2" pm="."><plain>Neonatal hypoxic-ischemic brain damage is preceded by a reduction in cerebral GRK2 expression </plain></SENT>
+<SENT sid="3" pm="."><plain>We determined the functional importance of GRK2 in hypoxic-ischemic brain damage </plain></SENT>
+<SENT sid="4" pm="."><plain>Nine-day-old <z:mp ids='MP_0002169'>wild-type</z:mp> and GRK2(+/-) mice with a approximately 50% reduction in GRK2 protein were exposed to unilateral carotid <z:mp ids='MP_0006134'>artery occlusion</z:mp> and <z:mp ids='MP_0005039'>hypoxia</z:mp> </plain></SENT>
+<SENT sid="5" pm="."><plain>In GRK2(+/-) animals, gray and white matter damage was aggravated at 3 weeks after <z:mp ids='MP_0005039'>hypoxia</z:mp>-<z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> </plain></SENT>
+<SENT sid="6" pm="."><plain>In addition, cerebral neutrophil infiltration was increased in GRK2(+/-) animals </plain></SENT>
+<SENT sid="7" pm="."><plain>Neutrophil <z:mpath ids='MPATH_63'>depletion</z:mpath> reduced brain damage, but <z:hpo ids='HP_0002529'>neuronal loss</z:hpo> was still more pronounced in GRK2(+/-) animals </plain></SENT>
+<SENT sid="8" pm="."><plain><z:hpo ids='HP_0003674'>Onset</z:hpo> of <z:hpo ids='HP_0002529'>neuronal loss</z:hpo> was advanced in GRK2(+/-) animals regardless of neutrophil <z:mpath ids='MPATH_63'>depletion</z:mpath> </plain></SENT>
+<SENT sid="9" pm="."><plain>White matter injury was advanced in GRK2(+/-) animals and was not affected by neutrophil <z:mpath ids='MPATH_63'>depletion</z:mpath> </plain></SENT>
+<SENT sid="10" pm="."><plain>Activation/infiltration of microglia/macrophages was stronger in GRK2(+/-) brains but only occurred 24 h after <z:mp ids='MP_0005039'>hypoxia</z:mp>-<z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> and is therefore not the primary cause of increased damage </plain></SENT>
+<SENT sid="11" pm="."><plain>During <z:mp ids='MP_0005039'>hypoxia</z:mp>, cerebral blood flow was reduced to the same extent in both genotypes </plain></SENT>
+<SENT sid="12" pm="."><plain>In vitro, GRK2(+/-) hippocampal slices and cerebellar granular neurons were more sensitive to <z:chebi fb="6" ids="14321,29987">glutamate</z:chebi>-induced <z:hpo ids='HP_0011420'>death</z:hpo> </plain></SENT>
+<SENT sid="13" pm="."><plain>We propose the novel concept that the kinase GRK2 regulates <z:hpo ids='HP_0003674'>onset</z:hpo> and magnitude of hypoxic-ischemic brain damage </plain></SENT>
+<SENT sid="14" pm="."><plain>Increased gray and white matter damage in GRK2(+/-) animals was not dependent on infiltrating neutrophils and occurred before microglia/macrophage activation was detected </plain></SENT>
+<SENT sid="15" pm="."><plain>Collectively, our data suggest that cerebral GRK2 has an important endogenous neuroprotective role in ischemic cerebral damage </plain></SENT>
+</text></document>

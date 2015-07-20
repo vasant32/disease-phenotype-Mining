@@ -1,0 +1,44 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>In the last 30 years we have seen considerable progress in the management of patients with <z:mp ids='MP_0002055'>diabetes</z:mp>, in particular with <z:e sem="disease" ids="C0011881" disease_type="Disease or Syndrome" abbrv="">diabetic renal disease</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>A number of paradigms have been broken down, namely the following, as a consequence, clinical care has improved dramatically.  </plain></SENT>
+<SENT sid="2" pm="."><plain>Significant renal involvement and <z:mp ids='MP_0002871'>albuminuria</z:mp> is rare in patients with essential <z:hpo ids='HP_0000822'>hypertension</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>2 </plain></SENT>
+<SENT sid="4" pm="."><plain>High GFR is good for prognosis </plain></SENT>
+<SENT sid="5" pm="."><plain>3 </plain></SENT>
+<SENT sid="6" pm="."><plain>Only proteinuric diabetic patients have a poor prognosis </plain></SENT>
+<SENT sid="7" pm="."><plain>4 </plain></SENT>
+<SENT sid="8" pm="."><plain><z:mp ids='MP_0002959'>Microalbuminuria</z:mp> only predicts <z:e sem="disease" ids="C0022658" disease_type="Disease or Syndrome" abbrv="">renal disease</z:e> </plain></SENT>
+<SENT sid="9" pm="."><plain>5 </plain></SENT>
+<SENT sid="10" pm="."><plain>Reducing blood pressure may cause low perfusion in the kidney and other organs with long-term negative effect, especially on the glomerular filtration rate </plain></SENT>
+<SENT sid="11" pm="."><plain>6 </plain></SENT>
+<SENT sid="12" pm="."><plain>Only in the presence of <z:mp ids='MP_0002842'>high blood pressure</z:mp>, should microalbuminuric patients receive anti-hypertensive treatment, including blockade of the <z:mp ids='MP_0011356'>RAS</z:mp> </plain></SENT>
+<SENT sid="13" pm="."><plain>7 </plain></SENT>
+<SENT sid="14" pm="."><plain>Only reducing blood pressure by blocking <z:mp ids='MP_0011356'>RAS</z:mp> in <z:mp ids='MP_0002055'>diabetes</z:mp> is relevant and justified </plain></SENT>
+<SENT sid="15" pm="."><plain>8 </plain></SENT>
+<SENT sid="16" pm="."><plain>Normoalbuminuria as indicated in the present definition is '<z:mpath ids='MPATH_458'>normal</z:mpath>' </plain></SENT>
+<SENT sid="17" pm="."><plain>9 </plain></SENT>
+<SENT sid="18" pm="."><plain>ACE-I or ARB can only be used separately </plain></SENT>
+<SENT sid="19" pm="."><plain>10 </plain></SENT>
+<SENT sid="20" pm="."><plain>Diastolic blood pressure and later systolic pulse pressure are the best parameters for blood pressure recording </plain></SENT>
+<SENT sid="21" pm="."><plain>11 </plain></SENT>
+<SENT sid="22" pm="."><plain><z:mp ids='MP_0002959'>Microalbuminuria</z:mp> is the strongest risk marker in patients with type 1 <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="23" pm="."><plain>12 </plain></SENT>
+<SENT sid="24" pm="."><plain>Screening for <z:mp ids='MP_0002959'>microalbuminuria</z:mp> is relevant, but follow-up was not proposed (also regarding <z:mp ids='MP_0002959'>microalbuminuria</z:mp>) </plain></SENT>
+<SENT sid="25" pm="."><plain>In the present situation, it is well-known that patients with essential <z:hpo ids='HP_0000822'>hypertension</z:hpo> may sometimes have <z:mp ids='MP_0002959'>microalbuminuria</z:mp>, and it is known that it predicts a poor prognosis </plain></SENT>
+<SENT sid="26" pm="."><plain>Interestingly, in type 1 <z:mp ids='MP_0002055'>diabetes</z:mp>, hyperfiltration is a marker for poor prognosis related to metabolic control </plain></SENT>
+<SENT sid="27" pm="."><plain>Thus hyperfiltration is a marker for bad development, but <z:mp ids='MP_0002959'>microalbuminuria</z:mp> (below the proteinuric level) is also associated with a poor prognosis </plain></SENT>
+<SENT sid="28" pm="."><plain>It was originally believed that <z:mp ids='MP_0002959'>microalbuminuria</z:mp> only predicts <z:e sem="disease" ids="C0022658" disease_type="Disease or Syndrome" abbrv="">renal disease</z:e> </plain></SENT>
+<SENT sid="29" pm="."><plain>However, surprisingly it predicts as well <z:e sem="disease" ids="C0007222" disease_type="Disease or Syndrome" abbrv="CVD">cardiovascular disease</z:e> and early mortality </plain></SENT>
+<SENT sid="30" pm="."><plain>The story about blood pressure and progression of <z:e sem="disease" ids="C0022658" disease_type="Disease or Syndrome" abbrv="">renal disease</z:e> is interesting, because it was earlier believed that a certain <z:mp ids='MP_0002842'>high blood pressure</z:mp> was mandatory for preservation of the renal function </plain></SENT>
+<SENT sid="31" pm="."><plain>This appeared to be a completely wrong concept </plain></SENT>
+<SENT sid="32" pm="."><plain>The data regarding <z:mp ids='MP_0002959'>microalbuminuria</z:mp> suggest that patients with <z:mp ids='MP_0002959'>microalbuminuria</z:mp> should receive anti-hypertensive treatment, even patients with so-called <z:mpath ids='MPATH_458'>normal</z:mpath> blood pressure </plain></SENT>
+<SENT sid="33" pm="."><plain>This was confirmed in several trials and also included in the guidelines </plain></SENT>
+<SENT sid="34" pm="."><plain>Reducing blood pressure is important, but it appeared to be especially beneficial to block the renin-angiontensin system, and it is clear that <z:mp ids='MP_0002871'>albuminuria</z:mp> is a continuous variable and is also a risk factor </plain></SENT>
+<SENT sid="35" pm="."><plain>Earlier it was suggested to use <z:chebi fb="2" ids="35457">ACE-inhibitors</z:chebi> or ARBs </plain></SENT>
+<SENT sid="36" pm="."><plain>Now it is clear that it is possible to use a combination, with good theoretical background </plain></SENT>
+<SENT sid="37" pm="."><plain>In the history of <z:hpo ids='HP_0000822'>hypertension</z:hpo>, it was earlier believed that diastolic blood pressure was most important, but later on it was generally accepted that systolic is a better predictor and the goal for treatment and pulse pressure may be even better </plain></SENT>
+<SENT sid="38" pm="."><plain>Not only is <z:mp ids='MP_0002959'>microalbuminuria</z:mp> an important risk marker, but it is as well clear that regression of <z:mp ids='MP_0002959'>microalbuminuria</z:mp> is a good marker for a better prognosis in patients </plain></SENT>
+<SENT sid="39" pm="."><plain><z:mp ids='MP_0002959'>Microalbuminuria</z:mp> is believed to be the strongest risk factor, but new studies actually suggest that a simple parameter such as self-rated health is crucial along with other factors </plain></SENT>
+<SENT sid="40" pm="."><plain>Regarding new developments, it is clear that new studies have led to several advancements in management in patients, for instance the Steno II study shows positive effect on mortality by multifactorial intervention </plain></SENT>
+<SENT sid="41" pm="."><plain>Similarly, the ADVANCE study also showed positive effect on mortality by more intensified anti-hypertensive treatment with an <z:chebi fb="2" ids="35457">ACE-inhibitor</z:chebi> </plain></SENT>
+<SENT sid="42" pm="."><plain>We are eagerly awaiting the results from <z:chebi fb="105" ids="17234">glucose</z:chebi> arm in the ADVANCE study, especially in the light of the ACCORD study showing increased mortality with too strict glycemic control with a goal of 6% in HbA1c </plain></SENT>
+</text></document>

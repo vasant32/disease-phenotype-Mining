@@ -1,0 +1,20 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>1 </plain></SENT>
+<SENT sid="1" pm="."><plain>There is a constant sequence of signal intensity patterns that characterize 1.5 T, spin echo <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e> images of hemorrhagic lesions </plain></SENT>
+<SENT sid="2" pm="."><plain>2 </plain></SENT>
+<SENT sid="3" pm="."><plain>The MRI appearance of intraparenchymal <z:mp ids='MP_0001914'>hemorrhage</z:mp> is determined by the sequential chemical degradation of Hb, by the paramagnetic properties of the degradation products and by certain biologic factors including pO2, <z:hpo ids='HP_0000969'>edema</z:hpo> formation, hematocrit and <z:chebi fb="2" ids="33602">BBB</z:chebi> </plain></SENT>
+<SENT sid="4" pm="."><plain>3 </plain></SENT>
+<SENT sid="5" pm="."><plain><z:hpo ids='HP_0011009'>Acute</z:hpo> intraparenchymal <z:mp ids='MP_0001914'>hemorrhage</z:mp> is characterized by markedly diminished signal intensity centrally relative to surrounding white matter (hypointensity) on T2 weighted images and often by a moderately increased signal intensity (hyperintensity) of the adjacent white matter produced by surrounding <z:hpo ids='HP_0000969'>edema</z:hpo> on proton density and T2 weighted images </plain></SENT>
+<SENT sid="6" pm="."><plain>4 </plain></SENT>
+<SENT sid="7" pm="."><plain>Early <z:hpo ids='HP_0011011'>subacute</z:hpo> intraparenchymal <z:mp ids='MP_0001914'>hemorrhage</z:mp> is characterized centrally by moderate hypointensity on T2 weighted images, and peripherally, by moderate hyperintensity on T1 weighted and marked hypointensity on T2 weighted images </plain></SENT>
+<SENT sid="8" pm="."><plain>Hyperintensity on proton density and T2 weighted images of nearby white matter owing to <z:hpo ids='HP_0000969'>edema</z:hpo> may again be seen </plain></SENT>
+<SENT sid="9" pm="."><plain>5 </plain></SENT>
+<SENT sid="10" pm="."><plain>Late <z:hpo ids='HP_0011011'>subacute</z:hpo> intraparenchymal <z:mp ids='MP_0001914'>hemorrhage</z:mp> is characterized by marked peripheral and central hyperintensity on both T1 and T2 weighted images </plain></SENT>
+<SENT sid="11" pm="."><plain>Also, marked hypointensity of the adjacent brain rim on T2 weighted images owing to hemosiderin deposition may be seen </plain></SENT>
+<SENT sid="12" pm="."><plain>6 </plain></SENT>
+<SENT sid="13" pm="."><plain><z:hpo ids='HP_0011010'>Chronic</z:hpo> intraparenchymal <z:mp ids='MP_0001914'>hemorrhage</z:mp> is characterized by marked hyperintensity both centrally and peripherally on both T1 and T2 weighted images and by marked hypointensity of the adjacent brain rim on T2 weighted images owing to hemosiderin deposition </plain></SENT>
+<SENT sid="14" pm="."><plain>Surrounding <z:hpo ids='HP_0000969'>edema</z:hpo> is no longer present </plain></SENT>
+<SENT sid="15" pm="."><plain>7 </plain></SENT>
+<SENT sid="16" pm="."><plain>The integrity of the blood-brain barrier appears to be important in determining whether or not hemosiderin accumulations consistently occur in <z:hpo ids='HP_0011011'>subacute</z:hpo> and <z:hpo ids='HP_0011010'>chronic</z:hpo> <z:mp ids='MP_0001914'>hemorrhage</z:mp> </plain></SENT>
+<SENT sid="17" pm="."><plain>8 </plain></SENT>
+<SENT sid="18" pm="."><plain><z:e sem="disease" ids="C0019087" disease_type="Disease or Syndrome" abbrv="">Hemorrhagic conditions</z:e> in which the defined sequence of signal intensity patterns may be seen include: <z:hpo ids='HP_0004936'>venous thrombosis</z:hpo>, hemorrhagic infarction, occult vascular malformation and <z:hpo ids='HP_0004944'>intracranial aneurysm</z:hpo> </plain></SENT>
+</text></document>

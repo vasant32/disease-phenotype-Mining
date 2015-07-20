@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>To avoid arterial blood sampling and complicated analyses in <z:chebi fb="2" ids="36932">15O</z:chebi>-gas PET studies, we evaluated a noninvasive technique using the count-based method for measuring asymmetric increases in oxygen extraction fraction (OEF) in cerebrovascular disease </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: Eighteen patients (mean age +/- SD, 61 +/- 16 y) with atherothrombotic large-<z:e sem="disease" ids="C0007774" disease_type="Disease or Syndrome" abbrv="">cerebral-artery disease</z:e> were studied for the measurement of hemodynamic parameters using the <z:chebi fb="2" ids="36932">15O</z:chebi>-gas steady-state method with inhalation of 15O2, C15O2, and C15O </plain></SENT>
+<SENT sid="2" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> patients also underwent H2(15)O PET with the bolus injection method </plain></SENT>
+<SENT sid="3" pm="."><plain>Count-based ratio images of 15O2/C15O2 and (15)O2/H2(15)O were calculated, and asymmetry indices (AIs) were obtained (cbOEF(SS)-AI and cbOEF(BO)-AI, respectively) using regions of interest drawn bilaterally on the cerebral cortices </plain></SENT>
+<SENT sid="4" pm="."><plain>These AIs were compared with the AIs of absolute OEF (qOEF-AI) and with those after cerebral blood volume (CBV) correction </plain></SENT>
+<SENT sid="5" pm="."><plain>A contribution factor for this correction was defined as a variable alpha, and the effect of the correction was evaluated </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: cbOEF(SS)-AI underestimated qOEF-AI significantly, especially with a greater AI (P &lt; 0.05) </plain></SENT>
+<SENT sid="7" pm="."><plain>cbOEF(BO)-AI linearly correlated well with qOEF-AI </plain></SENT>
+<SENT sid="8" pm="."><plain>CBV correction improved the slopes of regression lines between qOEF-AI and cbOEF(SS)-AI, and the optimal alpha was defined as 0.5 </plain></SENT>
+<SENT sid="9" pm="."><plain>On the other hand, cbOEF(BO)-AI fairly estimated qOEF-AI without CBV correction </plain></SENT>
+<SENT sid="10" pm="."><plain>Correlation between qOEF-AI and cbOEF(BO)-AI was adversely affected, and the mean bias was increased, with a greater alpha </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSION: cbOEF(BO)-AI can fairly estimate the AI of OEF without CBV correction, whereas cbOEF(SS)-AI might require CBV correction for better estimation </plain></SENT>
+<SENT sid="12" pm="."><plain>The examination time and stress to patients would be reduced with the count-based method because it is noninvasive </plain></SENT>
+</text></document>

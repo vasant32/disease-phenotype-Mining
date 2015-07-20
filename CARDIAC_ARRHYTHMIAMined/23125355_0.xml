@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIMS: Electromagnetic interference (EMI) can pose a danger to workers with pacemakers and implantable cardioverter-defibrillators (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">ICDs</z:e>) </plain></SENT>
+<SENT sid="1" pm="."><plain>At some workplaces electromagnetic fields are high enough to potentially inflict EMI </plain></SENT>
+<SENT sid="2" pm="."><plain>The purpose of this in vivo study was to evaluate the susceptibility of pacemakers and <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">ICDs</z:e> to external electromagnetic fields </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS AND RESULTS: Eleven volunteers with a pacemaker and 13 with an <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">ICD</z:e> were exposed to sine, pulse, ramp, and square waveform magnetic fields with frequencies of 2-200 Hz using Helmholtz coil </plain></SENT>
+<SENT sid="4" pm="."><plain>The magnetic field flux densities varied to 300 µT </plain></SENT>
+<SENT sid="5" pm="."><plain>We also tested the occurrence of EMI from an electronic article surveillance (EAS) gate, an induction cooktop, and a metal inert gas (MIG) welding machine </plain></SENT>
+<SENT sid="6" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> pacemakers were tested with bipolar settings and three of them also with unipolar sensing configurations </plain></SENT>
+<SENT sid="7" pm="."><plain>None of the bipolar pacemakers or <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">ICDs</z:e> tested experienced interference in any of the exposure situations </plain></SENT>
+<SENT sid="8" pm="."><plain>The three pacemakers with unipolar settings were affected by the highest fields of the Helmholtz coil, and one of them also by the EAS gate and the welding cable </plain></SENT>
+<SENT sid="9" pm="."><plain>The induction cooktop did not interfere with any of the unipolarly programmed pacemakers </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSION: Magnetic fields with intensities as high as those used in this study are rare even in industrial working environments </plain></SENT>
+<SENT sid="11" pm="."><plain>In most cases, employees can return to work after implantation of a bipolar pacemaker or an <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">ICD</z:e>, after an appropriate risk assessment </plain></SENT>
+<SENT sid="12" pm="."><plain>Pacemakers programmed to unipolar configurations can cause danger to their users in environments with high electromagnetic fields, and should be avoided, if possible </plain></SENT>
+</text></document>

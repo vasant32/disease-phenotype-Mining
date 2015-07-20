@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: <z:chebi fb="0" ids="35664">Statins</z:chebi> inhibit hydroxymethylglutaryl <z:chebi fb="3" ids="15346">coenzyme A</z:chebi> (HMG-CoA) reductase activity and lower total serum cholesterol levels </plain></SENT>
+<SENT sid="1" pm="."><plain>We investigated the effects of Pravastatin on neuroprotection and neurogenesis in the dentate gyrus (DG), subventricular zone (SVZ) and striatum after <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> in rats </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: The filament method was used for temporary middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (tMCAO) </plain></SENT>
+<SENT sid="3" pm="."><plain>Pravastatin or saline post-ischemically were administered at subsequent time points: 6 h after tMCAO, and then on every subsequent day up to day 14 after tMCAO </plain></SENT>
+<SENT sid="4" pm="."><plain>Neurological outcome was investigated by using a neuroscore, the beam balance test and the rotarod test </plain></SENT>
+<SENT sid="5" pm="."><plain>Cholesterol and <z:chebi fb="4" ids="17855">triglycerides</z:chebi> levels were determined by blood sample analysis prior to sacrifice </plain></SENT>
+<SENT sid="6" pm="."><plain><z:mpath ids='MPATH_124'>Infarct</z:mpath> area was calculated by microtubule-associated protein 2 (MAP2) staining </plain></SENT>
+<SENT sid="7" pm="."><plain>Neurogenesis was evaluated by triple staining with bromodeoxyuridine (BrdU), doublecortin (DCX), and neuronal nuclei (NeuN) </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: Compared with the control groups, Pravastatin treated animals were significantly improved in neurological outcome in rotarod test, with smaller <z:mpath ids='MPATH_124'>infarct</z:mpath> size </plain></SENT>
+<SENT sid="9" pm="."><plain>Pravastatin increased BrdU-positive cells number in the DG (P = 0.0029) and the SVZ (P = 0.0280) but not in the striatum (P = 0.3929) </plain></SENT>
+<SENT sid="10" pm="."><plain>Furthermore, Pravastatin increased BrdU-labeled DCX positive cells number in the DG (P = 0.0031), SVZ (P = 0.0316) and striatum (P = 0.0073) </plain></SENT>
+<SENT sid="11" pm="."><plain>We also observed a DCX-positive cells stream from the SVZ to the striatum, suggesting a migration route of those immature neurons </plain></SENT>
+<SENT sid="12" pm="."><plain>No significant differences of total serum cholesterol and <z:chebi fb="4" ids="17855">triglycerides</z:chebi> were observed between groups </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSION: The Pravastatin administration strategy is safe and could promote neurological recovery in <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> </plain></SENT>
+<SENT sid="14" pm="."><plain>Pravastatin induces neurogenesis in the DG and SVZ, and increases the number of migration cells in the striatum </plain></SENT>
+<SENT sid="15" pm="."><plain>These effects are independent of the cholesterol-lowering property of Pravastatin </plain></SENT>
+</text></document>

@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Intermittent balloon occlusion of the coronary sinus was applied to 11 open chest dogs subjected to 3 hours of ligation of the left anterior descending coronary artery followed by 8 to 12 days of reperfusion </plain></SENT>
+<SENT sid="1" pm="."><plain><z:chebi fb="2" ids="50249">Anticoagulants</z:chebi> were not given during the reperfusion period </plain></SENT>
+<SENT sid="2" pm="."><plain>Risk region was assessed by planimetry of autoradiographs made from ventricular slices </plain></SENT>
+<SENT sid="3" pm="."><plain><z:mpath ids='MPATH_124'>Infarct</z:mpath> size was equivalent when assessed by planimetry of ventricular slices before and after staining with triphenyltetrazolium <z:chebi fb="76" ids="17996">chloride</z:chebi> </plain></SENT>
+<SENT sid="4" pm="."><plain>In the seven survivors, 30 +/- 8% of the risk region was infarcted </plain></SENT>
+<SENT sid="5" pm="."><plain>Seven of 11 control dogs survived (p = NS); 75 +/- 4% of the risk region was infarcted in the control animals (p less than 0.01 versus treated survivors) </plain></SENT>
+<SENT sid="6" pm="."><plain>Light microscopic inspection of specimens stained with <z:chebi fb="1" ids="51686">hematoxylin</z:chebi>-eosin confirmed the border between necrotic and preserved myocardium </plain></SENT>
+<SENT sid="7" pm="."><plain><z:e sem="disease" ids="C0302148,C0087086" disease_type="Disease or Syndrome;Acquired Abnormality" abbrv="">Thrombus</z:e> was observed in the coronary sinus in <z:hpo ids='HP_0000001'>all</z:hpo> survivors in the treatment group </plain></SENT>
+<SENT sid="8" pm="."><plain>These findings confirm earlier short-term studies that demonstrated a potent anti-ischemic effect of intermittent coronary sinus occlusion </plain></SENT>
+<SENT sid="9" pm="."><plain>At the same time, coronary sinus <z:mp ids='MP_0005048'>thrombosis</z:mp> warrants caution in the application of this technique to <z:e sem="disease" ids="C0151744" disease_type="Disease or Syndrome" abbrv="IHD">myocardial ischemia</z:e> in humans </plain></SENT>
+</text></document>

@@ -1,0 +1,19 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0005584'>Renal Cell Carcinoma</z:hpo> (<z:chebi fb="60" ids="47899">RCC</z:chebi>) has been associated with the loss of heterozygosity at several loci on the short arm of chromosome 3 (3p) </plain></SENT>
+<SENT sid="1" pm="."><plain>We have previously found that one of these loci, D3F15S2 (pH3H2) was lost in 76% of the <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> cells derived from heterozygous donors (Kovacs, G., Erlandsson, R., Boldog, F., Ingvarrsson, S., Müller-Brechlin, R., Klein, G. &amp; Sümegi, J </plain></SENT>
+<SENT sid="2" pm="."><plain>(1988), Proc </plain></SENT>
+<SENT sid="3" pm="."><plain>Natl </plain></SENT>
+<SENT sid="4" pm="."><plain>Acad </plain></SENT>
+<SENT sid="5" pm="."><plain>Sci., 85, 1571-5) </plain></SENT>
+<SENT sid="6" pm="."><plain>More recently we have identified a putative CpG island in the vicinity of D3F15S2, suggesting that DNA sequences in or around this site may have coding potential (Boldog, F., Erlandsson, R., Klein, G. &amp; Sümegi, J </plain></SENT>
+<SENT sid="7" pm="."><plain>(1989) </plain></SENT>
+<SENT sid="8" pm="."><plain><z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">Cancer</z:e> Genet </plain></SENT>
+<SENT sid="9" pm="."><plain>Cytogenet., 42, 295-306) </plain></SENT>
+<SENT sid="10" pm="."><plain>The screening of a human placenta cDNA library with DNA probes derived from D3F15S2 has led to the isolation of several cDNA clones </plain></SENT>
+<SENT sid="11" pm="."><plain>They identified a 2.9 Kb long message in human placenta and kidney </plain></SENT>
+<SENT sid="12" pm="."><plain>In total <z:chebi fb="40" ids="33697">RNA</z:chebi> from 11 of 15 primary <z:chebi fb="60" ids="47899">RCCs</z:chebi> the gene expression was reduced to less than 20% compared to eight <z:mpath ids='MPATH_458'>normal</z:mpath> kidneys </plain></SENT>
+<SENT sid="13" pm="."><plain>This low level of expression may be due to contaminating <z:mpath ids='MPATH_458'>normal</z:mpath> tissue </plain></SENT>
+<SENT sid="14" pm="."><plain>In the remaining 4 tumors the expression varied from 24-51% compared to <z:mpath ids='MPATH_458'>normal</z:mpath> kidney </plain></SENT>
+<SENT sid="15" pm="."><plain>To facilitate reference, the gene was provisionally designated as 'RIK' </plain></SENT>
+<SENT sid="16" pm="."><plain>It was expressed in the HEK 293, one <z:hpo ids='HP_0002669'>osteosarcoma</z:hpo> (<z:chebi fb="2" ids="37859">HOS</z:chebi>), two <z:mp ids='MP_0002038'>carcinoma</z:mp> (COLO320 and QDMT), and three Burkitt <z:hpo ids='HP_0002665'>lymphoma</z:hpo> lines (BL2, BL29 and BL31) </plain></SENT>
+<SENT sid="17" pm="."><plain>It was not expressed in one Burkitt <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (DG75) and two EBV transformed lymphoblastoid cell lines (LCL) (<z:chebi fb="0" ids="13389">NAD</z:chebi>-20 and Cherry) </plain></SENT>
+</text></document>

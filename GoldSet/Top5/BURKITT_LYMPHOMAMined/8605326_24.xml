@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Chromosome 12q24.1 is a recurrent breakpoint in high-grade B-cell non-Hodgkin <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (B-NHL) </plain></SENT>
+<SENT sid="1" pm="."><plain>To identify the genes involved at 12q24.1, molecular cloning of a three-way translocation t(8;14;12)(q24.1;q32.3;q24.1) in a Burkitt <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cell line (Wien 133) was performed; <z:hpo ids='HP_0000001'>all</z:hpo> four translocation breakpoints were cloned and sequenced </plain></SENT>
+<SENT sid="2" pm="."><plain>Analysis of clones encompassing the der(12)(12;14)(q24.1;q32.3) breakpoint showed a CpG island from chromosome 12q24.1 juxtaposed in a tail-to-tail configuration with a productively rearranged Ig VH4-DH-JH5 gene </plain></SENT>
+<SENT sid="3" pm="."><plain>A total of 4.5 kb of genomic DNA including the CpG island was sequenced and analyzed using gene-identification programs; <z:hpo ids='HP_0000001'>all</z:hpo> three programs identified a potential 92-bp exon within the centromeric boundary of the CpG island </plain></SENT>
+<SENT sid="4" pm="."><plain>Using this as a probe, an <z:chebi fb="40" ids="33697">RNA</z:chebi> transcript of 3.8 kb, expressed at low levels in a wide variety of <z:mpath ids='MPATH_458'>normal</z:mpath> tissues, was detected </plain></SENT>
+<SENT sid="5" pm="."><plain>Overlapping cDNA clones were isolated and sequenced </plain></SENT>
+<SENT sid="6" pm="."><plain>The longest open-reading frame predicted a serine-rich protein of 231 amino acids </plain></SENT>
+<SENT sid="7" pm="."><plain>This protein, termed BCL7A, exhibited no recognizable protein motifs but showed homology with the actin-binding protein, caldesmon </plain></SENT>
+<SENT sid="8" pm="."><plain>In Wien 133, the BCL7A breakpoint occurred within the first intron and resulted in a MYC-BCL7A fusion transcript, with exon I of BCL7A being replaced by MYC exon I </plain></SENT>
+<SENT sid="9" pm="."><plain>The <z:mpath ids='MPATH_458'>normal</z:mpath>, untranslocated allele of BCL7A was also expressed without mutation </plain></SENT>
+<SENT sid="10" pm="."><plain>One of the 11 other B-NHL cell lines examined with 12q24.1 cytogenetic abnormalities, a mediastinal B-NHL cell line (Karpas 1106), showed biallelic rearrangement within the first intron of BCL7A, which was adjacent to the breakpoint observed in Wien 133 </plain></SENT>
+<SENT sid="11" pm="."><plain>Disruption of the amino-terminus of BCL7A defines a new mechanism in the pathogenesis of a subset of high-grade B-NHL </plain></SENT>
+</text></document>

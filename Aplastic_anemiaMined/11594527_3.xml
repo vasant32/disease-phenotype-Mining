@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0001973'>Autoimmune thrombocytopenia</z:hpo> (AITP) after bone marrow transplantation (BMT) was suggested to occur by <z:hpo ids='HP_0002958'>immune dysregulation</z:hpo> mainly in association with <z:e sem="disease" ids="C0018133" disease_type="Disease or Syndrome" abbrv="GVH">graft-versus-host disease</z:e> (GVHD) </plain></SENT>
+<SENT sid="1" pm="."><plain>Here we present a patient who developed severe AITP after BMT </plain></SENT>
+<SENT sid="2" pm="."><plain>A 40-year-old woman with severe <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> received a BMT from a partially HLA-matched brother </plain></SENT>
+<SENT sid="3" pm="."><plain>Despite myeloid and erythroid engraftments, platelet recovery was delayed </plain></SENT>
+<SENT sid="4" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> bone marrow cells were 46,XY and were derived from the donor </plain></SENT>
+<SENT sid="5" pm="."><plain>Grade I <z:hpo ids='HP_0011009'>acute</z:hpo> GVHD involving skin developed from day 34 posttransplantation, but promptly responded to <z:chebi fb="2" ids="8378">prednisolone</z:chebi> in addition to a prophylactic dose of tacrolimus </plain></SENT>
+<SENT sid="6" pm="."><plain>With the tapering of <z:chebi fb="2" ids="8378">prednisolone</z:chebi>, <z:hpo ids='HP_0001873'>thrombocytopenia</z:hpo> progressed without substantial changes in the white blood cell count, <z:chebi fb="0" ids="35143">hemoglobin</z:chebi> concentration, or reticulocyte count </plain></SENT>
+<SENT sid="7" pm="."><plain>On day 188, the patient developed <z:hpo ids='HP_0011010'>chronic</z:hpo> GVHD involving skin and liver, which promptly responded to the readministration of <z:chebi fb="2" ids="8378">prednisolone</z:chebi> and increased tacrolimus </plain></SENT>
+<SENT sid="8" pm="."><plain>However, the patient's platelet count decreased to 9 x 10(9) cells/L on day 222 </plain></SENT>
+<SENT sid="9" pm="."><plain>The platelet-associated immunoglobulin G (PAIgG) values were elevated </plain></SENT>
+<SENT sid="10" pm="."><plain>Bone marrow examination showed hypercellularity with plentiful megakaryocytes </plain></SENT>
+<SENT sid="11" pm="."><plain>The number of colony-forming units-megakaryocyte was within the <z:mpath ids='MPATH_458'>normal</z:mpath> range </plain></SENT>
+<SENT sid="12" pm="."><plain>The elevated PAIgG values and a correlation between <z:hpo ids='HP_0001873'>thrombocytopenia</z:hpo> and the intensity of the <z:chebi fb="1" ids="35705">immunosuppressive agents</z:chebi> strongly suggested a causative role of the autoimmune mechanisms for <z:hpo ids='HP_0001873'>thrombocytopenia</z:hpo> in this patient </plain></SENT>
+</text></document>

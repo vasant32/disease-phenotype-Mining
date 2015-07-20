@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:chebi fb="5" ids="28304">Heparin</z:chebi> cofactor II (HCII) is a serpin whose thrombin inhibition activity is accelerated by <z:chebi fb="0" ids="18085">glycosaminoglycans</z:chebi> </plain></SENT>
+<SENT sid="1" pm="."><plain>We describe the novel properties of a carboxyl-terminal histidine-tagged recombinant HCII (rHCII-CHis(6)) </plain></SENT>
+<SENT sid="2" pm="."><plain>Thrombin inhibition by rHCII-CHis(6) was increased &gt;2-fold at approximately 5 microgram/ml <z:chebi fb="5" ids="28304">heparin</z:chebi> compared with <z:mp ids='MP_0002169'>wild-type</z:mp> recombinant HCII (wt-rHCII) at 50-100 microgram/ml <z:chebi fb="5" ids="28304">heparin</z:chebi> </plain></SENT>
+<SENT sid="3" pm="."><plain>Enhanced activity of rHCII-CHis(6) was reversed by treatment with carboxypeptidase A </plain></SENT>
+<SENT sid="4" pm="."><plain>We assessed the role of the HCII acidic domain by constructing amino-terminal deletion mutants (Delta1-52, Delta1-68, and Delta1-75) in wt-rHCII and rHCII-CHis(6) </plain></SENT>
+<SENT sid="5" pm="."><plain>Without <z:chebi fb="0" ids="18085">glycosaminoglycan</z:chebi>, unlike wt-rHCII deletion mutants, the rHCII-CHis(6) deletion mutants were less active compared with full-length rHCII-CHis(6) </plain></SENT>
+<SENT sid="6" pm="."><plain>With <z:chebi fb="0" ids="18085">glycosaminoglycans</z:chebi>, Delta1-68 and Delta1-75 rHCIIs were <z:hpo ids='HP_0000001'>all</z:hpo> less active </plain></SENT>
+<SENT sid="7" pm="."><plain>We assessed the character of the tag by comparing rHCII-CHis(6), rHCII-CAla(6), and rHCII-CLys(6) to wt-rHCII </plain></SENT>
+<SENT sid="8" pm="."><plain>Only rHCII-CHis(6) had increased activity with <z:chebi fb="5" ids="28304">heparin</z:chebi>, whereas <z:hpo ids='HP_0000001'>all</z:hpo> three mutants have increased <z:chebi fb="5" ids="28304">heparin</z:chebi> binding </plain></SENT>
+<SENT sid="9" pm="."><plain>We generated a carboxyl-terminal histidine-tagged recombinant antithrombin III to study the tag on another serpin </plain></SENT>
+<SENT sid="10" pm="."><plain>Interestingly, this mutant antithrombin III had reduced <z:chebi fb="5" ids="28304">heparin</z:chebi> cofactor activity compared with <z:mp ids='MP_0002169'>wild-type</z:mp> protein </plain></SENT>
+<SENT sid="11" pm="."><plain>In a plasma-based assay, the <z:chebi fb="0" ids="18085">glycosaminoglycan</z:chebi>-dependent inhibition of thrombin by rHCII-CHis(6) was significantly greater compared with wt-rHCII </plain></SENT>
+<SENT sid="12" pm="."><plain>Thus, HCII variants with increased function, such as rHCII-CHis(6), may offer novel reagents for clinical application </plain></SENT>
+</text></document>

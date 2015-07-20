@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The classification of heartbeats is crucial to identify an <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>This paper proposes a new method that combines independent component analysis (ICA) with sparse representation-based classification (SRC) to distinguish eight types of heartbeats </plain></SENT>
+<SENT sid="2" pm="."><plain>We use ICA to extract useful features from heartbeats </plain></SENT>
+<SENT sid="3" pm="."><plain>A feature vector consists of 100 ICA features along with a RR interval </plain></SENT>
+<SENT sid="4" pm="."><plain>We use SRC to compute a sparse representation of a test feature vector with respect to <z:hpo ids='HP_0000001'>all</z:hpo> training feature vectors </plain></SENT>
+<SENT sid="5" pm="."><plain>The type of a test feature vector is determined using the concentration degree of sparse coefficients on each heartbeat type </plain></SENT>
+<SENT sid="6" pm="."><plain>For experimental purposes, 9800 heartbeats are extracted from the <z:chebi fb="75" ids="27847,53620">MIT</z:chebi>-BIH electrocardiogram (ECG) database </plain></SENT>
+<SENT sid="7" pm="."><plain>The results show that our proposed method performs better than conventional methods, with 98.35% accuracy and 94.49%-100% sensitivities to several heartbeat types </plain></SENT>
+</text></document>

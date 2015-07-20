@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The authors recently developed a primate <z:hpo ids='HP_0001727'>thromboembolic stroke</z:hpo> model </plain></SENT>
+<SENT sid="1" pm="."><plain>To characterize the primate model, the authors determined serial changes in cerebral blood flow (CBF) and the relation between CBF and cerebral metabolic rate of <z:chebi fb="105" ids="17234">glucose</z:chebi> (CMRglc) using high-resolution <z:chebi fb="4" ids="30225">positron</z:chebi> emission tomography </plain></SENT>
+<SENT sid="2" pm="."><plain><z:hpo ids='HP_0001727'>Thromboembolic stroke</z:hpo> was produced in male cynomolgus monkeys (n = 4) </plain></SENT>
+<SENT sid="3" pm="."><plain><z:hpo ids='HP_0011009'>Acute</z:hpo> obstruction of the left middle cerebral artery was achieved by injecting an autologous blood clot into the left internal carotid artery </plain></SENT>
+<SENT sid="4" pm="."><plain>Cerebral blood flow was measured with [<z:chebi fb="2" ids="36932">15O</z:chebi>]<z:chebi fb="2" ids="29375,33813">H2O</z:chebi> before and 1, 2, 4, 6, and 24 hours after embolization </plain></SENT>
+<SENT sid="5" pm="."><plain>CMRglc was measured with 2-[<z:chebi fb="0" ids="36939">18F</z:chebi>]fluoro-2-deoxy-<z:chebi fb="0" ids="4167">D-glucose</z:chebi> ([<z:chebi fb="0" ids="36939">18F</z:chebi>]FDG) 24 hours after embolization </plain></SENT>
+<SENT sid="6" pm="."><plain>Lesion size and location 24 hours after embolization was determined by the 2,3,5-triphenyltetrazolium <z:chebi fb="76" ids="17996">chloride</z:chebi> (TTC) staining method </plain></SENT>
+<SENT sid="7" pm="."><plain>The results are summarized as follows: (1) 1 hour after embolization, CBF in the temporal cortex and the basal ganglia decreased to &lt; 40% of the contralateral values </plain></SENT>
+<SENT sid="8" pm="."><plain>In these regions, regarded as an ischemic core, CBF decreased further with time and CMRglc at 24 hours also decreased </plain></SENT>
+<SENT sid="9" pm="."><plain>Infarcted lesions as indicated by being unstained with TTC were consistently observed in these regions </plain></SENT>
+<SENT sid="10" pm="."><plain>(2) In the parietal cortex and several regions surrounding the ischemic core, CBF was &gt; 40% of the contralateral values 1 hour after embolization and recovered gradually with time (ischemic penumbra) </plain></SENT>
+<SENT sid="11" pm="."><plain>In these regions, CMRglc at 24 hours increased compared with that in the contralateral regions, indicating an uncoupling of CBF and CMRglc </plain></SENT>
+<SENT sid="12" pm="."><plain>No obvious TTC-unstained lesions were detected in these regions </plain></SENT>
+<SENT sid="13" pm="."><plain>The authors demonstrated a gradual recovery of reduced CBF, an elevated CMRglc and a CBF-CMRglc uncoupling in the penumbra regions of the primate model </plain></SENT>
+<SENT sid="14" pm="."><plain><z:chebi fb="4" ids="30225">Positron</z:chebi> emission tomography investigations using this model will provide better understanding of the pathophysiology of <z:hpo ids='HP_0001727'>thromboembolic stroke</z:hpo> in humans </plain></SENT>
+</text></document>

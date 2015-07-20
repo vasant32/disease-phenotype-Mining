@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIMS: In patients with <z:hpo ids='HP_0004757'>paroxysmal atrial fibrillation</z:hpo> (AF), the P-wave signal-averaged electrocardiogram often demonstrates a low-amplitude potential at the terminal part of filtered P-wave (atrial late potential: ALP), which would originate from delayed pulmonary vein (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">PV</z:e>) potentials </plain></SENT>
+<SENT sid="1" pm="."><plain>The aim of this study was to investigate the impact of <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">PV</z:e> isolation on P-wave <z:mp ids='MP_0000002'>morphology</z:mp>, and explore the association between ALP and AF recurrence after ablation </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS AND RESULTS: We enrolled 88 consecutive paroxysmal AF patients scheduled for ablation </plain></SENT>
+<SENT sid="3" pm="."><plain>The signal-averaged electrocardiogram was obtained at baseline and 1 day after ablation </plain></SENT>
+<SENT sid="4" pm="."><plain>An ALP was defined as a P-wave duration of ≥130 ms and a root-mean-squared voltage of the terminal 20 ms of ≤2.0 μV </plain></SENT>
+<SENT sid="5" pm="."><plain>A pre-procedural ALP was found in 37 (42%) patients and a post-procedural ALP was found in 26 (30%) patients </plain></SENT>
+<SENT sid="6" pm="."><plain>We completed <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">PV</z:e> isolation in <z:hpo ids='HP_0000001'>all</z:hpo> patients and followed them for 16 ± 4 months </plain></SENT>
+<SENT sid="7" pm="."><plain>The AF recurrence rate was 30% (26 patients) and was similar between patients with and without pre-procedural ALP (27 vs. 31%, respectively, P = 0.66); however, AF recurrence was significantly higher in patients with than without post-procedural ALP (54 vs. 19%, respectively, P = 0.001) </plain></SENT>
+<SENT sid="8" pm="."><plain>In multivariate logistic regression analysis, post-procedural ALP was independently associated with AF recurrence (odds ratio = 4.22, 95% confidence interval = 1.52-11.7) </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSION: Pulmonary vein isolation can modify ALP in a substantial number of patients with paroxysmal AF </plain></SENT>
+<SENT sid="10" pm="."><plain>Post-procedural ALP is associated with increased risk of future AF recurrence </plain></SENT>
+</text></document>

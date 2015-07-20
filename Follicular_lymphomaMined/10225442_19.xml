@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The D-type cyclins, involved in the regulation of G1 progression of the cell cycle, are expressed in a lineage-specific manner </plain></SENT>
+<SENT sid="1" pm="."><plain><z:mpath ids='MPATH_458'>Normal</z:mpath> hematopoietic cells express cyclin D2 and/or D3 </plain></SENT>
+<SENT sid="2" pm="."><plain>In order to determine whether their expression pattern changes in <z:mp ids='MP_0002022'>lymphoid tumors</z:mp>, we examined cyclin D2 and D3 expression in non-neoplastic and neoplastic lymphoid lesions, using a sensitive immunohistochemical amplification method </plain></SENT>
+<SENT sid="3" pm="."><plain>Centroblasts in lymphoid follicles of reactive lymph nodes expressed exclusively cyclin D3 and no D2 </plain></SENT>
+<SENT sid="4" pm="."><plain>Interfollicular areas contained scattered cyclin D3 and D2 positive cells </plain></SENT>
+<SENT sid="5" pm="."><plain>By double staining, cyclin D3 was detected in CD79a positive B cells, CD3 positive T cells and CD68 positive macrophages </plain></SENT>
+<SENT sid="6" pm="."><plain>Cyclin D2 was present only in CD3 positive T cells </plain></SENT>
+<SENT sid="7" pm="."><plain>Neoplastic lymphoid lesions included 33 B cell <z:hpo ids='HP_0002665'>lymphomas</z:hpo>, 9 T cell <z:hpo ids='HP_0002665'>lymphomas</z:hpo> and 12 Hodgkin's <z:hpo ids='HP_0002665'>lymphomas</z:hpo> </plain></SENT>
+<SENT sid="8" pm="."><plain>The B cell <z:hpo ids='HP_0002665'>lymphomas</z:hpo> comprised 9 follicular <z:hpo ids='HP_0002665'>lymphomas</z:hpo> (FL), 1 Burkitt <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">BL</z:e>), 22 diffuse large cell <z:hpo ids='HP_0002665'>lymphomas</z:hpo> (DL) and 1 <z:hpo ids='HP_0005550'>chronic lymphocytic leukemia</z:hpo> (CLL) </plain></SENT>
+<SENT sid="9" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> 9 FLs and the single <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">BL</z:e> expressed exclusively cyclin D3, similarly to germinal center B cells, that represent their cells of origin </plain></SENT>
+<SENT sid="10" pm="."><plain>Six DLs expressed both cyclin D2 and D3, while 6 expressed only D3 </plain></SENT>
+<SENT sid="11" pm="."><plain>Among the 9 pleomorphic T cell <z:hpo ids='HP_0002665'>lymphomas</z:hpo>, medium and large cell type, 5 expressed cyclin D2 </plain></SENT>
+<SENT sid="12" pm="."><plain>Cyclin D3 was also detected in scattered cells in 4 of 9 cases and was highly expressed in 2 of 9 T cell <z:hpo ids='HP_0002665'>lymphomas</z:hpo> </plain></SENT>
+<SENT sid="13" pm="."><plain>The majority of Hodgkin's <z:hpo ids='HP_0002665'>lymphomas</z:hpo> expressed both cyclin D2 and D3 in Hodgkin/Reed-Sternberg (HRS) cells </plain></SENT>
+<SENT sid="14" pm="."><plain>The high frequency of positive cells indicates that both cyclins were expressed in the same cells </plain></SENT>
+</text></document>

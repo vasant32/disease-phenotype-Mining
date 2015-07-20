@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECT: Sex differences in the outcome of aneurysmal <z:hpo ids='HP_0002138'>subarachnoid hemorrhage</z:hpo> (SAH) are controversial, and the potential influence of <z:chebi fb="1" ids="23965">estradiol</z:chebi> on vasodilation is unclear </plain></SENT>
+<SENT sid="1" pm="."><plain>In the present study the authors evaluate the effect and possible mechanism of <z:chebi fb="0" ids="16469">17beta-estradiol</z:chebi> (E2) on SAH-induced vasospasm in a two-<z:mp ids='MP_0001914'>hemorrhage</z:mp> <z:e sem="disease" ids="C1519106" disease_type="Experimental Model of Disease" abbrv="">rodent model</z:e> of SAH </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: A 30-mm Silastic tube filled with E2 in corn oil (0.3 mg/ml) was subcutaneously implanted in male rats </plain></SENT>
+<SENT sid="3" pm="."><plain>Serum levels of E2 were measured on Days 0, 1, 2, 3, 4, and 7 postimplantation </plain></SENT>
+<SENT sid="4" pm="."><plain>The degree of vasospasm was determined by averaging the cross-sectional areas of the basilar artery (BA) 7 days after the first SAH </plain></SENT>
+<SENT sid="5" pm="."><plain>Expressions of endothelial nitric <z:chebi fb="177" ids="25741,29356">oxide</z:chebi> synthase (eNOS) and inducible NOS (iNOS) in the BA were also evaluated </plain></SENT>
+<SENT sid="6" pm="."><plain>Serum levels of E2 in the E2-treated rats were at physiological levels (56-92 pg/ml) and were significantly higher than those in the control and vehicle-treated groups </plain></SENT>
+<SENT sid="7" pm="."><plain>Treatment with E2 significantly (p &lt; 0.01) attenuated SAH-induced vasospasm </plain></SENT>
+<SENT sid="8" pm="."><plain>Induction of iNOS messenger (m)<z:chebi fb="40" ids="33697">RNA</z:chebi> and protein in the BA by SAH was significantly diminished by the E2 treatment but not by vehicle treatment </plain></SENT>
+<SENT sid="9" pm="."><plain>The SAH-induced suppression of eNOS <z:chebi fb="2" ids="33699">mRNA</z:chebi> and protein was relieved by E2 treatment </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSIONS: These results suggest that continuous treatment with E2 at physiological levels prevents <z:e sem="disease" ids="C0265110" disease_type="Disease or Syndrome" abbrv="">cerebral vasospasm</z:e> following SAH </plain></SENT>
+<SENT sid="11" pm="."><plain>The beneficial effect of E2 may be in part related to the prevention of augmentation of iNOS expression and the preservation of <z:mpath ids='MPATH_458'>normal</z:mpath> eNOS expression after SAH </plain></SENT>
+<SENT sid="12" pm="."><plain>Treatment with E2 holds therapeutic promise in the treatment of <z:e sem="disease" ids="C0265110" disease_type="Disease or Syndrome" abbrv="">cerebral vasospasm</z:e> following SAH and merits further investigation </plain></SENT>
+</text></document>

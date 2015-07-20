@@ -1,0 +1,4 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We report a case of <z:hpo ids='HP_0001890'>autoimmune hemolytic anemia</z:hpo> in a patient with <z:e sem="disease" ids="C0026948" disease_type="Neoplastic Process" abbrv="">mycosis fungoides</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>We propose that <z:hpo ids='HP_0001890'>autoimmune hemolytic anemia</z:hpo> may be induced by cutaneous <z:e sem="disease" ids="C0024314" disease_type="Neoplastic Process" abbrv="">lymphoproliferative diseases</z:e> </plain></SENT>
+<SENT sid="2" pm="."><plain>Thus, <z:mp ids='MP_0010163'>hemolysis</z:mp> should be considered as a mechanism of <z:hpo ids='HP_0001903'>anemia</z:hpo> in patients with <z:e sem="disease" ids="C0026948" disease_type="Neoplastic Process" abbrv="">mycosis fungoides</z:e> </plain></SENT>
+</text></document>

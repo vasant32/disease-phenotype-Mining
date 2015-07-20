@@ -1,0 +1,24 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Two human monoclonal <z:hpo ids='HP_0003613'>antiphospholipid antibodies</z:hpo> (<z:chebi fb="21" ids="53713">APA</z:chebi>) of the IgG type, <z:e sem="disease" ids="C0019829" disease_type="Neoplastic Process" abbrv="hd">HL</z:e>-5B and RR-7F have been generated from a patient with <z:e sem="disease" ids="C0409980" disease_type="Disease or Syndrome" abbrv="">primary antiphospholipid syndrome</z:e> and recurrent cerebral microemboli (H.L.) and from a patient with SLE without evidence of <z:hpo ids='HP_0004419'>recurrent thrombosis</z:hpo> (R.R.) </plain></SENT>
+<SENT sid="1" pm="."><plain>Both monoclonal <z:chebi fb="21" ids="53713">APA</z:chebi> have similar characteristics in ELISA tests </plain></SENT>
+<SENT sid="2" pm="."><plain>To further analyse the prothrombotic potential, their effect on human monocytes and platelets, and bovine aortic endothelial cells (BAEC) was investigated </plain></SENT>
+<SENT sid="3" pm="."><plain>Monocytes were isolated from buffy coats by standard techniques </plain></SENT>
+<SENT sid="4" pm="."><plain>They were incubated either with the respective monoclonal <z:chebi fb="21" ids="53713">APA</z:chebi> in different concentrations, or a control monoclonal IgG of the same subtype, or plasma of the patients, from whom the antibodies were isolated </plain></SENT>
+<SENT sid="5" pm="."><plain>Incubation with LPS served as positive control </plain></SENT>
+<SENT sid="6" pm="."><plain>BAEC were grown to confluence, and then incubated with the appropriate <z:chebi fb="4" ids="48705">agonists</z:chebi> </plain></SENT>
+<SENT sid="7" pm="."><plain>Procoagulant activity (<z:chebi fb="20" ids="36751">PCA</z:chebi>) was determined by a single stage clotting assay </plain></SENT>
+<SENT sid="8" pm="."><plain><z:chebi fb="20" ids="36751">PCA</z:chebi> expression after incubation is given as the ratio of the coagulation times observed with media only divided by that observed with the <z:chebi fb="4" ids="48705">agonist</z:chebi> </plain></SENT>
+<SENT sid="9" pm="."><plain>A <z:chebi fb="20" ids="36751">PCA</z:chebi> ratio &gt;1 indicates the induction of <z:chebi fb="20" ids="36751">PCA</z:chebi> by the <z:chebi fb="4" ids="48705">agonist</z:chebi> </plain></SENT>
+<SENT sid="10" pm="."><plain>At 1 microg/ml <z:e sem="disease" ids="C0019829" disease_type="Neoplastic Process" abbrv="hd">HL</z:e>-5B yielded a <z:chebi fb="20" ids="36751">PCA</z:chebi> ratio of 1.63 +/- 0.16 while RR-7F induced no significant rise to 1.06 +/- 0.18 </plain></SENT>
+<SENT sid="11" pm="."><plain>Dose response curves showed that RR-7F can induce <z:chebi fb="20" ids="36751">PCA</z:chebi> at higher concentrations </plain></SENT>
+<SENT sid="12" pm="."><plain>However, its effect is approx </plain></SENT>
+<SENT sid="13" pm="."><plain>1/50 of <z:e sem="disease" ids="C0019829" disease_type="Neoplastic Process" abbrv="hd">HL</z:e>-5B based on equimolar antibody concentration </plain></SENT>
+<SENT sid="14" pm="."><plain>Further analysis indicates that the majority of the <z:chebi fb="20" ids="36751">PCA</z:chebi> induced by monoclonal <z:chebi fb="21" ids="53713">APA</z:chebi> can be inhibited by a specific tissue factor antibody </plain></SENT>
+<SENT sid="15" pm="."><plain>Neither monoclonal antibody induced <z:chebi fb="20" ids="36751">PCA</z:chebi> in BAEC </plain></SENT>
+<SENT sid="16" pm="."><plain>Sera from both patients were able to induce <z:chebi fb="20" ids="36751">PCA</z:chebi> in monocytes </plain></SENT>
+<SENT sid="17" pm="."><plain>However, the <z:chebi fb="20" ids="36751">PCA</z:chebi> ratio of serum from H.L. was higher (1.78) than that of R.R </plain></SENT>
+<SENT sid="18" pm="."><plain>(1.44) </plain></SENT>
+<SENT sid="19" pm="."><plain>Neither monoclonal <z:chebi fb="21" ids="53713">APA</z:chebi> had an effect on platelets as determined by flow cytometric analysis of CD62P, CD41, CD42b expression and fibrinogen binding with and without previous activation with 5 microM <z:chebi fb="13" ids="16761">ADP</z:chebi> or 15 microM TRAP-6 </plain></SENT>
+<SENT sid="20" pm="."><plain>Similarly, there were no differences in platelet aggregation to different stimuli including submaximal activation </plain></SENT>
+<SENT sid="21" pm="."><plain>In summary, these data provide further evidence that induction of tissue factor in monocytes is one of the procoagulant effects of <z:chebi fb="21" ids="53713">APA</z:chebi> </plain></SENT>
+<SENT sid="22" pm="."><plain>Furthermore, the binding specificity of <z:chebi fb="21" ids="53713">APA</z:chebi> is perhaps not suited to predict the biological effects of the antibodies </plain></SENT>
+</text></document>

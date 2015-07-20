@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:e sem="disease" ids="C0085278" disease_type="Disease or Syndrome" abbrv="">Antiphospholipid syndrome</z:e> (APS) is characterized by thromboembolic phenomena and recurrent fetal loss associated with elevated circulating anti-<z:chebi fb="0" ids="16247">phospholipid</z:chebi>/beta2glycoprotein-I(β2GPI)-binding-antibodies(Abs) </plain></SENT>
+<SENT sid="1" pm="."><plain>Individual APS patients harbor diverse clusters of circulating anti-β2GPI Abs, targeting different <z:chebi fb="0" ids="53000">epitopes</z:chebi> on the β2GPI molecule </plain></SENT>
+<SENT sid="2" pm="."><plain>Our novel approach was to construct a <z:chebi fb="7" ids="16670">peptide</z:chebi> composed of β2GPI-ECs-binding-site (<z:chebi fb="1" ids="16247">phospholipids</z:chebi>-membrane), named "EMBI" </plain></SENT>
+<SENT sid="3" pm="."><plain>EMBI exert dual activities: a) At first EMBI prevented ��2GPI ECs binding, thus reduced by 89% the binding of β2GPI/anti-β2GPI to the cells in comparison with 9.3% inhibition by EMBI scrambled form (scEMBI) </plain></SENT>
+<SENT sid="4" pm="."><plain>b) Longer exposure of ECs to EMBI resulted in intracellular EMBI penetration which did not prevent β2GPI/anti-β2GPI binding to HUVEC </plain></SENT>
+<SENT sid="5" pm="."><plain>Surprisingly, β2GPI/anti-β2GPI did not activate ECs harboring EMBI, illustrated by prevention of E-selectin and tissue factor (TF) expression </plain></SENT>
+<SENT sid="6" pm="."><plain>The inhibition of TF <z:chebi fb="2" ids="33699">mRNA</z:chebi> transcription was illustrated by quantitative RT-PCR </plain></SENT>
+<SENT sid="7" pm="."><plain>EMBI decreased the expression of phosphorylated JNK1/2, p38, HSP27 and enhanced phosphorylation of <z:chebi fb="15" ids="28087">glycogen</z:chebi> synthase kinase-3β (pGSK3β) </plain></SENT>
+<SENT sid="8" pm="."><plain>Knocking down the GSK3β expression by siRNA-GSK3β, reduced the TF expression by β2GPI/anti-β2GPI-exposed-HUVEC </plain></SENT>
+<SENT sid="9" pm="."><plain>In-vivo, EMBI significantly decreased the percentage of fetal loss in naïve mice infused with anti-β2GPI Abs, p&lt;0.04 </plain></SENT>
+<SENT sid="10" pm="."><plain>Thus, the dual activity of EMBI may introduce EMBI as a potential novel candidate <z:chebi fb="7" ids="16670">peptide</z:chebi>, to treat patients with APS </plain></SENT>
+</text></document>

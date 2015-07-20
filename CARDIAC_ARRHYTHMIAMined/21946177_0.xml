@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: Emergency department (ED) staff need to rapidly establish accurate diagnosis and management for children with <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Limited data are available on the presenting features, epidemiology and management of <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> encountered in the ED </plain></SENT>
+<SENT sid="2" pm="."><plain>The aim of this study was to characterise the incidence, presenting features, management and outcomes of <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> at a large tertiary children's hospital ED </plain></SENT>
+<SENT sid="3" pm="."><plain>PATIENTS AND METHODS: Retrospective review of medical records identified via the ED electronic database using <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">ICD</z:e>-10 codes for <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> including <z:hpo ids='HP_0001695'>cardiac arrests</z:hpo> over a 6-year period (2002-2008) </plain></SENT>
+<SENT sid="4" pm="."><plain>Patients &lt;18 years were analysed using predefined criteria </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: There were a total of 444 non-arrest <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> with an incidence of 11.5:10 000 presentations </plain></SENT>
+<SENT sid="6" pm="."><plain>Median age of patients at presentation was 10.4 years; 45% were male </plain></SENT>
+<SENT sid="7" pm="."><plain><z:hpo ids='HP_0005115'>Supraventricular arrhythmias</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">SVTs</z:e>) represented the largest subgroup (n=250, 56%) </plain></SENT>
+<SENT sid="8" pm="."><plain><z:e sem="disease" ids="C0264886" disease_type="Disease or Syndrome" abbrv="">Conduction disorders</z:e> (n=18), <z:hpo ids='HP_0004756'>ventricular tachycardia</z:hpo> (n=17) and <z:hpo ids='HP_0004749'>atrial flutter</z:hpo>/<z:mp ids='MP_0006109'>fibrillation</z:mp> (n=7) were rare </plain></SENT>
+<SENT sid="9" pm="."><plain>There were 19 <z:hpo ids='HP_0001695'>cardiac arrests</z:hpo> </plain></SENT>
+<SENT sid="10" pm="."><plain>Fifty-seven (13%) patients had underlying <z:hpo ids='HP_0002564'>congenital heart disease</z:hpo> </plain></SENT>
+<SENT sid="11" pm="."><plain>For ongoing <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">SVT</z:e> (n=135), vagal manoeuvres were used in 74%, and antiarrhythmic drugs in 64% </plain></SENT>
+<SENT sid="12" pm="."><plain>In five patients with <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">SVT</z:e>, drugs other than <z:chebi fb="3" ids="16335">adenosine</z:chebi> were used </plain></SENT>
+<SENT sid="13" pm="."><plain>Defibrillators were used only on 2 occasions for arrthymias and 6 times for <z:hpo ids='HP_0001695'>cardiac arrests</z:hpo> </plain></SENT>
+<SENT sid="14" pm="."><plain>18 of 19 children in <z:hpo ids='HP_0001695'>cardiac arrest</z:hpo> died </plain></SENT>
+<SENT sid="15" pm="."><plain>CONCLUSION: In this largest paediatric series outside the intensive care and postoperative setting, <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> were uncommon, defibrillator use was very rare, and observed mortality was low </plain></SENT>
+</text></document>

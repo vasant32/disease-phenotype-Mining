@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>In lower-risk <z:hpo ids='HP_0002863'>myelodysplastic syndromes</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e>) with del(5q), lenalidomide induces erythroid responses associated with better survival </plain></SENT>
+<SENT sid="1" pm="."><plain>In a phase II, single-arm trial, 45 patients with <z:hpo ids='HP_0001903'>anemia</z:hpo> and lower-risk del(5q) <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> received lenalidomide 10 mg/day to evaluate quality of life (QoL) changes, measured by QOL-E, safety, responses and survival </plain></SENT>
+<SENT sid="2" pm="."><plain>Lenalidomide was well tolerated, with 80% completing ≥ 24 weeks of treatment </plain></SENT>
+<SENT sid="3" pm="."><plain>Earlier study discontinuation was related to disease progression (n = 5), <z:hpo ids='HP_0011420'>death</z:hpo> (n = 1) and withdrawal of consent (n = 3) </plain></SENT>
+<SENT sid="4" pm="."><plain>Within 24 weeks, 82% obtained erythroid responses, durable in 69% at 52 weeks </plain></SENT>
+<SENT sid="5" pm="."><plain>Cytogenetic responses occurred in 29 patients (64%), with 10 patients achieving a complete cytogenetic response </plain></SENT>
+<SENT sid="6" pm="."><plain>QoL-E scores correlated with <z:chebi fb="0" ids="35143">hemoglobin</z:chebi> levels and improved in erythroid responders </plain></SENT>
+<SENT sid="7" pm="."><plain>Erythroid responders had an 86% reduced risk of disease progression and an 80% reduction in mortality risk compared with non-responders </plain></SENT>
+<SENT sid="8" pm="."><plain>These findings corroborate earlier studies and give further support to the use of lenalidomide in lower-risk <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> and del(5q) </plain></SENT>
+</text></document>

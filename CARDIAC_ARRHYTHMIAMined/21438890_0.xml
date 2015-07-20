@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0011675'>Arrhythmia</z:hpo> is well described following cardiac transplantation </plain></SENT>
+<SENT sid="1" pm="."><plain>We report a case of recurrent <z:hpo ids='HP_0001663'>ventricular fibrillation</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">VF</z:e>) originating from an orthotopic cardiac allograft </plain></SENT>
+<SENT sid="2" pm="."><plain><z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">VF</z:e> was consistently initiated on each occasion by a relatively early-coupled monomorphic ventricular ectopic </plain></SENT>
+<SENT sid="3" pm="."><plain>Antiarrhythmic agents failed to suppress the <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> </plain></SENT>
+<SENT sid="4" pm="."><plain>Electrophysiological testing with noncontact mapping showed a high-frequency potential at the earliest activation site </plain></SENT>
+<SENT sid="5" pm="."><plain>Radiofrequency ablation resulted in abolition of ventricular ectopy with no further <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">VF</z:e> recurrence </plain></SENT>
+<SENT sid="6" pm="."><plain>Although there is substantial experience with ablation of atrial <z:hpo ids='HP_0001649'>tachycardias</z:hpo> in this setting, experience with ablation for <z:hpo ids='HP_0004308'>ventricular arrhythmias</z:hpo> is limited and ablation of <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">VF</z:e> not described </plain></SENT>
+</text></document>

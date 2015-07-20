@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Mutations in the LMNA gene, which encodes lamin A and C (lamin A/C), cause a diverse spectrum of tissue-selective diseases termed laminopathies </plain></SENT>
+<SENT sid="1" pm="."><plain>The most prevalent form affects striated muscles as <z:hpo ids='HP_0001644'>dilated cardiomyopathy</z:hpo> with variable skeletal muscle involvement, which includes autosomal Emery-Dreifuss <z:hpo ids='HP_0003560'>muscular dystrophy</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>Mechanisms underlying the disease pathogenesis are beginning to be understood and they point toward defects in cell signaling </plain></SENT>
+<SENT sid="3" pm="."><plain>We therefore assessed putative signaling defects in a mouse model carrying a point mutation in Lmna (Lmna (H222P/H222P) ) that faithfully recapitulates human Emery-Dreifuss <z:hpo ids='HP_0003560'>muscular dystrophy</z:hpo> </plain></SENT>
+<SENT sid="4" pm="."><plain>We found that AKT-mechanistic target of <z:chebi fb="0" ids="9168">rapamycin</z:chebi> (MTOR) signaling was hyperactivated in hearts of Lmna (H222P/H222P) mice and that reducing MTOR activity by pharmacological intervention ameliorated <z:hpo ids='HP_0001638'>cardiomyopathy</z:hpo> </plain></SENT>
+<SENT sid="5" pm="."><plain>Given the central role of MTOR in regulating autophagy, we assessed fasting-induced autophagic responses and found that they were impaired in hearts of these mice </plain></SENT>
+<SENT sid="6" pm="."><plain>Moreover, the improved heart function associated with pharmacological blockade of MTOR was correlated with enhanced autophagy </plain></SENT>
+<SENT sid="7" pm="."><plain>These findings demonstrated that signaling defects that impair autophagy underlie pathogenesis of <z:hpo ids='HP_0001644'>dilated cardiomyopathy</z:hpo> arising from LMNA mutation </plain></SENT>
+</text></document>

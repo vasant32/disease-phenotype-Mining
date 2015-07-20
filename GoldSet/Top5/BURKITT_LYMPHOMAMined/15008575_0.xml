@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>INTRODUCTION: <z:hpo ids='HP_0003072'>Hypercalcaemia</z:hpo> with <z:hpo ids='HP_0003761'>calcinosis</z:hpo> cutis occurring at relapse of <z:hpo ids='HP_0011009'>acute</z:hpo> lymphoblastic <z:mpath ids='MPATH_336'>leukaemia</z:mpath> (ALL) is rare and unusual </plain></SENT>
+<SENT sid="1" pm="."><plain>CLINICAL PICTURE: A 19-year-old lady with B precursor ALL presented with extensive waxy, verrucous, tender plaques over the flexures of her arms and legs a week after relapse of <z:mpath ids='MPATH_336'>leukaemia</z:mpath> </plain></SENT>
+<SENT sid="2" pm="."><plain>She was found to have <z:hpo ids='HP_0003072'>hypercalcaemia</z:hpo>, <z:e sem="disease" ids="C0085681" disease_type="Disease or Syndrome" abbrv="">hyperphosphataemia</z:e>, <z:hpo ids='HP_0002149'>hyperuricaemia</z:hpo> and <z:hpo ids='HP_0011009'>acute</z:hpo> <z:e sem="disease" ids="C0341697" disease_type="Disease or Syndrome" abbrv="">renal impairment</z:e> </plain></SENT>
+<SENT sid="3" pm="."><plain>Skin biopsy was consistent with <z:hpo ids='HP_0003761'>calcinosis</z:hpo> cutis </plain></SENT>
+<SENT sid="4" pm="."><plain>There was no evidence of metastatic calcification in other organs </plain></SENT>
+<SENT sid="5" pm="."><plain>TREATMENT: <z:hpo ids='HP_0003072'>Hypercalcaemia</z:hpo> was treated with aggressive hydration and intravenous pamidronate </plain></SENT>
+<SENT sid="6" pm="."><plain>High doses of <z:chebi fb="29" ids="35480">analgesics</z:chebi> were required for partial pain relief </plain></SENT>
+<SENT sid="7" pm="."><plain>OUTCOME: Cutaneous lesions proved resistant to early calcium lowering and were a source of constant pain </plain></SENT>
+<SENT sid="8" pm="."><plain>She succumbed to <z:mpath ids='MPATH_336'>leukaemia</z:mpath> four months later </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSION: Treatment of <z:hpo ids='HP_0003761'>calcinosis</z:hpo> cutis was unsatisfactory and would have been dependent on the successful treatment of the underlying <z:mpath ids='MPATH_336'>leukaemia</z:mpath> </plain></SENT>
+</text></document>

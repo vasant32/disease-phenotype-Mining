@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIM: To evaluate the value of three-dimensional (3D) whole brain perfused volume computed tomography (3D PBV CT) based on CT angiography (CTA) data in patients with hyperacute <z:e sem="disease" ids="C0007785" disease_type="Disease or Syndrome" abbrv="">cerebral infarction</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: Thirty-five patients who had suffered <z:hpo ids='HP_0001297'>stroke</z:hpo> with anterior circulation within 3 hours underwent nonenhanced CT (NECT) scanning and CTA </plain></SENT>
+<SENT sid="2" pm="."><plain>Neuro PBV, a 3D software, was utilized to process the raw CTA data and a PBV image of the brain was obtained </plain></SENT>
+<SENT sid="3" pm="."><plain>Magnetic resonance imaging (MRI) was performed 6 hours after CT imaging </plain></SENT>
+<SENT sid="4" pm="."><plain>The volume and quantity of the ischemic lesion on 3D PBV and NECT were compared with <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e>-diffuse-weighted imaging (DWI) </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: The numbers of cerebral <z:mpath ids='MPATH_124'>infarcts</z:mpath> detected by MRI, PBV, and NECT were 40, 38 and 16, respectively </plain></SENT>
+<SENT sid="6" pm="."><plain>The results of kappa analysis between NECT and PBV with <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e> were -.0128 and .7622, and a paired t-test analysis for the measurement of <z:mpath ids='MPATH_124'>infarct</z:mpath> volume between PBV and MRI was t = 7.249, P &gt; .05 </plain></SENT>
+<SENT sid="7" pm="."><plain>The lesions that were not detected by PBV volumes less than 4.5 cm(3) </plain></SENT>
+<SENT sid="8" pm="."><plain>CONCLUSION: 3D PBV CT has the potential to assess the full extent of an <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> at an early stage, whereas PBV is limited to the detection of small <z:mpath ids='MPATH_124'>infarcts</z:mpath> </plain></SENT>
+<SENT sid="9" pm="."><plain>The 3D PBV CT technique based on CTA data requires no additional radiation exposure or contrast medium injection, and can be performed in a short period of time </plain></SENT>
+</text></document>

@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Immunocytochemical and enzyme histochemical analyses of cells and tissues are used to detect changes in the extent of injury and the expression of various molecules </plain></SENT>
+<SENT sid="1" pm="."><plain>Image analysis quantitation offers an easier, more efficient technique to evaluate these changes </plain></SENT>
+<SENT sid="2" pm="."><plain>We studied the application of image analysis for evaluating enzyme histochemistry and immunocytochemistry of cells and tissues as a way to assess <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>Using brain sections, we compared investigator and computer-generated image analysis of 2,3,5-triphenyltetrazolium <z:chebi fb="76" ids="17996">chloride</z:chebi> stained cerebral <z:mpath ids='MPATH_124'>infarcts</z:mpath> in rats subjected to 2 h middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> and 22 h re-perfusion </plain></SENT>
+<SENT sid="4" pm="."><plain>Both methods documented the <z:mpath ids='MPATH_124'>infarct</z:mpath> volumes with a comparison of means of less then 5% </plain></SENT>
+<SENT sid="5" pm="."><plain>This suggests no difference between computer- and hand-calculated values </plain></SENT>
+<SENT sid="6" pm="."><plain>Computer-generated analysis was easier and faster to use </plain></SENT>
+<SENT sid="7" pm="."><plain>Using endothelial cell monolayers, immunocytochemical staining of a time course of heat shock protein expression was compared to a grading system using fast red chromagen counterstained with <z:chebi fb="1" ids="51686">hematoxylin</z:chebi> </plain></SENT>
+<SENT sid="8" pm="."><plain>Results demonstrated greater ease and efficiency with computer-generated image analysis compared to other subjective systems of analysis </plain></SENT>
+<SENT sid="9" pm="."><plain>Image analysis is more useful for detecting small differences in staining, especially when using 3,3-diaminobenzidine as a chromagen </plain></SENT>
+<SENT sid="10" pm="."><plain>Investigator bias is also reduced using this system </plain></SENT>
+<SENT sid="11" pm="."><plain>Our comparisons validate the use of this versatile technology to assess more easily both cell and tissues in <z:hpo ids='HP_0001297'>stroke</z:hpo> research </plain></SENT>
+</text></document>

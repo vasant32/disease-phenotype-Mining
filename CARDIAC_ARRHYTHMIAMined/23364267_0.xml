@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The molecular clock mechanism underlies circadian rhythms and is defined by a transcription/translation feedback loop </plain></SENT>
+<SENT sid="1" pm="."><plain>Bmal1 encodes a core molecular clock transcription factor </plain></SENT>
+<SENT sid="2" pm="."><plain>Germline Bmal1 knockout mice show a loss of circadian variation in heart rate and blood pressure, and they develop <z:hpo ids='HP_0001644'>dilated cardiomyopathy</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>We tested the role of the molecular clock in adult cardiomyocytes by generating mice that allow for the inducible cardiomyocyte specific deletion of Bmal1 (iCSΔBmal1) </plain></SENT>
+<SENT sid="4" pm="."><plain>ECG telemetry showed, cardiomyocyte specific deletion of Bmal1 (iCSΔBmal1(-/-)) in adult mice slowed heart rate, prolonged RR and QRS intervals, and increased episodes of <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> </plain></SENT>
+<SENT sid="5" pm="."><plain>Moreover, isolated iCSΔBmal1(-/-) hearts were more susceptible to <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> during electromechanical stimulation </plain></SENT>
+<SENT sid="6" pm="."><plain>Examination of candidate cardiac ion channel genes showed Scn5a, which encodes the principle cardiac voltage-gated <z:chebi fb="0" ids="29101">Na(+)</z:chebi> channel (NaV1.5), was circadianly expressed in control mouse and rat hearts but not in iCSΔBmal1(-/-) hearts </plain></SENT>
+<SENT sid="7" pm="."><plain>In vitro studies confirmed circadian expression of a human Scn5a promoter-luciferase reporter construct and determined that overexpression of clock factors transactivated the Scn5a promoter </plain></SENT>
+<SENT sid="8" pm="."><plain>Loss of Scn5a circadian expression in iCSΔBmal1(-/-) hearts was associated with decreased levels of NaV1.5 and <z:chebi fb="1" ids="29101">Na+</z:chebi> current in ventricular myocytes </plain></SENT>
+<SENT sid="9" pm="."><plain>We conclude disruption of the molecular clock in the adult heart slows heart rate, increases <z:hpo ids='HP_0011675'>arrhythmias</z:hpo>, and decreases the functional expression of Scn5a </plain></SENT>
+<SENT sid="10" pm="."><plain>These findings suggest a potential link between environmental factors that alter the cardiomyocyte molecular clock and factors that influence <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> susceptibility in humans </plain></SENT>
+</text></document>

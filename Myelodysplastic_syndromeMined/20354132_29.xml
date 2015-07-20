@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PURPOSE: Lenalidomide and <z:chebi fb="0" ids="2038">azacitidine</z:chebi> are active in patients with lower- and higher-risk <z:hpo ids='HP_0002863'>myelodysplastic syndromes</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e>) </plain></SENT>
+<SENT sid="1" pm="."><plain>These agents may complement each other by targeting both the bone marrow microenvironment and hypomethylating action on the malignant clone </plain></SENT>
+<SENT sid="2" pm="."><plain>PATIENTS AND METHODS: This phase I trial explored the safety of combination therapy in patients with higher-risk <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> </plain></SENT>
+<SENT sid="3" pm="."><plain>Response and characterization of molecular and methylation status of responders were secondary objectives </plain></SENT>
+<SENT sid="4" pm="."><plain>Patients were enrolled using a 3 + 3 dose escalation </plain></SENT>
+<SENT sid="5" pm="."><plain>Cycles lasted 28 days, and patients received a maximum of seven cycles </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: Of 18 patients enrolled, median age was 68 years (range, 52 to 78 years), interval from diagnosis was 5 weeks (range, 2 to 106 weeks), and follow-up was 7 months (range, 1 to 26 months) </plain></SENT>
+<SENT sid="7" pm="."><plain>International Prognostic Scoring System categories were intermediate 1 (n = 2), intermediate 2 (n = 10), and high (n = 6) </plain></SENT>
+<SENT sid="8" pm="."><plain>No dose-limiting toxicities occurred, and a maximum-tolerated dose was not reached </plain></SENT>
+<SENT sid="9" pm="."><plain>Grades 3 to 4 nonhematologic toxicities (&gt; 1) included febrile <z:hpo ids='HP_0001875'>neutropenia</z:hpo> (n = 5), cardiac (n = 2), and <z:chebi fb="7" ids="29425,29426,29441,29447">CNS</z:chebi> <z:mp ids='MP_0001914'>hemorrhage</z:mp> (n = 2) </plain></SENT>
+<SENT sid="10" pm="."><plain>Median absolute neutrophil count decrease was 26%, and platelet decrease was 1% (mean, 24%) </plain></SENT>
+<SENT sid="11" pm="."><plain>The overall response rate was 67%: eight patients (44%) had a complete response (CR); three patients (17%) had hematologic improvement; one patient (6%) had marrow CR </plain></SENT>
+<SENT sid="12" pm="."><plain>Patients achieving CR were more likely to have <z:mpath ids='MPATH_458'>normal</z:mpath> cytogenetics and lower methylation levels </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSION: The combination of lenalidomide and <z:chebi fb="0" ids="2038">azacitidine</z:chebi> is well tolerated with encouraging clinical activity </plain></SENT>
+<SENT sid="14" pm="."><plain>The go-forward dose is <z:chebi fb="0" ids="2038">azacitidine</z:chebi> 75 mg/m(2) on days 1 through 5 and lenalidomide 10 mg on days 1 through 21 </plain></SENT>
+</text></document>

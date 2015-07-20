@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:e sem="disease" ids="C0017551" disease_type="Disease or Syndrome" abbrv="">Gilbert syndrome</z:e> (GS) is characterized by intermittent <z:hpo ids='HP_0008282'>unconjugated hyperbilirubinemia</z:hpo> without structural liver damage, affecting about 10% of the white population </plain></SENT>
+<SENT sid="1" pm="."><plain>In GS the UGT1A1*28 variant reduces <z:chebi fb="0" ids="16990">bilirubin</z:chebi> conjugation by 70% and is associated with irinotecan and <z:chebi fb="0" ids="37670">protease inhibitor</z:chebi> side effects </plain></SENT>
+<SENT sid="2" pm="."><plain>The aim of this study was to characterize potential in vivo consequences of UGT1A gene variability in GS </plain></SENT>
+<SENT sid="3" pm="."><plain>Three hundred GS patients (UGT1A1*28 homozygous) and 249 healthy blood donors (HBD) were genotyped for UGT1A (UGT1A1*28, UGT1A3-66 T&gt;C, UGT1A6*3a, UGT1A7*3) and transporter single nucleotide polymorphisms (SNPs) (SCLO1B1 p.V174A, SCLO1B1 p.N130D, ABCC2 p.I1324I, ABCC2-24 UTR) using TaqMan-5'-nuclease-assays </plain></SENT>
+<SENT sid="4" pm="."><plain>A humanized transgenic UGT1A-SNP and corresponding <z:mp ids='MP_0002169'>wildtype</z:mp> mouse model were established carrying the GS-associated UGT1A variant haplotype </plain></SENT>
+<SENT sid="5" pm="."><plain>UGT1A transcript and protein expression, and transcriptional activation were studied in vivo </plain></SENT>
+<SENT sid="6" pm="."><plain>Homozygous UGT1A1*28 GS individuals were simultaneously homozygous for UGT1A3-66 T&gt;C (91%), UGT1A6*2a (77%), and UGT1A7*3 (77%) </plain></SENT>
+<SENT sid="7" pm="."><plain>Seventy-six percent of GS and only 9% of HBD were homozygous for the variant haplotype spanning four UGT1A genes </plain></SENT>
+<SENT sid="8" pm="."><plain>SCLO1B1 and ABCC2 SNPs showed no differences </plain></SENT>
+<SENT sid="9" pm="."><plain>In transgenic humanized UGT1A SNP and <z:mp ids='MP_0002169'>wildtype</z:mp> mice this UGT1A haplotype led to lower UGT1A <z:chebi fb="5" ids="33699">messenger RNA</z:chebi> (<z:chebi fb="2" ids="33699">mRNA</z:chebi>) expression and UGT1A protein synthesis </plain></SENT>
+<SENT sid="10" pm="."><plain>UGT1A transcriptional activation by <z:chebi fb="44" ids="28119">dioxin</z:chebi>, <z:chebi fb="1" ids="8069">phenobarbital</z:chebi>, and endotoxin was significantly reduced in SNP mice </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSION: Our data redefine the genetic basis behind GS </plain></SENT>
+<SENT sid="12" pm="."><plain>In vivo data studying the genotype present in 76% of GS individuals suggest that transcription and transcriptional activation of glucuronidation genes responsible for conjugation and detoxification is directly affected, leading to lower responsiveness </plain></SENT>
+<SENT sid="13" pm="."><plain>This study suggests that GS should be considered a potential risk factor for drug toxicity </plain></SENT>
+</text></document>

@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> (T2D) is characterized by <z:mp ids='MP_0003059'>decreased insulin secretion</z:mp> and action </plain></SENT>
+<SENT sid="1" pm="."><plain><z:mp ids='MP_0003059'>Decreased insulin secretion</z:mp> results from a reduction in pancreatic β-cell mass and/or function </plain></SENT>
+<SENT sid="2" pm="."><plain><z:mpath ids='MPATH_3'>Apoptosis</z:mpath>, <z:mp ids='MP_0003674'>oxidative stress</z:mp>, <z:hpo ids='HP_0001427'>mitochondrial</z:hpo> dysfunction and endoplasmic reticulum (ER) stress responses including JNK activation have been suggested as mechanisms for the changes of pancreatic β-cells in T2D; however, the underlying causes were not clearly elucidated </plain></SENT>
+<SENT sid="3" pm="."><plain>Autophagy is an intracellular process that plays crucial roles in cellular homeostasis through degradation and recycling of organelles </plain></SENT>
+<SENT sid="4" pm="."><plain>We have reported <z:mp ids='MP_0006042'>increased apoptosis</z:mp> and decreased proliferation of β-cells with resultant reduction in the β-cell mass in β-cell-specific autophagy-deficient mice </plain></SENT>
+<SENT sid="5" pm="."><plain>Morphological analysis of β-cells revealed accumulation of ubiquitinated proteins, <z:mp ids='MP_0011632'>swollen mitochondria</z:mp> and distended ER </plain></SENT>
+<SENT sid="6" pm="."><plain>Insulin secretory function ex vivo was also impaired </plain></SENT>
+<SENT sid="7" pm="."><plain>As a result, β-cell-specific autophagy-deficient mice showed hypoinsulinaemia and <z:e sem="disease" ids="C0020456" disease_type="Disease or Syndrome" abbrv="">hyperglycaemia</z:e> </plain></SENT>
+<SENT sid="8" pm="."><plain>These results suggested that autophagy is necessary to maintain the structure, mass and function of pancreatic β-cells </plain></SENT>
+<SENT sid="9" pm="."><plain>In addition, as autophagy may play a protective role against ER stress and rejuvenates organelle function, impaired autophagy may lead to <z:hpo ids='HP_0001427'>mitochondrial</z:hpo> dysfunction and ER stress, which have been implicated as potential causes of <z:hpo ids='HP_0000855'>insulin resistance</z:hpo> </plain></SENT>
+<SENT sid="10" pm="."><plain>Therefore, in addition to β-cell homeostasis, dysregulated autophagy may possibly be involved in diverse aspects of the pathogenesis of <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+</text></document>

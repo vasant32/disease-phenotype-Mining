@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>INTRODUCTION: Rituximab has significantly improved the prognosis for patients with both indolent and aggressive non-Hodgkin's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>An economic evaluation was carried out to assess the cost-effectiveness in Sweden of rituximab as maintenance therapy for patients with follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo> in remission after second line therapy </plain></SENT>
+<SENT sid="2" pm="."><plain>MATERIALS AND METHODS: The incremental cost and effectiveness of rituximab maintenance therapy versus observation were evaluated in a health-state transition model </plain></SENT>
+<SENT sid="3" pm="."><plain>Primary effect measures were quality-adjusted life-years (QALY) and life-years gained (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">LYG</z:e>) </plain></SENT>
+<SENT sid="4" pm="."><plain>Model state transitions were calculated based on progression-free and overall survival data from the EORTC20981 trial </plain></SENT>
+<SENT sid="5" pm="."><plain>The analysis was made from the perspective of the healthcare provider, including direct medical costs presented in euro, 2007 value </plain></SENT>
+<SENT sid="6" pm="."><plain>Effects and costs were discounted at a 3% annual rate </plain></SENT>
+<SENT sid="7" pm="."><plain>The stability of the base case results were tested in one-way and probabilistic sensitivity analyses </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: The evaluation assessed rituximab maintenance therapy to be associated with an incremental cost per QALY gained of euro 12,600 and an incremental cost per <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">LYG</z:e> of euro 11,200 </plain></SENT>
+<SENT sid="9" pm="."><plain>The average discounted life expectancy for patients on rituximab maintenance was 1.0 year longer than for patients on observation (5.96 vs. 4.94 years) </plain></SENT>
+<SENT sid="10" pm="."><plain>Rituximab maintenance was associated with an additional 0.9 QALY, and total costs per patient were euro 11,500 higher in the treatment arm, compared to observation </plain></SENT>
+<SENT sid="11" pm="."><plain>DISCUSSION: The results indicate that rituximab maintenance treatment after successful induction therapy for patients with relapsed/refractory follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo> in Sweden is cost-effective compared to observation </plain></SENT>
+</text></document>

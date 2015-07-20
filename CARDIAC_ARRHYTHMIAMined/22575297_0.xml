@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: It is believed that when patients present to the emergency department (ED) with recent-<z:hpo ids='HP_0003674'>onset</z:hpo> <z:hpo ids='HP_0005110'>atrial fibrillation</z:hpo> or flutter (RAFF), controlling the ventricular rate before cardioversion improves the success rate </plain></SENT>
+<SENT sid="1" pm="."><plain>We evaluated the influence of rate control medication and other variables on the success of cardioversion </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: This secondary analysis of a medical records review comprised 1,068 patients with RAFF who presented to eight Canadian EDs over 12 months </plain></SENT>
+<SENT sid="3" pm="."><plain>Univariate analysis was performed to find associations between predictors of conversion to sinus rhythm including use of rate control, rhythm control, and other variables </plain></SENT>
+<SENT sid="4" pm="."><plain>Predictive variables were incorporated into the multivariate model to calculate adjusted odds ratios (ORs) associated with successful cardioversion </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: A total of 634 patients underwent attempted cardioversion: 428 electrical, 354 chemical, and 148 both </plain></SENT>
+<SENT sid="6" pm="."><plain>Adjusted ORs for factors associated with successful electrical cardioversion were use of rate control medication, 0.39 (95% confidence interval [CI] 0.21-0.74); rhythm control medication, 0.28 (95% CI 0.15-0.53); and CHADS₂ score &gt; 0, 0.43 (95% CI 0.15-0.83) </plain></SENT>
+<SENT sid="7" pm="."><plain>ORs for factors associated with successful chemical cardioversion were use of rate control medication, 1.29 (95% CI 0.82-2.03); female sex, 2.37 (95% CI 1.50-3.72); and use of <z:chebi fb="0" ids="8428">procainamide</z:chebi>, 2.32 (95% CI 1.43-3.74) </plain></SENT>
+<SENT sid="8" pm="."><plain>CONCLUSION: We demonstrated reduced successful electrical cardioversion of RAFF when patients were pretreated with either rate or rhythm control medication </plain></SENT>
+<SENT sid="9" pm="."><plain>Although rate control medication was not associated with increased success of chemical cardioversion, use of <z:chebi fb="0" ids="8428">procainamide</z:chebi> was </plain></SENT>
+<SENT sid="10" pm="."><plain>Slowing the ventricular rate prior to cardioversion should be avoided </plain></SENT>
+</text></document>

@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The mechanisms which regulate cellular differentiation from human pluripotent stem cells to the committed granulocytic and monocytic stem cells (CFU-D, CFU-C) are still imperfectly understood </plain></SENT>
+<SENT sid="1" pm="."><plain>Most studies involve in vitro and animal experimentations and the relevance of the conclusions on human in vivo mechanisms may be questionable </plain></SENT>
+<SENT sid="2" pm="."><plain>The monocyte-macrophage system figures actually as the major source of humoral regulators of the <z:mpath ids='MPATH_458'>normal</z:mpath> granulocytopoiesis and monocytopoiesis in man </plain></SENT>
+<SENT sid="3" pm="."><plain>It produces CSF, a family of <z:chebi fb="0" ids="17089">glycoproteins</z:chebi> which stimulate the proliferation and maturation of CFU-c, and <z:chebi fb="0" ids="26338">PGE</z:chebi> which are inhibitory </plain></SENT>
+<SENT sid="4" pm="."><plain>In addition, CSF may act as a stimulator of the proliferation and myeloid commitment of CFU-S </plain></SENT>
+<SENT sid="5" pm="."><plain>Several other humoral factors are of less well established importance </plain></SENT>
+<SENT sid="6" pm="."><plain><z:mp ids='MP_0001794'>Bacterial</z:mp> toxins and antigens are potent stimulators of the production of CSF </plain></SENT>
+<SENT sid="7" pm="."><plain><z:chebi fb="5" ids="50113">Androgens</z:chebi> are stimulators of the proliferation of CFU-C </plain></SENT>
+<SENT sid="8" pm="."><plain>Lactoferrin, a <z:chebi fb="2" ids="17089">glycoprotein</z:chebi> released by granulocytes, may inhibit CSF production by monocytes-macrophages </plain></SENT>
+<SENT sid="9" pm="."><plain>CIF, a group of <z:chebi fb="2" ids="6495">lipoproteins</z:chebi>, may act as an inactivator of CSF </plain></SENT>
+<SENT sid="10" pm="."><plain>Granulocyte chalones and interferon may be inhibitors, though poorly specific, of granulopoietic differentiation </plain></SENT>
+<SENT sid="11" pm="."><plain><z:chebi fb="1" ids="24261">Glucocorticoids</z:chebi> may exert an inhibitory effect on CFU-C proliferation and CSF release </plain></SENT>
+<SENT sid="12" pm="."><plain>Precise analysis of the humoral regulation of <z:mpath ids='MPATH_458'>normal</z:mpath> granulocytopoiesis and monocytopoiesis in man seems to be of critical interest in understanding the pathophysiological mechanisms of <z:e sem="disease" ids="C0018939" disease_type="Disease or Syndrome" abbrv="">blood diseases</z:e> such as <z:hpo ids='HP_0001909'>leukemias</z:hpo> and <z:hpo ids='HP_0001915'>aplastic anemias</z:hpo> </plain></SENT>
+</text></document>

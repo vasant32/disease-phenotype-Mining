@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: To analyze linkage of five candidate regions for nonsyndromic <z:mp ids='MP_0005170'>cleft lip</z:mp> with or without palate (CLP) on chromosome 2p13, 4q, 6p23, and 19q13; in addition chromosome 1q32, the locus for <z:e sem="disease" ids="C0175697" disease_type="Disease or Syndrome;Congenital Abnormality" abbrv="PIT|VWS">van der Woude syndrome</z:e>, on Swedish CLP families </plain></SENT>
+<SENT sid="1" pm="."><plain>DESIGN: Three to five linked microsatellite markers were selected from each candidate region </plain></SENT>
+<SENT sid="2" pm="."><plain>Polymerase chain reaction (PCR) with fluorescent-labeled microsatellite markers was performed on DNA samples from the participating families </plain></SENT>
+<SENT sid="3" pm="."><plain>Electrophoresis of the PCR products was performed on a laser-fluorescent DNA sequencer </plain></SENT>
+<SENT sid="4" pm="."><plain>The genotype data were analyzed with multipoint linkage analysis </plain></SENT>
+<SENT sid="5" pm="."><plain><z:hpo ids='HP_0000005'>Modes of inheritance</z:hpo> tested included two <z:hpo ids='HP_0000006'>autosomal dominant</z:hpo>, an <z:hpo ids='HP_0000007'>autosomal recessive</z:hpo>, and a nonparametric model </plain></SENT>
+<SENT sid="6" pm="."><plain>Multipoint logarithm of odds (LOD) scores were also calculated by assuming <z:hpo ids='HP_0001425'>genetic heterogeneity</z:hpo> </plain></SENT>
+<SENT sid="7" pm="."><plain>PARTICIPANTS: Nineteen Swedish multigenerational families with at least two first-degree relatives affected with CLP </plain></SENT>
+<SENT sid="8" pm="."><plain>Greater than 50% of the families studied show vertical transmission of the clefting phenotype and both inter- and intrafamilial variability were noted </plain></SENT>
+<SENT sid="9" pm="."><plain>RESULTS: Cumulative multipoint LOD scores for the whole group of families calculated under <z:hpo ids='HP_0000006'>autosomal dominant</z:hpo> <z:hpo ids='HP_0000005'>modes of inheritance</z:hpo> were negative in <z:hpo ids='HP_0000001'>all</z:hpo> regions and less than -2 except chromosome 6p23 </plain></SENT>
+<SENT sid="10" pm="."><plain>LOD scores calculated under recessive <z:hpo ids='HP_0000005'>inheritance</z:hpo> and the nonparametric model were inconclusive </plain></SENT>
+<SENT sid="11" pm="."><plain>There was no significant evidence of <z:hpo ids='HP_0001425'>genetic heterogeneity</z:hpo> among the sample group </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: The group of Swedish CLP families did not demonstrate significant linkage to any of the five candidate regions examined </plain></SENT>
+<SENT sid="13" pm="."><plain>This might suggest a new but yet unknown CLP locus or loci in this family group </plain></SENT>
+<SENT sid="14" pm="."><plain>However, because linkage could not be excluded in some individual families, they should still be tested with candidate genes from these regions </plain></SENT>
+</text></document>

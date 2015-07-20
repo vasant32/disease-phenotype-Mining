@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>In follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo>, somatic hypermutation of the immunoglobulin heavy chain genes facilitates the identification of different <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cell clones, and the construction of genealogical trees </plain></SENT>
+<SENT sid="1" pm="."><plain>To analyze the dissemination of <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cells, and the role of the bone marrow for disease progression, we simultaneously analyzed the somatic hypermutation patterns of lymph node and bone marrow specimens of three patients at <z:hpo ids='HP_0003674'>onset</z:hpo> and relapse </plain></SENT>
+<SENT sid="2" pm="."><plain>Immunoglobulin heavy chain genes were amplified by polymerase chain reaction, cloned and sequenced </plain></SENT>
+<SENT sid="3" pm="."><plain>Mutational pedigrees were constructed in a hierarchical order </plain></SENT>
+<SENT sid="4" pm="."><plain>Where direct transition of one mutation pattern into that of successor clones was not feasible, hypothetical predecessor clones were created, and a probability measurement calculation was introduced </plain></SENT>
+<SENT sid="5" pm="."><plain>Eighty-five sequenced clones were generated </plain></SENT>
+<SENT sid="6" pm="."><plain>The average mutation rates were 13,45% for the lymph nodes, and 9,78% for the bone marrows </plain></SENT>
+<SENT sid="7" pm="."><plain>Forty-two hypothetical predecessor clones were introduced into inter-compartment pedigrees </plain></SENT>
+<SENT sid="8" pm="."><plain>The genealogical trees showed early <z:hpo ids='HP_0002665'>lymphoma</z:hpo> clones with a low mutational load quickly migrate from the lymph node into the bone marrow </plain></SENT>
+<SENT sid="9" pm="."><plain>Bi-directional <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cell migration was detectable between the two compartments </plain></SENT>
+<SENT sid="10" pm="."><plain>In one follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo>, a clone identical to the initial lymph node clone was detected two years later in the bone marrow </plain></SENT>
+<SENT sid="11" pm="."><plain>The newly introduced algorithm allows the evaluation of both time and direction of follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cell migrations </plain></SENT>
+<SENT sid="12" pm="."><plain>We found evidence that follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo> originates in the lymph node, and infiltrates the bone marrow early in the disease course </plain></SENT>
+<SENT sid="13" pm="."><plain>Moreover, inter-compartment migration between lymph nodes and bone marrow occurs in both directions </plain></SENT>
+</text></document>

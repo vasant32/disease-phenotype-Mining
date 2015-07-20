@@ -1,0 +1,6 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:chebi fb="29" ids="49631">Gallium</z:chebi> 67 scanning is an effective method of detecting inflammatory lesions, especially abscesses </plain></SENT>
+<SENT sid="1" pm="."><plain>A 10-year-old boy with <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> and severe <z:hpo ids='HP_0001882'>leukopenia</z:hpo> and <z:hpo ids='HP_0001913'>granulocytopenia</z:hpo> had a psoas <z:mpath ids='MPATH_612'>abscess</z:mpath> diagnosed by <z:chebi fb="29" ids="49631">gallium</z:chebi> scan </plain></SENT>
+<SENT sid="2" pm="."><plain>The patient died with Candida spesis 18 days after bone marrow transplantation </plain></SENT>
+<SENT sid="3" pm="."><plain>At autopsy, a <z:hpo ids='HP_0011010'>chronic</z:hpo> psoas <z:mpath ids='MPATH_612'>abscess</z:mpath> with Candida was found </plain></SENT>
+<SENT sid="4" pm="."><plain>The <z:chebi fb="29" ids="49631">gallium</z:chebi> scan offers a clinically effective and noninvasive means of evaluating suspected <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infection</z:e> in the granulocytopenic patient </plain></SENT>
+</text></document>

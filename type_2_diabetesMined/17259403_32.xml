@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The common polymorphisms KCNJ11 E23K and ABCC8 A1369S have been consistently associated with type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="1" pm="."><plain>We examined whether these variants are also associated with progression from <z:hpo ids='HP_0000833'>impaired glucose tolerance</z:hpo> (IGT) to <z:mp ids='MP_0002055'>diabetes</z:mp> and responses to preventive interventions in the <z:mp ids='MP_0002055'>Diabetes</z:mp> Prevention Program </plain></SENT>
+<SENT sid="2" pm="."><plain>We genotyped both variants in 3,534 participants and performed Cox regression analysis using genotype, intervention, and their interactions as predictors of <z:mp ids='MP_0002055'>diabetes</z:mp> incidence over approximately 3 years </plain></SENT>
+<SENT sid="3" pm="."><plain>We also assessed the effect of genotype on insulin secretion and insulin sensitivity at 1 year </plain></SENT>
+<SENT sid="4" pm="."><plain>As previously shown in other studies, lysine carriers at KCNJ11 E23K had <z:mp ids='MP_0003059'>reduced insulin secretion</z:mp> at baseline; however, they were less likely to develop <z:mp ids='MP_0002055'>diabetes</z:mp> than E/E homozygotes </plain></SENT>
+<SENT sid="5" pm="."><plain>Lysine carriers were less protected by 1-year <z:chebi fb="0" ids="6801">metformin</z:chebi> treatment than E/E homozygotes (P &lt; 0.02) </plain></SENT>
+<SENT sid="6" pm="."><plain>Results for ABCC8 A1369S were essentially identical to those for KCNJ11 E23K </plain></SENT>
+<SENT sid="7" pm="."><plain>We conclude that the lysine variant in KCNJ11 E23K leads to diminished insulin secretion in individuals with IGT </plain></SENT>
+<SENT sid="8" pm="."><plain>Given our contrasting results compared with case-control analyses, we hypothesize that its effect on <z:mp ids='MP_0002055'>diabetes</z:mp> risk may occur before the IGT-to-<z:mp ids='MP_0002055'>diabetes</z:mp> transition </plain></SENT>
+<SENT sid="9" pm="."><plain>We further hypothesize that the <z:mp ids='MP_0002055'>diabetes</z:mp>-preventive effect of <z:chebi fb="0" ids="6801">metformin</z:chebi> may interact with the impact of these variants on insulin regulation </plain></SENT>
+</text></document>

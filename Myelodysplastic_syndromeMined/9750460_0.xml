@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 66-year-old man was given a peripheral blood test because of <z:hpo ids='HP_0011134'>low grade fever</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain><z:hpo ids='HP_0001974'>Leukocytosis</z:hpo> was detected, and the blood and bone marrow findings were consistent with those of <z:hpo ids='HP_0011010'>chronic</z:hpo> myelomonocytic <z:hpo ids='HP_0001909'>leukemia</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>Three months later the hematological findings were: WBC 58,800/microliter (19% blastoid cells, 22% monocytes), Hb 9.0 g/dl, and a platelet count of 116 x 10(4)/microliters </plain></SENT>
+<SENT sid="3" pm="."><plain>A bone marrow examination revealed the presence of 52.6% blastoid cells and dysmegakaryocytopoiesis, including micromegakaryocytes </plain></SENT>
+<SENT sid="4" pm="."><plain>Serum and urinary lysozyme levels were elevated </plain></SENT>
+<SENT sid="5" pm="."><plain>Karyotypic analysis detected t(1; 3) (p36;q21), but not major bcr/abl <z:chebi fb="2" ids="33699">mRNA</z:chebi> </plain></SENT>
+<SENT sid="6" pm="."><plain>The patient was given a diagnosis of <z:hpo ids='HP_0011009'>acute</z:hpo> transformation of <z:hpo ids='HP_0011010'>chronic</z:hpo> myelomonocytic <z:hpo ids='HP_0001909'>leukemia</z:hpo> </plain></SENT>
+<SENT sid="7" pm="."><plain>Despite treatment, he died about 3 months later </plain></SENT>
+<SENT sid="8" pm="."><plain>t(1;3) is occasionally observed in cases of <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e>) and <z:hpo ids='HP_0001909'>leukemia</z:hpo> </plain></SENT>
+<SENT sid="9" pm="."><plain>Patients with t(1;3) often exhibit dysmegakaryocytopoiesis; furthermore, <z:hpo ids='HP_0002488'>acute leukemia</z:hpo> develops more readily in those who also have <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> </plain></SENT>
+<SENT sid="10" pm="."><plain>Cases of long-term survival are rare </plain></SENT>
+</text></document>

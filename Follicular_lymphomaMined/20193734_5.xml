@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: Interleukin (IL)-21, a member of the IL-2 family, has antitumor activity and is now being tested in non-Hodgkin's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> in combination with anti-CD20 antibodies </plain></SENT>
+<SENT sid="1" pm="."><plain>IL-21 may either induce <z:mpath ids='MPATH_3'>apoptosis</z:mpath> or promote growth in different lymphoid <z:e sem="disease" ids="C0006826" disease_type="Neoplastic Process" abbrv="">malignancies</z:e> </plain></SENT>
+<SENT sid="2" pm="."><plain>We therefore investigated the IL-21/IL-21R system in follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (FL) cells </plain></SENT>
+<SENT sid="3" pm="."><plain>MATERIALS AND METHODS: IL-21R expression was studied by reverse transcription polymerase chain reaction, immunofluorescence, and Western blot analyses </plain></SENT>
+<SENT sid="4" pm="."><plain><z:mpath ids='MPATH_3'>Apoptosis</z:mpath> was measured by Annexin-V-<z:chebi fb="0" ids="51240">propidium iodide</z:chebi> staining </plain></SENT>
+<SENT sid="5" pm="."><plain>Signaling via IL-21R was studied using antibodies specific for phosphorylated Janus-activating kinase and signal transducers and activators of transcription proteins by Western Blot </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: IL-21R was found on primary FL cells in 15 of 15 cases at diagnosis and IL-21 <z:mp ids='MP_0006042'>increased apoptosis</z:mp> in 10 of 10 FL samples </plain></SENT>
+<SENT sid="7" pm="."><plain>However, cells from areas of diffuse growth in FL and from two diffuse <z:hpo ids='HP_0002665'>lymphomas</z:hpo> evolved from previous FL, showed low IL-21R expression </plain></SENT>
+<SENT sid="8" pm="."><plain>The latter were also resistant to IL-21-mediated <z:mpath ids='MPATH_3'>apoptosis</z:mpath> </plain></SENT>
+<SENT sid="9" pm="."><plain>Among <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cell lines bearing the t(14;18) translocation, only 1 of 7 showed <z:mp ids='MP_0006042'>increased apoptosis</z:mp> in response to IL-21 stimulation </plain></SENT>
+<SENT sid="10" pm="."><plain>This cell line was IL-21R-positive, whereas five of six nonresponsive cell lines showed very low IL-21R expression </plain></SENT>
+<SENT sid="11" pm="."><plain>Intriguingly, one of the IL-21-resistant cell lines (DOHH2) expressed high levels of IL-21R </plain></SENT>
+<SENT sid="12" pm="."><plain>Treatment with IL-21 or IL-4 upregulated suppressor of cytokine signaling 3 gene expression in the IL-21-responsive cell line, but not in DOHH2 cells, which showed defective Janus-activating kinase/signal transducers and activators of transcription signaling in response to IL-21, in relationship to the lack of Janus-activating kinase 3 gene expression </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSION: These data indicate that low IL-21R expression or defective signal transduction downstream IL-21R may cause refractoriness to IL-21-mediated effects in some FL cells </plain></SENT>
+</text></document>

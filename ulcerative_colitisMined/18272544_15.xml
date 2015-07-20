@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: <z:hpo ids='HP_0011010'>Chronic</z:hpo> <z:mp ids='MP_0001845'>inflammation</z:mp> in <z:hpo ids='HP_0100279'>ulcerative colitis</z:hpo> is associated with increased risk for <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>Its molecular pathway of <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> development is poorly understood </plain></SENT>
+<SENT sid="2" pm="."><plain>We investigated the role of neutrophil-derived cellular stress in an in vitro model of neutrophils as effectors and colon epithelial cells as targets, and tested for changes in cell cycle distribution and the appearance of replication errors </plain></SENT>
+<SENT sid="3" pm="."><plain>DESIGN: Colon epithelial cells with different mismatch repair phenotypes were co-cultured with activated neutrophils </plain></SENT>
+<SENT sid="4" pm="."><plain>Target cells were analysed for cell cycle distribution and replication errors by flow cytometry </plain></SENT>
+<SENT sid="5" pm="."><plain>Changes in nuclear and DNA-bound levels of mismatch repair- and checkpoint-related proteins were analysed by western blotting </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: Activated neutrophils cause an accumulation of target cells in G2/M, consistent with the installation of a DNA-damage checkpoint </plain></SENT>
+<SENT sid="7" pm="."><plain>Cells that do not express hMSH2, p53 or p21(waf1/cip1) failed to undergo the G2/M arrest </plain></SENT>
+<SENT sid="8" pm="."><plain>Phosphorylation of p53 at site Ser15 and Chk1 at Ser317, as well as accumulation of p21(waf1/cip1), was observed within 8-24 h </plain></SENT>
+<SENT sid="9" pm="."><plain><z:chebi fb="1" ids="18421">Superoxide</z:chebi> dismutase and catalase were unable to overcome this G2/M arrest, possibly indicating that neutrophil products other than <z:chebi fb="1" ids="18421">superoxide</z:chebi> or <z:chebi fb="0" ids="16240">H(2)O(2)</z:chebi> are involved in this cellular response </plain></SENT>
+<SENT sid="10" pm="."><plain>Finally, exposure to activated neutrophils increased the number of replication errors </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: By using an in vitro co-culture model that mimics <z:mp ids='MP_0001858'>intestinal inflammation</z:mp> in <z:hpo ids='HP_0100279'>ulcerative colitis</z:hpo>, we provide molecular evidence for an hMSH2-dependent G2/M checkpoint arrest and for the presence of replication errors </plain></SENT>
+</text></document>

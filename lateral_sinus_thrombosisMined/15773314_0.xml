@@ -1,0 +1,7 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 43-year-old male with <z:hpo ids='HP_0005943'>respiratory arrest</z:hpo> due to neck hanging was resuscitated at the scene </plain></SENT>
+<SENT sid="1" pm="."><plain>The head CT on arrival showed diffuse <z:e sem="disease" ids="C1527311" disease_type="Disease or Syndrome" abbrv="">brain swelling</z:e> predominantly in the right cerebral hemisphere </plain></SENT>
+<SENT sid="2" pm="."><plain>The swelling improved but right transverse sinus <z:mp ids='MP_0005048'>thrombosis</z:mp> was recognized on the 4th hospital day </plain></SENT>
+<SENT sid="3" pm="."><plain>His conscious state gradually recovered and recanalization of the sinus was confirmed on a subsequent <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e> venography </plain></SENT>
+<SENT sid="4" pm="."><plain>He was discharged without neurological deficit </plain></SENT>
+<SENT sid="5" pm="."><plain>A sinus <z:mp ids='MP_0005048'>thrombosis</z:mp> should be considered as a differential diagnosis of <z:e sem="disease" ids="C1527311" disease_type="Disease or Syndrome" abbrv="">brain swelling</z:e> after hanging </plain></SENT>
+</text></document>

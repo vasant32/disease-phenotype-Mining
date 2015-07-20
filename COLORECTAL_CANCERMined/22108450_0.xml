@@ -1,0 +1,18 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVES: Fecal immunochemical tests (FIT) are preferred over guaiac-based fecal occult blood testing as <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e>) screening tool </plain></SENT>
+<SENT sid="1" pm="."><plain>However, <z:chebi fb="0" ids="35143">hemoglobin</z:chebi> (Hb) degradation over time may influence FIT outcome </plain></SENT>
+<SENT sid="2" pm="."><plain>We therefore evaluated the effect of sample return time on FIT performance characteristics in a population-based <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e> screening trial </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: A representative random sample of the Dutch population (n=17,677), aged 50-74 years, was invited for FIT screening (OC-Sensor Micro; cutoff ≥ 50 ng Hb/ml) </plain></SENT>
+<SENT sid="4" pm="."><plain>Sample return time was defined as the interval in days between fecal sampling and FIT laboratory delivery </plain></SENT>
+<SENT sid="5" pm="."><plain>Moreover, a random sample of positive FITs were selected to be stored at room temperature and re-tested every 3-4 days </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: In total, 8,958 screenees fulfilled our inclusion criteria </plain></SENT>
+<SENT sid="7" pm="."><plain>The mean sample return time was 3 days (± 3) </plain></SENT>
+<SENT sid="8" pm="."><plain>Overall, 792 screenees (8.8%) had a positive test </plain></SENT>
+<SENT sid="9" pm="."><plain>Between the sample return time groups, the positivity rate (PR) varied between 7.7 and 9.0% </plain></SENT>
+<SENT sid="10" pm="."><plain>No statistically significant associations were found between PR or detection rate (DR) and the different sample return time groups (P value=0.84 and 0.76, respectively) </plain></SENT>
+<SENT sid="11" pm="."><plain>For the laboratory experiment, 71 positive FITs were stored at room temperature and re-tested with standard intervals </plain></SENT>
+<SENT sid="12" pm="."><plain>The mean daily fecal Hb decrease was 5.88% per day (95% confidence interval 4.78-6.96%) </plain></SENT>
+<SENT sid="13" pm="."><plain>None of the positive FITs became negative before 10 days after fecal sampling </plain></SENT>
+<SENT sid="14" pm="."><plain>CONCLUSIONS: This population-based <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e> screening trial demonstrates that both the PR and DR of FITs do not decrease with prolonged sample return times up to 10 days </plain></SENT>
+<SENT sid="15" pm="."><plain>This means that a delay in sending the FIT back to the laboratory, of up to at least 1 week, does not necessitate repeat sampling in case of a negative test result </plain></SENT>
+<SENT sid="16" pm="."><plain>These data support the use of FIT-based screening as a reliable tool for nationwide <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e> screening programs </plain></SENT>
+</text></document>

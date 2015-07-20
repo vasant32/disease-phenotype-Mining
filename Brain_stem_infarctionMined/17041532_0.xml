@@ -1,0 +1,6 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We report the case of a patient with bilateral and symmetrical T2 hyperintensities of the middle cerebellar peduncles </plain></SENT>
+<SENT sid="1" pm="."><plain>She had a history of left pontine infarction 8 months before </plain></SENT>
+<SENT sid="2" pm="."><plain>This was attributed to bilateral Wallerian degeneration </plain></SENT>
+<SENT sid="3" pm="."><plain><z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e> Spectroscopy showed decreased N-<z:chebi fb="9" ids="46887">acetyl</z:chebi> <z:chebi fb="0" ids="29995">aspartate</z:chebi>/<z:chebi fb="2" ids="16919">Creatine</z:chebi> (<z:chebi fb="8" ids="32918">NAA</z:chebi>/Cr) ratio in the cerebellar peduncles as well as in the whole cerebellum </plain></SENT>
+<SENT sid="4" pm="."><plain>We hypothesize that this could reflect <z:mp ids='MP_0002229'>neuronal degeneration</z:mp> following a <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+</text></document>

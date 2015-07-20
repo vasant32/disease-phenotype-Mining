@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIMS: <z:mp ids='MP_0001625'>Cardiac hypertrophy</z:mp> and <z:mp ids='MP_0003045'>fibrosis</z:mp> are associated with potentially lethal <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>As these substrates often occur simultaneously in one patient, distinguishing between pro-arrhythmic mechanisms is difficult </plain></SENT>
+<SENT sid="2" pm="."><plain>This hampers understanding of underlying pro-arrhythmic mechanisms and optimal treatment </plain></SENT>
+<SENT sid="3" pm="."><plain>This study investigates and compares arrhythmogeneity and underlying pro-arrhythmic mechanisms of either <z:mp ids='MP_0001625'>cardiac hypertrophy</z:mp> or <z:mp ids='MP_0003045'>fibrosis</z:mp> in in vitro models </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS AND RESULTS: <z:mp ids='MP_0003045'>Fibrosis</z:mp> was mimicked by free myofibroblast (MFB) proliferation in neonatal rat ventricular monolayers </plain></SENT>
+<SENT sid="5" pm="."><plain>Cultures with inhibited MFB proliferation were used as control or exposed to <z:chebi fb="0" ids="8093">phenylephrine</z:chebi> to induce <z:mpath ids='MPATH_159'>hypertrophy</z:mpath> </plain></SENT>
+<SENT sid="6" pm="."><plain>At Day 9, cultures were studied with patch-clamp and optical-mapping techniques and assessed for protein expression </plain></SENT>
+<SENT sid="7" pm="."><plain>In hypertrophic (n = 111) and fibrotic cultures (n = 107), conduction and repolarization were slowed </plain></SENT>
+<SENT sid="8" pm="."><plain>Triggered activity was commonly found in these substrates and led to high incidences of spontaneous re-entrant <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> [67.5% hypertrophic, 78.5% fibrotic vs. 2.9% in controls (n = 102)] or focal <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> (39.1, 51.7 vs. 8.8%, respectively) </plain></SENT>
+<SENT sid="9" pm="."><plain>Kv4.3 and Cx43 protein expression levels were decreased in <z:mpath ids='MPATH_159'>hypertrophy</z:mpath> but unaffected in <z:mp ids='MP_0003045'>fibrosis</z:mp> </plain></SENT>
+<SENT sid="10" pm="."><plain>Depolarization of cardiomyocytes (CMCs) was only found in fibrotic cultures (-48 ± 7 vs. -66 ± 7 mV in control, P &lt; 0.001) </plain></SENT>
+<SENT sid="11" pm="."><plain>L-type calcium-channel blockade prevented <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> in <z:mpath ids='MPATH_159'>hypertrophy</z:mpath>, but caused conduction block in <z:mp ids='MP_0003045'>fibrosis</z:mp> </plain></SENT>
+<SENT sid="12" pm="."><plain>Targeting heterocellular coupling by low doses of gap-junction uncouplers prevented <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> by accelerating repolarization only in fibrotic cultures </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSION: Cultured hypertrophic or fibrotic myocardial tissues generated similar focal and re-entrant <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> </plain></SENT>
+<SENT sid="14" pm="."><plain>These models revealed electrical remodelling of CMCs as a pro-arrhythmic mechanism of <z:mpath ids='MPATH_159'>hypertrophy</z:mpath> and MFB-induced depolarization of CMCs as a pro-arrhythmic mechanism of <z:mp ids='MP_0003045'>fibrosis</z:mp> </plain></SENT>
+<SENT sid="15" pm="."><plain>These findings provide novel mechanistic insight into substrate-specific arrhythmicity </plain></SENT>
+</text></document>

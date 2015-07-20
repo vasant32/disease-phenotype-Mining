@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We determined in 35 patients with severe <z:hpo ids='HP_0001873'>thrombocytopenia</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">AML</z:e> n = 10; ALL n = 4; <z:mp ids='MP_0005481'>CML</z:mp> = 1; idiopathic <z:hpo ids='HP_0011974'>myelofibrosis</z:hpo> n = 1, <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> n = 1; undergoing bone-marrow transplantation n = 17) factors influencing the corrected count increment (CCI) after platelet transfusions </plain></SENT>
+<SENT sid="1" pm="."><plain>Out of 195 transfusions 86 (44%) failed to <z:hpo ids='HP_0001894'>increased platelet counts</z:hpo> (CCI less than 5 X 10(9) platelets/l) </plain></SENT>
+<SENT sid="2" pm="."><plain>A significant percentage of transfusion failures occurred in patients with <z:hpo ids='HP_0001744'>splenomegaly</z:hpo> and/or <z:hpo ids='HP_0001945'>fever</z:hpo> (54% vs. 29%; p less than 0.002) </plain></SENT>
+<SENT sid="3" pm="."><plain>Antibodies directed against donor platelets were found only twice </plain></SENT>
+<SENT sid="4" pm="."><plain>No correlation between reactivities demonstrable by the lymphocytotoxic test (n = 144) or the radioimmune antiglobulin test (n = 67) and the CCI was obvious </plain></SENT>
+<SENT sid="5" pm="."><plain>HLA antigen identity was also not predictive </plain></SENT>
+<SENT sid="6" pm="."><plain>Thus, transfusion failures in patients with low <z:e sem="disease" ids="C0948201" disease_type="Disease or Syndrome" abbrv="">alloimmunization</z:e> will not be predicted by in vitro antibody screenings </plain></SENT>
+<SENT sid="7" pm="."><plain>The patients' clinical condition has the most important influence on posttransfusion increment </plain></SENT>
+</text></document>

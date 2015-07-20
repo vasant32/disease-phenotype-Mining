@@ -1,0 +1,18 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Rearrangement of the BCL2 gene is an important parameter for the differential diagnosis of non-Hodgkin <z:hpo ids='HP_0002665'>lymphomas</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Although a relatively large proportion of breakpoints is clustered, many are missed by standard PCR </plain></SENT>
+<SENT sid="2" pm="."><plain>A FISH assay is therefore desired </plain></SENT>
+<SENT sid="3" pm="."><plain>Up to now, a lack of probes flanking the BCL2 gene has limited the possibilities for a FISH assay to an approach based on colocalization of probes for BCL2 and the immunoglobulin heavy chain (IGH) locus </plain></SENT>
+<SENT sid="4" pm="."><plain>Intrinsically high rates of false positive nuclei and high interobserver variability make such assays unsuitable for use on <z:hpo ids='HP_0002665'>lymphoma</z:hpo> tissue samples, where <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> cells often form only a minority of the cell population </plain></SENT>
+<SENT sid="5" pm="."><plain>Using YAC end cloning techniques and screening of a PAC library, we have isolated PAC clones flanking the BCL2 gene </plain></SENT>
+<SENT sid="6" pm="."><plain>Using these PACs, and several cosmid clones in the second BCL2 intron, we developed a segregation-based interphase FISH assay with two probe combinations enabling separate detection of 5' and 3' (mbr/mcr) breakpoints </plain></SENT>
+<SENT sid="7" pm="."><plain>The assay was applied to a series of 40 follicular <z:hpo ids='HP_0002665'>lymphomas</z:hpo> </plain></SENT>
+<SENT sid="8" pm="."><plain>To evaluate the results, the same <z:hpo ids='HP_0002665'>lymphomas</z:hpo> were analyzed by DNA fiber FISH with a 600-kb set of BCL2 DNA clones labeled in alternating colors in combination with a color barcode covering the IGH locus </plain></SENT>
+<SENT sid="9" pm="."><plain>This approach allowed precise mapping of BCL2 breakpoints, and simultaneously showed juxtaposition of IGH genes to BCL2 </plain></SENT>
+<SENT sid="10" pm="."><plain>Comparison of the results of interphase and fiber FISH showed complete correlation </plain></SENT>
+<SENT sid="11" pm="."><plain>Five cases were negative with both FISH techniques as well as with Southern blotting </plain></SENT>
+<SENT sid="12" pm="."><plain>Interestingly, <z:hpo ids='HP_0000001'>all</z:hpo> of these 5 cases lacked BCL2 overexpression as determined by immunohistochemistry, against 3 of 35 rearrangement-positive follicular <z:hpo ids='HP_0002665'>lymphomas</z:hpo> </plain></SENT>
+<SENT sid="13" pm="."><plain>Furthermore, absence of t(14;18) seemed to be correlated with a higher histologic grade (grades 2 and 3 according to Berard) </plain></SENT>
+<SENT sid="14" pm="."><plain>These data indicate that the segregation-based interphase FISH assay detects 100% of BCL2 rearrangements </plain></SENT>
+<SENT sid="15" pm="."><plain>Because interpretation of the results is straightforward and requires no extensive experience, this assay may be the best available diagnostic test for BCL2 rearrangement </plain></SENT>
+<SENT sid="16" pm="."><plain>Genes Chromosomes <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">Cancer</z:e> 27:85-94, 2000 </plain></SENT>
+</text></document>

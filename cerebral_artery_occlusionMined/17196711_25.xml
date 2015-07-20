@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>In recent years, there are an increasing number of proteomics studies that investigated the alterations in the protein expression relevant to human diseases but none for <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>We, therefore, attempted such a study in a paradigm of focal <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> in rat </plain></SENT>
+<SENT sid="2" pm="."><plain>Rats were subjected to <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> by unilateral occlusion of the middle cerebral artery </plain></SENT>
+<SENT sid="3" pm="."><plain>Global protein analysis was performed after 24h on the lesioned and sham-control cerebral cortex using two-dimensional gel electrophoresis </plain></SENT>
+<SENT sid="4" pm="."><plain>Protein spots with more than a 3-fold change in intensity were identified by mass spectrometry </plain></SENT>
+<SENT sid="5" pm="."><plain>Middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (MCAO) caused <z:mpath ids='MPATH_124'>infarct</z:mpath> volume of 18-22% predominantly in the cortex of the lesioned hemisphere </plain></SENT>
+<SENT sid="6" pm="."><plain>Two-dimensional gel electrophoresis resolved about 1500 protein spots of which only 12 were significantly upregulated by 3-46-fold </plain></SENT>
+<SENT sid="7" pm="."><plain>Three spots were identified to be dihydropyrimidinase-related protein 2 (DRP-2, also known as collapsin response mediator protein 2 (CRMP-2) or turned on after division, 64 kD protein (TOAD-64)) </plain></SENT>
+<SENT sid="8" pm="."><plain>The spots varied in pI values only and this may reflect different phosphorylation status of the same protein </plain></SENT>
+<SENT sid="9" pm="."><plain>Two spots were identified as spectrin alpha II chain (rat fragment, also known as alpha-fodrin or non-erythroid alpha chain, SPNA-2); and one spot each for heat shock cognate protein 70 pseudogene 1 (HSC70-ps1, also known as heat shock protein 8 pseudogene 1), and tropomodulin 2 (Tmod2) </plain></SENT>
+<SENT sid="10" pm="."><plain>The upregulation of protein expression was corroborated by observed upregulation of <z:chebi fb="2" ids="33699">mRNA</z:chebi> expression </plain></SENT>
+<SENT sid="11" pm="."><plain>The remaining five spots were not identified satisfactorily </plain></SENT>
+<SENT sid="12" pm="."><plain>As DRP-2, spectrin, and Tmod2 are involved in axonal and neurite growth as well as synaptic plasticity and maturation, the presently observed upregulation of the expression of these proteins may indicate active neuroregeneration and repair at 24h after the induction of <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> </plain></SENT>
+</text></document>

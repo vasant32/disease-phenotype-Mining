@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIMS: To describe cranial ultrasound (cUS) and magnetic resonance imaging (MRI) findings in neonates at risk of <z:hpo ids='HP_0001343'>kernicterus</z:hpo>, in relation to gestational age (GA), total serum <z:chebi fb="0" ids="16990">bilirubin</z:chebi> (TSB), age at imaging and neurodevelopmental outcome </plain></SENT>
+<SENT sid="1" pm="."><plain>PATIENTS AND METHODS: Neonates with peak TSB &gt; 400 micromol/L and/or signs of <z:chebi fb="0" ids="16990">bilirubin</z:chebi> <z:hpo ids='HP_0001298'>encephalopathy</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>Review of neonatal data, cUS, preterm, term and later MRI scans and neurodevelopmental outcome </plain></SENT>
+<SENT sid="3" pm="."><plain>RESULTS: 11 infants were studied, two &lt; 31, four 34-36 and five 37-40 weeks GA </plain></SENT>
+<SENT sid="4" pm="."><plain>TSB levels: 235-583 micromol/L (preterms); 423-720 micromol/L (terms) </plain></SENT>
+<SENT sid="5" pm="."><plain>Neonatal neurological examination was abnormal in 8/10 </plain></SENT>
+<SENT sid="6" pm="."><plain>cUS showed increased basal ganglia (BG) in 4/9 infants and white matter (WM) echogenicity, lenticulostriate vasculopathy (LSV) and caudothalamic hyperechogencity/<z:mpath ids='MPATH_62'>cysts</z:mpath> (GLCs) in 5/9 infants </plain></SENT>
+<SENT sid="7" pm="."><plain>MRI showed abnormal signal intensity (SI) in the globus pallidum (GP) in 1/2 preterm, 8/9 term and 9/11 later scans </plain></SENT>
+<SENT sid="8" pm="."><plain>Abnormal WM SI occurred in 2 preterm, 7 term and 10/11 later scans </plain></SENT>
+<SENT sid="9" pm="."><plain>Seven infants developed athetoid/dystonic <z:hpo ids='HP_0100021'>cerebral palsy</z:hpo> (CP) and 6 hearing loss (<z:e sem="disease" ids="C0019829" disease_type="Neoplastic Process" abbrv="hd">HL</z:e>) </plain></SENT>
+<SENT sid="10" pm="."><plain>Adverse outcome was associated with abnormal BG on cUS (3/4 CP, 4/4 HL), with high SI in GP (7/9 CP, 6/9 HL) on late T2-weighted MRI (<z:hpo ids='HP_0000001'>all</z:hpo> GA) and on T1/T2-weighted term MRI, mainly in term-born infants </plain></SENT>
+<SENT sid="11" pm="."><plain>WM abnormalities, GLCs and LSV did not correlate with outcome </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: Severe CP occurred with relatively low TSB levels in preterms but only at high levels in full-terms; <z:e sem="disease" ids="C0019829" disease_type="Neoplastic Process" abbrv="hd">HL</z:e> was difficult to predict </plain></SENT>
+<SENT sid="13" pm="."><plain>Early scans did not reliably predict motor deficits whilst <z:hpo ids='HP_0000001'>all</z:hpo> children with CP had abnormal central grey matter on later scans </plain></SENT>
+<SENT sid="14" pm="."><plain>Abnormal WM was seen early suggesting primary involvement rather than change secondary to grey matter damage </plain></SENT>
+<SENT sid="15" pm="."><plain>Why characteristic central grey matter MRI features of <z:hpo ids='HP_0001343'>kernicterus</z:hpo> are not seen early remains unexplained </plain></SENT>
+</text></document>

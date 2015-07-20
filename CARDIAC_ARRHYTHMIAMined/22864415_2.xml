@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Transplantation studies in mice and rats have shown that human embryonic-stem-cell-derived cardiomyocytes (hESC-CMs) can improve the function of infarcted hearts, but two critical issues related to their electrophysiological behaviour in vivo remain unresolved </plain></SENT>
+<SENT sid="1" pm="."><plain>First, the risk of <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> following hESC-CM transplantation in injured hearts has not been determined </plain></SENT>
+<SENT sid="2" pm="."><plain>Second, the electromechanical integration of hESC-CMs in injured hearts has not been demonstrated, so it is unclear whether these cells improve contractile function directly through addition of new force-generating units </plain></SENT>
+<SENT sid="3" pm="."><plain>Here we use a guinea-pig model to show that hESC-CM grafts in injured hearts protect against <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> and can contract synchronously with host muscle </plain></SENT>
+<SENT sid="4" pm="."><plain>Injured hearts with hESC-CM grafts show improved mechanical function and a significantly reduced incidence of both spontaneous and induced <z:hpo ids='HP_0004756'>ventricular tachycardia</z:hpo> </plain></SENT>
+<SENT sid="5" pm="."><plain>To assess the activity of hESC-CM grafts in vivo, we transplanted hESC-CMs expressing the genetically encoded calcium sensor, GCaMP3 (refs 4, 5) </plain></SENT>
+<SENT sid="6" pm="."><plain>By correlating the GCaMP3 fluorescent signal with the host ECG, we found that grafts in uninjured hearts have consistent 1:1 host–graft coupling </plain></SENT>
+<SENT sid="7" pm="."><plain>Grafts in injured hearts are more <z:hpo ids='HP_0001425'>heterogeneous</z:hpo> and typically include both coupled and uncoupled regions </plain></SENT>
+<SENT sid="8" pm="."><plain>Thus, human myocardial grafts meet physiological criteria for true heart regeneration, providing support for the continued development of hESC-based cardiac therapies for both mechanical and electrical repair </plain></SENT>
+</text></document>

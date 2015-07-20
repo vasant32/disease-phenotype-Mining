@@ -1,0 +1,5 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Analysis of gene expression microarray datasets presents the high risk of over-fitting (spurious patterns) because of their feature-rich but case-poor nature </plain></SENT>
+<SENT sid="1" pm="."><plain>This paper describes our ongoing efforts to develop a method to combat over-fitting and determine the strongest signal in the dataset </plain></SENT>
+<SENT sid="2" pm="."><plain>A GA-SVM hybrid along with Gaussian noise (manual noise gain) is used to discover feature sets of minimal size that accurately classifies the cases under cross-validation </plain></SENT>
+<SENT sid="3" pm="."><plain>Initial results on a <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> dataset shows that the strongest signal (modest number of candidates) can be found by a binary search </plain></SENT>
+</text></document>

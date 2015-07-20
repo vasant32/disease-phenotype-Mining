@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Microemboli detection and characterisation have recently received great attention due to its clinical importance in the management of cerebrovascular disease </plain></SENT>
+<SENT sid="1" pm="."><plain>The new method presented in this paper is directly based on the idea that the ultrasound (US) backscattered signal from flowing blood is chaotic (El-Brawany and Nassiri 2002) </plain></SENT>
+<SENT sid="2" pm="."><plain>The detection technique involves building a nonlinear model of the deterministic characteristics of the chaotic backscatter signal from blood, and the use of this model to look at the prediction error as a primary decision-making criterion for the microemboli detector </plain></SENT>
+<SENT sid="3" pm="."><plain>A complementary feature to the prediction error, namely, the degree of coherence between the US excitation pulse and the prediction error signal is used to enhance the detection process </plain></SENT>
+<SENT sid="4" pm="."><plain>The detector has been built using a feed-forward neural network with error back-propagation </plain></SENT>
+<SENT sid="5" pm="."><plain>The detection technique is tested successfully using a vascular flow phantom with solid spheres and bubbles of known sizes introduced in the flow circuit to mimic solid and gaseous emboli </plain></SENT>
+<SENT sid="6" pm="."><plain>Receiver operating characteristic (ROC) curve is used to assess the performance of the detection process </plain></SENT>
+<SENT sid="7" pm="."><plain>The total classification rate ranges from 88% to 96% </plain></SENT>
+</text></document>

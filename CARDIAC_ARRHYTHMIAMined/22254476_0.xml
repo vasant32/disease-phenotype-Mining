@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0005110'>Atrial fibrillation</z:hpo> (AF) is a common <z:hpo ids='HP_0011675'>cardiac arrhythmia</z:hpo> related to irregular atrial contractions </plain></SENT>
+<SENT sid="1" pm="."><plain>Several studies have shown that the analysis of P-waves extracted from ECG signals is helpful in understanding the predisposing factors to AF </plain></SENT>
+<SENT sid="2" pm="."><plain>However, P-waves are usually highly corrupted by noise and harmonic artifacts and this makes quite difficult their analysis </plain></SENT>
+<SENT sid="3" pm="."><plain>Recently we proposed a novel algorithm for denoising P-waves based on the notion of quadratic variation reduction </plain></SENT>
+<SENT sid="4" pm="."><plain>It is quite good in denoising P-waves affected by noise, but its effectiveness reduces when it is used in filtering out harmonic artifacts, like power-line interference </plain></SENT>
+<SENT sid="5" pm="."><plain>In this paper we propose an algorithm that overcomes this limitation and extends our previous method allowing it to both denoise and reject harmonic artifacts </plain></SENT>
+<SENT sid="6" pm="."><plain>Simulation results confirm the effectiveness of the approach and highlight its ability to remove both noise and artifacts </plain></SENT>
+<SENT sid="7" pm="."><plain>The algorithm has reduced computational complexity and this makes it suitable for real-time applications </plain></SENT>
+</text></document>

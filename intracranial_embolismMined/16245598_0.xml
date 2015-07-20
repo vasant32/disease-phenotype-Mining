@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The adaptive chirplet expansion (ACE) is proposed to characterize high-intensity, transient signals from circulating microemboli </plain></SENT>
+<SENT sid="1" pm="."><plain>The nonnegative adaptive spectrogram based on the ACE gives a compact representation of the microembolic signal (<z:chebi fb="28" ids="39005,39010">MES</z:chebi>) in joint-time, frequency domain </plain></SENT>
+<SENT sid="2" pm="."><plain>The mean instantaneous power (MIP) and mean instantaneous frequency (MIF) of <z:chebi fb="28" ids="39005,39010">MES</z:chebi> are estimated from the adaptive spectrogram </plain></SENT>
+<SENT sid="3" pm="."><plain>Then, several important characteristics of <z:chebi fb="28" ids="39005,39010">MES</z:chebi>, such as <z:mpath ids='MPATH_110'>embolus</z:mpath>-to-blood ratio (EBR), half width maximum (HWM), and embolic signal <z:hpo ids='HP_0003674'>onset</z:hpo> (ESO), are computed from the MIP, and the frequency modulation is examined in the MIF </plain></SENT>
+<SENT sid="4" pm="."><plain>To validate the new method, we improved the simulation model of the audio Doppler ultrasound signal </plain></SENT>
+<SENT sid="5" pm="."><plain>Some MESs together with a Doppler ultrasound signal from carotid blood flow are simulated in the simulation study </plain></SENT>
+<SENT sid="6" pm="."><plain>As a comparison, the adaptive Gabor expansion (AGE) also is implemented on these simulated signals </plain></SENT>
+<SENT sid="7" pm="."><plain>The experimental results of the simulation study show that the new method, based on the ACE, outperforms the AGE-based method in <z:chebi fb="28" ids="39005,39010">MES</z:chebi> characterization </plain></SENT>
+<SENT sid="8" pm="."><plain>The consistent conclusion has been confirmed by the clinical study on some clinical MESs </plain></SENT>
+</text></document>

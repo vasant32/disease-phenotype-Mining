@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0001649'>Tachycardia</z:hpo> and <z:mp ids='MP_0006109'>fibrillation</z:mp> are potentially fatal <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> associated with the formation of rotating spiral waves in the heart </plain></SENT>
+<SENT sid="1" pm="."><plain>Presently, the termination of these types of <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> is achieved by use of antitachycardia pacing or cardioversion </plain></SENT>
+<SENT sid="2" pm="."><plain>However, these techniques have serious drawbacks, in that they either have limited application or produce undesirable side effects </plain></SENT>
+<SENT sid="3" pm="."><plain>Low-energy far-field stimulation has recently been proposed as a superior therapy </plain></SENT>
+<SENT sid="4" pm="."><plain>This proposed therapeutic method would exploit the phenomenon in which the application of low-energy far-field shocks induces a large number of activation sites ("virtual electrodes") in tissue </plain></SENT>
+<SENT sid="5" pm="."><plain>It has been found that the formation of such sites can lead to the termination of undesired states in the heart and the restoration of <z:mpath ids='MPATH_458'>normal</z:mpath> beating </plain></SENT>
+<SENT sid="6" pm="."><plain>In this study we investigate a particular aspect of this method </plain></SENT>
+<SENT sid="7" pm="."><plain>Here we seek to determine how the activation site density depends on the applied electric field through in vitro experiments carried out on neonatal rat cardiac tissue cultures </plain></SENT>
+<SENT sid="8" pm="."><plain>The results indicate that the activation site density increases exponentially as a function of the intracellular conductivity and the level of cell isotropy </plain></SENT>
+<SENT sid="9" pm="."><plain>Additionally, we report numerical results obtained from bidomain simulations of the Beeler-Reuter model that are quantitatively consistent with our experimental results </plain></SENT>
+<SENT sid="10" pm="."><plain>Also, we derive an intuitive analytical framework that describes the activation site density and provides useful information for determining the ratio of longitudinal to transverse conductivity in a cardiac tissue culture </plain></SENT>
+<SENT sid="11" pm="."><plain>The results obtained here should be useful in the development of an actual therapeutic method based on low-energy far-field pacing </plain></SENT>
+<SENT sid="12" pm="."><plain>In addition, they provide a deeper understanding of the intrinsic properties of cardiac cells </plain></SENT>
+</text></document>

@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Escherichia coli-derived verotoxin is an extremely toxic protein and is highly selective toward certain primate cells </plain></SENT>
+<SENT sid="1" pm="."><plain>Two susceptible cell lines are the Daudi cell line (human Burkitt <z:hpo ids='HP_0002665'>lymphoma</z:hpo>) and the Vero cell line (Green African monkey kidney) </plain></SENT>
+<SENT sid="2" pm="."><plain>Both of these cell lines contain significant levels of the verotoxin binding <z:chebi fb="0" ids="33563">glycolipid</z:chebi> globotriosylceramide (Gb3) (1 nmol/10(7) cells and 3 nmol/10(6) cells, respectively) </plain></SENT>
+<SENT sid="3" pm="."><plain>A clone was selected from the Vero cell line for resistance to Verotoxin 2, while a mutant from the Daudi cell line was selected for resistance to Verotoxin 1 </plain></SENT>
+<SENT sid="4" pm="."><plain>Both were found to be deficient in globotriosylceramide with a corresponding increase in the precursor <z:chebi fb="0" ids="33563">glycolipid</z:chebi> lactosylceramide </plain></SENT>
+<SENT sid="5" pm="."><plain>Cell free assay of alpha-galactosyltransferase activity revealed that the Vero cell clone (VRP) contained significantly reduced enzyme activity, whereas in the case of the Daudi mutant (VT20), no significant decrease in activity was noted in vitro </plain></SENT>
+<SENT sid="6" pm="."><plain>These observations suggest a complex regulation of Gb3 biosynthesis which is considered in relation to P blood group antigen expression </plain></SENT>
+</text></document>

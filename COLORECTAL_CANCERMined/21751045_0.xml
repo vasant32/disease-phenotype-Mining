@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: While several prognostic models have been developed to predict survival of patients who undergo hepatectomy for <z:e sem="disease" ids="C0948380" disease_type="Neoplastic Process" abbrv="">metastatic colorectal cancer</z:e> (mCRC), few data exist to predict survival after recurrence </plain></SENT>
+<SENT sid="1" pm="."><plain>We sought to develop a model that predicts survival for patients who have developed recurrence following hepatectomy for mCRC </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: A retrospective analysis was performed on data from consecutive patients that underwent hepatectomy for mCRC </plain></SENT>
+<SENT sid="3" pm="."><plain>Clinicopathologic data, recurrence patterns, and outcomes were analyzed </plain></SENT>
+<SENT sid="4" pm="."><plain>Kaplan-Meier survival analysis and univariate and multivariate analyses were performed </plain></SENT>
+<SENT sid="5" pm="."><plain>An integer-based model was created to predict the patterns of recurrence and survival after recurrence </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: This analysis included 280 patients with a median follow-up of 50.1 months </plain></SENT>
+<SENT sid="7" pm="."><plain>Of these, 53% underwent major hepatectomy and 87% had negative margins </plain></SENT>
+<SENT sid="8" pm="."><plain><z:e sem="disease" ids="C0277556" disease_type="Disease or Syndrome" abbrv="">Recurrent disease</z:e> developed in 63% of patients </plain></SENT>
+<SENT sid="9" pm="."><plain>After hepatectomy, factors associated with short disease-free interval (DFI) and overall survival (OS) included CEA &gt; 200 ng/ml (P &lt; 0.0005), &gt;1 metastasis (P &lt; 0.0005), and a high Fong score (P &lt; 0.0005) </plain></SENT>
+<SENT sid="10" pm="."><plain>After recurrence, the pattern of recurrence was a strong predictor of OS (P &lt; 0.0005) </plain></SENT>
+<SENT sid="11" pm="."><plain>Independent predictors of the pattern of recurrence on multivariate analysis include CEA &gt; 200 ng/ml, <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> size &gt;5 cm, and &gt;1 liver <z:e sem="disease" ids="C0027627" disease_type="Neoplastic Process" abbrv="mets">metastasis</z:e> </plain></SENT>
+<SENT sid="12" pm="."><plain>A simple predictive scoring system was developed from the beta coefficients of this analysis that correlated with recurrence pattern (P &lt; 0.0005) </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSIONS: After hepatectomy, survival of patients with recurrent mCRC is strongly predicted by the patterns of recurrence, and the recurrence pattern can be predicted with a simple model </plain></SENT>
+<SENT sid="14" pm="."><plain>This can also be extended to create a scoring system that estimates expected survival </plain></SENT>
+</text></document>

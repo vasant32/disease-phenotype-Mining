@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>It has been proposed that <z:chebi fb="0" ids="52290">mitogen</z:chebi>-activated protein kinase (MAPK) pathways may play a role in the regulation of pro-inflammatory cytokines, such as interlukine-1, during <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Our previous study showed that extracellular-signal-regulated kinases 1 and 2 (ERK 1/2) were activated during focal <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> in mice [J </plain></SENT>
+<SENT sid="2" pm="."><plain>Cereb </plain></SENT>
+<SENT sid="3" pm="."><plain>Blood Flow Metab </plain></SENT>
+<SENT sid="4" pm="."><plain>20 (2000) 1320] </plain></SENT>
+<SENT sid="5" pm="."><plain>However, the effect of ERK 1/2 activation in focal <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> is still unclear </plain></SENT>
+<SENT sid="6" pm="."><plain>In this study we reported that in vivo phospho-ERK 1/2 expression increased following 30 min of middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (MCAO) in the mouse brain in both the ischemic core and perifocal regions </plain></SENT>
+<SENT sid="7" pm="."><plain>Western blot analysis and immunohistochemistry demonstrated that pro-treatment with 1,4-diamino-2,3-dicyano-1,4-bis <z:chebi fb="7" ids="39479">butadiene</z:chebi> (U0126) [J </plain></SENT>
+<SENT sid="8" pm="."><plain>Biol </plain></SENT>
+<SENT sid="9" pm="."><plain>Chem </plain></SENT>
+<SENT sid="10" pm="."><plain>273 (1998) 18623] could significantly inhibit mouse brain phospho-MEK 1/2 and phospho-ERK 1/2 expression after 1-2 h of MCAO (p&lt;0.05) </plain></SENT>
+<SENT sid="11" pm="."><plain>Compared to the control group of mice, brain <z:mpath ids='MPATH_124'>infarct</z:mpath> volume was significantly decreased after 24 h of MCAO in the U0126-treated mice (27+/-6 vs. 46+/-9 mm(2), p&lt;0.05) </plain></SENT>
+<SENT sid="12" pm="."><plain>Inhibition of the MEK/ERK 1/2 pathway also prevented downstream kinase Elk-1 phosphorylation, and further reduced cytokine IL-1beta <z:chebi fb="2" ids="33699">mRNA</z:chebi>, but not TNFalpha, IL-1alpha, or chemokine MIP-1alpha <z:chebi fb="2" ids="33699">mRNA</z:chebi> expression </plain></SENT>
+<SENT sid="13" pm="."><plain>Our data demonstrates that in vivo the close linking of MEK 1/2, ERK 1/2, Elk-1, and IL-1 mRNA expression in the <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> animals suggests that ERK 1/2 pathway activation is important in pro-inflammatory cytokine IL-1beta signaling, which induces an <z:mp ids='MP_0001845'>inflammatory response</z:mp> and exacerbates ischemic brain injury </plain></SENT>
+<SENT sid="14" pm="."><plain>Inhibiting the ERK 1/2 pathway may therefore provide a novel approach for the reduction of <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e>-induced IL-1beta overexpression </plain></SENT>
+</text></document>

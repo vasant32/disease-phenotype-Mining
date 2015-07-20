@@ -1,0 +1,29 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Cell lines derived from Epstein-Barr virus (EBV)-positive and EBV-negative Burkitt <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">BL</z:e>) have a low or defective expression of polymorphic HLA class I determinants compared to EBV-transformed lymphoblastoid cell lines (LCL) of <z:mpath ids='MPATH_458'>normal</z:mpath> B cell origin and are resistant to lysis by cytotoxic T lymphocytes (CTL) specific for the corresponding determinants (M </plain></SENT>
+<SENT sid="1" pm="."><plain>G </plain></SENT>
+<SENT sid="2" pm="."><plain>Masucci, S </plain></SENT>
+<SENT sid="3" pm="."><plain>Torsteinsdottir, J </plain></SENT>
+<SENT sid="4" pm="."><plain>Colombani, C </plain></SENT>
+<SENT sid="5" pm="."><plain>Brautbar, E </plain></SENT>
+<SENT sid="6" pm="."><plain>Klein, and G </plain></SENT>
+<SENT sid="7" pm="."><plain>Klein, Proc </plain></SENT>
+<SENT sid="8" pm="."><plain>Natl </plain></SENT>
+<SENT sid="9" pm="."><plain>Acad </plain></SENT>
+<SENT sid="10" pm="."><plain>Sci </plain></SENT>
+<SENT sid="11" pm="."><plain>USA 84, 4567, 1987; S </plain></SENT>
+<SENT sid="12" pm="."><plain>Torsteinsdottir, C </plain></SENT>
+<SENT sid="13" pm="."><plain>Brautbar, E </plain></SENT>
+<SENT sid="14" pm="."><plain>Klein, G </plain></SENT>
+<SENT sid="15" pm="."><plain>Klein, and M </plain></SENT>
+<SENT sid="16" pm="."><plain>G </plain></SENT>
+<SENT sid="17" pm="."><plain>Masucci, Int </plain></SENT>
+<SENT sid="18" pm="."><plain>J </plain></SENT>
+<SENT sid="19" pm="."><plain><z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">Cancer</z:e>, 41, 913, 1988) </plain></SENT>
+<SENT sid="20" pm="."><plain>In order to investigate whether this phenotypic trait of the <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> cells can be modulated by agents known to enhance HLA class I antigen expression, pairs of LCL and <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">BL</z:e> lines were cultured in the presence of recombinant human interferon (IFN)-gamma and <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> <z:mp ids='MP_0001651'>necrosis</z:mp> factor (TNF)-alpha </plain></SENT>
+<SENT sid="21" pm="."><plain>Three low HLA A11 expressor EBV-negative <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">BL</z:e> lines, DG 75, <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">BL</z:e> 28, and <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">BL</z:e> 41, reacted significantly stronger with the anti-HLA A11 monoclonal antibody (Mab) AUF 5.13 after combined treatment with 500 U/ml IFN-gamma and 500 U/ml TNF-alpha </plain></SENT>
+<SENT sid="22" pm="."><plain>Reactivity with the AUF 5.13 and with other anti-polymorphic class I Mab's was up-regulated also in in vitro EBV-converted sublines of <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">BL</z:e> 28 and <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">BL</z:e> 41 </plain></SENT>
+<SENT sid="23" pm="."><plain>The increment of antigen expression depended on the baseline expression in untreated cells </plain></SENT>
+<SENT sid="24" pm="."><plain>It was largest for the low expressor lines and decreased proportionally to the level of up-regulation induced by EBV conversion </plain></SENT>
+<SENT sid="25" pm="."><plain>Up-regulation of HLA A11 was accompanied by induction of sensitivity to HLA A11-specific CTLs in <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">BL</z:e> 28 and its converted subline E95A BL28 while <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">BL</z:e> 41 and E95A <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">BL</z:e> 41 remained resistant </plain></SENT>
+<SENT sid="26" pm="."><plain>The treatment did not affect significantly HLA A11 expression of two EBV-carrying, low HLA A11 expressor <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">BL</z:e> lines, WW-1-<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">BL</z:e> and WW-2-<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">BL</z:e>, and of the EBV-carrying <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">BL</z:e> 72 line that had a high spontaneous expression </plain></SENT>
+<SENT sid="27" pm="."><plain>The results suggest that the down-regulation of class I antigen expression is reversible in some but not <z:hpo ids='HP_0000001'>all</z:hpo> <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">BL</z:e> lines </plain></SENT>
+</text></document>

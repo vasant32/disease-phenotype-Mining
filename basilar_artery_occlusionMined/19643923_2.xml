@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND PURPOSE: The posterior circulation <z:hpo ids='HP_0011009'>Acute</z:hpo> <z:hpo ids='HP_0001297'>Stroke</z:hpo> Prognosis Early CT Score (pc-ASPECTS) is a 10-point grading system to quantify ischemic changes in the posterior circulation </plain></SENT>
+<SENT sid="1" pm="."><plain>We analyzed whether pc-ASPECTS on CT angiography (CTA) source images (CTASI) predicted the final <z:mpath ids='MPATH_124'>infarct</z:mpath> extent and hemorrhagic transformation (HT) rate in patients with basilar <z:mp ids='MP_0006134'>artery occlusion</z:mp> </plain></SENT>
+<SENT sid="2" pm="."><plain>MATERIALS AND METHODS: A pc-ASPECTS score of 10 indicates absence of visible ischemic changes in the posterior circulation, and pc-ASPECTS score of 0 indicates ischemic changes in the midbrain, pons, and bilateral thalami, posterior circulation territories, and cerebellar hemispheres </plain></SENT>
+<SENT sid="3" pm="."><plain>We retrospectively studied patients with basilar <z:mp ids='MP_0006134'>artery occlusion</z:mp> on CTA within 24 hours from symptom <z:hpo ids='HP_0003674'>onset</z:hpo> </plain></SENT>
+<SENT sid="4" pm="."><plain>We applied pc-ASPECTS to noncontrast CT (NCCT), CTASI, and follow-up images by 3-reader-consensus and assessed HT on follow-up images </plain></SENT>
+<SENT sid="5" pm="."><plain>We calculated Spearman correlation coefficients and performed linear regression analysis </plain></SENT>
+<SENT sid="6" pm="."><plain>Final <z:mpath ids='MPATH_124'>infarct</z:mpath> extent and HT rates were compared across dichotomized CTASI pc-ASPECTS groups (&gt;/= 8 vs &lt; 8) </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: Among 43 patients, median (range) <z:hpo ids='HP_0003674'>onset</z:hpo> to CTA time was 5.0 hours (range, 0.7-24 hours) </plain></SENT>
+<SENT sid="8" pm="."><plain>Pc-ASPECTS on CTASI (r = 0.75; P &lt; .001) but not NCCT (r = 0.29; P = .063) correlated with pc-ASPECTS on follow-up scans </plain></SENT>
+<SENT sid="9" pm="."><plain>Linear regression demonstrated a significant positive relationship between pc-ASPECTS on CTASI and follow-up scans (R(2) = 0.58; P &lt; 01) </plain></SENT>
+<SENT sid="10" pm="."><plain>Median follow-up pc-ASPECTS was lower in patients with a CTASI pc-ASPECTS &lt; 8 compared with patients with a CTASI pc-ASPECTS of 8 or more, respectively (P &lt; .001) </plain></SENT>
+<SENT sid="11" pm="."><plain>HT rates were 27.3% vs 9.5%, respectively (P = .24) </plain></SENT>
+<SENT sid="12" pm="."><plain>None of 8 patients without thrombolysis had HT on follow-up scans </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSIONS: The extent of hypoattenuation on CTASI predicts the final <z:mpath ids='MPATH_124'>infarct</z:mpath> extent in patients with basilar <z:mp ids='MP_0006134'>artery occlusion</z:mp> </plain></SENT>
+</text></document>

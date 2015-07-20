@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND OBJECTIVES: Diamond Blackfan <z:hpo ids='HP_0001903'>anemia</z:hpo> (<z:chebi fb="28" ids="35299">DBA</z:chebi>) is a <z:e sem="disease" ids="C0242354" disease_type="Disease or Syndrome" abbrv="">congenital disease</z:e> characterized by defective erythroid progenitor maturation </plain></SENT>
+<SENT sid="1" pm="."><plain>Patients' bone marrow progenitor cells do not respond to erythropoietic growth factors, such as erythropoietin </plain></SENT>
+<SENT sid="2" pm="."><plain>Mutations in the gene encoding for ribosomal protein (RP) S19 account for 25% of cases of <z:chebi fb="28" ids="35299">DBA</z:chebi> </plain></SENT>
+<SENT sid="3" pm="."><plain>The link between <z:hpo ids='HP_0010972'>defective erythropoiesis</z:hpo> and RPS19 is still unclear </plain></SENT>
+<SENT sid="4" pm="."><plain>Two not mutually exclusive hypotheses have been proposed: altered protein synthesis and loss of unknown extraribosomal functions </plain></SENT>
+<SENT sid="5" pm="."><plain>DESIGN AND METHODS: We used yeast two-hybrid screening and a human liver cDNA library obtained at 19-24 weeks of gestation, when hepatic erythropoiesis is efficient, to search for proteins interacting with RPS19 </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: We found that RPS19 binds PIM-1, an ubiquitous serine-threonine kinase whose expression can be induced in erythropoietic cells by several growth factors, such as erythropoietin </plain></SENT>
+<SENT sid="7" pm="."><plain>The PIM-1/RPS19 interaction was demonstrated both in vitro and in living cells and led to phosphorylation of RPS19 in an in vitro kinase assay </plain></SENT>
+<SENT sid="8" pm="."><plain>We also showed that in human 293T cells PIM-1 interacts with ribosomes and may be involved in translational control </plain></SENT>
+<SENT sid="9" pm="."><plain>Three <z:chebi fb="28" ids="35299">DBA</z:chebi>-associated RPS19 mutations alter the binding between RPS19 and PIM-1 </plain></SENT>
+<SENT sid="10" pm="."><plain>INTERPRETATION AND CONCLUSIONS: A link between erythropoietic growth factor signaling and RPS19 has been identified for the first time </plain></SENT>
+</text></document>

@@ -1,0 +1,19 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>1 </plain></SENT>
+<SENT sid="1" pm="."><plain>Elevated plasminogen activator inhibitor 1 (PAI-1) is a risk factor for <z:mp ids='MP_0005048'>thrombosis</z:mp>, and inhibitors of the interaction between PAI-1 and tissue plasminogen activator (t-PA) have antithrombotic and prothrombolytic activity in animals </plain></SENT>
+<SENT sid="2" pm="."><plain>We describe the antithrombotic effects in the rat of a monoclonal antibody (MA33H1) which converts PAI-1 to a non-inhibitory substrate </plain></SENT>
+<SENT sid="3" pm="."><plain>2 </plain></SENT>
+<SENT sid="4" pm="."><plain>The activity of MA33H1 against rat PAI-1 was confirmed using two-chain t-PA and a chromogenic substrate </plain></SENT>
+<SENT sid="5" pm="."><plain>MA33H1 was evaluated in rat venous (thromboplastin + stasis in the abdominal vena cava) and arterial (electric current applied to a carotid artery) <z:mp ids='MP_0005048'>thrombosis</z:mp> models </plain></SENT>
+<SENT sid="6" pm="."><plain>The effects on tail-transection <z:mp ids='MP_0001914'>bleeding</z:mp> time were studied </plain></SENT>
+<SENT sid="7" pm="."><plain>3 </plain></SENT>
+<SENT sid="8" pm="."><plain>MA33H1 at 100 ng ml(-1) inhibited both human (44.1%) and rat PAI-1 (49.7%) </plain></SENT>
+<SENT sid="9" pm="."><plain>This effect was concentration-dependent </plain></SENT>
+<SENT sid="10" pm="."><plain>Its effect on human PAI-1 was not significantly inhibited by 1 microg ml(-1) fibrin or a approximately 7 fold molar excess of vitronectin (1 nM) </plain></SENT>
+<SENT sid="11" pm="."><plain>Inhibition of rat PAI-1 was unchanged by fibrin, but vitronectin reduced inhibition from 0.5 nM </plain></SENT>
+<SENT sid="12" pm="."><plain>4 </plain></SENT>
+<SENT sid="13" pm="."><plain>In the <z:hpo ids='HP_0004936'>venous thrombosis</z:hpo> model, MA33H1 significantly reduced <z:e sem="disease" ids="C0302148,C0087086" disease_type="Disease or Syndrome;Acquired Abnormality" abbrv="">thrombus</z:e> weights by 38 and 58.6% at 50 and 100 microg kg(-1) min(-1) i.v. respectively </plain></SENT>
+<SENT sid="14" pm="."><plain>This effect was inhibited by <z:chebi fb="0" ids="48669">tranexamic acid</z:chebi> </plain></SENT>
+<SENT sid="15" pm="."><plain>In the arterial model, MA33H1 significantly increased the delay to occlusive <z:e sem="disease" ids="C0302148,C0087086" disease_type="Disease or Syndrome;Acquired Abnormality" abbrv="">thrombus</z:e> formation by 58 and 142% at 50 and 100 microg kg(-1) min(-1) i.v., and did not affect <z:mp ids='MP_0001914'>bleeding</z:mp> time at 300 microg kg(-1) min(-1) i.v </plain></SENT>
+<SENT sid="16" pm="."><plain>5 </plain></SENT>
+<SENT sid="17" pm="."><plain>Thus, a monoclonal antibody which transforms PAI-1 to a t-PA substrate prevents <z:e sem="disease" ids="C0302148,C0087086" disease_type="Disease or Syndrome;Acquired Abnormality" abbrv="">thrombus</z:e> formation in the rat with no effect on <z:mp ids='MP_0001914'>bleeding</z:mp> time at a higher dose </plain></SENT>
+</text></document>

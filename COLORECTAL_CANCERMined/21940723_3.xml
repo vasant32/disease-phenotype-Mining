@@ -1,0 +1,18 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVES: Colonoscopy is central to <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e>) screening </plain></SENT>
+<SENT sid="1" pm="."><plain>Success of <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e> screening is dependent on colonoscopy quality </plain></SENT>
+<SENT sid="2" pm="."><plain>The NHS <z:e sem="disease" ids="C0346627" disease_type="Neoplastic Process" abbrv="">Bowel Cancer</z:e> Screening Programme (BCSP) offers biennial faecal occult blood (FOB) testing to 60-74 year olds and colonoscopy to those with positive FOB tests </plain></SENT>
+<SENT sid="3" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> colonoscopists in the screening programme are required to meet predetermined standards before starting screening and are subject to ongoing quality assurance </plain></SENT>
+<SENT sid="4" pm="."><plain>In this study, the authors examine the quality of colonoscopy in the NHS BCSP and describe new and established measures to assess and maintain quality </plain></SENT>
+<SENT sid="5" pm="."><plain>DESIGN: The NHS BCSP database collects detailed data on <z:hpo ids='HP_0000001'>all</z:hpo> screening colonoscopies </plain></SENT>
+<SENT sid="6" pm="."><plain>Prospectively collected data from the first 3 years of the programme (August 2006 to August 2009) were analysed </plain></SENT>
+<SENT sid="7" pm="."><plain>Colonoscopy quality indicators (<z:mpath ids='MPATH_270'>adenoma</z:mpath> detection rate (ADR), <z:mpath ids='MPATH_491'>polyp</z:mpath> detection rate, colonoscopy withdrawal time, caecal intubation rate, rectal retroversion rate, <z:mpath ids='MPATH_491'>polyp</z:mpath> retrieval rate, mean sedation doses, patient comfort scores, bowel preparation quality and adverse event incidence) were calculated along with measures of total <z:mpath ids='MPATH_270'>adenoma</z:mpath> detection </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: 2,269,983 individuals returned FOB tests leading to 36,460 colonoscopies </plain></SENT>
+<SENT sid="9" pm="."><plain>Mean unadjusted caecal intubation rate was 95.2%, and mean withdrawal time for <z:mpath ids='MPATH_458'>normal</z:mpath> procedures was 9.2 min </plain></SENT>
+<SENT sid="10" pm="."><plain>The mean ADR per colonoscopist was 46.5% </plain></SENT>
+<SENT sid="11" pm="."><plain>The mean number of <z:mpath ids='MPATH_270'>adenomas</z:mpath> per procedure (MAP) was 0.91; the mean number of <z:mpath ids='MPATH_270'>adenomas</z:mpath> per positive procedure (MAP+) was 1.94 </plain></SENT>
+<SENT sid="12" pm="."><plain><z:mpath ids='MPATH_81'>Perforation</z:mpath> occurred after 0.09% of procedures </plain></SENT>
+<SENT sid="13" pm="."><plain>There were no procedure-related <z:hpo ids='HP_0011420'>deaths</z:hpo> </plain></SENT>
+<SENT sid="14" pm="."><plain>CONCLUSIONS: The NHS BCSP provides high-quality colonoscopy, as demonstrated by high caecal intubation rate, ADR and comfort scores, and low adverse event rates </plain></SENT>
+<SENT sid="15" pm="."><plain>Quality is achieved by ensuring BCSP colonoscopists meet a high standard before starting screening and through ongoing quality assurance </plain></SENT>
+<SENT sid="16" pm="."><plain>Measuring total <z:mpath ids='MPATH_270'>adenoma</z:mpath> detection (MAP and MAP+) as adjuncts to ADR may further enhance quality assurance </plain></SENT>
+</text></document>

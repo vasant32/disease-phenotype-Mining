@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Disruption of ribosomal proteins is associated with hematopoietic phenotypes in cell culture and animal models </plain></SENT>
+<SENT sid="1" pm="."><plain>Mutations in ribosomal proteins are seen in patients with Diamond Blackfan <z:hpo ids='HP_0001903'>anemia</z:hpo>, a rare <z:e sem="disease" ids="C0242354" disease_type="Disease or Syndrome" abbrv="">congenital disease</z:e> characterized by red cell <z:mpath ids='MPATH_58'>aplasia</z:mpath> and distinctive craniofacial anomalies </plain></SENT>
+<SENT sid="2" pm="."><plain>A zebrafish screen uncovered decreased hematopoietic stem cells in embryos with mutations in ribosomal protein rps29 </plain></SENT>
+<SENT sid="3" pm="."><plain>Here, we determined that rps29(-/-) embryos also have red <z:mp ids='MP_0002429'>blood cell defects</z:mp> and <z:mp ids='MP_0006042'>increased apoptosis</z:mp> in the head </plain></SENT>
+<SENT sid="4" pm="."><plain>As the p53 pathway has been shown to play a role in other ribosomal protein mutants, we studied the genetic relationship of rps29 and p53 </plain></SENT>
+<SENT sid="5" pm="."><plain>Transcriptional profiling revealed that genes upregulated in the rps29 mutant are enriched for genes upregulated by p53 after irradiation </plain></SENT>
+<SENT sid="6" pm="."><plain>p53 mutation near completely rescues the rps29 morphological and hematopoietic phenotypes, demonstrating that p53 mediates the effects of rps29 knockdown </plain></SENT>
+<SENT sid="7" pm="."><plain>We also identified neuronal gene orthopedia protein a (otpa) as one whose expression correlates with rps29 expression, suggesting that levels of expression of some genes are dependent on rps29 levels </plain></SENT>
+<SENT sid="8" pm="."><plain>Together, our studies demonstrate a role of p53 in mediating the cellular defects associated with rps29 and establish a role for rps29 and p53 in hematopoietic stem cells and red blood cell development </plain></SENT>
+</text></document>

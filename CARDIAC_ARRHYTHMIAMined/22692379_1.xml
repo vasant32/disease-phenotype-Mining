@@ -1,0 +1,19 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Abnormal cardiac repolarization, indicated by a prolongation of the QT interval, increases the risk for <z:hpo ids='HP_0001664'>torsades de pointes</z:hpo>, a potentially life-threatening <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Many perioperatively administered drugs and conditions prolong the QT interval </plain></SENT>
+<SENT sid="2" pm="."><plain>Despite several reports of perioperative <z:hpo ids='HP_0001664'>torsades de pointes</z:hpo>, systematic evidence regarding perioperative QT interval prolongation is limited </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: Serial postoperative 12-lead electrocardiograms were obtained from 469 adult patients undergoing major noncardiac surgery under general anesthesia </plain></SENT>
+<SENT sid="4" pm="."><plain>Heart rate corrected QT-interval duration (Fridericia formula) was the primary outcome </plain></SENT>
+<SENT sid="5" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> perioperatively administered drugs were recorded </plain></SENT>
+<SENT sid="6" pm="."><plain>Emphasis was placed on absolute QTc prolongation greater than 500 ms and relative increases of 30 and 60 ms </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: At the end of surgery, 80% of the patients (345 of 429) experienced a significant QTc interval prolongation (ΔQTc 23 ± 26 ms (mean and SD), 95% CI 20-25 ms, P less than 0.001) </plain></SENT>
+<SENT sid="8" pm="."><plain>Approximately 51% (219 of 429) had a QTc greater than 440 ms, and 4% (16 of 429) a QTc greater than 500 ms </plain></SENT>
+<SENT sid="9" pm="."><plain>In 39% (166 of 429), the ΔQTc was greater than 30 ms, in 8% (34 of 429) &gt;60 ms, and in greater than 0.5% (2 of 429) &gt;100 ms </plain></SENT>
+<SENT sid="10" pm="."><plain>No changes in ΔQTc occurred at subsequent time points </plain></SENT>
+<SENT sid="11" pm="."><plain>One patient developed <z:hpo ids='HP_0001664'>torsades de pointes</z:hpo> with a ΔQTc: 29 ms (0.4% incidence rate) </plain></SENT>
+<SENT sid="12" pm="."><plain>Several drugs had a large effect on ΔQTc: <z:chebi fb="0" ids="6015">isoflurane</z:chebi>, <z:chebi fb="70" ids="6807">methadone</z:chebi>, ketorolac, <z:chebi fb="0" ids="209807">cefoxitin</z:chebi>, zosyn, unasyn, <z:chebi fb="2" ids="28918">epinephrine</z:chebi>, ephedrine, and calcium </plain></SENT>
+<SENT sid="13" pm="."><plain>Postoperative body temperature had a weak negative correlation with ΔQTc (r = -0.15, P = 0.02); serum <z:chebi fb="131" ids="25107">magnesium</z:chebi>, <z:chebi fb="120" ids="26216">potassium</z:chebi>, and calcium concentrations were not correlated </plain></SENT>
+<SENT sid="14" pm="."><plain>CONCLUSION: Postoperative QT-interval prolongation is common </plain></SENT>
+<SENT sid="15" pm="."><plain>Several perioperatively administered drugs are associated with a substantial QT-interval prolongation </plain></SENT>
+<SENT sid="16" pm="."><plain>The exact cause and its clinical relevance are, however, unclear </plain></SENT>
+<SENT sid="17" pm="."><plain>Nevertheless, an association between postoperative QT prolongation and risk for <z:hpo ids='HP_0001664'>torsades de pointes</z:hpo> is likely </plain></SENT>
+</text></document>

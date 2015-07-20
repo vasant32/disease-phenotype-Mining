@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Basic helix-loop-helix proteins, which are tissue specific (SCL) or broadly expressed (E proteins), interact positively to regulate erythroid specific genes </plain></SENT>
+<SENT sid="1" pm="."><plain>Here, expression of SCL and two broadly expressed E proteins, E47 and HEB, was high early in erythroid differentiation and declined during maturation </plain></SENT>
+<SENT sid="2" pm="."><plain>Stimulation of erythroid progenitors/precursors with stem cell factor (SCF) enhanced SCL and E protein levels, one mechanism by which SCF may increase erythroid proliferation </plain></SENT>
+<SENT sid="3" pm="."><plain>Interactions between SCL and E proteins are competed by Id2, which binds and sequesters E proteins </plain></SENT>
+<SENT sid="4" pm="."><plain>Upregulation of Id2, demonstrated here late in erythroid differentiation, may downregulate genes involved in erythroid proliferation/differentiation </plain></SENT>
+<SENT sid="5" pm="."><plain>We examined expression of bHLH proteins in transfusion-dependent patients with Diamond-Blackfan <z:hpo ids='HP_0001903'>anemia</z:hpo> (<z:chebi fb="28" ids="35299">DBA</z:chebi>) to determine if these interactions are disrupted </plain></SENT>
+<SENT sid="6" pm="."><plain>In erythroblasts from patients, expression of SCL protein and <z:chebi fb="2" ids="33699">mRNA</z:chebi> was <z:mpath ids='MPATH_458'>normal</z:mpath> and SCL increased in response to SCF </plain></SENT>
+<SENT sid="7" pm="."><plain>However, E47 and HEB protein levels were significantly decreased </plain></SENT>
+<SENT sid="8" pm="."><plain>Id2 was strongly expressed in patients </plain></SENT>
+<SENT sid="9" pm="."><plain>Through reduction of SCL/E protein heterodimer formation, abnormal levels of bHLH transcription factors may affect expression of erythroid specific genes, such as beta <z:chebi fb="0" ids="5386">globin</z:chebi> </plain></SENT>
+<SENT sid="10" pm="."><plain>Stimulation of Diamond-Blackfan cells with SCF partially compensated for this defect, enhancing expression of E47, HEB, and SCL </plain></SENT>
+<SENT sid="11" pm="."><plain>SCF may function to increase SCL/E protein heterodimer formation, which may be one of the mechanisms through which SCF stimulates erythroid proliferation/differentiation in <z:chebi fb="28" ids="35299">DBA</z:chebi> </plain></SENT>
+</text></document>

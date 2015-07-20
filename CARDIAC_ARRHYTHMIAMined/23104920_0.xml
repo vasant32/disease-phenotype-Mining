@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIMS: <z:chebi fb="0" ids="2663">Amiodarone</z:chebi> and cisapride are both known to prolong the QT interval, yet the two drugs have different effects on <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Cisapride can cause <z:hpo ids='HP_0001664'>torsades de pointes</z:hpo> while <z:chebi fb="0" ids="2663">amiodarone</z:chebi> is found to be anti-arrhythmic </plain></SENT>
+<SENT sid="2" pm="."><plain>A computational model was used to investigate the action of these two drugs </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS AND RESULTS: In a biophysically detailed model, the ion current conductivities affected by both drugs were reduced in order to simulate the pharmacological effects in healthy and ischaemic cells </plain></SENT>
+<SENT sid="4" pm="."><plain>Furthermore, restitution curves of the action potential duration (APD), effective refractory period, conduction velocity, wavelength, and the vulnerable window were determined in a one-dimensional (1D) tissue strand </plain></SENT>
+<SENT sid="5" pm="."><plain>Moreover, cardiac excitation propagation was computed in a 3D model of healthy ventricles </plain></SENT>
+<SENT sid="6" pm="."><plain>The corresponding body surface potentials were calculated and standard 12-lead electrocardiograms were derived </plain></SENT>
+<SENT sid="7" pm="."><plain>Both cisapride and <z:chebi fb="0" ids="2663">amiodarone</z:chebi> caused a prolongation of the QT interval and the refractory period </plain></SENT>
+<SENT sid="8" pm="."><plain>However, cisapride did not significantly alter the conduction-related properties, such as e.g. the wavelength or vulnerable window, whereas <z:chebi fb="0" ids="2663">amiodarone</z:chebi> had a larger impact on them </plain></SENT>
+<SENT sid="9" pm="."><plain>It slightly flattened the APD restitution slope and furthermore reduced the conduction velocity and wavelength </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSION: Both drugs show similar prolongation of the QT interval, although they present different electrophysiological properties in the single-cell as well as in tissue simulations of cardiac excitation propagation </plain></SENT>
+<SENT sid="11" pm="."><plain>These computer simulations help to better understand the underlying mechanisms responsible for the initiation or termination of <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> caused by <z:chebi fb="0" ids="2663">amiodarone</z:chebi> and cisapride </plain></SENT>
+</text></document>

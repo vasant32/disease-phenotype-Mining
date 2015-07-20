@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 73-year-old man was admitted for investigation of <z:hpo ids='HP_0001876'>pancytopenia</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>His physical examination was unremarkable and the bone marrow aspirate was compatible with <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">RAEB</z:e>) </plain></SENT>
+<SENT sid="2" pm="."><plain>Cytogenetic analysis of the bone marrow revealed a <z:mp ids='MP_0004027'>trisomy</z:mp> 21 </plain></SENT>
+<SENT sid="3" pm="."><plain>The patient received transfusions of packed red cells, and his condition remained stable for the next 7 months </plain></SENT>
+<SENT sid="4" pm="."><plain>He was then admitted with a <z:e sem="disease" ids="C0149725" disease_type="Disease or Syndrome" abbrv="LRTI">chest infection</z:e> and was treated with broad-spectrum antibiotics with satisfactory response </plain></SENT>
+<SENT sid="5" pm="."><plain>During his hospitalization there was a gradual increase in his complete blood count values, which persisted, resulting in a <z:mpath ids='MPATH_458'>normal</z:mpath> peripheral blood after 3 months </plain></SENT>
+<SENT sid="6" pm="."><plain>A bone marrow aspirate performed at that time revealed <z:mpath ids='MPATH_458'>normal</z:mpath> findings with no karyotypic abnormalities, indicating a spontaneous remission </plain></SENT>
+<SENT sid="7" pm="."><plain>The patient remained stable for the next 6 months; then he recurred with 20% blasts in his bone marrow and reappearance of <z:mp ids='MP_0004027'>trisomy</z:mp> 21 in 42% of the metaphases examined </plain></SENT>
+<SENT sid="8" pm="."><plain>Several <z:e sem="disease" ids="C0376545" disease_type="Neoplastic Process" abbrv="">hematologic malignancies</z:e> with spontaneous remissions have been described to date, but they have generally been short and recurrence is the rule, as in the case described </plain></SENT>
+<SENT sid="9" pm="."><plain>The role of endogenous cytokines in triggering these spontaneous remissions is under question, as the exact mechanism is unknown </plain></SENT>
+</text></document>

@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We report a patient with anaplastic large-cell <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">ALCL</z:e>) who has been given immunosuppressive therapy for <z:e sem="disease" ids="C0272126" disease_type="Disease or Syndrome" abbrv="">Evans syndrome</z:e> for 10 years </plain></SENT>
+<SENT sid="1" pm="."><plain>He was admitted with spike <z:hpo ids='HP_0001945'>fever</z:hpo>, intra-abdominal <z:hpo ids='HP_0002716'>lymphadenopathy</z:hpo>, and multiple liver masses </plain></SENT>
+<SENT sid="2" pm="."><plain>Examination of biopsy specimens obtained by para-aortic lymph nodes and liver masses resulted in a diagnosis of <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">ALCL</z:e> </plain></SENT>
+<SENT sid="3" pm="."><plain>Immunohistochemically, these cells were reactive to anti-CD30 antibody but were not of B- or T-lineage </plain></SENT>
+<SENT sid="4" pm="."><plain>Bone marrow <z:hpo ids='HP_0002835'>aspiration</z:hpo> demonstrated the invasion of giant neoplastic cells and trilineage <z:hpo ids='HP_0002863'>myelodysplasia</z:hpo> </plain></SENT>
+<SENT sid="5" pm="."><plain>Because the patient showed severe inflammatory symptoms, we examined serum levels of various cytokines </plain></SENT>
+<SENT sid="6" pm="."><plain>Pretreatment levels of IL-6 and VEGF in this patient were significantly elevated compared to those of <z:mpath ids='MPATH_458'>normal</z:mpath> controls </plain></SENT>
+<SENT sid="7" pm="."><plain>He was treated with combination chemotherapy (ABVD regimen), achieving complete remission </plain></SENT>
+<SENT sid="8" pm="."><plain><z:hpo ids='HP_0002863'>Myelodysplasia</z:hpo> and serum IL-6 and VEGF also normalized after treatment </plain></SENT>
+<SENT sid="9" pm="."><plain>We assumed that <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">ALCL</z:e> resulted from long-term immunosuppressive therapy and that the up-regulation of IL-6 and VEGF played a role in pathogenesis of this type of <z:hpo ids='HP_0002665'>lymphoma</z:hpo> </plain></SENT>
+</text></document>

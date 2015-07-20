@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The activation of the heart inward rectifier <z:chebi fb="120" ids="26216">potassium</z:chebi> channel (I(K1) ) can reduce the injury of myocardial cells by shortening the action potential duration and reducing intracellular calcium overload </plain></SENT>
+<SENT sid="1" pm="."><plain>Zacopride is a selective I(K1) <z:chebi fb="4" ids="48705">agonist</z:chebi> and suppresses triggered <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> in rat hearts </plain></SENT>
+<SENT sid="2" pm="."><plain>This investigation studied the effects of St </plain></SENT>
+<SENT sid="3" pm="."><plain>Thomas (ST) cardioplegia enriched with Zacopride on the isolated rat heart model </plain></SENT>
+<SENT sid="4" pm="."><plain>Sprague-Dawley rat hearts were harvested and perfused for 20 minutes with 37°C Krebs-Henseleit (KH) buffer followed by 15 minute perfusion with 4°C calcium-free KH buffer in the Control group (Con, n = 8), ST cardioplegia in the ST group (ST, n = 8) and ST cardioplegia with Zacopride in the STZ group (STZ, n = 8) </plain></SENT>
+<SENT sid="5" pm="."><plain>After 45 minutes of arresting, <z:hpo ids='HP_0000001'>all</z:hpo> hearts were reperfused with 37°C KH buffer for 60 minutes </plain></SENT>
+<SENT sid="6" pm="."><plain>Hearts in the STZ group arrested faster than the Con and ST groups (9.25 ± 2.38 s vs. 72.25 ± 8.1 s, 12.75 ± 2.87 s) </plain></SENT>
+<SENT sid="7" pm="."><plain>The recovery of the left ventricular developed pressure, ± dP/dtmax, heart rate, and coronary flow in the STZ group is significantly better than the other two groups during reperfusion </plain></SENT>
+<SENT sid="8" pm="."><plain>Compared with the Con and ST groups, the STZ group showed significant decreases in the maximum carciac troponin I level (P &lt; 0.05) and the <z:mpath ids='MPATH_124'>infarct</z:mpath> size (P &lt; 0.05) </plain></SENT>
+<SENT sid="9" pm="."><plain>The <z:chebi fb="1" ids="18421">superoxide</z:chebi> dismutase level in the STZ group increased during the first 20 minutes of reperfusion (P &lt; 0.05) </plain></SENT>
+<SENT sid="10" pm="."><plain>ST cardioplegia enriched with Zacopride has beneficial effects against <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e>-reperfusion injury in this isolated rat heart model </plain></SENT>
+</text></document>

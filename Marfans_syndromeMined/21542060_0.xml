@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The Marfan (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MFS</z:e>) and Loeys-Dietz (LDS) syndromes are caused by mutations in the fibrillin-1 (FBN1) and Transforming Growth Factor Beta Receptor 1 and 2 (TGFBR1 and TGFBR2) genes, respectively </plain></SENT>
+<SENT sid="1" pm="."><plain>With the current conventional mutation screening technologies, analysis of this set of genes is time consuming and expensive </plain></SENT>
+<SENT sid="2" pm="."><plain>We have tailored a cost-effective and reliable mutation discovery strategy using multiplex PCR followed by Next Generation Sequencing (NGS) </plain></SENT>
+<SENT sid="3" pm="."><plain>In a first stage, genomic DNA from five <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MFS</z:e> or LDS patient samples with previously identified mutations and/or polymorphisms in FBN1 and TGFBR1 and 2 were analyzed and revealed <z:hpo ids='HP_0000001'>all</z:hpo> expected variants </plain></SENT>
+<SENT sid="4" pm="."><plain>In a second stage, we validated the technique on 87 samples from <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MFS</z:e> patients fulfilling the Ghent criteria </plain></SENT>
+<SENT sid="5" pm="."><plain>This resulted in the identification of 75 FBN1 mutations, of which 67 were unique </plain></SENT>
+<SENT sid="6" pm="."><plain>Subsequent Multiplex Ligation-dependent Probe Amplification (MLPA) analysis of the remaining negative samples identified four large deletions/insertions </plain></SENT>
+<SENT sid="7" pm="."><plain>Finally, Sanger sequencing identified a missense mutation in FBN1 exon 1 that was not included in the NGS workflow </plain></SENT>
+<SENT sid="8" pm="."><plain>In total, there was an overall mutation identification rate of 92%, which is in agreement with data published previously </plain></SENT>
+<SENT sid="9" pm="."><plain>We conclude that multiplex PCR of <z:hpo ids='HP_0000001'>all</z:hpo> coding exons of FBN1 and TGFBR1/2 followed by NGS analysis and MLPA is a robust strategy for time- and cost-effective identification of mutations. © 2011 Wiley-Liss, Inc </plain></SENT>
+</text></document>

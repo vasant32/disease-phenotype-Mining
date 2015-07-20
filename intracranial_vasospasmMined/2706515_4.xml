@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Microvessels in the rat hippocampal slice can be used as an in vitro model for the study of <z:e sem="disease" ids="C0265110" disease_type="Disease or Syndrome" abbrv="">cerebral vasospasm</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>Serum from coagulated blood causes prompt and long-lasting microvascular constriction that is neurogenic in nature </plain></SENT>
+<SENT sid="2" pm="."><plain>Here we show that a candidate spasmogen, <z:chebi fb="0" ids="28728">thromboxane B2</z:chebi>, has excitatory action on neural elements in the slice </plain></SENT>
+<SENT sid="3" pm="."><plain>However, spasmogenic serum lacks this excitatory effect </plain></SENT>
+<SENT sid="4" pm="."><plain>Instead, it is inhibitory for a major population of slice neurons </plain></SENT>
+<SENT sid="5" pm="."><plain>Thus, neurogenic microvascular spasm is produced by a subpopulation of slice neurons or projection fibers, not <z:hpo ids='HP_0000001'>all</z:hpo> neurons acting in concert </plain></SENT>
+<SENT sid="6" pm="."><plain>Arginine vasopressin (AVP) is contained in fibers that project to the hippocampus, and hippocampal microvessels contain pressor (V1) receptors for the <z:chebi fb="7" ids="16670">peptide</z:chebi> </plain></SENT>
+<SENT sid="7" pm="."><plain>AVP causes vasoconstriction in the slice, and a specific V1 <z:chebi fb="68" ids="48706">antagonist</z:chebi> for the <z:chebi fb="7" ids="16670">peptide</z:chebi> blocks the microvascular spasm induced by blood serum </plain></SENT>
+<SENT sid="8" pm="."><plain>The results are interpreted to mean that neurogenic microvascular spasm is mediated by locally released AVP </plain></SENT>
+</text></document>

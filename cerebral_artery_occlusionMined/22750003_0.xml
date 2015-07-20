@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Cytoglobin, a new member of the mammalian <z:chebi fb="4" ids="30413">heme</z:chebi>-<z:chebi fb="0" ids="5386">globin</z:chebi> family has been shown to bind oxygen and to have cell protective properties in vitro </plain></SENT>
+<SENT sid="1" pm="."><plain>Cytoglobin is specifically expressed in a subpopulation of brain neurons </plain></SENT>
+<SENT sid="2" pm="."><plain>Based on <z:mp ids='MP_0005039'>hypoxia</z:mp>-induced up regulation and proposed scavenging of reactive oxygen species Cytoglobin was suggested as a candidate for pharmaceutical <z:hpo ids='HP_0001297'>stroke</z:hpo> treatment </plain></SENT>
+<SENT sid="3" pm="."><plain>Since production of reactive oxygen species is a hallmark of <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e>, we hypothesized that Cytoglobin expression would be increased and that Cytoglobin expressing neurons would be spared after ischemic injury </plain></SENT>
+<SENT sid="4" pm="."><plain>Twenty male C57BL/6J mice were used in the experimental design </plain></SENT>
+<SENT sid="5" pm="."><plain>Ten were sham operated and ten were given permanent middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (pMCAo) </plain></SENT>
+<SENT sid="6" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> animals were euthanized after 24h </plain></SENT>
+<SENT sid="7" pm="."><plain>From each group, three animals were used for histology and seven for QRT-PCR and western blotting </plain></SENT>
+<SENT sid="8" pm="."><plain>Immunohistochemical examination of the ischemic penumbra revealed neither changes in Cytoglobin immunoreactivity nor any changes in expression in the necrotic <z:mpath ids='MPATH_124'>infarct</z:mpath> area </plain></SENT>
+<SENT sid="9" pm="."><plain>The lack of expression change was confirmed by western blotting and QRT-PCR showing no significant difference between sham and pMCAo operated mice </plain></SENT>
+<SENT sid="10" pm="."><plain>This suggests that Cytoglobin is likely not important for global neuronal protection following <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> and the role of Cytoglobin in relation to endogenous neuroprotection remains unresolved </plain></SENT>
+</text></document>

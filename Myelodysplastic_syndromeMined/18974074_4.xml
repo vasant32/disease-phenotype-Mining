@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>MOTIVATION: Loss of heterozygosity (LOH) is one of the most important mechanisms in the <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> evolution </plain></SENT>
+<SENT sid="1" pm="."><plain>LOH can be detected from the genotypes of the <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> samples with or without paired <z:mpath ids='MPATH_458'>normal</z:mpath> samples </plain></SENT>
+<SENT sid="2" pm="."><plain>In paired sample cases, LOH detection for informative single nucleotide polymorphisms (SNPs) is straightforward if there is no genotyping error </plain></SENT>
+<SENT sid="3" pm="."><plain>But genotyping errors are always unavoidable, and there are about 70% non-informative SNPs whose LOH status can only be inferred from the neighboring informative SNPs </plain></SENT>
+<SENT sid="4" pm="."><plain>RESULTS: This article presents a novel LOH inference and segmentation algorithm based on the conditional random pattern (CRP) model </plain></SENT>
+<SENT sid="5" pm="."><plain>The new model explicitly considers the distance between two neighboring SNPs, as well as the genotyping error rate and the heterozygous rate </plain></SENT>
+<SENT sid="6" pm="."><plain>This new method is tested on the simulated and real data of the Affymetrix Human Mapping 500K SNP arrays </plain></SENT>
+<SENT sid="7" pm="."><plain>The experimental results show that the CRP method outperforms the conventional methods based on the hidden Markov model (<z:chebi fb="8" ids="24564">HMM</z:chebi>) </plain></SENT>
+<SENT sid="8" pm="."><plain>AVAILABILITY: Software is available upon request </plain></SENT>
+</text></document>

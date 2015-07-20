@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0001427'>Mitochondrial</z:hpo> and peroxisomal fission are essential processes with defects resulting in <z:hpo ids='HP_0001638'>cardiomyopathy</z:hpo> and <z:mp ids='MP_0002058'>neonatal lethality</z:mp> </plain></SENT>
+<SENT sid="1" pm="."><plain>Central to organelle fission is Fis1, a monomeric tetratricopeptide repeat (TPR)-like protein whose role in assembly of the fission machinery remains obscure </plain></SENT>
+<SENT sid="2" pm="."><plain>Two nonfunctional, Saccharomyces cerevisiae Fis1 mutants (L80P or E78D/I85T/Y88H) were previously identified in genetic screens </plain></SENT>
+<SENT sid="3" pm="."><plain>Here, we find that these two variants in the cytosolic domain of Fis1 (Fis1ΔTM) are unexpectedly dimeric </plain></SENT>
+<SENT sid="4" pm="."><plain>A truncation variant of Fis1ΔTM that lacks an N-terminal regulatory domain is also found to be dimeric </plain></SENT>
+<SENT sid="5" pm="."><plain>The ability to dimerize is a property innate to the native Fis1ΔTM amino acid sequence as we find this domain is dimeric after transient exposure to elevated temperature or chemical denaturants and is kinetically trapped at room temperature </plain></SENT>
+<SENT sid="6" pm="."><plain>This is the first demonstration of a specific self-association in solution for the Fis1 cytoplasmic domain </plain></SENT>
+<SENT sid="7" pm="."><plain>We propose a three-dimensional domain-swapped model for dimerization that is validated by a designed mutation, A72P, which potently disrupts dimerization of <z:mp ids='MP_0002169'>wild-type</z:mp> Fis1 </plain></SENT>
+<SENT sid="8" pm="."><plain>A72P also disrupts dimerization of nonfunctional variants, indicating a common structural basis for dimerization </plain></SENT>
+<SENT sid="9" pm="."><plain>The obligate monomer variant A72P, like the dimer-promoting variants, is nonfunctional in fission, consistent with a model in which Fis1 activity depends on its ability to interconvert between monomer and dimer species </plain></SENT>
+<SENT sid="10" pm="."><plain>These studies suggest a new functionally important manner in which TPR-containing proteins may reversibly self-associate </plain></SENT>
+</text></document>

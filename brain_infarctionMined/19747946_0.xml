@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Immunofluorescence is the basis for many techniques used to quantify phenomena in neuroscience research, in both <z:mpath ids='MPATH_458'>normal</z:mpath> and pathological tissue </plain></SENT>
+<SENT sid="1" pm="."><plain>Autofluorescence (non-specific, broad spectrum background fluorescence) is an unfortunate consequence of damage to brain tissue </plain></SENT>
+<SENT sid="2" pm="."><plain>Damage-induced autofluorescence potentially confounds analyses of tissue labeled with fluorescent markers in many experiments </plain></SENT>
+<SENT sid="3" pm="."><plain>This is especially problematic in protocols that utilize co-localization methods such as BrdU/NeuN in which autofluorescence might lead to overestimates of the number of double-labeled cells </plain></SENT>
+<SENT sid="4" pm="."><plain>Techniques to reduce autofluorescence are variable and relatively ineffective in damaged brain tissue </plain></SENT>
+<SENT sid="5" pm="."><plain>Here we show using confocal microscopy that damage-induced autofluorescence does not co-localize with the nuclear specific markers <z:chebi fb="0" ids="51231">DAPI</z:chebi> or Hoechst </plain></SENT>
+<SENT sid="6" pm="."><plain>Further co-localization of nuclear markers such as Ki67 or BrdU/NeuN with <z:chebi fb="0" ids="51231">DAPI</z:chebi> or Hoechst should serve to help discriminate between intended and spurious fluorescent signal </plain></SENT>
+</text></document>

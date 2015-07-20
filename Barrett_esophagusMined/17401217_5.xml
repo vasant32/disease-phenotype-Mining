@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: The molecular events that accompany the progression to <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> (<z:chebi fb="49" ids="35181">ADC</z:chebi>) of the esophagus are poorly understood </plain></SENT>
+<SENT sid="1" pm="."><plain>Aberrant mucin receptor expression can contribute to increased cell growth and metastatic ability </plain></SENT>
+<SENT sid="2" pm="."><plain>AIM: The aim of this study was to establish a pattern for mucin (MUC) gene expression in the esophageal mucosa under <z:mpath ids='MPATH_458'>normal</z:mpath> and pathological conditions </plain></SENT>
+<SENT sid="3" pm="."><plain>SETTING: University Hospital <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">Cancer</z:e> Center Laboratory </plain></SENT>
+<SENT sid="4" pm="."><plain>Archived tissue samples studied in a retrospective fashion </plain></SENT>
+<SENT sid="5" pm="."><plain>MATERIALS AND METHODS: Tissue samples were obtained from the archives of patients with histological evidence of <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> (BE) progressing to <z:chebi fb="49" ids="35181">ADC</z:chebi> </plain></SENT>
+<SENT sid="6" pm="."><plain>Immunohistochemical analysis was performed using mouse monoclonal antibodies for MUC1, MUC2, MUC5AC, MUC6 </plain></SENT>
+<SENT sid="7" pm="."><plain>Semiquantitative scoring of histological staining was performed using a linear scoring system: 0-staining absent; 1-staining in 0-25%; 2-staining in 25-50%; and 3-staining in 50-75% of the epithelium </plain></SENT>
+<SENT sid="8" pm="."><plain>The Binomial test was used to explore trends and differences in frequency of mucin expression along the pathological sequence </plain></SENT>
+<SENT sid="9" pm="."><plain>RESULTS: Only mild superficial staining of MUC1 was seen in <z:mpath ids='MPATH_458'>normal</z:mpath> squamous epithelium </plain></SENT>
+<SENT sid="10" pm="."><plain>MUC1 and MUC2 were uniformly expressed in <z:hpo ids='HP_0000001'>all</z:hpo> samples (7/7) of BE and <z:mpath ids='MPATH_589'>dysplasia</z:mpath> (P=0.008) </plain></SENT>
+<SENT sid="11" pm="."><plain>MUC1 expression was upregulated (7/7) in progression to <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> (P=0.008) </plain></SENT>
+<SENT sid="12" pm="."><plain>The secretory mucins, MUC5AC and MUC6 showed a decrease in expression with progression from BE to <z:mpath ids='MPATH_589'>dysplasia</z:mpath> to <z:chebi fb="49" ids="35181">ADC</z:chebi> (P&lt; 0.05) </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSIONS: Downregulation of MUC5AC and MUC6 decreases mucosal protection against gastric acid </plain></SENT>
+<SENT sid="14" pm="."><plain>Increasing MUC1 expression is associated with progression from <z:mpath ids='MPATH_589'>dysplasia</z:mpath> to <z:chebi fb="49" ids="35181">ADC</z:chebi> </plain></SENT>
+<SENT sid="15" pm="."><plain>Upregulation of MUC2 reflects <z:mpath ids='MPATH_167'>intestinal metaplasia</z:mpath> in BE </plain></SENT>
+</text></document>

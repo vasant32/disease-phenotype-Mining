@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:e sem="disease" ids="C0007785" disease_type="Disease or Syndrome" abbrv="">Cerebral infarction</z:e> initiates a cascade of molecular events, leading to proteolytic cell <z:hpo ids='HP_0011420'>death</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Matrix-degrading metalloproteinases (MMPs) are neutral proteases involved in extracellular matrix damage </plain></SENT>
+<SENT sid="2" pm="."><plain>Type IV collagenase is an MMP that increases cerebral capillary permeability after intracerebral injection and may be important along with plasminogen activators (PA) in secondary <z:hpo ids='HP_0002181'>brain edema</z:hpo> in <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>Therefore, we measured MMPs and PAs in spontaneously hypertensive (SHR) or Wistar-Kyoto (WKY) rats with permanent middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (MCAO) </plain></SENT>
+<SENT sid="4" pm="."><plain>Brain tissue was assayed for MMPs and PAs at 1, 3, 12, and 24 h and 5 days after occlusion, using substrate gel <z:chebi fb="0" ids="53656">polyacrylamide</z:chebi> electrophoresis (zymography) </plain></SENT>
+<SENT sid="5" pm="."><plain>SHR showed an increase in 92-kDa type IV collagenase (gelatinase B) in the infarcted hemisphere compared with the opposite side at 12 and 24 h (p &lt; 0.05) </plain></SENT>
+<SENT sid="6" pm="."><plain>Gelatinase A remained the same in both infarcted and <z:mpath ids='MPATH_458'>normal</z:mpath> tissue until 5 days after injury, when it increased significantly (p &lt; 0.05) </plain></SENT>
+<SENT sid="7" pm="."><plain>Urokinase-type PA was increased significantly at 12 and 24 h and 5 days, while tissue-type PA was decreased significantly at 1, 12, and 24 h in the ischemic compared with the nonischemic hemisphere </plain></SENT>
+<SENT sid="8" pm="."><plain>Gelatinase B was markedly increased in SHR at 12 and 24 h compared with WKY (p &lt; 0.05) </plain></SENT>
+<SENT sid="9" pm="."><plain>Secondary vasogenic <z:hpo ids='HP_0000969'>edema</z:hpo> is maximal 1-2 days after a <z:hpo ids='HP_0001297'>stroke</z:hpo>, which is the time that gelatinase B was elevated </plain></SENT>
+<SENT sid="10" pm="."><plain>The time of appearance of gelatinase B suggests a role in secondary tissue damage and vasogenic <z:hpo ids='HP_0000969'>edema</z:hpo>, while gelatinase A may be involved in tissue repair </plain></SENT>
+</text></document>

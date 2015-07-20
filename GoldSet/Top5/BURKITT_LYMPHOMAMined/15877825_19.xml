@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Bone morphogenetic proteins (BMPs) belong to the TGF-beta superfamily and are secreted proteins with pleiotropic roles in many different cell types </plain></SENT>
+<SENT sid="1" pm="."><plain>A potential role of BMP-6 in the immune system has been implied by various studies of malignant and <z:e sem="disease" ids="C0003873" disease_type="Disease or Syndrome" abbrv="">rheumatoid diseases</z:e> </plain></SENT>
+<SENT sid="2" pm="."><plain>In the present study, we explored the role of BMP-6 in <z:mpath ids='MPATH_458'>normal</z:mpath> human peripheral blood B cells </plain></SENT>
+<SENT sid="3" pm="."><plain>RESULTS: The B cells were found to express BMP type I and type II receptors and BMP-6 rapidly induced phosphorylation of Smad1/5/8 </plain></SENT>
+<SENT sid="4" pm="."><plain>Furthermore, Smad-phosphorylation was followed by upregulation of Id1 <z:chebi fb="2" ids="33699">mRNA</z:chebi> and Id1 protein, whereas Id2 and Id3 expression was not affected </plain></SENT>
+<SENT sid="5" pm="."><plain>Furthermore, we found that BMP-6 had an antiproliferative effect both in naive (CD19+CD27-) and memory B cells (CD19+CD27+) stimulated with anti-IgM alone or the combined action of anti-IgM and CD40L </plain></SENT>
+<SENT sid="6" pm="."><plain>Additionally, BMP-6 induced cell <z:hpo ids='HP_0011420'>death</z:hpo> in activated memory B cells </plain></SENT>
+<SENT sid="7" pm="."><plain>Importantly, the antiproliferative effect of BMP-6 in B-cells was completely neutralized by the natural <z:chebi fb="68" ids="48706">antagonist</z:chebi>, noggin </plain></SENT>
+<SENT sid="8" pm="."><plain>Furthermore, B cells were demonstrated to upregulate BMP-6 mRNA upon stimulation with anti-IgM </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSION: In mature human B cells, BMP-6 inhibited cell growth, and rapidly induced phosphorylation of Smad1/5/8 followed by an upregulation of Id1 </plain></SENT>
+</text></document>

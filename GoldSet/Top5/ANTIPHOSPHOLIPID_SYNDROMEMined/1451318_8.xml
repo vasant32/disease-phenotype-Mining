@@ -1,0 +1,6 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Two patients who demonstrated <z:mp ids='MP_0001212'>skin lesions</z:mp> in the presence of <z:hpo ids='HP_0003613'>antiphospholipid antibodies</z:hpo> are documented </plain></SENT>
+<SENT sid="1" pm="."><plain>The first had a long history of recurrent painful nodules </plain></SENT>
+<SENT sid="2" pm="."><plain>She had also suffered two <z:e sem="disease" ids="C0149871" disease_type="Disease or Syndrome" abbrv="">deep vein thromboses</z:e> </plain></SENT>
+<SENT sid="3" pm="."><plain>The second developed a <z:e sem="disease" ids="C0015230" disease_type="Disease or Syndrome" abbrv="">rash</z:e> on the lower limbs resembling <z:hpo ids='HP_0002633'>vasculitis</z:hpo> which did not respond to <z:chebi fb="2" ids="8378">prednisolone</z:chebi>, but to low dose <z:chebi fb="1" ids="30762">salicylate</z:chebi> therapy </plain></SENT>
+<SENT sid="4" pm="."><plain>Histology in both patients revealed microthrombosis of cutaneous vessels </plain></SENT>
+</text></document>

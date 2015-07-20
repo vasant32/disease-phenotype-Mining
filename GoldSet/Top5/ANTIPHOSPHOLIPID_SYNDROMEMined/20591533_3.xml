@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0003613'>Antiphospholipid antibodies</z:hpo> (aPL) are likely involved in the pathogenesis of the <z:e sem="disease" ids="C0085278" disease_type="Disease or Syndrome" abbrv="">antiphospholipid syndrome</z:e> (APS) </plain></SENT>
+<SENT sid="1" pm="."><plain>This study analyzes the structural and functional characteristics of a human monoclonal aPL (HL7G) from the IgG2 subtype with λ light chains generated from a patient with primary APS and recurrent cerebral microemboli </plain></SENT>
+<SENT sid="2" pm="."><plain>DNA encoding the variable region of heavy and light chains of the antibody was sequenced, analyzed, and compared to HL5B a previously described monoclonal aPL from the same patient </plain></SENT>
+<SENT sid="3" pm="."><plain>Both antibodies are derived from the same germline genes </plain></SENT>
+<SENT sid="4" pm="."><plain>HL7G had similar but more extensive <z:hpo ids='HP_0001428'>somatic mutations</z:hpo> in the CDR1 and 2 regions than HL5B, indicating that both antibodies are closely related and derived by a T cell-dependent antigen driven process </plain></SENT>
+<SENT sid="5" pm="."><plain>In ELISA assays HL7G bound to <z:chebi fb="0" ids="28494">cardiolipin</z:chebi> and several other <z:chebi fb="0" ids="16247">phospholipid</z:chebi> antigens in the absence of protein cofactors </plain></SENT>
+<SENT sid="6" pm="."><plain>Different from HL5B this aPL bound to β2-<z:chebi fb="2" ids="17089">glycoprotein</z:chebi> I (β2GPII) </plain></SENT>
+<SENT sid="7" pm="."><plain>This suggests that reactivity of aPL against β2GPI is determined by only few specific amino acid exchanges </plain></SENT>
+<SENT sid="8" pm="."><plain>HL7G was able to induce tissue factor (TF) as one of the procoagulant effects of aPL </plain></SENT>
+<SENT sid="9" pm="."><plain>Our data suggest that the binding specificity of aPL is only of limited value to predict the biological effect and the pathophysiological impact of the antibodies </plain></SENT>
+</text></document>

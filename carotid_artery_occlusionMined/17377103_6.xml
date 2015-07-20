@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: The effect of <z:chebi fb="0" ids="9130">sevoflurane</z:chebi> on the neuroregenerative potential after neuronal injury is unclear </plain></SENT>
+<SENT sid="1" pm="."><plain>We investigated the effect of low and high concentrations of <z:chebi fb="0" ids="9130">sevoflurane</z:chebi> on endogenous neurogenesis after <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: Anesthetized and ventilated rats were randomized to four different treatment groups </plain></SENT>
+<SENT sid="3" pm="."><plain>Groups 1 and 2: 1.4% <z:chebi fb="0" ids="9130">sevoflurane</z:chebi>; Groups 3 and 4: 2.8% <z:chebi fb="0" ids="9130">sevoflurane</z:chebi> </plain></SENT>
+<SENT sid="4" pm="."><plain>In Groups 1 and 3, no <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> was induced (sham-operated) </plain></SENT>
+<SENT sid="5" pm="."><plain>In Groups 2 and 4, 10 min of forebrain <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> was induced by bilateral carotid <z:mp ids='MP_0006134'>artery occlusion</z:mp> plus hemorrhagic <z:hpo ids='HP_0002615'>hypotension</z:hpo> </plain></SENT>
+<SENT sid="6" pm="."><plain>Physiological variables were maintained constant </plain></SENT>
+<SENT sid="7" pm="."><plain>Bromodeoxyuridine was given as a marker of neurogenesis </plain></SENT>
+<SENT sid="8" pm="."><plain>After 28 days brains were perfused </plain></SENT>
+<SENT sid="9" pm="."><plain>Histopathological damage of the hippocampus was evaluated in <z:chebi fb="1" ids="51686">hematoxylin</z:chebi> and eosin (HE) stained sections using the HE-index (0 = no damage; 1 = 1%-10% damage; 2 = 11%-50% damage; 3 = 51%-100% damage) </plain></SENT>
+<SENT sid="10" pm="."><plain>Immunohistochemistry was used to detect bromodeoxyuridine-positive neurons </plain></SENT>
+<SENT sid="11" pm="."><plain>Eight untreated rats were investigated as naive controls (Group 5) </plain></SENT>
+<SENT sid="12" pm="."><plain>RESULTS: In neither sham-operated group was histopathological damage or change in neurogenesis observed compared to naive controls </plain></SENT>
+<SENT sid="13" pm="."><plain>In rats anesthetized with 1.4% <z:chebi fb="0" ids="9130">sevoflurane</z:chebi>, <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> caused mild neuronal damage (HE-index of 0.64 +/- 0.84) and increased neurogenesis by 60% when compared with respective sham-operated animals; with 2.8% <z:chebi fb="0" ids="9130">sevoflurane</z:chebi>, the HE-index was 1.22 +/- 1.14, and the number of newly generated neurons increased by 230% when compared with respective sham-operated animals </plain></SENT>
+<SENT sid="14" pm="."><plain>CONCLUSION: The present data suggest that high concentrations of <z:chebi fb="0" ids="9130">sevoflurane</z:chebi> stimulate neurogenesis in the dentate gyrus after <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> </plain></SENT>
+</text></document>

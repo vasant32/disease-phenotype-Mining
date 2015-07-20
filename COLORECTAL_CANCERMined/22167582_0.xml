@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PURPOSE: Longitudinal changes of 3'-[(18) F]fluoro-3'-deoxythymidine (FLT) and 2-deoxy-2-[(18) F]fluoro-<z:chebi fb="0" ids="4167">D-glucose</z:chebi> (FDG) in response to irinotecan therapy in an animal model of <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> were compared </plain></SENT>
+<SENT sid="1" pm="."><plain>PROCEDURES: <z:mp ids='MP_0002536'>SCID</z:mp>/CB-17 mice with HCT116 <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumors</z:e> were treated with 50 mg/kg irinotecan by intraperitoneal injection weekly for 3 weeks </plain></SENT>
+<SENT sid="2" pm="."><plain>FLT and FDG-<z:chebi fb="4" ids="30225">positron</z:chebi> emission tomography (PET) were performed at baseline, the day after each treatment, and 5 days after the first treatment </plain></SENT>
+<SENT sid="3" pm="."><plain>Proliferation and <z:mpath ids='MPATH_3'>apoptosis</z:mpath> were evaluated by immunohistochemistry (IHC) after day 15 of imaging </plain></SENT>
+<SENT sid="4" pm="."><plain>RESULTS: Irinotecan treatment resulted in a suppression of <z:e sem="disease" ids="C0598934" disease_type="Neoplastic Process" abbrv="">tumor growth</z:e> </plain></SENT>
+<SENT sid="5" pm="."><plain><z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">Tumor</z:e> FLT uptake was decreased the day after each treatment but to a lesser extent 5 days after the first treatment </plain></SENT>
+<SENT sid="6" pm="."><plain>FDG uptake increased the day after each treatment with a continuous increase throughout the experiment </plain></SENT>
+<SENT sid="7" pm="."><plain>IHC analysis of phospho-H3 and Ki67 confirmed FLT-PET results, indicating a decrease in proliferation the day after the final irinotecan treatment </plain></SENT>
+<SENT sid="8" pm="."><plain><z:mp ids='MP_0006042'>Increased apoptosis</z:mp> monitored by caspase-3 was observed after day 15 with irinotecan treatment </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSIONS: FLT-PET may be a better method than FDG-PET for assessing treatment response to irinotecan </plain></SENT>
+<SENT sid="10" pm="."><plain>Changes in imaging occur before changes in <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> volume </plain></SENT>
+</text></document>

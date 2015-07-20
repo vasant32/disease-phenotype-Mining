@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Increased amounts of <z:chebi fb="0" ids="26338">PGE</z:chebi>(2) have been detected in the inflamed mucosa of patients with <z:e sem="disease" ids="C0021390" disease_type="Disease or Syndrome" abbrv="">inflammatory bowel disease</z:e> (IBD) </plain></SENT>
+<SENT sid="1" pm="."><plain>This increase has been attributed to enhanced synthesis rather than reduced catabolism of <z:chebi fb="0" ids="26338">PGE</z:chebi>(2) </plain></SENT>
+<SENT sid="2" pm="."><plain>15-Hydroxyprostaglandin dehydrogenase (15-PGDH) plays a major role in the catabolism of <z:chebi fb="0" ids="26338">PGE</z:chebi>(2) </plain></SENT>
+<SENT sid="3" pm="."><plain>In this study, we investigated whether amounts of 15-PGDH were altered in inflamed mucosa from patients with IBD </plain></SENT>
+<SENT sid="4" pm="."><plain>Amounts of 15-PGDH protein and <z:chebi fb="2" ids="33699">mRNA</z:chebi> were markedly reduced in inflamed mucosa from patients with <z:hpo ids='HP_0100280'>Crohn's disease</z:hpo> and <z:hpo ids='HP_0100279'>ulcerative colitis</z:hpo> </plain></SENT>
+<SENT sid="5" pm="."><plain>In situ hybridization demonstrated that 15-PGDH was expressed in <z:mpath ids='MPATH_458'>normal</z:mpath> colonic epithelium but was virtually absent in inflamed colonic mucosa from IBD patients </plain></SENT>
+<SENT sid="6" pm="."><plain>Because of the importance of TNF-alpha in IBD, we also determined the effects of TNF-alpha on the expression of 15-PGDH in vitro </plain></SENT>
+<SENT sid="7" pm="."><plain>Treatment with TNF-alpha suppressed the transcription of 15-PGDH in human colonocytes, resulting in reduced amounts of 15-PGDH <z:chebi fb="2" ids="33699">mRNA</z:chebi> and protein and enzyme activity </plain></SENT>
+<SENT sid="8" pm="."><plain>In contrast, TNF-alpha induced two enzymes (cyclooxygenase-2 and microsomal <z:chebi fb="11" ids="26333">prostaglandin</z:chebi> E synthase-1) that contribute to increased synthesis of <z:chebi fb="0" ids="26338">PGE</z:chebi>(2) </plain></SENT>
+<SENT sid="9" pm="."><plain>Overexpressing 15-PGDH blocked the increase in <z:chebi fb="0" ids="26338">PGE</z:chebi>(2) production mediated by TNF-alpha </plain></SENT>
+<SENT sid="10" pm="."><plain>Taken together, these results suggest that reduced expression of 15-PGDH contributes to the elevated levels of <z:chebi fb="0" ids="26338">PGE</z:chebi>(2) found in inflamed mucosa of IBD patients </plain></SENT>
+<SENT sid="11" pm="."><plain>The decrease in amounts of 15-PGDH in inflamed mucosa can be explained at least, in part, by TNF-alpha-mediated suppression of 15-PGDH transcription </plain></SENT>
+</text></document>

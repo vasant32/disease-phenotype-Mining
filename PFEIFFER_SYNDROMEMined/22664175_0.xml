@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Coordinated growth of the skull and brain are vital to <z:mpath ids='MPATH_458'>normal</z:mpath> human development </plain></SENT>
+<SENT sid="1" pm="."><plain><z:hpo ids='HP_0001363'>Craniosynostosis</z:hpo>, the premature fusion of the calvarial bones of the skull, is a relatively common pediatric disease, occurring in 1 in 2500 births, and requires significant surgical management, especially in syndromic cases </plain></SENT>
+<SENT sid="2" pm="."><plain>Syndromic <z:hpo ids='HP_0001363'>craniosynostosis</z:hpo> is caused by a variety of genetic lesions, most commonly by activating mutations of FGFRs 1-3, and inactivating mutations of TWIST1 </plain></SENT>
+<SENT sid="3" pm="."><plain>In a mouse model of TWIST1 haploinsufficiency, cell mixing between the neural crest-derived frontal bone and mesoderm-derived parietal bone accompanies coronal suture fusion during embryonic development </plain></SENT>
+<SENT sid="4" pm="."><plain>However, the relevance of lineage mixing in <z:hpo ids='HP_0001363'>craniosynostosis</z:hpo> induced by activating FGFR mutations is unknown </plain></SENT>
+<SENT sid="5" pm="."><plain>Here, we demonstrate a novel mechanism of suture fusion in the <z:e sem="disease" ids="C0001193" disease_type="Disease or Syndrome;Congenital Abnormality" abbrv="">Apert</z:e> Fgfr2(S252W) mouse model </plain></SENT>
+<SENT sid="6" pm="."><plain>Using Cre/lox recombination we simultaneously induce expression of Fgfr2(S252W) and β-galactosidase in either the neural crest or mesoderm of the skull </plain></SENT>
+<SENT sid="7" pm="."><plain>We show that mutation of the mesoderm alone is necessary and sufficient to cause <z:hpo ids='HP_0001363'>craniosynostosis</z:hpo>, while mutation of the neural crest is neither </plain></SENT>
+<SENT sid="8" pm="."><plain>The lineage border is not disrupted by aberrant cell migration during fusion </plain></SENT>
+<SENT sid="9" pm="."><plain>Instead, the suture mesenchyme itself remains intact and is induced to undergo osteogenesis </plain></SENT>
+<SENT sid="10" pm="."><plain>We eliminate postulated roles for dura mater or skull base changes in <z:hpo ids='HP_0001363'>craniosynostosis</z:hpo> </plain></SENT>
+<SENT sid="11" pm="."><plain>The viability of conditionally mutant mice also allows post-natal assessment of other aspects of <z:e sem="disease" ids="C0001193" disease_type="Disease or Syndrome;Congenital Abnormality" abbrv="">Apert syndrome</z:e> </plain></SENT>
+</text></document>

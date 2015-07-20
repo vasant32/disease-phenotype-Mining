@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Triplet chemotherapy has demonstrated manageable toxicities and a favorable response rate </plain></SENT>
+<SENT sid="1" pm="."><plain>The addition of cetuximab to chemotherapy can increase treatment efficacy </plain></SENT>
+<SENT sid="2" pm="."><plain>We evaluated the efficacy and safety of cetuximab plus <z:chebi fb="0" ids="46345">5-fluorouracil</z:chebi>, leucovorin, irinotecan, and <z:chebi fb="0" ids="31941">oxaliplatin</z:chebi> (FOLFIRINOX), the ERBIRINOX regimen, as first-line treatment in patients with unresectable <z:e sem="disease" ids="C0948380" disease_type="Neoplastic Process" abbrv="">metastatic colorectal cancer</z:e> (mCRC) </plain></SENT>
+<SENT sid="3" pm="."><plain>PATIENTS AND METHODS: In a phase II study, treatment consisted of weekly cetuximab plus biweekly </plain></SENT>
+<SENT sid="4" pm="."><plain>Treatment was continued for a maximum of 12 cycles and <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> response was evaluated every four cycles </plain></SENT>
+<SENT sid="5" pm="."><plain>The primary efficacy criterion was the complete response (CR) rate </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: From April 2006 to April 2008, 42 patients were enrolled </plain></SENT>
+<SENT sid="7" pm="."><plain>The median age was 60 years (range, 32-76 years) </plain></SENT>
+<SENT sid="8" pm="."><plain>The median duration of treatment was 5.2 months (range, 0.7-8.5 months), and a median of nine cycles was given per patient (range, 1-12 cycles) </plain></SENT>
+<SENT sid="9" pm="."><plain>Five patients (11.9%) showed a CR, with a median duration of 23.1 months (95% confidence interval [CI], 10.8-39.7 months) </plain></SENT>
+<SENT sid="10" pm="."><plain>The objective response rate was 80.9% (95% CI, 65.9%-91.4%) </plain></SENT>
+<SENT sid="11" pm="."><plain>The median overall and progression-free survival times were 24.7 months (95% CI, 22.6 months to not reached) and 9.5 months (95% CI, 7.6-10.4 months), respectively </plain></SENT>
+<SENT sid="12" pm="."><plain>The most frequent grade 3-4 adverse events were <z:hpo ids='HP_0002014'>diarrhea</z:hpo> (52%), <z:hpo ids='HP_0001875'>neutropenia</z:hpo> (38%), and asthenia (32%) </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSION: The ERBIRINOX regimen appears to be effective and feasible in first-line treatment of mCRC patients </plain></SENT>
+<SENT sid="14" pm="."><plain>These promising results led us to initiate a multicenter, randomized, phase II trial ([Research Partnership for Digestive <z:hpo ids='HP_0002664'>Oncology</z:hpo>] PRODIGE 14) in patients with potentially resectable mCRC </plain></SENT>
+</text></document>

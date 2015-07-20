@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Mutations in KRAS drive the oncogenic phenotype in a variety of <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumors</z:e> of epithelial origin </plain></SENT>
+<SENT sid="1" pm="."><plain>The NF-κB transcription factor pathway is important for oncogenic <z:mp ids='MP_0011356'>RAS</z:mp> to transform cells and to drive <z:mp ids='MP_0002006'>tumorigenesis</z:mp> in animal models </plain></SENT>
+<SENT sid="2" pm="."><plain>Recently TAK1, an upstream regulator of IKK, which controls canonical NF-κB, was shown to be important for chemoresistance in <z:hpo ids='HP_0002894'>pancreatic cancer</z:hpo> and for regulating KRAS+ <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> cell growth and survival </plain></SENT>
+<SENT sid="3" pm="."><plain>Here we show that KRAS+ upregulates GSK-3α leading to its interaction with TAK1 to stabilize the TAK1/TAB complex to promote IKK activity </plain></SENT>
+<SENT sid="4" pm="."><plain>Additionally, GSK-3α is required for promoting critical non-canonical NF-κB signaling in <z:hpo ids='HP_0002894'>pancreatic cancer</z:hpo> cells </plain></SENT>
+<SENT sid="5" pm="."><plain>Pharmacologic inhibition of GSK-3 suppresses growth of human <z:mp ids='MP_0009153'>pancreatic tumor</z:mp> explants, consistent with the loss of expression of oncogenic genes such as c-myc and TERT </plain></SENT>
+<SENT sid="6" pm="."><plain>These data identify GSK-3α as a key downstream effector of oncogenic KRAS via its ability to coordinately regulate distinct NF-κB signaling pathways </plain></SENT>
+</text></document>

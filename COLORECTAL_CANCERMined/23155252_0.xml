@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIM: Our previous study showed that methylation of the mutL homolog 1 (MLH1) promoter may spread upstream from the Alu elements in intron 1 </plain></SENT>
+<SENT sid="1" pm="."><plain>In this study, we investigated if the Alu methylation could also spread downstream </plain></SENT>
+<SENT sid="2" pm="."><plain>MATERIALS AND METHODS: Two <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> cell lines (RKO, SW48), and four colorectal and three gastric <z:mp ids='MP_0002038'>carcinomas</z:mp> [<z:hpo ids='HP_0000001'>all</z:hpo> Microsatellite Instability (MSI)-positive] were selected as cases </plain></SENT>
+<SENT sid="3" pm="."><plain><z:mpath ids='MPATH_458'>Normal</z:mpath> colorectal and gastric mucosa and human peripheral blood, and one MSI-negative <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> case served as controls </plain></SENT>
+<SENT sid="4" pm="."><plain>After extraction of DNA, <z:chebi fb="0" ids="17137">bisulfite</z:chebi> genomic sequencing was used to analyze the methylation level of exon 2 and the adjacent part of intron 2 of the MLH1 gene </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: Exon 2 and the partial intron 2 exhibited a high level of methylation in controls </plain></SENT>
+<SENT sid="6" pm="."><plain>In contrast, demethylation in these regions was seen in <z:e sem="disease" ids="C0685938" disease_type="Neoplastic Process" abbrv="">gastrointestinal cancer</z:e> </plain></SENT>
+<SENT sid="7" pm="."><plain>CONCLUSION: Exon 2 methylation is not likely to influence MLH1 gene expression </plain></SENT>
+<SENT sid="8" pm="."><plain>It seems that de-methylation of exon 2 and intron 2, in combination with intron 1, is associated with methylation spreading of the MLH1 promoter </plain></SENT>
+<SENT sid="9" pm="."><plain>The region around exon 2 could possibly bind proteins that regulate methylation, and therefore affect gene expression </plain></SENT>
+</text></document>

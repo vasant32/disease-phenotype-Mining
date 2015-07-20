@@ -1,0 +1,18 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:e sem="disease" ids="C0004943" disease_type="Disease or Syndrome" abbrv="">Behcet's disease</z:e> (BD) is a <z:hpo ids='HP_0011010'>chronic</z:hpo>, relapsing, <z:e sem="disease" ids="C1290884" disease_type="Disease or Syndrome" abbrv="">inflammatory disorder</z:e>, and the underlying histophatological lesion is <z:hpo ids='HP_0002633'>vasculitis</z:hpo> of unknown cause </plain></SENT>
+<SENT sid="1" pm="."><plain>Some case reports of BD with positive C-<z:chebi fb="0" ids="34507">ANCA</z:chebi> titers have been reported, but only 2 case reports have documented the association of <z:chebi fb="0" ids="34507">ANCA</z:chebi>-associated <z:hpo ids='HP_0000099'>glomerulonephritis</z:hpo> (<z:mp ids='MP_0002743'>GN</z:mp>) and BD, and no renal transplantation cases have been described </plain></SENT>
+<SENT sid="2" pm="."><plain>We report such a case </plain></SENT>
+<SENT sid="3" pm="."><plain>A 27-year-old male was referred for consultation due to <z:hpo ids='HP_0001919'>acute renal failure</z:hpo> </plain></SENT>
+<SENT sid="4" pm="."><plain>Seven years before, BD was diagnosed </plain></SENT>
+<SENT sid="5" pm="."><plain>At the time of consultation he suffered from <z:hpo ids='HP_0000554'>uveitis</z:hpo> and generalized <z:hpo ids='HP_0002829'>arthralgias</z:hpo> </plain></SENT>
+<SENT sid="6" pm="."><plain>The serum <z:chebi fb="0" ids="16737">creatinine</z:chebi> was 14 mg/dl and urinalysis showed 4+ protein and <z:hpo ids='HP_0002907'>microscopic hematuria</z:hpo> </plain></SENT>
+<SENT sid="7" pm="."><plain>Results of serological tests were <z:mpath ids='MPATH_458'>normal</z:mpath> </plain></SENT>
+<SENT sid="8" pm="."><plain>The <z:chebi fb="0" ids="34507">ANCA</z:chebi> PR 3 titer was 1:100 of cytoplasmic pattern </plain></SENT>
+<SENT sid="9" pm="."><plain>A renal biopsy showed a <z:hpo ids='HP_0003678'>rapidly progressive</z:hpo> type III <z:hpo ids='HP_0000099'>glomerulonephritis</z:hpo> </plain></SENT>
+<SENT sid="10" pm="."><plain>In spite of immunosuppressive therapy with <z:chebi fb="0" ids="4027">cyclophosphamide</z:chebi> and high steroid doses, renal function did not recover and hemodialysis therapy was initiated </plain></SENT>
+<SENT sid="11" pm="."><plain>One year later, the patient underwent a renal transplantation </plain></SENT>
+<SENT sid="12" pm="."><plain>Follow-up was absolutely <z:mpath ids='MPATH_458'>normal</z:mpath>, and 5 years after transplantation, renal function persisted to be <z:mpath ids='MPATH_458'>normal</z:mpath>, without urinary abnormalities and signs of reactivation of original disease, except for occasional <z:hpo ids='HP_0002829'>arthralgias</z:hpo> </plain></SENT>
+<SENT sid="13" pm="."><plain>C-<z:chebi fb="0" ids="34507">ANCA</z:chebi> titer was decreased and remained stable (&lt;1:30) </plain></SENT>
+<SENT sid="14" pm="."><plain>He is now receiving maintenance immunosupression with cyclosporin and <z:chebi fb="0" ids="8382">prednisone</z:chebi> </plain></SENT>
+<SENT sid="15" pm="."><plain>This report shows the long-term successful renal transplantation in a patient with <z:chebi fb="0" ids="34507">ANCA</z:chebi>-associated <z:hpo ids='HP_0000099'>glomerulonephritis</z:hpo> and BD </plain></SENT>
+<SENT sid="16" pm="."><plain>The success of renal transplant in BD with renal involvement is encouraging and should be pursued </plain></SENT>
+</text></document>

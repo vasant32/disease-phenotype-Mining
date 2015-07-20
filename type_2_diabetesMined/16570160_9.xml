@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIMS/HYPOTHESIS: Adiponectin is an adipokine that exhibits insulin-sensitising, fat-burning and anti-inflammatory properties as well as modulatory effects on <z:mp ids='MP_0003674'>oxidative stress</z:mp> </plain></SENT>
+<SENT sid="1" pm="."><plain>We examined whether adiponectin could be induced in a non-adipose tissue, skeletal muscle, in response to metabolic or oxidative <z:hpo ids='HP_0000718'>aggression</z:hpo> both in vivo (in a murine model of type 2 <z:mp ids='MP_0002055'>diabetes</z:mp>) and in vitro </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: <z:mp ids='MP_0001261'>Obese</z:mp> and diabetic ob/ob mice were used and compared with lean littermates </plain></SENT>
+<SENT sid="3" pm="."><plain>Some <z:mp ids='MP_0001261'>obese</z:mp> mice were treated with the <z:chebi fb="11" ids="22586">antioxidant</z:chebi> probucol for 3 weeks </plain></SENT>
+<SENT sid="4" pm="."><plain>At the end of the experiment, blood was sampled and tibialis anterior muscles were collected for <z:chebi fb="2" ids="33699">mRNA</z:chebi> measurement and immunohistochemistry </plain></SENT>
+<SENT sid="5" pm="."><plain>Additional in vitro experiments were performed on C2C12 myotubes cultured for up to 48 h </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: In spite of hypoadiponectinaemia, Adipoq <z:chebi fb="2" ids="33699">mRNA</z:chebi> levels were markedly increased in the skeletal muscle of ob/ob mice and correlated with systemic <z:mp ids='MP_0003674'>oxidative stress</z:mp> </plain></SENT>
+<SENT sid="7" pm="."><plain>Adipoq upregulation was shown in laser-microdissected myocytes of <z:mp ids='MP_0001261'>obese</z:mp> mice </plain></SENT>
+<SENT sid="8" pm="."><plain>Concomitantly, immunoreactivity for adiponectin was enhanced in <z:mp ids='MP_0001261'>obese</z:mp> muscle fibres together with <z:chebi fb="23" ids="18059">lipid</z:chebi> infiltration and local markers of <z:mp ids='MP_0003674'>oxidative stress</z:mp> </plain></SENT>
+<SENT sid="9" pm="."><plain>In cultured C2C12 myotubes, a <z:chebi fb="0" ids="17855">triglyceride</z:chebi> mix and reactive oxygen species producers (<z:chebi fb="0" ids="30492">H2O2</z:chebi> or a lipoperoxidation end-product) upregulated Adipoq expression and adiponectin production </plain></SENT>
+<SENT sid="10" pm="."><plain>This effect was reversed by an <z:chebi fb="11" ids="22586">antioxidant</z:chebi> </plain></SENT>
+<SENT sid="11" pm="."><plain>Finally, treatment of <z:mp ids='MP_0001261'>obese</z:mp> mice with probucol also attenuated upregulation in muscle </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS/INTERPRETATION: The paradoxical upregulation of adiponectin in muscle of <z:mp ids='MP_0001261'>obese</z:mp> and diabetic mice may result from lipotoxicity and related <z:mp ids='MP_0003674'>oxidative stress</z:mp> </plain></SENT>
+<SENT sid="13" pm="."><plain>This unexpected finding could be viewed as a local protection to counteract ectopic fat deposition and oxidative damage </plain></SENT>
+</text></document>

@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Stricture formation is the leading cause of long-term morbidity after photodynamic therapy (<z:chebi fb="7" ids="53228">PDT</z:chebi>) </plain></SENT>
+<SENT sid="1" pm="."><plain>Risk factors for stricture formation have not been studied </plain></SENT>
+<SENT sid="2" pm="."><plain>OBJECTIVE: To assess risk factors for stricture formation in patients undergoing <z:chebi fb="7" ids="53228">PDT</z:chebi> for <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> with high-grade <z:mpath ids='MPATH_589'>dysplasia</z:mpath> (HGD) </plain></SENT>
+<SENT sid="3" pm="."><plain>DESIGN: Retrospective cohort study </plain></SENT>
+<SENT sid="4" pm="."><plain>SETTING: Barrett's Unit, Mayo Clinic, Rochester, Minnesota </plain></SENT>
+<SENT sid="5" pm="."><plain>METHODS: Records of patients undergoing <z:chebi fb="7" ids="53228">PDT</z:chebi> for HGD were reviewed </plain></SENT>
+<SENT sid="6" pm="."><plain>Patients underwent <z:chebi fb="7" ids="53228">PDT</z:chebi> by using either bare cylindrical diffusing fibers (2.5-5.0 cm in length) or balloon diffusers with 5- to 7-cm windows </plain></SENT>
+<SENT sid="7" pm="."><plain>Univariate and multivariate logistic regression analyses were performed to assess risk factors for stricture formation </plain></SENT>
+<SENT sid="8" pm="."><plain>MAIN OUTCOME MEASUREMENT: <z:hpo ids='HP_0002043'>Esophageal stricture</z:hpo> formation </plain></SENT>
+<SENT sid="9" pm="."><plain>RESULTS: Thirty-five of 131 patients (27%) developed strictures </plain></SENT>
+<SENT sid="10" pm="."><plain>On multivariate analysis, statistically significant predictors of stricture formation were the following: EMR before <z:chebi fb="7" ids="53228">PDT</z:chebi> was odds ratio (OR) 2.7, 95% confidence interval (CI) 1.13-6.59; a prior history of <z:hpo ids='HP_0002043'>esophageal stricture</z:hpo> was OR 2.7, 95% CI 1.15-6.47; and the number of <z:chebi fb="7" ids="53228">PDT</z:chebi> applications was OR 2.2, 95% CI 1.22-4.12 </plain></SENT>
+<SENT sid="11" pm="."><plain>The OR for stricture formation in patients when centering balloons were used was 0.41, 95% CI 0.11-1.46, P = .168, indicating that centering balloons did not significantly decrease the risk of stricture formation </plain></SENT>
+<SENT sid="12" pm="."><plain>LIMITATIONS: Retrospective single-center study; small proportion of patients treated with centering balloons </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSIONS: Risk factors for development of strictures after <z:chebi fb="7" ids="53228">PDT</z:chebi> included history of a prior <z:hpo ids='HP_0002043'>esophageal stricture</z:hpo>, performance of EMR before <z:chebi fb="7" ids="53228">PDT</z:chebi>, and more than 1 PDT application in 1 treatment session </plain></SENT>
+<SENT sid="14" pm="."><plain>The use of centering balloons was not associated with a statistically significant reduction in the risk of stricture formation </plain></SENT>
+</text></document>

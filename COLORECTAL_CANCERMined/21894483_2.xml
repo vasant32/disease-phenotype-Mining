@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>RATIONALE: Studies in women with <z:hpo ids='HP_0003002'>breast cancer</z:hpo>, and in animal models, have demonstrated that chemotherapy can have a negative impact on cognitive function </plain></SENT>
+<SENT sid="1" pm="."><plain>Which chemotherapy agents cause problems with cognition and the aetiology of the impairment is unknown </plain></SENT>
+<SENT sid="2" pm="."><plain>Furthermore, there is no proven treatment </plain></SENT>
+<SENT sid="3" pm="."><plain>OBJECTIVES: This study aimed to evaluate the effects of <z:chebi fb="0" ids="46345">5-fluorouracil</z:chebi> (5FU) and <z:chebi fb="0" ids="31941">oxaliplatin</z:chebi> (OX) chemotherapy agents commonly used to treat <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> on cognition in laboratory rodents </plain></SENT>
+<SENT sid="4" pm="."><plain>Furthermore, we assessed physical activity as a potential remedy for the observed chemotherapy-induced <z:hpo ids='HP_0100543'>cognitive deficits</z:hpo> </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: In rodents, treatment with 5FU and OX alone impairs memory as measured by novel object recognition </plain></SENT>
+<SENT sid="6" pm="."><plain>But combined treatment appears to have greater detrimental effects on hippocampal-dependent tasks, contextual fear recall and spatial reference memory (water maze), yet had no effect on cued fear recall, a non-hippocampal task </plain></SENT>
+<SENT sid="7" pm="."><plain>These impairments were prevented by 4 weeks of wheel running overnight after 5FU/OX treatment </plain></SENT>
+<SENT sid="8" pm="."><plain>We found a significant interaction between chemotherapy and exercise: rats receiving both 5FU/OX and exercise had improved cognition relative to non-exercising 5FU/OX rats on novel object recognition and spatial reference memory </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSIONS: The combination 5FU/OX had a significant impact on cognition </plain></SENT>
+<SENT sid="10" pm="."><plain>However, rats treated with 5FU/OX that exercised post chemotherapy had improved cognition relative to non-exercising rats </plain></SENT>
+<SENT sid="11" pm="."><plain>This suggests that physical activity may prove useful in ameliorating the <z:hpo ids='HP_0100543'>cognitive impairments</z:hpo> induced by 5FU/OX </plain></SENT>
+</text></document>

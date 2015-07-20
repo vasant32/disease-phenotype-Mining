@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Latent Epstein-Barr virus (EBV) is maintained by the virus replication origin oriP that initiates DNA replication with the <z:mp ids='MP_0001799'>viral</z:mp> oriP-binding factor EBNA1 </plain></SENT>
+<SENT sid="1" pm="."><plain>However, it is not known whether oriP's replicator activity is regulated by virus proteins or extracellular signals </plain></SENT>
+<SENT sid="2" pm="."><plain>By using a transient replication assay, we found that a low level of expression of <z:mp ids='MP_0001799'>viral</z:mp> signal transduction activator latent membrane protein 1 (LMP1) suppressed oriP activity </plain></SENT>
+<SENT sid="3" pm="."><plain>The binding site of the <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> <z:mp ids='MP_0001651'>necrosis</z:mp> factor receptor-associated factor (TRAF) of LMP1 was essential for this suppressive effect </plain></SENT>
+<SENT sid="4" pm="."><plain>Activation of the TRAF signal cascade by overexpression of TRAF5 and/or TRAF6 also suppressed oriP activity </plain></SENT>
+<SENT sid="5" pm="."><plain>Conversely, blocking of TRAF signaling with dominant negative mutants of TRAF5 and TRAF6, as well as inhibition of a downstream signal mediator p38 MAPK, released the LMP1-induced oriP suppression </plain></SENT>
+<SENT sid="6" pm="."><plain>Furthermore, activation of TRAF6 signal cascade by <z:chebi fb="0" ids="16412">lipopolysaccharides</z:chebi> (LPS) resulted in loss of EBV from Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cell line Akata, and inhibition of p38 MAPK abolished the suppressive effect of LPS </plain></SENT>
+<SENT sid="7" pm="."><plain>These results suggested that the level of oriP activity is regulated by LMP1 and extracellular signals through TRAF5- and TRAF6-mediated signal cascades </plain></SENT>
+</text></document>

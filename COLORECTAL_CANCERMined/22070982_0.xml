@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Identifying new prognostic factors is important for guiding treatments and preventing <z:e sem="disease" ids="C0027627" disease_type="Neoplastic Process" abbrv="mets">metastasis</z:e> in <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>Vagal nerve activity may predict prognosis in <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> due to its roles in modulating <z:mp ids='MP_0001845'>inflammation</z:mp>, sympathetic activity and <z:mp ids='MP_0003674'>oxidative stress</z:mp> </plain></SENT>
+<SENT sid="2" pm="."><plain>This study tested the relationship between heart rate variability (HRV), a vagal nerve index, and the <z:hpo ids='HP_0003003'>colon cancer</z:hpo> (CC) marker carcinoembryonic antigen (CEA), in an 'historical prospective' design </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: We examined data of 72 CC patients, without inflammatory or <z:e sem="disease" ids="C0018799" disease_type="Disease or Syndrome" abbrv="">cardiac diseases</z:e>, of whom 38 had baseline electrocardiograms (ECG) and 12 month CEA levels </plain></SENT>
+<SENT sid="4" pm="."><plain>We measured HRV (SDNN, RMSSD) from brief archived ECG </plain></SENT>
+<SENT sid="5" pm="."><plain>Multiple confounders were considered </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: Controlling for effects of <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> stage and treatment-orientation, baseline HRV predicted CEA levels at 12 months (r=-.43, p=.006) </plain></SENT>
+<SENT sid="7" pm="."><plain>Patients with SDNN&lt;20 ms had significantly higher CEA at 12months than those with SDNN&gt;20 ms </plain></SENT>
+<SENT sid="8" pm="."><plain>CONCLUSION: These preliminary results showed that higher HRV predicts lower levels of a <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> marker, one year later, independent of confounders </plain></SENT>
+<SENT sid="9" pm="."><plain>This supports the hypothesized role of vagal activity in <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> modulation </plain></SENT>
+<SENT sid="10" pm="."><plain>Replication in larger samples is needed </plain></SENT>
+</text></document>

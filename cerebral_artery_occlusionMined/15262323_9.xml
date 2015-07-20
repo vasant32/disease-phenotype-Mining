@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND PURPOSE: STAT-1 is a member of a family of proteins called signal transducers and activators of transcription (STATs), and recent studies have shown its involvement in the induction of <z:mpath ids='MPATH_3'>apoptosis</z:mpath> </plain></SENT>
+<SENT sid="1" pm="."><plain>There is limited information on the role of STAT-1 following <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>In this study we use MRI measurements of cerebral perfusion and bioenergetic status to target measurements of regional STAT-1 activity </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: Rats were subjected to 60 or 90 min of middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> with and without reperfusion </plain></SENT>
+<SENT sid="4" pm="."><plain>MRI maps of the apparent diffusion coefficient of water and cerebral blood flow were acquired throughout the study </plain></SENT>
+<SENT sid="5" pm="."><plain>After the <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> or reperfusion period, the brain was excised and samples were analyzed by Western blots using anti-phospho-STAT1 and anti-Fas antibodies </plain></SENT>
+<SENT sid="6" pm="."><plain>Regions were selected for analysis according to their MRI characteristics </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: Transcriptional factor STAT-1 was enhanced in the lesion core and, to a lesser extent, in the lesion periphery, following <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> and reperfusion </plain></SENT>
+<SENT sid="8" pm="."><plain>This level of activity was greater than for <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> alone </plain></SENT>
+<SENT sid="9" pm="."><plain>Western blots demonstrated STAT-1 phosphorylation on tyrosine 701 and not serine 727 after <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> and 3 h of reperfusion </plain></SENT>
+<SENT sid="10" pm="."><plain>Enhanced expression of the apoptotic <z:hpo ids='HP_0011420'>death</z:hpo> receptor Fas was confirmed after <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> followed by reperfusion </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: This study demonstrates that focal <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> of the rat brain can induce STAT-1 activation, particularly following a period of reperfusion </plain></SENT>
+<SENT sid="12" pm="."><plain>The activation occurs not only in the lesion core, but also in the lesion periphery, as identified using MRI </plain></SENT>
+<SENT sid="13" pm="."><plain>STAT-1 may play an important role in the induction of cell <z:hpo ids='HP_0011420'>death</z:hpo> following <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+</text></document>

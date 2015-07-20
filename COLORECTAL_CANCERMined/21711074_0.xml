@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: To characterize patterns of medical care by disease phase in patients with newly diagnosed <z:e sem="disease" ids="C0948380" disease_type="Neoplastic Process" abbrv="">metastatic colorectal cancer</z:e> (mCRC) </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: Patients with mCRC newly diagnosed between 2004 and 2008 were selected from a large US national commercially insured claims database and were observed from initial mCRC diagnosis to <z:hpo ids='HP_0011420'>death</z:hpo>, disenrollment, or end of study period (July 31, 2009), whichever occurred first </plain></SENT>
+<SENT sid="2" pm="."><plain>The observation period was divided into 3 distinct phases of disease: diagnostic, treatment, and <z:hpo ids='HP_0011420'>death</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>Within each phase, patterns of medical care were examined by the mutually exclusive service categories of inpatient, emergency department (ED), outpatient office and facility, outpatient pharmacy, chemotherapy, and biologic therapy, as measured by estimation of aggregate and category costs per patient per month </plain></SENT>
+<SENT sid="4" pm="."><plain>RESULTS: A total of 6675 patients with newly diagnosed mCRC were analyzed </plain></SENT>
+<SENT sid="5" pm="."><plain>Mean age was 64.1 years; 55.5% were males </plain></SENT>
+<SENT sid="6" pm="."><plain>Mean costs per patient per month for diagnostic, treatment, and <z:hpo ids='HP_0011420'>death</z:hpo> phases were $16,895, $8891, and $27,554, respectively </plain></SENT>
+<SENT sid="7" pm="."><plain>Inpatient care was the primary driver of medical care for both the diagnostic (41.7% of costs) and <z:hpo ids='HP_0011420'>death</z:hpo> (71.4% of costs) phases </plain></SENT>
+<SENT sid="8" pm="."><plain>The largest category of medical care for the treatment phase was outpatient care (45.0% of costs) </plain></SENT>
+<SENT sid="9" pm="."><plain>Chemotherapy and biologic therapy accounted for 15.6% and 17.6% of costs in the treatment phase, respectively </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSION: Substantial differences in patterns of medical care were found between mCRC disease phases </plain></SENT>
+<SENT sid="11" pm="."><plain>Inpatient care was the key driver of medical care in the diagnostic and <z:hpo ids='HP_0011420'>death</z:hpo> phases compared with outpatient care in the treatment phase </plain></SENT>
+</text></document>

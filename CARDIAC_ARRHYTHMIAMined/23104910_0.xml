@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIMS: To develop computational tools for automatically initiating a large number of independent episodes of atrial <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> in electro-anatomical computer models of the atria and therefore facilitating the design of in silico experiments </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS AND RESULTS: A biophysical model of the atria was constructed from segmented medical images of the human atria of a patient with <z:hpo ids='HP_0005110'>atrial fibrillation</z:hpo> (AF) </plain></SENT>
+<SENT sid="2" pm="."><plain>A set of 40 initial conditions were generated based on a priori knowledge about wavefront propagation and the number and location of reentries (1-6 randomly distributed over the atrial epicardium) </plain></SENT>
+<SENT sid="3" pm="."><plain>Simulations were run from each of these initial conditions in three substrates representing different forms of AF dynamics (stable rotors; multiple unstable meandering wavelets; and wavelets broken by repolarization <z:hpo ids='HP_0001425'>heterogeneities</z:hpo>) </plain></SENT>
+<SENT sid="4" pm="."><plain>To demonstrate the applicability of the initiation method for testing clinical of therapeutic interventions, the channel I(Kr) was blocked after 2 s of simulation and its effect on the number of functional reentries was documented </plain></SENT>
+<SENT sid="5" pm="."><plain>The use of pre-computed initial conditions enabled to successfully generate episodes of simulated AF in each substrate </plain></SENT>
+<SENT sid="6" pm="."><plain>Blockade of I(Kr) channel prolonged action potential duration, resulting in a reduction of the number of functional reentries </plain></SENT>
+<SENT sid="7" pm="."><plain>In the substrate with unstable spiral waves, the effect was sufficiently large to terminate AF in about two-thirds of the cases </plain></SENT>
+<SENT sid="8" pm="."><plain>In the two other substrates, the effect was minor </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSION: These new simulation tools may help investigate in computer models therapeutic interventions in different substrates in order to identify substrate-specific optimal therapy </plain></SENT>
+</text></document>

@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Recent data suggest that mast cells (MCs) in patients with systemic <z:hpo ids='HP_0100495'>mastocytosis</z:hpo> or mast cell <z:hpo ids='HP_0001909'>leukemia</z:hpo> express a CD2-reactive antigen </plain></SENT>
+<SENT sid="1" pm="."><plain>To explore the biochemical nature and function of this antigen, primary MCs as well as the MC line HMC-1 derived from a patient with mast cell <z:hpo ids='HP_0001909'>leukemia</z:hpo> were examined </plain></SENT>
+<SENT sid="2" pm="."><plain>Northern blot experiments revealed expression of CD2 <z:chebi fb="5" ids="33699">messenger RNA</z:chebi> in HMC-1, whereas primary nonneoplastic MCs did not express transcripts for CD2 </plain></SENT>
+<SENT sid="3" pm="."><plain>In cell surface staining experiments, bone marrow (BM) MCs in systemic <z:hpo ids='HP_0100495'>mastocytosis</z:hpo> (n = 12) as well as HMC-1 cells (30%-80%) were found to express the T11-1 and T11-2 (but not T11-3) <z:chebi fb="0" ids="53000">epitopes</z:chebi> of CD2 </plain></SENT>
+<SENT sid="4" pm="."><plain>By contrast, BM MCs in <z:hpo ids='HP_0002863'>myelodysplastic syndromes</z:hpo> and nonhematologic disorders (bronchiogenic <z:mp ids='MP_0002038'>carcinoma</z:mp>, foreskin <z:hpo ids='HP_0001741'>phimosis</z:hpo>, uterine myeomata ) were consistently CD2(-) </plain></SENT>
+<SENT sid="5" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> MC species analyzed including HMC-1 were found to express LFA-3 (CD58), the natural ligand of CD2 </plain></SENT>
+<SENT sid="6" pm="."><plain>To study the functional role of CD2 on neoplastic MCs, CD2(+) and CD2(-) HMC-1 cells were separated by cell sorting </plain></SENT>
+<SENT sid="7" pm="."><plain>CD2(+) HMC-1 cells were found to form spontaneous aggregates and rosettes with sheep erythrocytes in excess over CD2(-) cells, and a T11-1 antibody inhibited both the aggregation and rosette formation </plain></SENT>
+<SENT sid="8" pm="."><plain>Moreover, exposure of CD2(+) HMC-1 cells to T11-1 or T11-2 antibody was followed by expression of T11-3 </plain></SENT>
+<SENT sid="9" pm="."><plain>In addition, stimulation of neoplastic MCs through T11-3 and a second CD2 <z:chebi fb="0" ids="53000">epitope</z:chebi> resulted in <z:chebi fb="11" ids="18295">histamine</z:chebi> release </plain></SENT>
+<SENT sid="10" pm="."><plain>These data show that neoplastic MCs express functionally active CD2 </plain></SENT>
+<SENT sid="11" pm="."><plain>It is hypothesized that expression of CD2 is associated with pathologic accumulation and function of MCs in systemic <z:hpo ids='HP_0100495'>mastocytosis</z:hpo> </plain></SENT>
+</text></document>

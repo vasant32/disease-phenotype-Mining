@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Interactions between genetic variants and risk factors in <z:hpo ids='HP_0002863'>myelodysplastic syndromes</z:hpo> are poorly understood </plain></SENT>
+<SENT sid="1" pm="."><plain>In this case-control study, we analyzed 1 421 single nucleotide polymorphisms in 408 genes involved in <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e>-related pathways in 198 patients and 292 controls </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: The Illumina SNP <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">Cancer</z:e> Panel was used for genotyping of samples </plain></SENT>
+<SENT sid="3" pm="."><plain>The chi-squared, p-values, odds ratios and upper and lower limits of the 95% confidence interval were calculated for <z:hpo ids='HP_0000001'>all</z:hpo> the SNPs that passed the quality control filtering </plain></SENT>
+<SENT sid="4" pm="."><plain>RESULTS: Gene-based analysis showed nine candidate single nucleotide polymorphisms significantly associated with the disease susceptibility (q-value&lt;0.05) </plain></SENT>
+<SENT sid="5" pm="."><plain>Four of these polymorphisms were located in oxidative damage/DNA repair genes (LIG1, RAD52, MSH3 and GPX3), which may play important roles in the pathobiology of <z:hpo ids='HP_0002863'>myelodysplastic syndromes</z:hpo> </plain></SENT>
+<SENT sid="6" pm="."><plain>Two of nine candidate polymorphisms were located in transmembrane transporters (ABCB1 and SLC4A2), contributing to individual variability in drug responses and patient prognoses </plain></SENT>
+<SENT sid="7" pm="."><plain>Moreover, the variations in the ROS1 and STK6 genes were associated with the overall survival of patients </plain></SENT>
+<SENT sid="8" pm="."><plain>CONCLUSIONS: Our association study identified genetic variants in Czech population that may serve as potential markers for <z:hpo ids='HP_0002863'>myelodysplastic syndromes</z:hpo> </plain></SENT>
+</text></document>

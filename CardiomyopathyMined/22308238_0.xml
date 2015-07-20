@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIMS: Penetrance and phenotypic expressivity of <z:hpo ids='HP_0001638'>cardiomyopathies</z:hpo> are modulated by modifier genes both in model systems and patients </plain></SENT>
+<SENT sid="1" pm="."><plain>We aimed to dissect the disease-modifying mechanisms by examining genome-wide gene expression in a new set of mouse (Mus musculus) congenic strains </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS AND RESULTS: Mutant alleles of the genes calsarcin-1 (Myoz2), sarcoglycan-delta (Sgcd), and muscle LIM protein (Csrp2) were each transferred onto inbred strain backgrounds C57BL/6, C3H/He, 129S1/Sv, and FVB/N, respectively </plain></SENT>
+<SENT sid="3" pm="."><plain>At 9-10 weeks of age, left ventricular pump function (fractional shortening, FS) was determined by echocardiography in non-sedated congenic animals </plain></SENT>
+<SENT sid="4" pm="."><plain>Gene expression was then analysed in myocardial tissue using the Affymetrix Mouse 430.2 microarray platform </plain></SENT>
+<SENT sid="5" pm="."><plain>Variance stabilization, linear mixed-effects modelling, correlations, gene functional classification, and pathway analysis were conducted using the standard software </plain></SENT>
+<SENT sid="6" pm="."><plain>Strain background FVB/N appeared to protect against the consequences of gene inactivation </plain></SENT>
+<SENT sid="7" pm="."><plain>Sgcd-deficient congenics showed <z:mpath ids='MPATH_458'>normal</z:mpath> FS, which was consistent with their <z:hpo ids='HP_0001639'>hypertrophic cardiomyopathy</z:hpo> phenotype </plain></SENT>
+<SENT sid="8" pm="."><plain>Animals with other allele/background combinations developed an impaired ventricular pump function (FS &lt;65%) </plain></SENT>
+<SENT sid="9" pm="."><plain>Gender did not influence FS significantly, yet it determined the sets of genes that were differentially expressed in mice with low FS </plain></SENT>
+<SENT sid="10" pm="."><plain>In particular, genes encoding the elements of the ubiquitin-proteasome system (UPS) were strongly correlated with the cardiac impairment (absolute Spearman r ≥ 0.7) in both males and females </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSION: Gene expression profiling in a novel set of congenic strains revealed an association between the UPS and myocardial contractile function, indicating that the UPS may be an important modifier of <z:hpo ids='HP_0003812'>phenotypic variability</z:hpo> in <z:hpo ids='HP_0001638'>cardiomyopathies</z:hpo> </plain></SENT>
+</text></document>

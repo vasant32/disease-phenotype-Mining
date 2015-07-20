@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The purpose of this study was to investigate the correlation between platelet aggregability and silent brain <z:mpath ids='MPATH_124'>infarcts</z:mpath> </plain></SENT>
+<SENT sid="1" pm="."><plain>The study subjects were 445 people (264 men, 181 women; mean age, 53 ± 14 years) with no neurologic signs, history of <z:mp ids='MP_0009277'>brain tumor</z:mp>, trauma, cerebrovascular disease, or antiplatelet medications </plain></SENT>
+<SENT sid="2" pm="."><plain><z:chebi fb="3" ids="16335">Adenosine</z:chebi> <z:chebi fb="2" ids="18361">diphosphate</z:chebi> (<z:chebi fb="13" ids="16761">ADP</z:chebi>)-induced platelet aggregation was measured by the aggregation-size analytic method </plain></SENT>
+<SENT sid="3" pm="."><plain>Platelet aggregability was classified into 9 classes </plain></SENT>
+<SENT sid="4" pm="."><plain>The presence of <z:hpo ids='HP_0002315'>headache</z:hpo>/<z:hpo ids='HP_0002321'>vertigo</z:hpo>, <z:hpo ids='HP_0000822'>hypertension</z:hpo>, <z:hpo ids='HP_0000819'>diabetes mellitus</z:hpo>, <z:hpo ids='HP_0003077'>hyperlipidemia</z:hpo>, or smoking was elicited by questioning or blood sampling </plain></SENT>
+<SENT sid="5" pm="."><plain>A head MRI scan was performed, and if marked <z:hpo ids='HP_0002621'>atherosclerosis</z:hpo> or obvious stenosis in the intracranial vessels was detected, it was defined as a positive MRA finding </plain></SENT>
+<SENT sid="6" pm="."><plain>Silent brain <z:mpath ids='MPATH_124'>infarcts</z:mpath> were detected in 26.3% of subjects </plain></SENT>
+<SENT sid="7" pm="."><plain>Hyperaggregability defined as that above class 6, 7, and 8 was present in 43.8%, 30.8%, and 15.7% of subjects, respectively </plain></SENT>
+<SENT sid="8" pm="."><plain>The risk factors for silent brain <z:mpath ids='MPATH_124'>infarcts</z:mpath> by multiple logistic regression analysis were aging, <z:hpo ids='HP_0000822'>hypertension</z:hpo>, positive MRA findings, and hyperaggregability </plain></SENT>
+<SENT sid="9" pm="."><plain>Platelet <z:chebi fb="13" ids="16761">ADP</z:chebi> hyperaggregability might be a risk factor for silent brain <z:mpath ids='MPATH_124'>infarcts</z:mpath> </plain></SENT>
+</text></document>

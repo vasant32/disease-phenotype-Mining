@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Rescuing the ischemic penumbra from infarction is the mainstay of <z:hpo ids='HP_0011009'>acute</z:hpo> <z:hpo ids='HP_0001297'>stroke</z:hpo> therapy </plain></SENT>
+<SENT sid="1" pm="."><plain>However, the rescued penumbra may be affected by selective <z:hpo ids='HP_0002529'>neuronal loss</z:hpo> (SNL) and microglial activation (MA), which may hinder functional recovery and hence represent potential new therapeutic targets </plain></SENT>
+<SENT sid="2" pm="."><plain>Imaging them in vivo is currently attracting considerable interest, but relevant rat models are needed to underpin methods development and validation </plain></SENT>
+<SENT sid="3" pm="."><plain>Although striatal SNL/MA is well described following proximal <z:chebi fb="70" ids="34342">MCA</z:chebi> occlusion (MCAo), neocortical SNL/MA is still poorly characterized, yet has greater clinical relevance </plain></SENT>
+<SENT sid="4" pm="."><plain>This study aimed to assess the distribution and intensity of neocortical SNL and MA in a distal clip MCAo model known to cause severe neocortical <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> </plain></SENT>
+<SENT sid="5" pm="."><plain>Spontaneously hypertensive rats were subjected to 45 min distal MCAo with ipsilateral common carotid <z:mp ids='MP_0006134'>artery occlusion</z:mp> </plain></SENT>
+<SENT sid="6" pm="."><plain>At day 14, post mortem SNL and MA were mapped using NeuN and OX42 immunohistochemistry, respectively </plain></SENT>
+<SENT sid="7" pm="."><plain>In a separate group, cerebral blood flow (CBF) was mapped during MCAo using (14)C-iodoantipyrine autoradiography </plain></SENT>
+<SENT sid="8" pm="."><plain>Values for SNL, MA, and CBF were obtained in the same set of anatomical ROIs covering the cortical <z:chebi fb="70" ids="34342">MCA</z:chebi> territory </plain></SENT>
+<SENT sid="9" pm="."><plain>Extensive SNL and MA affected the non-infarcted <z:chebi fb="70" ids="34342">MCA</z:chebi> cortex, adopting a well-defined regional distribution and a striking patchy/pseudo-columnar pattern </plain></SENT>
+<SENT sid="10" pm="."><plain>Regional intensities of SNL and MA were strongly inter-correlated, and also strikingly related to occlusion CBF, showing sharp rises for CBF &lt;40%, i.e. the penumbra threshold </plain></SENT>
+<SENT sid="11" pm="."><plain>This rat model may be useful in providing in vitro reference for studies aiming to validate novel imaging tracers of SNL and MA in vivo </plain></SENT>
+</text></document>

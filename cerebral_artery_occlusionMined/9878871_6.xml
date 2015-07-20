@@ -1,0 +1,18 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The vascular endothelium and parenchyma of the brain have both potential pathways to generate free radicals under pathological conditions </plain></SENT>
+<SENT sid="1" pm="."><plain>We evaluated the neuroprotective efficacy of two different <z:chebi fb="11" ids="22586">antioxidants</z:chebi>, a microvascularly acting 21-aminosteroid (U-74389G) and a brain-penetrating <z:chebi fb="0" ids="38670">pyrrolopyrimidine</z:chebi> (U-101033E) alone and in combination </plain></SENT>
+<SENT sid="2" pm="."><plain>Forty Sprague-Dawley rats were randomly assigned to one of four treatment groups: (1) vehicle-treated controls, (2) U-74389G, (3) U-101033E, (4) U-74389G+U-101033E </plain></SENT>
+<SENT sid="3" pm="."><plain>Drugs were administered in a dosage of 3x3 mg/kg i.v. before, during, and after <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> </plain></SENT>
+<SENT sid="4" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> animals were subjected to 90 min of middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> </plain></SENT>
+<SENT sid="5" pm="."><plain>Local cortical blood flow (LCBF) was continuously recorded by bilateral laser Doppler flowmetry </plain></SENT>
+<SENT sid="6" pm="."><plain>Functional deficits were quantified by daily neurological examinations </plain></SENT>
+<SENT sid="7" pm="."><plain><z:mpath ids='MPATH_124'>Infarct</z:mpath> volume was assessed after 7 days </plain></SENT>
+<SENT sid="8" pm="."><plain>There were no significant differences in LCBF among groups </plain></SENT>
+<SENT sid="9" pm="."><plain>U-101033E improved neurological function from postoperative day 4 to 7, while U-74389G did not improve neurological recovery </plain></SENT>
+<SENT sid="10" pm="."><plain>Animals treated with both drugs showed significantly less deficits from postoperative day 1 to 7 </plain></SENT>
+<SENT sid="11" pm="."><plain>U-101033E and combination therapy reduced total <z:mpath ids='MPATH_124'>infarct</z:mpath> volume by 53% and 54% (P&lt;0.05) </plain></SENT>
+<SENT sid="12" pm="."><plain>U-74389G non-significantly reduced total <z:mpath ids='MPATH_124'>infarct</z:mpath> volume by 25% </plain></SENT>
+<SENT sid="13" pm="."><plain>Cortical <z:mpath ids='MPATH_124'>infarct</z:mpath> volume was significantly reduced in <z:hpo ids='HP_0000001'>all</z:hpo> treatment groups but only U-101033E and combination therapy protected the basal ganglia from infarction </plain></SENT>
+<SENT sid="14" pm="."><plain>In conclusion, brain-penetrating <z:chebi fb="11" ids="22586">antioxidants</z:chebi> have superior neuroprotective properties compared to microvascularly acting agents </plain></SENT>
+<SENT sid="15" pm="."><plain>Combination therapy, affording antioxidation plus radical scavenging in blood vessels and brain parenchyma, might yield the highest degree of neuronal protection from peroxidative damage </plain></SENT>
+<SENT sid="16" pm="."><plain>The neuroprotective efficacy seems to be independent of CBF </plain></SENT>
+</text></document>

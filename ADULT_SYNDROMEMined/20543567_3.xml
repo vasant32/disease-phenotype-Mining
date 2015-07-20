@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:chebi fb="1" ids="50211">Retinol</z:chebi> and its metabolites have important roles in many processes including embryonic development, cellular differentiation, <z:mpath ids='MPATH_3'>apoptosis</z:mpath> and maintenance of epithelia </plain></SENT>
+<SENT sid="1" pm="."><plain><z:chebi fb="46" ids="15035">Retinal</z:chebi> short-chain dehydrogenase/reductase retSDR1, also known as dehydrogenase/reductase member 3 (DHRS3), is involved in maintaining the cellular supply of <z:chebi fb="1" ids="50211">retinol</z:chebi> metabolites </plain></SENT>
+<SENT sid="2" pm="."><plain>We observe that retSDR1 expression is activated by members of the p53 family </plain></SENT>
+<SENT sid="3" pm="."><plain>Particularly p53 and TAp63γ regulate transcription through two separate response elements in the retSDR1 promoter </plain></SENT>
+<SENT sid="4" pm="."><plain>Both proteins bind the promoter in vitro and in vivo </plain></SENT>
+<SENT sid="5" pm="."><plain>Induction of DNA damage leads to recruitment of p53 and p63 to the retSDR1 promoter </plain></SENT>
+<SENT sid="6" pm="."><plain>A <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e>-derived p53 mutant is unable to activate retSDR1 transcription </plain></SENT>
+<SENT sid="7" pm="."><plain>As mutants of p63 in humans exhibit phenotypes that cause several autosomal dominantly inherited syndromes leading to developmental malformations, we tested the transcriptional response of TAp63γ mutants derived from the EEC, SHFM and ADULT syndromes </plain></SENT>
+<SENT sid="8" pm="."><plain>EEC syndrome-specific mutations of TAp63γ fail to transactivate retSDR1 and an ADULT syndrome-derived mutant stimulates retSDR1 transcription significantly less than the <z:mp ids='MP_0002169'>wild-type</z:mp> variant of p63 </plain></SENT>
+<SENT sid="9" pm="."><plain>Taken together, the results suggest a potential role of the p53/p63-mediated retSDR1 activation in <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> suppression as well as in developmental processes </plain></SENT>
+</text></document>

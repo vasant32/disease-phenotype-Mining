@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: Recent studies in European populations have reported a reciprocal association of glucokinase regulatory protein (GCKR) gene with <z:chebi fb="0" ids="17855">triglyceride</z:chebi> versus fasting plasma <z:chebi fb="105" ids="17234">glucose</z:chebi> (FPG) levels and type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> risk </plain></SENT>
+<SENT sid="1" pm="."><plain>GCKR is a rate-limiting factor of glucokinase (GCK), which functions as a key glycolytic enzyme for maintaining <z:chebi fb="105" ids="17234">glucose</z:chebi> homeostasis </plain></SENT>
+<SENT sid="2" pm="."><plain>We examined the associations of two common genetic polymorphisms of GCKR and GCK with metabolic traits in healthy Chinese adults and adolescents </plain></SENT>
+<SENT sid="3" pm="."><plain>RESEARCH DESIGN AND METHODS: Two single nucleotide polymorphisms (SNPs), rs780094 at GCKR and rs1799884 at GCK, were genotyped in 600 healthy adults and 986 healthy adolescents </plain></SENT>
+<SENT sid="4" pm="."><plain>The associations of these SNPs with metabolic traits were assessed by linear regression adjusted for age, sex, and/or BMI </plain></SENT>
+<SENT sid="5" pm="."><plain>We also tested for the epistasis between these two SNPs and performed a meta-analysis among European and Asian populations </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: The T-allele of GCKR rs780094 was associated with <z:hpo ids='HP_0002155'>increased triglycerides</z:hpo> (P = 5.4 x 10(-7)), while the A-allele of GCK rs1799884 was associated with higher FPG (P = 3.1 x 10(-7)) </plain></SENT>
+<SENT sid="7" pm="."><plain>A novel interaction effect between the two SNPs on FPG was also observed (P = 0.0025) </plain></SENT>
+<SENT sid="8" pm="."><plain>Meta-analyses strongly supported the additive effects of the two SNPs on FPG and <z:chebi fb="4" ids="17855">triglycerides</z:chebi>, respectively </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSIONS;- In support of the intimate relationship between <z:chebi fb="105" ids="17234">glucose</z:chebi> and <z:chebi fb="23" ids="18059">lipid</z:chebi> metabolisms, GCKR and GCK genetic polymorphisms interact to increase FPG in healthy adults and adolescents </plain></SENT>
+<SENT sid="10" pm="."><plain>These risk alleles may contribute to increased <z:mp ids='MP_0002055'>diabetes</z:mp> risk in subjects who harbor other genetic or environmental/lifestyle risk factors </plain></SENT>
+</text></document>

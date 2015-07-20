@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PURPOSE: To determine the efficacy of the addition of <z:chebi fb="0" ids="49668">gefitinib</z:chebi> to raltitrexed in patients with <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e>) that have progressed after first line chemotherapy </plain></SENT>
+<SENT sid="1" pm="."><plain>The study also sought to explore the safety of the combination and to investigate biomarkers predictive outcome </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: A total of 76 patients were randomized to raltitrexed (3 mg/m(2) i.v.) every 21 days plus either daily <z:chebi fb="0" ids="49668">gefitinib</z:chebi> (250 mg p.o.) or placebo </plain></SENT>
+<SENT sid="3" pm="."><plain>The primary endpoint of the study was progression free survival (PFS) </plain></SENT>
+<SENT sid="4" pm="."><plain><z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">Tumor</z:e> tissues were collected to determine the expression of EGFR, pEGFR, pMAPK, and pAkt </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: Both groups were well balanced with regard to prognostic factors </plain></SENT>
+<SENT sid="6" pm="."><plain>Treatment was well tolerated with no increased in toxicity except <z:hpo ids='HP_0002014'>diarrhea</z:hpo> and <z:hpo ids='HP_0000988'>skin rash</z:hpo> in the combination group </plain></SENT>
+<SENT sid="7" pm="."><plain>There were no differences in PFS between the combination arm [63 days (95% CI: 57-84)] compared to the raltitrexed alone arm [72 days (95% CI: 59-132)], or overall survival 361 days (95% CI: 283-533 days) versus 291 days (95% CI: 255-539 days) respectively </plain></SENT>
+<SENT sid="8" pm="."><plain>The objective response rate was 7.9% (3 patients) (CI 95%: 1,66-21,38) versus 5.3% (2 patients) (CI 0,64-17,75), respectively </plain></SENT>
+<SENT sid="9" pm="."><plain>The biomarker studies were not conclusive </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSION: The combination of raltitrexed and <z:chebi fb="0" ids="49668">gefitinib</z:chebi> was well tolerated although was not associated with improved progression free survival in patients with refractory <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e> </plain></SENT>
+</text></document>

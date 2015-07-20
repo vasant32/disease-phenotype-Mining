@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PURPOSE: In contrast to the Western population, the prevalence of <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> (BE) is rare in the Korean population </plain></SENT>
+<SENT sid="1" pm="."><plain>However, the recent increase in prevalence of <z:hpo ids='HP_0002020'>gastroesophageal reflux disease</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">GERD</z:e>) may affect the prevalence of BE </plain></SENT>
+<SENT sid="2" pm="."><plain>The aim of this study was to survey the prevalence of BE and evaluate its risk factors </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: Patients between 18 and 75 years of age who visited 11 Korean tertiary referral centers between April and July 2006 for routine upper endoscopic examination were surveyed using a symptom questionnaire </plain></SENT>
+<SENT sid="4" pm="."><plain>Biopsies were performed on the columnar lined epithelium (CLE) of the distal esophagus, and diagnosis was confirmed with detection of specialized <z:mpath ids='MPATH_167'>intestinal metaplasia</z:mpath> </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: The study comprised 2,048 patients (mean age 51.4 years, 965 males) </plain></SENT>
+<SENT sid="6" pm="."><plain>The frequency of heartburn or acid regurgitation was 8.7% and 13.1%, respectively </plain></SENT>
+<SENT sid="7" pm="."><plain>Reflux <z:hpo ids='HP_0100633'>esophagitis</z:hpo> was diagnosed in 10.1% of patients (207 patients); however, most patients had mild reflux </plain></SENT>
+<SENT sid="8" pm="."><plain>CLE was found in 82 patients; however, only one patient had long-segment CLE </plain></SENT>
+<SENT sid="9" pm="."><plain>The prevalence of BE was 1% (21 patients) </plain></SENT>
+<SENT sid="10" pm="."><plain>The risk factors for BE were age (P = 0.006), presence of heartburn [odds ratio (OR) 4.33, 95% confidence interval (CI) 1.66-11.34, P = 0.007], acid regurgitation (OR 3.37, 95% CI 1.35-8.42, P = 0.01), sliding <z:hpo ids='HP_0100790'>hernia</z:hpo> (OR 6.21, 95% CI 1.78-21.72, P = 0.001), and reflux <z:hpo ids='HP_0100633'>esophagitis</z:hpo> (OR 10.28, 95% CI 4.31-24.50, P &lt; 0.0001) on univariate analysis </plain></SENT>
+<SENT sid="11" pm="."><plain>On multivariate analysis, presence of typical reflux symptoms (P = 0.02) and reflux <z:hpo ids='HP_0100633'>esophagitis</z:hpo> (P &lt; 0.001) were significant </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: Prevalence of <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> remains low in Koreans; however, risk of developing BE has increased in patients with <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">GERD</z:e> symptoms and reflux <z:hpo ids='HP_0100633'>esophagitis</z:hpo> </plain></SENT>
+</text></document>

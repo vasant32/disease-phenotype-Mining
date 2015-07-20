@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>In vivo, fibroblast growth factor-2 (FGF-2) inhibits longitudinal bone growth </plain></SENT>
+<SENT sid="1" pm="."><plain>Similarly, activating FGF receptor 3 mutations impair growth in <z:e sem="disease" ids="C0001080" disease_type="Disease or Syndrome;Congenital Abnormality" abbrv="">achondroplasia</z:e> and thanatophoric <z:mpath ids='MPATH_589'>dysplasia</z:mpath> </plain></SENT>
+<SENT sid="2" pm="."><plain>To investigate the underlying mechanisms, we chose a fetal rat metatarsal organ culture system that would maintain growth plate histological architecture </plain></SENT>
+<SENT sid="3" pm="."><plain>Addition of FGF-2 to the serum-free medium inhibited longitudinal growth </plain></SENT>
+<SENT sid="4" pm="."><plain>We next assessed each major component of longitudinal growth: proliferation, <z:mp ids='MP_0005482'>cellular hypertrophy</z:mp>, and cartilage matrix synthesis </plain></SENT>
+<SENT sid="5" pm="."><plain>Surprisingly, FGF-2 stimulated proliferation, as assessed by [3H]<z:chebi fb="0" ids="17748">thymidine</z:chebi> incorporation </plain></SENT>
+<SENT sid="6" pm="."><plain>However, autoradiographic studies demonstrated that this increased proliferation occurred only in the perichondrium, whereas decreased labeling was seen in the proliferative and epiphyseal chondrocytes </plain></SENT>
+<SENT sid="7" pm="."><plain>FGF-2 also caused a marked decrease in the number of hypertrophic chondrocytes </plain></SENT>
+<SENT sid="8" pm="."><plain>To assess cartilage matrix synthesis, we measured 35SO4 incorporation into newly synthesized <z:chebi fb="0" ids="18085">glycosaminoglycans</z:chebi> </plain></SENT>
+<SENT sid="9" pm="."><plain>Low concentrations (10 ng/ml) of FGF-2 stimulated cartilage matrix production, but high concentrations (1000 ng/ml) inhibited matrix production </plain></SENT>
+<SENT sid="10" pm="."><plain>We conclude that FGF-2 inhibits longitudinal bone growth by three mechanisms: decreased growth plate chondrocyte proliferation, decreased <z:mp ids='MP_0005482'>cellular hypertrophy</z:mp>, and, at high concentrations, decreased cartilage matrix production </plain></SENT>
+<SENT sid="11" pm="."><plain>These effects may explain the impaired growth seen in patients with <z:e sem="disease" ids="C0001080" disease_type="Disease or Syndrome;Congenital Abnormality" abbrv="">achondroplasia</z:e> and related <z:hpo ids='HP_0002652'>skeletal dysplasias</z:hpo> </plain></SENT>
+</text></document>

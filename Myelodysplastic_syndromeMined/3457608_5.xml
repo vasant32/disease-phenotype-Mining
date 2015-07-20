@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Median survival is as little as 6 months for patients with <z:hpo ids='HP_0005505'>refractory anemia</z:hpo> with excess blasts who demonstrate an abnormal karyotype in the majority of marrow cells </plain></SENT>
+<SENT sid="1" pm="."><plain>We treated a patient who presented with 29% marrow blasts and 90% abnormal metaphases with <z:chebi fb="0" ids="6067">13-cis-retinoic acid</z:chebi> </plain></SENT>
+<SENT sid="2" pm="."><plain>He achieved a complete clinical and cytogenetic remission during therapy </plain></SENT>
+<SENT sid="3" pm="."><plain>To determine the mechanism of the response, serial studies were done of the effects of <z:chebi fb="0" ids="6067">13-cis-retinoic acid</z:chebi> and <z:chebi fb="0" ids="41879">dexamethasone</z:chebi> on in vitro growth of his marrow cells </plain></SENT>
+<SENT sid="4" pm="."><plain>During clinical remission, when the drug was not administered, marrow growth remained significantly depressed </plain></SENT>
+<SENT sid="5" pm="."><plain>During relapse, the remission growth pattern was replaced by <z:hpo ids='HP_0001548'>overgrowth</z:hpo> of the karyotypically abnormal monocytoid clone </plain></SENT>
+<SENT sid="6" pm="."><plain>Clonal growth occurred in cultures containing colony-stimulating activity or <z:chebi fb="0" ids="41879">dexamethasone</z:chebi> but was absent in cultures containing concentrations of <z:chebi fb="0" ids="6067">13-cis-retinoic acid</z:chebi> achieved in vivo </plain></SENT>
+<SENT sid="7" pm="."><plain>After the drug was reinstituted, a second clinical stabilization developed </plain></SENT>
+<SENT sid="8" pm="."><plain>Since <z:chebi fb="0" ids="6067">13-cis-retinoic acid</z:chebi> inhibits <z:mpath ids='MPATH_458'>normal</z:mpath> monocyte colony growth, we postulate that the patient's unusual clinical responses to the drug were due to in vivo growth inhibition of the malignant monocytoid clone </plain></SENT>
+</text></document>

@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:e sem="disease" ids="C0265110" disease_type="Disease or Syndrome" abbrv="">Cerebral vasospasm</z:e> is a major complication associated with <z:hpo ids='HP_0002138'>subarachnoid hemorrhage</z:hpo> (SAH) </plain></SENT>
+<SENT sid="1" pm="."><plain>However, real-time evaluation of vasospasm is very difficult via angiography, CT scan, and cerebral blood flow </plain></SENT>
+<SENT sid="2" pm="."><plain>In this study, for the evaluation of the arterial narrowing, the flow velocity in the middle cerebral artery (MCAFV) was measured with transcranial Doppler ultrasonography (TCD) in 41 patients with ruptured <z:hpo ids='HP_0004944'>cerebral aneurysms</z:hpo> which were repaired surgically within 48 hours after SAH </plain></SENT>
+<SENT sid="3" pm="."><plain>MCAFV was measured daily until the 25th day after <z:hpo ids='HP_0003674'>onset</z:hpo> </plain></SENT>
+<SENT sid="4" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> patients underwent CT scan, angiography, and neurological assessments upon admission </plain></SENT>
+<SENT sid="5" pm="."><plain>To clarify the morphological changes of the cerebral vessels due to SAH, angiography was performed again about 10 days after surgery </plain></SENT>
+<SENT sid="6" pm="."><plain>For evaluation of the efficacy of treatment for vasospasm, 21 out of 41 cases were administered a calcium <z:chebi fb="68" ids="48706">antagonist</z:chebi> (4mg of nicardipine) through the cisternal drain every 12 hours for an average of 10 days </plain></SENT>
+<SENT sid="7" pm="."><plain>The other 20 cases did not receive nicardipine and served as controls </plain></SENT>
+<SENT sid="8" pm="."><plain>15 patients with clinical symptoms had a rapid increase in MCAFV from the 3rd to 6th day after <z:hpo ids='HP_0003674'>onset</z:hpo>, and a high velocity of more than 150cm/sec continued for 7.6 +/- 3.6 days on the average </plain></SENT>
+<SENT sid="9" pm="."><plain>In marked contrast, 26 patients without clinical symptoms showed only a small increase in MCAFV of less than 110cm/sec </plain></SENT>
+<SENT sid="10" pm="."><plain>There was a significant correlation between the arterial narrowing of <z:chebi fb="70" ids="34342">MCA</z:chebi> and MCAFV (gamma = 0.72, p less than 0.01) except for 5 cases (12%).(ABSTRACT TRUNCATED AT 250 WORDS) </plain></SENT>
+</text></document>

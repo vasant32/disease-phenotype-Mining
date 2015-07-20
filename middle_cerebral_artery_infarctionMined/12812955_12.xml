@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND PURPOSE: Therapeutic internal carotid artery (ICA) occlusion for symptomatic intracavernous artery <z:hpo ids='HP_0002617'>aneurysms</z:hpo> can result in ischemic infarction despite <z:mpath ids='MPATH_458'>normal</z:mpath> clinical balloon test occlusion (BTO) </plain></SENT>
+<SENT sid="1" pm="."><plain>We evaluated outcomes in patients with symptomatic cavernous sinus <z:hpo ids='HP_0002617'>aneurysms</z:hpo> in whom clinical BTO was <z:mpath ids='MPATH_458'>normal</z:mpath>, who underwent carotid occlusion with selective bypass surgery guided by physiologic BTO using quantitative cerebral blood flow (CBF) analysis by means of stable <z:chebi fb="3" ids="49957">xenon</z:chebi>-enhanced CT </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: After a <z:mpath ids='MPATH_458'>normal</z:mpath> clinical BTO, 26 consecutive patients with symptomatic cavernous sinus <z:hpo ids='HP_0002617'>aneurysms</z:hpo> underwent a baseline <z:chebi fb="3" ids="49957">xenon</z:chebi>-enhanced CT CBF analysis followed by a second CBF analysis, during which repeat BTO was performed </plain></SENT>
+<SENT sid="3" pm="."><plain>Patients with a decrease in cortical CBF to below 30 mL/100 g/min were considered moderate risk and those with greater than 30 mL/100 g/min were low risk for developing postocclusion ischemic infarction </plain></SENT>
+<SENT sid="4" pm="."><plain>Moderate-risk patients underwent cerebral revascularization followed by proximal carotid occlusion </plain></SENT>
+<SENT sid="5" pm="."><plain>Low-risk patients underwent carotid occlusion alone </plain></SENT>
+<SENT sid="6" pm="."><plain>Patients were clinically followed up for at least 3 months after carotid occlusion </plain></SENT>
+<SENT sid="7" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> patients underwent head CT at least 1 month after carotid occlusion </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: Eight patients were moderate risk and 18 low risk </plain></SENT>
+<SENT sid="9" pm="."><plain>Mean follow-up was 15.3 months </plain></SENT>
+<SENT sid="10" pm="."><plain>Mean CT follow-up was 10.2 months </plain></SENT>
+<SENT sid="11" pm="."><plain>No low-risk patient developed a postocclusion ischemic deficit by examination or <z:mpath ids='MPATH_124'>infarct</z:mpath> by CT </plain></SENT>
+<SENT sid="12" pm="."><plain>One patient in the moderate-risk group developed right <z:hpo ids='HP_0001269'>hemiparesis</z:hpo> and a left posterior <z:e sem="disease" ids="C0740392" disease_type="Disease or Syndrome" abbrv="">middle cerebral artery infarction</z:e> by CT 2 months after carotid occlusion </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSION: In this series, BTO combined with quantitative CBF analysis was a safe and reliable technique for identification of patients at risk for ischemic infarction after carotid occlusion, despite a <z:mpath ids='MPATH_458'>normal</z:mpath> clinical BTO </plain></SENT>
+</text></document>

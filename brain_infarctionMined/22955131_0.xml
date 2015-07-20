@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: To determine the association between silent ischemic lesions (SILs) on baseline brain MRI and recurrent <z:hpo ids='HP_0001297'>stroke</z:hpo> in young adults with first-ever <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: This was a single-center retrospective study of adult patients aged 18-50 years with first-ever <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> investigated by brain MRI between 2002 and 2009 </plain></SENT>
+<SENT sid="2" pm="."><plain>Silent brain <z:mpath ids='MPATH_124'>infarcts</z:mpath> (SBIs) were defined as focal T2 hyperintensities ≥ 3 mm without corresponding focal symptoms, and leukoaraiosis was defined as focal, multifocal, or confluent hyperintensities on T2-weighted sequences </plain></SENT>
+<SENT sid="3" pm="."><plain>The primary outcome was recurrent <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+<SENT sid="4" pm="."><plain>A forward stepwise Cox regression model was used to determine whether SILs were independently associated with recurrent <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: A total of 271 eligible patients were identified in the database: 89 did not undergo MRI imaging and 12 patients had inadequate follow-up, leaving a study population of 170 patients </plain></SENT>
+<SENT sid="6" pm="."><plain>MRI demonstrated SILs in 48 of 170 (28.2) patients </plain></SENT>
+<SENT sid="7" pm="."><plain>No patients had isolated leukoaraiosis </plain></SENT>
+<SENT sid="8" pm="."><plain><z:hpo ids='HP_0000822'>Hypertension</z:hpo> (p = 0.049), <z:hpo ids='HP_0002077'>migraine with aura</z:hpo> (p = 0.02), and <z:e sem="disease" ids="C0007222" disease_type="Disease or Syndrome" abbrv="CVD">cardiovascular disease</z:e> (p = 0.04) were associated with SIL </plain></SENT>
+<SENT sid="9" pm="."><plain>Mean follow-up duration was 25 ± 7 months </plain></SENT>
+<SENT sid="10" pm="."><plain>Among patients with SILs, 11 of 48 (23%) had a recurrent <z:hpo ids='HP_0001297'>stroke</z:hpo> vs 8 of 122 (6.5%) patients without SIL (p = 0.003) </plain></SENT>
+<SENT sid="11" pm="."><plain>After multivariate Cox regression, SILs remained independently associated with recurrent <z:hpo ids='HP_0001297'>stroke</z:hpo> (hazard ratio [HR] 3.2, 95% confidence interval [CI] 1.2-8.6, p = 0.02), as did the combination of SBIs and leukoaraiosis (HR 7.3, 95% CI 2.3-22.9, p = 0.003) </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: In adults ≤ 50 years old with first-ever <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo>, SILs are common and independently predict recurrent <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+</text></document>

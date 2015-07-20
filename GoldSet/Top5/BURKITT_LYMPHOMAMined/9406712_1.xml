@@ -1,0 +1,20 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: <z:hpo ids='HP_0002665'>Lymphomas</z:hpo> have been shown to be responsive to 131I immunoconjugates in studies conducted in mice and patients </plain></SENT>
+<SENT sid="1" pm="."><plain>We have observed that copper 67 (67Cu)-labeled Lym-1 remains in lymphomatous tissue longer than 131I-Lym-1 and, consequently, results in higher absorbed radiation doses to <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumors</z:e> </plain></SENT>
+<SENT sid="2" pm="."><plain>In addition, recombinant interleukin-2 (rIL-2) has been reported to increase <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> uptake of radiolabeled antibody </plain></SENT>
+<SENT sid="3" pm="."><plain>Therefore, we examined the efficacy of 67Cu-labeled Lym-1 and the ability of rIL-2 to enhance this efficacy in athymic mice implanted with Raji xenografts </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS: 6[p-(bromoacetamido) <z:chebi fb="0" ids="22744">benzyl</z:chebi>]-1,4,8,11-tetraazacyclotetradecane-N,N', N'',N'''-tetraacetic acid (BAT) was conjugated to Lym-1 via 2-iminothiolane (2IT) to prepare 2IT-BAT-Lym-1, which was labeled with 67Cu </plain></SENT>
+<SENT sid="5" pm="."><plain>Mice with Raji xenografts were treated with 335-500 microCi (12.4-18.0 MBq) of 67Cu-2IT-BAT-Lym-1 with or without 48,000-144,000 IU of rIL-2 once or were treated b.i.d. for 5 days beginning simultaneously with 67Cu-2IT-BAT-Lym-1 </plain></SENT>
+<SENT sid="6" pm="."><plain>Mouse weight, blood counts, and mortality were monitored to assess toxicity, and <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> size was measured to assess efficacy </plain></SENT>
+<SENT sid="7" pm="."><plain>In addition, groups of mice were sacrificed to assess the biodistribution of 67Cu-2IT-BAT-Lym-1 with and without rIL-2 </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: In mice treated with 335 microCi of 67Cu-2IT-BAT-Lym-1 alone, 28% of <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumors</z:e> were cured </plain></SENT>
+<SENT sid="9" pm="."><plain>When 48,000 IU of rIL-2 were added, 50% were cured </plain></SENT>
+<SENT sid="10" pm="."><plain>The overall response-rate was 50% for both regimens </plain></SENT>
+<SENT sid="11" pm="."><plain>In mice treated with 400 microCi of 67Cu-2IT-BAT-Lym-1 alone, 42% responded, <z:hpo ids='HP_0000001'>all</z:hpo> of which were cured </plain></SENT>
+<SENT sid="12" pm="."><plain>When 48,000 IU of rIL-2 were added, 77% of <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumors</z:e> responded, and 38% were cured </plain></SENT>
+<SENT sid="13" pm="."><plain>Larger or multiple doses of rIL-2 did not result in additional therapeutic enhancement </plain></SENT>
+<SENT sid="14" pm="."><plain>The <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> uptake and radiation dose after 67Cu-2IT-BAT-Lym-1 were about two times greater when a single dose of rIL-2 was added: This may be the basis for enhanced therapeutic efficacy </plain></SENT>
+<SENT sid="15" pm="."><plain>Mortality was not altered for 335 microCi or 400 microCi doses of 67Cu-2IT-BAT-Lym-1 by rIL-2 nor were other toxicity parameters </plain></SENT>
+<SENT sid="16" pm="."><plain>Mortality was increased at 500 microCi by the addition of rIL-2 </plain></SENT>
+<SENT sid="17" pm="."><plain>CONCLUSIONS: 67Cu-2IT-BAT-Lym-1 provided a therapeutic and frequently curative dose of radiation to tumored mice at tolerated doses </plain></SENT>
+<SENT sid="18" pm="."><plain>The therapeutic effectiveness of 67Cu-2IT-BAT-Lym-1 may have been enhanced by rIL-2 </plain></SENT>
+</text></document>

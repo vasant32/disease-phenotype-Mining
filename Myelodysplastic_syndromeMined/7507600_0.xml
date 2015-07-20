@@ -1,0 +1,6 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We report on a patient with very severe <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> (SAA) unresponsive to immunosuppressive therapy (<z:chebi fb="0" ids="4031">cyclosporine</z:chebi> A, ATG) </plain></SENT>
+<SENT sid="1" pm="."><plain>Because no HLA-identical family or unrelated donor could be found, a trial with recombinant human granulocyte stimulating factor (G-CSF) was started </plain></SENT>
+<SENT sid="2" pm="."><plain>This was followed by a rapid 3-lineage response with near-<z:mpath ids='MPATH_458'>normal</z:mpath> blood counts and transfusion independence </plain></SENT>
+<SENT sid="3" pm="."><plain>A similar response was obtained by 2 further G-CSF cycles which were given for relapsing SAA after G-CSF withdrawal </plain></SENT>
+<SENT sid="4" pm="."><plain>Following the third cycle, an <z:e sem="disease" ids="C1264032" disease_type="Disease or Syndrome" abbrv="">acquired platelet function disorder</z:e> was observed which preceded a <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo> </plain></SENT>
+</text></document>

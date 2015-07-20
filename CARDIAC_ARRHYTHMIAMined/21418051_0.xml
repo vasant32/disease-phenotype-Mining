@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Recurrent events are common in medical research for subjects who are followed for the duration of a study </plain></SENT>
+<SENT sid="1" pm="."><plain>For example, cardiovascular patients with an implantable cardioverter defibrillator (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">ICD</z:e>) experience recurrent arrhythmic events that are terminated by shocks or antitachycardia pacing delivered by the device </plain></SENT>
+<SENT sid="2" pm="."><plain>In a published randomized clinical trial, a recurrent-event model was used to study the effect of a drug therapy in subjects with <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">ICDs</z:e>, who were experiencing recurrent symptomatic arrhythmic events </plain></SENT>
+<SENT sid="3" pm="."><plain>Under this model, one expects the robust variance for the estimated treatment effect to diminish when the duration of the trial is extended, due to the additional events observed </plain></SENT>
+<SENT sid="4" pm="."><plain>However, as shown in this article, that is not always the case </plain></SENT>
+<SENT sid="5" pm="."><plain>We investigate this phenomenon using large datasets from this <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> trial and from a <z:mp ids='MP_0002055'>diabetes</z:mp> study, with some analytical results, as well as through simulations </plain></SENT>
+<SENT sid="6" pm="."><plain>Some insights are also provided on existing sample size formulae using our results </plain></SENT>
+</text></document>

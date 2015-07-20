@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Explanations for <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> mechanisms at the cellular level are usually based on experiments in nonhuman myocytes </plain></SENT>
+<SENT sid="1" pm="."><plain>However, subtle electrophysiological differences between species may lead to different rhythmic or arrhythmic cellular behaviors and drug response given the nonlinear and highly interactive cellular system </plain></SENT>
+<SENT sid="2" pm="."><plain>Using detailed and quantitatively accurate mathematical models for human, dog, and guinea pig ventricular action potentials (APs), we simulated and compared cell electrophysiology mechanisms and response to drugs </plain></SENT>
+<SENT sid="3" pm="."><plain>Under basal conditions (absence of β-adrenergic stimulation), <z:chebi fb="0" ids="29101">Na(+)</z:chebi>/<z:chebi fb="0" ids="29103">K(+)</z:chebi>-ATPase changes secondary to <z:chebi fb="0" ids="29101">Na(+)</z:chebi> accumulation determined AP rate dependence for human and dog but not for guinea pig where slow delayed rectifier current (I(Ks)) was the major rate-dependent current </plain></SENT>
+<SENT sid="4" pm="."><plain>AP prolongation with reduction of rapid delayed rectifier current (I(Kr)) and I(Ks) (due to mutations or drugs) showed strong species dependence in simulations, as in experiments </plain></SENT>
+<SENT sid="5" pm="."><plain>For humans, AP prolongation was 80% following I(Kr) block </plain></SENT>
+<SENT sid="6" pm="."><plain>It was 30% for dog and 20% for guinea pig </plain></SENT>
+<SENT sid="7" pm="."><plain>Under basal conditions, I(Ks) block was of no consequence for human and dog, but for guinea pig, AP prolongation after I(Ks) block was severe </plain></SENT>
+<SENT sid="8" pm="."><plain>However, with β-adrenergic stimulation, I(Ks) played an important role in <z:hpo ids='HP_0000001'>all</z:hpo> species, particularly in AP shortening at fast rate </plain></SENT>
+<SENT sid="9" pm="."><plain>Quantitative comparison of AP repolarization, rate-dependence mechanisms, and drug response in human, dog, and guinea pig revealed major species differences (e.g., susceptibility to arrhythmogenic early afterdepolarizations) </plain></SENT>
+<SENT sid="10" pm="."><plain>Extrapolation from animal to human electrophysiology and drug response requires great caution </plain></SENT>
+</text></document>

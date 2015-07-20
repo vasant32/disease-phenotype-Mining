@@ -1,0 +1,21 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND PURPOSE: The clinical application of Doppler detection of circulating <z:e sem="disease" ids="C0007780" disease_type="Disease or Syndrome" abbrv="">cerebral emboli</z:e> will depend on a reliable automated system of embolic signal detection; such a system is not currently available </plain></SENT>
+<SENT sid="1" pm="."><plain>Previous studies have shown that frequency filtering increases the ratio of embolic signal to background signal intensity and that the incorporation of such an approach into an offline automated detection system markedly improved performance </plain></SENT>
+<SENT sid="2" pm="."><plain>In this study, we evaluated an online version of the system </plain></SENT>
+<SENT sid="3" pm="."><plain>In a single-center study, we compared its performance with that of a human expert on data from 2 clinical situations, <z:hpo ids='HP_0100546'>carotid stenosis</z:hpo> and the period immediately after carotid endarterectomy </plain></SENT>
+<SENT sid="4" pm="."><plain>Because the human expert is currently the "gold standard" for embolic signal detection, we also compared the performance of the system with an international panel of human experts in a multicenter study </plain></SENT>
+<SENT sid="5" pm="."><plain>METHODS: In the single-center evaluation, the performance of the software was tested against that of a human expert on 20 hours of data from 21 patients with <z:hpo ids='HP_0100546'>carotid stenosis</z:hpo> and 18 hours of data from 9 patients that was recorded after carotid endarterectomy </plain></SENT>
+<SENT sid="6" pm="."><plain>For the multicenter evaluation, a separate 2-hour data set, recorded from 5 patients after carotid endarterectomy, was analyzed by 6 different human experts using the same equipment and by the software </plain></SENT>
+<SENT sid="7" pm="."><plain>Agreement was assessed by determining the probability of agreement </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: In the 20 hours of <z:hpo ids='HP_0100546'>carotid stenosis</z:hpo> data, there were 140 embolic signals with an intensity of &gt; or =7 dB </plain></SENT>
+<SENT sid="9" pm="."><plain>With the software set at a confidence threshold of 60%, a sensitivity of 85.7% and a specificity of 88.9% for detection of embolic signals were obtained </plain></SENT>
+<SENT sid="10" pm="."><plain>At higher confidence thresholds, a specificity &gt;95% could be obtained, but this was at the expense of a lower sensitivity </plain></SENT>
+<SENT sid="11" pm="."><plain>In the 18 hours of post-carotid endarterectomy data, there were 411 embolic signals of &gt; or =7-dB intensity </plain></SENT>
+<SENT sid="12" pm="."><plain>When the same confidence threshold was used, a sensitivity of 95.4% and a specificity of 97.5% were obtained </plain></SENT>
+<SENT sid="13" pm="."><plain>In the multicenter evaluation, a total of 127 events were recorded as embolic signals by at least 1 center </plain></SENT>
+<SENT sid="14" pm="."><plain>The total number of embolic signals detected by the 6 different centers was 84, 93, 108, 92, 63, and 78 </plain></SENT>
+<SENT sid="15" pm="."><plain>The software set at a confidence threshold of 60% detected 90 events as embolic signals </plain></SENT>
+<SENT sid="16" pm="."><plain>The mean probability of agreement, including <z:hpo ids='HP_0000001'>all</z:hpo> human experts and the software, was 0.83, and this was higher than that for 2 human experts and lower than that for 4 human experts </plain></SENT>
+<SENT sid="17" pm="."><plain>The mean values for the 6 human observers were averaged to give P=0.84, which was similar to that of the software </plain></SENT>
+<SENT sid="18" pm="."><plain>CONCLUSIONS: By using the frequency specificity of the intensity increase occurring with embolic signals, we have developed an automated detection system with a much improved sensitivity </plain></SENT>
+<SENT sid="19" pm="."><plain>Its performance was equal to that of some human experts and only slightly below the mean performance of a panel of human experts </plain></SENT>
+</text></document>

@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The zebrafish (Danio rerio) is an emerging genetic model for regenerative medicine </plain></SENT>
+<SENT sid="1" pm="."><plain>In humans, <z:hpo ids='HP_0001658'>myocardial infarction</z:hpo> results in the irreversible loss of cardiomyocytes </plain></SENT>
+<SENT sid="2" pm="."><plain>However, zebrafish hearts fully regenerate after a 20% ventricular resection, without either <z:hpo ids='HP_0100699'>scarring</z:hpo> or <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>To study this cardiac regeneration, we developed implantable flexible multi-microelectrode membrane arrays that measure the epicardial electrocardiogram signals of zebrafish in real-time </plain></SENT>
+<SENT sid="4" pm="."><plain>The microelectrode electrical signals allowed for a high level of both temporal and spatial resolution (~20 μm), and the signal to noise ratio of the epicardial ECG was comparable to that of surface electrode ECG (7.1 dB vs. 7.4 dB, respectively) </plain></SENT>
+<SENT sid="5" pm="."><plain>Processing and analysis of the signals from the microelectrode array demonstrated distinct ECG signals: namely, atrial conduction (P waves), ventricular contraction (QRS), and ventricular repolarization (QT interval) </plain></SENT>
+<SENT sid="6" pm="."><plain>The electrical signals were in synchrony with optically measured Calcium concentration gradients in terms of d[Ca²⁺]/dt at both whole heart and tissue levels </plain></SENT>
+<SENT sid="7" pm="."><plain>These microelectrodes therefore provide a real-time analytical tool for monitoring conduction phenotypes of small vertebral animals with a high temporal and spatial resolution </plain></SENT>
+</text></document>

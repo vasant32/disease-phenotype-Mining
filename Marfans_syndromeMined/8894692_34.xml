@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:e sem="disease" ids="C0024796" disease_type="Disease or Syndrome" abbrv="MFS|MFS1">Marfan syndrome</z:e> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MFS</z:e>), a <z:e sem="disease" ids="C0410787" disease_type="Disease or Syndrome" abbrv="">heritable connective tissue disorder</z:e>, is caused by mutations in the gene coding for fibrillin-1 (FBN1), an extracellular matrix protein </plain></SENT>
+<SENT sid="1" pm="."><plain>One of the three major categories of FBN1 mutations involves exon-skipping </plain></SENT>
+<SENT sid="2" pm="."><plain>To rapidly detect such mutations, we developed a long RT-PCR method </plain></SENT>
+<SENT sid="3" pm="."><plain>Either three segments covering the entire FBN1 coding sequence or a single 8.9 kb FBN1 coding segment were amplified from reverse-transcribed total fibroblast <z:chebi fb="40" ids="33697">RNA</z:chebi> </plain></SENT>
+<SENT sid="4" pm="."><plain>Restriction fragment patterns of these RT-PCR products were compared and abnormal fragments were directly sequenced </plain></SENT>
+<SENT sid="5" pm="."><plain>Six exon-skipping mutations were identified in a panel of 60 MFS probands </plain></SENT>
+<SENT sid="6" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> skipped exons encode calcium binding epidermal growth factor (EGF)-like domains and maintain the reading frame </plain></SENT>
+<SENT sid="7" pm="."><plain>In five probands, exon-skipping was due to point mutations in splice site sequences, and one had a 6 bp deletion in a donor splice site </plain></SENT>
+<SENT sid="8" pm="."><plain>Pulse-chase analysis of labelled fibrillin protein revealed <z:mpath ids='MPATH_458'>normal</z:mpath> levels of synthesis but significantly reduced matrix deposition </plain></SENT>
+<SENT sid="9" pm="."><plain>This dominant-negative effect of the mutant monomers is considered in the light of current models of fibrillin assembly </plain></SENT>
+<SENT sid="10" pm="."><plain>Probands with this type of FBN1 mutation include the most severe forms of <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MFS</z:e>, such as neonatally lethal presentations </plain></SENT>
+</text></document>

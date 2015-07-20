@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We quantified the <z:hpo ids='HP_0002138'>subarachnoid hemorrhage</z:hpo> (SAH) volume in 64 patients on three-dimensional computed tomography (3D-CT) scans and studied the correlation between the SAH volume and the occurrence of symptomatic vasospasm (SVS) </plain></SENT>
+<SENT sid="1" pm="."><plain>We studied 64 patients with SAH <z:hpo ids='HP_0003674'>onset</z:hpo> (day 0) and on days 1, 4, 7, and 14 </plain></SENT>
+<SENT sid="2" pm="."><plain>We compared the <z:mp ids='MP_0008817'>hematoma</z:mp> volume by 3D-CT with 2D-CT on day 0 and examined the correlation between the <z:mp ids='MP_0008817'>hematoma</z:mp> volume and the occurrence of SVS </plain></SENT>
+<SENT sid="3" pm="."><plain>The <z:mp ids='MP_0008817'>hematoma</z:mp> volume, including the volume of <z:mpath ids='MPATH_458'>normal</z:mpath> structures, was automatically calculated (V1) </plain></SENT>
+<SENT sid="4" pm="."><plain>The volume of <z:mpath ids='MPATH_458'>normal</z:mpath> structures manifesting identical CT numbers was previously calculated in patients without intracranial lesions (V2) </plain></SENT>
+<SENT sid="5" pm="."><plain>The total <z:mp ids='MP_0008817'>hematoma</z:mp> volume was defined as V1 minus mean value of V2 (= 12 ml) </plain></SENT>
+<SENT sid="6" pm="."><plain>The mean <z:mp ids='MP_0008817'>hematoma</z:mp> volume by 3D-CT was 48 ± 12 ml and by 2D-CT was 31 ± 45 ml (mean ± SD, n = 64) </plain></SENT>
+<SENT sid="7" pm="."><plain>The <z:mp ids='MP_0008817'>hematoma</z:mp> volume was significantly larger by 3D-CT than by 2D-CT (p &lt; 0.05) </plain></SENT>
+<SENT sid="8" pm="."><plain>At <z:hpo ids='HP_0000001'>all</z:hpo> time points, the <z:mp ids='MP_0008817'>hematoma</z:mp> volumes were significantly larger in patients with than without SVS </plain></SENT>
+<SENT sid="9" pm="."><plain>We developed a new method for the quantitative determination of the SAH volume by 3D-CT </plain></SENT>
+<SENT sid="10" pm="."><plain>This method may allow us to quantify the volume of SAH in clinical studies of <z:e sem="disease" ids="C0265110" disease_type="Disease or Syndrome" abbrv="">cerebral vasospasm</z:e> </plain></SENT>
+</text></document>

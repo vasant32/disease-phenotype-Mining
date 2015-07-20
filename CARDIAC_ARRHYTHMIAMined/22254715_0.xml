@@ -1,0 +1,6 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>This paper discusses the effect of atrioventricular conduction time (AVCT) on the short-term Heart Rate Variability (HRV) by computing HRV parameters using intervals between the <z:hpo ids='HP_0003674'>onsets</z:hpo> of successive P waves (PP time series) for three groups: <z:mpath ids='MPATH_458'>normal</z:mpath>, <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> and <z:hpo ids='HP_0001645'>sudden cardiac death</z:hpo> (SCD) patients </plain></SENT>
+<SENT sid="1" pm="."><plain>A very precise wavelet transform based ECG delineator was developed to detect PP, PR and RR time series </plain></SENT>
+<SENT sid="2" pm="."><plain>Mean PR variation in <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> and SCD group was found to be significantly high as compared to the <z:mpath ids='MPATH_458'>normal</z:mpath> group </plain></SENT>
+<SENT sid="3" pm="."><plain>It was observed that when PR variations in <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> and SCD cases crossed a certain threshold, RR variability no longer provided a very accurate estimate of HRV </plain></SENT>
+<SENT sid="4" pm="."><plain>In such cases, PP variability was able to provide a better assessment of HRV </plain></SENT>
+</text></document>

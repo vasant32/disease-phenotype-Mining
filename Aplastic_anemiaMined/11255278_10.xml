@@ -1,0 +1,24 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND OBJECTIVES: The main causes of failure after allogeneic hematopoietic stem cell transplantation (HSCT) in patients with severe <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> (SAA) are <z:e sem="disease" ids="C0018133" disease_type="Disease or Syndrome" abbrv="GVH">graft-versus-host disease</z:e> (GVHD), <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infection</z:e> and graft failure, often exacerbated by large numbers of transfusions and prolonged disease duration before transplant </plain></SENT>
+<SENT sid="1" pm="."><plain>This study retrospectively analyzes the outcome and factors related to survival or graft failure in high-risk patients with SAA receiving HSCT in our institution </plain></SENT>
+<SENT sid="2" pm="."><plain>DESIGN AND METHODS: Between January 1995 and December 1999, 40 consecutive adult patients who were multi-transfused (more than 40 units of red blood cells +/- platelets) and/or had a 3 years or longer period prior to transplant were enrolled </plain></SENT>
+<SENT sid="3" pm="."><plain>Their median age was 27.5 years (range, 16 to 43) and 21 (52.5%) were women </plain></SENT>
+<SENT sid="4" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> donors were human leukocyte antigen (HLA)-matched siblings </plain></SENT>
+<SENT sid="5" pm="."><plain>Before transplant, 29 patients (72.5%) received a course of antithymocyte globulin (ATG) and <z:chebi fb="0" ids="4031">cyclosporin A</z:chebi> (CsA) </plain></SENT>
+<SENT sid="6" pm="."><plain>The median interval from diagnosis to transplant was 59 months (range, 2 to 216) </plain></SENT>
+<SENT sid="7" pm="."><plain>The median number of transfusions was 115 units (range, 10 to 480) </plain></SENT>
+<SENT sid="8" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> patients received a conditioning regimen of <z:chebi fb="0" ids="4027">cyclophosphamide</z:chebi>, ATG, and procarbazine </plain></SENT>
+<SENT sid="9" pm="."><plain>Our patients received either bone marrow (BM) alone (n=20) or BM+peripheral blood stem cells (PBSC) (n=20) as a stem cell source </plain></SENT>
+<SENT sid="10" pm="."><plain>T-cells of PBSC were depleted using the CD34 enrichment method </plain></SENT>
+<SENT sid="11" pm="."><plain>GVHD prophylaxis consisted of CsA and short-term <z:chebi fb="0" ids="44185">methotrexate</z:chebi> </plain></SENT>
+<SENT sid="12" pm="."><plain>RESULTS: In the BM+PBSC group, neutrophil recovery to 0.5 x 10(9)/L and platelet recovery to 20 x 10(9)/L were achieved more rapidly than in the BM group (p=0.005 and 0.039, respectively) </plain></SENT>
+<SENT sid="13" pm="."><plain>The incidences of graft failure, grade II to IV <z:hpo ids='HP_0011009'>acute</z:hpo> GVHD, and <z:hpo ids='HP_0011010'>chronic</z:hpo> GVHD were 22.5%, 12.8% and 23.1%, respectively </plain></SENT>
+<SENT sid="14" pm="."><plain>Graft failure occurred in 2 of 20 patients (10%) receiving BM+PBSC and in 7 of 20 (35%) receiving BM alone (p=0.069) </plain></SENT>
+<SENT sid="15" pm="."><plain>Seven of 9 patients who had graft failure received a booster treatment and recovered <z:mpath ids='MPATH_458'>normal</z:mpath> marrow function </plain></SENT>
+<SENT sid="16" pm="."><plain>GVHD incidence was comparable between the BM+PBSC and BM groups </plain></SENT>
+<SENT sid="17" pm="."><plain>Six patients (15%) died from graft failure (n=2), interstitial <z:hpo ids='HP_0002090'>pneumonia</z:hpo> (n=2), <z:chebi fb="0" ids="4027">cyclophosphamide</z:chebi>-induced <z:hpo ids='HP_0001635'>heart failure</z:hpo> (n=1), and <z:hpo ids='HP_0011010'>chronic</z:hpo> GVHD followed by <z:hpo ids='HP_0002090'>pneumonia</z:hpo> (n=1) </plain></SENT>
+<SENT sid="18" pm="."><plain>The Kaplan-Meier estimate of survival was 83.7% with a median follow-up duration of 40.5 months (range 8-67) </plain></SENT>
+<SENT sid="19" pm="."><plain>In multivariate analysis only <z:hpo ids='HP_0011010'>chronic</z:hpo> GVHD adversely influenced survival (p=0.042) </plain></SENT>
+<SENT sid="20" pm="."><plain>INTERPRETATION AND CONCLUSIONS: These results suggest that HSCT is an effective treatment for multi-transfused SAA patients with prolonged disease duration </plain></SENT>
+<SENT sid="21" pm="."><plain>It is highly possible that the infusion of a large number of stem cells leads to a reduction of graft failure and a faster speed of engraftment </plain></SENT>
+<SENT sid="22" pm="."><plain>Booster treatment is successful in achieving engraftment in patients with graft failure </plain></SENT>
+</text></document>

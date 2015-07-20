@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PURPOSE: ADAMTSL4 mutations cause <z:hpo ids='HP_0000007'>autosomal recessive</z:hpo> isolated <z:hpo ids='HP_0001083'>ectopia lentis</z:hpo> (IEL) and <z:hpo ids='HP_0001083'>ectopia lentis</z:hpo> et pupillae </plain></SENT>
+<SENT sid="1" pm="."><plain>Dominant FBN1 mutations cause IEL or syndromic <z:hpo ids='HP_0001083'>ectopia lentis</z:hpo> (<z:e sem="disease" ids="C0024796" disease_type="Disease or Syndrome" abbrv="MFS|MFS1">Marfan syndrome</z:e> and <z:e sem="disease" ids="C0265313" disease_type="Disease or Syndrome;Congenital Abnormality" abbrv="">Weill-Marchesani syndrome</z:e>) </plain></SENT>
+<SENT sid="2" pm="."><plain>The authors sought to characterize recombinant ADAMTSL4 and the ocular distribution of ADAMTSL4 and to investigate whether ADAMTSL4 influences the biogenesis of fibrillin-1 microfibrils, which compose the zonule </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: ADAMTSL4 was expressed by the transfection of HEK293F cells </plain></SENT>
+<SENT sid="4" pm="."><plain>Protein extracts and paraffin sections from human eyes were analyzed by Western blot analysis and by immunoperoxidase staining, respectively </plain></SENT>
+<SENT sid="5" pm="."><plain>Immunofluorescence was used to evaluate fibrillin-1 deposition in the ECM of fetal bovine nuchal ligament cells after culture in ADAMTSL4-conditioned medium or control medium </plain></SENT>
+<SENT sid="6" pm="."><plain>Confocal microscopy was performed to investigate ADAMTSL4 and fibrillin-1 colocalization in these cultures </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: Western blot analysis identified ADAMTSL4 as a <z:chebi fb="2" ids="17089">glycoprotein</z:chebi> in HEK293F cells and as a major band of 150 kDa in ocular tissues including ciliary body, sclera, cornea, and retina </plain></SENT>
+<SENT sid="8" pm="."><plain>Immunoperoxidase staining showed a broad ocular distribution of ADAMTSL4, associated with both cells and fibrillar ECM </plain></SENT>
+<SENT sid="9" pm="."><plain>When cultured in ADAMTSL4-containing medium, fetal bovine nuchal ligament cells showed accelerated fibrillin-1 deposition in ECM </plain></SENT>
+<SENT sid="10" pm="."><plain>ADAMTSL4 colocalized with fibrillin-1 microfibrils in the ECM of these cells </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: ADAMTSL4 is a secreted <z:chebi fb="2" ids="17089">glycoprotein</z:chebi> that is widely distributed in the human eye </plain></SENT>
+<SENT sid="12" pm="."><plain>Enhanced fibrillin-1 deposition in the presence of ADAMTSL4 and colocalization of ADAMTSL4 with fibrillin-1 in the ECM of cultured fibroblasts suggest a potential role for ADAMTSL4 in the formation or maintenance of the zonule </plain></SENT>
+</text></document>

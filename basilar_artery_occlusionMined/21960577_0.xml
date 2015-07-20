@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND PURPOSE: The posterior circulation <z:hpo ids='HP_0011009'>Acute</z:hpo> <z:hpo ids='HP_0001297'>Stroke</z:hpo> Prognosis Early CT Score (pc-ASPECTS) quantifies the extent of early ischemic changes in the posterior circulation with a 10-point grading system </plain></SENT>
+<SENT sid="1" pm="."><plain>We hypothesized that pc-ASPECTS applied to CT angiography source images predicts functional outcome of patients in the Basilar Artery International Cooperation Study (BASICS) </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: BASICS was a prospective, observational registry of consecutive patients with <z:hpo ids='HP_0011009'>acute</z:hpo> symptomatic basilar <z:mp ids='MP_0006134'>artery occlusion</z:mp> </plain></SENT>
+<SENT sid="3" pm="."><plain>Functional outcome was assessed at 1 month </plain></SENT>
+<SENT sid="4" pm="."><plain>We applied pc-ASPECTS to CT angiography source images of patients with CT angiography for confirmation of basilar <z:mp ids='MP_0006134'>artery occlusion</z:mp> </plain></SENT>
+<SENT sid="5" pm="."><plain>We calculated unadjusted and adjusted risk ratios (RRs) of pc-ASPECTS dichotomized at ≥8 versus &lt;8 </plain></SENT>
+<SENT sid="6" pm="."><plain>Primary outcome measure was favorable outcome (modified Rankin Scale scores 0-3) </plain></SENT>
+<SENT sid="7" pm="."><plain>Secondary outcome measures were mortality and functional independence (modified Rankin Scale scores 0-2) </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: Of 158 patients included, 78 patients had a CT angiography source images pc-ASPECTS≥8 </plain></SENT>
+<SENT sid="9" pm="."><plain>Patients with a pc-ASPECTS≥8 more often had a favorable outcome than patients with a pc-ASPECTS&lt;8 (crude RR, 1.7; 95% CI, 0.98-3.0) </plain></SENT>
+<SENT sid="10" pm="."><plain>After adjustment for age, baseline National Institutes of Health <z:hpo ids='HP_0001297'>Stroke</z:hpo> Scale score, and thrombolysis, pc-ASPECTS≥8 was not related to favorable outcome (RR, 1.3; 95% CI, 0.8-2.2), but it was related to reduced mortality (RR, 0.7; 95% CI, 0.5-0.98) and functional independence (RR, 2.0; 95% CI, 1.1-3.8) </plain></SENT>
+<SENT sid="11" pm="."><plain>In post hoc analysis, pc-ASPECTS dichotomized at ≥6 versus &lt;6 predicted a favorable outcome (adjusted RR, 3.1; 95% CI, 1.2-7.5) </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: pc-ASPECTS on CT angiography source images independently predicted <z:hpo ids='HP_0011420'>death</z:hpo> and functional independence at 1 month in the CT angiography subgroup of patients in the BASICS registry </plain></SENT>
+</text></document>

@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>In the 45 years since its development, the <z:chebi fb="0" ids="16898">pyrimidine</z:chebi> analog <z:chebi fb="0" ids="46345">5-fluorouracil</z:chebi> (5-FU) has become an integral component of many <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> treatments, most notably for the management of <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>An appreciable fraction of patients who receive 5-FU suffer severe adverse toxicities, which in extreme cases may result in <z:hpo ids='HP_0011420'>death</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>Dihydropyrimidine dehydrogenase (DPD, encoded by DPYD) rapidly degrades 85% of administered 5-FU, and as such, limits the amount of drug available for conversion into active metabolites </plain></SENT>
+<SENT sid="3" pm="."><plain>Clinical studies have suggested that genetic variations in DPYD increase the risk for 5-FU toxicity, however, there is not a clear consensus about which variations are relevant predictors </plain></SENT>
+<SENT sid="4" pm="."><plain>In the present study, DPYD variants were expressed in mammalian cells, and the enzymatic activity of expressed protein was determined relative to <z:mp ids='MP_0002169'>wild-type</z:mp> (WT) </plain></SENT>
+<SENT sid="5" pm="."><plain>Relative sensitivity to 5-FU for cells expressing DPYD variations was also measured </plain></SENT>
+<SENT sid="6" pm="."><plain>The DPYD*2A variant (exon 14 deletion caused by IVS14+1G&gt;A) was confirmed to be catalytically inactive </plain></SENT>
+<SENT sid="7" pm="."><plain>Compared with WT, two variants, S534N and C29R, showed significantly higher enzymatic activity </plain></SENT>
+<SENT sid="8" pm="."><plain>Cells expressing S534N were more resistant to 5-FU-mediated toxicity compared with cells expressing WT DPYD </plain></SENT>
+<SENT sid="9" pm="."><plain>These findings support the hypothesis that selected DPYD alleles are protective against severe 5-FU toxicity, and, as a consequence, may decrease the effectiveness of 5-FU an antitumor drug in carriers </plain></SENT>
+<SENT sid="10" pm="."><plain>In addition, this study shows a method that may be useful for phenotyping other genetic variations in pharmacologically relevant pathways </plain></SENT>
+<SENT sid="11" pm="."><plain><z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">Cancer</z:e> Res; 73(6); 1958-68. ©2013 AACR </plain></SENT>
+</text></document>

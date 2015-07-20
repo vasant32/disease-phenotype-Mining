@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Present work deals with generation of virtual samples as mathematical modelling of empirical data on the basis of empirical data </plain></SENT>
+<SENT sid="1" pm="."><plain>The generated samples were used for development of QSAR model </plain></SENT>
+<SENT sid="2" pm="."><plain>The method deals with extrapolation of sample vector in such a manner that there is conservation of the empirical data distribution </plain></SENT>
+<SENT sid="3" pm="."><plain>The data distribution has been judged with statistical parameters </plain></SENT>
+<SENT sid="4" pm="."><plain>The method was implemented with anticancer activity of Gossypol <z:chebi fb="22" ids="15366">acetic acid</z:chebi> against BCL2 target for <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> </plain></SENT>
+<SENT sid="5" pm="."><plain>Considering the virtual samples only for model development, model training showed a regression coefficient for leave one out cross validation as 0.996 with 66 virtual samples, and a regression coefficient with external test set data (51 samples) as 0.993 </plain></SENT>
+<SENT sid="6" pm="."><plain>External test set data which were never used in the virtual sample generation showed predicted regression coefficient value of &gt;0.61 </plain></SENT>
+<SENT sid="7" pm="."><plain>On the basis of QSAR model, nine compounds were suggested as anti-BCL2 active compounds </plain></SENT>
+<SENT sid="8" pm="."><plain>The suggested compounds were further validated by docking study with Gossypol <z:chebi fb="22" ids="15366">acetic acid</z:chebi> and 'Tetrahydroisoquinoline <z:chebi fb="0" ids="29337,32988">amide</z:chebi> substituted <z:chebi fb="1" ids="30396">phenyl</z:chebi> <z:chebi fb="0" ids="14973">pyrazole</z:chebi>' co-crystallized with chimeric BCL2-XL (PDBID: 2W3L) protein </plain></SENT>
+</text></document>

@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Caveolins (Cav), the principal structural proteins of the caveolar domains, have been implicated in the pathogenesis of ischemic injury </plain></SENT>
+<SENT sid="1" pm="."><plain>Indeed, changes in caveolin expression and localization have been reported in renal and <z:e sem="disease" ids="C0151744" disease_type="Disease or Syndrome" abbrv="IHD">myocardial ischemia</z:e> </plain></SENT>
+<SENT sid="2" pm="."><plain>Genetic ablation of the Cav-1 gene in mice was further shown to increase the extent of ischemic injury in a model of hindlimb <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> </plain></SENT>
+<SENT sid="3" pm="."><plain>However, the role of Cav-1 in the pathogenesis of <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> remains unknown </plain></SENT>
+<SENT sid="4" pm="."><plain>Immunoblot and immunofluorescence analyses of rat brains subjected to middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> revealed marked increases in endothelial Cav-1 and Cav-2 protein levels </plain></SENT>
+<SENT sid="5" pm="."><plain>To directly assess the functional role of caveolins in the pathogenesis of cerebral ischemic injury, we next investigated the effects of <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> in caveolin knockout (KO) mice </plain></SENT>
+<SENT sid="6" pm="."><plain>Interestingly, Cav-1 KO mice showed a marked increase of cerebral volume of infarction, as compared with <z:mp ids='MP_0002169'>wild-type</z:mp> and Cav-2 KO mice </plain></SENT>
+<SENT sid="7" pm="."><plain>Immunofluorescence analyses showed an increased number of proliferating endothelial cells in <z:mp ids='MP_0002169'>wild-type</z:mp> ischemic brains, as compared with Cav-1 KO ischemic brains </plain></SENT>
+<SENT sid="8" pm="."><plain>Immunoblot analyses of <z:mp ids='MP_0002169'>wild-type</z:mp> ischemic brains showed an increase in endothelial nitric <z:chebi fb="177" ids="25741,29356">oxide</z:chebi> synthase protein levels </plain></SENT>
+<SENT sid="9" pm="."><plain>Conversely, the protein levels of endothelial nitric <z:chebi fb="177" ids="25741,29356">oxide</z:chebi> synthase remained unchanged in Cav-1 KO ischemic brains </plain></SENT>
+<SENT sid="10" pm="."><plain>TUNEL analysis also showed increased apoptotic cell <z:hpo ids='HP_0011420'>death</z:hpo> in Cav-1 KO ischemic brains, as compared with <z:mp ids='MP_0002169'>wild-type</z:mp> ischemic brains </plain></SENT>
+<SENT sid="11" pm="."><plain>Our findings indicate <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> induces a marked increase in endothelial Cav-1 and Cav-2 protein levels </plain></SENT>
+<SENT sid="12" pm="."><plain>Importantly, genetic ablation of the Cav-1 gene in mice results in increased cerebral volume of infarction </plain></SENT>
+<SENT sid="13" pm="."><plain>Mechanistically, Cav-1 KO ischemic brains showed impaired <z:mpath ids='MPATH_177'>angiogenesis</z:mpath> and increased apoptotic cell <z:hpo ids='HP_0011420'>death</z:hpo> </plain></SENT>
+</text></document>

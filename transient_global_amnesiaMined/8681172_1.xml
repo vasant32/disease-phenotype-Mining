@@ -1,0 +1,20 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0010534'>Transient global amnesia</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">AGT</z:e>) is a well-defined syndrome of unknown aetiology </plain></SENT>
+<SENT sid="1" pm="."><plain>It is generally believed to be of vascular origin </plain></SENT>
+<SENT sid="2" pm="."><plain>Other theories suggest <z:e sem="disease" ids="C0014544" disease_type="Disease or Syndrome" abbrv="">epilepsy</z:e> or <z:hpo ids='HP_0002076'>migraine</z:hpo> as the cause </plain></SENT>
+<SENT sid="3" pm="."><plain>We studied the clinical features and associated risk factors in 24 patients with <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">AGT</z:e>, comparing them with two control groups with 24 people in each group, paired for age and sex </plain></SENT>
+<SENT sid="4" pm="."><plain>The first control group contained healthy individuals <z:chebi fb="0" ids="29306">(CN)</z:chebi> and the second patients with <z:e sem="disease" ids="C0007787" disease_type="Disease or Syndrome" abbrv="tia|TIA|T.I.A.">transient ischaemic attacks</z:e> (AIT) </plain></SENT>
+<SENT sid="5" pm="."><plain>Of the patients with <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">AGT</z:e>, 70% were women and 30% men </plain></SENT>
+<SENT sid="6" pm="."><plain>Their average age was 60 (range 14-76) </plain></SENT>
+<SENT sid="7" pm="."><plain>The attacks were abrupt in <z:hpo ids='HP_0003674'>onset</z:hpo> in 100% </plain></SENT>
+<SENT sid="8" pm="."><plain>In 8% there was a recognisable trigger factor (driving, physical exercise, etc) </plain></SENT>
+<SENT sid="9" pm="."><plain>The average duration was 7 hours </plain></SENT>
+<SENT sid="10" pm="."><plain>On study of the <z:e sem="disease" ids="C0850624" disease_type="Disease or Syndrome" abbrv="">cardiovascular risk factors</z:e>, it was found that 36% were hypertensive, 24% had <z:e sem="disease" ids="C0018799" disease_type="Disease or Syndrome" abbrv="">cardiopathy</z:e>, 12% had <z:hpo ids='HP_0000819'>diabetes mellitus</z:hpo>, 8% were smokers, 4% had <z:mp ids='MP_0002872'>polycythaemia</z:mp>, 16% had <z:e sem="disease" ids="C0020473" disease_type="Disease or Syndrome" abbrv="">hyperlipidaemia</z:e>, 4% were alcoholics </plain></SENT>
+<SENT sid="11" pm="."><plain>There was a history of <z:hpo ids='HP_0002076'>migraine</z:hpo> in 29% </plain></SENT>
+<SENT sid="12" pm="."><plain>No patient had a past history of <z:e sem="disease" ids="C0014544" disease_type="Disease or Syndrome" abbrv="">epilepsy</z:e> </plain></SENT>
+<SENT sid="13" pm="."><plain>Further investigation showed ECG changes in 12% </plain></SENT>
+<SENT sid="14" pm="."><plain>In 24% there were non-specific changes in the EEG </plain></SENT>
+<SENT sid="15" pm="."><plain>On cerebral CT scan there were lesions compatible with <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischaemia</z:e> in 12.5% of the patients </plain></SENT>
+<SENT sid="16" pm="."><plain>Levels of arterial <z:hpo ids='HP_0000822'>hypertension</z:hpo> were significantly higher in the <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">AGT</z:e> group as compared to the <z:mpath ids='MPATH_458'>normal</z:mpath> control group (Odds ratio 7.86; CI </plain></SENT>
+<SENT sid="17" pm="."><plain>1.29-11.38) </plain></SENT>
+<SENT sid="18" pm="."><plain>A past history of <z:hpo ids='HP_0002076'>migraine</z:hpo> was seen to be a risk factor associated with <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">AGT</z:e> as compared with both groups of controls (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">AGT</z:e>/CN Odds ratio 9.47; CI 1.01-444.92; <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">AGT</z:e>/AIT Odds ratio &gt; 1.72) </plain></SENT>
+</text></document>

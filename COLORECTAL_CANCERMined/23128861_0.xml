@@ -1,0 +1,18 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Persons with a negative result on screening colonoscopy are recommended to repeat the procedure in 10 years </plain></SENT>
+<SENT sid="1" pm="."><plain>OBJECTIVE: To assess the effectiveness and costs of colonoscopy versus other rescreening strategies after an initial negative colonoscopy result </plain></SENT>
+<SENT sid="2" pm="."><plain>DESIGN: Microsimulation model </plain></SENT>
+<SENT sid="3" pm="."><plain>DATA SOURCES: Literature and data from the Surveillance, Epidemiology, and End Results program </plain></SENT>
+<SENT sid="4" pm="."><plain>TARGET POPULATION: Persons aged 50 years who had no <z:mpath ids='MPATH_270'>adenomas</z:mpath> or <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> detected on screening colonoscopy </plain></SENT>
+<SENT sid="5" pm="."><plain>TIME HORIZON: Lifetime </plain></SENT>
+<SENT sid="6" pm="."><plain>PERSPECTIVE: Societal </plain></SENT>
+<SENT sid="7" pm="."><plain>INTERVENTION: No further screening or rescreening starting at age 60 years with colonoscopy every 10 years, annual highly sensitive guaiac fecal occult blood testing (HSFOBT), annual fecal immunochemical testing (FIT), or computed tomographic colonography (CTC) every 5 years </plain></SENT>
+<SENT sid="8" pm="."><plain>OUTCOME MEASURES: Lifetime cases of <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e>, life expectancy, and lifetime costs per 1000 persons, assuming either perfect or imperfect adherence </plain></SENT>
+<SENT sid="9" pm="."><plain>RESULTS OF BASE-CASE ANALYSIS: Rescreening with any method substantially reduced the risk for <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> compared with no further screening (range, 7.7 to 12.6 lifetime cases per 1000 persons [perfect adherence] and 17.7 to 20.9 lifetime cases per 1000 persons [imperfect adherence] vs. 31.3 lifetime cases per 1000 persons with no further screening) </plain></SENT>
+<SENT sid="10" pm="."><plain>In both adherence scenarios, the differences in life-years across rescreening strategies were small (range, 30 893 to 30 902 life-years per 1000 persons [perfect adherence] vs. 30 865 to 30 869 life-years per 1000 persons [imperfect adherence]) </plain></SENT>
+<SENT sid="11" pm="."><plain>Rescreening with HSFOBT, FIT, or CTC had fewer complications and was less costly than continuing colonoscopy </plain></SENT>
+<SENT sid="12" pm="."><plain>RESULTS OF SENSITIVITY ANALYSIS: Results were sensitive to test-specific adherence rates </plain></SENT>
+<SENT sid="13" pm="."><plain>LIMITATION: Data on adherence to rescreening were limited </plain></SENT>
+<SENT sid="14" pm="."><plain>CONCLUSION: Compared with the currently recommended strategy of continuing colonoscopy every 10 years after an initial negative examination, rescreening at age 60 years with annual HSFOBT, annual FIT, or CTC every 5 years provides approximately the same benefit in life-years with fewer complications at a lower cost </plain></SENT>
+<SENT sid="15" pm="."><plain>Therefore, it is reasonable to use other methods to rescreen persons with negative colonoscopy results </plain></SENT>
+<SENT sid="16" pm="."><plain>PRIMARY FUNDING SOURCE: National <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">Cancer</z:e> Institute </plain></SENT>
+</text></document>

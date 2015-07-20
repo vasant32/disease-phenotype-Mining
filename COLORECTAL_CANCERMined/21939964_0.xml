@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIM: To evaluate the performance of digital tomosynthesis (DT) of the chest for detection of lung nodules in patients with <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e>) </plain></SENT>
+<SENT sid="1" pm="."><plain>MATERIALS AND METHODS: The institutional review board approved this study, and <z:hpo ids='HP_0000001'>all</z:hpo> patients provided informed consent </plain></SENT>
+<SENT sid="2" pm="."><plain>A commercial <z:chebi fb="26" ids="30514">caesium</z:chebi> <z:chebi fb="1" ids="16382">iodide</z:chebi>/amorphous silicon (CsI/a-Si) flat-panel detector system was used to verify the performance of the DT and chest radiography (XR) methods </plain></SENT>
+<SENT sid="3" pm="."><plain>DT was performed in 142 patients with <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e> </plain></SENT>
+<SENT sid="4" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> 142 patients underwent chest computed tomography (CT) within a week of DT </plain></SENT>
+<SENT sid="5" pm="."><plain>As a reference standard, two radiologists reviewed the chest CT in consensus and recorded the presence of pulmonary nodules </plain></SENT>
+<SENT sid="6" pm="."><plain>Another two radiologists independently observed the DT images and recorded the presence of pulmonary nodules </plain></SENT>
+<SENT sid="7" pm="."><plain>The status of <z:hpo ids='HP_0000001'>all</z:hpo> lung nodules was assessed either histologically or by follow-up over a period of 1 year </plain></SENT>
+<SENT sid="8" pm="."><plain>The nodules were classified into <z:e sem="disease" ids="C0027627" disease_type="Neoplastic Process" abbrv="mets">metastasis</z:e>, benign, and uncertain </plain></SENT>
+<SENT sid="9" pm="."><plain>Statistical analysis of the results was performed </plain></SENT>
+<SENT sid="10" pm="."><plain>RESULTS: Two hundred and thirty-seven nodules from 142 patients were found at CT </plain></SENT>
+<SENT sid="11" pm="."><plain>These included 71 proven <z:e sem="disease" ids="C0027627" disease_type="Neoplastic Process" abbrv="mets">metastases</z:e> and 126 benign nodules; 40 nodules were uncertain </plain></SENT>
+<SENT sid="12" pm="."><plain>Observers detected 83% of <z:hpo ids='HP_0000001'>all</z:hpo> lung nodules and 93% of proven <z:e sem="disease" ids="C0027627" disease_type="Neoplastic Process" abbrv="mets">metastases</z:e> using DT </plain></SENT>
+<SENT sid="13" pm="."><plain>Among 237 nodules, 147 nodules were larger than 4mm in diameter on the CT images </plain></SENT>
+<SENT sid="14" pm="."><plain>Observers detected 87% of lung nodules that were larger than 4mm </plain></SENT>
+<SENT sid="15" pm="."><plain>CONCLUSION: Despite a reasonably low radiation dose, DT is a sensitive method, and is comparable to chest CT for the detection of lung nodules, particularly metastatic lung nodules in patients with <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e> </plain></SENT>
+</text></document>

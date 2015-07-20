@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>LARGE is a putative glycosyltransferase found to be mutated in mice with <z:e sem="disease" ids="C0026850" disease_type="Disease or Syndrome;Congenital Abnormality" abbrv="">myodystrophy</z:e> or patients with <z:hpo ids='HP_0003741'>congenital muscular dystrophy</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>By homology searches, we identified in the Dictyostelium discoideum genome four open reading frames, i.e. gnt12-15, encoding proteins with sequence similarity to LARGE </plain></SENT>
+<SENT sid="2" pm="."><plain>Semi-quantitative RT-PCR analysis revealed distinct temporal expression patterns of the four gnt genes throughout Dictyostelium development </plain></SENT>
+<SENT sid="3" pm="."><plain>To explore the gene function, we performed targeted disruptions of gnt14 and gnt15 </plain></SENT>
+<SENT sid="4" pm="."><plain>The gnt14(-) strains showed no obvious phenotypes </plain></SENT>
+<SENT sid="5" pm="."><plain>However, gnt15(-) cells grew slowly, changed in <z:mp ids='MP_0000002'>morphology</z:mp>, and displayed a developmental phenotype arresting at early stages </plain></SENT>
+<SENT sid="6" pm="."><plain>Compared with the <z:mp ids='MP_0002169'>wild type</z:mp>, gnt15(-) cells were more adhesive and exhibited altered levels of some surface <z:e sem="disease" ids="C0001511" disease_type="Disease or Syndrome;Acquired Abnormality" abbrv="">adhesion</z:e> molecules </plain></SENT>
+<SENT sid="7" pm="."><plain>Moreover, lectin-binding analysis demonstrated that gnt15 disruption affected profiles of membrane <z:chebi fb="0" ids="17089">glycoproteins</z:chebi> </plain></SENT>
+<SENT sid="8" pm="."><plain>Taken together, our data suggest that Gnt15 is essential for Dictyostelium development and may have a role in modulating cell <z:e sem="disease" ids="C0001511" disease_type="Disease or Syndrome;Acquired Abnormality" abbrv="">adhesion</z:e> and glycosylation </plain></SENT>
+</text></document>

@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The only proven cure for Fanconi <z:hpo ids='HP_0001903'>anemia</z:hpo> (FA)-associated <z:hpo ids='HP_0005528'>bone marrow failure</z:hpo> is successful allogeneic hematopoietic stem cell transplantation (HSCT) </plain></SENT>
+<SENT sid="1" pm="."><plain>However, HSCT with donors other than HLA-identical siblings is associated with high morbidity and poor survival </plain></SENT>
+<SENT sid="2" pm="."><plain>Therefore, we used preimplantation genetic diagnosis (<z:chebi fb="0" ids="26337">PGD</z:chebi>) to select an embryo produced by in vitro fertilization (IVF) that was unaffected by FA and was HLA-identical to the proband </plain></SENT>
+<SENT sid="3" pm="."><plain>The patient was a 6-year-old girl with FA and <z:hpo ids='HP_0002863'>myelodysplasia</z:hpo> previously treated with oxymetholone and <z:chebi fb="0" ids="8382">prednisone</z:chebi> </plain></SENT>
+<SENT sid="4" pm="."><plain>After her parents underwent 5 cycles of IVF with intrauterine transfer of 7 embryos over a span of 4 years, successful pregnancy ensued </plain></SENT>
+<SENT sid="5" pm="."><plain>Twenty-eight days after delivery, the patient underwent transplantation with her newborn sibling donor's HLA-identical umbilical cord blood hematopoietic stem cells (<z:chebi fb="15" ids="50443">HSCs</z:chebi>) </plain></SENT>
+<SENT sid="6" pm="."><plain>Neutrophil recovery occurred on day 17 without subsequent <z:hpo ids='HP_0011009'>acute</z:hpo> or <z:hpo ids='HP_0011010'>chronic</z:hpo> <z:e sem="disease" ids="C0018133" disease_type="Disease or Syndrome" abbrv="GVH">graft-versus-host disease</z:e> </plain></SENT>
+<SENT sid="7" pm="."><plain>Currently, 2.5 years after transplantation, the patient is well and hematopoiesis is <z:mpath ids='MPATH_458'>normal</z:mpath> </plain></SENT>
+<SENT sid="8" pm="."><plain>In summary, we have described the first successful transplantation, using IVF and <z:chebi fb="0" ids="26337">PGD</z:chebi>, of <z:chebi fb="15" ids="50443">HSCs</z:chebi> from a donor selected on the basis of specific, desirable disease and HLA characteristics </plain></SENT>
+<SENT sid="9" pm="."><plain>The medical, legal, and ethical issues involved with this approach are discussed </plain></SENT>
+</text></document>

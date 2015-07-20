@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIMS: Executive function (EF) comprises a set of cognitive skills that controls the execution of complex activities </plain></SENT>
+<SENT sid="1" pm="."><plain>In the context of <z:mp ids='MP_0002055'>diabetes</z:mp>, this may include patients' self-monitoring and daily management of their condition </plain></SENT>
+<SENT sid="2" pm="."><plain>We compared two different measures of EF in a population of elderly patients with type 2 <z:hpo ids='HP_0000819'>diabetes mellitus</z:hpo> (T2DM) and studied its relationship with <z:mp ids='MP_0002055'>diabetes</z:mp> self-care </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: Fifty patients (34 males) had EF assessed using Frontal Assessment Battery (FAB) and Executive Interview 25 (EXIT25) </plain></SENT>
+<SENT sid="4" pm="."><plain><z:mp ids='MP_0002055'>Diabetes</z:mp> self-care was assessed using the Summary of <z:mp ids='MP_0002055'>Diabetes</z:mp> Self-Care Activities (SDSCA) scale </plain></SENT>
+<SENT sid="5" pm="."><plain><z:chebi fb="34" ids="35143">Haemoglobin</z:chebi> A1c (HbA1c), <z:chebi fb="23" ids="18059">lipid</z:chebi> levels, blood pressure and <z:mp ids='MP_0002055'>diabetes</z:mp> duration were recorded </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: The mean age of the patients was 67.0+/-7.5 years and mean duration of <z:mp ids='MP_0002055'>diabetes</z:mp> was 8.1+/-6.4 years </plain></SENT>
+<SENT sid="7" pm="."><plain>Mean HbA1c was 7.0+/-1.2%, and mean fasting plasma <z:chebi fb="105" ids="17234">glucose</z:chebi>, cholesterol and <z:chebi fb="0" ids="47774">LDL-C</z:chebi> were 7.0+/-1.7mM, 4.0+/-0.9mM and 2.1+/-0.7mM respectively </plain></SENT>
+<SENT sid="8" pm="."><plain>Mean EXIT25 score was 9.5+/-4.6 in the range of <z:mpath ids='MPATH_458'>normal</z:mpath> EF (14% had EXIT25 score&gt;15, indicating impaired EF) </plain></SENT>
+<SENT sid="9" pm="."><plain>Mean FAB score was 13.7+/-3.3 (48% having scores&lt;15, indicating impaired EF), suggesting a degree of dysexecutive syndrome involving frontal lobe functions </plain></SENT>
+<SENT sid="10" pm="."><plain>EXIT25 score was inversely correlated with SDSCA (r=-0.3, p&lt;0.05) but no significant correlation between FAB and SDSCA or HbA1c, <z:mp ids='MP_0002055'>diabetes</z:mp> duration, <z:chebi fb="23" ids="18059">lipid</z:chebi> levels and blood pressure with EXIT25, FAB or SDCSA was found </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSION: A substantial proportion of elderly patients with T2DM may have dysexecutive syndrome and impairment in EF may impact on self-care in this group </plain></SENT>
+</text></document>

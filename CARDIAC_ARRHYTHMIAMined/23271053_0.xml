@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>MicroRNA cluster miR-17-92 has been implicated in cardiovascular development and function, yet its precise mechanisms of action in these contexts are uncertain </plain></SENT>
+<SENT sid="1" pm="."><plain>This study aimed to investigate the role of miR-17-92 in morphogenesis and function of cardiac and smooth muscle tissues </plain></SENT>
+<SENT sid="2" pm="."><plain>To do so, a mouse model of conditional overexpression of miR-17-92 in cardiac and smooth muscle tissues was generated </plain></SENT>
+<SENT sid="3" pm="."><plain>Extensive cardiac functional studies identified a dose-dependent induction of dilated, <z:hpo ids='HP_0001639'>hypertrophic cardiomyopathy</z:hpo>, and <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> inducibility in transgenic animals, which correlated with premature mortality (98.3±42.5 d, P&lt;0.0001) </plain></SENT>
+<SENT sid="4" pm="."><plain>Expression analyses revealed the abundance of Pten transcript, a known miR-17-92 target, to be inversely correlated with miR-17-92 expression levels and heart size </plain></SENT>
+<SENT sid="5" pm="."><plain>In addition, we demonstrated through 3'-UTR luciferase assays and expression analyses that Connexin43 (Cx43) is a novel direct target of miR-19a/b and its expression is suppressed in transgenic hearts </plain></SENT>
+<SENT sid="6" pm="."><plain>Taken together, these data demonstrate that dysregulated expression of miR-17-92 during cardiovascular morphogenesis results in a lethal <z:hpo ids='HP_0001638'>cardiomyopathy</z:hpo>, possibly in part through direct repression of Pten and Cx43 </plain></SENT>
+<SENT sid="7" pm="."><plain>This study highlights the importance of miR-17-92 in both <z:mpath ids='MPATH_458'>normal</z:mpath> and pathological functions of the heart, and provides a model that may serve as a useful platform to test novel antiarrhythmic therapeutics.-Danielson, L </plain></SENT>
+<SENT sid="8" pm="."><plain>S., Park, D </plain></SENT>
+<SENT sid="9" pm="."><plain>S., Rotllan, N., Chamorro-Jorganes, A., Guijarro, M </plain></SENT>
+<SENT sid="10" pm="."><plain>V., Fernandez-Hernando, C., Fishman, G </plain></SENT>
+<SENT sid="11" pm="."><plain>I., Phoon, C </plain></SENT>
+<SENT sid="12" pm="."><plain>K </plain></SENT>
+<SENT sid="13" pm="."><plain>L., Hernando, E </plain></SENT>
+<SENT sid="14" pm="."><plain>Cardiovascular dysregulation of miR-17-92 causes a lethal <z:hpo ids='HP_0001639'>hypertrophic cardiomyopathy</z:hpo> and arrhythmogenesis </plain></SENT>
+</text></document>

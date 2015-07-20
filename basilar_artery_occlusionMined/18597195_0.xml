@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>INTRODUCTION: Historically, basilar artery occlusive disease has been considered to convey a poor prognosis and a high mortality rate </plain></SENT>
+<SENT sid="1" pm="."><plain>In contrast, recently prospective studies have shown a better prognosis </plain></SENT>
+<SENT sid="2" pm="."><plain>The basilar artery is most commonly affected by <z:hpo ids='HP_0002621'>atherosclerosis</z:hpo>, but may also be affected by embolisms, dissections, <z:hpo ids='HP_0002617'>aneurysms</z:hpo>, and other conditions like fibromuscular <z:mpath ids='MPATH_589'>dysplasia</z:mpath> </plain></SENT>
+<SENT sid="3" pm="."><plain>CASE REPORT: The case of a 46 year-old male who was admitted after suffering a transient episode of <z:hpo ids='HP_0002066'>ataxic gait</z:hpo> and <z:hpo ids='HP_0001260'>dysarthria</z:hpo> is reported </plain></SENT>
+<SENT sid="4" pm="."><plain>Transcranial Doppler showed a stenotic flow in the basilar artery with distal embolic signals </plain></SENT>
+<SENT sid="5" pm="."><plain>Magnetic resonance (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e>) angiography demonstrated an isolated fibromuscular <z:mpath ids='MPATH_589'>dysplasia</z:mpath> of the basilar artery that caused a &gt; 50% stenosis without parenchymal lesions </plain></SENT>
+<SENT sid="6" pm="."><plain>Oral anticoagulation treatment was initiated </plain></SENT>
+<SENT sid="7" pm="."><plain>The control <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e> angiography performed ten months later, and although the patient was asymptomatic, showed a dissection which evolved into a complete occlusion of the basilar artery </plain></SENT>
+<SENT sid="8" pm="."><plain>Its distal portion was filled via a reverse flow from both posterior communicating arteries </plain></SENT>
+<SENT sid="9" pm="."><plain>Anticoagulation treatment was discontinued </plain></SENT>
+<SENT sid="10" pm="."><plain>DISCUSSION: Fibromuscular <z:mpath ids='MPATH_589'>dysplasia</z:mpath> of the basilar artery is a rare and usually asymptomatic disease </plain></SENT>
+<SENT sid="11" pm="."><plain>It may develop into a dissection, but the usual clinical presentation is stenosis-related <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> </plain></SENT>
+<SENT sid="12" pm="."><plain>Intracranial <z:e sem="disease" ids="C0002949" disease_type="Disease or Syndrome;Acquired Abnormality" abbrv="">artery dissections</z:e> may be further complicated by <z:hpo ids='HP_0002138'>subarachnoid hemorrhage</z:hpo> </plain></SENT>
+<SENT sid="13" pm="."><plain>Many authors have recommended <z:chebi fb="3" ids="50249">anticoagulant</z:chebi> therapy for fibromuscular <z:mpath ids='MPATH_589'>dysplasia</z:mpath> </plain></SENT>
+<SENT sid="14" pm="."><plain>Basilar <z:mp ids='MP_0006134'>artery occlusion</z:mp>, as this case shows, does not always convey a poor prognosis </plain></SENT>
+<SENT sid="15" pm="."><plain>This is determined, at least partially, by the presence of good collateral circulation </plain></SENT>
+</text></document>

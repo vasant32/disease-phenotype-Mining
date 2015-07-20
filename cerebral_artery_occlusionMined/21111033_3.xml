@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:chebi fb="0" ids="17154">Nicotinamide</z:chebi> exerts a potent neuroprotective effect against <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e>-induced brain injury </plain></SENT>
+<SENT sid="1" pm="."><plain>We identified proteins that were differentially expressed by <z:chebi fb="0" ids="17154">nicotinamide</z:chebi> treatment in ischemic brain injury </plain></SENT>
+<SENT sid="2" pm="."><plain>Focal <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> was induced by middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (MCAO) </plain></SENT>
+<SENT sid="3" pm="."><plain>Adult male Sprague-Dawley rats were treated with vehicle or <z:chebi fb="0" ids="17154">nicotinamide</z:chebi> (500 mg/kg) 2 h after the <z:hpo ids='HP_0003674'>onset</z:hpo> of MCAO </plain></SENT>
+<SENT sid="4" pm="."><plain>Brains were collected 24 h after MCAO and cerebral cortex regions were isolated </plain></SENT>
+<SENT sid="5" pm="."><plain>Protein spots with different intensities between vehicle- and <z:chebi fb="0" ids="17154">nicotinamide</z:chebi>-treated groups were detected using two-dimensional gel electrophoresis and identified by mass spectrometry </plain></SENT>
+<SENT sid="6" pm="."><plain>Among these proteins, γ-enolase, protein phosphatase 2A (PP2A) subunit B, and peroxiredoxin-2 (Prx-2) were significantly decreased in the vehicle-treated group compared to the <z:chebi fb="0" ids="17154">nicotinamide</z:chebi>-treated group </plain></SENT>
+<SENT sid="7" pm="."><plain>These identified proteins mediate cell differentiation and stabilization, and play a role as <z:chebi fb="11" ids="22586">antioxidant</z:chebi> enzymes </plain></SENT>
+<SENT sid="8" pm="."><plain>In contrast, 60 kDa heat shock protein (Hsp 60) was significantly increased in vehicle-treated animals, while <z:chebi fb="0" ids="17154">nicotinamide</z:chebi> prevented the injury-induced increase of this protein </plain></SENT>
+<SENT sid="9" pm="."><plain>These results suggest that <z:chebi fb="0" ids="17154">nicotinamide</z:chebi> mediates neuroprotective effects by up- and down-regulation of various specific proteins </plain></SENT>
+</text></document>

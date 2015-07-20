@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Perinatal <z:mp ids='MP_0005039'>hypoxia</z:mp>-<z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> (HI) is associated with delayed cerebral damage, which involves receptor-mediated excitotoxicity </plain></SENT>
+<SENT sid="1" pm="."><plain>Until now, successful interventions to reduce excitotoxicity early after HI in experimental settings failed to transform into clinical applications owing to negative side effects </plain></SENT>
+<SENT sid="2" pm="."><plain>A promising new approach using the <z:chebi fb="0" ids="35623">anticonvulsant</z:chebi> Topiramate (TPM) has shown to be effective to reduce brain damage after early HI in a <z:e sem="disease" ids="C1519106" disease_type="Experimental Model of Disease" abbrv="">rodent model</z:e> of combined TPM-<z:hpo ids='HP_0002045'>hypothermia</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>Here, we used TPM solely administered 1 h after HI in a neonatal piglet model in order to verify possible neuroprotection </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS: Newborn piglets were subjected to HI by transient occlusion of carotid arteries and <z:hpo ids='HP_0002615'>hypotension</z:hpo> (62-65% of baseline) </plain></SENT>
+<SENT sid="5" pm="."><plain>Fifteen minutes later, an additional reduction of the inspired oxygen fraction to 0.06 was performed for 13 min </plain></SENT>
+<SENT sid="6" pm="."><plain>One cohort (VEHICLE, n = 8) received saline solution i.v </plain></SENT>
+<SENT sid="7" pm="."><plain>1 h after HI and then twice a day </plain></SENT>
+<SENT sid="8" pm="."><plain>Two further cohorts were treated at same times with TPM (HI-TPM10, n = 8, loading dose 20 mg/kg; maintenance dose 10 mg/kg/day; HI-TPM20, n = 8, loading dose 50 mg/kg; maintenance dose 20 mg/kg/day) </plain></SENT>
+<SENT sid="9" pm="."><plain>Untreated animals (CONTROL, n = 8) received <z:hpo ids='HP_0000001'>all</z:hpo> experimental procedures except HI </plain></SENT>
+<SENT sid="10" pm="."><plain>Animals were monitored 3 days after HI concerning occurrence of <z:hpo ids='HP_0001250'>seizures</z:hpo> as well as neurological and behavioral functions </plain></SENT>
+<SENT sid="11" pm="."><plain>After 72 h, the brains were perfused and processed to assess <z:hpo ids='HP_0002529'>neuronal loss</z:hpo> and DNA-fragments (TUNEL staining) </plain></SENT>
+<SENT sid="12" pm="."><plain>RESULTS: There was a significant reduction of neuronal cell loss in HI-TPM20 animals </plain></SENT>
+<SENT sid="13" pm="."><plain>However, <z:mpath ids='MPATH_3'>apoptosis</z:mpath> was increased in the frontal white matter of HI-TPM20 animals </plain></SENT>
+<SENT sid="14" pm="."><plain>CONCLUSIONS: Exclusive TPM treatment shows neuroprotection in newborn piglets after HI </plain></SENT>
+</text></document>

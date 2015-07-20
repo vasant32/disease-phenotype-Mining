@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: The G-protein-coupled receptor GPR40 is expressed in pancreatic beta-cells and is activated by <z:chebi fb="0" ids="15904">long-chain fatty acids</z:chebi> </plain></SENT>
+<SENT sid="1" pm="."><plain>Gene deletion studies have shown that GPR40 mediates, at least in part, fatty acid-amplification of <z:chebi fb="105" ids="17234">glucose</z:chebi>-induced insulin secretion (GSIS) but is not implicated in GSIS itself </plain></SENT>
+<SENT sid="2" pm="."><plain>However, the role of GPR40 in the long-term effects of fatty acids on insulin secretion remains controversial </plain></SENT>
+<SENT sid="3" pm="."><plain>This study aimed to test the hypothesis that GPR40 plays a role in insulin secretion after high-fat feeding </plain></SENT>
+<SENT sid="4" pm="."><plain>RESEARCH DESIGN AND METHOD GPR40 knockout (KO) mice on a C57BL/6 background and their <z:mp ids='MP_0002169'>wild-type</z:mp> (WT) littermates were fed a high-fat diet (HFD) for 11 weeks </plain></SENT>
+<SENT sid="5" pm="."><plain><z:chebi fb="105" ids="17234">Glucose</z:chebi> tolerance, insulin tolerance, and insulin secretion in response to <z:chebi fb="105" ids="17234">glucose</z:chebi> and Intralipid were assessed during the course of the diet period </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: GPR40 KO mice had fasting <z:hpo ids='HP_0003074'>hyperglycemia</z:hpo> </plain></SENT>
+<SENT sid="7" pm="."><plain>They became as <z:mp ids='MP_0001261'>obese</z:mp>, <z:chebi fb="105" ids="17234">glucose</z:chebi> intolerant, and insulin resistant as their WT littermates given HFD and developed a similar degree of <z:hpo ids='HP_0001397'>liver steatosis</z:hpo> </plain></SENT>
+<SENT sid="8" pm="."><plain>Their fasting blood <z:chebi fb="105" ids="17234">glucose</z:chebi> levels increased earlier than those of control mice during the course of the HFD </plain></SENT>
+<SENT sid="9" pm="."><plain>The remarkable increase in insulin secretory responses to intravenous <z:chebi fb="105" ids="17234">glucose</z:chebi> and Intralipid seen in WT mice after HFD was of much lower magnitude in GPR40 KO mice </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSIONS: GPR40 plays a role not only in fatty acid modulation of insulin secretion, but also in GSIS after high-fat feeding </plain></SENT>
+<SENT sid="11" pm="."><plain>These observations raise doubts on the validity of a therapeutic approach based on GPR40 antagonism for the treatment of type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+</text></document>

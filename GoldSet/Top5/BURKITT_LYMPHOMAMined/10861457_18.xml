@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The recombinant immunotoxins anti-Tac(Fv)-PE38 (LMB-2), targeting the interleukin-2 receptor alpha subunit (IL-2Ralpha, Tac or CD25), and RFB4(dsFv)-PE38 (BL22), targeting CD22, are being evaluated in clinical trials as treatment for <z:e sem="disease" ids="C0376545" disease_type="Neoplastic Process" abbrv="">hematologic malignancies</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>The toxin moiety Pseudomonas exotoxin A (PE) of these recombinant molecules leads to the arrest of protein synthesis due to inactivation of elongation factor 2 </plain></SENT>
+<SENT sid="2" pm="."><plain>Here, we provide evidence that cell lines derived from patients with <z:e sem="disease" ids="C0376545" disease_type="Neoplastic Process" abbrv="">hematologic malignancies</z:e> react to immunotoxins not only with inhibition of protein synthesis but also with characteristic hallmarks of <z:mpath ids='MPATH_3'>apoptosis</z:mpath> such as caspase activation, cleavage of the "<z:hpo ids='HP_0011420'>death</z:hpo> substrate poly(<z:chebi fb="13" ids="16761">ADP</z:chebi>)-<z:chebi fb="1" ids="33942">ribose</z:chebi> polymerase and DNA laddering </plain></SENT>
+<SENT sid="3" pm="."><plain>Anti-Tac(Fv)-PE38 leads to a 10-fold increase in the cleavage of the fluorescent substrate DEVD-AFC, suggesting that a caspase-3-like enzyme is involved </plain></SENT>
+<SENT sid="4" pm="."><plain>This was verified by cleavage of caspase-3 (CPP32) </plain></SENT>
+<SENT sid="5" pm="."><plain>MT1 cells exhibited DNA laddering after treatment with immunotoxin, which was reversed by pre-treatment with the <z:chebi fb="0" ids="37670">protease inhibitor</z:chebi> zVAD-fmk </plain></SENT>
+<SENT sid="6" pm="."><plain>This caspase inhibitor led to an at least 5-fold improvement in cell viability without altering inhibition of protein synthesis </plain></SENT>
+<SENT sid="7" pm="."><plain>Interestingly, HUT-102 cells did not undergo programmed cell <z:hpo ids='HP_0011420'>death</z:hpo> after exposure to immunotoxins that kill these cells </plain></SENT>
+<SENT sid="8" pm="."><plain>We conclude that immunotoxins may be valuable in the treatment of <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancers</z:e> that are resistant toward <z:mpath ids='MPATH_3'>apoptosis</z:mpath> because their targeted killing is often facilitated by, but not completely dependent on, programmed cell <z:hpo ids='HP_0011420'>death</z:hpo> </plain></SENT>
+<SENT sid="9" pm="."><plain>Int </plain></SENT>
+<SENT sid="10" pm="."><plain>J </plain></SENT>
+<SENT sid="11" pm="."><plain><z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">Cancer</z:e> 87:86-94, 2000 </plain></SENT>
+<SENT sid="12" pm="."><plain>Published 2000 Wiley-Liss, Inc </plain></SENT>
+</text></document>

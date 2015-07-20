@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Motor function in type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> is largely unknown </plain></SENT>
+<SENT sid="1" pm="."><plain>In 36 type 2 diabetic patients and in 36 control subjects matched for sex, age, weight, height, and physical activity, strength of flexors and extensors at elbow, wrist, knee, and ankle was assessed at isokinetic dynamometry </plain></SENT>
+<SENT sid="2" pm="."><plain>The degree of <z:e sem="disease" ids="C0442874" disease_type="Disease or Syndrome" abbrv="">neuropathy</z:e> was determined by clinical scores, nerve conduction studies, and quantitative sensory testing </plain></SENT>
+<SENT sid="3" pm="."><plain>Eventually, <z:hpo ids='HP_0000001'>all</z:hpo> results were summed to obtain a <z:e sem="disease" ids="C0442874" disease_type="Disease or Syndrome" abbrv="">neuropathy</z:e> rank-sum score (NRSS) </plain></SENT>
+<SENT sid="4" pm="."><plain>The degree of <z:hpo ids='HP_0000112'>nephropathy</z:hpo> and <z:chebi fb="46" ids="15035">retinal</z:chebi> condition were also evaluated </plain></SENT>
+<SENT sid="5" pm="."><plain>Diabetic patients had a 17 and 14% reduction of strength of ankle flexors (P &lt; 0.02) and ankle extensors (P &lt; 0.03), respectively </plain></SENT>
+<SENT sid="6" pm="."><plain>At the knee, strength of extensors and flexors was reduced by 7% (NS) and 14% (P &lt; 0.05), respectively </plain></SENT>
+<SENT sid="7" pm="."><plain>At the elbow and wrist, muscle strength was preserved </plain></SENT>
+<SENT sid="8" pm="."><plain>The NRSS was related to the strength at the ankle (r = -0.45, P &lt; 0.01) and knee (r = -0.42, P &lt; 0.02) </plain></SENT>
+<SENT sid="9" pm="."><plain>Following multiple regression analysis, the NRSS but not the degree of <z:hpo ids='HP_0000112'>nephropathy</z:hpo> or <z:hpo ids='HP_0000488'>retinopathy</z:hpo> was related to strength at the ankle and knee </plain></SENT>
+<SENT sid="10" pm="."><plain>In conclusion, type 2 diabetic patients may have <z:hpo ids='HP_0001324'>muscle weakness</z:hpo> at the ankle and knee related to presence and severity of <z:hpo ids='HP_0009830'>peripheral neuropathy</z:hpo> </plain></SENT>
+</text></document>

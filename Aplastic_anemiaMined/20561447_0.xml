@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>After treating with chemotherapy or <z:chebi fb="1" ids="35705">immunosuppressant</z:chebi>, malignant <z:e sem="disease" ids="C0018939" disease_type="Disease or Syndrome" abbrv="">diseases of hematopoietic system</z:e> such as <z:hpo ids='HP_0001909'>leukemia</z:hpo>, malignant <z:hpo ids='HP_0002665'>lymphoma</z:hpo> and <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> usually induced severe <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infection</z:e> such as <z:hpo ids='HP_0100806'>sepsis</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain><z:hpo ids='HP_0100806'>Sepsis</z:hpo> which is hard to be diagnosed causes high <z:hpo ids='HP_0011420'>death</z:hpo> rate </plain></SENT>
+<SENT sid="2" pm="."><plain>This study was purposed to establish an experimental <z:hpo ids='HP_0100806'>sepsis</z:hpo> mouse model so as to provide a basis for pathogenesis and intervention study </plain></SENT>
+<SENT sid="3" pm="."><plain>A classic caecal ligation and puncture (CLP) was used to establish experimental <z:hpo ids='HP_0100806'>sepsis</z:hpo> model </plain></SENT>
+<SENT sid="4" pm="."><plain>ELISA was used to detect levels of C5a, IL-6, TNFalpha, and IFN-gamma </plain></SENT>
+<SENT sid="5" pm="."><plain>Flow Cytometry was applied to measure <z:mpath ids='MPATH_3'>apoptosis</z:mpath> of lymphocytes in thymus and mesentery </plain></SENT>
+<SENT sid="6" pm="."><plain>The pathologic changes of thymus and spleen were confirmed by HE staining </plain></SENT>
+<SENT sid="7" pm="."><plain>The results showed that almost 70%-80% mice died at 72 hours after CLP </plain></SENT>
+<SENT sid="8" pm="."><plain>Only approximate 20% animal survived during finite time, mice in CLP group had significant weight lose </plain></SENT>
+<SENT sid="9" pm="."><plain>Meanwhile large release of different <z:mp ids='MP_0002501'>inflammatory mediators</z:mp> which are related with <z:hpo ids='HP_0100806'>sepsis</z:hpo> (C5a, IL-6, TNF-alpha, and IFN-gamma) was observed after CLP </plain></SENT>
+<SENT sid="10" pm="."><plain><z:mpath ids='MPATH_3'>Apoptosis</z:mpath> of lymphocytes in thymus and mesentery lymphonodus was enhanced markedly after CLP </plain></SENT>
+<SENT sid="11" pm="."><plain>Significantly pathologic injury was also observed in thymus and spleen </plain></SENT>
+<SENT sid="12" pm="."><plain>It is concluded that a mouse model of experimental <z:hpo ids='HP_0100806'>sepsis</z:hpo> was successfully established by caecal ligation and puncture which can well mimic the clinical symptom of <z:hpo ids='HP_0100806'>sepsis</z:hpo> </plain></SENT>
+<SENT sid="13" pm="."><plain>The experimental <z:hpo ids='HP_0100806'>sepsis</z:hpo> mouse model provides an excellent tool for exploring the pathogenesis and intervention ways for <z:hpo ids='HP_0100806'>sepsis</z:hpo> accompanied with complicated malignant <z:e sem="disease" ids="C0018939" disease_type="Disease or Syndrome" abbrv="">hematological diseases</z:e> in vivo </plain></SENT>
+</text></document>

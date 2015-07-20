@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PURPOSE: A population pharmacokinetic model was developed to describe dose-exposure relationships of <z:chebi fb="0" ids="44185">methotrexate</z:chebi> (MTX) in adults with lymphoid <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">malignancy</z:e>; this is in order to explore the interindividual variability in relationship with the different physiopathological variables </plain></SENT>
+<SENT sid="1" pm="."><plain>The final model was applied to the Bayesian estimation of MTX concentrations using two blood samples </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: Fifty-one patients receiving 136 courses of MTX (1-6 per patient) were included in this study </plain></SENT>
+<SENT sid="3" pm="."><plain>The data was analysed using NONMEM software </plain></SENT>
+<SENT sid="4" pm="."><plain>A linear two-compartment model with linear elimination best described the data </plain></SENT>
+<SENT sid="5" pm="."><plain>Setting mean parameters values and variabilities to population values, we obtained Bayesian prediction of MTX pharmacokinetic parameters and concentrations </plain></SENT>
+<SENT sid="6" pm="."><plain>The predictive performance was evaluated by comparing the Bayesian estimated and observed concentrations and the Bayesian estimated parameters with the individual final model estimated parameters </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: The population pharmacokinetic parameters and the inter-subject variablities expressed as coefficient of variation were: the total body clearance CL, 7.1 l h-1 (22%), the volume of the central and peripheral compartments V1, 25.1 l (22.5%), V2, 2.7 l (64%), respectively, and the transfer constant Q, 2.7 (51%) l h-1 </plain></SENT>
+<SENT sid="8" pm="."><plain>Inter-course variability was only significant on CL </plain></SENT>
+<SENT sid="9" pm="."><plain>Age and serum <z:chebi fb="0" ids="16737">creatinine</z:chebi> had significant effects on CL and was included in the final model </plain></SENT>
+<SENT sid="10" pm="."><plain>A good correlation was obtained between Bayesian estimated and experimental concentrations (r2=0.85) </plain></SENT>
+</text></document>

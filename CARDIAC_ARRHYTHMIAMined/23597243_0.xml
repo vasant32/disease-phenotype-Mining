@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>INTRODUCTION: A quality-improvement project was conducted to reduce severe pain and stress-related events while moving ICU-patients </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: The Plan-Do-Check-Adjust cycle was studied during four one-month phases, separated by five-month interphases </plain></SENT>
+<SENT sid="2" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> consecutive patients staying more than 24 hours were evaluated every morning while being moved for nursing care (bathing, massage, sheet-change, repositioning) </plain></SENT>
+<SENT sid="3" pm="."><plain>Phase 1 was considered as the baseline </plain></SENT>
+<SENT sid="4" pm="."><plain>Implemented and adjusted quality-interventions were assessed at phases 2 and 3, respectively </plain></SENT>
+<SENT sid="5" pm="."><plain>An independent post-intervention control-audit was performed at Phase 4 </plain></SENT>
+<SENT sid="6" pm="."><plain>Primary-endpoints were the incidence of severe pain defined by a behavioral pain scale &gt;5 or a 0 to 10 visual numeric rating scale &gt;6, and the incidence of serious adverse events (SAE): <z:hpo ids='HP_0001695'>cardiac arrest</z:hpo>, <z:hpo ids='HP_0011675'>arrhythmias</z:hpo>, <z:hpo ids='HP_0001649'>tachycardia</z:hpo>, <z:hpo ids='HP_0001662'>bradycardia</z:hpo>, <z:hpo ids='HP_0000822'>hypertension</z:hpo>, <z:hpo ids='HP_0002615'>hypotension</z:hpo>, desaturation, <z:mp ids='MP_0005574'>bradypnea</z:mp> or ventilatory distress </plain></SENT>
+<SENT sid="7" pm="."><plain>Pain, SAE, patients' characteristics and <z:mp ids='MP_0004270'>analgesia</z:mp> were compared among the phases by a multivariate mixed-effects model for repeated-measurements, adjusted on severity index, age, admission type (medical/surgical), intubation and sedation status </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: During the four studied phases, 630 care procedures were analyzed in 53, 47, 43 and 50 patients, respectively </plain></SENT>
+<SENT sid="9" pm="."><plain>Incidence of severe pain decreased significantly from 16% (baseline) to 6% in Phase 3 (odds ratio (OR) = 0.33 (0.11; 0.98), P = 0.04) and 2% in Phase 4 (OR = 0.30 (0.12; 0.95), P = 0.02) </plain></SENT>
+<SENT sid="10" pm="."><plain>Incidence of SAE decreased significantly from 37% (baseline) to 17% in Phase 3 and 21% in Phase 4 </plain></SENT>
+<SENT sid="11" pm="."><plain>In multivariate analysis, SAE were independently associated with Phase 3 (OR = 0.40 (0.23; 0.72), P &lt;0.01), Phase 4 (OR = 0.53 (0.30; 0.92), P = 0.03), intubation status (OR = 1.91 (1.28; 2.85), P &lt;0.01) and severe pain (OR = 2.74 (1.54; 4.89), P &lt;0.001) </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: Severe pain and serious adverse events are common and strongly associated while moving ICU patients for nursing procedures </plain></SENT>
+<SENT sid="13" pm="."><plain>Quality improvement of pain management is associated with a decrease of serious adverse events </plain></SENT>
+<SENT sid="14" pm="."><plain>Careful documentation of pain management during mobilization for nursing procedures could be implemented as a health quality indicator in the ICU </plain></SENT>
+</text></document>

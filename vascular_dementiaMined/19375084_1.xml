@@ -1,0 +1,23 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:chebi fb="0" ids="27690">Acetazolamide</z:chebi> vasoreactive test measures the increment of cerebral blood flow caused by compensatory vasodilatation ability of cerebral vessels which can be detected by transcranial Doppler ultrasound (TCD) </plain></SENT>
+<SENT sid="1" pm="."><plain>This study aimed to compare the vascular reactivity in patients with vascular <z:hpo ids='HP_0000726'>dementia</z:hpo> (VaD) and <z:e sem="disease" ids="C0002395" disease_type="Disease or Syndrome" abbrv="SDAT">Alzheimer's disease</z:e> (AD) </plain></SENT>
+<SENT sid="2" pm="."><plain>PATIENTS AND METHODS: AD and VaD patients were recruited from the King Chulalongkorn Hospital <z:hpo ids='HP_0000726'>Dementia</z:hpo> Clinic </plain></SENT>
+<SENT sid="3" pm="."><plain>Thai Mini-mental State Examination was used for <z:hpo ids='HP_0000726'>dementia</z:hpo> detection </plain></SENT>
+<SENT sid="4" pm="."><plain>AD and possible VaD were defined by NINCDS/ADRDA and NINDS-AIREN criteria </plain></SENT>
+<SENT sid="5" pm="."><plain>Patients with extracranial carotid <z:mp ids='MP_0006135'>artery stenosis</z:mp> &gt;50% and intracranial <z:mp ids='MP_0006135'>artery stenosis</z:mp> were excluded </plain></SENT>
+<SENT sid="6" pm="."><plain>TCD examination was performed using DWL Multi Dop-T </plain></SENT>
+<SENT sid="7" pm="."><plain>TCD was performed on <z:chebi fb="70" ids="34342">MCA</z:chebi> with insonation depth between 45 and 60 mm </plain></SENT>
+<SENT sid="8" pm="."><plain>Baseline end diastolic velocity (EDV), mid systolic velocity (MSV) and peak systolic velocity (PSV) were recorded </plain></SENT>
+<SENT sid="9" pm="."><plain>The velocities were obtained at 2, 5, 10 and 20 min after <z:chebi fb="0" ids="27690">acetazolamide</z:chebi> (1000 mg) injection </plain></SENT>
+<SENT sid="10" pm="."><plain>Mean baseline velocities (Vo) and velocities after <z:chebi fb="0" ids="27690">acetazolamide</z:chebi> injection (Va) were compared </plain></SENT>
+<SENT sid="11" pm="."><plain>Percentage of mean increment velocities was calculated {[(Va-Vo)/Vo]x100%} </plain></SENT>
+<SENT sid="12" pm="."><plain>Percentage differences of mean velocity change from Vo to Va at each recorded minute were compared </plain></SENT>
+<SENT sid="13" pm="."><plain>SPSS for Windows version 11.5.0. was used </plain></SENT>
+<SENT sid="14" pm="."><plain>RESULT: Nine AD (5 males) and 9 VaD (6 males) were selected </plain></SENT>
+<SENT sid="15" pm="."><plain>Average ages of VaD and AD groups were 66.11 years-old and 75.22 years-old respectively </plain></SENT>
+<SENT sid="16" pm="."><plain>Mini-mental State Examination (MMSE) score in VaD and AD were 21.13 and 19.00 </plain></SENT>
+<SENT sid="17" pm="."><plain>Mean baseline EDV and MSV in VaD were higher than AD but mean PSV was lower </plain></SENT>
+<SENT sid="18" pm="."><plain>The percentage of velocity change after <z:chebi fb="0" ids="27690">acetazolamide</z:chebi> in AD was higher than VaD at 5, 10 and 20 min </plain></SENT>
+<SENT sid="19" pm="."><plain>However the differences were not statistically significant </plain></SENT>
+<SENT sid="20" pm="."><plain>CONCLUSION: <z:chebi fb="0" ids="27690">Acetazolamide</z:chebi> vasoreactive test using TCD may be the additional criterion to differentiate VaD from AD </plain></SENT>
+<SENT sid="21" pm="."><plain>Further study with more number of subjects for the study or higher dose of <z:chebi fb="0" ids="27690">acetazolamide</z:chebi> may be needed to reveal the significant difference of vasoreactive response between VaD and AD patients </plain></SENT>
+</text></document>

@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: The phototherapeutic effects of low level infrared laser irradiation (808 nm) on brain neuronal cell protection after <z:hpo ids='HP_0001297'>stroke</z:hpo> have been presented recently </plain></SENT>
+<SENT sid="1" pm="."><plain>We previously reported that 710-nm wavelength visible light (VIS) increases total lymphocyte counts in vivo, especially CD4(+) T lymphocytes </plain></SENT>
+<SENT sid="2" pm="."><plain>In this study, we investigated the effects of 710-nm VIS irradiation on neuronal protection and recovery correlating with cellular immunity in <z:hpo ids='HP_0001297'>stroke</z:hpo> rats </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: Rats were subjected to 90-min middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (MCAO) followed by reperfusion and were divided into two groups: irradiation and no irradiation </plain></SENT>
+<SENT sid="4" pm="."><plain>The irradiation group had been exposed to 710-nm VIS for 3 weeks after MCAO establishment or sham operation </plain></SENT>
+<SENT sid="5" pm="."><plain>The helper T cell (CD4(+)) count in the whole blood and <z:mpath ids='MPATH_124'>infarct</z:mpath> volume were measured </plain></SENT>
+<SENT sid="6" pm="."><plain><z:chebi fb="5" ids="33699">Messenger RNA</z:chebi> expression levels of IL-4 and IL-10 in peripheral blood mononuclear cells were measured, a histologic study including microglia activation and regulatory T (Treg) cell markers, neurological severity scoring and a parallel bar walking test were <z:hpo ids='HP_0000001'>all</z:hpo> performed </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: CD4(+) cell count was reduced after MCAO but was significantly increased by 710-nm VIS irradiation </plain></SENT>
+<SENT sid="8" pm="."><plain>The <z:mpath ids='MPATH_124'>infarct</z:mpath> sizes were decreased in the MCAO + irradiation group compared with the MCAO control group </plain></SENT>
+<SENT sid="9" pm="."><plain>IL-10 mRNA expression and the immunoreactivity of Treg cells were increased in the MCAO + irradiation group compared with the MCAO control group </plain></SENT>
+<SENT sid="10" pm="."><plain>Increased microglia activation after MCAO was reduced by 710-nm VIS irradiation </plain></SENT>
+<SENT sid="11" pm="."><plain>The irradiation group also showed improved neurological severity score levels and step fault scores after MCAO </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: Our data suggest that 710-nm VIS irradiation may activate cellular immunity, reduce <z:e sem="disease" ids="C0751955" disease_type="Disease or Syndrome" abbrv="">brain infarction</z:e> and ultimately induce functional recovery in a <z:hpo ids='HP_0001297'>stroke</z:hpo> animal model </plain></SENT>
+</text></document>

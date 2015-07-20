@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIMS: The aim of this study is to develop a new feature for automatic biventricular capture verification in cardiac resynchronization therapy (CRT) devices, by means of morphological analysis of the intracardiac electrogram (IEGM).METHODS AND RESULTS: The algorithm performs capture classification based on a novel adaptive signed correlation index (ASCI), which measures morphological similarity between the post-pace IEGM and a template waveform representing captured paces </plain></SENT>
+<SENT sid="1" pm="."><plain>To evaluate the performance of the algorithm, CRT pacemakers were implanted in six dogs </plain></SENT>
+<SENT sid="2" pm="."><plain>During a mean follow-up of 23 days, 175 biventricular threshold tests were conducted with various configurations of pace/sense polarities </plain></SENT>
+<SENT sid="3" pm="."><plain>Biventricular IEGMs were recorded and downloaded for offline analysis </plain></SENT>
+<SENT sid="4" pm="."><plain>Template signals for each pace/sense configuration in each chamber were created for individual dogs during the first follow-up </plain></SENT>
+<SENT sid="5" pm="."><plain>Each pace was annotated for capture or non-capture by visual examination of the IEGM </plain></SENT>
+<SENT sid="6" pm="."><plain>A total of 9991 capture paces and 4474 non-capture paces were included for morphological analysis </plain></SENT>
+<SENT sid="7" pm="."><plain>The calculated ASCI values were well separated for capture and non-capture paces irrespective of right/left pacing chambers, pace/sense configurations, pacing amplitude, individual dogs, and temporal proximity of the capture templates </plain></SENT>
+<SENT sid="8" pm="."><plain>Overall, the classification accuracy of the algorithm remained ≥99% for any ASCI cut-off value choosing between 0.18 and 0.52.CONCLUSION: This study demonstrated the feasibility to perform automatic biventricular capture verification based on morphological analysis of the IEGM </plain></SENT>
+</text></document>

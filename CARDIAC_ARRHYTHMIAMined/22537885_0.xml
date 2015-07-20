@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: There are limited data regarding national patterns of pharmacotherapy for <z:hpo ids='HP_0005110'>atrial fibrillation</z:hpo> (AF) among older patients </plain></SENT>
+<SENT sid="1" pm="."><plain>Drug exposure data are now captured for Medicare beneficiaries enrolled in prescription drug plans </plain></SENT>
+<SENT sid="2" pm="."><plain>OBJECTIVE: To describe pharmacotherapy for AF among Medicare beneficiaries </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: By using a 5% national sample of Medicare claims data, we compared demographic characteristics, comorbidity, and treatment patterns according to Medicare Part D status among patients with prevalent AF in 2006 and 2007 </plain></SENT>
+<SENT sid="4" pm="."><plain>RESULTS: In 2006, 27,174 patients (29.3%) with prevalent AF were enrolled in Medicare Part D </plain></SENT>
+<SENT sid="5" pm="."><plain>In 2007, enrollment increased to 45,711 (49.1%) </plain></SENT>
+<SENT sid="6" pm="."><plain>Most enrollees were taking rate-control agents (74.0% in 2007). β-Blocker use was higher in those with concomitant AF and <z:hpo ids='HP_0001635'>heart failure</z:hpo> and increased with higher CHADS(2) scores (P &lt;.001) </plain></SENT>
+<SENT sid="7" pm="."><plain>Antiarrhythmic use was 18.7% in 2006 and 19.1% in 2007, with <z:chebi fb="0" ids="2663">amiodarone</z:chebi> accounting for more than 50% </plain></SENT>
+<SENT sid="8" pm="."><plain>Class Ic drugs were used in 3.2% of the patients in 2007 </plain></SENT>
+<SENT sid="9" pm="."><plain><z:chebi fb="8" ids="10033">Warfarin</z:chebi> use was &lt;60% and declined with increasing <z:hpo ids='HP_0001297'>stroke</z:hpo> risk (P &lt;.001) </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSION: Pharmacotherapy for AF varied according to comorbidity and underlying risk </plain></SENT>
+<SENT sid="11" pm="."><plain><z:chebi fb="0" ids="2663">Amiodarone</z:chebi> was the most commonly prescribed antiarrhythmic agent </plain></SENT>
+<SENT sid="12" pm="."><plain>Postmarketing surveillance using Medicare Part D claims data linked to clinical data may help inform comparative safety, effectiveness, and net clinical benefit of drug therapy for AF in older patients in real-world settings </plain></SENT>
+</text></document>

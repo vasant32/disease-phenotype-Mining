@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Protein arginine methyltransferase 3 (PRMT3) is a cytosolic enzyme that catalyzes the formation of mono- and asymmetric dimethyl arginines, with ribosomal protein (RP) S2 as its main in vivo substrate </plain></SENT>
+<SENT sid="1" pm="."><plain>The interplay of PRMT3-RPS2 homologs in yeast is important for regulating the ribosomal subunit ratio and assembly </plain></SENT>
+<SENT sid="2" pm="."><plain>Prmt3-null mice display slower embryonic growth and development, although this phenotype is milder than in mouse RP gene knockouts </plain></SENT>
+<SENT sid="3" pm="."><plain>Defects in ribosome maturation are the hallmark of Diamond-Blackfan <z:hpo ids='HP_0001903'>anemia</z:hpo> (<z:chebi fb="28" ids="35299">DBA</z:chebi>) </plain></SENT>
+<SENT sid="4" pm="."><plain>Sequencing of the PRMT3 gene in patients from the Czech <z:chebi fb="28" ids="35299">DBA</z:chebi> registry revealed a heterozygous mutation encoding the Tyr87Cys substitution </plain></SENT>
+<SENT sid="5" pm="."><plain>Although later analysis excluded this mutation as the cause of disease, we anticipated that this substitution might be important for PRMT3 function and decided to study it in detail </plain></SENT>
+<SENT sid="6" pm="."><plain>Tyr87 resides in a highly conserved substrate binding domain and has been predicted to be phosphorylated </plain></SENT>
+<SENT sid="7" pm="."><plain>To address the impact of putative Tyr87 phosphorylation on PRMT3 properties, we constructed two additional PRMT3 variants, Tyr87Phe and Tyr87Glu PRMT3, mimicking non-phosphorylated and phosphorylated Tyr87, respectively </plain></SENT>
+<SENT sid="8" pm="."><plain>The Tyr87Cys and Tyr87Glu-PRMT3 variants had markedly decreased affinity to RPS2 and, consequently, reduced enzymatic activity compared to the <z:mp ids='MP_0002169'>wild-type</z:mp> enzyme </plain></SENT>
+<SENT sid="9" pm="."><plain>The activity of the Tyr87Phe-PRMT3 mutant remained unaffected </plain></SENT>
+<SENT sid="10" pm="."><plain>No evidence of Tyr87 phosphorylation was found using mass spectrometric analysis of purified PRMT3, although phosphorylation of serines 25 and 27 was observed </plain></SENT>
+<SENT sid="11" pm="."><plain>In conclusion, Tyr87 is important for the interaction between PRMT3 and RPS2 and for its full enzymatic activity </plain></SENT>
+</text></document>

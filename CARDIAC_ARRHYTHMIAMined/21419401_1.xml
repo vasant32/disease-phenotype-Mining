@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Supervised classification algorithms are commonly used in the designing of computer-aided diagnosis systems </plain></SENT>
+<SENT sid="1" pm="."><plain>In this study, we present a resampling strategy based Random Forests (RF) ensemble classifier to improve diagnosis of <z:hpo ids='HP_0011675'>cardiac arrhythmia</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>Random forests is an ensemble classifier that consists of many decision trees and outputs the class that is the mode of the class's output by individual trees </plain></SENT>
+<SENT sid="3" pm="."><plain>In this way, an RF ensemble classifier performs better than a single tree from classification performance point of view </plain></SENT>
+<SENT sid="4" pm="."><plain>In general, multiclass datasets having unbalanced distribution of sample sizes are difficult to analyze in terms of class discrimination </plain></SENT>
+<SENT sid="5" pm="."><plain><z:hpo ids='HP_0011675'>Cardiac arrhythmia</z:hpo> is such a dataset that has multiple classes with small sample sizes and it is therefore adequate to test our resampling based training strategy </plain></SENT>
+<SENT sid="6" pm="."><plain>The dataset contains 452 samples in fourteen types of <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> and eleven of these classes have sample sizes less than 15 </plain></SENT>
+<SENT sid="7" pm="."><plain>Our diagnosis strategy consists of two parts: (i) a correlation based feature selection algorithm is used to select relevant features from <z:hpo ids='HP_0011675'>cardiac arrhythmia</z:hpo> dataset </plain></SENT>
+<SENT sid="8" pm="."><plain>(ii) RF machine learning algorithm is used to evaluate the performance of selected features with and without simple random sampling to evaluate the efficiency of proposed training strategy </plain></SENT>
+<SENT sid="9" pm="."><plain>The resultant accuracy of the classifier is found to be 90.0% and this is a quite high diagnosis performance for <z:hpo ids='HP_0011675'>cardiac arrhythmia</z:hpo> </plain></SENT>
+<SENT sid="10" pm="."><plain>Furthermore, three case studies, i.e., thyroid, cardiotocography and audiology, are used to benchmark the effectiveness of the proposed method </plain></SENT>
+<SENT sid="11" pm="."><plain>The results of experiments demonstrated the efficiency of random sampling strategy in training RF ensemble classification algorithm </plain></SENT>
+</text></document>

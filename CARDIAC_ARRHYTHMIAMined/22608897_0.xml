@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: A recently developed risk score model aims to predict appropriate implantable cardioverter defibrillator (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">ICD</z:e>) therapy for primary prevention of <z:hpo ids='HP_0001645'>sudden cardiac death</z:hpo> in <z:hpo ids='HP_0001636'>tetralogy of Fallot</z:hpo> (TOF) </plain></SENT>
+<SENT sid="1" pm="."><plain>We assessed the validity of the proposed risk score model </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: Patients included in a retrospective international cohort were stratified according to the risk score system </plain></SENT>
+<SENT sid="3" pm="."><plain>Risk factors were prior shunt, inducible sustained <z:hpo ids='HP_0004756'>ventricular tachycardia</z:hpo>, QRS≥180ms, ventriculotomy incision, nonsustained <z:hpo ids='HP_0004756'>ventricular tachycardia</z:hpo> (NSVT) and left ventricular end-diastolic pressure≥12mmHg (LVEDP) </plain></SENT>
+<SENT sid="4" pm="."><plain>Left ventricular ejection fraction ≤35% measured by means of echocardiography was used because LVEDP values were incomplete in our cohort </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: Thirty-six adults had TOF and <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">ICD</z:e> for primary prevention (72% male, mean age 37±12) </plain></SENT>
+<SENT sid="6" pm="."><plain>Seven patients (19%) received appropriate shocks during a median follow-up of 5.5years </plain></SENT>
+<SENT sid="7" pm="."><plain>Of the proposed risk factors only NSVT was associated with appropriate shocks (HR 2.6, CI 1.1-6.0, P=0.02) </plain></SENT>
+<SENT sid="8" pm="."><plain>Patients with asymptomatic NSVT did not receive any appropriate shocks </plain></SENT>
+<SENT sid="9" pm="."><plain>The 8-year Kaplan-Meier estimate from the first appropriate shock was 86%, 78% and 75% for low, intermediate and high risk patients, respectively </plain></SENT>
+<SENT sid="10" pm="."><plain>In this study, the annual rate of appropriate shocks was 4.1% in the high risk group which was considerably lower than that reported by Khairy and colleagues (17.5%) </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: The risk score model of Khairy and colleagues was capable of identifying low versus intermediate/high risk patients </plain></SENT>
+<SENT sid="12" pm="."><plain>However, event rates of lethal <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> were lower in our cohort than previously reported </plain></SENT>
+<SENT sid="13" pm="."><plain>Symptomatic but not asymptomatic NSVT was the sole clinical variable associated with appropriate <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">ICD</z:e> therapy in TOF </plain></SENT>
+</text></document>

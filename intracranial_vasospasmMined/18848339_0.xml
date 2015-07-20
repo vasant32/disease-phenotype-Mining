@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Transcranial doppler (TCD) is a noninvasive and easily repeatable method to measure the blood flow in basal cerebral arteries </plain></SENT>
+<SENT sid="1" pm="."><plain>Mean velocities of red blood cells in basal arteries are related to cerebral blood flow </plain></SENT>
+<SENT sid="2" pm="."><plain>Because of low peripheral resistance in cerebral arteries, diastolic velocity (V(d)) remains positive in cerebral circulation in physiological situations </plain></SENT>
+<SENT sid="3" pm="."><plain>The pulsativity index (PI; <z:mpath ids='MPATH_458'>normal</z:mpath> values for the middle cerebral artery=1.0+/-0.2) and end diastolic velocity (EDV; <z:mpath ids='MPATH_458'>normal</z:mpath> values for the middle cerebral artery=40+/-10 cm/s) give important information to evaluate the resistance status of small downstream arteries </plain></SENT>
+<SENT sid="4" pm="."><plain>A high PI (&gt;1.4) with a low EDV (&lt;20 cm/s) indicates a low blood flow with a high ischemic risk due to low cerebral perfusion pressure </plain></SENT>
+<SENT sid="5" pm="."><plain>TCD can also detect <z:e sem="disease" ids="C0265110" disease_type="Disease or Syndrome" abbrv="">cerebral vasospasm</z:e> after <z:hpo ids='HP_0002138'>subarachnoid hemorrhage</z:hpo>, but sensitivity and specificity for vasospasm diagnosis are low compared to angiography </plain></SENT>
+<SENT sid="6" pm="."><plain>However, a day-to-day increase in arterial blood cell velocities can help determine the vasospasm risk and/or indicate that angiography should be done </plain></SENT>
+</text></document>

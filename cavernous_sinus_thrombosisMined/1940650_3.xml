@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Progress in neuroimaging has led to a considerable change in our knowledge of <z:hpo ids='HP_0005305'>cerebral venous thrombosis</z:hpo> (CVT) </plain></SENT>
+<SENT sid="1" pm="."><plain>Together with a series of 76 cases, a review of literature is presented </plain></SENT>
+<SENT sid="2" pm="."><plain>CVT is a far from negligible variety of <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>It may occur at any age and despite numerous causes (nowadays mostly non infective), the proportion of cases of unknown aetiology remains around 25% </plain></SENT>
+<SENT sid="4" pm="."><plain>Superior sagittal sinus and lateral sinus are the most frequently involved, often associated with cortical vein <z:mp ids='MP_0005048'>thrombosis</z:mp> </plain></SENT>
+<SENT sid="5" pm="."><plain>Cavernous sinus <z:mp ids='MP_0005048'>thrombosis</z:mp> remains the most common form of septic <z:mp ids='MP_0005048'>thrombosis</z:mp> </plain></SENT>
+<SENT sid="6" pm="."><plain><z:mp ids='MP_0005048'>Thrombosis</z:mp> of the galenic system and of cerebellar veins are uncommon </plain></SENT>
+<SENT sid="7" pm="."><plain>The clinical picture is extremely variable with a mixture of focal signs (deficits or <z:hpo ids='HP_0001250'>seizures</z:hpo>) and symptoms of <z:e sem="disease" ids="C0151740" disease_type="Disease or Syndrome" abbrv="">raised intracranial pressure</z:e> </plain></SENT>
+<SENT sid="8" pm="."><plain>The mode of <z:hpo ids='HP_0003674'>onset</z:hpo> is also variable, over hours, days, weeks or months </plain></SENT>
+<SENT sid="9" pm="."><plain>The presentation can thus be very misleading, simulating an arterial <z:hpo ids='HP_0001297'>stroke</z:hpo> or an <z:mpath ids='MPATH_612'>abscess</z:mpath>, an <z:hpo ids='HP_0002383'>encephalitis</z:hpo>, a <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> or a pseudo-<z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> cerebri </plain></SENT>
+<SENT sid="10" pm="."><plain>CT scan is crucial to rule out other conditions and angiography to confirm the diagnosis of <z:hpo ids='HP_0005305'>cerebral venous thrombosis</z:hpo> </plain></SENT>
+<SENT sid="11" pm="."><plain>MRI is very performing since it visualizes the <z:e sem="disease" ids="C0302148,C0087086" disease_type="Disease or Syndrome;Acquired Abnormality" abbrv="">thrombus</z:e> itself and allows a non invasive follow up </plain></SENT>
+<SENT sid="12" pm="."><plain>Most cases have a benign course but mortality is still around 30% in infective cases and 10% in non infective ones </plain></SENT>
+<SENT sid="13" pm="."><plain>Although it has long been debated, the benefit of <z:chebi fb="3" ids="50249">anticoagulant</z:chebi> (<z:chebi fb="5" ids="28304">heparin</z:chebi>) is now well established </plain></SENT>
+</text></document>

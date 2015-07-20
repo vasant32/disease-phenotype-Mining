@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:chebi fb="199" ids="26708">Sodium</z:chebi> phenylbutyrate (PB) is an aromatic fatty acid with <z:chebi fb="0" ids="35610">cytostatic</z:chebi> and differentiating activity against malignant myeloid cells (ID(50), 1-2 mM) </plain></SENT>
+<SENT sid="1" pm="."><plain>Higher doses induce <z:mpath ids='MPATH_3'>apoptosis</z:mpath> </plain></SENT>
+<SENT sid="2" pm="."><plain>Patients with <z:hpo ids='HP_0002863'>myelodysplasia</z:hpo> (n = 11) and <z:hpo ids='HP_0004808'>acute myeloid leukemia</z:hpo> (n = 16) were treated with PB as a 7-day continuous infusion repeated every 28 days in a Phase I dose escalation study </plain></SENT>
+<SENT sid="3" pm="."><plain>The maximum tolerated dose was 375 mg/kg/day; higher doses led to dose-limiting reversible neurocortical toxicity </plain></SENT>
+<SENT sid="4" pm="."><plain>At the maximum tolerated dose, PB was extremely well tolerated, with no significant toxicities; median steady-state plasma concentration at this dose was 0.29 +/- 0.16 mM </plain></SENT>
+<SENT sid="5" pm="."><plain>Although no patients achieved complete or partial remission, four patients achieved hematological improvement (neutrophils in three, platelet transfusion-independence in one) </plain></SENT>
+<SENT sid="6" pm="."><plain>Other patients developed transient increases in neutrophils or platelets and decrements in circulating blasts </plain></SENT>
+<SENT sid="7" pm="."><plain>Monitoring of the percentage of clonal cells using centromere fluorescence in situ hybridization over the course of PB administration showed that hematopoiesis remained clonal </plain></SENT>
+<SENT sid="8" pm="."><plain>Hematological response was often associated with increases in both colony-forming units-granulocyte-macrophage and leukemic colony-forming units </plain></SENT>
+<SENT sid="9" pm="."><plain>PB administration was also associated with increases in fetal erythrocytes </plain></SENT>
+<SENT sid="10" pm="."><plain>These data document the safety of continuous infusion PB and provide preliminary evidence of clinical activity in patients with <z:e sem="disease" ids="C0027022" disease_type="Neoplastic Process" abbrv="MPD">myeloid malignancies</z:e> </plain></SENT>
+</text></document>

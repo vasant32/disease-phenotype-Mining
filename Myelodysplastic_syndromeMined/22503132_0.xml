@@ -1,0 +1,6 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>CD4(pos) T-cell subsets play a role in <z:hpo ids='HP_0002863'>myelodysplastic syndromes</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e>) pathogenesis and may be affected upon 5-<z:chebi fb="0" ids="2038">azacitidine</z:chebi> (Aza) treatment </plain></SENT>
+<SENT sid="1" pm="."><plain>Aza enhanced human T(H)1 frequencies in vitro but not in vivo </plain></SENT>
+<SENT sid="2" pm="."><plain>The proportion of functional FoxP3(pos) regulatory T cells (Treg) was enhanced by Aza in vitro (p &lt; 0.0002), and a modest, temporary increase was observed in vivo (p = 0.08) </plain></SENT>
+<SENT sid="3" pm="."><plain>The overall number of T(H)17 was reduced both in vitro (p &lt; 0.03) and in vivo (p &lt; 0.006), indicating that Aza directly affects CD4(pos) polarization during activation in vitro </plain></SENT>
+<SENT sid="4" pm="."><plain>Upon in vivo treatment in high risk <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> patients, particularly the T(H)17-Treg axis is affected </plain></SENT>
+</text></document>

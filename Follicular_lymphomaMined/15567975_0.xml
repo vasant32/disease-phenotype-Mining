@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Transforming growth factor beta1 (TGFbeta1) induces <z:mpath ids='MPATH_73'>growth arrest</z:mpath> in many cell types, including B lymphocytes </plain></SENT>
+<SENT sid="1" pm="."><plain>The inhibitory action of TGFbeta1 is mediated by the deactivation of kinase complexes </plain></SENT>
+<SENT sid="2" pm="."><plain>The cell-cycle engine is tightly controlled by cyclin-dependent kinase (cdk) inhibitors, which mediate extracellular negative signals, resulting in cell-cycle arrest at different G1 points </plain></SENT>
+<SENT sid="3" pm="."><plain>MATERIAL/METHODS: Our experimental DoHH2 cell line model was derived from a patient with malignant non-Hodgkin's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (NHL) of follicular origin </plain></SENT>
+<SENT sid="4" pm="."><plain>We examined the effect of TGFbeta1 on the expression and phosphorylation of key cell-cycle regulators by immunoprecipitation and immunoblotting </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: After 48 hours of TGFbeta1 (10 ng/ml) treatment, a significantly increased number of DoHH2 cells was retained in G0/G1 phase </plain></SENT>
+<SENT sid="6" pm="."><plain>Our results showed the inhibitory action was associated with hypophosphorylation of pRb on serine 795 (S795) and threonine 373 (T373) </plain></SENT>
+<SENT sid="7" pm="."><plain>We examined the composition of the cdk complexes and the level of cdk inhibitors to explain the inhibitory action of TGFbeta1 on cdk activity </plain></SENT>
+<SENT sid="8" pm="."><plain>Western blotting showed that the total level of the kinase inhibitor p21 (WAF1) increased after TGFbetal treatment </plain></SENT>
+<SENT sid="9" pm="."><plain>Our results indicate that a notably high level of p21(WAF1) was bound to cdk4/6 due to the treatment and that the binding of p21(WAF1) was associated with cyclin D-cdk4/6 complex decomposition </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSIONS: Our investigation of the effect of TGFbetal on cell-cycle progression of a non-Hodgkin's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cell line of follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo> subtype showed that the TGFbeta1-induced <z:mpath ids='MPATH_73'>growth arrest</z:mpath> of malignant B cells was associated with the activation of CIP/KIP family members of cdk inhibitors </plain></SENT>
+</text></document>

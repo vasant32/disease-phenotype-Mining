@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Clues to mechanisms regulating development and <z:mp ids='MP_0002006'>tumorigenesis</z:mp> may be provided by studies of unusual diseases </plain></SENT>
+<SENT sid="1" pm="."><plain>Beckwit-<z:e sem="disease" ids="C0004903" disease_type="Disease or Syndrome;Congenital Abnormality" abbrv="">Wiedemann syndrome</z:e> (BWS) is a rare <z:e sem="disease" ids="C0242354" disease_type="Disease or Syndrome" abbrv="">congenital disorder</z:e> apparently related to abnormal regulation of insulin-like growth factor-2 (IGF-2) production </plain></SENT>
+<SENT sid="2" pm="."><plain>IGF2 <z:chebi fb="2" ids="33699">mRNA</z:chebi> has been previously localized to the chief cells of extra-adrenal paraganglia and to adult, but not fetal, adrenal medulla </plain></SENT>
+<SENT sid="3" pm="."><plain>Expression of IGF-2 by <z:hpo ids='HP_0003006'>neuroblastomas</z:hpo> has been hypothesized to reflect extra-adrenal paraganglionic differentiation </plain></SENT>
+<SENT sid="4" pm="."><plain>In the adrenals of a fetus with 8W5, we have observed both increased numbers of chromaffin cells and organoid nodules resembling extra-adrenal paraganglia </plain></SENT>
+<SENT sid="5" pm="."><plain>Immunoreactive IGF-2 was observed in both cell types, but was also observed in chromaffin cells in the <z:mpath ids='MPATH_458'>normal</z:mpath> fetal adrenal </plain></SENT>
+<SENT sid="6" pm="."><plain>The findings suggest autocrine or paracrine influences of IGF-2 in regulating the number and phenotype of cells derived from sympathoadrenal precursors in the developing adrenal medulla as well as in extra-adrenal paraganglia </plain></SENT>
+<SENT sid="7" pm="."><plain>These results have implications for the interpretation of data from <z:hpo ids='HP_0003006'>neuroblastoma</z:hpo> studies </plain></SENT>
+</text></document>

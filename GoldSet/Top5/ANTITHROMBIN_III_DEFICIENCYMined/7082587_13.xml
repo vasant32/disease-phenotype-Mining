@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 59-year-old woman presented a recurrent history of <z:hpo ids='HP_0001907'>thromboembolism</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>A qualitative defect of antithrombin III (AT III) was suggested by the discrepancy between a <z:mpath ids='MPATH_458'>normal</z:mpath> amount of AT III antigen and a decreased <z:chebi fb="5" ids="28304">heparin</z:chebi> cofactor activity </plain></SENT>
+<SENT sid="2" pm="."><plain>Six members of the same family showed a similar defect although clinically asymptomatic </plain></SENT>
+<SENT sid="3" pm="."><plain>The qualitative abnormality of AT III was confirmed by two-dimensional immunoelectrophoresis </plain></SENT>
+<SENT sid="4" pm="."><plain>In the absence of <z:chebi fb="5" ids="28304">heparin</z:chebi>, a single peak was obtained with both control and patients' plasmas </plain></SENT>
+<SENT sid="5" pm="."><plain>In the presence of <z:chebi fb="5" ids="28304">heparin</z:chebi>, two peaks of AT III were observed in the patients' plasmas: the mobility of one peak was similar to that of the control, whereas the other showed a decreased mobility, suggesting a lack of binding to <z:chebi fb="5" ids="28304">heparin</z:chebi> </plain></SENT>
+<SENT sid="6" pm="."><plain>The two populations of AT III were separated by affinity chromatography on <z:chebi fb="5" ids="28304">heparin</z:chebi>-<z:chebi fb="2" ids="2511">agarose</z:chebi> </plain></SENT>
+<SENT sid="7" pm="."><plain>50% of the patients' AT III bound to the <z:chebi fb="2" ids="2511">agarose</z:chebi> beads </plain></SENT>
+<SENT sid="8" pm="."><plain>The remainder, recovered in the supernatant, migrated in two-dimensional immunoelectrophoresis as a single peak with the same mobility in the presence or absence of <z:chebi fb="5" ids="28304">heparin</z:chebi>, and was devoid of <z:chebi fb="5" ids="28304">heparin</z:chebi> cofactor activity </plain></SENT>
+<SENT sid="9" pm="."><plain>This familial AT III variant characterized a reduced affinity for <z:chebi fb="5" ids="28304">heparin</z:chebi> is tentatively named 'Antithrombin III Paris' </plain></SENT>
+</text></document>

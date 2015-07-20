@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Toll-Like Receptor 4 (TLR4), considered one of the most important TLR, recognizes <z:chebi fb="0" ids="16412">lipopolysaccharide</z:chebi> of <z:mp ids='MP_0001795'>Gram-negative</z:mp> bacteria </plain></SENT>
+<SENT sid="1" pm="."><plain>Recognition of ligands by TLRs induces signaling pathways resulting in activation of transcriptional factors such as NF-κB which are involved in the expression of inflammatory cytokines and chemokines </plain></SENT>
+<SENT sid="2" pm="."><plain>To prevent an inappropriate immune response, a complex network of molecules negatively regulates TLRs and their associated signaling pathways </plain></SENT>
+<SENT sid="3" pm="."><plain>Two cosegregating single nucleotide polymorphisms of the human TLR4 gene, namely Asp299Gly and Thr399Ile, have been associated with hyporesponsiveness to inhaled LPS </plain></SENT>
+<SENT sid="4" pm="."><plain>The purpose of this study was to determine the impact of TLR4 gene variant on NF-κB activity in <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> cell line </plain></SENT>
+<SENT sid="5" pm="."><plain>HCT116 cells were transfected with <z:mp ids='MP_0002169'>wild-type</z:mp> and mutants Flag-CMV1-TLR4 expression vectors </plain></SENT>
+<SENT sid="6" pm="."><plain>Western blot analysis was performed to evaluate selected molecules involved in TLR4 signaling </plain></SENT>
+<SENT sid="7" pm="."><plain>NF-κB activity was assessed by dual-luciferase reporter assay and cytokine profiles were evaluated byELISA and Cytometric Bead Array method </plain></SENT>
+<SENT sid="8" pm="."><plain>Results showed that the activity of pNF-κB was higher in cells harboring TLR4 D299G compared to the other cells </plain></SENT>
+<SENT sid="9" pm="."><plain>However, the activity of pAKT, pERK1 and pIRAK was higher in <z:mp ids='MP_0002169'>wild-type</z:mp> </plain></SENT>
+<SENT sid="10" pm="."><plain>The results of cytokine measurements showed about four fold higher level of IL-8 in cells with <z:mp ids='MP_0002169'>wild-type</z:mp> TLR4 </plain></SENT>
+<SENT sid="11" pm="."><plain>This study suggest that TLR4 Asp299Gly gene variant has an impact on TLR4 signaling and potentially on intestinal homeostasis due to impaired control signals at the epithelial cell level which may lead to <z:hpo ids='HP_0011010'>chronic</z:hpo> intestinal inﬂammation and interrupted intestinal homeostasis and may eventually lead to <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> </plain></SENT>
+</text></document>

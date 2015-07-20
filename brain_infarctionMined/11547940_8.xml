@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We assessed the effect of a novel calmodulin <z:chebi fb="68" ids="48706">antagonist</z:chebi>, DY-9760e (3-[2-[4-(3-chloro-2-<z:chebi fb="0" ids="52553">methylphenyl</z:chebi>)-1-piperazinyl]ethyl]-5,6-dimethoxy-1-(4-imidazolylmethyl)-1H-<z:chebi fb="0" ids="36669,36671">indazole</z:chebi> dihydrochloride 3.5 hydrate) in a spontaneously hypertensive rat (SHR) permanent focal <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>In experiment I, the left middle cerebral artery was permanently occluded in 62 SHRs </plain></SENT>
+<SENT sid="2" pm="."><plain>DY-9760e (0.5 mg kg(-1) h(-1)) or vehicle alone were administered continuously i.v. for 6 h, beginning 0, 30, or 60 min after the <z:mp ids='MP_0006134'>arterial occlusion</z:mp> </plain></SENT>
+<SENT sid="3" pm="."><plain>The <z:mpath ids='MPATH_124'>infarct</z:mpath> volume was measured 24 h of <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> </plain></SENT>
+<SENT sid="4" pm="."><plain>In experiment II, the effect of DY-9760e on CBF was assessed in 10 SHRs </plain></SENT>
+<SENT sid="5" pm="."><plain>Administration without a delay resulted in a mean <z:mpath ids='MPATH_124'>infarct</z:mpath> volume of 166.7 +/- 21.0 mm3 (vehicle; n = 10) and 125.1 +/- 31.8 mm3 (DY-9760e; n = 9) </plain></SENT>
+<SENT sid="6" pm="."><plain>Administration with a 30 min delay resulted in a mean <z:mpath ids='MPATH_124'>infarct</z:mpath> volume of 173.2 +/- 32.4 mm3 (vehicle; n = 12) and 143.3 +/- 35.3 mm3 (DY-9760e; n = 11) </plain></SENT>
+<SENT sid="7" pm="."><plain>Dy-9760e significantly reduced the <z:mpath ids='MPATH_124'>infarct</z:mpath> under these conditions (p &lt; 0.05) </plain></SENT>
+<SENT sid="8" pm="."><plain>The administration with a 60 min delay failed to reduce the <z:mpath ids='MPATH_124'>infarct</z:mpath> </plain></SENT>
+<SENT sid="9" pm="."><plain>DY-9760e had no effect on the CBF </plain></SENT>
+<SENT sid="10" pm="."><plain>Continuous i.v. administration of DY-9760e reduced <z:mpath ids='MPATH_124'>infarct</z:mpath> volume in a SHR permanent focal <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> without affecting ischemic CBF </plain></SENT>
+</text></document>

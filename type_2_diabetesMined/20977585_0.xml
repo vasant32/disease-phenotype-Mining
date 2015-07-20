@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIM: To investigate the impact of <z:hpo ids='HP_0011010'>chronic</z:hpo> ingestion of <z:chebi fb="0" ids="41865">sebacic acid</z:chebi> (SA), a 10-carbon medium-chain <z:chebi fb="0" ids="35692">dicarboxylic acid</z:chebi>, on glycaemic control in a mouse model of type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> (T2D) </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: Three groups of 15 db/db mice were fed for 6 weeks either a chow diet (Ctrl) or a chow diet supplemented with 1.5 or 15% (SA(1.5%) and SA(15%) , respectively) energy from SA </plain></SENT>
+<SENT sid="2" pm="."><plain>Fasting glycaemia was measured once a week and HbA1c before and after supplementation </plain></SENT>
+<SENT sid="3" pm="."><plain>An oral <z:chebi fb="105" ids="17234">glucose</z:chebi> tolerance test (OGTT) was performed at the end of the supplementation </plain></SENT>
+<SENT sid="4" pm="."><plain>Gene expression was determined by transcriptomic analysis on the liver of the Ctrl and SA(15%) groups </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: After 42 days of supplementation, fasting glycaemia and HbA1c were ∼70 and 25% lower in the SA(15%) group compared with the other groups showing a beneficial effect of SA on <z:e sem="disease" ids="C0020456" disease_type="Disease or Syndrome" abbrv="">hyperglycaemia</z:e> </plain></SENT>
+<SENT sid="6" pm="."><plain>During OGTT, plasma <z:chebi fb="105" ids="17234">glucose</z:chebi> area under the curve was reduced after SA(15%) compared with the other groups </plain></SENT>
+<SENT sid="7" pm="."><plain>This effect was associated with a tendency for an improved insulin response </plain></SENT>
+<SENT sid="8" pm="."><plain>In the liver, Pck1 and FBP <z:chebi fb="2" ids="33699">mRNA</z:chebi> were statistically decreased in the SA(15%) compared with Ctrl suggesting a reduced hepatic <z:chebi fb="105" ids="17234">glucose</z:chebi> output induced by SA </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSION: Dietary supplementation of SA largely improves glycaemic control in a mouse model of T2D </plain></SENT>
+<SENT sid="10" pm="."><plain>This beneficial effect may be due to (i) an improved <z:chebi fb="105" ids="17234">glucose</z:chebi>-induced insulin secretion and (ii) a reduced hepatic <z:chebi fb="105" ids="17234">glucose</z:chebi> output </plain></SENT>
+</text></document>

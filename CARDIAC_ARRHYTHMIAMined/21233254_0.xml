@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIMS: <z:mp ids='MP_0003141'>Cardiac fibrosis</z:mp> is associated with increased incidence of <z:hpo ids='HP_0011675'>cardiac arrhythmias</z:hpo>, but the underlying proarrhythmic mechanisms remain incompletely understood and antiarrhythmic therapies are still suboptimal </plain></SENT>
+<SENT sid="1" pm="."><plain>This study tests the hypothesis that myofibroblast (MFB) proliferation leads to tachyarrhythmias by altering the excitability of cardiomyocytes (CMCs) and that inhibition of MFB proliferation would thus lower the incidence of such <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS AND RESULTS: Endogenous MFBs in neonatal rat CMC cultures proliferated freely or under control of different dosages of antiproliferative agents (<z:chebi fb="0" ids="27504">mitomycin-C</z:chebi> and paclitaxel) </plain></SENT>
+<SENT sid="3" pm="."><plain>At Days 4 and 9, arrhythmogeneity of these cultures was studied by optical and multi-electrode mapping </plain></SENT>
+<SENT sid="4" pm="."><plain>Cultures were also studied for protein expression and electrophysiological properties </plain></SENT>
+<SENT sid="5" pm="."><plain>MFB proliferation slowed conduction from 15.3 ± 3.5 cm/s (Day 4) to 8.8 ± 0.3 cm/s (Day 9) (n = 75, P &lt; 0.01), whereas MFB numbers increased to 37.4 ± 1.7 and 62.0 ± 2% </plain></SENT>
+<SENT sid="6" pm="."><plain>At Day 9, 81.3% of these cultures showed sustained spontaneous reentrant <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> </plain></SENT>
+<SENT sid="7" pm="."><plain>However, only 2.6% of <z:chebi fb="0" ids="27504">mitomycin-C</z:chebi>-treated cultures (n = 76, P &lt; 0.0001) showed tachyarrhythmias, and ectopic activity was decreased </plain></SENT>
+<SENT sid="8" pm="."><plain><z:hpo ids='HP_0011675'>Arrhythmia</z:hpo> incidence was drug-dose dependent and strongly related to MFB proliferation </plain></SENT>
+<SENT sid="9" pm="."><plain>Paclitaxel treatment yielded similar results </plain></SENT>
+<SENT sid="10" pm="."><plain>CMCs were functionally coupled to MFBs and more depolarized in cultures with ongoing MFB proliferation in which only L-type Ca(2+)-channel blockade terminated 100% of reentrant <z:hpo ids='HP_0011675'>arrhythmias</z:hpo>, in contrast to <z:chebi fb="0" ids="29101">Na(+)</z:chebi> blockade (36%, n = 12) </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSION: Proliferation of MFBs in myocardial cultures gives rise to spontaneous, sustained reentrant tachyarrhythmias </plain></SENT>
+<SENT sid="12" pm="."><plain>Antiproliferative treatment of such cultures prevents the occurrence of <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> by limiting MFB-induced depolarization, conduction slowing, and ectopic activity </plain></SENT>
+<SENT sid="13" pm="."><plain>This study could provide a rationale for a new treatment option for <z:hpo ids='HP_0011675'>cardiac arrhythmias</z:hpo> </plain></SENT>
+</text></document>

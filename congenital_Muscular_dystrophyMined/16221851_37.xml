@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Nodes of Ranvier are specialized axonal domains, at which voltage-gated <z:chebi fb="199" ids="26708">sodium</z:chebi> channels cluster </plain></SENT>
+<SENT sid="1" pm="."><plain>How axons cluster molecules in discrete domains is mostly unknown </plain></SENT>
+<SENT sid="2" pm="."><plain>Both axons and glia probably provide constraining mechanisms that contribute to domain formation </plain></SENT>
+<SENT sid="3" pm="."><plain>Proper <z:chebi fb="199" ids="26708">sodium</z:chebi> channel clustering in peripheral nerves depends on contact from Schwann cell microvilli, where at least one molecule, gliomedin, binds the <z:chebi fb="199" ids="26708">sodium</z:chebi> channel complex and induces its clustering </plain></SENT>
+<SENT sid="4" pm="."><plain>Furthermore, mice lacking Schwann cell dystroglycan have aberrant microvilli and poorly clustered <z:chebi fb="199" ids="26708">sodium</z:chebi> channels </plain></SENT>
+<SENT sid="5" pm="."><plain>Dystroglycan could interact at the basal lamina or at the axonglial surface </plain></SENT>
+<SENT sid="6" pm="."><plain>Because dystroglycan is a laminin receptor, and laminin 2 mutations [merosin-deficient <z:hpo ids='HP_0003741'>congenital muscular dystrophy</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDC1A</z:e>)] cause <z:mp ids='MP_0008814'>reduced nerve conduction velocity</z:mp>, we asked whether laminins are involved </plain></SENT>
+<SENT sid="7" pm="."><plain>Here, we show that the composition of both laminins and the dystroglycan complex at nodes differs from that of internodes </plain></SENT>
+<SENT sid="8" pm="."><plain>Mice defective in laminin 2 have poorly formed microvilli and abnormal <z:chebi fb="199" ids="26708">sodium</z:chebi> clusters </plain></SENT>
+<SENT sid="9" pm="."><plain>These abnormalities are similar, albeit less severe, than those of mice lacking dystroglycan </plain></SENT>
+<SENT sid="10" pm="."><plain>However, mice lacking <z:hpo ids='HP_0000001'>all</z:hpo> Schwann cell laminins show severe nodal abnormalities, suggesting that other laminins compensate for the lack of laminin 2 </plain></SENT>
+<SENT sid="11" pm="."><plain>Thus, although laminins are located at a distance from the axoglial junction, they are required for proper clustering of <z:chebi fb="199" ids="26708">sodium</z:chebi> channels </plain></SENT>
+<SENT sid="12" pm="."><plain>Laminins, through their specific nodal receptors and cytoskeletal linkages, may participate in the formation of mechanisms that constrain clusters at nodes </plain></SENT>
+<SENT sid="13" pm="."><plain>Finally, abnormal <z:chebi fb="199" ids="26708">sodium</z:chebi> channel clusters are present in a patient with <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDC1A</z:e>, providing a molecular basis for the <z:mp ids='MP_0008814'>reduced nerve conduction velocity</z:mp> in this disorder </plain></SENT>
+</text></document>

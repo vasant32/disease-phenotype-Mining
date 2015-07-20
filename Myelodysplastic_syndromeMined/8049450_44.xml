@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0011009'>Acute</z:hpo> <z:e sem="disease" ids="C0018133" disease_type="Disease or Syndrome" abbrv="GVH">graft-versus-host disease</z:e> (GVHD) that is resistant to therapy is a highly lethal complication of marrow transplantation </plain></SENT>
+<SENT sid="1" pm="."><plain>Inflammatory cytokines such as interleukin-1 (IL-1) may be critical mediators of this process </plain></SENT>
+<SENT sid="2" pm="."><plain>If so, specific inhibition of IL-1 activity with recombinant human IL-1 receptor <z:chebi fb="68" ids="48706">antagonist</z:chebi> (IL-1Ra), a naturally occurring competitive inhibitor of IL-1, may ameliorate <z:hpo ids='HP_0011009'>acute</z:hpo> GVHD </plain></SENT>
+<SENT sid="3" pm="."><plain>We performed an open-label, phase I/II trial to evaluate the safety and efficacy of IL-1Ra in 17 patients with steroid-resistant GVHD </plain></SENT>
+<SENT sid="4" pm="."><plain>The IL-1Ra was administered as a 24-hour continuous infusion over 7 days </plain></SENT>
+<SENT sid="5" pm="."><plain>The dose was escalated in cohorts of patients from 400 to 3,200 mg/d </plain></SENT>
+<SENT sid="6" pm="."><plain><z:hpo ids='HP_0011009'>Acute</z:hpo> GVHD was evaluated in each affected organ and as an overall grade </plain></SENT>
+<SENT sid="7" pm="."><plain>Stage-specific improvement of <z:hpo ids='HP_0011009'>acute</z:hpo> GVHD occurred in the skin (8 of 14, 57%), gut (9 of 11, 82%), and liver (2 of 11, 18%) </plain></SENT>
+<SENT sid="8" pm="."><plain>Overall, <z:hpo ids='HP_0011009'>acute</z:hpo> GVHD improved by at least one grade in 10 of 16 (63%) patients </plain></SENT>
+<SENT sid="9" pm="."><plain>Response to therapy was associated with a reduction of <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> <z:mp ids='MP_0001651'>necrosis</z:mp> factor-alpha (TNF-alpha) <z:chebi fb="2" ids="33699">mRNA</z:chebi> levels in blood mononuclear cells (P = .001) </plain></SENT>
+<SENT sid="10" pm="."><plain>The only toxicity attributable to IL-1Ra was reversible transaminase elevation in two patients </plain></SENT>
+<SENT sid="11" pm="."><plain>Inhibition of IL-1 activity with IL-1Ra is safe and has demonstrable efficacy in <z:hpo ids='HP_0011009'>acute</z:hpo> GVHD that failed to respond to conventional treatment </plain></SENT>
+<SENT sid="12" pm="."><plain>These data provide further evidence that IL-1 is a mediator of GVHD </plain></SENT>
+</text></document>

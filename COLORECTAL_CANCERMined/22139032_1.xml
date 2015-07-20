@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PURPOSE: Bevacizumab and chemotherapy is a common choice for first-line treatment of <z:e sem="disease" ids="C0948380" disease_type="Neoplastic Process" abbrv="">metastatic colorectal cancer</z:e> (mCRC) </plain></SENT>
+<SENT sid="1" pm="."><plain>So far, no predictive markers have been identified </plain></SENT>
+<SENT sid="2" pm="."><plain>The aim was to investigate the possible predictive value of single nucleotide polymorphisms (SNPs) in the vascular endothelial growth factor (VEGF) system in this setting </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: Pre-treatment blood samples and response evaluations were available from 218 of the 249 included patients </plain></SENT>
+<SENT sid="4" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> patients received bevacizumab and chemotherapy comprising fluorouracil and leucovorin or <z:chebi fb="0" ids="31348">capecitabine</z:chebi> combined with either <z:chebi fb="0" ids="31941">oxaliplatin</z:chebi> (FOLFOX or XELOX, n = 183) or irinotecan (FOLFIRI or XELIRI, n = 66) </plain></SENT>
+<SENT sid="5" pm="."><plain>Germline DNA was isolated from whole blood, and five SNPs in the VEGF-A gene, one SNP in the VEGF receptor 1 (VEGFR-1) gene and three SNPs in the VEGFR-2 gene were analysed by polymerase chain reaction </plain></SENT>
+<SENT sid="6" pm="."><plain>Response was evaluated according to RECIST version 1.0, and the association to genotypes was analysed using Fisher's exact test </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: The VEGFR-1 319 C/A SNP was significantly associated with response </plain></SENT>
+<SENT sid="8" pm="."><plain>Objective response was observed in 36% of the patients with CC genotype, 40% with CA and 56% with AA, p = 0.048 </plain></SENT>
+<SENT sid="9" pm="."><plain>The response rates also differed significantly between patients with C-allele containing genotypes (CC + CA) (39%) and patients homozygous for the A-allele (AA) (56%), p = 0.015 </plain></SENT>
+<SENT sid="10" pm="."><plain>There was no correlation between response rates and the remaining SNPs </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: The VEGFR-1 319 C/A SNP is a potential predictive marker for bevacizumab plus chemotherapy in patients with mCRC </plain></SENT>
+<SENT sid="12" pm="."><plain>Patients with the A allele appeared to have increased response rates </plain></SENT>
+<SENT sid="13" pm="."><plain>The results call for validation </plain></SENT>
+</text></document>

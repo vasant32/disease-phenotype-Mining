@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:chebi fb="0" ids="4488">Diallyl disulfide</z:chebi> (DADS), one of the major <z:chebi fb="0" ids="33261">organosulfur compounds</z:chebi> of garlic, is recognized as a group of potential chemopreventive compounds </plain></SENT>
+<SENT sid="1" pm="."><plain>In this study, we examines the early signaling effects of DADS on human <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> cells SW480 loaded with Ca(2+)-sensitive dye fura-2 </plain></SENT>
+<SENT sid="2" pm="."><plain>It was found that DADS caused an immediate and sustained rise of [Ca(2+)](i) in a concentration-dependent manner (EC(50) = 232 μM) </plain></SENT>
+<SENT sid="3" pm="."><plain>DADS also induced a [Ca(2+)](i) elevation when extracellular Ca(2+) was removed, but the magnitude was reduced by 45% </plain></SENT>
+<SENT sid="4" pm="."><plain><z:mpath ids='MPATH_63'>Depletion</z:mpath> of intracellular Ca(2+) stores with 2 μM <z:chebi fb="0" ids="3259">carbonylcyanide m-chlorophenylhydrazone</z:chebi>, a <z:hpo ids='HP_0001427'>mitochondrial</z:hpo> uncoupler, didn't affect DADS's effect </plain></SENT>
+<SENT sid="5" pm="."><plain>In Ca(2+)-free medium, the DADS-induced [Ca(2+)](i) rise was abolished by depleting stored Ca(2+) with 1 μM thapsigargin (an endoplasmic reticulum Ca(2+) pump inhibitor) </plain></SENT>
+<SENT sid="6" pm="."><plain>DADS-caused [Ca(2+)](i) rise in Ca(2+)-containing medium was not affected by modulation of protein kinase C activity </plain></SENT>
+<SENT sid="7" pm="."><plain>The DADS-induced Ca(2+) influx was blocked by nicardipine (10 μM) </plain></SENT>
+<SENT sid="8" pm="."><plain>U73122, an inhibitor of phospholipase C, abolished ATP (but not DADS)-induced [Ca(2+)](i) rise </plain></SENT>
+<SENT sid="9" pm="."><plain>These findings suggest that DADS induced a significant rise in [Ca(2+)](i) in SW480 <z:hpo ids='HP_0003003'>colon cancer</z:hpo> cells by stimulating both extracellular Ca(2+) influx and thapsigargin-sensitive intracellular Ca(2+) release via as yet unidentified mechanisms </plain></SENT>
+</text></document>

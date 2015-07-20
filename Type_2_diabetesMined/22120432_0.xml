@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PURPOSE: To determine whether there is an association between antidepressant use and the risk of developing type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: This study was a retrospective cohort analysis using the Texas Medicaid prescription claims database </plain></SENT>
+<SENT sid="2" pm="."><plain>Data were extracted for new users of either antidepressant agents (exposed) or <z:chebi fb="13" ids="22720">benzodiazepines</z:chebi> (unexposed) from January 1, 2002 through December 31, 2009 </plain></SENT>
+<SENT sid="3" pm="."><plain>Patients aged 18-64 years without a prior history of <z:mp ids='MP_0002055'>diabetes</z:mp> were included </plain></SENT>
+<SENT sid="4" pm="."><plain>Cox proportional hazards regression was used to examine the association between <z:mp ids='MP_0002055'>diabetes</z:mp> incidence among exposed and unexposed groups, while controlling for demographic and clinical covariates </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: Among the total study population (N = 44,715), the majority were in the exposed (N = 35,552) versus the unexposed (N = 9,163) group </plain></SENT>
+<SENT sid="6" pm="."><plain>A total of 2,943 patients (6.6%) developed type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> during the follow-up period </plain></SENT>
+<SENT sid="7" pm="."><plain>Antidepressant use was associated with an increase in the risk of <z:mp ids='MP_0002055'>diabetes</z:mp> when compared to <z:chebi fb="13" ids="22720">benzodiazepine</z:chebi> use (adjusted hazard ratio [HR] 1.558, 95% confidence interval [CI] 1.401-1.734) </plain></SENT>
+<SENT sid="8" pm="."><plain>The association was observed with <z:chebi fb="1" ids="36809">tricyclic antidepressants</z:chebi> (<z:chebi fb="6" ids="30956">TCAs</z:chebi>; HR 1.759, 95% CI 1.517-2.040), <z:chebi fb="19" ids="28790">serotonin</z:chebi>-<z:chebi fb="1" ids="18357,33569">norepinephrine</z:chebi> reuptake inhibitors (SNRIs; HR 1.566 </plain></SENT>
+<SENT sid="9" pm="."><plain>95% CI 1.351-1.816), selective <z:chebi fb="19" ids="28790">serotonin</z:chebi> reuptake inhibitors (SSRIs; HR 1.481, 95% CI 1.318-1.665), and "other" antidepressants (HR 1.376; 95% CI 1.198-1.581) </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSIONS: The results of this study suggest that antidepressant use is associated with an increased risk of <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="11" pm="."><plain>This association was observed with use of <z:chebi fb="6" ids="30956">TCAs</z:chebi>, SNRIs, SSRIs, and "other" antidepressants </plain></SENT>
+</text></document>

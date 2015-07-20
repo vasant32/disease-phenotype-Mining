@@ -1,0 +1,6 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 29-year-old male patient presented with <z:hpo ids='HP_0006554'>acute liver failure</z:hpo> from non-A, non-B and non-C <z:hpo ids='HP_0012115'>hepatitis</z:hpo>, necessitating orthotopic liver transplantation </plain></SENT>
+<SENT sid="1" pm="."><plain>After operation he developed progressive <z:hpo ids='HP_0001876'>pancytopenia</z:hpo> on the basis of <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo>, which was probably <z:hpo ids='HP_0012115'>hepatitis</z:hpo> associated </plain></SENT>
+<SENT sid="2" pm="."><plain>After therapy with GM-CSF had failed, he underwent allogeneic BMT from his HLA genotypically identical brother following a conditioning regimen of CY 50 mg/kg x 4 and 500 cGy total lymphoid irradiation </plain></SENT>
+<SENT sid="3" pm="."><plain>He engrafted promptly but transfusion dependency did not resolve until <z:e sem="disease" ids="C0877635" disease_type="Disease or Syndrome" abbrv="">CMV viremia</z:e> was treated with <z:chebi fb="0" ids="465284">ganciclovir</z:chebi> </plain></SENT>
+<SENT sid="4" pm="."><plain>The patient is alive and well 2 years after BMT </plain></SENT>
+</text></document>

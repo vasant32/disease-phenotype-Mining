@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Telomeres cap the ends of chromosomes and help maintain genomic stability and integrity </plain></SENT>
+<SENT sid="1" pm="."><plain>Telomere length (TL) has been linked to a number of diseases, including a variety of <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancers</z:e>; however, the association between TL and risk for <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> is unclear </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: We investigate the association between genetic, diet, and lifestyle factors and TL and the association between TL and <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> using data from a population-based case-control study of colon (249 cases and 371 controls) and <z:e sem="disease" ids="C0007113" disease_type="Neoplastic Process" abbrv="">rectal cancer</z:e> (276 cases and 372 controls) conducted in Utah </plain></SENT>
+<SENT sid="3" pm="."><plain>DNA samples came from immortalized cell lines for <z:hpo ids='HP_0003003'>colon cancer</z:hpo> and directly from whole blood for <z:e sem="disease" ids="C0007113" disease_type="Neoplastic Process" abbrv="">rectal cancer</z:e> </plain></SENT>
+<SENT sid="4" pm="."><plain>We genotyped 11 single nucleotide polymorphisms in five genes associated with telomeres, TERT, MEN1, MRE11A, RECQL5, and TNKS </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: TL was measured using quantitative PCR </plain></SENT>
+<SENT sid="6" pm="."><plain>TERT rs2853676 (p=0.044) and RECQL5 rs820152 (p=0.001) were associated with TL at &lt;0.05 level of significance </plain></SENT>
+<SENT sid="7" pm="."><plain>After adjusting for age and sex, BMI and cigarette smoking were significantly inversely associated with TL among controls </plain></SENT>
+<SENT sid="8" pm="."><plain>Use of aspirin/<z:chebi fb="1" ids="35475">NSAIDs</z:chebi> interacted significantly with TERT rs10069690 and rs2242652 to alter TL </plain></SENT>
+<SENT sid="9" pm="."><plain>Longer TL was significantly associated with reduced <z:hpo ids='HP_0003003'>colon cancer</z:hpo> risk after adjusting for age and sex (OR = 0.94 95% confidence intervals 0.89-0.99 per decile of TL) </plain></SENT>
+<SENT sid="10" pm="."><plain>Further adjustment for BMI and cigarette smoking attenuated the association so that it was no longer significant </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: In summary several genetic and lifestyle factors were observed to influence TL </plain></SENT>
+<SENT sid="12" pm="."><plain>These factors also appear to confound associations between TL and <z:hpo ids='HP_0003003'>colon cancer</z:hpo> </plain></SENT>
+</text></document>

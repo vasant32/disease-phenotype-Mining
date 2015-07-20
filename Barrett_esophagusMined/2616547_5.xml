@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> is a condition in which the lower esophagus is lined with metaplastic columnar epithelium rather than <z:mpath ids='MPATH_458'>normal</z:mpath> stratified squamous epithelium </plain></SENT>
+<SENT sid="1" pm="."><plain>It is associated with an increased risk of <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> </plain></SENT>
+<SENT sid="2" pm="."><plain><z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">Cancers</z:e> developing in Barrett's epithelium are <z:mp ids='MP_0009308'>adenocarcinomas</z:mp> rather than the usual <z:e sem="disease" ids="C0279626" disease_type="Neoplastic Process" abbrv="ESCC">squamous cell esophageal cancers</z:e> </plain></SENT>
+<SENT sid="3" pm="."><plain>Barrett's is somewhat unique among <z:e sem="disease" ids="C0850639" disease_type="Neoplastic Process" abbrv="">premalignant lesions</z:e>, since it represents an entirely different epithelium from the <z:mpath ids='MPATH_458'>normal</z:mpath> and can therefore be histologically identified with certainty </plain></SENT>
+<SENT sid="4" pm="."><plain>The abnormal mucosa can be safely accessed repeatedly and its extent quantitated by endoscopy, thereby allowing serial follow-up studies and intervention trials </plain></SENT>
+<SENT sid="5" pm="."><plain>We are studying <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> as a model <z:e sem="disease" ids="C0850639" disease_type="Neoplastic Process" abbrv="">premalignant lesion</z:e> for <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> </plain></SENT>
+<SENT sid="6" pm="."><plain><z:chebi fb="0" ids="18257">Ornithine</z:chebi> decarboxylase activity was increased in this lesion especially when dysplastic changes were present </plain></SENT>
+<SENT sid="7" pm="."><plain>Interestingly there was no relationship between <z:chebi fb="0" ids="51349">polyamine</z:chebi> levels and the increased <z:mp ids='MP_0010716'>ODC</z:mp> activity </plain></SENT>
+<SENT sid="8" pm="."><plain>Flow cytometric abnormalities have been demonstrated in Barrett's mucosa </plain></SENT>
+<SENT sid="9" pm="."><plain>Their significance remains to be determined </plain></SENT>
+<SENT sid="10" pm="."><plain>Epithelial cells from this lesion have been cultured and characterized </plain></SENT>
+<SENT sid="11" pm="."><plain>Clonal cytogenetic abnormalities were detected in some specimens </plain></SENT>
+<SENT sid="12" pm="."><plain>The cultured cells were used to test the effect of drugs on their growth </plain></SENT>
+<SENT sid="13" pm="."><plain>The <z:chebi fb="0" ids="18257">ornithine</z:chebi> decarboxylase inhibitor, alpha-difluoromethylornithine, significantly inhibited growth even at low concentrations </plain></SENT>
+<SENT sid="14" pm="."><plain>A clinical intervention trial using <z:chebi fb="0" ids="6067">13-cis-retinoic acid</z:chebi> has produced no change in the extent of the lesion in 11 evaluable patients </plain></SENT>
+<SENT sid="15" pm="."><plain>Nevertheless, the successful performance of this clinical study confirms that this lesion can be used for intervention trials aimed at reversing <z:e sem="disease" ids="C0850639" disease_type="Neoplastic Process" abbrv="">premalignant lesions</z:e> </plain></SENT>
+</text></document>

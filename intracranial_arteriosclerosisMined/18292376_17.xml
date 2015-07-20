@@ -1,0 +1,22 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND PURPOSE: Digital subtraction angiography (DSA) is regarded as the gold standard in assessing degree of stenosis in intracranial vessels </plain></SENT>
+<SENT sid="1" pm="."><plain>However, it is invasive and can only be carried out at specialized centers </plain></SENT>
+<SENT sid="2" pm="."><plain>We sought to compare CT angiography (CTA) to DSA for detection and measurement of stenosis in large intracranial arteries </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: We identified <z:hpo ids='HP_0000001'>all</z:hpo> subjects admitted with <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> or <z:hpo ids='HP_0002326'>transient ischemic attack</z:hpo> and with CTA and DSA studies of good quality completed within 30 days of each other between April 2000 and May 2006 at a single medical center </plain></SENT>
+<SENT sid="4" pm="."><plain>Two readers blinded to clinical information reviewed each CTA and DSA independently </plain></SENT>
+<SENT sid="5" pm="."><plain>Each reader located and measured stenosis of 15 prespecified large intracranial arterial segments per study at the same level of magnification </plain></SENT>
+<SENT sid="6" pm="."><plain>These stenotic lesions were most likely atherosclerotic in etiology </plain></SENT>
+<SENT sid="7" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> measurements were made with Wiha digiMax 6" digital calipers </plain></SENT>
+<SENT sid="8" pm="."><plain>The degree of stenosis was calculated using the published method for the <z:chebi fb="8" ids="10033">Warfarin</z:chebi>-Aspirin Symptomatic Intracranial Disease study </plain></SENT>
+<SENT sid="9" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> disagreements of greater than 10% were reviewed by a third reader who decided between the 2 prior measurements </plain></SENT>
+<SENT sid="10" pm="."><plain>Segments were excluded from analyses if they were judged to be congenitally hypoplastic or seen only through collaterals or cross-filling </plain></SENT>
+<SENT sid="11" pm="."><plain>Intraclass correlation, sensitivity, and specificity were calculated using DSA as the reference standard </plain></SENT>
+<SENT sid="12" pm="."><plain>RESULTS: Forty-one pairs of CTA and DSAs from 41 patients were reviewed </plain></SENT>
+<SENT sid="13" pm="."><plain>CTAs were completed within 28 days before 13 days after DSA, with a median of 1 day </plain></SENT>
+<SENT sid="14" pm="."><plain>A total of 475 pairs of major intracranial arterial segment were analyzed </plain></SENT>
+<SENT sid="15" pm="."><plain>Intraclass correlation between degree of stenosis based on CTA and DSA for <z:hpo ids='HP_0000001'>all</z:hpo> segments was 0.98 (P=0.001) </plain></SENT>
+<SENT sid="16" pm="."><plain>CTA detected large <z:mp ids='MP_0006134'>arterial occlusion</z:mp> with 100% sensitivity and specificity </plain></SENT>
+<SENT sid="17" pm="."><plain>For detection of &gt;or=50% stenosis, CTA had 97.1% sensitivity and 99.5% specificity </plain></SENT>
+<SENT sid="18" pm="."><plain>To detect <z:hpo ids='HP_0000001'>all</z:hpo> lesions &gt;or=50% as determined by DSA, the cut off point on CTA appeared to be at &gt;or=30%, with a false-positive rate of 2.4% </plain></SENT>
+<SENT sid="19" pm="."><plain>CONCLUSIONS: Compared to DSA, CTA has high sensitivity and specificity for detecting &gt;or=50% stenosis of large intracranial arterial segments </plain></SENT>
+<SENT sid="20" pm="."><plain>CTA is minimally invasive and may be a useful screening tool for <z:e sem="disease" ids="C0752138" disease_type="Disease or Syndrome" abbrv="">intracranial arterial disease</z:e> and occlusion </plain></SENT>
+</text></document>

@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Diagnosing a potentially life-threatening disease may adversely affect patient quality of life (QOL) independent of biologic effects </plain></SENT>
+<SENT sid="1" pm="."><plain>It is unknown whether the mere diagnosis of <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> (BE) adversely impacts patients' preferences (health-state utility) sufficiently to impair the cost-effectiveness of endoscopic screening for esophageal <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> </plain></SENT>
+<SENT sid="2" pm="."><plain>GOAL: To calculate the threshold impact on utility incurred by diagnosing BE that would allow screening to remain cost-effective </plain></SENT>
+<SENT sid="3" pm="."><plain>STUDY: A Markov model was developed to examine strategies of no screening, and screening with surveillance of BE </plain></SENT>
+<SENT sid="4" pm="."><plain>Patients were 50-year-old white men with symptoms of <z:hpo ids='HP_0002020'>gastroesophageal reflux</z:hpo> followed until 80 years of age or <z:hpo ids='HP_0011420'>death</z:hpo> </plain></SENT>
+<SENT sid="5" pm="."><plain>The primary outcomes were the threshold decrements in utility incurred by diagnosing BE based on willingness to pay (WTP) of dollar 50,000 and dollar 100,000 per quality-adjusted life-year (QALY) gained </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: For a WTP of dollar 50,000/QALY, the decrement in utility could be as great as 9%, meaning that screening is cost-effective as long as diagnosing BE does not impair QOL by more than 9% </plain></SENT>
+<SENT sid="7" pm="."><plain>For a WTP of dollar 100,000, the decrement could be as great as 10.5% </plain></SENT>
+<SENT sid="8" pm="."><plain>CONCLUSIONS: The decrement in utility caused by diagnosing BE may be substantial without compromising the cost-effectiveness of endoscopic screening </plain></SENT>
+</text></document>

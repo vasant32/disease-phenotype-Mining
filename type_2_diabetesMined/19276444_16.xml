@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: <z:chebi fb="105" ids="17234">Glucose</z:chebi>-dependent insulinotropic <z:chebi fb="1" ids="15841">polypeptide</z:chebi> (GIP), unlike glucagon-like <z:chebi fb="7" ids="16670">peptide</z:chebi> (GLP)-1, lacks <z:chebi fb="105" ids="17234">glucose</z:chebi>-lowering properties in patients with type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="1" pm="."><plain>We designed this study to elucidate the underlying pathophysiology </plain></SENT>
+<SENT sid="2" pm="."><plain>RESEARCH DESIGN AND METHODS: Twenty-two insulin-naïve subjects with type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> were given either synthetic human GIP (20 ng x kg(-1) x min(-1)) or placebo (<z:mpath ids='MPATH_458'>normal</z:mpath> saline) over 180 min, starting with the first bite of a mixed meal (plus 1 g of acetaminophen) on two separate occasions </plain></SENT>
+<SENT sid="3" pm="."><plain>Frequent blood samples were obtained over 6 h to determine plasma GIP, GLP-1, <z:chebi fb="105" ids="17234">glucose</z:chebi>, insulin, glucagon, resistin, and acetaminophen levels </plain></SENT>
+<SENT sid="4" pm="."><plain>RESULTS: Compared with placebo, GIP induced an early postprandial increase in insulin levels </plain></SENT>
+<SENT sid="5" pm="."><plain>Intriguingly, GIP also induced an early postprandial augmentation in glucagon, a significant elevation in late postprandial <z:chebi fb="105" ids="17234">glucose</z:chebi>, and a decrease in late postprandial GLP-1 levels </plain></SENT>
+<SENT sid="6" pm="."><plain>Resistin and acetaminophen levels were comparable in both interventions </plain></SENT>
+<SENT sid="7" pm="."><plain>By immunocytochemistry, GIP receptors were present on human and mouse alpha-cells </plain></SENT>
+<SENT sid="8" pm="."><plain>In alphaTC1 cell line, GIP induced an increase in intracellular cAMP and glucagon secretion </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSIONS; GIP, given to achieve supraphysiological plasma levels, still had an early, short-lived insulinotropic effect in type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="10" pm="."><plain>However, with a concomitant increase in glucagon, the <z:chebi fb="105" ids="17234">glucose</z:chebi>-lowering effect was lost </plain></SENT>
+<SENT sid="11" pm="."><plain>GIP infusion further worsened <z:hpo ids='HP_0003074'>hyperglycemia</z:hpo> postprandially, most likely through its suppressive effect on GLP-1 </plain></SENT>
+<SENT sid="12" pm="."><plain>These findings make it unlikely that GIP or GIP receptor <z:chebi fb="4" ids="48705">agonists</z:chebi> will be useful in treating the <z:hpo ids='HP_0003074'>hyperglycemia</z:hpo> of patients with type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+</text></document>

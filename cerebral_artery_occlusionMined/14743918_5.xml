@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECT: The intraluminal suture model for focal <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> is increasingly used, but not without problems </plain></SENT>
+<SENT sid="1" pm="."><plain>It causes hypothalamic injury, <z:hpo ids='HP_0002138'>subarachnoid hemorrhage</z:hpo>, and inadvertent premature reperfusion </plain></SENT>
+<SENT sid="2" pm="."><plain>The patency of the posterior communicating artery (PCoA) potentially affects the size of the <z:mpath ids='MPATH_124'>infarct</z:mpath> </plain></SENT>
+<SENT sid="3" pm="."><plain>In addition, survival at 1 week is unstable </plain></SENT>
+<SENT sid="4" pm="."><plain>The authors operated on C57Black6 mice to produce proximal middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (MCAO) so that drawbacks with the suture model could be circumvented </plain></SENT>
+<SENT sid="5" pm="."><plain>METHODS: The <z:chebi fb="70" ids="34342">MCA</z:chebi> segment just proximal to the olfactory branch was occluded either permanently or temporarily </plain></SENT>
+<SENT sid="6" pm="."><plain>After 1 hour of MCAO the <z:mpath ids='MPATH_124'>infarct</z:mpath> volume was significantly smaller than that found after 2 hours or in instances of permanent MCAO </plain></SENT>
+<SENT sid="7" pm="."><plain>The differences were assessed at 24 hours and 7 days after surgery (p &lt; 0.05 and p &lt; 0.001, respectively) </plain></SENT>
+<SENT sid="8" pm="."><plain>The patency of the PCoA, as visualized using carbon black solution, did not correlate with the <z:mpath ids='MPATH_124'>infarct</z:mpath> size </plain></SENT>
+<SENT sid="9" pm="."><plain>Neurologically, the 1- and 2-hour MCAO groups displayed significantly less severe deficits than the permanent MCAO group on Days 1, 4, and 7 (p &lt; 0.005 and p &lt; 0.01, respectively) </plain></SENT>
+<SENT sid="10" pm="."><plain>Although the <z:mpath ids='MPATH_124'>infarct</z:mpath> size, neurological deficits, and body <z:hpo ids='HP_0001824'>weight loss</z:hpo> were more severe in the permanent MCAO group, the survival rate at Day 7 was 80% </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: This model provides not only a robust <z:mpath ids='MPATH_124'>infarct</z:mpath> size (which is not affected by the patency of the PCoA), but also a better survival rate </plain></SENT>
+</text></document>

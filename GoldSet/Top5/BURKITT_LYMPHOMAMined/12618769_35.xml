@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>DNA amplifications are important mechanisms for proto-oncogene activation </plain></SENT>
+<SENT sid="1" pm="."><plain>Comparative genomic hybridization (CGH) to metaphase chromosome preparations has revealed amplifications in 10-20% of B-cell <z:hpo ids='HP_0002665'>lymphomas</z:hpo> (B-NHL) </plain></SENT>
+<SENT sid="2" pm="."><plain>We analysed a series of 16 aggressive non-Hodgkin <z:hpo ids='HP_0002665'>lymphomas</z:hpo> by the new approach termed Matrix-CGH (M-CGH) using genomic DNA microarrays as hybridization target </plain></SENT>
+<SENT sid="3" pm="."><plain>For M-CGH, a dedicated B-cell <z:hpo ids='HP_0002665'>lymphoma</z:hpo> chip was constructed containing 496 genomic targets covering oncogenes, <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> suppressor genes as well as chromosome regions frequently altered in B-NHL </plain></SENT>
+<SENT sid="4" pm="."><plain>In 10 of 16 samples a total of 15 DNA amplifications were identified </plain></SENT>
+<SENT sid="5" pm="."><plain>The amplicons included BCL2, REL, CCND1, CCND2, JAK2, FGF4 and MDM2 </plain></SENT>
+<SENT sid="6" pm="."><plain>Four of the 15 amplifications remained undetected by chromosomal CGH </plain></SENT>
+<SENT sid="7" pm="."><plain>The respective amplicons mapped to bands 2p13, 9p13-p21 and 12q24 and, were confirmed by fluorescence in situ hybridization </plain></SENT>
+<SENT sid="8" pm="."><plain>Furthermore, for four genomically amplified genes real-time quantitative reverse transcription polymerase chain reaction revealed elevated <z:chebi fb="2" ids="33699">mRNA</z:chebi> expression levels </plain></SENT>
+<SENT sid="9" pm="."><plain>These data show the superior diagnostic sensitivity of the newly developed diagnostic tool </plain></SENT>
+<SENT sid="10" pm="."><plain>As only a small portion of the genome (approximately 1.5%) has been analysed by the present DNA array, it is likely that gene amplifications are much more common in aggressive <z:hpo ids='HP_0002665'>lymphomas</z:hpo> than previously assumed </plain></SENT>
+</text></document>

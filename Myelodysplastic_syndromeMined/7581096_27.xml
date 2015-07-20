@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Preliminary studies in allogeneic BMT suggest that recombinant human granulocyte-macrophage colony-stimulating factor (rhGM-CSF) is well tolerated </plain></SENT>
+<SENT sid="1" pm="."><plain>This is a prospective, multicenter, randomized, double-blind, placebo-controlled trial </plain></SENT>
+<SENT sid="2" pm="."><plain>Yeast-derived rhGM-CSF 250 micrograms/m2/day or placebo was administered by 4-hour i.v. infusion starting on the day of marrow infusion (day 0) to day 20 </plain></SENT>
+<SENT sid="3" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> patients received HLA-identical sibling marrow and <z:chebi fb="0" ids="4031">cyclosporine</z:chebi> and <z:chebi fb="0" ids="8382">prednisone</z:chebi> for GVHD prophylaxis </plain></SENT>
+<SENT sid="4" pm="."><plain>Fifty three patients received rhGM-CSF and 56 received placebo </plain></SENT>
+<SENT sid="5" pm="."><plain>Comparison of demographics revealed no differences </plain></SENT>
+<SENT sid="6" pm="."><plain>The time to achieve an absolute neutrophil count of &gt; 0.5 x 10(9) cells/l was shortened in rhGM-CSF treated patients (day 13 vs. 17, P = 0.0001) </plain></SENT>
+<SENT sid="7" pm="."><plain>The incidences of grade III-IV mucositis and <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infection</z:e> were significantly reduced (P = 0.005, P = 0.001, respectively) and duration of hospitalization was modestly shortened by 1 day (P = 0.02) in rhGM-CSF treated patients </plain></SENT>
+<SENT sid="8" pm="."><plain>No differences in platelet recovery, erythrocyte recovery, incidence of <z:e sem="disease" ids="C0948441" disease_type="Disease or Syndrome" abbrv="VOD">veno-occlusive disease</z:e>, GVHD severity, relapse or survival were observed </plain></SENT>
+<SENT sid="9" pm="."><plain>In conclusion, rhGM-CSF is well tolerated and reduces post-transplant morbidity in patients undergoing HLA-identical allogeneic BMT </plain></SENT>
+</text></document>

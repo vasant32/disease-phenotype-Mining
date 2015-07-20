@@ -1,0 +1,47 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The purpose of this study was to gain insights into the regulation of Epstein-Barr virus (EBV) gene transcription during the establishment of <z:mp ids='MP_0001799'>viral</z:mp> latency in B cells </plain></SENT>
+<SENT sid="1" pm="."><plain>During the early stages of <z:e sem="disease" ids="C0149678" disease_type="Disease or Syndrome" abbrv="">EBV infection</z:e> in B lymphocytes, transcription of six <z:mp ids='MP_0001799'>viral</z:mp> nuclear antigens (EBNAs) is initiated from an early promoter (Wp) </plain></SENT>
+<SENT sid="2" pm="."><plain>This is followed by a switch of promoter usage to an upstream promoter, Cp, whose activity is autoregulated by both EBNA1 and EBNA2 </plain></SENT>
+<SENT sid="3" pm="."><plain>Previously it was demonstrated that <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infection</z:e> of primary B cells with EBNA2-negative (EBNA2-) EBNA4-mutant (EBNA4mut) virus resulted only in the expression of mutant EBNA4 protein and failure to express the other EBNA gene products (C </plain></SENT>
+<SENT sid="4" pm="."><plain>Rooney H </plain></SENT>
+<SENT sid="5" pm="."><plain>G </plain></SENT>
+<SENT sid="6" pm="."><plain>Howe, S </plain></SENT>
+<SENT sid="7" pm="."><plain>H </plain></SENT>
+<SENT sid="8" pm="."><plain>Speck, and G </plain></SENT>
+<SENT sid="9" pm="."><plain>Miller, J </plain></SENT>
+<SENT sid="10" pm="."><plain>Virol </plain></SENT>
+<SENT sid="11" pm="."><plain>63:1531-1539, 1989) </plain></SENT>
+<SENT sid="12" pm="."><plain>We extended this research to demonstrate that Wp-to-Cp switching did not occur upon <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infection</z:e> of primary B cells with an EBNA2- EBNA4mut virus (M </plain></SENT>
+<SENT sid="13" pm="."><plain>Woisetschlaeger, X </plain></SENT>
+<SENT sid="14" pm="."><plain>W </plain></SENT>
+<SENT sid="15" pm="."><plain>Jin, C </plain></SENT>
+<SENT sid="16" pm="."><plain>N </plain></SENT>
+<SENT sid="17" pm="."><plain>Yandara, L </plain></SENT>
+<SENT sid="18" pm="."><plain>A </plain></SENT>
+<SENT sid="19" pm="."><plain>Furmanski, J </plain></SENT>
+<SENT sid="20" pm="."><plain>L </plain></SENT>
+<SENT sid="21" pm="."><plain>Strominger, and S </plain></SENT>
+<SENT sid="22" pm="."><plain>H </plain></SENT>
+<SENT sid="23" pm="."><plain>Speck, Proc </plain></SENT>
+<SENT sid="24" pm="."><plain>Natl </plain></SENT>
+<SENT sid="25" pm="."><plain>Acad </plain></SENT>
+<SENT sid="26" pm="."><plain>Sci </plain></SENT>
+<SENT sid="27" pm="."><plain>USA 88:3942-3946, 1991) </plain></SENT>
+<SENT sid="28" pm="."><plain>Further characterization of this phenomenon led to the identification of an EBNA2-dependent enhancer upstream of Cp </plain></SENT>
+<SENT sid="29" pm="."><plain>On the basis of these data, a model was proposed in which initial transcription from Wp gives rise to the expression of EBNA2 and EBNA4, and then transcription is upregulated from Cp via the EBNA2- dependent enhancer (Woisetschlaeger et al., as noted above) </plain></SENT>
+<SENT sid="30" pm="."><plain>Implicit in this model is that transcription of the EBNA1 and EBNA3a to -3c genes is dependent on the switch from Wp to Cp, since primary cells infected with EBNA2- EBNA4mut virus fail to switch and also fail to express these <z:mp ids='MP_0001799'>viral</z:mp> antigens </plain></SENT>
+<SENT sid="31" pm="."><plain>Here we critically evaluate this model and demonstrate, in contrast to the predictions of the model, that transcription of both the EBNA1 and EBNA2 genes precedes activation of Cp </plain></SENT>
+<SENT sid="32" pm="."><plain>Furthermore, the level of EBNA1 gene transcription was strongly reduced in primary B cells infected with EBNA2- EBNA4mut virus compared with that of cells infected with <z:mp ids='MP_0002169'>wild-type</z:mp> virus </plain></SENT>
+<SENT sid="33" pm="."><plain>Switching to Cp, as well as EBNA1 gene transcription, was observed upon <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infection</z:e> of EBV-negative Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">BL</z:e>) cell lines with EBNA2- EBNA4mut virus, thus establishing a correlation between early EBNA1 gene transcription and upregulation of transcription initiation from Cp </plain></SENT>
+<SENT sid="34" pm="."><plain>However, in EBV-negative <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">BL</z:e> cell lines infected with EBNA2- EBNA4mut virus, transcription of the EBNA1 gene at early time points postinfection initiated from Qp, the EBNA1 gene promoter active in group I <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">BL</z:e> cells (B </plain></SENT>
+<SENT sid="35" pm="."><plain>C </plain></SENT>
+<SENT sid="36" pm="."><plain>Schaefer, J </plain></SENT>
+<SENT sid="37" pm="."><plain>L </plain></SENT>
+<SENT sid="38" pm="."><plain>Strominger, and S </plain></SENT>
+<SENT sid="39" pm="."><plain>H </plain></SENT>
+<SENT sid="40" pm="."><plain>Speck, Proc </plain></SENT>
+<SENT sid="41" pm="."><plain>Natl </plain></SENT>
+<SENT sid="42" pm="."><plain>Acad </plain></SENT>
+<SENT sid="43" pm="."><plain>Sci </plain></SENT>
+<SENT sid="44" pm="."><plain>USA 92:10565-10569, 1995), rather than from Wp </plain></SENT>
+<SENT sid="45" pm="."><plain>The data support a model in which EBNA1 plays an important role in the cascade of events leading to successful switching from Wp to Cp and subsequent immortalization of the infected B cell </plain></SENT>
+</text></document>

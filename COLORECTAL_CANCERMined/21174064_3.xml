@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">Colorectal cancer</z:e> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e>) is caused by an accumulation of genetic alterations and epigenetic alterations </plain></SENT>
+<SENT sid="1" pm="."><plain>The molecular classification of <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRCs</z:e> based on genetic alterations and epigenetic alterations is evolving </plain></SENT>
+<SENT sid="2" pm="."><plain>Here, we examined mutations and methylation status in <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRCs</z:e> to determine if the combination of genetic and epigenetic alterations predicts prognosis </plain></SENT>
+<SENT sid="3" pm="."><plain>We examined 134 <z:hpo ids='HP_0003745'>sporadic</z:hpo> <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRCs</z:e> </plain></SENT>
+<SENT sid="4" pm="."><plain>We used the direct sequencing method to identify mutations in BRAF and AKT1, which are downstream of KRAS and PIK3CA, respectively, in the EGFR pathway </plain></SENT>
+<SENT sid="5" pm="."><plain>We used the Methylight method to determine the methylation status of hMLH1, p16, MINT1, MINT2 and MINT31 </plain></SENT>
+<SENT sid="6" pm="."><plain>Both BRAF and AKT1 mutations were found in only one case (0.75%) </plain></SENT>
+<SENT sid="7" pm="."><plain>Aberrant methylation of hMLH1, p16, MINT1, MINT2 and MINT31 was detected in 22.4, 35.1, 32.8, 59.7 and 41.0% of cases, respectively </plain></SENT>
+<SENT sid="8" pm="."><plain>The clinicopathological factors were not significantly correlated to mutation or methylation </plain></SENT>
+<SENT sid="9" pm="."><plain>Among the patients who had no mutation in the EGFR pathway, the overall survival was significantly shorter in the patients with methylation compared to the patients with no methylation in hMLH1 and p16 (p=0.0318) </plain></SENT>
+<SENT sid="10" pm="."><plain>Methylation could play a key role in the prognosis of patients without mutations in the EGFR pathway </plain></SENT>
+<SENT sid="11" pm="."><plain>The combination of genetic and epigenetic alterations may be a good marker for the prognosis of <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e> patients </plain></SENT>
+</text></document>

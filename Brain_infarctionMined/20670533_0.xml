@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The purpose of this study was to evaluate changes in cerebral hemodynamics following percutaneous transluminal angioplasty (<z:mp ids='MP_0002633'>PTA</z:mp>) in patients with atherosclerotic cerebral <z:hpo ids='HP_0100545'>arterial stenosis</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain><z:mp ids='MP_0002633'>PTA</z:mp> was performed on the patients under the condition that the <z:hpo ids='HP_0100545'>arterial stenosis</z:hpo> ratio was 70% or more and regional cerebrovascular reserve (rCVR) had decreased to 10% or less </plain></SENT>
+<SENT sid="2" pm="."><plain>Resting regional cerebral blood flow (rCBF) and rCVR responding to <z:chebi fb="0" ids="27690">acetazolamide</z:chebi> loading were measured by (133)Xe single <z:chebi fb="23" ids="30212">photon</z:chebi> emission tomography (SPECT) just prior to and 1 month after <z:mp ids='MP_0002633'>PTA</z:mp> </plain></SENT>
+<SENT sid="3" pm="."><plain>The average stenosis ratio was significantly improved from 77% to 36% one month after <z:mp ids='MP_0002633'>PTA</z:mp> </plain></SENT>
+<SENT sid="4" pm="."><plain>There were 185 preoperative <z:mpath ids='MPATH_458'>normal</z:mpath> rCBF and <z:mpath ids='MPATH_458'>normal</z:mpath> rCVR regions, 176 region (95%) of which retained their <z:mpath ids='MPATH_458'>normal</z:mpath> rCBF and <z:mpath ids='MPATH_458'>normal</z:mpath> rCVR postoperatively </plain></SENT>
+<SENT sid="5" pm="."><plain>In 9 regions (5%) only rCVR worsened </plain></SENT>
+<SENT sid="6" pm="."><plain>Preoperatively, there were 59 <z:mpath ids='MPATH_458'>normal</z:mpath> rCBF and decreased rCVR regions </plain></SENT>
+<SENT sid="7" pm="."><plain>Forty-five (76%) regions later showed normalized rCVR </plain></SENT>
+<SENT sid="8" pm="."><plain>Six regions (10%) remained decreased rCVR regions; no region did not worsen during the course of this study </plain></SENT>
+<SENT sid="9" pm="."><plain>Twenty-nine regions of both preoperative resting rCBF and rCVR decreased regions </plain></SENT>
+<SENT sid="10" pm="."><plain>Postoperatively, 18 regions (62%) normalized in regards to both rCVR and resting rCBF; in 4 regions (14%), only the resting rCBF was normalized </plain></SENT>
+<SENT sid="11" pm="."><plain>In the 24 decreased rCBF and <z:mpath ids='MPATH_458'>normal</z:mpath> rCVR regions, there were no hemodynamic alterations after <z:mp ids='MP_0002633'>PTA</z:mp> </plain></SENT>
+<SENT sid="12" pm="."><plain>Regions with decreasing rCVR are at high risk of future <z:e sem="disease" ids="C0751955" disease_type="Disease or Syndrome" abbrv="">brain infarction</z:e> </plain></SENT>
+<SENT sid="13" pm="."><plain>This study indicates that the risk of <z:e sem="disease" ids="C0007785" disease_type="Disease or Syndrome" abbrv="">cerebral infarction</z:e> was avoided by <z:mp ids='MP_0002633'>PTA</z:mp> in the low rCVR regions </plain></SENT>
+</text></document>

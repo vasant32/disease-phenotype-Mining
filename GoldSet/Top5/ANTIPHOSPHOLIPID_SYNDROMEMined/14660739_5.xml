@@ -1,0 +1,5 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The <z:e sem="disease" ids="C0085278" disease_type="Disease or Syndrome" abbrv="">antiphospholipid syndrome</z:e> is characterized clinically by fetal loss and <z:mp ids='MP_0005048'>thrombosis</z:mp> and serologically by the presence of autoantibodies to <z:chebi fb="23" ids="18059">lipid</z:chebi>-binding proteins </plain></SENT>
+<SENT sid="1" pm="."><plain>In a model of this procoagulant condition in which these antibodies are injected into pregnant mice, fetal loss was prevented by blocking of complement activation </plain></SENT>
+<SENT sid="2" pm="."><plain>Specifically, interaction of complement component 5a (C5a) with its receptor is necessary for <z:mp ids='MP_0005048'>thrombosis</z:mp> of placental vasculature </plain></SENT>
+<SENT sid="3" pm="."><plain>Inhibition of complement activation may have a therapeutic role in this disease </plain></SENT>
+</text></document>

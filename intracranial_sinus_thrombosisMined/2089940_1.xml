@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Pseudotumour was diagnosed in six patients aged 3-38 years during an 8 years period </plain></SENT>
+<SENT sid="1" pm="."><plain>The diagnosis was based on <z:hpo ids='HP_0002315'>headache</z:hpo>, <z:e sem="disease" ids="C0030353" disease_type="Disease or Syndrome" abbrv="">papilloedema</z:e>, <z:mpath ids='MPATH_458'>normal</z:mpath> CT scan and cerebrospinal fluid (CSF) composition </plain></SENT>
+<SENT sid="2" pm="."><plain>Additional clinical symptoms were <z:hpo ids='HP_0002018'>nausea</z:hpo>, <z:e sem="disease" ids="C0848209" disease_type="Disease or Syndrome" abbrv="">VIth nerve palsy</z:e>, <z:hpo ids='HP_0001251'>ataxia</z:hpo>, <z:hpo ids='HP_0000622'>blurred vision</z:hpo> and frank visual reduction over time </plain></SENT>
+<SENT sid="3" pm="."><plain>Sagittal sinus <z:mp ids='MP_0005048'>thrombosis</z:mp> was ruled out by angiography or magnetic resonance imaging </plain></SENT>
+<SENT sid="4" pm="."><plain>In five of the six patients lumbar steady state infusion tests were performed to evaluate intracranial hydrodynamics and CSF resorbtion </plain></SENT>
+<SENT sid="5" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> patients demonstrated a markedly increased opening pressure (range 13 to 48 mm Hg) </plain></SENT>
+<SENT sid="6" pm="."><plain>CSF outflow resistance ranged from upper <z:mpath ids='MPATH_458'>normal</z:mpath> to pathologically increased levels (8-19 mm Hg/ml/min) </plain></SENT>
+<SENT sid="7" pm="."><plain>Combined epidural intracranial pressure/middle cerebral artery blood velocity monitoring in 3 patients revealed a great number of B waves and a labile cerebral vasomotor state </plain></SENT>
+<SENT sid="8" pm="."><plain>Pharmacological treatment was tried with <z:chebi fb="0" ids="28544">digitoxin</z:chebi>, <z:chebi fb="0" ids="27690">acetazolamide</z:chebi>, <z:chebi fb="0" ids="47426">furosemide</z:chebi> and/or <z:chebi fb="0" ids="50858">corticosteroids</z:chebi> </plain></SENT>
+<SENT sid="9" pm="."><plain>Two patients did well on long-term treatment with <z:chebi fb="0" ids="28544">digitoxin</z:chebi> and <z:chebi fb="0" ids="47426">furosemide</z:chebi>, respectively </plain></SENT>
+<SENT sid="10" pm="."><plain>In the other four patients the clinical development was unsatisfactory on medical treatment alone </plain></SENT>
+<SENT sid="11" pm="."><plain>They were subsequently operated with implantation of a lumboperitoneal, cisternoatrial or cisternoperitoneal shunt </plain></SENT>
+<SENT sid="12" pm="."><plain>Shunting rapidly reversed clinical signs and symptoms, except for a partial persistent <z:hpo ids='HP_0000572'>visual loss</z:hpo> in an 18 years old boy who had experienced symptoms for 3 years resistant to pharmacological treatment </plain></SENT>
+</text></document>

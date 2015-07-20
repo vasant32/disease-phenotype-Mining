@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We have used a competition assay to identify the targets of trans-acting elements that modulate the expression of the human c-myc gene (designated MYC in human gene nomenclature) </plain></SENT>
+<SENT sid="1" pm="."><plain>For this purpose, a c-myc hybrid indicator gene was formed by joining the c-myc promoter region, first noncoding exon, and intron to the <z:mp ids='MP_0001794'>bacterial</z:mp> gene for <z:chebi fb="0" ids="17698">chloramphenicol</z:chebi> acetyltransferase (CAT) </plain></SENT>
+<SENT sid="2" pm="."><plain>The test assay consisted of cotransfecting the indicator gene with competing fragments of DNA derived from suspected control regions of the c-myc gene </plain></SENT>
+<SENT sid="3" pm="."><plain>Such experiments test the hypothesis that control regions are often targets for the binding of trans-acting regulatory factors that can be diverted to competing fragments of DNA </plain></SENT>
+<SENT sid="4" pm="."><plain>A negatively acting element will be diverted from the indicator gene, allowing the gene's enhanced expression, whereas a positively acting element will behave oppositely </plain></SENT>
+<SENT sid="5" pm="."><plain>Control indicator genes driven by non-myc promoters assess the specificity of the effect </plain></SENT>
+<SENT sid="6" pm="."><plain>Using this approach, we find three c-myc regions that are capable of enhancing the expression of the indicator gene in competition assays (i.e., putative sites of negative modulation) </plain></SENT>
+<SENT sid="7" pm="."><plain>In addition, we find sequences near the c-myc promoters that suppress expression in competition assays (i.e., putative binding sites of positively acting factors) </plain></SENT>
+<SENT sid="8" pm="."><plain>These results, with appropriate controls, suggest the existence of target sites near the c-myc gene that specifically modulate its expression both positively and negatively </plain></SENT>
+<SENT sid="9" pm="."><plain>Their locations fit well with regions damaged or lost in many Burkitt <z:hpo ids='HP_0002665'>lymphoma</z:hpo> and murine <z:hpo ids='HP_0011857'>plasmacytoma</z:hpo> translocations </plain></SENT>
+</text></document>

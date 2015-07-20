@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Defects of cytoarchitectural proteins can cause left ventricular noncompaction, which is often associated with conduction system diseases </plain></SENT>
+<SENT sid="1" pm="."><plain>We have previously identified a p.D117N mutation in the LIM domain-binding protein 3-encoding Z-band alternatively spliced PDZ motif gene (ZASP) in a patient with left ventricular noncompaction and conduction disturbances </plain></SENT>
+<SENT sid="2" pm="."><plain>We sought to investigate the role of p.D117N mutation in the LBD3 NM_001080114.1 isoform (ZASP1-D117N) for the regulation of cardiac <z:chebi fb="199" ids="26708">sodium</z:chebi> channel (Na(v)1.5) that plays an important role in the cardiac conduction system </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS AND RESULTS: Effects of ZASP1-<z:mp ids='MP_0002169'>wild-type</z:mp> and ZASP1-D117N on Na(v)1.5 were studied in human embryonic kidney-293 cells and neonatal rat cardiomyocytes </plain></SENT>
+<SENT sid="4" pm="."><plain>Patch-clamp study demonstrated that ZASP1-D117N significantly attenuated I(Na) by 27% in human embryonic kidney-293 cells and by 32% in neonatal rat cardiomyocytes </plain></SENT>
+<SENT sid="5" pm="."><plain>In addition, ZASP1-D117N rightward shifted the voltage-dependent activation and inactivation in both systems </plain></SENT>
+<SENT sid="6" pm="."><plain>In silico simulation using Luo-Rudy phase 1 model demonstrated that altered Na(v)1.5 function can reduce cardiac conduction velocity by 28% compared with control </plain></SENT>
+<SENT sid="7" pm="."><plain>Pull-down assays showed that both <z:mp ids='MP_0002169'>wild-type</z:mp> and ZASP1-D117N can complex with Na(v)1.5 and telethonin/T-Cap, which required intact PDZ domains </plain></SENT>
+<SENT sid="8" pm="."><plain>Immunohistochemical staining in neonatal rat cardiomyocytes demonstrates that ZASP1-D117N did not significantly disturb the Z-line structure </plain></SENT>
+<SENT sid="9" pm="."><plain>Disruption of cytoskeletal networks with 5-iodonaphthalene-1-<z:chebi fb="0" ids="29825">sulfonyl</z:chebi> homopiperazine and <z:chebi fb="0" ids="23528">cytochalasin</z:chebi> D abolished the effects of ZASP1-D117N on Na(v)1.5 </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSIONS: ZASP1 can form protein complex with telethonin/T-Cap and Na(v)1.5 </plain></SENT>
+<SENT sid="11" pm="."><plain>The left ventricular noncompaction-specific ZASP1 mutation can cause loss of function of Na(v)1.5, without significant alteration of the cytoskeletal protein complex </plain></SENT>
+<SENT sid="12" pm="."><plain>Our study suggests that electric remodeling can occur in left ventricular noncompaction subject because of a direct effect of mutant ZASP on Na(v)1.5 </plain></SENT>
+</text></document>

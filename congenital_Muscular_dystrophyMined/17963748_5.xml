@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Laminin alpha2 is a component of skeletal and cardiac muscle basal lamina </plain></SENT>
+<SENT sid="1" pm="."><plain>A defect of the laminin alpha2 chain leads to severe <z:hpo ids='HP_0003741'>congenital muscular dystrophy</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDC1A</z:e>) in humans and dy/dy mice </plain></SENT>
+<SENT sid="2" pm="."><plain>Myogenic cells including myoblasts, myotubes, and myofibers in skeletal muscle are a possible source of the laminin alpha2 chain, and myogenic cells are thus proposed as a cell source for <z:hpo ids='HP_0003741'>congenital muscular dystrophy</z:hpo> therapy </plain></SENT>
+<SENT sid="3" pm="."><plain>However, we observed production of laminin alpha2 in non-myogenic cells of <z:mpath ids='MPATH_458'>normal</z:mpath> mice, and we could enrich these laminin alpha2-producing cells in CD90(+) cell fractions </plain></SENT>
+<SENT sid="4" pm="."><plain>Intriguingly, the number of CD90(+) cells increased dramatically during skeletal <z:mp ids='MP_0000750'>muscle regeneration</z:mp> in mice </plain></SENT>
+<SENT sid="5" pm="."><plain>This fraction did not include myogenic cells but exhibited a fibroblast-like phenotype </plain></SENT>
+<SENT sid="6" pm="."><plain>Moreover, these cells were resident in skeletal muscle, not derived from bone marrow </plain></SENT>
+<SENT sid="7" pm="."><plain>Finally, the production of laminin alpha2 in CD90(+) cells was not dependent on fusion with myogenic cells </plain></SENT>
+<SENT sid="8" pm="."><plain>Thus, CD90(+) cells are a newly identified additional cell fraction that increased during skeletal <z:mp ids='MP_0000750'>muscle regeneration</z:mp> in vivo and could be another cell source for therapy for lama2-deficient <z:hpo ids='HP_0003560'>muscular dystrophy</z:hpo> </plain></SENT>
+</text></document>

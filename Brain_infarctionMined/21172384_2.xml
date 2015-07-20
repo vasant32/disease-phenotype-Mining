@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Both <z:mp ids='MP_0003674'>oxidative stress</z:mp> and excessive activation of <z:chebi fb="6" ids="14321,29987">glutamate</z:chebi> receptors are implicated as major causes of ischemic brain injury </plain></SENT>
+<SENT sid="1" pm="."><plain>However, the existing <z:chebi fb="0" ids="31882">N-methyl-D-aspartate</z:chebi> (<z:chebi fb="0" ids="31882">NMDA</z:chebi>) receptor <z:chebi fb="68" ids="48706">antagonists</z:chebi> have not exerted good clinical outcome, most likely because they do not protect neurons against <z:mp ids='MP_0003674'>oxidative stress</z:mp> </plain></SENT>
+<SENT sid="2" pm="."><plain>Thus, more effective <z:chebi fb="6" ids="14321,29987">glutamate</z:chebi> <z:chebi fb="68" ids="48706">antagonists</z:chebi> and <z:chebi fb="11" ids="22586">antioxidants</z:chebi> are needed for the treatment of <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>In previous study, SP-8203, derived from earth worms, showed the blocking effect of <z:chebi fb="0" ids="31882">NMDA</z:chebi> receptor </plain></SENT>
+<SENT sid="4" pm="."><plain>We provided evidence that SP-8203 could also suppress the <z:mp ids='MP_0003674'>oxidative stress</z:mp> in this study </plain></SENT>
+<SENT sid="5" pm="."><plain>In vitro, 250 μM <z:chebi fb="0" ids="30492">H2O2</z:chebi> was treated to SH-SY5Y cells after the pre-treatment of SP-8203 (2, 20 and 200 μM) </plain></SENT>
+<SENT sid="6" pm="."><plain>SP-8203 significantly suppressed <z:chebi fb="0" ids="30492">H2O2</z:chebi>-induced cell <z:hpo ids='HP_0011420'>death</z:hpo> and reactive oxygen species production </plain></SENT>
+<SENT sid="7" pm="."><plain>In addition, we investigated the effects of SP-8203 in middle cerebral artery (<z:chebi fb="70" ids="34342">MCA</z:chebi>) occluded rat model </plain></SENT>
+<SENT sid="8" pm="."><plain>SP-8203 (5 and 10 mg/kg) was administered intraperitoneally to rats before and after the <z:chebi fb="70" ids="34342">MCA</z:chebi> occlusion and was injected daily for 10 days </plain></SENT>
+<SENT sid="9" pm="."><plain>After 10 days, SP-8203 remarkably reduced brain <z:mpath ids='MPATH_124'>infarct</z:mpath> volume and <z:chebi fb="23" ids="18059">lipid</z:chebi> peroxidation products in the <z:chebi fb="70" ids="34342">MCA</z:chebi>-occluded rats but MK-801 didn't </plain></SENT>
+<SENT sid="10" pm="."><plain>Moreover, SP-8203 significantly improved neurological deficits such as shortening of latency time in Rota rod performance </plain></SENT>
+<SENT sid="11" pm="."><plain>However, MK-801 didn't improve behavioral deficits </plain></SENT>
+<SENT sid="12" pm="."><plain>Therefore, SP-8203 may be more effective for multiple-target mechanisms of <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> </plain></SENT>
+</text></document>

@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIMS/HYPOTHESIS: Zinc is highly concentrated in pancreatic beta cells, is critical for <z:mpath ids='MPATH_458'>normal</z:mpath> insulin storage and may regulate glucagon secretion from alpha cells </plain></SENT>
+<SENT sid="1" pm="."><plain>Zinc transport family member 8 (ZnT8) is a zinc efflux transporter that is highly abundant in beta cells </plain></SENT>
+<SENT sid="2" pm="."><plain>Polymorphisms of ZnT8 (also known as SLC30A8) gene in man are associated with increased risk of type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="3" pm="."><plain>While global Znt8 knockout (Znt8KO) mice have been characterised, ZnT8 is also present in other islet cell types and extra-pancreatic tissues </plain></SENT>
+<SENT sid="4" pm="."><plain>Therefore, it is important to find ways of understanding the role of ZnT8 in beta and alpha cells without the difficulties caused by the confounding effects of ZnT8 in these other tissues </plain></SENT>
+<SENT sid="5" pm="."><plain>METHODS: We generated mice with beta cell-specific (Znt8BKO) and alpha cell-specific (Znt8AKO) knockout of Znt8, and performed in vivo and in vitro characterisation of the phenotypes to determine the functional and anatomical impact of ZnT8 in these cells </plain></SENT>
+<SENT sid="6" pm="."><plain>Thus we assessed zinc accumulation, insulin granule <z:mp ids='MP_0000002'>morphology</z:mp>, insulin biosynthesis and secretion, and <z:chebi fb="105" ids="17234">glucose</z:chebi> homeostasis </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: Znt8BKO mice are <z:chebi fb="105" ids="17234">glucose</z:chebi>-intolerant, have reduced beta cell zinc accumulation and atypical insulin granules </plain></SENT>
+<SENT sid="8" pm="."><plain>They also display reduced first-phase <z:chebi fb="105" ids="17234">glucose</z:chebi>-stimulated insulin secretion, reduced insulin processing enzyme transcripts and increased proinsulin levels </plain></SENT>
+<SENT sid="9" pm="."><plain>In contrast, Znt8AKO mice show no evident abnormalities in plasma glucagon and <z:chebi fb="105" ids="17234">glucose</z:chebi> homeostasis </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSIONS/INTERPRETATION: This is the first report of specific beta and alpha cell deletion of Znt8 </plain></SENT>
+<SENT sid="11" pm="."><plain>Our data indicate that while, under the conditions studied, ZnT8 is absolutely essential for proper beta cell function, it is largely dispensable for alpha cell function </plain></SENT>
+</text></document>

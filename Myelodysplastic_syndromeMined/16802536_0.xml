@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0002863'>Myelodysplastic syndromes</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MSD</z:e>) are acquired disorders of the bone marrow, characterized by defects in maturation and function of hematopoietic stem cells, ineffective hemopoiesis and risk of evolution to <z:hpo ids='HP_0002488'>acute leukemia</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Using prognostic scoring systems like the IPSS (International Prognostic Scoring System) or the Düsseldorf Score allows to predict the course of the disease, separating low-risk patients from high-risk patients </plain></SENT>
+<SENT sid="2" pm="."><plain>In the past, transfusion of red cells was the only treatment in the vast majority of patients </plain></SENT>
+<SENT sid="3" pm="."><plain>Today, there are promising drugs available, either within treatment studies or in the near future approved by health authorities </plain></SENT>
+<SENT sid="4" pm="."><plain>Low-risk patients may respond to antithymocyte globulin, <z:chebi fb="0" ids="39867">valproic acid</z:chebi> and Revlimid in 5q-patients </plain></SENT>
+<SENT sid="5" pm="."><plain>Erythropoietin (EPO) +/- granulocyte colony-stimulating factor (G-CSF) should be administered in patients with a low EPO level </plain></SENT>
+<SENT sid="6" pm="."><plain>High-risk patients aged &lt; 60 years can be cured by allogeneic stem cell transplantation </plain></SENT>
+<SENT sid="7" pm="."><plain>Older high-risk patients are likely to respond to epigenetic treatment with <z:chebi fb="0" ids="2038">5-azacytidine</z:chebi> or <z:chebi fb="0" ids="50131">decitabine</z:chebi>, even in case of chromosomal anomalies </plain></SENT>
+<SENT sid="8" pm="."><plain>After exact diagnosis using FAB and/or WHO classification and evaluation of prognosis, patients should be treated according to their individual profile </plain></SENT>
+<SENT sid="9" pm="."><plain>In the near future, the aim is not only to improve quality of life but also to prolong life expectancy </plain></SENT>
+</text></document>

@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: <z:e sem="disease" ids="C1321558" disease_type="Disease or Syndrome" abbrv="">Ocular ischemic syndrome</z:e> is a devastating <z:e sem="disease" ids="C0015397" disease_type="Disease or Syndrome" abbrv="">eye disease</z:e> caused by severe carotid <z:mp ids='MP_0006135'>artery stenosis</z:mp> </plain></SENT>
+<SENT sid="1" pm="."><plain>The reduction of blood flow produced by bilateral common carotid <z:mp ids='MP_0006134'>artery occlusion</z:mp> (BCCAO) of rats for 7 days induces events related to <z:hpo ids='HP_0002171'>gliosis</z:hpo> with no evident histological damage </plain></SENT>
+<SENT sid="2" pm="."><plain>However, <z:hpo ids='HP_0000546'>retinal degeneration</z:hpo> and cellular <z:hpo ids='HP_0011420'>death</z:hpo> occur after 90 days of BCCAO </plain></SENT>
+<SENT sid="3" pm="."><plain>Our purpose has been to investigate the effects of BCCAO for 30 days in the retina of adult rats </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS: Adult Wistar rats were submitted to BCCAO or sham surgery </plain></SENT>
+<SENT sid="5" pm="."><plain>Both direct and consensual pupillary light reflexes were investigated before and after surgery, everyday for the first week and weekly for 30 days </plain></SENT>
+<SENT sid="6" pm="."><plain>After 1 month, eyes were enucleated and embedded in paraffin </plain></SENT>
+<SENT sid="7" pm="."><plain>The <z:chebi fb="46" ids="15035">retinal</z:chebi> ganglion cell (RGC) density and thickness of the internal plexiform (IPL), internal nuclear, outer plexiform, and outer nuclear layers were estimated </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: Four rats of the BCCAO group (50%) lost the direct pupillary reflex in both eyes, three rats (37%) lost this reflex in <z:mp ids='MP_0005163'>one eye</z:mp>, and only one (13%) maintained it in both eyes </plain></SENT>
+<SENT sid="9" pm="."><plain>RGC density (cells/mm) was diminished in the BCCAO group, and a significant decrease was found in the total retina and IPL thickness; however, no changes were evident in the other layers </plain></SENT>
+<SENT sid="10" pm="."><plain>BCCAO pupillary-reflex-negative rats presented with a significant decrease in total <z:chebi fb="46" ids="15035">retinal</z:chebi> thickness and <z:chebi fb="46" ids="15035">retinal</z:chebi> ganglion cell density compared with the sham group </plain></SENT>
+<SENT sid="11" pm="."><plain>Both BCCAO pupillary-reflex-positive) and -negative rats showed a decrease in IPL compared with the sham group </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSION: This study demonstrates that BCCAO for 30 days induces functional and morphological damage to the retina with loss of the pupillary reflex and a decrease in IPL thickness and RGC number </plain></SENT>
+<SENT sid="13" pm="."><plain>We suggest that this protocol might be used as a model for <z:e sem="disease" ids="C1321558" disease_type="Disease or Syndrome" abbrv="">ocular ischemic syndrome</z:e> in the rat </plain></SENT>
+</text></document>

@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>CONTEXT: The BRAF V600E mutation is the most frequent genetic alteration in <z:hpo ids='HP_0002895'>papillary thyroid carcinoma</z:hpo> (PTC) </plain></SENT>
+<SENT sid="1" pm="."><plain>In <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e>, BRAF V600E was described to functionally cooperate with Rac1b, a <z:mp ids='MP_0001399'>hyperactive</z:mp> splice variant of the small GTPase Rac1, to sustain cell survival </plain></SENT>
+<SENT sid="2" pm="."><plain>This interplay has never been investigated in PTCs </plain></SENT>
+<SENT sid="3" pm="."><plain>OBJECTIVE: We aimed to analyze the expression of Rac1b in PTC and correlate its expression with BRAF V600E mutational status, histopathological features and clinical outcome </plain></SENT>
+<SENT sid="4" pm="."><plain>PATIENTS AND METHODS: 61 patients and 87 samples (61 PTCs, 26 <z:mpath ids='MPATH_458'>normal</z:mpath> thyroid tissues) were included </plain></SENT>
+<SENT sid="5" pm="."><plain>Patients were divided into two groups based on longitudinal evolution and final outcome </plain></SENT>
+<SENT sid="6" pm="."><plain>Rac1b expression levels were determined by quantitative RT-PCR and Western blotting </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: Rac1b was expressed in thyroid and overexpressed in 46% of PTCs </plain></SENT>
+<SENT sid="8" pm="."><plain>Neither Rac1b overexpression nor V600E mutation correlated with histopathological features classically associated with worse prognosis </plain></SENT>
+<SENT sid="9" pm="."><plain>Rac1b overexpression was significantly associated with both V600E mutation (P = 0.0008) and poor clinical outcome (P = 0.0029) </plain></SENT>
+<SENT sid="10" pm="."><plain>Whereas BRAF V600E alone did not associate with patient outcome (P = 0.2865), the association of Rac1b overexpression with BRAF V600E was overrepresented in the group with poorer clinical outcome (P = 0.0044) </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: Present results document, for the first time, expression of Rac1b in <z:mpath ids='MPATH_458'>normal</z:mpath> thyroid cells as well as overexpression in a subset of PTCs </plain></SENT>
+<SENT sid="12" pm="."><plain>Furthermore, they suggest a possible interplay between BRAF V600E and Rac1b contributing to poor clinical outcome </plain></SENT>
+<SENT sid="13" pm="."><plain>Future studies are needed to clarify the oncogenic potential of Rac1b in thyroid <z:e sem="disease" ids="C0596263" disease_type="Neoplastic Process" abbrv="">carcinogenesis</z:e> </plain></SENT>
+</text></document>

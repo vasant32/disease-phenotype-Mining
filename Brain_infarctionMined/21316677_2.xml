@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: Serum levels of the soluble receptor for advanced glycation end-products (sRAGE) have been associated with risk of <z:e sem="disease" ids="C0007222" disease_type="Disease or Syndrome" abbrv="CVD">cardiovascular disease</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>We hypothesized that sRAGE levels are associated with subclinical cerebrovascular disease in an ethnically diverse population </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: Clinically <z:hpo ids='HP_0001297'>stroke</z:hpo>-free participants in the multi-ethnic Northern Manhattan Study (NOMAS) underwent brain MRI to quantify subclinical brain <z:mpath ids='MPATH_124'>infarcts</z:mpath> (SBI) and white matter hyperintensity volume (WMHV) (n = 1102) </plain></SENT>
+<SENT sid="3" pm="."><plain>Serum levels of sRAGE were measured by ELISA </plain></SENT>
+<SENT sid="4" pm="."><plain>Logistic and multiple linear regression were employed to estimate associations of sRAGE with SBI and WMHV, after adjusting for demographics and vascular risk factors </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: Median sRAGE levels were significantly lower in Hispanics (891.9 pg/ml; n = 708) and non-Hispanic blacks (757.4 pg/ml; n = 197) than in non-Hispanic whites (1120.5 pg/ml; n = 170), and these differences remained after adjusting for other risk factors </plain></SENT>
+<SENT sid="6" pm="."><plain>Interactions were observed by race-ethnicity between sRAGE levels and MRI measurements, including for SBI in Hispanics (p = 0.04) and WMHV among blacks (p = 0.03) </plain></SENT>
+<SENT sid="7" pm="."><plain>In Hispanics, increasing sRAGE levels were associated with a lower odds of SBI, with those in the upper sRAGE quartile displaying a 50% lower odds of SBI after adjusting for sociodemographic and vascular risk factors (p = 0.05) </plain></SENT>
+<SENT sid="8" pm="."><plain>Among blacks, those in the upper quartile of sRAGE had a similarly reduced increased risk of SBI (p = 0.06) and greater WMHV (p = 0.04) </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSION: Compared to whites, Hispanics and blacks have significantly lower sRAGE levels, and these levels were associated with more subclinical <z:e sem="disease" ids="C0006111" disease_type="Disease or Syndrome" abbrv="">brain disease</z:e> </plain></SENT>
+<SENT sid="10" pm="."><plain>Taken together, these findings suggest sRAGE levels may be significantly influence by ethnicity </plain></SENT>
+<SENT sid="11" pm="."><plain>Further studies of sRAGE and <z:hpo ids='HP_0001297'>stroke</z:hpo> risk, particularly in minorities, are warranted </plain></SENT>
+</text></document>

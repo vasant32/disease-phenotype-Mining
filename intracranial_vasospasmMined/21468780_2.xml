@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Intra-arterial (IA) nicardipine is often used to treat <z:e sem="disease" ids="C0265110" disease_type="Disease or Syndrome" abbrv="">cerebral vasospasm</z:e> associated with <z:hpo ids='HP_0002138'>subarachnoid hemorrhage</z:hpo> (SAH) </plain></SENT>
+<SENT sid="1" pm="."><plain>While <z:hpo ids='HP_0002615'>hypotension</z:hpo> has been noted to be a dose-limiting side effect of intravenous infusions, this has seldom been reported for IA administration </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: We reviewed a consecutive series of patients who received IA nicardipine for SAH-associated vasospasm </plain></SENT>
+<SENT sid="3" pm="."><plain>Nicardipine was titrated to angiographic response, with blood pressure and intracranial pressure monitoring </plain></SENT>
+<SENT sid="4" pm="."><plain>We analyzed data using Wilcoxon signed rank, Student's t-test, Spearman's correlation, and χ(2) statistics as appropriate </plain></SENT>
+<SENT sid="5" pm="."><plain>A P value &lt;0.05 was considered significant </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: Thirty patients underwent 50 procedures in which nicardipine was the sole chemical <z:chebi fb="1" ids="35620">vasodilator</z:chebi> (median dose, 15 mg) </plain></SENT>
+<SENT sid="7" pm="."><plain>Median mean arterial pressures (MAP) decreased from 118 to 100 mmHg (P &lt; 0.001), with an intra-operative low of 80 mmHg </plain></SENT>
+<SENT sid="8" pm="."><plain>Both intra-operative and post-operative decreases in MAP were directly related to nicardipine dose (r (s) = 0.352, P = 0.022 and r (s) = 0.308, P = 0.047, respectively) </plain></SENT>
+<SENT sid="9" pm="."><plain><z:hpo ids='HP_0002615'>Hypotension</z:hpo> (MAP &lt; 70 mmHg) occurred in 22%, and 44% required initiation of or increases in vasopressor therapy </plain></SENT>
+<SENT sid="10" pm="."><plain>After the first treatment, 11 of 16 patients treated with <z:chebi fb="1" ids="35620">vasodilator</z:chebi> therapy alone, and 5 of 14 patients who underwent additional balloon angioplasty (68.8 vs. 35.7%, P = 0.141), required further endovascular treatments due to recurrent vasospasm on subsequent days </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: Intra-arterial nicardipine is associated with significant intra-operative blood pressure lowering, an increased requirement for intra-operative vasopressor therapy, and a tendency toward re-treatment when used as initial monotherapy for vasospasm </plain></SENT>
+</text></document>

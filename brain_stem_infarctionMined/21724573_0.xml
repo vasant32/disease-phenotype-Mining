@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND PURPOSE: Low brain tissue perfusion due to abnormal venous drainage is thought to be a central mechanism of brain damage in SWS </plain></SENT>
+<SENT sid="1" pm="."><plain>Here, HR-PWI was used to quantify WM perfusion abnormalities and to correlate these with brain <z:mpath ids='MPATH_127'>atrophy</z:mpath> and clinical variables </plain></SENT>
+<SENT sid="2" pm="."><plain>MATERIALS AND METHODS: Fourteen children (age range, 0.8-10.0 years) with unilateral SWS underwent <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e> imaging examinations, including HR-PWI </plain></SENT>
+<SENT sid="3" pm="."><plain>rCBV, rCBF, and <z:chebi fb="0" ids="53233">MTT</z:chebi> in the affected WM and in contralateral homotopic WM were measured </plain></SENT>
+<SENT sid="4" pm="."><plain>AI for each perfusion parameter was correlated with age, brain <z:mpath ids='MPATH_127'>atrophy</z:mpath>, and motor and <z:hpo ids='HP_0001250'>seizure</z:hpo> variables as well as IQ </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: Increased perfusion was seen in the affected hemisphere in 5 children and decreased perfusion in 9 children </plain></SENT>
+<SENT sid="6" pm="."><plain>Brain <z:mpath ids='MPATH_127'>atrophy</z:mpath> was more severe in the low-perfusion group (P = .01) and was related to both CBF-AI and CBV-AI (r = -0.69, P = .007; r = -0.64, P = .014, respectively) </plain></SENT>
+<SENT sid="7" pm="."><plain>Older children had lower CBV values on the affected side (r = -0.62, P = .02) </plain></SENT>
+<SENT sid="8" pm="."><plain>Longer duration of <z:e sem="disease" ids="C0014544" disease_type="Disease or Syndrome" abbrv="">epilepsy</z:e> was related to lower CBF (more negative CBF-AI, r = -0.58, P = .03) and low CBV (r = -0.55, P = .04) on the affected side </plain></SENT>
+<SENT sid="9" pm="."><plain>Lower perfusion was associated with more frequent <z:hpo ids='HP_0001250'>seizures</z:hpo> (rCBF-AI: r = -0.56, P = .04; rCBV-AI: r = -0.63, P = .02) </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSIONS: Increased perfusion in the affected cerebral WM may indicate an early stage of SWS without severe brain <z:mpath ids='MPATH_127'>atrophy</z:mpath> </plain></SENT>
+<SENT sid="11" pm="."><plain>Decreased perfusion is associated with frequent <z:hpo ids='HP_0001250'>seizures</z:hpo>, long duration of <z:e sem="disease" ids="C0014544" disease_type="Disease or Syndrome" abbrv="">epilepsy</z:e>, and brain <z:mpath ids='MPATH_127'>atrophy</z:mpath> </plain></SENT>
+</text></document>

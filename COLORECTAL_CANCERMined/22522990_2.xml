@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIM: To estimate the incidence and mortality trends of gastric and <z:e sem="disease" ids="C1527249" disease_type="Neoplastic Process" abbrv="">colorectal cancers</z:e> in Croatia between 1988 and 2008 </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: Incidence data for the period 1988-2008 were obtained from the Croatian National <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">Cancer</z:e> Registry </plain></SENT>
+<SENT sid="2" pm="."><plain>The number of <z:hpo ids='HP_0011420'>deaths</z:hpo> from gastric and <z:e sem="disease" ids="C1527249" disease_type="Neoplastic Process" abbrv="">colorectal cancers</z:e> were obtained from the World Health Organization mortality database </plain></SENT>
+<SENT sid="3" pm="."><plain>Joinpoint regression analysis was used to describe changes in trends by sex </plain></SENT>
+<SENT sid="4" pm="."><plain>RESULTS: <z:hpo ids='HP_0012126'>Gastric cancer</z:hpo> incidence rates declined steadily during the study period, with estimated annual percent change (EAPC) of -3.2% for men and -2.8% for women </plain></SENT>
+<SENT sid="5" pm="."><plain>Mortality rates in men decreased, with EAPC of -5.0% from 1988-1995 and -2.5% from 1995-2008 </plain></SENT>
+<SENT sid="6" pm="."><plain>Mortality rates in women decreased, with EAPC of -3.2% throughout the study period </plain></SENT>
+<SENT sid="7" pm="."><plain>For <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> in men, joinpoint analysis revealed increasing trends of both incidence (EAPC 2.9%) and mortality (EAPC 2.1%) </plain></SENT>
+<SENT sid="8" pm="."><plain>In women, the increase in incidence was not significant, but mortality rates in the last 15 years showed a significant increase (EAPC 1.1%) </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSION: The incidence and mortality trends of <z:hpo ids='HP_0012126'>gastric cancer</z:hpo> in Croatia are similar to other European countries, while the still increasing <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> mortality calls for more efficient prevention and treatment </plain></SENT>
+</text></document>

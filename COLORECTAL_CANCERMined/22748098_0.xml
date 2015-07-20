@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: The aim was to compare two standard chemotherapy regimens combined with bevacizumab as first-line treatment in patients with <z:e sem="disease" ids="C0948380" disease_type="Neoplastic Process" abbrv="">metastatic colorectal cancer</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: Patients previously untreated for <z:e sem="disease" ids="C0027627" disease_type="Neoplastic Process" abbrv="mets">metastatic disease</z:e> were randomized in: group A (irinotecan, <z:chebi fb="0" ids="31348">capecitabine</z:chebi>, bevacizumab, every 3 weeks; XELIRI-bevacizumab) and group B (irinotecan, leucovorin, fluorouracil, bevacizumab, every 2 weeks; FOLFIRI-bevacizumab) </plain></SENT>
+<SENT sid="2" pm="."><plain>Primary endpoint was progression-free survival (PFS) </plain></SENT>
+<SENT sid="3" pm="."><plain>Plasma concentrations of nitric <z:chebi fb="177" ids="25741,29356">oxide</z:chebi>, osteopontin, TGF-β1 and VEGF-A were measured at baseline and during treatment </plain></SENT>
+<SENT sid="4" pm="."><plain>RESULTS: Among 285 eligible patients, 143 were randomized to group A and 142 to group B </plain></SENT>
+<SENT sid="5" pm="."><plain>Fifty-five patients (38.5%) in group A and 57 (40.1%) in group B responded (p = 0.81) </plain></SENT>
+<SENT sid="6" pm="."><plain>After a median follow-up of 42 months, median PFS was 10.2 and 10.8 months (p = 0.74), while median OS was 20.0 and 25.3 months (p = 0.099), for groups A and B, respectively </plain></SENT>
+<SENT sid="7" pm="."><plain>Most frequent grade 3-4 toxicities (group A vs group B) were <z:hpo ids='HP_0001875'>neutropenia</z:hpo> (13% vs 22%, p = 0.053) and <z:hpo ids='HP_0002014'>diarrhea</z:hpo> (19% vs 11%, p = 0.082) </plain></SENT>
+<SENT sid="8" pm="."><plain>Baseline plasma osteopontin concentrations demonstrated prognostic significance for both PFS and OS </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSIONS: This trial did not show significant differences in efficacy between the groups </plain></SENT>
+<SENT sid="10" pm="."><plain>However, the toxicity profile was different </plain></SENT>
+<SENT sid="11" pm="."><plain>Baseline plasma osteopontin concentrations demonstrated independent prognostic significance </plain></SENT>
+<SENT sid="12" pm="."><plain>(Registration number: ACTRN12610000270011) </plain></SENT>
+</text></document>

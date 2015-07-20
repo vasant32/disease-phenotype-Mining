@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We demonstrate that <z:chebi fb="0" ids="9168">rapamycin</z:chebi> can induce regression of <z:mpath ids='MPATH_271'>adenomatous polyposis coli</z:mpath> (Apc) mutation-dependent colonic <z:mpath ids='MPATH_270'>adenomas</z:mpath> in genetically engineered mice (CPC;Apc) </plain></SENT>
+<SENT sid="1" pm="."><plain>An endoscope was used to visualize <z:mpath ids='MPATH_270'>adenomas</z:mpath> in CPC;Apc mice weekly for 10 weeks </plain></SENT>
+<SENT sid="2" pm="."><plain>The lesion surface areas were measured using a distance gauge and digitally generated grid </plain></SENT>
+<SENT sid="3" pm="."><plain>Coronal scans were performed on magnetic resonance imaging (MRI) to localize <z:mpath ids='MPATH_270'>adenomas</z:mpath>, and <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> volumes were measured from regions of interest drawn on consecutive axial scans </plain></SENT>
+<SENT sid="4" pm="."><plain><z:chebi fb="0" ids="9168">Rapamycin</z:chebi> (5 mg/kg) was administered intraperitoneally daily for 5 weeks </plain></SENT>
+<SENT sid="5" pm="."><plain>Endoscopy and MRI were performed weekly to monitor <z:mpath ids='MPATH_270'>adenoma</z:mpath> regression </plain></SENT>
+<SENT sid="6" pm="."><plain>Caliper measurements and immunohistochemistry (IHC) were performed on <z:mpath ids='MPATH_270'>adenomas</z:mpath> postmortem </plain></SENT>
+<SENT sid="7" pm="."><plain>Dimensions from n = 30 <z:mpath ids='MPATH_270'>adenomas</z:mpath> in n = 7 animals were measured </plain></SENT>
+<SENT sid="8" pm="."><plain><z:mpath ids='MPATH_270'>Adenoma</z:mpath> surface areas on endoscopy correlated with volumes on MRI and with postmortem caliper measurements, R(2) = 0.84 and R(2) = 0.81, respectively </plain></SENT>
+<SENT sid="9" pm="."><plain>The mean <z:mpath ids='MPATH_270'>adenoma</z:mpath> doubling times on endoscopy and MRI were 0.95 ± 0.14 and 1.21 ± 0.16 weeks, respectively </plain></SENT>
+<SENT sid="10" pm="."><plain>The minimum detectable <z:mpath ids='MPATH_270'>adenoma</z:mpath> surface area and volume on endoscopy and MRI was 0.69 mm(2) and 1.76 mm(3), respectively </plain></SENT>
+<SENT sid="11" pm="."><plain>On histology, the <z:chebi fb="0" ids="9168">rapamycin</z:chebi>-treated <z:mpath ids='MPATH_270'>adenomas</z:mpath> showed limited regions of <z:mpath ids='MPATH_589'>dysplasia</z:mpath> </plain></SENT>
+<SENT sid="12" pm="."><plain><z:chebi fb="0" ids="9168">Rapamycin</z:chebi> therapy resulted in much lower mammalian target of <z:chebi fb="0" ids="9168">rapamycin</z:chebi> signaling and cell proliferation </plain></SENT>
+<SENT sid="13" pm="."><plain>Lower expression of phospho-S6 and reduced numbers of Ki67-positive cells were seen on IHC compared to vehicle-treated lesions </plain></SENT>
+<SENT sid="14" pm="."><plain>Endoscopy can be validated by MRI as a robust methodology for quantitative monitoring of therapy, representing a promising approach for future preclinical efforts to assess utility of novel <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> prevention strategies </plain></SENT>
+</text></document>

@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We have generated a murine monoclonal antibody (UV3) which recognizes an <z:chebi fb="0" ids="53000">epitope</z:chebi> on ICAM-1 expressed on <z:mp ids='MP_0009440'>myeloma</z:mp> cells </plain></SENT>
+<SENT sid="1" pm="."><plain>By flow cytometric analysis, the <z:chebi fb="0" ids="53000">epitope</z:chebi> on ICAM-1 recognized by this antibody is strongly expressed on human <z:mp ids='MP_0009440'>myeloma</z:mp> cells, pre-B <z:hpo ids='HP_0001909'>leukemia</z:hpo> cells and Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cell lines </plain></SENT>
+<SENT sid="2" pm="."><plain>Most human T cell lines are weakly positive </plain></SENT>
+<SENT sid="3" pm="."><plain>The antibody does not react with red blood cells, polymorphonuclear leukocytes (PMNs) or resting B lymphocytes from <z:mpath ids='MPATH_458'>normal</z:mpath> donors, and reacts very weakly with resting T cells </plain></SENT>
+<SENT sid="4" pm="."><plain>Immunohistochemical assays indicate that the antibody does not react with <z:mpath ids='MPATH_458'>normal</z:mpath> liver, kidney, heart, brain, thymus or lung </plain></SENT>
+<SENT sid="5" pm="."><plain>An immunotoxin (IT) was prepared by coupling UV3 to deglycosylated ricin A-chain (dgA) </plain></SENT>
+<SENT sid="6" pm="."><plain>In protein synthesis inhibition assays it was highly cytotoxic to the human <z:mp ids='MP_0009440'>myeloma</z:mp> cell lines HS-SULTAN (IC50 = 1 x 10(-11)M) and ARH-77 (IC50 = 9 x 10(-11)M), but not to cell lines of T cell lineage or most cell lines of the B lineage </plain></SENT>
+<SENT sid="7" pm="."><plain>Our results suggest that the UV3-dgA may have therapeutic potential for the treatment of human <z:hpo ids='HP_0006775'>multiple myeloma</z:hpo> </plain></SENT>
+</text></document>

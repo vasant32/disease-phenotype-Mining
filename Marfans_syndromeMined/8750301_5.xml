@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:e sem="disease" ids="C0024796" disease_type="Disease or Syndrome" abbrv="MFS|MFS1">Marfan syndrome</z:e> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MFS</z:e>) is one of the most common <z:e sem="disease" ids="C0410787" disease_type="Disease or Syndrome" abbrv="">heritable connective tissue disorders</z:e> and is caused by mutations in a gene coding for fibrillin-1 </plain></SENT>
+<SENT sid="1" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> but one of over 30 published mutations have been unique and specific prenatal diagnostics can only be provided to families with a previously established mutation </plain></SENT>
+<SENT sid="2" pm="."><plain>We have earlier identified a 366 bp deletion of fibrillin <z:chebi fb="2" ids="33699">mRNA</z:chebi> in a three-generation British Marfan family </plain></SENT>
+<SENT sid="3" pm="."><plain>An affected female in the family together with her husband sought prenatal diagnosis </plain></SENT>
+<SENT sid="4" pm="."><plain>Chorionic villus sampling was performed at 11.5 weeks of gestation and total <z:chebi fb="40" ids="33697">RNA</z:chebi> was directly extracted from the sample </plain></SENT>
+<SENT sid="5" pm="."><plain>After reverse transcription and polymerase chain reaction (PCR) of the cDNA, the same deletion was identified in the chorionic villus sample (CVS) and the mother's sample in <z:chebi fb="2" ids="2511">agarose</z:chebi> gel electrophoresis </plain></SENT>
+<SENT sid="6" pm="."><plain>The fetal origin of the CVS was confirmed with polymorphic markers </plain></SENT>
+<SENT sid="7" pm="."><plain>In addition to the mutation analysis, CVS cells of the proband and a control fetus were cultured for biochemical studies of fibrillin <z:chebi fb="1" ids="15841">polypeptides</z:chebi> </plain></SENT>
+<SENT sid="8" pm="."><plain>The results of the biochemical investigation were in concordance with the molecular analysis </plain></SENT>
+</text></document>

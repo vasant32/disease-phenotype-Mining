@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIMS/HYPOTHESIS: Activation of the G protein-coupled receptor (GPR)40 by <z:chebi fb="0" ids="15904">long-chain fatty acids</z:chebi> potentiates <z:chebi fb="105" ids="17234">glucose</z:chebi>-stimulated insulin secretion (GSIS) from pancreatic beta cells, and GPR40 <z:chebi fb="4" ids="48705">agonists</z:chebi> are in clinical development for type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> therapy </plain></SENT>
+<SENT sid="1" pm="."><plain>GPR40 couples to the G protein subunit Gα(q/11) but the signalling cascade activated downstream is unknown </plain></SENT>
+<SENT sid="2" pm="."><plain>This study aimed to determine the mechanisms of GPR40-dependent potentiation of GSIS by fatty acids </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: Insulin secretion in response to <z:chebi fb="105" ids="17234">glucose</z:chebi>, <z:chebi fb="0" ids="30823">oleate</z:chebi> or diacylglycerol (DAG) was assessed in dynamic perifusions and static incubations in islets from <z:mp ids='MP_0002169'>wild-type</z:mp> (WT) and Gpr40 (-/-) mice </plain></SENT>
+<SENT sid="4" pm="."><plain>Depolymerisation of filamentous actin (F-actin) was visualised by <z:chebi fb="0" ids="8040">phalloidin</z:chebi> staining and epifluorescence </plain></SENT>
+<SENT sid="5" pm="."><plain>Pharmacological and molecular approaches were used to ascertain the roles of protein kinase D (PKD) and protein kinase C delta in GPR40-mediated potentiation of GSIS </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: <z:chebi fb="0" ids="30823">Oleate</z:chebi> potentiates the second phase of GSIS, and this effect is largely dependent upon GPR40 </plain></SENT>
+<SENT sid="7" pm="."><plain>Accordingly, <z:chebi fb="0" ids="30823">oleate</z:chebi> induces rapid F-actin remodelling in WT but not in Gpr40 (-/-) islets </plain></SENT>
+<SENT sid="8" pm="."><plain>Exogenous DAG potentiates GSIS in both WT and Gpr40 (-/-) islets </plain></SENT>
+<SENT sid="9" pm="."><plain><z:chebi fb="0" ids="30823">Oleate</z:chebi> induces PKD phosphorylation at residues Ser-744/748 and Ser-916 in WT but not Gpr40 (-/-) islets </plain></SENT>
+<SENT sid="10" pm="."><plain>Importantly, <z:chebi fb="0" ids="30823">oleate</z:chebi>-induced F-actin depolymerisation and potentiation of GSIS are lost upon pharmacological inhibition of PKD1 or deletion of Prkd1 </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS/INTERPRETATION: We conclude that the signalling cascade downstream of GPR40 activation by fatty acids involves activation of PKD1, F-actin depolymerisation and potentiation of second-phase insulin secretion </plain></SENT>
+<SENT sid="12" pm="."><plain>These results provide important information on the mechanisms of action of GPR40, a novel drug target for type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+</text></document>

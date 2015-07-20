@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0001915'>Aplastic anemia</z:hpo> is a rare complication of <z:chebi fb="0" ids="40279">allopurinol</z:chebi> use </plain></SENT>
+<SENT sid="1" pm="."><plain>We report an unusual case of <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> associated with <z:chebi fb="0" ids="40279">allopurinol</z:chebi> therapy for <z:hpo ids='HP_0002149'>hyperuricemia</z:hpo> in a patient with <z:hpo ids='HP_0011010'>chronic</z:hpo> <z:e sem="disease" ids="C0022658" disease_type="Disease or Syndrome" abbrv="">kidney disease</z:e> </plain></SENT>
+<SENT sid="2" pm="."><plain>A 37-year-old female patient diagnosed with Stage III <z:hpo ids='HP_0011010'>chronic</z:hpo> <z:e sem="disease" ids="C0022658" disease_type="Disease or Syndrome" abbrv="">kidney disease</z:e> was admitted with <z:hpo ids='HP_0001876'>pancytopenia</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>She had a history of taking <z:chebi fb="0" ids="40279">allopurinol</z:chebi> for 5 months </plain></SENT>
+<SENT sid="4" pm="."><plain>Her bone marrow showed extremely decreased cellularity (&lt; 20%) and there was no malignant cell infiltration </plain></SENT>
+<SENT sid="5" pm="."><plain>She was free of <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infections</z:e>, including parvovirus B19, cytomegalovirus and Epstein-Barr virus </plain></SENT>
+<SENT sid="6" pm="."><plain>These results suggested a diagnosis of <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> </plain></SENT>
+<SENT sid="7" pm="."><plain><z:chebi fb="0" ids="40279">Allopurinol</z:chebi> was discontinued immediately and treatment with blood transfusions and <z:chebi fb="2" ids="8378">prednisolone</z:chebi> was begun </plain></SENT>
+<SENT sid="8" pm="."><plain>After 6 months, the bone marrow cellularity improved to approximately 70% </plain></SENT>
+<SENT sid="9" pm="."><plain>Recently, it was suggested that decreased activity of multidrug resistance P-<z:chebi fb="2" ids="17089">glycoprotein</z:chebi> may play a role in acquired <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> </plain></SENT>
+<SENT sid="10" pm="."><plain>So we measured the inhibitory effect of <z:chebi fb="0" ids="40279">allopurinol</z:chebi> and oxypurinol on P-<z:chebi fb="2" ids="17089">glycoprotein</z:chebi> activity </plain></SENT>
+<SENT sid="11" pm="."><plain>But neither <z:chebi fb="0" ids="40279">allopurinol</z:chebi> nor oxypurinol inhibited P-<z:chebi fb="2" ids="17089">glycoprotein</z:chebi> activity </plain></SENT>
+</text></document>

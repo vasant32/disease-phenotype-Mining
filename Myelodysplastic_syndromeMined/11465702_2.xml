@@ -1,0 +1,19 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: Total lymphoid irradiation (TLI) has been used to treat <z:hpo ids='HP_0001370'>rheumatoid arthritis</z:hpo> (RA) since the 1970s </plain></SENT>
+<SENT sid="1" pm="."><plain>This study reviews long-term (15-20-year) mortality outcomes of patients treated with TLI for RA at Stanford University Medical Center and compares these outcomes with those in patients treated with disease-modifying <z:chebi fb="0" ids="35842">antirheumatic drugs</z:chebi> (DMARDs) </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: Fifty-three patients with RA were treated with full-dose TLI at Stanford University Medical Center </plain></SENT>
+<SENT sid="3" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> had failed previous therapy with <z:chebi fb="0" ids="33972">gold salts</z:chebi> and <z:chebi fb="0" ids="50868,7959">penicillamine</z:chebi> </plain></SENT>
+<SENT sid="4" pm="."><plain>One hundred six control patients were selected from the <z:hpo ids='HP_0001369'>Arthritis</z:hpo>, <z:e sem="disease" ids="C0035435" disease_type="Disease or Syndrome" abbrv="">Rheumatism</z:e>, and Aging Medical Information Systems database and were matched with the patients for age, sex, disease duration, and mean Health Assessment Questionnaire (HAQ) score </plain></SENT>
+<SENT sid="5" pm="."><plain>Survival was analyzed using Kaplan-Meier methods and Cox proportional hazards regression </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: No significant difference in age and sex was found between TLI-treated patients and controls </plain></SENT>
+<SENT sid="7" pm="."><plain>TLI-treated patients had more education (mean 13.4 years versus 11.8 years; P = 0.016) and received more DMARDs prior to TLI (mean 2.1 versus 1.3; P = 0.0001) </plain></SENT>
+<SENT sid="8" pm="."><plain>TLI-treated patients had lower mean HAQ scores at the time of TLI (2.0 versus 2.4; P = 0.0002) </plain></SENT>
+<SENT sid="9" pm="."><plain>TLI had no significant overall effect on survival in treated patients compared with controls (P = 0.62) </plain></SENT>
+<SENT sid="10" pm="."><plain>The survival curves appeared to cross over at approximately 11 years of followup, with better early survival in the TLI group and better late survival in the control group </plain></SENT>
+<SENT sid="11" pm="."><plain>There was a total of 25 <z:hpo ids='HP_0011420'>deaths</z:hpo> in the TLI group </plain></SENT>
+<SENT sid="12" pm="."><plain>There were 45 <z:hpo ids='HP_0011420'>deaths</z:hpo> in the control group, with causes of <z:hpo ids='HP_0011420'>death</z:hpo> available for 20 patients </plain></SENT>
+<SENT sid="13" pm="."><plain>There were 3 patients with <z:hpo ids='HP_0002665'>lymphoma</z:hpo> and 2 with <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo> in the TLI group, and none in the control group </plain></SENT>
+<SENT sid="14" pm="."><plain>The most common cause of <z:hpo ids='HP_0011420'>death</z:hpo> in both groups was <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infection</z:e> </plain></SENT>
+<SENT sid="15" pm="."><plain>CONCLUSION: TLI had no significant effect on overall survival, with trends toward higher early mortality in controls and trends toward higher late mortality in TLI-treated patients </plain></SENT>
+<SENT sid="16" pm="."><plain>Overall, there was no difference in mortality, but it appears that there may have been more lymphoproliferative <z:e sem="disease" ids="C0006826" disease_type="Neoplastic Process" abbrv="">malignancies</z:e> in the TLI cohort </plain></SENT>
+<SENT sid="17" pm="."><plain>We would recommend that TLI be used cautiously for patients with refractory RA in whom the benefits outweigh the risks </plain></SENT>
+</text></document>

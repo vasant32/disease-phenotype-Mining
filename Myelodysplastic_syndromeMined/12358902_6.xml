@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0011010'>Chronic</z:hpo> <z:mpath ids='MPATH_342'>myeloid leukaemia</z:mpath> (<z:mp ids='MP_0005481'>CML</z:mp>) is a malignant clonal disorder of the haematopoietic stem cell </plain></SENT>
+<SENT sid="1" pm="."><plain>Treatment of <z:mp ids='MP_0005481'>CML</z:mp> patients with interferon alpha (IFN-alpha) has induced haematological and cytogenetic remission </plain></SENT>
+<SENT sid="2" pm="."><plain>Interferons transcriptionally activate target genes through the JAK-STAT and interferon regulated factors (IRFs) family pathways </plain></SENT>
+<SENT sid="3" pm="."><plain>Interferon regulated factor-1 (IRF-1) is a transcriptional activator of genes critical for cell growth, differentiation and <z:mpath ids='MPATH_3'>apoptosis</z:mpath> </plain></SENT>
+<SENT sid="4" pm="."><plain>The skipping of exons 2 or 2 and 3 of IRF-1 in patients with <z:hpo ids='HP_0002863'>myelodysplastic syndromes</z:hpo> and <z:hpo ids='HP_0011009'>acute</z:hpo> myelogenous <z:mpath ids='MPATH_336'>leukaemia</z:mpath> suggests that this factor may have a critical role in leukaemogenesis </plain></SENT>
+<SENT sid="5" pm="."><plain>The role of IRF-1 in <z:mp ids='MP_0005481'>CML</z:mp> is currently unknown </plain></SENT>
+<SENT sid="6" pm="."><plain>Therefore, mutational analysis of IRF-1 was performed and its expression pattern was also studied in <z:mp ids='MP_0005481'>CML</z:mp> patients </plain></SENT>
+<SENT sid="7" pm="."><plain>We studied IRF-1 in peripheral blood mononuclear cells of 21 patients in <z:hpo ids='HP_0011010'>chronic</z:hpo> phase <z:mp ids='MP_0005481'>CML</z:mp> </plain></SENT>
+<SENT sid="8" pm="."><plain>No point mutations were identified at the cDNA level </plain></SENT>
+<SENT sid="9" pm="."><plain>Surprisingly, fourfold reduction of full-length IRF-1 mRNA expression was established in 17/21 patients compared with <z:mpath ids='MPATH_458'>normal</z:mpath> individuals </plain></SENT>
+<SENT sid="10" pm="."><plain>Low expression of full-length IRF-1 was observed in conjunction with high levels of aberrantly spliced <z:chebi fb="2" ids="33699">mRNAs</z:chebi>, reported for the first time </plain></SENT>
+<SENT sid="11" pm="."><plain>In three patients who were also analysed during blastic transformation, further reduction of full-length IRF-1 mRNA was observed </plain></SENT>
+<SENT sid="12" pm="."><plain>These findings demonstrate that, in <z:mp ids='MP_0005481'>CML</z:mp> patients, IRF-1 can produce high levels of aberrant spliced <z:chebi fb="2" ids="33699">mRNAs</z:chebi> with subsequent reduction in the levels of full-length IRF-1 mRNA </plain></SENT>
+<SENT sid="13" pm="."><plain>This observation is consistent with the notion that exon skipping may constitute another mechanism of <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumour</z:e> suppressor gene inactivation in this disease </plain></SENT>
+</text></document>

@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PURPOSE: To develop an improved chemical shift-based water-fat separation sequence using a water-selective inversion pulse for inversion recovery 3D contrast-enhanced cardiac magnetic resonance imaging (MRI) </plain></SENT>
+<SENT sid="1" pm="."><plain>MATERIALS AND METHODS: In inversion recovery sequences the fat signal is substantially reduced due to the application of a nonselective inversion pulse </plain></SENT>
+<SENT sid="2" pm="."><plain>Therefore, for simultaneous visualization of water, fat, and myocardial enhancement in inversion recovery-based sequences such as late <z:chebi fb="0" ids="33375">gadolinium</z:chebi> enhancement imaging, two separate scans are used </plain></SENT>
+<SENT sid="3" pm="."><plain>To overcome this, the nonselective inversion pulse is replaced with a water-selective inversion pulse </plain></SENT>
+<SENT sid="4" pm="."><plain>Imaging was performed in phantoms, nine healthy subjects, and nine patients with suspected <z:hpo ids='HP_0011663'>arrhythmogenic right ventricular cardiomyopathy</z:hpo> plus one patient for <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e>/mass imaging </plain></SENT>
+<SENT sid="5" pm="."><plain>In patients, images with conventional turbo-spin echo (TSE) with and without fat saturation were acquired prior to contrast injection for fat assessment </plain></SENT>
+<SENT sid="6" pm="."><plain>Subjective image scores (1 = poor, 4 = excellent) were used for image assessment </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: Phantom experiments showed a fat signal-to-noise ratio (SNR) increase between 1.7 to 5.9 times for inversion times of 150 and 300 msec, respectively </plain></SENT>
+<SENT sid="8" pm="."><plain>The water-selective inversion pulse retains the fat signal in contrast-enhanced cardiac <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e>, allowing improved visualization of fat in the water-fat separated images of healthy subjects with a score of 3.7 ± 0.6 </plain></SENT>
+<SENT sid="9" pm="."><plain>Patient images acquired with the proposed sequence were scored higher when compared with a TSE sequence (3.5 ± 0.7 vs. 2.2 ± 0.5, P &lt; 0.05) </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSION: The water-selective inversion pulse retains the fat signal in inversion recovery-based contrast-enhanced cardiac <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e>, allowing simultaneous visualization of water and fat </plain></SENT>
+<SENT sid="11" pm="."><plain>J </plain></SENT>
+<SENT sid="12" pm="."><plain>Magn </plain></SENT>
+<SENT sid="13" pm="."><plain>Reson </plain></SENT>
+<SENT sid="14" pm="."><plain>Imaging 2012;. © 2012 Wiley Periodicals, Inc </plain></SENT>
+</text></document>

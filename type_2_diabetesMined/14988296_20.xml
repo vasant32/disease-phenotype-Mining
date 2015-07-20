@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: Optimal blood pressure control in subjects with <z:mp ids='MP_0002055'>diabetes</z:mp> reduces cardiovascular complications </plain></SENT>
+<SENT sid="1" pm="."><plain>There is theoretical benefit in the assessment of central aortic waveforms including the augmentation index, which is taken as a putative index of stiffness </plain></SENT>
+<SENT sid="2" pm="."><plain>Transfer functions may be used to reconstruct aortic from radial pressure waveforms; however, a single generalized transfer function may not be appropriate for <z:hpo ids='HP_0000001'>all</z:hpo> patients </plain></SENT>
+<SENT sid="3" pm="."><plain>We aimed to evaluate the technique in subjects with <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="4" pm="."><plain>RESEARCH DESIGN AND METHODS: Simultaneous invasive central aortic and noninvasive radial waveforms were acquired in 19 subjects with type 2 <z:mp ids='MP_0002055'>diabetes</z:mp>, and a <z:mp ids='MP_0002055'>diabetes</z:mp>-specific transfer function was derived </plain></SENT>
+<SENT sid="5" pm="."><plain>Similar data were acquired from 38 age- and sex-matched subjects without <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="6" pm="."><plain>Central waveforms were reconstructed using a generalized transfer function in <z:hpo ids='HP_0000001'>all</z:hpo> patients and the <z:mp ids='MP_0002055'>diabetes</z:mp>-specific transfer function in individuals with <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: There was no difference between groups in measured central pressures </plain></SENT>
+<SENT sid="8" pm="."><plain>The error in generalized transfer function-derived systolic pressure was greater in individuals with <z:mp ids='MP_0002055'>diabetes</z:mp> (6 +/- 7 mmHg) (mean +/- SD) than without <z:mp ids='MP_0002055'>diabetes</z:mp> (2 +/- 8 mmHg) (P&lt;0.05) </plain></SENT>
+<SENT sid="9" pm="."><plain>Errors in other parameters were no different </plain></SENT>
+<SENT sid="10" pm="."><plain>The <z:mp ids='MP_0002055'>diabetes</z:mp>-specific transfer function reduced the error in derived systolic pressure to 0 +/- 7 mmHg in individuals with <z:mp ids='MP_0002055'>diabetes</z:mp>--no different than that with the generalized transfer function in individuals without <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="11" pm="."><plain>The central augmentation index reconstructed by either transfer function was unrelated to that directly measured </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: A generalized transfer function is inappropriate for the derivation of central waveforms in subjects with type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="13" pm="."><plain>Errors in subjects with <z:mp ids='MP_0002055'>diabetes</z:mp> might be reduced with a <z:mp ids='MP_0002055'>diabetes</z:mp>-specific transfer function </plain></SENT>
+</text></document>

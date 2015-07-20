@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PES1 (also known as Pescadillo), a nucleolar protein, was involved in biogenesis of <z:chebi fb="0" ids="18111">ribosomal RNA</z:chebi> </plain></SENT>
+<SENT sid="1" pm="."><plain>Up-regulation of PES1 has been documented in some human <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancers</z:e>, indicating that PES1 may play some crucial roles in <z:mp ids='MP_0002006'>tumorigenesis</z:mp> </plain></SENT>
+<SENT sid="2" pm="."><plain>In our previous study, it was found that silencing of PES1 resulted in decreased proliferation of <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> cells </plain></SENT>
+<SENT sid="3" pm="."><plain>We also noticed that <z:mpath ids='MPATH_63'>depletion</z:mpath> of PES1 altered expression profiles of diverse genes </plain></SENT>
+<SENT sid="4" pm="."><plain>In the present study, we validated the expression changes of a subset of genotoxic stress-related genes in PES1-silenced HCT116 cells by quantitative RT-PCR </plain></SENT>
+<SENT sid="5" pm="."><plain>The steady and <z:chebi fb="0" ids="4911">etoposide</z:chebi>-induced phosphorylated H2AX (γ-H2AX) were higher in PES1-silenced cells than in control cells </plain></SENT>
+<SENT sid="6" pm="."><plain>Besides, <z:chebi fb="0" ids="4911">etoposide</z:chebi>-induced γ-H2AX persisted longer in PES1-silenced cells after removing the <z:chebi fb="0" ids="4911">etoposide</z:chebi> </plain></SENT>
+<SENT sid="7" pm="."><plain>Next, results of comet assay revealed decreased DNA repair after PES1-ablation </plain></SENT>
+<SENT sid="8" pm="."><plain>PES1-ablated cells were more sensitive to chemotherapeutic agents, which could be reversed by reconstitution with exogenous PES1 </plain></SENT>
+<SENT sid="9" pm="."><plain>Furthermore, deletion of PES1 diminished steady and DNA damage-induced levels of nuclear RAD51 </plain></SENT>
+<SENT sid="10" pm="."><plain>Our results uncover a potential role of PES1 in chemoresistance by regulating DNA damage response in <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> cells </plain></SENT>
+</text></document>

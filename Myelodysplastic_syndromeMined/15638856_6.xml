@@ -1,0 +1,6 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The AF1q gene is expressed in <z:mpath ids='MPATH_458'>normal</z:mpath> haematopoietic progenitors, but less so in differentiated blood cells </plain></SENT>
+<SENT sid="1" pm="."><plain>In 47 patients with <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e>), AF1q copy numbers were 0-6.8 x 10(6)/microg <z:chebi fb="40" ids="33697">RNA</z:chebi> compared with 1.5-2.4 x 10(5)/microg <z:chebi fb="40" ids="33697">RNA</z:chebi> in <z:mpath ids='MPATH_458'>normal</z:mpath> marrow </plain></SENT>
+<SENT sid="2" pm="."><plain>AF1q levels correlated with international prognostic scoring system (IPSS) scores (P = 0.004) and the risk of post-transplant relapse (P = 0.05) </plain></SENT>
+<SENT sid="3" pm="."><plain>Among IPSS high-risk patients, survival correlated inversely with AF1q levels (P = 0.04) </plain></SENT>
+<SENT sid="4" pm="."><plain>Thus, AF1q levels correlate with high-risk <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> and may provide a marker for risk stratification </plain></SENT>
+</text></document>

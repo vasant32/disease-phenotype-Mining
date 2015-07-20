@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 71-year-old man experienced sudden <z:hpo ids='HP_0003674'>onset</z:hpo> of <z:hpo ids='HP_0001269'>hemiparesis</z:hpo> and <z:hpo ids='HP_0002381'>aphasia</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>He had a 4-month history of gallbladder <z:mpath ids='MPATH_354'>cholangiocarcinoma</z:mpath>, complicated with a postoperative <z:hpo ids='HP_0002625'>deep-vein thrombosis</z:hpo> (DVT) that necessitated a vena caval filter placement </plain></SENT>
+<SENT sid="2" pm="."><plain>Diffusion-weighted magnetic resonance imaging of the brain showed multiple hyperintense foci </plain></SENT>
+<SENT sid="3" pm="."><plain>Magnetic resonance spectroscopy was compatible with <z:e sem="disease" ids="C0007785" disease_type="Disease or Syndrome" abbrv="">cerebral infarction</z:e> </plain></SENT>
+<SENT sid="4" pm="."><plain>Abdominal computed tomography showed a <z:e sem="disease" ids="C0302148,C0087086" disease_type="Disease or Syndrome;Acquired Abnormality" abbrv="">thrombus</z:e> in the inferior vena cava extending through the filters </plain></SENT>
+<SENT sid="5" pm="."><plain>A transcranial Doppler bubble study revealed the presence of a <z:hpo ids='HP_0001694'>right-to-left shunt</z:hpo> </plain></SENT>
+<SENT sid="6" pm="."><plain>Paradoxical <z:e sem="disease" ids="C0007780" disease_type="Disease or Syndrome" abbrv="">cerebral embolism</z:e> must be considered in patients with DVT who have new <z:hpo ids='HP_0003674'>onset</z:hpo> neurologic deficits even in the presence of a caval filter </plain></SENT>
+</text></document>

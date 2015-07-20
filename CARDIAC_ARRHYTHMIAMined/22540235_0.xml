@@ -1,0 +1,18 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: <z:hpo ids='HP_0005110'>Atrial fibrillation</z:hpo> (AF) is the most common sustained disorder of cardiac rhythm </plain></SENT>
+<SENT sid="1" pm="."><plain>Various new anticoagulation and antiarrythmic treatments are being investigated for the treatment of AF </plain></SENT>
+<SENT sid="2" pm="."><plain>Before novel treatments can be used widely in actual clinical practice, the cost effectiveness of such novel treatments may need to be determined </plain></SENT>
+<SENT sid="3" pm="."><plain>OBJECTIVE: The objectives of the study were to describe resource utilization for AF and control patients, and estimate the incidence of mortality </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS: This case control study evaluated 6 months of primary and secondary care resource utilization and mortality rates for patients within the period 01 April 2001 to 31 March 2006 </plain></SENT>
+<SENT sid="5" pm="."><plain>Cases included 15 373 adults with a record of AF in the General Practice Research Database (GPRD) within the study period </plain></SENT>
+<SENT sid="6" pm="."><plain>The index date was randomly selected between 6 months after the AF record and end of data collection </plain></SENT>
+<SENT sid="7" pm="."><plain>Cases were matched to controls by age, gender, general practice and time </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: AF patients had significantly higher resource utilization than controls </plain></SENT>
+<SENT sid="9" pm="."><plain>Resource utilization increased with greater National Institute for Clinical Excellence (NICE) <z:hpo ids='HP_0001297'>stroke</z:hpo> risk strata (graded as low, moderate or high based on associated risk factors) </plain></SENT>
+<SENT sid="10" pm="."><plain>Both current <z:chebi fb="8" ids="10033">warfarin</z:chebi> and aspirin users had higher resource utilization than control patients </plain></SENT>
+<SENT sid="11" pm="."><plain>Resource utilization remained high amongst AF patients who discontinued therapy </plain></SENT>
+<SENT sid="12" pm="."><plain>The mortality rate was significantly higher in AF patients than controls, <z:hpo ids='HP_0011420'>deaths</z:hpo> due to <z:e sem="disease" ids="C0728936" disease_type="Disease or Syndrome" abbrv="">circulatory system disease</z:e> were increased 4-fold and <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> <z:hpo ids='HP_0011420'>deaths</z:hpo> were doubled </plain></SENT>
+<SENT sid="13" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo>-cause and circulatory mortality rates, as well as rates of clinical outcomes, were related to the NICE <z:hpo ids='HP_0001297'>stroke</z:hpo> risk schema </plain></SENT>
+<SENT sid="14" pm="."><plain>CONCLUSIONS: There was large <z:hpo ids='HP_0001425'>heterogeneity</z:hpo> in resource utilization between AF patients, although overall, this was still higher than controls without AF </plain></SENT>
+<SENT sid="15" pm="."><plain>Higher resource utilization was evident in patients at higher risk of <z:hpo ids='HP_0001297'>stroke</z:hpo>, and remained where antithrombotic therapy was discontinued </plain></SENT>
+<SENT sid="16" pm="."><plain>The mortality risk in AF was increased substantially, both for cardiovascular and non-cardiovascular causes of <z:hpo ids='HP_0011420'>death</z:hpo>, indicating a large unmet medical need </plain></SENT>
+</text></document>

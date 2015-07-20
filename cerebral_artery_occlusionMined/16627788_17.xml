@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND PURPOSE: We have previously identified an increased susceptibility of Gpx1(-/-) mice to increased <z:mpath ids='MPATH_124'>infarct</z:mpath> size after middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (MCAO) </plain></SENT>
+<SENT sid="1" pm="."><plain>This study was designed to elucidate the mechanisms involved in elevated neuronal cell <z:hpo ids='HP_0011420'>death</z:hpo> arising from an altered endogenous oxidant state </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: Gpx1(-/-) mice were exposed to transient MCAO and reperfusion by intraluminal suture blockade </plain></SENT>
+<SENT sid="3" pm="."><plain>Protein expression of the p65 subunit of transcription factor nuclear factor-kappaB (NF-kappaB) was examined by immunohistochemistry and Western Analysis </plain></SENT>
+<SENT sid="4" pm="."><plain>NF-kappaB DNA-protein activity was assessed by electrophoretic mobility shift assays (EMSA) </plain></SENT>
+<SENT sid="5" pm="."><plain><z:mp ids='MP_0002169'>Wild-type</z:mp> and Gpx1(-/-) mice were exposed to MCAO with or without the NF-kappaB inhibitor, pyrrolidinedithiocarbamate (PDTC) </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: Upregulation of the p65 subunit of NF-kappaB and subsequent p65 phosphorylation at serine 536 was detected in the Gpx1(-/-) brains after <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+<SENT sid="7" pm="."><plain>EMSAs revealed that increased <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e>-enhanced DNA binding of NF-kappaB was observed in Gpx1(-/-) mice compared with <z:mp ids='MP_0002169'>wild-type</z:mp> </plain></SENT>
+<SENT sid="8" pm="."><plain>Supershift assays indicated that the p50 and p65 subunits participated in the bound NF-kappaB complex </plain></SENT>
+<SENT sid="9" pm="."><plain>The NF-kappaB inhibitor PDTC, a potential <z:chebi fb="11" ids="22586">antioxidant</z:chebi>, was able to afford partial neuroprotection in the Gpx1(-/-) mice </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSIONS: NF-kappaB is upregulated in the Gpx1(-/-) mouse, and this upregulation contributes to the increased cell <z:hpo ids='HP_0011420'>death</z:hpo> seen in the Gpx1(-/-) after MCAO </plain></SENT>
+<SENT sid="11" pm="."><plain>The activation of NF-kappaB may increase the expression of downstream target genes that are involved in the progression of neural injury after MCAO </plain></SENT>
+</text></document>

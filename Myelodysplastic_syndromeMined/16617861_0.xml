@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We reported an autopsy case of a 58-year-old-man, who developed intractable organizing <z:hpo ids='HP_0002090'>pneumonia</z:hpo> accompanying <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo> with neutrophil hypofunction </plain></SENT>
+<SENT sid="1" pm="."><plain>Slight clinical improvement was obtained by steroid pulse therapy, but re-exacerbation occurred during steroid tapering </plain></SENT>
+<SENT sid="2" pm="."><plain><z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">Infection</z:e> was suspected, and we administered antibiotics and antifungal agents, while holding steroid administration </plain></SENT>
+<SENT sid="3" pm="."><plain>However, both the clinical findings and images deteriorated </plain></SENT>
+<SENT sid="4" pm="."><plain>By both steroid and <z:chebi fb="0" ids="4031">cyclosporine</z:chebi> treatment, a slight improvement was temporarily obtained, but he died </plain></SENT>
+<SENT sid="5" pm="."><plain>The findings of lung tissue on autopsy showed extensive old and new organized <z:hpo ids='HP_0002090'>pneumonia</z:hpo>, and, as for the etiology of the intractable <z:hpo ids='HP_0002090'>pneumonia</z:hpo>, the likelihood of the lung <z:e sem="disease" ids="C0009450" disease_type="Disease or Syndrome" abbrv="">infectious disease</z:e> was considered most likely </plain></SENT>
+<SENT sid="6" pm="."><plain>In addition, <z:e sem="disease" ids="C0276653" disease_type="Disease or Syndrome" abbrv="">invasive pulmonary aspergillosis</z:e> led directly to <z:hpo ids='HP_0011420'>death</z:hpo> </plain></SENT>
+</text></document>

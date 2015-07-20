@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIM: To present a new biochemistry and haematology outcome model which uses a minimum dataset to model outcome following <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> surgery, a concept previously shown to be feasible with arterial operations </plain></SENT>
+<SENT sid="1" pm="."><plain>METHOD: Predictive binary logistic regression models (a mortality and morbidity model) were developed for 704 patients who underwent <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> surgery over a 6-year period in one hospital </plain></SENT>
+<SENT sid="2" pm="."><plain>The variables measured included 30-day mortality and morbidity </plain></SENT>
+<SENT sid="3" pm="."><plain>Hosmer-Lemeshow goodness of fit statistics and frequency tables compared the predicted vs the reported number of <z:hpo ids='HP_0011420'>deaths</z:hpo> </plain></SENT>
+<SENT sid="4" pm="."><plain>Discrimination was quantified using the c-index </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: There were 573 elective and 131 nonelective interventional cases </plain></SENT>
+<SENT sid="6" pm="."><plain>The overall mean predicted risk of <z:hpo ids='HP_0011420'>death</z:hpo> was 7.79% (50 patients) </plain></SENT>
+<SENT sid="7" pm="."><plain>The actual number of reported <z:hpo ids='HP_0011420'>deaths</z:hpo> was also 50 patients (χ(2) = 1.331, df = 4, P-value = 0.856; no evidence of lack of fit) </plain></SENT>
+<SENT sid="8" pm="."><plain>For the mortality model, the predictive c-index was = 0.810 </plain></SENT>
+<SENT sid="9" pm="."><plain>The morbidity model had less discriminative power but there was no evidence of lack of fit (χ(2) = 4.198, df = 4, P-value = 0.380, c-index = 0.697) </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSIONS: The Colorectal Biochemistry and Haematology Outcome mortality model suggests good discrimination (c-index &gt; 0.8) and uses only a minimal number of variables </plain></SENT>
+<SENT sid="11" pm="."><plain>However, it needs to be tested on independent datasets in different geographical locations </plain></SENT>
+</text></document>

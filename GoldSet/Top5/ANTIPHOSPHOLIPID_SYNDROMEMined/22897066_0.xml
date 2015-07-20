@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Detection of anticardiolipin antibodies (ACA) is an independent laboratory criterion for diagnosis of <z:e sem="disease" ids="C0085278" disease_type="Disease or Syndrome" abbrv="">antiphospholipid syndrome</z:e> (APS) </plain></SENT>
+<SENT sid="1" pm="."><plain>Alternative methods to ELISA were recently developed such as automated chemiluminescence immunoassay (CLIA) </plain></SENT>
+<SENT sid="2" pm="."><plain>PATIENTS AND METHODS: We compared a CLIA to an ELISA kit for the detection of IgG isotype of ACA </plain></SENT>
+<SENT sid="3" pm="."><plain>87 routine samples from 75 patients suspected of having APS were tested using each method </plain></SENT>
+<SENT sid="4" pm="."><plain>Cut-off values were calculated in our laboratory for each test using 99th percentile of 50 <z:mpath ids='MPATH_458'>normal</z:mpath> controls </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: Cut-off values were &gt;20 GPL for ELISA and &gt; 2 GPL for CLIA </plain></SENT>
+<SENT sid="6" pm="."><plain>Overall agreement (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">OA</z:e>), agreement for positive (AP) and agreement for negative (AN) cases were 56.3%, 49.2% and 77.2% respectively </plain></SENT>
+<SENT sid="7" pm="."><plain>Most discrepant results were positive with ELISA and negative with CLIA </plain></SENT>
+<SENT sid="8" pm="."><plain>However, <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">OA</z:e>, AP and AN increased to 82.1%, 84.6% and 80% respectively when CLIA was compared to the repeated ELISA performed at least 12 weeks later </plain></SENT>
+<SENT sid="9" pm="."><plain>When correlated with APS-related clinical background, CLIA showed lower sensitivity, higher specificity and higher likelihood ratio (LR) as compared to first ELISA whereas these parameters were similar to those of the repeated ELISA </plain></SENT>
+<SENT sid="10" pm="."><plain>No association was found between any test results and APS-related clinical background of the patients </plain></SENT>
+<SENT sid="11" pm="."><plain>Using our own cut-off value (&gt; 2GPL), sensitivity, specificity and LR of CLIA to identify patients with APS were respectively 100%, 72.3% and 3.6 </plain></SENT>
+<SENT sid="12" pm="."><plain>A ROC curve showed that at 7.5 GPL cut-off value, specificity and LR improved to 91.1% and 11.25 respectively, without affecting sensitivity </plain></SENT>
+<SENT sid="13" pm="."><plain>A strong correlation was observed between CLIA results and APS (Chi2 = 12.25; p &lt; 0.001) </plain></SENT>
+<SENT sid="14" pm="."><plain>CONCLUSION: The performance of CLIA is as good as a repeated ELISA test to detect IgG ACA in suspected APS patients </plain></SENT>
+<SENT sid="15" pm="."><plain>It is fully automated, which represents several advantages over semi-manual ELISA techniques for its implementation in a routine laboratory </plain></SENT>
+</text></document>

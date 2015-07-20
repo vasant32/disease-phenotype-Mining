@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: One of the phosphodiesterase isoenzymes, Type V (PDE V), specifically hydrolyzes cyclic <z:chebi fb="0" ids="16750">guanosine</z:chebi> monophosphate to cause vasoconstriction </plain></SENT>
+<SENT sid="1" pm="."><plain>This study analyses the effect of PDE V inhibition with sildenafil <z:chebi fb="2" ids="50744">citrate</z:chebi> (SC) on <z:e sem="disease" ids="C0265110" disease_type="Disease or Syndrome" abbrv="">cerebral vasospasm</z:e> and its effect on apoptotic changes of the vascular endothelium </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: Twenty-four rabbits were divided into four groups </plain></SENT>
+<SENT sid="3" pm="."><plain>The first group was composed of sham-surgery animals </plain></SENT>
+<SENT sid="4" pm="."><plain>The second group was the <z:hpo ids='HP_0002138'>subarachnoid hemorrhage</z:hpo> (SAH) group, in which <z:e sem="disease" ids="C0265110" disease_type="Disease or Syndrome" abbrv="">cerebral vasospasm</z:e> was induced </plain></SENT>
+<SENT sid="5" pm="."><plain>In the third group, sham-surgery rabbits were treated with SC </plain></SENT>
+<SENT sid="6" pm="."><plain>In the fourth group, animals were treated with SC after SAH </plain></SENT>
+<SENT sid="7" pm="."><plain>SC was administered for 48 hours, 0.7 mg/kg, three times per day in Groups 3 and 4 </plain></SENT>
+<SENT sid="8" pm="."><plain>Basilar artery lumen circumferences were measured in <z:hpo ids='HP_0000001'>all</z:hpo> groups by computerized image analysis </plain></SENT>
+<SENT sid="9" pm="."><plain>The terminal deoxynucleotidyl transferase-mediated deoxyuridine <z:chebi fb="0" ids="15266,18036">triphosphate</z:chebi> nick end-labeling (TUNEL) method was used to evaluate the rate of <z:mpath ids='MPATH_3'>apoptosis</z:mpath> between SAH and SC-treated SAH groups </plain></SENT>
+<SENT sid="10" pm="."><plain>Results were compared by analysis of variance and paired t tests, and P values less than 0.05 were considered significant </plain></SENT>
+<SENT sid="11" pm="."><plain>RESULTS: Basilar artery circumferences between groups were significantly different (P &lt; 0.001) </plain></SENT>
+<SENT sid="12" pm="."><plain>SC (0.7 mg/kg, three times per d) significantly dilated the basilar arteries in both the sham-surgery group (2370 +/- 233 microm; P = 0.039) and the SAH group (2142 +/- 195 microm; P = 0.006) after 48 hours of treatment </plain></SENT>
+<SENT sid="13" pm="."><plain>The TUNEL method for <z:mpath ids='MPATH_3'>apoptosis</z:mpath> revealed that actual numbers of the apoptotic endothelial cells per cross section after SAH in the control (no treatment) (73 +/- 2) and SC-treated (0.7 mg/kg) groups(76 +/- 3) were not significantly different (P &gt; 0.05) </plain></SENT>
+<SENT sid="14" pm="."><plain>CONCLUSION: The vasodilatory effect of SC was observed to be significant on <z:mpath ids='MPATH_458'>normal</z:mpath> cerebral vessels and after SAH-induced vasospasm </plain></SENT>
+<SENT sid="15" pm="."><plain>SC did not prevent <z:mpath ids='MPATH_3'>apoptosis</z:mpath> of the endothelium in our study, which suggests that prevention of <z:mpath ids='MPATH_3'>apoptosis</z:mpath> is not necessary in the treatment of <z:e sem="disease" ids="C0265110" disease_type="Disease or Syndrome" abbrv="">cerebral vasospasm</z:e> </plain></SENT>
+</text></document>

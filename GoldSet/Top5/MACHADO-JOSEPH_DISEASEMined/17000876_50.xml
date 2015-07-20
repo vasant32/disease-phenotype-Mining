@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Misfolded proteins of the endoplasmic reticulum undergo retrotranslocation to enter the cytosol where they are degraded by the proteasome </plain></SENT>
+<SENT sid="1" pm="."><plain>Retrotranslocation of many substrates requires an ATPase complex consisting of the p97 ATPase and a dimeric cofactor, Ufd1-Npl4 </plain></SENT>
+<SENT sid="2" pm="."><plain>We report that efficient elimination of misfolded ER proteins also involves ataxin-3 (atx3), a p97-associated deubiquitinating enzyme mutated in type-3 spinocerebellar <z:hpo ids='HP_0001251'>ataxia</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>Overexpression of an atx3 mutant defective in deubiquitination inhibits the degradation of misfolded ER proteins and triggers ER stress </plain></SENT>
+<SENT sid="4" pm="."><plain>Misfolded <z:chebi fb="1" ids="15841">polypeptides</z:chebi> stabilized by mutant atx3 are accumulated in part as polyubiquitinated form, suggesting an involvement of its deubiquitinating activity in ER-associated protein degradation regulation </plain></SENT>
+<SENT sid="5" pm="."><plain>We demonstrate that atx3 transiently associates with the ER membrane via p97 and the recently identified Derlin-VIMP complex, and its release from the membrane appears to be governed by both the p97 ATPase cycle and its own deubiquitinating activity </plain></SENT>
+<SENT sid="6" pm="."><plain>We present evidence that atx3 may promote p97-associated deubiquitination to facilitate the transfer of <z:chebi fb="1" ids="15841">polypeptides</z:chebi> from p97 to the proteasome </plain></SENT>
+</text></document>

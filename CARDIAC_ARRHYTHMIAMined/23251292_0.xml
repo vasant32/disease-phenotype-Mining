@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The aim of this study was to determine the defibrillation threshold (DFT) of implantable cardioverter-defibrillators (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">ICDs</z:e>) and outcomes of treatment </plain></SENT>
+<SENT sid="1" pm="."><plain>Sixty-four patients received cardioverter-defibrillator implantation </plain></SENT>
+<SENT sid="2" pm="."><plain>During implantation, the DFT was determined by the defibrillation safety margin (<z:chebi fb="4" ids="38624">DSM</z:chebi>) </plain></SENT>
+<SENT sid="3" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> patients were followed up for 12-48 months after the implantation </plain></SENT>
+<SENT sid="4" pm="."><plain>The overall DFT was 14.27±2.56 J and the <z:chebi fb="4" ids="38624">DSM</z:chebi> was 18.40±1.89 J </plain></SENT>
+<SENT sid="5" pm="."><plain>Malignant <z:hpo ids='HP_0004308'>ventricular arrhythmias</z:hpo> occurred in 42 patients following cardioverter-defibrillator implantation including 500 episodes of non-sustained <z:hpo ids='HP_0004756'>ventricular tachycardia</z:hpo> (VT) and 289 episodes of persistent VT </plain></SENT>
+<SENT sid="6" pm="."><plain>VT was treated using antitachycardia pacing (ATP); 265 episodes were treated successfully by a single ATP treatment (91.69%) and 12 episodes were treated successfully by two ATP treatments (4.15%) </plain></SENT>
+<SENT sid="7" pm="."><plain>Twelve episodes were converted by low-energy electrical cardioversion (4.15%) </plain></SENT>
+<SENT sid="8" pm="."><plain>A total of 175 <z:hpo ids='HP_0001663'>ventricular fibrillation</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">VF</z:e>) episodes were identified, of which 18 episodes automatically terminated prior to treatment </plain></SENT>
+<SENT sid="9" pm="."><plain>In total, 146 episodes were converted by a single cardioversion with a defibrillation energy of 13.21±2.58 J and 11 episodes were converted by two cardioversions with a defibrillation energy of 16.19±2.48 J </plain></SENT>
+<SENT sid="10" pm="."><plain>It is safe and feasible to determine the DFT by <z:chebi fb="4" ids="38624">DSM</z:chebi> measurement during cardioverterdefibrillator implantation </plain></SENT>
+</text></document>

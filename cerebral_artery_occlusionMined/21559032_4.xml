@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Accurate identification of ischemic penumbra will improve <z:hpo ids='HP_0001297'>stroke</z:hpo> patient selection for reperfusion therapies and clinical trials </plain></SENT>
+<SENT sid="1" pm="."><plain>Current magnetic resonance imaging (MRI) techniques have limitations and lack validation </plain></SENT>
+<SENT sid="2" pm="."><plain>Oxygen challenge T(2)(*) MRI (T(2)(*) OC) uses oxygen as a biotracer to detect tissue metabolism, with penumbra displaying the greatest T(2)(*) signal change during OC </plain></SENT>
+<SENT sid="3" pm="."><plain>[(14)C]2-<z:chebi fb="0" ids="15866">deoxyglucose</z:chebi> (2-DG) autoradiography was combined with T(2)(*) OC to determine metabolic status of T(2)(*)-defined penumbra </plain></SENT>
+<SENT sid="4" pm="."><plain>Permanent middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> was induced in anesthetized male Sprague-Dawley rats (n=6) </plain></SENT>
+<SENT sid="5" pm="."><plain>Ischemic injury and perfusion deficit were determined by diffusion- and perfusion-weighted imaging, respectively </plain></SENT>
+<SENT sid="6" pm="."><plain>At 147 ± 32 minutes after <z:hpo ids='HP_0001297'>stroke</z:hpo>, T(2)(*) signal change was measured during a 5-minute 100% OC, immediately followed by 125 μCi/kg 2-DG, intravenously </plain></SENT>
+<SENT sid="7" pm="."><plain>Magnetic resonance images were coregistered with the corresponding autoradiograms </plain></SENT>
+<SENT sid="8" pm="."><plain>Regions of interest were located within ischemic core, T(2)(*)-defined penumbra, equivalent contralateral structures, and a region of hyperglycolysis </plain></SENT>
+<SENT sid="9" pm="."><plain>A T(2)(*) signal increase of 9.22% ± 3.9% (mean ± s.d.) was recorded in presumed penumbra, which displayed local cerebral <z:chebi fb="105" ids="17234">glucose</z:chebi> utilization values equivalent to contralateral cortex </plain></SENT>
+<SENT sid="10" pm="."><plain>T(2)(*) signal change was negligible in ischemic core, 3.2% ± 0.78% in contralateral regions, and 1.41% ± 0.62% in hyperglycolytic tissue, located outside OC-defined penumbra and within the diffusion abnormality </plain></SENT>
+<SENT sid="11" pm="."><plain>The results support the utility of OC-MRI to detect viable penumbral tissue following <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+</text></document>

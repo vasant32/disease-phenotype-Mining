@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The endothelial protein C receptor (EPCR) plays an <z:chebi fb="3" ids="50249">anticoagulant</z:chebi> role by improving protein C activation </plain></SENT>
+<SENT sid="1" pm="."><plain>Although low levels of activated protein C (APC) constitute a <z:mp ids='MP_0005048'>thrombosis</z:mp> risk factor, the relationship between modulating EPCR function and <z:mp ids='MP_0005048'>thrombosis</z:mp> has not been addressed so far </plain></SENT>
+<SENT sid="2" pm="."><plain>Monoclonal antibodies (mAb) against murine EPCR were raised, and their ability to block protein C/APC binding was tested </plain></SENT>
+<SENT sid="3" pm="."><plain>The <z:chebi fb="2" ids="30808">ferric chloride</z:chebi> carotid artery injury model in mice was chosen to test the effect of anti-EPCR mAb on <z:e sem="disease" ids="C0302148,C0087086" disease_type="Disease or Syndrome;Acquired Abnormality" abbrv="">thrombus</z:e> formation </plain></SENT>
+<SENT sid="4" pm="."><plain>The time to total occlusion of the vessel was analysed in three groups, given an isotype control mAb (IC), a blocking (RCR-16) or a non-blocking (RCR-20) anti-EPCR mAb </plain></SENT>
+<SENT sid="5" pm="."><plain>RCR-16 prevented the interaction between protein C/APC and EPCR as demonstrated by surface plasmon resonance and flow cytometry, and inhibited the activation of protein C on the endothelium </plain></SENT>
+<SENT sid="6" pm="."><plain>IC and RCR-20 were unable to induce such effects </plain></SENT>
+<SENT sid="7" pm="."><plain>In vivo , RCR-16 shortened the time to total vessel occlusion with respect to IC [13.4 +/- 1.0 (mean +/- SD) and 17.8 +/- 3.2 minutes, respectively, p&lt;0.001] </plain></SENT>
+<SENT sid="8" pm="."><plain>Occlusive <z:e sem="disease" ids="C0087086" disease_type="Disease or Syndrome" abbrv="">thrombi</z:e> lasting for more than one hour were observed in <z:hpo ids='HP_0000001'>all</z:hpo> RCR-16-treated animals, but only in 43% of IC-treated ones </plain></SENT>
+<SENT sid="9" pm="."><plain>Results with RCR-20 were indistinguishable from those observed with IC </plain></SENT>
+<SENT sid="10" pm="."><plain>For the first time, a direct relationship between blocking EPCR and <z:mp ids='MP_0005048'>thrombosis</z:mp> is demonstrated </plain></SENT>
+<SENT sid="11" pm="."><plain>Blocking anti-EPCR autoantibodies can predispose to <z:mp ids='MP_0005048'>thrombosis</z:mp> episodes and may constitute a new therapeutic target </plain></SENT>
+</text></document>

@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: The objective of this study is to determine whether <z:hpo ids='HP_0002045'>hypothermia</z:hpo> will lessen decreases in heart rate variability and improve outcome in a rat model of <z:hpo ids='HP_0100806'>sepsis</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: Thirty-six male Sprague-Dawley rats were randomized into 3 groups: control, low <z:hpo ids='HP_0100806'>sepsis</z:hpo>, and high <z:hpo ids='HP_0100806'>sepsis</z:hpo> groups </plain></SENT>
+<SENT sid="2" pm="."><plain>These groups were each subdivided into a normothermia (37°C) (n = 6) and a <z:hpo ids='HP_0002045'>hypothermia</z:hpo> group (34°C) (n = 6) </plain></SENT>
+<SENT sid="3" pm="."><plain><z:chebi fb="0" ids="4027">Cyclophosphamide</z:chebi> (100 mg/kg) was administered 5 days before Staphylococcus aureus injection to produce conditions in which <z:hpo ids='HP_0100806'>sepsis</z:hpo> could be induced reliably </plain></SENT>
+<SENT sid="4" pm="."><plain>Hypothermic rats received temperature reduction for 1 hour post injection </plain></SENT>
+<SENT sid="5" pm="."><plain>Electrocardiogram was recorded before, after, and 1 day after staphylococcal injection, and the low frequency, high frequency (HF), and LF/HF ratio measurements of heart rate variability and the frequencies of <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> were recorded </plain></SENT>
+<SENT sid="6" pm="."><plain>The effects of time, <z:hpo ids='HP_0100806'>sepsis</z:hpo> severity, and <z:hpo ids='HP_0002045'>hypothermia</z:hpo> on these variables were analyzed using a multivariate generalized estimation equation mode </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: Four <z:hpo ids='HP_0011420'>deaths</z:hpo> occurred in the normothermic group, and none, in the hypothermic group </plain></SENT>
+<SENT sid="8" pm="."><plain><z:hpo ids='HP_0100806'>Sepsis</z:hpo> of both low and high severity increased low frequency and HF 1 day after <z:hpo ids='HP_0100806'>sepsis</z:hpo> induction </plain></SENT>
+<SENT sid="9" pm="."><plain><z:hpo ids='HP_0002045'>Hypothermia</z:hpo> significantly decreased HF in low, but not high <z:hpo ids='HP_0100806'>sepsis</z:hpo> severity </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSIONS: <z:hpo ids='HP_0002045'>Hypothermia</z:hpo> decreased mortality in septic rats </plain></SENT>
+<SENT sid="11" pm="."><plain>The influence of <z:hpo ids='HP_0002045'>hypothermia</z:hpo> on HF depended on the severity of the <z:hpo ids='HP_0100806'>sepsis</z:hpo> </plain></SENT>
+</text></document>

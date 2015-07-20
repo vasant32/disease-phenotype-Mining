@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Epstein-Barr virus (EBV) is the causative agent of <z:e sem="disease" ids="C0021345" disease_type="Disease or Syndrome" abbrv="">infectious mononucleosis</z:e> (IM) </plain></SENT>
+<SENT sid="1" pm="."><plain>In addition, <z:e sem="disease" ids="C0872054" disease_type="Disease or Syndrome" abbrv="">latent infections</z:e> with EBV are associated with nasopharyngeal <z:mp ids='MP_0002038'>carcinoma</z:mp> (NPC) and Burkitt's <z:hpo ids='HP_0002665'>Lymphoma</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">BL</z:e>) </plain></SENT>
+<SENT sid="2" pm="."><plain>Antibodies to several EBV-encoded early antigens (EA) are often observed in patients with NPC and <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">BL</z:e>, however, the role of EBV-encoded proteins in the etiology of these and other EBV-associated diseases is not completely understood </plain></SENT>
+<SENT sid="3" pm="."><plain>The EA complex encodes for at least six different <z:mp ids='MP_0001799'>viral</z:mp> enzymes including deoxyuridine <z:chebi fb="0" ids="15266,18036">triphosphate</z:chebi> nucleotidohydrolase (dUTPase) </plain></SENT>
+<SENT sid="4" pm="."><plain>dUTPase has recently been shown to modulate activation of human peripheral blood mononuclear cells in vitro (unpublished data) </plain></SENT>
+<SENT sid="5" pm="."><plain>Therefore, these studies were designed to test whether dUTPase would modulate immune function in an in vivo model </plain></SENT>
+<SENT sid="6" pm="."><plain>Mice were injected with purified EBV dUTPase, and baseline immune function and sickness behaviors were measured </plain></SENT>
+<SENT sid="7" pm="."><plain>EBV dUTPase treatment inhibited replication of <z:chebi fb="0" ids="52290">mitogen</z:chebi>-stimulated lymphocytes obtained from treated mice </plain></SENT>
+<SENT sid="8" pm="."><plain>These lymphocytes were also less able to synthesize interferon-gamma after re-stimulation </plain></SENT>
+<SENT sid="9" pm="."><plain>In addition, treatment with dUTPase induced sickness behaviors </plain></SENT>
+<SENT sid="10" pm="."><plain>For example, as compared to control animals, dUTPase-treated animals lost body mass, had elevated body temperature, and displayed diminished locomotor activity </plain></SENT>
+<SENT sid="11" pm="."><plain>These data suggest that individual <z:mp ids='MP_0001799'>viral</z:mp> proteins may play a role in the pathophysiology of EBV associated disease </plain></SENT>
+</text></document>

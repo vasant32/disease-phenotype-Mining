@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Chromosomal translocations involving the genes encoding the alpha and beta subunits of the Pebp2/Cbf transcription factor have been associated with human <z:hpo ids='HP_0004808'>acute myeloid leukemia</z:hpo> and the preleukemic condition, <z:hpo ids='HP_0002863'>myelodysplasia</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Inv(16)(p13;q22) fuses the gene encoding the beta subunit of Pebp2 to the MYH11 gene encoding a smooth muscle myosin heavy chain (Smmhc) </plain></SENT>
+<SENT sid="2" pm="."><plain>To examine the effect of the inv(16)(p13;q22) on myelopoiesis, we used the hMRP8 promoter element to generate transgenic mice expressing the Pebp2betaSmmhc chimeric fusion protein in myeloid cells </plain></SENT>
+<SENT sid="3" pm="."><plain>Neutrophil maturation was impaired in PEBP2betaMYH11 transgenic mice </plain></SENT>
+<SENT sid="4" pm="."><plain>Although the transgenic mice had <z:mpath ids='MPATH_458'>normal</z:mpath> numbers of circulating neutrophils, their bone marrow contained increased numbers of immature neutrophilic cells, which exhibited abnormal characteristics </plain></SENT>
+<SENT sid="5" pm="."><plain>In addition, PEBP2betaMYH11 inhibited neutrophilic differentiation in colonies derived from hematopoietic progenitors </plain></SENT>
+<SENT sid="6" pm="."><plain>Coexpression of both PEBP2betaMYH11 and activated NRAS induced a more severe phenotype characterized by abnormal nuclear <z:mp ids='MP_0000002'>morphology</z:mp> indicative of granulocytic <z:mpath ids='MPATH_589'>dysplasia</z:mpath> </plain></SENT>
+<SENT sid="7" pm="."><plain>These results show that PEBP2betaMYH11 can impair neutrophil development and provide evidence that alterations of Pebp2 can contribute to the genesis of <z:hpo ids='HP_0002863'>myelodysplasia</z:hpo> </plain></SENT>
+</text></document>

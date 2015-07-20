@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Virtually <z:hpo ids='HP_0000001'>all</z:hpo> diffuse large cell <z:hpo ids='HP_0002665'>lymphomas</z:hpo> and a significant fraction of follicular <z:hpo ids='HP_0002665'>lymphomas</z:hpo> contain translocations and/or point mutations in the 5' non-coding region of the putative oncogene BCL-6, that are presumed to deregulate its expression </plain></SENT>
+<SENT sid="1" pm="."><plain>BCL-6 encodes a Cys2-His2 zinc finger transcriptional repressor with a POZ domain at its amino-terminus </plain></SENT>
+<SENT sid="2" pm="."><plain>The POZ (or BTB) domain, a 120-amino-acid motif, mediates homomeric and, in some proteins, heteromeric POZ-POZ interactions </plain></SENT>
+<SENT sid="3" pm="."><plain>In addition, the POZ domain is required for transcriptional repression of several proteins, including BCL-6 </plain></SENT>
+<SENT sid="4" pm="."><plain>Using a yeast two-hybrid screen, we identified N-CoR and SMRT as BCL-6 interacting proteins </plain></SENT>
+<SENT sid="5" pm="."><plain>Both N-CoR and SMRT, which were originally identified as co-repressors for the unliganded nuclear thyroid hormone and <z:chebi fb="2" ids="26536">retinoic acid</z:chebi> receptors, are components of large complexes containing <z:chebi fb="0" ids="15358">histone</z:chebi> deacetylases </plain></SENT>
+<SENT sid="6" pm="."><plain>We show that the interaction between BCL-6 and these co-repressors is also detected in the more physiologically relevant mammalian two-hybrid assay </plain></SENT>
+<SENT sid="7" pm="."><plain>The POZ domain is necessary and sufficient for interaction with these co-repressors </plain></SENT>
+<SENT sid="8" pm="."><plain>BCL-6 and N-CoR co-localize to punctate regions of the nucleus </plain></SENT>
+<SENT sid="9" pm="."><plain>Furthermore, when BCL-6 is bound to its consensus recognition sequence in vivo, it can interact with N-CoR and SMRT </plain></SENT>
+<SENT sid="10" pm="."><plain>We find, in vitro, that POZ domains from a variety of other POZ domain-containing proteins, including the transcriptional repressor PLZF, as well as ZID, GAGA and a <z:e sem="disease" ids="C0042214" disease_type="Disease or Syndrome" abbrv="">vaccinia</z:e> virus protein, SalF17R, also interact with varying affinities with N-CoR and SMRT </plain></SENT>
+<SENT sid="11" pm="."><plain>We find that BCL-6 POZ domain mutations that disrupt the interaction with N-CoR and SMRT no longer repress transcription </plain></SENT>
+<SENT sid="12" pm="."><plain>In addition, these mutations no longer self associate suggesting that self interaction is required for interaction with the co-repressors and for repression </plain></SENT>
+<SENT sid="13" pm="."><plain>More recently N-CoR has also been implicated in transcriptional repression by the Mad/Mxi proteins </plain></SENT>
+<SENT sid="14" pm="."><plain>Our demonstration that N-CoR and SMRT interact with the POZ domain containing proteins indicates that these co-repressors are likely involved in the mediation of repression by multiple classes of repressors and may explain, in part, how POZ domain containing repressors mediate transcriptional repression </plain></SENT>
+</text></document>

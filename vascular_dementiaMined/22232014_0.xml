@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0003745'>Sporadic</z:hpo> <z:e sem="disease" ids="C0002395" disease_type="Disease or Syndrome" abbrv="SDAT">Alzheimer's disease</z:e> (AD) patients have low amyloid-β <z:chebi fb="7" ids="16670">peptide</z:chebi> (Aβ) clearance in the central <z:mp ids='MP_0008912'>nervous</z:mp> system </plain></SENT>
+<SENT sid="1" pm="."><plain>The peripheral Aβ clearance may also be important but its role in AD remains unclear </plain></SENT>
+<SENT sid="2" pm="."><plain>We aimed to study the Aβ degrading proteases including insulin degrading enzyme (IDE), angiotensin converting enzyme (ACE) and others in blood </plain></SENT>
+<SENT sid="3" pm="."><plain>Using the fluorogenic substrate V (a substrate of IDE and other metalloproteases), we showed that human serum degraded the substrate V, and the activity was inhibited by adding increasing dose of Aβ </plain></SENT>
+<SENT sid="4" pm="."><plain>The existence of IDE activity was demonstrated by the inhibition of insulin, amylin, or EDTA, and further confirmed by immunocapture of IDE using monoclonal antibodies </plain></SENT>
+<SENT sid="5" pm="."><plain>The involvement of ACE was indicated by the ability of the <z:chebi fb="2" ids="35457">ACE inhibitor</z:chebi>, <z:chebi fb="0" ids="43755">lisinopril</z:chebi>, to inhibit the substrate V degradation </plain></SENT>
+<SENT sid="6" pm="."><plain>To test the variations of substrate V degradation in humans, we used serum samples from a homebound elderly population with cognitive diagnoses </plain></SENT>
+<SENT sid="7" pm="."><plain>Compared with the elderly who had <z:mpath ids='MPATH_458'>normal</z:mpath> cognition, those with probable AD and amnestic mild <z:hpo ids='HP_0100543'>cognitive impairment</z:hpo> (amnestic MCI) had lower peptidase activities </plain></SENT>
+<SENT sid="8" pm="."><plain>Probable AD or amnestic MCI as an outcome remained negatively associated with serum substrate V degradation activity after adjusting for the confounders </plain></SENT>
+<SENT sid="9" pm="."><plain>The elderly with probable AD had lower serum substrate V degradation activity compared with those who had vascular <z:hpo ids='HP_0000726'>dementia</z:hpo> </plain></SENT>
+<SENT sid="10" pm="."><plain>The blood proteases mediating Aβ degradation may be important for the AD pathogenesis </plain></SENT>
+<SENT sid="11" pm="."><plain>More studies are needed to specify each Aβ degrading protease in blood as a useful biomarker and a possible treatment target for AD </plain></SENT>
+</text></document>

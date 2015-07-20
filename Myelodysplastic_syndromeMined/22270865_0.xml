@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:mpath ids='MPATH_177'>Angiogenesis</z:mpath> has been implicated in the pathogenesis and prognosis of <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e>) </plain></SENT>
+<SENT sid="1" pm="."><plain>In this study, we investigated the relationship between microvessel density (MVD), vascular endothelial growth factor (VEGF) expression, common morphological and clinical factors, and survival in patients with <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> </plain></SENT>
+<SENT sid="2" pm="."><plain>We examined the MVD of paraffin-embedded bone marrow sections from 70 MDS patients and 31 controls </plain></SENT>
+<SENT sid="3" pm="."><plain>VEGF expression was determined in 50 patients and 20 controls </plain></SENT>
+<SENT sid="4" pm="."><plain>The median MVD in <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> patients was significantly higher than that in controls (p = 0.025), whereas there was no difference in VEGF expression between <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> patients and controls </plain></SENT>
+<SENT sid="5" pm="."><plain>In univariate analysis, increased MVD was associated with a shorter survival time (p = 0.023) </plain></SENT>
+<SENT sid="6" pm="."><plain>However, in multivariate analysis, MVD was not an independent predictor of survival </plain></SENT>
+<SENT sid="7" pm="."><plain>The VEGF expression did not influence survival in univariate analysis </plain></SENT>
+<SENT sid="8" pm="."><plain>Survival was independently influenced by platelet count (p = 0.0073), cytogenetic risk category (p = 0.022), and transfusion dependence (p = 0.0073) </plain></SENT>
+<SENT sid="9" pm="."><plain>Neither MVD nor VEGF expression were predictors for progression to <z:hpo ids='HP_0004808'>acute myeloid leukemia</z:hpo> in univariate analysis </plain></SENT>
+<SENT sid="10" pm="."><plain>Progression to <z:hpo ids='HP_0004808'>acute myeloid leukemia</z:hpo> was independently influenced only by the cytogenetic risk category (p = 0.022) </plain></SENT>
+<SENT sid="11" pm="."><plain>This study confirmed increased MVD in <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> </plain></SENT>
+<SENT sid="12" pm="."><plain>It does not support an independent prognostic role of <z:mpath ids='MPATH_177'>angiogenesis</z:mpath> in <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> </plain></SENT>
+</text></document>

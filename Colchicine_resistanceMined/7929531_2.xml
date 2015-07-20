@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The effect of the antibiotic agent novobiocin on the sensitivity of <z:hpo ids='HP_0002861'>melanoma</z:hpo> cells to <z:chebi fb="0" ids="23359">colchicine</z:chebi> and vinblastine was examined in drug-sensitive and drug-resistant B16 <z:hpo ids='HP_0002861'>melanoma</z:hpo> cells </plain></SENT>
+<SENT sid="1" pm="."><plain>A cell line COL/R was selected for <z:chebi fb="0" ids="23359">colchicine</z:chebi> resistance </plain></SENT>
+<SENT sid="2" pm="."><plain>The COL/R cell line (resistant to 80 ng/ml <z:chebi fb="0" ids="23359">colchicine</z:chebi>) was found to possess the multidrug-resistant (<z:chebi fb="14" ids="53218">MDR</z:chebi>) phenotype </plain></SENT>
+<SENT sid="3" pm="."><plain>The cells were shown to be cross-resistant to vinblastine and Adriamycin and to overexpress P <z:chebi fb="2" ids="17089">glycoprotein</z:chebi> </plain></SENT>
+<SENT sid="4" pm="."><plain>P <z:chebi fb="2" ids="17089">glycoprotein</z:chebi> activity was assessed by using the <z:chebi fb="0" ids="8828">rhodamine 123</z:chebi> accumulation test </plain></SENT>
+<SENT sid="5" pm="."><plain>Rhodamine accumulation was markedly decreased in COL/R cells as compared to the parental B16 cells </plain></SENT>
+<SENT sid="6" pm="."><plain><z:chebi fb="1" ids="9948">Verapamil</z:chebi> reversed drug resistance and increased rhodamine accumulation in COL/R cells </plain></SENT>
+<SENT sid="7" pm="."><plain>Novobiocin in combination with <z:chebi fb="0" ids="23359">colchicine</z:chebi> or vinblastine synergistically inhibited the proliferation of parental B16 cells </plain></SENT>
+<SENT sid="8" pm="."><plain>In COL/R cells, novobiocin markedly decreased <z:chebi fb="0" ids="23359">colchicine</z:chebi> resistance and increased rhodamine accumulation </plain></SENT>
+<SENT sid="9" pm="."><plain>These data show that novobiocin increases the sensitivity of both parental and <z:chebi fb="14" ids="53218">MDR</z:chebi> <z:hpo ids='HP_0002861'>melanoma</z:hpo> cells to microtubule-disrupting cytotoxic drugs </plain></SENT>
+</text></document>

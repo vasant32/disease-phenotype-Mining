@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND PURPOSE: Enhancing collateral artery growth is a potent therapeutic approach to treat cardiovascular ischemic disease from occlusive artery </plain></SENT>
+<SENT sid="1" pm="."><plain>Granulocyte-macrophage colony-stimulating factor (GM-CSF) has gained attention for its ability to promote arteriogenesis, ameliorating brain damage, by the mechanisms involving monocyte upregulation </plain></SENT>
+<SENT sid="2" pm="."><plain>However, the recent clinical study testing its efficacy in <z:e sem="disease" ids="C0151744" disease_type="Disease or Syndrome" abbrv="IHD">myocardial ischemia</z:e> has raised the question about its safety </plain></SENT>
+<SENT sid="3" pm="."><plain>We tested alternative colony-stimulating factors for their effects on collateral artery growth and brain protection </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS: Brain hypoperfusion was produced by occluding the left common carotid artery in C57/BL6 mice </plain></SENT>
+<SENT sid="5" pm="."><plain>After the surgery, granulocyte colony-stimulating factor, macrophage colony-stimulating factor, or GM-CSF (100 μg/kg/day) was administered daily for 5 days </plain></SENT>
+<SENT sid="6" pm="."><plain>The angioarchitecture for leptomeningeal anastomoses and the circle of Willis were visualized after the colony-stimulating factor treatment </plain></SENT>
+<SENT sid="7" pm="."><plain>Circulating blood monocytes and Mac-2-positive cells in the dorsal surface of the brain were determined </plain></SENT>
+<SENT sid="8" pm="."><plain>A set of animals underwent subsequent ipsilateral middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> and <z:mpath ids='MPATH_124'>infarct</z:mpath> volume was assessed </plain></SENT>
+<SENT sid="9" pm="."><plain>RESULTS: Granulocyte colony-stimulating factor as well as GM-CSF promoted leptomeningeal collateral growth after common carotid <z:mp ids='MP_0006134'>artery occlusion</z:mp> </plain></SENT>
+<SENT sid="10" pm="."><plain>Both granulocyte colony-stimulating factor and GM-CSF increased circulating blood monocytes and Mac-2-positive cells in the dorsal brain surface, suggesting the mechanisms coupled to monocyte upregulation might be shared </plain></SENT>
+<SENT sid="11" pm="."><plain><z:mpath ids='MPATH_124'>Infarct</z:mpath> volume after middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> was reduced by granulocyte colony-stimulating factor, similarly to GM-CSF </plain></SENT>
+<SENT sid="12" pm="."><plain>Macrophage colony-stimulating factor showed none of theses effects </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSIONS: Granulocyte colony-stimulating factor enhances collateral artery growth and reduces <z:mpath ids='MPATH_124'>infarct</z:mpath> volume in a mouse model of <z:e sem="disease" ids="C0007786" disease_type="Disease or Syndrome" abbrv="">brain ischemia</z:e>, similarly to GM-CSF </plain></SENT>
+</text></document>

@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 37-year-old female died of <z:e sem="disease" ids="C0265110" disease_type="Disease or Syndrome" abbrv="">cerebral vasospasm</z:e> as a complication of rewarming following <z:hpo ids='HP_0002045'>hypothermia</z:hpo> therapy for severe head injury </plain></SENT>
+<SENT sid="1" pm="."><plain>She presented with severe consciousness disturbance and <z:hpo ids='HP_0009916'>anisocoria</z:hpo> after falling down a flight of stairs </plain></SENT>
+<SENT sid="2" pm="."><plain>Computed tomography (CT) revealed a right <z:hpo ids='HP_0011009'>acute</z:hpo> <z:hpo ids='HP_0100309'>subdural hematoma</z:hpo> and temporal <z:mp ids='MP_0009275'>contusion</z:mp> </plain></SENT>
+<SENT sid="3" pm="."><plain>Following surgery, mild <z:hpo ids='HP_0002045'>hypothermia</z:hpo> was started and rewarming was completed by the 11th day </plain></SENT>
+<SENT sid="4" pm="."><plain>Neurological examination showed no abnormalities, but intracranial pressure (ICP) suddenly increased and she manifested <z:hpo ids='HP_0009916'>anisocoria</z:hpo> on the 13th day </plain></SENT>
+<SENT sid="5" pm="."><plain>Repeat CT revealed a low density area in the right middle cerebral artery region and cerebral angiography showed diffuse narrowing of the main arterial trunks </plain></SENT>
+<SENT sid="6" pm="."><plain>A cerebrospinal fluid (CSF) sample was collected using an intraventricular ICP monitoring catheter </plain></SENT>
+<SENT sid="7" pm="."><plain>The CSF level of 8-hydroxy-2'-deoxyguanosine was elevated during the rewarming period, indicating substantial <z:chebi fb="9" ids="16991">deoxyribonucleic acid</z:chebi> (DNA) oxidation </plain></SENT>
+<SENT sid="8" pm="."><plain>She died on the 15th day due to uncontrollable ICP </plain></SENT>
+<SENT sid="9" pm="."><plain>Histological examination at autopsy of the narrowed artery found the waving phenomenon in the internal elastic lamina and invasion of inflammatory cells into the adventitia </plain></SENT>
+<SENT sid="10" pm="."><plain>These findings constitute the possible evidence that <z:chebi fb="19" ids="26519">free-radical</z:chebi>-mediated oxidative DNA damage may be important in the genesis of severe vasospasm due to rewarming following <z:hpo ids='HP_0002045'>hypothermia</z:hpo> </plain></SENT>
+</text></document>

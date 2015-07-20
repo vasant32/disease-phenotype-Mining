@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIM: To design the core algorithm of a high-temporal resolution rhythm analysis algorithm for automated external defibrillators (AEDs) valid for adults and children </plain></SENT>
+<SENT sid="1" pm="."><plain>Records from adult and paediatric patients were used <z:hpo ids='HP_0000001'>all</z:hpo> together to optimize and test the performance of the algorithm </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: A total of 574 shockable and 1126 nonshockable records from 1379 adult patients, and 57 shockable and 503 nonshockable records from 377 children aged between 1 and 8 years were used </plain></SENT>
+<SENT sid="3" pm="."><plain>The records were split into two groups for development and testing </plain></SENT>
+<SENT sid="4" pm="."><plain>The core algorithm analyses ECG segments of 3.2s duration and classifies the segments as nonshockable or likely shockable combining a time, slope and frequency domain analysis to detect normally conducted QRS complexes </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: The algorithm correctly identified 98% of nonshockable segments, 97.5% in adults and 98.4% in children, and identified 99.5% of shockable segments as likely shockable, 100% in adults and 96% in children </plain></SENT>
+<SENT sid="6" pm="."><plain>When likely shockable segments were further analysed in terms of regularity, spectral content and heart rate to form a complete rhythm analysis algorithm the overall specificity increased to 99.6% and the sensitivity was 99.1% </plain></SENT>
+<SENT sid="7" pm="."><plain>CONCLUSION: Paediatric and adult rhythms can be accurately diagnosed using 3.2s ECG segments </plain></SENT>
+<SENT sid="8" pm="."><plain>A single algorithm safe for children and adults can simplify AED use, and its high temporal resolution shortens pre-shock pauses which may contribute to improve resuscitation outcome </plain></SENT>
+</text></document>

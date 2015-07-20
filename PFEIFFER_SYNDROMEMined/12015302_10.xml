@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Twist is a transcription factor that is required for mesodermal cell fates in <z:hpo ids='HP_0000001'>all</z:hpo> animals studied to date </plain></SENT>
+<SENT sid="1" pm="."><plain>Mutations of this locus in humans have been identified as the cause of the craniofacial disorder <z:e sem="disease" ids="C0175699" disease_type="Disease or Syndrome;Congenital Abnormality" abbrv="">Saethre-Chotzen syndrome</z:e> </plain></SENT>
+<SENT sid="2" pm="."><plain>The Caenorhabditis elegans Twist homolog is required for the development of a subset of the mesoderm </plain></SENT>
+<SENT sid="3" pm="."><plain>A semidominant allele of the gene that codes for CeTwist, hlh-8, has defects that occur earlier in the mesodermal lineage than a previously studied null allele of the gene </plain></SENT>
+<SENT sid="4" pm="."><plain>The semidominant allele has a charge change (E29K) in the basic DNA-binding domain of CeTwist </plain></SENT>
+<SENT sid="5" pm="."><plain>Surprisingly, the mutant protein retains DNA-binding activity as both a homodimer and a heterodimer with its partner E/Daughterless (CeE/<z:mp ids='MP_0000273'>DA</z:mp>) </plain></SENT>
+<SENT sid="6" pm="."><plain>However, the mutant protein blocks the activation of the promoter of a target gene </plain></SENT>
+<SENT sid="7" pm="."><plain>Therefore, the mutant CeTwist may cause cellular defects as a dominant negative protein by binding to target promoters as a homo- or heterodimer and then blocking transcription </plain></SENT>
+<SENT sid="8" pm="."><plain>Similar phenotypes as those caused by the E29K mutation were observed when amino acid substitutions in the DNA-binding domain that are associated with the human <z:e sem="disease" ids="C0175699" disease_type="Disease or Syndrome;Congenital Abnormality" abbrv="">Saethre-Chotzen syndrome</z:e> were engineered into the C. elegans protein </plain></SENT>
+<SENT sid="9" pm="."><plain>These data suggest that <z:e sem="disease" ids="C0175699" disease_type="Disease or Syndrome;Congenital Abnormality" abbrv="">Saethre-Chotzen syndrome</z:e> may be caused, in some cases, by dominant negative proteins, rather than by haploinsufficiency of the locus </plain></SENT>
+</text></document>

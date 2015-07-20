@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: <z:e sem="disease" ids="C1142166" disease_type="Disease or Syndrome" abbrv="SUNDS">Brugada syndrome</z:e> (BrS) is a primary <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> syndrome characterized by the occurrence of malignant <z:hpo ids='HP_0004308'>ventricular arrhythmias</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Previously, the genes SCN1B, SCN3B, MOG1, and KCND3 have been associated with BrS </plain></SENT>
+<SENT sid="2" pm="."><plain>Recent data from exome screening efforts permit better discrimination between low-frequency genetic variants and true monogenetic disease-causing variants </plain></SENT>
+<SENT sid="3" pm="."><plain>We aimed to screen the genes SCN1B through SCN4B, MOG1, CAV3, and KCND3 for variations in a population of SCN5A negative Danish and Iranian BrS patients, as well as research prior associations using newly released exome data </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS: Screening of <z:hpo ids='HP_0000001'>all</z:hpo> exons and splice sites was performed using Sanger sequencing </plain></SENT>
+<SENT sid="5" pm="."><plain>Bioinformatic searches were performed in the Single-nucleotide polymorphism database (build 132) and in the National Heart, Lung, and Blood Institute Grand Opportunity Exome Sequencing Project (ESP) for both previously published variant-BrS associations and newly uncovered variations within the noted genes </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: A total of 42 BrS patients were screened, and 2 different nonsynonymous mutations in SCN1Bb (H162P and R214Q) were found in 2 different Danish patients </plain></SENT>
+<SENT sid="7" pm="."><plain>The variants were not found in 216 Danish controls, but R214Q was present in ESP data (5 of 841 alleles) </plain></SENT>
+<SENT sid="8" pm="."><plain>No other mutations were found </plain></SENT>
+<SENT sid="9" pm="."><plain>Previously BrS-associated mutations in KNCD3 and SCN3B were also present in ESP data </plain></SENT>
+<SENT sid="10" pm="."><plain>This was not the case for MOG1, but a nonsense polymorphism was present in 0.5% of alleles </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: Our study supports the association of SCN1Bb with BrS </plain></SENT>
+<SENT sid="12" pm="."><plain>However, recently released exome data make some of the prior associations of BrS with genes SCN3B, MOG1, and KCND3 less likely </plain></SENT>
+</text></document>

@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 25-year-old woman with severe <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> received allogeneic bone marrow transplantation from an HLA-identical sibling </plain></SENT>
+<SENT sid="1" pm="."><plain>Pretransplant conditioning comprised 3.6 Gy of total body irradiation and 200 mg/kg <z:chebi fb="0" ids="4027">cyclophosphamide</z:chebi> </plain></SENT>
+<SENT sid="2" pm="."><plain><z:chebi fb="0" ids="4031">Cyclosporine</z:chebi> (CSP) and <z:chebi fb="0" ids="44185">methotrexate</z:chebi> were administered to prevent <z:e sem="disease" ids="C0018133" disease_type="Disease or Syndrome" abbrv="GVH">graft-versus-host disease</z:e> (GVHD) </plain></SENT>
+<SENT sid="3" pm="."><plain>The patient complained of severe <z:hpo ids='HP_0002315'>headache</z:hpo> soon after CSP administration on day-1 </plain></SENT>
+<SENT sid="4" pm="."><plain>On day 3, <z:e sem="disease" ids="C0036572,C0009951" disease_type="Disease or Syndrome;Sign or Symptom" abbrv="">convulsion</z:e> developed and she lost consciousness for 15 min </plain></SENT>
+<SENT sid="5" pm="."><plain>CT and MRI demonstrated low density areas and high signals, respectively, in the frontal and parietooccipital lobes and splenium of the corpus callosum, suggesting <z:hpo ids='HP_0002181'>brain edema</z:hpo> probably induced by CSP </plain></SENT>
+<SENT sid="6" pm="."><plain>After immediate withdrawal of CSP, <z:chebi fb="3" ids="17754">glycerol</z:chebi> and <z:chebi fb="2" ids="8378">prednisolone</z:chebi> were instituted, and the patient's condition improved </plain></SENT>
+<SENT sid="7" pm="."><plain>Thereafter, she developed grade II <z:hpo ids='HP_0011009'>acute</z:hpo> GVHD </plain></SENT>
+<SENT sid="8" pm="."><plain>This was treated with tacrolimus, which produced no adverse effects including central <z:mp ids='MP_0008912'>nervous</z:mp> system (<z:chebi fb="7" ids="29425,29426,29441,29447">CNS</z:chebi>) toxicity </plain></SENT>
+<SENT sid="9" pm="."><plain>This case illustrates that careful management of <z:chebi fb="7" ids="29425,29426,29441,29447">CNS</z:chebi> disorders induced by CSP can be important in patients undergoing allogeneic bone marrow transplantation </plain></SENT>
+</text></document>

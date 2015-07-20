@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: Altered actin isoform expression occurs in some pathological conditions including muscular <z:e sem="disease" ids="C0006826" disease_type="Neoplastic Process" abbrv="">malignancies</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>This study was to investigate whether a similar event occurs in <z:hpo ids='HP_0001402'>hepatocellular carcinoma</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: Cellular <z:chebi fb="40" ids="33697">RNA</z:chebi> was extracted from cancerous and non-cancerous <z:e sem="disease" ids="C0019204" disease_type="Neoplastic Process" abbrv="">hepatoma</z:e> tissues </plain></SENT>
+<SENT sid="3" pm="."><plain>Reverse transcription (RT)-PCR followed by cloning and sequencing was performed to obtain populations of actin sequences </plain></SENT>
+<SENT sid="4" pm="."><plain>Phylogenetic analysis was carried out to identify novel actin isoforms </plain></SENT>
+<SENT sid="5" pm="."><plain>Interaction between the novel actin isoform and other cellular proteins was examined by the yeast two-hybrid system </plain></SENT>
+<SENT sid="6" pm="."><plain>The relative amounts of the novel actin isoform in the cancerous and non-cancerous tissues were further assayed using real-time PCR with specific primers </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: When compared between the cancerous and non-cancerous tissues, the proportion of non-beta-actins in the cancerous parts increased significantly in three of four cases included </plain></SENT>
+<SENT sid="8" pm="."><plain>Among the non-beta-actins, a novel group of isoforms was identified, temporarily named kappa-actins </plain></SENT>
+<SENT sid="9" pm="."><plain>Two genetically closely related sequences, FKSG30 and an actin-like sequence in the <z:e sem="disease" ids="C0265493" disease_type="Disease or Syndrome" abbrv="CES">Cat Eye syndrome</z:e> region, were found to cluster with the kappa-actins </plain></SENT>
+<SENT sid="10" pm="."><plain>Protein interaction assay indicated that the interaction between kappa-actin and prefoldin 2 was greatly diminished </plain></SENT>
+<SENT sid="11" pm="."><plain>The relative amounts of kappa-actin increased in 12 of 20 cancerous tissues assayed </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: A novel class of actin isoforms was expressed in some <z:hpo ids='HP_0001402'>hepatocellular carcinoma</z:hpo> tissues, replacing beta-actins to become the major constituents of actin cytoskeleton </plain></SENT>
+</text></document>

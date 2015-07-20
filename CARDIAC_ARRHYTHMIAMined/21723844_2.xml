@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Loss of expression of the desmosomal protein plakophilin-2 (PKP2) leads to decreased gap junction-mediated (GJ) coupling, and alters the amplitude and kinetics of <z:chebi fb="199" ids="26708">sodium</z:chebi> current in cardiac myocytes </plain></SENT>
+<SENT sid="1" pm="."><plain>Whether these modifications, alone or in combination, are sufficient to act as arrhythmogenic substrates remains undefined </plain></SENT>
+<SENT sid="2" pm="."><plain>OBJECTIVE: This study sought to characterize <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> susceptibility and reentry dynamics consequent to loss of PKP2 expression, and to assess the relative contribution of cell uncoupling versus alterations in <z:chebi fb="199" ids="26708">sodium</z:chebi> current in generation of reentry </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: Monolayers of neonatal rat ventricular myocytes were treated with oligonucleotides that either prevented or failed to prevent PKP2 expression </plain></SENT>
+<SENT sid="4" pm="."><plain>Numerical simulations modeled experimentally observed modifications in I(Na), GJ coupling, or both (models PKP2-Na, PKP2-GJ, and PKP2-KD, respectively) </plain></SENT>
+<SENT sid="5" pm="."><plain>Relative roles of <z:chebi fb="199" ids="26708">sodium</z:chebi> current density versus kinetics were further explored </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: Loss of PKP2 expression increased incidence of rotors and decreased frequency of rotation </plain></SENT>
+<SENT sid="7" pm="."><plain>Mathematical simulations revealed that single premature stimuli initiated rotors in models PKP2-Na and PKP2-KD, but not PKP2-GJ </plain></SENT>
+<SENT sid="8" pm="."><plain>Changes in <z:chebi fb="199" ids="26708">sodium</z:chebi> current kinetics, rather than current density, were key to reentry initiation </plain></SENT>
+<SENT sid="9" pm="."><plain>Anatomical barriers led to vortex shedding, wavebreaks, and rotors when I(Na) kinetics, but not GJ coupling or I(Na) density, were altered </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSION: PKP2-dependent changes in <z:chebi fb="199" ids="26708">sodium</z:chebi> current kinetics lead to slow conduction, increased propensity to functional block, and vortex shedding </plain></SENT>
+<SENT sid="11" pm="."><plain>Changes in GJ or I(Na) density played only a minor role on reentry susceptibility </plain></SENT>
+<SENT sid="12" pm="."><plain>Changes in electrical properties of the myocyte caused by loss of expression of PKP2 can set the stage for rotors even if anatomical homogeneity is maintained </plain></SENT>
+</text></document>

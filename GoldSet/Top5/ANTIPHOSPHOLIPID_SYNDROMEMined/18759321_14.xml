@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: This study was undertaken to determine whether BAFF blockade can be used to prevent or treat <z:e sem="disease" ids="C0085278" disease_type="Disease or Syndrome" abbrv="">antiphospholipid syndrome</z:e> in a mouse model </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: Eight- and 12-week-old (NZW x BXSB)F(1) mice were treated with BAFF-R-Ig or TACI-Ig alone or in addition to a short course of CTLA-4Ig </plain></SENT>
+<SENT sid="2" pm="."><plain>Mice were monitored for <z:hpo ids='HP_0001873'>thrombocytopenia</z:hpo> and <z:hpo ids='HP_0000093'>proteinuria</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>Sera were tested for anticardiolipin antibodies (aCL), BAFF levels, and levels of soluble vascular cell <z:e sem="disease" ids="C0001511" disease_type="Disease or Syndrome;Acquired Abnormality" abbrv="">adhesion</z:e> molecule and E-selectin </plain></SENT>
+<SENT sid="4" pm="."><plain>Mice were killed at 17, 22, or 32 weeks of age, and kidneys and hearts were subjected to histologic examination </plain></SENT>
+<SENT sid="5" pm="."><plain>Spleen cells were phenotyped and enzyme-linked immunospot assays for autoantibody-producing B cells were performed </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: Both BAFF-R-Ig and TACI-Ig prevented disease <z:hpo ids='HP_0003674'>onset</z:hpo> and significantly prolonged survival </plain></SENT>
+<SENT sid="7" pm="."><plain>Treated mice had significantly smaller spleens than controls, with fewer B cells and fewer activated and memory T cells </plain></SENT>
+<SENT sid="8" pm="."><plain>BAFF blockade did not prevent the development of aCL, and there was only a modest delay in the development of <z:hpo ids='HP_0001873'>thrombocytopenia</z:hpo> </plain></SENT>
+<SENT sid="9" pm="."><plain>However, treated mice had significantly less <z:hpo ids='HP_0000123'>nephritis</z:hpo> and myocardial <z:mpath ids='MPATH_124'>infarcts</z:mpath> than did controls </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSION: Our findings suggest that aCL are generated in the germinal center, which is relatively independent of BAFF </plain></SENT>
+<SENT sid="11" pm="."><plain>Effector function of antiplatelet antibodies was only modestly affected by BAFF blockade </plain></SENT>
+<SENT sid="12" pm="."><plain>In contrast, <z:hpo ids='HP_0001658'>myocardial infarctions</z:hpo> were prevented, suggesting that triggering of thromboses requires both autoantibodies and mediators of <z:mp ids='MP_0001845'>inflammation</z:mp> </plain></SENT>
+<SENT sid="13" pm="."><plain>Similarly, renal damage requires both immune complexes and effector cells </plain></SENT>
+<SENT sid="14" pm="."><plain>The dissociation between autoantibody production and <z:mp ids='MP_0001845'>inflammation</z:mp> that may occur with B cell-depleting therapies underscores the role of B cells as effector cells in the <z:mp ids='MP_0001844'>autoimmune response</z:mp> </plain></SENT>
+</text></document>

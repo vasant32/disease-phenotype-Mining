@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We have coupled CIEF with an LIF detector that is based on a post-column sheath flow cuvette </plain></SENT>
+<SENT sid="1" pm="."><plain>We employed Chromeo P503 as a fluorogenic reagent to label proteins before analysis </plain></SENT>
+<SENT sid="2" pm="."><plain>This reagent reacts with the epsilon-<z:chebi fb="39" ids="32952">amine</z:chebi> of lysine residues, preserving the cationic nature of the residue; labeled proteins generate extremely sharp peaks in CIEF </plain></SENT>
+<SENT sid="3" pm="."><plain>A set of four standard proteins generated a linear relationship between migration time and pI </plain></SENT>
+<SENT sid="4" pm="."><plain>A protein homogenate prepared from a <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> cell line resolved over 100 components in a 40 min separation </plain></SENT>
+<SENT sid="5" pm="."><plain>Detection limits for Chromeo P503-labeled beta-lactoglobulin were 5 amol injected into the capillary </plain></SENT>
+<SENT sid="6" pm="."><plain>Fluorescent impurities present in the ampholytes generated a large background signal that degraded the detection limit by four orders of magnitude compared with other forms of capillary electrophoresis with this detector </plain></SENT>
+</text></document>

@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>ABSTRACT: BACKGROUND: Mesencephalic astrocyte-derived neurotrophic factor (MANF), a 20 kDa secreted protein, was originally derived from a rat mesencephalic type-1 astrocyte cell line </plain></SENT>
+<SENT sid="1" pm="."><plain>MANF belongs to a novel evolutionally conserved family of neurotrophic factors along with conserved <z:chebi fb="40" ids="18243">dopamine</z:chebi> neurotrophic factor </plain></SENT>
+<SENT sid="2" pm="."><plain>In recent years, ever-increasing evidence has shown that both of them play a remarkable protective role against various injuries to neurons in vivo or in vitro </plain></SENT>
+<SENT sid="3" pm="."><plain>However, the characteristics of MANF expression in the different types of glial cells, especially in astrocytes, remain unclear </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS: The model of focal <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> was induced by rat middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> </plain></SENT>
+<SENT sid="5" pm="."><plain>Double-labeled immunofluorescent staining was used to identify the types of neural cells expressing MANF </plain></SENT>
+<SENT sid="6" pm="."><plain>Primarily cultured glial cells were used to detect the response of glial cells to endoplasmic reticulum stress stimulation </plain></SENT>
+<SENT sid="7" pm="."><plain><z:chebi fb="0" ids="51240">Propidium iodide</z:chebi> staining was used to determine dead cells </plain></SENT>
+<SENT sid="8" pm="."><plain>Reverse transcription PCR and western blotting were used to detect the levels of <z:chebi fb="2" ids="33699">mRNA</z:chebi> and proteins </plain></SENT>
+<SENT sid="9" pm="."><plain>RESULTS: We found that MANF was predominantly expressed in neurons in both <z:mpath ids='MPATH_458'>normal</z:mpath> and ischemic cortex </plain></SENT>
+<SENT sid="10" pm="."><plain>Despite its name, MANF was poorly expressed in glial cells, including astrocytes, in <z:mpath ids='MPATH_458'>normal</z:mpath> brain tissue </plain></SENT>
+<SENT sid="11" pm="."><plain>However, the expression of MANF was upregulated in the glial cells under focal <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo>, including the astrocytes </plain></SENT>
+<SENT sid="12" pm="."><plain>This expression was also induced by several endoplasmic reticulum stress inducers and nutrient deprivation in cultured primary glial cells </plain></SENT>
+<SENT sid="13" pm="."><plain>The most interesting phenomenon observed in this study was the pattern of MANF expression in the microglia </plain></SENT>
+<SENT sid="14" pm="."><plain>The expression of MANF was closely associated with the <z:mp ids='MP_0000002'>morphology</z:mp> and state of microglia, accompanied by the upregulation of BIP/Grp78 </plain></SENT>
+<SENT sid="15" pm="."><plain>CONCLUSIONS: These results indicate that MANF expression was upregulated in the activated glial cells, which may contribute to the mechanism of <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e>-induced neural injury </plain></SENT>
+</text></document>

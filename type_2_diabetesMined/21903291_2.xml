@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIM: To examine longitudinal differences in multiple <z:e sem="disease" ids="C0850624" disease_type="Disease or Syndrome" abbrv="">cardiovascular risk factor</z:e> control (glycemia, blood pressure, and <z:chebi fb="23" ids="18059">lipids</z:chebi>) by race/ethnicity </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: Data were analyzed on a cohort of 11,203 veterans with type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="2" pm="."><plain>Primary outcome was odds of none of the risk factors out of control vs. having at least one out of control (HbA1c&gt;8.0%, BP&gt;140/90 mmHg, and <z:chebi fb="15" ids="39026">LDL</z:chebi>&gt;100mg/dL) </plain></SENT>
+<SENT sid="3" pm="."><plain>Secondary outcome was odds of having none out of control vs. having one, two or three risk factors out of control, respectively </plain></SENT>
+<SENT sid="4" pm="."><plain>Generalized linear mixed models assessed the relationship between race/ethnicity and multiple risk factor control adjusted for covariates </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: Adjusted models for primary outcome showed that NHB had two-fold (95%CI 1.8-2.3) and Hispanics had 48% higher (95%CI 1.3-1.7) odds of multiple risk factors out of control over time compared to NHW </plain></SENT>
+<SENT sid="6" pm="."><plain>Adjusted models for secondary outcome showed that NHB and Hispanics also had higher odds of having one, two, and three risk factors out of control over time compared to NHW </plain></SENT>
+<SENT sid="7" pm="."><plain>CONCLUSIONS: Ethnic minority veterans with <z:mp ids='MP_0002055'>diabetes</z:mp> are less likely to have multiple <z:e sem="disease" ids="C0850624" disease_type="Disease or Syndrome" abbrv="">cardiovascular risk factor</z:e> control over time compared to whites </plain></SENT>
+<SENT sid="8" pm="."><plain>Thus, greater risk reduction efforts are needed to reduce the heavier disease burden among ethnic minorities </plain></SENT>
+</text></document>

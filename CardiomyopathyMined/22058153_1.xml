@@ -1,0 +1,19 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The identification of mutations in PTPN11 (encoding the protein tyrosine phosphatase Shp2) in families with <z:hpo ids='HP_0002564'>congenital heart disease</z:hpo> has facilitated mechanistic studies of various cardiovascular defects </plain></SENT>
+<SENT sid="1" pm="."><plain>However, the roles of <z:mpath ids='MPATH_458'>normal</z:mpath> and mutant Shp2 in the developing heart are still poorly understood </plain></SENT>
+<SENT sid="2" pm="."><plain>Furthermore, it remains unclear how Shp2 loss-of-function (LOF) mutations cause <z:e sem="disease" ids="C0175704" disease_type="Disease or Syndrome" abbrv="">LEOPARD Syndrome</z:e> (also termed Noonan Syndrome with <z:hpo ids='HP_0001003'>multiple lentigines</z:hpo>), which is characterized by <z:hpo ids='HP_0002564'>congenital heart defects</z:hpo> such as <z:hpo ids='HP_0001642'>pulmonary valve stenosis</z:hpo> and <z:hpo ids='HP_0001639'>hypertrophic cardiomyopathy</z:hpo> (HCM) </plain></SENT>
+<SENT sid="3" pm="."><plain>In <z:mpath ids='MPATH_458'>normal</z:mpath> hearts, Shp2 controls cardiomyocyte size by regulating signaling through protein kinase B (Akt) and mammalian target of <z:chebi fb="0" ids="9168">rapamycin</z:chebi> (mTOR) </plain></SENT>
+<SENT sid="4" pm="."><plain>We hypothesized that Shp2 LOF mutations dysregulate this pathway, resulting in HCM </plain></SENT>
+<SENT sid="5" pm="."><plain>For our studies, we chose the Shp2 mutation Q510E, a dominant-negative LOF mutation associated with severe early <z:hpo ids='HP_0003674'>onset</z:hpo> HCM </plain></SENT>
+<SENT sid="6" pm="."><plain>Newborn mice with cardiomyocyte-specific overexpression of Q510E-Shp2 starting before birth displayed increased cardiomyocyte sizes, heart-to-body weight ratios, interventricular septum thickness, and cardiomyocyte disarray </plain></SENT>
+<SENT sid="7" pm="."><plain>In 3-mo-old hearts, interstitial <z:mp ids='MP_0003045'>fibrosis</z:mp> was detected </plain></SENT>
+<SENT sid="8" pm="."><plain>Echocardiographically, ventricular walls were thickened and contractile function was depressed </plain></SENT>
+<SENT sid="9" pm="."><plain>In ventricular tissue samples, signaling through Akt/mTOR was hyperactivated, indicating that the presence of Q510E-Shp2 led to upregulation of this pathway </plain></SENT>
+<SENT sid="10" pm="."><plain>Importantly, <z:chebi fb="0" ids="9168">rapamycin</z:chebi> treatment started shortly after birth rescued the Q510E-Shp2-induced phenotype in vivo </plain></SENT>
+<SENT sid="11" pm="."><plain>If <z:chebi fb="0" ids="9168">rapamycin</z:chebi> was started at 6 wk of age, HCM was also ameliorated </plain></SENT>
+<SENT sid="12" pm="."><plain>We also generated a second mouse model in which cardiomyocyte-specific Q510E-Shp2 overexpression started after birth </plain></SENT>
+<SENT sid="13" pm="."><plain>In contrast to the first model, these mice did not develop HCM </plain></SENT>
+<SENT sid="14" pm="."><plain>In summary, our studies establish a role for mTOR signaling in HCM caused by Q510E-Shp2 </plain></SENT>
+<SENT sid="15" pm="."><plain>Q510E-Shp2 overexpression in the cardiomyocyte population alone was sufficient to induce the phenotype </plain></SENT>
+<SENT sid="16" pm="."><plain>Furthermore, the pathomechanism was triggered pre- but not postnatally </plain></SENT>
+<SENT sid="17" pm="."><plain>However, postnatal <z:chebi fb="0" ids="9168">rapamycin</z:chebi> treatment could still reverse already established HCM, which may have important therapeutic implications </plain></SENT>
+</text></document>

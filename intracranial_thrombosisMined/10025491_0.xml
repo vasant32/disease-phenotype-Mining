@@ -1,0 +1,22 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: To determine the correlation between a clinical measure of function in patients after first <z:hpo ids='HP_0001297'>stroke</z:hpo> and left-right scalp amplitude of visual evoked potentials using a theoretical model of the head </plain></SENT>
+<SENT sid="1" pm="."><plain>DESIGN: A random sample of first-<z:hpo ids='HP_0001297'>stroke</z:hpo> patients underwent routine function measurement and investigation of left-right scalp potential asymmetry </plain></SENT>
+<SENT sid="2" pm="."><plain>Results of the encephalographic tests were compared with those of a healthy subject </plain></SENT>
+<SENT sid="3" pm="."><plain>To examine the effect of the conductivity in the damaged area on the potential asymmetry, numerical calculations were performed on a model, with four concentric circular compartments representing the brain, cerebrospinal fluid layer, skull, and scalp </plain></SENT>
+<SENT sid="4" pm="."><plain>The damaged region was modeled as a circular section </plain></SENT>
+<SENT sid="5" pm="."><plain>SETTING: Neurologic rehabilitation ward of a major rehabilitation hospital and university-affiliated biomedical engineering laboratory </plain></SENT>
+<SENT sid="6" pm="."><plain>PATIENTS: Four men aged 58 to 71 years, 3 with brain <z:mp ids='MP_0005048'>thrombosis</z:mp> and 1 with hemorrhagic <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+<SENT sid="7" pm="."><plain>The patients were admitted for rehabilitation an average of 3 weeks after the <z:hpo ids='HP_0001297'>stroke</z:hpo> and stayed for an average of 137 days </plain></SENT>
+<SENT sid="8" pm="."><plain>Damage was confined to the right brain in <z:hpo ids='HP_0000001'>all</z:hpo> cases; three of the patients had neglect syndrome and/or <z:e sem="disease" ids="C0152027" disease_type="Disease or Syndrome" abbrv="">sensory disturbances</z:e> </plain></SENT>
+<SENT sid="9" pm="."><plain>A healthy subject without <z:hpo ids='HP_0001297'>stroke</z:hpo> was also examined </plain></SENT>
+<SENT sid="10" pm="."><plain>MEASURES: Function was measured with the Functional Independence Measure (FIM) at 48 to 72 hours from admission and during the last week before discharge </plain></SENT>
+<SENT sid="11" pm="."><plain>Functional gain was calculated by subtracting the FIM admission score from the discharge score </plain></SENT>
+<SENT sid="12" pm="."><plain>Left-right scalp visual evoked potential amplitude was studied with flash stimuli according to the 10-20 international system and a theoretical model of the head based on two-dimensional computed tomography images; the volume conductor equation was solved numerically using the finite volume method </plain></SENT>
+<SENT sid="13" pm="."><plain>Left-right potential asymmetry and the damaged-region-to-brain-area ratio were calculated and correlated with the FIM values by linear regression analysis </plain></SENT>
+<SENT sid="14" pm="."><plain>Negative asymmetry indicates that the activity in the right damaged hemisphere is lower than in the undamaged one </plain></SENT>
+<SENT sid="15" pm="."><plain>RESULTS: A negative correlation was noted between the FIM score on admission and the left-right scalp potential amplitude asymmetry, and between the FIM gain and the damaged-region-to-brain-area ratio obtained from the computed tomography image </plain></SENT>
+<SENT sid="16" pm="."><plain>Asymmetry was negative in the thrombotic patients and positive in the hemorrhagic one </plain></SENT>
+<SENT sid="17" pm="."><plain>The healthy subject showed nonsignificant asymmetry </plain></SENT>
+<SENT sid="18" pm="."><plain>CONCLUSION: A relationship might exist between the <z:mp ids='MP_0005224'>left-right asymmetry</z:mp> of the scalp visual evoked potential and both the damaged-region-to-brain-area ratio and the functional outcome of rehabilitation in poststroke patients </plain></SENT>
+<SENT sid="19" pm="."><plain>The modeling study shows that the <z:mp ids='MP_0005224'>left-right asymmetry</z:mp> is most likely the result of changes in the conductivity at the damaged area, which, in turn, are probably associated with patient functional status and evolution </plain></SENT>
+<SENT sid="20" pm="."><plain>Further validation in larger groups of patients and <z:mpath ids='MPATH_458'>normal</z:mpath> subjects is needed before these parameters can serve as useful indices for clinical purposes </plain></SENT>
+</text></document>

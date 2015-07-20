@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0005110'>Atrial fibrillation</z:hpo> (AF) is a commonly encountered <z:hpo ids='HP_0011675'>cardiac arrhythmia</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Predicting the conditions under which AF terminates spontaneously is an important task that would bring great benefit to both patients and clinicians </plain></SENT>
+<SENT sid="2" pm="."><plain>In this study, a new method was proposed to predict spontaneous AF termination by employing the points of section (POS) coordinates along a Poincare section in the electrocardiogram (ECG) phase space </plain></SENT>
+<SENT sid="3" pm="."><plain>The AF Termination Database provided by PhysioNet for the Computers in Cardiology Challenge 2004 was applied in the present study </plain></SENT>
+<SENT sid="4" pm="."><plain>It includes one training dataset and two testing datasets, A and B </plain></SENT>
+<SENT sid="5" pm="."><plain>The present investigation was initiated by producing a two-dimensional reconstructed phase space (RPS) of the ECG </plain></SENT>
+<SENT sid="6" pm="."><plain>Then, a Poincare line was drawn in a direction that included the maximum point distribution in the RPS and also passed through the origin of the RPS coordinate system </plain></SENT>
+<SENT sid="7" pm="."><plain>Afterward, the coordinates of the RPS trajectory intersections with this Poincare line were extracted to capture the local behavior related to the <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> under investigation </plain></SENT>
+<SENT sid="8" pm="."><plain>The POS corresponding to atrial activity were selected with regard to the fact that similar ECG <z:mp ids='MP_0000002'>morphologies</z:mp> such as P waves, which are corresponding to atrial activity, distribute in a specific region of the RPS </plain></SENT>
+<SENT sid="9" pm="."><plain>Thirteen features were extracted from the selected intersection points to quantify their distributions </plain></SENT>
+<SENT sid="10" pm="."><plain>To select the best feature subset, a genetic algorithm (GA), in combination with a support vector machine (SVM), was applied to the training dataset </plain></SENT>
+<SENT sid="11" pm="."><plain>Based on the selected features and trained SVM, the performance of the proposed method was evaluated using the testing datasets </plain></SENT>
+<SENT sid="12" pm="."><plain>The results showed that 86.67% of dataset A and 80% of dataset B were correctly classified </plain></SENT>
+<SENT sid="13" pm="."><plain>This classification accuracy is in the same range as or higher than that of recent studies in this area </plain></SENT>
+<SENT sid="14" pm="."><plain>These results show that the proposed method, in which no complicated QRST cancelation algorithm was used, has the potential to predict AF termination </plain></SENT>
+</text></document>

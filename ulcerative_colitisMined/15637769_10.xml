@@ -1,0 +1,19 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The authors report the case of a 60-year-old male patient </plain></SENT>
+<SENT sid="1" pm="."><plain>In November 2001 he developed intestinal symptoms of <z:hpo ids='HP_0002573'>bloody diarrhea</z:hpo> and <z:hpo ids='HP_0002027'>abdominal pain</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>Colononoscopy and biopsy established the diagnosis of <z:hpo ids='HP_0100279'>ulcerative colitis</z:hpo> (<z:e sem="disease" ids="C0033252" disease_type="Disease or Syndrome" abbrv="">proctosigmoiditis</z:e>) </plain></SENT>
+<SENT sid="3" pm="."><plain>The disease activity was moderate at the beginning </plain></SENT>
+<SENT sid="4" pm="."><plain>No significant laboratory alterations were found (including CEA, CA19-9), and <z:chebi fb="0" ids="6775">mesalazine</z:chebi> was started orally </plain></SENT>
+<SENT sid="5" pm="."><plain>He was in remission until November 2003, when he was admitted to our Outpatient Clinic for upper and right lower <z:hpo ids='HP_0002027'>abdominal pain</z:hpo> and <z:hpo ids='HP_0002573'>bloody diarrhea</z:hpo> </plain></SENT>
+<SENT sid="6" pm="."><plain>Colonoscopy found <z:e sem="disease" ids="C0033252" disease_type="Disease or Syndrome" abbrv="">proctosigmoiditis</z:e> with a moderate activity, gastroscopy revealed <z:hpo ids='HP_0005231'>chronic gastritis</z:hpo>, laboratory data was <z:mpath ids='MPATH_458'>normal</z:mpath> </plain></SENT>
+<SENT sid="7" pm="."><plain>Treatment was amended with <z:chebi fb="0" ids="6775">mesalazine</z:chebi> clysma and <z:chebi fb="0" ids="6888">methylprednisolone</z:chebi> (16 mg) orally </plain></SENT>
+<SENT sid="8" pm="."><plain>Symptoms ameliorated; however, right lower <z:hpo ids='HP_0002027'>abdominal pain</z:hpo> persisted </plain></SENT>
+<SENT sid="9" pm="."><plain>US and CT examination demonstrated a pericecal cystic mass (11 cm x 3.5 cm) </plain></SENT>
+<SENT sid="10" pm="."><plain>At first pericecal <z:mpath ids='MPATH_612'>abscess</z:mpath> was suspected, as the previous US examination (6 mo earlier) had revealed <z:mpath ids='MPATH_458'>normal</z:mpath> findings </plain></SENT>
+<SENT sid="11" pm="."><plain>Fine needle <z:hpo ids='HP_0002835'>aspiration</z:hpo> was performed </plain></SENT>
+<SENT sid="12" pm="."><plain>Cytology confirmed the diagnosis of <z:e sem="disease" ids="C0026683" disease_type="Neoplastic Process" abbrv="">mucocele</z:e> </plain></SENT>
+<SENT sid="13" pm="."><plain>The patient underwent partial cecum resection and extirpation of the <z:e sem="disease" ids="C0026683" disease_type="Neoplastic Process" abbrv="">mucocele</z:e> </plain></SENT>
+<SENT sid="14" pm="."><plain>He recovered well and the final histology revealed a <z:mpath ids='MPATH_277'>cystadenoma</z:mpath> of the appendix </plain></SENT>
+<SENT sid="15" pm="."><plain>Follow up was started </plain></SENT>
+<SENT sid="16" pm="."><plain>The patient is now free of symptoms </plain></SENT>
+<SENT sid="17" pm="."><plain>Although primary <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> of the appendix is uncommon, the authors emphasize that preoperative diagnosis of an underlying <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">malignancy</z:e> in a <z:e sem="disease" ids="C0026683" disease_type="Neoplastic Process" abbrv="">mucocele</z:e> is important for patient management; however, it is difficult on imaging studies </plain></SENT>
+</text></document>

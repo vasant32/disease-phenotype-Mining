@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>An 85-year-old patient suffered from progressive deterioration (NYHA III) for several months </plain></SENT>
+<SENT sid="1" pm="."><plain><z:e sem="disease" ids="C0018799" disease_type="Disease or Syndrome" abbrv="">Cardiac disease</z:e> was suspected </plain></SENT>
+<SENT sid="2" pm="."><plain>Echocardiography as well as a CT scan of the heart revealed a <z:e sem="disease" ids="C0018809" disease_type="Neoplastic Process" abbrv="">heart tumor</z:e> to be the cause </plain></SENT>
+<SENT sid="3" pm="."><plain><z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">Tumor</z:e> staging was negative </plain></SENT>
+<SENT sid="4" pm="."><plain>After transvenous biopsy, the diagnosis of a Burkitt <z:hpo ids='HP_0002665'>lymphoma</z:hpo> could be established </plain></SENT>
+<SENT sid="5" pm="."><plain>Due to the advanced age of the patient, the intended surgical therapy was turned down and the patient was treated with 6 courses of a potentially therapeutic chemotherapy (CHOP scheme), which was well tolerated by the patient </plain></SENT>
+<SENT sid="6" pm="."><plain>The following CT scan showed a complete remission of the <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> </plain></SENT>
+<SENT sid="7" pm="."><plain>Six months after chemotherapy the patient is in NYHA stage I </plain></SENT>
+</text></document>

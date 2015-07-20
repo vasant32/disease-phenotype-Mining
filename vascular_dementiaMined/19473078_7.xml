@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: <z:e sem="disease" ids="C0002395" disease_type="Disease or Syndrome" abbrv="SDAT">Alzheimer's disease</z:e> (AD) and vascular <z:hpo ids='HP_0000726'>dementia</z:hpo> (VaD) are the main causes of <z:hpo ids='HP_0000726'>dementia</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Postmenopausal <z:chebi fb="0" ids="50114">estrogen</z:chebi> deficiency was suggested as a contributor to <z:hpo ids='HP_0001268'>cognitive decline</z:hpo>; however, replacement therapy failed to prove beneficial in its prevention or therapy </plain></SENT>
+<SENT sid="2" pm="."><plain>Sequence variants in the <z:chebi fb="0" ids="50114">estrogen</z:chebi> receptor alpha gene (ESR1) and beta gene (ESR2) may alter the effects of <z:chebi fb="0" ids="50114">estrogen</z:chebi> </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: This is a case-control association study of <z:hpo ids='HP_0003745'>sporadic</z:hpo> AD, VaD, and single-nucleotide polymorphisms in ESR1 (rs2234693 and rs9340799), the TA <z:chebi fb="0" ids="47885">dinucleotide</z:chebi> repeat in the ESR1 promoter, and the rs4986938 single-nucleotide polymorphism in ESR2 </plain></SENT>
+<SENT sid="4" pm="."><plain>Two hundred forty-six women (118 AD, age 83 +/- 7; 60 VaD, age 82 +/- 6; and 68 cognitively intact, age 81 +/- 7) residing in nursing homes were studied </plain></SENT>
+<SENT sid="5" pm="."><plain>The association of genotypes and AD or VaD was determined by logistic regression analysis adjusted for age and ethnic origin </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: An association of VaD and ESR2 rs4986938 was found </plain></SENT>
+<SENT sid="7" pm="."><plain>Carriers of each A allele had a 1.7 increased risk compared to carriers of the G allele (odds ratio 1.71, 95% confidence interval 1-2.95) </plain></SENT>
+<SENT sid="8" pm="."><plain>The ApoE epsilon 4 allele was associated with AD (odds ratio 3.35, confidence interval 1.44-7.82), but not with VaD </plain></SENT>
+<SENT sid="9" pm="."><plain>No association of AD or VaD with ESR1 genotypes or haplotypes was detected </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSIONS: The ESR2 rs4986938 polymorphism is associated with susceptibility for VaD in elderly Jewish women </plain></SENT>
+<SENT sid="11" pm="."><plain>These results need to be confirmed in replicate studies in other populations </plain></SENT>
+</text></document>

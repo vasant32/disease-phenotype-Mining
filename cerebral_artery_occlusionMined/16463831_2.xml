@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We evaluated the effects of <z:chebi fb="0" ids="32599">magnesium sulfate</z:chebi> on brain tissue oxygen (PtO2) tension, carbon dioxide (PtCO2) tension and pH (pHt) in patients undergoing temporary <z:mp ids='MP_0006134'>artery occlusion</z:mp> for clipping of <z:hpo ids='HP_0004944'>cerebral aneurysm</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>We studied 18 patients with aneurysmal <z:hpo ids='HP_0002138'>subarachnoid hemorrhage</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> patients received standard <z:chebi fb="37" ids="38867">anesthetics</z:chebi> using target controlled infusion of <z:chebi fb="3" ids="44915">propofol</z:chebi> (3 microg/ml) and remifentanil (10 ng/ml) </plain></SENT>
+<SENT sid="3" pm="."><plain>After craniotomy, a calibrated multiparameter sensor (Neurotrend, Diametrics Medical, Minneapolis, MN) was inserted to measure PtO2, PtCO2 and pHt in tissue at risk of <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> during temporary <z:mp ids='MP_0006134'>artery occlusion</z:mp> </plain></SENT>
+<SENT sid="4" pm="."><plain>Patients were then randomly allocated to receive either intravenous saline or <z:chebi fb="131" ids="25107">magnesium</z:chebi> 20 mmol over 10 min followed by an infusion 4 mmol/h </plain></SENT>
+<SENT sid="5" pm="."><plain>Plasma <z:chebi fb="131" ids="25107">magnesium</z:chebi> concentration, brain tissue gases and pHt were determined at baseline, 30 min after study drug infusion and 4 min after temporary clipping </plain></SENT>
+<SENT sid="6" pm="."><plain>Data were analyzed by factorial ANOVA with repeated measures </plain></SENT>
+<SENT sid="7" pm="."><plain>Intergroup difference was compared with unpaired t test </plain></SENT>
+<SENT sid="8" pm="."><plain>P value &lt; 0.05 was considered significant </plain></SENT>
+<SENT sid="9" pm="."><plain>Patient characteristics, baseline brain tissue gases and pHt did not differ between groups </plain></SENT>
+<SENT sid="10" pm="."><plain><z:chebi fb="131" ids="25107">Magnesium</z:chebi> infusion increased PtO2 by 34% </plain></SENT>
+<SENT sid="11" pm="."><plain>Following temporary <z:mp ids='MP_0006134'>artery occlusion</z:mp>, PtO2 and pHt decreased and PtCO2 increased in both groups </plain></SENT>
+<SENT sid="12" pm="."><plain>However, tissue <z:mp ids='MP_0005039'>hypoxia</z:mp> was less severe and the rate of PtO2 decline was slower in the <z:chebi fb="131" ids="25107">magnesium</z:chebi> group </plain></SENT>
+<SENT sid="13" pm="."><plain>Our data suggested that <z:chebi fb="131" ids="25107">magnesium</z:chebi> enhances tissue oxygenation and attenuates <z:mp ids='MP_0005039'>hypoxia</z:mp> during temporary <z:mp ids='MP_0006134'>artery occlusion</z:mp> </plain></SENT>
+</text></document>

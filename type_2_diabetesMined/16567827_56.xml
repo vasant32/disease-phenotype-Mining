@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: The alpha(2)-Heremans-Schmid <z:chebi fb="2" ids="17089">glycoprotein</z:chebi> (AHSG; fetuin-A in animals) impairs insulin signaling in vitro and in rodents </plain></SENT>
+<SENT sid="1" pm="."><plain>Whether AHSG is associated with <z:hpo ids='HP_0000855'>insulin resistance</z:hpo> in humans is under investigation </plain></SENT>
+<SENT sid="2" pm="."><plain>In an animal model of diet-induced <z:hpo ids='HP_0001513'>obesity</z:hpo> that is commonly associated with <z:hpo ids='HP_0001397'>hepatic steatosis</z:hpo>, an increase in Ahsg <z:chebi fb="2" ids="33699">mRNA</z:chebi> expression was observed in the liver </plain></SENT>
+<SENT sid="3" pm="."><plain>Therefore, we hypothesized that the AHSG plasma protein, which is exclusively secreted by the liver in humans, may not only be associated with <z:hpo ids='HP_0000855'>insulin resistance</z:hpo> but also with fat accumulation in the liver </plain></SENT>
+<SENT sid="4" pm="."><plain>RESEARCH DESIGN AND METHODS: Data from 106 healthy Caucasians without type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> were included in cross-sectional analyses </plain></SENT>
+<SENT sid="5" pm="."><plain>A subgroup of 47 individuals had data from a longitudinal study </plain></SENT>
+<SENT sid="6" pm="."><plain>Insulin sensitivity was measured by a euglycemic-hyperinsulinemic clamp, and liver fat was determined by (1)H magnetic resonance spectroscopy </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: AHSG plasma levels, adjusted for age, sex, and percentage of body fat, were higher in subjects with <z:hpo ids='HP_0000833'>impaired glucose tolerance</z:hpo> compared with subjects with <z:mpath ids='MPATH_458'>normal</z:mpath> <z:chebi fb="105" ids="17234">glucose</z:chebi> tolerance (P = 0.006) </plain></SENT>
+<SENT sid="8" pm="."><plain>AHSG plasma levels were negatively associated with insulin sensitivity (r = -0.22, P = 0.03) in cross-sectional analyses </plain></SENT>
+<SENT sid="9" pm="."><plain>Moreover, they were positively associated with liver fat (r = 0.27, P = 0.01) </plain></SENT>
+<SENT sid="10" pm="."><plain>In longitudinal analyses, under <z:hpo ids='HP_0001824'>weight loss</z:hpo>, a decrease in liver fat was accompanied by a decrease in AHSG plasma concentrations </plain></SENT>
+<SENT sid="11" pm="."><plain>Furthermore, high AHSG levels at baseline predicted less increase in insulin sensitivity (P = 0.02) </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: We found that high AHSG plasma levels are associated with <z:hpo ids='HP_0000855'>insulin resistance</z:hpo> in humans </plain></SENT>
+<SENT sid="13" pm="."><plain>Moreover, AHSG plasma levels are elevated in subjects with fat accumulation in the liver </plain></SENT>
+<SENT sid="14" pm="."><plain>This is consistent with a potential role of AHSG as a link between <z:hpo ids='HP_0001397'>fatty liver</z:hpo> and <z:hpo ids='HP_0000855'>insulin resistance</z:hpo> </plain></SENT>
+</text></document>

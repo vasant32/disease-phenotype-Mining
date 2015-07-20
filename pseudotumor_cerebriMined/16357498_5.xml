@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Bad quality of continuous intracranial pressure (ICP) recordings may potentially give wrong diagnostic information </plain></SENT>
+<SENT sid="1" pm="."><plain>METHOD: This study examined the ICP recordings of 33 children undergoing ICP monitoring during a 12-month period </plain></SENT>
+<SENT sid="2" pm="."><plain>Their ICP recordings were stored as raw data files and analyzed retrospectively </plain></SENT>
+<SENT sid="3" pm="."><plain>An automatic algorithm applied to every subsequent 6-second time window of each recording assessed the quality of ICP recordings </plain></SENT>
+<SENT sid="4" pm="."><plain>Time windows containing 4-18 cardiac beat-induced single ICP waves were accepted; time windows containing artifact-induced pressure waves due to noise in the signal were rejected </plain></SENT>
+<SENT sid="5" pm="."><plain>For every ICP recording, the number of accepted and rejected time windows were determined </plain></SENT>
+<SENT sid="6" pm="."><plain>In addition, the raw data ICP signal was assessed by visual inspection to verify the automatic algorithm </plain></SENT>
+<SENT sid="7" pm="."><plain>Two methods of computing mean pressure of a time window are compared; mean ICP was either computed according to current practice independent of the presence or absence of single ICP waves or computed only for single ICP waves within the time window (mean(SW) ICP) </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: In 4 of the 33 patients (12%), more than 70% of the time windows of their ICP recordings were rejected; in 3 patients 95-100% of time windows were rejected </plain></SENT>
+<SENT sid="9" pm="."><plain>Visual inspection of the raw ICP signals confirmed the absence of single ICP waves </plain></SENT>
+<SENT sid="10" pm="."><plain>In these cases, computing mean(SW) ICP, not by mean ICP, revealed the bad signal quality </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: This retrospective study showed that in 3 of 33 patients (9%) the quality of the ICP recordings was so bad that they gave wrong diagnostic information </plain></SENT>
+<SENT sid="12" pm="."><plain>One way of obtaining quality control is to compute mean(SW) ICP, determined only for cardiac beat-induced single ICP waves within a time window </plain></SENT>
+</text></document>

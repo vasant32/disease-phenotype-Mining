@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND PURPOSE: Intravenous recombinant tissue plasminogen activator (rtPA) can be beneficial in <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> despite an increased risk of <z:mp ids='MP_0001914'>hemorrhage</z:mp> and potential neurotoxic effects </plain></SENT>
+<SENT sid="1" pm="."><plain>We hypothesized that rtPA-mediated adverse effects depend on the timing of reperfusion and injury to the blood-brain barrier (<z:chebi fb="2" ids="33602">BBB</z:chebi>) </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: Male Wistar rats had middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (MCAO) by intraluminal thread placement </plain></SENT>
+<SENT sid="3" pm="."><plain>Intervals of <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e>/reperfusion, respectively, in hours were 0/18, 1.5/16.5, 3/15, 6/12, 18/0, and 6/1 </plain></SENT>
+<SENT sid="4" pm="."><plain>Animals received either rtPA or saline for 1 hour at the time of reperfusion or, for the 18/0 trial, starting 1 hour after MCAO </plain></SENT>
+<SENT sid="5" pm="."><plain>Outcome parameters were mortality, matrix metalloproteinase-2 and -9 (MMP-2 and -9) concentrations, tissue <z:chebi fb="0" ids="35143">hemoglobin</z:chebi>, and brain water content </plain></SENT>
+<SENT sid="6" pm="."><plain>We analyzed the permeability of the <z:chebi fb="2" ids="33602">BBB</z:chebi> by using the brain <z:chebi fb="32" ids="36927">14C</z:chebi>[<z:chebi fb="27" ids="17992">sucrose</z:chebi>] uptake method </plain></SENT>
+<SENT sid="7" pm="."><plain>Effects of the MMP inhibitor BB-94 on the <z:chebi fb="2" ids="33602">BBB</z:chebi> without rtPA treatment and on mortality with rtPA were tested in animals with 6/1 and 6/12, respectively </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: In delayed reperfusion (6/12), rtPA increased mortality from 17% to 83% (P&lt;0.01) without significantly affecting other outcome parameters </plain></SENT>
+<SENT sid="9" pm="."><plain>In 6/1, <z:chebi fb="27" ids="17992">sucrose</z:chebi> uptake in the ischemic hemisphere was markedly increased (8.80+/-1.14% vs 2.15+/-0.26%; P&lt;0.01) </plain></SENT>
+<SENT sid="10" pm="."><plain>This uptake was reduced by treatment with BB-94 (3.95+/-1.48%, P&lt;0.01) </plain></SENT>
+<SENT sid="11" pm="."><plain>Furthermore, BB-94 reduced rtPA-mediated mortality in 6/12 to 33% (P&lt;0.05) </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: rtPA-mediated mortality in delayed reperfusion is associated with early opening of the <z:chebi fb="2" ids="33602">BBB</z:chebi> </plain></SENT>
+<SENT sid="13" pm="."><plain>Closure of the <z:chebi fb="2" ids="33602">BBB</z:chebi> with BB-94 given before rtPA treatment reduced mortality, suggesting that treatment with MMP inhibitors might reduce the risk associated with thrombolysis </plain></SENT>
+</text></document>

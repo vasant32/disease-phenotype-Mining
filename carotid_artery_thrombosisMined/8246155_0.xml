@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Applaggin, an inhibitor of platelet aggregation via binding to the <z:chebi fb="2" ids="17089">glycoprotein</z:chebi> IIb/IIIa receptor, was examined in an anesthetized canine model of <z:hpo ids='HP_0004420'>arterial thrombosis</z:hpo> formation secondary to arterial wall injury </plain></SENT>
+<SENT sid="1" pm="."><plain>Both carotid arteries were isolated and instrumented with flow probes, intravascular anodal electrodes and adjustable constrictors </plain></SENT>
+<SENT sid="2" pm="."><plain>The right carotid artery was injured initially and served as the control response to vessel wall injury in each animal, whereas the left carotid was injured after applaggin administration (1.0 mg/kg, i.v.) </plain></SENT>
+<SENT sid="3" pm="."><plain><z:mp ids='MP_0006134'>Arterial occlusion</z:mp> in the control vessel occurred in each of seven animals </plain></SENT>
+<SENT sid="4" pm="."><plain>Time for occlusive <z:e sem="disease" ids="C0302148,C0087086" disease_type="Disease or Syndrome;Acquired Abnormality" abbrv="">thrombus</z:e> development was 125.6 +/- 15.2 min </plain></SENT>
+<SENT sid="5" pm="."><plain>One of the seven left carotid arteries occluded after applaggin </plain></SENT>
+<SENT sid="6" pm="."><plain><z:e sem="disease" ids="C0302148,C0087086" disease_type="Disease or Syndrome;Acquired Abnormality" abbrv="">Thrombus</z:e> weight was greater in control vessels (44.2 +/- 7.0 mg) vs. <z:e sem="disease" ids="C0302148,C0087086" disease_type="Disease or Syndrome;Acquired Abnormality" abbrv="">thrombus</z:e> weight after applaggin (11.2 +/- 2.4 mg) </plain></SENT>
+<SENT sid="7" pm="."><plain>Cyclic flow variations occurred in <z:hpo ids='HP_0000001'>all</z:hpo> control arteries before development of an occlusive <z:e sem="disease" ids="C0302148,C0087086" disease_type="Disease or Syndrome;Acquired Abnormality" abbrv="">thrombus</z:e> </plain></SENT>
+<SENT sid="8" pm="."><plain>In contrast, cyclic flow variations were observed only in two of seven vessels injured after applaggin </plain></SENT>
+<SENT sid="9" pm="."><plain>One of the latter vessels developed an occlusive <z:e sem="disease" ids="C0302148,C0087086" disease_type="Disease or Syndrome;Acquired Abnormality" abbrv="">thrombus</z:e> </plain></SENT>
+<SENT sid="10" pm="."><plain>Platelet counts, heart rate and blood pressure were unaltered over the course of the experimental protocol </plain></SENT>
+<SENT sid="11" pm="."><plain>Ex vivo platelet aggregation to <z:chebi fb="0" ids="15843">arachidonic acid</z:chebi> was examined before and after applaggin administration </plain></SENT>
+<SENT sid="12" pm="."><plain>Platelet-rich plasma from animals having initial <z:mpath ids='MPATH_458'>normal</z:mpath> baseline aggregation no longer aggregated 30 min after administration of applaggin </plain></SENT>
+<SENT sid="13" pm="."><plain>Aggregation returned to <z:mpath ids='MPATH_458'>normal</z:mpath> within 3 hr </plain></SENT>
+<SENT sid="14" pm="."><plain>Applaggin binds to stimulated and unstimulated platelets and two classes of binding sites were identified </plain></SENT>
+<SENT sid="15" pm="."><plain>The results demonstrate that applaggin possesses an antithrombotic effect in the experimental model of canine carotid artery <z:mp ids='MP_0005048'>thrombosis</z:mp> </plain></SENT>
+</text></document>

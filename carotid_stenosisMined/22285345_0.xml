@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: The aim of this study was to investigate the accuracy of digital subtraction angiography (DSA), computed tomography angiography (CTA), and magnetic resonance angiography (MRA) in grading of <z:hpo ids='HP_0100546'>carotid stenosis</z:hpo> compared with actual measurement in an in vitro model </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: Various grades of stenosis were created by adhering different amounts of <z:chebi fb="144" ids="48140">silicone</z:chebi> rubber sealant onto the inner wall of clear, radiolucent tubes </plain></SENT>
+<SENT sid="2" pm="."><plain>After DSA, CTA, and MRA, the tubes were transected with 1-mm interval through the plaques </plain></SENT>
+<SENT sid="3" pm="."><plain>The cross-sectional areas were digitally photographed, and the percentage of area reduction of every single slide was measured with ImageJ planimetric software </plain></SENT>
+<SENT sid="4" pm="."><plain>The maximum actual area reduction (AAR) stenosis of each tube was recorded </plain></SENT>
+<SENT sid="5" pm="."><plain>The differences among DSA, CTA, MRA, and AAR were compared statistically using paired Student t test </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: Overall, CTA and MRA significantly underestimated the degrees of stenosis compared with AAR (P = 0.001 and P = 0.0009, respectively), and no significant difference was found between DSA and AAR (P = 0.40) </plain></SENT>
+<SENT sid="7" pm="."><plain>In the subgroup with stenosis of &lt;70%, there was no significant difference between DSA, CTA, and MRA versus AAR (P = 0.18, P = 0.16, and P = 0.08, respectively) </plain></SENT>
+<SENT sid="8" pm="."><plain>In the subgroup with severe stenosis of &gt;70%, CTA and MRA significantly underestimated the stenosis versus AAR (P = 0.004, and P = 0.007 respectively), and DSA significantly overestimated the stenosis (P = 0.0007) </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSIONS: This in vitro model study demonstrated that CTA and MRA underestimate the lesions in severe stenosis of &gt;70% </plain></SENT>
+<SENT sid="10" pm="."><plain>DSA tends to overestimate the disease </plain></SENT>
+<SENT sid="11" pm="."><plain>The accuracy of DSA is affected by plaque <z:mp ids='MP_0000002'>morphology</z:mp>, such as mountain-shaped lesions </plain></SENT>
+</text></document>

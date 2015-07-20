@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: <z:chebi fb="7" ids="16670">Peptide</z:chebi> YY (PYY) is an endogenous gut hormone that inhibits the growth of certain <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancers</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain><z:mp ids='MP_0009308'>Adenocarcinoma</z:mp> of the esophagus usually arises from <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>We hypothesized that treatment of Barrett's <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> with PYY would result in decreased proliferation </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: Barrett's <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> cell lines (BIC and SEG-1) were treated with PYY (3-36) at 500 pmol/mL </plain></SENT>
+<SENT sid="4" pm="."><plain>Viability was measured by <z:chebi fb="0" ids="53233">MTT</z:chebi> at 24 and 72 hours </plain></SENT>
+<SENT sid="5" pm="."><plain><z:mpath ids='MPATH_3'>Apoptosis</z:mpath> and <z:mp ids='MP_0001651'>necrosis</z:mp> was evaluated by flow cytometry </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: PYY reduced proliferation in SEG-1 cells at 24 hours (21.2% +/- 3.4%, P &lt;0.001) and 72 hours (14.2% +/- 6.2%, P &lt;0.001) </plain></SENT>
+<SENT sid="7" pm="."><plain>In the BIC cells, growth was inhibited by 7.9% +/- 7.0%, P = 0.021 after 72 hours </plain></SENT>
+<SENT sid="8" pm="."><plain>PYY increased late apoptotic activity in SEG-1 cells by 31%, P = 0.014 </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSIONS: This is the first report of antiproliferative effects of PYY against Barrett's <z:mp ids='MP_0002038'>carcinoma</z:mp> in vitro </plain></SENT>
+<SENT sid="10" pm="."><plain>Reductions in cell growth appear to be mediated by proapoptotic mechanisms </plain></SENT>
+<SENT sid="11" pm="."><plain>Further investigation of PYY in the treatment of Barrett's <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> is warranted </plain></SENT>
+</text></document>

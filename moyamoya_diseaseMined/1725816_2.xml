@@ -1,0 +1,6 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 38-year-old male presented with <z:e sem="disease" ids="C0026654" disease_type="Disease or Syndrome" abbrv="MYMY|MYMY1">moyamoya disease</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>Occlusion of the bilateral proximal posterior cerebral arteries (<z:chebi fb="20" ids="36751">PCAs</z:chebi>) resulted in homonymous 3/4 (right half and left lower quadrant) anopsia and various mental symptoms </plain></SENT>
+<SENT sid="2" pm="."><plain>To prevent impending <z:hpo ids='HP_0100704'>cortical blindness</z:hpo>, revascularization to the right <z:chebi fb="20" ids="36751">PCA</z:chebi> was performed by occipital artery (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">OA</z:e>) to calcarine artery anastomosis </plain></SENT>
+<SENT sid="3" pm="."><plain>His neurological state was stabilized </plain></SENT>
+<SENT sid="4" pm="."><plain><z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">OA</z:e>-cortical <z:chebi fb="20" ids="36751">PCA</z:chebi> (calcarine artery) anastomosis is an alternative to omentum transplantation or occipital burr hole procedures for impending <z:hpo ids='HP_0100704'>cortical blindness</z:hpo> </plain></SENT>
+</text></document>

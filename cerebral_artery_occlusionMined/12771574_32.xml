@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Nuclear factor-kappaB (NFkappaB) is a transcription factor that is activated after <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>NFkappaB activation leads to the expression of many inflammatory genes involved in the pathogenesis of <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>The authors previously showed that mild <z:hpo ids='HP_0002045'>hypothermia</z:hpo> is protective even when cooling begins 2 h after <z:hpo ids='HP_0001297'>stroke</z:hpo> <z:hpo ids='HP_0003674'>onset</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>In the present study, they examined the influence of <z:hpo ids='HP_0002045'>hypothermia</z:hpo> on NFkappaB activation </plain></SENT>
+<SENT sid="4" pm="."><plain>Rats underwent 2 h of transient middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> </plain></SENT>
+<SENT sid="5" pm="."><plain>Brains were cooled to 33 degrees C immediately after or 2 h after occlusion, and maintained for 2 h </plain></SENT>
+<SENT sid="6" pm="."><plain>After normothermic <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> (brain temperature at 38 degrees C), NFkappaB cytoplasmic expression, nuclear translocation, and binding activity were observed as early as 2 h in the ischemic hemisphere and persisted at 24 h </plain></SENT>
+<SENT sid="7" pm="."><plain><z:hpo ids='HP_0002045'>Hypothermia</z:hpo> decreased NFkappaB translocation and binding activity but did not alter overall expression </plain></SENT>
+<SENT sid="8" pm="."><plain><z:hpo ids='HP_0002045'>Hypothermia</z:hpo> also affected the levels of NFkappaB regulatory proteins by suppressing phosphorylation of NFkappaB's inhibitory protein (IkappaB-alpha) and IkappaB kinase (IKK-gamma) and decreasing IKK activity, but did not alter overall IKK levels </plain></SENT>
+<SENT sid="9" pm="."><plain><z:hpo ids='HP_0002045'>Hypothermia</z:hpo> suppressed the expression of two NFkappaB target genes: inducible nitric <z:chebi fb="177" ids="25741,29356">oxide</z:chebi> synthase and TNF-alpha </plain></SENT>
+<SENT sid="10" pm="."><plain>These data suggest that the protective effect of <z:hpo ids='HP_0002045'>hypothermia</z:hpo> on cerebral injury is, in part, related to NFkappaB inhibition due to decreased activity of IKK </plain></SENT>
+</text></document>

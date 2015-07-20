@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Six patients with a <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e>) were treated with bone marrow transplantation (BMT) using partially-matched related (3) or unrelated (3) donors </plain></SENT>
+<SENT sid="1" pm="."><plain>Patients' ages ranged from 7 to 31 years (median, 10 years) </plain></SENT>
+<SENT sid="2" pm="."><plain>Bone marrow karyotype abnormalities were present in five patients included four with <z:mp ids='MP_0004026'>monosomy</z:mp> 7 and one with <z:mp ids='MP_0004027'>trisomy</z:mp> 8 </plain></SENT>
+<SENT sid="3" pm="."><plain>One patient was in complete remission before transplant; the remaining five had excess of blasts or were undergoing leukemic transformation </plain></SENT>
+<SENT sid="4" pm="."><plain>Donor, and recipient were mismatched at the DR locus (2), A locus (2), B locus (1), or A and B loci (1) </plain></SENT>
+<SENT sid="5" pm="."><plain>Conditioning included <z:chebi fb="0" ids="28901">busulfan</z:chebi>, <z:chebi fb="0" ids="28680">cytarabine</z:chebi>, <z:chebi fb="0" ids="4027">cyclophosphamide</z:chebi>, <z:chebi fb="0" ids="6888">methylprednisolone</z:chebi>, and total body irradiation </plain></SENT>
+<SENT sid="6" pm="."><plain><z:chebi fb="0" ids="4031">Cyclosporine</z:chebi> was started on day -1 </plain></SENT>
+<SENT sid="7" pm="."><plain>Marrows were T-cell depleted using a monoclonal antibody (MoAb) (CD3) and <z:mpath ids='MPATH_458'>normal</z:mpath> rabbit serum </plain></SENT>
+<SENT sid="8" pm="."><plain>Four patients engrafted routinely </plain></SENT>
+<SENT sid="9" pm="."><plain>One patient died of <z:e sem="disease" ids="C0004030" disease_type="Disease or Syndrome" abbrv="">aspergillosis</z:e> before engraftment (day 12) and one patient failed to engraft on first attempt, but engrafted following additional preparation </plain></SENT>
+<SENT sid="10" pm="."><plain>Median time to neutrophils greater than 500/microL and platelets greater than 25,000/microL were 16 and 19 days, respectively </plain></SENT>
+<SENT sid="11" pm="."><plain><z:hpo ids='HP_0011009'>Acute</z:hpo> graft-v-host disease (GVHD) was less than or equal to grade II in <z:hpo ids='HP_0000001'>all</z:hpo> patients </plain></SENT>
+<SENT sid="12" pm="."><plain>One patient died with <z:e sem="disease" ids="C0277556" disease_type="Disease or Syndrome" abbrv="">recurrent disease</z:e> (day 257) </plain></SENT>
+<SENT sid="13" pm="."><plain>One patient died at day 515 of <z:hpo ids='HP_0001733'>pancreatitis</z:hpo> and <z:hpo ids='HP_0002093'>respiratory failure</z:hpo> </plain></SENT>
+<SENT sid="14" pm="."><plain>Three patients are alive and disease-free at 240, 395, and 560 days post-BMT including two patients with unrelated donors </plain></SENT>
+<SENT sid="15" pm="."><plain>Partially matched T-depleted bone marrow from related or unrelated donors may be effective, and possibly curative therapy for patients with <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> who lack a histocompatibility locus antigen (HLA)-identical sibling donor </plain></SENT>
+</text></document>

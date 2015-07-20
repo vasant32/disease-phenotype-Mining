@@ -1,0 +1,5 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A multiplicative model is described relating HLA typing information to disease incidence </plain></SENT>
+<SENT sid="1" pm="."><plain>A likelihood-based method for estimating parameters in this model is proposed for use with data sets in which HLA haplotype information is available on a series of cases and their parents </plain></SENT>
+<SENT sid="2" pm="."><plain>This approach is extended to incorporate information from a matched control series for the purpose of estimating HLA and environmental risk factor effects simultaneously </plain></SENT>
+<SENT sid="3" pm="."><plain>The method is applied to data from <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> patients treated by bone marrow transplantation and the results are compared to unmatched case-control analyses using the same case series and several different control series </plain></SENT>
+</text></document>

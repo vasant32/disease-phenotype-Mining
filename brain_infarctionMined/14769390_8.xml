@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Poly(<z:chebi fb="13" ids="16761">ADP</z:chebi>-<z:chebi fb="1" ids="33942">ribose</z:chebi>) polymerase (PARP) was shown to be detrimental in <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> but the mechanisms whereby PARP is deleterious have yet to be determined </plain></SENT>
+<SENT sid="1" pm="."><plain>They may include a role in neutrophil infiltration known to aggravate ischemic damage </plain></SENT>
+<SENT sid="2" pm="."><plain>In this context, we investigated the effect of 3-aminobenzamide (3-AB), a PARP inhibitor, on brain damage and neutrophil infiltration after transient focal <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> in mice </plain></SENT>
+<SENT sid="3" pm="."><plain><z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">Ischemia</z:e> was induced in male Swiss mice, anaesthetized with chloral <z:chebi fb="1" ids="35505">hydrate</z:chebi> (400 mg/kg, i.p.), by a 15-min-occlusion of the left middle cerebral artery using an intraluminal suture </plain></SENT>
+<SENT sid="4" pm="."><plain>Treatments with 3-AB were first administered intraperitoneally 15 min before reperfusion and endpoints measured at 24 h </plain></SENT>
+<SENT sid="5" pm="."><plain>Among the range of dosages studied (20-320 mg/kg), 40 mg/kg gave the maximal neuroprotection with a 30% decrease in the <z:mpath ids='MPATH_124'>infarct</z:mpath> volume and tended to improve the neurological score evaluated by a grip test </plain></SENT>
+<SENT sid="6" pm="."><plain>The same dosage was, however, devoid of effect when injection was delayed 2 or 6 h after reperfusion </plain></SENT>
+<SENT sid="7" pm="."><plain>Myeloperoxidase (MPO) activity used as an index of neutrophil infiltration showed that infiltration peaked 48 h after reperfusion in our model </plain></SENT>
+<SENT sid="8" pm="."><plain>At this time point, 3-AB (40 mg/kg given 15 min before reperfusion) markedly reduced the neutrophil infiltration, as evidenced by a 72%-decrease in MPO activity, and was still neuroprotective </plain></SENT>
+<SENT sid="9" pm="."><plain>Our results confirm that 3-AB reduces brain damage </plain></SENT>
+<SENT sid="10" pm="."><plain>Moreover, for the first time, a quantitative study shows that 3-AB decreases neutrophil infiltration elicited by <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> </plain></SENT>
+</text></document>

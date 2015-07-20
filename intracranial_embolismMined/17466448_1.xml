@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The radiofrequency (RF) signal from a transcranial Doppler (TCD) ultrasound system allows us to track the motion of an <z:mpath ids='MPATH_110'>embolus</z:mpath> in a 2-D space of time and depth </plain></SENT>
+<SENT sid="1" pm="."><plain>The technique is limited by the narrow bandwidth (long duration) of the transmitted pulse because this provides poor axial resolution </plain></SENT>
+<SENT sid="2" pm="."><plain>This study aimed to assess whether implementing coded excitation and pulse compression in a TCD system would be a feasible means of increasing the bandwidth and hence improving the axial resolution, without the need for reducing the pulse length and increasing peak power levels </plain></SENT>
+<SENT sid="3" pm="."><plain>Embolic signals were collected in vitro from a flow phantom using a TCD system, which alternately transmitted coded and noncoded pulses </plain></SENT>
+<SENT sid="4" pm="."><plain>This allowed the same event to be investigated using the two different types of processing </plain></SENT>
+<SENT sid="5" pm="."><plain>Quantitative and qualitative measures were used to compare the two processing methods </plain></SENT>
+<SENT sid="6" pm="."><plain>The in vitro results were promising </plain></SENT>
+<SENT sid="7" pm="."><plain>They showed that the axial resolution could be improved, on average, by a factor of 6.6, using a pulse length of 13 micros and a chirp bandwidth of 0.8 MHz </plain></SENT>
+<SENT sid="8" pm="."><plain>This was reduced to a factor of 6 when a temporal bone sample was placed between the transducer and the flow phantom </plain></SENT>
+<SENT sid="9" pm="."><plain>Qualitatively the journey of an <z:mpath ids='MPATH_110'>embolus</z:mpath> was easier to track using the pulse compressed signal </plain></SENT>
+<SENT sid="10" pm="."><plain>Sonograms could be generated from smaller receive gates using the pulse compressed signal while still achieving an adequate signal-to-noise ratio </plain></SENT>
+<SENT sid="11" pm="."><plain>We found that it is both feasible and beneficial to implement coded excitation and pulse compression in a TCD system </plain></SENT>
+</text></document>

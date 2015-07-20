@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The purpose of this study was to characterize the magnitude and duration of cerebral blood flow (CBF) reduction in the somatosensory cortical region in a rat model of middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (MCAO) induced by endothelin-1 (ET1) microinjection under <z:chebi fb="0" ids="6015">isoflurane</z:chebi> anesthesia </plain></SENT>
+<SENT sid="1" pm="."><plain>MCAO was induced by microinjection of ET1 proximal to the <z:chebi fb="70" ids="34342">MCA</z:chebi> in 41 isoflurane-anesthetized male Sprague-Dawley rats </plain></SENT>
+<SENT sid="2" pm="."><plain>Three doses of ET1 were studied, 60 pmol (Group 1), 150 pmol (Group 2), and 300 pmol (Group 3) </plain></SENT>
+<SENT sid="3" pm="."><plain>CBF was monitored for 4h following injection using a laser Doppler probe stereotaxically inserted into the left somatosensory cortical region </plain></SENT>
+<SENT sid="4" pm="."><plain>Computed tomography perfusion imaging was used to verify the extent and duration of blood flow reduction in a subset of 12 animals </plain></SENT>
+<SENT sid="5" pm="."><plain>The magnitude and duration of blood flow reduction was variable (60-92% of baseline) </plain></SENT>
+<SENT sid="6" pm="."><plain>The 300 pmol dose provided the greatest sustained decrease in blood flow </plain></SENT>
+<SENT sid="7" pm="."><plain>Evidence of tissue damage was obtained in cases where CBF decreased to &lt;40% of baseline </plain></SENT>
+<SENT sid="8" pm="."><plain>At the doses studied, ET1-induced <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> in the presence of <z:chebi fb="0" ids="6015">isoflurane</z:chebi> anesthesia can be used as a minimally invasive but variable model of MCAO </plain></SENT>
+<SENT sid="9" pm="."><plain>The model is well suited for <z:hpo ids='HP_0011009'>acute</z:hpo> imaging studies of <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> </plain></SENT>
+</text></document>

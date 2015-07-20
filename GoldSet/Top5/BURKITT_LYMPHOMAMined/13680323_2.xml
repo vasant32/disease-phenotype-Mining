@@ -1,0 +1,4 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 47-year-old man with <z:hpo ids='HP_0011009'>acute</z:hpo> lymphocytic <z:hpo ids='HP_0001909'>leukemia</z:hpo> was admitted in intensive care unit (ICU) because of <z:hpo ids='HP_0002093'>respiratory failure</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>He had febrile <z:hpo ids='HP_0001875'>neutropenia</z:hpo> and probable <z:e sem="disease" ids="C0276653" disease_type="Disease or Syndrome" abbrv="">invasive pulmonary aspergillosis</z:e> (IA) </plain></SENT>
+<SENT sid="2" pm="."><plain><z:chebi fb="1" ids="2682">Amphotericin B</z:chebi> renal toxicity and clinical deterioration prompted a shift to caspofungin and resulted in a successful response </plain></SENT>
+</text></document>

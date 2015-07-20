@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:chebi fb="6" ids="14321,29987">Glutamate</z:chebi> is loaded into synaptic vesicles by vesicular <z:chebi fb="6" ids="14321,29987">glutamate</z:chebi> transporters (VGLUTs), and alterations in the transporters expression directly regulate neurotransmitter release </plain></SENT>
+<SENT sid="1" pm="."><plain>We investigated changes in VGLUT1 and VGLUT2 protein levels after ischemic and excitotoxic insults </plain></SENT>
+<SENT sid="2" pm="."><plain>The results show that VGLUT2 is cleaved by calpains after excitotoxic stimulation of hippocampal neurons with <z:chebi fb="6" ids="14321,29987">glutamate</z:chebi>, whereas VGLUT1 is downregulated to a lower extent </plain></SENT>
+<SENT sid="3" pm="."><plain>VGLUT2 was also cleaved by calpains after oxygen/<z:chebi fb="105" ids="17234">glucose</z:chebi> deprivation (OGD), and downregulated after middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (MCAO) and intrahippocampal injection of kainate </plain></SENT>
+<SENT sid="4" pm="."><plain>In contrast, VGLUT1 was not affected after OGD </plain></SENT>
+<SENT sid="5" pm="."><plain>Incubation of isolated synaptic vesicles with recombinant calpain also induced VGLUT2 cleavage, with a little effect observed for VGLUT1 </plain></SENT>
+<SENT sid="6" pm="."><plain>N-terminal sequencing analysis showed that calpain cleaves VGLUT2 in the C-terminus, at Asn(534) and Lys(542) </plain></SENT>
+<SENT sid="7" pm="."><plain>The truncated GFP-VGLUT2 forms were found to a great extent in non-synaptic regions along neurites, when compared to GFP-VGLUT2 </plain></SENT>
+<SENT sid="8" pm="."><plain>These findings show that excitotoxic and ischemic insults downregulate VGLUT2, which is likely to affect glutamatergic transmission and cell <z:hpo ids='HP_0011420'>death</z:hpo>, especially in the neonatal period when the transporter is expressed at higher levels </plain></SENT>
+</text></document>

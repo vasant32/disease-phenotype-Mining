@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Antithrombin III (At-III) was measured at the time of admission and two days later in 131 patients laid up in a coronary care unit </plain></SENT>
+<SENT sid="1" pm="."><plain>The patients were examined for <z:hpo ids='HP_0002625'>deep-vein thrombosis</z:hpo> (DVT) clinically and by means of 125I-fibrinogen scanning </plain></SENT>
+<SENT sid="2" pm="."><plain>19 patients developed DVT </plain></SENT>
+<SENT sid="3" pm="."><plain>In 11 subjects with and 25 without DVT At-III decreased more than 10% </plain></SENT>
+<SENT sid="4" pm="."><plain>And in 7 with and 17 without DVT At-III decreased more than 15% </plain></SENT>
+<SENT sid="5" pm="."><plain>One person with DVT had subnormal At-III </plain></SENT>
+<SENT sid="6" pm="."><plain>By using decrease of At-III or subnormal initial At-III to predict DVT the following predictive value (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">PV</z:e>) were found </plain></SENT>
+<SENT sid="7" pm="."><plain>Decrease less than or equal to 10%, <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">PV</z:e> pos. = 0.32 and <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">PV</z:e> neg. = 0.93 </plain></SENT>
+<SENT sid="8" pm="."><plain>Decrease less than or equal to 15%, <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">PV</z:e> pos. = 0.32 and <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">PV</z:e> neg. = 0.90 </plain></SENT>
+<SENT sid="9" pm="."><plain>The positive predictive values obtained were too low to let decreasing At-III give occasion for prophylactic <z:chebi fb="3" ids="50249">anticoagulant</z:chebi> treatment </plain></SENT>
+</text></document>

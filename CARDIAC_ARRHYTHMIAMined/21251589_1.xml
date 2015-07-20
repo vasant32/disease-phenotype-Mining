@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVES: We investigated whether increased Ca(2+)/calmodulin-dependent kinase II (CaMKII) activity aggravates defective excitation-contraction coupling and proarrhythmic activity in mice expressing R4496C mutated cardiac <z:chebi fb="0" ids="8925">ryanodine</z:chebi> receptors (RyR2) </plain></SENT>
+<SENT sid="1" pm="."><plain>BACKGROUND: RyR2 dysfunction is associated with arrhythmic events in inherited and acquired <z:e sem="disease" ids="C0018799" disease_type="Disease or Syndrome" abbrv="">cardiac disease</z:e> </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: CaMKIIδc transgenic mice were crossbred with RyR2(R4496C+/-) knock-in mice </plain></SENT>
+<SENT sid="3" pm="."><plain>RESULTS: Heart weight-to-body weight ratio in CaMKIIδc/RyR2(R4496C) and CaMKIIδc mice was similarly increased approximately 3-fold versus <z:mp ids='MP_0002169'>wild-type</z:mp> mice (p &lt; 0.05) </plain></SENT>
+<SENT sid="4" pm="."><plain>Echocardiographic data showed comparable cardiac dilation and impaired contractility in CaMKIIδc/RyR2(R4496C) and CaMKIIδc mice </plain></SENT>
+<SENT sid="5" pm="."><plain>Sarcoplasmic reticulum Ca(2+) content in isolated myocytes was decreased to a similar extent in CaMKIIδc/RyR2(R4496C) and CaMKIIδc mice </plain></SENT>
+<SENT sid="6" pm="."><plain>However, relaxation parameters and Ca(2+) decay at 1 Hz were prolonged significantly in CaMKIIδc mice versus CaMKIIδc/RyR2(R4496C) mice </plain></SENT>
+<SENT sid="7" pm="."><plain>Sarcoplasmic reticulum Ca(2+) spark frequency and characteristics indicated increased sarcoplasmic reticulum Ca(2+) leak in CaMKIIδc/RyR2(R4496C) versus CaMKIIδc myocytes (p &lt; 0.05), most likely because of increased RyR2 phosphorylation </plain></SENT>
+<SENT sid="8" pm="."><plain>Delayed afterdepolarizations were significantly more frequent with increased amplitudes in CaMKIIδc/RyR2(R4496C) versus CaMKIIδc mice </plain></SENT>
+<SENT sid="9" pm="."><plain>Increased <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> in vivo (67% vs. 25%; p &lt; 0.05) may explain the increased mortality in CaMKIIδc/RyR2(R4496C) mice, which died prematurely with only 30% alive (vs. 60% for CaMKIIδc, p &lt; 0.05) after 14 weeks </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSIONS: CaMKIIδc overexpression in RyR2(R4496C+/-) knock-in mice increases the propensity toward triggered <z:hpo ids='HP_0011675'>arrhythmias</z:hpo>, which may impair survival </plain></SENT>
+<SENT sid="11" pm="."><plain>CaMKII contributes to further destabilization of a mutated RyR2 receptor </plain></SENT>
+</text></document>

@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIMS: A characteristic of polyglutamine diseases is the increased propensity of disease proteins to aggregate, which is thought to be a major contributing factor to the underlying <z:hpo ids='HP_0002180'>neurodegeneration</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Healthy cells contain mechanisms for handling protein damage, the protein quality control, which must be impaired or inefficient to permit proteotoxicity under pathological conditions </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: We used a quantitative analysis of immunohistochemistry of the pons of eight patients with the polyglutamine disorder spinocerebellar <z:hpo ids='HP_0001251'>ataxia</z:hpo> type 3 </plain></SENT>
+<SENT sid="3" pm="."><plain>We employed the anti-polyglutamine antibody 1C2, antibodies against p62 that is involved in delivering ubiquitinated protein aggregates to autophagosomes, antibodies against the chaperones HSPA1A and DNAJB1 and the proteasomal stress marker UBB⁺¹ </plain></SENT>
+<SENT sid="4" pm="."><plain>RESULTS: The 1C2 antibody stained neuronal nuclear inclusions (NNIs), diffuse nuclear staining (<z:chebi fb="3" ids="16991">DNS</z:chebi>), granular cytoplasmic staining (GCS) and combinations, with reproducible distribution </plain></SENT>
+<SENT sid="5" pm="."><plain>P62 always co-localized with 1C2 in NNI </plain></SENT>
+<SENT sid="6" pm="."><plain><z:chebi fb="3" ids="16991">DNS</z:chebi> and GCS co-stained with a lower frequency </plain></SENT>
+<SENT sid="7" pm="."><plain>UBB⁺¹ was present in a subset of neurones with NNI </plain></SENT>
+<SENT sid="8" pm="."><plain>A subset of UBB⁺¹-containing neurones displayed increased levels of HSPA1A, while DNAJB1 was sequestered into the NNI </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSION: Based on our results, we propose a model for the aggregation-associated pathology of spinocerebellar <z:hpo ids='HP_0001251'>ataxia</z:hpo> type 3: GCS and <z:chebi fb="3" ids="16991">DNS</z:chebi> aggregation likely represents early stages of pathology, which progresses towards formation of p62-positive NNI </plain></SENT>
+<SENT sid="10" pm="."><plain>A fraction of NNI exhibits UBB⁺¹ staining, implying proteasomal overload at a later stage </plain></SENT>
+<SENT sid="11" pm="."><plain>Subsequently, the stress-inducible HSPA1A is elevated while DNAJB1 is recruited into NNIs </plain></SENT>
+<SENT sid="12" pm="."><plain>This indicates that the stress response is only induced late when <z:hpo ids='HP_0000001'>all</z:hpo> endogenous protein quality control systems have failed </plain></SENT>
+</text></document>

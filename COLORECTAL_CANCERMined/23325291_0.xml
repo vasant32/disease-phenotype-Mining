@@ -1,0 +1,19 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Clinical studies have shown that bevacizumab beyond progression to first line therapy is beneficial for overall survival in advanced stage <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>We studied the utility of several functional imaging modalities to assess the efficacy of bevacizumab beyond progression (BBP) </plain></SENT>
+<SENT sid="2" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> BALB/c mice with s.c </plain></SENT>
+<SENT sid="3" pm="."><plain>LS174T xenografts were treated with <z:chebi fb="0" ids="31348">capecitabine</z:chebi>, <z:chebi fb="0" ids="31941">oxaliplatin</z:chebi> and bevacizumab combination therapy </plain></SENT>
+<SENT sid="4" pm="."><plain><z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">Tumor</z:e> volume was assessed using caliper measurements </plain></SENT>
+<SENT sid="5" pm="."><plain>Increase of 1.5 times the initial volume on two subsequent measurements, was considered progression </plain></SENT>
+<SENT sid="6" pm="."><plain>In half of the mice bevacizumab treatment was continued (n = 13) after progressive disease was established, while the others received saline injections (n = 12) </plain></SENT>
+<SENT sid="7" pm="."><plain>Within 3 days after progression, multi-modal imaging was performed using FDG-PET, diffusion weighted imaging, T2* and dynamic contrast enhanced MRI </plain></SENT>
+<SENT sid="8" pm="."><plain>Measurements were repeated 7 and 10 days after the first measurements </plain></SENT>
+<SENT sid="9" pm="."><plain>Afterwards, <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumors</z:e> were analyzed for expression of carbonic anhydrase IX, <z:chebi fb="105" ids="17234">glucose</z:chebi> transporter 1, 9 F1 to stain the vasculature and Ki67 to assess proliferation </plain></SENT>
+<SENT sid="10" pm="."><plain>In the BBP group <z:e sem="disease" ids="C0598934" disease_type="Neoplastic Process" abbrv="">tumor growth</z:e> after progression was reduced compared to the control group (p &lt; 0.01) </plain></SENT>
+<SENT sid="11" pm="."><plain>FDG-PET showed a trend towards lower FDG uptake in the BBP group (p = 0.08) </plain></SENT>
+<SENT sid="12" pm="."><plain>DWI, T2* and DCE-MRI parameters were not significantly different between both groups </plain></SENT>
+<SENT sid="13" pm="."><plain>The immunohistochemical analyses showed higher CAIX-positive fraction (p &lt; 0.01) and lower Ki67 expression (p = 0.06) in the BBP group </plain></SENT>
+<SENT sid="14" pm="."><plain>The relative vascular area was significantly lower in the BBP group (p = 0.03) </plain></SENT>
+<SENT sid="15" pm="."><plain>GLUT-1 expression and vascular density did not significantly differ between both groups </plain></SENT>
+<SENT sid="16" pm="."><plain>Bevacizumab after progression resulted in significant changes in the <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> proliferation and microenvironment compared to discontinuation of bevacizumab </plain></SENT>
+<SENT sid="17" pm="."><plain>FDG-PET may be sensitive to BBP-induced effects </plain></SENT>
+</text></document>

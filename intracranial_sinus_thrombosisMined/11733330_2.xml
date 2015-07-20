@@ -1,0 +1,5 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A patient with a superior sagittal sinus <z:mp ids='MP_0005048'>thrombosis</z:mp> had progressively worsening symptoms and signs that resolved after IV <z:chebi fb="5" ids="28304">heparin</z:chebi> therapy </plain></SENT>
+<SENT sid="1" pm="."><plain><z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e> imaging revealed abnormalities in diffusion, similar to those seen with <z:hpo ids='HP_0011009'>acute</z:hpo> arterial <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>Abnormalities shown on a T2-weighted fast spin-echo and fluid-attenuated inversion recovery images resolved completely </plain></SENT>
+<SENT sid="3" pm="."><plain>The findings in this report contradict those from previous reports that suggest diffusion-weighted imaging with quantitative apparent diffusion coefficients may be used in selecting patients for dural venous sinus thrombolysis </plain></SENT>
+</text></document>

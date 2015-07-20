@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: We recently observed a case of propafenone self-poisoning in which the patient was initially unresponsive to conventional therapies such as <z:chebi fb="17" ids="32139">sodium bicarbonate</z:chebi>, <z:chebi fb="40" ids="18243">dopamine</z:chebi>, and <z:chebi fb="1" ids="18357,33569">norepinephrine</z:chebi> but recovered with intravenous <z:chebi fb="105" ids="17234">glucose</z:chebi>-insulin infusion </plain></SENT>
+<SENT sid="1" pm="."><plain>We raised the hypothesis that insulin may have a cardioprotective effect in <z:hpo ids='HP_0011009'>acute</z:hpo> propafenone toxicity </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: We evaluated the effect of <z:chebi fb="105" ids="17234">glucose</z:chebi>-insulin infusion on mortality and electrocardiographic abnormalities during <z:hpo ids='HP_0011009'>acute</z:hpo> propafenone toxicity in rats </plain></SENT>
+<SENT sid="3" pm="."><plain>After measurements of basal mean arterial pressure, heart rate, PR interval, and QRS duration, rats received intravenous propafenone (36 mg/kg per hour) for 12 minutes </plain></SENT>
+<SENT sid="4" pm="."><plain>Two minutes after the induction of toxicity, the rats (n=10 per group) received either <z:mpath ids='MPATH_458'>normal</z:mpath> saline solution (NSS) or insulin with <z:chebi fb="105" ids="17234">glucose</z:chebi> </plain></SENT>
+<SENT sid="5" pm="."><plain>Rats in the insulin-treated (Insulin group) and the NSS-treated (NSS group) groups received an intravenous infusion of 36 mg/kg per hour of propafenone until <z:hpo ids='HP_0011420'>death</z:hpo> occurred </plain></SENT>
+<SENT sid="6" pm="."><plain>Rats receiving only NSS intravenously without propafenone toxicity served as control (Control group, n=10) </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: Insulin treatment improved survival and delayed the hemodynamic and electrocardiographic consequences of propafenone toxicity </plain></SENT>
+<SENT sid="8" pm="."><plain>Survival was significantly greater in the insulin group than that in the NSS group (P&lt;.001) </plain></SENT>
+<SENT sid="9" pm="."><plain>Insulin prevented the decline in mean arterial pressure and heart rate (P&lt;.05) </plain></SENT>
+<SENT sid="10" pm="."><plain>Insulin also prevented the increase of the PR interval and the QRS duration (P&lt;.05) </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSION: <z:chebi fb="105" ids="17234">Glucose</z:chebi>-insulin infusion delayed the abnormalities in cardiac conduction and improved rat survival after <z:hpo ids='HP_0011009'>acute</z:hpo> propafenone toxicity </plain></SENT>
+<SENT sid="12" pm="."><plain>These results suggest a cardioprotective effect of <z:chebi fb="105" ids="17234">glucose</z:chebi>-insulin in <z:hpo ids='HP_0011009'>acute</z:hpo> propafenone toxicity </plain></SENT>
+</text></document>

@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0011009'>Acute</z:hpo> exacerbations of <z:hpo ids='HP_0006510'>chronic obstructive pulmonary disease</z:hpo> (AECOPD) are a leading cause of hospitalizations in the United States and the major cost driver of COPD </plain></SENT>
+<SENT sid="1" pm="."><plain>This study determined the national inpatient burden of AECOPD and assessed the association of co-morbidities and hospital characteristics with inpatient costs and mortality </plain></SENT>
+<SENT sid="2" pm="."><plain>Discharge records from the Agency for Healthcare Research and Quality (AHRQ) Healthcare Cost and Utilization Project (HCUP) Nationwide Inpatient Sample for 2006 was utilized </plain></SENT>
+<SENT sid="3" pm="."><plain>Outcomes of costs and mortality were assessed for AECOPD hospitalizations in cases ≥40 years of age </plain></SENT>
+<SENT sid="4" pm="."><plain>Multivariate regression analyses using a generalized linear model framework were conducted to determine predictors of inpatient costs and mortality controlling for patient demographics, primary payer, co-morbidity index, length of stay, hospital region, mechanical ventilation, and admission period </plain></SENT>
+<SENT sid="5" pm="."><plain>Overall, 1,254,703 hospitalizations for AECOPD were observed with mean costs of $9545(±12,700) and total costs of $11.9 billion </plain></SENT>
+<SENT sid="6" pm="."><plain>In-hospital mortality was 4.3% (N = 53,748) </plain></SENT>
+<SENT sid="7" pm="."><plain>Discharges averaged 70.6 (±11.9) years of age </plain></SENT>
+<SENT sid="8" pm="."><plain>The majority were female (52.8%) and of white race (83.6% of reported race) </plain></SENT>
+<SENT sid="9" pm="."><plain>Several co-morbidities were significantly associated with both costs and mortality (p &lt; 0.001): <z:hpo ids='HP_0011009'>acute</z:hpo> <z:hpo ids='HP_0001658'>myocardial infarction</z:hpo>; <z:hpo ids='HP_0001635'>congestive heart failure</z:hpo>; cerebrovascular disease; <z:e sem="disease" ids="C0242379" disease_type="Neoplastic Process" abbrv="">lung cancer</z:e>; <z:hpo ids='HP_0011675'>cardiac arrhythmias</z:hpo>; <z:e sem="disease" ids="C0178272" disease_type="Disease or Syndrome" abbrv="">pulmonary circulation disorders</z:e>; and <z:hpo ids='HP_0001824'>weight loss</z:hpo> </plain></SENT>
+<SENT sid="10" pm="."><plain>Significantly higher costs (p &lt; 0.001) were associated with large and urban hospitals </plain></SENT>
+<SENT sid="11" pm="."><plain>The importance of co-morbidities in AECOPD is indicated in their association with prognosis and inpatient costs </plain></SENT>
+<SENT sid="12" pm="."><plain>Future research should determine if better management of these conditions can favorably impact the COPD disease burden </plain></SENT>
+</text></document>

@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Laminin alpha2 (merosin)-deficient <z:hpo ids='HP_0003741'>congenital muscular dystrophy</z:hpo> (CMD) patients show progressive <z:hpo ids='HP_0003713'>muscle fiber necrosis</z:hpo> and ineffective <z:mp ids='MP_0000750'>muscle regeneration</z:mp> </plain></SENT>
+<SENT sid="1" pm="."><plain>This is probably due to decreased formation of multi nucleated myotubes resulting from a myoblast <z:mpath ids='MPATH_71'>fusion defect</z:mpath> </plain></SENT>
+<SENT sid="2" pm="."><plain>When receiving a mechanical signal from muscle membranes, a cascade of RhoA, focal <z:e sem="disease" ids="C0001511" disease_type="Disease or Syndrome;Acquired Abnormality" abbrv="">adhesion</z:e> kinase (FAK), and serum response factor (SRF) positively regulates myogenesis and <z:hpo ids='HP_0003712'>muscle hypertrophy</z:hpo> associated with functional overload </plain></SENT>
+<SENT sid="3" pm="."><plain>In contrast, myostatin, a potent negative regulator of skeletal <z:hpo ids='HP_0003712'>muscle hypertrophy</z:hpo>, appears to be up-regulated in the muscles of mdx mice, an animal model for Duchenne <z:hpo ids='HP_0003560'>muscular dystrophy</z:hpo> </plain></SENT>
+<SENT sid="4" pm="."><plain>Using Western blot and immunohistochemical analyses, we investigated the levels of RhoA, FAK, SRF, and myostatin in the skeletal muscles of dy mice </plain></SENT>
+<SENT sid="5" pm="."><plain>The amount of RhoA protein was increased in the hindlimb muscles of dy mice aged 12 weeks </plain></SENT>
+<SENT sid="6" pm="."><plain>At 12 weeks, FAK immunoreactivity was observed in the myonuclei and/or satellite cells of <z:mpath ids='MPATH_458'>normal</z:mpath> mice, but not of dy mice </plain></SENT>
+<SENT sid="7" pm="."><plain>SRF protein levels decreased markedly in the gastrocnemius and rectus femoris muscles of dy mice at 2 and 12 weeks </plain></SENT>
+<SENT sid="8" pm="."><plain>Several muscle fibers in <z:mpath ids='MPATH_458'>normal</z:mpath> mice possessed uniform SRF immunoreactivity in the cytoplasm </plain></SENT>
+<SENT sid="9" pm="."><plain>An SRF immunostaining pattern in muscle was not detected in dy mice </plain></SENT>
+<SENT sid="10" pm="."><plain>Western blot and the densitometric analysis showed a decreased amount of myocyte enhancer factor 2C (MEF2C) in hindlimb muscles of dy mice </plain></SENT>
+<SENT sid="11" pm="."><plain>Although slight myostatin immunoreactivity was observed in the nuclei of some <z:mpath ids='MPATH_458'>normal</z:mpath> mice, marked myostatin immunoreactivity was observed in the cytoplasm of mature dy mice myonuclei and/or satellite cells </plain></SENT>
+<SENT sid="12" pm="."><plain>A low expression of FAK, SRF and MEF2C in muscles of dy mice may inhibit postnatal <z:hpo ids='HP_0003712'>muscle hypertrophy</z:hpo> by fusing satellite cells with existing fibers </plain></SENT>
+<SENT sid="13" pm="."><plain>Enhancing myostatin protein would result in further <z:mpath ids='MPATH_127'>atrophy</z:mpath> and degeneration of muscle fiber in dy mice </plain></SENT>
+</text></document>

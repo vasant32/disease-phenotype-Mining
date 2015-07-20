@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Apoptotic cell <z:hpo ids='HP_0011420'>death</z:hpo> contributes to <z:hpo ids='HP_0002529'>neuronal loss</z:hpo> in the penumbral region of <z:e sem="disease" ids="C0751955" disease_type="Disease or Syndrome" abbrv="">brain infarction</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>Activated caspase-3 (ACA-3) cleaves proteins including poly(<z:chebi fb="13" ids="16761">ADP</z:chebi>-<z:chebi fb="1" ids="33942">ribose</z:chebi>) polymerase-1 (PARP-1) important in DNA repair, thus promoting <z:mpath ids='MPATH_3'>apoptosis</z:mpath> </plain></SENT>
+<SENT sid="2" pm="."><plain>Overactivation of PARP-1 depletes <z:chebi fb="0" ids="15846">NAD(+)</z:chebi> and ATP, resulting in <z:mp ids='MP_0001651'>necrosis</z:mp> </plain></SENT>
+<SENT sid="3" pm="."><plain>These cell <z:hpo ids='HP_0011420'>death</z:hpo> phenomena have been investigated mostly in experimental animals </plain></SENT>
+<SENT sid="4" pm="."><plain>We studied an autopsy cohort of 13 fatal <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> cases (symptoms 15 h to 18 days) and 2 controls by immunohistochemical techniques </plain></SENT>
+<SENT sid="5" pm="."><plain>The number of PARP-1 immunoreactive neurons was highest in the periinfarct area </plain></SENT>
+<SENT sid="6" pm="."><plain>Nuclear PARP-1 correlated with increasing neuronal <z:mp ids='MP_0001651'>necrosis</z:mp> (P = 0.013) </plain></SENT>
+<SENT sid="7" pm="."><plain>Cytoplasmic PARP-1 correlated with TUNEL in periinfarct and core areas (P = 0.01) </plain></SENT>
+<SENT sid="8" pm="."><plain>Cytoplasmic cleaved PARP-1 was inversely correlated with increasing necrotic damage (P = 0.001) </plain></SENT>
+<SENT sid="9" pm="."><plain>PAR-polymers were detected in neurons confirming enzymatic activity of PARP-1 </plain></SENT>
+<SENT sid="10" pm="."><plain>Cytoplasmic ACA-3 correlated with <z:hpo ids='HP_0011420'>death</z:hpo> receptor Fas (r (s) = 0.48; P = 0.005) </plain></SENT>
+<SENT sid="11" pm="."><plain>In conclusion, the confirmation of the same pathways of cell <z:hpo ids='HP_0011420'>death</z:hpo> than previously described in experimental animal models encourages neuroprotective treatments acting on these mediators also in human <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+</text></document>

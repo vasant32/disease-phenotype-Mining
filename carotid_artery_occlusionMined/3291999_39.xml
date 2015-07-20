@@ -1,0 +1,23 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>1 </plain></SENT>
+<SENT sid="1" pm="."><plain>An in vitro receptor autoradiography procedure is described for visualizing binding sites for the excitatory amino acid <z:chebi fb="68" ids="48706">antagonist</z:chebi> radiolabelled MK-801, in rat and gerbil brain sections </plain></SENT>
+<SENT sid="2" pm="."><plain>2 </plain></SENT>
+<SENT sid="3" pm="."><plain>Ten micron sections were labelled by incubation at room temperature for 20 min in 30 nM [3H]-MK-801 </plain></SENT>
+<SENT sid="4" pm="."><plain>This was followed by 2 rinses for 20 s in fresh buffer solution </plain></SENT>
+<SENT sid="5" pm="."><plain>Specifically bound ligand determined with 100 microM unlabelled MK-801 amounted to 55-60% of total </plain></SENT>
+<SENT sid="6" pm="."><plain>3 </plain></SENT>
+<SENT sid="7" pm="."><plain>Phencyclidine, (+/-)-SKF 10047, ketamine and 2-aminophosphonovaleric acid (APV) (<z:hpo ids='HP_0000001'>all</z:hpo> 100 microM) prevented the specific binding of [3H]-MK-801 </plain></SENT>
+<SENT sid="8" pm="."><plain><z:chebi fb="0" ids="29988">L-Glutamate</z:chebi> and <z:chebi fb="0" ids="31882">N-methyl D-aspartate</z:chebi> (<z:chebi fb="0" ids="31882">NMDA</z:chebi>) (100 microM) had no effect </plain></SENT>
+<SENT sid="9" pm="."><plain>However, <z:chebi fb="0" ids="29988">L-glutamate</z:chebi> prevented the inhibition by APV </plain></SENT>
+<SENT sid="10" pm="."><plain>4 </plain></SENT>
+<SENT sid="11" pm="."><plain>The highest concentrations of [3H]-MK-801 binding sites occurred in the hippocampal formation, cerebral cortex, olfactory bulb and thalamus </plain></SENT>
+<SENT sid="12" pm="."><plain>Very low levels were detected in the brain stem and cerebellum </plain></SENT>
+<SENT sid="13" pm="."><plain>5 </plain></SENT>
+<SENT sid="14" pm="."><plain>The distribution of [3H]-MK-801 binding sites was comparable to that of <z:chebi fb="0" ids="31882">NMDA</z:chebi> sites and phencyclidine sites (labelled with [3H]-TCP) but not with high-affinity sigma sites labelled with [3H]-3-PPP </plain></SENT>
+<SENT sid="15" pm="."><plain>6 </plain></SENT>
+<SENT sid="16" pm="."><plain>The density of [3H]-MK-801 binding sites in the gerbil hippocampus was examined 1, 2, 6 and 22 days after unilateral carotid <z:mp ids='MP_0006134'>artery occlusion</z:mp> for 10 min </plain></SENT>
+<SENT sid="17" pm="."><plain>Only at 6 and 22 days was the binding reduced (by 36% and 46% respectively) in the CA1 region whereas a significant <z:hpo ids='HP_0002529'>neuronal loss</z:hpo> was apparent at day 2 </plain></SENT>
+<SENT sid="18" pm="."><plain>In CA2 a decrease in binding was only evident at day 22 </plain></SENT>
+<SENT sid="19" pm="."><plain>7 </plain></SENT>
+<SENT sid="20" pm="."><plain>These results indicate that binding sites for [3H]-MK-801 can be detected in mammalian brain sections by receptor autoradiography </plain></SENT>
+<SENT sid="21" pm="."><plain>Their distribution supports an association with the <z:chebi fb="0" ids="31882">NMDA</z:chebi> receptor complex and the loss in the hippocampus after carotid <z:mp ids='MP_0006134'>artery occlusion</z:mp> indicates their presence on pyramidal cells is vulnerable to ischaemic insult </plain></SENT>
+</text></document>

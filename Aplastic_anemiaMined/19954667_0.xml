@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: To establish a mouse model for the study of pathophysiologic mechanism and treatment of <z:hpo ids='HP_0005528'>bone marrow failure</z:hpo> (BMF) </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: Balb/c mice (recipient) were irradiated 5.0 Gy by gamma rays of (60)Co, and then infused 5 x 10(6) lymph node (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">LN</z:e>) cells from <z:chebi fb="28" ids="35299">DBA</z:chebi>/2 mice (donor) in 4 hours </plain></SENT>
+<SENT sid="2" pm="."><plain><z:hpo ids='HP_0001876'>Pancytopenia</z:hpo> was monitored by cell counting, bone marrow damage was assessed by histological staining and mononuclear cell counting </plain></SENT>
+<SENT sid="3" pm="."><plain>Serum IFN-gamma concentration was measured by ELISA </plain></SENT>
+<SENT sid="4" pm="."><plain>The proportion of Treg in spleen was detected by flow cytometry </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: Irradiation and infusion of <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">LN</z:e> cells led to rapid development of severe <z:hpo ids='HP_0001876'>pancytopenia</z:hpo> and BM <z:mpath ids='MPATH_133'>hypoplasia</z:mpath>, which reached the most severity at d14 </plain></SENT>
+<SENT sid="6" pm="."><plain>The <z:hpo ids='HP_0001876'>pancytopenia</z:hpo> remained at d28 and displayed no signs of recovery </plain></SENT>
+<SENT sid="7" pm="."><plain>The bone marrow was full of adipose cells with scarcity of hematopoietic cells at d14 and persisted at least for 28 days, being similar to the feature of <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> </plain></SENT>
+<SENT sid="8" pm="."><plain>Serum IFN-gamma concentration was 6.3 fold increased \[(170.0 +/- 17.0) vs (27.7 +/- 7.1) pg/ml\] at d6 </plain></SENT>
+<SENT sid="9" pm="."><plain>Tregs were decreased after infusion, and then increased \[(3.38 +/- 0.52)%\] and recovered to <z:mpath ids='MPATH_458'>normal</z:mpath> \[(4.04 +/- 0.44)%\] at d21 </plain></SENT>
+<SENT sid="10" pm="."><plain>The expression level of the specific transcription factor Foxp3 was similar to <z:mpath ids='MPATH_458'>normal</z:mpath> </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSION: The MHC antigen of Balb/c mice is identical to that of <z:chebi fb="28" ids="35299">DBA</z:chebi>/2 mice, but their minor antigen differs </plain></SENT>
+<SENT sid="12" pm="."><plain>5.0 Gy irradiation and then 5 x 10(6) lymphocyte infusion can induce BMF similar to the features of <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> </plain></SENT>
+</text></document>

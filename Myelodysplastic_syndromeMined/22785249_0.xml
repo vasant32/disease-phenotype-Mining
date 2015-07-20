@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Parenteral nutrition (PN) is still widely preferred to enteral nutrition (EN) in malnourished patients undergoing allogeneic stem-cell transplantation (allo-SCT) after myeloablative conditioning (MAC) </plain></SENT>
+<SENT sid="1" pm="."><plain>The purpose was to determine whether EN improves early outcome after MAC allo-SCT </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: Early outcome was prospectively assessed in patients undergoing MAC allo-SCT </plain></SENT>
+<SENT sid="3" pm="."><plain>A total of 121 consecutive patients undergoing a first MAC allo-SCT for <z:hpo ids='HP_0002488'>acute leukemia</z:hpo>, <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo>, or myeloproliferative syndrome were included </plain></SENT>
+<SENT sid="4" pm="."><plain>Patients who received cord blood were excluded </plain></SENT>
+<SENT sid="5" pm="."><plain>Enteral nutrition was systematically offered, although PN was provided when EN had been refused or was poorly tolerated </plain></SENT>
+<SENT sid="6" pm="."><plain>Among the patients, 94 received EN (EN group) and 27 did not (non-EN group) </plain></SENT>
+<SENT sid="7" pm="."><plain>Overall survival (OS), cumulative incidence of engraftment and <z:hpo ids='HP_0011009'>acute</z:hpo> <z:e sem="disease" ids="C0018133" disease_type="Disease or Syndrome" abbrv="GVH">graft-versus-host disease</z:e> (aGVHD) within the first 100 days after transplantation were studied </plain></SENT>
+<SENT sid="8" pm="."><plain>Because EN and PN treatment assignments were not random, propensity score adjustments were performed on patient outcomes </plain></SENT>
+<SENT sid="9" pm="."><plain>RESULTS: Outcome was better in the EN group than in the non-EN group for OS (hazard ratio [HR], 0.12; 95% confidence interval [CI], 0.04-0.42; P=0.0008), neutrophil (HR, 2.07; 95% CI, 1.26-3.39; P=0.004), and platelet (HR, 1.93; 95% CI, 1.004-3.70; P=0.049) engraftments and aGVHD development (HR, 0.12; 95% CI, 0.04-0.39; P=0.0004) </plain></SENT>
+<SENT sid="10" pm="."><plain>In Cox model analysis, EN demonstrated a protective effect (HR, 0.20; 95% CI, 0.05-0.77; P=0.019) on OS, whereas demonstrated a detrimental impact (HR, 4.18; 95% CI, 1.02-17.12; P=0.047) </plain></SENT>
+<SENT sid="11" pm="."><plain>Enteral nutrition was found to be an independent factor in neutrophil engraftment (HR, 2.17; 95% CI, 1.24-3.81; P=0.007), whereas PN delayed platelet engraftment (HR, 0.57; 95% CI, 0.33-0.99; P=0.046) </plain></SENT>
+<SENT sid="12" pm="."><plain>Enteral nutrition was the only factor that was protective against grades 3 to 4 aGVHD development (HR, 0.19; 95% CI, 0.05-0.72; P=0.01) </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSIONS: Routine use of EN is preferable to upfront PN in these patients </plain></SENT>
+</text></document>

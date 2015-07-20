@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 39-year-old woman with an unremarkable history presented to the emergency department with three episodes of collapse </plain></SENT>
+<SENT sid="1" pm="."><plain>Each episode was witnessed by her son who described a <z:hpo ids='HP_0007185'>loss of consciousness</z:hpo> followed by rapid and complete recovery </plain></SENT>
+<SENT sid="2" pm="."><plain>The patient appeared well and examination was unremarkable </plain></SENT>
+<SENT sid="3" pm="."><plain>Her ECG showed a marked QTc prolongation of 642 ms (<z:mpath ids='MPATH_458'>normal</z:mpath> &lt;470 ms) and low serum <z:chebi fb="120" ids="26216">potassium</z:chebi> at 1.8 mmol/l (3.5-5.3 mmol/l) </plain></SENT>
+<SENT sid="4" pm="."><plain>The patient was moved to the coronary care unit and started on <z:chebi fb="120" ids="26216">potassium</z:chebi> replacement </plain></SENT>
+<SENT sid="5" pm="."><plain>On the ward a thorough history was taken and the patient confessed to being very conscious about his body shape and weight and admitted to episodes of <z:e sem="disease" ids="C0424419" disease_type="Mental or Behavioral Dysfunction" abbrv="">binge eating</z:e> and self induced <z:hpo ids='HP_0002013'>vomiting</z:hpo> </plain></SENT>
+<SENT sid="6" pm="."><plain>Her history suggested <z:hpo ids='HP_0100739'>bulimia</z:hpo> nervosa which is known to cause electrolyte disturbances and <z:hpo ids='HP_0011675'>cardiac arrhythmia</z:hpo> </plain></SENT>
+<SENT sid="7" pm="."><plain>Over the following 2 days the patient's <z:chebi fb="120" ids="26216">potassium</z:chebi> increased and the QTc interval normalised; the patient was discharged with an outpatient referral for a psychiatric opinion </plain></SENT>
+</text></document>

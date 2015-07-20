@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>(S)-Emopamil is a <z:chebi fb="1" ids="38215">calcium channel blocker</z:chebi> of the phenylalkylamine class, having potent <z:chebi fb="19" ids="28790">serotonin</z:chebi> S2 antagonistic properties and high blood-brain barrier penetrability </plain></SENT>
+<SENT sid="1" pm="."><plain>Previous studies have documented cerebroprotective effect in animal models of both focal and global <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> </plain></SENT>
+<SENT sid="2" pm="."><plain>The present study was undertaken to define the postischemic "window" of therapeutic efficacy for this agent </plain></SENT>
+<SENT sid="3" pm="."><plain>Sprague-Dawley rats were subjected to permanent proximal middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp>, combined with an initial 30-minute period of <z:chebi fb="2" ids="5615">halothane</z:chebi>-induced <z:hpo ids='HP_0002615'>hypotension</z:hpo> (50 mm Hg) </plain></SENT>
+<SENT sid="4" pm="."><plain>(S)-Emopamil (20 mg/kg) was administered intraperitoneally either 20-30 minutes prior to middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> or 1 hour, 2 hours, or 3 hours following occlusion </plain></SENT>
+<SENT sid="5" pm="."><plain>Treated groups received a second similar dose 2.5 hours later and twice daily for 2 days thereafter </plain></SENT>
+<SENT sid="6" pm="."><plain>Brains were perfusion-fixed on the third day </plain></SENT>
+<SENT sid="7" pm="."><plain>Planimetric analysis of hemotoxylin and eosin-stained coronal brain sections documented a cortical <z:mpath ids='MPATH_124'>infarct</z:mpath> averaging 72.9 +/- 33.3 mm3 (mean +/- SD) in untreated rats </plain></SENT>
+<SENT sid="8" pm="."><plain>Cortical <z:mpath ids='MPATH_124'>infarct</z:mpath> volume was reduced by 48% (to 37.6 +/- 27.6 mm3) when therapy was initiated 1 hour postischemia (p less than 0.05) </plain></SENT>
+<SENT sid="9" pm="."><plain>When treatment was deferred to 2 hours postichemia, mean cortical <z:mpath ids='MPATH_124'>infarct</z:mpath> volume was reduced by 34%, but this difference did not attain statistical significance </plain></SENT>
+<SENT sid="10" pm="."><plain><z:mpath ids='MPATH_124'>Infarct</z:mpath> volume in rats with treatment initiated at 3 hours postischemia was indistinguishable from that in controls </plain></SENT>
+<SENT sid="11" pm="."><plain>Striatal <z:mpath ids='MPATH_124'>infarct</z:mpath> volume was similar in <z:hpo ids='HP_0000001'>all</z:hpo> groups </plain></SENT>
+<SENT sid="12" pm="."><plain>These results document a postischemic therapeutic window of cerebroprotection for (S)-emopamil lying between 1 and 2 hours after middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> </plain></SENT>
+</text></document>

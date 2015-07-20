@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Investigations concerned the mechanism of HT-29 cells radiosensitization by cis-9,trans-11-conjugated <z:chebi fb="0" ids="17351">linoleic acid</z:chebi> (c9,t11-CLA), a natural component of human diet with proven antitumor activity </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: The cells were incubated for 24h with 70μM c9,t11-CLA and then X-irradiated </plain></SENT>
+<SENT sid="2" pm="."><plain>The following methods were used: gas chromatography (incorporation of the CLA isomer), flow cytometry (cell cycle), cloning (survival), Western blotting (protein distribution in membrane fractions), and pulse-field gel electrophoresis (rejoining of DNA double-strand breaks) </plain></SENT>
+<SENT sid="3" pm="."><plain>In parallel, DNA-PK activity, γ-H2AX foci numbers and chromatid fragmentation were estimated </plain></SENT>
+<SENT sid="4" pm="."><plain>Gene expression was analysed by RT-PCR and chromosomal aberrations by the mFISH method </plain></SENT>
+<SENT sid="5" pm="."><plain>Nuclear accumulation of the EGF receptor (EGFR) was monitored by ELISA </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS AND CONCLUSIONS: C9,t11-CLA sensitized HT-29 cells to X-radiation </plain></SENT>
+<SENT sid="7" pm="."><plain>This effect was not due to changes in cell cycle progression or DNA-repair-related gene expression </plain></SENT>
+<SENT sid="8" pm="."><plain>Post-irradiation DSB rejoining was delayed, corresponding with the insufficient DNA-PK activation, although chromosomal aberration frequencies did not increase </plain></SENT>
+<SENT sid="9" pm="."><plain>Distributions of cholesterol and caveolin-1 in cellular membrane fractions changed </plain></SENT>
+<SENT sid="10" pm="."><plain>The nuclear EGFR translocation, necessary to increase the DNA-PK activity in response to <z:mp ids='MP_0003674'>oxidative stress</z:mp>, was blocked </plain></SENT>
+<SENT sid="11" pm="."><plain>We suppose that c9,t11-CLA modified the membrane structure, thus disturbing the intracellular EGFR transport and the EGFR-dependent pro-survival signalling, both functionally associated with <z:chebi fb="23" ids="18059">lipid</z:chebi> raft properties </plain></SENT>
+<SENT sid="12" pm="."><plain>GENERAL SIGNIFICANCE: The results point to the importance of the cell membrane interactions with the nucleus after injury inflicted by X -rays </plain></SENT>
+<SENT sid="13" pm="."><plain>Compounds like c9,t11-CLA, that specifically alter membrane properties, could be used to develop new anticancer strategies </plain></SENT>
+</text></document>

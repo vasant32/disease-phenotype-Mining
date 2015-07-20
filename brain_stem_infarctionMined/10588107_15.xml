@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND PURPOSE: Early diagnosis of perfusion deficits in patients with <z:hpo ids='HP_0011009'>acute</z:hpo> <z:hpo ids='HP_0001297'>stroke</z:hpo> could guide treatment decisions and improve prognosis </plain></SENT>
+<SENT sid="1" pm="."><plain>We investigated the sensitivity of perfusion CT studies using parametric time-to-peak maps to assess ischemic brain tissue with respect to early <z:mpath ids='MPATH_124'>infarct</z:mpath> signs on native CT scans </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: First-pass, single-section perfusion CT was performed in 20 patients who presented with symptoms of <z:hpo ids='HP_0011009'>acute</z:hpo> <z:hpo ids='HP_0001297'>stroke</z:hpo> within 6 hours of <z:hpo ids='HP_0003674'>onset</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>Initial CT perfusion studies were compared with follow-up studies within 30 hours in 10 patients </plain></SENT>
+<SENT sid="4" pm="."><plain>A manual, region of interest (ROI)-based, local evaluation procedure was performed to determine delayed time-to-peak values and diminished peak amplitudes </plain></SENT>
+<SENT sid="5" pm="."><plain>In addition, time-to-peak parameter maps were processed off-line from the dynamic CT data sets to identify areas of perfusion deficits, which were expressed as hemispheric lesion areas (HLAs) </plain></SENT>
+<SENT sid="6" pm="."><plain>Evolution of the ischemic regions was assessed by comparing the HLA on the initial and follow-up studies as well as on the native CT scan of the follow-up studies </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: Diagnostic time-to-peak maps were generated in 19 of 20 initial and in nine of 10 follow-up perfusion CT studies </plain></SENT>
+<SENT sid="8" pm="."><plain>The initial time-to-peak map showed perfusion deficits in 14 of 20 patients </plain></SENT>
+<SENT sid="9" pm="."><plain>Hemispheric territorial <z:mpath ids='MPATH_124'>infarcts</z:mpath> were diagnosed with a sensitivity of 93% </plain></SENT>
+<SENT sid="10" pm="."><plain>Perfusion deficits in two patients with <z:e sem="disease" ids="C0521542" disease_type="Disease or Syndrome" abbrv="">brain stem infarctions</z:e> and three patients with lacunar <z:hpo ids='HP_0001297'>strokes</z:hpo> were missed </plain></SENT>
+<SENT sid="11" pm="."><plain>Follow-up time-to-peak maps showed the extent of reperfusion after various therapeutic strategies </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSION: Perfusion CT is potentially useful for detecting cerebral perfusion deficits in <z:hpo ids='HP_0011009'>acute</z:hpo> <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> before morphologic changes are observable on native CT scans </plain></SENT>
+<SENT sid="13" pm="."><plain>Compared with a locally restricted ROI-based evaluation, time-to-peak maps provide sensitive, global indications of malperfused brain areas, facilitate lesion localization, and allow assessment of the evolution of the infarction during follow-up </plain></SENT>
+</text></document>

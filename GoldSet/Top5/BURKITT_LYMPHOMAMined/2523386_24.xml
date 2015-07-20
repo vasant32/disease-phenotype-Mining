@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Human interleukin 4 (IL-4) specifically induces the low affinity receptor for IgE (Fc epsilon R2/CD23) on the surface of the Burkitt <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cell line Jijoye </plain></SENT>
+<SENT sid="1" pm="."><plain>At 4 degrees C 125I-IL-4 specifically binds to high affinity receptors (Kd = 4-10 x 10(-11) M; Bmax, 600-1,200 sites/cell) </plain></SENT>
+<SENT sid="2" pm="."><plain>Following a rapid temperature shift from 4 to 37 degrees C, 80% of the receptor-bound 125I-IL-4 disappeared from the cell surface within 20 min (t1/2 = 8.9 min) </plain></SENT>
+<SENT sid="3" pm="."><plain>For every two internalized molecules of IL-4 (t1/2 = 13 min), one molecule of IL-4 dissociated from the cell surface (t1/2 = 25 min) </plain></SENT>
+<SENT sid="4" pm="."><plain>More than 90% of the internalized IL-4 was released in a degraded form into the medium following first order kinetics (t1/2 = 68 min) </plain></SENT>
+<SENT sid="5" pm="."><plain>Internalization was inhibited by cytoskeletal disrupting and lysosomotropic agents </plain></SENT>
+<SENT sid="6" pm="."><plain>Incubating cells with 1 nM IL-4 resulted in a rapid down-regulation of IL-4 receptors (75% loss after 2 h); a reexpression of receptor to control level occurred after 20 h in spite of the presence of a large excess of IL-4 </plain></SENT>
+<SENT sid="7" pm="."><plain>Reexpression was delayed by <z:chebi fb="3" ids="3638">chloroquine</z:chebi> and blocked by <z:chebi fb="0" ids="27641">cycloheximide</z:chebi> and <z:chebi fb="0" ids="27666">actinomycin D</z:chebi> </plain></SENT>
+<SENT sid="8" pm="."><plain>By using the cross-linking agent bis(sulfosuccinimidyl)suberate, three <z:chebi fb="1" ids="15841">polypeptides</z:chebi> of Mr 130,000, 80,000, and 70,000 were specifically labeled with 125I-IL-4 </plain></SENT>
+<SENT sid="9" pm="."><plain>These three <z:chebi fb="1" ids="15841">polypeptides</z:chebi> coordinately disappeared and reappeared with the 125I-IL-4 binding sites </plain></SENT>
+<SENT sid="10" pm="."><plain>The induction of Fc epsilon R2/CD23 required prolonged incubation (greater than 8 h) with IL-4 and thus may be dependent on the reexpression of IL-4 receptor </plain></SENT>
+</text></document>

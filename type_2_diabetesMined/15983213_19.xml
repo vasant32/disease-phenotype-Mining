@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The amyloid present in the islets of Langerhans in type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> is polymerized islet amyloid <z:chebi fb="1" ids="15841">polypeptide</z:chebi> (IAPP) </plain></SENT>
+<SENT sid="1" pm="."><plain>The precursor protein proIAPP is posttranslationally modified, a process involving the removal of <z:chebi fb="0" ids="29337,29340">NH2-</z:chebi> and COOH-terminal flanking <z:chebi fb="7" ids="16670">peptides</z:chebi> </plain></SENT>
+<SENT sid="2" pm="."><plain>This step is performed by the prohormone convertases PC2 and PC1/3 </plain></SENT>
+<SENT sid="3" pm="."><plain>PC2 processes proIAPP preferably at the <z:chebi fb="0" ids="29318,29339">NH2</z:chebi>-terminal processing site, and PC1/3 processes proIAPP exclusively at the COOH-terminal site </plain></SENT>
+<SENT sid="4" pm="."><plain>Little is known regarding the exact circumstances leading to islet amyloid formation </plain></SENT>
+<SENT sid="5" pm="."><plain>In this study, we have examined the possible significance of aberrant processing of proIAPP on amyloid formation in several in vitro cellular systems </plain></SENT>
+<SENT sid="6" pm="."><plain>In our studies, human (h)-proIAPP was transfected into beta-TC-6 cells expressing both prohormone convertases and in which proIAPP is processed into IAPP </plain></SENT>
+<SENT sid="7" pm="."><plain>Additionally, h-proIAPP was transfected into three different pituitary-derived cell lines with different prohormone convertase profiles: AtT-20 cells (deficient in PC2), GH3 cells (deficient in PC1/3), and GH4C1 cells (deficient in both convertases) </plain></SENT>
+<SENT sid="8" pm="."><plain>We followed the processing of h-proIAPP with antibodies specific for the respective cleavage sites and stained the cells with <z:chebi fb="0" ids="34653">Congo red</z:chebi> to verify the accumulation of amyloid </plain></SENT>
+<SENT sid="9" pm="."><plain>Incomplete processing of h-proIAPP that occurs in AtT-20 and GH4C1 cells resulted in the formation of intracellular amyloid </plain></SENT>
+<SENT sid="10" pm="."><plain>No amyloid developed in beta-TC-6 and GH3 cells lines with full processing of proIAPP </plain></SENT>
+<SENT sid="11" pm="."><plain>An intracellular increase in proIAPP and/or its metabolic products may thus promote intracellular amyloid formation, thereby causing cell <z:hpo ids='HP_0011420'>death</z:hpo> </plain></SENT>
+<SENT sid="12" pm="."><plain>When extracellularly exposed, this amyloid might act as template for continuing amyloid formation from processed IAPP released from the surrounding beta-cells </plain></SENT>
+</text></document>

@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Platelet-activating factor (PAF) is a bioactive <z:chebi fb="0" ids="16247">phospholipid</z:chebi> that accumulates during <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e>-reperfusion and is involved in the activation of platelets, neutrophils, and pro-inflammatory signaling </plain></SENT>
+<SENT sid="1" pm="."><plain>PAF has been suggested to enhance <z:e sem="disease" ids="C0007786" disease_type="Disease or Syndrome" abbrv="">brain ischemia</z:e>-reperfusion damage </plain></SENT>
+<SENT sid="2" pm="."><plain>LAU-0901, a novel PAF receptor <z:chebi fb="68" ids="48706">antagonist</z:chebi>, was examined in models of focal <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> in rats and mice </plain></SENT>
+<SENT sid="3" pm="."><plain>Sprague-Dawley rats were anesthetized and received 2-hour middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (MCAo) by intraluminal suture </plain></SENT>
+<SENT sid="4" pm="."><plain>LAU-0901 (30, 60, 90 mg/kg; n=9-11) or vehicle (n=11) was administered i.p. at 2 h after <z:hpo ids='HP_0003674'>onset</z:hpo> of MCAo </plain></SENT>
+<SENT sid="5" pm="."><plain>The neurological status was evaluated at 60 min, and on days 1, 2, 3 and 7 after MCAo </plain></SENT>
+<SENT sid="6" pm="."><plain>In the dose-response study in mice, C57BL/6 mice were anesthetized and received 1 h MCAo by intraluminal suture </plain></SENT>
+<SENT sid="7" pm="."><plain>LAU-0901 (15, 30, 60 mg/kg; n=7-9) or vehicle (n=8) was given i.p. at 1 h after <z:hpo ids='HP_0003674'>onset</z:hpo> of MCAo </plain></SENT>
+<SENT sid="8" pm="."><plain>Local cerebral blood flow (LCBF) was measured at 1, 2, 4, and 6 h after MCAo in mice </plain></SENT>
+<SENT sid="9" pm="."><plain>LAU-0901 treated rats showed improved neurological score throughout the 7-day survival period </plain></SENT>
+<SENT sid="10" pm="."><plain>LAU-0901 treatment (30, 60 and 90 mg/kg) reduced total corrected <z:mpath ids='MPATH_124'>infarct</z:mpath> volume compared to vehicle rats by 76, 88 and 90%, respectively </plain></SENT>
+<SENT sid="11" pm="."><plain>Mice treated with LAU-0901 (30 and 60 mg/kg) reduced total infarction by 29% and 66%, respectively </plain></SENT>
+<SENT sid="12" pm="."><plain>LCBF was improved by treatment with LAU-0901 (30 mg/kg) by 77% of baseline at 6 h </plain></SENT>
+<SENT sid="13" pm="."><plain>In conclusion, we demonstrate for the first time that LAU-0901 improves behavioral scores, LCBF and reduces <z:mpath ids='MPATH_124'>infarct</z:mpath> volume after focal <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> in rats and mice </plain></SENT>
+<SENT sid="14" pm="."><plain>Thus, this PAF receptor <z:chebi fb="68" ids="48706">antagonist</z:chebi> exhibits potent and sustained neuroprotection that may be of value for the design of <z:hpo ids='HP_0001297'>stroke</z:hpo> therapies </plain></SENT>
+</text></document>

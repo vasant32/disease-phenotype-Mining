@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Despite therapeutic innovations, <z:e sem="disease" ids="C0948380" disease_type="Neoplastic Process" abbrv="">metastatic colorectal cancer</z:e> (mCRC) is still characterized by poor prognosis and few molecular markers predict the risk of progression </plain></SENT>
+<SENT sid="1" pm="."><plain>Polycomb group genes (PcGs) are epigenetic modifiers involved in <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> suppressor gene silencing </plain></SENT>
+<SENT sid="2" pm="."><plain>PcG member EZH2 mediates gene silencing through <z:chebi fb="0" ids="15358">histone</z:chebi>-H3 lysine-27 methylation </plain></SENT>
+<SENT sid="3" pm="."><plain>In <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e>), EZH2 overexpression predicts shorter survival </plain></SENT>
+<SENT sid="4" pm="."><plain>Recently, four EZH2 single-nucleotide polymorphisms (SNPs) have been described </plain></SENT>
+<SENT sid="5" pm="."><plain>The present study was aimed at evaluating the correlation between EZH2 SNPs and outcome parameters in mCRC patients </plain></SENT>
+<SENT sid="6" pm="."><plain>PATIENTS AND METHODS: DNA was extracted from blood samples of 110 mCRC patients treated with first-line <z:chebi fb="0" ids="46345">5-fluorouracil</z:chebi>, folinic acid, irinotecan (FOLFIRI) and bevacizumab </plain></SENT>
+<SENT sid="7" pm="."><plain>Genotyping was carried out by real-time PCR </plain></SENT>
+<SENT sid="8" pm="."><plain>Genotype was used to predict objective response, progression-free survival (PFS) and overall survival (OS) </plain></SENT>
+<SENT sid="9" pm="."><plain>EZH2 <z:chebi fb="5" ids="33699">messenger RNA</z:chebi> levels were evaluated on lymphocytes of a parallel cohort of 50 CRC patients </plain></SENT>
+<SENT sid="10" pm="."><plain>RESULTS: One allelic variant (rs3757441 C/C versus C/T or T/T) was significantly associated with shorter PFS and OS (P &lt; 0.01 and P &lt; 0.05, respectively) </plain></SENT>
+<SENT sid="11" pm="."><plain>At multivariate analysis, the same variant resulted an independent predictor of PFS and OS (P &lt; 0.05) </plain></SENT>
+<SENT sid="12" pm="."><plain>The C/C variant was associated with significantly higher EZH2 expression (P &lt; 0.05) </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSION: An EZH2 SNP may be useful to predict clinical outcome in mCRC patients </plain></SENT>
+</text></document>

@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: Management options for <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> have expanded in recent years </plain></SENT>
+<SENT sid="1" pm="."><plain>We estimated average lifetime cost of care for <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> in Ireland in 2008, from the health care payer perspective </plain></SENT>
+<SENT sid="2" pm="."><plain>METHOD: A decision tree model was developed in Microsoft EXCEL </plain></SENT>
+<SENT sid="3" pm="."><plain>Site and stage-specific treatment pathways were constructed from guidelines and validated by expert clinical opinion </plain></SENT>
+<SENT sid="4" pm="."><plain>Health care resource use associated with diagnosis, treatment and follow-up were obtained from the National <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">Cancer</z:e> Registry Ireland (n=1,498 cancers diagnosed during 2004-2005) and three local hospital databases (n=155, 142 and 46 cases diagnosed in 2007) </plain></SENT>
+<SENT sid="5" pm="."><plain>Unit costs for hospitalisation, procedures, laboratory tests and radiotherapy were derived from DRG costs, hospital finance departments, clinical opinion and literature review </plain></SENT>
+<SENT sid="6" pm="."><plain>Chemotherapy costs were estimated from local hospital protocols, pharmacy departments and clinical opinion </plain></SENT>
+<SENT sid="7" pm="."><plain>Uncertainty was explored using one-way and probabilistic sensitivity analysis </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: In 2008, the average (stage weighted) lifetime cost of managing a case of <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> was €39,607 </plain></SENT>
+<SENT sid="9" pm="."><plain>Average costs were 16% higher for rectal (€43,502) than <z:hpo ids='HP_0003003'>colon cancer</z:hpo> (€37,417) </plain></SENT>
+<SENT sid="10" pm="."><plain>Stage I disease was the least costly (€23,688) and stage III most costly (€48,835) </plain></SENT>
+<SENT sid="11" pm="."><plain>Diagnostic work-up and follow-up investigations accounted for 4 and 5% of total costs, respectively </plain></SENT>
+<SENT sid="12" pm="."><plain>Cost estimates were most sensitive to recurrence rates and prescribing of biological agents </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSION: This study demonstrates the value of using existing data from national and local databases in contributing to estimating the cost of managing <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> </plain></SENT>
+<SENT sid="14" pm="."><plain>The findings illustrate the impact of biological agents on costs of <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> care and the potential of strategies promoting earlier diagnosis to reduce health care resource utilisation and care costs </plain></SENT>
+</text></document>

@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: <z:chebi fb="0" ids="39015">Apolipoprotein</z:chebi> E (ApoE) epsilon4 genotype is a well-established risk factor for <z:e sem="disease" ids="C0002395" disease_type="Disease or Syndrome" abbrv="SDAT">Alzheimer's disease</z:e> (AD) </plain></SENT>
+<SENT sid="1" pm="."><plain>However, its effect on predicting conversion from <z:mpath ids='MPATH_458'>normal</z:mpath> to "<z:hpo ids='HP_0100543'>cognitive impairment</z:hpo>, no <z:hpo ids='HP_0000726'>dementia</z:hpo>" (CIND) and from CIND to AD is less clear </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: We used a nested case-control design from the population-based Canadian Study of Health and Aging (CSHA) to examine the effect of ApoE epsilon4 genotype on the conversion of subjects from <z:mpath ids='MPATH_458'>normal</z:mpath> to CIND and from CIND to AD </plain></SENT>
+<SENT sid="3" pm="."><plain>We also contrasted these findings with incident cases of AD and vascular <z:hpo ids='HP_0000726'>dementia</z:hpo> (VaD) in the CSHA cohort </plain></SENT>
+<SENT sid="4" pm="."><plain>RESULTS: The ApoE epsilon4 genotype was a significant risk factor for conversion from CIND to AD and from <z:mpath ids='MPATH_458'>normal</z:mpath> to AD and VaD </plain></SENT>
+<SENT sid="5" pm="."><plain>However, it was not a significant risk factor for conversion from <z:mpath ids='MPATH_458'>normal</z:mpath> to CIND </plain></SENT>
+<SENT sid="6" pm="."><plain>This effect is robust to adjustment for age, sex and education level </plain></SENT>
+<SENT sid="7" pm="."><plain>There is significant interaction between the ApoE epsilon4 genotype and age for AD and for conversion from CIND to AD </plain></SENT>
+<SENT sid="8" pm="."><plain>No interaction between ApoE epsilon4 genotype, sex, age, ethnicity and education level was found in other subgroup analyses </plain></SENT>
+<SENT sid="9" pm="."><plain>The positive predictive value of ApoE epsilon4 for predicting CIND conversion to AD was 0.48, and the negative predictive value was 0.65 </plain></SENT>
+<SENT sid="10" pm="."><plain>INTERPRETATION: Possession of an ApoE epsilon4 allele increases the risk of AD developing from CIND </plain></SENT>
+<SENT sid="11" pm="."><plain>It is also associated with a decrease in the age at <z:hpo ids='HP_0003674'>onset</z:hpo> of AD </plain></SENT>
+<SENT sid="12" pm="."><plain>Its predictive values do not support its utility as a diagnostic test for predicting progression from CIND to AD, but it may be useful in research studies to enrich study samples that have a higher rate of progression to AD </plain></SENT>
+</text></document>

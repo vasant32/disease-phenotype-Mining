@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECT: The two-vein occlusion model is known to be useful for ischemic penumbra studies in vivo </plain></SENT>
+<SENT sid="1" pm="."><plain>It was applied here to examine sequential changes in the expression of Bax and Bcl-2 proteins and in apoptotic cells to assess the relationship between penumbra and <z:mpath ids='MPATH_3'>apoptosis</z:mpath> </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: Two cortical veins were occluded photochemically by using <z:chebi fb="0" ids="52261">rose bengal</z:chebi> dye in 27 Wistar rats </plain></SENT>
+<SENT sid="3" pm="."><plain>The animals were killed with perfusion fixation at the following intervals: 4, 12, 24, 48, 96, and 168 hours after vein occlusion (four at each interval; three additional rats were sham-treated) </plain></SENT>
+<SENT sid="4" pm="."><plain>Immunohistochemical analysis for the Bcl-2 family of proteins was performed along with the terminal deoxynucleotidyl transferase-mediated deoxyuridine <z:chebi fb="0" ids="15266,18036">triphosphate</z:chebi> nick-end labeling (TUNEL) assay to examine the relationship to single-cell <z:hpo ids='HP_0011420'>death</z:hpo> </plain></SENT>
+<SENT sid="5" pm="."><plain>Cells positive for antiapoptotic proteins began to appear in the TUNEL assay for animals killed 24 hours after vein occlusion, with a peak at 48 hours </plain></SENT>
+<SENT sid="6" pm="."><plain>These cells were localized in the core of infarction </plain></SENT>
+<SENT sid="7" pm="."><plain>Immunohistochemical staining for Bax protein showed an increased presence around ischemic lesions at 4 hours after vein occlusion, and the amounts continued to rise until 24 hours, when the localization was diffuse around the core of infarction </plain></SENT>
+<SENT sid="8" pm="."><plain>Negative findings on immunohistochemical studies for Bcl-2 protein were seen at the early phase after two-vein occlusion </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSIONS: After vein occlusion, <z:mpath ids='MPATH_3'>apoptosis</z:mpath> appeared sequentially and widely in cortical lesions considered to be the penumbra </plain></SENT>
+<SENT sid="10" pm="."><plain>Therefore, control of <z:mpath ids='MPATH_3'>apoptosis</z:mpath> would be expected to offer a therapeutic window for treatment of venous infarction </plain></SENT>
+</text></document>

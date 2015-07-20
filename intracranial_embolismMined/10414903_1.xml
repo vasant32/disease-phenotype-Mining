@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Problems in detection of Doppler cerebral embolic signals primarily occur for embolic signals of low relative intensity </plain></SENT>
+<SENT sid="1" pm="."><plain>A characteristic feature of embolic signals is that the intensity increase is maximal over a narrow frequency band </plain></SENT>
+<SENT sid="2" pm="."><plain>Therefore, frequency filtering of the data might improve embolic signal relative intensity and detectability </plain></SENT>
+<SENT sid="3" pm="."><plain>We implemented an off-line finite impulse response filter in software running on a commercially available transcranial Doppler system, using the time-domain audio data as input </plain></SENT>
+<SENT sid="4" pm="."><plain>The range of the filter was chosen by placing a box around the embolic signal on the spectral display </plain></SENT>
+<SENT sid="5" pm="."><plain>One hundred consecutive embolic signals from patients with <z:hpo ids='HP_0100546'>carotid stenosis</z:hpo> were analyzed; <z:hpo ids='HP_0000001'>all</z:hpo> had been recorded by a bigate system and the signal was analyzed in both proximal and distal channels </plain></SENT>
+<SENT sid="6" pm="."><plain>There was a highly significant increase in embolic signal relative intensity following frequency filtering; mean (SD) proximal channel prefiltering 12.75 (4.83) dB, postfiltering 16.36 (4.93) dB; distal channel prefiltering 13.42 (4.98) dB, postfiltering 16.60 (5.11) dB, for both p &lt; 0.001 </plain></SENT>
+<SENT sid="7" pm="."><plain>Despite <z:hpo ids='HP_0000001'>all</z:hpo> embolic signals being audible and visible in at least one channel on the frequency spectral display, in 17 cases, the amplitude increase associated with the embolic signal could not be clearly seen in time-domain data of one or both channels prior to filtering </plain></SENT>
+<SENT sid="8" pm="."><plain>Following frequency filtering, this was reduced to 5 </plain></SENT>
+<SENT sid="9" pm="."><plain>Incorporation of such a frequency-filtering approach to an online system is likely to improve the sensitivity of online detection for embolic signals of low relative intensity </plain></SENT>
+</text></document>

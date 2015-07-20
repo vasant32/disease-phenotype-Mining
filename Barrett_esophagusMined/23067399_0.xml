@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>In <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> (BE), the <z:mpath ids='MPATH_458'>normal</z:mpath> squamous lining of the esophagus is replaced by specialized columnar epithelium </plain></SENT>
+<SENT sid="1" pm="."><plain>Endoscopic surveillance with autofluorescence imaging (AFI) and molecular biomarkers have been studied separately to detect early <z:hpo ids='HP_0002664'>neoplasia</z:hpo> (EN) in BE </plain></SENT>
+<SENT sid="2" pm="."><plain>The combination of advanced-imaging modalities and biomarkers has not been investigated; AFI may help detecting biomarkers as a risk-stratification tool </plain></SENT>
+<SENT sid="3" pm="."><plain>We retrospectively evaluated a cohort of patients undergoing endoscopy for EN in BE with AFI and correlated five biomarkers (HPP1, RUNX3, p16, cyclin A, and p53) in tissue samples with AFI and <z:mpath ids='MPATH_589'>dysplasia</z:mpath> status </plain></SENT>
+<SENT sid="4" pm="."><plain>Fifty-eight samples from a previous prospective study were selected: 15 true-positive (TP: AFI-positive, EN), 21 false-positive (FP: AFI-positive, no EN), 12 true-negative (TN1; AFI-negative, no EN in sample), 10 true-negative (TN2: AFI-negative, no EN in esophagus) </plain></SENT>
+<SENT sid="5" pm="."><plain>Methylation-specific RT-PCR was performed for HPP1, RUNX3, p16, and immunohistochemistry for cyclin A, p53 </plain></SENT>
+<SENT sid="6" pm="."><plain>P &lt; 0.05 was considered statistically significant </plain></SENT>
+<SENT sid="7" pm="."><plain>Bonferroni correction was used for multiple comparisons </plain></SENT>
+<SENT sid="8" pm="."><plain>P16, cyclin A, p53 correlated with <z:mpath ids='MPATH_589'>dysplasia</z:mpath> (P &lt; 0.01, P = 0.003, P &lt; 0.001, respectively) </plain></SENT>
+<SENT sid="9" pm="."><plain>Increased p16 methylation was observed between TP versus TN2 (P = 0.003) and TN1 versus TN2 (P = 0.04) subgroups, suggesting a field defect </plain></SENT>
+<SENT sid="10" pm="."><plain>Only p53 correlated with AFI-status (P = 0.003) </plain></SENT>
+<SENT sid="11" pm="."><plain>After exclusion of EN samples, significance was lost </plain></SENT>
+<SENT sid="12" pm="."><plain>Although correlation with <z:mpath ids='MPATH_589'>dysplasia</z:mpath> status was confirmed for p16, cyclin A and p53, underlining the importance of these biomarkers as an early event in <z:e sem="disease" ids="C0178874" disease_type="Neoplastic Process" abbrv="">neoplastic progression</z:e>, none of the investigated biomarkers correlated with AFI status </plain></SENT>
+<SENT sid="13" pm="."><plain>A larger prospective study is needed to assess the combination of AFI and a larger panel of biomarkers to improve risk stratification in BE </plain></SENT>
+</text></document>

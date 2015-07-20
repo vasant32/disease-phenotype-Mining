@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND &amp; AIMS: Screening for <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> with conventional esophagoduodenoscopy (EGD) is recommended to decrease mortality from esophageal <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> </plain></SENT>
+<SENT sid="1" pm="."><plain>Esophageal capsule endoscopy (ECE) has recently been shown to be accurate in detecting <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>We aimed to compare the cost-effectiveness of screening by ECE with screening by EGD </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: A Markov model of 50-year-old white men with symptoms of <z:hpo ids='HP_0002020'>gastroesophageal reflux</z:hpo> was constructed to compare screening modalities </plain></SENT>
+<SENT sid="4" pm="."><plain>The model incorporated direct medical costs and indirect costs of lost productivity and followed the patients until age 80 years or <z:hpo ids='HP_0011420'>death</z:hpo> </plain></SENT>
+<SENT sid="5" pm="."><plain>Outcomes were analyzed from the societal perspective </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: EGD screening prevented 60% of <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> <z:hpo ids='HP_0011420'>deaths</z:hpo> at a cost of $11,254 per quality-adjusted life year gained compared with no screening </plain></SENT>
+<SENT sid="7" pm="."><plain>ECE prevented 53% of <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> <z:hpo ids='HP_0011420'>deaths</z:hpo> and provided 9 fewer quality-adjusted days at greater cost than EGD </plain></SENT>
+<SENT sid="8" pm="."><plain>If society were only willing to pay $50,000 per quality-adjusted life year gained, then capsule screening would be preferred if the income of the patient and driver were each greater than $280,682 </plain></SENT>
+<SENT sid="9" pm="."><plain>Otherwise, the findings were robust to <z:hpo ids='HP_0000001'>all</z:hpo> sensitivity analyses </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSIONS: Screening for <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> with either EGD or ECE results in similar outcomes, but EGD is the preferred strategy </plain></SENT>
+<SENT sid="11" pm="."><plain>Both strategies appear cost-effective, and the model does not take into account patient preferences for screening modality or adherence </plain></SENT>
+</text></document>

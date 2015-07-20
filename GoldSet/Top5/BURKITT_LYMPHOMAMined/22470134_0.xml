@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Natural killer (NK) cells are an important effector cell of innate immunity </plain></SENT>
+<SENT sid="1" pm="."><plain>Their interaction with susceptible target cells triggers NK cell cytotoxicity and the release of cytokines </plain></SENT>
+<SENT sid="2" pm="."><plain>Immunofluorescence flow cytometry-based assays are now the preferred methods for measuring NK cell responses </plain></SENT>
+<SENT sid="3" pm="."><plain>For these assays, assessment is made on NK cells (CD3(-)CD56(+) CD16(+)) within the viable lymphocyte gate, defined by the parameters of size (FSC) and granularity (SSC) </plain></SENT>
+<SENT sid="4" pm="."><plain>Accordingly, NK cells that have not dissociated from target cells at the time of measurement, or that have undergone target cell-induced <z:mpath ids='MPATH_3'>apoptosis</z:mpath>, are excluded from the viable lymphocyte gate and therefore from analysis </plain></SENT>
+<SENT sid="5" pm="."><plain>This unit describes a protocol for assessing NK cell function in response to target cells (both natural killing and antibody-dependent cell cytotoxicity) based on the loss of NK cells from the lymphocyte gate </plain></SENT>
+<SENT sid="6" pm="."><plain>This target-induced NK loss (TINKL) should provide a sensitive measure of NK cell responses in a clinical laboratory setting </plain></SENT>
+</text></document>

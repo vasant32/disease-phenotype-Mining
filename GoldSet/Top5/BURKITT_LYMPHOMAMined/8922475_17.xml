@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The <z:mp ids='MP_0001799'>viral</z:mp> latent membrane proteins 2 (LMP2) of Epstein-Barr virus (EBV) were analysed genetically to evaluate their role in B cell immortalization </plain></SENT>
+<SENT sid="1" pm="."><plain>LMP2 is transcribed as two differently spliced <z:chebi fb="2" ids="33699">mRNAs</z:chebi> which code for the LMP2A and -B proteins, also called terminal protein-1 and -2 </plain></SENT>
+<SENT sid="2" pm="."><plain>LMP2A and -B are found in latently infected, growth-transformed B lymphocytes in vitro, in different human <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumours</z:e>, and in latently infected B cells in vivo </plain></SENT>
+<SENT sid="3" pm="."><plain>Two different approaches were used to generate EBV mutants in which the second, third and part of the fourth exon of the LMP2 gene were deleted by insertion of a marker gene </plain></SENT>
+<SENT sid="4" pm="."><plain>Initially, conventional homologous recombination in a Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cell line (P3HR1) between the endogenous EBV genome and an introduced plasmid was used to generate EBV mutants </plain></SENT>
+<SENT sid="5" pm="."><plain>This experiment identified LMP2 as dispensable for B cell immortalization as has been reported </plain></SENT>
+<SENT sid="6" pm="."><plain>In a second approach, the same LMP2 mutant gene was analysed in the context of a mini-EBV plasmid </plain></SENT>
+<SENT sid="7" pm="."><plain>These are E. coli constructs that are sufficient when packaged into an EBV coat both to initiate and to maintain proliferation of infected B cells </plain></SENT>
+<SENT sid="8" pm="."><plain>In comparison with a fully competent mini-EBV, LMP2- mini-EBVs were found to be greatly reduced in their capacity to yield immortalized B cell clones </plain></SENT>
+<SENT sid="9" pm="."><plain>This finding confirmed the initially observed bias against LMP2- B cell clones, most of which were found to be coinfected with complementing P3HR1 virus </plain></SENT>
+<SENT sid="10" pm="."><plain>These results indicate that LMP2 contributes to the efficiency of B cell immortalization and that the LMP2s phenotype is auxiliary in nature </plain></SENT>
+</text></document>

@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Cerebrovascular diseases and other vascular complications are common and cause considerable mortality and morbidity in <z:hpo ids='HP_0000819'>diabetes mellitus</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Recent studies suggest that <z:chebi fb="0" ids="35664">statins</z:chebi> reduce the incidence of <z:hpo ids='HP_0001297'>stroke</z:hpo> in diabetic as well as non-diabetic patients </plain></SENT>
+<SENT sid="2" pm="."><plain>The outcome of <z:hpo ids='HP_0001297'>stroke</z:hpo> is shown to be worse in diabetics </plain></SENT>
+<SENT sid="3" pm="."><plain>However, the effect of <z:chebi fb="0" ids="35664">statins</z:chebi> on the outcome of <z:hpo ids='HP_0001297'>stroke</z:hpo> occurring in diabetics is not clear </plain></SENT>
+<SENT sid="4" pm="."><plain>The purpose of this study was to investigate the effect of pre-treatment with <z:chebi fb="0" ids="35664">statins</z:chebi> on focal <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> in diabetic mice </plain></SENT>
+<SENT sid="5" pm="."><plain>MATERIALS AND METHODS: Swiss <z:mp ids='MP_0001189'>albino</z:mp> mice were randomized into two groups </plain></SENT>
+<SENT sid="6" pm="."><plain><z:mp ids='MP_0002055'>Diabetes</z:mp> was induced in the first group by intravenous streptozotosin injection </plain></SENT>
+<SENT sid="7" pm="."><plain>The second group served as non-diabetic </plain></SENT>
+<SENT sid="8" pm="."><plain>After 4 weeks, half of the mice in diabetic and non-diabetic groups were randomized to receive intraperitoneal <z:chebi fb="0" ids="9150">simvastatin</z:chebi> 1 mg/kg/day or saline treatment for 14 days </plain></SENT>
+<SENT sid="9" pm="."><plain>Subsequently, mice were subjected to 90 min of proximal middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> and 24 h of reperfusion </plain></SENT>
+<SENT sid="10" pm="."><plain>Sham-operation was also performed for each group </plain></SENT>
+<SENT sid="11" pm="."><plain>After 24 h of reperfusion, neurological deficits were scored and the <z:mpath ids='MPATH_124'>infarct</z:mpath> volume was measured on Nissl stained brain sections </plain></SENT>
+<SENT sid="12" pm="."><plain>RESULTS: <z:mpath ids='MPATH_124'>Infarct</z:mpath> volume (median, interquartile range) was significantly increased in the diabetic group (60.7 mm(3)) compared to non-diabetic group (53.4 mm(3)) </plain></SENT>
+<SENT sid="13" pm="."><plain><z:chebi fb="0" ids="35664">Statin</z:chebi> pre-treatment significantly reduced the <z:mpath ids='MPATH_124'>infarct</z:mpath> volume (to 40.4; 33.5 mm(3), respectively) and neurological disability scores both in diabetic and non-diabetic groups </plain></SENT>
+<SENT sid="14" pm="."><plain>CONCLUSIONS: These data suggest that <z:mp ids='MP_0002055'>diabetes</z:mp> aggravates the ischemic damage after focal <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> and <z:chebi fb="0" ids="35664">statin</z:chebi> pre-treatment protects the brain in diabetic as well as healthy animals </plain></SENT>
+<SENT sid="15" pm="."><plain><z:chebi fb="0" ids="35664">Statin</z:chebi> treatment may favorably affect <z:hpo ids='HP_0001297'>stroke</z:hpo> outcome in diabetic patients in addition to decreasing <z:hpo ids='HP_0001297'>stroke</z:hpo> incidence </plain></SENT>
+</text></document>

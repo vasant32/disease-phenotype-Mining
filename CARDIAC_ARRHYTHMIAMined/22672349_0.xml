@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIM: Elderly patients often remain underrepresented in clinical trials </plain></SENT>
+<SENT sid="1" pm="."><plain>The aim of our study was to analyze the treatment, clinical outcome and risk factors for mortality in patients aged ≥85 years with ST-segment elevation <z:hpo ids='HP_0001658'>myocardial infarction</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">STEMI</z:e>) </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: From 2005-2011, 102 patients aged ≥85 years with <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">STEMI</z:e> admitted to a coronary care unit were retrospectively reviewed </plain></SENT>
+<SENT sid="3" pm="."><plain>Clinical data, treatment and outcome were recorded </plain></SENT>
+<SENT sid="4" pm="."><plain>Reperfusion strategy and its influence in hospital morbidity and mortality were evaluated </plain></SENT>
+<SENT sid="5" pm="."><plain>Morbidity was defined as the presence of <z:hpo ids='HP_0001635'>heart failure</z:hpo> (Killip-Kimball &gt;1), <z:hpo ids='HP_0011675'>arrhythmias</z:hpo>, mechanical complications, <z:hpo ids='HP_0001297'>stroke</z:hpo> or major <z:mp ids='MP_0001914'>bleeding</z:mp> </plain></SENT>
+<SENT sid="6" pm="."><plain>Risk factors for mortality were assessed by multivariate analysis </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: The mean age was 87.5±2.5 years (range 85-96) </plain></SENT>
+<SENT sid="8" pm="."><plain>Therapeutic strategy on admission was: primary-angioplasty (PCI) for 33 patients (32.3%) fibrinolysis for 30 patients (29.4%) and conservative treatment for 35 patients (34.3%) </plain></SENT>
+<SENT sid="9" pm="."><plain>In the four remaining patients, rescue angioplasty was required </plain></SENT>
+<SENT sid="10" pm="."><plain>A total of 29 patients (28.4%) died, and morbidity was seen in 63 patients (61.7%) </plain></SENT>
+<SENT sid="11" pm="."><plain>The morbidity and mortality rates in the conservative treatment group (77.1% and 48.5%) were higher than that found in the reperfusion strategy group (primary-PCI and fibrinolysis; 53.7% and 17.9%; P=0.02 and P=0.002, respectively) </plain></SENT>
+<SENT sid="12" pm="."><plain>Regarding mortality, the univariate analysis showed that <z:hpo ids='HP_0001635'>heart failure</z:hpo> on admission (P=0.0001) and previous <z:hpo ids='HP_0001677'>coronary artery disease</z:hpo> (P=0.01) were prognostic variables </plain></SENT>
+<SENT sid="13" pm="."><plain>Only <z:hpo ids='HP_0001635'>heart failure</z:hpo> was an independent risk factor for mortality (odds ratio=3.64, 95% CI 0.78-21.87, P&lt;0.0001) </plain></SENT>
+<SENT sid="14" pm="."><plain>CONCLUSIONS: Mortality and morbidity in very elderly patients with <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">STEMI</z:e> are very high, especially in those not receiving reperfusion therapies </plain></SENT>
+<SENT sid="15" pm="."><plain><z:hpo ids='HP_0001635'>Heart failure</z:hpo> on admission was an independent risk factor for hospital mortality </plain></SENT>
+</text></document>

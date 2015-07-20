@@ -1,0 +1,20 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>UNLABELLED: Humanized A33 (huA33) is a promising monoclonal antibody that recognizes A33 antigen, which is present in more than 95% of <z:e sem="disease" ids="C1527249" disease_type="Neoplastic Process" abbrv="">colorectal cancers</z:e> and in <z:mpath ids='MPATH_458'>normal</z:mpath> bowel </plain></SENT>
+<SENT sid="1" pm="."><plain>In this study, we took advantage of quantitative PET to evaluate (124)I huA33 targeting, biodistribution, and safety in patients with <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> </plain></SENT>
+<SENT sid="2" pm="."><plain>We also determined the biodistribution of (124)I-huA33 when a large dose of human intravenous IgG (IVIG) was administered to manipulate the Fc receptor or when (124)I-huA33 was given via hepatic arterial infusion (HAI) </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: We studied 25 patients with primary or <z:e sem="disease" ids="C0948380" disease_type="Neoplastic Process" abbrv="">metastatic colorectal cancer</z:e>; 19 patients had surgical exploration or resection </plain></SENT>
+<SENT sid="4" pm="."><plain>Patients received a median of 343 MBq (44.4-396 MBq) and 10 mg of (124)I-huA33 </plain></SENT>
+<SENT sid="5" pm="."><plain>Nineteen patients received the antibody intravenously and 6 patients via HAI, and 5 patients also received IVIG </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: Ten of 12 primary <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumors</z:e> were visualized in 11 patients </plain></SENT>
+<SENT sid="7" pm="."><plain>The median concentration in primary <z:e sem="disease" ids="C0009375" disease_type="Neoplastic Process" abbrv="">colon tumors</z:e> was 0.016% injected dose per gram, compared with 0.004% in <z:mpath ids='MPATH_458'>normal</z:mpath> colon </plain></SENT>
+<SENT sid="8" pm="."><plain>The PET-based median ratio of <z:mpath ids='MPATH_352'>hepatic tumor</z:mpath> uptake to <z:mpath ids='MPATH_458'>normal</z:mpath>-liver uptake was 3.9 (range, 1.8-22.2) </plain></SENT>
+<SENT sid="9" pm="."><plain>Quantitation using PET, compared with well counting of serum and tissue, showed little difference </plain></SENT>
+<SENT sid="10" pm="."><plain>Prominent uptake in bowel hindered <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> identification in some patients </plain></SENT>
+<SENT sid="11" pm="."><plain>Pharmacokinetics showed that patients receiving IVIG had a significantly shorter serum half-time (41.6 ± 14.0 h) than those without (65.2 ± 9.8 h) </plain></SENT>
+<SENT sid="12" pm="."><plain>There were no differences in clearance rates among the intravenous group, IVIG group, and HAI group, nor was there any difference in serum area under the curve, maximum serum concentration, or volume of distribution </plain></SENT>
+<SENT sid="13" pm="."><plain>Weak titers of human-antihuman antibodies were observed in 6 of 25 patients </plain></SENT>
+<SENT sid="14" pm="."><plain>No <z:hpo ids='HP_0011009'>acute</z:hpo> side effects or significant toxicities were associated with huA33 </plain></SENT>
+<SENT sid="15" pm="."><plain>CONCLUSION: Good localization of (124)I-huA33 in <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> with no significant toxicity has been observed </plain></SENT>
+<SENT sid="16" pm="."><plain>PET-derived (124)I concentrations agreed well with those obtained by well counting of surgically resected tissue and blood, confirming the quantitative accuracy of (124)I-huA33 PET </plain></SENT>
+<SENT sid="17" pm="."><plain>The HAI route had no advantage over the intravenous route </plain></SENT>
+<SENT sid="18" pm="."><plain>No clinically significant changes in blood clearance were induced by IVIG </plain></SENT>
+</text></document>

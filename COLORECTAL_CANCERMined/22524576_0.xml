@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIM: To examine the relationship between changes in serum carcinoembryonic antigen (CEA) levels and survival during <z:chebi fb="0" ids="31941">oxaliplatin</z:chebi>-based chemotherapy for <z:e sem="disease" ids="C0948380" disease_type="Neoplastic Process" abbrv="">metastatic colorectal cancer</z:e> (mCRC) </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: A retrospective review of 142 patients with mCRC who were treated with <z:chebi fb="0" ids="31941">oxaliplatin</z:chebi>-based chemotherapies (mostly FOLFOX 6 or XELOX) by St Vincent's Hospital, from October 1999 until 30 November 2007 </plain></SENT>
+<SENT sid="2" pm="."><plain>Survival analysis was used to determine median overall survival (OS) from commencement of chemotherapy </plain></SENT>
+<SENT sid="3" pm="."><plain>A CEA response was defined by ≥50% decline compared with baseline, maintained on two consecutive occasions at least 4 weeks apart </plain></SENT>
+<SENT sid="4" pm="."><plain>The Cox proportional hazard model and a landmark analysis at 3 months were used to evaluate survival differences between CEA responders (rCEA) and non-responders (non-rCEA) </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: The median OS was 14.7 months </plain></SENT>
+<SENT sid="6" pm="."><plain>Using an intention-to-treat analysis, 76 (53.5%) patients achieved a CEA response, while 66 (46.5%) did not </plain></SENT>
+<SENT sid="7" pm="."><plain>Using the landmark analysis at 3 months, rCEA had a longer survival than non-rCEA (median 16.0 vs 7.8 months, P &lt; 0.0001) </plain></SENT>
+<SENT sid="8" pm="."><plain>The hazard ratio for patients dying of mCRC in non-rCEA was 2.2 (P &lt; 0.0001) </plain></SENT>
+<SENT sid="9" pm="."><plain>In multivariate analysis, CEA response and better baseline Eastern Cooperative <z:hpo ids='HP_0002664'>Oncology</z:hpo> Group (ECOG) predicted for survival (P &lt; 0.0001 for both), while age, gender and histology grade did not </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSION: The median OS of our patients is similar to published randomized trials </plain></SENT>
+<SENT sid="11" pm="."><plain>A CEA response of ≥50% at 3 months and good ECOG were independent predictors of OS of patients with mCRC treated with <z:chebi fb="0" ids="31941">oxaliplatin</z:chebi>-based chemotherapies </plain></SENT>
+</text></document>

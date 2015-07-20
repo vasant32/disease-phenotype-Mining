@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: To compare the cardiorespiratory effects of IM administration of <z:chebi fb="0" ids="4466">dexmedetomidine</z:chebi>-buprenorphine (DB) and <z:chebi fb="0" ids="4466">dexmedetomidine</z:chebi>-buprenorphine-ketamine (DBK) in dogs with subsequent reversal with atipamezole </plain></SENT>
+<SENT sid="1" pm="."><plain>DESIGN: Prospective, randomized crossover study </plain></SENT>
+<SENT sid="2" pm="."><plain>ANIMALS: 5 healthy dogs </plain></SENT>
+<SENT sid="3" pm="."><plain>PROCEDURES: Dogs were instrumented for cardiac output (CO) measurement and received DB (15 μg of <z:chebi fb="0" ids="4466">dexmedetomidine</z:chebi>/kg [6.8 μg/lb] and 40 μg of buprenorphine/kg [18.2 μg/lb]) or DBK (DB plus 3 mg of ketamine/kg [1.36 mg/lb]) in randomized order while breathing room air </plain></SENT>
+<SENT sid="4" pm="."><plain>Atipamezole (150 μg/kg [68.2 μg/lb], IM) was administered 1 hour later </plain></SENT>
+<SENT sid="5" pm="."><plain>Hemodynamic data were collected in the conscious dogs and then at 5, 10, 15, 20, 30, 45, and 60 minutes after drug administration </plain></SENT>
+<SENT sid="6" pm="."><plain><z:chebi fb="4" ids="24996">Lactate</z:chebi> concentration was measured in mixed venous blood samples </plain></SENT>
+<SENT sid="7" pm="."><plain>Oxygen delivery (Do(2)) and oxygen consumption ([Formula: see text]o(2)) were calculated </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: Heart rate (HR), CO, and Do(2) decreased after DB and DBK administration </plain></SENT>
+<SENT sid="9" pm="."><plain>The [Formula: see text]o(2) did not change in the DB group but decreased in the DBK group </plain></SENT>
+<SENT sid="10" pm="."><plain>The HR was higher in the DBK group than in the DB group throughout the study, but the CO, Do(2), and [Formula: see text]o(2) values were similar for the 2 groups </plain></SENT>
+<SENT sid="11" pm="."><plain>Blood <z:chebi fb="4" ids="24996">lactate</z:chebi> concentrations remained low (&lt; 1 mmol/L) throughout the study </plain></SENT>
+<SENT sid="12" pm="."><plain>Arterial hypoxemia and hypercapnea occurred in both groups </plain></SENT>
+<SENT sid="13" pm="."><plain>Mean arterial blood pressure and pulmonary artery wedge pressure were markedly increased in both groups, but to a greater extent in the DBK group </plain></SENT>
+<SENT sid="14" pm="."><plain>After atipamezole administration, HR, CO, and Do(2) returned to the baseline values </plain></SENT>
+<SENT sid="15" pm="."><plain>CONCLUSIONS AND CLINICAL RELEVANCE: Adding ketamine to the DB combination allowed dogs to maintain a higher HR and delayed the <z:hpo ids='HP_0003674'>onset</z:hpo> of sinus <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> but failed to provide a significantly higher CO because of a reduction in <z:hpo ids='HP_0001297'>stroke</z:hpo> volume </plain></SENT>
+</text></document>

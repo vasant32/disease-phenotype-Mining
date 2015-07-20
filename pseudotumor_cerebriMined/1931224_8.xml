@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Twenty-three patients with benign intracranial <z:hpo ids='HP_0000822'>hypertension</z:hpo> (BIH) were seen at the Royal Alexandra Hospital for Children, Sydney over an 18 year period to 1988 </plain></SENT>
+<SENT sid="1" pm="."><plain>Age at presentation ranged from 6 months to 13 years and 5 months </plain></SENT>
+<SENT sid="2" pm="."><plain>The female to male ratio was 2.3:1 </plain></SENT>
+<SENT sid="3" pm="."><plain>The aetiological factors (sometimes multiple) included: <z:hpo ids='HP_0011010'>chronic</z:hpo> <z:e sem="disease" ids="C0029882" disease_type="Disease or Syndrome" abbrv="">middle ear infection</z:e>, 30%; dural sinus <z:mp ids='MP_0005048'>thrombosis</z:mp>, 22%; head injury, 13%; Vitamin A overdosage, 4%; <z:chebi fb="9" ids="27902">tetracycline</z:chebi> exposure, 4%; and no apparent cause, 43% </plain></SENT>
+<SENT sid="4" pm="."><plain><z:hpo ids='HP_0002315'>Headache</z:hpo> was the most common presenting symptom occurring in 91% of patients, followed by <z:hpo ids='HP_0002013'>vomiting</z:hpo> in 65% and blurred or <z:hpo ids='HP_0000651'>double vision</z:hpo> in 57% </plain></SENT>
+<SENT sid="5" pm="."><plain><z:e sem="disease" ids="C0030353" disease_type="Disease or Syndrome" abbrv="">Papilloedema</z:e> occurred in 96% of patients, <z:hpo ids='HP_0011349'>abducens palsy</z:hpo> was noted in 48% and <z:hpo ids='HP_0000505'>visual impairment</z:hpo> in 45% </plain></SENT>
+<SENT sid="6" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> patients improved clinically after treatment, one with lumbar puncture only </plain></SENT>
+<SENT sid="7" pm="."><plain>Of 17 patients treated with steroids, 10 patients recovered and seven patients went on to lumboperitoneal shunt </plain></SENT>
+<SENT sid="8" pm="."><plain>Two patients recovered with steroid and <z:chebi fb="40" ids="35498">diuretic</z:chebi> treatment </plain></SENT>
+<SENT sid="9" pm="."><plain>Of two patients initially treated with <z:chebi fb="40" ids="35498">diuretics</z:chebi> only, one recovered and one subsequently required a shunt </plain></SENT>
+<SENT sid="10" pm="."><plain>Only one patient was initially treated with a lumboperitoneal shunt </plain></SENT>
+<SENT sid="11" pm="."><plain>Three of the shunted patients had shunt block requiring revision </plain></SENT>
+<SENT sid="12" pm="."><plain>None had permanent <z:hpo ids='HP_0000572'>visual loss</z:hpo> or other significant sequelae </plain></SENT>
+<SENT sid="13" pm="."><plain>The visual prognosis of BIH in childhood is good </plain></SENT>
+<SENT sid="14" pm="."><plain>In view of the relatively high complication rate of steroids and shunting, a controlled comparison of steroid vs <z:chebi fb="0" ids="27690">acetazolamide</z:chebi>/<z:chebi fb="40" ids="35498">diuretic</z:chebi> therapy should be undertaken </plain></SENT>
+</text></document>

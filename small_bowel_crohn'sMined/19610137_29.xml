@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIM: To determine whether magnetic resonance imaging (MRI) can be used to categorize small bowel <z:hpo ids='HP_0100280'>Crohn's disease</z:hpo> (SB CD) into groups that correlate with response to medical therapy and surgical pathology </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: Data was collected from <z:hpo ids='HP_0000001'>all</z:hpo> patients with MRI evidence of SB CD without significant <z:e sem="disease" ids="C0009373" disease_type="Disease or Syndrome" abbrv="">colonic disease</z:e> over a 32-mo period </plain></SENT>
+<SENT sid="2" pm="."><plain>Two radiologists, blinded to clinical findings, evaluated each MRI and grouped them based on bowel wall thickness and wall enhancement </plain></SENT>
+<SENT sid="3" pm="."><plain>These categories were: (1) "<z:mp ids='MP_0003045'>fibrosis</z:mp>", (2) "mild segmental hyper-enhancement and mild wall thickening", (3) "mild segmental hyper-enhancement and marked wall thickening", (4) "marked segmental transmural hyper-enhancement" </plain></SENT>
+<SENT sid="4" pm="."><plain>Patient response to additional medical therapy post-MRI was prospectively determined at 8-wk </plain></SENT>
+<SENT sid="5" pm="."><plain>Non-responders underwent endoscopy and were offered therapeutic endoscopy or surgery </plain></SENT>
+<SENT sid="6" pm="."><plain>Surgical pathology was assessed against the MRI category </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: Fifty-five patients were included </plain></SENT>
+<SENT sid="8" pm="."><plain>Females and category "2" patients were more likely, and patients with <z:chebi fb="2" ids="8069">luminal</z:chebi> narrowing and hold-up less likely, to respond to medical therapy (P &lt; 0.05) </plain></SENT>
+<SENT sid="9" pm="."><plain>Seventeen patients underwent surgery </plain></SENT>
+<SENT sid="10" pm="."><plain>The surgical pathological findings of <z:mp ids='MP_0003045'>fibrosis</z:mp> and the severity of <z:mp ids='MP_0001845'>inflammation</z:mp> correlated with the MRI category in <z:hpo ids='HP_0000001'>all</z:hpo> cases </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSION: Our findings suggest that SB CD can be grouped by the MRI findings and that these groups are associated with patients more likely to respond to continued medical therapy </plain></SENT>
+<SENT sid="12" pm="."><plain>The MRI categories also correlated with the presence and level of <z:mp ids='MP_0001858'>intestinal inflammation</z:mp> and <z:mp ids='MP_0003045'>fibrosis</z:mp> on surgical pathology, and may be of prognostic use in the management of CD patients </plain></SENT>
+</text></document>

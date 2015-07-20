@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> (BE) and associated <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> have emerged as a major health care problem over the last two decades </plain></SENT>
+<SENT sid="1" pm="."><plain>Because of the widespread use of endoscopy, BE is being recognized increasingly in <z:hpo ids='HP_0000001'>all</z:hpo> Western countries </plain></SENT>
+<SENT sid="2" pm="."><plain>In clinical trials of endoscopic optical coherence tomography (<z:chebi fb="0" ids="32399">EOCT</z:chebi>), we defined certain image features that appear to be characteristic of precancerous (dysplastic) mucosa: decreased scattering and disorganization in the microscopic <z:mp ids='MP_0000002'>morphology</z:mp> </plain></SENT>
+<SENT sid="3" pm="."><plain>The objective of the present work is to develop computer-aided diagnosis (CAD) algorithms that aid the detection of <z:mpath ids='MPATH_589'>dysplasia</z:mpath> in BE </plain></SENT>
+<SENT sid="4" pm="."><plain>The image dataset used in the present study was derived from a total of 405 EOCT images (13 patients) that were paired with highly correlated histologic sections of corresponding biopsies </plain></SENT>
+<SENT sid="5" pm="."><plain>Of these, 106 images were included in the study </plain></SENT>
+<SENT sid="6" pm="."><plain>The CAD algorithm used was based on a standard texture analysis method (center-symmetric auto-correlation) </plain></SENT>
+<SENT sid="7" pm="."><plain>Using histology as the reference standard, this CAD algorithm had a sensitivity of 82%, specificity of 74%, and accuracy of 83% </plain></SENT>
+<SENT sid="8" pm="."><plain>CAD has the potential to quantify and standardize the diagnosis of <z:mpath ids='MPATH_589'>dysplasia</z:mpath> and allows high throughput image evaluation for <z:chebi fb="0" ids="32399">EOCT</z:chebi> screening applications </plain></SENT>
+<SENT sid="9" pm="."><plain>With further refinements, CAD could also improve the accuracy of <z:chebi fb="0" ids="32399">EOCT</z:chebi> identification of <z:mpath ids='MPATH_589'>dysplasia</z:mpath> in BE </plain></SENT>
+</text></document>

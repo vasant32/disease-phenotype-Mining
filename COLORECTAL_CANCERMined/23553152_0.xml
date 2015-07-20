@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Accumulating evidence indicates that diet is one of the most important environmental factors involved in the progression from advanced colorectal <z:mpath ids='MPATH_270'>adenoma</z:mpath> (A-CRA) to <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>OBJECTIVE: We evaluated the possible effects of dietary fiber on the fecal microbiota of patients with A-CRA </plain></SENT>
+<SENT sid="2" pm="."><plain>DESIGN: Patients with a diagnosis of A-CRA by pathological examination were enrolled in the A-CRA group </plain></SENT>
+<SENT sid="3" pm="."><plain>Patients with no obvious abnormalities or histopathological changes were enrolled in the healthy control (HC) group </plain></SENT>
+<SENT sid="4" pm="."><plain>Dietary fiber intake was assessed in <z:hpo ids='HP_0000001'>all</z:hpo> patients </plain></SENT>
+<SENT sid="5" pm="."><plain><z:chebi fb="0" ids="26666">Short-chain fatty acids</z:chebi> (SCFAs) in feces were detected by gas chromatography </plain></SENT>
+<SENT sid="6" pm="."><plain>The fecal microbiota community was analyzed by 454 pyrosequencing based on <z:chebi fb="4" ids="26833">16S</z:chebi> <z:chebi fb="0" ids="18111">ribosomal RNA</z:chebi> </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: Lower dietary fiber patterns and consistently lower SCFA production were observed in the A-CRA group (n = 344) </plain></SENT>
+<SENT sid="8" pm="."><plain>Principal component analysis showed distinct differences in the fecal microbiota communities of the 2 groups </plain></SENT>
+<SENT sid="9" pm="."><plain>Clostridium, Roseburia, and Eubacterium spp. were significantly more prevalent in the A-CRA group (n = 47) than in the HC group (n = 47), whereas Enterococcus and Streptococcus spp. were more prevalent in the A-CRA group (n = 47) (<z:hpo ids='HP_0000001'>all</z:hpo> P &lt; 0.05) </plain></SENT>
+<SENT sid="10" pm="."><plain><z:chebi fb="0" ids="17968">Butyrate</z:chebi> and <z:chebi fb="0" ids="17968">butyrate</z:chebi>-producing bacteria were more prevalent in a subgroup of HC subjects with a high fiber intake than in those in both the low-fiber HC subgroup and the high-fiber A-CRA subgroup (<z:hpo ids='HP_0000001'>all</z:hpo> P &lt; 0.05) </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSION: A high-fiber dietary pattern and subsequent consistent production of SCFAs and healthy gut microbiota are associated with a reduced risk of A-CRA </plain></SENT>
+<SENT sid="12" pm="."><plain>This trial was registered at www.chictr.org as ChiCTR-TRC-00000123 </plain></SENT>
+</text></document>

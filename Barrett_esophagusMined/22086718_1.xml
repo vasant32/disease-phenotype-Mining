@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> (BE) is the most serious complication of <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">GERD</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>In BE patients, this observational study compares the effects of antireflux surgery versus antisecretory medical therapy </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: Overall, 89 BE patients (long BE = 45; short BE = 44) were considered: 45 patients underwent antireflux surgery and 44 underwent medical therapy </plain></SENT>
+<SENT sid="3" pm="."><plain>At both initial and follow-up endoscopy, symptoms were assessed using a detailed questionnaire; BE phenotypic changes [<z:mpath ids='MPATH_167'>intestinal metaplasia</z:mpath> (IM) presence/type, Cdx2 expression] were assessed by histology (H&amp;E), histochemistry (HID), and immunohistochemistry </plain></SENT>
+<SENT sid="4" pm="."><plain>Surgical failures were defined as follows: (1) abnormal 24-h pH monitoring results after surgery, (2) endoscopically evident recurrent <z:hpo ids='HP_0100633'>esophagitis</z:hpo>, and (3) recurrent <z:hpo ids='HP_0002036'>hiatal hernia</z:hpo> or slipped fundoplication on endoscopy or <z:chebi fb="8" ids="32594,32595">barium</z:chebi> swallow </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: Reversion of IM was observed in 12/44 SSBE and 0/45 LSBE patients (p &lt; 0.01) </plain></SENT>
+<SENT sid="6" pm="."><plain>Reversion was more frequently observed after effective antireflux surgery than after medical treatment (p = 0.04) </plain></SENT>
+<SENT sid="7" pm="."><plain>In patients with no further evidence of IM after therapy, Cdx2 expression was also absent (p = 0.02) </plain></SENT>
+<SENT sid="8" pm="."><plain>The extent of IM was reduced, and the IM phenotype improved in SSBE patients after surgery </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSIONS: Patients with short BE (but not those with long BE) may benefit from surgically reducing the esophagus' exposure to GE reflux; among these patients, successful surgery carries a higher IM reversion rate than medical treatment </plain></SENT>
+</text></document>

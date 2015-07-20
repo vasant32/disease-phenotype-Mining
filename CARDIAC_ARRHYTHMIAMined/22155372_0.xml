@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIMS: Short-QT syndrome (SQTS) is a recently recognized disorder associated with <z:hpo ids='HP_0005110'>atrial fibrillation</z:hpo> (AF) and <z:hpo ids='HP_0001699'>sudden death</z:hpo> due to <z:hpo ids='HP_0004308'>ventricular arrhythmias</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Mutations in several ion channel genes have been linked to SQTS; however, the mechanism remains unclear </plain></SENT>
+<SENT sid="2" pm="."><plain>This study describes a novel heterozygous gain-of-function mutation in the inward rectifier <z:chebi fb="120" ids="26216">potassium</z:chebi> channel gene, KCNJ2, identified in SQTS </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS AND RESULTS: We studied an 8-year-old girl with a markedly short-QT interval (QT = 172 ms, QTc = 194 ms) who suffered from paroxysmal AF </plain></SENT>
+<SENT sid="4" pm="."><plain>Mutational analysis identified a novel heterozygous KCNJ2 mutation, M301K </plain></SENT>
+<SENT sid="5" pm="."><plain>Functional assays displayed no Kir2.1 currents when M301K channels were expressed alone </plain></SENT>
+<SENT sid="6" pm="."><plain>However, co-expression of <z:mp ids='MP_0002169'>wild-type</z:mp> (WT) with M301K resulted in larger outward currents than the WT at more than -30 mV </plain></SENT>
+<SENT sid="7" pm="."><plain>These results suggest a gain-of-function type modulation due to decreased inward rectification </plain></SENT>
+<SENT sid="8" pm="."><plain>Furthermore, we analysed the functional significance of the amino acid charge at M301 (neutral) by changing the residue </plain></SENT>
+<SENT sid="9" pm="."><plain>As with M301K, in M301R (positive), the homozygous channels were non-functional, whereas the heterozygous channels demonstrated decreased inward rectification </plain></SENT>
+<SENT sid="10" pm="."><plain>Meanwhile, the currents recorded in M301A (neutral) showed <z:mpath ids='MPATH_458'>normal</z:mpath> inward rectification under both homo- and heterozygous conditions </plain></SENT>
+<SENT sid="11" pm="."><plain>Heterozygous overexpression of WT and M301K in neonatal rat ventricular myocytes exhibited markedly shorter action potential durations than the WT alone </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSION: In this study, we identified a novel KCNJ2 gain-of-function mutation, M301K, associated with SQTS </plain></SENT>
+<SENT sid="13" pm="."><plain>Functional assays revealed no functional currents in the homozygous channels, whereas impaired inward rectification demonstrated under the heterozygous condition resulted in larger outward currents, which is a novel mechanism predisposing SQTS </plain></SENT>
+</text></document>

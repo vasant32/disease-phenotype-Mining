@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>MYH7 mutations are found in ~20% of <z:hpo ids='HP_0001639'>hypertrophic cardiomyopathy</z:hpo> (HCM) patients </plain></SENT>
+<SENT sid="1" pm="."><plain>Currently, mutational analysis is based on the sequencing of the coding exons and a few exon-flanking intronic <z:chebi fb="9" ids="36976">nucleotides</z:chebi>, resulting in omission of single-exon deletions and mutations in internal intronic, promoter, and 3' UTR regions </plain></SENT>
+<SENT sid="2" pm="."><plain>We amplified and sequenced large MYH7 fragments in 60 HCM patients without previously identified sarcomere mutations </plain></SENT>
+<SENT sid="3" pm="."><plain>Lack of aberrant PCR fragments excluded single-exon deletions in the patients </plain></SENT>
+<SENT sid="4" pm="."><plain>Instead, we identified several new rare intronic variants </plain></SENT>
+<SENT sid="5" pm="."><plain>An intron 26 single nucleotide insertion (-5 insC) was predicted to affect pre-<z:chebi fb="2" ids="33699">mRNA</z:chebi> splicing, but allele frequencies did not differ between patients and controls (n = 150) </plain></SENT>
+<SENT sid="6" pm="."><plain>We found several rare promoter variants in the patients compared to controls, some of which were in binding sites for transcription factors and could thus affect gene expression </plain></SENT>
+<SENT sid="7" pm="."><plain>Only one rare 3' UTR variant (c.*29T&gt;C) found in the patients was absent among the controls </plain></SENT>
+<SENT sid="8" pm="."><plain>This nucleotide change would not affect the binding of known microRNAs </plain></SENT>
+<SENT sid="9" pm="."><plain>Therefore, MYH7 mutations outside the coding exon sequences would be rarely found among HCM patients </plain></SENT>
+<SENT sid="10" pm="."><plain>However, changes in the promoter region could be linked to the risk of developing HCM </plain></SENT>
+<SENT sid="11" pm="."><plain>Further research to define the functional effect of these variants on gene expression is necessary to confirm the role of the MYH7 promoter in <z:mp ids='MP_0001625'>cardiac hypertrophy</z:mp> </plain></SENT>
+</text></document>

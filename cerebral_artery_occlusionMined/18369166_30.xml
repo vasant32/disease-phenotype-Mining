@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND PURPOSE: <z:chebi fb="0" ids="38559">Cytochrome P450</z:chebi> epoxygenase metabolizes <z:chebi fb="0" ids="15843">arachidonic acid</z:chebi> to epoxyeicosatrienoic acids (EETs) </plain></SENT>
+<SENT sid="1" pm="."><plain>EETs are produced in the brain and perform important biological functions, including vasodilation and neuroprotection </plain></SENT>
+<SENT sid="2" pm="."><plain>However, EETs are rapidly metabolized via soluble <z:chebi fb="0" ids="32955">epoxide</z:chebi> hydrolase (sEH) to dihydroxyeicosatrienoic acids (DHETs) </plain></SENT>
+<SENT sid="3" pm="."><plain>We tested the hypothesis that sEH gene deletion is protective against focal <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> through enhanced collateral blood flow </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS: sEH knockout (sEHKO) mice with and without EETs <z:chebi fb="68" ids="48706">antagonist</z:chebi> 14, 15 epoxyeicosa-5(Z)-enoic acid (EEZE) were subjected to 2-hour middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (MCAO), and <z:mpath ids='MPATH_124'>infarct</z:mpath> size was measured at 24 hours of reperfusion and compared to <z:mp ids='MP_0002169'>wild-type</z:mp> (WT) mice </plain></SENT>
+<SENT sid="5" pm="."><plain>Local CBF rates were measured at the end of MCAO using iodoantipyrine (IAP) autoradiography, sEH protein was analyzed by Western blot and immunohistochemistry, and hydrolase activity and levels of EETs/DHETs were measured in brain and plasma using LC-MS/MS and ELISA, respectively </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: sEH immunoreactivity was detected in WT, but not sEHKO mouse brain, and was localized to vascular and nonvascular cells </plain></SENT>
+<SENT sid="7" pm="."><plain>14,15-DHET was abundantly present in WT, but virtually absent in sEHKO mouse plasma </plain></SENT>
+<SENT sid="8" pm="."><plain>However, hydrolase activity and free 14,15-EET in brain tissue were not different between WT and sEHKO mice </plain></SENT>
+<SENT sid="9" pm="."><plain><z:mpath ids='MPATH_124'>Infarct</z:mpath> size was significantly smaller, whereas regional cerebral blood flow rates were significantly higher in sEHKO compared to WT mice </plain></SENT>
+<SENT sid="10" pm="."><plain><z:mpath ids='MPATH_124'>Infarct</z:mpath> size reduction was recapitulated by 14,15-EET infusion </plain></SENT>
+<SENT sid="11" pm="."><plain>However, 14,15-EEZE did not alter <z:mpath ids='MPATH_124'>infarct</z:mpath> size in sEHKO mice </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: sEH gene deletion is protective against <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> by a vascular mechanism linked to reduced hydration of circulating EETs </plain></SENT>
+</text></document>

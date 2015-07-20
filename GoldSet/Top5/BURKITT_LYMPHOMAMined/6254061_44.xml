@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:chebi fb="4" ids="2453">Acyclovir</z:chebi> [9-(2-hydroxyethoxymethyl)<z:chebi fb="1" ids="16235">guanine</z:chebi>] <z:chebi fb="0" ids="15266,18036">triphosphate</z:chebi> inhibits Epstein-Barr virus (EBV)-associated DNA polymerase (DNA nucleotidyltransferase; EC 2.7.7.7) to a greater extent than it inhibits host alpha and beta DNA polymerases </plain></SENT>
+<SENT sid="1" pm="."><plain>The affinity of the compound for <z:mp ids='MP_0001799'>viral</z:mp> polymerase is 100-fold higher than for alpha-polymerase </plain></SENT>
+<SENT sid="2" pm="."><plain>The extent of inhibition is dependent upon the base composition of the template-primer </plain></SENT>
+<SENT sid="3" pm="."><plain>The inhibition is prevented by increasing concentrations of deoxyguanosine <z:chebi fb="0" ids="15266,18036">triphosphate</z:chebi> </plain></SENT>
+<SENT sid="4" pm="."><plain>The EBV-associated DNA polymerase reaction in the presence of the inhibitor, although depressed, proceeds at a linear rate over a long period of time </plain></SENT>
+<SENT sid="5" pm="."><plain>In contrast, the reaction of Escherichia coli DNA polymerase I in the presence of 2',3'-dideoxythymidine 5'-<z:chebi fb="0" ids="15266,18036">triphosphate</z:chebi>, a DNA chain terminator, levels off after initial linearity </plain></SENT>
+<SENT sid="6" pm="."><plain>Preincubation of <z:chebi fb="4" ids="2453">acyclovir</z:chebi> <z:chebi fb="0" ids="15266,18036">triphosphate</z:chebi> with DNA and enzyme does not increase its inhibitory activity </plain></SENT>
+<SENT sid="7" pm="."><plain>The virus-producing cell line P3HRF-1 consistently shows reduced <z:mp ids='MP_0001799'>viral</z:mp> genome numbers and <z:mp ids='MP_0001799'>viral</z:mp> capsid antigen on prolonged exposure to <z:chebi fb="4" ids="2453">acyclovir</z:chebi> </plain></SENT>
+<SENT sid="8" pm="."><plain>The number of EBV genomes returns to the control level when the cells are grown in drug-free medium </plain></SENT>
+<SENT sid="9" pm="."><plain>The results suggest that a competitive mechanism is the major mode of <z:chebi fb="4" ids="2453">acyclovir</z:chebi> inhibition of EBV replication </plain></SENT>
+</text></document>

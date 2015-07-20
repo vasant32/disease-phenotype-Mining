@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 9-year-old-boy with severe <z:e sem="disease" ids="C0684275" disease_type="Disease or Syndrome" abbrv="">haemophilia</z:e> A (factor VIII &lt; 1%) developed colicky <z:hpo ids='HP_0002027'>abdominal pain</z:hpo> with swelling in the left iliac fossa for 4 weeks </plain></SENT>
+<SENT sid="1" pm="."><plain>His LDH level was 1423 IU/l (<z:mpath ids='MPATH_458'>normal</z:mpath> range &lt; 220 IU/l) and his <z:chebi fb="3" ids="27226">uric acid</z:chebi>, 6.8 mg/dl </plain></SENT>
+<SENT sid="2" pm="."><plain>A computerised tomography (CT) scan of the abdomen demonstrated a <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumour</z:e> of the terminal ileum and mild <z:hpo ids='HP_0001433'>hepatosplenomegaly</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>Pre-operative screening for factor VIII inhibitor was negative </plain></SENT>
+<SENT sid="4" pm="."><plain>Post-operatively, the patient needed high doses of factor VIII to maintain haemostasis </plain></SENT>
+<SENT sid="5" pm="."><plain>The <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumour</z:e> was found to be a high-grade <z:hpo ids='HP_0002665'>lymphoma</z:hpo> of Burkitt's type </plain></SENT>
+<SENT sid="6" pm="."><plain>He recovered from his operation and chemotherapy was commenced </plain></SENT>
+<SENT sid="7" pm="."><plain>Investigations demonstrated an anti-<z:e sem="disease" ids="C0042974" disease_type="Disease or Syndrome" abbrv="">von Willebrand</z:e> factor (VWF) antibody </plain></SENT>
+<SENT sid="8" pm="."><plain>He subsequently relapsed and died of progressive disease </plain></SENT>
+<SENT sid="9" pm="."><plain>Development of anti-VWF antibody in <z:hpo ids='HP_0002665'>lymphoma</z:hpo> is well known, but development of this antibody in a <z:e sem="disease" ids="C0684275" disease_type="Disease or Syndrome" abbrv="">haemophilia</z:e> A patient developing <z:hpo ids='HP_0002665'>lymphoma</z:hpo> has not been reported </plain></SENT>
+<SENT sid="10" pm="."><plain>The present case shows that antibody to VWF should be considered as a possible reason for an increased factor VIII requirement in such patients </plain></SENT>
+</text></document>

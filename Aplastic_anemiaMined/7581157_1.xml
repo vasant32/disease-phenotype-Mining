@@ -1,0 +1,5 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The <z:chebi fb="1" ids="35705">immunosuppressant</z:chebi> <z:chebi fb="0" ids="4031">cyclosporine</z:chebi> induces <z:hpo ids='HP_0011009'>acute</z:hpo> <z:mp ids='MP_0010163'>hemolysis</z:mp> (<z:hpo ids='HP_0005575'>hemolytic uremic syndrome</z:hpo>) in some patients after transplantation, possibly because of its effects on the vascular endothelium </plain></SENT>
+<SENT sid="1" pm="."><plain>We report a case of Coombs-negative, non-immune severe <z:hpo ids='HP_0001878'>hemolytic anemia</z:hpo> during <z:chebi fb="0" ids="4031">cyclosporine</z:chebi> therapy after allogeneic bone marrow transplantation for severe <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain><z:mp ids='MP_0009644'>Uremia</z:mp> was not observed </plain></SENT>
+<SENT sid="3" pm="."><plain>Vitamin E was effective in treating the intravascular <z:mp ids='MP_0010163'>hemolysis</z:mp> </plain></SENT>
+</text></document>

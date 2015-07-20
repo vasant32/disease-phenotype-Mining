@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>It is unclear why patients with <z:mp ids='MP_0001845'>inflammation</z:mp> of the distal bowel complain of symptoms referable to the upper gastrointestinal tract, specifically to gastric emptying (GE) disturbances </plain></SENT>
+<SENT sid="1" pm="."><plain>Thus we aimed to determine occurrence and putative pathomechanisms of gastric <z:e sem="disease" ids="C0221163" disease_type="Disease or Syndrome" abbrv="">motor disorders</z:e> in such patients </plain></SENT>
+<SENT sid="2" pm="."><plain>Thirteen healthy subjects (CON), 13 patients with <z:hpo ids='HP_0100280'>Crohn's disease</z:hpo> (CD), 10 with <z:hpo ids='HP_0100279'>ulcerative colitis</z:hpo> (UC), and 7 with <z:e sem="disease" ids="C0012813" disease_type="Disease or Syndrome" abbrv="">diverticulitis</z:e> (DIV) underwent a standardized (13)C-<z:chebi fb="0" ids="28837">octanoic acid</z:chebi> gastric emptying breath test </plain></SENT>
+<SENT sid="3" pm="."><plain>Plasma <z:chebi fb="105" ids="17234">glucose</z:chebi>, CCK, <z:chebi fb="7" ids="16670">peptide</z:chebi> YY, and glucagon-like <z:chebi fb="7" ids="16670">peptide</z:chebi>-1 (GLP-1) were measured periodically and correlated with GE parameters </plain></SENT>
+<SENT sid="4" pm="."><plain>Results were given in means +/- SD </plain></SENT>
+<SENT sid="5" pm="."><plain>Compared with CON, GE half time (T) was prolonged by 50% in CD (115 +/- 55 vs. 182 +/- 95 min, P = 0.037) </plain></SENT>
+<SENT sid="6" pm="."><plain>Six CD, 2 DIV, and 2 UC patients had pathological T (&gt;200 min) </plain></SENT>
+<SENT sid="7" pm="."><plain>Postprandial plasma <z:chebi fb="105" ids="17234">glucose</z:chebi> was increased in <z:hpo ids='HP_0000001'>all</z:hpo> patients but was highest in DIV and correlated with T (r = 0.90, P = 0.006) </plain></SENT>
+<SENT sid="8" pm="."><plain>In CD, mean postprandial CCK levels were increased threefold compared with CON (6.5 +/- 6.7 vs. 2.1 +/- 0.6 pmol/l, P = 0.027) and were correlated with T (r = 0.60, P = 0.041) </plain></SENT>
+<SENT sid="9" pm="."><plain>Compared with CON, GLP-1 levels were increased in UC (25.1 +/- 5.2 vs. 33.5 +/- 13.0 pmol/l, P = 0.046) but markedly decreased in DIV (9.6 +/- 5.2 pmol/l, P &lt; 0.0001) </plain></SENT>
+<SENT sid="10" pm="."><plain>We concluded that a subset of patients with CD, UC, or DIV has delayed GE </plain></SENT>
+<SENT sid="11" pm="."><plain>GE disturbances are most pronounced in CD and might partly be caused by excessive CCK release </plain></SENT>
+<SENT sid="12" pm="."><plain>In DIV there might be a pathophysiological link between decreased GLP-1 release, <z:hpo ids='HP_0011998'>postprandial hyperglycemia</z:hpo>, and delayed GE </plain></SENT>
+<SENT sid="13" pm="."><plain>These explorative data encourage further studies in larger patient groups </plain></SENT>
+</text></document>

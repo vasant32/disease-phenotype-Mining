@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Previously, we demonstrated that cerebral focal ischemic tissue exhibits a significant increase in immunoreactive endothelin (ET) </plain></SENT>
+<SENT sid="1" pm="."><plain>Because increased ET might exacerbate the consequences of <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo>, we evaluated the effects of the orally active <z:chebi fb="209" ids="16000,53460">ETA</z:chebi>/B receptor <z:chebi fb="68" ids="48706">antagonist</z:chebi> SB 217242 on middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (MCAO) in the spontaneously hypertensive rat (SHR) </plain></SENT>
+<SENT sid="2" pm="."><plain>SHRs were treated b.i.d. with vehicle or with 3 or 15 mg/kg SB 217242 p.o. for 7 days </plain></SENT>
+<SENT sid="3" pm="."><plain>Permanent MCAO was performed on day 7 and animals were sacrificed on day 8 </plain></SENT>
+<SENT sid="4" pm="."><plain>Forebrains were stained and the extent of cerebral (i.e., cortical) infarction was determined using image analysis </plain></SENT>
+<SENT sid="5" pm="."><plain>Hemispheric swelling (%), hemispheric <z:mpath ids='MPATH_124'>infarct</z:mpath> (%), and <z:mpath ids='MPATH_124'>infarct</z:mpath> volume (mm3) were quantitated for each animal </plain></SENT>
+<SENT sid="6" pm="."><plain>SB 217242 treatment produced a significant decrease in ischemic brain injury </plain></SENT>
+<SENT sid="7" pm="."><plain>Hemispheric infarction and <z:mpath ids='MPATH_124'>infarct</z:mpath> volume were reduced after the 15 mg/kg treatment (12.0 +/- 1.1% and 69 +/- 6 mm3) compared to vehicle (17.3 +/- 1.5% and 99 +/- 8 mm3) (p &lt; 0.05) </plain></SENT>
+<SENT sid="8" pm="."><plain>No significant effects on hemispheric swelling were observed </plain></SENT>
+<SENT sid="9" pm="."><plain>This is the first demonstration of an ET receptor <z:chebi fb="68" ids="48706">antagonist</z:chebi> exhibiting efficacy in cerebral focal <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> </plain></SENT>
+<SENT sid="10" pm="."><plain>The fact that a 30% reduction in ischemic brain injury can be demonstrated after oral administration of SB 217242 suggests that ET <z:chebi fb="68" ids="48706">antagonists</z:chebi> may be of therapeutic utility in focal <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+</text></document>

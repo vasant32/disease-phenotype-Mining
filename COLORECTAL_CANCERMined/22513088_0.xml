@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Wnt signaling plays key roles in development and disease </plain></SENT>
+<SENT sid="1" pm="."><plain>The <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> suppressor <z:mpath ids='MPATH_271'>adenomatous polyposis coli</z:mpath> (APC) is an essential negative regulator of Wnt signaling </plain></SENT>
+<SENT sid="2" pm="."><plain>Its best-characterized role is as part of the destruction complex, targeting the Wnt effector β-catenin (βcat) for phosphorylation and ultimate destruction, but several studies suggested APC also may act in the nucleus at promoters of Wnt-responsive genes or to shuttle βcat out for destruction </plain></SENT>
+<SENT sid="3" pm="."><plain>Even in its role in the destruction complex, APC's mechanism of action remains mysterious </plain></SENT>
+<SENT sid="4" pm="."><plain>We have suggested APC positions the destruction complex at the appropriate subcellular location, facilitating βcat destruction </plain></SENT>
+<SENT sid="5" pm="."><plain>In this study, we directly tested APC's proposed roles in the nucleus or in precisely localizing the destruction complex by generating a series of APC2 variants to which we added tags relocalizing otherwise <z:mp ids='MP_0002169'>wild-type</z:mp> APC to different cytoplasmic locations </plain></SENT>
+<SENT sid="6" pm="."><plain>We tested these for function in human <z:hpo ids='HP_0003003'>colon cancer</z:hpo> cells and Drosophila embryos </plain></SENT>
+<SENT sid="7" pm="."><plain>Strikingly, <z:hpo ids='HP_0000001'>all</z:hpo> rescue Wnt regulation and down-regulate Wnt target genes in <z:hpo ids='HP_0003003'>colon cancer</z:hpo> cells, and most restore Wnt regulation in Drosophila embryos null for both fly APCs </plain></SENT>
+<SENT sid="8" pm="."><plain>These data suggest that APC2 does not have to shuttle into the nucleus or localize to a particular subcellular location to regulate Wnt signaling </plain></SENT>
+</text></document>

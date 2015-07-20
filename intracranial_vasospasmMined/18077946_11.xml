@@ -1,0 +1,21 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECT: The goal in this study was to create an index (vasospasm probability index [VPI]) to improve diagnostic accuracy for vasospasm after <z:hpo ids='HP_0002138'>subarachnoid hemorrhage</z:hpo> (SAH) </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: Seven hundred ninety-five patients in whom aneurysmal SAH was demonstrated by computed tomography, and in whom one or more <z:hpo ids='HP_0004944'>intracranial aneurysms</z:hpo> had been diagnosed, underwent transcranial Doppler (TCD) studies between April 1998 and January 2000 </plain></SENT>
+<SENT sid="2" pm="."><plain>In 154 patients angiography was performed within 24 hours of the TCD examination, and in 75 133Xe cerebral blood flow (CBF) studies were obtained the same day </plain></SENT>
+<SENT sid="3" pm="."><plain>Seven cases were excluded because of a limited sonographic window </plain></SENT>
+<SENT sid="4" pm="."><plain>Forty-one women (60.3%) and 27 men (39.7%) between the ages of 35 and 84 years (58.0 +/- 13.2 years [mean +/- standard deviation]) were included </plain></SENT>
+<SENT sid="5" pm="."><plain>Clinical characteristics analyzed included age, sex, Hunt and Hess grade, Fisher grade, days after SAH, day of treatment, type of treatment (coil embolization, surgical clip occlusion, or conservative treatment), smoking history, and <z:hpo ids='HP_0000822'>hypertension</z:hpo> history </plain></SENT>
+<SENT sid="6" pm="."><plain>Lindegaard ratios and spasm indexes (TCD velocities/hemispheric CBF) were calculated bilaterally </plain></SENT>
+<SENT sid="7" pm="."><plain>Digital subtraction angiography images were measured at specific points of interest </plain></SENT>
+<SENT sid="8" pm="."><plain>Sensitivity, specificity, predictive values, and global accuracy of the different tests were calculated </plain></SENT>
+<SENT sid="9" pm="."><plain>Logistic regression was used to evaluate the possible predictive factors, and the coefficients of the logistic regression were integrated to create the VPI </plain></SENT>
+<SENT sid="10" pm="."><plain>RESULTS: In 18 patients (26.5%) symptomatic vasospasm was diagnosed, and 33 (48.5%) had angiographic evidence of vasospasm </plain></SENT>
+<SENT sid="11" pm="."><plain>For TCD velocities above 120 cm/second at the middle cerebral artery, the global accuracy was 81.1% for the diagnosis of clinical vasospasm and 77.2% for angiographic vasospasm </plain></SENT>
+<SENT sid="12" pm="."><plain>For a Lindegaard ratio higher than 3.0, the accuracy was 85% for clinical vasospasm and 83.2% for angiographic vasospasm </plain></SENT>
+<SENT sid="13" pm="."><plain>A spasm index higher than 3.5 had an accuracy of 82.0% for the diagnosis of clinical vasospasm and 81.6% for angiographic vasospasm </plain></SENT>
+<SENT sid="14" pm="."><plain>The selected model for estimation of clinical vasospasm included Fisher grade, Hunt and Hess grade, and spasm index </plain></SENT>
+<SENT sid="15" pm="."><plain>The VPI had a global accuracy of 92.9% for clinical vasospasm detection </plain></SENT>
+<SENT sid="16" pm="."><plain>For diagnosis of angiographic vasospasm, the model included Fisher grade, Hunt and Hess grade, and Lindegaard ratio </plain></SENT>
+<SENT sid="17" pm="."><plain>The VPI achieved a global accuracy of 89.9% for angiographic vasospasm detection </plain></SENT>
+<SENT sid="18" pm="."><plain>CONCLUSIONS: The use of TCD velocities, Lindegaard ratio, and spasm index independently is of limited value for the diagnosis of clinical and angiographic vasospasm </plain></SENT>
+<SENT sid="19" pm="."><plain>The combination of predictive factors associated with the development of vasospasm in the new index reported here has a significantly superior accuracy compared with the independent tests and may become a valuable tool for the clinician to evaluate the individual probability of <z:e sem="disease" ids="C0265110" disease_type="Disease or Syndrome" abbrv="">cerebral vasospasm</z:e> after aneurysmal SAH </plain></SENT>
+</text></document>

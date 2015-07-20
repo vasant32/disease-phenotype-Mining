@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Endoscopic radiofrequency ablation (RFA) is a promising new treatment of <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> (BE) </plain></SENT>
+<SENT sid="1" pm="."><plain>Adjunctive intra-esophageal pH control with <z:chebi fb="0" ids="49200">proton pump inhibitors</z:chebi> and/or anti-reflux surgery is generally recommended to optimize squamous re-epithelialization after ablation </plain></SENT>
+<SENT sid="2" pm="."><plain>AIMS: The aims of this study were to examine the association between intra-esophageal pH control and RFA outcomes and to identify predictive factors to achieve complete elimination (CE) of BE following RFA </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: We retrospectively studied the outcomes of BE patients treated with RFA </plain></SENT>
+<SENT sid="4" pm="."><plain>Esophageal acid exposure (EAE) was assessed utilizing 24-h pH monitoring on therapy </plain></SENT>
+<SENT sid="5" pm="."><plain>CE was endoscopically defined as no area suspicious for residual <z:mpath ids='MPATH_160'>metaplasia</z:mpath> following RFA </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: Of 45 patients (33 men; mean age 61.6, mean BE length C4.1 M4.6) examined for EAE, 29 % exhibited moderate-severe EAE despite therapy </plain></SENT>
+<SENT sid="7" pm="."><plain>Reduction in BE surface area and CE rate were higher in the <z:mpath ids='MPATH_458'>normal</z:mpath>-mild EAE group compared with the moderate-severe EAE group (99 vs. 95 %, p = 0.02; 44 vs. 15 %, p = 0.09, respectively) </plain></SENT>
+<SENT sid="8" pm="."><plain>Using univariate analysis, age, gender, race, aspirin/<z:chebi fb="1" ids="35475">NSAIDs</z:chebi> use, baseline worst histology, baseline BE surface area, and the number or types of RFA had no correlation with CE </plain></SENT>
+<SENT sid="9" pm="."><plain>By multivariate multiple logistic regression analysis, <z:mpath ids='MPATH_458'>normal</z:mpath>-mild EAE and smaller <z:hpo ids='HP_0002036'>hiatal hernia</z:hpo> were independent factors associated with CE </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSIONS: Effective intra-esophageal pH control is associated with improved RFA outcomes of BE </plain></SENT>
+<SENT sid="11" pm="."><plain><z:mpath ids='MPATH_458'>Normal</z:mpath> to mild EAE and smaller <z:hpo ids='HP_0002036'>hiatal hernia</z:hpo> are predictive factors to achieve CE </plain></SENT>
+<SENT sid="12" pm="."><plain>Given the frequent persistence of <z:e sem="disease" ids="C0017168" disease_type="Disease or Syndrome" abbrv="GERD">acid reflux</z:e> despite therapy in BE patients, in order to maximize the RFA effects esophageal pH optimization and <z:hpo ids='HP_0100790'>hernia</z:hpo> repair should be considered </plain></SENT>
+</text></document>

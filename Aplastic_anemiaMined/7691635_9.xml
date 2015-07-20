@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A new culture and quantitation system has been established for growth of megakaryocyte-lineage cells from human progenitor cells </plain></SENT>
+<SENT sid="1" pm="."><plain>CD34+ progenitor cells were enriched from umbilical cord blood using an avidin-<z:chebi fb="1" ids="15956">biotin</z:chebi> immunoadsorption process </plain></SENT>
+<SENT sid="2" pm="."><plain>These cells were preincubated in bulk liquid culture for 3 to 4 days in the presence of the growth factors interleukin-3 (IL-3) and IL-6 </plain></SENT>
+<SENT sid="3" pm="."><plain>The cells were then washed and seeded at 5000 cells/well in 96-well plates that contained a variety of test samples </plain></SENT>
+<SENT sid="4" pm="."><plain>The plates were incubated for 7 days, and the cells were then washed, transferred to ELISA plates, and fixed </plain></SENT>
+<SENT sid="5" pm="."><plain>Megakaryocyte growth was determined by an ELISA for the platelet <z:chebi fb="2" ids="17089">glycoprotein</z:chebi> (GP) IIb/IIIa, an abundant membrane protein found on cells committed to the megakaryocyte lineage </plain></SENT>
+<SENT sid="6" pm="."><plain>The growth factor IL-3 was found to produce a very strong signal in this assay </plain></SENT>
+<SENT sid="7" pm="."><plain>The addition of granulocyte-macrophage colony-stimulating factor (GM-CSF), IL-6, stem cell factor (SCF), or <z:hpo ids='HP_0001909'>leukemia</z:hpo> inhibitory factor (LIF) to low levels of IL-3 also stimulated megakaryocyte growth, as measured by IIb/IIIa expression </plain></SENT>
+<SENT sid="8" pm="."><plain>Plasma from patients with <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> was also stimulatory in this assay, and showed marked synergy with IL-3 </plain></SENT>
+<SENT sid="9" pm="."><plain>This progenitor cell culture system, due to its judicious use of progenitor cells and an automated, 96-well quantitation method, allows for screening large numbers of test samples and multiple combinations and concentrations of growth factors </plain></SENT>
+</text></document>

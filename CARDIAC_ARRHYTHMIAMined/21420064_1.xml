@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Implantable loop recorders have been developed for long-term monitoring of <z:hpo ids='HP_0011675'>cardiac arrhythmia</z:hpo>, but their accuracy for <z:hpo ids='HP_0005110'>atrial fibrillation</z:hpo> (AF) detection is unsatisfactory </plain></SENT>
+<SENT sid="1" pm="."><plain>We sought to develop and evaluate a simple method for detecting AF using RR intervals </plain></SENT>
+<SENT sid="2" pm="."><plain>The new AF detection algorithm is based on a map that plots RR intervals versus change of RR intervals (RdR) </plain></SENT>
+<SENT sid="3" pm="."><plain>The map is divided by a grid with 25-ms resolution in 2 axes and nonempty cells are counted to classify AF and non-AF episodes </plain></SENT>
+<SENT sid="4" pm="."><plain>We evaluated the performance of the method using 4 PhysioNet databases: <z:chebi fb="75" ids="27847,53620">MIT</z:chebi>-BIH AF database, <z:chebi fb="75" ids="27847,53620">MIT</z:chebi>-BIH <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> database, <z:chebi fb="75" ids="27847,53620">MIT</z:chebi>-BIH <z:mpath ids='MPATH_458'>normal</z:mpath> sinus rhythm (NSR) database, and NSR RR interval database (total 145 patients, 1,826 hours NSR, 96 hours AF, and 11 hours other rhythms) </plain></SENT>
+<SENT sid="5" pm="."><plain>Each record is divided into consecutive windows containing 32, 64, or 128 RR intervals </plain></SENT>
+<SENT sid="6" pm="."><plain>AF detection is performed for each window and classification results are compared to annotations </plain></SENT>
+<SENT sid="7" pm="."><plain>A window is labeled true AF if &gt;1/2 of cycles in the window are annotated as AF or non-AF otherwise </plain></SENT>
+<SENT sid="8" pm="."><plain>The RdR map shows signature patterns corresponding to various heart rhythms </plain></SENT>
+<SENT sid="9" pm="."><plain>Optimal nonempty cell cut-off threshold for AF detection was determined by receiver operating characteristic curve analysis, which yields excellent sensitivity and specificity for window sizes 32 (94.4% and 92.6%, respectively), 64 (95.8% and 94.3%), and 128 (95.9% and 95.4%) </plain></SENT>
+<SENT sid="10" pm="."><plain>In conclusion, a single metric derived from the RdR map can achieve robust AF detection within as few as 32 heart beats </plain></SENT>
+</text></document>

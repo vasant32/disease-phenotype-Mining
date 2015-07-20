@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>INTRODUCTION: Previous studies have suggested the importance of <z:hpo ids='HP_0001428'>somatic mutations</z:hpo> and arginine, asparagine and lysine residues in the complementarity determining regions (CDRs) of <z:hpo ids='HP_0003613'>antiphospholipid antibodies</z:hpo> (aPL) implicated in the pathogenesis of the <z:hpo ids='HP_0003613'>antiphospholipid antibody</z:hpo> syndrome </plain></SENT>
+<SENT sid="1" pm="."><plain>The relative contributions of the heavy and light chains of aPL in binding to <z:chebi fb="0" ids="28494">cardiolipin</z:chebi> (CL) were assessed by pairing the heavy and light chains of two IgG, beta(2)GPI dependent aPL (IS4 and CL24) with different partner chains from other IgG, beta(2)GPI independent aPL (UK4) and anti-DNA antibodies (B3 and 33H11) </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: Four heavy (V(H)) and five light (V(L)) chain variable sequences from three aPL and two anti-DNA antibodies were cloned into expression vectors containing appropriate gamma(1), lambda or kappa constant region cDNA </plain></SENT>
+<SENT sid="3" pm="."><plain>Paired combinations of heavy and light chain expression plasmids were transfected into COS-7 cells allowing transient expression of whole IgG molecules, which were harvested and tested for the ability to bind CL and DNA by enzyme-linked immunosorbant assay (ELISA) </plain></SENT>
+<SENT sid="4" pm="."><plain>RESULTS: Whole IgG was produced from 19 heavy/light chain combinations </plain></SENT>
+<SENT sid="5" pm="."><plain>IS4V(H) was dominant in conferring the ability to bind CL with four of the five V(L) tested </plain></SENT>
+<SENT sid="6" pm="."><plain>The identity of the V(L) region paired with IS4V(H) was important in determining the strength of binding to CL </plain></SENT>
+<SENT sid="7" pm="."><plain>IS4V(H) contains multiple <z:chebi fb="0" ids="32700">arginine residues</z:chebi> in CDR3, which may have accumulated due to antigen driven selection </plain></SENT>
+<SENT sid="8" pm="."><plain>It is likely that these <z:chebi fb="0" ids="32700">arginine residues</z:chebi> may interact with CL </plain></SENT>
+<SENT sid="9" pm="."><plain>The combination B3V(H)/B3V(L) also bound CL, but none of the other 14 combinations showed any binding in this assay </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSION: Whole IgG molecules capable of binding CL were produced by in vitro expression in COS-7 cells </plain></SENT>
+<SENT sid="11" pm="."><plain><z:chebi fb="0" ids="32700">Arginine residues</z:chebi> play important roles in binding to CL and <z:chebi fb="0" ids="4705">double-stranded DNA</z:chebi> </plain></SENT>
+<SENT sid="12" pm="."><plain>However, different patterns of mutation to arginine are associated with binding to each of these antigens </plain></SENT>
+</text></document>

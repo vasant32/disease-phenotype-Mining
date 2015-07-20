@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND PURPOSE: Blood flow within the middle cerebral artery can be monitored by transcranial Doppler (TCD) ultrasonography </plain></SENT>
+<SENT sid="1" pm="."><plain><z:hpo ids='HP_0100545'>Arterial stenosis</z:hpo> can produce turbulent flow, but controversy remains regarding the degree of stenosis needed to cause TCD-detectable turbulence </plain></SENT>
+<SENT sid="2" pm="."><plain>Furthermore, <z:e sem="disease" ids="C0007780" disease_type="Disease or Syndrome" abbrv="">cerebral emboli</z:e> and turbulent flow may coexist in the same patient </plain></SENT>
+<SENT sid="3" pm="."><plain>The current study was designed to study the relationship between stenotic degree and TCD-detectable turbulent flow and its differentiation from <z:e sem="disease" ids="C0007780" disease_type="Disease or Syndrome" abbrv="">cerebral emboli</z:e> </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS: A stenotic middle cerebral artery model was constructed to allow the study of different degrees of stenosis </plain></SENT>
+<SENT sid="5" pm="."><plain>TCD was used to detect the turbulent flow and embolic materials in the circulation model, and signal intensities were analyzed </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: Turbulent flow was generated with a series of short, asymmetric stenoses in this test </plain></SENT>
+<SENT sid="7" pm="."><plain>Transition of turbulence from laminar flow began to occur at a moderate degree of stenosis (55% reduction of cross-sectional area) but became dampened at the high degrees of stenoses (&gt;/=75%) </plain></SENT>
+<SENT sid="8" pm="."><plain>Turbulence caused a notable increase in average Doppler signal intensity </plain></SENT>
+<SENT sid="9" pm="."><plain>However, the degree of stenosis was not associated with signal intensity at the region where turbulence existed, but rather was related to the mean flow velocity measured at the narrowed region </plain></SENT>
+<SENT sid="10" pm="."><plain>Embolic materials such as air bubbles (30 micro m) and platelet-rich clots (100 micro m) had notably higher Doppler signal intensity than that produced by turbulence </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSION: TCD-detectable turbulence predominantly developed at a moderate <z:hpo ids='HP_0100545'>arterial stenosis</z:hpo> and its acoustic signature with TCD is different from that caused by air bubbles and platelet-rich clots </plain></SENT>
+</text></document>

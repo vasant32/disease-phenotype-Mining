@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The role of CD4(+) T cells in the pathogenesis of <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> (AA) is not well characterized </plain></SENT>
+<SENT sid="1" pm="."><plain>We investigate CD4(+) T-cell subsets in AA </plain></SENT>
+<SENT sid="2" pm="."><plain>Sixty-three patients with acquired AA were studied </plain></SENT>
+<SENT sid="3" pm="."><plain>Th1 and Th2 cells were significantly higher in AA patients than in healthy donors (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">HDs</z:e>; P = .03 and P = .006) </plain></SENT>
+<SENT sid="4" pm="."><plain>Tregs were significantly lower in patients with severe AA than in <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">HDs</z:e> (P &lt; .001) and patients with non-severe AA (P = .01) </plain></SENT>
+<SENT sid="5" pm="."><plain>Th17 cells were increased in severe AA (P = .02) but <z:mpath ids='MPATH_458'>normal</z:mpath> in non-severe AA </plain></SENT>
+<SENT sid="6" pm="."><plain>Activated and resting Tregs were reduced in AA (P = .004; P = .01), whereas cytokine-secreting non-Tregs were increased (P = .003) </plain></SENT>
+<SENT sid="7" pm="."><plain>Tregs from AA patients were unable to suppress <z:mpath ids='MPATH_458'>normal</z:mpath> effector T cells </plain></SENT>
+<SENT sid="8" pm="."><plain>In contrast, AA effector T cells were suppressible by Tregs from <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">HDs</z:e> </plain></SENT>
+<SENT sid="9" pm="."><plain>Th1 clonality in AA, investigated by high-throughput sequencing, was greater than in <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">HDs</z:e> (P = .03) </plain></SENT>
+<SENT sid="10" pm="."><plain>Our results confirm that Th1 and Th2 cells are expanded and Tregs are functionally abnormal in AA </plain></SENT>
+<SENT sid="11" pm="."><plain>The clonally restricted expansion of Th1 cells is most likely to be antigen-driven, and induces an inflammatory environment, that exacerbate the functional impairment of Tregs, which are reduced in number </plain></SENT>
+</text></document>

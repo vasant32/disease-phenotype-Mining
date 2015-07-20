@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: Immune-mediated destruction of hematopoietic stem and progenitor cells is pathophysiologic in most cases of <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> (AA) </plain></SENT>
+<SENT sid="1" pm="."><plain>We have successfully determined the gene expression profile of the marrow CD34+ target cells in AA </plain></SENT>
+<SENT sid="2" pm="."><plain>T cells producing IFN-gamma and TNF-alpha have been implicated in hematopoietic destruction in AA </plain></SENT>
+<SENT sid="3" pm="."><plain>We sought to characterize T cells as immune mediators using the microarray approach </plain></SENT>
+<SENT sid="4" pm="."><plain>MATERIALS AND METHODS: We applied Affymetrix GeneChip techniques to determine the detailed profile of <z:chebi fb="2" ids="33699">mRNA</z:chebi> expression of CD4+ and CD8+ cells from the BM of newly diagnosed AA patients and healthy volunteers </plain></SENT>
+<SENT sid="5" pm="."><plain>For validation, we confirmed our microarray results using quantitative real-time PCR </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: Compared to healthy controls, there were 178 and 183 differentially expressed genes in patients' CD4+ cells and CD8+ T cells, respectively; activities of 22 selected genes were confirmed using real-time PCR </plain></SENT>
+<SENT sid="7" pm="."><plain>Dysregulated genes included those encoding cytokines/chemokines, and involved in transcription regulation, calcium and ion channel formation, and cell <z:e sem="disease" ids="C0001511" disease_type="Disease or Syndrome;Acquired Abnormality" abbrv="">adhesion</z:e> </plain></SENT>
+<SENT sid="8" pm="."><plain>Unexpected findings were overexpression of toll-like receptor genes in marrow CD4+ cells of patients and of genes for killer-cell immunoglobulin-like receptors (KIR) in AA marrow CD8+ cells </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSIONS: Our detailed results at the <z:chebi fb="2" ids="33699">mRNA</z:chebi> level provide insights into the mechanism of AA </plain></SENT>
+<SENT sid="10" pm="."><plain>Both innate and adaptive immune responses of CD4+ and CD8+ T cells appear to be active in immune-mediated marrow destruction </plain></SENT>
+<SENT sid="11" pm="."><plain>A variety of cytokines and chemokines active in pathophysiologic cells likely play important roles in the recruitment and activation of lymphocytes to cytotoxic effectors for marrow hematopoietic target cells in AA </plain></SENT>
+</text></document>

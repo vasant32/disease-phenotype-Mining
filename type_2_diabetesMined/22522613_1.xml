@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Epidemiological studies indicate that patients with <z:e sem="disease" ids="C0002395" disease_type="Disease or Syndrome" abbrv="SDAT">Alzheimer's disease</z:e> (AD) have an increased risk of developing type 2 <z:hpo ids='HP_0000819'>diabetes mellitus</z:hpo> (T2DM), and experimental studies suggest that AD exacerbates T2DM, but the underlying mechanism is still largely unknown </plain></SENT>
+<SENT sid="1" pm="."><plain>This study aims to investigate whether amyloid-β (Aβ), a key player in AD pathogenesis, contributes to the development of <z:hpo ids='HP_0000855'>insulin resistance</z:hpo>, as well as the underlying mechanism </plain></SENT>
+<SENT sid="2" pm="."><plain>We find that plasma Aβ40/42 levels are increased in patients with <z:hpo ids='HP_0003074'>hyperglycemia</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>APPswe/PSEN1dE9 transgenic AD model mice with increased plasma Aβ40/42 levels show impaired <z:chebi fb="105" ids="17234">glucose</z:chebi> and insulin tolerance and <z:hpo ids='HP_0000842'>hyperinsulinemia</z:hpo> </plain></SENT>
+<SENT sid="4" pm="."><plain>Furthermore, Aβ impairs insulin signaling in mouse liver and cultured hepatocytes </plain></SENT>
+<SENT sid="5" pm="."><plain>Aβ can upregulate suppressors of cytokine signaling (SOCS)-1, a well-known insulin signaling inhibitor </plain></SENT>
+<SENT sid="6" pm="."><plain>Knockdown of SOCS-1 alleviates Aβ-induced impairment of insulin signaling </plain></SENT>
+<SENT sid="7" pm="."><plain>Moreover, JAK2/STAT3 is activated by Aβ, and inhibition of JAK2/STAT3 signaling attenuates Aβ-induced upregulation of SOCS-1 and <z:hpo ids='HP_0000855'>insulin resistance</z:hpo> in hepatocytes </plain></SENT>
+<SENT sid="8" pm="."><plain>Our results demonstrate that Aβ induces hepatic <z:hpo ids='HP_0000855'>insulin resistance</z:hpo> by activating JAK2/STAT3/SOCS-1 signaling pathway and have implications toward resolving <z:hpo ids='HP_0000855'>insulin resistance</z:hpo> and T2DM </plain></SENT>
+</text></document>

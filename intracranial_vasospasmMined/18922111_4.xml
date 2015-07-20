@@ -1,0 +1,6 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Clazosentan (Ro 61-1790, VML-588 or AXV-034) is under study in clinical trials for the treatment of patients with aneurysmal <z:hpo ids='HP_0002138'>subarachnoid hemorrhage</z:hpo> (SAH) by Actelion Pharmaceuticals </plain></SENT>
+<SENT sid="1" pm="."><plain>It is a synthetic endothelin (ET) A receptor <z:chebi fb="68" ids="48706">antagonist</z:chebi> that decreases and reverses <z:e sem="disease" ids="C0265110" disease_type="Disease or Syndrome" abbrv="">cerebral vasospasm</z:e> after experimental SAH </plain></SENT>
+<SENT sid="2" pm="."><plain>Remarkable dose-dependent effects were observed on angiographic vasospasm in the CONSCIOUS-1 human clinical trial, supporting proceeding with a Phase III clinical trial </plain></SENT>
+<SENT sid="3" pm="."><plain>This study (CONSCIOUS-2) will enroll approximately 765 patients randomized 2:1 to clazosentan 5 mg/h intravenously or placebo </plain></SENT>
+<SENT sid="4" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> patients will undergo neurosurgical <z:hpo ids='HP_0002617'>aneurysm</z:hpo> clipping and outcome will be assessed primarily based on mortality and vasospasm-related morbidity </plain></SENT>
+</text></document>

@@ -1,0 +1,6 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A patient with sinus <z:mp ids='MP_0005048'>thrombosis</z:mp> and characteristic magnetic resonance imaging (MRI) findings, who was managed successfully by <z:chebi fb="8" ids="29745">barbiturate</z:chebi> therapy is reported </plain></SENT>
+<SENT sid="1" pm="."><plain>MRI showed massive high intensity lesions on T2-weighted image which indicated venous <z:e sem="disease" ids="C0007785" disease_type="Disease or Syndrome" abbrv="">cerebral infarction</z:e> and <z:hpo ids='HP_0002181'>brain oedema</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>Intravenous infusion of <z:chebi fb="0" ids="102166">thiopental</z:chebi> decreased <z:hpo ids='HP_0002516'>increased intracranial pressure</z:hpo> (ICP) </plain></SENT>
+<SENT sid="3" pm="."><plain>The effectiveness of <z:chebi fb="8" ids="29745">barbiturate</z:chebi> therapy is discussed in terms of the similarity between this case and experimental sinus <z:mp ids='MP_0005048'>thrombosis</z:mp> </plain></SENT>
+<SENT sid="4" pm="."><plain><z:chebi fb="8" ids="29745">Barbiturate</z:chebi> therapy should be considered in cases of severe sinus <z:mp ids='MP_0005048'>thrombosis</z:mp> with elevated ICP </plain></SENT>
+</text></document>

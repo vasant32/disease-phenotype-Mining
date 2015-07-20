@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PROBLEM  Women with <z:hpo ids='HP_0003613'>antiphospholipid antibodies</z:hpo> (aPL) are at risk of <z:e sem="disease" ids="C0000786" disease_type="Disease or Syndrome" abbrv="">miscarriage</z:e> and pre-<z:hpo ids='HP_0100601'>eclampsia</z:hpo>, obstetrical disorders associated with reduced trophoblast invasion and spiral artery transformation </plain></SENT>
+<SENT sid="1" pm="."><plain>aPL target the placenta by binding beta(2) -<z:chebi fb="2" ids="17089">glycoprotein</z:chebi> I (β(2) GPI) on the trophoblast </plain></SENT>
+<SENT sid="2" pm="."><plain>In this study, we determined whether aPL alter the trophoblast secretion of angiogenic factors and evaluated the effect of low molecular weight <z:chebi fb="5" ids="28304">heparin</z:chebi> (LMWH) on this response </plain></SENT>
+<SENT sid="3" pm="."><plain>METHOD OF STUDY  First-trimester trophoblast was treated with anti-β(2) GPI antibodies with or without LMWH </plain></SENT>
+<SENT sid="4" pm="."><plain>Angiogenic factor secretion was measured by enzyme-linked immunosorbent assay </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS  Trophoblast cells produced more vascular endothelial growth factor (VEGF), placenta growth factor (PlGF), and soluble endoglin following exposure to anti-β(2) GPI Abs, and this occurred in both a MyD88-dependent and MyD88-independent manner </plain></SENT>
+<SENT sid="6" pm="."><plain>LMWH was unable to reverse the effects of the anti-β(2) GPI Abs on trophoblast VEGF secretion, but enhanced PlGF </plain></SENT>
+<SENT sid="7" pm="."><plain>Strikingly, LMWH upregulated soluble fms-like tyrosine kinase receptor-1 (sFlt-1) secretion independently of aPL </plain></SENT>
+<SENT sid="8" pm="."><plain>CONCLUSION  This study demonstrates that aPL perturb the secretion of trophoblast angiogenic factors </plain></SENT>
+<SENT sid="9" pm="."><plain>LMWH does not reverse this effect but exacerbates sFlt-1 secretion, a potent anti-angiogenic factor </plain></SENT>
+<SENT sid="10" pm="."><plain>These findings may help to explain why women with <z:e sem="disease" ids="C0085278" disease_type="Disease or Syndrome" abbrv="">antiphospholipid syndrome</z:e>, who are treated with <z:chebi fb="5" ids="28304">heparin</z:chebi> to prevent early pregnancy loss, remain at increased risk of developing late obstetrical complications, such as pre-<z:hpo ids='HP_0100601'>eclampsia</z:hpo> </plain></SENT>
+</text></document>

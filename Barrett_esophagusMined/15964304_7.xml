@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Esophageal <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> often arises from <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain><z:chebi fb="0" ids="52290">Mitogen</z:chebi>-activated protein kinase (MAPK) and phosphatidylinositol 3-kinase (PI3K) play critical roles in cell survival </plain></SENT>
+<SENT sid="2" pm="."><plain>We hypothesized that inhibition of these pathways in Barrett's <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> would decrease cell proliferation and alter <z:mpath ids='MPATH_3'>apoptosis</z:mpath> in vitro </plain></SENT>
+<SENT sid="3" pm="."><plain>MATERIALS AND METHODS: Two Barrett's-associated <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> cell lines, SEG-1 (<z:mp ids='MP_0002169'>wild-type</z:mp> p53) and BIC-1 (mutant p53), were treated with MAPK (U0126) and PI3K (LY294002) inhibitors at 20 microm concentrations </plain></SENT>
+<SENT sid="4" pm="."><plain>After 24 and 72 h, cell viability was measured by <z:chebi fb="0" ids="53233">MTT</z:chebi> assay </plain></SENT>
+<SENT sid="5" pm="."><plain><z:mpath ids='MPATH_3'>Apoptosis</z:mpath> and <z:mp ids='MP_0001651'>necrosis</z:mp> were evaluated by the Annexin V-<z:chebi fb="0" ids="37926">FITC</z:chebi> assay </plain></SENT>
+<SENT sid="6" pm="."><plain>Statistical analysis was performed by ANOVA </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: LY294002 and U0126 treatment produced significant reductions (range 15.7 to 62.0%, P &lt; 0.05) in cellular proliferation at both 24 and 72 h in the SEG-1 cells </plain></SENT>
+<SENT sid="8" pm="."><plain>BIC-1 cell viability was reduced (39.3 to 56.4%, P &lt; 0.05) at 72 h </plain></SENT>
+<SENT sid="9" pm="."><plain>Both early and late apoptotic activity were significantly increased (P &lt; 0.05) in the SEG-1 cells using both inhibitors </plain></SENT>
+<SENT sid="10" pm="."><plain><z:mp ids='MP_0001651'>Necrosis</z:mp> was significantly reduced (P &lt; 0.05) using both inhibitors </plain></SENT>
+<SENT sid="11" pm="."><plain>No changes in either early or late <z:mpath ids='MPATH_3'>apoptosis</z:mpath> or <z:mp ids='MP_0001651'>necrosis</z:mp> were observed in the BIC-1 cells </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: Herein, we report significant antiproliferative effects against Barrett's <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> by MAPK and PI3K inhibition in vitro </plain></SENT>
+<SENT sid="13" pm="."><plain>Pro-apoptotic mechanisms prevail in the <z:mp ids='MP_0002169'>wild-type</z:mp> p53 cells </plain></SENT>
+<SENT sid="14" pm="."><plain>Further investigation is warranted to advance the clinical treatment of this devastating disease </plain></SENT>
+</text></document>

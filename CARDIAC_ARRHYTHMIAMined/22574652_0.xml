@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Cardiovascular toxicity is a leading contributor to <z:e sem="disease" ids="C0152128" disease_type="Disease or Syndrome" abbrv="">drug withdrawal</z:e> and late-stage attrition </plain></SENT>
+<SENT sid="1" pm="."><plain>Earlier and broader screening is a validated approach to build-in cardiovascular safety as demonstrated with human <z:chebi fb="91" ids="25698">Ether</z:chebi>-à-go-go-related gene (hERG) screening to reduce drug-induced <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>There is an urgent need for novel in vitro assays to address other mechanistic aspects of cardiovascular function, including contractility, heart rate, toxicity, <z:mpath ids='MPATH_159'>hypertrophy</z:mpath>, and non-hERG <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>Recent advances in label-free cellular impedance technology now enable tracking of spontaneous, synchronized beating of cultured cardiomyocytes </plain></SENT>
+<SENT sid="4" pm="."><plain>Analysis of beating allows integrated detection that is downstream of electrical and mechanical aspects of contraction </plain></SENT>
+<SENT sid="5" pm="."><plain>Here, we evaluate impedance-based cardiomyocyte responses against criteria required for drug screening </plain></SENT>
+<SENT sid="6" pm="."><plain>The throughput and sensitivity allowed for rapid assay development </plain></SENT>
+<SENT sid="7" pm="."><plain>Critical variables for rat neonatal cardiomyocyte assays included cell density and serum levels </plain></SENT>
+<SENT sid="8" pm="."><plain>Once optimized, consistent, stable beating for at least 3 days was straight-forward to achieve </plain></SENT>
+<SENT sid="9" pm="."><plain>In tests of compounds spanning a breadth of target classes, the potency values showed excellent precision, wide dynamic range, and consistency across multiple experiments </plain></SENT>
+<SENT sid="10" pm="."><plain>Cardiomyocyte impedance assays can extract multiple beat-related parameters </plain></SENT>
+<SENT sid="11" pm="."><plain>In these experiments, rate, amplitude, and rise slope were examined and each yielded acceptable precision </plain></SENT>
+<SENT sid="12" pm="."><plain>Potency values calculated by beat rate and amplitude were highly correlated for most compounds although selected compounds displayed unique profiles indicative of different mechanisms </plain></SENT>
+<SENT sid="13" pm="."><plain>Tests with known cardiovascular active drugs revealed concordance with clinical findings </plain></SENT>
+<SENT sid="14" pm="."><plain>Thus, impedance assays combine novel features including sensitivity to contractile activity, versatile data analysis, and robust/translatable data in a format with sufficient throughput to become a valuable addition to the cardiovascular in vitro screening arsenal </plain></SENT>
+</text></document>

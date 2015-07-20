@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIMS/HYPOTHESIS: <z:hpo ids='HP_0000147'>Polycystic ovary</z:hpo> syndrome (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">PCOS</z:e>) is a risk factor of type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="1" pm="."><plain>Screening for impaired <z:chebi fb="105" ids="17234">glucose</z:chebi> metabolism (IGM) with an OGTT has been recommended, but this is relatively time-consuming and inconvenient </plain></SENT>
+<SENT sid="2" pm="."><plain>Thus, a strategy that could minimise the need for an OGTT would be beneficial </plain></SENT>
+<SENT sid="3" pm="."><plain>MATERIALS AND METHODS: Consecutive <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">PCOS</z:e> patients (n=118) with fasting <z:chebi fb="105" ids="17234">glucose</z:chebi> &lt;6.1 mmol/l were included in the study </plain></SENT>
+<SENT sid="4" pm="."><plain>Parameters derived from medical history, clinical examination and fasting blood samples were assessed by decision tree modelling for their ability to discriminate women with IGM (2-h OGTT value &gt;/=7.8 mmol/l) from those with NGT </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: According to the OGTT results, 93 PCOS women had NGT and 25 had IGM </plain></SENT>
+<SENT sid="6" pm="."><plain>The best decision tree consisted of HOMA-IR, the proinsulin:insulin ratio, proinsulin, 17-OH <z:chebi fb="28" ids="17026">progesterone</z:chebi> and the ratio of luteinising hormone:follicle-stimulating hormone </plain></SENT>
+<SENT sid="7" pm="."><plain>This tree identified 69 women with NGT </plain></SENT>
+<SENT sid="8" pm="."><plain>The remaining 49 women included <z:hpo ids='HP_0000001'>all</z:hpo> women with IGM (100% sensitivity, 74% specificity to detect IGM) </plain></SENT>
+<SENT sid="9" pm="."><plain>Pruning this tree to three levels still identified 53 women with NGT (100% sensitivity, 57% specificity to detect IGM) </plain></SENT>
+<SENT sid="10" pm="."><plain>Restricting the data matrix used for tree modelling to medical history and clinical parameters produced a tree using BMI, waist circumference and WHR </plain></SENT>
+<SENT sid="11" pm="."><plain>Pruning this tree to two levels separated 27 women with NGT (100% sensitivity, 29% specificity to detect IGM) </plain></SENT>
+<SENT sid="12" pm="."><plain>The validity of both trees was tested by a leave-10%-out cross-validation </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSIONS/INTERPRETATION: Decision trees are useful tools for separating <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">PCOS</z:e> women with NGT from those with IGM </plain></SENT>
+<SENT sid="14" pm="."><plain>They can be used for stratifying the metabolic screening of <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">PCOS</z:e> women, whereby the number of OGTTs can be markedly reduced </plain></SENT>
+</text></document>

@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: <z:chebi fb="0" ids="31348">Capecitabine</z:chebi> administered for 7 days biweekly with <z:chebi fb="0" ids="31941">oxaliplatin</z:chebi> (XELOX) biweekly has been reported to have activity and safety profiles similar to those of standard <z:chebi fb="0" ids="31348">capecitabine</z:chebi> given for 14 days triweekly </plain></SENT>
+<SENT sid="1" pm="."><plain>Multiple studies have shown that the addition of bevacizumab to <z:chebi fb="0" ids="46345">5-fluorouracil</z:chebi>-based chemotherapy is active and well tolerated </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: Patients with <z:e sem="disease" ids="C0948380" disease_type="Neoplastic Process" abbrv="">metastatic colorectal cancer</z:e> (mCRC) were randomized to XELOX plus bevacizumab using a standard triweekly cycle (Q3W) or a dose-dense biweekly cycle (Q2W) schedule </plain></SENT>
+<SENT sid="3" pm="."><plain>The primary endpoint was the progression-free survival (PFS) interval </plain></SENT>
+<SENT sid="4" pm="."><plain>This trial is registered on ClinicalTrials.gov (identifier, NCT00159432) </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: In total, 435 U.S. patients were randomized </plain></SENT>
+<SENT sid="6" pm="."><plain>The median PFS intervals were 9.6 months in the Q3W group and 9.1 months in the Q2W group </plain></SENT>
+<SENT sid="7" pm="."><plain>The median overall survival times were 28.4 months and 22.1 months and the median times to treatment failure were 5.5 months and 3.4 months, respectively </plain></SENT>
+<SENT sid="8" pm="."><plain>Overall, <z:e sem="disease" ids="C0017178" disease_type="Disease or Syndrome" abbrv="">gastrointestinal disorders</z:e> were the most common (93%) adverse event (AE) </plain></SENT>
+<SENT sid="9" pm="."><plain>Grade 3 or 4 AEs occurred in 75% and 81% of patients in the Q3W and Q2W groups, respectively </plain></SENT>
+<SENT sid="10" pm="."><plain>Treatment discontinuation as a result of <z:hpo ids='HP_0002014'>diarrhea</z:hpo> (5% versus 10%) and <z:e sem="disease" ids="C0549410" disease_type="Disease or Syndrome" abbrv="">hand-foot syndrome</z:e> (2% versus 9%) was less common in the Q3W group than in the Q2W group, respectively </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: Based on these results, the first-line treatment of U.S. patients with mCRC using a biweekly combination of XELOX and bevacizumab at the doses studied cannot be recommended </plain></SENT>
+<SENT sid="12" pm="."><plain>XELOX Q3W remains the preferred schedule for the management of mCRC </plain></SENT>
+</text></document>

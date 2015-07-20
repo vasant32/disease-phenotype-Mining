@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: <z:chebi fb="0" ids="49960">Vandetanib</z:chebi> is a <z:chebi fb="0" ids="38637">tyrosine kinase inhibitor</z:chebi> of both the vascular endothelial growth factor (VEGFR) and epidermal growth factor (EGFR) receptors </plain></SENT>
+<SENT sid="1" pm="."><plain>The primary objectives of this study were to determine the maximum tolerated dose of <z:chebi fb="0" ids="49960">vandetanib</z:chebi> with <z:chebi fb="0" ids="31348">capecitabine</z:chebi> and <z:chebi fb="0" ids="31941">oxaliplatin</z:chebi>, without and with bevacizumab, for the first line treatment of <z:e sem="disease" ids="C0948380" disease_type="Neoplastic Process" abbrv="">metastatic colorectal cancer</z:e> (mCRC), and to define the dose limiting toxicities </plain></SENT>
+<SENT sid="2" pm="."><plain>MATERIALS AND METHODS: Three cohorts of patients were studied, with <z:chebi fb="0" ids="31348">capecitabine</z:chebi> at 1,000 mg/m(2) twice daily p.o. on days 1-14 of a 3 week cycle, with <z:chebi fb="0" ids="31941">oxaliplatin</z:chebi> i.v. at 130 mg/m(2) on day 1 </plain></SENT>
+<SENT sid="3" pm="."><plain><z:chebi fb="0" ids="49960">Vandetanib</z:chebi> dosing was 100 mg/day in cohort 1 and 300 mg/day in cohorts 2 and 3 </plain></SENT>
+<SENT sid="4" pm="."><plain>Bevacizumab was added in cohort 3 at 7.5 mg/kg i.v. on day 1 every 3 weeks </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: Thirteen patients were enrolled and received from one to eight cycles per patient </plain></SENT>
+<SENT sid="6" pm="."><plain>Grade 4 <z:hpo ids='HP_0000964'>dermatitis</z:hpo> developed in one patient in the first cohort, and the cohort was expanded to six patients with no further dose limiting toxicities (DLT) </plain></SENT>
+<SENT sid="7" pm="."><plain>The second cohort of 3 patients was well tolerated </plain></SENT>
+<SENT sid="8" pm="."><plain>The third cohort resulted in grade 3 <z:hpo ids='HP_0002014'>diarrhea</z:hpo>, requiring several days of hospitalization and i.v. hydration, in 3 of the 4 patients </plain></SENT>
+<SENT sid="9" pm="."><plain>Given the severity and duration of <z:hpo ids='HP_0002014'>diarrhea</z:hpo>, each of these was considered a DLT, and therefore cohort 3 was considered to be above the maximum tolerated dose </plain></SENT>
+<SENT sid="10" pm="."><plain>Six of the 13 patients achieved a partial or complete remission (46%) </plain></SENT>
+<SENT sid="11" pm="."><plain>The time to progression ranged from 2 to 14 months </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: <z:chebi fb="0" ids="49960">Vandetanib</z:chebi> at doses of 100 mg and 300 mg daily in combination with <z:chebi fb="0" ids="31348">capecitabine</z:chebi> and <z:chebi fb="0" ids="31941">oxaliplatin</z:chebi> was well tolerated </plain></SENT>
+<SENT sid="13" pm="."><plain>However, the addition of bevacizumab resulted in severe <z:hpo ids='HP_0002014'>diarrhea</z:hpo> in three out of four patients </plain></SENT>
+<SENT sid="14" pm="."><plain>Bevacizumab was not well tolerated with <z:chebi fb="0" ids="49960">vandetanib</z:chebi> and XELOX in combination </plain></SENT>
+</text></document>

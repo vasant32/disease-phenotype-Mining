@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Here, we report a high-efficiency single-cell entrapment system with a <z:chebi fb="0" ids="31498">poly(dimethylsiloxane)</z:chebi> (<z:chebi fb="4" ids="31498">PDMS</z:chebi>) microfluidic device integrated with a micromesh, and its application to single-cell fluorescence in situ hybridization (FISH) analysis </plain></SENT>
+<SENT sid="1" pm="."><plain>A micromesh comprising of 10 x 10 microcavities was fabricated on a black <z:chebi fb="0" ids="53259">poly(ethylene terephthalate)</z:chebi> (PET) substrate by laser ablation </plain></SENT>
+<SENT sid="2" pm="."><plain>The cavity was approximately 2 microm in diameter </plain></SENT>
+<SENT sid="3" pm="."><plain>Mammalian cells were driven and trapped onto the microcavities by applying negative pressure </plain></SENT>
+<SENT sid="4" pm="."><plain>Trapped cells were uniformly arrayed on the micromesh, enabling high-throughput microscopic analysis </plain></SENT>
+<SENT sid="5" pm="."><plain>Furthermore, we developed a method of <z:chebi fb="4" ids="31498">PDMS</z:chebi> surface modification by using air plasma and the <z:chebi fb="5" ids="53310">copolymer</z:chebi> <z:chebi fb="0" ids="53514">Pluronic</z:chebi> F-127 to prevent nonspecific adsorption on the <z:chebi fb="4" ids="31498">PDMS</z:chebi> microchannel </plain></SENT>
+<SENT sid="6" pm="."><plain>This method decreased the nonspecific adsorption of cells onto the microchannel to less than 1% </plain></SENT>
+<SENT sid="7" pm="."><plain>When cells were introduced into the microfluidic device integrated with the black PET micromesh, approximately 70-80% of the introduced cells were successfully trapped </plain></SENT>
+<SENT sid="8" pm="."><plain>Moreover, for <z:chebi fb="2" ids="33699">mRNA</z:chebi> expression analysis, on-chip fluorescence in situ hybridization (e.g., membrane permeabilization, hybridization, washing) can be performed in a microfluidic assay on an integrated device </plain></SENT>
+<SENT sid="9" pm="."><plain>This microfluidic device has been employed for the detection of beta-actin <z:chebi fb="2" ids="33699">mRNA</z:chebi> expression in individual Raji cells </plain></SENT>
+<SENT sid="10" pm="."><plain>Differences in the levels of beta-actin <z:chebi fb="2" ids="33699">mRNA</z:chebi> expression were observed in serum-supplied or serum-starved cell populations </plain></SENT>
+</text></document>

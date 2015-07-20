@@ -1,0 +1,18 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Cucurbitacin-I (JSI-124) is potent inhibitor of JAK/STAT3 signaling pathway and has anti-<z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> activity in a variety of <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> including B cell <z:hpo ids='HP_0001909'>leukemia</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>However, other molecular targets of JSI-124 beyond the JAK/STAT3 pathway are not fully understood </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: BJAB, I-83, NALM-6 and primary CLL cells were treated with JSI-124 as indicated </plain></SENT>
+<SENT sid="3" pm="."><plain><z:mpath ids='MPATH_3'>Apoptosis</z:mpath> was measured using flow cytometry for accumulation of sub-G1 phase cells (indicator of <z:mpath ids='MPATH_3'>apoptosis</z:mpath>) and Annexin V/PI staining </plain></SENT>
+<SENT sid="4" pm="."><plain>Cell cycle was analyzed by FACS for DNA content of G1 and G2 phases </plain></SENT>
+<SENT sid="5" pm="."><plain>Changes in phosphorylation and protein expression of p38, Erk1/2, JNK, c-Jun, and XIAP were detected by Western blot analysis </plain></SENT>
+<SENT sid="6" pm="."><plain>STAT3 and c-Jun genes were knocked out using siRNA transfection </plain></SENT>
+<SENT sid="7" pm="."><plain>VEGF expression was determined by <z:chebi fb="2" ids="33699">mRNA</z:chebi> and protein levels by RT-PCR and western blotting </plain></SENT>
+<SENT sid="8" pm="."><plain>Streptavidin Pull-Down Assay was used to determine c-Jun binding to the AP-1 DNA binding site </plain></SENT>
+<SENT sid="9" pm="."><plain>RESULTS: Herein, we show that JSI-124 activates c-Jun N-terminal kinase (JNK) and increases both the expression and serine phosphorylation of c-Jun protein in the B leukemic cell lines BJAB, I-83 and NALM-6 </plain></SENT>
+<SENT sid="10" pm="."><plain>JSI-124 also activated MAPK p38 and MAPK Erk1/2 albeit at lower levels than JNK activation </plain></SENT>
+<SENT sid="11" pm="."><plain>Inhibition of the JNK signaling pathway failed to effect cell cycle arrest or <z:mpath ids='MPATH_3'>apoptosis</z:mpath> induced by JSI-124 but repressed JSI-124 induced c-Jun expression in these <z:hpo ids='HP_0001909'>leukemia</z:hpo> cells </plain></SENT>
+<SENT sid="12" pm="."><plain>The JNK pathway activation c-Jun leads to transcriptional activation of many genes </plain></SENT>
+<SENT sid="13" pm="."><plain>Treatment of BJAB, I-83, and NALM-6 cells with JSI-124 lead to an increase of Vascular Endothelial Growth Factor (VEGF) at both the <z:chebi fb="2" ids="33699">mRNA</z:chebi> and protein level </plain></SENT>
+<SENT sid="14" pm="."><plain>Knockdown of c-Jun expression and inhibition of JNK activation significantly blocked JSI-124 induced VEGF expression </plain></SENT>
+<SENT sid="15" pm="."><plain>Pretreatment with recombinant VEGF reduced JSI-124 induced <z:mpath ids='MPATH_3'>apoptosis</z:mpath> </plain></SENT>
+<SENT sid="16" pm="."><plain>CONCLUSIONS: Taken together, our data demonstrates that JSI-124 activates the JNK signaling pathway independent of <z:mpath ids='MPATH_3'>apoptosis</z:mpath> and cell cycle arrest, leading to increased VEGF expression </plain></SENT>
+</text></document>

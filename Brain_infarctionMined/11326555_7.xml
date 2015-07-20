@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Diffusion-weighted imaging (DWI) is very sensitive to early brain <z:mpath ids='MPATH_124'>infarcts</z:mpath> </plain></SENT>
+<SENT sid="1" pm="."><plain>However, the late stages have been insufficiently studied </plain></SENT>
+<SENT sid="2" pm="."><plain><z:mpath ids='MPATH_124'>Infarcts</z:mpath> in small vessel disease are often multiple and of different ages, and differentiation between new and old lesions might be difficult </plain></SENT>
+<SENT sid="3" pm="."><plain>We have therefore studied the change with time in DWI of small (&lt; 3 ml) ischaemic lesions </plain></SENT>
+<SENT sid="4" pm="."><plain>We imaged 21 patients with an <z:hpo ids='HP_0011009'>acute</z:hpo> lacunar syndrome and a lesion visible on early DWI </plain></SENT>
+<SENT sid="5" pm="."><plain>They <z:hpo ids='HP_0000001'>all</z:hpo> had three MRI examinations 12-58 h (early), 7-16 and 54-144 days after the <z:hpo ids='HP_0003674'>onset</z:hpo> of <z:hpo ids='HP_0001297'>stroke</z:hpo>; 10 patients with high DWI signal on the third examination had a fourth examination 12-28 months after the <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+<SENT sid="6" pm="."><plain>MRI was performed at 1.5 T, using echo-planar DWI with 7 b-values from 0 to 1200 x 10(6) s/m2 and conventional T2-weighted imaging </plain></SENT>
+<SENT sid="7" pm="."><plain>After 7-16 days 18 of 21 lesions gave high signal on DWI, and 12/16 measurable lesions had a decreased apparent diffusion coefficient (<z:chebi fb="49" ids="35181">ADC</z:chebi>) </plain></SENT>
+<SENT sid="8" pm="."><plain>After 54-144 days ten lesions still gave high DWI signal and two still had an <z:chebi fb="49" ids="35181">ADC</z:chebi> below <z:mpath ids='MPATH_458'>normal</z:mpath> </plain></SENT>
+<SENT sid="9" pm="."><plain>On the fourth examination there was no remaining high DWI signal and <z:hpo ids='HP_0000001'>all</z:hpo> <z:chebi fb="49" ids="35181">ADC</z:chebi> were higher than <z:mpath ids='MPATH_458'>normal</z:mpath> </plain></SENT>
+</text></document>

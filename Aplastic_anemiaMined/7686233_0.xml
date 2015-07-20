@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We have studied the production of human granulocyte colony-stimulating factor (hG-CSF) </plain></SENT>
+<SENT sid="1" pm="."><plain>Enzyme immunoassay showed that hG-CSF was produced by primary bone marrow stromal cells, peripheral blood monocytes, fibroblasts, and endothelial cells in vitro </plain></SENT>
+<SENT sid="2" pm="."><plain>These cells produced variable levels of hG-CSF depending on the type of inducers </plain></SENT>
+<SENT sid="3" pm="."><plain>Interestingly, in situ hybridization showed that only a small proportion of bone marrow stromal cells and blood monocytes expressed a large amount of hG-CSF <z:chebi fb="2" ids="33699">mRNA</z:chebi> </plain></SENT>
+<SENT sid="4" pm="."><plain>Secondly, we have estimated serum hG-CSF level and clearance of exogenous hG-CSF in patients with various <z:e sem="disease" ids="C0947743,C0018939" disease_type="Disease or Syndrome" abbrv="">hematological disorders</z:e> </plain></SENT>
+<SENT sid="5" pm="."><plain>Endogenous hG-CSF was undetectable (&lt; 30 pg/ml) in sera of <z:mpath ids='MPATH_458'>normal</z:mpath> volunteers </plain></SENT>
+<SENT sid="6" pm="."><plain>On the other hand, the serum hG-CSF level was elevated in <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infection</z:e>, <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">malignancy</z:e>, and <z:hpo ids='HP_0001875'>neutropenia</z:hpo>, suggesting the presence of reactive, ectopic, and unknown mechanisms for hG-CSF production, respectively </plain></SENT>
+<SENT sid="7" pm="."><plain>The half-life of recombinant hG-CSF was prolonged in disorders with reduced myeloid cell mass, especially in <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo>, whereas it was shortened in myeloid <z:hpo ids='HP_0001909'>leukemia</z:hpo>, and in recovery phase after chemotherapy </plain></SENT>
+<SENT sid="8" pm="."><plain>This finding suggests the possibility of receptor-mediated consumption of hG-CSF in vivo </plain></SENT>
+<SENT sid="9" pm="."><plain>These in vitro and in vivo studies on hG-CSF would be of value for understanding the pathophysiological roles of hG-CSF </plain></SENT>
+</text></document>

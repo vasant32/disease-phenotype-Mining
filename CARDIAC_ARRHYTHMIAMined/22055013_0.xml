@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: <z:e sem="disease" ids="C0236663" disease_type="Disease or Syndrome" abbrv="">Alcohol withdrawal syndrome</z:e> is associated with an increased incidence of <z:hpo ids='HP_0011675'>cardiac arrhythmias</z:hpo> and <z:hpo ids='HP_0001645'>sudden cardiac death</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Heart rate turbulence (HRT) parameters were applied during withdrawal to estimate cardiac regulation during treatment with clomethiazole </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: Twenty-two patients suffering from <z:e sem="disease" ids="C0236663" disease_type="Disease or Syndrome" abbrv="">alcohol withdrawal syndrome</z:e> were included in the study </plain></SENT>
+<SENT sid="3" pm="."><plain>Heart rate regulation was obtained by means of Holter ECG analyzing time intervals before medication, and 2 and 6h after medication </plain></SENT>
+<SENT sid="4" pm="."><plain>Slope and <z:hpo ids='HP_0003674'>onset</z:hpo> of HRT were calculated in addition to heart rate variability (HRV) parameters </plain></SENT>
+<SENT sid="5" pm="."><plain>Furthermore, we calculated the slope and the <z:hpo ids='HP_0003674'>onset</z:hpo> of ectopic beat-like events </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: Heart rate variability parameters indicated a minor reduction of vagal modulation during <z:e sem="disease" ids="C0038587" disease_type="Mental or Behavioral Dysfunction" abbrv="">withdrawal syndrome</z:e> </plain></SENT>
+<SENT sid="7" pm="."><plain>Especially, the fractal scaling exponent BBI alpha1 (4-16) indicated the autonomic shift </plain></SENT>
+<SENT sid="8" pm="."><plain>In contrast to HRV parameters, no significant changes were observed in the HRT parameters </plain></SENT>
+<SENT sid="9" pm="."><plain>Significant correlations were observed between severity of withdrawal, as assessed by the AWS scale, and the fractal scaling exponent BBI alpha2 (16-64), and the <z:hpo ids='HP_0003674'>onset</z:hpo> and the slope of HRT of ectopic beat-like activity </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSION: Increased sympathetic modulation during withdrawal and clomethiazole treatment is not associated with changes of heart rate turbulence parameters predictive of cardiac <z:hpo ids='HP_0011420'>death</z:hpo> after <z:hpo ids='HP_0001658'>myocardial infarction</z:hpo> </plain></SENT>
+</text></document>

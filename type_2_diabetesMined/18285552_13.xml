@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: Researchers have only just begun to investigate physician-related effects on medical outcomes </plain></SENT>
+<SENT sid="1" pm="."><plain>Such research is necessary for developing empirically informed practice guidelines and policy </plain></SENT>
+<SENT sid="2" pm="."><plain>The primary goal of this study was to investigate whether <z:chebi fb="105" ids="17234">glucose</z:chebi> management in type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> varies by randomly assigned physicians over the course of a year in treatment </plain></SENT>
+<SENT sid="3" pm="."><plain>A second goal of the study was to investigate whether physician-related effects vary across differential patient characteristics </plain></SENT>
+<SENT sid="4" pm="."><plain>A tertiary goal was to investigate potential patient-level effects on <z:chebi fb="105" ids="17234">glucose</z:chebi> management </plain></SENT>
+<SENT sid="5" pm="."><plain>RESEARCH DESIGN AND METHODS: Hierarchical linear models were used to investigate A1C among 1,381 patients, nested within 42 randomly assigned primary care physicians at a Veterans Affairs medical center in the southeastern U.S </plain></SENT>
+<SENT sid="6" pm="."><plain>The primary outcome measure was change in A1C over the course of 1 year in treatment </plain></SENT>
+<SENT sid="7" pm="."><plain>On average, each study physician had 33 patients with <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: Overall, physician-related factors were associated with statistically significant but modest variability in A1C change (2%), whereas patient-level factors accounted for the majority of variation in A1C change (98%) </plain></SENT>
+<SENT sid="9" pm="."><plain>Physician effects varied by patient characteristics, mattering more for black patients, patients aged 65 years, and patients whose <z:chebi fb="105" ids="17234">glucose</z:chebi> management improved over the treatment year </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSIONS: The results of this study indicate that differential physician effects have minimal impact on glycemic control </plain></SENT>
+<SENT sid="11" pm="."><plain>Results suggest that it is logical to support policies encouraging the development of patient-level behavioral interventions because that is the level that accounts for the majority of variance in glycemic control </plain></SENT>
+</text></document>

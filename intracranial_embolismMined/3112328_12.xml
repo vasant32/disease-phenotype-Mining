@@ -1,0 +1,18 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Systemic fibrinolytic therapy for <z:hpo ids='HP_0011009'>acute</z:hpo> <z:hpo ids='HP_0001297'>stroke</z:hpo> is no longer recommended because of resulting systemic fibrinolysis and the risk of <z:hpo ids='HP_0001342'>intracerebral hemorrhage</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Human tissue-type plasminogen activator (<z:chebi fb="6" ids="15702,53394">TPA</z:chebi>) is a native enzyme that converts plasminogen to plasmin with subsequent clot lysis </plain></SENT>
+<SENT sid="2" pm="."><plain>The affinity for plasminogen is increased several-fold when the substrate is bound to fibrin </plain></SENT>
+<SENT sid="3" pm="."><plain>At appropriate dosage, "clot-specific" thrombolysis may be achieved at the surface of the <z:e sem="disease" ids="C0302148,C0087086" disease_type="Disease or Syndrome;Acquired Abnormality" abbrv="">thrombus</z:e> without creating systemic fibrinolysis </plain></SENT>
+<SENT sid="4" pm="."><plain>The authors designed a study to evaluate the effect of intravenous <z:chebi fb="6" ids="15702,53394">TPA</z:chebi> administered 2 hours after <z:hpo ids='HP_0011009'>acute</z:hpo> <z:hpo ids='HP_0001727'>thromboembolic stroke</z:hpo> in rats </plain></SENT>
+<SENT sid="5" pm="."><plain>This time course was chosen to simulate an analogous clinical situation </plain></SENT>
+<SENT sid="6" pm="."><plain>Middle cerebral artery embolic <z:hpo ids='HP_0001297'>stroke</z:hpo> was caused by intracarotid injection of 0.025 cc of human blood clot in 16 rats </plain></SENT>
+<SENT sid="7" pm="."><plain>Regional cerebral blood flow, measured by the hydrogen clearance technique, and electroencephalographic (EEG) recordings were obtained every 30 minutes for 5 hours after <z:hpo ids='HP_0001907'>thromboembolism</z:hpo> </plain></SENT>
+<SENT sid="8" pm="."><plain>Eight rats received a 1-hour infusion of intravenous <z:chebi fb="6" ids="15702,53394">TPA</z:chebi> (1.5 mg/kg) 2 hours after injection of emboli </plain></SENT>
+<SENT sid="9" pm="."><plain>Ipsilateral blood flow increased significantly within 30 minutes after intravenous <z:chebi fb="6" ids="15702,53394">TPA</z:chebi> and reached preembolic levels within 60 minutes </plain></SENT>
+<SENT sid="10" pm="."><plain>Blood flow did not improve in the eight control rats throughout the experiment </plain></SENT>
+<SENT sid="11" pm="."><plain>Power spectral analysis of the EEG recordings showed improvement in the treated group compared to the control group </plain></SENT>
+<SENT sid="12" pm="."><plain>Postmortem angiography revealed proximal middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> in control animals and patent middle cerebral arteries in <z:chebi fb="6" ids="15702,53394">TPA</z:chebi>-treated animals </plain></SENT>
+<SENT sid="13" pm="."><plain>Serum fibrinogen and fibrin split products were unchanged in both groups, indicating the absence of systemic fibrinolysis </plain></SENT>
+<SENT sid="14" pm="."><plain>There were no <z:hpo ids='HP_0001342'>intracerebral hemorrhages</z:hpo> </plain></SENT>
+<SENT sid="15" pm="."><plain>It is concluded that, in this rat model, <z:chebi fb="6" ids="15702,53394">TPA</z:chebi> increases blood flow with subsequent improvement in the EEG recording after <z:hpo ids='HP_0001727'>thromboembolic stroke</z:hpo> without evidence of systemic fibrinolysis </plain></SENT>
+<SENT sid="16" pm="."><plain>Intravenous <z:chebi fb="6" ids="15702,53394">TPA</z:chebi> may be useful in the treatment of <z:hpo ids='HP_0011009'>acute</z:hpo> <z:hpo ids='HP_0001297'>stroke</z:hpo> in man </plain></SENT>
+</text></document>

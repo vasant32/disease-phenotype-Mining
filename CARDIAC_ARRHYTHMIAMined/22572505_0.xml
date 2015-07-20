@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Japanese yew is a widely used ornamental plant </plain></SENT>
+<SENT sid="1" pm="."><plain>However, most people are unaware that it is also a poisonous plant </plain></SENT>
+<SENT sid="2" pm="."><plain>It has potent cardiac toxicities that can lead to <z:hpo ids='HP_0001645'>sudden cardiac death</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>A 37-year-old female patient presented to the emergency room with <z:e sem="disease" ids="C0278061" disease_type="Mental or Behavioral Dysfunction" abbrv="">altered mental status</z:e> and sustained <z:hpo ids='HP_0004756'>ventricular tachycardia</z:hpo> (VT) </plain></SENT>
+<SENT sid="4" pm="."><plain>Electrocardiogram (ECG) after cardioversion showed profound QRS prolongation and ST-segment elevation suggestive of either hyperkalaemia, <z:hpo ids='HP_0011009'>acute</z:hpo> <z:e sem="disease" ids="C0151744" disease_type="Disease or Syndrome" abbrv="IHD">myocardial ischaemia</z:e>, or <z:e sem="disease" ids="C1142166" disease_type="Disease or Syndrome" abbrv="SUNDS">Brugada syndrome</z:e> </plain></SENT>
+<SENT sid="5" pm="."><plain>Her electrolytes and coronary angiography were <z:mpath ids='MPATH_458'>normal</z:mpath> </plain></SENT>
+<SENT sid="6" pm="."><plain>After improvement of the patient's mental status, she admitted that she has been consuming Japanese yew from her yard for several months </plain></SENT>
+<SENT sid="7" pm="."><plain>Few hours later, QRS duration normalised, but mild ST-segment elevation persisted in the right pre-cordial leads, making it more suspicious for <z:e sem="disease" ids="C1142166" disease_type="Disease or Syndrome" abbrv="SUNDS">Brugada syndrome</z:e> </plain></SENT>
+<SENT sid="8" pm="."><plain>However, a <z:chebi fb="0" ids="8428">procainamide</z:chebi> challenge test and electrophysiology study failed to induce typical Brugada pattern ECG and VT </plain></SENT>
+<SENT sid="9" pm="."><plain>The absence of <z:hpo ids='HP_0001677'>coronary artery disease</z:hpo> and electrolytes disturbances points toward the fact that her <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> and ECG changes are secondary to yew intoxication </plain></SENT>
+<SENT sid="10" pm="."><plain>The patient was monitored for a few days </plain></SENT>
+<SENT sid="11" pm="."><plain>She was haemodynamically stable and has not had any <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> </plain></SENT>
+<SENT sid="12" pm="."><plain>This case highlights the importance of public awareness of severe toxicity from Japanese yew or other yew plants </plain></SENT>
+<SENT sid="13" pm="."><plain>Yews contain taxines that are responsible for the <z:hpo ids='HP_0011675'>ECG abnormalities</z:hpo> due to its inhibitory effect on the cardiac <z:chebi fb="199" ids="26708">sodium</z:chebi> and calcium channels </plain></SENT>
+<SENT sid="14" pm="."><plain>They cause conduction abnormalities, VT, and ST-segment elevation that can resemble <z:hpo ids='HP_0011009'>acute</z:hpo> <z:hpo ids='HP_0001658'>myocardial infarction</z:hpo>, hyperkalaemia, and <z:e sem="disease" ids="C1142166" disease_type="Disease or Syndrome" abbrv="SUNDS">Brugada syndrome</z:e> </plain></SENT>
+</text></document>

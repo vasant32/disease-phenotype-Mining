@@ -1,0 +1,6 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 17-year-old male diagnosed as having <z:e sem="disease" ids="C0265493" disease_type="Disease or Syndrome" abbrv="CES">Cat Eye Syndrome (CES)</z:e> with hypogonadotropic <z:hpo ids='HP_0000135'>hypogonadism</z:hpo> showed <z:hpo ids='HP_0004322'>short stature</z:hpo> and no development of secondary sex characteristics </plain></SENT>
+<SENT sid="1" pm="."><plain>Exogeneous gonadotropin replacement therapy combining human chorionic gonadotropin (hCG) and human menopausal gonadotropin (hMG) was started </plain></SENT>
+<SENT sid="2" pm="."><plain>As a result, the <z:hpo ids='HP_0004322'>short stature</z:hpo> and <z:chebi fb="3" ids="50113">androgen</z:chebi> deficiency were relieved </plain></SENT>
+<SENT sid="3" pm="."><plain>The critical region of <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CES</z:e> was tetrasomy of 22 pter--&gt;q11 </plain></SENT>
+<SENT sid="4" pm="."><plain>Abnormalities of other chromosomes which cause hypogonadotropic <z:hpo ids='HP_0000135'>hypogonadism</z:hpo> may exist, thus further investigation is needed </plain></SENT>
+</text></document>

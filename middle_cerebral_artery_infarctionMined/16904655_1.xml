@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Malignant middle cerebral artery (MMCA) infarction is associated with severe <z:hpo ids='HP_0002181'>brain edema</z:hpo> which may lead to a rapid deterioration of consciousness, increase of intracranial pressure, brain midline shift and finally, <z:e sem="disease" ids="C0019270" disease_type="Disease or Syndrome" abbrv="">herniation</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>We examined the correlation between the degree of the blood-brain barrier (<z:chebi fb="2" ids="33602">BBB</z:chebi>) permeability and MMCA </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: Twenty-five consecutive patients (17 men and 8 women, mean age 62.1+/-10.1) were included in the study </plain></SENT>
+<SENT sid="3" pm="."><plain>Each patient had a daily clinical examination, and the neurological deficits were scored using NIHSS score </plain></SENT>
+<SENT sid="4" pm="."><plain>A CT without contrast material was performed in <z:hpo ids='HP_0000001'>all</z:hpo> patients </plain></SENT>
+<SENT sid="5" pm="."><plain>(99m)Tc-<z:chebi fb="0" ids="35739">DTPA</z:chebi> SPECT was performed at 36 h after the <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+<SENT sid="6" pm="."><plain>A quantitative index of <z:chebi fb="2" ids="33602">BBB</z:chebi> breakdown (disruption index) was calculated </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: The mean volume of <z:hpo ids='HP_0001297'>stroke</z:hpo> was 138+/-87 cm(3) </plain></SENT>
+<SENT sid="8" pm="."><plain>The mean <z:chebi fb="0" ids="35739">DTPA</z:chebi> disruption index was 6.6+/-4.6 (range 1.0-21.0) </plain></SENT>
+<SENT sid="9" pm="."><plain>The mean NIHSS score was 14+/-4 (p=0.2) </plain></SENT>
+<SENT sid="10" pm="."><plain>Five of 25 patients had brain <z:e sem="disease" ids="C0019270" disease_type="Disease or Syndrome" abbrv="">herniation</z:e> as evidenced on brain CT </plain></SENT>
+<SENT sid="11" pm="."><plain>The volume of <z:hpo ids='HP_0001297'>stroke</z:hpo> was only marginally elevated in patients with <z:e sem="disease" ids="C0019270" disease_type="Disease or Syndrome" abbrv="">herniation</z:e> (p=0.062) </plain></SENT>
+<SENT sid="12" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> patients showed significant, inverse correlation between NIHSS score and <z:chebi fb="0" ids="35739">DTPA</z:chebi> uptake (r=-0.43, p=0.033) </plain></SENT>
+<SENT sid="13" pm="."><plain>There was a significant correlation between the extent of <z:chebi fb="0" ids="35739">DTPA</z:chebi> distribution (more than one vascular territory) and the occurrence of <z:e sem="disease" ids="C0019270" disease_type="Disease or Syndrome" abbrv="">herniation</z:e> (p&lt;0.001) </plain></SENT>
+<SENT sid="14" pm="."><plain>CONCLUSIONS: <z:chebi fb="0" ids="35739">DTPA</z:chebi>-SPECT imaging is a reliable complementary predictive tool in patients with an <z:chebi fb="70" ids="34342">MCA</z:chebi> <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+<SENT sid="15" pm="."><plain>The specific pattern found on <z:chebi fb="0" ids="35739">DTPA</z:chebi> SPECT, compatible with diffuse <z:chebi fb="2" ids="33602">BBB</z:chebi> disruption, may be of value in predicting "malignant <z:chebi fb="70" ids="34342">MCA</z:chebi>." </plain></SENT>
+</text></document>

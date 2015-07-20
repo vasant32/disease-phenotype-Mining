@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Interleukin-11 (IL-11) displays epithelial cytoprotective effects during intestinal injury </plain></SENT>
+<SENT sid="1" pm="."><plain>Antiapoptotic effects of IL-11 have been described, yet mechanisms remain unclear </plain></SENT>
+<SENT sid="2" pm="."><plain>Fas/CD95 <z:hpo ids='HP_0011420'>death</z:hpo> receptor signaling is upregulated in <z:hpo ids='HP_0100279'>ulcerative colitis</z:hpo>, leading to mucosal breakdown </plain></SENT>
+<SENT sid="3" pm="."><plain>We hypothesized that IL-11 inhibits Fas ligand (FasL)-mediated <z:mpath ids='MPATH_3'>apoptosis</z:mpath> in intestinal epithelia </plain></SENT>
+<SENT sid="4" pm="."><plain>Cell <z:hpo ids='HP_0011420'>death</z:hpo> was monitored in IEC-18 cells by microscopy, caspase and poly(<z:chebi fb="13" ids="16761">ADP</z:chebi>-<z:chebi fb="1" ids="33942">ribose</z:chebi>) polymerase cleavage, <z:hpo ids='HP_0001427'>mitochondrial</z:hpo> release of <z:chebi fb="1" ids="18070">cytochrome c</z:chebi>, and abundance of cytoplasmic oligonucleosomal DNA </plain></SENT>
+<SENT sid="5" pm="."><plain>RT-PCR was used to monitor Fas, cIAP1, cIAP2, XIAP, cFLIP, survivin, and Bcl-2 family members </plain></SENT>
+<SENT sid="6" pm="."><plain>Fas membrane expression was detected by immunoblot </plain></SENT>
+<SENT sid="7" pm="."><plain>Inhibitors of JAK2, phosphatidylinositol 3-kinase (PI3-kinase), Akt 1, MEK1 and MEK2, and p38 MAPK were used to delineate IL-11's antiapoptotic mechanisms </plain></SENT>
+<SENT sid="8" pm="."><plain>IL-11 did not alter Fas expression </plain></SENT>
+<SENT sid="9" pm="."><plain>Pretreatment with IL-11 for 24 h before FasL reduced cytoplasmic oligonucleosomal DNA by 63.2% </plain></SENT>
+<SENT sid="10" pm="."><plain>IL-11 also attenuated caspase-3, caspase-9, and poly(<z:chebi fb="13" ids="16761">ADP</z:chebi>-<z:chebi fb="1" ids="33942">ribose</z:chebi>) polymerase cleavage without affecting expression of activated caspase-8 p20 or <z:chebi fb="1" ids="18070">cytochrome c</z:chebi> release </plain></SENT>
+<SENT sid="11" pm="."><plain>IL-11 did not affect <z:chebi fb="2" ids="33699">mRNA</z:chebi> expression of the candidate antiapoptotic genes </plain></SENT>
+<SENT sid="12" pm="."><plain>The MEK1 and MEK2 inhibitors U-0126 and <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">PD</z:e>-98059 significantly attenuated the protection of IL-11 against caspase-3 and caspase-9 cleavage and cytoplasmic oligonucleosomal DNA accumulation </plain></SENT>
+<SENT sid="13" pm="."><plain>Although Akt inhibition reversed IL-11-mediated effects on caspase cleavage, it did not reverse the protective effects of IL-11 by DNA ELISA </plain></SENT>
+<SENT sid="14" pm="."><plain>We conclude that IL-11-dependent MEK1 and MEK2 signaling inhibits FasL-induced <z:mpath ids='MPATH_3'>apoptosis</z:mpath> </plain></SENT>
+<SENT sid="15" pm="."><plain>The lack of reversal of the IL-11 effect on DNA cleavage by Akt inhibition, despite antagonism of caspase cleavage, suggests that IL-11 inhibits caspase-independent cell <z:hpo ids='HP_0011420'>death</z:hpo> signaling by FasL in a MEK-dependent manner </plain></SENT>
+</text></document>

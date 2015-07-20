@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: A variety of tests have been proposed for <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e>), giving rise to uncertainty regarding the optimal approach </plain></SENT>
+<SENT sid="1" pm="."><plain>The efficacy and effectiveness of different tests are related to both screened participation and the detection rate </plain></SENT>
+<SENT sid="2" pm="."><plain>AIM: To perform a meta-analysis on adherence and detection rates of <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e> screening tests </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: Relevant publications were identified by MEDLINE/EMBASE and other databases for the period 1999-2012 </plain></SENT>
+<SENT sid="4" pm="."><plain>A previous systematic review was used for the period before 1966-1999 </plain></SENT>
+<SENT sid="5" pm="."><plain>RCTs and controlled studies including a direct comparison of the uptake rates among different options for <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e> screening were included </plain></SENT>
+<SENT sid="6" pm="."><plain>Adherence and detection rates for advanced <z:hpo ids='HP_0002664'>neoplasia</z:hpo> and <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> were extracted </plain></SENT>
+<SENT sid="7" pm="."><plain>Risk for bias was ascertained according to CONSORT guidelines </plain></SENT>
+<SENT sid="8" pm="."><plain>Forrest plots were produced based on random-effect models </plain></SENT>
+<SENT sid="9" pm="."><plain>RESULTS: Fourteen studies provided data on 197 910 subjects </plain></SENT>
+<SENT sid="10" pm="."><plain>Endoscopic strategies were associated with a lower participation (RR: 0.67, 95% CI: 0.56, 0.80) rate, but a higher detection rate of advanced <z:hpo ids='HP_0002664'>neoplasia</z:hpo> (RR: 3.21, 95% CI: 2.38, 4.32) compared with faecal tests </plain></SENT>
+<SENT sid="11" pm="."><plain>FIT was superior to g-FOBT with regard to both adherence (RR: 1.16, 95% CI 1.03, 1.30) and detection of advanced <z:hpo ids='HP_0002664'>neoplasia</z:hpo> (RR: 2.28, 95% CI 1.68, 3.10) and <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> (RR: 1.96, 95% CI: 1.2, 3.2) </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSION: The superior accuracy of endoscopy compared with faecal tests minimised any impact of the participation rate in determining the detection rate of advanced <z:hpo ids='HP_0002664'>neoplasia</z:hpo> in a screening setting </plain></SENT>
+</text></document>

@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Protein kinase C βII (PKCβII) is preferentially expressed during hyperglycemic state resulting in <z:e sem="disease" ids="C0271672" disease_type="Disease or Syndrome" abbrv="">diabetic complications</z:e>, particularly, diabetic <z:hpo ids='HP_0001638'>cardiomyopathy</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>An effective inhibition of PKCβII is a potential option to directly treat the diabetic <z:hpo ids='HP_0001638'>cardiomyopathy</z:hpo>; however, till date no efficient drug targeting PKCβII is available and <z:hpo ids='HP_0000001'>all</z:hpo> the reported PKCβII ligands are <z:chebi fb="0" ids="16072">maleimide</z:chebi> derivatives </plain></SENT>
+<SENT sid="2" pm="."><plain>The purpose of the present work is to study the importance of the <z:chebi fb="0" ids="16072">maleimide</z:chebi> moiety in PKCβII inhibition and the effects that follow after replacing the <z:chebi fb="0" ids="16072">maleimide</z:chebi> with similar moiety on PKCβII inhibition </plain></SENT>
+<SENT sid="3" pm="."><plain>For this, an in-house database of <z:chebi fb="0" ids="16072">maleimide</z:chebi> analogues was prepared and shape based screening of commercial databases viz </plain></SENT>
+<SENT sid="4" pm="."><plain>Specs2009, NCI2003 was performed, followed by filtration using virtual filters </plain></SENT>
+<SENT sid="5" pm="."><plain>The binding features of reported PKCβII inhibitors, and high scoring hits were analyzed with the help of molecular docking studies </plain></SENT>
+<SENT sid="6" pm="."><plain>The features identified from the above studies were used for the rational design of new PKCβII inhibitors </plain></SENT>
+<SENT sid="7" pm="."><plain>The molecular dynamics simulation and ligand-receptor binding affinity studies of the designed molecules has been reported </plain></SENT>
+<SENT sid="8" pm="."><plain>The toxicity of <z:hpo ids='HP_0000001'>all</z:hpo> the shortlisted and designed molecules was predicted </plain></SENT>
+</text></document>

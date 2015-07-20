@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The suture model for middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (MCAO) was used to induce <z:hpo ids='HP_0011009'>acute</z:hpo> <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> in rats remotely within a magnetic resonance (MRI) scanner </plain></SENT>
+<SENT sid="1" pm="."><plain>Serial <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e> diffusion weighted imaging (DWI) was performed during remote MCAO using an echo planar imaging technique </plain></SENT>
+<SENT sid="2" pm="."><plain><z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e> perfusion imaging was performed before and after occlusion using the bolus tracking technique </plain></SENT>
+<SENT sid="3" pm="."><plain>Transient apparent diffusion coefficient (<z:chebi fb="49" ids="35181">ADC</z:chebi>) changes were detected in six of seven rats as early as 2.7 +/- 1.5 min post MCAO </plain></SENT>
+<SENT sid="4" pm="."><plain><z:chebi fb="49" ids="35181">ADC</z:chebi> values declined transiently to 70.1 +/- 6.0% of control and recovered to 95.5 +/- 6.8% of control within 3.3 +/- 2.9 min </plain></SENT>
+<SENT sid="5" pm="."><plain>These <z:chebi fb="49" ids="35181">ADC</z:chebi> changes propagated bidirectionally away from the ischemic core with a speed of 3.0 +/- 1.1 mm/min </plain></SENT>
+<SENT sid="6" pm="."><plain>Transient <z:chebi fb="49" ids="35181">ADC</z:chebi> decreases only occurred in ischemic areas characterized by moderately decreased tissue perfusion </plain></SENT>
+<SENT sid="7" pm="."><plain>Propagation toward cortical regions with severe tissue perfusion deficits was not detected </plain></SENT>
+<SENT sid="8" pm="."><plain>DWI can detect the earliest dynamic, reversible <z:chebi fb="49" ids="35181">ADC</z:chebi> changes in the ischemic tissue </plain></SENT>
+<SENT sid="9" pm="."><plain>The speed of propagation of the decreasing <z:chebi fb="49" ids="35181">ADC</z:chebi> wave, the waveform characteristics, and the occurrence in moderately perturbated tissue are compatible with cortical spreading <z:hpo ids='HP_0000716'>depression</z:hpo> </plain></SENT>
+</text></document>

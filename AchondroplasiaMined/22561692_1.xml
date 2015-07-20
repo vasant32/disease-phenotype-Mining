@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Prenatal diagnosis (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">PD</z:e>) is available for pregnancies at risk of monogenic disorders </plain></SENT>
+<SENT sid="1" pm="."><plain>However, <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">PD</z:e> requires the use of invasive obstetric techniques for fetal-sample collection and therefore, involves a risk of fetal loss </plain></SENT>
+<SENT sid="2" pm="."><plain>Circulating fetal DNA in the maternal bloodstream is being used to perform non-invasive prenatal diagnosis (NIPD) </plain></SENT>
+<SENT sid="3" pm="."><plain>NIPD is a challenging discipline because of the biological features of the maternal blood sample </plain></SENT>
+<SENT sid="4" pm="."><plain>Maternal blood is an unequal mixture of small (and fragmented) amounts of fetal DNA within a wide background of maternal DNA </plain></SENT>
+<SENT sid="5" pm="."><plain>For this reason, initial NIPD studies have been based on the analysis of specific paternally inherited fetal tracts not present in the maternal genome so as to ensure their fetal origin </plain></SENT>
+<SENT sid="6" pm="."><plain>Following this strategy, different NIPD studies have been carried out, such as fetal-sex assessment for pregnancies at risk of <z:hpo ids='HP_0001417'>X-linked</z:hpo> disorders, RhD determination, and analysis of single-gene disorders with a paternal origin </plain></SENT>
+<SENT sid="7" pm="."><plain>The study of the paternal mutation can be used for fetal diagnosis of dominant disorders or to more accurately assess the risk of an affected child in case of recessive diseases </plain></SENT>
+<SENT sid="8" pm="."><plain><z:e sem="disease" ids="C0020179" disease_type="Disease or Syndrome" abbrv="HD">Huntington's disease</z:e>, cystic <z:mp ids='MP_0003045'>fibrosis</z:mp>, or <z:e sem="disease" ids="C0001080" disease_type="Disease or Syndrome;Congenital Abnormality" abbrv="">achondroplasia</z:e> are some examples of diseases studied using NIPD </plain></SENT>
+<SENT sid="9" pm="."><plain>New technologies are opening NIPD to the analysis of maternally inherited fetal tracts </plain></SENT>
+<SENT sid="10" pm="."><plain>NIPD of <z:mp ids='MP_0004027'>trisomy</z:mp> 21 is the latest study derived from the use of next-generation sequencing (NGS) </plain></SENT>
+</text></document>

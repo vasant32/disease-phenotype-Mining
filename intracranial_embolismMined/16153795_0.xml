@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 30-year-old man was admitted with chest trauma after a road traffic accident </plain></SENT>
+<SENT sid="1" pm="."><plain>The patient was paraplegic and suffered from transient monoparesia of the left arm </plain></SENT>
+<SENT sid="2" pm="."><plain>The chest X-ray revealed a severe right tension <z:hpo ids='HP_0002107'>pneumothorax</z:hpo> and thoracic spine fractures </plain></SENT>
+<SENT sid="3" pm="."><plain>Emergency right thoracic drainage was carried out followed by angiography </plain></SENT>
+<SENT sid="4" pm="."><plain>Unfortunately the patient died and an autopsy was not permitted </plain></SENT>
+<SENT sid="5" pm="."><plain>Consequently post-mortem multi-slice computed tomography (MSCT) was performed, revealing presence of air inside the right cerebral arteries, bilateral <z:hpo ids='HP_0002107'>pneumothorax</z:hpo> accompanied by a severe right tension <z:hpo ids='HP_0002107'>pneumothorax</z:hpo>, bilateral haematic <z:hpo ids='HP_0002202'>pleural effusion</z:hpo>, pneumomediastinum and bilateral lung <z:mp ids='MP_0009275'>contusions</z:mp> </plain></SENT>
+<SENT sid="6" pm="."><plain>Air was also observed within the right coronary artery, ascending aorta and right ventricle </plain></SENT>
+<SENT sid="7" pm="."><plain>Thoracic and cervical spinal epidural <z:hpo ids='HP_0002097'>emphysema</z:hpo> were diagnosed </plain></SENT>
+<SENT sid="8" pm="."><plain>Venous <z:mpath ids='MPATH_111'>air embolism</z:mpath> followed by arterial <z:mpath ids='MPATH_111'>air embolism</z:mpath> producing <z:e sem="disease" ids="C0238096" disease_type="Disease or Syndrome" abbrv="">paradoxical embolism</z:e> was diagnosed </plain></SENT>
+<SENT sid="9" pm="."><plain>To the best of our knowledge, this is the first case illustrating by post-mortem MSCT such simultaneous complications after chest trauma as spinal epidural <z:hpo ids='HP_0002097'>emphysema</z:hpo> and cerebral and coronary <z:mpath ids='MPATH_111'>air embolism</z:mpath> </plain></SENT>
+</text></document>

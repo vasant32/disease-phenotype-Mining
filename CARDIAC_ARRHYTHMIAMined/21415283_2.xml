@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The objectives of this study were to investigate the population pharmacokinetics of moxifloxacin and their relationship with the observed QT interval as well as the effect of covariates in healthy subjects using nonlinear mixed-effects modeling </plain></SENT>
+<SENT sid="1" pm="."><plain>A pool of 4 thorough QT studies were used, representing 99 healthy subjects who received moxifloxacin </plain></SENT>
+<SENT sid="2" pm="."><plain>The data were modeled using Monolix </plain></SENT>
+<SENT sid="3" pm="."><plain>Moxifloxacin pharmacokinetics were ascribed a 2- compartment open model </plain></SENT>
+<SENT sid="4" pm="."><plain>The TRANSIT model provided a better description of the delay in absorption than did the LAG model </plain></SENT>
+<SENT sid="5" pm="."><plain>The most significant covariate was lean body mass (LBM) </plain></SENT>
+<SENT sid="6" pm="."><plain>The population estimates for clearance and central volume of distribution were 10.0 L/h per 60 kg of LBM and 131 L per 60 kg of LBM, respectively </plain></SENT>
+<SENT sid="7" pm="."><plain>The effect of moxifloxacin on QT was investigated using a direct effect model </plain></SENT>
+<SENT sid="8" pm="."><plain>The SLOPE model, relating the QT increase as a linear function of concentration, provided a better description of the pharmacodynamic effect than did the Emax model </plain></SENT>
+<SENT sid="9" pm="."><plain>The unique covariate was gender for both baseline QT and individual heart rate correction factor </plain></SENT>
+<SENT sid="10" pm="."><plain>The pharmacokinetics of moxifloxacin were satisfactorily described by an open 2-compartmental model with linear elimination </plain></SENT>
+<SENT sid="11" pm="."><plain>The trigonometric equation with a direct and proportional concentration effect satisfactorily described the effect on QT </plain></SENT>
+</text></document>

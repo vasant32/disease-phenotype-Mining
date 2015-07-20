@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>This paper describes feature extraction methods using higher order statistics (<z:chebi fb="2" ids="37859">HOS</z:chebi>) of wavelet packet decomposition (WPD) coefficients for the purpose of automatic heartbeat recognition </plain></SENT>
+<SENT sid="1" pm="."><plain>The method consists of three stages </plain></SENT>
+<SENT sid="2" pm="."><plain>First, the wavelet package coefficients (WPC) are calculated for each different type of ECG beat </plain></SENT>
+<SENT sid="3" pm="."><plain>Then, higher order statistics of WPC are derived </plain></SENT>
+<SENT sid="4" pm="."><plain>Finally, the obtained feature set is used as input to a classifier, which is based on k-NN algorithm </plain></SENT>
+<SENT sid="5" pm="."><plain>The <z:chebi fb="75" ids="27847,53620">MIT</z:chebi>-BIH <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> database is used to obtain the ECG records used in this study </plain></SENT>
+<SENT sid="6" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> heartbeats in the <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> database are grouped into five main heartbeat classes </plain></SENT>
+<SENT sid="7" pm="."><plain>The classification accuracy of the proposed system is measured by average sensitivity of 90%, average selectivity of 92% and average specificity of 98% </plain></SENT>
+<SENT sid="8" pm="."><plain>The results show that <z:chebi fb="2" ids="37859">HOS</z:chebi> of WPC as features are highly discriminative for the classification of different arrhythmic ECG beats </plain></SENT>
+</text></document>

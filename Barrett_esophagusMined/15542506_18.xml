@@ -1,0 +1,22 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Multiple treatment strategies for subjects with high grade <z:mpath ids='MPATH_589'>dysplasia</z:mpath> (HGD) in <z:e sem="disease" ids="C0004763" disease_type="Disease or Syndrome" abbrv="CELLO">Barrett's oesophagus</z:e> (BO) have been suggested </plain></SENT>
+<SENT sid="1" pm="."><plain>However, it is unclear which of these strategies provides the greatest life expectancy, and the costs associated with the management strategies are unknown </plain></SENT>
+<SENT sid="2" pm="."><plain>AIM: To compare the efficacy and cost effectiveness of competing management strategies for BO with HGD </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: We created a decision analysis model in Data 4.0 to assess possible treatment strategies for BO with HGD </plain></SENT>
+<SENT sid="4" pm="."><plain>The strategies included: (1) no preventative strategy, (2) elective surgical oesophagectomy, (3) endoscopic ablation, and (4) surveillance endoscopy </plain></SENT>
+<SENT sid="5" pm="."><plain>The base case was a healthy 50 year old White male with an initial diagnosis of BO with HGD </plain></SENT>
+<SENT sid="6" pm="."><plain>The model allowed for complications of surgery, including <z:hpo ids='HP_0011420'>death</z:hpo> </plain></SENT>
+<SENT sid="7" pm="."><plain>Ablative therapy could cause stricture or <z:mpath ids='MPATH_81'>perforation</z:mpath> </plain></SENT>
+<SENT sid="8" pm="."><plain>Pathological misinterpretation was allowed, and modelled after reported rates </plain></SENT>
+<SENT sid="9" pm="."><plain>Estimates were derived from the literature for the rate of progression of HGD to <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> and for complication rates for the various treatment modalities </plain></SENT>
+<SENT sid="10" pm="."><plain>The endoscopic ablation arm was modelled as photodynamic therapy </plain></SENT>
+<SENT sid="11" pm="."><plain>Sensitivity analyses were performed over a wide range of <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> incidences, complication rates, and procedure costs </plain></SENT>
+<SENT sid="12" pm="."><plain>RESULTS: Endoscopic ablation was the most effective strategy, yielding 15.5 discounted quality adjusted life years (dQALY), compared with 15.0 for endoscopic surveillance and 14.9 for oesophagectomy </plain></SENT>
+<SENT sid="13" pm="."><plain>No preventative strategy was the most inexpensive option, yielding an average cost per quality adjusted life year of US dollars 54 (44) per dQALY, but resulted in high rates of <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> </plain></SENT>
+<SENT sid="14" pm="."><plain>Endoscopic surveillance dominated oesophagectomy, being both less costly and more effective </plain></SENT>
+<SENT sid="15" pm="."><plain>The condition of extended dominance occurred when comparing endoscopic ablation to endoscopic surveillance because, although the total costs of ablation were greater than those of surveillance, it was less expensive to buy an additional life year using endoscopic ablation than endoscopic surveillance </plain></SENT>
+<SENT sid="16" pm="."><plain>The incremental cost effectiveness ratio when moving from no therapy to ablative therapy was a reasonable US dollars 25 621/dQALY (21 009/dQALY) </plain></SENT>
+<SENT sid="17" pm="."><plain>Sensitivity analysis demonstrated that when yearly rates of progression to <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> from HGD exceeded 30%, oesophagectomy became the most cost effective option </plain></SENT>
+<SENT sid="18" pm="."><plain>CONCLUSIONS: A strategy of endoscopic ablation provided the longest quality adjusted life expectancy for BO with HGD </plain></SENT>
+<SENT sid="19" pm="."><plain>Although endoscopic surveillance was less expensive than endoscopic ablation, it was associated with shorter survival </plain></SENT>
+<SENT sid="20" pm="."><plain>Optimal utilisation of healthcare resources may be achieved with endoscopic ablative therapy for BO with HGD </plain></SENT>
+</text></document>

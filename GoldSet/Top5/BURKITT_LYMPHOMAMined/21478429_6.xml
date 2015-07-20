@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Many mammalian transcripts contain target sites for multiple miRNAs, although it is not clear to what extent miRNAs may coordinately regulate single genes </plain></SENT>
+<SENT sid="1" pm="."><plain>We have mapped the interactions between down-regulated miRNAs and overexpressed target protein-coding genes in murine and human <z:hpo ids='HP_0002665'>lymphomas</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>Myc, one of the hallmark oncogenes in these <z:hpo ids='HP_0002665'>lymphomas</z:hpo>, stands out as the up-regulated gene with the highest number of genetic interactions with down-regulated miRNAs in mouse <z:hpo ids='HP_0002665'>lymphomas</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>The regulation of Myc by several of these miRNAs is confirmed by cellular and reporter assays </plain></SENT>
+<SENT sid="4" pm="."><plain>The same approach identifies MYC and multiple Myc targets as a preferential target of down-regulated miRNAs in human Burkitt <z:hpo ids='HP_0002665'>lymphoma</z:hpo>, a pathology characterized by translocated MYC oncogenes </plain></SENT>
+<SENT sid="5" pm="."><plain>These results indicate that several miRNAs must be coordinately down-regulated to enhance critical oncogenes, such as Myc </plain></SENT>
+<SENT sid="6" pm="."><plain>Some of these Myc-targeting miRNAs are repressed by Myc, suggesting that these <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumors</z:e> are a consequence of the unbalanced activity of Myc versus miRNAs </plain></SENT>
+</text></document>

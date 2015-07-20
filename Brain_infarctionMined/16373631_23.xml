@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND PURPOSE: <z:e sem="disease" ids="C0948265" disease_type="Disease or Syndrome" abbrv="">Metabolic syndrome</z:e> (MetS) is associated with an increased risk of the subsequent development of <z:e sem="disease" ids="C0007222" disease_type="Disease or Syndrome" abbrv="CVD">cardiovascular disease</z:e> or <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Moreover, a silent <z:e sem="disease" ids="C0751955" disease_type="Disease or Syndrome" abbrv="">brain infarction</z:e> (SBI) can predict clinical overt <z:hpo ids='HP_0001297'>stroke</z:hpo> or <z:hpo ids='HP_0000726'>dementia</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>We examined the associations between SBI and MetS in apparently healthy individuals </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: We evaluated 1588 neurologically healthy subjects (927 males and 661 females) who underwent brain MRI at Seoul National University Hospital Healthcare System Gangnam Center </plain></SENT>
+<SENT sid="4" pm="."><plain>MetS was defined using the criteria of the National Cholesterol Education Program Adult Treatment Panel III </plain></SENT>
+<SENT sid="5" pm="."><plain>We examined associations between full syndrome (&gt; or =3 of the 5 conditions) as well as its components and SBI by controlling possible confounders </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: Eighty-eight (5.5%) were found to have &gt; or =1 SBI on MRI </plain></SENT>
+<SENT sid="7" pm="."><plain>Age was found to be significantly related to SBI prevalence (odds ratio [OR], 1.06; 95% CI, 1.04 to 1.09) </plain></SENT>
+<SENT sid="8" pm="."><plain>A history of <z:hpo ids='HP_0001677'>coronary artery disease</z:hpo> was associated with an elevated odds ratio of SBI (OR, 2.83; 95% CI, 1.38 to 5.82), and MetS was significantly associated with SBI (OR, 2.18; 95% CI, 1.38 to 3.44) </plain></SENT>
+<SENT sid="9" pm="."><plain>The components model of MetS showed a strong significance between an elevated blood pressure (OR, 3.75; 95% CI, 2.05 to 6.85) and an impaired fasting <z:chebi fb="105" ids="17234">glucose</z:chebi> (OR, 1.74; 95% CI, 1.08 to 2.80) and the risk of SBI </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSIONS: MetS was found to be significantly associated with SBI </plain></SENT>
+<SENT sid="11" pm="."><plain>This finding has clinical utility in terms of identifying healthy people at increased risk of developing SBI </plain></SENT>
+</text></document>

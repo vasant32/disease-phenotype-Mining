@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 44-year-old patient, without remarkable medical history, was admitted with a head trauma with initial <z:hpo ids='HP_0007185'>loss of consciousness</z:hpo> and a thoracic trauma </plain></SENT>
+<SENT sid="1" pm="."><plain>The initial treatment included the insertion of a chest drain for evacuation of a <z:hpo ids='HP_0002107'>pneumothorax</z:hpo> and intrapleural <z:mp ids='MP_0004270'>analgesia</z:mp> with <z:chebi fb="0" ids="3215">bupivacaine</z:chebi> </plain></SENT>
+<SENT sid="2" pm="."><plain>The day after admission, the patient experienced a generalized <z:e sem="disease" ids="C0014544" disease_type="Disease or Syndrome" abbrv="">epileptic</z:e> crisis, without prodomes </plain></SENT>
+<SENT sid="3" pm="."><plain>Later, a left proportional <z:hpo ids='HP_0002301'>hemiplegia</z:hpo> with <z:hpo ids='HP_0002381'>aphasia</z:hpo> was recognized </plain></SENT>
+<SENT sid="4" pm="."><plain>The CT scan obtained immediately after the crisis, as well as the carotid Doppler ultrasonography and echocardiography were <z:mpath ids='MPATH_458'>normal</z:mpath> </plain></SENT>
+<SENT sid="5" pm="."><plain>The bilateral carotid angiography showed an image of fibromuscular <z:mpath ids='MPATH_589'>dysplasia</z:mpath> of the extracranial segment of the right internal carotid artery </plain></SENT>
+<SENT sid="6" pm="."><plain>The migration of a carotid <z:e sem="disease" ids="C0302148,C0087086" disease_type="Disease or Syndrome;Acquired Abnormality" abbrv="">thrombus</z:e> initiated by the trauma was hypothetized </plain></SENT>
+<SENT sid="7" pm="."><plain>A treatment with a platelet aggregation inhibiting drug was started and associated 20 days later with low molecular weight <z:chebi fb="5" ids="28304">heparin</z:chebi> </plain></SENT>
+<SENT sid="8" pm="."><plain>The patient recovered a <z:mpath ids='MPATH_458'>normal</z:mpath> motility within 10 days; only the <z:hpo ids='HP_0002381'>aphasia</z:hpo> remained </plain></SENT>
+<SENT sid="9" pm="."><plain>Trauma of the carotid artery is not a frequent cause of <z:hpo ids='HP_0001297'>cerebrovascular accident</z:hpo> </plain></SENT>
+<SENT sid="10" pm="."><plain>The occurrence of the latter is favoured by a pre-existing lesion of this artery </plain></SENT>
+<SENT sid="11" pm="."><plain>This case demonstrates that in a trauma patient not <z:hpo ids='HP_0000001'>all</z:hpo> central <z:mp ids='MP_0008912'>nervous</z:mp> system manifestations are initiated by a head trauma </plain></SENT>
+</text></document>

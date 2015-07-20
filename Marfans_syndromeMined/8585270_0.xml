@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>By means of molecular biology and genetic research the influence of genetic factors on a great variety of human diseases could be shown </plain></SENT>
+<SENT sid="1" pm="."><plain>In the field of cardiovascular research the genetic defects of a few monogenetic disorders, such as <z:e sem="disease" ids="C0024796" disease_type="Disease or Syndrome" abbrv="MFS|MFS1">Marfan's syndrome</z:e> and <z:hpo ids='HP_0001639'>hypertrophic cardiomyopathy</z:hpo>, have been characterized </plain></SENT>
+<SENT sid="2" pm="."><plain>In addition, candidate genes for polygenetic diseases, such as arterial <z:hpo ids='HP_0000822'>hypertension</z:hpo> and <z:hpo ids='HP_0002621'>atherosclerosis</z:hpo>, have been cloned </plain></SENT>
+<SENT sid="3" pm="."><plain>However, the identification of a candidate gene or its mutation does not prove its influence on the phenotype or the final cause of a particular disease </plain></SENT>
+<SENT sid="4" pm="."><plain>Only a targeted manipulation of a defined candidate gene in a transgenic animal model helps to understand the role of the gene and its product in the whole organism </plain></SENT>
+<SENT sid="5" pm="."><plain>Transgenic experiments can be divided into gene-addition and gene-deletion models </plain></SENT>
+<SENT sid="6" pm="."><plain>In a gene-addition experiment a fusiongene is microinjected into a fertilized oocyte </plain></SENT>
+<SENT sid="7" pm="."><plain>The fusiongene itself consists at least of a regulatory element promoter and of a DNA sequence coding for the gene product (protein) of intended overproduction </plain></SENT>
+<SENT sid="8" pm="."><plain>The choice of the right promoter is important for obtaining tissue-specific gene expression </plain></SENT>
+<SENT sid="9" pm="."><plain>The cardiac myosin light chain-2 promoter for example leads to a ventricle-specific gene expression in cardiomyocytes from early embryogenesis through adulthood </plain></SENT>
+<SENT sid="10" pm="."><plain>In a gene-deletion experiment on the other hand, the target gene is selectively knocked out by homologous recombination in embryonic stem (ES) cells </plain></SENT>
+<SENT sid="11" pm="."><plain>The selected ES-cells are then injected into blastocysts </plain></SENT>
+<SENT sid="12" pm="."><plain>If the ES-cells are integrated into the germ line and transmitted to the progeny, a transgenic line is established </plain></SENT>
+<SENT sid="13" pm="."><plain>This review article describes planning and development of transgenic animals and discusses established transgenic animal model systems with regard to cardiovascular <z:mp ids='MP_0001532'>physiology</z:mp> </plain></SENT>
+<SENT sid="14" pm="."><plain>In addition, animal models which may provide a basis for future gene therapy will be introduced </plain></SENT>
+</text></document>

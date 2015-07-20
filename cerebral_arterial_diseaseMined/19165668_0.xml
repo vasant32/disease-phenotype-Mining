@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: To present an emerging clinical entity which may mimic another common entity </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: A 31 year-old woman complained of sudden severe <z:hpo ids='HP_0002315'>headache</z:hpo> and collapsed </plain></SENT>
+<SENT sid="2" pm="."><plain>She had delivered by Cesarean section one week previously </plain></SENT>
+<SENT sid="3" pm="."><plain>She had a <z:mpath ids='MPATH_458'>normal</z:mpath> antenatal history and did not have any evidence of <z:hpo ids='HP_0000822'>hypertension</z:hpo> </plain></SENT>
+<SENT sid="4" pm="."><plain>RESULTS: Clinical examination revealed her to be in altered sensorium, GCS E2V2M5 with reduced movements on the left side </plain></SENT>
+<SENT sid="5" pm="."><plain>CT scan showed a large right putaminal <z:mp ids='MP_0008817'>hematoma</z:mp> with mass effect and midline shift </plain></SENT>
+<SENT sid="6" pm="."><plain>MRI also showed the <z:mp ids='MP_0008817'>hematoma</z:mp> but the MRV was <z:mpath ids='MPATH_458'>normal</z:mpath> </plain></SENT>
+<SENT sid="7" pm="."><plain>Despite antiedema measures and <z:hpo ids='HP_0002883'>hyperventilation</z:hpo>, the patient continued to deteriorate and so underwent right hemicraniectomy </plain></SENT>
+<SENT sid="8" pm="."><plain>MRA was done postoperatively and showed diffuse spasm of both middle cerebral arteries </plain></SENT>
+<SENT sid="9" pm="."><plain>A diagnosis of postpartum cerebral <z:e sem="disease" ids="C0042373" disease_type="Disease or Syndrome" abbrv="">angiopathy</z:e> was made and she was put on <z:chebi fb="0" ids="6888">methylprednisolone</z:chebi> and other antiedema measures were continued </plain></SENT>
+<SENT sid="10" pm="."><plain>With this she improved significantly </plain></SENT>
+<SENT sid="11" pm="."><plain>At one year she had residual <z:hpo ids='HP_0001269'>hemiparesis</z:hpo> but had returned to work </plain></SENT>
+<SENT sid="12" pm="."><plain>Four-vessel angiogram repeated 1 year later showed no arterial spasm </plain></SENT>
+<SENT sid="13" pm="."><plain>She later had cranioplasty to cover the defect </plain></SENT>
+<SENT sid="14" pm="."><plain>CONCLUSIONS: This case is presented to show that in a postpartum patient, if she presents with putaminal <z:mp ids='MP_0008817'>hematoma</z:mp>, postpartum <z:e sem="disease" ids="C0042373" disease_type="Disease or Syndrome" abbrv="">angiopathy</z:e> needs to be suspected and appropriate investigations and treatment, including steroids, should be given as the overall prognosis is good </plain></SENT>
+</text></document>

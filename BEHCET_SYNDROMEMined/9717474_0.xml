@@ -1,0 +1,5 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 25-year-old Hispanic woman presented with painful <z:hpo ids='HP_0000155'>oral ulcers</z:hpo>, a sore throat, and <z:hpo ids='HP_0002015'>dysphagia</z:hpo> of two weeks' duration </plain></SENT>
+<SENT sid="1" pm="."><plain>She was treated empirically with <z:chebi fb="4" ids="2453">acyclovir</z:chebi> for presumed <z:e sem="disease" ids="C0019348" disease_type="Disease or Syndrome" abbrv="">herpes simplex</z:e> <z:hpo ids='HP_0010280'>stomatitis</z:hpo> and <z:hpo ids='HP_0100633'>esophagitis</z:hpo> and sent home </plain></SENT>
+<SENT sid="2" pm="."><plain>A week later, she returned with complaints of worsening sore throat, <z:hpo ids='HP_0001945'>fever</z:hpo> (as high as 38.9 degrees C), and cough producing yellow-green sputum </plain></SENT>
+<SENT sid="3" pm="."><plain>She had not had chills, <z:mp ids='MP_0001954'>shortness of breath</z:mp>, burning on urination, or a change in bowel habits </plain></SENT>
+</text></document>

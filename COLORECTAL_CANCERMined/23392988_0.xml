@@ -1,0 +1,19 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Colorectal <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> with depth of invasion ≤1,000 μm from the muscularis mucosa and favorable histology is now considered for local resection </plain></SENT>
+<SENT sid="1" pm="."><plain>We aimed to examine the strength of evidence for this emerging practice </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: We searched Medline, Scopus, and Cochrane (1950-2011), then performed a meta-analysis on the risk of lymph node <z:e sem="disease" ids="C0027627" disease_type="Neoplastic Process" abbrv="mets">metastasis</z:e> in nonpedunculated (sessile and nonpolypoid) T1 <z:e sem="disease" ids="C1527249" disease_type="Neoplastic Process" abbrv="">colorectal cancers</z:e> </plain></SENT>
+<SENT sid="3" pm="."><plain>We included studies with nonpedunculated lesions, actual invasion depth, and pathologic factors of interest </plain></SENT>
+<SENT sid="4" pm="."><plain>Synchronous, <z:e sem="disease" ids="C0334108" disease_type="Neoplastic Process" abbrv="">polyposis</z:e> or <z:e sem="disease" ids="C0751623" disease_type="Neoplastic Process" abbrv="">secondary cancers</z:e>, and <z:e sem="disease" ids="C1559154" disease_type="Disease or Syndrome" abbrv="">chemoradiation</z:e> studies were excluded </plain></SENT>
+<SENT sid="5" pm="."><plain>Our primary outcome was the risk of LNM </plain></SENT>
+<SENT sid="6" pm="."><plain>We analyzed using Review Manager; we estimated <z:hpo ids='HP_0001425'>heterogeneity</z:hpo> using Cochran Q χ(2) test and I (2) </plain></SENT>
+<SENT sid="7" pm="."><plain>We generated summary risk ratios using a random effects model, performed sensitivity analyses, and evaluated the quality of evidence using GRADEPro </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: We identified 209 articles; 5 studies (n = 1213 patients) met the inclusion criteria </plain></SENT>
+<SENT sid="9" pm="."><plain>The risk of LNM in nonpedunculated ≤1,000 μm is 1.9 % (95 % confidence interval 0.5-4.8 %) </plain></SENT>
+<SENT sid="10" pm="."><plain>The risk for <z:hpo ids='HP_0000001'>all</z:hpo> T1 is 13 % (95 % confidence interval 11.5-15.4 %) </plain></SENT>
+<SENT sid="11" pm="."><plain>Characteristics protective against LNM were ≤1,000 μm invasion, well differentiation, absence of lymphatic and vascular invasion, and absence of <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> budding </plain></SENT>
+<SENT sid="12" pm="."><plain>We did not detect significant study <z:hpo ids='HP_0001425'>heterogeneity</z:hpo> </plain></SENT>
+<SENT sid="13" pm="."><plain>The quality of evidence was poor </plain></SENT>
+<SENT sid="14" pm="."><plain>CONCLUSIONS: Well-differentiated nonpedunculated T1 <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> invasive into the submucosa ≤1,000 μm, without lymphovascular involvement or <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> budding, has the lowest risk of nodal <z:e sem="disease" ids="C0027627" disease_type="Neoplastic Process" abbrv="mets">metastasis</z:e> </plain></SENT>
+<SENT sid="15" pm="."><plain>Importantly, the risk was not zero (1.9 %), and the qualitative formal analysis of data was not strong </plain></SENT>
+<SENT sid="16" pm="."><plain>As such, endoscopic resection alone may be adequate in select patients with submucosal invasive <z:e sem="disease" ids="C1527249" disease_type="Neoplastic Process" abbrv="">colorectal cancers</z:e>, but more studies are needed </plain></SENT>
+<SENT sid="17" pm="."><plain>Overall, the quality of evidence was poor; data were from small retrospective studies from limited geographic regions </plain></SENT>
+</text></document>

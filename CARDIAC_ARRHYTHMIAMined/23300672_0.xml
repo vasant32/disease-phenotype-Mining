@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: The familial Short QT Syndrome (SQTS) is associated with an increased risk of <z:hpo ids='HP_0011675'>cardiac arrhythmia</z:hpo> and <z:hpo ids='HP_0001699'>sudden death</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Gain-of-function mutations in the hERG <z:chebi fb="0" ids="29103">K(+)</z:chebi> channel protein have been linked to variant 1 of the SQTS </plain></SENT>
+<SENT sid="2" pm="."><plain>A hERG channel pore (T618I) mutation has recently been identified in families with heritable SQTS </plain></SENT>
+<SENT sid="3" pm="."><plain>This study aimed to determine effects of the T618I-hERG mutation on (i) hERG current (I(hERG)) elicited by ventricular action potentials; (ii) the sensitivity of I(hERG) to inhibition by four clinically used antiarrhythmic drugs </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS: Electrophysiological recordings of I(hERG) were made at 37°C from HEK 293 cells expressing <z:mp ids='MP_0002169'>wild-type</z:mp> (WT) or T618I hERG </plain></SENT>
+<SENT sid="5" pm="."><plain>Whole-cell patch clamp recording was performed using both conventional voltage clamp and ventricular action potential (AP) clamp methods </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: Under conventional voltage-clamp, WT I(hERG) peaked at 0-+10 mV, whilst for T618I I(hERG) maximal current was right-ward shifted to ∼ +40 mV </plain></SENT>
+<SENT sid="7" pm="."><plain>Voltage-dependent activation and inactivation of T618I I(hERG) were positively shifted (respectively by +15 and ∼ +25 mV) compared to WT I(hERG) </plain></SENT>
+<SENT sid="8" pm="."><plain>The I(hERG) 'window' was increased for T618I compared to WT hERG </plain></SENT>
+<SENT sid="9" pm="."><plain>Under ventricular AP clamp, maximal repolarising WT I(hERG) occurred at ∼ -30 mV, whilst for T618I hERG peak I(hERG) occurred earlier during AP repolarisation, at ∼ +5 mV </plain></SENT>
+<SENT sid="10" pm="."><plain>Under conventional voltage clamp, half-maximal inhibitory concentrations (IC(50)) for inhibition of I(hERG) tails by <z:chebi fb="0" ids="28593">quinidine</z:chebi>, <z:chebi fb="0" ids="4657">disopyramide</z:chebi>, D-sotalol and flecainide for T618I hERG ranged between 1.4 and 3.2 fold that for WT hERG </plain></SENT>
+<SENT sid="11" pm="."><plain>Under action potential voltage clamp, T618I IC(50)s ranged from 1.2 to 2.0 fold the corresponding IC(50) values for WT hERG </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: The T618I mutation produces a more modest effect on repolarising I(hERG) than reported previously for the N588K-hERG variant 1 SQTS mutation </plain></SENT>
+<SENT sid="13" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> drugs studied here appear substantially to retain their ability to inhibit I(hERG) in the setting of the SQTS-linked T618I mutation </plain></SENT>
+</text></document>

@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>In follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (FL) and mantle cell <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MCL</z:e>) the monoclonal antibody rituximab (R) improves the prognosis when combined with chemotherapy </plain></SENT>
+<SENT sid="1" pm="."><plain>The present study investigated R-maintenance after R-chemotherapy </plain></SENT>
+<SENT sid="2" pm="."><plain>Patients with recurring or refractory FL and <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MCL</z:e> were randomized to 4 courses of fludarabine, <z:chebi fb="0" ids="4027">cyclophosphamide</z:chebi>, and <z:chebi fb="0" ids="50729">mitoxantrone</z:chebi> (FCM) alone or combined with R (R-FCM) </plain></SENT>
+<SENT sid="3" pm="."><plain>Responding patients underwent a second randomization for R-maintenance comprising 2 further courses of 4-times-weekly doses of R after 3 and 9 months </plain></SENT>
+<SENT sid="4" pm="."><plain>The first randomization was stopped after 147 patients, when R-FCM revealed a significantly better outcome </plain></SENT>
+<SENT sid="5" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> subsequent patients received R-FCM </plain></SENT>
+<SENT sid="6" pm="."><plain>Of the 176 patients who are currently evaluable (as of October 2005), 138 received R-FCM for remission induction </plain></SENT>
+<SENT sid="7" pm="."><plain>Response duration was significantly prolonged by R-maintenance after R-FCM, with the median not being reached in this evaluation versus an estimated median of 16 months (P = .001) </plain></SENT>
+<SENT sid="8" pm="."><plain>This beneficial effect was also observed when analyzing FL (P = .035) and <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MCL</z:e> (P = .049) separately </plain></SENT>
+<SENT sid="9" pm="."><plain>Hence, R-maintenance is effective after salvage with R-chemotherapy and significantly prolongs response duration in patients with recurring or refractory FL or <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MCL</z:e> </plain></SENT>
+</text></document>

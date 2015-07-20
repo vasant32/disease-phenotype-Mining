@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: <z:chebi fb="0" ids="50122">Rosiglitazone</z:chebi> (RSG) is an <z:chebi fb="0" ids="50864">insulin-sensitizing drug</z:chebi> used to treat type 2 <z:hpo ids='HP_0000819'>diabetes mellitus</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>The A <z:mp ids='MP_0002055'>Diabetes</z:mp> Outcome Progression Trial (ADOPT) shows that women taking RSG experienced more fractures than patients taking other type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> drugs </plain></SENT>
+<SENT sid="2" pm="."><plain>These were not osteoporotic vertebral fractures but, rather, occurred in the limbs </plain></SENT>
+<SENT sid="3" pm="."><plain>The purpose of this study was to investigate how RSG treatment alters bone quality, which leads to fracture risk, using the <z:chebi fb="3" ids="16646">Zucker</z:chebi> fatty rat as a model </plain></SENT>
+<SENT sid="4" pm="."><plain>RESEARCH DESIGN AND METHODS: A total of 61 female 4-month-old rats were divided into six groups </plain></SENT>
+<SENT sid="5" pm="."><plain>One Sham group was a control and another was administered oral RSG 10 mg/kg/day </plain></SENT>
+<SENT sid="6" pm="."><plain>Four ovariectomized (OVX) groups were dosed as follows: controls, RSG 10 mg/kg, <z:chebi fb="0" ids="2567">alendronate</z:chebi> (ALN, injected at 0.7 mg/kg/week), and RSG 10 mg/kg plus ALN </plain></SENT>
+<SENT sid="7" pm="."><plain>After 12 weeks of treatment, bone quality was evaluated by mechanical testing </plain></SENT>
+<SENT sid="8" pm="."><plain>Microarchitecture, bone mineral density (BMD), cortical bone porosity, and bone remodeling were also measured </plain></SENT>
+<SENT sid="9" pm="."><plain>RESULTS: OVX RSG 10 mg/kg rats had lower vertebral BMD and compromised trabecular architecture versus OVX controls </plain></SENT>
+<SENT sid="10" pm="."><plain>Increased cortical bone porosity and decreased mechanical properties occurred in these rats </plain></SENT>
+<SENT sid="11" pm="."><plain>ALN treatment prevented <z:mp ids='MP_0000063'>decreased BMD</z:mp> and architectural and mechanical properties in the OVX model </plain></SENT>
+<SENT sid="12" pm="."><plain>Reduced bone formation, increased marrow <z:e sem="disease" ids="C0028754" disease_type="Disease or Syndrome" abbrv="">adiposity</z:e>, and excess bone resorption were observed in RSG-treated rats </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSIONS: RSG decreases bone quality </plain></SENT>
+<SENT sid="14" pm="."><plain>An unusual finding was an increase in cortical bone porosity induced by RSG, consistent with its effect on long bones of women </plain></SENT>
+<SENT sid="15" pm="."><plain>ALN, an inhibitor of bone resorption, enhanced mechanical strength and may provide an approach to partially counter the deleterious skeletal effects of RSG </plain></SENT>
+</text></document>

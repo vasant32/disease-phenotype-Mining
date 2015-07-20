@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We report the case of a 59 year old man presenting a regenerative microcytic hypochromic <z:hpo ids='HP_0001903'>anaemia</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>The investigations revealed the presence of <z:chebi fb="34" ids="35143">haemoglobin</z:chebi> H, suggesting abnormalities in the alpha-<z:chebi fb="0" ids="5386">globin</z:chebi> chains synthesis </plain></SENT>
+<SENT sid="2" pm="."><plain><z:e sem="disease" ids="C0002312" disease_type="Disease or Syndrome" abbrv="">Alpha-thalassemia</z:e> was thus suspected </plain></SENT>
+<SENT sid="3" pm="."><plain>The patient had no personal or familial history </plain></SENT>
+<SENT sid="4" pm="."><plain>The association with aniso-poïkilocytosis and a marked <z:e sem="disease" ids="C0282193" disease_type="Disease or Syndrome" abbrv="">iron overload</z:e> (ferritinemia &gt; 1,500 microg/L) suggested a <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo>, which was confirmed with a bone marrow <z:hpo ids='HP_0002835'>aspiration</z:hpo> </plain></SENT>
+<SENT sid="5" pm="."><plain>The pattern was consistent with the Acquired <z:e sem="disease" ids="C0002312" disease_type="Disease or Syndrome" abbrv="">alpha-Thalassemia</z:e>-<z:hpo ids='HP_0002863'>Myelodysplastic Syndrome</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">ATMDS</z:e>) </plain></SENT>
+<SENT sid="6" pm="."><plain>About a hundred cases are listed worldwidely and collected in an international registry </plain></SENT>
+<SENT sid="7" pm="."><plain>The causes of <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">ATMDS</z:e> are ignored, but recent reports indicate that the ATRX gene may be implicated in the pathogenesis </plain></SENT>
+<SENT sid="8" pm="."><plain>ATRX is a chromatin-associated protein, involved in the transcription of several genes </plain></SENT>
+<SENT sid="9" pm="."><plain>The alpha <z:chebi fb="0" ids="5386">globin</z:chebi> genes could be one of the targets of the ATRX protein </plain></SENT>
+</text></document>

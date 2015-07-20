@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Assessment of clinical factors associated with <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> (BE) length remained within the realm of anecdotal reports or one center's experience </plain></SENT>
+<SENT sid="1" pm="."><plain>The aim of this multicenter study was to determine which clinical factors are highly correlated with the length of BE </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: Patients diagnosed with BE were recruited into the study from 5 academic centers in the United States </plain></SENT>
+<SENT sid="3" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> patients had an upper endoscopy that documented BE by the presence of <z:mpath ids='MPATH_167'>intestinal metaplasia</z:mpath> in biopsy specimens </plain></SENT>
+<SENT sid="4" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> patients were evaluated by a validated demographic questionnaire and the <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">GERD</z:e> Symptom Checklist </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: A total of 263 patients with BE were recruited into the study </plain></SENT>
+<SENT sid="6" pm="."><plain>Mean BE length length for the entire sample was 4 +/- 3.3 cm </plain></SENT>
+<SENT sid="7" pm="."><plain>A longer <z:hpo ids='HP_0002036'>hiatal hernia</z:hpo> (r = 0.22, p &lt; 0.01), any <z:mpath ids='MPATH_589'>dysplasia</z:mpath> (t = -2.3, p &lt; 0.05), <z:chebi fb="0" ids="37961">H2 receptor antagonist</z:chebi> (H2-RA) consumption (t = 1.98, p &lt; 0.05), and nonsmoking (t = -2.5, p &lt; 0.05) were correlated with a longer segment of BE </plain></SENT>
+<SENT sid="8" pm="."><plain><z:chebi fb="0" ids="49200">Proton pump inhibitors</z:chebi> (<z:chebi fb="4" ids="53266">PPI</z:chebi>) (t = 1.96, p &lt; 0.05) were correlated with a shorter segment of BE </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSIONS: <z:chebi fb="4" ids="53266">PPIs</z:chebi> were correlated with shorter lengths of BE </plain></SENT>
+<SENT sid="10" pm="."><plain>In contrast, a longer <z:hpo ids='HP_0002036'>hiatal hernia</z:hpo>, any <z:mpath ids='MPATH_589'>dysplasia</z:mpath>, nonsmoking, or use of H2-RAs were correlated with a longer BE segment </plain></SENT>
+</text></document>

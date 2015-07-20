@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>In the embryonic vertebrate brain, early born neurons establish highly stereotyped embryonic axonal tracts along which the neuronal interconnections form </plain></SENT>
+<SENT sid="1" pm="."><plain>To understand the mechanism underlying neuron axonal pathfinding within the embryonic scaffold of axon tracts, we studied zebrafish anterior dorsal telencephalic (ADt) neuron development </plain></SENT>
+<SENT sid="2" pm="."><plain>While previous studies suggest the ADt neuronal axons extend along a commissural tract [anterior commissure (AC)] and a descending ipsilateral tract [supraoptic tract (SOT)], it is unclear whether individual ADt neuronal axons choose specific projection paths at the intersection between the AC and the SOT </plain></SENT>
+<SENT sid="3" pm="."><plain>We labeled individual ADt neurons using a forebrain-specific promoter to drive expression of fluorescent proteins </plain></SENT>
+<SENT sid="4" pm="."><plain>We found the ADt axonal projection patterns were <z:hpo ids='HP_0001425'>heterogeneous</z:hpo> and correlated with their soma positions </plain></SENT>
+<SENT sid="5" pm="."><plain>Our results suggest that cell intrinsic differences along the dorsal ventral axis of the telencephalon regulate the axonal projection choices </plain></SENT>
+<SENT sid="6" pm="."><plain>Next, we determined that the guidance receptors roundabout2 (Robo2) and deleted in <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> (Dcc) were differentially expressed in the ADt neurons </plain></SENT>
+<SENT sid="7" pm="."><plain>We showed that knocking down Robo2 function by injecting antisense morpholino oligonucleotides abolished the ipsilateral SOT originating from the ADt neurons </plain></SENT>
+<SENT sid="8" pm="."><plain>Knocking down Dcc function did not prevent formation of the AC and the SOT </plain></SENT>
+<SENT sid="9" pm="."><plain>In contrast, the AC was specifically reduced when Netrin1 function was knocked down </plain></SENT>
+<SENT sid="10" pm="."><plain>Further mechanistic studies suggested that Robo2 responded to the repellent Slit signals and suppressed the attractive Netrin signals </plain></SENT>
+<SENT sid="11" pm="."><plain>These findings demonstrate how Robo2-Slit and Dcc-Netrin coordinate the axonal projection choices of the developing neurons in the vertebrate forebrain </plain></SENT>
+</text></document>

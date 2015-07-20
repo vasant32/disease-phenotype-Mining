@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: Although the anticancer activities of <z:chebi fb="0" ids="15358">histone</z:chebi> deacetylase (HDAC) inhibitors have been studied, a role for HDAC in <z:mpath ids='MPATH_458'>normal</z:mpath> hematopoiesis has not been clearly defined </plain></SENT>
+<SENT sid="1" pm="."><plain>Previous studies have shown that the potent HDAC inhibitor FK228 stimulates interleukin (IL)-3-mediated erythropoiesis </plain></SENT>
+<SENT sid="2" pm="."><plain>Here, we examined whether the widely used <z:chebi fb="0" ids="39867">valproic acid</z:chebi> (VPA) affects megakaryopoiesis as well as erythropoiesis </plain></SENT>
+<SENT sid="3" pm="."><plain>MATERIALS AND METHODS: CD34(+) cells were incubated in serum-free or serum-containing cultures with cytokines, with or without VPA </plain></SENT>
+<SENT sid="4" pm="."><plain>RESULTS: In the serum-free cultures containing IL-3+stem cell factor (SCF), VPA significantly increased generation of CD61(+)GPA(-) megakaryocytic and a CD61(+)GPA(+) mixture of megakaryocytic and erythroid precursors from CD34(+) hematopoietic precursors at a pharmacological concentration (100 microg/mL) </plain></SENT>
+<SENT sid="5" pm="."><plain>The increase in generation of megakaryocytic and erythroid precursors by VPA was confirmed by replating cultured cells with thrombopoietin+SCF and erythropoietin+SCF, respectively </plain></SENT>
+<SENT sid="6" pm="."><plain>VPA was as potent as FK228 </plain></SENT>
+<SENT sid="7" pm="."><plain>In cultures with granulocyte-macrophage colony-stimulating factor+SCF, where CD61(-)GPA(+) erythroid precursors were mostly developed, VPA mainly enhanced the generation of CD61(-)GPA(+) erythroid precursors </plain></SENT>
+<SENT sid="8" pm="."><plain>In serum-containing cultures, only low numbers of CD61(+) or GPA(+) cells were developed with IL-3+SCF </plain></SENT>
+<SENT sid="9" pm="."><plain>Nevertheless, a substantial number of these cells were generated with VPA </plain></SENT>
+<SENT sid="10" pm="."><plain>Furthermore, these stimulating effects of VPA were observed by incubating CD34(+) cells from patients with <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo> </plain></SENT>
+<SENT sid="11" pm="."><plain>Quantitative reverse transcription polymerase chain reaction showed that VPA enhanced GATA-2, but not GATA-1, <z:chebi fb="5" ids="33699">messenger RNA</z:chebi> expression with IL-3+SCF </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: These results indicate a novel role for VPA in enhancing the potential of IL-3 to stimulate megakaryopoiesis as well as erythropoiesis and suggest a new therapeutic approach of epigenetic therapy for <z:e sem="disease" ids="C0018939" disease_type="Disease or Syndrome" abbrv="">hematological disease</z:e> </plain></SENT>
+</text></document>

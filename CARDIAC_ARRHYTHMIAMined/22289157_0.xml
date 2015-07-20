@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIM: Cardiovascular oscillations are tightly coupled to respiration </plain></SENT>
+<SENT sid="1" pm="."><plain>Respiratory sinus <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> (RSA) is an important part of heart rate variability with unknown function </plain></SENT>
+<SENT sid="2" pm="."><plain><z:hpo ids='HP_0001297'>Stroke</z:hpo> volumes from the right (r-SV) and left (l-SV) side of the heart are assumed to vary differently with respiration, but have not previously been recorded non-invasively and simultaneously in humans </plain></SENT>
+<SENT sid="3" pm="."><plain>The present study introduces an improved technique for capturing respiratory variations in r-SV </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS: Six young volunteers were investigated during spontaneous and metronome-paced breathing in the left lateral <z:e sem="disease" ids="C0011127" disease_type="Disease or Syndrome" abbrv="">decubitus</z:e> position </plain></SENT>
+<SENT sid="5" pm="."><plain>Heart rate (HR, from ECG), l-SV (from finger blood arterial pressure curve) and r-SV (pulsed ultrasound Doppler) were recorded </plain></SENT>
+<SENT sid="6" pm="."><plain>Left and right cardiac outputs (l-CO and r-CO) were calculated beat by beat from HR, l-SV and r-SV </plain></SENT>
+<SENT sid="7" pm="."><plain>Respiratory variations in cardiovascular variables and phase angles were estimated by spectral analysis at respiratory frequency (0.15-0.40 Hz) </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: The amplitude of respiratory variations in l-CO was 17% of r-CO (94% CI (6%, 35%), P=0.03) </plain></SENT>
+<SENT sid="9" pm="."><plain>The amplitude of the respiratory variations in l-SV was not different from r-SV (74%, 94% CI (50%, 127%) non-significant) </plain></SENT>
+<SENT sid="10" pm="."><plain>Increases in HR and r-SV were in phase with inspiration, while l-SV decreased during inspiration </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSION: The amplitude of respiratory variations in l-CO is significantly smaller than in r-CO </plain></SENT>
+<SENT sid="12" pm="."><plain>Respiratory variations in HR and in l-SV are in inverse phase; thus, RSA buffers respiratory variations in l-SV </plain></SENT>
+<SENT sid="13" pm="."><plain>RSA plays an important role in reducing oscillations in systemic blood flow resulting from respiratory changes in venous return </plain></SENT>
+</text></document>

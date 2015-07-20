@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Emergency medical services (EMS) encountered an alert patient with sustained <z:hpo ids='HP_0001663'>ventricular fibrillation</z:hpo> with preserved hemodynamics via a left ventricular assist device (LVAD) </plain></SENT>
+<SENT sid="1" pm="."><plain>Multiple firings of the patient's implantable defibrillator were the only sign that this patient was experiencing the usually fatal <z:hpo ids='HP_0004308'>ventricular arrhythmia</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>Initial attempts at rhythm conversion with <z:chebi fb="0" ids="2663">amiodarone</z:chebi> and 200-J biphasic shocks were unsuccessful </plain></SENT>
+<SENT sid="3" pm="."><plain>The patient was finally defibrillated to <z:mpath ids='MPATH_458'>normal</z:mpath> sinus rhythm after a 360-J biphasic shock </plain></SENT>
+<SENT sid="4" pm="."><plain>This case conference highlights the increasing prevalence of LVADs </plain></SENT>
+<SENT sid="5" pm="."><plain>These devices are used not only as a bridge to cardiac transplantation, but also as definitive therapy for patients in end-stage <z:hpo ids='HP_0001635'>cardiac failure</z:hpo> </plain></SENT>
+<SENT sid="6" pm="."><plain><z:hpo ids='HP_0001663'>Ventricular fibrillation</z:hpo> has been shown to be well tolerated in patients with LVADs, and we discuss a standard of care for these patients </plain></SENT>
+<SENT sid="7" pm="."><plain>The occurrence of sustained <z:hpo ids='HP_0001663'>ventricular fibrillation</z:hpo> in patients with ventricular assist devices represents a challenging situation for EMS and emergency department providers and one that will be increasingly encountered in the future </plain></SENT>
+</text></document>

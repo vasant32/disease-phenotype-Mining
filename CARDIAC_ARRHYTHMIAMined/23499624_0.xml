@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Persistent <z:hpo ids='HP_0005110'>atrial fibrillation</z:hpo> (PAF) results in electromechanical and structural remodeling by mechanisms that are poorly understood </plain></SENT>
+<SENT sid="1" pm="."><plain>Myofibroblast proliferation and <z:mp ids='MP_0003045'>fibrosis</z:mp> is a major source of structural remodeling in PAF </plain></SENT>
+<SENT sid="2" pm="."><plain>Myofibroblasts also interact with atrial myocytes via direct physical contact and release of signaling molecules that may contribute to remodeling </plain></SENT>
+<SENT sid="3" pm="."><plain>OBJECTIVE: To determine whether myofibroblasts contribute to atrial myocyte electromechanical remodeling via direct physical contact and platelet-derived growth factor (PDGF) signaling </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS AND RESULTS: Myofibroblasts and myocytes from adult sheep atria were co-cultured for 24 hours </plain></SENT>
+<SENT sid="5" pm="."><plain>Myocytes making contact with myofibroblasts demonstrated significant reduction (p≤0.05) in L-type calcium (ICa,L) peak current density, shortening of action potential duration (APD)and reduction in calcium transients </plain></SENT>
+<SENT sid="6" pm="."><plain>These effects were blocked by pre-treatment with neutralizing PDGF-AB antibody (N-ab) </plain></SENT>
+<SENT sid="7" pm="."><plain>Heterocellular contact also severely disturbed the localization of the L-type calcium channel </plain></SENT>
+<SENT sid="8" pm="."><plain>Exposure of adult sheep atrial myocytes to 1ng/ml recombinant PDGF-AB <z:chebi fb="7" ids="16670">peptide</z:chebi> for 24 hours reduced both APD50 and APD80 (p≤0.05) </plain></SENT>
+<SENT sid="9" pm="."><plain>Peak ICa,L was reduced as well </plain></SENT>
+<SENT sid="10" pm="."><plain>Pretreatment with N-ab prevented these effects </plain></SENT>
+<SENT sid="11" pm="."><plain>Finally, while control atrial myocytes did not respond 1:1 to pacing frequencies &gt;3 Hz, atrial myocytes from hearts that were tachypaced for 2 months and <z:mpath ids='MPATH_458'>normal</z:mpath> myocytes treated with PDGF-AB for 24 hrs could be paced at 10 Hz </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSION: In addition to leading to <z:mp ids='MP_0003045'>fibrosis</z:mp>, atrial myofibroblasts contribute to electromechanical remodeling of myocytes via direct physical contact and release of PDGF-AB, which may be a factor in PAF induced remodeling </plain></SENT>
+</text></document>

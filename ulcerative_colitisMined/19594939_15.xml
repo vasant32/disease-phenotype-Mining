@@ -1,0 +1,19 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: <z:chebi fb="0" ids="49183">Phosphatidylcholine</z:chebi> (PC) is a major <z:chebi fb="23" ids="18059">lipid</z:chebi> of the gastrointestinal mucus layer </plain></SENT>
+<SENT sid="1" pm="."><plain>We recently showed that mucus from patients suffering from <z:hpo ids='HP_0100279'>ulcerative colitis</z:hpo> has low levels of PC </plain></SENT>
+<SENT sid="2" pm="."><plain>Clinical studies reveal that the therapeutic addition of PC to the colonic mucus using slow release preparations is beneficial </plain></SENT>
+<SENT sid="3" pm="."><plain>The positive role of PC in this disease is still unclear; however, we have recently shown that PC has an intrinsic anti-inflammatory property </plain></SENT>
+<SENT sid="4" pm="."><plain>It could be demonstrated that the exogenous application of PC inhibits membrane-dependent actin assembly and TNF-alpha-induced nuclear NF-kappaB activation </plain></SENT>
+<SENT sid="5" pm="."><plain>We investigate here in more detail the hypothesis that the exogenous application of PC has anti-inflammatory properties </plain></SENT>
+<SENT sid="6" pm="."><plain>METHODS: PC species with different fatty acid side chains were applied to differentiated and non-differentiated Caco-2 cells treated with TNF-alpha to induce a pro-<z:mp ids='MP_0001845'>inflammatory response</z:mp> </plain></SENT>
+<SENT sid="7" pm="."><plain>We analysed TNF-alpha-induced NF-kappaB-activation via the transient expression of a NF-kappaB-luciferase reporter system </plain></SENT>
+<SENT sid="8" pm="."><plain>Pro-inflammatory gene transcription was detected with the help of a quantitative real time (RT)-PCR analysis </plain></SENT>
+<SENT sid="9" pm="."><plain>We assessed the binding of TNF-alpha to its receptor by FACS and analysed <z:chebi fb="23" ids="18059">lipid</z:chebi> rafts by isolating detergent resistant membranes (DRMs) </plain></SENT>
+<SENT sid="10" pm="."><plain>RESULTS: The exogenous addition of <z:hpo ids='HP_0000001'>all</z:hpo> PC species tested significantly inhibited TNF-alpha-induced pro-inflammatory signalling </plain></SENT>
+<SENT sid="11" pm="."><plain>The expression levels of IL-8, ICAM-1, IP-10, <z:chebi fb="17" ids="50099">MCP</z:chebi>-1, TNF-alpha and MMP-1 were significantly reduced after PC pre-treatment for at least two hours </plain></SENT>
+<SENT sid="12" pm="."><plain>The effect was comparable to the inhibition of NF-kB by the NF-kB inhibitor SN 50 and was not due to a reduced binding of TNF-alpha to its receptor or a decreased surface expression of TNF-alpha receptors </plain></SENT>
+<SENT sid="13" pm="."><plain>PC was also effective when applied to the apical side of polarised Caco-2 cultures if cells were stimulated from the basolateral side </plain></SENT>
+<SENT sid="14" pm="."><plain>PC treatment changed the compartmentation of the TNF-alpha-receptors 1 and 2 to DRMs </plain></SENT>
+<SENT sid="15" pm="."><plain>CONCLUSION: PC induces a prolonged inhibition of TNF-alpha-induced pro-inflammatory signalling </plain></SENT>
+<SENT sid="16" pm="."><plain>This inhibition may be caused by a shift of the TNF-alpha receptors at the surface to <z:chebi fb="23" ids="18059">lipid</z:chebi> rafts </plain></SENT>
+<SENT sid="17" pm="."><plain>Our results may offer a potential molecular explanation for the positive role of PC seen in clinical studies for the treatment of <z:hpo ids='HP_0100279'>ulcerative colitis</z:hpo> </plain></SENT>
+</text></document>

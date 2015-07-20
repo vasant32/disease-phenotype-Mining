@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The expression of the Epstein-Barr virus LMP1 oncogene is regulated by <z:mp ids='MP_0001799'>viral</z:mp> and non-<z:mp ids='MP_0001799'>viral</z:mp> factors in a tissue dependent fashion </plain></SENT>
+<SENT sid="1" pm="."><plain>The virus encoded transcription factor EBNA2 induces its expression in human B-cells </plain></SENT>
+<SENT sid="2" pm="."><plain>However, this induction also requires the contribution of cellular and/or other <z:mp ids='MP_0001799'>viral</z:mp> factors </plain></SENT>
+<SENT sid="3" pm="."><plain>In nasopharyngeal <z:mp ids='MP_0002038'>carcinoma</z:mp> cells and in cells from Hodgkin's <z:hpo ids='HP_0002665'>lymphoma</z:hpo>, LMP1 gene transcription is independent of <z:mp ids='MP_0001799'>viral</z:mp> products </plain></SENT>
+<SENT sid="4" pm="."><plain>Here we show that the effect of a factor binding to a cAMP responsive-like element (CRE) in the LMP1 gene transcription regulatory sequence (LRS) is essential for efficient promoter activity in the DG75 B-cell line and that elevation of cAMP levels in the cells induces LRS-derived CAT activity in a CRE dependent fashion </plain></SENT>
+<SENT sid="5" pm="."><plain>Incubation of two EBV-immortalized B-cell lines expressing endogenous EBNA2A with 8-Br cAMP increased the levels of the latency associated 66 kDa LMP1 within 2 h </plain></SENT>
+<SENT sid="6" pm="."><plain>Interestingly, LMP1 expression in DG75 cells conferred resistance to the inhibitory effect of 8-Br cAMP on cell proliferation </plain></SENT>
+<SENT sid="7" pm="."><plain>The protein phosphatase 1 and 2A (PP1 and PP2A, respectively) inhibitor <z:chebi fb="0" ids="44658">okadaic acid</z:chebi> also stimulated LRS-CAT activity in DG75 cells </plain></SENT>
+<SENT sid="8" pm="."><plain>EBNA2A from an EBV-immortalized B-cell line co-immunopurified with a PP1-like protein </plain></SENT>
+<SENT sid="9" pm="."><plain>An EBNA2A fragment spanning residues 324-436 fused to the GST protein specifically rescued a PP1/PP2A-like component from DG75 cell extracts </plain></SENT>
+<SENT sid="10" pm="."><plain>This GST-EBNA2A fusion product inhibited a PP1-like activity in nuclear extracts from these cells </plain></SENT>
+</text></document>

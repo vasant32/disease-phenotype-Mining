@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Bevacizumab prolongs OS when added to first- or second-line chemotherapy for mCRC </plain></SENT>
+<SENT sid="1" pm="."><plain>This retrospective analysis evaluated the association between the continued use of BBP and survival outcomes in mCRC patients treated in a community <z:hpo ids='HP_0002664'>oncology</z:hpo> setting </plain></SENT>
+<SENT sid="2" pm="."><plain>PATIENTS AND METHODS: Data were derived from the US <z:hpo ids='HP_0002664'>Oncology</z:hpo> iKnowMed electronic medical record system </plain></SENT>
+<SENT sid="3" pm="."><plain>Patients with mCRC who received first-line bevacizumab-containing therapy between July 1, 2006 and June 30, 2009, were dichotomized into 2 second-line treatment cohorts: those receiving BBP and No-BBP </plain></SENT>
+<SENT sid="4" pm="."><plain>Clinical outcomes, including OS and postprogression OS (ppOS; time from start of second-line therapy to any-cause <z:hpo ids='HP_0011420'>death</z:hpo>), were calculated using Kaplan-Meier methods </plain></SENT>
+<SENT sid="5" pm="."><plain>A Cox proportional hazards model was used to assess the effects of patient and treatment characteristics on survival outcomes, adjusting for covariates </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: Overall, 573 patients met the inclusion criteria for analysis-BBP (n = 267) and No-BBP (n = 306) </plain></SENT>
+<SENT sid="7" pm="."><plain>Median OS and ppOS were longer in the BBP cohort (27.9 and 14.6 months, respectively) compared with the No-BBP cohort (21.4 and 10.1 months) </plain></SENT>
+<SENT sid="8" pm="."><plain>According to multivariate analyses, BBP was associated with longer OS (HR, 0.76; 95% CI, 0.61-0.95) and ppOS (HR, 0.74; 95% CI, 0.60-0.93) after adjusting for potential confounders </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSIONS: In the community <z:hpo ids='HP_0002664'>oncology</z:hpo> setting, BBP treatment was correlated with prolonged OS and ppOS in patients with mCRC </plain></SENT>
+<SENT sid="10" pm="."><plain>These results provide insight into real-world patterns of care and resultant bevacizumab use in this patient population </plain></SENT>
+</text></document>

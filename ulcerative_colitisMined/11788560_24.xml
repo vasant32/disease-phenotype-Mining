@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: <z:chebi fb="21" ids="16136">Hydrogen sulphide</z:chebi> (H(2)S) is a potent toxin normally present in the colonic lumen which may play a role in <z:hpo ids='HP_0100279'>ulcerative colitis</z:hpo> (UC) </plain></SENT>
+<SENT sid="1" pm="."><plain>Two enzymes, <z:chebi fb="0" ids="29256">thiol</z:chebi> methyltransferase (TMT) and rhodanese (RHOD), are thought to be responsible for <z:chebi fb="35" ids="15138">sulphide</z:chebi> removal but supportive evidence is lacking </plain></SENT>
+<SENT sid="2" pm="."><plain>AIMS: To determine the distribution of TMT and RHOD in different sites throughout the gastrointestinal tract and their efficacy as detoxifiers of H(2)S </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: Enzyme activities were measured in <z:mpath ids='MPATH_458'>normal</z:mpath> tissue resected from patients with <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> </plain></SENT>
+<SENT sid="4" pm="."><plain>TMT and RHOD activities were determined using their conventional substrates, 2-<z:chebi fb="0" ids="41218">mercaptoethanol</z:chebi> and <z:chebi fb="199" ids="26708">sodium</z:chebi> <z:chebi fb="3" ids="16094">thiosulphate</z:chebi>, respectively </plain></SENT>
+<SENT sid="5" pm="."><plain>For measurement of H(2)S metabolism, <z:chebi fb="199" ids="26708">sodium</z:chebi> <z:chebi fb="35" ids="15138">sulphide</z:chebi> was used in the absence of dithiothreitol </plain></SENT>
+<SENT sid="6" pm="."><plain><z:chebi fb="0" ids="35666">Thiopurine</z:chebi> methyltransferase (TPMT), which in common with TMT methylates <z:chebi fb="0" ids="29917">sulphydryl groups</z:chebi> but is not thought to act on H(2)S, was also examined </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: TMT, RHOD, and TPMT activities using their conventional substrates were found throughout the gastrointestinal tract with highest activity in the colonic mucosa </plain></SENT>
+<SENT sid="8" pm="."><plain>When H(2)S was given as substrate, no reaction product was found with TMT or TPMT but RHOD was extremely active (Km 8.8 mM, Vmax 14.6 nmol/mg/min) </plain></SENT>
+<SENT sid="9" pm="."><plain>Incubation of colonic homogenates with a specific RHOD antibody prevented the metabolism of H(2)S, indicating that RHOD is responsible for detoxifying H(2)S </plain></SENT>
+<SENT sid="10" pm="."><plain>A purified preparation of RHOD also detoxified H(2)S </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: RHOD, located in the submucosa and crypts of the colon, is the principal enzyme involved in H(2)S detoxication </plain></SENT>
+<SENT sid="12" pm="."><plain>TMT does not participate in the detoxication of H(2)S </plain></SENT>
+</text></document>

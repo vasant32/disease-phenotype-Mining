@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: A simple and rapid assay system for the detection of human T cell <z:hpo ids='HP_0001909'>leukemia</z:hpo> virus type I (HTLV-I) binding cells was developed to assess the virus specific receptor and titrate the antibodies to block the virus binding </plain></SENT>
+<SENT sid="1" pm="."><plain>EXPERIMENTAL DESIGN: Cells (5 x 10(5)) were incubated with 100 microliters of the concentrated HTLV-I at 37 degrees C for 1 hour </plain></SENT>
+<SENT sid="2" pm="."><plain>After washing, the cells were reacted with anti-HTLV-I envelope monoclonal antibody (rat) for 30 minutes on ice and then stained with <z:chebi fb="0" ids="37926">fluorescein-isothiocyanate</z:chebi>-conjugated anti-rat immunoglobulin </plain></SENT>
+<SENT sid="3" pm="."><plain>The stained samples were analyzed on FACScan </plain></SENT>
+<SENT sid="4" pm="."><plain>Antibody-titration of the virus-binding inhibition was carried out by pretreatment of the virus with serially diluted sera </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: The specificity of the virus-binding was shown by dose-response relationship, kinetics of the binding, and temperature dependency </plain></SENT>
+<SENT sid="6" pm="."><plain>HTLV-I was absorbed onto a wide range of human cell lines and peripheral blood lymphocytes at various levels </plain></SENT>
+<SENT sid="7" pm="."><plain>Antibodies to inhibit the virus-binding were also quantitatively detected in sera from HTLV-I infected individuals, including asymptomatic carriers and patients with adult T cell <z:hpo ids='HP_0001909'>leukemia</z:hpo> or HTLV-I-associated <z:hpo ids='HP_0002196'>myelopathy</z:hpo>, but not from healthy seronegative controls </plain></SENT>
+<SENT sid="8" pm="."><plain>CONCLUSIONS: This assay system would be useful in screening the virus-specific receptor and the neutralizing antibodies to HTLV-I </plain></SENT>
+<SENT sid="9" pm="."><plain>Thus, the assay could be applied to further studies on HTLV-I-related diseases </plain></SENT>
+</text></document>

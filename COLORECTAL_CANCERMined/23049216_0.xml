@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIM: To assess the prognostic value of preoperative 18 fluorodeoxyglucose <z:chebi fb="4" ids="30225">positron</z:chebi> emission tomography (FDG-PET)/computed tomography (CT) in patients with resectable <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: One hundred sixty-three patients with resectable <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> who underwent FDG-PET/CT before surgery were included </plain></SENT>
+<SENT sid="2" pm="."><plain>Patient data including pathologic stage at presentation, histology, treatment, disease-free survival and the maximum standardized uptake value (SUVmax) of the <z:e sem="disease" ids="C0677930" disease_type="Neoplastic Process" abbrv="">primary tumor</z:e> on FDG-PET/CT were retrospectively analyzed </plain></SENT>
+<SENT sid="3" pm="."><plain>Median follow up duration was 756 (range, 419-1355) </plain></SENT>
+<SENT sid="4" pm="."><plain>The primary end point was disease-free survival </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: Twenty-five of 163 patients (15.3%) had recurrences </plain></SENT>
+<SENT sid="6" pm="."><plain>The median SUVmax values of the recurrence and no-recurrence groups were 8.9 (range, 5-24) and 8.2 (range, 0-23, P = 0.998) </plain></SENT>
+<SENT sid="7" pm="."><plain>Receiver operating characteristic (ROC) curve analysis showed no significant association between SUVmax and recurrence (area under the curve = 0.5, P = 0.998, 95% CI: 0.389-0.611) </plain></SENT>
+<SENT sid="8" pm="."><plain>Because a statistically significant value was not found, SUVmax was dichotomized at its median of 8.6 </plain></SENT>
+<SENT sid="9" pm="."><plain>The disease-free survival curve was analyzed using the median SUVmax (8.6) as the cut off </plain></SENT>
+<SENT sid="10" pm="."><plain>Univariate and multivariate analysis did not provide evidence that disease-free survival rates for the subgroups defined by the median SUVmax were significantly different (P = 0.52, P = 0.25) </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSION: Our study suggests that the high FDG uptake of primary mass in resectable <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> doesn't have a significant relationship with <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> recurrence and disease-free survival </plain></SENT>
+</text></document>

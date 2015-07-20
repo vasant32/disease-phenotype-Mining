@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>1 </plain></SENT>
+<SENT sid="1" pm="."><plain>Bradykinin promotes neuronal damage and <z:hpo ids='HP_0002181'>brain edema</z:hpo> through the activation of the B(2) receptor </plain></SENT>
+<SENT sid="2" pm="."><plain>The neuroprotective effect of LF 16-0687 Ms, a B(2) receptor <z:chebi fb="68" ids="48706">antagonist</z:chebi>, has been described when given prior to induction of transient focal <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> in rat, but there are no data regarding the consequence of a treatment when given after injury </plain></SENT>
+<SENT sid="3" pm="."><plain>Therefore, in a murine model of transient middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (MCAO), we evaluated the effect of LF 16-0687 Ms given prior to and/or after the <z:hpo ids='HP_0003674'>onset</z:hpo> of <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> on neurological deficit, <z:mpath ids='MPATH_124'>infarct</z:mpath> volume and <z:mp ids='MP_0001845'>inflammatory responses</z:mp> including <z:hpo ids='HP_0002181'>cerebral edema</z:hpo>, blood-brain barrier (<z:chebi fb="2" ids="33602">BBB</z:chebi>) disruption and neutrophil accumulation </plain></SENT>
+<SENT sid="4" pm="."><plain>2 </plain></SENT>
+<SENT sid="5" pm="."><plain>LF 16-0687 Ms (1, 2 and 4 mg kg(-1)) administered 0.5 h before and, 1.25 and 6 h after MCAO, decreased the <z:mpath ids='MPATH_124'>infarct</z:mpath> volume by a maximum of 33% and significantly improved the neurological recovery </plain></SENT>
+<SENT sid="6" pm="."><plain>3 </plain></SENT>
+<SENT sid="7" pm="."><plain>When given at 0.25 and 6.25 h after MCAO, LF 16-0687 Ms (1.5, 3 and 6 mg kg(-1)) decreased the <z:mpath ids='MPATH_124'>infarct</z:mpath> volume by a maximum of 25% and improved the neurological score </plain></SENT>
+<SENT sid="8" pm="."><plain>4 </plain></SENT>
+<SENT sid="9" pm="."><plain>Post-treatment with LF 16-0687 Ms (1.5 mg kg(-1)) significantly decreased <z:hpo ids='HP_0002181'>brain edema</z:hpo> (-28%), <z:chebi fb="2" ids="33602">BBB</z:chebi> disruption (-60%) and neutrophil accumulation (-65%) induced by <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> </plain></SENT>
+<SENT sid="10" pm="."><plain>Physiological parameters were not modified by LF 16-0687 Ms </plain></SENT>
+<SENT sid="11" pm="."><plain>5 </plain></SENT>
+<SENT sid="12" pm="."><plain>These data emphasize the role of bradykinin B(2) receptor in the development of <z:mpath ids='MPATH_124'>infarct</z:mpath> lesion, neurological deficit and <z:mp ids='MP_0001845'>inflammatory responses</z:mp> resulting from transient focal <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> </plain></SENT>
+<SENT sid="13" pm="."><plain>Therefore, B(2) receptor <z:chebi fb="68" ids="48706">antagonist</z:chebi> might represent a new therapeutic approach in the pharmacological treatment of <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+</text></document>

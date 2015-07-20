@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The transcription factor KLF4 may act both as an oncogene and a <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> suppressor in a tissue-depending manner </plain></SENT>
+<SENT sid="1" pm="."><plain>In T- and pre-B-cell <z:hpo ids='HP_0002665'>lymphoma</z:hpo>, KLF4 was found to act as <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> suppressor </plain></SENT>
+<SENT sid="2" pm="."><plain>We found the KLF4 promoter methylated in B-cell <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cell lines and in primary cases of B-cell <z:hpo ids='HP_0002665'>lymphomas</z:hpo>, namely, follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo>, diffuse large B-cell <z:hpo ids='HP_0002665'>lymphoma</z:hpo>, Burkitt <z:hpo ids='HP_0002665'>lymphoma</z:hpo>, and in classic Hodgkin <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (cHL) cases </plain></SENT>
+<SENT sid="3" pm="."><plain>Promoter hypermethylation was associated with silencing of KLF4 expression </plain></SENT>
+<SENT sid="4" pm="."><plain>Conditional overexpression of KLF4 in Burkitt <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cell lines moderately retarded proliferation, via cell-cycle arrest in G(0)/G(1) </plain></SENT>
+<SENT sid="5" pm="."><plain>In the cHL cell lines, KLF4 induced massive cell <z:hpo ids='HP_0011420'>death</z:hpo> that could partially be inhibited with Z-VAD.fmk </plain></SENT>
+<SENT sid="6" pm="."><plain>A quantitative reverse-transcribed polymerase chain reaction array revealed KLF4 target genes, including the proapoptotic gene BAK1 </plain></SENT>
+<SENT sid="7" pm="."><plain>Using an shRNA-mediated knock-down approach, we found that BAK1 is largely responsible for KLF4-induced <z:mpath ids='MPATH_3'>apoptosis</z:mpath> </plain></SENT>
+<SENT sid="8" pm="."><plain>In addition, we found that KLF4 negatively regulates CXCL10, CD86, and MSC/ABF-1 genes </plain></SENT>
+<SENT sid="9" pm="."><plain>These genes are specifically up-regulated in HRS cells of cHL and known to be involved in establishing the cHL phenotype </plain></SENT>
+<SENT sid="10" pm="."><plain>We conclude that epigenetic silencing of KLF4 in B-cell <z:hpo ids='HP_0002665'>lymphomas</z:hpo> and particularly in cHL may favor <z:hpo ids='HP_0002665'>lymphoma</z:hpo> survival by loosening cell-cycle control and protecting from <z:mpath ids='MPATH_3'>apoptosis</z:mpath> </plain></SENT>
+</text></document>

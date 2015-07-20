@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Because no single test measures disability in rats with middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp>/traumatic brain injury (MCAo/TBI), multiple tests are needed to assess the effect of bone marrow stromal cell (MSC) on functional recovery </plain></SENT>
+<SENT sid="1" pm="."><plain>Testing the treatment effect on each outcome at the 0.05 level without adjusting for multiple outcomes can increase type I error </plain></SENT>
+<SENT sid="2" pm="."><plain>Therefore, we applied the global test to evaluate a common MSC dose effect on multiple outcomes in two applications: (i) MCAo rats with the MSC dose of zero (BPS), 1x10(6) and 3x10(6), and (ii) TBI rats with the MSC dose of zero, 1x10(6), 2x10(6) and 4x10(6), administered intravenously at 1 day after injury </plain></SENT>
+<SENT sid="3" pm="."><plain>For the MCAo rats, 3x10(6) MSCs improved the 14 day functional recovery (P&lt;0.05) compared to the controls </plain></SENT>
+<SENT sid="4" pm="."><plain>TBI rats with the MSC dose 4x10(6) were improved significantly at 1 month compared to controls, rats with 1x10(6) or 2x10(6) MSCs (P&lt;0.05) </plain></SENT>
+<SENT sid="5" pm="."><plain>The global test on multiple outcomes is more efficient than a single outcome when treatment effects are consistent </plain></SENT>
+<SENT sid="6" pm="."><plain>The less correlation among the outcomes, the more power and, therefore, the higher efficiency of the global test </plain></SENT>
+<SENT sid="7" pm="."><plain>We demonstrated that the global test for continuous outcomes could be implemented under careful statistical modeling and proper data transformation </plain></SENT>
+</text></document>

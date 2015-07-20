@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIMS/HYPOTHESIS: The involvement of <z:hpo ids='HP_0011010'>chronic</z:hpo> <z:mp ids='MP_0001845'>inflammation</z:mp> in <z:mp ids='MP_0002871'>albuminuria</z:mp> and renal function was investigated in a cross-sectional study of 320 type 2 diabetic Chinese patients from the Singapore <z:mp ids='MP_0002055'>Diabetes</z:mp> Cohort Study </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: Plasma levels of TNF-alpha and its two cellular receptors and of IL-6 and C-reactive protein (CRP) were measured </plain></SENT>
+<SENT sid="2" pm="."><plain>A composite TNF-alpha score was extracted using principal component analysis </plain></SENT>
+<SENT sid="3" pm="."><plain>Multiple linear regression analysis was implemented to evaluate the relationship between log( e ) (ln) albumin:<z:chebi fb="0" ids="16737">creatinine</z:chebi> ratio (ACR) and estimated GFR (eGFR) with the inflammatory variables and other clinical covariates </plain></SENT>
+<SENT sid="4" pm="."><plain>A Bonferroni correction was applied based on the total number of variables entered into regression analyses </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: ln ACR was significantly associated with TNF-alpha score independently of eGFR even after a Bonferroni correction </plain></SENT>
+<SENT sid="6" pm="."><plain>TNF-alpha score was also significantly associated with eGFR independently of ln ACR even after correction for multiple testing </plain></SENT>
+<SENT sid="7" pm="."><plain>These findings were similar when the individual molecules of the TNF-alpha system were analysed separately instead of using the composite TNF-alpha score </plain></SENT>
+<SENT sid="8" pm="."><plain>No association was observed for IL-6 and CRP with either renal trait </plain></SENT>
+<SENT sid="9" pm="."><plain><z:mp ids='MP_0002055'>Diabetes</z:mp> duration was a significant predictor for ln ACR but not eGFR </plain></SENT>
+<SENT sid="10" pm="."><plain>Conversely, age was significantly associated with eGFR but not ln ACR </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS/INTERPRETATION: Activation of the TNF-alpha system may potentially exert independent effects on ln ACR and eGFR in type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="12" pm="."><plain>Because of the study design, one may also consider the possibility that changes in these renal traits may conversely be responsible for such an <z:mp ids='MP_0001845'>inflammatory response</z:mp> </plain></SENT>
+</text></document>

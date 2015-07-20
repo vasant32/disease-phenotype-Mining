@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Overexpression of c-Myc in <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumors</z:e> is usually associated with cell proliferation and increased susceptibility to <z:mpath ids='MPATH_3'>apoptosis</z:mpath> </plain></SENT>
+<SENT sid="1" pm="."><plain>Concomitantly, c-Myc contributes to <z:mp ids='MP_0002006'>tumorigenesis</z:mp> by its ability to destabilize the cellular genome </plain></SENT>
+<SENT sid="2" pm="."><plain>Here, we examined whether c-Myc induces genomic instability and <z:mpath ids='MPATH_3'>apoptosis</z:mpath> in c-Myc-activated cells </plain></SENT>
+<SENT sid="3" pm="."><plain><z:mp ids='MP_0002169'>Wild-type</z:mp> Myc (wt-Myc) and two mutated Myc myc box II proteins (mt-Myc) were overexpressed in IL3-dependent murine Ba/F3 cells </plain></SENT>
+<SENT sid="4" pm="."><plain>As expected, wt-Myc triggered <z:mpath ids='MPATH_3'>apoptosis</z:mpath> in absence of IL3 </plain></SENT>
+<SENT sid="5" pm="."><plain>Standard karyotyping, spectral karyotyping, and fluorescent in situ hybridization (FISH) were performed before and after c-Myc activation </plain></SENT>
+<SENT sid="6" pm="."><plain>Structural and numerical genomic instability was detected 48 h after wt-Myc activation and included gene amplification, the formation of extrachromosomal elements (EEs), <z:hpo ids='HP_0003220'>chromosome breakage</z:hpo>, deletions, increased <z:mp ids='MP_0004024'>aneuploidy</z:mp>, and polyploidization </plain></SENT>
+<SENT sid="7" pm="."><plain>Interestingly, some cells simultaneously displayed genomic instability and <z:mpath ids='MPATH_3'>apoptosis</z:mpath> </plain></SENT>
+<SENT sid="8" pm="."><plain>Both wt- and mt-Myc proteins were equally potent promoters of genomic instability </plain></SENT>
+<SENT sid="9" pm="."><plain>However, only wt-Myc simultaneously induced genomic instability and <z:mpath ids='MPATH_3'>apoptosis</z:mpath> </plain></SENT>
+<SENT sid="10" pm="."><plain>Mt-Myc proteins failed to induce <z:mpath ids='MPATH_3'>apoptosis</z:mpath>, thereby generating a strong imbalance towards the survival of genomically unstable cells </plain></SENT>
+</text></document>

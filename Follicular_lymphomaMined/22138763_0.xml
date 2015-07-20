@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>It is not very often to see a symbol-based machine learning approach to be used for the purpose of image classification and recognition </plain></SENT>
+<SENT sid="1" pm="."><plain>In this paper we will present such an approach, which we first used on the follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo> images </plain></SENT>
+<SENT sid="2" pm="."><plain><z:hpo ids='HP_0002665'>Lymphoma</z:hpo> is a broad term encompassing a variety of <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancers</z:e> of the lymphatic system </plain></SENT>
+<SENT sid="3" pm="."><plain><z:hpo ids='HP_0002665'>Lymphoma</z:hpo> is differentiated by the type of cell that multiplies and how the <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> presents itself </plain></SENT>
+<SENT sid="4" pm="."><plain>It is very important to get an exact diagnosis regarding <z:hpo ids='HP_0002665'>lymphoma</z:hpo> and to determine the treatments that will be most effective for the patient's condition </plain></SENT>
+<SENT sid="5" pm="."><plain>Our work was focused on the identification of <z:hpo ids='HP_0002665'>lymphomas</z:hpo> by finding follicles in microscopy images provided by the Laboratory of Pathology in the University Hospital of Tenerife, Spain </plain></SENT>
+<SENT sid="6" pm="."><plain>We divided our work in two stages: in the first stage we did image pre-processing and feature extraction, and in the second stage we used different symbolic machine learning approaches for pixel classification </plain></SENT>
+<SENT sid="7" pm="."><plain>Symbolic machine learning approaches are often neglected when looking for image analysis tools </plain></SENT>
+<SENT sid="8" pm="."><plain>They are not only known for a very appropriate knowledge representation, but also claimed to lack computational power </plain></SENT>
+<SENT sid="9" pm="."><plain>The results we got are very promising and show that symbolic approaches can be successful in image analysis applications </plain></SENT>
+</text></document>

@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The NB4 cell line, established from a patient with APL, carries the t(15; 17) and undergoes differentiation along the granulocytic pathway when exposed to <z:chebi fb="2" ids="26536">retinoic acid</z:chebi> (RA) </plain></SENT>
+<SENT sid="1" pm="."><plain>The NB4 cell line was used as a model for exploring the expression of genes and proteins implicated in growth regulation, differentiation and <z:mpath ids='MPATH_3'>apoptosis</z:mpath> during treatment with RA </plain></SENT>
+<SENT sid="2" pm="."><plain>NB4 cells undergo a series of cytological and molecular alterations during RA treatment--Day 1: cell differentiation marked by an increase in CD11b is evident </plain></SENT>
+<SENT sid="3" pm="."><plain>Day 2: WAF1/p21 <z:chebi fb="2" ids="33699">mRNA</z:chebi> and then protein rise, though they drop 2 days later </plain></SENT>
+<SENT sid="4" pm="."><plain>Day 3: the percentage of cells in S phase begins to decrease and G1 arrest begins </plain></SENT>
+<SENT sid="5" pm="."><plain>Day 4: p53 <z:chebi fb="2" ids="33699">mRNA</z:chebi> level and then protein levels fall </plain></SENT>
+<SENT sid="6" pm="."><plain>Day 5: CD11b/BCL-2 double staining cells are markedly reduced </plain></SENT>
+<SENT sid="7" pm="."><plain>No signs of <z:mpath ids='MPATH_3'>apoptosis</z:mpath> were observed after up to 8 days of treatment with RA </plain></SENT>
+<SENT sid="8" pm="."><plain>These results demonstrate that NB4 cells treated with RA rapidly differentiate and arrest at G1 phase concurrent with p53-independent WAF1/p21 induction; in addition, phenotypic differentiation appears to commence before changes in cell cycle progression </plain></SENT>
+<SENT sid="9" pm="."><plain>An explanation for the decrease in p53 as well as the lack of <z:mpath ids='MPATH_3'>apoptosis</z:mpath> immediately after BCL-2 downregulation will require further study </plain></SENT>
+</text></document>

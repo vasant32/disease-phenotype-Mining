@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND/PURPOSE: In a previous study, we demonstrated that in vitro cell growth stimulated by human placental conditioned medium distinguished between transient <z:hpo ids='HP_0001909'>leukemia</z:hpo> (TL) and congenital <z:hpo ids='HP_0004808'>acute myeloid leukemia</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">AML</z:e>) in neonates </plain></SENT>
+<SENT sid="1" pm="."><plain>We then sought to determine whether the application can be expanded if in vitro cell growths are stimulated by recombinant human cytokines including granulocyte-macrophage colony-stimulating factor (rhGM-CSF), interleukin-3 (rhIL-3), stem cell factor (rhSCF) and thrombopoietin (rhTPO) </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: Eight neonates with features indistinguishable from <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">AML</z:e> were studied </plain></SENT>
+<SENT sid="3" pm="."><plain>Seven patients had <z:e sem="disease" ids="C0013080" disease_type="Disease or Syndrome;Congenital Abnormality" abbrv="">Down syndrome</z:e> and the eighth a <z:mp ids='MP_0002873'>normal phenotype</z:mp> </plain></SENT>
+<SENT sid="4" pm="."><plain>Bone marrow or peripheral blood mononuclear cells (MNC) were cultured in the presence of rhGM-CSF+rhIL-3+rhSCF or of rhTPO alone </plain></SENT>
+<SENT sid="5" pm="."><plain>After incubation, granulocyte-macrophage colony-forming units (CFU-GM)-derived colonies and clusters were scored on an inverted microscope </plain></SENT>
+<SENT sid="6" pm="."><plain>Colony-forming units-megakaryocyte (CFU-MK)-derived colonies were counted with an in situ CD61 immunostained dish </plain></SENT>
+<SENT sid="7" pm="."><plain>Liquid suspension cultures of MNC were stimulated by rhGM-CSF and/or rhTPO </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: CFU-GM-derived colonies and clusters from bone marrow and peripheral blood MNC revealed <z:mpath ids='MPATH_458'>normal</z:mpath> patterns in seven patients </plain></SENT>
+<SENT sid="9" pm="."><plain>RhTPO-stimulated megakaryocyte colony formation was <z:mpath ids='MPATH_458'>normal</z:mpath> in one patient </plain></SENT>
+<SENT sid="10" pm="."><plain>Cytospin smears of liquid suspension cultures <z:hpo ids='HP_0000001'>all</z:hpo> showed good myeloid or megakaryocytic maturation consistent with TL rather than <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">AML</z:e> </plain></SENT>
+<SENT sid="11" pm="."><plain>One neonate died on the 2nd day of life, but in the seven remaining patients, blasts disappeared from the peripheral blood within 10 months </plain></SENT>
+<SENT sid="12" pm="."><plain>Among four patients followed long-term, one developed <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo> at 21 months </plain></SENT>
+<SENT sid="13" pm="."><plain>This child was given tailored chemotherapy and had a disease-free survival&gt;20 months </plain></SENT>
+<SENT sid="14" pm="."><plain>CONCLUSION: In vitro cell growth stimulated by recombinant human cytokines can help to diagnose TL in neonates </plain></SENT>
+</text></document>

@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Transcription has the capacity to mechanically modify DNA topology, DNA structure and nucleosome arrangement </plain></SENT>
+<SENT sid="1" pm="."><plain>Resulting from ongoing transcription, these modifications in turn may provide instant feedback to the transcription machinery </plain></SENT>
+<SENT sid="2" pm="."><plain>To substantiate the connection between transcription and DNA dynamics, we charted an ENCODE map of transcription-dependent dynamic supercoiling in human Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cells by using <z:chebi fb="1" ids="27616">psoralen</z:chebi> photobinding to probe DNA topology in vivo </plain></SENT>
+<SENT sid="3" pm="."><plain>Dynamic supercoils spread ~1.5 kilobases upstream of the start sites of active genes </plain></SENT>
+<SENT sid="4" pm="."><plain>Low- and high-output promoters handled this torsional stress differently, as shown by using inhibitors of transcription and topoisomerases and by chromatin immunoprecipation of <z:chebi fb="40" ids="33697">RNA</z:chebi> polymerase and topoisomerases I and II </plain></SENT>
+<SENT sid="5" pm="."><plain>Whereas lower outputs are managed adequately by topoisomerase I, high-output promoters additionally require topoisomerase II </plain></SENT>
+<SENT sid="6" pm="."><plain>The genome-wide coupling between transcription and DNA topology emphasizes the importance of dynamic supercoiling for gene regulation </plain></SENT>
+</text></document>

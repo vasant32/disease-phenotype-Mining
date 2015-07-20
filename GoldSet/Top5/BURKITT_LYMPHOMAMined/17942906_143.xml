@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Regulation of the MYC oncogene remains unclear </plain></SENT>
+<SENT sid="1" pm="."><plain>Using 10058-F4, a compound that inhibits MYC-MAX transcription factor, MYC protein and gene expression were down-regulated in Namalwa cells, a Burkitt <z:hpo ids='HP_0002665'>lymphoma</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>Compound 10058-F4 decreased MYC <z:chebi fb="2" ids="33699">mRNA</z:chebi> (45%), MYC protein (50%), and cell growth (32%) </plain></SENT>
+<SENT sid="3" pm="."><plain>MYC-MAX transcription factor was disrupted 24 h after treatment, resulting in transcriptional inhibition of target genes </plain></SENT>
+<SENT sid="4" pm="."><plain>Because microRNAs (miRNA) disrupt <z:chebi fb="2" ids="33699">mRNA</z:chebi> translation, let-7a, let-7b, and mir-98 were selected using bioinformatics for targeting MYC </plain></SENT>
+<SENT sid="5" pm="."><plain>Inhibition of MYC-MAX transcription factor with 10058-F4 increased levels of members of the let-7 family </plain></SENT>
+<SENT sid="6" pm="."><plain>In inhibited cells at 24 h, let-7a, let-7b, and mir-98 were induced 4.9-, 1.3-, and 2.4-fold, respectively, whereas mir-17-5p decreased 0.23-fold </plain></SENT>
+<SENT sid="7" pm="."><plain>These results were duplicated using microRNA multianalyte suspension array technology </plain></SENT>
+<SENT sid="8" pm="."><plain>Regulation of MYC <z:chebi fb="2" ids="33699">mRNA</z:chebi> by let-7a was confirmed by transfections with pre-let-7a </plain></SENT>
+<SENT sid="9" pm="."><plain>Overexpression of let-7a (190%) decreased Myc <z:chebi fb="2" ids="33699">mRNA</z:chebi> (70%) and protein (75%) </plain></SENT>
+<SENT sid="10" pm="."><plain>Down-regulation of Myc protein and <z:chebi fb="2" ids="33699">mRNA</z:chebi> using siRNA MYC also elevated let-7a miRNA and decreased Myc gene expression </plain></SENT>
+<SENT sid="11" pm="."><plain>Inverse coordinate regulation of let-7a and mir-17-5p versus Myc <z:chebi fb="2" ids="33699">mRNA</z:chebi> by 10058-F4, pre-let-7a, or siRNA MYC suggested that both miRNAs are Myc-regulated </plain></SENT>
+<SENT sid="12" pm="."><plain>This supports previous results in lung and <z:hpo ids='HP_0003003'>colon cancer</z:hpo> where decreased levels of the let-7 family resulted in increased tumorigenicity </plain></SENT>
+<SENT sid="13" pm="."><plain>Here, pre-let-7a transfections led to down-regulation of expression of MYC and its target genes and antiproliferation in <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cells </plain></SENT>
+<SENT sid="14" pm="."><plain>These findings with let-7a add to the complexity of MYC regulation and suggest that dysregulation of these miRNAs participates in the genesis and maintenance of the <z:hpo ids='HP_0002665'>lymphoma</z:hpo> phenotype in Burkitt <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cells and other MYC-dysregulated <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancers</z:e> </plain></SENT>
+</text></document>

@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The role of the marrow microenvironment in the pathophysiology of <z:hpo ids='HP_0002863'>myelodysplastic syndromes</z:hpo> (MDSs) remains controversial </plain></SENT>
+<SENT sid="1" pm="."><plain>Using stromal/hematopoietic cell cocultures, we investigated the effects of stroma-derived signals on <z:mpath ids='MPATH_3'>apoptosis</z:mpath> sensitivity in hematopoietic precursors </plain></SENT>
+<SENT sid="2" pm="."><plain>The <z:hpo ids='HP_0001909'>leukemia</z:hpo>-derived cell line KG1a is resistant to proapoptotic ligands </plain></SENT>
+<SENT sid="3" pm="."><plain>However, when cocultured with the human stromal cell line <z:chebi fb="0" ids="30608,30611">HS5</z:chebi> (derived from <z:mpath ids='MPATH_458'>normal</z:mpath> marrow) and exposed to <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> <z:mp ids='MP_0001651'>necrosis</z:mp> factor-alpha (TNF-alpha), KG1a cells showed caspase-3 activation and induction of <z:mpath ids='MPATH_3'>apoptosis</z:mpath> </plain></SENT>
+<SENT sid="4" pm="."><plain><z:mpath ids='MPATH_3'>Apoptosis</z:mpath> was contact dependent </plain></SENT>
+<SENT sid="5" pm="."><plain>Identical results were obtained in coculture with primary stroma </plain></SENT>
+<SENT sid="6" pm="."><plain>Gene-expression profiling of KG1a cells identified coculture-induced up-regulation of various genes involved in <z:mpath ids='MPATH_3'>apoptosis</z:mpath>, including PYCARD </plain></SENT>
+<SENT sid="7" pm="."><plain>Suppression of PYCARD expression in KG1a by miRNA interfered with <z:mpath ids='MPATH_3'>apoptosis</z:mpath> </plain></SENT>
+<SENT sid="8" pm="."><plain>Knockdown of the TNF receptor 1 (TNFR1) or TNFR2 in <z:chebi fb="0" ids="30608,30611">HS5</z:chebi> cells had no effect </plain></SENT>
+<SENT sid="9" pm="."><plain>However, knockdown of R1 in KG1a cells prevented TNF-alpha-induced <z:mpath ids='MPATH_3'>apoptosis</z:mpath>, while <z:mpath ids='MPATH_3'>apoptosis</z:mpath> was still induced by TNF-alpha-related <z:mpath ids='MPATH_3'>apoptosis</z:mpath>-inducing ligand </plain></SENT>
+<SENT sid="10" pm="."><plain>Primary CD34(+) cells from <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> marrow, when cocultured with <z:chebi fb="0" ids="30608,30611">HS5</z:chebi> and TNF-alpha, also underwent <z:mpath ids='MPATH_3'>apoptosis</z:mpath> </plain></SENT>
+<SENT sid="11" pm="."><plain>In contrast, no <z:mpath ids='MPATH_3'>apoptosis</z:mpath> was observed in CD34(+) cells from the marrow of healthy donors </plain></SENT>
+<SENT sid="12" pm="."><plain>These data indicate that stroma may convey not only protective effects on hematopoietic cells, but, dependent upon the milieu, may also facilitate <z:mpath ids='MPATH_3'>apoptosis</z:mpath> </plain></SENT>
+</text></document>

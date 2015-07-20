@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Platelets play an important role in <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>GPIbα is a major platelet receptor that is critical for platelet <z:e sem="disease" ids="C0001511" disease_type="Disease or Syndrome;Acquired Abnormality" abbrv="">adhesion</z:e> to exposed subendothelial matrix components at sites of vascular damage </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: In this study, we used transgenic mice in which the extracellular part of GPIbα is replaced by human interleukin 4-receptor (GPIbα/IL4Rα) </plain></SENT>
+<SENT sid="3" pm="."><plain>We observed <z:mpath ids='MPATH_458'>normal</z:mpath> brain vasculature in these mice </plain></SENT>
+<SENT sid="4" pm="."><plain>We compared <z:mpath ids='MPATH_124'>infarct</z:mpath> size in GPIbα/IL4Rα and <z:mp ids='MP_0002169'>wild-type</z:mp> (WT) mice 23 hours after 1-hour transient middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (tMCAO) </plain></SENT>
+<SENT sid="5" pm="."><plain>In addition, the functional outcome was evaluated using a modified Bederson score </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: We found a significantly smaller <z:mpath ids='MPATH_124'>infarct</z:mpath> size in GPIbα/IL4Rα mice compared to WT mice (38.0 ± 6.5 mm3 vs. 74.2 ± 8.6 mm3, p &lt; 0.001) </plain></SENT>
+<SENT sid="7" pm="."><plain>The decrease in <z:mpath ids='MPATH_124'>infarct</z:mpath> size was functionally relevant as indicated by a significantly better functional Bederson score in GPIbα/IL4Rα mice compared to WT animals (1.3 ± 0.4 vs. 2.7 ± 0.3, p &lt; 0.05) </plain></SENT>
+<SENT sid="8" pm="."><plain>CONCLUSIONS: Our data illustrate and further confirm the important role of platelet GPIbα in <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo>, suggesting that targeted inhibition of this receptor may open new avenues in <z:hpo ids='HP_0001297'>stroke</z:hpo> treatment </plain></SENT>
+</text></document>

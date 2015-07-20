@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We explored the safety and efficacy of rituximab administered in combination with the standard transplant conditioning regimen of <z:chebi fb="0" ids="4027">cyclophosphamide</z:chebi> (Cy) 120 mg/kg and total body irradiation (TBI) 12 Gy for adult patients with <z:hpo ids='HP_0006721'>acute lymphoblastic leukemia</z:hpo> (ALL) </plain></SENT>
+<SENT sid="1" pm="."><plain>Patients were eligible if their disease expressed CD20 </plain></SENT>
+<SENT sid="2" pm="."><plain>Rituximab was administered at 375 mg/m2 weekly for four doses beginning on day -7 of the conditioning regimen </plain></SENT>
+<SENT sid="3" pm="."><plain><z:e sem="disease" ids="C0018133" disease_type="Disease or Syndrome" abbrv="GVH">Graft-versus-host-disease</z:e> (GVHD) prophylaxis consisted of tacrolimus and <z:chebi fb="0" ids="44185">methotrexate</z:chebi> </plain></SENT>
+<SENT sid="4" pm="."><plain>Thirty-five patients undergoing matched sibling (n = 23) or unrelated donor (n = 12) transplantation were studied, with a median age of 30 years (range 15-55 years) </plain></SENT>
+<SENT sid="5" pm="."><plain>At 2 years, progression-free survival, treatment-related mortality, and overall survival were 30, 24, and 47%, respectively </plain></SENT>
+<SENT sid="6" pm="."><plain>There was no delay in engraftment or increased incidence of <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infection</z:e> </plain></SENT>
+<SENT sid="7" pm="."><plain>The cumulative incidence of grade II-IV <z:hpo ids='HP_0011009'>acute</z:hpo> GVHD was 17%, and limited and extensive <z:hpo ids='HP_0011010'>chronic</z:hpo> GVHD was 43% at 2 years </plain></SENT>
+<SENT sid="8" pm="."><plain>The addition of rituximab to the standard Cy/TBI transplant conditioning regimen in ALL was safe and well tolerated, and there was a suggestion of decreased incidence of <z:hpo ids='HP_0011009'>acute</z:hpo> GVHD when compared to historically reported GVHD rates for this group of patients </plain></SENT>
+</text></document>

@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>After <z:hpo ids='HP_0002138'>subarachnoid hemorrhage</z:hpo> (SAH) the detection of hemodynamically significant vasospasm is frequently difficult, especially in <z:e sem="disease" ids="C0009421" disease_type="Disease or Syndrome" abbrv="">comatose</z:e> patients </plain></SENT>
+<SENT sid="1" pm="."><plain>Most clinicians use transcranial Doppler sonography (TCD) to detect increasing mean blood flow velocities in the basal arteries as markers of <z:e sem="disease" ids="C0265110" disease_type="Disease or Syndrome" abbrv="">cerebral vasospasm</z:e>, without accounting for the effects of sedation and variations in blood pressure or pCO(2) </plain></SENT>
+<SENT sid="2" pm="."><plain>This study was conducted to test the hypothesis that the arteriovenous difference of oxygen (avDO(2); in terms of % volume) could also be useful for the evaluation of vasospasm </plain></SENT>
+<SENT sid="3" pm="."><plain>A total of 22 SAH patients (M : F = 1 : 1.75, age 58+/-10 years, median Hunt and Hess grade 4) were prospectively enrolled </plain></SENT>
+<SENT sid="4" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> patients were sedated with continuous doses of midazolam/fentanyl and/or <z:chebi fb="3" ids="44915">propofol</z:chebi> </plain></SENT>
+<SENT sid="5" pm="."><plain>TCD studies and avDO(2) measurements were conducted at the same time or in close succession </plain></SENT>
+<SENT sid="6" pm="."><plain>The blood flow velocity of the middle cerebral artery was recorded </plain></SENT>
+<SENT sid="7" pm="."><plain>A cranial CT scan was conducted if the avDO(2) increased by at least 0.8% </plain></SENT>
+<SENT sid="8" pm="."><plain>Overall, 82 measurements were recorded in 22 patients between days 1 and 13 after SAH </plain></SENT>
+<SENT sid="9" pm="."><plain>TCD mean flow velocities increased as expected </plain></SENT>
+<SENT sid="10" pm="."><plain>In contrast, avDO(2) decreased until post-<z:mp ids='MP_0001914'>hemorrhage</z:mp> day 4 before it increased again </plain></SENT>
+<SENT sid="11" pm="."><plain>Overall, after SAH, avDO(2) was significantly lower than in <z:mpath ids='MPATH_458'>normal</z:mpath> individuals </plain></SENT>
+<SENT sid="12" pm="."><plain><z:e sem="disease" ids="C0007785" disease_type="Disease or Syndrome" abbrv="">Cerebral infarction</z:e> occurred primarily in patients with a maximal change of avDO(2) of more than 1% </plain></SENT>
+<SENT sid="13" pm="."><plain>TCD velocities alone are poor indicators of the severity of vasospasm </plain></SENT>
+<SENT sid="14" pm="."><plain>In contrast, daily avDO(2) seems to be a more robust parameter </plain></SENT>
+<SENT sid="15" pm="."><plain>However, collection of additional metabolic information is warranted </plain></SENT>
+</text></document>

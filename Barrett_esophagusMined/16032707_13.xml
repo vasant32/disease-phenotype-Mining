@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> (BE) is a major predisposing factor for the development of esophageal <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> </plain></SENT>
+<SENT sid="1" pm="."><plain>Current strategies for treatment of BE, both dysplastic and nondysplastic, include photodynamic therapy (<z:chebi fb="7" ids="53228">PDT</z:chebi>) and <z:chebi fb="17" ids="49474,49475">argon</z:chebi> plasma coagulation (APC) </plain></SENT>
+<SENT sid="2" pm="."><plain>However, the effect of ablative therapy at the genetic level is unclear </plain></SENT>
+<SENT sid="3" pm="."><plain>We performed loss of heterozygosity (LOH) analysis of BE in baseline and follow-up biopsy specimens from 21 patients with BE (17 male, 4 female) treated with <z:chebi fb="7" ids="53228">PDT</z:chebi> and/or APC </plain></SENT>
+<SENT sid="4" pm="."><plain>At baseline, 14 patients had <z:mpath ids='MPATH_167'>intestinal metaplasia</z:mpath> without <z:mpath ids='MPATH_589'>dysplasia</z:mpath> (MET), 4 low-grade <z:mpath ids='MPATH_589'>dysplasia</z:mpath> (LGD) and 3 high-grade <z:mpath ids='MPATH_589'>dysplasia</z:mpath> (HGD) </plain></SENT>
+<SENT sid="5" pm="."><plain>LOH was assessed using a panel of 9 polymorphic markers for evaluation of the P53 gene on 17p, P16 on 9p, <z:chebi fb="8" ids="53090">DCC</z:chebi> and SMAD4 on 18q and the APC gene on 5q </plain></SENT>
+<SENT sid="6" pm="."><plain>The tissue specimens obtained at baseline (t = 0) were analysed, as well as the first (t = 1; mean interval: 4 months) and last (t = 2; mean interval: 8 months) available biopsy with residual or recurrent BE after ablation </plain></SENT>
+<SENT sid="7" pm="."><plain>At t = 0, allelic loss was detected of 5q in 27%, 9p in 56%, 17p in 31% and 18q in 6% of informative cases </plain></SENT>
+<SENT sid="8" pm="."><plain>At t = 1 (18 patients with persistent MET and 3 with LGD) and at t = 2 (8 MET, 2 LGD), the LOH patterns were not statistically different from t = 0 </plain></SENT>
+<SENT sid="9" pm="."><plain>Further, multiple genetic lineages before and after therapy were detected in 15 cases illustrating the multiclonal nature of BE </plain></SENT>
+<SENT sid="10" pm="."><plain>We conclude that recurrent and/or persistent BE after ablative therapy still contains genetic alterations associated with malignant progression to <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> </plain></SENT>
+<SENT sid="11" pm="."><plain>Therefore, the goal of treatment should be the complete elimination of Barrett's mucosa </plain></SENT>
+</text></document>

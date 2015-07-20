@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND PURPOSE: <z:e sem="disease" ids="C0155765" disease_type="Disease or Syndrome" abbrv="">Microangiopathy</z:e>-related cerebral damage (MARCD) is a common finding in the elderly </plain></SENT>
+<SENT sid="1" pm="."><plain>It may lead to <z:hpo ids='HP_0100543'>cognitive impairment</z:hpo> and <z:hpo ids='HP_0001288'>gait disturbances</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>Arterial <z:hpo ids='HP_0000822'>hypertension</z:hpo> and age are the most important risk factors </plain></SENT>
+<SENT sid="3" pm="."><plain>We assessed the association between MARCD and sequence alterations in the promoter region of the angiotensinogen (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">AGT</z:e>) gene </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS: We studied 410 randomly selected community-dwelling individuals aged 50 to 75 years </plain></SENT>
+<SENT sid="5" pm="."><plain>MARCD was defined as early confluent or confluent white matter hyperintensities or lacunes on a 1.5-T MRI </plain></SENT>
+<SENT sid="6" pm="."><plain>The <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">AGT</z:e> promoter was analyzed by temporal temperature gradient gel electrophoresis and automated sequencing </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: We detected 4 polymorphic sites, at positions -6, -20, -153, and -218 </plain></SENT>
+<SENT sid="8" pm="."><plain>They created 5 haplotypes, which we coded as A (-6:g, -20:a, -153:g, -218g), B (-6:a, -20:c, -153:g, -218:g), C (-6:a, -20:c, -153:a, -218:g), D (-6:a, -20:a, -153:g, -218:g), and E (-6:a, -20:a, -153:g, -218:a) </plain></SENT>
+<SENT sid="9" pm="."><plain>MARCD was seen in 7 subjects (63.6%) carrying 2 copies of the B haplotype (B/B), in 12 subjects (38.7%) carrying 1 copy of the B haplotype in the absence of the A haplotype (B+/A-), but in only 70 subjects (19.0%) in the remaining cohort (P:&lt;0.001) </plain></SENT>
+<SENT sid="10" pm="."><plain>The odds ratios for the B/B and the B+/A- genotypes were 8.0 (95% CI, 2.1 to 31.1; P:=0.003) and 1.8 (95% CI, 0.8 to 4.2; P:=0.14) after adjustment for possible confounders </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: The B haplotype of the <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">AGT</z:e> promoter in the absence of the <z:mp ids='MP_0002169'>wild-type</z:mp> A haplotype might represent a genetic susceptibility factor for MARCD </plain></SENT>
+</text></document>

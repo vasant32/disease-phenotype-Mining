@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0001297'>Stroke</z:hpo> is the third leading cause of <z:hpo ids='HP_0011420'>death</z:hpo> and the leading cause of disability in the world, with an estimated cost of near $70 billion in the United States in 2009 </plain></SENT>
+<SENT sid="1" pm="."><plain>The intraluminal middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (MCAO) model was developed by Koizumi in 1986 to simulate this impactful human pathology in the rat </plain></SENT>
+<SENT sid="2" pm="."><plain>A modification of the MCAO method was later presented by Longa </plain></SENT>
+<SENT sid="3" pm="."><plain>Both techniques have been widely used to identify molecular mechanisms of brain injury resulting from <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> and potential therapeutic modalities </plain></SENT>
+<SENT sid="4" pm="."><plain>This relatively noninvasive method in rats has been extended to use in mice to take advantage of transgenic and knockout strains </plain></SENT>
+<SENT sid="5" pm="."><plain>To model focal <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo>, an intraluminal suture is advanced via the internal carotid artery to occlude the base of the <z:chebi fb="70" ids="34342">MCA</z:chebi> </plain></SENT>
+<SENT sid="6" pm="."><plain>Retracting the suture after a specified period of time mimics spontaneous reperfusion, but the suture can also be permanently retained </plain></SENT>
+<SENT sid="7" pm="."><plain>This video will be demonstrating the two major approaches for performing intraluminal MCAO procedure in mice in a stepwise fashion, as well as providing insights for potential drawbacks and pitfalls </plain></SENT>
+<SENT sid="8" pm="."><plain>The ischemic brain tissue will subsequently be stained by 2,3,5-triphenyltetrazolium <z:chebi fb="76" ids="17996">chloride</z:chebi> (TTC) to evaluate the extent of <z:e sem="disease" ids="C0007785" disease_type="Disease or Syndrome" abbrv="">cerebral infarction</z:e> </plain></SENT>
+</text></document>

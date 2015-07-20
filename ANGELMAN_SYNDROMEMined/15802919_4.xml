@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:mp ids='MP_0003121'>Genomic imprinting</z:mp> is a mechanism by which only one copy of a gene pair is expressed, and this expression is determined by the parental origin of the copy </plain></SENT>
+<SENT sid="1" pm="."><plain>The deregulation of imprinted genes has been implicated in a number of human diseases </plain></SENT>
+<SENT sid="2" pm="."><plain>The Imprinted Gene Catalogue now has more than 200 genes listed, and estimates based on mouse models suggest many more may exist in humans </plain></SENT>
+<SENT sid="3" pm="."><plain>Therefore, the development of methods to identify such genes is important </plain></SENT>
+<SENT sid="4" pm="."><plain>In this communication, we present a parametric model-based approach to analyzing arbitrary-sized pedigree data for <z:mp ids='MP_0003121'>genomic imprinting</z:mp> </plain></SENT>
+<SENT sid="5" pm="."><plain>We have modified widely used LINKAGE program to incorporate our proposed approach </plain></SENT>
+<SENT sid="6" pm="."><plain>In addition, our approach allows for the use of sex-specific recombinations in the analysis, which is of particular importance in a genome-wide analysis for imprinted genes </plain></SENT>
+<SENT sid="7" pm="."><plain>We compared our imprinting analysis approach to that implemented in the GENEHUNTER-IMPRINT program using simulation studies as well as by analyzing causal genes in <z:e sem="disease" ids="C0162635" disease_type="Disease or Syndrome" abbrv="">Angelman's syndrome</z:e> families, which are known to be imprinted </plain></SENT>
+<SENT sid="8" pm="."><plain>These analyses showed that the proposed approach is very powerful for detecting imprinted genes in large pedigrees </plain></SENT>
+</text></document>

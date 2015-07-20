@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PURPOSE: Fecal immunochemical tests (FITs) have been developed to address analytical problems inherent in the older guaiac-based fecal occult blood tests (g-FOBTs) </plain></SENT>
+<SENT sid="1" pm="."><plain>Our aim was to compare the performance characteristics of one g-FOBT (Hemoccult II) and two FITs (the Hemoccult ICT and MagStream HemSp) relative to colonoscopy for the detection of <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> and significant precursor lesions </plain></SENT>
+<SENT sid="2" pm="."><plain>We also examined whether a 1-day collection strategy would negatively impact test diagnostic performance </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: We used a prospective observational cohort design in a Canadian population eligible for screening </plain></SENT>
+<SENT sid="4" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> participants received colonoscopy after performing the occult blood tests </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: One thousand seventy-five individuals were enrolled (mean age 56.3 years, 53.8 % females) </plain></SENT>
+<SENT sid="6" pm="."><plain>Using colonoscopy as the gold standard, the sensitivity for screen-relevant <z:hpo ids='HP_0002664'>neoplasm</z:hpo> was determined for Hemoccult II (7.2, 95 % CI: 1.1-13.4), Hemoccult ICT (23.2 %: 13.2-33.1), and MagStream HemSp using 67 μg/gram stool as the cut-off (23.2 %: 13.2-33.1) </plain></SENT>
+<SENT sid="7" pm="."><plain>The Magstream HemSp, using a cut-off threshold of 30 μg/gram stool, had the lowest specificity at 87.6 % (85.4-89.6), while the Hemoccult II had the highest at 98.8 % (98.1-99.5) </plain></SENT>
+<SENT sid="8" pm="."><plain>Single-day stool testing reduced the false-positive rates of <z:hpo ids='HP_0000001'>all</z:hpo> tests without significantly reducing the sensitivity </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSION: We found that FITs have a significantly increased sensitivity but reduced specificity for screen-relevant <z:hpo ids='HP_0002664'>neoplasm</z:hpo> compared to g-FOBT using colonoscopy as the gold standard </plain></SENT>
+<SENT sid="10" pm="."><plain>Optimal threshold levels for <z:chebi fb="0" ids="35143">hemoglobin</z:chebi> detection depend on the desired trade off between sensitivity and false-positive rate </plain></SENT>
+<SENT sid="11" pm="."><plain>Single-day testing with an FIT may be an option to enhance population compliance with screening </plain></SENT>
+</text></document>

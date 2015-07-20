@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PURPOSE: <z:hpo ids='HP_0001297'>Stroke</z:hpo> disability stems from insufficient neurorepair mechanisms </plain></SENT>
+<SENT sid="1" pm="."><plain>Improvement of functions has been achieved through rehabilitation or therapeutic agents </plain></SENT>
+<SENT sid="2" pm="."><plain>Therefore, we combined exercise with a neurovascular <z:chebi fb="1" ids="50267">protective agent</z:chebi>, <z:chebi fb="0" ids="50091">S-nitrosoglutathione</z:chebi> (<z:chebi fb="0" ids="50091">GSNO</z:chebi>), to accelerate functional recovery </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: <z:hpo ids='HP_0001297'>Stroke</z:hpo> was induced by middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> for 60 min followed by reperfusion in adult male rats </plain></SENT>
+<SENT sid="4" pm="."><plain>Animals were treated with vehicle (IR group), <z:chebi fb="0" ids="50091">GSNO</z:chebi> (0.25 mg/kg, <z:chebi fb="0" ids="50091">GSNO</z:chebi> group), rotarod exercise (EX group) and <z:chebi fb="0" ids="50091">GSNO</z:chebi> plus exercise (<z:chebi fb="0" ids="50091">GSNO</z:chebi>+EX group) </plain></SENT>
+<SENT sid="5" pm="."><plain>The groups were studied for 14 days to determine neurorepair mechanisms and functional recovery </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: Treated groups showed reduced infarction, decreased neuronal cell <z:hpo ids='HP_0011420'>death</z:hpo>, enhanced neurotrophic factors, and improved neurobehavioral functions </plain></SENT>
+<SENT sid="7" pm="."><plain>However, the <z:chebi fb="0" ids="50091">GSNO</z:chebi>+EX showed greater functional recovery (p &lt; 0.05) than the <z:chebi fb="0" ids="50091">GSNO</z:chebi> or the EX group </plain></SENT>
+<SENT sid="8" pm="."><plain>A <z:chebi fb="0" ids="50091">GSNO</z:chebi> sub group, treated 24 hours after IR, still showed motor function recovery (p &lt; 0.001) </plain></SENT>
+<SENT sid="9" pm="."><plain>The protective effect of <z:chebi fb="0" ids="50091">GSNO</z:chebi> or exercise was blocked by the inhibition of Akt activity </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSIONS: <z:chebi fb="0" ids="50091">GSNO</z:chebi> and exercise aid functional recovery by stimulating neurorepair mechanisms </plain></SENT>
+<SENT sid="11" pm="."><plain>The improvements by <z:chebi fb="0" ids="50091">GSNO</z:chebi> and exercise depend mechanistically on the Akt pathway </plain></SENT>
+<SENT sid="12" pm="."><plain>A combination of exercise and <z:chebi fb="0" ids="50091">GSNO</z:chebi> shows greater functional recovery </plain></SENT>
+<SENT sid="13" pm="."><plain>Improved recovery with <z:chebi fb="0" ids="50091">GSNO</z:chebi>, even administered 24 hours post-IR, demonstrates its clinical relevance </plain></SENT>
+</text></document>

@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>MOTIVATION: Analysis of array comparative genomic hybridization (aCGH) data for recurrent DNA copy number alterations from a cohort of patients can yield distinct sets of molecular signatures or profiles </plain></SENT>
+<SENT sid="1" pm="."><plain>This can be due to the presence of <z:hpo ids='HP_0001425'>heterogeneous</z:hpo> <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> subtypes within a supposedly homogeneous population </plain></SENT>
+<SENT sid="2" pm="."><plain>RESULTS: We propose a novel statistical method for automatically detecting such subtypes or clusters </plain></SENT>
+<SENT sid="3" pm="."><plain>Our approach is model based: each cluster is defined in terms of a sparse profile, which contains the locations of unusually frequent alterations </plain></SENT>
+<SENT sid="4" pm="."><plain>The profile is represented as a hidden Markov model </plain></SENT>
+<SENT sid="5" pm="."><plain>Samples are assigned to clusters based on their similarity to the cluster's profile </plain></SENT>
+<SENT sid="6" pm="."><plain>We simultaneously infer the cluster assignments and the cluster profiles using an expectation maximization-like algorithm </plain></SENT>
+<SENT sid="7" pm="."><plain>We show, using a realistic simulation study, that our method is significantly more accurate than standard clustering techniques </plain></SENT>
+<SENT sid="8" pm="."><plain>We then apply our method to two clinical datasets </plain></SENT>
+<SENT sid="9" pm="."><plain>In particular, we examine previously reported aCGH data from a cohort of 106 follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo> patients, and discover clusters that are known to correspond to clinically relevant subgroups </plain></SENT>
+<SENT sid="10" pm="."><plain>In addition, we examine a cohort of 92 diffuse large B-cell <z:hpo ids='HP_0002665'>lymphoma</z:hpo> patients, and discover previously unreported clusters of biological interest which have inspired followup clinical research on an independent cohort </plain></SENT>
+<SENT sid="11" pm="."><plain>AVAILABILITY: Software and synthetic datasets are available at http://www.cs.ubc.ca/ approximately sshah/acgh as part of the CNA-HMMer package </plain></SENT>
+<SENT sid="12" pm="."><plain>SUPPLEMENTARY INFORMATION: Supplementary data are available at Bioinformatics online </plain></SENT>
+</text></document>

@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: The objective of this study was to test whether non-invasive assessment of respiratory <z:hpo ids='HP_0001297'>stroke</z:hpo> volume variation (ΔrespSV) by oesophageal Doppler monitoring (ODM) can predict fluid responsiveness during surgery in a mixed population </plain></SENT>
+<SENT sid="1" pm="."><plain>The predictive value of ΔrespSV was evaluated using a grey zone approach </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: Ninety patients monitored using ODM who required i.v. fluids to expand their circulating volume during surgery under general anaesthesia were studied </plain></SENT>
+<SENT sid="3" pm="."><plain>Patients with a preoperative <z:hpo ids='HP_0011675'>arrhythmia</z:hpo>, <z:hpo ids='HP_0001708'>right ventricular failure</z:hpo>, frequent ectopic beats, or breathing spontaneously were excluded </plain></SENT>
+<SENT sid="4" pm="."><plain>Haemodynamic variables and oesophageal Doppler indices [peak velocity (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">PV</z:e>), <z:hpo ids='HP_0001297'>stroke</z:hpo> volume (SV), corrected flow time (FTc), cardiac output (CO), ΔrespSV, and respiratory variation of <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">PV</z:e> (ΔrespPV)] were measured before and after fluid expansion </plain></SENT>
+<SENT sid="5" pm="."><plain>Responders were defined by a &gt;15% increase in SV after infusion of 500 ml crystalloid solution </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: SV was increased by ≥15% after 500 ml crystalloid infusion in 53 (59%) of the 90 patients. ΔrespSV predicted fluid responsiveness with an area under the receiver-operating characteristic (AUC) curve of 0.91 [95% confidence interval (95% CI): 0.85-0.97, P&lt;0.0001] </plain></SENT>
+<SENT sid="7" pm="."><plain>The optimal ΔrespSV cut-off was 14.4% (95% CI: 14.3-14.5%) </plain></SENT>
+<SENT sid="8" pm="."><plain>The grey zone approach identified 12 patients (14%) with a range of ΔrespSV values between 14% and 15% </plain></SENT>
+<SENT sid="9" pm="."><plain>FTc was not predictive of fluid responsiveness (AUC 0.49, 95% CI: 0.37-0.62, P=0.84) </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSIONS: ΔrespSV predicted fluid responsiveness accurately during surgery over a ΔrespSV range between 14% and 15% </plain></SENT>
+<SENT sid="11" pm="."><plain>In contrast, FTc did not predict fluid responsiveness </plain></SENT>
+</text></document>

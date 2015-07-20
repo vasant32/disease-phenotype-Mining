@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BU is a commonly used conditioning agent in BMT </plain></SENT>
+<SENT sid="1" pm="."><plain>However, it is a narrow therapeutic index drug which shows a strong correlation between AUC and both efficacy and toxicity </plain></SENT>
+<SENT sid="2" pm="."><plain>Studies in pediatric patients have suggested that children less than four yr of age have a greater clearance and thus lower AUC at standard adult doses </plain></SENT>
+<SENT sid="3" pm="."><plain>The goal of this retrospective analysis was to evaluate any age-related pharmacokinetic and pharmacodynamic differences in pediatric patients who received BU as a conditioning agent </plain></SENT>
+<SENT sid="4" pm="."><plain>From 2003 to 2006, 21/77 pediatric patients who received BMT were reviewed </plain></SENT>
+<SENT sid="5" pm="."><plain>There were 15 males and six females with a mean age of six yr old </plain></SENT>
+<SENT sid="6" pm="."><plain>Diagnoses of <z:hpo ids='HP_0001909'>leukemia</z:hpo> (n = 11), Hodgkin's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (n = 3), <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo> (n = 2), and other (n = 5) were included </plain></SENT>
+<SENT sid="7" pm="."><plain>Sixteen patients received BU + <z:chebi fb="0" ids="4027">cyclophosphamide</z:chebi> while five patients received BU + another agent </plain></SENT>
+<SENT sid="8" pm="."><plain>There were 20 allogeneic and one autologous transplants among which 16 were human leukocyte antigen matched and five were mismatched </plain></SENT>
+<SENT sid="9" pm="."><plain>Average BU clearance in patients younger than four yr old (n = 8) was 4.1 +/- 1.0 mL/min/kg vs. 3.1 +/- 0.7 mL/min/kg in patients older than four yr old (n = 13) (p = 0.02) </plain></SENT>
+<SENT sid="10" pm="."><plain>The corresponding averages for AUC were 998 +/- 226 microm x min vs. 1155 +/- 183 microm x min (p = 0.12) </plain></SENT>
+<SENT sid="11" pm="."><plain>No patients younger than four yr old developed <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">VOD</z:e> while five of the older patients did (p = 0.044) </plain></SENT>
+<SENT sid="12" pm="."><plain>There were no significant differences in terms of engraftment and <z:hpo ids='HP_0011009'>acute</z:hpo> GvHD </plain></SENT>
+<SENT sid="13" pm="."><plain>There were significant age-related pharmacokinetic differences in pediatric patients less than four yr of age receiving BU for conditioning prior to BMT </plain></SENT>
+<SENT sid="14" pm="."><plain>There was a decrease in drug toxicity seen in these patients </plain></SENT>
+</text></document>

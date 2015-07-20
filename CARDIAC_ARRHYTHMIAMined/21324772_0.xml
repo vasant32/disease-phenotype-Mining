@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>In this paper, a novel nonlinear joint dynamical model is presented, which is based on a set of coupled ordinary differential equations of motion and a Gaussian mixture model representation of pulsatile cardiovascular (CV) signals </plain></SENT>
+<SENT sid="1" pm="."><plain>In the proposed framework, the joint interdependences of CV signals are incorporated by assuming a unique angular frequency that controls the limit cycle of the heart rate </plain></SENT>
+<SENT sid="2" pm="."><plain>Moreover, the time consequence of CV signals is controlled by the same phase parameter that results in the space dimensionality reduction </plain></SENT>
+<SENT sid="3" pm="."><plain>These joint equations together with linear assignments to observation are further used in the Kalman filter structure for estimation and tracking </plain></SENT>
+<SENT sid="4" pm="."><plain>Moreover, we propose a measure of signal fidelity by monitoring the covariance matrix of the innovation signals throughout the filtering procedure </plain></SENT>
+<SENT sid="5" pm="."><plain>Five categories of life-threatening <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> were verified by simultaneously tracking the signal fidelity and the polar representation of the CV signal estimations </plain></SENT>
+<SENT sid="6" pm="."><plain>We analyzed data from Physiobank multiparameter databases (MIMIC I and II) </plain></SENT>
+<SENT sid="7" pm="."><plain>Performance evaluation results demonstrated that the sensitivity of the detection ranges over 93.50% and 100.00% </plain></SENT>
+<SENT sid="8" pm="."><plain>In particular, the addition of more CV signals improved the positive predictivity of the proposed method to 99.27% for the total arrhythmic types </plain></SENT>
+<SENT sid="9" pm="."><plain>The method was also used for false <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> suppression issued by ICU monitors, with an overall false suppression rate reduced from 42.3% to 9.9% </plain></SENT>
+<SENT sid="10" pm="."><plain>In addition, false critical ECG <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> alarm rates were found to be, on average, 42.3%, with individual rates varying between 16.7% and 86.5% </plain></SENT>
+<SENT sid="11" pm="."><plain>The results illustrate that the method can contribute to, and enhance the performance of clinical life-threatening <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> detection </plain></SENT>
+</text></document>

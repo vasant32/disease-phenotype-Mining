@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:e sem="disease" ids="C0004763" disease_type="Disease or Syndrome" abbrv="CELLO">Barrett's oesophagus</z:e> (BO) is the primary precursor lesion for oesophageal <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> (<z:chebi fb="49" ids="35181">ADC</z:chebi>) </plain></SENT>
+<SENT sid="1" pm="."><plain>The natural history of <z:mpath ids='MPATH_160'>metaplasia</z:mpath>-<z:mpath ids='MPATH_589'>dysplasia</z:mpath>-<z:mp ids='MP_0002038'>carcinoma</z:mp> sequence remains largely unknown </plain></SENT>
+<SENT sid="2" pm="."><plain>HER2/neu oncogene results overexpressed/amplified in <z:mpath ids='MPATH_481'>preneoplastic lesions</z:mpath> and in <z:chebi fb="49" ids="35181">ADC</z:chebi> of the oesophagus and it has been associated with poor prognosis </plain></SENT>
+<SENT sid="3" pm="."><plain>Our aim was to evaluate the role of HER2 overexpression/amplification in predicting the conversion from precursor lesions to <z:chebi fb="49" ids="35181">ADC</z:chebi> </plain></SENT>
+<SENT sid="4" pm="."><plain>We retrospectively evaluated by univariate analysis of single variables clinical records and histological specimens of 21 patients with a confirmed diagnosis of BO and/or oesophageal <z:mpath ids='MPATH_589'>dysplasia</z:mpath> </plain></SENT>
+<SENT sid="5" pm="."><plain>Clinical variables included age, gender, alcohol and smoking intake, presence of symptoms (pyrosis, disphagia) and endoscopic features (length) </plain></SENT>
+<SENT sid="6" pm="."><plain>HER2 status was studied by immunohistochemistry and fluorescence in situ hybridization (FISH) on paraffin-embedded tissue </plain></SENT>
+<SENT sid="7" pm="."><plain>The end-points were the occurrence of progression and the time-to-progression (<z:chebi fb="1" ids="18284">TTP</z:chebi>) from the initial histologic lesion to the worst pathological pattern </plain></SENT>
+<SENT sid="8" pm="."><plain>Median age at diagnosis was 63 years (range 37-84) </plain></SENT>
+<SENT sid="9" pm="."><plain>BO median length was 4.5 cm </plain></SENT>
+<SENT sid="10" pm="."><plain>Progression occurred in 11 of 21 patients and median <z:chebi fb="1" ids="18284">TTP</z:chebi> was 24 months </plain></SENT>
+<SENT sid="11" pm="."><plain>HER2 was overexpressed/amplified in 8 of 21 (38%) patients </plain></SENT>
+<SENT sid="12" pm="."><plain>HER2 overexpression/ amplification and the presence of <z:mpath ids='MPATH_589'>dysplasia</z:mpath> were statistically associated with progression (P= 0.038) </plain></SENT>
+<SENT sid="13" pm="."><plain>This study provides evidence for a possible role of HER2 in the transition from <z:mpath ids='MPATH_589'>dysplasia</z:mpath> to <z:chebi fb="49" ids="35181">ADC</z:chebi> of the oesophagus </plain></SENT>
+<SENT sid="14" pm="."><plain>This fact could help in identifying patients at high risk of <z:e sem="disease" ids="C1608408" disease_type="Neoplastic Process" abbrv="">malignant transformation</z:e> </plain></SENT>
+</text></document>

@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Recently more evidences support <z:chebi fb="0" ids="2979">baicalein</z:chebi> (Bai) is neuroprotective in models of <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>This study was conducted to determine the molecular mechanisms involved in this effect </plain></SENT>
+<SENT sid="2" pm="."><plain>Either permanent or transient (2 h) middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (MCAO) was induced in rats in this study </plain></SENT>
+<SENT sid="3" pm="."><plain>Permanent MCAO led to larger <z:mpath ids='MPATH_124'>infarct</z:mpath> volumes in contrast to transient MCAO </plain></SENT>
+<SENT sid="4" pm="."><plain>Only in transient MCAO, Bai administration significantly reduced <z:mpath ids='MPATH_124'>infarct</z:mpath> size </plain></SENT>
+<SENT sid="5" pm="."><plain><z:chebi fb="0" ids="2979">Baicalein</z:chebi> also markedly <z:mp ids='MP_0006043'>reduced apoptosis</z:mp> in the penumbra of transient MCAO rats </plain></SENT>
+<SENT sid="6" pm="."><plain>Additionally, oxygen and <z:chebi fb="105" ids="17234">glucose</z:chebi> deprivation (OGD) was used to mimic ischemic insult in primary cultured cortical neurons </plain></SENT>
+<SENT sid="7" pm="."><plain>A rapid increase in the intracellular reactive oxygen species level and nitrotyrosine formation induced by OGD was counteracted by Bai, which is parallel with attenuated cell injury </plain></SENT>
+<SENT sid="8" pm="."><plain>The reduction of phosphorylation Akt and <z:chebi fb="15" ids="28087">glycogen</z:chebi> synthase kinase-3beta (GSK3beta) induced by OGD was restored by Bai, which was associated with preserved levels of phosphorylation of PTEN, the phophatase that negatively regulates Akt </plain></SENT>
+<SENT sid="9" pm="."><plain>As a consequence, Bcl-2/Bcl-xL-associated <z:hpo ids='HP_0011420'>death</z:hpo> protein phosphorylation was increased and the protein level of Bcl-2 in motochondria was maintained, which subsequently antagonize <z:chebi fb="1" ids="18070">cytochrome c</z:chebi> released in cytosol </plain></SENT>
+<SENT sid="10" pm="."><plain>LY294002 blocked the increase in phospho-AKT evoked by Bai and abolished the associated protective effect </plain></SENT>
+<SENT sid="11" pm="."><plain>Together, these findings provide evidence that Bai protects neurons against <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> injury and this neuroprotective effect involves PI3K/Akt and PTEN pathway </plain></SENT>
+</text></document>

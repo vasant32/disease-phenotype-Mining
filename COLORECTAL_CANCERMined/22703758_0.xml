@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIMS: Comorbidity affects outcomes after <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> surgery </plain></SENT>
+<SENT sid="1" pm="."><plain>However, it's importance in risk adjustment is unclear and different measures are being used </plain></SENT>
+<SENT sid="2" pm="."><plain>This study aims to assess its impact on post-operative outcomes </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: <z:hpo ids='HP_0000001'>All</z:hpo> 2204 patients who were operated on for stage I-III <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> in the Midwestern region of the Netherlands between January 1, 2006 and December 31, 2008 were analyzed </plain></SENT>
+<SENT sid="4" pm="."><plain>A multivariate two-step enter-model was used to evaluate the effect of the American Society of Anaesthesiologists Physical Status classification (<z:chebi fb="37" ids="15365">ASA</z:chebi>) score, the sum of diseased organ systems (SDOS), the Charlson Comorbidity Index (CCI) and a combination of specific comorbidities on 30-day mortality, surgical complications and a prolonged length of stay (LOS) </plain></SENT>
+<SENT sid="5" pm="."><plain>For each retrieved model, and for a model without comorbidity, a ROC curve was made </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: High <z:chebi fb="37" ids="15365">ASA</z:chebi> score, SDOS, CCI, <z:e sem="disease" ids="C0024115" disease_type="Disease or Syndrome" abbrv="">pulmonary disease</z:e> and previous <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">malignancy</z:e> were <z:hpo ids='HP_0000001'>all</z:hpo> strongly associated with 30-day mortality and a prolonged LOS </plain></SENT>
+<SENT sid="7" pm="."><plain>High <z:chebi fb="37" ids="15365">ASA</z:chebi> score and gastro-intestinal comorbidity were risk factors for surgical complications </plain></SENT>
+<SENT sid="8" pm="."><plain>Predictive values for <z:hpo ids='HP_0000001'>all</z:hpo> comorbidity measures were similar with regard to <z:hpo ids='HP_0000001'>all</z:hpo> adverse post-operative outcomes </plain></SENT>
+<SENT sid="9" pm="."><plain>Omitting comorbidity only had a marginal effect on the predictive value of the model </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSION: Irrespective of the measure used, comorbidity is an independent risk factor for adverse outcome after colorectal surgery </plain></SENT>
+<SENT sid="11" pm="."><plain>However, the importance of comorbidity in risk-adjustment models is limited </plain></SENT>
+<SENT sid="12" pm="."><plain>Probably the work and costs of data collection for auditing can be reduced, without compromising risk-adjustment </plain></SENT>
+</text></document>

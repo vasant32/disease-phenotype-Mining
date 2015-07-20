@@ -1,0 +1,5 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Parvovirus B19 is a frequent virus detected in endomyocardial biopsies of patients with clinically suspected <z:mp ids='MP_0001856'>myocarditis</z:mp> or <z:hpo ids='HP_0001644'>dilated cardiomyopathy</z:hpo> (<z:chebi fb="20" ids="15767">DCM</z:chebi>) </plain></SENT>
+<SENT sid="1" pm="."><plain>Viruses often cause a more symptomatic disease with increased tissue injury if they become reactivated </plain></SENT>
+<SENT sid="2" pm="."><plain>A disease-specific differential expression of microRNAs (miRNAs) has been described in the regulation of replicating viruses </plain></SENT>
+<SENT sid="3" pm="."><plain>Analyzing patients with latent and reactivated B19V <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infection</z:e>, we found 29 differentially regulated miRNAs and, in order to test whether predicted genes are differentially expressed, selected <z:chebi fb="2" ids="33699">mRNAs</z:chebi> were tested by TaqMan-QPCR </plain></SENT>
+</text></document>

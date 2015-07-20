@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND PURPOSE: Thrombolytic therapy with recombinant tissue plasminogen activator (rtPA) after <z:hpo ids='HP_0001297'>stroke</z:hpo> increases risk of hemorrhagic transformation, particularly in areas with blood-brain barrier leakage </plain></SENT>
+<SENT sid="1" pm="."><plain>Our aim was to characterize <z:hpo ids='HP_0011009'>acute</z:hpo> effects of rtPA administration on the integrity of microvascular barriers </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: <z:hpo ids='HP_0001297'>Stroke</z:hpo> was induced in spontaneously hypertensive rats by unilateral embolic middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> </plain></SENT>
+<SENT sid="3" pm="."><plain>Six hours after <z:hpo ids='HP_0001297'>stroke</z:hpo>, rtPA was intravenously administered (n=10) </plain></SENT>
+<SENT sid="4" pm="."><plain>Controls received saline (n=4) </plain></SENT>
+<SENT sid="5" pm="."><plain>Extravasation of the large-diameter contrast agent monocrystalline <z:chebi fb="27" ids="50820">iron oxide</z:chebi> nanocolloid (MION) was assessed with susceptibility contrast-enhanced MRI during rtPA injection </plain></SENT>
+<SENT sid="6" pm="."><plain>In addition, we performed perfusion MRI and diffusion-weighted MRI </plain></SENT>
+<SENT sid="7" pm="."><plain>After MRI, 2 hours after rtPA treatment, <z:hpo ids='HP_0001342'>intracerebral hemorrhage</z:hpo> was quantified with a spectrophotometric <z:chebi fb="0" ids="35143">hemoglobin</z:chebi> assay </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: Late rtPA treatment resulted in increased <z:mp ids='MP_0001914'>hemorrhage</z:mp> volume (8.4+/-1.7 versus 2.9+/-0.9 micro L in controls; P&lt;0.05) </plain></SENT>
+<SENT sid="9" pm="."><plain>In MION-injected animals, during rtPA administration, transverse relaxation rate change (DeltaR2*) increased from 12.4+/-6.0 to 31.6+/-19.2 s(-1) (P&lt;0.05) in areas with subsequent <z:mp ids='MP_0001914'>hemorrhage</z:mp> </plain></SENT>
+<SENT sid="10" pm="."><plain>Significant DeltaR2* changes were absent in nonhemorrhagic areas, in animals without injected MION, and in saline-treated animals </plain></SENT>
+<SENT sid="11" pm="."><plain>Thrombolytic therapy did not improve perfusion in regions with hemorrhagic transformation (cerebral blood flow index was 22.8+/-19.7% [of contralateral] at 0.5 hours before and 22.4+/-18.0% at 1 hour after rtPA administration) </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: The DeltaR2* changes during rtPA delivery in MION-injected animals indicate extravasation of MION, which reflects increased permeability of the blood-brain barrier </plain></SENT>
+<SENT sid="13" pm="."><plain>This implies that late rtPA treatment rapidly aggravates early <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e>-induced damage to microvascular barriers, thereby enhancing hemorrhagic transformation </plain></SENT>
+</text></document>

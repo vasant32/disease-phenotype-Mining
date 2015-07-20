@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> (BE), a metaplastic premalignant disorder, represents the primary risk factor for the development of esophageal <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> </plain></SENT>
+<SENT sid="1" pm="."><plain><z:hpo ids='HP_0011010'>Chronic</z:hpo> <z:hpo ids='HP_0002020'>gastroesophageal reflux disease</z:hpo> and central <z:hpo ids='HP_0001513'>obesity</z:hpo> have been associated with BE and esophageal <z:mp ids='MP_0009308'>adenocarcinoma</z:mp>, but relatively little is known about the specific genes that confer susceptibility to BE <z:e sem="disease" ids="C0596263" disease_type="Neoplastic Process" abbrv="">carcinogenesis</z:e> </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: A total of 74 patients with BE and 67 controls coming from six gastrointestinal Italian units were evaluated for six polymorphisms in four genes: XPC, <z:e sem="disease" ids="C0268138" disease_type="Disease or Syndrome;Congenital Abnormality" abbrv="">XPD</z:e> nucleotide excision repair (NER) genes, XRCC1 (BER gene), and <z:chebi fb="0" ids="16856">glutathione</z:chebi> S-transferase P1 </plain></SENT>
+<SENT sid="3" pm="."><plain>Smoking status was analyzed together with the genetic data </plain></SENT>
+<SENT sid="4" pm="."><plain>Statistical analysis was performed through Artificial Neural Networks </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: Distributions of sex, smoking history, and polymorphisms among BE cases and controls did not show statistically significant differences </plain></SENT>
+<SENT sid="6" pm="."><plain>The r-value from linear correlation allowed us to identify possible protective factors as well as possible risk factors </plain></SENT>
+<SENT sid="7" pm="."><plain>The application of advanced intelligent systems allowed for the selection of a subgroup of nine variables </plain></SENT>
+<SENT sid="8" pm="."><plain>Artificial Neural Networks applied on the final data set reached mean global accuracy of 60%, reaching as high as 65.88% </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSION: We report here results from an exploratory study </plain></SENT>
+<SENT sid="10" pm="."><plain>Results from this study failed to find an association among the tested single nucleotide polymorphisms and BE phenotype through classical statistical methods </plain></SENT>
+<SENT sid="11" pm="."><plain>On the contrary, advanced intelligent systems are really able to handle the disease complexity, not treating the data with reductionist approaches unable to detect multiple genes of smaller effect in predisposing to the disease </plain></SENT>
+<SENT sid="12" pm="."><plain>IMPACT: To detect multiple genes of smaller effects in predisposing individuals to <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> </plain></SENT>
+</text></document>

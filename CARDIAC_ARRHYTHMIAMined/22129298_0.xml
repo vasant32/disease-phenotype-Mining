@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Congenital <z:hpo ids='HP_0001657'>Long QT syndrome</z:hpo> (LQTS) is a cardiac <z:e sem="disease" ids="C1720983" disease_type="Disease or Syndrome" abbrv="">channelopathy</z:e>, which leads to prolongation of the QT interval </plain></SENT>
+<SENT sid="1" pm="."><plain>This prolongation can lead to ventricular tachyarrhythmias, <z:hpo ids='HP_0001279'>syncope</z:hpo>, and <z:hpo ids='HP_0001645'>sudden cardiac death</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>There are various types of LQTS associated with the mutations, which affect the genes coding the ion channels in the myocardial cells </plain></SENT>
+<SENT sid="3" pm="."><plain>Because of the differences in the ion channel <z:mp ids='MP_0001532'>physiology</z:mp>, clinical presentation of the subtypes can show significant differences </plain></SENT>
+<SENT sid="4" pm="."><plain>The most common types of LQTS are LQT1, LQT2, and LQT3 </plain></SENT>
+<SENT sid="5" pm="."><plain>In LQT1 and LQT2, mutations are in the genes encoding <z:chebi fb="120" ids="26216">Potassium</z:chebi> channels (KCNQ1 and KCNH2 genes) </plain></SENT>
+<SENT sid="6" pm="."><plain>These two subtypes show sensitivity to adrenergic stimuli </plain></SENT>
+<SENT sid="7" pm="."><plain>In LQT1, episodes are usually exercise-triggered, and in LQT2, episodes are more likely to be related to sudden arousal and <z:e sem="disease" ids="C0086209" disease_type="Mental or Behavioral Dysfunction" abbrv="">emotional stress</z:e> </plain></SENT>
+<SENT sid="8" pm="."><plain>Therefore treatment of LQT1 and LQT2 is mainly based on antiadrenergic therapy </plain></SENT>
+<SENT sid="9" pm="."><plain>LQT3 on the other hand, is a result of a mutation of SCN5A gene, which encodes the <z:chebi fb="199" ids="26708">Sodium</z:chebi> channels </plain></SENT>
+<SENT sid="10" pm="."><plain>In this type, patients are sensitive to vagal stimuli and episodes tend to occur at rest </plain></SENT>
+<SENT sid="11" pm="."><plain>Therefore, treatment choices between different subtypes of LQTS vary </plain></SENT>
+<SENT sid="12" pm="."><plain>In this case report, we report a patient with congenital LQT3 (Y1795C mutation) presenting with implantable cardioverter defibrillator (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">ICD</z:e>) storm </plain></SENT>
+<SENT sid="13" pm="."><plain>Patient's <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> burden was eliminated following successful treatment with flecainide </plain></SENT>
+</text></document>

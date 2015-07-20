@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND OBJECTIVES: Intensive chemotherapy followed by autologous hematopoietic stem cell transplantation (HSCT) is a curative treatment option for patients with <z:hpo ids='HP_0002863'>myelodysplastic syndromes</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e>) </plain></SENT>
+<SENT sid="1" pm="."><plain>Peripheral blood (PB) HSCT was introduced in 1992 and PB has become the source of choice of autologous stem cells worldwide </plain></SENT>
+<SENT sid="2" pm="."><plain>Autologous PB stem cells result in faster hematopoietic recovery, but may be associated with a higher risk of relapse </plain></SENT>
+<SENT sid="3" pm="."><plain>DESIGN AND METHODS: We analyzed the data of 336 patients transplanted after 1992 with either bone marrow (BM) (n=104) or PB (n=232) </plain></SENT>
+<SENT sid="4" pm="."><plain>RESULTS: Various factors had an impact on event-free survival in univariate analysis: age hazard ratio [HR]=1.1 per 10 years; p=0.12), source of stem cells (HR=1.2, p=0.22), interval between diagnosis and transplantation (HR=1.0 per month; p=0.87), and therapy-related vs <z:e sem="disease" ids="C0277554" disease_type="Disease or Syndrome" abbrv="">primary disease</z:e> (HR=0.5; p=0.002) </plain></SENT>
+<SENT sid="5" pm="."><plain>In the multivariate Cox model, the event-free survival was not different after PB or BM HSCT with a HR of 0.93 (95% confidence interval of 0.67 - 1.30; p=0.67) </plain></SENT>
+<SENT sid="6" pm="."><plain>The relapse risk after transplantation with stem cells from either source was similar with a HR of 1.1 </plain></SENT>
+<SENT sid="7" pm="."><plain>A significant interaction (p=0.02) between age and the source of stem cells indicated a more favorable potential of autologous PB HSCT in young age groups </plain></SENT>
+<SENT sid="8" pm="."><plain>INTERPRETATION AND CONCLUSIONS: Autologous PB and BM HSCT result in equivalent outcomes </plain></SENT>
+<SENT sid="9" pm="."><plain>Therefore, given the more rapid hematopoietic recovery PB is the preferred source of stem cells </plain></SENT>
+</text></document>

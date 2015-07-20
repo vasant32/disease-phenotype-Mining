@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVES: To demonstrate the feasibility of magnetic resonance imaging (MRI) to X-ray fluoroscopy (XRF) image fusion to guide peripheral artery <z:hpo ids='HP_0011010'>chronic</z:hpo> total occlusion (CTO) recanalization </plain></SENT>
+<SENT sid="1" pm="."><plain>BACKGROUND: Endovascular peripheral artery CTO revascularization is minimally invasive, but challenging, because the occlusion is poorly visualized under XRF </plain></SENT>
+<SENT sid="2" pm="."><plain>Devices may steer out of the artery, which can lead to severe <z:mpath ids='MPATH_81'>perforation</z:mpath> </plain></SENT>
+<SENT sid="3" pm="."><plain>Merging preacquired MRI of the CTO to the live XRF display may permit upfront use of aggressive devices and improve procedural outcomes </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS: Swine carotid artery CTOs were created using a balloon injury model </plain></SENT>
+<SENT sid="5" pm="."><plain>Up to 8 weeks later, MRI of the carotid arteries was acquired and segmented to create three-dimensional surface models, which were then registered onto live XRF </plain></SENT>
+<SENT sid="6" pm="."><plain>CTO recanalization was performed using incrementally aggressive CTO devices (group A) or an upfront aggressive directed laser approach (group B) </plain></SENT>
+<SENT sid="7" pm="."><plain>Procedural success was defined as <z:chebi fb="2" ids="8069">luminal</z:chebi> or subintimal device position without severe <z:mpath ids='MPATH_81'>perforation</z:mpath> </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: In this swine model, MRI to XRF fusion guidance resulted in a procedural success of 57% in group A and 100% in group B, which compared favorably to 33% using XRF alone </plain></SENT>
+<SENT sid="9" pm="."><plain>Fluoroscopy time was significantly less for group B (8.5 ± 2.6 min) compared to group A (48.7 ± 23.9 min), P &lt; 0.01 </plain></SENT>
+<SENT sid="10" pm="."><plain>Contrast dose used was similar between groups A and B </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: MRI to XRF fusion-guided peripheral artery CTO recanalization is feasible </plain></SENT>
+<SENT sid="12" pm="."><plain>Multimodality image fusion may permit upfront use of aggressive CTO devices with improved procedural outcomes compared to XRF-guided procedures </plain></SENT>
+</text></document>

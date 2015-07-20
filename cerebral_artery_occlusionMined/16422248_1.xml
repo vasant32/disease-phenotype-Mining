@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: To clarify the effects of repetitive transcranial magnetic stimulation (rTMS) on rat motor cortical excitability and neurofunction after <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo>-reperfusion injury </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: After determined awake resting motor threshold (MT) and motor evoked potentials (<z:chebi fb="164" ids="34757">MEPs</z:chebi>) of right hindlimbs, 20 Sprague-Dawley rats were subjected to middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (MCAO) reperfusion injury, then rTMS were applied to rTMS group (n=10) at different time, while control group (n=10) received no stimulation </plain></SENT>
+<SENT sid="2" pm="."><plain>A week later, MT and <z:chebi fb="164" ids="34757">MEPs</z:chebi> were evaluated again, as well as neurological deficits and <z:mpath ids='MPATH_124'>infarct</z:mpath> volume </plain></SENT>
+<SENT sid="3" pm="."><plain>The effects of rTMS and MCAO reperfusion injury on these parameters were analyzed </plain></SENT>
+<SENT sid="4" pm="."><plain>RESULTS: After MCAO reperfusion, both MT level and neurological deficit scores increased, distinct focal infarction formed, and latency of <z:chebi fb="164" ids="34757">MEP</z:chebi> elongated </plain></SENT>
+<SENT sid="5" pm="."><plain>Compared with the control group, the increased extent of MT and neurological scores of rats receiving rTMS were significantly lower (P &lt; 0.05), as well as the <z:mpath ids='MPATH_124'>infarct</z:mpath> volumes reduced significantly (P &lt; 0.05) </plain></SENT>
+<SENT sid="6" pm="."><plain>But <z:chebi fb="164" ids="34757">MEP</z:chebi> was not affected by rTMS obviously </plain></SENT>
+<SENT sid="7" pm="."><plain>There was a positive linear correlation between postinjury MT and <z:mpath ids='MPATH_124'>infarct</z:mpath> volume (r = 0.64, P &lt; 0.05) </plain></SENT>
+<SENT sid="8" pm="."><plain>CONCLUSION: rTMS may facilitate neurofunction recovery after <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo>-reperfusion </plain></SENT>
+<SENT sid="9" pm="."><plain>Postinjury MT could provide prognostic information after MCAO reperfusion injury </plain></SENT>
+</text></document>

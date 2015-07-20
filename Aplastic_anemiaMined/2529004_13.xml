@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Eighty-five percent of untransfused and 70% of transfused patients with severe <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> (SAA) are cured with bone marrow transplants from histocompatible sibling donors </plain></SENT>
+<SENT sid="1" pm="."><plain>Use of partially matched family donors or unrelated donors has been relatively unsuccessful because of high incidences of graft rejection and <z:e sem="disease" ids="C0018133" disease_type="Disease or Syndrome" abbrv="GVH">graft-versus-host disease</z:e> (GVHD) </plain></SENT>
+<SENT sid="2" pm="."><plain>Thirteen children with SAA received marrow grafts from alternative donors (sibling 4, parent 5, unrelated 4) </plain></SENT>
+<SENT sid="3" pm="."><plain>The first three patients were pretreated with <z:chebi fb="0" ids="4027">cyclophosphamide</z:chebi> (CYCLO) +/- irradiation and received <z:chebi fb="0" ids="44185">methotrexate</z:chebi> for GVHD prophylaxis </plain></SENT>
+<SENT sid="4" pm="."><plain>Subsequent children were pretreated with CYCLO + high-dose <z:chebi fb="1" ids="16040">cytosine</z:chebi> <z:chebi fb="0" ids="22601">arabinoside</z:chebi> + <z:chebi fb="0" ids="6888">methylprednisolone</z:chebi> + total body irradiation, had monoclonal antibody T-cell <z:mpath ids='MPATH_63'>depletion</z:mpath> of the donor marrow, and received <z:chebi fb="0" ids="4031">cyclosporine</z:chebi> for GVHD prophylaxis </plain></SENT>
+<SENT sid="5" pm="."><plain>Three heavily transfused patients with haploidentical-related donors failed to engraft and died </plain></SENT>
+<SENT sid="6" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> 10 patients with more closely matched donors engrafted </plain></SENT>
+<SENT sid="7" pm="."><plain><z:hpo ids='HP_0011009'>Acute</z:hpo> GVHD was grade II in only one patient (non-T-depleted); this patient is the only one with severe <z:hpo ids='HP_0011010'>chronic</z:hpo> GVHD </plain></SENT>
+<SENT sid="8" pm="."><plain>Three engrafted patients died (Pneumocystis <z:hpo ids='HP_0002090'>pneumonia</z:hpo>, systemic <z:e sem="disease" ids="C0030389" disease_type="Disease or Syndrome" abbrv="">parainfluenza</z:e>, venocclusive disease) </plain></SENT>
+<SENT sid="9" pm="."><plain>Seven children are alive 33+ to 2,692+ days </plain></SENT>
+<SENT sid="10" pm="."><plain>Donors for the survivors were siblings 3, parent 1, unrelated 3 </plain></SENT>
+<SENT sid="11" pm="."><plain>These data suggest that bone marrow transplantation from closely matched donors other than histocompatible siblings can be effective therapy for SAA if an intensive conditioning regimen is used </plain></SENT>
+<SENT sid="12" pm="."><plain>These results must be confirmed with larger numbers and longer follow-up </plain></SENT>
+</text></document>

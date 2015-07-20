@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIM: Cardiovascular <z:e sem="disease" ids="C0259749" disease_type="Disease or Syndrome" abbrv="">autonomic neuropathy</z:e> is a serious complication of <z:hpo ids='HP_0000819'>diabetes mellitus</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Previous studies have revealed conflicting results with regard to the role of <z:hpo ids='HP_0001513'>obesity</z:hpo> and its effect on the performance of tests (e.g. RR-variation during deep breathing) for the determination of the presence of cardiovascular <z:hpo ids='HP_0002459'>autonomic dysfunction</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>The objective of this study was to determine if <z:hpo ids='HP_0001513'>obesity</z:hpo> affects the performance and the reproducibility of autonomic function tests </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: This cross-sectional study included 159 diabetic individuals </plain></SENT>
+<SENT sid="4" pm="."><plain>Autonomic function tests included: RR-variation during deep breathing and the Valsalva ratio </plain></SENT>
+<SENT sid="5" pm="."><plain>These tests were assessed using the ANS2000 ECG Monitor and Respiration Pacer </plain></SENT>
+<SENT sid="6" pm="."><plain>RR-variation was measured by vector analysis (i.e. mean circular resultant, MCR) </plain></SENT>
+<SENT sid="7" pm="."><plain>Reproducibility of the autonomic function tests was assessed by determining the coefficient of variation (CV) on repeat testing </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: Using cut-off points to describe <z:mpath ids='MPATH_458'>normal</z:mpath> weight (body mass index (b.m.i.) &lt; or = 25 kg/m(2)), overweight (b.m.i </plain></SENT>
+<SENT sid="9" pm="."><plain>25.01-30 kg/m(2)), <z:mp ids='MP_0001261'>obese</z:mp> (b.m.i </plain></SENT>
+<SENT sid="10" pm="."><plain>30.01-40 kg/m(2)), and morbidly <z:mp ids='MP_0001261'>obese</z:mp> (b.m.i. &gt; or = 40.1 kg/m(2)), no difference was found for the MCR, Valsalva ratio, CV of the MCR, or CV of the Valsalva ratio among the various weight levels for individuals with type 1 or type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: The results of this study indicate that <z:hpo ids='HP_0001513'>obesity</z:hpo> is not a confounding factor in the performance of autonomic function tests </plain></SENT>
+<SENT sid="12" pm="."><plain>Likewise, the reproducibility of autonomic function testing is not affected by <z:hpo ids='HP_0001513'>obesity</z:hpo> </plain></SENT>
+<SENT sid="13" pm="."><plain>Assessment of autonomic function is important for <z:mp ids='MP_0001261'>obese</z:mp> and non-<z:mp ids='MP_0001261'>obese</z:mp> individuals given that reduced RR-variation is associated with <z:hpo ids='HP_0003546'>exercise intolerance</z:hpo>, intraoperative cardiovascular lability and increased risk of mortality </plain></SENT>
+</text></document>

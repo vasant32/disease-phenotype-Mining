@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Cardiac conduction system (CCS) disease, which results in disrupted conduction and impaired cardiac rhythm, is common with significant morbidity and mortality </plain></SENT>
+<SENT sid="1" pm="."><plain>Current treatment options are limited, and rational efforts to develop cell-based and regenerative therapies require knowledge of the molecular networks that establish and maintain CCS function </plain></SENT>
+<SENT sid="2" pm="."><plain>Recent genome-wide association studies (GWAS) have identified numerous loci associated with adult human CCS function, including TBX5 and SCN5A </plain></SENT>
+<SENT sid="3" pm="."><plain>We hypothesized that TBX5, a critical developmental transcription factor, regulates transcriptional networks required for mature CCS function </plain></SENT>
+<SENT sid="4" pm="."><plain>We found that deletion of Tbx5 from the mature murine ventricular conduction system (VCS), including the AV bundle and bundle branches, resulted in severe VCS functional consequences, including loss of fast conduction, <z:hpo ids='HP_0011675'>arrhythmias</z:hpo>, and <z:hpo ids='HP_0001699'>sudden death</z:hpo> </plain></SENT>
+<SENT sid="5" pm="."><plain>Ventricular contractile function and the VCS fate map remained unchanged in VCS-specific Tbx5 knockouts </plain></SENT>
+<SENT sid="6" pm="."><plain>However, key mediators of fast conduction, including Nav1.5, which is encoded by Scn5a, and connexin 40 (Cx40), demonstrated Tbx5-dependent expression in the VCS </plain></SENT>
+<SENT sid="7" pm="."><plain>We identified a TBX5-responsive enhancer downstream of Scn5a sufficient to drive VCS expression in vivo, dependent on canonical T-box binding sites </plain></SENT>
+<SENT sid="8" pm="."><plain>Our results establish a direct molecular link between Tbx5 and Scn5a and elucidate a hierarchy between human GWAS loci that affects function of the mature VCS, establishing a paradigm for understanding the molecular pathology of CCS disease </plain></SENT>
+</text></document>

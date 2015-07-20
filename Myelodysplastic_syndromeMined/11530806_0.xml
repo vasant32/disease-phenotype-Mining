@@ -1,0 +1,6 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>This study concerns a patient with minor (m)-BCR/ABL transcript-positive and Philadelphia (Ph) chromosome-negative <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e>) </plain></SENT>
+<SENT sid="1" pm="."><plain>The patient was a 78-year-old man whose condition was diagnosed as <z:hpo ids='HP_0005505'>refractory anemia</z:hpo> with excess of blasts in transformation </plain></SENT>
+<SENT sid="2" pm="."><plain>Molecular genetic studies, using reverse transcriptase polymerase chain reaction analysis detected m-BCR/ABL <z:chebi fb="5" ids="33699">messenger RNA</z:chebi> </plain></SENT>
+<SENT sid="3" pm="."><plain>We used spectral karyotyping to analyze metaphase cells but could not detect a Ph chromosome </plain></SENT>
+<SENT sid="4" pm="."><plain>Fluorescence in situ hybridization, however, revealed fusion signals of BCR and ABL probes on an apparently <z:mpath ids='MPATH_458'>normal</z:mpath> chromosome 22 </plain></SENT>
+</text></document>

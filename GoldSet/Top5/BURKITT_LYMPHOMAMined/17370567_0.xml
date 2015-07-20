@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 67 years old male otherwise healthy who had undergone surgery for <z:hpo ids='HP_0100582'>nasal polyposis</z:hpo> ten years earlier was recently diagnosed with B-cell <z:hpo ids='HP_0011009'>acute</z:hpo> lymphoblastic <z:mpath ids='MPATH_336'>leukaemia</z:mpath> </plain></SENT>
+<SENT sid="1" pm="."><plain>During induction treatment the patient developed sino-<z:e sem="disease" ids="C0004031" disease_type="Disease or Syndrome" abbrv="">pulmonary aspergillosis</z:e> caused byAspergillus flavus </plain></SENT>
+<SENT sid="2" pm="."><plain>The patient developed severe reactions against <z:chebi fb="1" ids="2682">amphotericin- B</z:chebi> and thereafter Abelcet, whereas he tolerated treatment with AmBisome </plain></SENT>
+<SENT sid="3" pm="."><plain>Surgery of the nasal cavities was performed whereas surgery of the <z:hpo ids='HP_0002113'>pulmonary infiltrates</z:hpo> was not possible </plain></SENT>
+<SENT sid="4" pm="."><plain>During subsequent treatment for his <z:mpath ids='MPATH_336'>leukaemia</z:mpath> and long periods of <z:hpo ids='HP_0001875'>neutropenia</z:hpo>, the patient was on AmBisome treatment and there were no signs of progression of the <z:e sem="disease" ids="C0851807" disease_type="Disease or Syndrome" abbrv="">Aspergillus infection</z:e> </plain></SENT>
+<SENT sid="5" pm="."><plain>The antifungal treatment was considered to be successful </plain></SENT>
+<SENT sid="6" pm="."><plain>The patient was referred back to his local hospital and antifungal treatment was switched to oral <z:chebi fb="0" ids="6076">itraconazole</z:chebi> </plain></SENT>
+</text></document>

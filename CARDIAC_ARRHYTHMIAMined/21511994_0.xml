@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Cardiac electric therapies effectively terminate tachyarrhythmias </plain></SENT>
+<SENT sid="1" pm="."><plain>Recent data suggest a possible increase in long-term mortality associated with implantable cardioverter-defibrillator shocks </plain></SENT>
+<SENT sid="2" pm="."><plain>Little is known about the association between external cardioversion episodes (ECVe) and long-term mortality </plain></SENT>
+<SENT sid="3" pm="."><plain>We sought to assess the safety of repeated ECVe with regard to cardiovascular mortality and morbidity </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS AND RESULTS: We analyzed the data of the 4060 patients from the AFFIRM (<z:hpo ids='HP_0005110'>Atrial Fibrillation</z:hpo> Follow-up Investigation of Rhythm Management) trial </plain></SENT>
+<SENT sid="5" pm="."><plain>In particular, associations of ECVe with <z:hpo ids='HP_0000001'>all</z:hpo>-cause mortality, cardiovascular mortality, and hospitalizations after ECVe were studied </plain></SENT>
+<SENT sid="6" pm="."><plain>Over an average follow-up of 3.5 years, 660 (16.3%) patients died, 331 (8.2%) from cardiovascular causes </plain></SENT>
+<SENT sid="7" pm="."><plain>A total of 207 (5.1%) and 1697 (41.8%) patients had low ejection fraction and nonparoxysmal <z:hpo ids='HP_0005110'>atrial fibrillation</z:hpo>, respectively; 2460 patients received no ECVe, whereas 1600 experienced ≥ 1 ECVe </plain></SENT>
+<SENT sid="8" pm="."><plain><z:hpo ids='HP_0011420'>Death</z:hpo> occurred in 412 (16.7%), 196 (16.5%), 39 (13.5%), and 13 (10.4%) of patients with 0, 1, 2, and ≥ 3 ECVe, respectively </plain></SENT>
+<SENT sid="9" pm="."><plain>There was no significant association between ECVe and mortality within any of the 4 subgroups defined by ejection fraction and <z:hpo ids='HP_0005110'>atrial fibrillation</z:hpo> type, although <z:hpo ids='HP_0001658'>myocardial infarction</z:hpo>, coronary artery bypass graft, and digoxin were significantly associated with <z:hpo ids='HP_0011420'>death</z:hpo> (estimated hazard ratios, 1.65, 1.59, and 1.62, respectively; P &lt; 0.0001) </plain></SENT>
+<SENT sid="10" pm="."><plain>ECVe were associated with increased cardiac hospitalization reported at the next follow-up visit (39.3% versus 5.8%; estimated odds ratio, 1.39; P &lt; 0.0001) </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: In the AFFIRM study, there was no significant association between ECVe and long-term mortality, even though ECVe were associated with increased hospitalizations from cardiac causes </plain></SENT>
+<SENT sid="12" pm="."><plain>Digoxin, <z:hpo ids='HP_0001658'>myocardial infarction</z:hpo>, and coronary artery bypass graft were significantly associated with mortality </plain></SENT>
+</text></document>

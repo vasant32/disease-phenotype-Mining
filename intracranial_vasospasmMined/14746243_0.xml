@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Transcranial Doppler sonography is commonly used for diagnosis of <z:e sem="disease" ids="C0265110" disease_type="Disease or Syndrome" abbrv="">cerebral vasospasm</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>However, the overall diagnostic performance of this method in detection of arterial narrowing has not been established </plain></SENT>
+<SENT sid="2" pm="."><plain>Blood velocity threshold, diagnostic for vasospasm, has been proposed for conventional, "blind" transcranial Doppler sonography (TCD) </plain></SENT>
+<SENT sid="3" pm="."><plain>Nevertheless it cannot be used for transcranial color Doppler sonography (TCCD), because in this method the obtained blood velocities in the major cerebral arteries are higher than are in TCD </plain></SENT>
+<SENT sid="4" pm="."><plain>The aim of this study was to estimate the accuracy of transcranial color Doppler sonography in detection of middle cerebral artery (<z:chebi fb="70" ids="34342">MCA</z:chebi>) narrowing by means of receiver operating characteristic curve analysis (ROC) </plain></SENT>
+<SENT sid="5" pm="."><plain>One hundred thirty four patients were studied with TCCD immediately before cerebral angiography </plain></SENT>
+<SENT sid="6" pm="."><plain>There were 75 men and 59 women, age range from 18 to 74 years, mean age 49 years </plain></SENT>
+<SENT sid="7" pm="."><plain>Of the 268 MCAs examined, 227 arteries were finally included in the construction of the ROC curve </plain></SENT>
+<SENT sid="8" pm="."><plain>Angiographic vasospasm was graded as none, mild (equal to or less than 25% of vessel caliber reduction--16 patients) and moderate-to-severe (more than 25% of vessel caliber reduction--29 patients) </plain></SENT>
+<SENT sid="9" pm="."><plain>The overall diagnostic performance of transcranial color Doppler sonography in the detection of moderate-to-severe vasospasm of middle cerebral artery was found to be very high </plain></SENT>
+<SENT sid="10" pm="."><plain>The value of associated area under the ROC curve was 0.94 </plain></SENT>
+<SENT sid="11" pm="."><plain>The value of this area for <z:hpo ids='HP_0000001'>all</z:hpo> vasospasms was 0.85, and this indicates good accuracy of a test </plain></SENT>
+<SENT sid="12" pm="."><plain>The best performing TCCD parameter for the detection of <z:chebi fb="70" ids="34342">MCA</z:chebi> narrowing was revealed to be peak-systolic velocity </plain></SENT>
+<SENT sid="13" pm="."><plain>The optimal trade-off between sensitivity and specificity was achieved with a peak systolic velocity of 182 cm/s </plain></SENT>
+<SENT sid="14" pm="."><plain>Therefore this velocity threshold is proposed as most universal for the diagnosis of vasospasm in the middle cerebral artery </plain></SENT>
+</text></document>

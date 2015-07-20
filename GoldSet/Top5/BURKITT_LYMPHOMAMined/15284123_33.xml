@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Immunoglobulin production is impaired in Hodgkin and Reed-Sternberg (HRS) cells of classical Hodgkin <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (cHL) in spite of functional clonal rearrangements </plain></SENT>
+<SENT sid="1" pm="."><plain>The presence of "crippling" mutations in coding and regulatory regions, as well as down-regulation of B-cell-specific transcription factors, has been suggested as a potential reason for the lack of immunoglobulin (Ig) chain gene transcription </plain></SENT>
+<SENT sid="2" pm="."><plain>We have investigated the impact of epigenetic silencing in suppressing Ig heavy (H)-chain expression </plain></SENT>
+<SENT sid="3" pm="."><plain>Chromatin immunoprecipitation (ChIP) was used to analyze transcription factor binding to octamer motifs present in the IgH regulatory regions </plain></SENT>
+<SENT sid="4" pm="."><plain>Transcription factors were bound to these motifs in control cell lines, however, they were absent in the cHL-derived cell lines KMH2, L1236, and L428 </plain></SENT>
+<SENT sid="5" pm="."><plain>Ectopic expression of octamer-binding transcription factor (Oct2) and/or B-cell Oct binding protein/Oct-binding factor (BOB.1/OBF.1) did not result in any measurable binding to these sites </plain></SENT>
+<SENT sid="6" pm="."><plain>Increased <z:chebi fb="0" ids="15358">histone</z:chebi> 3 Lysine 9 (H3-K9) methylation was observed in the promoter region of the IgH locus in L428 and L1236 cells </plain></SENT>
+<SENT sid="7" pm="."><plain>This is a typical feature of heterochromatic, transcriptionally silent regions </plain></SENT>
+<SENT sid="8" pm="."><plain>Treatment of cHL-derived cell lines with the DNA demethylating agent <z:chebi fb="0" ids="50131">5-aza-2'-deoxycytidine</z:chebi> (5-aza-dC) partially reactivated IgH transcription and affected chromatin modifications </plain></SENT>
+<SENT sid="9" pm="."><plain>Our results suggest an important role of epigenetic silencing in the inhibition of IgH transcription in HRS cells </plain></SENT>
+</text></document>

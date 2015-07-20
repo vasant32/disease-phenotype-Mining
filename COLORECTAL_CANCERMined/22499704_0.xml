@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Partially paired data sets often occur in microarray experiments (Kim et al., 2005; Liu, Liang and Jang, 2006) </plain></SENT>
+<SENT sid="1" pm="."><plain>Discussions of testing with partially paired data are found in the literature (Lin and Stivers 1974; Ekbohm, 1976; Bhoj, 1978) </plain></SENT>
+<SENT sid="2" pm="."><plain>Bhoj (1978) initially proposed a test statistic that uses a convex combination of paired and unpaired t statistics </plain></SENT>
+<SENT sid="3" pm="."><plain>Kim et al </plain></SENT>
+<SENT sid="4" pm="."><plain>(2005) later proposed the t3 statistic, which is a linear combination of paired and unpaired t statistics, and then used it to detect differentially expressed (DE) genes in <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e>) cDNA microarray data </plain></SENT>
+<SENT sid="5" pm="."><plain>In this paper, we extend Kim et al.'s t3 statistic to the Hotelling's T2 type statistic Tp for detecting DE gene sets of size p </plain></SENT>
+<SENT sid="6" pm="."><plain>We employ Efron's empirical null principle to incorporate inter-gene correlation in the estimation of the false discovery rate </plain></SENT>
+<SENT sid="7" pm="."><plain>Then, the proposed Tp statistic is applied to Kim et al's <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e> data to detect the DE gene sets of sizes p=2 and p=3 </plain></SENT>
+<SENT sid="8" pm="."><plain>Our results show that for small p, particularly for p=2 and marginally for p=3, the proposed Tp statistic compliments the univariate procedure by detecting additional DE genes that were undetected in the univariate test procedure </plain></SENT>
+<SENT sid="9" pm="."><plain>We also conduct a simulation study to demonstrate that Efron's empirical null principle is robust to the departure from the <z:mpath ids='MPATH_458'>normal</z:mpath> assumption </plain></SENT>
+</text></document>

@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Spinocerebellar <z:hpo ids='HP_0001251'>ataxia</z:hpo> type 3 is caused by the expansion of the coding CAG repeat in the ATXN3 gene </plain></SENT>
+<SENT sid="1" pm="."><plain>Interestingly, a -1 bp frameshift occurring within an (exp)CAG repeat would henceforth lead to translation from a <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">GCA</z:e> frame, generating polyalanine stretches instead of polyglutamine </plain></SENT>
+<SENT sid="2" pm="."><plain>Our results show that transgenic expression of (exp)CAG ATXN3 led to -1 frameshifting events, which have deleterious effects in Drosophila and mammalian neurons </plain></SENT>
+<SENT sid="3" pm="."><plain>Conversely, transgenic expression of polyglutamine-encoding (exp)CAA ATXN3 was not toxic </plain></SENT>
+<SENT sid="4" pm="."><plain>Furthermore, (exp)CAG ATXN3 <z:chebi fb="2" ids="33699">mRNA</z:chebi> does not contribute per se to the toxicity observed in our models </plain></SENT>
+<SENT sid="5" pm="."><plain>Our observations indicate that expanded polyglutamine tracts in Drosophila and mouse neurons are insufficient for the development of a phenotype </plain></SENT>
+<SENT sid="6" pm="."><plain>Hence, we propose that -1 ribosomal frameshifting contributes to the toxicity associated with (exp)CAG repeats </plain></SENT>
+</text></document>

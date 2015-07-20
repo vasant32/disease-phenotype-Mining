@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND PURPOSE: Today, there is growing concern about radiotherapy induced <z:e sem="disease" ids="C0027627" disease_type="Neoplastic Process" abbrv="mets">secondary malignancies</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>We analysed the incidence and dose dependence of <z:e sem="disease" ids="C0751623" disease_type="Neoplastic Process" abbrv="">second cancer</z:e> </plain></SENT>
+<SENT sid="2" pm="."><plain>MATERIAL AND METHODS: The study includes 12,000 one-year survivors of radiotherapy, treated between 1981 and 2007 </plain></SENT>
+<SENT sid="3" pm="."><plain>For risk estimates a public databank on <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> in Germany served as reference </plain></SENT>
+<SENT sid="4" pm="."><plain>Contralateral second <z:hpo ids='HP_0003002'>breast cancer</z:hpo>, second oesophageal and <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> were analysed with retrospective dosimetry </plain></SENT>
+<SENT sid="5" pm="."><plain>GI-tract data were used for risk modelling </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: The incidence rate of <z:e sem="disease" ids="C0751623" disease_type="Neoplastic Process" abbrv="">second cancers</z:e> (493 cases) was ~1% per year </plain></SENT>
+<SENT sid="7" pm="."><plain>Contralateral <z:hpo ids='HP_0003002'>breast cancer</z:hpo> was the most frequent entity (relative risk RR=2.8) </plain></SENT>
+<SENT sid="8" pm="."><plain>The scatter-dose gradient (2-3 Gy) across the contralateral breast did not cause a detectable risk gradient </plain></SENT>
+<SENT sid="9" pm="."><plain>There was an increased risk for second <z:e sem="disease" ids="C0278996" disease_type="Neoplastic Process" abbrv="">head and neck cancer</z:e> (RR=5.1) and for male <z:e sem="disease" ids="C0546837" disease_type="Neoplastic Process" abbrv="">oesophageal cancer</z:e> (RR=5.8) </plain></SENT>
+<SENT sid="10" pm="."><plain>For both entities, dose response modelling with case-control data predicted maximum curves with peak induction at 1-5 Gy and positive excess absolute risk values at high doses </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: A survey of <z:e sem="disease" ids="C0751623" disease_type="Neoplastic Process" abbrv="">second cancer</z:e> after radiotherapy requires follow-up over decades </plain></SENT>
+<SENT sid="12" pm="."><plain>Preliminary dose response modelling albeit with low case numbers suggests an increased risk from multiportal techniques </plain></SENT>
+<SENT sid="13" pm="."><plain>To improve risk assessment, prospective out-of-field dosimetry and long-term multicentre data collection are recommended </plain></SENT>
+</text></document>

@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: This study looked at the effects of single and multiple small <z:hpo ids='HP_0002138'>subarachnoid hemorrhage</z:hpo> (SAH) caused by puncturing a small branch of the basilar artery in rats </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: Rats were subjected to single SAH (n = 21), multiple SAH (n = 21), sham operation (n = 21), or no procedures (control group, n = 7) </plain></SENT>
+<SENT sid="2" pm="."><plain>SAH was induced in rats by transclival puncture of a small branch of the basilar artery </plain></SENT>
+<SENT sid="3" pm="."><plain>In the multiple-SAH <z:mp ids='MP_0001914'>hemorrhage</z:mp> groups, three small <z:mp ids='MP_0001914'>hemorrhages</z:mp> were produced in the same artery at three different times (initial and 24 and 48 h) </plain></SENT>
+<SENT sid="4" pm="."><plain>In the single-SAH groups, one small <z:mp ids='MP_0001914'>hemorrhage</z:mp> was produced </plain></SENT>
+<SENT sid="5" pm="."><plain>Measurements of local cerebral blood flow (LCBF) were made at the initial SAH procedure and at three different time points </plain></SENT>
+<SENT sid="6" pm="."><plain>Seven animals from each general grouping were killed on Days 4, 10, and 14 (after LCBF was measured) </plain></SENT>
+<SENT sid="7" pm="."><plain>Three different levels of the basilar artery were examined in each animal </plain></SENT>
+<SENT sid="8" pm="."><plain><z:chebi fb="2" ids="8069">Luminal</z:chebi> area and arterial wall thickness were measured, and the findings were compared with control and corresponding sham group findings </plain></SENT>
+<SENT sid="9" pm="."><plain>RESULTS: LCBF dropped dramatically (by 40%) immediately after SAH and reached levels near baseline within 15 minutes (n = 42) (P &lt; 0.001) </plain></SENT>
+<SENT sid="10" pm="."><plain>LCBF continued to drop after initial SAH and reached the lowest level on Day 10 (P &lt; 0.001) or Day 14 (P &lt; 0.05) </plain></SENT>
+<SENT sid="11" pm="."><plain>Significant <z:chebi fb="2" ids="8069">luminal</z:chebi> narrowing (P &lt; 0.01) and thickening of the arterial wall (P &lt; 0.01) were observed in both groups </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSION: Single or multiple small SAHs produced by puncturing the basilar artery in the rat cause similar <z:hpo ids='HP_0011009'>acute</z:hpo> and <z:hpo ids='HP_0011010'>chronic</z:hpo> <z:e sem="disease" ids="C0265110" disease_type="Disease or Syndrome" abbrv="">cerebral vasospasm</z:e> </plain></SENT>
+</text></document>

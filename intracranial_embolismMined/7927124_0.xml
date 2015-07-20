@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The case of a 76-year-old diabetic patient with known aortic valve <z:mp ids='MP_0000612'>sclerosis</z:mp> is reported </plain></SENT>
+<SENT sid="1" pm="."><plain>One week after implantation of a permanent pacemaker system (indication: 2nd degree <z:mp ids='MP_0010519'>AV-block</z:mp> type Mobitz) he developed <z:hpo ids='HP_0001945'>fever</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>Large endocarditic vegetations were found on the aortic and mitral valve (blood cultures: were positive for Staphylococcus aureus) </plain></SENT>
+<SENT sid="3" pm="."><plain>Also from the pacemaker bed Staphylococcus aureus was isolated and an antibiotic treatment including <z:chebi fb="0" ids="28001">vancomycin</z:chebi> was started </plain></SENT>
+<SENT sid="4" pm="."><plain>Nevertheless the patient developed insufficiencies of both the aortic and mitral valves and became hemodynamically unstable </plain></SENT>
+<SENT sid="5" pm="."><plain>Due to <z:e sem="disease" ids="C0007780" disease_type="Disease or Syndrome" abbrv="">cerebral embolisms</z:e> and further deterioration of the patient's overall clinical state the already planned operative replacement of the aortic and mitral valve could not be performed </plain></SENT>
+<SENT sid="6" pm="."><plain>The patient died because of <z:e sem="disease" ids="C0023212" disease_type="Disease or Syndrome" abbrv="">left ventricular failure</z:e> after pacemaker <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infection</z:e> which was complicated by <z:hpo ids='HP_0100584'>endocarditis</z:hpo> </plain></SENT>
+</text></document>

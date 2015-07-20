@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Functional MRI is based on the vascular response due to neuronal activation </plain></SENT>
+<SENT sid="1" pm="."><plain>The underlying mechanism of fMRI is the blood oxygenation level-dependent (BOLD) effect-a complex interplay between changes in the cerebral metabolisation rate of oxygen (CMRO2), neurovascular coupling, and the resulting hemodynamic response </plain></SENT>
+<SENT sid="2" pm="."><plain>An intact neurovascular coupling is essential for the detection of the BOLD signal and it seems likely that a disturbed cerebrovascular reserve capacity (CVRC) alters the BOLD response </plain></SENT>
+<SENT sid="3" pm="."><plain>We tested the hypothesis that extra- or intracranial artery disease influences the BOLD signal </plain></SENT>
+<SENT sid="4" pm="."><plain>Twenty-one patients with extra- or intracranial stenosis were studied with BOLD sensitive T2*-weighted MRI </plain></SENT>
+<SENT sid="5" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> patients presented with transient or prolonged reversible ischemic symptoms ipsilateral to the artery disease but were asymptomatic at the time point of the MRI study </plain></SENT>
+<SENT sid="6" pm="."><plain>fMRI was performed employing a simple motor task (fist closure right and left) </plain></SENT>
+<SENT sid="7" pm="."><plain>Additionally, the CVRC was assessed applying carbogen gas during serial T2*-weighted MRI for the calculation of <z:chebi fb="0" ids="16526">CO(2)</z:chebi> reactivity maps of the relative signal change </plain></SENT>
+<SENT sid="8" pm="."><plain>Signal differences between both hemispheres were compared in individual subjects and with healthy subjects </plain></SENT>
+<SENT sid="9" pm="."><plain>Patients with disturbed CVRC in the <z:chebi fb="0" ids="16526">CO(2)</z:chebi> reactivity maps showed either a significantly reduced (n = 5) or a negative (n = 1) BOLD signal in the affected compared to the unaffected primary sensorimotor cortex during fist closure </plain></SENT>
+<SENT sid="10" pm="."><plain>Patients with intact CVRC showed no significant BOLD signal differences between affected and unaffected hemisphere </plain></SENT>
+<SENT sid="11" pm="."><plain>Extra- or intracranial artery disease influences CVRC and consequently the BOLD signal </plain></SENT>
+<SENT sid="12" pm="."><plain>This observation is important for the clinical application of fMRI paradigms </plain></SENT>
+</text></document>

@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Inflammatory processes are involved in the development and consequences of <z:hpo ids='HP_0002621'>atherosclerosis</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Whether these processes are also involved in cerebral small-vessel disease is unknown </plain></SENT>
+<SENT sid="2" pm="."><plain>Cerebral white matter lesions and lacunar brain <z:mpath ids='MPATH_124'>infarcts</z:mpath> are caused by small-vessel disease and are commonly observed on MRI scans in elderly people </plain></SENT>
+<SENT sid="3" pm="."><plain>These lesions are associated with an increased risk of <z:hpo ids='HP_0001297'>stroke</z:hpo> and <z:hpo ids='HP_0000726'>dementia</z:hpo> </plain></SENT>
+<SENT sid="4" pm="."><plain>We assessed whether higher C-reactive protein (CRP) levels were related to white matter lesion and lacunar <z:mpath ids='MPATH_124'>infarcts</z:mpath> </plain></SENT>
+<SENT sid="5" pm="."><plain>METHODS AND RESULTS: We based our study on 1033 participants of the population-based Rotterdam Scan Study for whom complete data on CRP levels were available and who underwent brain MRI scanning </plain></SENT>
+<SENT sid="6" pm="."><plain>Subjects were 60 to 90 years of age and free of <z:hpo ids='HP_0000726'>dementia</z:hpo> at baseline </plain></SENT>
+<SENT sid="7" pm="."><plain>Six hundred thirty-six subjects had a second MRI scan on average 3.3 years later </plain></SENT>
+<SENT sid="8" pm="."><plain>We used multivariate regression models to assess the associations between CRP levels and markers of small-vessel disease </plain></SENT>
+<SENT sid="9" pm="."><plain>Higher CRP levels were associated with presence and progression of white matter lesions, particularly with marked lesion progression (ORs for highest versus lowest quartile of CRP 3.1 [95% CI 1.3 to 7.2] and 2.5 [95% CI 1.1 to 5.6] for periventricular and subcortical white matter lesion progression, respectively) </plain></SENT>
+<SENT sid="10" pm="."><plain>These associations persisted after adjustment for <z:e sem="disease" ids="C0850624" disease_type="Disease or Syndrome" abbrv="">cardiovascular risk factors</z:e> and carotid <z:hpo ids='HP_0002621'>atherosclerosis</z:hpo> </plain></SENT>
+<SENT sid="11" pm="."><plain>Persons with higher CRP levels tended to have more prevalent and incident lacunar <z:mpath ids='MPATH_124'>infarcts</z:mpath> </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: Inflammatory processes may be involved in the pathogenesis of cerebral small-vessel disease, in particular, the development of white matter lesions </plain></SENT>
+</text></document>

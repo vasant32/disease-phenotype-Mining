@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND OBJECTIVE: High-intensity frequency ultrasound (HIFU) can achieve pulmonary vein isolation (PVI), but severe complications have happened </plain></SENT>
+<SENT sid="1" pm="."><plain>An esophageal temperature (ET)-guided safety algorithm was implemented </plain></SENT>
+<SENT sid="2" pm="."><plain>We investigated medium-term outcome </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: After left atrial access, HIFU was applied until complete PVI </plain></SENT>
+<SENT sid="4" pm="."><plain>The safety algorithm was as follows: ≤3 complete ablations per pulmonary vein, early abortion when ET ≥40.0°C, use of Power Modulation at ET &gt;39.0°C or when after 20 to 30 seconds no change in <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">PV</z:e> electrograms: to reduce the ablation temperature in the surrounding tissue, acoustic power is switched on and off with a frequency of 1 Hz; in <z:hpo ids='HP_0000001'>all</z:hpo> first ablations, use of Power Modulation after 50% of programmed time </plain></SENT>
+<SENT sid="5" pm="."><plain>Touch-up radiofrequency ablation when PVI failed </plain></SENT>
+<SENT sid="6" pm="."><plain>Follow-up included interviews and Holter electrocardiograms </plain></SENT>
+<SENT sid="7" pm="."><plain>Recurrence was defined as <z:hpo ids='HP_0005110'>atrial fibrillation</z:hpo> (AF) &gt;30 seconds without a blanking period </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: A total of 28 symptomatic patients (18 males, age 63 years), with paroxysmal AF (n = 19) and persistent AF (n = 9) were included </plain></SENT>
+<SENT sid="9" pm="."><plain>After a median follow-up of 738 days, 22 of the 28 patients (79%) were free of AF without antiarrhythmic drugs </plain></SENT>
+<SENT sid="10" pm="."><plain>After 1 repeat procedure with radiofrequency ablation, 5 patients remained free of AF </plain></SENT>
+<SENT sid="11" pm="."><plain>The complications were as follows: 1 lethal atrial-to-esophageal <z:mpath ids='MPATH_70'>fistula</z:mpath> at day 31, 1 <z:hpo ids='HP_0001698'>pericardial effusion</z:hpo> at day 48, 1 unexplained <z:hpo ids='HP_0011420'>death</z:hpo> at day 49, and 2 persistent <z:e sem="disease" ids="C1442879" disease_type="Disease or Syndrome" abbrv="">phrenic nerve palsies</z:e> with full recovery within 12 months </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: Two-year follow-up after PVI using HIFU and an ET-guided safety algorithm shows success rates similar to those of radiofrequency-based procedures but with higher complication rates </plain></SENT>
+<SENT sid="13" pm="."><plain>Importantly, the ET-guided safety algorithm failed to prevent severe complications </plain></SENT>
+<SENT sid="14" pm="."><plain>HIFU does not meet safety standards required for the treatment of AF, and this led to a halt of its clinical use </plain></SENT>
+</text></document>

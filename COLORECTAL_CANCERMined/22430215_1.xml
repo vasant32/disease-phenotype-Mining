@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Gain-of-function mutations in KRAS and BRAF genes are found in up to 50% of <z:e sem="disease" ids="C1527249" disease_type="Neoplastic Process" abbrv="">colorectal cancers</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>These mutations result in the activation of the BRAF/MEK signaling pathway culminating in the stimulation of ERK1/2 mitogen-activated protein kinases </plain></SENT>
+<SENT sid="2" pm="."><plain>Upon activation, ERK1/2 translocate from the cytoplasm to the nucleus </plain></SENT>
+<SENT sid="3" pm="."><plain>This process has been shown to be required for the induction of many cellular responses, although the molecular mechanisms regulating ERK nuclear function, especially under oncogenic stimulation, remain to be explored </plain></SENT>
+<SENT sid="4" pm="."><plain>Herein, we examined the spatiotemporal regulation of ERK1/2 activity upon oncogenic activation of KRAS(G12V) and BRAF(V600E) in <z:mpath ids='MPATH_458'>normal</z:mpath> intestinal epithelial crypt cells (IECs) </plain></SENT>
+<SENT sid="5" pm="."><plain>Results demonstrate that expression of these oncogenes markedly stimulated ERK1/2 activities and morphologically transformed IECs </plain></SENT>
+<SENT sid="6" pm="."><plain>Importantly however, ERK phosphorylation was not observed in the nucleus, but restricted to the cytoplasm of KRAS(G12V)- and BRAF(V600E)-transformed IECs </plain></SENT>
+<SENT sid="7" pm="."><plain>The absence of nuclear ERK phosphorylation was due to a vanadate-sensitive phosphatase activity </plain></SENT>
+<SENT sid="8" pm="."><plain>Nuclear ERK dephosphorylation was found to be tightly correlated with the rapid expression of DUSP4 phosphatase induced in an MEK-dependent manner </plain></SENT>
+<SENT sid="9" pm="."><plain>In addition, MEK-dependent phosphorylation of T361, T363, S390 and S395 residues highly stabilized DUSP4 protein </plain></SENT>
+<SENT sid="10" pm="."><plain>Finally, in human <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> cells, ERK1/2 activities were also confined to the cytoplasm and treatment with pervanadate reactivated ERK1/2 in the nucleus </plain></SENT>
+<SENT sid="11" pm="."><plain>Accordingly, DUSP4 <z:chebi fb="2" ids="33699">mRNAs</z:chebi> were found to be highly expressed, in an MEK-dependent manner, in <z:hpo ids='HP_0000001'>all</z:hpo> <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> cells analyzed </plain></SENT>
+<SENT sid="12" pm="."><plain>These findings indicate that DUSP4 functions as part of a negative feedback mechanism in the control of the duration and magnitude of nuclear ERK activation during intestinal <z:mp ids='MP_0002006'>tumorigenesis</z:mp> </plain></SENT>
+</text></document>

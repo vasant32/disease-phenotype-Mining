@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Background and purpose: HSPA12B is a newly discovered member of the Hsp70 family proteins </plain></SENT>
+<SENT sid="1" pm="."><plain>This study investigated the effects of HSPA12B on focal <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo>/reperfusion (I/R) injury in mice </plain></SENT>
+<SENT sid="2" pm="."><plain>Methods: Transgenic mice overexpressing human HSPA12B (Tg) and <z:mp ids='MP_0002169'>wild-type</z:mp> littermates (WT) were subjected to 60min of middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> to induce <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> and followed by reperfusion (I/R) </plain></SENT>
+<SENT sid="3" pm="."><plain>Neurological deficits, <z:mpath ids='MPATH_124'>infarct</z:mpath> volumes and neuronal <z:hpo ids='HP_0011420'>death</z:hpo> were examined at 6 and 24hrs after reperfusion </plain></SENT>
+<SENT sid="4" pm="."><plain>Blood-brain-barrier (<z:chebi fb="2" ids="33602">BBB</z:chebi>) integrity and activated cellular signaling were examined at 3hrs after reperfusion </plain></SENT>
+<SENT sid="5" pm="."><plain>Results: After cerebral I/R, Tg mice exhibited improvement in neurological deficits and decrease in <z:mpath ids='MPATH_124'>infarct</z:mpath> volumes, when compared with WT I/R mice </plain></SENT>
+<SENT sid="6" pm="."><plain><z:chebi fb="2" ids="33602">BBB</z:chebi> integrity was significantly preserved in Tg mice following cerebral I/R </plain></SENT>
+<SENT sid="7" pm="."><plain>Tg mice also showed significant decreases in cell injury and <z:mpath ids='MPATH_3'>apoptosis</z:mpath> in the ischemic hemispheres </plain></SENT>
+<SENT sid="8" pm="."><plain>We observed that overexpression of HSPA12B activated PI3K/Akt signaling and suppressed JNK and p38 activation following cerebral I/R </plain></SENT>
+<SENT sid="9" pm="."><plain>Importantly, pharmacological inhibition of PI3K/Akt signaling abrogated the protection against cerebral I/R injury in Tg mice </plain></SENT>
+<SENT sid="10" pm="."><plain>Conclusions: The results demonstrate that HSPA12B protects the brains from focal cerebral I/R injury </plain></SENT>
+<SENT sid="11" pm="."><plain>The protective effect of HSPA12B is mediated though a PI3K/Akt-dependent mechanism </plain></SENT>
+<SENT sid="12" pm="."><plain>Our results suggest that HSPA12B may have a therapeutic potential against <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> </plain></SENT>
+</text></document>

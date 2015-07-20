@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIMS: Exenatide is a glucagon-like <z:chebi fb="7" ids="16670">peptide</z:chebi>-1 receptor <z:chebi fb="4" ids="48705">agonist</z:chebi> shown to improve glycaemic control in patients with type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> (T2DM) </plain></SENT>
+<SENT sid="1" pm="."><plain>Intermittent exenatide exposure is achieved with the twice-daily formulation (ExBID), while the once-weekly formulation (ExQW) provides continuous exenatide exposure </plain></SENT>
+<SENT sid="2" pm="."><plain>This integrated, retrospective analysis compared safety and tolerability of ExQW vs. ExBID in patients with T2DM </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: Data were pooled from two open-label, randomized, comparator-controlled, trials directly comparing ExQW (N = 277) to ExBID (N = 268) </plain></SENT>
+<SENT sid="4" pm="."><plain>Between-group differences in adverse event (AE) and <z:e sem="disease" ids="C0020615" disease_type="Disease or Syndrome" abbrv="">hypoglycaemia</z:e> incidences were calculated </plain></SENT>
+<SENT sid="5" pm="."><plain>Incidence over time and duration of selected AEs (<z:hpo ids='HP_0002018'>nausea</z:hpo>, <z:hpo ids='HP_0002013'>vomiting</z:hpo>, and injection-site-related AEs) were also summarized </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: The most common AEs were <z:hpo ids='HP_0002018'>nausea</z:hpo>, diarrhoea, injection-site <z:hpo ids='HP_0000989'>pruritus</z:hpo>, and <z:hpo ids='HP_0002013'>vomiting</z:hpo> </plain></SENT>
+<SENT sid="7" pm="."><plain><z:hpo ids='HP_0002017'>Nausea and vomiting</z:hpo> occurred less frequently with ExQW vs. ExBID, peaking at initiation (ExQW) or at initiation and dose escalation (ExBID), and decreasing over time </plain></SENT>
+<SENT sid="8" pm="."><plain>Few patients discontinued because of gastrointestinal-related AEs </plain></SENT>
+<SENT sid="9" pm="."><plain>Injection-site AEs were more common with ExQW but decreased over time in both groups </plain></SENT>
+<SENT sid="10" pm="."><plain>No major <z:e sem="disease" ids="C0020615" disease_type="Disease or Syndrome" abbrv="">hypoglycaemia</z:e> occurred; minor <z:e sem="disease" ids="C0020615" disease_type="Disease or Syndrome" abbrv="">hypoglycaemia</z:e> occurred with low incidence in patients not using concomitant sulphonylurea, with no difference between ExQW and ExBID </plain></SENT>
+<SENT sid="11" pm="."><plain>Serious AEs and discontinuations because of AEs were reported with similar frequency in both groups </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: Both exenatide formulations were generally safe and well-tolerated, with ExQW associated with less <z:hpo ids='HP_0002017'>nausea and vomiting</z:hpo> but more injection-site AEs </plain></SENT>
+<SENT sid="13" pm="."><plain>Continuous vs. intermittent exposure did not impact the overall tolerability profile of exenatide, with no evidence of prolonged duration or worsened intensities of AEs with continuous exposure </plain></SENT>
+</text></document>

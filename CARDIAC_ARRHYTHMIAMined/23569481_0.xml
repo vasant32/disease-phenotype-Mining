@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Pregnancy can precipitate <z:hpo ids='HP_0011675'>cardiac arrhythmias</z:hpo> not previously present in seemingly well individuals </plain></SENT>
+<SENT sid="1" pm="."><plain>Atrial and <z:mp ids='MP_0009732'>ventricular premature beats</z:mp> are frequently present during pregnancy and are usually benign </plain></SENT>
+<SENT sid="2" pm="."><plain><z:hpo ids='HP_0004755'>Supraventricular tachycardia</z:hpo> and malignant ventricular tachyarrhythmias occur less frequently </plain></SENT>
+<SENT sid="3" pm="."><plain>Maternal and fetal <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> occurring during pregnancy may jeopardize the life of the mother and the fetus </plain></SENT>
+<SENT sid="4" pm="."><plain>CASE REPORT: A 32-year-old pregnant women at 26 weeks gestation presented to the emergency department with palpitation </plain></SENT>
+<SENT sid="5" pm="."><plain>She had mild chest discomfort after a <z:hpo ids='HP_0004755'>supraventricular tachycardia</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">SVT</z:e>) episode but did not have <z:hpo ids='HP_0001279'>syncope</z:hpo> </plain></SENT>
+<SENT sid="6" pm="."><plain>After monitoring and access of an IV line, vagal manoeuvres were applied but the rhythm was resistant </plain></SENT>
+<SENT sid="7" pm="."><plain>Then she was treated with 5 mg <z:chebi fb="0" ids="6904">metoprolol</z:chebi> IV, but the <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">SVT</z:e> persisted </plain></SENT>
+<SENT sid="8" pm="."><plain>Then after IV infusion of <z:chebi fb="3" ids="15422">adenosine triphosphate</z:chebi> 6 to 12 mg, the rhythm was resistant </plain></SENT>
+<SENT sid="9" pm="."><plain>Synchronized cardioversion with 100 joules was performed </plain></SENT>
+<SENT sid="10" pm="."><plain>Patients' rhythm was normalized to a sinus rhythm </plain></SENT>
+<SENT sid="11" pm="."><plain>She was discharged from hospital without any adverse effects following 24-hour monitoring </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: <z:hpo ids='HP_0000001'>All</z:hpo> pregnant patients with <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">SVT</z:e> require careful maternal and fetal monitoring during treatment, and close collaboration between the managing obstetrician and the cardiologist is essential </plain></SENT>
+</text></document>

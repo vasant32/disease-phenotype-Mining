@@ -1,0 +1,6 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>ID4 is a member of the inhibitor of DNA binding (ID) family, and inhibits the binding of basic helix-loop-helix transcription factors to DNA </plain></SENT>
+<SENT sid="1" pm="."><plain>In some <z:mp ids='MP_0002018'>malignant tumors</z:mp>, ID4 is inactivated by promoter hypermethylation, and is thought to be a candidate <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> suppressor gene (TSG) </plain></SENT>
+<SENT sid="2" pm="."><plain>We have found that the promoter region of the ID4 gene is frequently methylated in lymphoid cell lines (100%, 9/9), primary diffuse large B-cell <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (95%, 19/20), and follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (100%, 10/10) </plain></SENT>
+<SENT sid="3" pm="."><plain><z:hpo ids='HP_0001428'>Somatic mutation</z:hpo> of the ID4 gene was also examined, and no mutations were found </plain></SENT>
+<SENT sid="4" pm="."><plain>These findings suggest that the ID4 gene might be inactivated by DNA hypermethylation, and may function as a TSG in malignant <z:hpo ids='HP_0002665'>lymphoma</z:hpo> </plain></SENT>
+</text></document>

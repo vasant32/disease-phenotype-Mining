@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A competitive quantitative PCR (Q-PCR) assay combined with simple <z:chebi fb="48" ids="30563">silica</z:chebi>-based DNA extraction was developed for monitoring of Epstein-Barr virus (EBV) DNA load in unfractionated peripheral blood </plain></SENT>
+<SENT sid="1" pm="."><plain>The Q-PCR is based on competitive coamplification of a highly conserved 213-bp region of the EBNA-1 open reading frame with an internal standard (IS), added in a known concentration </plain></SENT>
+<SENT sid="2" pm="."><plain>The IS has the same amplicon length and base composition as the <z:mp ids='MP_0002169'>wild-type</z:mp> (WT) EBNA-1 amplicon but differs in 23 internally randomized bases </plain></SENT>
+<SENT sid="3" pm="."><plain>Competitive coamplification yields two PCR products that are quantified by enzyme immunoassay or by electrochemiluminescence detection, with probes specific for the 23 differing internal <z:chebi fb="9" ids="36976">nucleotides</z:chebi> </plain></SENT>
+<SENT sid="4" pm="."><plain>The Q-PCR has a sensitivity of 10 copies of either WT or IS plasmid DNA </plain></SENT>
+<SENT sid="5" pm="."><plain>The Q-PCR was validated by quantification of known amounts of plasmid containing the WT EBNA-1 target </plain></SENT>
+<SENT sid="6" pm="."><plain>Furthermore, we determined EBV genome copy numbers in different cell lines </plain></SENT>
+<SENT sid="7" pm="."><plain>For EBV quantification in clinical samples, DNA was isolated from lysed whole blood by <z:chebi fb="48" ids="30563">silica</z:chebi>-affinity purification </plain></SENT>
+<SENT sid="8" pm="."><plain>Forty-six percent of healthy donor peripheral blood samples were positive by Q-PCR </plain></SENT>
+<SENT sid="9" pm="."><plain>In most of these samples, <z:mp ids='MP_0001799'>viral</z:mp> load was less than 2,000 EBV copies/ml of blood </plain></SENT>
+<SENT sid="10" pm="."><plain>In peripheral blood samples from two <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">AIDS</z:e>-related non-Hodgkin's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> patients, elevated EBV loads (up to 120,000 copies/ml) were observed, which decreased upon therapy </plain></SENT>
+<SENT sid="11" pm="."><plain>In Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> patients, up to 4,592,000 EBV genome copies/ml of blood were detected </plain></SENT>
+<SENT sid="12" pm="."><plain>In conclusion, the EBNA-1-based Q-PCR assay provides a reproducible, accurate, and easy method for studying the relationship between EBV load and clinical parameters </plain></SENT>
+</text></document>

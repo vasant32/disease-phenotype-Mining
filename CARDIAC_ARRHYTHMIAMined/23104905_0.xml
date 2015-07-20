@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIMS: Structural alterations during <z:hpo ids='HP_0005110'>atrial fibrillation</z:hpo> (AF) not only lead to electrical dissociation within the epicardial layer, but also between the epicardial layer and the endocardial bundle network </plain></SENT>
+<SENT sid="1" pm="."><plain>The aim of the study was to investigate the role of transmural conduction in the stability of AF episodes using a dual-layer computer model </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS AND RESULTS: A proof-of-principle dual-layer model was developed in which connections between the layers can be introduced or removed at any time during the simulation </plain></SENT>
+<SENT sid="3" pm="."><plain>Using an S1-S2 protocol, a spiral wave was initiated in one of the layers, which degenerated into a complex AF pattern after connection with the other layer at six randomly chosen sites </plain></SENT>
+<SENT sid="4" pm="."><plain>After 6 s, connections were either retained (dual-layer simulations) or removed (single-layer simulations) </plain></SENT>
+<SENT sid="5" pm="."><plain>Dual-layer simulations were more complex, as indicated by the higher number of waves and phase singularities </plain></SENT>
+<SENT sid="6" pm="."><plain>Tracking waves through both layers revealed that the number of waves in dual-layer simulations was significantly higher than in the single-layer simulations, reflecting more opportunities for reentry and a concomitant increase in AF stability </plain></SENT>
+<SENT sid="7" pm="."><plain>In the dual-layer model, only 12% of the AF episodes died out within 6 s, while 59% died out in the single-layer model </plain></SENT>
+<SENT sid="8" pm="."><plain>CONCLUSION: <z:hpo ids='HP_0005110'>Atrial fibrillation</z:hpo> patterns are more complex and AF episodes are more stable in a dual-layer model </plain></SENT>
+<SENT sid="9" pm="."><plain>This study indicates an important role for endo-epicardial conduction for the stabilization of AF </plain></SENT>
+</text></document>

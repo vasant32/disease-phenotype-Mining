@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Epstein-Barr virus (EBV) reveals two types of interactions with human B lymphocytes </plain></SENT>
+<SENT sid="1" pm="."><plain>In immortalized lymphoblastoid cell lines (LCL), nine virus-coded proteins are expressed: six nuclear (EBNA1-6) and three membrane proteins (LMP1, TP 1,2) </plain></SENT>
+<SENT sid="2" pm="."><plain>In Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">BL</z:e>) <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumors</z:e> and representative cell lines (type I) only EBNA-1 is expressed </plain></SENT>
+<SENT sid="3" pm="."><plain>The <z:mp ids='MP_0001799'>viral</z:mp> genomes are carried by the cells in an extrachromosal, episomal form </plain></SENT>
+<SENT sid="4" pm="."><plain>We have earlier described an overall difference in EBV DNA methylation between LCLs of <z:mpath ids='MPATH_458'>normal</z:mpath> B-cell origin and type I <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">BL</z:e> lines </plain></SENT>
+<SENT sid="5" pm="."><plain>EBV genomes are hypomethylated in the former, methylated in the latter </plain></SENT>
+<SENT sid="6" pm="."><plain>The origin of replication (oriP) for the episomal DNA is exempted from this overall methylation </plain></SENT>
+<SENT sid="7" pm="."><plain>This unmethylated region was analyzed in the <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">BL</z:e> derived type I cell line Rael </plain></SENT>
+<SENT sid="8" pm="."><plain>It starts just upstream of the coding exons for the small untranslated <z:chebi fb="40" ids="33697">RNAs</z:chebi> EBER I/II </plain></SENT>
+<SENT sid="9" pm="."><plain>It extends throughout oriP and includes several control elements between oriP and the first promoter for EBNA transcription (BCR2) </plain></SENT>
+<SENT sid="10" pm="."><plain>The <z:mp ids='MP_0001799'>viral</z:mp> DNA was methylated around and downstream of that promoter, which is not used for EBNA-1 expression in Rael </plain></SENT>
+</text></document>

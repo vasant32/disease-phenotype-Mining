@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>R115777 is a potent farnesyltransferase (FTase) inhibitor with substantial antitumor activity in preclinical models </plain></SENT>
+<SENT sid="1" pm="."><plain>We conducted a phase 1 study (3 + 3 design) of R115777 in patients with <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e>) </plain></SENT>
+<SENT sid="2" pm="."><plain>R115777 was administered twice daily (3-weeks-on/1-week-off schedule for 8 weeks) (starting dosage, 300 mg by mouth twice daily; total, 600 mg) </plain></SENT>
+<SENT sid="3" pm="."><plain>Maintenance therapy at the dose/schedule tolerated during induction could be continued until toxicity or lack of benefit </plain></SENT>
+<SENT sid="4" pm="."><plain>Twenty-one patients with <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> were treated (median age, 66 years) </plain></SENT>
+<SENT sid="5" pm="."><plain>Four (19%) patients had ras mutations (n-ras,3; k-ras, 1) </plain></SENT>
+<SENT sid="6" pm="."><plain>Objective responses (hematologic improvement, 3; partial remission, 2; or complete remission, 1) were seen in 6 of 20 (30%) evaluable patients, only 2 of whom had ras mutations </plain></SENT>
+<SENT sid="7" pm="."><plain>Response sequences were unusual in some patients who had increases in platelet counts without intervening <z:mpath ids='MPATH_58'>aplasia</z:mpath> </plain></SENT>
+<SENT sid="8" pm="."><plain>Other responders demonstrated an initial, albeit modest, myelosuppressive effect </plain></SENT>
+<SENT sid="9" pm="."><plain>The maximum tolerated dose was 400 mg by mouth twice a day </plain></SENT>
+<SENT sid="10" pm="."><plain>The most frequent side effect was <z:e sem="disease" ids="C0854467" disease_type="Disease or Syndrome" abbrv="">myelosuppression</z:e> </plain></SENT>
+<SENT sid="11" pm="."><plain>Dose-limiting toxicities (<z:mp ids='MP_0002899'>fatigue</z:mp> and <z:hpo ids='HP_0001289'>confusion</z:hpo>) occurred at 900 mg by mouth total daily dose </plain></SENT>
+<SENT sid="12" pm="."><plain>R115777 inhibited HDJ-2 prenylation and suppressed the activity of FTase, but not of the related geranylgeranyltransferase I enzyme, in peripheral blood mononuclear cells </plain></SENT>
+<SENT sid="13" pm="."><plain>Modulation of Akt, Erk, and signal transducer and activator of transcription 3 (STAT3) phosphorylation was variable, and responses occurred even without their down-regulation </plain></SENT>
+<SENT sid="14" pm="."><plain>Reductions in serum <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> <z:mp ids='MP_0001651'>necrosis</z:mp> factor-alpha (TNF-alpha) levels by day 7 showed a trend toward correlation with response (P =.09) </plain></SENT>
+<SENT sid="15" pm="."><plain>We conclude that, at doses that are well tolerated, R115777 markedly inhibits the FTase target and has antitumor activity in <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> </plain></SENT>
+</text></document>

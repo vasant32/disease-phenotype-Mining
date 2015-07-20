@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Reports on lymphoid <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">malignancy</z:e> and its treatment in children infected with human <z:hpo ids='HP_0002721'>immunodeficiency</z:hpo> virus (HIV) are limited </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: Antibodies to Epstein-Barr virus (EBV) were detected by indirect immunofluorescence </plain></SENT>
+<SENT sid="2" pm="."><plain>DNA was extracted from peripheral blood lymphocytes or biopsy specimens </plain></SENT>
+<SENT sid="3" pm="."><plain>Polymerase chain reaction was run using primers for EBV </plain></SENT>
+<SENT sid="4" pm="."><plain>Reaction products underwent Southern blot analysis to confirm EBV specificity </plain></SENT>
+<SENT sid="5" pm="."><plain><z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">Tumor</z:e> clonality was assessed by immunohistochemistry and by Southern blot analysis of immunoglobulin heavy-chain and T-cell receptor beta-gene rearrangement </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: Within 1 year, non-Hodgkin's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (NHL) was diagnosed in four children infected with HIV </plain></SENT>
+<SENT sid="7" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> four were EBV-seropositive and had detectable EBV DNA in peripheral blood lymphocytes </plain></SENT>
+<SENT sid="8" pm="."><plain>The EBV-linked disorders <z:hpo ids='HP_0006527'>lymphoid interstitial pneumonia</z:hpo> and recurrent <z:e sem="disease" ids="C0341047" disease_type="Disease or Syndrome;Acquired Abnormality" abbrv="">parotid enlargement</z:e> preceded NHL in three and two of the children, respectively </plain></SENT>
+<SENT sid="9" pm="."><plain>In <z:hpo ids='HP_0000001'>all</z:hpo> four patients, NHL involved at one time the central <z:mp ids='MP_0008912'>nervous</z:mp> system (<z:chebi fb="7" ids="29425,29426,29441,29447">CNS</z:chebi>) </plain></SENT>
+<SENT sid="10" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> three tested NHL tissues were positive for EBV DNA: A 12-week course of chemotherapy given to two children resulted in rapid <z:mp ids='MP_0010537'>tumor regression</z:mp> </plain></SENT>
+<SENT sid="11" pm="."><plain>One of these children experienced meningeal relapse and died 16 months after diagnosis </plain></SENT>
+<SENT sid="12" pm="."><plain>The other child, who in addition received local irradiation of the affected eye and who underwent surgical removal of the involved ovaries, has been in continuous remission for 20 months </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSIONS: EBV-associated NHL may be seen more frequently in pediatric patients with HIV </plain></SENT>
+<SENT sid="14" pm="."><plain>Treatment protocols taking into account NHL propensity for the <z:chebi fb="7" ids="29425,29426,29441,29447">CNS</z:chebi> in this age group need to be developed </plain></SENT>
+</text></document>

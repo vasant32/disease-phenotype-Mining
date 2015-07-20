@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND/PURPOSE: Previous imaging studies in the <z:e sem="disease" ids="C0024408" disease_type="Disease or Syndrome" abbrv="MJD|SCA3">Machado-Joseph disease</z:e> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MJD</z:e>/<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">SCA3</z:e>) have mostly concentrated on the cerebellum and brainstem </plain></SENT>
+<SENT sid="1" pm="."><plain>Our goal was to perform a whole brain longitudinal evaluation </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: We included 45 patients and 51 controls, who underwent two brain magnetic resonance imaging and magnetic resonance spectroscopy (mean interval of 12.5 ± 1.5 months) </plain></SENT>
+<SENT sid="3" pm="."><plain>We used voxel-based morphometry (VBM) and the MarsBar analysis toolbox to extract grey matter density (GMD) values from regions of interest </plain></SENT>
+<SENT sid="4" pm="."><plain>We used a linear regression model and a general linear model to correlate GMD with clinical markers, and paired t-test for the longitudinal evaluation </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: We observed decreased GMD (P &lt; .01) at frontal, parietal, temporal and occipital lobes, subcortical grey matter, cerebellum, and brainstem </plain></SENT>
+<SENT sid="6" pm="."><plain>White matter <z:mpath ids='MPATH_127'>atrophy</z:mpath> was restricted to the cerebellum </plain></SENT>
+<SENT sid="7" pm="."><plain>Age, CAG, and disease duration predicted GMD in different areas, but age and CAG were the most important predictors </plain></SENT>
+<SENT sid="8" pm="."><plain>The longitudinal analysis failed to demonstrate changes </plain></SENT>
+<SENT sid="9" pm="."><plain>Changes in regions other than the cerebellum appeared to contribute significantly to the final International Cooperative <z:hpo ids='HP_0001251'>Ataxia</z:hpo> Rating Scale score </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSION: We confirmed cortical involvement in <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MJD</z:e>/<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">SCA3</z:e> </plain></SENT>
+<SENT sid="11" pm="."><plain>The most important factors in predicting GMD were age and CAG </plain></SENT>
+<SENT sid="12" pm="."><plain>The lack of progression of <z:mpath ids='MPATH_127'>atrophy</z:mpath> may indicate floor effect and/or short duration of follow-up </plain></SENT>
+</text></document>

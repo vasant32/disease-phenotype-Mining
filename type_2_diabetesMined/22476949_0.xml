@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIMS/HYPOTHESIS: Sirtuin-1 (SIRT1) is a potential therapeutic target to combat <z:hpo ids='HP_0000855'>insulin resistance</z:hpo> and type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="1" pm="."><plain>This study aims to identify a microRNA (miRNA) targeting SIRT1 to regulate hepatic insulin sensitivity </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: Luciferase assay combined with mutation and immunoblotting was used to screen and verify the bioinformatically predicted miRNAs </plain></SENT>
+<SENT sid="3" pm="."><plain>miRNA and <z:chebi fb="2" ids="33699">mRNA</z:chebi> levels were measured by real-time PCR </plain></SENT>
+<SENT sid="4" pm="."><plain>Insulin signalling was detected by immunoblotting and <z:chebi fb="15" ids="28087">glycogen</z:chebi> synthesis </plain></SENT>
+<SENT sid="5" pm="."><plain>Involvement of SIRT1 was studied with adenovirus, inhibitor and SIRT1-deficient hepatocytes </plain></SENT>
+<SENT sid="6" pm="."><plain>The role of miR-181a in vivo was explored with adenovirus and <z:chebi fb="0" ids="48010">locked nucleic acid</z:chebi> antisense oligonucleotides </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: miR-181a targets the 3' untranslated region (3'UTR) of Sirt1 <z:chebi fb="2" ids="33699">mRNA</z:chebi> through a miR-181a binding site, and downregulates SIRT1 protein abundance at the translational level </plain></SENT>
+<SENT sid="8" pm="."><plain>miR-181a is increased in insulin-resistant cultured hepatocytes and liver, and in the serum of diabetic patients </plain></SENT>
+<SENT sid="9" pm="."><plain>Overexpression of miR-181a decreases SIRT1 protein levels and activity, and causes <z:hpo ids='HP_0000855'>insulin resistance</z:hpo> in hepatic cells </plain></SENT>
+<SENT sid="10" pm="."><plain>Inhibition of miR-181a by antisense oligonucleotides increases SIRT1 protein levels and activity, and improves insulin sensitivity in hepatocytes </plain></SENT>
+<SENT sid="11" pm="."><plain>Ectopic expression of SIRT1 abrogates the effect of miR-181a on insulin sensitivity, and inhibition of SIRT1 activity or SIRT1 deficiency markedly attenuated the improvement in insulin sensitivity induced by antisense miR-181a </plain></SENT>
+<SENT sid="12" pm="."><plain>In addition, overexpression of miR-181a by adenovirus impairs hepatic insulin signalling, and intraperitoneal injection of <z:chebi fb="0" ids="48010">locked nucleic acid</z:chebi> antisense oligonucleotides for miR-181a improves <z:chebi fb="105" ids="17234">glucose</z:chebi> homeostasis in diet-induced <z:hpo ids='HP_0001513'>obesity</z:hpo> mice </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSIONS/INTERPRETATION: miR-181a regulates SIRT1 and improves hepatic insulin sensitivity </plain></SENT>
+<SENT sid="14" pm="."><plain>Inhibition of miR-181a might be a potential new strategy for treating <z:hpo ids='HP_0000855'>insulin resistance</z:hpo> and type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+</text></document>

@@ -1,0 +1,6 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The implementation of probabilistic neural networks (PNNs) with the Lyapunov exponents for Doppler ultrasound signals classification is presented </plain></SENT>
+<SENT sid="1" pm="."><plain>This study is directly based on the consideration that Doppler ultrasound signals are chaotic signals </plain></SENT>
+<SENT sid="2" pm="."><plain>This consideration was tested successfully using the nonlinear dynamics tools, like the computation of Lyapunov exponents </plain></SENT>
+<SENT sid="3" pm="."><plain>Decision making was performed in two stages: computation of Lyapunov exponents as representative features of the Doppler ultrasound signals and classification using the PNNs trained on the extracted features </plain></SENT>
+<SENT sid="4" pm="."><plain>The present research demonstrated that the Lyapunov exponents are the features which well represent the Doppler ultrasound signals and the PNNs trained on these features achieved high classification accuracies </plain></SENT>
+</text></document>

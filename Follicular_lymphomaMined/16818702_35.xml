@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PURPOSE: The use of the CD20-specific antibody rituximab has greatly improved the response to treatment of CD20+ follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Despite the success of rituximab, resistance has been reported and prognostic markers to predict individual response are lacking </plain></SENT>
+<SENT sid="2" pm="."><plain>The level of CD20 expression on <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumors</z:e> has been related to response, but results of several studies are contradictory and no clear relationship could be established </plain></SENT>
+<SENT sid="3" pm="."><plain>Complement-dependent cytotoxicity (CDC) and antibody-dependent cellular cytotoxicity (ADCC) are thought to be important effector mechanisms, but the exact mechanism of rituximab-mediated cell kill is still unknown </plain></SENT>
+<SENT sid="4" pm="."><plain>Importantly, no data have been reported on the combined contribution of CDC and ADCC </plain></SENT>
+<SENT sid="5" pm="."><plain>EXPERIMENTAL DESIGN: We have developed a system of clonally related CEM-CD20 cells by retroviral transfer of the human CD20 cDNA (n = 90) </plain></SENT>
+<SENT sid="6" pm="."><plain>This set of cells, with the CD20 molecule as the only variable, was used to study the importance of CD20 expression level on rituximab-mediated CDC, ADCC, and the combination </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: We show a sigmoidal correlation of CD20 expression level and rituximab-mediated killing via CDC but not ADCC </plain></SENT>
+<SENT sid="8" pm="."><plain>On both high and low CD20-expressing cells, <z:hpo ids='HP_0000001'>all</z:hpo> CD20 molecules were translocated into <z:chebi fb="23" ids="18059">lipid</z:chebi> rafts after rituximab binding </plain></SENT>
+<SENT sid="9" pm="."><plain>Furthermore, CDC and ADCC act simultaneously and CDC-resistant cells are sensitive to ADCC and vice versa </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSIONS: These findings suggest that CDC depends on CD20 expression level and that both CDC and ADCC act complementary </plain></SENT>
+<SENT sid="11" pm="."><plain>These data give new insights into novel strategies to improve the efficacy of CD20-specific antibodies for the treatment of CD20+ <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumors</z:e> </plain></SENT>
+</text></document>

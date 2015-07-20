@@ -1,0 +1,7 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Results obtained by the "cellular synchronization" method in 19 patients are reported; there were five Ewing's <z:hpo ids='HP_0100242'>sarcomas</z:hpo>, three <z:hpo ids='HP_0002667'>nephroblastomas</z:hpo>, nine <z:hpo ids='HP_0003006'>neuroblastomas</z:hpo> and two Burkitt <z:hpo ids='HP_0002665'>lymphomas</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Ages ranged between four months and six years </plain></SENT>
+<SENT sid="2" pm="."><plain>Most of them had <z:e sem="disease" ids="C0027627" disease_type="Neoplastic Process" abbrv="mets">metastatic diseases</z:e>, resistent to previous therapies </plain></SENT>
+<SENT sid="3" pm="."><plain>The protocol consisted on <z:chebi fb="0" ids="28445">vincristine</z:chebi> as "synchronizator agent" days 1 and 2, and <z:chebi fb="0" ids="4027">cyclophosphamide</z:chebi> as "effector agent", days 3, 4, 5 and 6 of each pulse </plain></SENT>
+<SENT sid="4" pm="."><plain>The clinical and hematologic tolerance was generally good </plain></SENT>
+<SENT sid="5" pm="."><plain>Results were: 12 complete remissions, two partial remissions and three failures </plain></SENT>
+</text></document>

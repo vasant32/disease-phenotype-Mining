@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>To improve the applicability of immunotoxins (ITs), we have developed a new two-step indirect procedure </plain></SENT>
+<SENT sid="1" pm="."><plain>The target cells to be killed are first incubated with cell-specific mouse monoclonal antibodies (MAbs) </plain></SENT>
+<SENT sid="2" pm="."><plain>After removal of excess unbound antibody, the cells are incubated in the presence of <z:chebi fb="8" ids="17716">lactose</z:chebi> with an indirect IT, a conjugate of whole abrin and sheep anti-mouse immunoglobulin (<z:chebi fb="75" ids="15414">SAM</z:chebi>) that binds only to cells having primary mouse MAbs on their surfaces </plain></SENT>
+<SENT sid="3" pm="."><plain>The <z:chebi fb="75" ids="15414">SAM</z:chebi>-abrin IT is affinity purified before use to remove molecules with exposed B-chain-binding sites; it was nontoxic in the absence of the specific mouse MAbs, demonstrating the specificity of the two-step method </plain></SENT>
+<SENT sid="4" pm="."><plain>We compared the indirect approach, using four different primary MAbs, with the conventional method, in which abrin is coupled directly to the mouse MAbs </plain></SENT>
+<SENT sid="5" pm="."><plain>In three human cell lines--the <z:hpo ids='HP_0002861'>melanoma</z:hpo> line FEMX, the Burkitt cell line Rael, and the <z:hpo ids='HP_0001909'>leukemia</z:hpo> cell line KM3--the cell kill, measured by a clonogenic assay, was consistently greater with the indirect than with the direct method </plain></SENT>
+<SENT sid="6" pm="."><plain>In the <z:hpo ids='HP_0002861'>melanoma</z:hpo> and Rael cells, the indirect method gave a higher cell kill than even native abrin </plain></SENT>
+<SENT sid="7" pm="."><plain>With a mixture of two different antibodies an additive effect was observed with the indirect but not with the direct method </plain></SENT>
+<SENT sid="8" pm="."><plain>The new approach greatly simplifies the therapeutic application in vitro of ITs, because it permits the use of different primary antibodies, singly or in mixtures, in conjunction with only one or a few general indirect ITs </plain></SENT>
+<SENT sid="9" pm="."><plain>In efforts to further improve the usefulness of the indirect method, other indirect ITs containing different toxin moieties are being examined </plain></SENT>
+<SENT sid="10" pm="."><plain>The possibility of employing the indirect principle in vivo is being explored </plain></SENT>
+</text></document>

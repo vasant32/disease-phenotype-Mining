@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: The association between temperature and mortality has been widely researched, although the association between temperature and morbidity has been less studied </plain></SENT>
+<SENT sid="1" pm="."><plain>We examined the association between mean daily apparent temperature and emergency room (ER) visits in California </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: We used a time-stratified case-crossover design, restricting our data to the warm seasons of 2005-2008 in 16 climate zones </plain></SENT>
+<SENT sid="3" pm="."><plain>The study population included cases residing within 10 km of meteorologic monitors </plain></SENT>
+<SENT sid="4" pm="."><plain>Conditional logistic regression models with apparent temperature were applied by climate zone; these models were then combined in meta-analyses to estimate overall effects </plain></SENT>
+<SENT sid="5" pm="."><plain>Our analyses considered the effects by disease subgroup, race/ethnic group, age group, and potential confounding by air pollutants </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: More than 1.2 million ER visits were included </plain></SENT>
+<SENT sid="7" pm="."><plain>Positive associations were found for same-day apparent temperature and <z:e sem="disease" ids="C0151744" disease_type="Disease or Syndrome" abbrv="IHD">ischemic heart disease</z:e> (% excess risk per 10°F = 1.7 [95% confidence interval = 0.2 to 3.3]), <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> (2.8 [0.9 to 4.7]), cardiac dysrhythmia (2.8 [0.9 to 4.9]), <z:hpo ids='HP_0002615'>hypotension</z:hpo> (12.7 [8.3 to 17.4]), <z:mp ids='MP_0002055'>diabetes</z:mp> (4.3 [2.8 to 5.9]), <z:e sem="disease" ids="C0178238" disease_type="Disease or Syndrome" abbrv="">intestinal infection</z:e> (6.1 [3.3 to 9.0]), <z:hpo ids='HP_0001944'>dehydration</z:hpo> (25.6 [21.9 to 29.4]), <z:hpo ids='HP_0001919'>acute renal failure</z:hpo> (15.9 [12.7 to 19.3]), and heat illness (393.3 [331.2 to 464.5]) </plain></SENT>
+<SENT sid="8" pm="."><plain>Negative associations were found for <z:hpo ids='HP_0002617'>aneurysm</z:hpo>, hemorrhagic <z:hpo ids='HP_0001297'>stroke</z:hpo>, and <z:hpo ids='HP_0000822'>hypertension</z:hpo> </plain></SENT>
+<SENT sid="9" pm="."><plain>Most of these estimates remained relatively unchanged after adjusting for air pollutants </plain></SENT>
+<SENT sid="10" pm="."><plain>Risks often varied by age or racial/ethnic group </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: Increased temperatures were found to have same-day effects on ER admission for several outcomes </plain></SENT>
+<SENT sid="12" pm="."><plain>Age and race/ethnicity seemed to modify some of these impacts </plain></SENT>
+</text></document>

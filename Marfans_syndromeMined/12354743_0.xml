@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Cystic medial degeneration (CMD) is a histological abnormality that is common in annuloaortic <z:mpath ids='MPATH_474'>ectasia</z:mpath> (AAE) and <z:hpo ids='HP_0002647'>aortic dissection</z:hpo> with <z:e sem="disease" ids="C0024796" disease_type="Disease or Syndrome" abbrv="MFS|MFS1">Marfan syndrome</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain><z:mpath ids='MPATH_3'>Apoptosis</z:mpath> and loss of vascular smooth muscle cells (VSMCs) is one of the features of CMD, but little is known about its pathogenesis </plain></SENT>
+<SENT sid="2" pm="."><plain>Peroxisome proliferator-activated receptor-gamma (PPARgamma), a transcription factor of the nuclear receptor superfamily, has been reported to show antiproliferative effects on VSMCs as well as anti-inflammatory effects on macrophages </plain></SENT>
+<SENT sid="3" pm="."><plain>PPARgamma <z:chebi fb="4" ids="48705">agonist</z:chebi> has been recently reported to induce <z:mpath ids='MPATH_3'>apoptosis</z:mpath> of cultured VSMCs </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS: We examined the histopathology of ascending aortas in AAE of Marfan patients (n=21) and control patients (n=6) at surgery </plain></SENT>
+<SENT sid="5" pm="."><plain>RT-PCR was performed to demonstrate expression of PPARgamma in CMD </plain></SENT>
+<SENT sid="6" pm="."><plain>Localization of PPARgamma was determined by double immunostaining using antibodies against PPARgamma and cell-specific markers (ie, SMCs, macrophages, and T lymphocytes) </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: PPARgamma expression was upregulated in AAE samples but minimal in control samples by RT-PCR (P=0.07) </plain></SENT>
+<SENT sid="8" pm="."><plain>Immunoreactivity against PPARgamma in numerous nuclei of VSMCs was observed in CMD lesions </plain></SENT>
+<SENT sid="9" pm="."><plain>Severity of CMD correlated with positive immunoreactivity of PPARgamma in medial VSMCs (P=0.03) </plain></SENT>
+<SENT sid="10" pm="."><plain>No inflammatory cells (ie, macrophages or T lymphocytes) were detected in CMD lesions </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSION: PPARgamma expression is upregulated in SMCs of CMD without any <z:mp ids='MP_0001845'>inflammatory response</z:mp> </plain></SENT>
+<SENT sid="12" pm="."><plain>Activated PPARgamma in VSMCs might be involved in the pathogenesis of CMD in Marfan's aortas </plain></SENT>
+<SENT sid="13" pm="."><plain>Regulation of PPARgamma might lead to clinical implication in protection against progression of AAE </plain></SENT>
+</text></document>

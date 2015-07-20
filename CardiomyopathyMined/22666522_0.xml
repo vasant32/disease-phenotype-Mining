@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:chebi fb="0" ids="28748">Doxorubicin</z:chebi> (DOX) causes long-term <z:hpo ids='HP_0001638'>cardiomyopathy</z:hpo> that is dependent on <z:mp ids='MP_0003674'>oxidative stress</z:mp> and contractility disorders </plain></SENT>
+<SENT sid="1" pm="."><plain>Tirapazamine (TP), an experimental adjuvant drug, passes the same red-ox transformation as DOX </plain></SENT>
+<SENT sid="2" pm="."><plain>The aim of the study was to evaluate an effect of tirapazamine on <z:mp ids='MP_0003674'>oxidative stress</z:mp>, contractile protein level, and <z:mp ids='MP_0010632'>cardiomyocyte necrosis</z:mp> in rats administered <z:chebi fb="0" ids="28748">doxorubicin</z:chebi> </plain></SENT>
+<SENT sid="3" pm="."><plain>Rats were intraperitoneally injected six times once a week with tirapazamine in two doses, 5 (5TP) and 10 mg/kg (10TP), while <z:chebi fb="0" ids="28748">doxorubicin</z:chebi> was administered in dose 1.8 mg/kg (DOX) </plain></SENT>
+<SENT sid="4" pm="."><plain>Subsequent two groups received both drugs simultaneously (5TP+DOX and 10TP+DOX) </plain></SENT>
+<SENT sid="5" pm="."><plain>Tirapazamine reduced heart <z:chebi fb="23" ids="18059">lipid</z:chebi> peroxidation and normalised RyR2 protein level altered by <z:chebi fb="0" ids="28748">doxorubicin</z:chebi> </plain></SENT>
+<SENT sid="6" pm="."><plain>There were no significant changes in GSH/GSSG ratio, total <z:chebi fb="0" ids="16856">glutathione</z:chebi>, cTnI, AST, and SERCA2 level between DOX and TP+DOX groups </plain></SENT>
+<SENT sid="7" pm="."><plain><z:mp ids='MP_0010632'>Cardiomyocyte necrosis</z:mp> was observed in groups 10TP and 10TP+DOX </plain></SENT>
+</text></document>

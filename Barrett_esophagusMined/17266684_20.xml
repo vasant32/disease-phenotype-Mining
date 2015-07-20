@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVES: For patients with <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo>, physicians commonly prescribe antisecretory medications in dosages above those required to heal reflux <z:hpo ids='HP_0100633'>esophagitis</z:hpo> because acid has been shown to have proproliferative and antiapoptotic effects on Barrett's <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> cells and on Barrett's mucosal explants </plain></SENT>
+<SENT sid="1" pm="."><plain>For a number of reasons, these model systems may not be ideal for determining the effects of acid on benign Barrett's epithelial cells, however </plain></SENT>
+<SENT sid="2" pm="."><plain>We studied the effects of acid on proliferation and <z:mpath ids='MPATH_3'>apoptosis</z:mpath> in a nonneoplastic, telomerase-immortalized Barrett's epithelial cell line </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: Barrett's cells were treated with two 3-minute exposures to acidic media </plain></SENT>
+<SENT sid="4" pm="."><plain>Cell growth was determined using cell counts, proliferation was studied by flow cytometry, cell viability was determined by trypan blue staining, and <z:mpath ids='MPATH_3'>apoptosis</z:mpath> was assessed by TUNEL and Annexin V </plain></SENT>
+<SENT sid="5" pm="."><plain>The expression levels of p53 and p21 were determined by Western blotting </plain></SENT>
+<SENT sid="6" pm="."><plain>p53 siRNA was used to study the effect of p53 inhibition on total cell numbers after acid exposure </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: Acid exposure significantly decreased total cell numbers at 24 h without affecting either cell viability or <z:mpath ids='MPATH_3'>apoptosis</z:mpath> </plain></SENT>
+<SENT sid="8" pm="."><plain>Acid exposure resulted in cell cycle prolongation that was associated with greater expression of p53, but not p21 </plain></SENT>
+<SENT sid="9" pm="."><plain>The acid-induced decrease in total cell numbers was abolished by p53 RNAi </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSIONS: Acid exposure has p53-mediated, antiproliferative effects in nonneoplastic Barrett's epithelial cells </plain></SENT>
+<SENT sid="11" pm="."><plain>These findings contradict the results of prior in vitro and ex vivo studies </plain></SENT>
+<SENT sid="12" pm="."><plain>We speculate that the prescription of antisecretory medications in dosages beyond those required to heal <z:hpo ids='HP_0002020'>gastroesophageal reflux disease</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">GERD</z:e>) symptoms and endoscopic signs could be detrimental </plain></SENT>
+<SENT sid="13" pm="."><plain>Controlled, prospective clinical trials are needed to determine the optimal level of acid suppression for patients with <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> </plain></SENT>
+</text></document>

@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A <z:e sem="disease" ids="C0338585" disease_type="Disease or Syndrome" abbrv="">carotid artery dissection</z:e> begins as a tear or defect of the intimal lining of the artery, and can lead to <z:chebi fb="2" ids="8069">luminal</z:chebi> occlusion and ultimately <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Our aim is to conduct an organ level validation of a finite element model of the carotid artery using an experiment designed to elicit internal layer failure within fluid-filled carotid artery samples </plain></SENT>
+<SENT sid="2" pm="."><plain>A 2.4-kg beveled guillotine is dropped from three heights (0.3, 0.5 and 0.7 m) onto fluid-filled porcine carotid arteries and resulting damage is recorded </plain></SENT>
+<SENT sid="3" pm="."><plain>These events are modeled using finite element analysis </plain></SENT>
+<SENT sid="4" pm="."><plain>Stress, strain and strain rate are correlated to experimental outcome </plain></SENT>
+<SENT sid="5" pm="."><plain>Internal layer damage is reported in half of the experiments, with damage occurring with 100% frequency at a drop height of 0.7 m </plain></SENT>
+<SENT sid="6" pm="."><plain>Simulations of this experiment result in maximum principal stress and strain values of 1.43 MPa and 46.2% respectively </plain></SENT>
+<SENT sid="7" pm="."><plain>The strain level predicted by the model for this impact scenario approaches the strain to intimal failure level for porcine arteries found in the literature </plain></SENT>
+<SENT sid="8" pm="."><plain>The results of this study represent an important step in validating this finite element carotid artery model at the organ level </plain></SENT>
+</text></document>

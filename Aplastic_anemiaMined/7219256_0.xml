@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A framework for the classification of continuous replicator (CR) pathologies expressed by cell kinetic changes, is presented </plain></SENT>
+<SENT sid="1" pm="."><plain>Each CR (e.g. GI mucosa or epidermis) is characterized by an origin, a periphery and a trajectory (called tissue radius) along which cells are displaced </plain></SENT>
+<SENT sid="2" pm="."><plain>The state of a cell on the radius is defined by two coordinates </plain></SENT>
+<SENT sid="3" pm="."><plain>Its distance from tissue origin 'x' expressed in cell locations, and its cruising velocity v(x), proportional to the cell production among cells separating it from origin </plain></SENT>
+<SENT sid="4" pm="."><plain>S(x) = x integral of o v(t)dt, represents further the net cell production associated with cell displacement from origin up to location x </plain></SENT>
+<SENT sid="5" pm="."><plain>The cell is regarded as a point advancing in a rectlinear motion defined by two coordinates (x,S(x)), tracing an S(x) graph outlining the proliferation differentiation states of a CR system </plain></SENT>
+<SENT sid="6" pm="."><plain>The S(x) graph is treated as a geometrical figure and the comparison of different CR pathologies reduces to the formulation of congruence laws </plain></SENT>
+<SENT sid="7" pm="."><plain>Three CR pathological entities are outlined: 1) Hemolytic pathologies e.g. <z:hpo ids='HP_0001878'>hemolytic anemia</z:hpo>, <z:hpo ids='HP_0003765'>psoriasis</z:hpo>, <z:hpo ids='HP_0002608'>celiac disease</z:hpo> and cervical <z:mpath ids='MPATH_580'>erosion</z:mpath> </plain></SENT>
+<SENT sid="8" pm="."><plain>2) Hyperplastic pathologies e.g. <z:hpo ids='HP_0001901'>polycythemia</z:hpo>, <z:mpath ids='MPATH_445'>papilloma</z:mpath> and <z:mpath ids='MPATH_490'>adenomatous polyp</z:mpath> and 3) Hypoplastic pathologies e.g. <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo>, skin and <z:mp ids='MP_0009359'>endometrial atrophy</z:mp> </plain></SENT>
+<SENT sid="9" pm="."><plain>Each pathology is marked by a typical S(x) graph </plain></SENT>
+</text></document>

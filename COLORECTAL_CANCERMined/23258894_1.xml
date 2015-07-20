@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Kindred cells can have different genomes because of dynamic changes in DNA </plain></SENT>
+<SENT sid="1" pm="."><plain>Single-cell sequencing is needed to characterize these genomic differences but has been hindered by whole-genome amplification bias, resulting in low genome coverage </plain></SENT>
+<SENT sid="2" pm="."><plain>Here, we report on a new amplification method-multiple annealing and looping-based amplification cycles (MALBAC)-that offers high uniformity across the genome </plain></SENT>
+<SENT sid="3" pm="."><plain>Sequencing MALBAC-amplified DNA achieves 93% genome coverage ≥1x for a single human cell at 25x mean sequencing depth </plain></SENT>
+<SENT sid="4" pm="."><plain>We detected digitized copy-number variations (CNVs) of a single <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> cell </plain></SENT>
+<SENT sid="5" pm="."><plain>By sequencing three kindred cells, we were able to identify individual single-nucleotide variations (SNVs), with no false positives detected </plain></SENT>
+<SENT sid="6" pm="."><plain>We directly measured the genome-wide mutation rate of a <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> cell line and found that <z:chebi fb="0" ids="35584">purine</z:chebi>-<z:chebi fb="0" ids="16898">pyrimidine</z:chebi> exchanges occurred unusually frequently among the newly acquired SNVs </plain></SENT>
+</text></document>

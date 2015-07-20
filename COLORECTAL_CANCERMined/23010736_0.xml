@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">Tumor</z:e>-infiltrating lymphocyte (TIL) counts in <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> <z:e sem="disease" ids="C0494165" disease_type="Neoplastic Process" abbrv="">liver metastases</z:e> (CRCLM) predict survival following resection </plain></SENT>
+<SENT sid="1" pm="."><plain>While CD4 and CD8 T cells have been correlated with outcome following CRCLM resection, the role of regulatory T cells (Treg) is not well defined </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: TIL in 188 patients who underwent CRCLM resection between 1998 and 2000 were analyzed by immunohistochemistry using tissue microarrays </plain></SENT>
+<SENT sid="3" pm="."><plain>Correlation between TIL composition and outcome was determined while controlling for established prognostic factors </plain></SENT>
+<SENT sid="4" pm="."><plain>Total T cells (CD3), helper T cells (CD4), cytotoxic T cells (CD8), and Treg (FoxP3) were analyzed </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: Median follow-up time was 40 months for <z:hpo ids='HP_0000001'>all</z:hpo> patients and 95 months for survivors </plain></SENT>
+<SENT sid="6" pm="."><plain>Overall survival (OS) at 5 and 10 years was 40 and 25%, respectively </plain></SENT>
+<SENT sid="7" pm="."><plain>The CD4 T cell count correlated with OS (p = .02) and recurrence-free survival (p = .04) </plain></SENT>
+<SENT sid="8" pm="."><plain>A high number of CD8 T cells relative to total T cells (CD8:CD3 ratio) predicted longer OS times (p = .05) </plain></SENT>
+<SENT sid="9" pm="."><plain>Analysis of Treg revealed that high FoxP3:CD4 (p = .03) and FoxP3:CD8 (p = .05) ratios were independent predictors of shorter OS </plain></SENT>
+<SENT sid="10" pm="."><plain>Patients with a high clinical risk score (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRS</z:e>) were more likely to have a high number of intratumoral Treg, and patients ≥65 years old had a less robust CRCLM T cell infiltration </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: A high number of Treg relative to CD4 or CD8 T cells predicted poor outcome, suggesting an immunosuppressive role for FoxP3 + TIL </plain></SENT>
+<SENT sid="12" pm="."><plain>The intratumoral immune response was an independent predictor of outcome in patients with colorectal <z:e sem="disease" ids="C0494165" disease_type="Neoplastic Process" abbrv="">liver metastases</z:e> </plain></SENT>
+</text></document>

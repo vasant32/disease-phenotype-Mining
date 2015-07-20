@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We have recently demonstrated marked neuroprotective efficacy of a combination therapy with <z:chebi fb="131" ids="25107">magnesium</z:chebi> (calcium- and <z:chebi fb="6" ids="14321,29987">glutamate</z:chebi>-<z:chebi fb="68" ids="48706">antagonist</z:chebi>), tirilazad (<z:chebi fb="11" ids="22586">antioxidant</z:chebi>) and mild <z:hpo ids='HP_0002045'>hypothermia</z:hpo> (MTH) in a rat model of transient focal <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>In the present study, we investigated MTH under conditions of permanent focal <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>In part I, 20 Sprague-Dawley rats were subjected to 6 h of permanent, laser-Doppler flowmetry (LDF) controlled middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (MCAO) </plain></SENT>
+<SENT sid="3" pm="."><plain>Drugs were administered 30 min before and 1 h after MCAO </plain></SENT>
+<SENT sid="4" pm="."><plain><z:hpo ids='HP_0002045'>Hypothermia</z:hpo> (33 degrees C) was maintained for 2 h </plain></SENT>
+<SENT sid="5" pm="."><plain><z:mpath ids='MPATH_124'>Infarct</z:mpath> size was planimetrically determined after 6 h </plain></SENT>
+<SENT sid="6" pm="."><plain>In part II, 29 rats were assigned to the same treatment arms and subjected to 7 days of permanent MCAO </plain></SENT>
+<SENT sid="7" pm="."><plain>Neurological deficits and body weight were assessed daily </plain></SENT>
+<SENT sid="8" pm="."><plain><z:mpath ids='MPATH_124'>Infarct</z:mpath> size was determined on day 7 </plain></SENT>
+<SENT sid="9" pm="."><plain>In part I, MTH significantly reduced <z:mpath ids='MPATH_124'>infarct</z:mpath> formation by 52% after 6 h </plain></SENT>
+<SENT sid="10" pm="."><plain>In part II, high mortality within the first 3 days was observed in both groups </plain></SENT>
+<SENT sid="11" pm="."><plain>Treated animals showed a significantly better postoperative <z:mp ids='MP_0005456'>weight gain</z:mp> on day 7 and neurological recovery on days 6 and 7 compared to controls without significant differences in <z:mpath ids='MPATH_124'>infarct</z:mpath> volume </plain></SENT>
+<SENT sid="12" pm="."><plain>MTH seems to exert its neuroprotective properties even in a setting of permanent <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> </plain></SENT>
+<SENT sid="13" pm="."><plain>High mortality and absence of <z:mpath ids='MPATH_124'>infarct</z:mpath> reduction after 7 days might be due to model limitations </plain></SENT>
+<SENT sid="14" pm="."><plain>Neurological recovery, the most important clinical outcome parameter, is significantly improved in 7-day survivors </plain></SENT>
+<SENT sid="15" pm="."><plain>Significant neuroprotection under conditions of permanent <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> and former promising results in <z:e sem="disease" ids="C0022118" disease_type="Disease or Syndrome" abbrv="">transient ischemia</z:e> justify further investigations of MTH </plain></SENT>
+</text></document>

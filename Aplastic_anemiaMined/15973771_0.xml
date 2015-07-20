@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: To study the therapeutic potential of Fas inhibition in different diseases, a Fas-targeting siRNA (small interfering)-expressing plasmid was constructed </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: The U6 promoter cassette and siFas (small interfering <z:chebi fb="40" ids="33697">RNA</z:chebi> that inhibit Fas expression) template sequence were obtained by PCR method </plain></SENT>
+<SENT sid="2" pm="."><plain>They were cloned into modified pcDNA3.1 </plain></SENT>
+<SENT sid="3" pm="."><plain>The resultant plasmid pU6-siFas was transfected into P815 cells with lipofectin2000 and selected under G-418-containing culture medium </plain></SENT>
+<SENT sid="4" pm="."><plain>Fas inhibition in stably transfected cells was detected by immunocytochemistry </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: The plasmid pU6-siFas efficiently reduced the expression of Fas and conferred G-418 resistance in P815 cells </plain></SENT>
+<SENT sid="6" pm="."><plain>CONCLUSION: The successful construction of the siRNA expressing plasmid will facilitate the application of <z:chebi fb="40" ids="33697">RNA</z:chebi> interference technique and lay the foundation for further study of Fas inhibition in the treatment of different diseases such as <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> and <z:hpo ids='HP_0006554'>acute liver failure</z:hpo> </plain></SENT>
+</text></document>

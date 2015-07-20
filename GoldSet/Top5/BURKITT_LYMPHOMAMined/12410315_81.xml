@@ -1,0 +1,6 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Somatic hypermutation of immunoglobulin genes is a unique, targeted, adaptive process </plain></SENT>
+<SENT sid="1" pm="."><plain>While B cells are engaged in germinal centres in T-dependent responses, single base substitutions are introduced in the expressed Vh/Vl genes to allow the selection of mutants with a higher affinity for the immunizing antigen </plain></SENT>
+<SENT sid="2" pm="."><plain>Almost every possible DNA transaction has been proposed to explain this process, but each of these models includes an error-prone DNA synthesis step that introduces the mutations </plain></SENT>
+<SENT sid="3" pm="."><plain>The Y family of DNA polymerases--pol eta, pol iota, pol kappa and rev1--are specialized for copying DNA lesions and have high rates of error when copying a <z:mpath ids='MPATH_458'>normal</z:mpath> DNA template </plain></SENT>
+<SENT sid="4" pm="."><plain>By performing gene inactivation in a Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cell line inducible for hypermutation, we show here that somatic hypermutation is dependent on DNA polymerase iota </plain></SENT>
+</text></document>

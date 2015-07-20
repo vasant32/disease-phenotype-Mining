@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Follicular <z:hpo ids='HP_0002665'>lymphomas</z:hpo> (FLs) are neoplastic counterparts of <z:mpath ids='MPATH_458'>normal</z:mpath> germinal center (GC) B cells </plain></SENT>
+<SENT sid="1" pm="."><plain>FLs are characterized by t(14;18) with deregulation of the Bcl-2 (BCL2) gene </plain></SENT>
+<SENT sid="2" pm="."><plain>The presence of t(14;18) and overexpression of Bcl-2 is necessary, but not sufficient, to cause this disease </plain></SENT>
+<SENT sid="3" pm="."><plain>An array containing 588 complementary DNAs (cDNAs) was used to compare the gene expression between GC B cells and FL cells </plain></SENT>
+<SENT sid="4" pm="."><plain>To specifically monitor genes expressed in <z:mpath ids='MPATH_458'>normal</z:mpath> GC B and FL cells and not the entire tissue compartment, <z:mpath ids='MPATH_458'>normal</z:mpath> and malignant B cells were purified from tissues </plain></SENT>
+<SENT sid="5" pm="."><plain>Using the array, 37 genes were up-regulated and 28 were down-regulated in FL cells as compared to <z:mpath ids='MPATH_458'>normal</z:mpath> GC B cells </plain></SENT>
+<SENT sid="6" pm="."><plain>The expression level of each differentially expressed gene was verified by quantitative polymerase chain reaction </plain></SENT>
+<SENT sid="7" pm="."><plain>Following these studies 24 genes were up-regulated and 8 genes down-regulated with a P value less than.1 </plain></SENT>
+<SENT sid="8" pm="."><plain>Included among the genes that were up-regulated in FLs were cell cycle regulator proteins CDK10, p120, p21CIP1, and p16INK4A; transcription factors/regulators Pax-5 and Id-2, which are involved in <z:mpath ids='MPATH_458'>normal</z:mpath> B-cell development; and genes involved in cell-cell interactions, <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> <z:mp ids='MP_0001651'>necrosis</z:mp> factor, interleukin-2R gamma (IL-2R gamma), and IL-4R alpha </plain></SENT>
+<SENT sid="9" pm="."><plain>Among the genes that were down-regulated in FLs were MRP8 and MRP14, which are involved in <z:e sem="disease" ids="C0001511" disease_type="Disease or Syndrome;Acquired Abnormality" abbrv="">adhesion</z:e> </plain></SENT>
+<SENT sid="10" pm="."><plain>Interestingly, several of these genes are localized within chromosomal regions already described to be altered in FLs </plain></SENT>
+<SENT sid="11" pm="."><plain>These findings provide a basis for future studies into the pathogenesis and pathophysiology of FL and may lead to the identification of potential therapeutic targets as well as antigens for immunotherapeutic strategies </plain></SENT>
+</text></document>

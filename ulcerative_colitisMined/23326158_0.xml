@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Cytomegalovirus (CMV) <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infection</z:e> is common in humans </plain></SENT>
+<SENT sid="1" pm="."><plain>The virus then enters a "latency phase" and can reactivate to different stimuli such as immunosuppression </plain></SENT>
+<SENT sid="2" pm="."><plain>The clinical significance of <z:e sem="disease" ids="C0010823" disease_type="Disease or Syndrome" abbrv="">CMV infection</z:e> in <z:e sem="disease" ids="C0021390" disease_type="Disease or Syndrome" abbrv="">inflammatory bowel disease</z:e> is different in <z:hpo ids='HP_0100280'>Crohn's disease</z:hpo> (CD) and <z:hpo ids='HP_0100279'>ulcerative colitis</z:hpo> (UC) </plain></SENT>
+<SENT sid="3" pm="."><plain>CMV does not interfere in the clinical course of CD </plain></SENT>
+<SENT sid="4" pm="."><plain>However, CMV reactivation is frequent in severe or steroid-resistant UC </plain></SENT>
+<SENT sid="5" pm="."><plain>It is not known whether the virus exacerbates the disease or simply appears as a bystander of a severe disease </plain></SENT>
+<SENT sid="6" pm="."><plain>Different methods are used to diagnose CMV <z:hpo ids='HP_0002583'>colitis</z:hpo> </plain></SENT>
+<SENT sid="7" pm="."><plain>Diagnosis is classically based on histopathological identification of <z:mp ids='MP_0001799'>viral</z:mp>-infected cells or CMV antigens in biopsied tissues using <z:chebi fb="1" ids="51686">haematoxylin</z:chebi>-eosin or immunohistochemistry, other tests on blood or tissue samples are currently being investigated </plain></SENT>
+<SENT sid="8" pm="."><plain>Polymerase chain reaction performed in colonic mucosa has a high sensitivity and a positive result could be associated with a worse prognosis disease; further studies are needed to determine the most appropriate strategy with positive CMV-DNA in colonic mucosa </plain></SENT>
+<SENT sid="9" pm="."><plain>Specific endoscopic features have not been described in active UC and <z:e sem="disease" ids="C0010823" disease_type="Disease or Syndrome" abbrv="">CMV infection</z:e> </plain></SENT>
+<SENT sid="10" pm="."><plain>CMV <z:hpo ids='HP_0002583'>colitis</z:hpo> is usually treated with <z:chebi fb="0" ids="465284">ganciclovir</z:chebi> for several weeks, there are different opinions about whether or not to stop immunosuppressive therapy </plain></SENT>
+<SENT sid="11" pm="."><plain>Other <z:chebi fb="1" ids="36044">antiviral drugs</z:chebi> may be used </plain></SENT>
+<SENT sid="12" pm="."><plain>Multicenter controlled studies would needed to determine which subgroup of UC patients would benefit from early antiviral treatment </plain></SENT>
+</text></document>

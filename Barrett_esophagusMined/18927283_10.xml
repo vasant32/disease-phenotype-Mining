@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PURPOSE: Identifying genes differentially expressed in nondysplastic BE (NDBE) from those expressed in high-grade <z:mpath ids='MPATH_589'>dysplasia</z:mpath> (HGD) should be of value in improving our understanding of this transition and may yield new diagnostic and/or prognostic markers </plain></SENT>
+<SENT sid="1" pm="."><plain>The aim of this study was to determine the differential transcriptome of HGD compared with NDBE through gene microarray analysis of epithelial cells microdissected from archival tissue specimens </plain></SENT>
+<SENT sid="2" pm="."><plain>EXPERIMENTAL DESIGN: Laser capture microdissection was used to isolate epithelial cells from adjacent inflammatory and stromal cells </plain></SENT>
+<SENT sid="3" pm="."><plain>Epithelial <z:chebi fb="2" ids="33699">mRNA</z:chebi> was extracted from areas of NDBE and HGD in matched biopsies from 11 patients </plain></SENT>
+<SENT sid="4" pm="."><plain><z:chebi fb="2" ids="33699">mRNA</z:chebi> was reverse transcribed and applied on Affymetrix cDNA microarray chips customized for formalin-exposed tissue </plain></SENT>
+<SENT sid="5" pm="."><plain>For a subset of these genes, differential gene expression was confirmed by real-time PCR and immunohistochemistry </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: There were 131 genes overexpressed by at least 2.5-fold in HGD versus NDBE and 16 genes that were underexpressed by at least 2.5-fold </plain></SENT>
+<SENT sid="7" pm="."><plain>Among the overexpressed genes are several previously shown to be increased in the <z:e sem="disease" ids="C0178874" disease_type="Neoplastic Process" abbrv="">neoplastic progression</z:e> of BE, as well as novel genes such as lipocalin-2, S100A9, matrix metallopeptidase 12, secernin 1, and topoisomerase IIalpha </plain></SENT>
+<SENT sid="8" pm="."><plain>Genes decreased in dysplastic epithelium include MUC5AC, trefoil factor 1 (TFF1), meprin A, and CD13 </plain></SENT>
+<SENT sid="9" pm="."><plain>Real-time PCR validated the changes in expression in 24 of 28 selected genes </plain></SENT>
+<SENT sid="10" pm="."><plain>Immunohistochemistry confirmed increased protein expression for topoisomerase IIalpha, S100A9, and lipocalin-2 and decreased expression of TFF1 across the spectrum of BE-associated <z:mpath ids='MPATH_589'>dysplasia</z:mpath> from NDBE through <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: This is the first study to identify epithelial genes differentially expressed in HGD versus NDBE in matched patient samples </plain></SENT>
+<SENT sid="12" pm="."><plain>The genes identified include several previously implicated in the pathogenesis of BE-associated <z:mpath ids='MPATH_589'>dysplasia</z:mpath> and new candidates for further investigation </plain></SENT>
+</text></document>

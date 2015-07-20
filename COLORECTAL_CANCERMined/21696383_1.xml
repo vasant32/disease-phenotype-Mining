@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:e sem="disease" ids="C0032580" disease_type="Neoplastic Process" abbrv="">Familial adenomatous polyposis</z:e> (FAP) has been divided into three clinical subtypes: mild, classical and severe </plain></SENT>
+<SENT sid="1" pm="."><plain>This study aimed to investigate for a correlation between genotype and phenotype </plain></SENT>
+<SENT sid="2" pm="."><plain>A codon-specific survival difference is unknown </plain></SENT>
+<SENT sid="3" pm="."><plain>A retrospective longitudinal study of 492 patients on the Manchester <z:e sem="disease" ids="C0334108" disease_type="Neoplastic Process" abbrv="">Polyposis</z:e> Registry was conducted </plain></SENT>
+<SENT sid="4" pm="."><plain>Patients were grouped according to genotypes: 0, unknown mutation; 1, <z:mpath ids='MPATH_271'>adenomatous polyposis coli</z:mpath> (APC) 0-178 (and 312-412 of exon 9); 2, APC &gt;1550; 3, APC 179-1249; 4, APC 1250-1549; and 5, MutYH </plain></SENT>
+<SENT sid="5" pm="."><plain>Date of <z:hpo ids='HP_0003674'>onset</z:hpo> of <z:e sem="disease" ids="C0334108" disease_type="Neoplastic Process" abbrv="">polyposis</z:e>, incidence of <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e>), survival and actuarial time to surgery were calculated </plain></SENT>
+<SENT sid="6" pm="."><plain>Median <z:hpo ids='HP_0011007'>age of onset</z:hpo> of <z:e sem="disease" ids="C0334108" disease_type="Neoplastic Process" abbrv="">polyposis</z:e> for genotype 0 was 20.3 years, genotype 1 35.6 years, genotype 2 32.2, genotype 3 15.9 years, and genotype 4 14.8 years (p &lt; 0.0001) </plain></SENT>
+<SENT sid="7" pm="."><plain><z:hpo ids='HP_0011007'>Age of onset</z:hpo> of <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e> was similar between genotypes </plain></SENT>
+<SENT sid="8" pm="."><plain>Median survival for genotype 0 was 56.6 years, genotype 1 74.9 years, genotype 2 61.0 years, genotype 3 63.0 years, genotype 4 48.1 years, and genotype 5 69.7 years (p = 0.003) </plain></SENT>
+<SENT sid="9" pm="."><plain>This survival difference was also seen when patients who underwent screening and those who did not were analysed separately </plain></SENT>
+<SENT sid="10" pm="."><plain>Survival in the screened population was 53.9 years in genotype 4 and 72.9 years in genotype 3 </plain></SENT>
+<SENT sid="11" pm="."><plain>Patients with genotype 4 (APC 1249-1549) have a significantly worse survival despite screening and early prophylactic surgery </plain></SENT>
+<SENT sid="12" pm="."><plain>This analysis supports a genotype-phenotype correlation </plain></SENT>
+<SENT sid="13" pm="."><plain>Patients with a mutation APC 1249-1549 develop <z:e sem="disease" ids="C0334108" disease_type="Neoplastic Process" abbrv="">polyposis</z:e> at an early age and have a worse survival </plain></SENT>
+<SENT sid="14" pm="."><plain>Patients with a mutation APC 0-178 or 312-412 develop <z:e sem="disease" ids="C0334108" disease_type="Neoplastic Process" abbrv="">polyposis</z:e> later and have an improved survival </plain></SENT>
+<SENT sid="15" pm="."><plain>This survival difference has not previously been documented </plain></SENT>
+</text></document>

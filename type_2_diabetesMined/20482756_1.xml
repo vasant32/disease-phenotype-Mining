@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: <z:hpo ids='HP_0000855'>Insulin resistance</z:hpo> (IR), a reduced physiological response of peripheral tissues to the action of insulin, is one of the major causes of type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="1" pm="."><plain>We sought to evaluate the relationship between serum C-reactive protein (CRP), a marker of systemic <z:mp ids='MP_0001845'>inflammation</z:mp>, and prevalence of IR among Peruvian adults </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: This population based study of 1,525 individuals (569 men and 956 women; mean age 39 years old) was conducted among residents in Lima and Callao, Peru </plain></SENT>
+<SENT sid="3" pm="."><plain>Fasting plasma <z:chebi fb="105" ids="17234">glucose</z:chebi>, insulin, and CRP concentrations were measured using standard approaches </plain></SENT>
+<SENT sid="4" pm="."><plain><z:hpo ids='HP_0000855'>Insulin resistance</z:hpo> was assessed using the homeostasis model (HOMA-IR) </plain></SENT>
+<SENT sid="5" pm="."><plain>Categories of CRP were defined by the following tertiles: &lt;0.81 mg/l, 0.81-2.53 mg/l, and &gt;2.53 mg/l </plain></SENT>
+<SENT sid="6" pm="."><plain>Logistic regression procedures were employed to estimate odds ratios (OR) and 95% confidence intervals (CI) </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: Elevated CRP were significantly associated with increased mean fasting insulin and mean HOMA-IR concentrations (p &lt; 0.001) </plain></SENT>
+<SENT sid="8" pm="."><plain>Women with CRP concentration &gt;2.53 mg/l (upper tertile) had a 2.18-fold increased risk of IR (OR = 2.18 95% CI 1.51-3.16) as compared with those in the lowest tertile (&lt;0.81 mg/l) </plain></SENT>
+<SENT sid="9" pm="."><plain>Among men, those in the upper tertile had a 2.54-fold increased risk of IR (OR = 2.54 95% CI 1.54-4.20) as compared with those in the lowest tertile </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSION: Our observations among Peruvians suggest that <z:hpo ids='HP_0011010'>chronic</z:hpo> systemic <z:mp ids='MP_0001845'>inflammation</z:mp>, as evidenced by elevated CRP, may be of etiologic importance in <z:hpo ids='HP_0000855'>insulin resistance</z:hpo> and <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+</text></document>

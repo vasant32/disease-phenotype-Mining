@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Hematopoietic stem cell transplantation (HSCT) is an accepted treatment strategy for patients with severe <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> (SAA) </plain></SENT>
+<SENT sid="1" pm="."><plain>We report our experience in a general hospital in Taiwan </plain></SENT>
+<SENT sid="2" pm="."><plain>From March 1985 to July 2001, 79 consecutive SAA patients, 46 male and 33 female, with a median age of 22 (4-43) years, received 80 courses of transplantation </plain></SENT>
+<SENT sid="3" pm="."><plain><z:chebi fb="0" ids="4027">Cyclophosphamide</z:chebi> and total body radiation were used for the conditioning regimen, and <z:chebi fb="0" ids="4031">cyclosporine</z:chebi>-A and <z:chebi fb="0" ids="44185">methotrexate</z:chebi> for <z:e sem="disease" ids="C0018133" disease_type="Disease or Syndrome" abbrv="GVH">graft-versus-host disease</z:e> (GVHD) prevention </plain></SENT>
+<SENT sid="4" pm="."><plain>Patients were followed for a median of 39 months (from 8 days to 194 months) </plain></SENT>
+<SENT sid="5" pm="."><plain>Myeloid and platelet engraftment occurred in a median of 15 (8-27) days and 18 (8-77) days, respectively </plain></SENT>
+<SENT sid="6" pm="."><plain>Three patients had primary and three patients secondary graft failure </plain></SENT>
+<SENT sid="7" pm="."><plain>Five patients (6.8%) had grade II-IV <z:hpo ids='HP_0011009'>acute</z:hpo> GVHD in 73 evaluable patients </plain></SENT>
+<SENT sid="8" pm="."><plain><z:hpo ids='HP_0011010'>Chronic</z:hpo> GVHD occurred in 23 (34.8%) patients, with extensive stage in six </plain></SENT>
+<SENT sid="9" pm="."><plain>Only two patients had CMV disease </plain></SENT>
+<SENT sid="10" pm="."><plain>The projected 3- and 5-year overall survival rates estimated by the Kaplan-Meier method were 76.08 and 74.13%, respectively </plain></SENT>
+<SENT sid="11" pm="."><plain>Age at transplant, non-sibling donor, mononuclear cell dose, grade II-IV <z:hpo ids='HP_0011009'>acute</z:hpo> GVHD, interval from diagnosis to transplant, and red blood cell and platelet transfusion before transplant were poor prognostic factors for overall survival by univariate analysis </plain></SENT>
+<SENT sid="12" pm="."><plain>Grade II-IV <z:hpo ids='HP_0011009'>acute</z:hpo> GVHD was the only prognostic factor affecting overall survival after multivariate Cox regression analysis (P=0.040) </plain></SENT>
+<SENT sid="13" pm="."><plain>In conclusion, SAA patients receiving HSCT have good long-term survival </plain></SENT>
+<SENT sid="14" pm="."><plain>The low incidence of <z:hpo ids='HP_0011009'>acute</z:hpo> GVHD in our patients may be related to ethnicity </plain></SENT>
+</text></document>

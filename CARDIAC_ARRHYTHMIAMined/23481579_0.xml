@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Sympathetic stimulation regulates cardiac excitation-contraction coupling in hearts but can also trigger <z:hpo ids='HP_0004308'>ventricular arrhythmias</z:hpo> caused by early afterdepolarizations (EADs) in pathological conditions </plain></SENT>
+<SENT sid="1" pm="."><plain><z:chebi fb="0" ids="6046">Isoproterenol</z:chebi> (ISO) stimulation can transiently cause EADs which could result from differential kinetics of L-type Ca current (ICaL) vs. delayed rectifier <z:chebi fb="120" ids="26216">potassium</z:chebi> current (IKs) effects, but multiple PKA targets complicate mechanistic analysis </plain></SENT>
+<SENT sid="2" pm="."><plain>Utilizing a biophysically detailed model integrating Ca and β-adrenergic signaling, we investigate how different phosphorylation kinetics and targets influence β-adrenergic-induced transient EADs </plain></SENT>
+<SENT sid="3" pm="."><plain>We found that: 1) The faster time course of ICaL vs. IKs increases recapitulates experimentally observed ISO-induced transient EADs (which are due to ICaL reactivation) </plain></SENT>
+<SENT sid="4" pm="."><plain>These EADs disappear at steady state ISO and do not occur during more gradual ISO application </plain></SENT>
+<SENT sid="5" pm="."><plain>2) This ICaL vs. IKs kinetic mismatch with ISO can also induce transient EADs due to spontaneous sarcoplasmic reticulum (SR) Ca release and Na/Ca exchange current </plain></SENT>
+<SENT sid="6" pm="."><plain>The increased ICaL, SR Ca uptake and action potential duration (APD) raise SR Ca to cause spontaneous SR Ca release, but eventual IKs activation and APD shortening abolish these EADs </plain></SENT>
+<SENT sid="7" pm="."><plain>3) Phospholemman (PLM) phosphorylation decreases both types of EADs by increasing outward Na/K-ATPase current (INaK) for ICaL-mediated EADs, and reducing intracellular Na and Ca loading for SR Ca-release-mediated EADs </plain></SENT>
+<SENT sid="8" pm="."><plain>Slowing PLM phosphorylation kinetics abolishes this protective effect </plain></SENT>
+<SENT sid="9" pm="."><plain>4) Blocking phospholamban (PLB) phosphorylation has little effect on ICaL-mediated transient EADs, but abolishes SR Ca-release-mediated transient EADs by limiting SR Ca loading </plain></SENT>
+<SENT sid="10" pm="."><plain>5) RyR phosphorylation has little effect on either transient EAD type </plain></SENT>
+<SENT sid="11" pm="."><plain>Our study emphasizes the importance of understanding non-steady state kinetics of several systems in mediating β-adrenergic-induced EADs and <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> </plain></SENT>
+<SENT sid="12" pm="."><plain>This article is part of a Special Issue entitled "Calcium Signaling in Heart" </plain></SENT>
+</text></document>

@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: This phase Ib study was designed to determine the maximum tolerated doses (MTD) and dose limiting toxicities (DLTs) of irinotecan and cetuximab with <z:chebi fb="0" ids="50924">sorafenib</z:chebi> </plain></SENT>
+<SENT sid="1" pm="."><plain>Secondary objectives included characterizing the pharmacokinetics and pharmacodynamics and evaluating preliminary antitumor activity in patients with advanced <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e>) </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: Patients with metastatic, pretreated <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e> were treated at five dose levels </plain></SENT>
+<SENT sid="3" pm="."><plain>RESULTS: Eighteen patients were recruited with median age 56.5 years </plain></SENT>
+<SENT sid="4" pm="."><plain>In the first five patients treated, 2 irinotecan related DLTs were observed </plain></SENT>
+<SENT sid="5" pm="."><plain>With reduced dose intensity irinotecan, there were no further DLTs </plain></SENT>
+<SENT sid="6" pm="."><plain>The most common toxicities were <z:hpo ids='HP_0002014'>diarrhea</z:hpo>, <z:hpo ids='HP_0002018'>nausea</z:hpo>/<z:hpo ids='HP_0002013'>vomiting</z:hpo>, <z:mp ids='MP_0002899'>fatigue</z:mp>, <z:hpo ids='HP_0002039'>anorexia</z:hpo> and <z:e sem="disease" ids="C0015230" disease_type="Disease or Syndrome" abbrv="">rash</z:e> </plain></SENT>
+<SENT sid="7" pm="."><plain>DLTs included <z:hpo ids='HP_0001875'>neutropenia</z:hpo> and <z:hpo ids='HP_0001873'>thrombocytopenia</z:hpo> </plain></SENT>
+<SENT sid="8" pm="."><plain>Two patients had partial responses (one with a KRAS mutation) and 8 had stable disease (8-36 weeks) </plain></SENT>
+<SENT sid="9" pm="."><plain>The median progression free survival (PFS) and overall survival (OS) were 2.5 and 4.7 months respectively </plain></SENT>
+<SENT sid="10" pm="."><plain>Pharmacokinetic analyses suggest <z:chebi fb="0" ids="50924">sorafenib</z:chebi> and metabolite exposure correlate with OS and DLTs </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: The recommended phase II dose (RP2D) is irinotecan 100 mg/m i.v. days 1, 8; cetuximab 400 mg/m i.v. days 1 and 250 mg/m i.v. weekly; and <z:chebi fb="0" ids="50924">sorafenib</z:chebi> 400 mg orally twice daily in advanced, pretreated <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e> </plain></SENT>
+<SENT sid="12" pm="."><plain>The combination resulted in a modest response rate </plain></SENT>
+</text></document>

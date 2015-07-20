@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Cardiac excitation-contraction coupling (EC coupling) links the electrical excitation of the cell membrane to the mechanical contractile machinery of the heart </plain></SENT>
+<SENT sid="1" pm="."><plain>Calcium channels are major players of EC coupling and are regulated by voltage and Ca(2+)/calmodulin (CaM) </plain></SENT>
+<SENT sid="2" pm="."><plain>CaM binds to the IQ motif located in the C terminus of the Ca(v)1.2 channel and induces Ca(2+)-dependent inactivation (CDI) and facilitation (CDF) </plain></SENT>
+<SENT sid="3" pm="."><plain>Mutation of Ile to Glu (Ile1624Glu) in the IQ motif abolished regulation of the channel by CDI and CDF </plain></SENT>
+<SENT sid="4" pm="."><plain>Here, we addressed the physiological consequences of such a mutation in the heart </plain></SENT>
+<SENT sid="5" pm="."><plain>Murine hearts expressing the Ca(v)1.2(I1624E) mutation were generated in adult heterozygous mice through inactivation of the floxed WT Ca(v)1.2(L2) allele by <z:chebi fb="3" ids="41774">tamoxifen</z:chebi>-induced cardiac-specific activation of the MerCreMer Cre recombinase </plain></SENT>
+<SENT sid="6" pm="."><plain>Within 10 days after the first <z:chebi fb="3" ids="41774">tamoxifen</z:chebi> injection these mice developed <z:hpo ids='HP_0001644'>dilated cardiomyopathy</z:hpo> (<z:chebi fb="20" ids="15767">DCM</z:chebi>) accompanied by <z:mpath ids='MPATH_3'>apoptosis</z:mpath> of cardiac myocytes (CM) and <z:mp ids='MP_0003045'>fibrosis</z:mp> </plain></SENT>
+<SENT sid="7" pm="."><plain>In Ca(v)1.2(I1624E) hearts, the activity of phospho-CaM kinase II and phospho-MAPK was increased </plain></SENT>
+<SENT sid="8" pm="."><plain>CMs expressed reduced levels of Ca(v)1.2(I1624E) channel protein and I(Ca) </plain></SENT>
+<SENT sid="9" pm="."><plain>The Ca(v)1.2(I1624E) channel showed "CDI" kinetics </plain></SENT>
+<SENT sid="10" pm="."><plain>Despite a lower sarcoplasmic reticulum Ca(2+) content, cellular contractility and global Ca(2+) transients remained unchanged because the EC coupling gain was up-regulated by an increased neuroendocrine activity </plain></SENT>
+<SENT sid="11" pm="."><plain>Treatment of mice with <z:chebi fb="0" ids="6904">metoprolol</z:chebi> and <z:chebi fb="0" ids="3380">captopril</z:chebi> reduced <z:chebi fb="20" ids="15767">DCM</z:chebi> in Ca(v)1.2(I1624E) hearts at day 10 </plain></SENT>
+<SENT sid="12" pm="."><plain>We conclude that mutation of the IQ motif to IE leads to <z:hpo ids='HP_0001644'>dilated cardiomyopathy</z:hpo> and <z:hpo ids='HP_0011420'>death</z:hpo> </plain></SENT>
+</text></document>

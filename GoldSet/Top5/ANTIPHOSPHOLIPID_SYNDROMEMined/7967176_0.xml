@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>An 18-years-old female was admitted to our hospital because of severe <z:hpo ids='HP_0000969'>edema</z:hpo>, that had developed within one week, and massive <z:hpo ids='HP_0000093'>proteinuria</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>She has been given treatment for mild <z:hpo ids='HP_0000093'>proteinuria</z:hpo> and <z:e sem="disease" ids="C0034735" disease_type="Disease or Syndrome" abbrv="">Raynaud's phenomenon</z:e> </plain></SENT>
+<SENT sid="2" pm="."><plain>Before the <z:hpo ids='HP_0000969'>edema</z:hpo> developed, she complained of recurrent attack of <z:hpo ids='HP_0002076'>migraine</z:hpo> associated with <z:hpo ids='HP_0010822'>scintillating scotoma</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>At admission, she was suffering from butterfly <z:hpo ids='HP_0010783'>erythema</z:hpo>, hydropericardium and <z:hpo ids='HP_0001541'>ascites</z:hpo> </plain></SENT>
+<SENT sid="4" pm="."><plain>The results of tests for <z:hpo ids='HP_0003493'>antinuclear antibodies</z:hpo> and ENA antibodies were negative, but those for BFP and IgG-anticardiolipin antibody were positive, and the platelet and complement levels were low </plain></SENT>
+<SENT sid="5" pm="."><plain>Renal biopsy revealed typical <z:mp ids='MP_0011430'>mesangiolysis</z:mp> without any sign of hyperplastic <z:hpo ids='HP_0000123'>nephritis</z:hpo> </plain></SENT>
+<SENT sid="6" pm="."><plain>Electron microscopy demonstrated the deposition of microfibrillar structures in the mesangial areas </plain></SENT>
+<SENT sid="7" pm="."><plain>She was diagnosed as having SLE-<z:hpo ids='HP_0003613'>antiphospholipid antibody</z:hpo> syndrome </plain></SENT>
+<SENT sid="8" pm="."><plain>After the administration of <z:chebi fb="2" ids="8378">prednisolone</z:chebi> 40mg/day, the <z:hpo ids='HP_0000969'>edema</z:hpo>, Raynaud's sign and <z:hpo ids='HP_0000093'>proteinuria</z:hpo> disappeared </plain></SENT>
+<SENT sid="9" pm="."><plain><z:hpo ids='HP_0002076'>Migraine</z:hpo> was improved by the additional use of <z:chebi fb="8" ids="10033">warfarin</z:chebi>, and the platelet count was normalized </plain></SENT>
+<SENT sid="10" pm="."><plain>These findings suggest that in this case, <z:hpo ids='HP_0011009'>acute</z:hpo> nephrotic symptom developed due to hemangioendothelial injury caused by anti-<z:chebi fb="0" ids="16247">phospholipid</z:chebi> antibody </plain></SENT>
+</text></document>

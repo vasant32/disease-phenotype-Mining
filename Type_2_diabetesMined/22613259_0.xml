@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Objectives:  To estimate the incidence of Diabetic <z:hpo ids='HP_0000488'>Retinopathy</z:hpo> (DR) among type 2 diabetic subjects in Bangladesh </plain></SENT>
+<SENT sid="1" pm="."><plain>Methods:  Random samples of 977 patients with <z:mp ids='MP_0002055'>diabetes</z:mp> type 2 were recruited retrospectively in 2008 from the naïve patients with <z:mp ids='MP_0002055'>diabetes</z:mp> type 2 attended BIRDEM in the year 1993 </plain></SENT>
+<SENT sid="2" pm="."><plain>Baseline information of the cohort was collected in 1993 from hospital record system </plain></SENT>
+<SENT sid="3" pm="."><plain>Mean time of developing DR in naive diabetic patient was calculated through survival analysis. </plain></SENT>
+<SENT sid="4" pm="."><plain>Cox proportional hazard model was developed for assessing the confounder for time to event for DR </plain></SENT>
+<SENT sid="5" pm="."><plain>Results:  The cumulative incidence of DR is 50.6 (CI: 47.5-53.8) over the period of 15 year </plain></SENT>
+<SENT sid="6" pm="."><plain>Incidence density was 4.1 per 100 person-year (CI: 3.7- 4.5) </plain></SENT>
+<SENT sid="7" pm="."><plain>In male it was 4.2 per 100 person-year (CI: 3.7- 4.7) and in female 4.1 per 100 person-year (CI: 3.6- 4.6) </plain></SENT>
+<SENT sid="8" pm="."><plain>Mean time to develop DR was: 9.72 (CI: 9.38, 10.06) </plain></SENT>
+<SENT sid="9" pm="."><plain>The time was almost similar in male 9.8 (CI: 9.3-10.3) and female 9.6 (CI: 9.5-10.1) </plain></SENT>
+<SENT sid="10" pm="."><plain>Age, sex, <z:hpo ids='HP_0000822'>Hypertension</z:hpo>, <z:chebi fb="23" ids="18059">lipid</z:chebi> profile, HbA1c and serum <z:chebi fb="0" ids="16737">creatinine</z:chebi> were entered into the model simultaneously </plain></SENT>
+<SENT sid="11" pm="."><plain>Only age (HR 0.75 CI 0.61, 0.92) and HbA1c (HR 0.52, CI 0.33, 0.82) appeared to have significant effect on time to event for developing DR </plain></SENT>
+<SENT sid="12" pm="."><plain>Conclusions:  <z:chebi fb="105" ids="17234">Glucose</z:chebi> deregulation is the most important factor for the development of DR </plain></SENT>
+</text></document>

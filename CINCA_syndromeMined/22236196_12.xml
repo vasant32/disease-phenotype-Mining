@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Mendelian analysis of disorders of immune regulation can provide insight into molecular pathways associated with host defense and immune tolerance </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: We identified three families with a dominantly inherited complex of cold-induced <z:hpo ids='HP_0001025'>urticaria</z:hpo>, antibody deficiency, and <z:hpo ids='HP_0002719'>susceptibility to infection</z:hpo> and <z:hpo ids='HP_0002960'>autoimmunity</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>Immunophenotyping methods included flow cytometry, analysis of serum immunoglobulins and autoantibodies, lymphocyte stimulation, and enzymatic assays </plain></SENT>
+<SENT sid="3" pm="."><plain>Genetic studies included linkage analysis, targeted Sanger sequencing, and next-generation whole-genome sequencing </plain></SENT>
+<SENT sid="4" pm="."><plain>RESULTS: Cold <z:hpo ids='HP_0001025'>urticaria</z:hpo> occurred in <z:hpo ids='HP_0000001'>all</z:hpo> affected subjects </plain></SENT>
+<SENT sid="5" pm="."><plain>Other, variable manifestations included atopy, granulomatous <z:e sem="disease" ids="C0015230" disease_type="Disease or Syndrome" abbrv="">rash</z:e>, autoimmune <z:hpo ids='HP_0100646'>thyroiditis</z:hpo>, the presence of <z:hpo ids='HP_0003493'>antinuclear antibodies</z:hpo>, sinopulmonary <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infections</z:e>, and common variable <z:hpo ids='HP_0002721'>immunodeficiency</z:hpo> </plain></SENT>
+<SENT sid="6" pm="."><plain>Levels of serum IgM and IgA and circulating natural killer cells and class-switched memory B cells were reduced </plain></SENT>
+<SENT sid="7" pm="."><plain>Linkage analysis showed a 7-Mb candidate interval on chromosome 16q in one family, overlapping by 3.5 Mb a disease-associated haplotype in a smaller family </plain></SENT>
+<SENT sid="8" pm="."><plain>This interval includes PLCG2, encoding phospholipase Cγ(2) (PLCγ(2)), a signaling molecule expressed in B cells, natural killer cells, and mast cells </plain></SENT>
+<SENT sid="9" pm="."><plain>Sequencing of complementary DNA revealed heterozygous transcripts lacking exon 19 in two families and lacking exons 20 through 22 in a third family </plain></SENT>
+<SENT sid="10" pm="."><plain>Genomic sequencing identified three distinct in-frame deletions that cosegregated with disease </plain></SENT>
+<SENT sid="11" pm="."><plain>These deletions, located within a region encoding an autoinhibitory domain, result in protein products with constitutive phospholipase activity </plain></SENT>
+<SENT sid="12" pm="."><plain>PLCG2-expressing cells had diminished cellular signaling at 37°C but enhanced signaling at subphysiologic temperatures </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSIONS: Genomic deletions in PLCG2 cause gain of PLCγ(2) function, leading to signaling abnormalities in multiple leukocyte subsets and a phenotype encompassing both excessive and deficient immune function </plain></SENT>
+<SENT sid="14" pm="."><plain>(Funded by the National Institutes of Health Intramural Research Programs and others.) </plain></SENT>
+</text></document>

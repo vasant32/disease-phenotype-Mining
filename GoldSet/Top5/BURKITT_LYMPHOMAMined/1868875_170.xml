@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>B cells undergo selection within germinal centers on the basis of their capacity to be activated by antigen held on follicular dendritic cells </plain></SENT>
+<SENT sid="1" pm="."><plain>Isolated germinal center B cells in culture kill themselves by <z:mpath ids='MPATH_3'>apoptosis</z:mpath> but this is prevented if their receptors for antigen are cross-linked </plain></SENT>
+<SENT sid="2" pm="."><plain>In this study it is confirmed that almost <z:hpo ids='HP_0000001'>all</z:hpo> germinal center B cells, unlike other B cells, do not express the 25-kDa protein encoded by the bcl-2 oncogene </plain></SENT>
+<SENT sid="3" pm="."><plain>Cross-linking the surface Ig of isolated germinal center cells causes them to express bcl-2 protein </plain></SENT>
+<SENT sid="4" pm="."><plain>Two other stimuli which inhibit the entry of germinal center cells to <z:mpath ids='MPATH_3'>apoptosis</z:mpath> result in the expression of bcl-2 protein </plain></SENT>
+<SENT sid="5" pm="."><plain>These stimuli are: (a) CD40 antibody and (b) recombinant 25-kDa fragment of the CD23 protein plus recombinant interleukin 1 alpha </plain></SENT>
+<SENT sid="6" pm="."><plain>Respectively, these induce germinal center cells to differentiate to resting B cells or plasmablasts </plain></SENT>
+<SENT sid="7" pm="."><plain>Dual-fluorescence studies on small lymphocytes confirm the presence of bcl-2 protein in mitochondria but show that this is also present in other extra-nuclear areas </plain></SENT>
+<SENT sid="8" pm="."><plain>Burkitt <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cells have a phenotype which indicates that they are neoplastic cells of germinal center origin </plain></SENT>
+<SENT sid="9" pm="."><plain>The expression of bcl-2 protein by Burkitt <z:hpo ids='HP_0002665'>lymphoma</z:hpo> lines was also studied </plain></SENT>
+<SENT sid="10" pm="."><plain>Burkitt lines which retain the phenotype of fresh Burkitt <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cells can be induced to enter <z:mpath ids='MPATH_3'>apoptosis</z:mpath> on culture with the <z:chebi fb="0" ids="29108">Ca2+</z:chebi> <z:chebi fb="0" ids="24869">ionophore</z:chebi> ionomycin </plain></SENT>
+<SENT sid="11" pm="."><plain>These cells were found not to express bcl-2 protein </plain></SENT>
+<SENT sid="12" pm="."><plain>By contrast, Burkitt lines which have drifted towards a lymphoblastoid cell line phenotype and are resistant to the induction of <z:mpath ids='MPATH_3'>apoptosis</z:mpath> express high levels of the bcl-2 protein </plain></SENT>
+<SENT sid="13" pm="."><plain>The findings support the concept that the susceptibility of germinal center cells to entering <z:mpath ids='MPATH_3'>apoptosis</z:mpath> is associated with their lack of expression of bcl-2 protein </plain></SENT>
+<SENT sid="14" pm="."><plain>Aberrant expression of bcl-2 protein by some neoplastic germinal center cells may allow survival in situations where their <z:mpath ids='MPATH_458'>normal</z:mpath> counterparts die </plain></SENT>
+</text></document>

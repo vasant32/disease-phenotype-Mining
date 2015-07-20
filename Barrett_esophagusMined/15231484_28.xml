@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Cyclooxygenase-2 (COX-2) has been linked to <z:e sem="disease" ids="C0178874" disease_type="Neoplastic Process" abbrv="">neoplastic progression</z:e> in <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Acid exposure has been shown both to activate the MAPK pathways and to increase COX-2 protein expression in Barrett's <z:mpath ids='MPATH_160'>metaplasia</z:mpath>, but it is not known whether these effects are interrelated </plain></SENT>
+<SENT sid="2" pm="."><plain>We hypothesized that acid-induced activation of the MAPK pathways mediates an increase in COX-2 expression in <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo>, and we tested this hypothesis in a Barrett's-associated <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> cell line (SEG-1) </plain></SENT>
+<SENT sid="3" pm="."><plain>We exposed SEG-1 cells to acidic or neutral media in the presence and absence of two MAPK inhibitors: U-0126 (an ERK inhibitor) or SB-203580 (a p38 inhibitor) </plain></SENT>
+<SENT sid="4" pm="."><plain>We quantitated COX-2 protein levels using an enzyme immunometric assay and COX-2 mRNA levels using real-time PCR </plain></SENT>
+<SENT sid="5" pm="."><plain>We also determined how acid affects the activity of the COX-2 promoter and <z:chebi fb="2" ids="33699">mRNA</z:chebi> stability </plain></SENT>
+<SENT sid="6" pm="."><plain>Compared with SEG-1 cells exposed to neutral media, acid-exposed cells exhibited a 2.8-fold increase in COX-2 mRNA levels within 30 min </plain></SENT>
+<SENT sid="7" pm="."><plain>Both U-0126 and SB-203580 attenuated the acid-induced increase in COX-2 mRNA </plain></SENT>
+<SENT sid="8" pm="."><plain>Acid significantly increased COX-2 protein expression and promoter activity, and both of these effects were abolished by treatment with U-0126 and SB-203580 </plain></SENT>
+<SENT sid="9" pm="."><plain>Acid exposure also stabilized COX-2 mRNA levels, an effect that was abolished by U-0126 but not by SB-203580 </plain></SENT>
+<SENT sid="10" pm="."><plain>We conclude that acid increases COX-2 expression through activation of the MAPK pathways </plain></SENT>
+<SENT sid="11" pm="."><plain>Acid-induced activation of both ERK and p38 causes a significant increase in COX-2 promoter activity, and acid-activated ERK stabilizes COX-2 mRNA </plain></SENT>
+<SENT sid="12" pm="."><plain>These findings suggest potential mechanisms whereby <z:e sem="disease" ids="C0017168" disease_type="Disease or Syndrome" abbrv="GERD">acid reflux</z:e> might promote <z:e sem="disease" ids="C0596263" disease_type="Neoplastic Process" abbrv="">carcinogenesis</z:e> in <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> </plain></SENT>
+</text></document>

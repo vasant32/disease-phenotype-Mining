@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: To test if knowledge of type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> genetic variants improves disease prediction </plain></SENT>
+<SENT sid="1" pm="."><plain>RESEARCH DESIGN AND METHODS: We tested 40 single nucleotide polymorphisms (SNPs) associated with <z:mp ids='MP_0002055'>diabetes</z:mp> in 3,471 Framingham Offspring Study subjects followed over 34 years using pooled logistic regression models stratified by age (&lt;50 years, <z:mp ids='MP_0002055'>diabetes</z:mp> cases = 144; or ≥50 years, <z:mp ids='MP_0002055'>diabetes</z:mp> cases = 302) </plain></SENT>
+<SENT sid="2" pm="."><plain>Models included clinical risk factors and a 40-SNP weighted genetic risk score </plain></SENT>
+<SENT sid="3" pm="."><plain>RESULTS: In people &lt;50 years of age, the clinical risk factors model C-statistic was 0.908; the 40-SNP score increased it to 0.911 (P = 0.3; net reclassification improvement (NRI): 10.2%, P = 0.001) </plain></SENT>
+<SENT sid="4" pm="."><plain>In people ≥50 years of age, the C-statistics without and with the score were 0.883 and 0.884 (P = 0.2; NRI: 0.4%) </plain></SENT>
+<SENT sid="5" pm="."><plain>The risk per risk allele was higher in people &lt;50 than ≥50 years of age (24 vs. 11%; P value for age interaction = 0.02) </plain></SENT>
+<SENT sid="6" pm="."><plain>CONCLUSIONS: Knowledge of common genetic variation appropriately reclassifies younger people for type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> risk beyond clinical risk factors but not older people </plain></SENT>
+</text></document>

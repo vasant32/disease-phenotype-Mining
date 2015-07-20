@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>An 83-year-old male was admitted with <z:e sem="disease" ids="C0041327" disease_type="Disease or Syndrome" abbrv="">pulmonary tuberculosis</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>He was started on <z:chebi fb="0" ids="28077">rifampicin</z:chebi>, <z:chebi fb="1" ids="6030">isoniazid</z:chebi>, and <z:chebi fb="7" ids="17076">streptomycin</z:chebi> (SM) </plain></SENT>
+<SENT sid="2" pm="."><plain>The hematological data at 12 weeks after the treatment showed <z:hpo ids='HP_0001876'>pancytopenia</z:hpo> (RBC: 2.14 x 10(6)/microliters, Hb: 7.2g/dl, Plt: 1.8 x 10(4)/microliters, WBC: 700/microliters) </plain></SENT>
+<SENT sid="3" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> the above medicines were discontinued and he received bolus <z:chebi fb="0" ids="6888">methylprednisolone</z:chebi> (bmPSL) and recombinant human granulocyte-colony stimulating factor (rhG-CSF) </plain></SENT>
+<SENT sid="4" pm="."><plain>After 3 cycles of bmPSL, red blood cells and platelets gradually increased </plain></SENT>
+<SENT sid="5" pm="."><plain>White blood cells also increased in response to rhG-CSF </plain></SENT>
+<SENT sid="6" pm="."><plain>Bone marrow aspirate and biopsy specimens showed normocellularity, indicating recovery from <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> </plain></SENT>
+<SENT sid="7" pm="."><plain>Drug lymphocyte stimulation test was positive for SM </plain></SENT>
+</text></document>

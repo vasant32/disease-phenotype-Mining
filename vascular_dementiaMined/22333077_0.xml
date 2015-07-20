@@ -1,0 +1,18 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: To study the mortality and risk of <z:hpo ids='HP_0011420'>death</z:hpo> on <z:hpo ids='HP_0000726'>dementia</z:hpo> among ageing population </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: A random sample including 2788 elderly residents was studied </plain></SENT>
+<SENT sid="2" pm="."><plain><z:hpo ids='HP_0000726'>Dementia</z:hpo> was diagnosed under the two-phase procedure in 1997 </plain></SENT>
+<SENT sid="3" pm="."><plain>In phase 1, questionnaire was administered, including the Mini-Mental State Examination (MMSE) tested </plain></SENT>
+<SENT sid="4" pm="."><plain>In phase 2, <z:hpo ids='HP_0000001'>all</z:hpo> the elderly who showed low MMSE score and some with <z:mpath ids='MPATH_458'>normal</z:mpath> MMSE score, were examined by neurologists </plain></SENT>
+<SENT sid="5" pm="."><plain>The clinical diagnosis of <z:hpo ids='HP_0000726'>dementia</z:hpo> was set up by two neurologists according to the criteria of <z:chebi fb="4" ids="38624">DSM</z:chebi>-III-R and NINCDS-ADRDA </plain></SENT>
+<SENT sid="6" pm="."><plain>The same sample was followed up in 2000 and 2004 the same way and data on <z:hpo ids='HP_0011420'>deaths</z:hpo> and causes was gathered </plain></SENT>
+<SENT sid="7" pm="."><plain>The overall time for follow-up was 7.25 years </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: 171 cases with <z:hpo ids='HP_0000726'>dementia</z:hpo> were diagnosed from 2788 subjects in 1997, with a crude <z:hpo ids='HP_0011420'>death</z:hpo> rate (CDR) of <z:hpo ids='HP_0000726'>dementia</z:hpo> was 7.8 per 1000 person-years and age-standardized CDR as 5.5 per 1000 person-years </plain></SENT>
+<SENT sid="9" pm="."><plain>The <z:hpo ids='HP_0011420'>death</z:hpo> rate was increased exponentially with age </plain></SENT>
+<SENT sid="10" pm="."><plain>In the <z:hpo ids='HP_0000726'>dementia</z:hpo> group, the total number of <z:hpo ids='HP_0011420'>deaths</z:hpo> was 133, with the CDR as 236 per 1000 person-years and the age-standardized CDR as 206 per 1000 person-years, in the end of the survey </plain></SENT>
+<SENT sid="11" pm="."><plain>In the non-<z:hpo ids='HP_0000726'>dementia</z:hpo> group, the total number of <z:hpo ids='HP_0011420'>deaths</z:hpo> was 680, with CDR as 40 per 1000 person-years and the age-standardized CDR as 31 per 1000 person-years </plain></SENT>
+<SENT sid="12" pm="."><plain>The difference in the two groups was statistically significant </plain></SENT>
+<SENT sid="13" pm="."><plain>The hazard ratio (HR) of <z:hpo ids='HP_0000726'>dementia</z:hpo> <z:hpo ids='HP_0011420'>death</z:hpo> appeared to be the biggest in the 60 - 74 - year group than the other groups </plain></SENT>
+<SENT sid="14" pm="."><plain>Data was analyzed with the Cox proportional hazards model after making necessary adjustment on potential covariates with the HR of <z:hpo ids='HP_0000726'>dementia</z:hpo> as 2.181 (95%CI: 1.751 - 2.717) </plain></SENT>
+<SENT sid="15" pm="."><plain>The HRs were 2.524 (95%CI: 1.964 - 3.243) in <z:e sem="disease" ids="C0002395" disease_type="Disease or Syndrome" abbrv="SDAT">Alzheimer's disease</z:e> and 1.859 (95%CI: 1.213 - 2.850) in vascular <z:hpo ids='HP_0000726'>dementia</z:hpo> </plain></SENT>
+<SENT sid="16" pm="."><plain>CONCLUSION: The CDR and HR of <z:hpo ids='HP_0000726'>dementia</z:hpo> were higher than the non-<z:hpo ids='HP_0000726'>dementia</z:hpo> group in the aging population, showing that <z:hpo ids='HP_0000726'>dementia</z:hpo> was one of the most important risk factors on <z:hpo ids='HP_0011420'>death</z:hpo> in the aging population </plain></SENT>
+</text></document>

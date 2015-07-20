@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>For patients with impaired breath-hold capacity and/or <z:hpo ids='HP_0011675'>arrhythmias</z:hpo>, real-time cine MRI may be more clinically useful than breath-hold cine MRI </plain></SENT>
+<SENT sid="1" pm="."><plain>However, commercially available real-time cine MRI methods using parallel imaging typically yield relatively poor spatio-temporal resolution due to their low image acquisition speed </plain></SENT>
+<SENT sid="2" pm="."><plain>We sought to achieve relatively high spatial resolution (∼2.5 × 2.5 mm(2) ) and temporal resolution (∼40 ms), to produce high-quality real-time cine <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e> images that could be applied clinically for wall motion assessment and measurement of left ventricular function </plain></SENT>
+<SENT sid="3" pm="."><plain>In this work, we present an eightfold accelerated real-time cardiac cine MRI pulse sequence using a combination of compressed sensing and parallel imaging (k-t SPARSE-SENSE) </plain></SENT>
+<SENT sid="4" pm="."><plain>Compared with reference, breath-hold cine MRI, our eightfold accelerated real-time cine MRI produced significantly worse qualitative grades (1-5 scale), but its image quality and temporal fidelity scores were above 3.0 (adequate) and artifacts and noise scores were below 3.0 (moderate), suggesting that acceptable diagnostic image quality can be achieved </plain></SENT>
+<SENT sid="5" pm="."><plain>Additionally, both eightfold accelerated real-time cine and breath-hold cine MRI yielded comparable left ventricular function measurements, with coefficient of variation &lt;10% for left ventricular volumes </plain></SENT>
+<SENT sid="6" pm="."><plain>Our proposed eightfold accelerated real-time cine MRI with k-t SPARSE-SENSE is a promising modality for rapid imaging of myocardial function </plain></SENT>
+<SENT sid="7" pm="."><plain>J </plain></SENT>
+<SENT sid="8" pm="."><plain>Magn </plain></SENT>
+<SENT sid="9" pm="."><plain>Reson </plain></SENT>
+<SENT sid="10" pm="."><plain>Imaging 2012;. © 2012 Wiley Periodicals, Inc </plain></SENT>
+</text></document>

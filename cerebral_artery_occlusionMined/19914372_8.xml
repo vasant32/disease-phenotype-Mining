@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The immune response to <z:hpo ids='HP_0001297'>stroke</z:hpo> is comprised of inflammatory and regulatory processes </plain></SENT>
+<SENT sid="1" pm="."><plain>One cell type involved in both innate and adaptive immunity is the dendritic cell (DC) </plain></SENT>
+<SENT sid="2" pm="."><plain>A DC population residing in the healthy brain (bDC) was identified using a transgenic mouse expressing enhanced yellow fluorescent protein (EYFP) under the promoter for the DC marker, CD11c (CD11c/EYFP Tg) </plain></SENT>
+<SENT sid="3" pm="."><plain>To determine if bDC are involved in the immune response to <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo>, transient (40 min) middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (MCAO) followed by 6, 24, or 72 h reperfusion was conducted in CD11c/EYFP Tg mice </plain></SENT>
+<SENT sid="4" pm="."><plain>Our results demonstrated that DC accumulated in the ischemic hemisphere at 24 h post-MCAO-reperfusion, particularly in the border region of the <z:mpath ids='MPATH_124'>infarct</z:mpath> where T lymphocytes accrued </plain></SENT>
+<SENT sid="5" pm="."><plain>To distinguish resident bDC from the infiltrating peripheral DC, <z:e sem="disease" ids="C1318486" disease_type="Disease or Syndrome" abbrv="">radiation chimeras</z:e> [1. <z:mp ids='MP_0002169'>wild type</z:mp> (WT) hosts restored with CD11c/EYFP Tg bone marrow (BM) or 2 </plain></SENT>
+<SENT sid="6" pm="."><plain>CD11c/EYFP Tg hosts restored with WT BM] were generated and examined by immunocytochemistry </plain></SENT>
+<SENT sid="7" pm="."><plain>These data confirmed that DC populating the core of the <z:mpath ids='MPATH_124'>infarct</z:mpath> at 72 h were of peripheral origin, whereas those in the border region were comprised primarily of resident bDC </plain></SENT>
+<SENT sid="8" pm="."><plain>The brain resident (CD45 intermediate) cells of CD11c/EYFP Tg mice were analyzed by flow cytometry </plain></SENT>
+<SENT sid="9" pm="."><plain>Compared to microglia, bDC displayed increased major histocompatibility class II (MHC II) and co-stimulatory molecules following MCAO-reperfusion </plain></SENT>
+<SENT sid="10" pm="."><plain>High levels of MHC II and the co-stimulatory molecule CD80 on bDC at 72 h corresponded to peak lymphocyte infiltration, and suggested a functional interaction between these two immune cell populations </plain></SENT>
+</text></document>

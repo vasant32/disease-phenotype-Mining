@@ -1,0 +1,6 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">Ischemia</z:e> has been proposed as a cause of <z:hpo ids='HP_0010534'>transient global amnesia</z:hpo> (<z:mp ids='MP_0004110'>TGA</z:mp>), but proof has been lacking </plain></SENT>
+<SENT sid="1" pm="."><plain>The authors performed magnetic resonance imaging on a 77-year-old woman with classic <z:mp ids='MP_0004110'>TGA</z:mp> at 4 hours and at 6 days after the <z:hpo ids='HP_0003674'>onset</z:hpo> of symptoms </plain></SENT>
+<SENT sid="2" pm="."><plain>Her initial diffusion-weighted imaging (DWI) and apparent diffusion coefficient imaging suggested an <z:hpo ids='HP_0011009'>acute</z:hpo> <z:mpath ids='MPATH_124'>infarct</z:mpath> in the left mesial temporal lobe </plain></SENT>
+<SENT sid="3" pm="."><plain>Follow-up T2-weighted imaging at 6 days confirmed the lesion as an ischemic <z:mpath ids='MPATH_124'>infarct</z:mpath>, despite resolution of her symptoms </plain></SENT>
+<SENT sid="4" pm="."><plain>DWI permits early detection of small ischemic lesions and may identify patients with ischemic <z:mp ids='MP_0004110'>TGA</z:mp> who should be evaluated for potential sources of emboli </plain></SENT>
+</text></document>

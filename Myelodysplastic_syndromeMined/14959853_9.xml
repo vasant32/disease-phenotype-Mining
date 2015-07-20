@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0011009'>Acute</z:hpo> <z:e sem="disease" ids="C0018133" disease_type="Disease or Syndrome" abbrv="GVH">graft-versus-host disease</z:e> (aGVHD) is a serious complication of allogeneic peripheral blood stem cell transplantation (PBSCT) </plain></SENT>
+<SENT sid="1" pm="."><plain>Patients with severe aGVHD not responding to treatment with steroids have a poor prognosis </plain></SENT>
+<SENT sid="2" pm="."><plain>We treated three patients with severe aGVHD refractory to steroids with infliximab </plain></SENT>
+<SENT sid="3" pm="."><plain>Patients (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> 1, NHL 1, ALL 1) developed grade II-IV GVHD at a median of 13 days (range 9-17) after non-myeloablative PBSCT (HLA mismatched) </plain></SENT>
+<SENT sid="4" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> patients had received treatment with high-dose steroids for a median of 7 days (range 7-10) in addition to <z:chebi fb="0" ids="168396">mycophenolate</z:chebi> mofetil (MMF) (one) </plain></SENT>
+<SENT sid="5" pm="."><plain>Infliximab was given in 3 weekly doses of 5 mg/kg </plain></SENT>
+<SENT sid="6" pm="."><plain>In one of three patients a partial resolution of <z:hpo ids='HP_0002014'>diarrhea</z:hpo> and minor improvement of skin were observed </plain></SENT>
+<SENT sid="7" pm="."><plain>One patient died with refractory GVHD </plain></SENT>
+<SENT sid="8" pm="."><plain>Infliximab is apparently an effective drug for the treatment of aGVHD, but can be more effective at doses of 5 mg/kg or higher and/or by administering it repeatedly every week </plain></SENT>
+</text></document>

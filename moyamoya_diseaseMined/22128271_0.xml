@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 32-year-old woman, gravida 0, para 0, was admitted to the obstetrics department of our hospital after a cesarean section at 35 weeks of gestation </plain></SENT>
+<SENT sid="1" pm="."><plain>The cesarean section was performed because pregnancy induced <z:hpo ids='HP_0000822'>hypertension</z:hpo> (PIH) had worsened </plain></SENT>
+<SENT sid="2" pm="."><plain>The next day, she suddenly became drowsy and developed right <z:hpo ids='HP_0001269'>hemiparesis</z:hpo> and <z:hpo ids='HP_0009916'>anisocoria</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>Computed tomography of the brain showed <z:hpo ids='HP_0001342'>intracerebral hemorrhage</z:hpo> in the parietal lobe with <z:e sem="disease" ids="C0393985" disease_type="Disease or Syndrome" abbrv="">uncal herniation</z:e> </plain></SENT>
+<SENT sid="4" pm="."><plain>She underwent an urgent craniotomy and removal of the <z:mp ids='MP_0008817'>hematoma</z:mp> </plain></SENT>
+<SENT sid="5" pm="."><plain>Five days later, magnetic resonance angiography (MRA) of the brain showed vasospasm of the bilateral intracranial internal carotid arteries, middle cerebral arteries, and anterior cerebral arteries </plain></SENT>
+<SENT sid="6" pm="."><plain>Thirteen days later, cerebral angiography showed cessation of vasospasm and <z:hpo ids='HP_0002597'>vascular abnormalities</z:hpo> such as <z:e sem="disease" ids="C0026654" disease_type="Disease or Syndrome" abbrv="MYMY|MYMY1">moyamoya disease</z:e>, <z:hpo ids='HP_0100026'>arteriovenous malformation</z:hpo> and <z:hpo ids='HP_0004944'>cerebral aneurysm</z:hpo> were not observed </plain></SENT>
+<SENT sid="7" pm="."><plain>Twenty-one days later, MRA showed the absence of vasospasm in those arteries, but her right <z:hpo ids='HP_0001269'>hemiparesis</z:hpo> and sensory <z:hpo ids='HP_0002381'>aphasia</z:hpo> persisted </plain></SENT>
+<SENT sid="8" pm="."><plain>Twenty-six days later, she was transferred to another hospital for further rehabilitation </plain></SENT>
+<SENT sid="9" pm="."><plain>Neurosurgeons should be aware of the possibility of <z:hpo ids='HP_0001342'>intracerebral hemorrhage</z:hpo> caused by PIH </plain></SENT>
+<SENT sid="10" pm="."><plain>In this manuscript, we provide a case presentation and review of the literature </plain></SENT>
+</text></document>

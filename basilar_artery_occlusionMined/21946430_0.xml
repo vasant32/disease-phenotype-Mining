@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 66-year old hypertensive man having a <z:hpo ids='HP_0012125'>prostate cancer</z:hpo> was admitted to our hospital with sudden <z:hpo ids='HP_0003674'>onset</z:hpo> right <z:hpo ids='HP_0001269'>hemiparesis</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>On admission, he showed left <z:hpo ids='HP_0002301'>hemiplegia</z:hpo>, hypesthesia, right <z:hpo ids='HP_0002070'>limb ataxia</z:hpo>, and <z:hpo ids='HP_0001260'>dysarthria</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>The NIHSS score was 16 </plain></SENT>
+<SENT sid="3" pm="."><plain>Diffusion weighted magnetic resonance imaging showed an <z:hpo ids='HP_0011009'>acute</z:hpo> <z:mpath ids='MPATH_124'>infarct</z:mpath> in the middle pons and magnetic resonance angiography (MRA) revealed basilar artery (BA) occlusion </plain></SENT>
+<SENT sid="4" pm="."><plain>Carotid Doppler ultrasonography showed distal occlusion pattern of the bilateral vertebral artery </plain></SENT>
+<SENT sid="5" pm="."><plain>He was treated with intravenous rt-PA at 116 minutes after symptom <z:hpo ids='HP_0003674'>onset</z:hpo> </plain></SENT>
+<SENT sid="6" pm="."><plain>One hour later, his symptom was not improved and BA was still occluded on follow-up MRA </plain></SENT>
+<SENT sid="7" pm="."><plain>Therefore, we performed mechanical thrombectomy with Merci(®) Retrieval System </plain></SENT>
+<SENT sid="8" pm="."><plain>At 323 minutes after <z:hpo ids='HP_0003674'>onset</z:hpo>, BA was successfully recanalized and NIHSS score decreased to 4 without hemorrhagic complication </plain></SENT>
+<SENT sid="9" pm="."><plain>Medication of oral <z:chebi fb="8" ids="10033">warfarin</z:chebi> was started on day 19 because <z:hpo ids='HP_0004757'>paroxysmal atrial fibrillation</z:hpo> was detected by electrocardiogram </plain></SENT>
+<SENT sid="10" pm="."><plain>The retrieved <z:e sem="disease" ids="C0302148,C0087086" disease_type="Disease or Syndrome;Acquired Abnormality" abbrv="">thrombus</z:e> was pathologically diagnosed as a organizing mixed <z:e sem="disease" ids="C0302148,C0087086" disease_type="Disease or Syndrome;Acquired Abnormality" abbrv="">thrombus</z:e> probable cardiac origin </plain></SENT>
+<SENT sid="11" pm="."><plain>On day 27, he was discharged home without any neurological deficit </plain></SENT>
+<SENT sid="12" pm="."><plain>Additional thrombectomy with Merci(®) Retrieval System is a promising treatment strategy for BA occlusion which is resistant to intravenous rt-PA thrombolysis </plain></SENT>
+</text></document>

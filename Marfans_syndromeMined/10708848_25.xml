@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Epidermal growth factor (EGF)-like modules are involved in protein-protein interactions and are found in numerous extracellular proteins and membrane proteins </plain></SENT>
+<SENT sid="1" pm="."><plain>Among these proteins are enzymes involved in blood coagulation, fibrinolysis and the complement system as well as matrix proteins and cell surface receptors such as the EGF precursor, the <z:chebi fb="2" ids="39026">low density lipoprotein</z:chebi> receptor and the developmentally important receptor, Notch </plain></SENT>
+<SENT sid="2" pm="."><plain>The coagulation enzymes, factors VII, IX and X and protein C, <z:hpo ids='HP_0000001'>all</z:hpo> have two EGF-like modules, whereas the cofactor of activated protein C, protein S, has four EGF-like modules in tandem </plain></SENT>
+<SENT sid="3" pm="."><plain>Certain of the cell surface receptors have numerous EGF modules in tandem </plain></SENT>
+<SENT sid="4" pm="."><plain>A subset of EGF modules bind one Ca(2+) </plain></SENT>
+<SENT sid="5" pm="."><plain>The Ca(2+)-binding sequence motif is coupled to a sequence motif that brings about beta-hydroxylation of a particular Asp/Asn residue </plain></SENT>
+<SENT sid="6" pm="."><plain>Ca(2+)-binding to an EGF module is important to orient neighboring modules relative to each other in a manner that is required for biological activity </plain></SENT>
+<SENT sid="7" pm="."><plain>The Ca(2+) affinity of an EGF module is often influenced by its N-terminal neighbor, be it another EGF module or a module of another type </plain></SENT>
+<SENT sid="8" pm="."><plain>This can result in an increase in Ca(2+) affinity of several orders of magnitude </plain></SENT>
+<SENT sid="9" pm="."><plain>Point mutations in EGF modules that involve amino acids which are Ca(2+) ligands result in the biosynthesis of biologically inactive proteins </plain></SENT>
+<SENT sid="10" pm="."><plain>Such mutations have been identified, for instance, in factor IX, causing <z:e sem="disease" ids="C0684275,C0019069" disease_type="Disease or Syndrome" abbrv="">hemophilia</z:e> B, in fibrillin, causing <z:e sem="disease" ids="C0024796" disease_type="Disease or Syndrome" abbrv="MFS|MFS1">Marfan syndrome</z:e>, and in the <z:chebi fb="2" ids="39026">low density lipoprotein</z:chebi> receptor, causing <z:hpo ids='HP_0003124'>hypercholesterolemia</z:hpo> </plain></SENT>
+<SENT sid="11" pm="."><plain>In this review the emphasis will be on the coagulation factors </plain></SENT>
+</text></document>

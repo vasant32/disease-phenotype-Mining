@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Follicular <z:hpo ids='HP_0002665'>lymphomas</z:hpo> (FLs) can be difficult to diagnose on aspirated specimens since the architectural pattern is not present </plain></SENT>
+<SENT sid="1" pm="."><plain>FLs characteristically have rearrangements in the IgH and BCL2 genes resulting from the reciprocal t(14;18) (q32; q21) translocation </plain></SENT>
+<SENT sid="2" pm="."><plain>Because of the dispersed distribution of breakpoints, fluorescence in situ hybridization (FISH) using genomic probes that span or flank the breakpoints is ideal for detecting this rearrangement in fine-needle <z:hpo ids='HP_0002835'>aspiration</z:hpo> (FNA) biopsies </plain></SENT>
+<SENT sid="3" pm="."><plain>To develop a set of probes, a <z:mp ids='MP_0001794'>bacterial</z:mp> artificial chromosome library was screened and the clones were mapped by fiber FISH </plain></SENT>
+<SENT sid="4" pm="."><plain>The probes were produced by the direct incorporation of <z:chebi fb="1" ids="51217">fluorochrome</z:chebi>-labeled <z:chebi fb="9" ids="36976">nucleotides</z:chebi> </plain></SENT>
+<SENT sid="5" pm="."><plain>The colocalization base FISH assay was applied to Cytospin preparations from FNA biopsies of lymph nodes from 26 patients with FL and 10 patients without FL </plain></SENT>
+<SENT sid="6" pm="."><plain>In those with FL, the percentage of cells with at least one IgH/BCL2 fusion signal ranged from 22% to 100% (mean, 63%), which was statistically significantly higher than that in FL-negative samples (mean, 2.7%) </plain></SENT>
+<SENT sid="7" pm="."><plain>The probes demonstrated a significantly lower cutoff value (7%) in <z:mpath ids='MPATH_458'>normal</z:mpath> controls and effectively reduced the false-positive rate in FL-negative cases </plain></SENT>
+<SENT sid="8" pm="."><plain>These results were confirmed with fiber FISH assays on the same specimens </plain></SENT>
+<SENT sid="9" pm="."><plain>This interphase FISH assay is rapid and reliable for detecting rearrangements in the IGH/BCL2 gene, thereby aiding in the diagnosis of FL on FNA biopsy specimens </plain></SENT>
+</text></document>

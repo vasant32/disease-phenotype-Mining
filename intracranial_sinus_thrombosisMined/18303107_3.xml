@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: We propose a set of criteria for diagnosis of intracranial infectious <z:hpo ids='HP_0002617'>aneurysm</z:hpo> (IA) </plain></SENT>
+<SENT sid="1" pm="."><plain>The proposed diagnostic criteria contain a mandatory criterion (demonstration of <z:hpo ids='HP_0004944'>intracranial aneurysm</z:hpo> by neuroimaging) and 12 supportive criteria drawn from three domains </plain></SENT>
+<SENT sid="2" pm="."><plain>Domain A encompasses <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infection</z:e>, such as infective <z:hpo ids='HP_0100584'>endocarditis</z:hpo>, <z:hpo ids='HP_0001287'>meningitis</z:hpo>, cavernous sinus <z:hpo ids='HP_0004418'>thrombophlebitis</z:hpo> or orbital <z:hpo ids='HP_0100658'>cellulitis</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>Domain B encompasses angiographic features of the <z:hpo ids='HP_0002617'>aneurysm</z:hpo>, such as multiplicity, distal location, fusiform shape, change in size or appearance of new <z:hpo ids='HP_0002617'>aneurysm</z:hpo> at follow-up angiogram </plain></SENT>
+<SENT sid="4" pm="."><plain>Domain C encompasses other features, such as age &lt;45 years, recent history of <z:hpo ids='HP_0001945'>fever</z:hpo>, lumbar puncture or cerebral haemorrhage </plain></SENT>
+<SENT sid="5" pm="."><plain>Each criterion is given 1 point and the sum under each domain (A(sum), B(sum) and C(sum)) and total score are calculated </plain></SENT>
+<SENT sid="6" pm="."><plain>METHODS: We evaluated these criteria in 25 patients with confirmed IA and in another 111 consecutive patients with non-infectious <z:hpo ids='HP_0002617'>aneurysm</z:hpo> </plain></SENT>
+<SENT sid="7" pm="."><plain>The sensitivity, specificity and receiver operator characteristic (ROC) curves were calculated for these cohorts </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: The highest ROC was for total score (0.997) </plain></SENT>
+<SENT sid="9" pm="."><plain>A total score of 3 had high sensitivity (96%) and specificity (100%), as well as a positive predictive value of 100% and negative predictive value of 99.4% </plain></SENT>
+<SENT sid="10" pm="."><plain>A total score of 2 had high sensitivity (100%) but low specificity (87.4%) </plain></SENT>
+<SENT sid="11" pm="."><plain>Other combinations had lower ROC areas, sensitivities and specificities </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSION: Diagnosis of IA would be clinically compelling if three or more of the proposed supportive criteria are satisfied, or clinically probable if two proposed supportive criteria are satisfied apart from the mandatory criteria </plain></SENT>
+</text></document>

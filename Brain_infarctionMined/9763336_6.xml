@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>MRI perfusion studies have focussed mainly on <z:hpo ids='HP_0011009'>acute</z:hpo> <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischaemia</z:e> and characterisation in <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischaemia</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>Our purpose was to analyse regional brain haemodynamic information in <z:hpo ids='HP_0011009'>acute</z:hpo>, <z:hpo ids='HP_0011011'>subacute</z:hpo>, and <z:hpo ids='HP_0011010'>chronic</z:hpo> <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischaemia</z:e> </plain></SENT>
+<SENT sid="2" pm="."><plain>We performed 16 examinations of 11 patients on a 1.5 T <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e> images </plain></SENT>
+<SENT sid="3" pm="."><plain>Conventional and dynamic contrast-enhanced imaging were employed in <z:hpo ids='HP_0000001'>all</z:hpo> examinations </plain></SENT>
+<SENT sid="4" pm="."><plain>For the dynamic susceptibility sequences, a bolus (0.2 mmol/kg) of <z:chebi fb="0" ids="31797">gadopentetate dimeglumine</z:chebi> was injected </plain></SENT>
+<SENT sid="5" pm="."><plain>Reconstructed regional relative cerebral blood volume (rCBV) maps, bolus maps, and conventional images were analysed by consensus reading </plain></SENT>
+<SENT sid="6" pm="."><plain>In <z:hpo ids='HP_0000001'>all</z:hpo> examinations decreases in rCBV were observed in the lesions </plain></SENT>
+<SENT sid="7" pm="."><plain>The distribution of regional rCBV in lesions was <z:hpo ids='HP_0001425'>heterogeneous</z:hpo> </plain></SENT>
+<SENT sid="8" pm="."><plain>The rCBV of the periphery of the lesions was higher than that at their center </plain></SENT>
+<SENT sid="9" pm="."><plain>There was a correlation between the time since <z:hpo ids='HP_0003674'>onset</z:hpo> and abnormalities on the rCBV map and T2-weighted images (T2WI) </plain></SENT>
+<SENT sid="10" pm="."><plain>In the early stage of <z:hpo ids='HP_0011009'>acute</z:hpo> <z:hpo ids='HP_0001297'>stroke</z:hpo>, the abnormalities tended to be larger on the rCBV than on T2WI </plain></SENT>
+<SENT sid="11" pm="."><plain>Many patterns of bolus passage were observed in ischaemic regions </plain></SENT>
+<SENT sid="12" pm="."><plain>rCBV maps provide additional haemodynamic information in patients with brain <z:mpath ids='MPATH_124'>infarcts</z:mpath> </plain></SENT>
+</text></document>

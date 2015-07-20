@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Methylated arginines are endogenous analogues of <z:chebi fb="0" ids="16467,29952">L-arginine</z:chebi>, the substrate for nitric <z:chebi fb="177" ids="25741,29356">oxide</z:chebi> (NO) synthase </plain></SENT>
+<SENT sid="1" pm="."><plain>Asymmetric dimethylarginine (ADMA) interferes with NO formation, causing <z:e sem="disease" ids="C0856169" disease_type="Disease or Syndrome" abbrv="">endothelial dysfunction</z:e> </plain></SENT>
+<SENT sid="2" pm="."><plain>ADMA is a predictor of cardiovascular events and mortality in humans </plain></SENT>
+<SENT sid="3" pm="."><plain>It is eliminated primarily by enzymatic activity of dimethylarginine dimethylaminohydrolase (DDAH) </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODOLOGY/PRINCIPAL FINDINGS: We investigated whether human DDAH-1 (hDDAH-1) transgenicity protects from ischemic tissue damage in temporary middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (tMCAO) in mice </plain></SENT>
+<SENT sid="5" pm="."><plain><z:mpath ids='MPATH_124'>Infarct</z:mpath> sizes did not significantly differ between hDDAH-1 transgenic (TG) mice and <z:mp ids='MP_0002169'>wild-type</z:mp> littermates (WT) </plain></SENT>
+<SENT sid="6" pm="."><plain>As expected, ADMA plasma concentrations were significantly decreased, cerebral hDDAH expression and protein significantly increased in transgenic animals </plain></SENT>
+<SENT sid="7" pm="."><plain>Interestingly, neither brain tissue DDAH activity nor ADMA concentrations were different between TG and WT mice </plain></SENT>
+<SENT sid="8" pm="."><plain>In contrast, muscular DDAH activity was generally lower than in brain but significantly increased in TG mice </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSION/SIGNIFICANCE: Our study demonstrates that hDDAH-1 transgenic mice are not protected from ischemic cerebral tissue damage in tMCAO </plain></SENT>
+<SENT sid="10" pm="."><plain>This lack of protection is due to high basal cerebral DDAH activity, which is not further increasable by transgenic overexpression of DDAH </plain></SENT>
+</text></document>

@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Enzastaurin and bevacizumab have demonstrated synergistic antitumor effects and, in phase 1 studies, the combination was well tolerated </plain></SENT>
+<SENT sid="1" pm="."><plain>This phase 2 study assessed enzastaurin with <z:chebi fb="0" ids="46345">5-fluorouracil</z:chebi>/leucovorin plus bevacizumab as maintenance therapy for <z:e sem="disease" ids="C0948380" disease_type="Neoplastic Process" abbrv="">metastatic colorectal cancer</z:e> (MCRC) </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: Patients with locally advanced or MCRC and stable or responding disease after completing 6 cycles of first-line chemotherapy randomly received a loading dose of enzastaurin 1125 mg, followed by 500 mg/d subsequent doses or placebo </plain></SENT>
+<SENT sid="3" pm="."><plain>Both arms received <z:chebi fb="0" ids="46345">5-fluorouracil</z:chebi>/leucovorin (leucovorin 400 mg/m(2) intravenously [IV], <z:chebi fb="0" ids="46345">5-fluorouracil</z:chebi> 400-mg/m(2) bolus, <z:chebi fb="0" ids="46345">5-fluorouracil</z:chebi> 2400 mg/m(2) IV) plus bevacizumab 5 mg/kg IV, every 2 weeks </plain></SENT>
+<SENT sid="4" pm="."><plain>The primary endpoint was progression-free survival (PFS), from randomization </plain></SENT>
+<SENT sid="5" pm="."><plain>Overall survival (OS) and PFS were also assessed from start of first-line therapy </plain></SENT>
+<SENT sid="6" pm="."><plain>Enrollment was stopped, and the final analysis was conducted after 73 PFS events </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: Fifty-eight patients were randomized to enzastaurin and 59 to placebo </plain></SENT>
+<SENT sid="8" pm="."><plain>For the enzastaurin and placebo arms, respectively, the median cycles received were 9 and 10, and the median PFS was 5.8 and 8.1 months (hazard ratio [HR], 1.35; 95% confidence interval [CI], 0.84-2.16; P = .896) </plain></SENT>
+<SENT sid="9" pm="."><plain>Median OS was not calculable because of high censoring (77.6% enzastaurin; 91.5% placebo) </plain></SENT>
+<SENT sid="10" pm="."><plain>The median PFS from start of first-line therapy was 8.9 months for enzastaurin and 11.3 months for placebo (HR, 1.39; 95% CI, 0.86-2.23; P = .913) </plain></SENT>
+<SENT sid="11" pm="."><plain>More enzastaurin patients developed <z:mp ids='MP_0005048'>thrombosis</z:mp> or embolism compared with placebo (15.8% and 1.7%; P = .008) </plain></SENT>
+<SENT sid="12" pm="."><plain>One possibly enzastaurin-related <z:hpo ids='HP_0011420'>death</z:hpo> occurred because of <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSIONS: Enzastaurin combined with bevacizumab-based therapy is tolerable, but does not improve PFS during maintenance therapy in patients with MCRC compared with bevacizumab-based therapy alone </plain></SENT>
+</text></document>

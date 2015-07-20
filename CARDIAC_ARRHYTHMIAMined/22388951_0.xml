@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Delayed-contrast-enhancement (DCE) magnetic resonance imaging (MRI) can identify areas of myocardial damage in patients with <z:hpo ids='HP_0011009'>acute</z:hpo> <z:mp ids='MP_0001856'>myocarditis</z:mp> (AM) </plain></SENT>
+<SENT sid="1" pm="."><plain>The aim of this study was to assess the electrocardiographic findings in AM diagnosed by DCE-MRI </plain></SENT>
+<SENT sid="2" pm="."><plain>Eighty-one patients (72 men, 35 ± 13 years) with AM were prospectively enrolled </plain></SENT>
+<SENT sid="3" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> of them underwent MRI and 12-lead-ECG recordings </plain></SENT>
+<SENT sid="4" pm="."><plain>In the admission electrocardiogram (ECG 1), as well as in that obtained 48 h later (ECG 2), the following parameters were analyzed: rhythm, PR, QRS, and QTc-intervals, intraventricular conduction, <z:mp ids='MP_0010515'>abnormal Q waves</z:mp>, ST segment elevation, and T wave inversion </plain></SENT>
+<SENT sid="5" pm="."><plain>On admission, 77 patients (95%) were in sinus rhythm, while four patients (6%) manifested severe <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> </plain></SENT>
+<SENT sid="6" pm="."><plain>No difference between ECG 1 and ECG 2 was observed regarding <z:mp ids='MP_0010515'>abnormal Q waves</z:mp>, PR, QRS, and QTc-intervals </plain></SENT>
+<SENT sid="7" pm="."><plain>Electrocardiogram 1 was <z:mpath ids='MPATH_458'>normal</z:mpath> in 26 patients (32%, <z:mpath ids='MPATH_458'>normal</z:mpath> ECG group), and abnormal in 55 patients (68%, <z:mp ids='MP_0010508'>abnormal ECG</z:mp> group) </plain></SENT>
+<SENT sid="8" pm="."><plain>ST elevation was found in 46 patients (57%), inverted T wave in seven patients (9%) and <z:hpo ids='HP_0011713'>left bundle branch block</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">LBBB</z:e>) in two patients (3%) </plain></SENT>
+<SENT sid="9" pm="."><plain>Areas of DCE suggesting AM were found in each patient </plain></SENT>
+<SENT sid="10" pm="."><plain>No relationship concerning the location of the involved region (s) was found between ECG (leads with ST/T abnormalities) and MRI (areas showing DCE) </plain></SENT>
+<SENT sid="11" pm="."><plain>The ECG in AM can either be <z:mpath ids='MPATH_458'>normal</z:mpath> or reflect abnormalities including <z:hpo ids='HP_0011675'>arrhythmias</z:hpo>, <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">LBBB</z:e>, ST segment elevation, and T wave inversion </plain></SENT>
+<SENT sid="12" pm="."><plain>The location of myocardial involvement deduced on the basis of ECG leads showing ST/T changes is not in close relationship with the areas of ventricular damage detected by MRI </plain></SENT>
+</text></document>

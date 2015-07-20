@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We studied 2 groups of <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> patients who received therapeutic heparinization during the <z:hpo ids='HP_0011009'>acute</z:hpo> phase in order to prevent thromboembolic reinfarction </plain></SENT>
+<SENT sid="1" pm="."><plain>530 patients were studied retrospectively (Group B) and 127 prospectively (Group A) </plain></SENT>
+<SENT sid="2" pm="."><plain>Doses of 24,000-38,000 IE/24 h of <z:chebi fb="5" ids="28304">heparin</z:chebi> were given i.v., resulting in a partial thromboplastin time 2-3 times that of <z:mpath ids='MPATH_458'>normal</z:mpath> controls </plain></SENT>
+<SENT sid="3" pm="."><plain>Three patients from Group A suffered a massive <z:hpo ids='HP_0002170'>intracranial hemorrhage</z:hpo> </plain></SENT>
+<SENT sid="4" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> of them had a large infarction (greater than 5 cm in diameter) </plain></SENT>
+<SENT sid="5" pm="."><plain>They had been given <z:chebi fb="2" ids="50249">anticoagulants</z:chebi> within the first 12 h </plain></SENT>
+<SENT sid="6" pm="."><plain>Two of them presented with uncontrollable <z:hpo ids='HP_0000822'>hypertension</z:hpo> (systolic BP up to 240 mm Hg) </plain></SENT>
+<SENT sid="7" pm="."><plain>Ischemic reinfarction during the first two weeks occurred in 2.3% and 2.4% of subgroups, respectively </plain></SENT>
+<SENT sid="8" pm="."><plain>This was less than would have been expected from the literature (approx </plain></SENT>
+<SENT sid="9" pm="."><plain>14-15%) </plain></SENT>
+<SENT sid="10" pm="."><plain>Features of these patients were 1.) insufficient <z:chebi fb="5" ids="28304">heparin</z:chebi> dosage, 2.) progression of hemodynamically relevant internal carotid artery lesions leading to critical low-flow or 3.) embolization of a floating <z:e sem="disease" ids="C0302148,C0087086" disease_type="Disease or Syndrome;Acquired Abnormality" abbrv="">thrombus</z:e> from the internal carotid artery in the middle cerebral artery </plain></SENT>
+<SENT sid="11" pm="."><plain>It appears that therapeutic heparinization reduces the rate of reinfarction within the <z:hpo ids='HP_0011009'>acute</z:hpo> phase of <z:hpo ids='HP_0002140'>ischemic strokes</z:hpo> </plain></SENT>
+<SENT sid="12" pm="."><plain>This type of treatment should, however, be confined to patients with an embolic <z:hpo ids='HP_0001297'>stroke</z:hpo> mechanism </plain></SENT>
+<SENT sid="13" pm="."><plain>Careful surveillance of blood pressure and PTT are prerequisites </plain></SENT>
+<SENT sid="14" pm="."><plain>Anticoagulation should be avoided in patients with massive infarctions (greater than 5 cm in diameter) or uncontrollable <z:hpo ids='HP_0000822'>hypertension</z:hpo> </plain></SENT>
+</text></document>

@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Glutamine:<z:chebi fb="0" ids="15946">fructose-6-phosphate</z:chebi> amidotransferase(GFAT) is the rate-limiting enzyme of the <z:chebi fb="0" ids="24586">hexosamine</z:chebi> synthesis pathway </plain></SENT>
+<SENT sid="1" pm="."><plain>Products of this pathway have been implicated in <z:hpo ids='HP_0000855'>insulin resistance</z:hpo> and <z:chebi fb="105" ids="17234">glucose</z:chebi> toxicity </plain></SENT>
+<SENT sid="2" pm="."><plain>GFAT1 is ubiquitous, whereas GFAT2 is expressed mainly in the central <z:mp ids='MP_0008912'>nervous</z:mp> system </plain></SENT>
+<SENT sid="3" pm="."><plain>In the course of developing a competitive reverse transcriptase-polymerase chain reaction assay, we noted that GFAT1 cDNA from muscle but not from other tissues migrated as a doublet </plain></SENT>
+<SENT sid="4" pm="."><plain>Subsequent cloning and sequencing revealed two GFAT1 <z:chebi fb="2" ids="33699">mRNAs</z:chebi> in both mouse and human skeletal muscles </plain></SENT>
+<SENT sid="5" pm="."><plain>The novel GFAT1 <z:chebi fb="2" ids="33699">mRNA</z:chebi> (GFAT1Alt [muscle selective variant of GFAT1]) is likely a splice variant </plain></SENT>
+<SENT sid="6" pm="."><plain>It is identical to GFAT1 except for a 48 or 54 bp insert in the mouse and human, respectively, at nucleotide position 686 of the coding sequence, resulting in a 16 or 18 amino acid insert at position 229 of the protein </plain></SENT>
+<SENT sid="7" pm="."><plain>GFAT1Alt is the predominant GFAT1 <z:chebi fb="2" ids="33699">mRNA</z:chebi> in mouse hindlimb muscle, is weakly expressed in the heart, and is undetectable in the brain, liver, kidney, lung, intestine, spleen, and 3T3-L1 adipocytes </plain></SENT>
+<SENT sid="8" pm="."><plain>In humans, it is strongly expressed in skeletal muscle but not in the brain </plain></SENT>
+<SENT sid="9" pm="."><plain>GFAT1 and GFAT1Alt expressed by recombinant <z:e sem="disease" ids="C0001486" disease_type="Disease or Syndrome" abbrv="">adenovirus infection</z:e> in COS-7 cells displayed robust enzyme activity and kinetic differences </plain></SENT>
+<SENT sid="10" pm="."><plain>The apparent K(m) of GFAT1Alt for <z:chebi fb="0" ids="15946">fructose-6-phosphate</z:chebi> was approximately twofold higher than that of GFAT1, whereas K(i) for <z:chebi fb="15" ids="17659">UDP</z:chebi>-N-acetylglucosamine was approximately fivefold lower </plain></SENT>
+<SENT sid="11" pm="."><plain>Muscle <z:hpo ids='HP_0000855'>insulin resistance</z:hpo> is a hallmark and predictor of type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="12" pm="."><plain>Variations in the expression of GFAT isoforms in muscle may contribute to predisposition to <z:hpo ids='HP_0000855'>insulin resistance</z:hpo> </plain></SENT>
+</text></document>

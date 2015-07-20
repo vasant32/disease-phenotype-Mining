@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:chebi fb="1" ids="30762">Salicylates</z:chebi> increase the risk of <z:mp ids='MP_0001914'>hemorrhage</z:mp> </plain></SENT>
+<SENT sid="1" pm="."><plain>An ischemic brain <z:mpath ids='MPATH_124'>infarct</z:mpath> has not previously been described following intoxication with <z:chebi fb="1" ids="30762">salicylates</z:chebi> </plain></SENT>
+<SENT sid="2" pm="."><plain>Case report </plain></SENT>
+<SENT sid="3" pm="."><plain>A 58-year-old <z:e sem="disease" ids="C0009421" disease_type="Disease or Syndrome" abbrv="">comatose</z:e> patient was admitted with symptoms of a basilar artery <z:mp ids='MP_0005048'>thrombosis</z:mp> </plain></SENT>
+<SENT sid="4" pm="."><plain>A diagnostic angiography was impossible because laboratory results showed a prothrombin time (Quick) of 9% and a toxic <z:chebi fb="1" ids="30762">salicylate</z:chebi> level of 528 mg/l </plain></SENT>
+<SENT sid="5" pm="."><plain>During the next few days CCT and MRI scans revealed ischemic infarctions within the brain stem </plain></SENT>
+<SENT sid="6" pm="."><plain>Discussion </plain></SENT>
+<SENT sid="7" pm="."><plain><z:chebi fb="1" ids="30762">Salicylates</z:chebi> can induce <z:mp ids='MP_0001914'>hemorrhage</z:mp> both by inhibiting platelet aggregation and - especially in higher doses - by <z:chebi fb="6" ids="28384">vitamin K</z:chebi> antagonism, leading to severe <z:hpo ids='HP_0003256'>coagulopathy</z:hpo> </plain></SENT>
+<SENT sid="8" pm="."><plain>The occurrence of an ischemic infarction, as presented in this case report, can be explained by a reduction of the <z:chebi fb="6" ids="28384">vitamin K</z:chebi>-dependent protein C level </plain></SENT>
+</text></document>

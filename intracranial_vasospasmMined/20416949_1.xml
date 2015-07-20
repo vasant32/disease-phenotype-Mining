@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND PURPOSE: After <z:hpo ids='HP_0002138'>subarachnoid hemorrhage</z:hpo> (SAH), vasospasm is frequent and increases the risk of <z:hpo ids='HP_0001297'>stroke</z:hpo> and poor clinical outcome </plain></SENT>
+<SENT sid="1" pm="."><plain>The purpose of this study was to identify the best perfusion parameters in perfusion-CT (PCT) able to predict vasospasm diagnosed by angiography after SAH </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: Seventy-six patients with SAH were investigated by PCT and cerebral angiography </plain></SENT>
+<SENT sid="3" pm="."><plain>Using regions of interest (ROI) on parametric maps of mean transit time (<z:chebi fb="0" ids="53233">MTT</z:chebi>), time to peak (<z:chebi fb="1" ids="18284">TTP</z:chebi>), cerebral blood volume (CBV) and cerebral blood flow (CBF), PCT data were compared to an arteriographic score in two categories (severe vasospasm: ≥ 50% and non-severe vasospasm: &lt;50%) for each artery </plain></SENT>
+<SENT sid="4" pm="."><plain>Best PCT predictors of the arteriographic score were tested using multiparametric logistic regression </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: Among the 76 patients, PCT data were reliable in 65 patients </plain></SENT>
+<SENT sid="6" pm="."><plain>Twenty-seven patients had a severe vasospasm </plain></SENT>
+<SENT sid="7" pm="."><plain>Logistic regression showed that <z:chebi fb="0" ids="53233">MTT</z:chebi> was the best predictor of the arteriographic score </plain></SENT>
+<SENT sid="8" pm="."><plain>Using <z:chebi fb="0" ids="53233">MTT</z:chebi>, odds ratios having a vasospasm were superior to 3.1 and the occurrence of a vasospasm was accurately predicted in 78.5 to 100%, depending on the artery considered </plain></SENT>
+<SENT sid="9" pm="."><plain>However, no absolute value of the <z:chebi fb="0" ids="53233">MTT</z:chebi> could be identified to predict the occurrence of vasospasm </plain></SENT>
+<SENT sid="10" pm="."><plain>In fact, abnormal values of <z:chebi fb="0" ids="53233">MTT</z:chebi> ranged from 123 to 221% (m=146%) of the control values </plain></SENT>
+<SENT sid="11" pm="."><plain>DISCUSSION AND CONCLUSIONS: PCT may accurately identify severe vasospasm and might be used as a convenient noninvasive imaging modality to monitor patients with SAH </plain></SENT>
+<SENT sid="12" pm="."><plain>When detected, severe vasospasm could be confirmed and managed using angiography and endovascular treatment, appropriately </plain></SENT>
+</text></document>

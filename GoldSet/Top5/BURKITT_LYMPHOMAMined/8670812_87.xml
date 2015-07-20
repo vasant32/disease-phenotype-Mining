@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The Epstein-Barr virus (EBV) nuclear antigen-1 (EBNA-1) is a pleiotropic protein which has been characterized extensively both biochemically and functionally </plain></SENT>
+<SENT sid="1" pm="."><plain>It is the only one of the identified latent protein-encoding genes to be consistently expressed in <z:mp ids='MP_0001799'>viral</z:mp>-associated endemic Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cells </plain></SENT>
+<SENT sid="2" pm="."><plain>As such, it is the only candidate <z:mp ids='MP_0001799'>viral</z:mp> protein to possibly perform a maintenance function in the <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumour</z:e> pathology </plain></SENT>
+<SENT sid="3" pm="."><plain>Despite this, no oncogenic activity has been attributed to the protein in tissue culture assays </plain></SENT>
+<SENT sid="4" pm="."><plain>The experiments described here were initiated to explore the activity of the protein in B cells in vivo </plain></SENT>
+<SENT sid="5" pm="."><plain>EBNA-1 transgenic mice were generated with transgene expression directed to the B cell compartment using the mouse Ig heavy chain intron enhancer </plain></SENT>
+<SENT sid="6" pm="."><plain>Transgene expression was demonstrated in the lymphoid tissues of mice of two independent lines </plain></SENT>
+<SENT sid="7" pm="."><plain>Transgenic positive mice of both lines succumb to B cell <z:hpo ids='HP_0002665'>lymphoma</z:hpo> </plain></SENT>
+<SENT sid="8" pm="."><plain>The B cell <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumours</z:e> are monoclonal, frequently of follicular centre cell origin and remarkably similar to those induced by transgenic c-myc expression </plain></SENT>
+<SENT sid="9" pm="."><plain>These results demonstrate that EBNA-1 is oncogenic in vivo and suggest that the gene product may play a direct role in the pathogenesis of Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> and possibly other EBV-associated <z:e sem="disease" ids="C0006826" disease_type="Neoplastic Process" abbrv="">malignancies</z:e> </plain></SENT>
+</text></document>

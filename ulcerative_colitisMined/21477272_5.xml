@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Mycobacterium avium subspecies <z:e sem="disease" ids="C0030524" disease_type="Disease or Syndrome" abbrv="">paratuberculosis</z:e> (MAP) is suspected to be a causative agent in human <z:hpo ids='HP_0100280'>Crohn's disease</z:hpo> (CD) </plain></SENT>
+<SENT sid="1" pm="."><plain>Recent evidence suggests that pathogenic mycobacteria and MAP can induce the expression of Matrix Metalloproteinases (MMP), which are the main proteases in the pathogenesis of mucosal ulcerations in <z:e sem="disease" ids="C0021390" disease_type="Disease or Syndrome" abbrv="">inflammatory bowel disease</z:e> (IBD) </plain></SENT>
+<SENT sid="2" pm="."><plain>Within this study we assessed the prevalence of intestinal MAP specific DNA in patients with <z:hpo ids='HP_0100280'>Crohn's disease</z:hpo>, <z:hpo ids='HP_0100279'>ulcerative colitis</z:hpo> (UC), and healthy controls </plain></SENT>
+<SENT sid="3" pm="."><plain>We further analysed regulation patterns of MMPs in mucosal tissues of UC patients with and without intestinal MAP DNA detection </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS: Colonic biopsy samples were obtained from 63 Norwegian and German IBD patients and 21 healthy controls </plain></SENT>
+<SENT sid="5" pm="."><plain><z:chebi fb="40" ids="33697">RNA</z:chebi> was quantified by quantitative real-time polymerase chain reaction (PCR) to study MMP gene expression in both pathological and healthy mucosal specimens </plain></SENT>
+<SENT sid="6" pm="."><plain>The presence of MAP DNA in colonic mucosa was examined using MAP specific PCR </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: MAP DNA was detected in 20% of UC patients and 33% of healthy controls but only in 7% of patients with CD </plain></SENT>
+<SENT sid="8" pm="."><plain>UC patients treated with <z:chebi fb="0" ids="50858">corticosteroids</z:chebi> exhibited a significantly increased frequency of intestinal MAP DNA compared to those not receiving <z:chebi fb="0" ids="50858">corticosteroids</z:chebi> </plain></SENT>
+<SENT sid="9" pm="."><plain>Expression of MMP-1, -2, -7, -9, -13, -19, -28 and TNF-α did not differ between UC patients with presence of intestinal MAP DNA compared to those without </plain></SENT>
+<SENT sid="10" pm="."><plain>MMP-2, MMP-9 and MMP-13 were significantly decreased in UC patients receiving <z:chebi fb="0" ids="50858">corticosteroids</z:chebi> </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: The presence of intestinal MAP specific DNA is not associated with altered MMP expression in UC in vivo </plain></SENT>
+<SENT sid="12" pm="."><plain><z:chebi fb="0" ids="50858">Corticosteroids</z:chebi> are associated with increased detection of intestinal MAP DNA and decreased expression of certain MMPs </plain></SENT>
+<SENT sid="13" pm="."><plain>Frequent detection of MAP DNA in healthy controls might be attributable to the wide environmental distribution of MAP and its presence in the food-chain </plain></SENT>
+</text></document>

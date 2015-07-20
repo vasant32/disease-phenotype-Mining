@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0002863'>Myelodysplasia</z:hpo> is a <z:e sem="disease" ids="C0018939" disease_type="Disease or Syndrome" abbrv="">hematological disease</z:e> in which genomic abnormalities accumulate in a hematopoietic stem cell leading to severe <z:hpo ids='HP_0001876'>pancytopenia</z:hpo>, multilineage differentiation impairment, and bone marrow (BM) <z:mpath ids='MPATH_3'>apoptosis</z:mpath> </plain></SENT>
+<SENT sid="1" pm="."><plain>Mortality in the disease results from <z:hpo ids='HP_0001876'>pancytopenia</z:hpo> or transformation to <z:hpo ids='HP_0004808'>acute myeloid leukemia</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>There are frequent cytogenetic abnormalities, including deletions of chromosomes 5, 7, or both </plain></SENT>
+<SENT sid="3" pm="."><plain>Recurring chromosomal translocations in <z:hpo ids='HP_0002863'>myelodysplasia</z:hpo> are rare, but the most frequent are the t(3;3)(q21;q26) and the inv(3)(q21q26), which lead to the inappropriate activation of the EVI1 gene located at 3q26 </plain></SENT>
+<SENT sid="4" pm="."><plain>To better understand the role of EVI1 in this disease, we have generated a murine model of EVI1-positive <z:hpo ids='HP_0002863'>myelodysplasia</z:hpo> by BM <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infection</z:e> and transplantation </plain></SENT>
+<SENT sid="5" pm="."><plain>We find that EVI1 induces a fatal disease of several stages that is characterized by severe <z:hpo ids='HP_0001876'>pancytopenia</z:hpo> </plain></SENT>
+<SENT sid="6" pm="."><plain>The disease does not progress to <z:hpo ids='HP_0004808'>acute myeloid leukemia</z:hpo> </plain></SENT>
+<SENT sid="7" pm="."><plain>Comparison of in vitro and in vivo results suggests that EVI1 acts at two levels </plain></SENT>
+<SENT sid="8" pm="."><plain>The immediate effects of EVI1 are hyperproliferation of BM cells and downregulation of EpoR and c-Mpl, which are important for terminal erythroid differentiation and platelet formation </plain></SENT>
+<SENT sid="9" pm="."><plain>These defects are not fatal, and the mice survive for about 10 months with compensated hematopoiesis </plain></SENT>
+<SENT sid="10" pm="."><plain>Over this time, compensation fails, and the mice succumb to fatal peripheral cytopenia </plain></SENT>
+</text></document>

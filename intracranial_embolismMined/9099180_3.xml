@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND PURPOSE: To improve reproducibility and reliability in the identification of embolic signals detected with the use of Doppler ultrasound, many studies have used an intensity threshold </plain></SENT>
+<SENT sid="1" pm="."><plain>However, variable thresholds between 3 and 12 dB have been used, and often the method of measurement of intensity is not stated </plain></SENT>
+<SENT sid="2" pm="."><plain>Potentially different methods of measurement could result in different intensity measurements for the same embolic signal </plain></SENT>
+<SENT sid="3" pm="."><plain>We determined the effect of these differences using commercial transcranial Doppler systems </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS: We analyzed 81 embolic signals recorded from the middle cerebral arteries of patients with <z:e sem="disease" ids="C0007273" disease_type="Disease or Syndrome" abbrv="">carotid artery disease</z:e> using three different methods of measuring intensity that had been previously used in research studies </plain></SENT>
+<SENT sid="5" pm="."><plain>In method 1 individual time frames of the frequency spectra were analyzed, in method 2 a color-coded intensity scale was used, and in method 3 automated software was used </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: There was a highly significant correlation between measurements made by the different techniques (method 1 versus method 2: r = .68, P &lt; .0001; method 1 versus method 3: r = .66, P &lt; .0001; method 2 versus method 3: r = .70, P &lt; .0001) </plain></SENT>
+<SENT sid="7" pm="."><plain>However, the absolute values of intensity for the same embolic signals varied markedly for the different methods </plain></SENT>
+<SENT sid="8" pm="."><plain>For example, a 4-dB threshold according to method 1 was equivalent to an approximately 7-dB threshold measured by method 2 </plain></SENT>
+<SENT sid="9" pm="."><plain>These differences had major effects on the proportion of embolic signals detected with the use of the same decibel threshold but with intensity measured in the different ways </plain></SENT>
+<SENT sid="10" pm="."><plain>For example, using a threshold of 7 dB would result in only 4.9% of signals being missed by method 2 but 42.2% and 51.4% being missed by methods 1 and 3, respectively </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: Our results demonstrate that the intensities of the same embolic signals, recorded with the same parameters, are markedly different when analyzed in the different ways used in previous studies </plain></SENT>
+<SENT sid="12" pm="."><plain>This has important implications when a decibel threshold is used and emphasizes that criteria developed by one investigator on one machine cannot be used by another investigator without initial reevaluation </plain></SENT>
+<SENT sid="13" pm="."><plain>This could account for some of the differences in frequencies of embolic signals reported in previous clinical studies </plain></SENT>
+</text></document>

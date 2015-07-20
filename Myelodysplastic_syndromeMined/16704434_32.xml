@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Severe aplastic <z:hpo ids='HP_0001903'>anaemia</z:hpo> (SAA) can be successfully treated with immunosuppressive therapies or haematopoietic stem cell transplantation (HSCT) </plain></SENT>
+<SENT sid="1" pm="."><plain>Response rates with horse anti-thymocyte globulin (h-ATG) plus <z:chebi fb="0" ids="4031">ciclosporin</z:chebi> (CsA) are about 60-70%, and robust responders have an excellent long-term survival </plain></SENT>
+<SENT sid="2" pm="."><plain>We introduced a third <z:chebi fb="1" ids="35705">immunosuppressive agent</z:chebi> to standard h-ATG/CsA, <z:chebi fb="0" ids="168396">mycophenolate</z:chebi> mofetil (MMF), in an attempt to improve the response rate and survival, and to decrease the relapse rate and <z:e sem="disease" ids="C1516669" disease_type="Neoplastic Process" abbrv="">clonal evolution</z:e> to <z:hpo ids='HP_0002863'>myelodysplasia</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>A total of 104 consecutive patients with SAA were treated with h-ATG/CsA/MMF between May 1999 and June 2003 at the National Institutes of Health Clinical Center </plain></SENT>
+<SENT sid="4" pm="."><plain>The overall response rate at 6 months was 62%, with 24 (37% of responders) patients relapsing at a median of 389 d from ATG </plain></SENT>
+<SENT sid="5" pm="."><plain>Nine patients showed evidence of <z:e sem="disease" ids="C1516669" disease_type="Neoplastic Process" abbrv="">clonal evolution</z:e> following ATG </plain></SENT>
+<SENT sid="6" pm="."><plain>After a median follow up of 42 months, the median survival among responders was not reached and among non-responders was 58 months </plain></SENT>
+<SENT sid="7" pm="."><plain>Over half of the relapses occurred during MMF administration </plain></SENT>
+<SENT sid="8" pm="."><plain>Despite a strong theoretical rationale for its use, MMF did not result in the improvement of response or relapse rates when compared with historical standard h-ATG/CsA </plain></SENT>
+</text></document>

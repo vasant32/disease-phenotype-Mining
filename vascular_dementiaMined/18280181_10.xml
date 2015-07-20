@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Understanding the variability of the hippocampus in human brain research is essential </plain></SENT>
+<SENT sid="1" pm="."><plain>The effect of age on the hippocampus has been explored in several studies that have been focused on either <z:mpath ids='MPATH_458'>normal</z:mpath> aging or neural degeneration </plain></SENT>
+<SENT sid="2" pm="."><plain>Shape analysis of magnetic resonance imaging (MRI) provides morphological measures for brain structures </plain></SENT>
+<SENT sid="3" pm="."><plain>This study further investigates the age effects on hippocampal <z:mp ids='MP_0000002'>morphology</z:mp> in three groups (104 <z:mpath ids='MPATH_458'>normal</z:mpath> controls, 24 Alzheimer's disease (AD) and 14 vascular <z:hpo ids='HP_0000726'>dementia</z:hpo> (VaD) patients) </plain></SENT>
+<SENT sid="4" pm="."><plain>By utilizing a parametric shape analysis of hippocampal MRI scans, each individual distance map is generated and analyzed statistically </plain></SENT>
+<SENT sid="5" pm="."><plain>Specifically, after eliminating similarity parameters (rotation, translation, and scaling) effects for each hippocampus, an individual distance map is generated from parametric hippocampal surfaces and medial axes </plain></SENT>
+<SENT sid="6" pm="."><plain>Then statistical methods, including regression, and permutation tests, are applied to detect the differences in hippocampal distance maps and volumes under the effect of age in each group </plain></SENT>
+<SENT sid="7" pm="."><plain>Statistical analyses reveal that the loss of hippocampal volume and changes in shape are more significantly related to aging in the control group than in AD/VaD </plain></SENT>
+<SENT sid="8" pm="."><plain>The results also show that the asymmetry of hippocampus in healthy subjects is greater than that in either of the disease groups </plain></SENT>
+<SENT sid="9" pm="."><plain>Our study shows that 3D statistical shape analysis could enhance the understanding of age effects on local areas of hippocampi </plain></SENT>
+<SENT sid="10" pm="."><plain>However, the sample sizes of disease groups are relatively low; further studies with more AD/VaD data are needed </plain></SENT>
+</text></document>

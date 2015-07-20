@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIMS: To investigate midlife cholesterol in relation to <z:e sem="disease" ids="C0002395" disease_type="Disease or Syndrome" abbrv="SDAT">Alzheimer's disease</z:e> (AD) and vascular <z:hpo ids='HP_0000726'>dementia</z:hpo> (VaD) in a large multiethnic cohort of women and men </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: The Kaiser Permanente Northern California Medical Group (healthcare delivery organization) formed the database for this study </plain></SENT>
+<SENT sid="2" pm="."><plain>The 9,844 participants underwent detailed health evaluations during 1964-1973 at ages 40-45 years; they were still members of the health plan in 1994 </plain></SENT>
+<SENT sid="3" pm="."><plain>AD and VaD were ascertained by medical records between 1 January 1994 and 1 June 2007 </plain></SENT>
+<SENT sid="4" pm="."><plain>Cox proportional hazards models - adjusted for age, education, race/ethnic group, sex, midlife <z:mp ids='MP_0002055'>diabetes</z:mp>, <z:hpo ids='HP_0000822'>hypertension</z:hpo>, BMI and late-life <z:hpo ids='HP_0001297'>stroke</z:hpo> - were conducted </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: In total, 469 participants had AD and 127 had VaD </plain></SENT>
+<SENT sid="6" pm="."><plain>With desirable cholesterol levels (&lt;200 mg/dl) as a reference, hazard ratios (HR) and 95% CI for AD were 1.23 (0.97-1.55) and 1.57 (1.23-2.01) for borderline (200-239 mg/dl) and high cholesterol (&gt;or=240 mg/dl), respectively </plain></SENT>
+<SENT sid="7" pm="."><plain>HR and 95% CI for VaD were 1.50 (1.01-2.23) for borderline and 1.26 (0.82-1.96) for high cholesterol </plain></SENT>
+<SENT sid="8" pm="."><plain>Further analyses for AD (cholesterol quartiles, 1st quartile reference) indicated that cholesterol levels &gt;220 mg/dl were a significant risk factor: HR were 1.31 (1.01-1.71; 3rd quartile, 221-248 mg/dl) and 1.58 (1.22-2.06; 4th quartile, 249-500 mg/dl) </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSION: Midlife serum total cholesterol was associated with an increased risk of AD and VaD </plain></SENT>
+<SENT sid="10" pm="."><plain>Even moderately <z:e sem="disease" ids="C0020443" disease_type="Disease or Syndrome" abbrv="">elevated cholesterol</z:e> increased <z:hpo ids='HP_0000726'>dementia</z:hpo> risk </plain></SENT>
+<SENT sid="11" pm="."><plain><z:hpo ids='HP_0000726'>Dementia</z:hpo> risk factors need to be addressed as early as midlife, before underlying disease(s) or symptoms appear </plain></SENT>
+</text></document>

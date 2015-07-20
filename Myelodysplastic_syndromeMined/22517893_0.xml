@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:chebi fb="0" ids="2038">5-Azacytidine</z:chebi> (5-azaC) is an azanucleoside approved for <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Approximately 80%-90% of 5-azaC is believed to be incorporated into <z:chebi fb="40" ids="33697">RNA</z:chebi>, which disrupts nucleic acid and protein metabolism leading to <z:mpath ids='MPATH_3'>apoptosis</z:mpath> </plain></SENT>
+<SENT sid="2" pm="."><plain>A smaller fraction (10%-20%) of 5-azaC inhibits DNA methylation and synthesis through conversion to <z:chebi fb="0" ids="50131">decitabine</z:chebi> <z:chebi fb="0" ids="15266,18036">triphosphate</z:chebi> and subsequent DNA incorporation </plain></SENT>
+<SENT sid="3" pm="."><plain>However, its precise mechanism of action remains unclear </plain></SENT>
+<SENT sid="4" pm="."><plain><z:chebi fb="0" ids="26561">Ribonucleotide</z:chebi> reductase (RR) is a highly regulated enzyme comprising 2 subunits, RRM1 and RRM2, that provides the deoxyribonucleotides required for DNA synthesis/repair </plain></SENT>
+<SENT sid="5" pm="."><plain>In the present study, we found for the first time that 5-azaC is a potent inhibitor of RRM2 in <z:hpo ids='HP_0001909'>leukemia</z:hpo> cell lines, in a mouse model, and in BM mononuclear cells from <z:hpo ids='HP_0004808'>acute myeloid leukemia</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">AML</z:e>) patients </plain></SENT>
+<SENT sid="6" pm="."><plain>5-azaC-induced RRM2 gene expression inhibition involves its direct <z:chebi fb="40" ids="33697">RNA</z:chebi> incorporation and an attenuated RRM2 <z:chebi fb="2" ids="33699">mRNA</z:chebi> stability </plain></SENT>
+<SENT sid="7" pm="."><plain>Therefore, 5-azaC causes a major perturbation of deoxyribonucleotide pools </plain></SENT>
+<SENT sid="8" pm="."><plain>We also demonstrate herein that the initial RR-mediated 5-azaC conversion to <z:chebi fb="0" ids="50131">decitabine</z:chebi> is terminated through its own inhibition </plain></SENT>
+<SENT sid="9" pm="."><plain>In conclusion, we identify RRM2 as a novel molecular target of 5-azaC in <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">AML</z:e> </plain></SENT>
+<SENT sid="10" pm="."><plain>Our findings provide a basis for its more widespread clinical use either alone or in combination </plain></SENT>
+</text></document>

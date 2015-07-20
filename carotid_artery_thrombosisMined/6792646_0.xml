@@ -1,0 +1,7 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Several authors have reported that <z:chebi fb="1" ids="30762">salicylate</z:chebi> blocks and reverses aspirin inhibition of <z:chebi fb="11" ids="26333">prostaglandin</z:chebi> synthesis by platelets and arterial wall </plain></SENT>
+<SENT sid="1" pm="."><plain>Male rats were given <z:chebi fb="199" ids="26708">sodium</z:chebi> <z:chebi fb="1" ids="30762">salicylate</z:chebi> 15 or 100 mg/kg i.v </plain></SENT>
+<SENT sid="2" pm="."><plain>2 min before receiving aspirin, 10 mg/kg i.v </plain></SENT>
+<SENT sid="3" pm="."><plain>Right and left carotid arteries were injured electrically before and after drug administration and <z:e sem="disease" ids="C0302148,C0087086" disease_type="Disease or Syndrome;Acquired Abnormality" abbrv="">thrombus</z:e> generation recorded by measuring downstream temperature </plain></SENT>
+<SENT sid="4" pm="."><plain>Significant antithrombotic effect of aspirin was observed in <z:hpo ids='HP_0000001'>all</z:hpo> cases regardless of prior <z:chebi fb="1" ids="30762">salicylate</z:chebi> administration and the results were similar to those obtained with aspirin alone </plain></SENT>
+<SENT sid="5" pm="."><plain>Thus competition between <z:chebi fb="1" ids="30762">salicylate</z:chebi> and aspirin as reported in vitro does not appear to significantly affect the in vivo antithrombotic action of aspirin in this model </plain></SENT>
+</text></document>

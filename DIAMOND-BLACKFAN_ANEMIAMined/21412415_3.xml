@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Diamond-Blackfan <z:hpo ids='HP_0001903'>anemia</z:hpo> (<z:chebi fb="28" ids="35299">DBA</z:chebi>) is a lineage specific and congenital <z:e sem="disease" ids="C0877221" disease_type="Disease or Syndrome" abbrv="">erythroblastopenia</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>The disease is associated with mutations in genes encoding ribosomal proteins resulting in perturbed ribosomal subunit biosynthesis </plain></SENT>
+<SENT sid="2" pm="."><plain>The RPS19 gene is mutated in approximately 25% of <z:chebi fb="28" ids="35299">DBA</z:chebi> patients and a variety of coding mutations have been described, <z:hpo ids='HP_0000001'>all</z:hpo> presumably leading to haploinsufficiency </plain></SENT>
+<SENT sid="3" pm="."><plain>A subset of patients carries rare polymorphic sequence variants within the 5'untranslated region (5'UTR) of RPS19 </plain></SENT>
+<SENT sid="4" pm="."><plain>The functional significance of these variants remains unclear </plain></SENT>
+<SENT sid="5" pm="."><plain>METHODOLOGY/PRINCIPAL FINDINGS: We analyzed the distribution of transcriptional start sites (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">TSS</z:e>) for RPS19 <z:chebi fb="2" ids="33699">mRNAs</z:chebi> in testis and K562 cells </plain></SENT>
+<SENT sid="6" pm="."><plain>Twenty-nine novel RPS19 transcripts were identified with different 5'UTR length </plain></SENT>
+<SENT sid="7" pm="."><plain>Quantification of expressed w.t </plain></SENT>
+<SENT sid="8" pm="."><plain>5'UTR variants revealed that a short 5'UTR correlates with high levels of RPS19 </plain></SENT>
+<SENT sid="9" pm="."><plain>The total levels of RPS19 transcripts showed a broad variation between tissues </plain></SENT>
+<SENT sid="10" pm="."><plain>We also expressed three polymorphic RPS19 5'UTR variants identified in <z:chebi fb="28" ids="35299">DBA</z:chebi> patients </plain></SENT>
+<SENT sid="11" pm="."><plain>The sequence variants include two insertions (c.-147_-146insGCCA and c.-147_-146insAGCC) and one deletion (c.-144_-141delTTTC) </plain></SENT>
+<SENT sid="12" pm="."><plain>The three 5'UTR polymorphisms are associated with a 20-30% reduction in RPS19 protein levels when compared to the <z:mp ids='MP_0002169'>wild-type</z:mp> (w.t.) 5'UTR of corresponding length </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSIONS: The RPS19 gene uses a broad range of <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">TSS</z:e> and a short 5'UTR is associated with increased levels of RPS19 </plain></SENT>
+<SENT sid="14" pm="."><plain>Comparisons between tissues showed a broad variation in the total amount of RPS19 <z:chebi fb="2" ids="33699">mRNA</z:chebi> and in the distribution of <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">TSS</z:e> used </plain></SENT>
+<SENT sid="15" pm="."><plain>Furthermore, our results indicate that rare polymorphic 5'UTR variants reduce RPS19 protein levels with implications for Diamond-Blackfan <z:hpo ids='HP_0001903'>anemia</z:hpo> </plain></SENT>
+</text></document>

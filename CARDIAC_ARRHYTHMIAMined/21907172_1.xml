@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: <z:hpo ids='HP_0005110'>Atrial fibrillation</z:hpo> (AF) is the most common sustained <z:hpo ids='HP_0011675'>cardiac arrhythmia</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Gene therapy-dependent modulation of atrial electrophysiology may provide a more specific alternative to pharmacological and ablative treatment strategies </plain></SENT>
+<SENT sid="2" pm="."><plain>OBJECTIVE: We hypothesized that genetic inactivation of atrial repolarizing <z:chebi fb="91" ids="25698">ether</z:chebi>-a-go-go-related gene (ERG) <z:chebi fb="0" ids="29103">K(+)</z:chebi> currents using a dominant-negative mutant would provide rhythm control in AF </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: Ten domestic swine underwent pacemaker implantation and were subjected to atrial burst pacing to induce persistent AF </plain></SENT>
+<SENT sid="4" pm="."><plain>Animals were then randomized to receive either AdCERG-G627S to suppress ERG/I(Kr) currents or green fluorescent protein (AdGFP) as control </plain></SENT>
+<SENT sid="5" pm="."><plain>Adenoviruses were applied using a novel hybrid technique combining atrial virus injection and epicardial electroporation to increase transgene expression </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: In pigs treated with AdCERG-G627S, the <z:hpo ids='HP_0003674'>onset</z:hpo> of persistent AF was prevented (n = 2) or significantly delayed compared with AdGFP controls (12 ± 2.1 vs. 6.2 ± 1.3 days; P &lt; .001) during 14-day follow-up </plain></SENT>
+<SENT sid="7" pm="."><plain>Effective refractory periods were prolonged in the AdCERG-G627S group compared with AdGFP animals (221.5 ± 4.7 ms vs. 197.0 ± 4.7 ms; P &lt; .006) </plain></SENT>
+<SENT sid="8" pm="."><plain>Impairment of left ventricular ejection fraction (LVEF) during AF was prevented by AdCERG-G627S application (LVEF(CERG-G627S) = 62.1% ± 4.0% vs. LVEF(GFP) = 30.3% ± 9.1%; P &lt; .001) </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSION: Inhibition of ERG function using atrial AdCERG-G627S gene transfer suppresses or delays the <z:hpo ids='HP_0003674'>onset</z:hpo> of persistent AF by prolongation of atrial refractoriness in a porcine model </plain></SENT>
+<SENT sid="10" pm="."><plain>Targeted gene therapy represents an alternative to pharmacological or ablative treatment of AF </plain></SENT>
+</text></document>

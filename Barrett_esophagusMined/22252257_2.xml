@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PURPOSE: We examined the frequency, <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> characteristics, and prognostic impact of HER2 protein expression and gene amplification in patients with curatively resected esophageal <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> (EAC) </plain></SENT>
+<SENT sid="1" pm="."><plain>EXPERIMENTAL DESIGN: HER2 expression was analyzed by immunohistochemistry (IHC) in surgical EAC specimens (n = 713) </plain></SENT>
+<SENT sid="2" pm="."><plain>Gene amplification was examined by FISH in a large subset (n = 344) </plain></SENT>
+<SENT sid="3" pm="."><plain>Most <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumors</z:e> were T3-4 (66%) or node positive (72%); 95% were located in the esophagus or gastroesophageal junction </plain></SENT>
+<SENT sid="4" pm="."><plain>No patient received neoadjuvant therapy </plain></SENT>
+<SENT sid="5" pm="."><plain>Cox models were used </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: Overall, 17% of EACs were HER2 positive (i.e., IHC3(+) or IHC2(+) with amplification), with strong agreement between HER2 amplification (HER2/CEP17 ratio ≥2) and expression (κ = 0.83) </plain></SENT>
+<SENT sid="7" pm="."><plain>HER2 positivity was significantly associated with lower <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> grade, less invasiveness, fewer malignant nodes, and the presence of adjacent <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> (BE) </plain></SENT>
+<SENT sid="8" pm="."><plain>EACs with BE had higher odds of HER2 positivity than EACs without BE, independent of pathologic features [OR = 1.8 (95% CI: 1.1-2.8), P = 0.014] </plain></SENT>
+<SENT sid="9" pm="."><plain>Among <z:hpo ids='HP_0000001'>all</z:hpo> cases, HER2 positivity was significantly associated with disease-specific survival (DSS) in a manner that differed by the presence or absence of BE (P(interaction) = 0.0047) </plain></SENT>
+<SENT sid="10" pm="."><plain>In EACs with BE, HER2 positivity was significantly associated with improved DSS [HR = 0.54 (95% CI: 0.35-0.84), P = 0.0065] and overall survival (P = 0.0022) independent of pathologic features, but was not prognostic among EACs without BE </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: HER2 positivity was shown in 17% of resected EACs and associated with reduced <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> <z:hpo ids='HP_0000718'>aggressiveness</z:hpo> </plain></SENT>
+<SENT sid="12" pm="."><plain>EACs with BE had nearly twice the odds of being HER2 positive and, within this subgroup, HER2 positivity was independently associated with improved survival </plain></SENT>
+</text></document>

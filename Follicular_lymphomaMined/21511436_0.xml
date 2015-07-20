@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Follicular <z:hpo ids='HP_0002665'>Lymphoma</z:hpo> (FL) accounts for 20-25% of non-Hodgkin <z:hpo ids='HP_0002665'>lymphomas</z:hpo> in the United States </plain></SENT>
+<SENT sid="1" pm="."><plain>The first step in grading FL is identifying follicles </plain></SENT>
+<SENT sid="2" pm="."><plain>Our paper discusses a novel technique to segment follicular regions in H&amp;E stained images </plain></SENT>
+<SENT sid="3" pm="."><plain>The method is based on three successive steps: (1) region-based segmentation, (2) iterative shape index (concavity index) calculation, (3) and recursive watershed </plain></SENT>
+<SENT sid="4" pm="."><plain>A novel aspect of this method is the use of iterative Concavity Index (CI) to control the follicular splitting process in recursive watershed </plain></SENT>
+<SENT sid="5" pm="."><plain>CI takes into consideration the convex hull of the object and the closest area surrounding it </plain></SENT>
+<SENT sid="6" pm="."><plain>The mean Zijbendos similarity index (ZSI) final segmentation score on fifteen cases was 78.33%, with a standard deviation of 2.83 </plain></SENT>
+</text></document>

@@ -1,0 +1,6 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PURPOSE: Clinical studies suggest a correlation between changes in activity of the contralesional cerebral cortex and spontaneous recovery from <z:hpo ids='HP_0001297'>stroke</z:hpo>, but whether this is a causal relationship is uncertain </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: Young adult Sprague-Dawley male rats underwent unilateral or bilateral permanent distal middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (dMCAO) </plain></SENT>
+<SENT sid="2" pm="."><plain><z:mpath ids='MPATH_124'>Infarct</z:mpath> volume was determined by 2,3,5-triphenyltetrazolium <z:chebi fb="76" ids="17996">chloride</z:chebi> (TTC) staining 24 hr after dMCAO, and functional outcome was assessed 1-28 days after dMCAO using the ladder rung walking and limb placing tests </plain></SENT>
+<SENT sid="3" pm="."><plain>RESULTS: <z:mpath ids='MPATH_124'>Infarct</z:mpath> volume was unchanged, but functional neurological deficits were reduced 1 day after bilateral compared to unilateral dMCAO </plain></SENT>
+<SENT sid="4" pm="."><plain>CONCLUSIONS: Activity in the contralesional cerebral cortex may inhibit functional motor recovery after experimental <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+</text></document>

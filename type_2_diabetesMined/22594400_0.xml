@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIMS: Adiponectin is an important adipokine whose levels are decreased in <z:hpo ids='HP_0001513'>obesity</z:hpo> despite increases in adipocyte mass </plain></SENT>
+<SENT sid="1" pm="."><plain>Studies in animal models implicate adiponectin as an insulin sensitizer in skeletal muscle and liver </plain></SENT>
+<SENT sid="2" pm="."><plain><z:chebi fb="0" ids="50864">Thiazolidinediones</z:chebi> (TZDs) are <z:chebi fb="0" ids="50864">insulin sensitizers</z:chebi> and ligands for peroxisome proliferator-activated γ receptors (PPARγ) and these receptors are expressed in β cells where their activation promotes cell survival </plain></SENT>
+<SENT sid="3" pm="."><plain>We hypothesize that adiponectin promotes β cell survival by activating PPARγ </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS: We used MIN6 cells to investigate the effect of adiponectin on PPARγ expression, β-cell proliferation, insulin synthesis and insulin secretion </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: We demonstrate that MIN6 cells contain adiponectin receptors and that adiponectin activates PPARγ <z:chebi fb="2" ids="33699">mRNA</z:chebi> and protein expression </plain></SENT>
+<SENT sid="6" pm="."><plain>This increase in PPARγ expression is blocked by the PPARγ <z:chebi fb="68" ids="48706">antagonist</z:chebi>, GW9662, indicating a transcriptional feedback loop involving PPARγ activation of itself </plain></SENT>
+<SENT sid="7" pm="."><plain>Adiponectin causes a significant increase in insulin content and secretion and this occurs also via PPARγ activation due to the inhibitory effect of GW9662 </plain></SENT>
+<SENT sid="8" pm="."><plain>Adiponectin also promotes MIN6 cell proliferation, however, this effect is independent of PPARγ activation </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSIONS: Our results identify novel roles for the adipokine, adiponectin, in β-cells function </plain></SENT>
+<SENT sid="10" pm="."><plain>Adiponectin upregulates PPARγ expression, insulin content and insulin secretion through PPARγ-dependent mechanisms </plain></SENT>
+<SENT sid="11" pm="."><plain>Reductions in circulating adiponectin levels in <z:mp ids='MP_0001261'>obese</z:mp> individuals could therefore result in negative effects on β-cell function and this may have direct relevance to β-cell dysfunction in type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+</text></document>

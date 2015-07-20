@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>HISTORY: A 30-year-old patient was admitted for investigation of microcytotic, <z:hpo ids='HP_0001931'>hypochromic anemia</z:hpo> (<z:chebi fb="0" ids="35143">hemoglobin</z:chebi> 8.3 g/dl) with <z:hpo ids='HP_0001744'>splenomegaly</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>INVESTIGATIONS: Bone marrow smear showed a normocellular marrow with augmented severely <z:hpo ids='HP_0012134'>dysplastic erythropoesis</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain><z:chebi fb="27" ids="30069">Prussian-blue</z:chebi> staining revealed an increased number of ring sideroblasts, thus <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo> (<z:hpo ids='HP_0005505'>refractory anemia</z:hpo> with ringsideroblasts) was suspected </plain></SENT>
+<SENT sid="3" pm="."><plain>DIAGNOSIS AND TREATMENT: Review of former laboratory values and investigations of the patient's family revealed the correct diagnosis of x-linked <z:hpo ids='HP_0001924'>sideroblastic anemia</z:hpo> (XLSA) </plain></SENT>
+<SENT sid="4" pm="."><plain>The patient was treated with oral <z:chebi fb="5" ids="16709">pyridoxine</z:chebi> </plain></SENT>
+<SENT sid="5" pm="."><plain><z:chebi fb="0" ids="35143">Hemoglobin</z:chebi> levels steadily increased, so the diagnosis of <z:hpo ids='HP_0005522'>pyridoxine-responsive sideroblastic anemia</z:hpo> was made </plain></SENT>
+<SENT sid="6" pm="."><plain>Liver biopsy showed secondary <z:mp ids='MP_0003045'>fibrosis</z:mp> with beginning <z:hpo ids='HP_0001394'>cirrhosis</z:hpo> due to <z:e sem="disease" ids="C0282193" disease_type="Disease or Syndrome" abbrv="">iron overload</z:e> </plain></SENT>
+<SENT sid="7" pm="."><plain>Therapy with <z:chebi fb="0" ids="4356">deferoxamine</z:chebi> and phlebotomies was initiated </plain></SENT>
+<SENT sid="8" pm="."><plain>CONCLUSION: XLSA is a rare differential diagnosis of acquired forms of <z:hpo ids='HP_0001924'>sideroblastic anemias</z:hpo> </plain></SENT>
+<SENT sid="9" pm="."><plain>A high degree of clinical suspicion is necessary for diagnosis because morphological studies such as histology and cytology may not yield conclusive results </plain></SENT>
+<SENT sid="10" pm="."><plain>A correct diagnosis is especially important because of the uncomplicated therapeutic options </plain></SENT>
+</text></document>

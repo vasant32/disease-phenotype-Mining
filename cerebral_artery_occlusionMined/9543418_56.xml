@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Flow-sensitive alternating inversion recovery (FAIR) is a recently introduced MRI technique for assessment of perfusion that uses blood water as an endogenous contrast agent </plain></SENT>
+<SENT sid="1" pm="."><plain>To characterize the FAIR signal dependency on spin tagging time (inversion time (TI)) and to validate FAIR for cerebral blood flow (CBF) quantification, studies were conducted on the rat brain at 9.4 T using a conventional gradient-recalled echo sequence </plain></SENT>
+<SENT sid="2" pm="."><plain>The T1 of cerebral cortex and blood was found to be 1.9 and 2.2 s, respectively, and was used for CBF calculations </plain></SENT>
+<SENT sid="3" pm="."><plain>At short TIs (&lt;0.8 s), the FAIR signal originates largely from vascular components with fast flows, resulting in an overestimation of CBF </plain></SENT>
+<SENT sid="4" pm="."><plain>For TI &gt; 1.5 s, the CBF calculated from FAIR is independent of the spin tagging time, suggesting that the observed FAIR signal originates predominantly from tissue/capillary components </plain></SENT>
+<SENT sid="5" pm="."><plain>CBF values measured by FAIR with TI of 2.0 s were found to be in good agreement with those measured by the iodoantipyrine technique with autoradiography in rats under the same conditions of anesthesia and arterial pCO2 </plain></SENT>
+<SENT sid="6" pm="."><plain>The measured pCO2 index on the parietal cortex using the FAIR technique was 6.07 ml/100 g/min per mmHg, which compares well with the pCO2 index measured by other techniques </plain></SENT>
+<SENT sid="7" pm="."><plain>The FAIR technique was also able to detect the regional reduction in CBF produced by middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> in rats </plain></SENT>
+</text></document>

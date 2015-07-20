@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: To establish a mouse model of middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp>, which mimics focal <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> in humans and to demonstrate the advantages and disadvantages of the model </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: CD-1 mice (n = 126) had permanent middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> for 24 h, or temporary occlusion for either one hour followed by 23 h of reperfusion or 2 h of occlusion with 22 h of reperfusion </plain></SENT>
+<SENT sid="2" pm="."><plain>The middle cerebral artery was occluded by insertion of a suture through the internal carotid artery </plain></SENT>
+<SENT sid="3" pm="."><plain>Reperfusion was established by suture withdrawal </plain></SENT>
+<SENT sid="4" pm="."><plain>The degree of occlusion and the extent of reperfusion were determined using laser Doppler </plain></SENT>
+<SENT sid="5" pm="."><plain><z:mpath ids='MPATH_124'>Infarct</z:mpath> volume was measured with 2, 3, 5-triphenyl tetrazolium <z:chebi fb="76" ids="17996">chloride</z:chebi> staining, and the blood-brain barrier disruption was demonstrated using albumin immunohistochemistry </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: Blood flow decreased to 14%-19% of baseline in both the permanent and temporary occlusion groups and was restored to 51%-75% of baseline after reperfusion </plain></SENT>
+<SENT sid="7" pm="."><plain>The <z:mpath ids='MPATH_124'>infarct</z:mpath> volume was smaller in the 1 h/23 h temporary occlusion group (P &lt; 0.05) than in either the 24 h permanent occlusion group or the 2 h/22 h temporary occlusion group </plain></SENT>
+<SENT sid="8" pm="."><plain>Blood-brain barrier disruption was also smaller in the 1 h/23 h temporary occlusion group than in either the 24 h permanent occlusion or the 2 h/22 h temporary occlusion group (P &lt; 0.05) </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSION: Permanent or temporary middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> causes reproducible brain injury in the mouse </plain></SENT>
+<SENT sid="10" pm="."><plain>Blood-brain barrier disruption and <z:mpath ids='MPATH_124'>infarct</z:mpath> volume remain important markers of focal <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> </plain></SENT>
+</text></document>

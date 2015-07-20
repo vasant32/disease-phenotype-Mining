@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Hepatocyte growth factor (HGF) was reported to be effective in preventing <z:hpo ids='HP_0011009'>acute</z:hpo> <z:e sem="disease" ids="C0018133" disease_type="Disease or Syndrome" abbrv="GVH">graft-versus-host disease</z:e> (GVHD) in a murine model </plain></SENT>
+<SENT sid="1" pm="."><plain>We examined serum HGF concentrations in 38 patients receiving allogeneic bone marrow transplants, and investigated the relationship of serum HGF concentrations to severity of <z:hpo ids='HP_0011009'>acute</z:hpo> GVHD </plain></SENT>
+<SENT sid="2" pm="."><plain>More HGF was present in sera from patients with than without <z:hpo ids='HP_0011009'>acute</z:hpo> GVHD </plain></SENT>
+<SENT sid="3" pm="."><plain>Serum HGF correlated significantly with grade of <z:hpo ids='HP_0011009'>acute</z:hpo> GVHD </plain></SENT>
+<SENT sid="4" pm="."><plain>Furthermore, serum HGF correlated with serum concentrations of C-reactive protein, gamma-glutamyltranspeptidase (<z:chebi fb="11" ids="15996">GTP</z:chebi>), and <z:chebi fb="0" ids="29995">aspartate</z:chebi> aminotransferase (AST) </plain></SENT>
+<SENT sid="5" pm="."><plain>Serum concentrations of HGF in transplanted patients without GVHD were consistently low, while those in patients with <z:hpo ids='HP_0011009'>acute</z:hpo> GVHD increased with exacerbation </plain></SENT>
+<SENT sid="6" pm="."><plain>We conclude that HGF was produced during induction of the <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">GVH</z:e> reaction, and probably increased as a physiological response </plain></SENT>
+</text></document>

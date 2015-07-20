@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Several gain-of-function mutations in a receptor tyrosine kinase, fibroblast growth factor receptor 3 (FGFR3), cause <z:hpo ids='HP_0003510'>dwarfism</z:hpo> in humans </plain></SENT>
+<SENT sid="1" pm="."><plain>Two particularly severe <z:hpo ids='HP_0003510'>dwarfisms</z:hpo>, thanatophoric <z:mpath ids='MPATH_589'>dysplasia</z:mpath> type II (TDII) and severe <z:e sem="disease" ids="C0001080" disease_type="Disease or Syndrome;Congenital Abnormality" abbrv="">achondroplasia</z:e> with <z:hpo ids='HP_0001263'>developmental delay</z:hpo> and <z:hpo ids='HP_0000956'>acanthosis nigricans</z:hpo> (SADDAN), are associated with glutamic acid (E) and methionine (M) substitutions at the K650 residue in the kinase domain </plain></SENT>
+<SENT sid="2" pm="."><plain>TDII is lethal at birth, whereas most of the SADDAN patients survive the perinatal period </plain></SENT>
+<SENT sid="3" pm="."><plain>However, FGFR3 with the SADDAN mutation is more activated than FGFR3 with the TDII mutation in vitro </plain></SENT>
+<SENT sid="4" pm="."><plain>To find out whether the K650M mutation also causes the SADDAN phenotype, we introduced the corresponding point mutation (K644M) into the mouse Fgfr3 gene </plain></SENT>
+<SENT sid="5" pm="."><plain>Heterozygous mutant mice show a phenotype similar to human SADDAN, e.g. the majority of the SADDAN mice survive the perinatal period </plain></SENT>
+<SENT sid="6" pm="."><plain>This suggests that the survival of SADDAN patients is indeed attributed to the K650M mutation in FGFR3 </plain></SENT>
+<SENT sid="7" pm="."><plain>The long bone abnormalities in SADDAN mice are milder than the TDII model </plain></SENT>
+<SENT sid="8" pm="."><plain>In addition, <z:hpo ids='HP_0001548'>overgrowth</z:hpo> of the cartilaginous tissues is observed in the rib cartilage, trachea and nasal septum </plain></SENT>
+<SENT sid="9" pm="."><plain>The FGF ligand at the low concentration differentially activates Map kinase in primary chondrocyte cultures from <z:mp ids='MP_0002169'>wild-type</z:mp> and SADDAN mice </plain></SENT>
+<SENT sid="10" pm="."><plain>Comparisons of the molecular bases of the phenotypic differences in SADDAN and TDII mice may increase our understanding of the factors that influence the severity in these two related <z:hpo ids='HP_0002652'>skeletal dysplasias</z:hpo> </plain></SENT>
+</text></document>

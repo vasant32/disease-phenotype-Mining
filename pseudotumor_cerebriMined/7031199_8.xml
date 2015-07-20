@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Positive end-expiratory pressure (<z:chebi fb="0" ids="53359">PEEP</z:chebi>) is used to improve oxygenation in patients with the adult <z:hpo ids='HP_0002098'>respiratory distress</z:hpo> syndrome </plain></SENT>
+<SENT sid="1" pm="."><plain>Nevertheless, this treatment may increase intracranial pressure (ICP) and be detrimental to certain neurosurgical patients </plain></SENT>
+<SENT sid="2" pm="."><plain>This clinical situation was simulated by administering <z:chebi fb="0" ids="53359">PEEP</z:chebi> to dogs with <z:mpath ids='MPATH_458'>normal</z:mpath> and elevated ICP </plain></SENT>
+<SENT sid="3" pm="."><plain>Increases in <z:chebi fb="0" ids="53359">PEEP</z:chebi> increased ICP in <z:hpo ids='HP_0000001'>all</z:hpo> animals </plain></SENT>
+<SENT sid="4" pm="."><plain>However, the presence of intracranial <z:hpo ids='HP_0000822'>hypertension</z:hpo> diminished the increase in ICP seen at a given level of <z:chebi fb="0" ids="53359">PEEP</z:chebi> </plain></SENT>
+<SENT sid="5" pm="."><plain>Cerebral perfusion pressure also fell less in the presence of intracranial <z:hpo ids='HP_0000822'>hypertension</z:hpo> than it did in the absence, although in the former situation cerebral perfusion pressure was at the lower limits of the range of cerebral autoregulation </plain></SENT>
+<SENT sid="6" pm="."><plain>These findings suggest that <z:chebi fb="0" ids="53359">PEEP</z:chebi> is no more detrimental to patients with elevated ICP than it is to patients whose ICP is <z:mpath ids='MPATH_458'>normal</z:mpath>, assuming that their cerebral autoregulation is not impaired </plain></SENT>
+</text></document>

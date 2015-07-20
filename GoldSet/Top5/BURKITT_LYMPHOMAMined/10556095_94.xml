@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The c-Myc protein (Myc) is a transcription factor, and deregulated expression of the c-myc gene (myc) is frequently found in <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumours</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>In Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">BL</z:e>), myc is transcriptionally activated by chromosomal translocation </plain></SENT>
+<SENT sid="2" pm="."><plain>We have used a B-cell line called P493-6 that carries a conditional myc allele to elucidate the role of Myc in the proliferation of <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">BL</z:e> cells </plain></SENT>
+<SENT sid="3" pm="."><plain>Regulation of proliferation involves the coordination of cell growth (accumulation of cell mass) and cell division [1] [2] [3] </plain></SENT>
+<SENT sid="4" pm="."><plain>Here, we show that division of P493-6 cells was strictly dependent on the expression of the conditional myc allele and the presence of foetal calf serum (FCS) </plain></SENT>
+<SENT sid="5" pm="."><plain>More importantly, cell growth was regulated by Myc without FCS: Myc alone induced an increase in cell size and positively regulated protein synthesis </plain></SENT>
+<SENT sid="6" pm="."><plain>An increase in protein synthesis is thought to be one of the causes of cell mass increase </plain></SENT>
+<SENT sid="7" pm="."><plain>Furthermore, Myc stimulated metabolic activities, as indicated by the acidification of culture medium and the activation of <z:hpo ids='HP_0001427'>mitochondrial</z:hpo> enzymes </plain></SENT>
+<SENT sid="8" pm="."><plain>Our results confirm the model that Myc is involved in the regulation of cell growth [4] and provide, for the first time, direct evidence that Myc induces cell growth, that is, an increase in cell size, uncoupled from cell division </plain></SENT>
+</text></document>

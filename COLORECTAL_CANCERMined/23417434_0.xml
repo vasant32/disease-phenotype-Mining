@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Postoperative mortality is frequently used in hospital comparisons as marker for quality of care </plain></SENT>
+<SENT sid="1" pm="."><plain>Differences in mortality between hospitals may be explained by varying complication rates </plain></SENT>
+<SENT sid="2" pm="."><plain>A possible modifying factor may be the ability to let patients with a serious complication survive, referred to as failure to rescue (FTR) </plain></SENT>
+<SENT sid="3" pm="."><plain>The purpose of this study was to evaluate how hospital performance on postoperative mortality is related to severe complications or to FTR and to explore the value of FTR in quality improvement programs </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS: <z:hpo ids='HP_0000001'>All</z:hpo> patients operated for <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> from 2009 to 2011, registered in the Dutch Surgical Colorectal Audit, were included </plain></SENT>
+<SENT sid="5" pm="."><plain>Logistic regression models were used to obtain adjusted mortality, complication, and FTR rates </plain></SENT>
+<SENT sid="6" pm="."><plain>Hospitals were grouped into 5 quintiles according to adjusted mortality </plain></SENT>
+<SENT sid="7" pm="."><plain>Outcomes were compared between quintiles </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: A total of 24,667 patients were included </plain></SENT>
+<SENT sid="9" pm="."><plain>Severe complications ranged from 19 % in the lowest to 25 % in the highest mortality quintile (odds ratio 1.5, 95 % confidence interval 1.37-1.67) </plain></SENT>
+<SENT sid="10" pm="."><plain>Risk-adjusted FTR rates showed a marked difference between the quintiles, ranging from 9 % to 26 % (odds ratio 3.0, 95 % confidence interval 2.29-3.98) </plain></SENT>
+<SENT sid="11" pm="."><plain>There was significant variability in FTR rates </plain></SENT>
+<SENT sid="12" pm="."><plain>Seven hospitals had significantly lower FTR rates than average </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSIONS: High-mortality hospitals had slightly higher rates of severe complications than low-mortality hospitals </plain></SENT>
+<SENT sid="14" pm="."><plain>However, FTR was three times higher in high-mortality hospitals than in low-mortality hospitals </plain></SENT>
+<SENT sid="15" pm="."><plain>In quality improvement projects, feedback to hospitals of FTR rates, along with complication rates, may illustrate shortcomings (prevention or management of complications) per hospital, which may be an important step in reducing mortality </plain></SENT>
+</text></document>

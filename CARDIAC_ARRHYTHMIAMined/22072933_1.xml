@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The α(1A)-adrenergic receptor (α(1A)-AR) <z:chebi fb="68" ids="48706">antagonist</z:chebi> is useful in treating <z:hpo ids='HP_0008711'>benign prostatic hyperplasia</z:hpo>, lower urinary tract symptoms, and <z:hpo ids='HP_0011675'>cardiac arrhythmia</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Three-dimensional quantitative structure-activity relationship (3D-QSAR) studies were performed on a set of α(1A)-AR <z:chebi fb="68" ids="48706">antagonists</z:chebi> of N-aryl and N-nitrogen class </plain></SENT>
+<SENT sid="2" pm="."><plain>Statistically significant models constructed from comparative molecular field analysis (CoMFA) and comparative molecular similarity indices analysis (CoMSIA) were established based on a training set of 32 ligands using pharmacophore-based molecular alignment </plain></SENT>
+<SENT sid="3" pm="."><plain>The leave-oneout cross-validation correlation coefficients were q(2) (CoMFA) = 0.840 and q(2) (CoMSIA) = 0.840 </plain></SENT>
+<SENT sid="4" pm="."><plain>The high correlation between the cross-validated/predicted and experimental activities of a test set of 12 ligands revealed that the CoMFA and CoMSIA models were robust (r(2) (pred) (/CoMFA) = 0.694; r(2) (pred) (/CoMSIA) = 0.671) </plain></SENT>
+<SENT sid="5" pm="."><plain>The generated models suggested that electrostatic, hydrophobic, and hydrogen bonding interactions play important roles between ligands and receptors in the active site </plain></SENT>
+<SENT sid="6" pm="."><plain>Our study serves as a guide for further experimental investigations on the synthesis of new compounds </plain></SENT>
+<SENT sid="7" pm="."><plain>Structural modifications based on the present 3D-QSAR results may lead to the discovery of other α(1A)-AR <z:chebi fb="68" ids="48706">antagonists</z:chebi> </plain></SENT>
+</text></document>

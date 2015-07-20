@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:e sem="disease" ids="C0751815" disease_type="Disease or Syndrome" abbrv="">Internal carotid artery dissection</z:e> (ICAD) is a frequent etiology of <z:hpo ids='HP_0001297'>stroke</z:hpo> in the young </plain></SENT>
+<SENT sid="1" pm="."><plain>Immediate anticoagulation with unfractionated <z:chebi fb="5" ids="28304">heparin</z:chebi> is the most frequent treatment </plain></SENT>
+<SENT sid="2" pm="."><plain>A theoretical side effect of unfractionated <z:chebi fb="5" ids="28304">heparin</z:chebi> is an increase in the intramural <z:mp ids='MP_0008817'>hematoma</z:mp> resulting in hemodynamic <z:e sem="disease" ids="C0007785" disease_type="Disease or Syndrome" abbrv="">cerebral infarction</z:e> </plain></SENT>
+<SENT sid="3" pm="."><plain>We studied 20 patients with ICAD </plain></SENT>
+<SENT sid="4" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> patients were immediately treated with unfractionated <z:chebi fb="5" ids="28304">heparin</z:chebi> </plain></SENT>
+<SENT sid="5" pm="."><plain>Activated partial thromboplastin time (aPTT) ratios were measured twice daily </plain></SENT>
+<SENT sid="6" pm="."><plain>We prospectively monitored the course of ICAD with repeated ultrasound in hospital </plain></SENT>
+<SENT sid="7" pm="."><plain>Unexpectedly, delayed ICA occlusion was noted in 5 patients under treatment </plain></SENT>
+<SENT sid="8" pm="."><plain>One of these developed a watershed <z:mpath ids='MPATH_124'>infarct</z:mpath> </plain></SENT>
+<SENT sid="9" pm="."><plain>We then analyzed the aPTT ratios over the first 6 days after diagnosis </plain></SENT>
+<SENT sid="10" pm="."><plain>Patients with delayed occlusion had significantly higher aPTT ratios (2.6 +/- 0.4 vs. 2.0 +/- 0.5, p &lt; 0.05) </plain></SENT>
+<SENT sid="11" pm="."><plain>Within the limits of a partially retrospective design, our study seems to support the notion that unfractionated <z:chebi fb="5" ids="28304">heparin</z:chebi> can increase the intramural <z:mp ids='MP_0008817'>hematoma</z:mp> </plain></SENT>
+<SENT sid="12" pm="."><plain>Our findings further justify a randomized clinical trial to resolve the <z:chebi fb="3" ids="50249">anticoagulant</z:chebi>/antiplatelet debate </plain></SENT>
+</text></document>

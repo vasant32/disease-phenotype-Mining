@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Antilymphocyte globulins (ALG) are <z:chebi fb="1" ids="35705">immunosuppressive agents</z:chebi> of animal origin currently used in clinical transplantation medicine and for the treatment of severe <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>The potency of each batch is tested in vivo using primates as hosts for allogeneic skin transplantation </plain></SENT>
+<SENT sid="2" pm="."><plain>The test is done with a maximum of three animals, one as a control and two after the treatment with ALG </plain></SENT>
+<SENT sid="3" pm="."><plain>The two in vitro methods in use are a cytotoxic assay and the rosette inhibition assay </plain></SENT>
+<SENT sid="4" pm="."><plain>These methods are evaluated with the microscope </plain></SENT>
+<SENT sid="5" pm="."><plain>Besides wellfare aspects these methods require a lot of experience, are subjective, difficult to validate and the information about the biological potency of the sera is questionable </plain></SENT>
+<SENT sid="6" pm="."><plain>The aim of our study is a better biological characterisation as a prerequisite to subsequently define an in vitro alternative for the potency test in monkeys </plain></SENT>
+<SENT sid="7" pm="."><plain>Using a competition assay with monoclonal antibodies we can identify several specificities directed against functional molecules on T cells (e.g., CD2, CD3, CD5, CD28), B Cells (CD19), macrophages and natural killer cells (CD16) and nonlineage specificities such as CD18, CD25, CD29, CD95 </plain></SENT>
+<SENT sid="8" pm="."><plain>This method could describe a part of the biological potency and control homogeneity of batches </plain></SENT>
+<SENT sid="9" pm="."><plain>The cytotoxic capacity of ALG either with or without complement as well as DNA-fragmentation characteristic for <z:mpath ids='MPATH_3'>apoptosis</z:mpath> can be analysed by flowcytometry using <z:chebi fb="0" ids="51240">propidiumiodide</z:chebi>- (PI) incorporation </plain></SENT>
+<SENT sid="10" pm="."><plain>Immunoprecipitation of cell-lysate with ALG&lt;s and subsequent incubation with radioactive ATP (kinase-assay) shows specific bands which seem to be identical between different batches of one product </plain></SENT>
+</text></document>

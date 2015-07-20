@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: In this paper we deal with modeling serum proteolysis process from tandem mass spectrometry data </plain></SENT>
+<SENT sid="1" pm="."><plain>The parameters of <z:chebi fb="7" ids="16670">peptide</z:chebi> degradation process inferred from LC-MS/MS data correspond directly to the activity of specific enzymes present in the serum samples of patients and healthy donors </plain></SENT>
+<SENT sid="2" pm="."><plain>Our approach integrate the existing knowledge about peptidases' activity stored in MEROPS database with the efficient procedure for estimation the model parameters </plain></SENT>
+<SENT sid="3" pm="."><plain>RESULTS: Taking into account the inherent stochasticity of the process, the proteolytic activity is modeled with the use of Chemical Master Equation (CME) </plain></SENT>
+<SENT sid="4" pm="."><plain>Assuming the stationarity of the Markov process we calculate the expected values of digested <z:chebi fb="7" ids="16670">peptides</z:chebi> in the model </plain></SENT>
+<SENT sid="5" pm="."><plain>The parameters are fitted to minimize the discrepancy between those expected values and the <z:chebi fb="7" ids="16670">peptide</z:chebi> activities observed in the MS data </plain></SENT>
+<SENT sid="6" pm="."><plain>Constrained optimization problem is solved by Levenberg-Marquadt algorithm </plain></SENT>
+<SENT sid="7" pm="."><plain>CONCLUSIONS: Our results demonstrates the feasibility and potential of high-level analysis for LC-MS proteomic data </plain></SENT>
+<SENT sid="8" pm="."><plain>The estimated enzyme activities give insights into the molecular pathology of <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> </plain></SENT>
+<SENT sid="9" pm="."><plain>Moreover the developed framework is general and can be applied to study proteolytic activity in different systems </plain></SENT>
+</text></document>

@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Health social networking communities are emerging resources for translational research </plain></SENT>
+<SENT sid="1" pm="."><plain>We have designed and implemented a framework called HyGen, which combines Semantic Web technologies, graph algorithms and user profiling to discover and prioritize novel associations across disciplines </plain></SENT>
+<SENT sid="2" pm="."><plain>This manuscript focuses on the key strategies developed to overcome the challenges in handling patient-generated content in Health social networking communities </plain></SENT>
+<SENT sid="3" pm="."><plain>Heuristic and quantitative evaluations were carried out in <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> </plain></SENT>
+<SENT sid="4" pm="."><plain>The results demonstrate the potential of our approach to bridge silos and to identify hidden links among clinical observations, drugs, genes and diseases </plain></SENT>
+<SENT sid="5" pm="."><plain>In <z:hpo ids='HP_0007354'>Amyotrophic Lateral Sclerosis</z:hpo> case studies, HyGen has identified 15 of the 20 published disease genes </plain></SENT>
+<SENT sid="6" pm="."><plain>Additionally, HyGen has highlighted new candidates for future investigations, as well as a scientifically meaningful connection between riluzole and <z:e sem="disease" ids="C0085762" disease_type="Mental or Behavioral Dysfunction" abbrv="aca">alcohol abuse</z:e> </plain></SENT>
+</text></document>

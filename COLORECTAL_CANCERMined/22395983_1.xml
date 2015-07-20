@@ -1,0 +1,19 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Up to 25% of patients with <z:e sem="disease" ids="C0948380" disease_type="Neoplastic Process" abbrv="">metastatic colorectal cancer</z:e> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e>) present with <z:e sem="disease" ids="C1332128" disease_type="Neoplastic Process" abbrv="">peritoneal carcinomatosis</z:e> (PC) as the only site of <z:e sem="disease" ids="C0027627" disease_type="Neoplastic Process" abbrv="mets">metastases</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>Complete cytoreductive surgery (CCRS) followed by hyperthermic intraperitoneal chemotherapy (HIPEC) aims for locoregional disease control and long-term survival </plain></SENT>
+<SENT sid="2" pm="."><plain><z:chebi fb="0" ids="31941">Oxaliplatin</z:chebi> is effective for treating advanced <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e> </plain></SENT>
+<SENT sid="3" pm="."><plain>This study assesses the safety and efficacy of CCRS with HIPEC with <z:chebi fb="0" ids="31941">oxaliplatin</z:chebi> for patients with PC of <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e> </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS: A Belgian prospective multicenter registry was performed to monitor perioperative morbidity and assess mortality, disease-free survival (DFS), and overall survival (OS) </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: Forty-eight consecutive patients underwent CCRS (R0/1) with HIPEC (male/female ratio 17/31, median age 60 years, range 24-76 years) </plain></SENT>
+<SENT sid="6" pm="."><plain>Median PC index was 11 (range 1-22) </plain></SENT>
+<SENT sid="7" pm="."><plain>Median operation time was 460 (range 125-840) min, with a median blood loss of 475 (range 2-6,000) ml </plain></SENT>
+<SENT sid="8" pm="."><plain>Thirty-day mortality was 0% </plain></SENT>
+<SENT sid="9" pm="."><plain>Complication rate (any grade) was 52.1% </plain></SENT>
+<SENT sid="10" pm="."><plain>Anastomotic leakage occurred in 10.4% of patients, <z:mp ids='MP_0001914'>bleeding</z:mp> in 6.3%, and bowel <z:mpath ids='MPATH_81'>perforation</z:mpath> in 2.1% </plain></SENT>
+<SENT sid="11" pm="."><plain>Median hospital stay was 20 (range 5-65) days </plain></SENT>
+<SENT sid="12" pm="."><plain>At median follow-up of 22.7 (range 3.2-55.7) months, OS was 97.9% [95% confidence interval (CI) 86.1-99.7] at 1 year and 88.7% (95% CI 73.6-95.4) at 2 years </plain></SENT>
+<SENT sid="13" pm="."><plain>DFS at 1 year was 65.8% (95% CI 52.3-76.2) and 45.5% (95% CI 34.3-55.9) at 2 years </plain></SENT>
+<SENT sid="14" pm="."><plain>Median time until recurrence was 19.8 months (95% CI 12-upper limit not defined) </plain></SENT>
+<SENT sid="15" pm="."><plain>Only after dichotomizing PC index was a significant difference in OS found between low and high PC index </plain></SENT>
+<SENT sid="16" pm="."><plain>CONCLUSIONS: CCRS followed by HIPEC with <z:chebi fb="0" ids="31941">oxaliplatin</z:chebi> for PC from <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e> can be implemented with acceptable morbidity </plain></SENT>
+<SENT sid="17" pm="."><plain>Long-term DFS and OS can be achieved in selected patients </plain></SENT>
+</text></document>

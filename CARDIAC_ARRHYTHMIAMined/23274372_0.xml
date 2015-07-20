@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Repolarization alternans (RA), a pattern of ventricular repolarization that repeats on an every other beat basis, has been closely linked with the substrate associated with <z:hpo ids='HP_0004756'>ventricular tachycardia</z:hpo>/<z:hpo ids='HP_0001663'>ventricular fibrillation</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>OBJECTIVE: To evaluate a novel method to suppress RA </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: We have developed a novel method to dynamically (on R-wave detection) trigger pacing pulses during the absolute refractory period </plain></SENT>
+<SENT sid="3" pm="."><plain>We have tested the ability of this method to control RA in a structurally <z:mpath ids='MPATH_458'>normal</z:mpath> swine heart in vivo </plain></SENT>
+<SENT sid="4" pm="."><plain>RESULTS: RA induced by triggered pacing can be measured from both intracardiac and body surface leads and the amplitude of R-wave triggered pacing-induced alternans can be locally modulated by varying the amplitude and width of the pacing pulse </plain></SENT>
+<SENT sid="5" pm="."><plain>We have estimated that to induce a 1 μV change in alternans voltage on the body surface, coronary sinus, and left ventricle leads, a triggered pacing pulse delivered in the right ventricle of 0.04±0.02, 0.05±0.025, and 0.06±0.033 μC, respectively, is required </plain></SENT>
+<SENT sid="6" pm="."><plain>Similarly, to induce a 1 unit change in Kscore (ratio of alternans peak to noise), a pacing stimulus of 0.93±0.73, 0.32±0.29, and 0.33±0.37 μC, respectively, is required </plain></SENT>
+<SENT sid="7" pm="."><plain>We have been able to demonstrate that RA can be suppressed by R-wave triggered pacing from a site that is within or across ventricles </plain></SENT>
+<SENT sid="8" pm="."><plain>Lastly, we have demonstrated that the proposed method can be used to suppress spontaneously occurring alternans in the diseased heart </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSION: We have developed a novel method to suppress RA in vivo </plain></SENT>
+</text></document>

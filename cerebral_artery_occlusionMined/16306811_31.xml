@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Soluble <z:chebi fb="0" ids="32955">epoxide</z:chebi> hydrolase (sEH) inhibitors have been demonstrated to have cardiovascular protective actions </plain></SENT>
+<SENT sid="1" pm="."><plain>This hydrolase enzyme converts fatty acid <z:chebi fb="1" ids="32955">epoxides</z:chebi> to their corresponding <z:chebi fb="0" ids="23824">diols</z:chebi>, and this conversion can alter the biologic activity of these metabolites </plain></SENT>
+<SENT sid="2" pm="."><plain>We hypothesized that 12-(3-<z:chebi fb="0" ids="40519">adamantan</z:chebi>-1-yl-ureido)<z:chebi fb="0" ids="30805">dodecanoic acid</z:chebi> (AUDA), a sEH inhibitor, would protect <z:hpo ids='HP_0001297'>stroke</z:hpo>-prone spontaneously hypertensive rats from <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>AUDA was administered to 6-week-old male rats for 6 weeks, during which blood pressure was measured by telemetry </plain></SENT>
+<SENT sid="4" pm="."><plain><z:hpo ids='HP_0002637'>Cerebral ischemia</z:hpo> was induced by middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp>, the size of the cerebral <z:mpath ids='MPATH_124'>infarct</z:mpath> was assessed after 6 hours of <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e>, and the results were expressed as a percentage of the hemisphere infarcted (%HI) </plain></SENT>
+<SENT sid="5" pm="."><plain>Vascular structure and function were assessed using a pressurized arteriograph </plain></SENT>
+<SENT sid="6" pm="."><plain>Plasma levels of AUDA at the end of the treatment period averaged 5.0 +/- 0.4 ng/mL, and the urinary excretion rate was 99 +/- 21 ng/d </plain></SENT>
+<SENT sid="7" pm="."><plain>AUDA-treated rats had significantly smaller cerebral <z:mpath ids='MPATH_124'>infarcts</z:mpath> than control rats (36 +/- 4% vs 53 +/- 4% HI, treated versus control, P &lt; 0.05, n = 6) </plain></SENT>
+<SENT sid="8" pm="."><plain>This difference occurred independently of changes in blood pressure </plain></SENT>
+<SENT sid="9" pm="."><plain>AUDA treatment increased the passive compliance of the cerebral vessels but had no effect on vascular structure </plain></SENT>
+<SENT sid="10" pm="."><plain>The results of this study provide novel evidence suggesting that the sEH inhibitor AUDA is a possible therapeutic agent for <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> </plain></SENT>
+</text></document>

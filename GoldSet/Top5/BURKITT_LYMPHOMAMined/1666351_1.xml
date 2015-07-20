@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Human B cell lines were tested for the capacity to convert C3 to C3b/iC3b through the alternative C pathway (<z:chebi fb="65" ids="13534">ACP</z:chebi>) and to fix the generated C3 fragments </plain></SENT>
+<SENT sid="1" pm="."><plain>The panel of lines included four Epstein-Barr virus (EBV)-negative Burkitt's <z:hpo ids='HP_0002665'>lymphomas</z:hpo> and their sublines converted with two EBV strains: the prototype B958 (B virus) and the nontransforming P3HR-1 (P virus) </plain></SENT>
+<SENT sid="2" pm="."><plain>Comparison of these groups of parallel lines (derived from a single patient) showed that the EBV-carrying cells were more efficient in activation and fixation of C3 </plain></SENT>
+<SENT sid="3" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> cell lines activated C3 with higher efficiency when treated with interferon gamma or <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> <z:mp ids='MP_0001651'>necrosis</z:mp> factor alpha </plain></SENT>
+<SENT sid="4" pm="."><plain>After treatment, the comparative relationships between the sublines changed </plain></SENT>
+<SENT sid="5" pm="."><plain>The treated EBV-negative and the P virus converted sublines showed similar levels of <z:chebi fb="65" ids="13534">ACP</z:chebi> activation, while the B virus carrying sublines were more efficient </plain></SENT>
+<SENT sid="6" pm="."><plain>The amounts of bound C3 fragments on the activating cells correlated with the <z:chebi fb="65" ids="13534">ACP</z:chebi> efficiencies </plain></SENT>
+<SENT sid="7" pm="."><plain>In accordance with the elevated <z:chebi fb="65" ids="13534">ACP</z:chebi> activation capacity of the cells after cytokine treatment, the amounts of C3 fragments detected on their surfaces were higher </plain></SENT>
+<SENT sid="8" pm="."><plain>Among the lines tested, only two (BL28 and Ramos) were sensitive to C-mediated lysis </plain></SENT>
+<SENT sid="9" pm="."><plain>The lytic sensitivity of these two lines increased after treatment with the cytokines </plain></SENT>
+<SENT sid="10" pm="."><plain>The results indicate, therefore, that the cytokine-induced increase in <z:chebi fb="65" ids="13534">ACP</z:chebi> activation by Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> line is not sufficient to overcome resistance to C lysis </plain></SENT>
+</text></document>

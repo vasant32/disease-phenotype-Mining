@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIM: To examine the clinical spectrum of <z:hpo ids='HP_0002020'>gastroesophageal reflux disease</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">GERD</z:e>) and compare erosive (ERD) with non-erosive (NERD) in terms of clinical, demographic and psychiatric profiles </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: Patients with reflux symptoms were enrolled and stratified to NERD and ERD after endoscopy (LA classification) </plain></SENT>
+<SENT sid="2" pm="."><plain>Patients with ERD presenting with <z:e sem="disease" ids="C0013395" disease_type="Disease or Syndrome" abbrv="">dyspepsia</z:e> were included </plain></SENT>
+<SENT sid="3" pm="."><plain>Patients on <z:chebi fb="0" ids="49200">proton pump inhibitors</z:chebi> (<z:chebi fb="4" ids="53266">PPI</z:chebi>) or <z:chebi fb="0" ids="37961">H2 receptor antagonists</z:chebi> before endoscopy were excluded </plain></SENT>
+<SENT sid="4" pm="."><plain>Demographic data, Helicobacter pylori (H pylori) status and presence of minor psychiatric morbidity (based on General Health Questionnaire-28) were analyzed </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: Among 690 patients screened, 533 were eligible for analysis (male to female ratio: 3:2; Chinese: 75.4%; Malay: 9.8%; Indian: 14.8%) </plain></SENT>
+<SENT sid="6" pm="."><plain>Clinical spectrum of <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">GERD</z:e>: N: 40.5%; A: 46%; B: 9.2%; C: 2.1%; D: 0.6%; <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo>: 1.7% </plain></SENT>
+<SENT sid="7" pm="."><plain>Compared to patients with NERD, patients with ERD were significantly older (45 vs 39.4 years), more likely to be male (64.4% vs 53.7%), tended to smoke (19.6% vs 9.7%), less likely to have minor psychiatric morbidity (26.4 vs 46.7%) and were more likely to respond to <z:chebi fb="4" ids="53266">PPI</z:chebi> (79.7 vs 66.8%) </plain></SENT>
+<SENT sid="8" pm="."><plain>There was also a trend towards a higher BMI (24.5 vs 23.5) </plain></SENT>
+<SENT sid="9" pm="."><plain>Race, alcohol consumption and H pylori status were not significant </plain></SENT>
+<SENT sid="10" pm="."><plain>On multivariate analysis, age and presence of minor psychiatric morbidity remained with significant differences </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSION: The majority of patients who have typical symptoms of <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">GERD</z:e> have NERD or mild erosive reflux disease </plain></SENT>
+<SENT sid="12" pm="."><plain>Compared to patients with erosive reflux disease, patients with NERD were younger and had a higher prevalence of minor psychiatric morbidity </plain></SENT>
+</text></document>

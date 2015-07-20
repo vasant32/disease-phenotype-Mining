@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Chromosome 7q22 has been the focus of many cytogenetic and molecular studies aimed at delineating regions commonly deleted in myeloid <z:hpo ids='HP_0001909'>leukemias</z:hpo> and <z:hpo ids='HP_0002863'>myelodysplastic syndromes</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>We have compared a gene-dense, GC-rich sub-region of 7q22 with the orthologous region on mouse chromosome 5 </plain></SENT>
+<SENT sid="2" pm="."><plain>A physical map of 640 kb of genomic DNA from mouse chromosome 5 was derived from a series of overlapping <z:mp ids='MP_0001794'>bacterial</z:mp> artificial chromosomes </plain></SENT>
+<SENT sid="3" pm="."><plain>A 296 kb segment from the physical map, spanning ACHE: to Tfr2, was compared with 267 kb of human sequence </plain></SENT>
+<SENT sid="4" pm="."><plain>We identified a conserved linkage of 12 genes including an open reading frame flanked by ACHE: and Asr2, a novel <z:chebi fb="36" ids="36916">cation</z:chebi>-<z:chebi fb="76" ids="17996">chloride</z:chebi> cotransporter interacting protein Cip1, Ephb4, Zan and Perq1 </plain></SENT>
+<SENT sid="5" pm="."><plain>While some of these genes have been previously described, in each case we present new data derived from our comparative sequence analysis </plain></SENT>
+<SENT sid="6" pm="."><plain>Adjacent unfinished sequence data from the mouse contains an orthologous block of 10 additional genes including three novel cDNA sequences that we subsequently mapped to human 7q22 </plain></SENT>
+<SENT sid="7" pm="."><plain>Methods for displaying comparative genomic information, including unfinished sequence data, are becoming increasingly important </plain></SENT>
+<SENT sid="8" pm="."><plain>We supplement our printed comparative analysis with a new, Web-based program called Laj (local alignments with java) </plain></SENT>
+<SENT sid="9" pm="."><plain>Laj provides interactive access to archived pairwise sequence alignments via the WWW </plain></SENT>
+<SENT sid="10" pm="."><plain>It displays synchronized views of a dot-plot, a percent identity plot, a nucleotide-level local alignment and a variety of relevant annotations </plain></SENT>
+<SENT sid="11" pm="."><plain>Our mouse-human comparison can be viewed at http://web.uvic.ca/~bioweb/laj.html </plain></SENT>
+<SENT sid="12" pm="."><plain>Laj is available at http://bio.cse.psu.edu/, along with online documentation and additional examples of annotated genomic regions </plain></SENT>
+</text></document>

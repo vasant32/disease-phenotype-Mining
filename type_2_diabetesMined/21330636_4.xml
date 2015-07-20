@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: The incretin glucagon-like <z:chebi fb="7" ids="16670">peptide</z:chebi> 1 (GLP-1) exerts insulinotropic activity in type 2 diabetic patients, whereas <z:chebi fb="105" ids="17234">glucose</z:chebi>-dependent insulinotropic <z:chebi fb="1" ids="15841">polypeptide</z:chebi> (GIP) no longer does </plain></SENT>
+<SENT sid="1" pm="."><plain>We studied whether GIP can alter the insulinotropic or glucagonostatic activity of GLP-1 in type 2 diabetic patients </plain></SENT>
+<SENT sid="2" pm="."><plain>RESEARCH DESIGN AND METHODS: Twelve patients with type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> (nine men and three women; 61 ± 10 years; BMI 30.0 ± 3.7 kg/m²; HbA(1c) 7.3 ± 1.5%) were studied </plain></SENT>
+<SENT sid="3" pm="."><plain>In randomized order, intravenous infusions of GLP-1(7-36)-<z:chebi fb="0" ids="29337,32988">amide</z:chebi> (1.2 pmol · kg⁻¹ · min⁻¹), GIP (4 pmol · kg⁻¹ · min⁻¹), GLP-1 plus GIP, and placebo were administered over 360 min after an overnight fast (≥ 1 day wash-out period between experiments) </plain></SENT>
+<SENT sid="4" pm="."><plain>Capillary blood <z:chebi fb="105" ids="17234">glucose</z:chebi>, plasma insulin, C-<z:chebi fb="7" ids="16670">peptide</z:chebi>, glucagon, GIP, GLP-1, and free fatty acids (FFA) were determined </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: Exogenous GLP-1 alone reduced glycemia from 10.3 to 5.1 ± 0.2 mmol/L </plain></SENT>
+<SENT sid="6" pm="."><plain>Insulin secretion was stimulated (insulin, C-<z:chebi fb="7" ids="16670">peptide</z:chebi>, P &lt; 0.0001), and glucagon was suppressed (P = 0.009) </plain></SENT>
+<SENT sid="7" pm="."><plain>With GIP alone, <z:chebi fb="105" ids="17234">glucose</z:chebi> was lowered slightly (P = 0.0021); insulin and C-<z:chebi fb="7" ids="16670">peptide</z:chebi> were stimulated to a lesser degree than with GLP-1 (P &lt; 0.001) </plain></SENT>
+<SENT sid="8" pm="."><plain>Adding GIP to GLP-1 did not further enhance the insulinotropic activity of GLP-1 (insulin, P = 0.90; C-<z:chebi fb="7" ids="16670">peptide</z:chebi>, P = 0.85) </plain></SENT>
+<SENT sid="9" pm="."><plain>Rather, the suppression of glucagon elicited by GLP-1 was antagonized by the addition of GIP (P = 0.008) </plain></SENT>
+<SENT sid="10" pm="."><plain>FFA were suppressed by GLP-1 (P &lt; 0.0001) and hardly affected by GIP (P = 0.07) </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: GIP is unable to further amplify the insulinotropic and <z:chebi fb="105" ids="17234">glucose</z:chebi>-lowering effects of GLP-1 in type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="12" pm="."><plain>Rather, the suppression of glucagon by GLP-1 is antagonized by GIP </plain></SENT>
+</text></document>

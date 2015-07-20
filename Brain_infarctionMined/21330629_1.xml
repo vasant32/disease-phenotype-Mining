@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND PURPOSE: Early assessment of the likelihood of neurological recovery in <z:e sem="disease" ids="C0009421" disease_type="Disease or Syndrome" abbrv="">comatose</z:e> <z:hpo ids='HP_0001695'>cardiac arrest</z:hpo> survivors remains challenging </plain></SENT>
+<SENT sid="1" pm="."><plain>We hypothesize that quantitative noncontrast computed tomography (NCCT) combined with neurological assessments, are predictive of outcome </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: We analyzed data sets acquired from <z:e sem="disease" ids="C0009421" disease_type="Disease or Syndrome" abbrv="">comatose</z:e> <z:hpo ids='HP_0001695'>cardiac arrest</z:hpo> patients who underwent CT within 72 hours of arrest </plain></SENT>
+<SENT sid="3" pm="."><plain>Images were semiautomatically segmented into anatomic regions </plain></SENT>
+<SENT sid="4" pm="."><plain>Median Hounsfield units (HU) were measured regionally and in the whole brain (WB) </plain></SENT>
+<SENT sid="5" pm="."><plain>Outcome was based on the 6-month modified Rankin Scale (mRS) score </plain></SENT>
+<SENT sid="6" pm="."><plain>Logistic regression was used to combine Glasgow <z:hpo ids='HP_0001259'>Coma</z:hpo> Scale (GCS) score measured on Day 3 post arrest (GCS_Day3) with imaging to predict poor outcome (mRS&gt;4) </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: WB HU (P=0.02) and the ratio of HU in the putamen to the posterior limb of the internal capsule (PLIC) (P=0.004) from 175 datasets from 151 patients were univariate predictors of poor outcome </plain></SENT>
+<SENT sid="8" pm="."><plain>Thirty-three patients underwent <z:hpo ids='HP_0002045'>hypothermia</z:hpo> treatment </plain></SENT>
+<SENT sid="9" pm="."><plain>Multivariate analysis showed that combining median HU in the putamen (P=0.0006) and PLIC (P=0.007) was predictive of poor outcome </plain></SENT>
+<SENT sid="10" pm="."><plain>Combining WB HU and GCS_Day3 resulted in 72% [61% to 80%] sensitivity and 100% [73% to 100%] specificity for predicting poor outcome in 86 patients with measurable GCS_Day3 </plain></SENT>
+<SENT sid="11" pm="."><plain>This was an improvement over prognostic performance based on GCS_Day3≤8 (98% sensitive but 71% specific) </plain></SENT>
+<SENT sid="12" pm="."><plain>DISCUSSION: Combining density changes on CT with GCS_Day3 may be useful for predicting poor outcome in <z:e sem="disease" ids="C0009421" disease_type="Disease or Syndrome" abbrv="">comatose</z:e> <z:hpo ids='HP_0001695'>cardiac arrest</z:hpo> patients who are neither rapidly improving nor deteriorating </plain></SENT>
+<SENT sid="13" pm="."><plain>Improved prognostication with CT compared with neurological assessments can be achieved in patients treated with <z:hpo ids='HP_0002045'>hypothermia</z:hpo> </plain></SENT>
+</text></document>

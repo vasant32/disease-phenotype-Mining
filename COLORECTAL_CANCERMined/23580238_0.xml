@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Treatments that target the vascular endothelial growth factor (VEGF) pathway have efficacy in <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>We evaluated tolerability and efficacy of tivozanib (an oral VEGF receptor-1, -2, -3 inhibitor) plus everolimus (an oral mammalian target of <z:chebi fb="0" ids="9168">rapamycin</z:chebi> inhibitor) </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: The phase Ib study followed a 3 + 3 dose-escalation design with three dose levels </plain></SENT>
+<SENT sid="3" pm="."><plain>The primary objective in the follow-on phase II study was improvement in 2-month progression-free survival (PFS) from 30% (historical benchmark) to 50% in patients with refractory, <z:e sem="disease" ids="C0948380" disease_type="Neoplastic Process" abbrv="">metastatic colorectal cancer</z:e> </plain></SENT>
+<SENT sid="4" pm="."><plain>RESULTS: Dose-limiting toxicities in the phase Ib study were grade 3 <z:mp ids='MP_0002899'>fatigue</z:mp> and <z:hpo ids='HP_0001944'>dehydration</z:hpo> </plain></SENT>
+<SENT sid="5" pm="."><plain>Oral tivozanib (1 mg daily for 3 of 4 weeks) and oral everolimus (10 mg daily continuously) were advanced to a 40-patient phase II study </plain></SENT>
+<SENT sid="6" pm="."><plain>The most common grade 3-4 adverse events were <z:hpo ids='HP_0001873'>thrombocytopenia</z:hpo> and <z:hpo ids='HP_0002148'>hypophosphatemia</z:hpo> </plain></SENT>
+<SENT sid="7" pm="."><plain>The 2-month PFS rate was 50%, with 20 of 40 patients having stable disease (SD) </plain></SENT>
+<SENT sid="8" pm="."><plain>Seven (18%) patients were treated for ≥6 months </plain></SENT>
+<SENT sid="9" pm="."><plain>Median PFS and overall survival (OS) times were 3.0 months (95% confidence interval [CI]: 1.9-3.6 months) and 5.6 months (95% CI: 4.4-10.6 months), respectively </plain></SENT>
+<SENT sid="10" pm="."><plain>Patients who developed grade 1+ <z:hpo ids='HP_0000822'>hypertension</z:hpo> had increased SD rates (65.2% vs. 29.4%) and longer OS times (10.6 vs. 3.7 months) </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: The oral combination of tivozanib and everolimus was well tolerated, with stable disease achieved in 50% of patients with refractory, <z:e sem="disease" ids="C0948380" disease_type="Neoplastic Process" abbrv="">metastatic colorectal cancer</z:e> </plain></SENT>
+</text></document>

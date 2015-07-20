@@ -1,0 +1,23 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>INTRODUCTION: Patients with severe <z:hpo ids='HP_0100279'>Ulcerative Colitis</z:hpo> (UC) are commonly identified using the Truelove and <z:e sem="disease" ids="C0271977" disease_type="Disease or Syndrome" abbrv="">Witts</z:e>(1) criteria on presentation </plain></SENT>
+<SENT sid="1" pm="."><plain>The Travis(2) and Ho(3) scores are subsequently used to identify patients with severe UC who are at high risk of failing medical therapy and needing second line therapy or colectomy </plain></SENT>
+<SENT sid="2" pm="."><plain>To date there has been no direct comparison between Travis and Ho scores to determine which is superior </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: We analysed data from 3049 patients with UC collected during the 2010 round of the UK IBD audit </plain></SENT>
+<SENT sid="4" pm="."><plain>984 patients had <z:hpo ids='HP_0011009'>acute</z:hpo> severe UC according to the Truelove and <z:e sem="disease" ids="C0271977" disease_type="Disease or Syndrome" abbrv="">Witts</z:e> criteria </plain></SENT>
+<SENT sid="5" pm="."><plain>Those that failed steroid therapy were scored using both Travis and Ho criteria and allocated into either a Travis "high" or "low" risk group and either a Ho "high", "medium" or "low" risk group </plain></SENT>
+<SENT sid="6" pm="."><plain>We assessed whether further medical or surgical intervention varied between groups </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: Patients requiring surgery did not differ between the high risk groups (Travis 49%, n = 93 and Ho 51%, n = 84, respectively) </plain></SENT>
+<SENT sid="8" pm="."><plain>However, only 35% (n = 53) in the medium risk Ho group, 26% (n = 17) in the low risk Ho group and 32% (n = 65) in the low risk Travis group underwent surgery </plain></SENT>
+<SENT sid="9" pm="."><plain>Similarly 41% (n = 78) and 38% (n = 63) of patients in the high risk Travis and Ho groups respectively were treated with <z:chebi fb="0" ids="4031">ciclosporin</z:chebi>, whereas only 34% (n = 51) were treated in the medium risk Ho group, 25% (n = 16) in the low risk Ho group and 27% (n = 55) in the low risk Travis group </plain></SENT>
+<SENT sid="10" pm="."><plain>Resistance to <z:chebi fb="0" ids="4031">ciclosporin</z:chebi> correlated with increasing risk stratification, although this failed to reach statistical significance for <z:hpo ids='HP_0000001'>all</z:hpo> groups </plain></SENT>
+<SENT sid="11" pm="."><plain>The use of anti-TNFs was the same across <z:hpo ids='HP_0000001'>all</z:hpo> three groups, although like <z:chebi fb="0" ids="4031">ciclosporin</z:chebi>, the tendency to TNF resistance also increased with increasing risk group </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSION: The Travis and Ho scores are equally able to identify patients who are at high risk of failing medical therapy and needing colectomy or second line medical therapy </plain></SENT>
+<SENT sid="13" pm="."><plain>The Ho score may also be able to identify an intermediate risk group which also has an intermediate response to second line therapy </plain></SENT>
+<SENT sid="14" pm="."><plain>Both scores are useful tools to aid clinical decision making but do not replace timely multidisciplinary care for these patients </plain></SENT>
+<SENT sid="15" pm="."><plain>REFERENCES: 1 Truelove SC, <z:e sem="disease" ids="C0271977" disease_type="Disease or Syndrome" abbrv="">Witts</z:e> DJ </plain></SENT>
+<SENT sid="16" pm="."><plain><z:chebi fb="11" ids="16962">Cortisone</z:chebi> in <z:hpo ids='HP_0100279'>ulcerative colitis</z:hpo> </plain></SENT>
+<SENT sid="17" pm="."><plain>Br Med J 1955;2(4947):1041-1048 2 Travis SPL, Farrant JM, Ricketts C, Nolan DJ, Mortensen NM, Kettlewell MGW, Jewell DP </plain></SENT>
+<SENT sid="18" pm="."><plain>Predicting outcome in severe <z:hpo ids='HP_0100279'>ulcerative colitis</z:hpo> </plain></SENT>
+<SENT sid="19" pm="."><plain>Gut 1996;38(6):905-910 3 Ho GT, Mowat C, Goddard CJR, Fennell JM, Shah NB, Prescott RJ, Satsangi J </plain></SENT>
+<SENT sid="20" pm="."><plain>Predicting the outcome of severe <z:hpo ids='HP_0100279'>ulcerative colitis</z:hpo>: development of a novel risk score to aid early selection of patients for second-line medical therapy or surgery </plain></SENT>
+<SENT sid="21" pm="."><plain>Aliment Pharmacol Ther 2004;19(10):1079-87 DISCLOSURE OF INTEREST: None Declared </plain></SENT>
+</text></document>

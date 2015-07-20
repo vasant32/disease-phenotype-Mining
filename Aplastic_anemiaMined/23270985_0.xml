@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Immunodepletion with alemtuzumab is an effective strategy for preventing <z:e sem="disease" ids="C0018133" disease_type="Disease or Syndrome" abbrv="GVH">graft-versus-host disease</z:e> after allogeneic stem cell transplantation (SCT), but it may be associated with graft failure </plain></SENT>
+<SENT sid="1" pm="."><plain>We tested the effectiveness of a <z:chebi fb="0" ids="35584">purine</z:chebi> analog-based reduced-intensity conditioning combination in patients undergoing allogeneic SCT for bone marrow <z:mpath ids='MPATH_58'>aplasia</z:mpath> </plain></SENT>
+<SENT sid="2" pm="."><plain>Patients with severe marrow <z:mpath ids='MPATH_58'>aplasia</z:mpath> who had a tissue-compatible sibling donor were conditioned with fludarabine 30 mg/m(2) for 5 days and <z:chebi fb="0" ids="4027">cyclophosphamide</z:chebi> 120 mg/kg </plain></SENT>
+<SENT sid="3" pm="."><plain>Stem cells from HLA-identical sibling donors were mobilized with filgrastim, and the harvested blood concentrates were incubated ex vivo with alemtuzumab </plain></SENT>
+<SENT sid="4" pm="."><plain>After graft infusion, patients received therapeutic doses of <z:chebi fb="0" ids="4031">cyclosporine</z:chebi> up to day 90 </plain></SENT>
+<SENT sid="5" pm="."><plain>The primary objective of this study was to examine the proportion of patients who achieved engraftment and overall survival </plain></SENT>
+<SENT sid="6" pm="."><plain>Secondary objectives were the rates of <z:e sem="disease" ids="C0018133" disease_type="Disease or Syndrome" abbrv="GVH">graft-versus-host disease</z:e>, posttransplantation <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infections</z:e>, and graft failure </plain></SENT>
+<SENT sid="7" pm="."><plain>The study group comprised 30 patients who received a total of 31 cytokine-mobilized blood stem cell transplantations </plain></SENT>
+<SENT sid="8" pm="."><plain>The median CD34(+) cell dose infused was 4.99 × 10(6)/kg </plain></SENT>
+<SENT sid="9" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> patients engrafted at a median of 12 days post-SCT </plain></SENT>
+<SENT sid="10" pm="."><plain>Two patients exhibited delayed graft failure, at 3 months and 7 months post-SCT, and required retransplantation or donor lymphocyte infusion to reestablish full-donor chimerism </plain></SENT>
+<SENT sid="11" pm="."><plain>At a median of 1,560 days post-SCT, <z:hpo ids='HP_0000001'>all</z:hpo> patients survived and were transfusion-free </plain></SENT>
+<SENT sid="12" pm="."><plain>We confirm that the combination of <z:chebi fb="0" ids="35584">purine</z:chebi> analog and <z:chebi fb="0" ids="4027">cyclophosphamide</z:chebi> is adequate for engraftment of grafts immunodepleted with alemtuzumab </plain></SENT>
+<SENT sid="13" pm="."><plain>This strategy is associated with excellent outcomes </plain></SENT>
+</text></document>

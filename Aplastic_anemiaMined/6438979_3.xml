@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>23 patients undergoing marrow transplantation for <z:hpo ids='HP_0001909'>leukemia</z:hpo> or <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> were given <z:chebi fb="0" ids="4031">cyclosporin A</z:chebi> (CyA) for <z:e sem="disease" ids="C0018133" disease_type="Disease or Syndrome" abbrv="GVH">graft-versus-host disease</z:e> (GvHD) prophylaxis </plain></SENT>
+<SENT sid="1" pm="."><plain>A radioimmunoassay was used to monitor CyA serum levels in 13 patients and whole blood levels in 10 </plain></SENT>
+<SENT sid="2" pm="."><plain>Serum <z:chebi fb="0" ids="16737">creatinine</z:chebi> levels were recorded daily until day 30 and then weekly </plain></SENT>
+<SENT sid="3" pm="."><plain>The severity of <z:hpo ids='HP_0011009'>acute</z:hpo> GvHD was recorded daily for a total of 1,738 patient days </plain></SENT>
+<SENT sid="4" pm="."><plain>CyA dose was then correlated with CyA serum or blood levels, serum <z:chebi fb="0" ids="16737">creatinine</z:chebi> levels and severity of <z:hpo ids='HP_0011009'>acute</z:hpo> GvHD </plain></SENT>
+<SENT sid="5" pm="."><plain>The daily dose of administered CyA correlated with serum CyA levels (p = 0.001) but not with whole-blood CyA levels </plain></SENT>
+<SENT sid="6" pm="."><plain>The cumulative CyA dose correlated with serum <z:chebi fb="0" ids="16737">creatinine</z:chebi> </plain></SENT>
+<SENT sid="7" pm="."><plain>There was an inverse correlation between the daily CyA dose and the severity of <z:hpo ids='HP_0011009'>acute</z:hpo> GvHD (p = 0.05) </plain></SENT>
+<SENT sid="8" pm="."><plain>On the other hand the total amount of CyA given within 10 days after bone marrow transplantation had no influence on the severity of <z:hpo ids='HP_0011009'>acute</z:hpo> GvHD developing after day 10 </plain></SENT>
+<SENT sid="9" pm="."><plain>Serum and whole-blood levels did not correlate with severity of GvHD nor with <z:chebi fb="0" ids="16737">creatinine</z:chebi> levels </plain></SENT>
+<SENT sid="10" pm="."><plain>The results of this study point out the nephrotoxicity of CyA, and a low GvHD score with high doses of administered CyA, at least on a daily basis </plain></SENT>
+<SENT sid="11" pm="."><plain>Serum but not blood levels reflect the dose of CyA given, but are not correlated with nephrotoxicity or GvHD </plain></SENT>
+</text></document>

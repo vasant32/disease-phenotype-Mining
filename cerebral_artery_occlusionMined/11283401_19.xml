@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND PURPOSE: Early identification of irreversible <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> is critical in defining strategies that influence neuronal survival after <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>We used MRI to investigate the effects of <z:chebi fb="0" ids="16469">17beta-estradiol</z:chebi> (E2) on the temporal evolution of focal <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: Female rats were ovariectomized and divided into 1 of 2 groups: ovariectomy alone (OVX; n=4) or ovariectomy with <z:chebi fb="0" ids="50114">estrogen</z:chebi> replacement (OVX+E2; n=3) </plain></SENT>
+<SENT sid="3" pm="."><plain>Both groups were then subjected to 1-hour middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (MCAO), with the use of a standardized endovascular monofilament model, followed by reperfusion </plain></SENT>
+<SENT sid="4" pm="."><plain>Sequential diffusion-weighted (DWI) and T2-weighted (T2WI) MRI were obtained during and after the MCAO </plain></SENT>
+<SENT sid="5" pm="."><plain>In separate groups of animals (n=5 for OVX and OVX+E2), cerebral blood flow (CBF) was measured by laser-Doppler methods before, during, and after occlusion </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: DWI detected similar lesion characteristics during MCAO in both groups </plain></SENT>
+<SENT sid="7" pm="."><plain>In the OVX group, lesion size did not change during reperfusion, but the signal intensity ratio increased early and stabilized during the latter stages </plain></SENT>
+<SENT sid="8" pm="."><plain>In contrast, DWI lesion size decreased during reperfusion in OVX+E2 rats by 50% to 60% (P&lt;0.05), a size reduction almost exclusively limited to cortical regions </plain></SENT>
+<SENT sid="9" pm="."><plain>During MCAO, the signal intensity ratio in OVX+E2 rats was reduced compared with OVX rats </plain></SENT>
+<SENT sid="10" pm="."><plain>Reperfusion further attenuated the signal intensity ratio in cortical but not subcortical regions (P&lt;0.05 versus OVX) </plain></SENT>
+<SENT sid="11" pm="."><plain>T2WI revealed no lesions in either group during MCAO, but it detected lesion sizes similar to that of DWI during reperfusion </plain></SENT>
+<SENT sid="12" pm="."><plain>Furthermore, similar patterns and magnitudes of <z:chebi fb="0" ids="50114">estrogen</z:chebi> treatment-related decrease in lesion size were noted after reperfusion </plain></SENT>
+<SENT sid="13" pm="."><plain>T2WI demonstrated less intense signal intensity ratio changes in both groups compared with DWI </plain></SENT>
+<SENT sid="14" pm="."><plain>There were no differences in CBF between groups either during occlusion, early reperfusion, or 1 day after reperfusion </plain></SENT>
+<SENT sid="15" pm="."><plain>CONCLUSIONS: This study strongly suggests that <z:chebi fb="1" ids="50114">estrogens</z:chebi> selectively protect cortical tissue from ischemic damage during MCAO and that this protection is exerted during both the occlusion and reperfusion phases of <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> and does not involve an <z:chebi fb="0" ids="50114">estrogen</z:chebi>-related change in CBF </plain></SENT>
+</text></document>

@@ -1,0 +1,5 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Renal artery and <z:hpo ids='HP_0004936'>venous thrombosis</z:hpo> and <z:e sem="disease" ids="C0034155" disease_type="Disease or Syndrome" abbrv="">thrombotic microangiopathy</z:e> have been related to PAPS </plain></SENT>
+<SENT sid="1" pm="."><plain>This condition may lead to <z:hpo ids='HP_0003774'>end-stage renal disease</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">ESRD</z:e>) </plain></SENT>
+<SENT sid="2" pm="."><plain>We present 2 patients with PAPS and <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">ESRD</z:e> who received a living unrelated kidney transplant </plain></SENT>
+<SENT sid="3" pm="."><plain>Despite intensive <z:chebi fb="3" ids="50249">anticoagulant</z:chebi> therapy, the disease recurred in the grafts </plain></SENT>
+</text></document>

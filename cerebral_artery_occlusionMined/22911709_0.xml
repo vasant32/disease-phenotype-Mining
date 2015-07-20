@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Dabigatran etexilate (DE) is a new oral direct thrombin inhibitor </plain></SENT>
+<SENT sid="1" pm="."><plain>Clinical trials point towards a favourable risk-to-benefit profile of DE compared to <z:chebi fb="8" ids="10033">warfarin</z:chebi> </plain></SENT>
+<SENT sid="2" pm="."><plain>In this study, we evaluated whether hemorrhagic transformation (HT) occurs after experimental <z:hpo ids='HP_0001297'>stroke</z:hpo> under DE treatment as we have shown for <z:chebi fb="8" ids="10033">warfarin</z:chebi> </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: 44 male C57BL/6 mice were pretreated orally with 37.5 mg/kg DE, 75 mg/kg DE or saline and diluted thrombin time (dTT) and DE plasma concentrations were monitored </plain></SENT>
+<SENT sid="4" pm="."><plain><z:hpo ids='HP_0002140'>Ischemic stroke</z:hpo> was induced by transient middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (tMCAO) for 1 h or 3 h </plain></SENT>
+<SENT sid="5" pm="."><plain>We assessed functional outcome and HT blood volume 24 h and 72 h after tMCAO </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: After 1 h tMCAO, HT blood volume did not differ significantly between mice pretreated with DE 37.5 mg/kg and controls (1.5±0.5 µl vs. 1.8±0.5 µl, p&gt;0.05) </plain></SENT>
+<SENT sid="7" pm="."><plain>After 3 h tMCAO, DE-anticoagulated mice did also not show an increase in HT, neither at the dose of 37.5 mg/kg equivalent to <z:chebi fb="3" ids="50249">anticoagulant</z:chebi> treatment in the therapeutic range (1.3±0.9 µl vs. control 2.3±0.5 µl, p&gt;0.05) nor at 75 mg/kg, clearly representing supratherapeutic anticoagulation (1.8±0.8 µl, p&gt;0.05) </plain></SENT>
+<SENT sid="8" pm="."><plain>Furthermore, no significant increase in HT under continued anticoagulation with DE 75 mg/kg could be found at 72 h after tMCAO for 1 h (1.7±0.9 µl vs. control 1.6±0.4 µl, p&gt;0.05) </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSION: Our experimental data suggest that DE does not significantly increase hemorrhagic transformation after transient focal <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> in mice </plain></SENT>
+<SENT sid="10" pm="."><plain>From a translational viewpoint, this indicates that a continuation of DE anticoagulation in case of an <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> might be safe, but clearly, clinical data on this question are warranted </plain></SENT>
+</text></document>

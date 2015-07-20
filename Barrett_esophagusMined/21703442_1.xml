@@ -1,0 +1,4 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> is an <z:mpath ids='MPATH_162'>epithelial metaplasia</z:mpath> associated with an increased risk for <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e>, but its underlying mechanisms have been debated </plain></SENT>
+<SENT sid="1" pm="."><plain>Now Wang et al </plain></SENT>
+<SENT sid="2" pm="."><plain>(2011) suggest an intriguing explanation for this puzzle: a population of residual embryonic cells, lacking the transcription factor p63, migrates and repopulates a <z:mpath ids='MPATH_458'>normal</z:mpath> tissue damaged by <z:mp ids='MP_0001845'>inflammation</z:mp> or <z:hpo ids='HP_0002020'>gastroesophageal reflux</z:hpo> </plain></SENT>
+</text></document>

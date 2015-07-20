@@ -1,0 +1,18 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>L-<z:chebi fb="1" ids="16347,3424">carnitine</z:chebi> is absorbed in the intestinal tract via the <z:chebi fb="1" ids="16347,3424">carnitine</z:chebi> transporter OCTN2 and the amino acid transporter ATB(0,+) </plain></SENT>
+<SENT sid="1" pm="."><plain>Loss-of-function mutations in OCTN2 may be associated with <z:e sem="disease" ids="C0021390" disease_type="Disease or Syndrome" abbrv="">inflammatory bowel disease</z:e> (IBD), suggesting a role for <z:chebi fb="1" ids="16347,3424">carnitine</z:chebi> in intestinal/colonic health </plain></SENT>
+<SENT sid="2" pm="."><plain>In contrast, ATB(0,+) is upregulated in bowel <z:mp ids='MP_0001845'>inflammation</z:mp> </plain></SENT>
+<SENT sid="3" pm="."><plain><z:chebi fb="0" ids="17968">Butyrate</z:chebi>, a <z:mp ids='MP_0001794'>bacterial</z:mp> fermentation product, is beneficial for prevention/treatment of <z:hpo ids='HP_0100279'>ulcerative colitis</z:hpo> </plain></SENT>
+<SENT sid="4" pm="."><plain><z:chebi fb="0" ids="22972">Butyryl</z:chebi>-L-<z:chebi fb="1" ids="16347,3424">carnitine</z:chebi> (BC), a <z:chebi fb="0" ids="50477">butyrate ester</z:chebi> of <z:chebi fb="1" ids="16347,3424">carnitine</z:chebi>, may have potential for treatment of gut <z:mp ids='MP_0001845'>inflammation</z:mp>, since BC would supply both <z:chebi fb="0" ids="17968">butyrate</z:chebi> and <z:chebi fb="1" ids="16347,3424">carnitine</z:chebi> </plain></SENT>
+<SENT sid="5" pm="."><plain>We examined the transport of BC via ATB(0,+) to determine if this transporter could serve as a delivery system for BC </plain></SENT>
+<SENT sid="6" pm="."><plain>We also examined the transport of BC via OCTN2 </plain></SENT>
+<SENT sid="7" pm="."><plain>Studies were done with cloned ATB(0,+) and OCTN2 in heterologous expression systems </plain></SENT>
+<SENT sid="8" pm="."><plain>BC inhibited ATB(0,+)-mediated glycine transport in mammalian cells (IC(50), 4.6 +/- 0.7 mM) </plain></SENT>
+<SENT sid="9" pm="."><plain>In Xenopus laevis oocytes expressing human ATB(0,+), BC induced <z:chebi fb="0" ids="29101">Na(+)</z:chebi> -dependent inward currents under voltage-clamp conditions </plain></SENT>
+<SENT sid="10" pm="."><plain>The currents were saturable with a K(0.5) of 1.4 +/- 0.1 mM </plain></SENT>
+<SENT sid="11" pm="."><plain><z:chebi fb="0" ids="29101">Na(+)</z:chebi> activation kinetics of BC-induced currents suggested involvement of two <z:chebi fb="0" ids="29101">Na(+)</z:chebi> per transport cycle </plain></SENT>
+<SENT sid="12" pm="."><plain>BC also inhibited OCTN2-mediated <z:chebi fb="1" ids="16347,3424">carnitine</z:chebi> uptake (IC(50), 1.5 +/- 0.3 microM) </plain></SENT>
+<SENT sid="13" pm="."><plain>Transport of BC via OCTN2 is electrogenic, as evidenced from BC-induced inward currents </plain></SENT>
+<SENT sid="14" pm="."><plain>These currents were <z:chebi fb="0" ids="29101">Na(+)</z:chebi> dependent and saturable (K(0.5), 0.40 +/- 0.02 microM) </plain></SENT>
+<SENT sid="15" pm="."><plain>We conclude that ATB(0,+) is a low-affinity/high-capacity transporter for BC, whereas OCTN2 is a high-affinity/low-capacity transporter </plain></SENT>
+<SENT sid="16" pm="."><plain>ATB(0,+) may mediate intestinal absorption of BC when OCTN2 is defective </plain></SENT>
+</text></document>

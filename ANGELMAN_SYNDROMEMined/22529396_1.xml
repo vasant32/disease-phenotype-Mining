@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The Prader-Willi syndrome/<z:e sem="disease" ids="C0162635" disease_type="Disease or Syndrome" abbrv="">Angelman syndrome</z:e> (PWS/AS) imprinted domain is regulated by a bipartite imprinting control center (IC) composed of a sequence around the SNRPN promoter (PWS-IC) and a 880-bp sequence located 35 kb upstream (AS-IC) </plain></SENT>
+<SENT sid="1" pm="."><plain>The AS-IC imprint is established during gametogenesis and confers repression upon PWS-IC on the maternal allele </plain></SENT>
+<SENT sid="2" pm="."><plain>Mutation at PWS-IC on the paternal allele leads to gene silencing across the entire PWS/AS domain </plain></SENT>
+<SENT sid="3" pm="."><plain>This silencing implies that PWS-IC functions on the paternal allele as a bidirectional activator </plain></SENT>
+<SENT sid="4" pm="."><plain>Here we examine the mechanism by which PWS-IC activates the paternally expressed genes (<z:chebi fb="77" ids="46793">PEGs</z:chebi>) using transgenes that include the PWS-IC sequence in the presence or absence of AS-IC and NDN, an upstream <z:chebi fb="77" ids="46793">PEG</z:chebi>, as an experimental model </plain></SENT>
+<SENT sid="5" pm="."><plain>We demonstrate that PWS-IC is in fact an activator of NDN </plain></SENT>
+<SENT sid="6" pm="."><plain>This activation requires an unmethylated PWS-IC in the gametes and during early embryogenesis </plain></SENT>
+<SENT sid="7" pm="."><plain>PWS-IC is dispensable later in development </plain></SENT>
+<SENT sid="8" pm="."><plain>Interestingly, a similar activation of a nonimprinted gene (APOA1) was observed, implying that PWS-IC is a universal activator </plain></SENT>
+<SENT sid="9" pm="."><plain>To decipher the mechanism by which PWS-IC confers activation of remote genes, we performed methylated DNA immunoprecipitation (MeDIP) array analysis on lymphoblast cell lines that revealed dispersed, rather than continued differential methylation </plain></SENT>
+<SENT sid="10" pm="."><plain>However, chromatin conformation capture (3c) experiments revealed a physical interaction between PWS-IC and the <z:chebi fb="77" ids="46793">PEGs</z:chebi>, suggesting that activation of <z:chebi fb="77" ids="46793">PEGs</z:chebi> may require their proximity to PWS-IC </plain></SENT>
+</text></document>

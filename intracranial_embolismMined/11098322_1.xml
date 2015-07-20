@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 54-year-old patient was admitted to the intensive care unit for voluntary drug intoxication with zolipidem (Stilnox), dimenhydrinate (Mercalm), and <z:chebi fb="0" ids="23965">oestradiol</z:chebi> 17 beta (Oromone) </plain></SENT>
+<SENT sid="1" pm="."><plain>Four hours after the admission the patient was <z:e sem="disease" ids="C0009421" disease_type="Disease or Syndrome" abbrv="">comatose</z:e> </plain></SENT>
+<SENT sid="2" pm="."><plain>Cerebral computerized tomodensitometry demonstrated multiple zones of <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischaemia</z:e> </plain></SENT>
+<SENT sid="3" pm="."><plain>Transoesophageal echocardiography was performed 12 hours after the arrival of the patient and revealed a mobile <z:e sem="disease" ids="C0302148,C0087086" disease_type="Disease or Syndrome;Acquired Abnormality" abbrv="">thrombus</z:e> of the aortic arch </plain></SENT>
+<SENT sid="4" pm="."><plain>The remainder of the visualized aortic arch did not present atherosclerotic plaque </plain></SENT>
+<SENT sid="5" pm="."><plain>Secondarily, <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischaemia</z:e> of the right superior limb was diagnosed probably cause by emboli originating in the aortic <z:e sem="disease" ids="C0302148,C0087086" disease_type="Disease or Syndrome;Acquired Abnormality" abbrv="">thrombus</z:e> appeared </plain></SENT>
+<SENT sid="6" pm="."><plain>The patient died three days later after her arrival, because of neurologic sequelae of the cerebral embolic events </plain></SENT>
+<SENT sid="7" pm="."><plain>This clinical case underlines the concept that the diagnosis of drug intoxication must remain a diagnosis of elimination </plain></SENT>
+<SENT sid="8" pm="."><plain>The <z:mp ids='MP_0005048'>thrombosis</z:mp> of the aortic arch is a rare pathology in intensive care units </plain></SENT>
+<SENT sid="9" pm="."><plain>In the presence of unexplained ischaemic <z:hpo ids='HP_0001297'>stroke</z:hpo> and an peripheral emboli, the <z:mp ids='MP_0005048'>thrombosis</z:mp> of the aortic arch should be suspected </plain></SENT>
+</text></document>

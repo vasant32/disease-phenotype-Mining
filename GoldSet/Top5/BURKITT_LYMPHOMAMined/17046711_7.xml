@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Antibody-targeted liposomal anticancer drugs combine the specificity of antibodies with large payloads of entrapped drugs </plain></SENT>
+<SENT sid="1" pm="."><plain>We previously showed that liposomal <z:chebi fb="0" ids="28748">doxorubicin</z:chebi> (DXR) targeted via anti-CD19 monoclonal antibodies (mAb) or their Fab' fragments against the B-cell antigen CD19 led to improved therapeutic effects in murine B-cell <z:hpo ids='HP_0002665'>lymphoma</z:hpo> models relative to non-targeted liposomal DXR </plain></SENT>
+<SENT sid="2" pm="."><plain>We now are examining the use of anti-CD19 single chain fragments of the antibody variable region (scFv) as a targeting moiety, to test the hypothesis that scFv have advantages over full-sized mAb or Fab' fragments </plain></SENT>
+<SENT sid="3" pm="."><plain>We expressed two different anti-CD19 scFv constructs, HD37-C and HD37-CCH in E. coli, and purified the scFvs using two different methods </plain></SENT>
+<SENT sid="4" pm="."><plain>The HD37-CCH construct was selected for coupling studies due to its relative stability and activity in comparison to HD37-C </plain></SENT>
+<SENT sid="5" pm="."><plain>When coupled to liposomes, the HD37-CCH scFv showed increased binding in vitro to CD19-positive Raji cells, compared to non-targeted liposomes </plain></SENT>
+<SENT sid="6" pm="."><plain>Cytotoxicity data showed that HD37-CCH scFv-targeted liposomes loaded with DXR were more cytotoxic than non-targeted liposomal DXR </plain></SENT>
+<SENT sid="7" pm="."><plain>Our results suggest that anti-CD19 scFv constructs should be explored further for their potential in treating B-<z:hpo ids='HP_0005526'>lymphoid leukemias</z:hpo> and <z:hpo ids='HP_0002665'>lymphomas</z:hpo> </plain></SENT>
+</text></document>

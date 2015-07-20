@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The activation of <z:chebi fb="105" ids="17234">glucose</z:chebi>-6-phosphatase (G6Pase), a key enzyme of endogenous <z:chebi fb="105" ids="17234">glucose</z:chebi> production, is correlated with type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="1" pm="."><plain>Type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> is characterized by sustained <z:hpo ids='HP_0003074'>hyperglycemia</z:hpo> leading to glucotoxicity </plain></SENT>
+<SENT sid="2" pm="."><plain>We investigated whether glucotoxicity mechanisms control the expression of the G6Pase catalytic unit (G6pc) </plain></SENT>
+<SENT sid="3" pm="."><plain>We deciphered the transcriptional regulatory mechanisms of the G6pc promoter by glucotoxicity in a <z:e sem="disease" ids="C0019204" disease_type="Neoplastic Process" abbrv="">hepatoma</z:e> cell line then in primary hepatocytes and in the liver of diabetic mice </plain></SENT>
+<SENT sid="4" pm="."><plain>High <z:chebi fb="105" ids="17234">glucose</z:chebi> exposure induced the production of reactive oxygen species (ROS) and, in parallel, induced G6pc promoter activity </plain></SENT>
+<SENT sid="5" pm="."><plain>In hepatocytes, <z:chebi fb="105" ids="17234">glucose</z:chebi> induced G6pc gene expression and <z:chebi fb="105" ids="17234">glucose</z:chebi> release </plain></SENT>
+<SENT sid="6" pm="."><plain>The decrease of ROS concentrations by <z:chebi fb="11" ids="22586">antioxidants</z:chebi> eliminated <z:hpo ids='HP_0000001'>all</z:hpo> the <z:chebi fb="105" ids="17234">glucose</z:chebi>-inductive effects </plain></SENT>
+<SENT sid="7" pm="."><plain>The induction of G6pc promoter activity by <z:chebi fb="105" ids="17234">glucose</z:chebi> was eliminated in the presence of small interfering <z:chebi fb="40" ids="33697">RNA</z:chebi>, targeting either the <z:mp ids='MP_0005039'>hypoxia</z:mp>-inducible factor (HIF)-1α or the CREB-binding protein (CBP) </plain></SENT>
+<SENT sid="8" pm="."><plain><z:chebi fb="105" ids="17234">Glucose</z:chebi> increased the interaction of HIF-1α with CBP and the recruitment of HIF-1 on the G6pc promoter </plain></SENT>
+<SENT sid="9" pm="."><plain>The same mechanism might occur in hyperglycemic mice </plain></SENT>
+<SENT sid="10" pm="."><plain>We deciphered a new regulatory mechanism induced by glucotoxicity </plain></SENT>
+<SENT sid="11" pm="."><plain>This mechanism leading to the induction of HIF-1 transcriptional activity may contribute to the increase of hepatic <z:chebi fb="105" ids="17234">glucose</z:chebi> production during type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+</text></document>

@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Voltage-gated <z:chebi fb="199" ids="26708">sodium</z:chebi> channels are important in initiating and propagating nerve impulses in various tissues, including cardiac muscle, skeletal muscle, the brain, and the peripheral nerves </plain></SENT>
+<SENT sid="1" pm="."><plain>Hyperexcitability of these channels leads to such disorders as <z:hpo ids='HP_0011675'>cardiac arrhythmias</z:hpo> (Na(v)1.5), <z:hpo ids='HP_0002486'>myotonias</z:hpo> (Na(v)1.4), <z:e sem="disease" ids="C0014544" disease_type="Disease or Syndrome" abbrv="">epilepsies</z:e> (Na(v)1.2), and pain (Na(v)1.7) </plain></SENT>
+<SENT sid="2" pm="."><plain>Thus, there is strong motivation to identify isoform-specific blockers and the molecular determinants underlying their selectivity among these channels. μ-Conotoxin KIIIA blocks rNa(v)1.2 (IC(50), 5 nM), rNa(v)1.4 (37 nM), and hNa(v)1.7 (97 nM), expressed in mammalian cells, with high affinity and a maximal block at saturating concentrations of 90 to 95% </plain></SENT>
+<SENT sid="3" pm="."><plain>Mutations of charged residues on both the toxin and channel modulate the maximal block and/or affinity of KIIIA </plain></SENT>
+<SENT sid="4" pm="."><plain>Two toxin substitutions, K7A and R10A, modulate the maximal block (52-70%) </plain></SENT>
+<SENT sid="5" pm="."><plain>KIIIA-H12A and R14A were the only derivatives tested that altered Na(v) isoform specificity </plain></SENT>
+<SENT sid="6" pm="."><plain>KIIIA-R14A showed the highest affinity for Na(v)1.7, a channel involved in pain signaling </plain></SENT>
+<SENT sid="7" pm="."><plain><z:mp ids='MP_0002169'>Wild-type</z:mp> KIIIA has a 2-fold higher affinity for Na(v)1.4 than for Na(v)1.7, which can be attributed to a missing outer vestibule charge in domain III of Na(v)1.7 </plain></SENT>
+<SENT sid="8" pm="."><plain>Reciprocal mutations Na(v)1.4 D1241I and Na(v)1.7 I1410D remove the affinity differences between these two channels for <z:mp ids='MP_0002169'>wild-type</z:mp> KIIIA without affecting their affinities for KIIIA-R14A </plain></SENT>
+<SENT sid="9" pm="."><plain>KIIIA is the first μ-conotoxin to show enhanced activity as pH is lowered, apparently resulting from titration of the free N terminus </plain></SENT>
+<SENT sid="10" pm="."><plain>Removal of this free amino group reduced the pH sensitivity by 10-fold </plain></SENT>
+<SENT sid="11" pm="."><plain>Recognition of these molecular determinants of KIIIA block may facilitate further development of subtype-specific, <z:chebi fb="199" ids="26708">sodium</z:chebi> channel blockers to treat hyperexcitability disorders </plain></SENT>
+</text></document>

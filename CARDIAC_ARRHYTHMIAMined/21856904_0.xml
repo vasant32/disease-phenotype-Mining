@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Neuronal modulation of the sinoatrial node (SAN) plays a crucial role in the initiation and maintenance of atrial <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> (AF), although the exact mechanisms remain unclear </plain></SENT>
+<SENT sid="1" pm="."><plain>We used a computer model of a rabbit right atrium (RA) with a <z:hpo ids='HP_0001425'>heterogeneous</z:hpo> SAN and detailed ionic current descriptions for atrial and SAN myocytes to explore reentry initiation associated with autonomic activity </plain></SENT>
+<SENT sid="2" pm="."><plain><z:hpo ids='HP_0001425'>Heterogeneous</z:hpo> <z:chebi fb="9" ids="15355">acetylcholine</z:chebi> (<z:chebi fb="0" ids="15355">ACh</z:chebi>)-dependent ionic responses along with L-type Ca current (I(Ca,L)) upregulation were incorporated in the SAN only </plain></SENT>
+<SENT sid="3" pm="."><plain>During control, activation was typical with the leading pacemaker site located close to the superior vena cava or the intercaval region </plain></SENT>
+<SENT sid="4" pm="."><plain>With cholinergic stimulation, activation patterns frequently included caudal shifts of the leading pacemaker site and occasional double breakouts </plain></SENT>
+<SENT sid="5" pm="."><plain>The model became increasingly arrhythmogenic for the <z:chebi fb="0" ids="15355">ACh</z:chebi> concentration &gt;20 nM and for large I(Ca,L) conductance </plain></SENT>
+<SENT sid="6" pm="."><plain>Reentries obtained included counterclockwise rotors in the free wall, clockwise reentry circulating between the SAN and free wall, and typical flutter </plain></SENT>
+<SENT sid="7" pm="."><plain>The SAN was the cause of reentry with a common leading sequence of events: a bradycardic beat with shifting in the caudal direction, followed by a premature beat or unidirectional block within the SAN </plain></SENT>
+<SENT sid="8" pm="."><plain>Electrotonic loading, and not just overdrive pacing, squelches competing pacemaker sites in the SAN </plain></SENT>
+<SENT sid="9" pm="."><plain>Cholinergic stimulation concomitant with I(Ca,L) upregulation shifts leading pacemaker site and can lead to reentry </plain></SENT>
+<SENT sid="10" pm="."><plain>A <z:hpo ids='HP_0001425'>heterogeneous</z:hpo> response to autonomic innervation, a large myocardial load, and an extensive SAN in the intercaval region are required for neurally induced SAN-triggered reentry </plain></SENT>
+</text></document>

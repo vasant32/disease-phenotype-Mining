@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>EBNA 1 is the only antigen expressed in both Epstein-Barr virus (EBV)-infected nasopharyngeal <z:mp ids='MP_0002038'>carcinoma</z:mp> (NPC) and Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cells </plain></SENT>
+<SENT sid="1" pm="."><plain>Previous studies showed that the <z:chebi fb="2" ids="33699">mRNA</z:chebi> of EBNA 1 in these two <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> tissues was initiated from a promoter located in the Bam HI F fragment (Fp) on the <z:mp ids='MP_0001799'>viral</z:mp> genome </plain></SENT>
+<SENT sid="2" pm="."><plain>Two regulatory elements located in the downstream Bam HI Q region include an EBNA 1 binding site and a positive regulatory region between the Fp and the EBNA1 binding site </plain></SENT>
+<SENT sid="3" pm="."><plain>This data strongly suggested that a cellular factor(s) may modulate the usage of the Fp </plain></SENT>
+<SENT sid="4" pm="."><plain>To locate the shortest responsible <z:mp ids='MP_0001799'>viral</z:mp> sequence, we constructed a series of luciferase gene and <z:chebi fb="0" ids="17698">chloramphenicol</z:chebi> acetyltransferase (CAT) gene plasmids that contained various portions of the Bam HI F/Q region </plain></SENT>
+<SENT sid="5" pm="."><plain>Plasmid DNA was then introduced into cells to examine the promoter activity of each construct </plain></SENT>
+<SENT sid="6" pm="."><plain>By this method, we identified a 186-bp fragment within the Bam HI Q region that possessed the highest activity </plain></SENT>
+<SENT sid="7" pm="."><plain>This promoter was designated as Qp and found to be orientation-dependent and down-regulated by EBNA 1 in both the type I <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">BL</z:e> cells and human epithelial cells </plain></SENT>
+<SENT sid="8" pm="."><plain>Furthermore, RNase protection assay showed that a transcription initiation site was located at nucleotide 62,416 of the EBV genome </plain></SENT>
+<SENT sid="9" pm="."><plain>Reverse transcriptase polymerase chain reaction (RT-PCR) analysis further confirmed that the transcript was initiated from the Qp, and not the Fp </plain></SENT>
+<SENT sid="10" pm="."><plain>Therefore, our data suggested that a novel promoter, Qp, located within the Bam HI Q existed for the EBNA 1 expression in the latently infected type 1 BL cells </plain></SENT>
+<SENT sid="11" pm="."><plain>The biological significance of the selection of the Qp needs further investigation </plain></SENT>
+</text></document>

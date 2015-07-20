@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PURPOSE: With the advent of more aggressive chemotherapy, the incidence of neutropenic <z:hpo ids='HP_0002242'>enteropathy</z:hpo> is increasing </plain></SENT>
+<SENT sid="1" pm="."><plain>This review was performed to (1) determine which children are affected, (2) identify predisposing factors, and (3) assess efficacy of treatment </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: A 10-year (1988 to 1997) review identified 33 children who had 38 episodes of neutropenic <z:hpo ids='HP_0002242'>enteropathy</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>Each presented with <z:hpo ids='HP_0001945'>fever</z:hpo>, <z:hpo ids='HP_0002027'>abdominal pain</z:hpo>, and chemotherapy-induced <z:hpo ids='HP_0001875'>neutropenia</z:hpo> </plain></SENT>
+<SENT sid="4" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> were treated with fluid resuscitation, bowel rest, and broad-spectrum antibiotics </plain></SENT>
+<SENT sid="5" pm="."><plain>Surgical intervention was reserved for children with bowel <z:mpath ids='MPATH_81'>perforation</z:mpath> </plain></SENT>
+<SENT sid="6" pm="."><plain>Results: Neutropenic <z:hpo ids='HP_0002242'>enteropathy</z:hpo> occurred in 24 children with <z:e sem="disease" ids="C0376545" disease_type="Neoplastic Process" abbrv="">hematologic malignancies</z:e> and nine with <z:e sem="disease" ids="C0280100" disease_type="Neoplastic Process" abbrv="">solid tumors</z:e> </plain></SENT>
+<SENT sid="7" pm="."><plain>This disease developed in three children after bone marrow transplantation for <z:hpo ids='HP_0001909'>leukemia</z:hpo> </plain></SENT>
+<SENT sid="8" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> five patients in whom recurrent episodes developed were receiving chemotherapy for Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> </plain></SENT>
+<SENT sid="9" pm="."><plain><z:chebi fb="1" ids="16040">Cytosine</z:chebi> <z:chebi fb="0" ids="22601">arabinoside</z:chebi> and <z:chebi fb="0" ids="4911">VP16</z:chebi> were the most commonly implicated chemotherapeutic agents </plain></SENT>
+<SENT sid="10" pm="."><plain>Four children required laparotomy and right hemicolectomy, and <z:hpo ids='HP_0000001'>all</z:hpo> survived </plain></SENT>
+<SENT sid="11" pm="."><plain>Overall survival was 94% </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: Although previously described in children receiving chemotherapy for <z:e sem="disease" ids="C0376545" disease_type="Neoplastic Process" abbrv="">hematologic malignancies</z:e>, neutropenic <z:hpo ids='HP_0002242'>enteropathy</z:hpo> also occurs in children who have <z:e sem="disease" ids="C0280100" disease_type="Neoplastic Process" abbrv="">solid tumors</z:e> and after bone marrow transplantation </plain></SENT>
+<SENT sid="13" pm="."><plain>The use of <z:chebi fb="1" ids="16040">cytosine</z:chebi> <z:chebi fb="0" ids="22601">arabinoside</z:chebi> and <z:chebi fb="0" ids="4911">VP16</z:chebi> may predispose patients to this disease </plain></SENT>
+<SENT sid="14" pm="."><plain>Children receiving chemotherapy for Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> are at increased risk for recurrent episodes </plain></SENT>
+<SENT sid="15" pm="."><plain>Excellent survival rate was attained with supportive care being used as the primary treatment modality </plain></SENT>
+</text></document>

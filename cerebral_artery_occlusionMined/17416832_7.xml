@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND PURPOSE: Neuroimaging techniques have the potential to improve <z:hpo ids='HP_0011009'>acute</z:hpo> <z:hpo ids='HP_0001297'>stroke</z:hpo> treatment by selecting the appropriate patients for thrombolytic therapy </plain></SENT>
+<SENT sid="1" pm="."><plain>In this study, we examined changes in cerebral blood flow (CBF) and cerebral blood volume (CBV) in an animal model of middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> and used these to identify the parameters that best differentiate between oligemic and <z:mpath ids='MPATH_124'>infarct</z:mpath> regions </plain></SENT>
+<SENT sid="2" pm="."><plain>MATERIALS AND METHODS: Permanent middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> was performed in 17 New Zealand white rabbits </plain></SENT>
+<SENT sid="3" pm="."><plain>CT perfusion imaging was performed before (baseline), 10, and 30 minutes after the <z:hpo ids='HP_0001297'>stroke</z:hpo>, and then every 30 minutes up to 3 hours </plain></SENT>
+<SENT sid="4" pm="."><plain>After a final scan at 4 hours, the brain was removed, cut corresponding to CT sections, and stained with 2,3,5-triphenyltetrazolium <z:chebi fb="76" ids="17996">chloride</z:chebi> (TTC) to identify infarcted tissue </plain></SENT>
+<SENT sid="5" pm="."><plain>A logistic regression model with the 4-hour post-CBF and -CBV values as independent variables was used to determine the binary tissue outcome variable (oligemia or infarction) </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: Infarcted regions were characterized by a significant decrease (P &lt; .005) in both CBV and CBF, whereas oligemic (CBF &lt; 25 mL  </plain></SENT>
+<SENT sid="7" pm="."><plain>100 g(-1)  </plain></SENT>
+<SENT sid="8" pm="."><plain>min(-1), not infarcted) regions showed a significant decrease (P &lt; .005) in CBF with maintenance of CBV at or near baseline values </plain></SENT>
+<SENT sid="9" pm="."><plain>From the perfusion parameters at the 4-hour time point, logistic regression by using CBV*CBF resulted in a sensitivity of 90.6% and a specificity of 93.3% for infarction </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSION: CBF and CBV values obtained from CT perfusion imaging can be used to distinguish between oligemic and <z:mpath ids='MPATH_124'>infarct</z:mpath> regions </plain></SENT>
+<SENT sid="11" pm="."><plain>This information could be used to assess the viability of ischemic brain tissue </plain></SENT>
+</text></document>

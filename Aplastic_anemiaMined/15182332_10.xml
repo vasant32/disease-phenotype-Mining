@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0001915'>Aplastic anemia</z:hpo> (AA) is regarded as an immunological disorder because of the clinical effect of immunosuppressive therapy </plain></SENT>
+<SENT sid="1" pm="."><plain>Recent studies have reported that cytokines play an important role in the development of AA </plain></SENT>
+<SENT sid="2" pm="."><plain>In the present study, we measured levels of T-cell derived intracellular cytokine production in peripheral blood and bone marrow (BM) of patients with AA </plain></SENT>
+<SENT sid="3" pm="."><plain>We demonstrated that BM lymphocytes, particularly CD4(+) and CD8(+) T cells, in patients with AA produced significantly higher amounts of <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> <z:mp ids='MP_0001651'>necrosis</z:mp> factor-alpha (TNF-alpha), compared with lymphocytes in <z:mpath ids='MPATH_458'>normal</z:mpath> controls </plain></SENT>
+<SENT sid="4" pm="."><plain>We have previously reported that expression of TNF receptor (R)1 and TNFR2 in the CD34(+) CD38(-) and CD34(+) CD38(+) fractions of patients with AA is significantly higher than those in <z:mpath ids='MPATH_458'>normal</z:mpath> control </plain></SENT>
+<SENT sid="5" pm="."><plain>These results indicate that BM stem cells in patients with AA may possess high sensitivity to TNF-alpha </plain></SENT>
+<SENT sid="6" pm="."><plain>This in turn suggests that TNF-alpha affects hematopoiesis at an earlier stage in AA patients than in <z:mpath ids='MPATH_458'>normal</z:mpath> controls </plain></SENT>
+<SENT sid="7" pm="."><plain>We strongly support the hypothesis that a simultaneous increase in TNF-alpha production by BM lymphocytes and sensitivity of stem cells to TNF-alpha leads to BM failure in AA </plain></SENT>
+</text></document>

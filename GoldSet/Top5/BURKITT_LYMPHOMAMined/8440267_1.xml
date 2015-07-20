@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Two hundred and thirty-four scintigraphic studies were performed in 34 patients (27 men, 7 women, age 17.3 +/- 7.7 years) with small, non-cleaved cell <z:hpo ids='HP_0002665'>lymphoma</z:hpo> who had follow-up for 3-96 months (mean 21.6 +/- 21.7 months) </plain></SENT>
+<SENT sid="1" pm="."><plain>Whole-body scintigraphy was performed 48-72 h following i.v. injection of 370 MBq <z:chebi fb="29" ids="49631">gallium</z:chebi>-67 citrate. "Gold standards" for truth determinations were surgery, autopsy, histology, axial x-ray computed tomography, magnetic resonance imaging, ultrasonography and clinical follow-up </plain></SENT>
+<SENT sid="2" pm="."><plain>Overall, 181 of 234 studies were true negative </plain></SENT>
+<SENT sid="3" pm="."><plain>Eighty proven sites of disease had true positive 67Ga uptake (in 21 patients/37 studies) </plain></SENT>
+<SENT sid="4" pm="."><plain>Nineteen sites (in 12 patients/15 studies) were false positive </plain></SENT>
+<SENT sid="5" pm="."><plain>In addition, 31 benign lesions were detected and interpreted correctly in terms of non-<z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">malignancy</z:e> </plain></SENT>
+<SENT sid="6" pm="."><plain>Ten <z:hpo ids='HP_0002665'>lymphoma</z:hpo> sites (in 6 patients/10 studies) were missed by scintigraphy </plain></SENT>
+<SENT sid="7" pm="."><plain>Overall, sensitivity of <z:chebi fb="29" ids="49631">gallium</z:chebi> scintigraphy was 89% when calculated by sites and 79% when calculated by studies </plain></SENT>
+<SENT sid="8" pm="."><plain>Corresponding specificities were 91% and 92%, respectively </plain></SENT>
+<SENT sid="9" pm="."><plain>Positive predictive values were 81% (sites) and 71% (studies), and negative predictive values 95% (sites and studies) </plain></SENT>
+<SENT sid="10" pm="."><plain>Thus, <z:chebi fb="29" ids="49631">gallium</z:chebi> scintigraphy proved to be a sensitive and specific method for staging and follow-up in patients with small, non-cleaved cell <z:hpo ids='HP_0002665'>lymphoma</z:hpo> </plain></SENT>
+</text></document>

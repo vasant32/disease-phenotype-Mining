@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: With improvement in imaging, CVT is being diagnosed more frequently </plain></SENT>
+<SENT sid="1" pm="."><plain>Early diagnosis and rapid institution of remedial measures such as anticoagulation, <z:chebi fb="0" ids="35623">anticonvulsants</z:chebi>, hydration, and treatment of underlying abnormality will aid in salvaging life </plain></SENT>
+<SENT sid="2" pm="."><plain>CASE DESCRIPTION: We report an autopsy case of a 34-year-old man who presented with sudden <z:hpo ids='HP_0003674'>onset</z:hpo> of <z:hpo ids='HP_0001250'>seizures</z:hpo>, followed by right <z:hpo ids='HP_0002301'>hemiplegia</z:hpo> and altered sensorium </plain></SENT>
+<SENT sid="3" pm="."><plain>Magnetic resonance imaging of the brain revealed intraparenchymal <z:mp ids='MP_0001914'>hemorrhage</z:mp> in the left posterior frontal region with a blood-fluid level </plain></SENT>
+<SENT sid="4" pm="."><plain>The SSS was devoid of the routine hypointense signal intensity </plain></SENT>
+<SENT sid="5" pm="."><plain>Routine evaluations for <z:e sem="disease" ids="C0398623" disease_type="Disease or Syndrome" abbrv="">hypercoagulable states</z:e> were negative </plain></SENT>
+<SENT sid="6" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> the coagulation parameters were within <z:mpath ids='MPATH_458'>normal</z:mpath> limits </plain></SENT>
+<SENT sid="7" pm="."><plain>He was managed conservatively with <z:chebi fb="0" ids="35623">anticonvulsants</z:chebi>, <z:chebi fb="2" ids="50249">anticoagulants</z:chebi>, and hydration </plain></SENT>
+<SENT sid="8" pm="."><plain>A CT scan of the brain done 24 hours later revealed left posterior frontal <z:mp ids='MP_0001914'>hemorrhage</z:mp> with perilesional <z:hpo ids='HP_0000969'>edema</z:hpo> </plain></SENT>
+<SENT sid="9" pm="."><plain>A CT venogram confirmed the presence of CVT involving the SSS and the right transverse sinus </plain></SENT>
+<SENT sid="10" pm="."><plain>However he died within next 24 hours </plain></SENT>
+<SENT sid="11" pm="."><plain>An autopsy confirmed <z:mp ids='MP_0005048'>thrombosis</z:mp> in the SSS, right transverse sinus, lungs, and kidneys </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: Blood-fluid level in CVT may be an early radiologic sign in the absence of any other imaging abnormality </plain></SENT>
+<SENT sid="13" pm="."><plain>The presence of this sign in the early stages warrants an aggressive treatment because this probably suggests a large bleed with raised capillary and venous pressures </plain></SENT>
+<SENT sid="14" pm="."><plain>The case is discussed in view of the unusual radiologic sign in CVT in the absence of <z:chebi fb="3" ids="50249">anticoagulant</z:chebi> therapy </plain></SENT>
+</text></document>

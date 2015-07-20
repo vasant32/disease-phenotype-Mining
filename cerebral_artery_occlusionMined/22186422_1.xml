@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Overactivation of subtype P2X7 receptors can induce excitotoxic neuronal <z:hpo ids='HP_0011420'>death</z:hpo> by calcium (Ca(2+)) overload </plain></SENT>
+<SENT sid="1" pm="."><plain>In this study, we characterize the functional properties of P2X7 receptors using electrophysiology and Ca(2+) monitoring in primary cortical neuron cultures and in brain slices </plain></SENT>
+<SENT sid="2" pm="."><plain>Both electrical responses and Ca(2+) influx induced by ATP and <z:chebi fb="3" ids="22733">benzoyl</z:chebi>-ATP were reduced by Brilliant Blue G (BBG) at concentrations which specifically inhibit P2X7 receptors </plain></SENT>
+<SENT sid="3" pm="."><plain>In turn, oxygen-<z:chebi fb="105" ids="17234">glucose</z:chebi> deprivation (OGD) caused neuronal <z:hpo ids='HP_0011420'>death</z:hpo> that was reduced with BBG application </plain></SENT>
+<SENT sid="4" pm="."><plain>OGD in neuron cultures and brain slices generated an inward current, which was delayed and reduced by BBG </plain></SENT>
+<SENT sid="5" pm="."><plain>To assess the relevance of these in vitro findings, we used middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> in rats as a model of transient focal <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> to study the neuroprotective effect of BBG in vivo </plain></SENT>
+<SENT sid="6" pm="."><plain>Treatment with BBG (twice per day, 30 mg/kg) produced a 60% reduction in the extent of brain damage compared to treatment with vehicle alone </plain></SENT>
+<SENT sid="7" pm="."><plain>These results show that P2X7 purinergic receptors mediate tissue damage after OGD in neurons and following transient <z:e sem="disease" ids="C0007786" disease_type="Disease or Syndrome" abbrv="">brain ischemia</z:e> </plain></SENT>
+<SENT sid="8" pm="."><plain>Therefore, these receptors are a relevant molecular target for the development of new treatments to attenuate brain damage following <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+</text></document>

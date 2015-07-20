@@ -1,0 +1,19 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE To further characterize the demographics, outcomes, and prognostic factors for refractory <z:hpo ids='HP_0002133'>status epilepticus</z:hpo> (RSE) </plain></SENT>
+<SENT sid="1" pm="."><plain>DESIGN Retrospective analysis of <z:hpo ids='HP_0000001'>all</z:hpo> the episodes of RSE treated between January 1, 1999, and August 30, 2011 </plain></SENT>
+<SENT sid="2" pm="."><plain>SETTING Neurointensive care unit within a tertiary referral center, Mayo Clinic, Rochester, Minnesota </plain></SENT>
+<SENT sid="3" pm="."><plain>PATIENTS Refractory <z:hpo ids='HP_0002133'>status epilepticus</z:hpo> was defined as generalized <z:mp ids='MP_0000947'>convulsive</z:mp> or <z:mp ids='MP_0000948'>nonconvulsive</z:mp> <z:hpo ids='HP_0002133'>status epilepticus</z:hpo> (SE) that continued despite initial first- and second-line therapies </plain></SENT>
+<SENT sid="4" pm="."><plain>Exclusion criteria were aged younger than 18 years, anoxic/myoclonic SE, psychogenic SE, simple partial SE, and absence SE </plain></SENT>
+<SENT sid="5" pm="."><plain>MAIN OUTCOME MEASURES Functional outcome was defined by modified Rankin scale (mRS) dichotomized into good (mRS, 0-3) and poor (mRS, 4-6) </plain></SENT>
+<SENT sid="6" pm="."><plain>Functional decline was defined as a change in mRS greater than 1 from hospital admission to discharge </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS We identified 63 consecutive episodes of non-anoxic RSE in 54 patients </plain></SENT>
+<SENT sid="8" pm="."><plain><z:chebi fb="0" ids="38867">Anesthetic agents</z:chebi> were used in 55 episodes (87.30%), and duration of drug-induced <z:hpo ids='HP_0001259'>coma</z:hpo> was (mean [SD]) 11.0 (17.9) days </plain></SENT>
+<SENT sid="9" pm="."><plain>In-hospital mortality was 31.75% (20 of 63 episodes) </plain></SENT>
+<SENT sid="10" pm="."><plain>Poor functional outcome at discharge occurred in 48 of 63 episodes (76.19%) </plain></SENT>
+<SENT sid="11" pm="."><plain>Hospital length of stay was (mean [SD]) 27.7 (37.3) days </plain></SENT>
+<SENT sid="12" pm="."><plain>Duration of drug-induced <z:hpo ids='HP_0001259'>coma</z:hpo> (P = .03), <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> requiring intervention (P = .01), and <z:hpo ids='HP_0002090'>pneumonia</z:hpo> (P = .01) were associated with poor functional outcome </plain></SENT>
+<SENT sid="13" pm="."><plain>Prolonged mechanical ventilation was associated with mortality (P = .04) </plain></SENT>
+<SENT sid="14" pm="."><plain><z:hpo ids='HP_0001250'>Seizure</z:hpo> control without suppression-burst or isoelectric electroencephalogram predicted good functional recovery (P = .01) </plain></SENT>
+<SENT sid="15" pm="."><plain>Age, history of <z:e sem="disease" ids="C0014544" disease_type="Disease or Syndrome" abbrv="">epilepsy</z:e>, previous SE, type of SE, and <z:chebi fb="0" ids="38867">anesthetic drug</z:chebi> used were not associated with functional outcome </plain></SENT>
+<SENT sid="16" pm="."><plain>CONCLUSIONS Three-quarters of patients with RSE have a poor outcome </plain></SENT>
+<SENT sid="17" pm="."><plain>Achieving control of the SE without requiring prolonged drug-induced <z:hpo ids='HP_0001259'>coma</z:hpo> or severe electroencephalographic suppression portends better prognosis </plain></SENT>
+</text></document>

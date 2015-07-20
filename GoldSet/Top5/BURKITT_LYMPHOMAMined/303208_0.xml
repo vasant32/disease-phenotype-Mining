@@ -1,0 +1,6 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0006721'>Acute lymphoblastic leukemia</z:hpo> can be subdivided into groups with different prognoses and clinical courses by immunological cell-markers </plain></SENT>
+<SENT sid="1" pm="."><plain>Patients with blasts, expressing T-cell-markers in a high density (T-cell <z:hpo ids='HP_0001909'>leukemia</z:hpo>), had an increased incidence of meningeal relapses, <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> formation in abdomen or mediastinum </plain></SENT>
+<SENT sid="2" pm="."><plain>T-lymphoblastic <z:hpo ids='HP_0002665'>lymphoma</z:hpo> is the same disease only different in initial presentation </plain></SENT>
+<SENT sid="3" pm="."><plain>After combination chemotherapy over one year, lymphocytes populations with no immunological cell-markers are relatively increased </plain></SENT>
+<SENT sid="4" pm="."><plain>Regular monitoring of the immunological subgroups of lymphocytes seems to be unhelpful in early diagnosis of periods with increased risk of severe <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infections</z:e> </plain></SENT>
+</text></document>

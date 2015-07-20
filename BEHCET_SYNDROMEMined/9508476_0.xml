@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:e sem="disease" ids="C0004943" disease_type="Disease or Syndrome" abbrv="">Behcet's disease</z:e> in a 27-year-old male is described </plain></SENT>
+<SENT sid="1" pm="."><plain>The patient presented <z:hpo ids='HP_0001945'>fever</z:hpo>, <z:hpo ids='HP_0002094'>dyspnea</z:hpo> and <z:hpo ids='HP_0002105'>hemoptysis</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>A chest X-ray revealed right hilar enlargement </plain></SENT>
+<SENT sid="3" pm="."><plain>Exploratory thoracotomy revealed a pulsating mass in the superior lobar artery consistent with <z:hpo ids='HP_0002617'>aneurysm</z:hpo> </plain></SENT>
+<SENT sid="4" pm="."><plain>Pulmonary biopsy confirmed necrotizing <z:hpo ids='HP_0002633'>vasculitis</z:hpo> of the tissue consistent with <z:e sem="disease" ids="C0004943" disease_type="Disease or Syndrome" abbrv="">Behcet's disease</z:e> </plain></SENT>
+<SENT sid="5" pm="."><plain>Pulmonary arteriography showed and aneurysmatic enlargement of the bifurcation between the mid and righ inferior lobar arteries, with <z:mp ids='MP_0005048'>thrombosis</z:mp> of the upper right and lower left lobar arteries </plain></SENT>
+<SENT sid="6" pm="."><plain>Resolution of symptoms was achieved through treatment with corticoids and <z:chebi fb="2" ids="2948">azathioprine</z:chebi> </plain></SENT>
+</text></document>

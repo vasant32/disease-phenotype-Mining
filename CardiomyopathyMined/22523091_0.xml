@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0001639'>Hypertrophic cardiomyopathy</z:hpo> (HCM) is characterized by asymmetric <z:hpo ids='HP_0001712'>left ventricular hypertrophy</z:hpo>, diastolic dysfunction and myocardial disarray </plain></SENT>
+<SENT sid="1" pm="."><plain>HCM is caused by mutations in sarcomeric genes, but in &gt;40% of patients, the mutation is not yet identified </plain></SENT>
+<SENT sid="2" pm="."><plain>We hypothesized that FHL1, encoding four-and-a-half-LIM domains 1, could be another disease gene since it has been shown to cause distinct <z:hpo ids='HP_0003198'>myopathies</z:hpo>, sometimes associated with <z:hpo ids='HP_0001638'>cardiomyopathy</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>We evaluated 121 HCM patients, devoid of a mutation in known disease genes </plain></SENT>
+<SENT sid="4" pm="."><plain>We identified three novel variants in FHL1 (c.134delA/K45Sfs, c.459C&gt;A/C153X and c.827G&gt;C/C276S) </plain></SENT>
+<SENT sid="5" pm="."><plain>Whereas the c.459C&gt;A variant was associated with <z:hpo ids='HP_0001324'>muscle weakness</z:hpo> in some patients, the c.134delA and c.827G&gt;C variants were associated with isolated HCM </plain></SENT>
+<SENT sid="6" pm="."><plain>Gene transfer of the latter variants in C2C12 myoblasts and cardiac myocytes revealed reduced levels of FHL1 mutant proteins, which could be rescued by proteasome inhibition </plain></SENT>
+<SENT sid="7" pm="."><plain>Contractility measurements after adeno-associated virus transduction in rat-engineered heart tissue (EHT) showed: (i) higher and lower forces of contraction with K45Sfs and C276S, respectively, and (ii) prolonged contraction and relaxation with both mutants </plain></SENT>
+<SENT sid="8" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> mutants except one activated the fetal hypertrophic gene program in EHT </plain></SENT>
+<SENT sid="9" pm="."><plain>In conclusion, this study provides evidence for FHL1 to be a novel gene for isolated HCM </plain></SENT>
+<SENT sid="10" pm="."><plain>These data, together with previous findings of proteasome impairment in HCM, suggest that FHL1 mutant proteins may act as poison <z:chebi fb="7" ids="16670">peptides</z:chebi>, leading to <z:mpath ids='MPATH_159'>hypertrophy</z:mpath>, diastolic dysfunction and/or altered contractility, <z:hpo ids='HP_0000001'>all</z:hpo> features of HCM </plain></SENT>
+</text></document>

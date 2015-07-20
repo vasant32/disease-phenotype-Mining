@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVES: To compare image quality in coronary artery computed tomography angiography (cCTA) using reconstructions with automated phase detection and Reconstructions computed with Identical Filling of the heart (RIF) </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: Seventy-four patients underwent ECG-gated dual source CT (DSCT) between November 2009 and July 2010 for suspected <z:e sem="disease" ids="C0010068" disease_type="Disease or Syndrome" abbrv="">coronary heart disease</z:e> (n = 35), planning of transcatheter aortic valve replacement (n = 34) or evaluation of ventricular function (n = 5) </plain></SENT>
+<SENT sid="2" pm="."><plain>Image data sets by the RIF formula and automated phase detection were computed and evaluated with the <z:chebi fb="30" ids="27777">AHA</z:chebi> 15-segment model and a 5-grade Likert scale (1: poor, 5: excellent quality) </plain></SENT>
+<SENT sid="3" pm="."><plain>Subgroups regarding rhythm (sinus rhythm = SR; <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> = ARR) and potential premedication were evaluated by a per-segment, per-vessel and per-patient analysis </plain></SENT>
+<SENT sid="4" pm="."><plain>RESULTS: RIF significantly improved image quality in 10 of 15 coronary segments (P &lt; 0.05) </plain></SENT>
+<SENT sid="5" pm="."><plain>More diagnostic segments were provided by RIF regarding the entire cohort (n = 693 vs. 590, P &lt; 0.001) and <z:hpo ids='HP_0000001'>all</z:hpo> of the subgroups (e.g. ARR: n = 143 vs. 72, P &lt; 0.001) </plain></SENT>
+<SENT sid="6" pm="."><plain>In arrhythmic patients (n = 19), more diagnostic vessels (e.g. LAD: n = 10 vs. 3; P &lt; 0.014) and complete data sets (n = 7 vs. 1; P &lt; 0.001) were produced </plain></SENT>
+<SENT sid="7" pm="."><plain>CONCLUSIONS: RIF reconstruction is superior to automatic diastolic non-edited reconstructions, especially in arrhythmic patients </plain></SENT>
+<SENT sid="8" pm="."><plain>RIF theory provides a physiological approach for determining the optimal image reconstruction point in ECG-gated CT angiography </plain></SENT>
+<SENT sid="9" pm="."><plain>KEY POINTS: Conventional CT coronary angiography suffers from numerous artefacts in patients with irregular rhythms </plain></SENT>
+<SENT sid="10" pm="."><plain>Coronary computed tomography angiograms (cCTA) were reconstructed with identical cardiac filling (RIF) </plain></SENT>
+<SENT sid="11" pm="."><plain>RIF reconstructions provide improved image quality compared to non-edited standard reconstructions </plain></SENT>
+<SENT sid="12" pm="."><plain>RIF theory links <z:mp ids='MP_0001532'>physiology</z:mp> with cardiac CT </plain></SENT>
+</text></document>

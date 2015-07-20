@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: <z:hpo ids='HP_0004756'>Ventricular tachycardia</z:hpo> (VT) is the second most common cause of <z:hpo ids='HP_0011420'>death</z:hpo> in patients with Duchenne <z:hpo ids='HP_0003560'>muscular dystrophy</z:hpo> (DMD) </plain></SENT>
+<SENT sid="1" pm="."><plain>Recent studies have implicated enhanced sarcoplasmic reticulum (SR) Ca(2+) leak via type 2 ryanodine receptor (RyR2) as a cause of VT in the mdx mouse model of DMD </plain></SENT>
+<SENT sid="2" pm="."><plain>However, the signaling mechanisms underlying induction of SR Ca(2+) leak and VT are poorly understood </plain></SENT>
+<SENT sid="3" pm="."><plain>OBJECTIVE: To test whether enhanced Ca(2+)/calmodulin-dependent protein kinase II (CaMKII) phosphorylation of RyR2 underlies SR Ca(2+) leak and induction of VT in mdx mice </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS: Programmed electrical stimulation was performed on anesthetized mice and confocal imaging of Ca(2+) release events in isolated ventricular myocytes </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: Programmed electrical stimulation revealed inducible VT in mdx mice, which was inhibited by CaMKII inhibition or mutation S2814A in RyR2 </plain></SENT>
+<SENT sid="6" pm="."><plain>Myocytes from mdx mice exhibited more Ca(2+) sparks and Ca(2+) waves compared with <z:mp ids='MP_0002169'>wild-type</z:mp> mice, in particular at faster pacing rates </plain></SENT>
+<SENT sid="7" pm="."><plain>Arrhythmogenic Ca(2+) waves were inhibited by CaMKII but not by protein kinase A inhibition </plain></SENT>
+<SENT sid="8" pm="."><plain>Moreover, mutation S2814A but not S2808A in RyR2 suppressed spontaneous Ca(2+) waves in myocytes from mdx mice </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSIONS: CaMKII blockade and genetic inhibition of RyR2-S2814 phosphorylation prevent VT induction in a mouse model of DMD </plain></SENT>
+<SENT sid="10" pm="."><plain>In ventricular myocytes from mdx mice, spontaneous Ca(2+) sparks and Ca(2+) waves can be suppressed by CaMKII inhibition or mutation S2814A in RyR2 </plain></SENT>
+<SENT sid="11" pm="."><plain>Thus, the inhibition of CaMKII-induced SR Ca(2+) leak might be a new strategy to prevent <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> in patients with DMD without <z:hpo ids='HP_0001635'>heart failure</z:hpo> </plain></SENT>
+</text></document>

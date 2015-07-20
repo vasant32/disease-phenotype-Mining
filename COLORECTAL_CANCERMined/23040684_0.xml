@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We investigated the efficacy and safety of oral <z:chebi fb="0" ids="17568">Uracil</z:chebi>/tegafur (UFT) with leucovorin and <z:chebi fb="0" ids="27504">mitomycin C</z:chebi> (<z:chebi fb="172" ids="27504">MMC</z:chebi>) as third-line treatment for patients with extensively pretreated <z:e sem="disease" ids="C0948380" disease_type="Neoplastic Process" abbrv="">metastatic colorectal cancer</z:e> (mCRC) </plain></SENT>
+<SENT sid="1" pm="."><plain>This was a multicenter, prospective phase II study </plain></SENT>
+<SENT sid="2" pm="."><plain>Patients received <z:chebi fb="172" ids="27504">MMC</z:chebi> 7 mg/m² on day 1 and UFT 300 mg/m² with leucovorin 90 mg, both divided into three daily doses, on days 1-28 every 5 weeks </plain></SENT>
+<SENT sid="3" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> patients had failed prior treatment with irinotecan, <z:chebi fb="0" ids="31941">oxaliplatin</z:chebi>, fluoropyrimidine, bevacizumab, and cetuximab </plain></SENT>
+<SENT sid="4" pm="."><plain>The primary endpoint was <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> control rate evaluated after 2 cycles </plain></SENT>
+<SENT sid="5" pm="."><plain>Twenty-one patients were included: median age was 66 years (41.1-87.8 years) </plain></SENT>
+<SENT sid="6" pm="."><plain><z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">Tumor</z:e> control rate was observed in 26.7% of the 15 patients evaluable for response </plain></SENT>
+<SENT sid="7" pm="."><plain>Median overall survival was 6.4 months </plain></SENT>
+<SENT sid="8" pm="."><plain>Grade 3 adverse events were asthenia, <z:hpo ids='HP_0002039'>anorexia</z:hpo>, and <z:hpo ids='HP_0002013'>vomiting</z:hpo> </plain></SENT>
+<SENT sid="9" pm="."><plain>In patients with mCRC who have progressed after as many as two prior therapies, the combination of UFT/leucovorin and <z:chebi fb="172" ids="27504">MMC</z:chebi> is safe and may produce a short stabilization of disease in approximately 25% of patients </plain></SENT>
+</text></document>

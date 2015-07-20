@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 25-year-old patient with <z:hpo ids='HP_0002315'>headache</z:hpo> was admitted to the neurology department </plain></SENT>
+<SENT sid="1" pm="."><plain>Computerized tomography revealed an intracerebral <z:mpath ids='MPATH_612'>abscess</z:mpath> of unknown origin, which was removed by craniotomy </plain></SENT>
+<SENT sid="2" pm="."><plain>After an uneventful operation and <z:chebi fb="164" ids="38867">anesthetic</z:chebi> low arterial oxygen tensions were noted that did not respond to increased FiO2 </plain></SENT>
+<SENT sid="3" pm="."><plain>Angiography revealed a pulmonary arteriovenous (a-v) <z:mpath ids='MPATH_70'>fistula</z:mpath> (<z:mp ids='MP_0002947'>angioma</z:mp>), which was responsible for the right-left shunt </plain></SENT>
+<SENT sid="4" pm="."><plain>A Swan-Ganz catheter was inserted and the effects of varying levels of <z:chebi fb="0" ids="53359">PEEP</z:chebi> on the magnitude of the shunt during spontaneous breathing of 100% oxygen were determined </plain></SENT>
+<SENT sid="5" pm="."><plain>At zero <z:chebi fb="0" ids="53359">PEEP</z:chebi> the arterial pO2 was 211 mm Hg (AaDO2 470 mm Hg) </plain></SENT>
+<SENT sid="6" pm="."><plain>5 mbar <z:chebi fb="0" ids="53359">PEEP</z:chebi> caused the arterial pO2 to fall to 118 mm Hg (AaDO2 563 mm Hg) </plain></SENT>
+<SENT sid="7" pm="."><plain>Increasing <z:chebi fb="0" ids="53359">PEEP</z:chebi> to 15 mbar caused a further decrease in arterial pO2 to 72 mm Hg (AaDO2 603 mm Hg), which resulted in arterial desaturation </plain></SENT>
+<SENT sid="8" pm="."><plain>The arterial pCO2 remained constant </plain></SENT>
+<SENT sid="9" pm="."><plain>At a virtually constant cardiac output the shunt volume increased from 23% at zero <z:chebi fb="0" ids="53359">PEEP</z:chebi> to 30% at a <z:chebi fb="0" ids="53359">PEEP</z:chebi> of 15 mbar--a relative increase of 30% </plain></SENT>
+<SENT sid="10" pm="."><plain>Elevating the intrathoracic pressure presumably caused redistribution of the pulmonary perfusion toward the shunt vessels, probably because the vascular resistance increased more rapidly in the <z:mpath ids='MPATH_458'>normal</z:mpath> vasculature than in the <z:mp ids='MP_0002947'>angioma</z:mp> </plain></SENT>
+<SENT sid="11" pm="."><plain>The therapeutic consequences were to reduce the <z:chebi fb="0" ids="53359">PEEP</z:chebi> and avoid mechanical ventilation </plain></SENT>
+<SENT sid="12" pm="."><plain>Pulmonary a-v-<z:mpath ids='MPATH_70'>fistulas</z:mpath> are not uncommonly associated with <z:e sem="disease" ids="C0006105" disease_type="Disease or Syndrome" abbrv="">brain abscesses</z:e>, probably because the <z:mpath ids='MPATH_458'>normal</z:mpath> filter function of the pulmonary vascular bed is disrupted </plain></SENT>
+<SENT sid="13" pm="."><plain>Therapy consists either in resecting the afflicted lung segment or in transvenous occlusion of the <z:mpath ids='MPATH_70'>fistula</z:mpath> with a silicon ballon </plain></SENT>
+</text></document>

@@ -1,0 +1,37 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Computed tomography (CT) is important in diagnosing and managing many conditions, including <z:hpo ids='HP_0001677'>coronary artery disease</z:hpo> (CAD) and <z:hpo ids='HP_0002564'>congenital heart disease</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Current CT scanners can very accurately diagnose CAD requiring revascularisation in most patients </plain></SENT>
+<SENT sid="2" pm="."><plain>However, imaging technologies have developed rapidly and new-generation computed tomography (NGCCT) scanners may benefit patients who are difficult to image (e.g. <z:mp ids='MP_0001261'>obese</z:mp> patients, patients with high or <z:hpo ids='HP_0011675'>irregular heart beats</z:hpo> and patients who have high levels of coronary calcium or a previous stent or bypass graft) </plain></SENT>
+<SENT sid="3" pm="."><plain>OBJECTIVE: To assess the clinical effectiveness and cost-effectiveness of NGCCT for diagnosing clinically significant CAD in patients who are difficult to image using 64-slice computed tomography and treatment planning in complex <z:hpo ids='HP_0002564'>congenital heart disease</z:hpo> </plain></SENT>
+<SENT sid="4" pm="."><plain>DATA SOURCES: Bibliographic databases were searched from 2000 to February/March 2011, including MEDLINE, MEDLINE In-Process and Other Non-Indexed Citations, EMBASE, Cochrane Database of Systematic Reviews (CDSR), Cochrane Central Register of Controlled Trials (CENTRAL), Database of Abstracts of Reviews of Effects (DARE), NHS Economic Evaluation Database (NHS EED), Health Technology Assessment (HTA) database and Science Citation Index (SCI) </plain></SENT>
+<SENT sid="5" pm="."><plain>Trial registers and conference proceedings were searched </plain></SENT>
+<SENT sid="6" pm="."><plain>REVIEW METHODS: Systematic review methods followed published guidance </plain></SENT>
+<SENT sid="7" pm="."><plain>Risk of bias was assessed using QUADAS-2 </plain></SENT>
+<SENT sid="8" pm="."><plain>Results were stratified by patient group </plain></SENT>
+<SENT sid="9" pm="."><plain>Summary sensitivity and specificity were calculated using a bivariate summary receiver operating characteristic, or random effects model </plain></SENT>
+<SENT sid="10" pm="."><plain><z:hpo ids='HP_0001425'>Heterogeneity</z:hpo> was assessed using the chi-squared statistic and I(2)-statistic </plain></SENT>
+<SENT sid="11" pm="."><plain>Cost-effectiveness of NGCCT was modelled separately for suspected and known CAD, evaluating invasive coronary angiography (ICA) only, ICA after positive NGCCT (NGCCT-ICA), and NGCCT only </plain></SENT>
+<SENT sid="12" pm="."><plain>The cost-effectiveness of NGCCT, compared with 64-slice CT, in reducing imaging-associated radiation in <z:hpo ids='HP_0002564'>congenital heart disease</z:hpo> was assessed </plain></SENT>
+<SENT sid="13" pm="."><plain>RESULTS: Twenty-four studies reported accuracy of NGCCT for diagnosing CAD in difficult-to-image patients </plain></SENT>
+<SENT sid="14" pm="."><plain>No clinical effectiveness studies of NGCCT in <z:hpo ids='HP_0002564'>congenital heart disease</z:hpo> were identified </plain></SENT>
+<SENT sid="15" pm="."><plain>The pooled per-patient estimates of sensitivity were 97.7% [95% confidence interval (CI) 88.0% to 99.9%], 97.7% (95% CI 93.2% to 99.3%) and 96.0% (95% CI 88.8% to 99.2%) for patients with <z:hpo ids='HP_0011675'>arrhythmias</z:hpo>, high heart rates and previous stent, respectively </plain></SENT>
+<SENT sid="16" pm="."><plain>The corresponding estimates of specificity were 81.7% (95% CI 71.6% to 89.4%), 86.3% (95% CI 80.2% to 90.7%) and 81.6% (95% CI 74.7% to 87.3%), respectively </plain></SENT>
+<SENT sid="17" pm="."><plain>In patients with high coronary calcium scores, previous bypass grafts or <z:hpo ids='HP_0001513'>obesity</z:hpo>, only per-segment or per-artery data were available </plain></SENT>
+<SENT sid="18" pm="."><plain>Sensitivity estimates remained high (&gt; 90% in <z:hpo ids='HP_0000001'>all</z:hpo> but one study) </plain></SENT>
+<SENT sid="19" pm="."><plain>In patients with suspected CAD, the NGCCT-only strategy appeared most cost-effective; the incremental cost-effectiveness ratio (ICER) of NGCCT-ICA compared with NGCCT only was £71,000 </plain></SENT>
+<SENT sid="20" pm="."><plain>In patients with known CAD, the most cost-effective strategy was NGCCT-ICA (highest cost saving, dominates ICA only) </plain></SENT>
+<SENT sid="21" pm="."><plain>The ICER of NGCCT only compared with NGCCT-ICA was £726,230 </plain></SENT>
+<SENT sid="22" pm="."><plain>For radiation exposure only, the ICER for NGCCT compared with 64-slice CT in <z:hpo ids='HP_0002564'>congenital heart disease</z:hpo> ranged from £521,000 for the youngest patients to £90,000 for adults </plain></SENT>
+<SENT sid="23" pm="."><plain>LIMITATIONS: Available data were limited, particularly for <z:mp ids='MP_0001261'>obese</z:mp> patients and patients with previous bypass grafts </plain></SENT>
+<SENT sid="24" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> studies of the accuracy of NGCCT assume that the reference standard (ICA) is 100% sensitive and specific; however, there is some evidence that ICA may sometimes underestimate the extent and severity of stenosis </plain></SENT>
+<SENT sid="25" pm="."><plain>Patients with more than one criterion that could contribute to difficulty in imaging were often excluded from studies; the effect on test accuracy of multiple difficult to image criteria remains uncertain </plain></SENT>
+<SENT sid="26" pm="."><plain>CONCLUSIONS: NGCCT may be sufficiently accurate to diagnose clinically significant CAD in some or <z:hpo ids='HP_0000001'>all</z:hpo> difficult-to-image patient groups </plain></SENT>
+<SENT sid="27" pm="."><plain>Economic analyses suggest that NGCCT is likely to be considered cost-effective for difficult-to-image patients with CAD, at current levels of willingness to pay in the NHS </plain></SENT>
+<SENT sid="28" pm="."><plain>For patients with suspected CAD, NGCCT only would be most favourable; for patients with known CAD, NGCCT-ICA would be most favourable </plain></SENT>
+<SENT sid="29" pm="."><plain>No studies assessing the effects of NGCCT on therapeutic decision making, or subsequent patient outcomes, were identified </plain></SENT>
+<SENT sid="30" pm="."><plain>The ideal study to address these questions would be a large multi-centre RCT </plain></SENT>
+<SENT sid="31" pm="."><plain>However, one possible alternative might be to establish a multicentre tracker study </plain></SENT>
+<SENT sid="32" pm="."><plain>High-quality test accuracy studies, particularly in <z:mp ids='MP_0001261'>obese</z:mp> patients, patients with high coronary calcium, and those with previous bypass grafts are needed to confirm the findings of our systematic review </plain></SENT>
+<SENT sid="33" pm="."><plain>These studies should include patients with multiple difficult to image criteria </plain></SENT>
+<SENT sid="34" pm="."><plain>FUNDING: The National Institute for Health Research Health Technology Assessment programme </plain></SENT>
+<SENT sid="35" pm="."><plain>This project was funded by the HTA programme, on behalf of NICE, as project number 10/107/01 </plain></SENT>
+</text></document>

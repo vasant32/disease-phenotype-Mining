@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: In <z:mpath ids='MPATH_458'>normal</z:mpath> platelets, insulin inhibits <z:chebi fb="4" ids="48705">agonist</z:chebi>-induced Ca(2+) mobilization by raising cyclic <z:chebi fb="47" ids="16027,28971">AMP</z:chebi> </plain></SENT>
+<SENT sid="1" pm="."><plain>Platelet from patients with type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> are resistant to insulin and show increased Ca(2+) mobilization, aggregation and procoagulant activity </plain></SENT>
+<SENT sid="2" pm="."><plain>We searched for the cause of this <z:hpo ids='HP_0000855'>insulin resistance</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>DESIGN AND METHODS: Platelets, the megakaryocytic cell line CHRF-288-11 and primary megakaryocytes were incubated with adipokines and with plasma from individuals with a disturbed adipokine profile </plain></SENT>
+<SENT sid="4" pm="."><plain>Thrombin-induced Ca(2+) mobilization and signaling through the insulin receptor and insulin receptor substrate 1 were measured </plain></SENT>
+<SENT sid="5" pm="."><plain>Abnormalities induced by adipokines were compared with abnormalities found in platelets from patients with type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: Resistin, leptin, plasminogen activator inhibitor-1 and <z:chebi fb="1" ids="50211">retinol</z:chebi> binding protein 4 left platelets unchanged but induced <z:hpo ids='HP_0000855'>insulin resistance</z:hpo> in CHRF-288-11 cells </plain></SENT>
+<SENT sid="7" pm="."><plain>Interleukin-6, <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> <z:mp ids='MP_0001651'>necrosis</z:mp> factor-α and visfatin had no effect </plain></SENT>
+<SENT sid="8" pm="."><plain>These results were confirmed in primary megakaryocytes </plain></SENT>
+<SENT sid="9" pm="."><plain>Contact with adipokines for 2 hours disturbed insulin receptor substrate 1 Ser(307)-phosphorylation, while contact for 72 hours caused insulin receptor substrate 1 degradation </plain></SENT>
+<SENT sid="10" pm="."><plain>Plasma with a disturbed adipokine profile also made CHRF-288-11 cells insulin-resistant </plain></SENT>
+<SENT sid="11" pm="."><plain>Platelets from patients with type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> showed decreased insulin receptor substrate 1 expression </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: Adipokines resistin, leptin, plasminogen activator-1 and <z:chebi fb="1" ids="50211">retinol</z:chebi> binding protein 4 disturb insulin receptor substrate 1 activity and expression in megakaryocytes </plain></SENT>
+<SENT sid="13" pm="."><plain>This might be a cause of the <z:hpo ids='HP_0000855'>insulin resistance</z:hpo> observed in platelets from patients with type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+</text></document>

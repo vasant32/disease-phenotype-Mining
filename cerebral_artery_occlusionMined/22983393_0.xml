@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIM: To examine the neuroprotective effects of the Toll-like receptor 3 (TLR3) <z:chebi fb="4" ids="48705">agonist</z:chebi> Poly I:C in <z:hpo ids='HP_0011009'>acute</z:hpo> ischemic models in vitro and in vivo </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: Primary astrocyte cultures subjected to oxygen-<z:chebi fb="105" ids="17234">glucose</z:chebi> deprivation (OGD) were used as an in vitro simulated ischemic model </plain></SENT>
+<SENT sid="2" pm="."><plain>Poly I:C was administrated 2 h before OGD </plain></SENT>
+<SENT sid="3" pm="."><plain>Cell toxicity was measured using <z:chebi fb="0" ids="53233">MTT</z:chebi> assay and LDH leakage assay </plain></SENT>
+<SENT sid="4" pm="."><plain>The levels of TNFα, IL-6 and interferon-β (IFNβ) in the media were measured using ELISA </plain></SENT>
+<SENT sid="5" pm="."><plain>Toll/interleukin receptor domain-containing adaptor-inducing IFNβ (TRIF) protein levels were detected using Western blot analysis </plain></SENT>
+<SENT sid="6" pm="."><plain>A mouse middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (MCAO) model was u sed for in vivo study </plain></SENT>
+<SENT sid="7" pm="."><plain>The animals were administered Poly I:C (0.3 mg/kg, im) 2 h before MCAO, and examined with neurological deficit scoring and TTC staining </plain></SENT>
+<SENT sid="8" pm="."><plain>The levels of TNFα and IL-6 in ischemic brain were measured using ELISA </plain></SENT>
+<SENT sid="9" pm="."><plain>RESULTS: Pretreatment with Poly I:C (10 and 20 μg/mL) markedly attenuated OGD-induced astrocyte injury, and significantly raised the cell viability and reduced the LDH leakage </plain></SENT>
+<SENT sid="10" pm="."><plain>Poly I:C significantly upregulated TRIF expression accompanied by increased downstream IFNβ production </plain></SENT>
+<SENT sid="11" pm="."><plain>Moreover, Poly I:C significantly suppressed the pro-inflammatory cytokines TNFα and IL-6 production </plain></SENT>
+<SENT sid="12" pm="."><plain>In mice subjected to MCAO, administration of Poly I:C significantly attenuated the neurological deficits, reduced infarction volume, and suppressed the increased levels of TNFα and IL-6 in the ischemic striatum and cortex </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSION: Poly I:C pretreatment exerts neuroprotective and anti-inflammatory effects in the simulated <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> models, and the neuroprotection is at least in part due to the activation of the TLR3-TRIF pathway </plain></SENT>
+</text></document>

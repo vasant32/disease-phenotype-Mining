@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Multispectral microscopy and multiple staining can be used to identify cells with distinct immunohistochemical (IHC) characteristics </plain></SENT>
+<SENT sid="1" pm="."><plain>We present here a method called hypothesized interaction distribution (HID) analysis for characterizing the statistical distribution of pair-wise spatial relationships between cells with particular IHC characteristics and apply it to clinical data </plain></SENT>
+<SENT sid="2" pm="."><plain>MATERIALS AND METHODS: We retrospectively analyzed data from a study of 26 follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo> patients in which sections were stained for CD20 and YY1 </plain></SENT>
+<SENT sid="3" pm="."><plain>HID analysis, using leave-one-out validation, was used to assign patients to one of two groups </plain></SENT>
+<SENT sid="4" pm="."><plain>We tested the null hypothesis of no difference in Kaplan-Meier survival curves between the groups </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: Shannon entropy of HIDs assigned patients to groups that had significantly different survival curves (median survival was 7.70 versus 110 months, P = 0.00750) </plain></SENT>
+<SENT sid="6" pm="."><plain>Hypothesized interactions between pairs of cells positive for both CD20 and YY1 were associated with poor survival </plain></SENT>
+<SENT sid="7" pm="."><plain>CONCLUSIONS: HID analysis provides quantitative inferences about possible interactions between spatially proximal cells with particular IHC characteristics </plain></SENT>
+<SENT sid="8" pm="."><plain>In follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo>, HID analysis was able to distinguish between patients with poor versus good survival, and it may have diagnostic and prognostic utility in this and other diseases </plain></SENT>
+</text></document>

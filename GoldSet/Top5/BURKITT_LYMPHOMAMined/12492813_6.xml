@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>HLA-DO is an intracellular nonclassical MHC class II molecule expressed in the endocytic pathway of B lymphocytes </plain></SENT>
+<SENT sid="1" pm="."><plain>It shapes the repertoire of <z:chebi fb="7" ids="16670">peptides</z:chebi> bound to classical class II molecules such as HLA-DR by regulating the activity of HLA-DM </plain></SENT>
+<SENT sid="2" pm="."><plain>Using a <z:chebi fb="7" ids="16670">peptide</z:chebi> corresponding to the cytoplasmic tail of HLA-DO(beta), we have developed a mouse monoclonal antibody, HKC5 </plain></SENT>
+<SENT sid="3" pm="."><plain>Immunofluorescence microscopy revealed that HKC5 recognizes HLA-DO molecules present in the endoplasmic reticulum as well as those in vesicular compartments of the endocytic pathway </plain></SENT>
+<SENT sid="4" pm="."><plain>In addition, the antibody detects the isolated beta chain on Western blots </plain></SENT>
+<SENT sid="5" pm="."><plain>Using mutants of the DO(beta) cytoplasmic tail fused to a reporter molecule and expressed in epithelial cells, we showed by flow cytometry that the antibody <z:chebi fb="0" ids="53000">epitope</z:chebi> includes one or both of the <z:chebi fb="0" ids="32630">leucine residues</z:chebi> forming the lysosomal sorting signal </plain></SENT>
+<SENT sid="6" pm="."><plain>Finally, we have used HKC5 to evaluate the presence of the HLA-DO(beta) chain in HeLa cells expressing the class II transactivator protein CIITA </plain></SENT>
+<SENT sid="7" pm="."><plain>Our flow cytometry and confocal microscopy analyses showed a marked expression of DO(beta) suggesting that HLA-DO could accumulate under the influence of CIITA in non-B cells </plain></SENT>
+</text></document>

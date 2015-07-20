@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>MicroRNAs (miRNAs) are an important class of small <z:chebi fb="40" ids="33697">RNAs</z:chebi> that regulate gene expression at the post-transcriptional level </plain></SENT>
+<SENT sid="1" pm="."><plain>It has become evident that miRNAs are involved in hematopoiesis, and that deregulation of miRNAs may give rise to <z:e sem="disease" ids="C0376544" disease_type="Neoplastic Process" abbrv="">hematopoietic malignancies</z:e> </plain></SENT>
+<SENT sid="2" pm="."><plain>The aim of our study was to establish miRNA profiles of naïve, germinal center (GC) and memory B cells, and validate their expression patterns in <z:mpath ids='MPATH_458'>normal</z:mpath> lymphoid tissues </plain></SENT>
+<SENT sid="3" pm="."><plain>Quantitative (q) RT-PCR profiling revealed that several miRNAs were elevated in GC B cells, including miR-17-5p, miR-106a and miR-181b </plain></SENT>
+<SENT sid="4" pm="."><plain>One of the most abundant miRNAs in <z:hpo ids='HP_0000001'>all</z:hpo> three B-cell subsets analyzed was miR-150, with a more than 10-fold lower level in GC B cell as compared with the other two subsets </plain></SENT>
+<SENT sid="5" pm="."><plain>miRNA in situ hybridization (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">ISH</z:e>) in tonsil tissue sections confirmed the findings from the profiling work </plain></SENT>
+<SENT sid="6" pm="."><plain>Interestingly, gradual decrease of miR-17-5p, miR-106a and miR-181b staining intensity from the dark to the light zone was observed in GC </plain></SENT>
+<SENT sid="7" pm="."><plain>A strong cytoplasmic staining of miR-150 was observed in a minority of the centroblasts in the dark zone of the GC </plain></SENT>
+<SENT sid="8" pm="."><plain>Inverse staining pattern of miR-150 against c-Myb and Survivin was observed in tonsil tissue sections, suggesting possible targeting of these genes by miR-150 </plain></SENT>
+<SENT sid="9" pm="."><plain>In line with this, the experimental induction of miR-150 lead to reduced c-Myb, Survivin and Foxp1 expression levels in the Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cell line, DG75 </plain></SENT>
+<SENT sid="10" pm="."><plain>In conclusion, miRNA profiles of naïve, GC and memory B cells were established and validated by miRNA <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">ISH</z:e> </plain></SENT>
+<SENT sid="11" pm="."><plain>Within the GC cells, a marked difference was observed between the light and the dark zone </plain></SENT>
+</text></document>

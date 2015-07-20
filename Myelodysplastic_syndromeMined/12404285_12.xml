@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Immunosuppression may benefit some patients with hypoplastic <z:hpo ids='HP_0002863'>myelodysplasia</z:hpo> (HMDS) and <z:hpo ids='HP_0005505'>refractory anemia</z:hpo> (RA), but its mechanism of action is still obscure </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: Using flow cytometry, we studied Fas-receptor (Fas-R), Fas-ligand (Fas-L), and interferon-gamma (IFN-gamma) expression in CD34(+) cells and lymphocytes obtained from 11 HMDS and 20 RA patients </plain></SENT>
+<SENT sid="2" pm="."><plain>In colony assays and long-term cultures, the effects of Fas triggering, IFN-gamma blockade, or <z:chebi fb="0" ids="4031">cyclosporine</z:chebi>(CsA) on the growth of hematopoietic progenitors (colony-forming cells [CFC]) were determined </plain></SENT>
+<SENT sid="3" pm="."><plain>The effects of CsA at daily doses of 1-3 mg/kg for at least 3 months in HMDS patients were also studied </plain></SENT>
+<SENT sid="4" pm="."><plain>RESULTS: In basal conditions, committed and immature progenitor cells were found decreased in myelodysplastic (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e>) patients </plain></SENT>
+<SENT sid="5" pm="."><plain>No significant differences between HMDS and RA patients were detected </plain></SENT>
+<SENT sid="6" pm="."><plain>IFN-gamma-expressing CD4(+) cells were significantly increased in HMDS patients, whereas intracytoplasmic Fas-L expression was only borderline elevated in CD3(+) <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> cells </plain></SENT>
+<SENT sid="7" pm="."><plain>Increased numbers of CD34(+) cells expressing Fas-R were found in HMDS and RA patients </plain></SENT>
+<SENT sid="8" pm="."><plain>CFC and secondary CFC showed higher susceptibility to Fas-L-mediated inhibition and the blockade of IFN-gamma improved marrow primary, but not secondary, CFC growth </plain></SENT>
+<SENT sid="9" pm="."><plain>CsA added in vitro to patient's lymphocytes significantly decreased the number of IFN-gamma-expressing CD4(+) cells, but not Fas-L production </plain></SENT>
+<SENT sid="10" pm="."><plain>These effects were associated with increased colony formation </plain></SENT>
+<SENT sid="11" pm="."><plain>Similar to IFN-gammablockade, production of secondary CFC was not enhanced by CsA </plain></SENT>
+<SENT sid="12" pm="."><plain>Administration of CsA to patients resulted in prolonged partial hematologic improvement in 8 of 11 HMDS patients </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSIONS: Increased frequency of IFN-gamma producing CD4(+) cells supports the involvement of lymphocyte-mediated suppression of hematopoiesis in the development of cytopenia in <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> patients </plain></SENT>
+<SENT sid="14" pm="."><plain>The ability of CsA to decrease in vitro IFN-gamma production may improve hematopoietic function, explaining the beneficial effect of this agent in HMDS patients </plain></SENT>
+</text></document>

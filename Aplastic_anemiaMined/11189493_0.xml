@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: To explore the mechanism of the impairment of hematopoietic stem/progenitor cells in <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo>(AA) mice </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: The hematopoietic cells from <z:mpath ids='MPATH_458'>normal</z:mpath> mice bone marrow were incubated with serum from AA mice in the presence of recombinant GM-CSF and IL-3 </plain></SENT>
+<SENT sid="2" pm="."><plain>Parallel controls, i.e. hematopoietic cells from <z:mpath ids='MPATH_458'>normal</z:mpath> mice with or without serum of <z:mpath ids='MPATH_458'>normal</z:mpath> mice, were conducted </plain></SENT>
+<SENT sid="3" pm="."><plain>At different time, samples were collected and detected by flow cytometry (FACS), transmission electron microscopy (TEM) and gel electrophoresis </plain></SENT>
+<SENT sid="4" pm="."><plain>RESULTS: In the 16 post hour-culture of the experimental group mice: (i) The percentages of apoptotic cells were increased </plain></SENT>
+<SENT sid="5" pm="."><plain>(ii) Hematopoietic cells showed nuclear condensation, margination and blebbing under TEM </plain></SENT>
+<SENT sid="6" pm="."><plain>(iii) <z:chebi fb="2" ids="2511">Agarose</z:chebi> gel electrophoresis of DNA from the 13,000x g supernatant showed a ladder pattern </plain></SENT>
+<SENT sid="7" pm="."><plain>The percentage of DNA fragmentation measured by <z:chebi fb="0" ids="4640">diphenylamine</z:chebi> reaction was also increased and (iv) <z:chebi fb="0" ids="35176">ZnSO4</z:chebi>, <z:chebi fb="0" ids="27641">cycloheximide</z:chebi> and <z:chebi fb="0" ids="27666">actinomycin D</z:chebi> could partially suppress the induction of DNA fragmentation and delay the ocurrence of <z:mpath ids='MPATH_3'>apoptosis</z:mpath> </plain></SENT>
+<SENT sid="8" pm="."><plain>CONCLUSION: <z:mpath ids='MPATH_3'>Apoptosis</z:mpath> occurs in hematopoietic cells when incubated with serum from immune-mediated AA mice </plain></SENT>
+</text></document>

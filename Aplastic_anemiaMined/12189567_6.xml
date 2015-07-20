@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>INTRODUCTION: Mononuclear cells (MNC) from patients with <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> (AA) can inhibit hematopoietic colony formation from <z:mpath ids='MPATH_458'>normal</z:mpath> bone marrow (BM) cells </plain></SENT>
+<SENT sid="1" pm="."><plain>Interferon-gamma (IFN-gamma) and <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> <z:mp ids='MP_0001651'>necrosis</z:mp> factor-alpha (TNF-alpha) are considered as soluble mediators of BM suppression in AA </plain></SENT>
+<SENT sid="2" pm="."><plain>Because of its cytokine synthesis inhibiting action, interleukin-10 (IL-10) could be a potentially useful molecule to modulate the hematopoietic effects of MNC from patients with AA </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: Using coculture experiments we studied the effect of recombinant human IL-10 (rhIL-10) on the in vitro hematopoietic suppression by peripheral blood (PB) MNC from AA patients </plain></SENT>
+<SENT sid="4" pm="."><plain>RESULTS: PBMNC (5 x 10(5)/ml) from seven patients with AA caused a 40-100% reduction of <z:mpath ids='MPATH_458'>normal</z:mpath> burst-forming unit-erythroid (BFU-E) growth and a 38-91% reduction of colony-forming unit-granulocyte/macrophage (CFU-GM) growth, respectively, in semisolid cocultures </plain></SENT>
+<SENT sid="5" pm="."><plain>IL-10 was highly effective in reversing growth inhibition in these cocultures </plain></SENT>
+<SENT sid="6" pm="."><plain>Addition of 10 ng/ml IL-10 to cocultures significantly restored growth of BFU-E in <z:hpo ids='HP_0000001'>all</z:hpo> seven cases and growth of CFU-GM in five of seven cases, respectively </plain></SENT>
+<SENT sid="7" pm="."><plain>The effect was dose dependent and correlated with decreased IFN-gamma and TNF-alpha production in suspension cultures </plain></SENT>
+<SENT sid="8" pm="."><plain>Using intracellular cytokine staining it was found that increased TNF-alpha production in AA cells was derived from both CD4+ and CD8+ cells, whereas aberrant IFN-gamma synthesis was only detected in CD8+ cells </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSION: IL-10 is effective in reversing in vitro hematopoietic suppression by PBMNC from AA patients </plain></SENT>
+<SENT sid="10" pm="."><plain>These results suggest therapeutic evaluation of rhIL-10 in patients with AA </plain></SENT>
+</text></document>

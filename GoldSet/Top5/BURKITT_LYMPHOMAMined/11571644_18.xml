@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We previously identified a novel p53-induced mouse gene, wig-1, that encodes a 290 amino acid zinc finger protein (Varmeh-Ziaie et al., 1997) </plain></SENT>
+<SENT sid="1" pm="."><plain>Here we have identified and characterized the human homolog of mouse wig-1 </plain></SENT>
+<SENT sid="2" pm="."><plain>The human wig-1 protein is 87% identical to the mouse protein and contains three zinc finger domains and a putative nuclear localization signal </plain></SENT>
+<SENT sid="3" pm="."><plain>Human wig-1 mRNA and protein is induced following activation of <z:mp ids='MP_0002169'>wild type</z:mp> p53 expression in our BL41-ts p53 Burkitt <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cells </plain></SENT>
+<SENT sid="4" pm="."><plain>Wig-1 is also induced in MCF7 cells following treatment with the DNA-damaging agent <z:chebi fb="0" ids="27504">mitomycin C</z:chebi> </plain></SENT>
+<SENT sid="5" pm="."><plain>Northern blotting detected low levels of wig-1 mRNA in <z:mpath ids='MPATH_458'>normal</z:mpath> human tissues </plain></SENT>
+<SENT sid="6" pm="."><plain>Fluorescence in situ hybridization mapped wig-1 to human chromosome 3q26.3-27 </plain></SENT>
+<SENT sid="7" pm="."><plain>FLAG-tagged human wig-1 localizes to the nucleus </plain></SENT>
+<SENT sid="8" pm="."><plain>Ectopic overexpression of human wig-1 inhibits <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> cell growth in a colony formation assay </plain></SENT>
+<SENT sid="9" pm="."><plain>These results suggest that human wig-1 has a role in the p53-dependent growth regulatory pathway </plain></SENT>
+</text></document>

@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Cardiac injury promotes fibroblasts activation and differentiation into myofibroblasts, which are hypersecretory of multiple cytokines </plain></SENT>
+<SENT sid="1" pm="."><plain>It is unknown whether any of such cytokines are involved in the electrophysiological remodeling of adult cardiomyocytes </plain></SENT>
+<SENT sid="2" pm="."><plain>We cultured adult cardiomyocytes for 3 days in cardiac fibroblast conditioned medium (FCM) from adult rats </plain></SENT>
+<SENT sid="3" pm="."><plain>In whole-cell voltage-clamp experiments, FCM-treated myocytes had 41% more peak inward <z:chebi fb="199" ids="26708">sodium</z:chebi> current (I(Na)) density at -40 mV than myocytes in control medium (p&lt;0.01) </plain></SENT>
+<SENT sid="4" pm="."><plain>In contrast, peak transient outward current (I(to)) was decreased by ∼55% at 60 mV (p&lt;0.001) </plain></SENT>
+<SENT sid="5" pm="."><plain>Protein analysis of FCM demonstrated that the concentration of TGF-β1 was &gt;3 fold greater in FCM than control, which suggested that FCM effects could be mediated by TGF-β1 </plain></SENT>
+<SENT sid="6" pm="."><plain>This was confirmed by pre-treatment with TGF-β1 neutralizing antibody, which abolished the FCM-induced changes in both I(Na) and I(to) </plain></SENT>
+<SENT sid="7" pm="."><plain>In current-clamp experiments TGF-β1 (10 ng/ml) prolonged the action potential duration at 30, 50, and 90 repolarization (p&lt;0.05); at 50 ng/ml it gave rise to early afterdepolarizations </plain></SENT>
+<SENT sid="8" pm="."><plain>In voltage-clamp experiments, TGF-β1 increased I(Na) density in a dose-dependent manner without affecting voltage dependence of activation or inactivation </plain></SENT>
+<SENT sid="9" pm="."><plain>I(Na) density was -36.25±2.8 pA/pF in control, -59.17±6.2 pA/pF at 0.1 ng/ml (p&lt;0.01), and -58.22±6.6 pA/pF at 1 ng/ml (p&lt;0.01) </plain></SENT>
+<SENT sid="10" pm="."><plain>In sharp contrast, I(to) density decreased from 22.2±1.2 pA/pF to 12.7±0.98 pA/pF (p&lt;0.001) at 10 ng/ml </plain></SENT>
+<SENT sid="11" pm="."><plain>At 1 ng/ml TGF-β1 significantly increased SCN5A (Na(V)1.5) (+73%; p&lt;0.01), while reducing KCNIP2 (Kchip2; -77%; p&lt;0.01) and KCND2 (K(V)4.2; -50% p&lt;0.05) <z:chebi fb="2" ids="33699">mRNA</z:chebi> levels </plain></SENT>
+<SENT sid="12" pm="."><plain>Further, the TGF-β1-induced increase in I(Na) was mediated through activation of the PI3K-AKT pathway via phosphorylation of FOXO1 (a negative regulator of SCN5A) </plain></SENT>
+<SENT sid="13" pm="."><plain>TGF-β1 released by myofibroblasts differentially regulates transcription and function of the main cardiac <z:chebi fb="199" ids="26708">sodium</z:chebi> channel and of the channel responsible for the transient outward current </plain></SENT>
+<SENT sid="14" pm="."><plain>The results provide new mechanistic insight into the electrical remodeling associated with myocardial injury </plain></SENT>
+</text></document>

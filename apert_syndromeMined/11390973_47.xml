@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:e sem="disease" ids="C0001193" disease_type="Disease or Syndrome;Congenital Abnormality" abbrv="">Apert syndrome</z:e> (AS) is characterized by <z:hpo ids='HP_0001363'>craniosynostosis</z:hpo> (premature fusion of cranial sutures) and severe <z:hpo ids='HP_0001159'>syndactyly</z:hpo> of the hands and feet </plain></SENT>
+<SENT sid="1" pm="."><plain>Two activating mutations, Ser-252 --&gt; Trp and Pro-253 --&gt; Arg, in fibroblast growth factor receptor 2 (FGFR2) account for nearly <z:hpo ids='HP_0000001'>all</z:hpo> known cases of AS </plain></SENT>
+<SENT sid="2" pm="."><plain>To elucidate the mechanism by which these substitutions cause AS, we determined the crystal structures of these two FGFR2 mutants in complex with fibroblast growth factor 2 (FGF2) </plain></SENT>
+<SENT sid="3" pm="."><plain>These structures demonstrate that both mutations introduce additional interactions between FGFR2 and FGF2, thereby augmenting FGFR2-FGF2 affinity </plain></SENT>
+<SENT sid="4" pm="."><plain>Moreover, based on these structures and sequence alignment of the FGF family, we propose that the Pro-253 --&gt; Arg mutation will indiscriminately increase the affinity of FGFR2 toward any FGF </plain></SENT>
+<SENT sid="5" pm="."><plain>In contrast, the Ser-252 --&gt; Trp mutation will selectively enhance the affinity of FGFR2 toward a limited subset of FGFs </plain></SENT>
+<SENT sid="6" pm="."><plain>These predictions are consistent with previous biochemical data describing the effects of AS mutations on FGF binding </plain></SENT>
+<SENT sid="7" pm="."><plain>Alterations in FGFR2 ligand affinity and specificity may allow inappropriate autocrine or paracrine activation of FGFR2 </plain></SENT>
+<SENT sid="8" pm="."><plain>Furthermore, the distinct gain-of-function interactions observed in each crystal structure provide a model to explain the <z:hpo ids='HP_0003812'>phenotypic variability</z:hpo> among AS patients </plain></SENT>
+</text></document>

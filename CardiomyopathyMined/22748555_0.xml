@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Visual determination of left ventricular ejection fraction (LVEF) by segmental scoring may be a practical alternative to volumetric analysis of cine magnetic resonance imaging (MRI) </plain></SENT>
+<SENT sid="1" pm="."><plain>The accuracy and reproducibility of this approach for has not been described </plain></SENT>
+<SENT sid="2" pm="."><plain>The purpose of this study was to validate a novel segmental visual scoring method for LVEF estimation using cine MRI </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: 362 patients with known or suspected <z:hpo ids='HP_0001638'>cardiomyopathy</z:hpo> were studied </plain></SENT>
+<SENT sid="4" pm="."><plain>A modified wall motion score (mWMS) was used to blindly score the wall motion of <z:hpo ids='HP_0000001'>all</z:hpo> cardiac segments from cine MRI imaging </plain></SENT>
+<SENT sid="5" pm="."><plain>The same datasets were subjected to blinded volumetric analysis using endocardial contour tracing </plain></SENT>
+<SENT sid="6" pm="."><plain>The population was then separated into a model cohort (N=181) and validation cohort (N=181), with the former used to derive a regression equation of mWMS versus true volumetric LVEF </plain></SENT>
+<SENT sid="7" pm="."><plain>The validation cohort was then used to test the accuracy of this regression model to estimate the true LVEF from a visually determined mWMS </plain></SENT>
+<SENT sid="8" pm="."><plain>Reproducibility testing of mWMS scoring was performed upon a randomly selected sample of 20 cases </plain></SENT>
+<SENT sid="9" pm="."><plain>RESULTS: The regression equation relating mWMS to true LVEF in the model cohort was: LVEF=54.23-0.5761×mWMS </plain></SENT>
+<SENT sid="10" pm="."><plain>In the validation cohort this equation produced a strong correlation between mWMS-derived LVEF and true volumetric LVEF (r=0.89) </plain></SENT>
+<SENT sid="11" pm="."><plain>Bland and Altman analysis showed no systematic bias in the LVEF estimated using the mWMS (-0.3231%, 95% limits of agreement -12.22% to 11.58%) </plain></SENT>
+<SENT sid="12" pm="."><plain>Inter-observer and intra-observer reproducibility was excellent (r=0.93 and 0.97, respectively) </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSION: The mWMS is a practical tool for reporting regional wall motion and provides reproducible estimates of LVEF from cine MRI </plain></SENT>
+</text></document>

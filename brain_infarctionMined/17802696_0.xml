@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>An 81-year-old man was referred to our hospital with <z:hpo ids='HP_0002875'>exertional dyspnea</z:hpo> following cold-like symptoms </plain></SENT>
+<SENT sid="1" pm="."><plain>Electrocardiography revealed ST elevation and positive T wave in leads I, II, aVL, aVF, and V2-V6 </plain></SENT>
+<SENT sid="2" pm="."><plain>The diagnosis was <z:hpo ids='HP_0011009'>acute</z:hpo> <z:mp ids='MP_0001856'>myocarditis</z:mp> complicating <z:hpo ids='HP_0001635'>heart failure</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>He was conservatively managed </plain></SENT>
+<SENT sid="4" pm="."><plain>On hospital day 8, <z:e sem="disease" ids="C0751955" disease_type="Disease or Syndrome" abbrv="">brain infarction</z:e> developed and echocardiography disclosed massive <z:e sem="disease" ids="C0333205,C1260883" disease_type="Disease or Syndrome" abbrv="">mural thrombus</z:e> in the left ventricle </plain></SENT>
+<SENT sid="5" pm="."><plain>Left ventriculotomy was performed on hospital day 21 and histological examination showed inflammatory cell infiltration mainly composed of eosinophils and monocytes, degeneration of myocytes with replacement <z:mp ids='MP_0003045'>fibrosis</z:mp>, and fresh fibrin <z:e sem="disease" ids="C0302148,C0087086" disease_type="Disease or Syndrome;Acquired Abnormality" abbrv="">thrombus</z:e> overlaying the endocardium </plain></SENT>
+<SENT sid="6" pm="."><plain>These findings were compatible with a diagnosis of <z:hpo ids='HP_0011009'>acute</z:hpo> necrotizing eosinophilic <z:mp ids='MP_0001856'>myocarditis</z:mp>(ANEM) </plain></SENT>
+<SENT sid="7" pm="."><plain>He recovered uneventfully without specific therapy </plain></SENT>
+<SENT sid="8" pm="."><plain>This case suggests that a subtype of ANEM might be self-limiting </plain></SENT>
+</text></document>

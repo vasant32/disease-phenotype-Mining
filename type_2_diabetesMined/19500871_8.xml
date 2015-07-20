@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>This study aimed to provide the epidemiological model evaluating the risk of developing type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> (T2DM) in Taiwan periodic health-check population </plain></SENT>
+<SENT sid="1" pm="."><plain>We derived risk functions using multivariate Cox regression in a random half of the sample </plain></SENT>
+<SENT sid="2" pm="."><plain>Rules based on these risk functions were evaluated in another half </plain></SENT>
+<SENT sid="3" pm="."><plain>Model coefficients were used to assign each variable a score </plain></SENT>
+<SENT sid="4" pm="."><plain>73,961 subjects aged 35-74, were included and followed up with a median 3.15 years </plain></SENT>
+<SENT sid="5" pm="."><plain>Six predictive models (PMs) were developed </plain></SENT>
+<SENT sid="6" pm="."><plain>PM1 contained simple clinical information, while PM2 contained fasting plasma <z:chebi fb="105" ids="17234">glucose</z:chebi> (FPG) based on PM1, and PM3 further added variables indicating <z:chebi fb="23" ids="18059">lipid</z:chebi> level, liver and kidney </plain></SENT>
+<SENT sid="7" pm="."><plain>PM4 only included FPG </plain></SENT>
+<SENT sid="8" pm="."><plain>The capability of published ARIC score model was also evaluated </plain></SENT>
+<SENT sid="9" pm="."><plain>Eventually we considered score defined nine predictors by PM2 </plain></SENT>
+<SENT sid="10" pm="."><plain>The area under the ROC curve (AUC) was 0.848 (95% CI, 0.829-0.868) predicting <z:mp ids='MP_0002055'>diabetes</z:mp> within 5 years, and also had adequate performance in validation subsample (AUC=0.833, 95% CI, 0.811-0.855) </plain></SENT>
+<SENT sid="11" pm="."><plain>The 5-year T2DM probability can be calculated by: 1-0.9743960037 exp((score points -15.0281284)) </plain></SENT>
+<SENT sid="12" pm="."><plain>We concluded that this <z:mp ids='MP_0002055'>diabetes</z:mp> risk score, derived from clinical information combined with FPG is a simple, effective tool to identify individuals at high risk for undiagnosed T2DM </plain></SENT>
+</text></document>

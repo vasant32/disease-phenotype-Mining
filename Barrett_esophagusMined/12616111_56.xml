@@ -1,0 +1,18 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: To compare the results of medical treatment and antireflux surgery in patients with <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> (BE) </plain></SENT>
+<SENT sid="1" pm="."><plain>SUMMARY BACKGROUND DATA: The treatment of choice in BE is still controversial </plain></SENT>
+<SENT sid="2" pm="."><plain>Some clinical studies suggest that surgery could be more effective than medical treatment in preventing BE from progressing to <z:mpath ids='MPATH_589'>dysplasia</z:mpath> and <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> </plain></SENT>
+<SENT sid="3" pm="."><plain>However, data from prospective comparative studies are necessary to answer this question </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS: One hundred one patients were included in a randomized prospective study, 43 with medical treatment and 58 with antireflux surgery </plain></SENT>
+<SENT sid="5" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> patients underwent clinical, endoscopic, and histologic assessment </plain></SENT>
+<SENT sid="6" pm="."><plain>Functional studies were performed in <z:hpo ids='HP_0000001'>all</z:hpo> the operated patients and in a subgroup of patients receiving medical treatment </plain></SENT>
+<SENT sid="7" pm="."><plain>The median follow-up was 5 years (range 1-18) in the medical treatment group and 6 years (range 1-18) in the surgical treatment group </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: Satisfactory clinical results (excellent to good) were achieved in 39 of the 43 patients (91%) undergoing medical treatment and in 53 of the 58 patients (91%) following antireflux surgery </plain></SENT>
+<SENT sid="9" pm="."><plain>The persistence of added inflammatory lesions was significantly higher in the medical treatment group </plain></SENT>
+<SENT sid="10" pm="."><plain>The metaplastic segment did not disappear in any case </plain></SENT>
+<SENT sid="11" pm="."><plain>Postoperative functional studies showed a significant decrease in the median percentage of total time with pH below 4, although 9 of the 58 patients (15%) showed pathologic rates of <z:e sem="disease" ids="C0017168" disease_type="Disease or Syndrome" abbrv="GERD">acid reflux</z:e> </plain></SENT>
+<SENT sid="12" pm="."><plain>High-grade <z:mpath ids='MPATH_589'>dysplasia</z:mpath> appeared in 2 of the 43 patients (5%) in the medical treatment group and in 2 of the 58 patients (3%) in the surgical treatment group </plain></SENT>
+<SENT sid="13" pm="."><plain>In the latter, both patients presented with clinical and pH-metric recurrence </plain></SENT>
+<SENT sid="14" pm="."><plain>There was no case of <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">malignancy</z:e> after successful antireflux surgery </plain></SENT>
+<SENT sid="15" pm="."><plain>CONCLUSIONS: These results show that there are no differences between the two types of treatment with respect to preventing BE from progressing to <z:mpath ids='MPATH_589'>dysplasia</z:mpath> and <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> </plain></SENT>
+<SENT sid="16" pm="."><plain>However, successful antireflux surgery proved to be more efficient than medical treatment in this sense, perhaps because it completely controls acid and biliopancreatic reflux to the esophagus </plain></SENT>
+</text></document>

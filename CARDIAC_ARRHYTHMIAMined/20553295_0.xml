@@ -1,0 +1,20 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIMS: Microtubule disruption contributes to cellular and organic dysfunction, and is implicated in <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e>/reperfusion (I/R) injury </plain></SENT>
+<SENT sid="1" pm="."><plain>The purpose of this study was to explore the effects of <z:chebi fb="6" ids="45863">taxol</z:chebi>, a microtubule stabilizer, on cardiac functional recovery during reperfusion </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: Left ventricular developed pressure, left ventricular end-diastolic pressure, maximal time derivatives of pressure and the severity of <z:hpo ids='HP_0004308'>ventricular arrhythmias</z:hpo> were analyzed in isolated rat heart </plain></SENT>
+<SENT sid="3" pm="."><plain>Microtubule structure was immunohistochemically measured </plain></SENT>
+<SENT sid="4" pm="."><plain><z:mpath ids='MPATH_3'>Apoptosis</z:mpath> and <z:mp ids='MP_0001651'>necrosis</z:mp> was identified with TUNEL or TTC staining, respectively </plain></SENT>
+<SENT sid="5" pm="."><plain><z:hpo ids='HP_0001427'>Mitochondrial</z:hpo> permeability transition pore (mPTP) <z:chebi fb="2" ids="33699">mRNA</z:chebi> expression was examined by real-time polymerase chain reactions </plain></SENT>
+<SENT sid="6" pm="."><plain>mPTP opening, reactive oxygen species (ROS), and oxidative enzyme activities were measured with fluorometric or spectrophotometric techniques </plain></SENT>
+<SENT sid="7" pm="."><plain>Intracellular calcium concentration ([Ca(2+) ](i) ) and Ca(2+) transients were examined by Fura-2-AM and <z:chebi fb="0" ids="5107">Fluo-3</z:chebi>-AM, respectively </plain></SENT>
+<SENT sid="8" pm="."><plain>Cytosolic <z:chebi fb="1" ids="18070">cytochrome c</z:chebi>, sarcoplasmic reticulum Ca(2+) -ATPase (SERCA2), <z:chebi fb="0" ids="8925">ryanodine</z:chebi> receptors (RyR), phospholamban (PLB), and PLB phosphorylation were analyzed by Western blot </plain></SENT>
+<SENT sid="9" pm="."><plain>Effective refractory period (ERP) and afterpotential-mediated activity were detected using microelectrode </plain></SENT>
+<SENT sid="10" pm="."><plain>RESULTS: <z:chebi fb="6" ids="45863">Taxol</z:chebi> improved the functional recovery of post-I/R </plain></SENT>
+<SENT sid="11" pm="."><plain><z:chebi fb="6" ids="45863">Taxol</z:chebi> preserved the intact microtubule structure in reperfusion </plain></SENT>
+<SENT sid="12" pm="."><plain>mPTP <z:chebi fb="2" ids="33699">mRNA</z:chebi> expression was unchanged while the mPTP opening was reduced by <z:chebi fb="6" ids="45863">taxol</z:chebi>, and this effect was accompanied by the decreased ROS level caused by oxidative enzymes activities' changes </plain></SENT>
+<SENT sid="13" pm="."><plain><z:chebi fb="6" ids="45863">Taxol</z:chebi> <z:mp ids='MP_0006043'>reduced apoptosis</z:mp> and the level of cytosolic <z:chebi fb="1" ids="18070">cytochrome c</z:chebi> in reperfusion </plain></SENT>
+<SENT sid="14" pm="."><plain><z:chebi fb="6" ids="45863">Taxol</z:chebi> also promoted rapid recovery of [Ca(2+) ](i) , prevented reduction of the amplitude of Ca(2+) transients and shortened the decay time of Ca(2+) transients </plain></SENT>
+<SENT sid="15" pm="."><plain>The protein expression of SERCA2, RyR, and PLB remained unchanged in reperfusion </plain></SENT>
+<SENT sid="16" pm="."><plain><z:chebi fb="6" ids="45863">Taxol</z:chebi> prevented the increase of Phospho-Thr17-PLB and Phospho-Ser16-PLB in reperfusion </plain></SENT>
+<SENT sid="17" pm="."><plain>In addition, <z:chebi fb="6" ids="45863">taxol</z:chebi> facilitated rapid recovery of ERP and counter-acted afterpotential-mediated activity </plain></SENT>
+<SENT sid="18" pm="."><plain>CONCLUSION: <z:chebi fb="6" ids="45863">Taxol</z:chebi> may effectively improve cardiac functional recovery during reperfusion via inhibiting mPTP opening, ameliorating abnormal calcium homeostasis, and reducing the substrates associated with <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> </plain></SENT>
+</text></document>

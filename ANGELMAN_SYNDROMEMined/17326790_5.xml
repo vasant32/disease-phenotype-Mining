@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PURPOSE: <z:e sem="disease" ids="C0162635" disease_type="Disease or Syndrome" abbrv="">Angelman syndrome (AS)</z:e> is a neurogenetic disorder characterized by <z:hpo ids='HP_0001263'>developmental delay</z:hpo> and a frequently refractory <z:e sem="disease" ids="C0014544" disease_type="Disease or Syndrome" abbrv="">epileptic</z:e> condition </plain></SENT>
+<SENT sid="1" pm="."><plain>Valproate, clonazepam and/or phenytoin are said to be the most effective <z:chebi fb="0" ids="35623">antiepileptic</z:chebi> drugs (AEDs) against the <z:hpo ids='HP_0001250'>seizures</z:hpo> in AS </plain></SENT>
+<SENT sid="2" pm="."><plain>Experience with the newer AEDs is very limited despite their better safety profile and tolerability </plain></SENT>
+<SENT sid="3" pm="."><plain>Considering its favorable side effect profile and its effectiveness against both partial and <z:hpo ids='HP_0002197'>generalized seizures</z:hpo>, we hypothesized that lamotrigine (LTG) might be more efficacious and better tolerated </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS: Potential patients for this retrospective study were identified from the <z:e sem="disease" ids="C0014544" disease_type="Disease or Syndrome" abbrv="">epilepsy</z:e> clinics at Notre-Dame, Sainte-Justine, and Yale New Haven hospitals </plain></SENT>
+<SENT sid="5" pm="."><plain>Patients were included in the study if they had AS along with refractory <z:hpo ids='HP_0001250'>seizures</z:hpo> </plain></SENT>
+<SENT sid="6" pm="."><plain>The medical record of each patient was reviewed with interest on <z:hpo ids='HP_0001250'>seizure</z:hpo> types, previous AEDs and response to LTG </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: Five patients (2M, 3F) were included in this study </plain></SENT>
+<SENT sid="8" pm="."><plain>Age at LTG ranged from 10 to 33 years old </plain></SENT>
+<SENT sid="9" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> had &gt;or=2 <z:hpo ids='HP_0001250'>seizure</z:hpo> types, mainly generalized tonic-clonic, myoclonic <z:hpo ids='HP_0001250'>seizures</z:hpo>, and atypical absences </plain></SENT>
+<SENT sid="10" pm="."><plain>Previously tried AEDs included <z:chebi fb="0" ids="39867">valproic acid</z:chebi> (5), <z:chebi fb="13" ids="22720">benzodiazepines</z:chebi> (5), phenytoin (4), carbamazepine (3), and topiramate (1) </plain></SENT>
+<SENT sid="11" pm="."><plain>One patient had <z:hpo ids='HP_0001733'>pancreatitis</z:hpo> on phenytoin, one had worsened <z:hpo ids='HP_0001250'>seizures</z:hpo> on carbamazepine, and one developed <z:hpo ids='HP_0002480'>hepatic encephalopathy</z:hpo> on <z:chebi fb="0" ids="39867">valproic acid</z:chebi> </plain></SENT>
+<SENT sid="12" pm="."><plain>Three patients became <z:hpo ids='HP_0001250'>seizure</z:hpo>-free with LTG (9, 20, and 36 months FU), one was <z:hpo ids='HP_0001250'>seizure</z:hpo>-free for 1 year with subsequent loss of efficacy, and one showed &gt;50% reduction in myoclonic <z:hpo ids='HP_0001250'>seizures</z:hpo> (20 months FU) </plain></SENT>
+<SENT sid="13" pm="."><plain>No side effects were reported </plain></SENT>
+<SENT sid="14" pm="."><plain>CONCLUSION: LTG can be efficacious and well tolerated in patients with AS </plain></SENT>
+</text></document>

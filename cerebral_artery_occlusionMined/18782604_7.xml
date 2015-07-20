@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>To determine whether the receptor for advanced glycation endproducts (RAGE) contributes to <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo>, we evaluated RAGE expression in human <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> and a model of permanent middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (pMCAO) in rats </plain></SENT>
+<SENT sid="1" pm="."><plain>Biopsy specimens were obtained from 12 patients with unilateral <z:e sem="disease" ids="C0007785" disease_type="Disease or Syndrome" abbrv="">cerebral infarction</z:e> </plain></SENT>
+<SENT sid="2" pm="."><plain>For the pMCAO model, the middle cerebral artery (<z:chebi fb="70" ids="34342">MCA</z:chebi>) of Sprague-Dawley (SD) rats was permanently occluded </plain></SENT>
+<SENT sid="3" pm="."><plain>Immunohistochemistry and Western blotting were used to measure RAGE expression in the ischemic hemisphere relative to the <z:mpath ids='MPATH_458'>normal</z:mpath> hemisphere </plain></SENT>
+<SENT sid="4" pm="."><plain>PC12 cells subjected to oxygen and <z:chebi fb="105" ids="17234">glucose</z:chebi> deprivation (OGD) were used to evaluate the role of RAGE in cell injury </plain></SENT>
+<SENT sid="5" pm="."><plain>As expected, <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> patients expressed elevated levels of RAGE in the ischemic hemisphere </plain></SENT>
+<SENT sid="6" pm="."><plain>In 1 and 2 days pMCAO rats, levels of RAGE were higher in the ischemic hemisphere relative to the non-ischemic hemisphere, and expression was primarily located in the penumbra of the ischemic hemisphere </plain></SENT>
+<SENT sid="7" pm="."><plain>In PC12 cells, levels of RAGE increased after 7h of OGD culture </plain></SENT>
+<SENT sid="8" pm="."><plain>Notably, blockade of RAGE with a selective RAGE antibody in vitro reduced the cytotoxicity caused by OGD </plain></SENT>
+<SENT sid="9" pm="."><plain>The present data suggest that RAGE is up-regulated in human <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> and pMCAO rats, suggesting a role for RAGE in <z:e sem="disease" ids="C0007786" disease_type="Disease or Syndrome" abbrv="">brain ischemia</z:e> </plain></SENT>
+</text></document>

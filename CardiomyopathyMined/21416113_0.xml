@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Patients with <z:hpo ids='HP_0011665'>Takotsubo cardiomyopathy</z:hpo> (TC) often present with symptoms similar to those of <z:hpo ids='HP_0001658'>myocardial infarction</z:hpo> (MI) </plain></SENT>
+<SENT sid="1" pm="."><plain>We analyzed blood concentrations of mediators of <z:mp ids='MP_0001845'>inflammation</z:mp> and platelet- and monocyte-activity markers in patients with TC and MI for significant differences </plain></SENT>
+<SENT sid="2" pm="."><plain>Clinical data of patients with TC (n = 16) and <z:hpo ids='HP_0011009'>acute</z:hpo> MI (n = 16) were obtained </plain></SENT>
+<SENT sid="3" pm="."><plain>Serial blood samples were taken at the time of hospital admission (t(0)), after 2-4 days (t(1)) and after 4-7 weeks (t(2)), respectively </plain></SENT>
+<SENT sid="4" pm="."><plain>Plasma concentrations of interleukin (IL)-6, IL-7, soluble CD40 ligand (sCD40L), and monocyte chemotactic protein 1 (<z:chebi fb="17" ids="50099">MCP</z:chebi>-1) were determined with an ELISA </plain></SENT>
+<SENT sid="5" pm="."><plain>Tissue factor binding on monocytes, platelet-activation marker CD62P, platelet CD40-ligand (CD40L), and platelet-monocyte aggregates were measured using flow cytometry </plain></SENT>
+<SENT sid="6" pm="."><plain>Expression of CD62P on platelets and IL-6 plasma levels were significantly lower in patients with TC compared to MI at the time of hospital admission </plain></SENT>
+<SENT sid="7" pm="."><plain>IL-7 plasma levels were significantly elevated in patients with TC compared to patients with MI at 2-4 days after hospital admission </plain></SENT>
+<SENT sid="8" pm="."><plain>No significant differences were observed concerning sCD40L and <z:chebi fb="17" ids="50099">MCP</z:chebi>-1 plasma levels, tissue factor binding on monocytes, CD40L expression on platelets, and platelet-monocyte aggregates at any point in time </plain></SENT>
+<SENT sid="9" pm="."><plain>Our results indicate that <z:mp ids='MP_0002501'>inflammatory mediators</z:mp> and platelet-activity markers contribute to the differences in the pathogenesis of MI and TC </plain></SENT>
+</text></document>

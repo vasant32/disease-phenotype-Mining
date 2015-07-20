@@ -1,0 +1,6 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>This paper introduces an algorithm for detecting T wave alternans (TWA) using Poincare mapping method, which is a technique for nonlinear dynamic systems to display periodic behavior </plain></SENT>
+<SENT sid="1" pm="."><plain>Vector angle index (VAI) was used to determine the presence or absence of TWA </plain></SENT>
+<SENT sid="2" pm="."><plain>Adopting <z:chebi fb="75" ids="27847,53620">MIT</z:chebi>/BIH <z:hpo ids='HP_0011675'>Arrhythmia</z:hpo> database and European ECG ST-T database to simulate, we used VAI via poincare mapping method for correlation analysis with Vtwa by way of the spectral method </plain></SENT>
+<SENT sid="3" pm="."><plain>The cross-correlation coefficient between Vtwa and VAI is gamma = 0.860 1 </plain></SENT>
+<SENT sid="4" pm="."><plain>The algorithm can identify the absence and presence of TWA accurately and provide idea for further study of TWA </plain></SENT>
+</text></document>

@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Recombinant human erythropoietin (rhEPO) at pharmacological doses was used to improve <z:hpo ids='HP_0001903'>anemia</z:hpo> and reduce the transfusional requirements of 43 patients with <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e>) </plain></SENT>
+<SENT sid="1" pm="."><plain>rhEPO was given by s.c. injection three times per week for 12 weeks </plain></SENT>
+<SENT sid="2" pm="."><plain>The EPO dose was started at 150 IU/kg and was increased to 300 IU/kg if after 6 weeks there was no or suboptimal erythroid response </plain></SENT>
+<SENT sid="3" pm="."><plain>Responses were defined as being a complete response (CR), partial response (PR), or no response (NR) </plain></SENT>
+<SENT sid="4" pm="."><plain>A CR was considered a rise in untransfused <z:chebi fb="0" ids="35143">hemoglobin</z:chebi> concentrations of at least 2 g/dl or a 100% decrease in RBC transfusion requirements over the treatment period </plain></SENT>
+<SENT sid="5" pm="."><plain>A PR was defined as an increase in untransfused <z:chebi fb="0" ids="35143">hemoglobin</z:chebi> values of 1-2 g/dl or a decrease in RBC transfusion requirements equal to or greater than 50% </plain></SENT>
+<SENT sid="6" pm="."><plain>NR was defined as responses less than a PR </plain></SENT>
+<SENT sid="7" pm="."><plain>Patients who responded to therapy were continued on rhEPO at the same dose for 6 additional months </plain></SENT>
+<SENT sid="8" pm="."><plain>An objective response (CR and PR) was observed in 7 of 42 (16.7%) assessable cases after 6 weeks of treatment at the dose of 150 IU/kg </plain></SENT>
+<SENT sid="9" pm="."><plain>Dose escalation (300 IU/kg) in nonresponders resulted in another six patients attaining a rise in <z:chebi fb="0" ids="35143">hemoglobin</z:chebi> concentrations </plain></SENT>
+<SENT sid="10" pm="."><plain>The final response rate was 13 of 41 (31.7%); 4 patients became transfusion independent </plain></SENT>
+<SENT sid="11" pm="."><plain>Therapy was tolerated well, with no relevant side effects </plain></SENT>
+<SENT sid="12" pm="."><plain><z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> progression was seen in one case </plain></SENT>
+<SENT sid="13" pm="."><plain>An elevated bone marrow erythroid infiltration (erythroid index) and detectable pretreatment circulating erythroid progenitors (burst-forming units-erythroid) were the best predictors of <z:chebi fb="0" ids="35143">hemoglobin</z:chebi> response when we controlled for other variables </plain></SENT>
+<SENT sid="14" pm="."><plain>These data suggest that rhEPO has a role in the treatment of certain patients with <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e>, particularly in those with a high erythroid index and detectable circulating erythroid burst-forming units </plain></SENT>
+</text></document>

@@ -1,0 +1,6 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0000822'>Hypertension</z:hpo> is an important cardiovascular (CV) risk factor in patients with <z:hpo ids='HP_0000819'>diabetes mellitus</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>In this setting, tight control of blood pressure (BP) significantly reduces CV morbidity and mortality </plain></SENT>
+<SENT sid="2" pm="."><plain>In the UK Prospective <z:mp ids='MP_0002055'>Diabetes</z:mp> Study, a 10 mmHg reduction in systolic blood pressure (SBP) was superior to a 0.7% decrease in glycosylated <z:chebi fb="34" ids="35143">haemoglobin</z:chebi> A1c (HbA1c) as far as reducing morbidity and mortality was concerned </plain></SENT>
+<SENT sid="3" pm="."><plain>In the <z:hpo ids='HP_0000822'>Hypertension</z:hpo> Optimal Treatment study, the risk of CV events decreased by 51% among patients with type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> randomized to the lower BP level </plain></SENT>
+<SENT sid="4" pm="."><plain>Based on these findings, contemporary treatment guidelines recommend a target SBP/diastolic blood pressure of &lt;130/80 mmHg for patients with <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+</text></document>

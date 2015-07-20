@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>In a dose titration study we tested the efficacy and tolerance of recombinant human erythropoietin (rhEPO) in 10 patients with <z:hpo ids='HP_0002863'>myelodysplasia</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e>) and 2 patients with idiopathic <z:hpo ids='HP_0011974'>myelofibrosis</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Patients with a <z:chebi fb="34" ids="35143">haemoglobin</z:chebi> level &lt; 100 g/l were treated as out-patients for 12 weeks with daily doses ranging from 30 U/kg body weight (BW) up to 240 U/kg BW in non-responders </plain></SENT>
+<SENT sid="2" pm="."><plain>Of the 10 patients with <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e>, 6 were suffering from refractory <z:hpo ids='HP_0001903'>anaemia</z:hpo> with sideroblasts (<z:mp ids='MP_0011356'>RAS</z:mp>) and 4 from refractory <z:hpo ids='HP_0001903'>anaemia</z:hpo> with an excess of blasts </plain></SENT>
+<SENT sid="3" pm="."><plain>The median age was 73 years (range 41-81) </plain></SENT>
+<SENT sid="4" pm="."><plain>Two patients with <z:mp ids='MP_0011356'>RAS</z:mp> responded with a rise in <z:chebi fb="34" ids="35143">haemoglobin</z:chebi> concentration to &gt; 130 g/l </plain></SENT>
+<SENT sid="5" pm="."><plain>They had not been transfusion-dependent prior to treatment </plain></SENT>
+<SENT sid="6" pm="."><plain>Both patients had relatively low serum concentrations of immunoreactive EPO </plain></SENT>
+<SENT sid="7" pm="."><plain>There was neither a rise in <z:chebi fb="34" ids="35143">haemoglobin</z:chebi> nor a reduction in transfusion dependence in any of the other patients </plain></SENT>
+<SENT sid="8" pm="."><plain>It may be concluded that rhEPO is possibly effective in a subgroup of <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> patients where the disease is less advanced </plain></SENT>
+<SENT sid="9" pm="."><plain>None of the transfusion-dependent patients benefited </plain></SENT>
+</text></document>

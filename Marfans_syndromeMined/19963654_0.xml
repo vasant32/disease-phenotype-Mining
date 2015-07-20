@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>In this paper we reported a novel method to detect and quantify <z:hpo ids='HP_0100775'>dural ectasia</z:hpo> in <z:e sem="disease" ids="C0024796" disease_type="Disease or Syndrome" abbrv="MFS|MFS1">Marfan syndrome</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>Firstly, the dural sacs of 8 Marfan patients were segmented by applying an unsupervised Fuzzy C-Means method on T2-weighed magnetic resonance images </plain></SENT>
+<SENT sid="2" pm="."><plain>Then, for each patient a tubular model of the dural sac was extracted by detecting and removing the existent pathological extrusions </plain></SENT>
+<SENT sid="3" pm="."><plain>The segmented images together with the resulting tube were then rendered using a marching cubes algorithm </plain></SENT>
+<SENT sid="4" pm="."><plain>The proposed algorithm represents a first attempt to quantify and to morphologically characterize the pathological <z:mpath ids='MPATH_474'>ectasia</z:mpath> that usually accompanies the Marfan disorder </plain></SENT>
+<SENT sid="5" pm="."><plain>The generated 3D reconstruction and the opportunity to overlap them with a physiological model provides the clinician with a tool for a panoramic view of the structures and a means for a more accurate inspection of <z:mpath ids='MPATH_474'>ectasia</z:mpath> </plain></SENT>
+<SENT sid="6" pm="."><plain>In addition the extracted parameters furnish quantitative and reproducible measures that could be useful as discriminative indexes for an automatic and more objective diagnosis </plain></SENT>
+</text></document>

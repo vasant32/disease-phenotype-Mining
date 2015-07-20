@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIMS/HYPOTHESIS: Individuals with <z:mp ids='MP_0002055'>diabetes</z:mp> have increased mortality rates compared with the general population </plain></SENT>
+<SENT sid="1" pm="."><plain>In patients with type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> <z:hpo ids='HP_0000716'>depression</z:hpo> further contributes to the increased mortality </plain></SENT>
+<SENT sid="2" pm="."><plain><z:hpo ids='HP_0000716'>Depression</z:hpo> and mortality rates in patients with type 1 <z:mp ids='MP_0002055'>diabetes</z:mp> are an understudied phenomenon </plain></SENT>
+<SENT sid="3" pm="."><plain>We therefore studied their association in a prospective setting </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS: We followed 4,174 participants (51% men, age 39 ± 12 years, <z:mp ids='MP_0002055'>diabetes</z:mp> duration 22 ± 12 years [mean ± SD]) in the Finnish Diabetic <z:hpo ids='HP_0000112'>Nephropathy</z:hpo> Study (FinnDiane) for an average of 9 years </plain></SENT>
+<SENT sid="5" pm="."><plain><z:hpo ids='HP_0000716'>Depression</z:hpo> was defined as purchase of antidepressant agents at baseline and during follow-up </plain></SENT>
+<SENT sid="6" pm="."><plain>These data were obtained from the Finnish Drug Prescription Register </plain></SENT>
+<SENT sid="7" pm="."><plain>Data on <z:hpo ids='HP_0000001'>all</z:hpo>-cause mortality and cause of <z:hpo ids='HP_0011420'>death</z:hpo> were obtained from the Finnish Cause of <z:hpo ids='HP_0011420'>Death</z:hpo> Register </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: At baseline, 313 (7.5%) patients had purchased antidepressant agents </plain></SENT>
+<SENT sid="9" pm="."><plain>During follow-up 758 (18.2%) additional cases were observed </plain></SENT>
+<SENT sid="10" pm="."><plain>Purchasers of antidepressant agents at baseline had the highest 10-year cumulative mortality rate (22.5% [95% CI 18.1, 26.6]), followed by those with such purchases during follow-up (18.0% [15.4, 20.5]) and those with no purchases (10.1% [9.0, 11.2], p &lt; 0.001) </plain></SENT>
+<SENT sid="11" pm="."><plain>In the adjusted Cox regression models (age, <z:mp ids='MP_0002055'>diabetes</z:mp> duration, diastolic blood pressure, smoking, HbA(1c) and <z:hpo ids='HP_0000112'>nephropathy</z:hpo>), the purchase of antidepressant agents at baseline was associated with mortality in women, but not in men </plain></SENT>
+<SENT sid="12" pm="."><plain><z:e sem="disease" ids="C0007222" disease_type="Disease or Syndrome" abbrv="CVD">Cardiovascular diseases</z:e> were the major cause of <z:hpo ids='HP_0011420'>death</z:hpo> in non-purchasers of antidepressant agents </plain></SENT>
+<SENT sid="13" pm="."><plain>In antidepressant purchasers, <z:hpo ids='HP_0011010'>chronic</z:hpo> <z:e sem="disease" ids="C0271672" disease_type="Disease or Syndrome" abbrv="">diabetic complications</z:e> were the most frequent underlying cause of <z:hpo ids='HP_0011420'>death</z:hpo> </plain></SENT>
+<SENT sid="14" pm="."><plain>CONCLUSIONS/INTERPRETATION: In a population of patients with type 1 <z:mp ids='MP_0002055'>diabetes</z:mp>, purchase of antidepressant agents was associated with increased mortality rates in women, but not in men </plain></SENT>
+</text></document>

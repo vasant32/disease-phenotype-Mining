@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVES: To assess the cost-effectiveness of photodynamic therapy (<z:chebi fb="7" ids="53228">PDT</z:chebi>) and esophagectomy (ESO) relative to surveillance (SURV) for patients with <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> (BE) and high-grade <z:mpath ids='MPATH_589'>dysplasia</z:mpath> (HGD) </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: A Markov decision tree was constructed to estimate costs and health outcomes of <z:chebi fb="7" ids="53228">PDT</z:chebi>, ESO and SURV in a hypothetical cohort of male patients, 50 years of age, with BE and HGD </plain></SENT>
+<SENT sid="2" pm="."><plain>Outcomes included unadjusted life-years (LYs) and quality-adjusted LYs (QALYs) </plain></SENT>
+<SENT sid="3" pm="."><plain>Direct medical costs (2003 CDN$) were measured from the perspective of a provincial ministry of health </plain></SENT>
+<SENT sid="4" pm="."><plain>The time horizon for the model was five years (cycle length three months), and costs and outcomes were discounted at 3% </plain></SENT>
+<SENT sid="5" pm="."><plain>Model parameters were assigned unique distributions, and a probabilistic analysis with 10,000 Monte Carlo simulations was performed </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: SURV was the least costly strategy, followed by <z:chebi fb="7" ids="53228">PDT</z:chebi> and ESO, but SURV was also the least effective </plain></SENT>
+<SENT sid="7" pm="."><plain>In terms of LYs, the incremental cost-effectiveness ratios were 814 dollars/LY for <z:chebi fb="7" ids="53228">PDT</z:chebi> versus SURV and 3,397 dollars/LY for ESO versus <z:chebi fb="7" ids="53228">PDT</z:chebi> </plain></SENT>
+<SENT sid="8" pm="."><plain><z:chebi fb="7" ids="53228">PDT</z:chebi> dominated ESO for QALYs in the base-case </plain></SENT>
+<SENT sid="9" pm="."><plain>The incremental cost-effectiveness ratio of <z:chebi fb="7" ids="53228">PDT</z:chebi> versus SURV was 879 dollars/QALY </plain></SENT>
+<SENT sid="10" pm="."><plain>In probabilistic analysis, <z:chebi fb="7" ids="53228">PDT</z:chebi> was most likely to be cost-effective at willingness-to-pay (WTP) values between 100 dollars/LY and 3,500 dollars/LY, and ESO was most likely to be cost-effective for WTP values over 3500 dollars/LY </plain></SENT>
+<SENT sid="11" pm="."><plain>For quality-adjusted survival, <z:chebi fb="7" ids="53228">PDT</z:chebi> was most likely to be cost-effective for <z:hpo ids='HP_0000001'>all</z:hpo> WTP thresholds above 1,000 dollars/QALY </plain></SENT>
+<SENT sid="12" pm="."><plain>The likelihood that <z:chebi fb="7" ids="53228">PDT</z:chebi> was the most cost-effective strategy reached 0.99 at a WTP ceiling of 25,000 dollars/QALY </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSIONS: In male patients with BE and HGD, <z:chebi fb="7" ids="53228">PDT</z:chebi> and ESO are cost-effective alternatives to SURV </plain></SENT>
+</text></document>

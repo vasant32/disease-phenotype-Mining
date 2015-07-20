@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE Taspoglutide is a long-acting glucagon-like <z:chebi fb="7" ids="16670">peptide</z:chebi> 1 receptor <z:chebi fb="4" ids="48705">agonist</z:chebi> developed for treatment of type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="1" pm="."><plain>The efficacy and safety of once-weekly taspoglutide was compared with twice-daily exenatide </plain></SENT>
+<SENT sid="2" pm="."><plain>RESEARCH DESIGN AND METHODS Overweight adults with inadequately controlled type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> on <z:chebi fb="0" ids="6801">metformin</z:chebi> ± a thiazolidinedione were randomized to subcutaneous taspoglutide 10 mg weekly (n = 399), taspoglutide 20 mg weekly (n = 398), or exenatide 10 µg twice daily (n = 392) in an open-label, multicenter trial </plain></SENT>
+<SENT sid="3" pm="."><plain>The primary end point was change in HbA(1c) after 24 weeks </plain></SENT>
+<SENT sid="4" pm="."><plain>RESULTS Mean baseline HbA(1c) was 8.1% </plain></SENT>
+<SENT sid="5" pm="."><plain>Both doses of taspoglutide reduced HbA(1c) significantly more than exenatide (taspoglutide 10 mg: -1.24% [SE 0.09], difference -0.26, 95% CI -0.37 to -0.15, P &lt; 0.0001; taspoglutide 20 mg: -1.31% [0.08], difference -0.33, -0.44 to -0.22, P &lt; 0.0001; exenatide: -0.98% [0.08]) </plain></SENT>
+<SENT sid="6" pm="."><plain>Both taspoglutide doses reduced fasting plasma <z:chebi fb="105" ids="17234">glucose</z:chebi> significantly more than exenatide </plain></SENT>
+<SENT sid="7" pm="."><plain>Taspoglutide <z:mp ids='MP_0001262'>reduced body weight</z:mp> (taspoglutide 10 mg, -1.6 kg; taspoglutide 20 mg, -2.3 kg) as did exenatide (-2.3 kg), which was greater than with taspoglutide 10 mg (P &lt; 0.05) </plain></SENT>
+<SENT sid="8" pm="."><plain>HbA(1c) and weight effects were maintained after 52 weeks </plain></SENT>
+<SENT sid="9" pm="."><plain>More adverse events with taspoglutide 10 and 20 mg than exenatide developed over time (<z:hpo ids='HP_0002018'>nausea</z:hpo> in 53, 59, and 35% and <z:hpo ids='HP_0002013'>vomiting</z:hpo> in 33, 37, and 16%, respectively) </plain></SENT>
+<SENT sid="10" pm="."><plain>Allergic and injection-site reactions were more common with taspoglutide </plain></SENT>
+<SENT sid="11" pm="."><plain>Discontinuations were greater with taspoglutide </plain></SENT>
+<SENT sid="12" pm="."><plain>Antitaspoglutide antibodies were detected in 49% of patients </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSIONS Once-weekly taspoglutide demonstrated greater glycemic control than twice-daily exenatide with comparable <z:hpo ids='HP_0001824'>weight loss</z:hpo>, but with unacceptable levels of <z:hpo ids='HP_0002018'>nausea</z:hpo>/<z:hpo ids='HP_0002013'>vomiting</z:hpo>, injection-site reactions, and systemic allergic reactions </plain></SENT>
+</text></document>

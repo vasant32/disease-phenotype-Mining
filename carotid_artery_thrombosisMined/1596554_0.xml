@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A new method for postprocessing of three dimensional magnetic resonance angiography data sets is described </plain></SENT>
+<SENT sid="1" pm="."><plain>Two operations are performed with the data set prior to maximum intensity projection </plain></SENT>
+<SENT sid="2" pm="."><plain>First, an irregular part of interest is marked interactively within the data set </plain></SENT>
+<SENT sid="3" pm="."><plain>By restricting the projection algorithm to this region, a disturbing overlay by vessels of other regions is avoided </plain></SENT>
+<SENT sid="4" pm="."><plain>Secondly, a three dimensional interpolation of the original data set is performed </plain></SENT>
+<SENT sid="5" pm="."><plain>While the spatial resolution of vessel representation is unchanged, the quality of the maximum intensity projection is improved significantly </plain></SENT>
+<SENT sid="6" pm="."><plain>The diagnostic value of this method is demonstrated by visualisation of a carotid <z:hpo ids='HP_0002617'>aneurysm</z:hpo> and of the deep and superficial cerebral veins </plain></SENT>
+</text></document>

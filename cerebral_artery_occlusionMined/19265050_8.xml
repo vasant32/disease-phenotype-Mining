@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND PURPOSE: We have shown that <z:hpo ids='HP_0011009'>acute</z:hpo> treatment with <z:chebi fb="0" ids="3347">candesartan</z:chebi> in an experimental model of <z:hpo ids='HP_0001297'>stroke</z:hpo> resulted in vascular protection and improved outcomes at 24 hours poststroke, but the mechanisms are unknown </plain></SENT>
+<SENT sid="1" pm="."><plain>We now examine effects of <z:chebi fb="0" ids="3347">candesartan</z:chebi> on proangiogenic factors and 7-day outcomes using the same treatment paradigm </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: Male Wistar rats underwent 3 hours of middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> followed by reperfusion </plain></SENT>
+<SENT sid="3" pm="."><plain>A single dose of 1 mg/kg <z:chebi fb="0" ids="3347">candesartan</z:chebi> intravenously was given at reperfusion </plain></SENT>
+<SENT sid="4" pm="."><plain>Animals received neurobehavioral testing before middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp>, at 24 hours after middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp>, and at 7 days </plain></SENT>
+<SENT sid="5" pm="."><plain>Blood pressure was measured by telemetry </plain></SENT>
+<SENT sid="6" pm="."><plain>Animals euthanized at 24 hours had brain tissue and cerebrospinal fluid collected for matrix metalloproteinase activity, vascular endothelial growth factor expression, and tube formation assay </plain></SENT>
+<SENT sid="7" pm="."><plain>Neurobehavioral testing included elevated body swing test, Bederson, beam walk, and paw grasp </plain></SENT>
+<SENT sid="8" pm="."><plain>Cerebrovascular density was quantified using immunohistochemistry at 24 hours and 7 days </plain></SENT>
+<SENT sid="9" pm="."><plain>RESULTS: Matrix metalloproteinase-2 activity and vascular endothelial growth factor expression were higher (P=0.035, P=0.042, respectively) and cerebrospinal fluid was significantly more proangiogenic (5x tube formation; P=0.002) in the <z:chebi fb="0" ids="3347">candesartan</z:chebi> group at 24 hours </plain></SENT>
+<SENT sid="10" pm="."><plain>Although no difference was seen in <z:mpath ids='MPATH_124'>infarct</z:mpath> size at 7 days, treatment improved Bederson scores (2.1 versus 2.9, P=0.0083), elevated body swing test (22.9 versus 39.4, P=0.021), and paw grasp (1.29 versus 2.88, P=0.0001) at 7 days </plain></SENT>
+<SENT sid="11" pm="."><plain><z:chebi fb="0" ids="3347">Candesartan</z:chebi> treatment resulted in increased vascular density in the striatum at 7 days (P=0.037) </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: <z:chebi fb="0" ids="3347">Candesartan</z:chebi> after reperfusion augments <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e>-induced angiogenic state and provides long-term benefits </plain></SENT>
+<SENT sid="13" pm="."><plain>The beneficial effects may involve vascular protection and enhancement of early angiogenic remodeling </plain></SENT>
+</text></document>

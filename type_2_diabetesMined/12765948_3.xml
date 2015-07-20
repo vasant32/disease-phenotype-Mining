@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>During liver transplantation and after both meal ingestion and prolonged fasting, renal <z:chebi fb="105" ids="17234">glucose</z:chebi> release (RGR) increases while hepatic <z:chebi fb="105" ids="17234">glucose</z:chebi> release (HGR) decreases </plain></SENT>
+<SENT sid="1" pm="."><plain>These and other observations have led to the concept of hepatorenal reciprocity </plain></SENT>
+<SENT sid="2" pm="."><plain>According to this concept, reciprocal changes in hepatic and renal <z:chebi fb="105" ids="17234">glucose</z:chebi> release may occur to minimize deviations from <z:mpath ids='MPATH_458'>normal</z:mpath> <z:chebi fb="105" ids="17234">glucose</z:chebi> homeostasis </plain></SENT>
+<SENT sid="3" pm="."><plain>We further assessed this concept by testing the hypothesis that during counterregulation of <z:hpo ids='HP_0001943'>hypoglycemia</z:hpo> in patients with type 2 <z:mp ids='MP_0002055'>diabetes</z:mp>, who would be expected to have reduced HGR, RGR would be increased </plain></SENT>
+<SENT sid="4" pm="."><plain>Accordingly, we performed hypoglycemic hyperinsulinemic clamp experiments (approximately 3.1 mmol/l) in 12 type 2 diabetic and in 10 age-weight-matched nondiabetic volunteers and measured total endogenous <z:chebi fb="105" ids="17234">glucose</z:chebi> release (TEGR) and RGR using a combined isotopic net balance approach </plain></SENT>
+<SENT sid="5" pm="."><plain>HGR was calculated as the difference between TEGR and RGR since only these organs are capable of releasing <z:chebi fb="105" ids="17234">glucose</z:chebi> </plain></SENT>
+<SENT sid="6" pm="."><plain>We found that during comparable <z:hpo ids='HP_0001943'>hypoglycemia</z:hpo> and <z:hpo ids='HP_0000842'>hyperinsulinemia</z:hpo>, TEGR was reduced in type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> (6.6 +/- 0.6 vs. 10.2 +/- 1.1 micromol </plain></SENT>
+<SENT sid="7" pm="."><plain>kg(-1) </plain></SENT>
+<SENT sid="8" pm="."><plain>min(-1) in nondiabetic volunteers, P = 0.01) due to reduced HGR (3.9 +/- 0.5 vs. 8.6 +/- 1.0 micromol </plain></SENT>
+<SENT sid="9" pm="."><plain>kg(-1) </plain></SENT>
+<SENT sid="10" pm="."><plain>min(-1) in nondiabetic volunteers, P = 0.0015) </plain></SENT>
+<SENT sid="11" pm="."><plain>In contrast, RGR was increased approximately twofold in type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> (3.3 +/- 0.5 vs. 1.6 +/- 0.3 micromol </plain></SENT>
+<SENT sid="12" pm="."><plain>kg(-1) </plain></SENT>
+<SENT sid="13" pm="."><plain>min(-1) in nondiabetic volunteers, P = 0.015) </plain></SENT>
+<SENT sid="14" pm="."><plain>Plasma <z:chebi fb="2" ids="28918">epinephrine</z:chebi>, <z:chebi fb="4" ids="24996">lactate</z:chebi>, and free fatty acid concentrations, which would promote RGR, were also greater in type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> (<z:hpo ids='HP_0000001'>all</z:hpo> P &lt; 0.01) </plain></SENT>
+<SENT sid="15" pm="."><plain>Our results provide further support for hepatorenal reciprocity and may explain at least in part the relatively low occurrence of severe <z:hpo ids='HP_0001943'>hypoglycemia</z:hpo> in type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> compared with type 1 <z:mp ids='MP_0002055'>diabetes</z:mp> where both HGR and RGR counterregulatory responses are reduced </plain></SENT>
+</text></document>

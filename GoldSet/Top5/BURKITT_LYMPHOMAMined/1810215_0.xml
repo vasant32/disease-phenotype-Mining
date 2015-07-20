@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We present results concerning the reactivity of two moAbs (BR3, BR31) with human B cell lines and malignant B cells from patients </plain></SENT>
+<SENT sid="1" pm="."><plain>The first antibody BR3 shows a broad reactivity with B cell <z:e sem="disease" ids="C0006826" disease_type="Neoplastic Process" abbrv="">malignancies</z:e> and B cell lines </plain></SENT>
+<SENT sid="2" pm="."><plain>It also weakly stains some non-<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">T ALL</z:e> cells and is negative on <z:mp ids='MP_0009440'>plasma cell tumors</z:mp> </plain></SENT>
+<SENT sid="3" pm="."><plain>The second moAb BR31 shows a restricted reactivity </plain></SENT>
+<SENT sid="4" pm="."><plain>It stains only HCL and <z:chebi fb="1" ids="53412">PLL</z:chebi> cells as well as Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> lines </plain></SENT>
+<SENT sid="5" pm="."><plain>Some moderate staining was also observed on 4 out of 12 cases of CLL and some non-Hodgkin <z:hpo ids='HP_0002665'>lymphomas</z:hpo> </plain></SENT>
+<SENT sid="6" pm="."><plain><z:chebi fb="1" ids="53412">PLL</z:chebi> cells, cultured with polyclonal activators, lose BR31 Ag by day 4 of culture </plain></SENT>
+<SENT sid="7" pm="."><plain>These results suggest that BR3 Ag is present on the cell surface throughout B cell ontogeny while BR31 Ag expression is related to a particular stage of B cell maturation </plain></SENT>
+</text></document>

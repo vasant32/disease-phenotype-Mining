@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: To define the antiphospholipid score (aPL-S) by testing multiple <z:hpo ids='HP_0003613'>antiphospholipid antibodies</z:hpo> (aPL) and to evaluate its efficacy for the diagnosis of <z:e sem="disease" ids="C0085278" disease_type="Disease or Syndrome" abbrv="">antiphospholipid syndrome</z:e> (APS) and predictive value for <z:mp ids='MP_0005048'>thrombosis</z:mp> </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: This study comprised 2 independent sets of patients with <z:hpo ids='HP_0002960'>autoimmune diseases</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>In the first set of patients (n = 233), the aPL profiles were analyzed </plain></SENT>
+<SENT sid="3" pm="."><plain>Five clotting assays for testing <z:e sem="disease" ids="C0024138,C0024141,C0024131,C0409974" disease_type="Disease or Syndrome" abbrv="">lupus</z:e> <z:chebi fb="3" ids="50249">anticoagulant</z:chebi> and 6 enzyme-linked immunosorbent assays (IgG/IgM anticardiolipin antibodies, IgG/IgM anti-β(2)-<z:chebi fb="2" ids="17089">glycoprotein</z:chebi> I, and IgG/IgM phosphatidylserine-dependent antiprothrombin antibodies) were included </plain></SENT>
+<SENT sid="4" pm="."><plain>The association of the aPL-S with a history of <z:mp ids='MP_0005048'>thrombosis</z:mp>/pregnancy morbidity was assessed </plain></SENT>
+<SENT sid="5" pm="."><plain>In the second set of patients (n = 411), the predictive value of the aPL-S for <z:mp ids='MP_0005048'>thrombosis</z:mp> was evaluated retrospectively </plain></SENT>
+<SENT sid="6" pm="."><plain>Two hundred ninety-six of these patients were followed up for &gt;2 years </plain></SENT>
+<SENT sid="7" pm="."><plain>The relationship between the aPL-S and the risk of developing <z:mp ids='MP_0005048'>thrombosis</z:mp> was analyzed </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: In the first set of patients, the aPL-S was higher in those with <z:mp ids='MP_0005048'>thrombosis</z:mp>/pregnancy morbidity than in those without manifestations of APS (P &lt; 0.00001) </plain></SENT>
+<SENT sid="9" pm="."><plain>For the aPL-S, the area under the receiver operating characteristic curve value was 0.752 </plain></SENT>
+<SENT sid="10" pm="."><plain>In the second set of patients, new thromboses developed in 32 patients </plain></SENT>
+<SENT sid="11" pm="."><plain>The odds ratio (OR) for <z:mp ids='MP_0005048'>thrombosis</z:mp> in patients with an aPL-S of ≥30 was 5.27 (95% confidence interval [95% CI] 2.32-11.95, P &lt; 0.0001) </plain></SENT>
+<SENT sid="12" pm="."><plain>By multivariate analysis, an aPL-S of ≥30 appeared to be an independent risk factor for <z:mp ids='MP_0005048'>thrombosis</z:mp> (hazard ratio 3.144 [95% CI 1.383-7.150], P = 0.006) </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSION: The aPL-S is a useful quantitative index for diagnosing APS and may be a predictive marker for <z:mp ids='MP_0005048'>thrombosis</z:mp> in <z:hpo ids='HP_0002960'>autoimmune diseases</z:hpo> </plain></SENT>
+</text></document>

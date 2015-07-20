@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>In China, Chinese herbal medicine (CHM) is widely used as an adjunct to biomedicine (BM) in treating <z:hpo ids='HP_0001658'>myocardial infarction</z:hpo> (MI) </plain></SENT>
+<SENT sid="1" pm="."><plain>This meta-analysis of RCTs evaluated the efficacy of combined CHM-BM in the treatment of MI, compared to BM alone </plain></SENT>
+<SENT sid="2" pm="."><plain>Sixty-five RCTs (12,022 patients) of moderate quality were identified </plain></SENT>
+<SENT sid="3" pm="."><plain>6,036 patients were given CHM plus BM, and 5,986 patients used BM only </plain></SENT>
+<SENT sid="4" pm="."><plain>Combined results showed clear additional effect of CHM-BM treatment in reducing <z:hpo ids='HP_0000001'>all</z:hpo>-cause mortality (relative risk reduction (RRR) = 37%, 95% CI = 28%-45%, I(2) = 0.0%) and mortality of cardiac origin (RRR = 39%, 95% CI = 22%-52%, I(2) = 22.8) </plain></SENT>
+<SENT sid="5" pm="."><plain>Benefits remained after random-effect trim and fill adjustment for publication bias (adjusted RRR for <z:hpo ids='HP_0000001'>all</z:hpo>-cause mortality = 29%, 95% CI = 16%-40%; adjusted RRR for cardiac <z:hpo ids='HP_0011420'>death</z:hpo> = 32%, 95% CI = 15%-46%) </plain></SENT>
+<SENT sid="6" pm="."><plain>CHM is also found to be efficacious in lowering the risk of fatal and nonfatal cardiogenic shock, <z:hpo ids='HP_0011675'>cardiac arrhythmia</z:hpo>, <z:e sem="disease" ids="C0948369" disease_type="Disease or Syndrome" abbrv="">myocardial reinfarction</z:e>, <z:hpo ids='HP_0001635'>heart failure</z:hpo>, <z:mp ids='MP_0006112'>angina</z:mp>, and occurrence of total heart events </plain></SENT>
+<SENT sid="7" pm="."><plain>In conclusion, addition of CHM is very likely to be able to improve survival of MI patients who are already receiving BM </plain></SENT>
+<SENT sid="8" pm="."><plain>Further confirmatory evaluation via large blinded randomized trials is warranted </plain></SENT>
+</text></document>

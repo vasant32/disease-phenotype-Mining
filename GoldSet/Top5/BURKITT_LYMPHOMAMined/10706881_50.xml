@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The c-myc proto-oncogene encodes a short-lived transcription factor that plays an important role in cell cycle regulation, differentiation and <z:mpath ids='MPATH_3'>apoptosis</z:mpath> </plain></SENT>
+<SENT sid="1" pm="."><plain>c-myc is often rearranged in <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumors</z:e> resulting in deregulated expression </plain></SENT>
+<SENT sid="2" pm="."><plain>In addition, mutations in the coding region of c-myc are frequently found in human <z:hpo ids='HP_0002665'>lymphomas</z:hpo>, a hot spot being the Thr58 phosphorylation site, a mutation shown to enhance the transforming capacity of c-Myc </plain></SENT>
+<SENT sid="3" pm="."><plain>It is, however, still unclear in what way this mutation affects c-Myc activity </plain></SENT>
+<SENT sid="4" pm="."><plain>Our results show that proteasome-mediated turnover of c-Myc is substantially impaired in Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cells with mutated Thr58 or other mutations that abolish Thr58 phosphorylation, whereas endogenous or ectopically expressed <z:mp ids='MP_0002169'>wild type</z:mp> c-Myc proteins turn over at <z:mpath ids='MPATH_458'>normal</z:mpath> rates in these cells </plain></SENT>
+<SENT sid="5" pm="."><plain>Myc Thr58 mutants expressed ectopically in other cell types also exhibit reduced proteasome-mediated degradation, which correlates with a substantial decrease in their ubiquitination </plain></SENT>
+<SENT sid="6" pm="."><plain>These results suggest that ubiquitin/proteasome-mediated degradation of c-Myc is triggered by Thr58 phosphorylation revealing a new important level of control of c-Myc activity </plain></SENT>
+<SENT sid="7" pm="."><plain>Mutation of Thr58 in <z:hpo ids='HP_0002665'>lymphoma</z:hpo> thus escapes this regulation resulting in accumulation of c-Myc protein, likely as part of the <z:e sem="disease" ids="C0178874" disease_type="Neoplastic Process" abbrv="">tumor progression</z:e> </plain></SENT>
+<SENT sid="8" pm="."><plain>(Blood </plain></SENT>
+<SENT sid="9" pm="."><plain>2000;95:2104-2110) </plain></SENT>
+</text></document>

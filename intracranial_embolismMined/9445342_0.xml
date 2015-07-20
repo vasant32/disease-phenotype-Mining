@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND PURPOSE: We undertook this study to evaluate the performance of an automated detection software in the detection of Doppler microembolic signals (<z:chebi fb="28" ids="39005,39010">MES</z:chebi>) during cardiac surgery </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: Intraoperative monitoring was performed over two spatially separated vessel segments of each middle cerebral artery in 18 patients undergoing coronary artery bypass surgery (n= 16) or cardiac valve replacement (n=2) </plain></SENT>
+<SENT sid="2" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> monitoring sessions were saved on digital audiotape and subsequently played back to the same ultrasound machine, set up to automatically detect <z:chebi fb="28" ids="39005,39010">MES</z:chebi> by evaluating the temporary delay in their appearance between the two segments, in the presence of an experienced examiner </plain></SENT>
+<SENT sid="3" pm="."><plain>Software sensitivity and specificity in <z:chebi fb="28" ids="39005,39010">MES</z:chebi> detection were then evaluated, with the results of the human observer considered the gold standard </plain></SENT>
+<SENT sid="4" pm="."><plain>RESULTS: A total of 44,933 high-intensity signals (artifacts and <z:chebi fb="28" ids="39005,39010">MES</z:chebi>) were evaluated </plain></SENT>
+<SENT sid="5" pm="."><plain>Overall sensitivity and specificity of the software, with the human observer considered the gold standard, were 64% and 78.5%, respectively, ranging from 54% to 96% and from 74% to 90% in individual patients </plain></SENT>
+<SENT sid="6" pm="."><plain>When the overall results of the software were compared with those of the human observer, kappa was 0.72 </plain></SENT>
+<SENT sid="7" pm="."><plain>CONCLUSIONS: The tested software displayed a satisfactory specificity </plain></SENT>
+<SENT sid="8" pm="."><plain>Provided that the sensitivity is further improved, it could provide a valuable tool in intraoperative monitoring </plain></SENT>
+</text></document>

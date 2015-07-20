@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>"Farage" is a cell line derived from a patient who had a diffuse and mixed type malignant <z:hpo ids='HP_0002665'>lymphoma</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>In a previous study it was shown that Farage cells expressed B-cell markers, but not membrane IgM </plain></SENT>
+<SENT sid="2" pm="."><plain>Karyotypic analysis showed that in contrast to most follicular cell <z:hpo ids='HP_0002665'>lymphomas</z:hpo>, Farage did not have the 14;18 chromosomal translocation </plain></SENT>
+<SENT sid="3" pm="."><plain>In the present work Farage was further characterized by Southern and Northern blot analyses </plain></SENT>
+<SENT sid="4" pm="."><plain>Two rearranged heavy chain alleles and one rearranged kappa chain gene were detected </plain></SENT>
+<SENT sid="5" pm="."><plain>The cells expressed both mu and kappa <z:chebi fb="2" ids="33699">mRNA</z:chebi>, even though at a 3-7 fold lower level than that found in the control Daudi and DG-75 Burkitt <z:hpo ids='HP_0002665'>lymphomas</z:hpo> </plain></SENT>
+<SENT sid="6" pm="."><plain>Farage cells did not express the terminal deoxynucleotydyl transferase gene (TdT), nor the recombination activating genes RAG-1 and RAG-2, known as markers of the pre-B cell stage </plain></SENT>
+<SENT sid="7" pm="."><plain>These results show that Farage represents a mature B-cell rather than a pre-B cell </plain></SENT>
+<SENT sid="8" pm="."><plain>Despite the presence of C kappa and C mu <z:chebi fb="40" ids="33697">RNAs</z:chebi>, no Ig <z:chebi fb="0" ids="16541">polypeptide chains</z:chebi> were produced by Farage as judged by immunoblotting and biosynthesis labeling assays </plain></SENT>
+<SENT sid="9" pm="."><plain>Ig <z:chebi fb="2" ids="33699">mRNAs</z:chebi> were detected on the polysomal fraction, but at a lower level relative to Daudi cells </plain></SENT>
+<SENT sid="10" pm="."><plain>Our combined results suggest that in Farage cells translation of Ig <z:chebi fb="2" ids="33699">mRNA</z:chebi> is not fully blocked at the stage of translation initiation </plain></SENT>
+<SENT sid="11" pm="."><plain>Farage cells may express "germline" or mutated variants of Ig <z:chebi fb="2" ids="33699">mRNAs</z:chebi> </plain></SENT>
+<SENT sid="12" pm="."><plain>The unusual phenotype of Farage may reflect a <z:mpath ids='MPATH_458'>normal</z:mpath> as yet unknown stage of B-cell differentiation, or it may be due to an aberrant expression developed after <z:e sem="disease" ids="C1608408" disease_type="Neoplastic Process" abbrv="">malignant transformation</z:e> </plain></SENT>
+</text></document>

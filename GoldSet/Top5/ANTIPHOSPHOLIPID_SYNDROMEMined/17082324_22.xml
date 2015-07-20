@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0003613'>Antiphospholipid antibodies</z:hpo> (APLAs) promote inflammatory and procoagulant responses in endothelial cells and monocytes </plain></SENT>
+<SENT sid="1" pm="."><plain>Previous studies have shown that MyD88, TRAF6, and NF-kappaB mediate cell activation by APLAs </plain></SENT>
+<SENT sid="2" pm="."><plain>These intermediates are also used by toll-like receptors (TLRs) </plain></SENT>
+<SENT sid="3" pm="."><plain>We investigated the role of TLRs in the cellular response to APLAs </plain></SENT>
+<SENT sid="4" pm="."><plain>IgGs were isolated from the plasma of 5 patients with <z:e sem="disease" ids="C0085278" disease_type="Disease or Syndrome" abbrv="">antiphospholipid syndrome</z:e> along with immunopurified anti-beta2-<z:chebi fb="2" ids="17089">glycoprotein</z:chebi> 1 IgG from a sixth patient </plain></SENT>
+<SENT sid="5" pm="."><plain>Control IgG was obtained from a pool of healthy donor plasmas negative for APLAs </plain></SENT>
+<SENT sid="6" pm="."><plain><z:mp ids='MP_0002169'>Wild-type</z:mp> mouse embryonic fibroblasts (EFs) and EFs deficient in TLR1, TLR2, TLR4, or TLR6 were incubated with APLAs, anti-beta2-<z:chebi fb="2" ids="17089">glycoprotein</z:chebi> 1 IgG, or control IgG </plain></SENT>
+<SENT sid="7" pm="."><plain>On incubation with the patient IgG, but not control IgG, a significant increase in <z:chebi fb="2" ids="33699">mRNA</z:chebi> levels of the inflammatory marker proteins <z:chebi fb="17" ids="50099">MCP</z:chebi>-1, ICAM-1, and IL-6 as well as IL-6 secretion was observed in <z:mp ids='MP_0002169'>wild-type</z:mp> EFs, whereas TLR2-deficient EFs did not respond </plain></SENT>
+<SENT sid="8" pm="."><plain>Responses in TLR1- and TLR6-deficient EFs were decreased and those in TLR4-deficient EFs comparable to those in <z:mp ids='MP_0002169'>wild-type</z:mp> EFs </plain></SENT>
+<SENT sid="9" pm="."><plain>Overexpression of human TLR2 in the TLR2-deficient EFs restituted the response to patient IgG </plain></SENT>
+<SENT sid="10" pm="."><plain>Our results imply that TLR2 plays a role in mouse fibroblast activation by APLAs </plain></SENT>
+</text></document>

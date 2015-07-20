@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The mouse Snrpn gene encodes the Smn protein, which is involved in <z:chebi fb="40" ids="33697">RNA</z:chebi> splicing </plain></SENT>
+<SENT sid="1" pm="."><plain>The gene maps to a region in the central part of chromosome 7 that is syntenic to the Prader-Willi/<z:e sem="disease" ids="C0162635" disease_type="Disease or Syndrome" abbrv="">Angelman syndromes</z:e> (PWS-AS) region on human chromosome 15q11-q13 </plain></SENT>
+<SENT sid="2" pm="."><plain>The mouse gene, like its human counterpart, is imprinted and paternally expressed, primarily in brain and heart </plain></SENT>
+<SENT sid="3" pm="."><plain>We provide here a detailed description of the structural features and differential methylation pattern of the gene </plain></SENT>
+<SENT sid="4" pm="."><plain>We have identified a maternally methylated region at the 5' end (DMR1), which correlates inversely with the Snrpn paternal expression </plain></SENT>
+<SENT sid="5" pm="."><plain>We also describe a region at the 3' end of the gene (DMR2) that is preferentially methylated on the paternal allele </plain></SENT>
+<SENT sid="6" pm="."><plain>Analysis of Snrpn <z:chebi fb="2" ids="33699">mRNA</z:chebi> levels in a methylase-deficient mouse embryo revealed that maternal methylation of DMR1 may play a role in silencing the maternal allele </plain></SENT>
+<SENT sid="7" pm="."><plain>Yet both regions, DMR1 and DMR2, inherit the parental-specific methylation profile from the gametes </plain></SENT>
+<SENT sid="8" pm="."><plain>This methylation pattern is erased in 12.5-days postcoitum (dpc) primordial germ cells and reestablished during gametogenesis </plain></SENT>
+<SENT sid="9" pm="."><plain>DMR1 is remethylated during oogenesis, whereas DMR2 is remethylated during spermatogenesis </plain></SENT>
+<SENT sid="10" pm="."><plain>Once established, these methylation patterns are transmitted to the embryo and maintained, protected from methylation changes during embryogenesis and cell differentiation </plain></SENT>
+<SENT sid="11" pm="."><plain>Transfections of DMR1 and DMR2 into embryonic stem cells and injection into pronuclei of fertilized eggs reveal that embryonic cells lack the capacity to establish anew the differential methylation pattern of Snrpn </plain></SENT>
+<SENT sid="12" pm="."><plain>That <z:hpo ids='HP_0000001'>all</z:hpo> PWS patients lack DMR1, together with the overall high resemblance of the mouse gene to the human SNRPN, offers an excellent experimental tool to study the regional control of this imprinted chromosomal domain </plain></SENT>
+</text></document>

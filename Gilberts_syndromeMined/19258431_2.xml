@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We report on a patient with active <z:hpo ids='HP_0000845'>acromegaly</z:hpo> and <z:e sem="disease" ids="C0017551" disease_type="Disease or Syndrome" abbrv="">Gilbert's syndrome</z:e> who developed severe hepatic dysfunction during pegvisomant (PEGv) monotherapy </plain></SENT>
+<SENT sid="1" pm="."><plain>She was partially resistant to <z:hpo ids='HP_0000001'>all</z:hpo> previous therapies, including long-acting somatostatin analogs and cabergoline </plain></SENT>
+<SENT sid="2" pm="."><plain>Five months after starting PEGv therapy, with an already normalized IGF1, she developed cholestatic <z:hpo ids='HP_0001410'>liver dysfunction</z:hpo> with <z:hpo ids='HP_0000952'>jaundice</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>Liver or biliary diseases including <z:e sem="disease" ids="C0282074" disease_type="Disease or Syndrome" abbrv="">biliary sludge</z:e>, <z:hpo ids='HP_0001081'>cholelithiasis</z:hpo> or <z:hpo ids='HP_0001397'>liver steatosis</z:hpo> were excluded </plain></SENT>
+<SENT sid="4" pm="."><plain>A liver biopsy was in keeping with drug-induced liver injury </plain></SENT>
+<SENT sid="5" pm="."><plain>The discontinuation of PEGv was followed by full clinical and biochemical recovery in 6 weeks </plain></SENT>
+<SENT sid="6" pm="."><plain>PEGv therapy was not resumed </plain></SENT>
+<SENT sid="7" pm="."><plain>Apart from a minimal increase of <z:chebi fb="0" ids="16990">bilirubin</z:chebi> levels, no liver function test abnormalities were found during the 4-year follow-up period after the PEGv was discontinued </plain></SENT>
+<SENT sid="8" pm="."><plain>Drug-induced liver injury is the most serious systemic adverse event resulting from PEGv therapy </plain></SENT>
+<SENT sid="9" pm="."><plain>Since patients with mild and asymptomatic <z:e sem="disease" ids="C0023895" disease_type="Disease or Syndrome" abbrv="">liver disease</z:e> could be at a higher risk of PEGv-induced <z:e sem="disease" ids="C0235378,C0348754" disease_type="Disease or Syndrome;Injury or Poisoning" abbrv="">hepatotoxicity</z:e>, frequent monitoring of hepatic enzymes should be required in these cases </plain></SENT>
+</text></document>

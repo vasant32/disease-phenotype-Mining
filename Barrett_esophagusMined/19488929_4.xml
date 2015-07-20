@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> (BE) with an intestinal-type epithelium is thought to be a precancerous lesion of <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> of the esophagus </plain></SENT>
+<SENT sid="1" pm="."><plain>The pathophysiology of Barrett's <z:mpath ids='MPATH_160'>metaplasia</z:mpath> is poorly understood </plain></SENT>
+<SENT sid="2" pm="."><plain>Previous studies suggest that differentiation of multipotent cells to columnar epithelium may be one of the possible mechanisms </plain></SENT>
+<SENT sid="3" pm="."><plain>Bone morphogenetic protein 4 (BMP4), a factor determining the fate of cells, is up-regulated in BE and <z:hpo ids='HP_0100633'>esophagitis</z:hpo> mucosa when compared with <z:mpath ids='MPATH_458'>normal</z:mpath> squamous or non-goblet cell-containing cardiac epithelium </plain></SENT>
+<SENT sid="4" pm="."><plain>The aim of this study was to demonstrate that BMP4 is a molecular mediator that links etiological agents of BE to the phenotypic changes in human esophagus epithelium cells (HEECs) </plain></SENT>
+<SENT sid="5" pm="."><plain>MATERIAL AND METHODS: Primary cultured HEECs were used to investigate the effect of acid and <z:chebi fb="0" ids="3098">bile salt</z:chebi> on BMP4 expression and to examine the biological effects of BMP4 on HEECs </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: Acid and <z:chebi fb="0" ids="3098">bile salt</z:chebi> increased the expression of BMP4 </plain></SENT>
+<SENT sid="7" pm="."><plain>In addition, recombinant human BMP4 induced villin expression in HEECs, as did <z:hpo ids='HP_0011010'>chronic</z:hpo> acid exposure, which can be effectively inhibited by Noggin, a specific <z:chebi fb="68" ids="48706">antagonist</z:chebi> of BMP4 </plain></SENT>
+<SENT sid="8" pm="."><plain>Results from a Western blot assay suggest that BMP4 induces activation of smad1 and promotes protein expression of ID2 and CDX2 </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSION: BMP4 may play an important role in the development of BE </plain></SENT>
+</text></document>

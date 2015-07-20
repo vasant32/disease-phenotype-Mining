@@ -1,0 +1,20 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: The authors have recently shown that a majority of patients with <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e>) classified by the International Prognostic Scoring System as lower risk die without transformation to <z:hpo ids='HP_0004808'>acute myelogenous leukemia</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">AML</z:e>) </plain></SENT>
+<SENT sid="1" pm="."><plain>The cause of <z:hpo ids='HP_0011420'>death</z:hpo> (COD) of these patients is not well understood </plain></SENT>
+<SENT sid="2" pm="."><plain>Identifying the COD could help to guide early therapy decisions </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: The authors retrospectively analyzed the COD in a cohort of 273 deceased patients with lower-risk <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> according to the International Prognostic Scoring System at presentation to The University of Texas M </plain></SENT>
+<SENT sid="4" pm="."><plain>D </plain></SENT>
+<SENT sid="5" pm="."><plain>Anderson <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">Cancer</z:e> Center from 1980 to 2004 </plain></SENT>
+<SENT sid="6" pm="."><plain><z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e>-related <z:hpo ids='HP_0011420'>death</z:hpo> was defined as <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infection</z:e>, <z:mp ids='MP_0001914'>bleeding</z:mp>, transformation to <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">AML</z:e>, or disease progression </plain></SENT>
+<SENT sid="7" pm="."><plain>Remaining CODs were classified as non-<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e>-related </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: Median age at presentation was 66 years (range, 19-88 years) </plain></SENT>
+<SENT sid="9" pm="."><plain>Overall median survival was 59 weeks (range, 1-831 weeks) </plain></SENT>
+<SENT sid="10" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> French-American-British <z:hpo ids='HP_0001909'>leukemia</z:hpo> classification subgroups were represented </plain></SENT>
+<SENT sid="11" pm="."><plain>The percentage of International Prognostic Scoring System low and intermediate-1 groups were 21% and 79%, respectively </plain></SENT>
+<SENT sid="12" pm="."><plain>The most common cytogenetic abnormality (9%) was del(5q) </plain></SENT>
+<SENT sid="13" pm="."><plain>Patients received supportive care only </plain></SENT>
+<SENT sid="14" pm="."><plain>The COD was identified as <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e>-related in 230 of 273 (84%) patients </plain></SENT>
+<SENT sid="15" pm="."><plain>The most common disease-related CODs were <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infection</z:e> (38%), transformation to <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">AML</z:e> (15%), and <z:mp ids='MP_0001914'>hemorrhage</z:mp> (13%) </plain></SENT>
+<SENT sid="16" pm="."><plain>The most frequent non-disease-related COD was cardiovascular events (19 of 43 patients) </plain></SENT>
+<SENT sid="17" pm="."><plain>CONCLUSIONS: The majority of patients with low- or intermediate-1 risk <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> will die because of causes related to their underlying disease </plain></SENT>
+<SENT sid="18" pm="."><plain>Although these results need to be validated in different populations, early therapeutic intervention could be considered in the management of these patients to improve survival </plain></SENT>
+</text></document>

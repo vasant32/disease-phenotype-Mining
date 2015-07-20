@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>5'-<z:chebi fb="47" ids="16027,28971">AMP</z:chebi>-activated protein kinase (AMPK) is a serine/threonine kinase that plays a key role in energy homeostasis </plain></SENT>
+<SENT sid="1" pm="."><plain>Recently, it was reported that centrally activated AMPK is involved in the development of ischemic neuronal damage, while the effect of peripherally activated AMPK on ischemic neuronal damage is not known </plain></SENT>
+<SENT sid="2" pm="."><plain>In addition, we have previously reported that the development of post-ischemic <z:hpo ids='HP_0000833'>glucose intolerance</z:hpo> could be one of the triggers for the aggravation of neuronal damage </plain></SENT>
+<SENT sid="3" pm="."><plain>In this study, we focused on effect of activation of peripheral or central AMPK on the development of ischemic neuronal damage </plain></SENT>
+<SENT sid="4" pm="."><plain>Male ddY mice were subjected to 2 h of middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (MCAO) </plain></SENT>
+<SENT sid="5" pm="."><plain>Neuronal damage was estimated by histological and behavioral analysis after MCAO </plain></SENT>
+<SENT sid="6" pm="."><plain>In the liver and skeletal muscle, AMPK activity was not affected by MCAO </plain></SENT>
+<SENT sid="7" pm="."><plain>But, application of intraperitoneal <z:chebi fb="0" ids="6801">metformin</z:chebi> (250 mg/kg), an AMPK activator, significantly suppressed the development of post-ischemic <z:hpo ids='HP_0000833'>glucose intolerance</z:hpo> and ischemic neuronal damage without alteration of central AMPK activity </plain></SENT>
+<SENT sid="8" pm="."><plain>On the other hand, application of intracerebroventricular <z:chebi fb="0" ids="6801">metformin</z:chebi> (25, 100 microg/mouse) significantly exacerbated the development of neuronal damage observed on day 1 after MCAO, in a dose-dependent manner </plain></SENT>
+<SENT sid="9" pm="."><plain>These effects were significantly blocked by compound C, a specific AMPK inhibitor </plain></SENT>
+<SENT sid="10" pm="."><plain>These results suggest that central AMPK was activated by ischemic stress per se, however, peripheral AMPK was not altered </plain></SENT>
+<SENT sid="11" pm="."><plain>Furthermore, the regulation of post-ischemic <z:hpo ids='HP_0000833'>glucose intolerance</z:hpo> by activation of peripheral AMPK is of assistance for the suppression of cerebral ischemic neuronal damage </plain></SENT>
+</text></document>

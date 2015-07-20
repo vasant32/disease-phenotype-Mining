@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Our objective was to determine whether <z:hpo ids='HP_0005110'>atrial fibrillation</z:hpo> (AF) results from excessive activation of intrinsic cardiac neurons (ICNs) and, if so, whether select subpopulations of neurons therein represent therapeutic targets for suppression of this arrhythmogenic potential </plain></SENT>
+<SENT sid="1" pm="."><plain>Trains of five electrical stimuli (0.3-1.2 mA, 1 ms) were delivered during the atrial refractory period to mediastinal nerves (MSN) on the superior vena cava to evoke AF </plain></SENT>
+<SENT sid="2" pm="."><plain>Neuroanatomical studies were performed by injecting the neuronal tracer <z:chebi fb="0" ids="52029">DiI</z:chebi> into MSN sites that induced AF </plain></SENT>
+<SENT sid="3" pm="."><plain>Functional studies involved recording of neuronal activity in situ from the right atrial ganglionated plexus (RAGP) in response to MSN stimulation (MSNS) prior to and following neuromodulation involving either preemptive spinal cord stimulation (SCS; T(1)-T(3), 50 Hz, 200-ms duration) or ganglionic blockade (hexamethonium, 5 mg/kg) </plain></SENT>
+<SENT sid="4" pm="."><plain>The tetramethylindocarbocyanine <z:chebi fb="0" ids="49706">perchlorate</z:chebi> (<z:chebi fb="0" ids="52029">DiI</z:chebi>) neuronal tracer labeled a subset (13.2%) of RAGP neurons, which also colocalized with cholinergic or adrenergic markers </plain></SENT>
+<SENT sid="5" pm="."><plain>A subset of <z:chebi fb="0" ids="52029">DiI</z:chebi>-labeled RAGP neurons were noncholinergic/nonadrenergic </plain></SENT>
+<SENT sid="6" pm="."><plain>MSNS evoked an ∼4-fold increase in RAGP neuronal activity from baseline, which SCS reduced by 43% </plain></SENT>
+<SENT sid="7" pm="."><plain>Hexamethonium blocked MSNS-evoked increases in neuronal activity </plain></SENT>
+<SENT sid="8" pm="."><plain>MSNS evoked AF in 78% of right-sided MSN sites, which SCS reduced to 33% and hexamethonium reduced to 7% </plain></SENT>
+<SENT sid="9" pm="."><plain>MSNS-induced <z:hpo ids='HP_0001662'>bradycardia</z:hpo> was maintained with SCS but was mitigated by hexamethonium </plain></SENT>
+<SENT sid="10" pm="."><plain>We conclude that MSNS activates subpopulations of intrinsic cardiac neurons, thereby resulting in the formation of atrial <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> leading to <z:hpo ids='HP_0005110'>atrial fibrillation</z:hpo> </plain></SENT>
+<SENT sid="11" pm="."><plain>Stabilization of ICN local circuit neurons by SCS or the local circuit and autonomic efferent neurons with hexamethonium reduces the arrhythmogenic potential </plain></SENT>
+</text></document>

@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We assessed the temporal and spatial correlation between perfusion deficits and tissue damage in the first hours of focal <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> in the rat </plain></SENT>
+<SENT sid="1" pm="."><plain>Repetitive dynamic susceptibility contrast-enhanced ('bolus track') and diffusion-weighted (DW) MRI, performed from ca </plain></SENT>
+<SENT sid="2" pm="."><plain>0.5 up to 6 h after intraluminal middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (<z:chebi fb="70" ids="34342">MCA</z:chebi>-O), allowed the determination of the time course of various hemodynamic parameters and ischemic tissue damage in specific brain regions </plain></SENT>
+<SENT sid="3" pm="."><plain>In addition, blood oxygenation level dependent (BOLD) MRI combined with a respiratory challenge provided complementary information on brain hemodynamics </plain></SENT>
+<SENT sid="4" pm="."><plain>Within the territory of reduced blood flow, the degree of the hemodynamic disturbances was <z:hpo ids='HP_0001425'>heterogeneous</z:hpo> </plain></SENT>
+<SENT sid="5" pm="."><plain>Interestingly, the spatial pattern of perfusion deficiencies remained essentially the same from ca </plain></SENT>
+<SENT sid="6" pm="."><plain>0.5 to 6 h post-<z:chebi fb="70" ids="34342">MCA</z:chebi>-O </plain></SENT>
+<SENT sid="7" pm="."><plain>However, the area and the extent of ischemic tissue damage, as expressed by reductions in the apparent diffusion coefficient (<z:chebi fb="49" ids="35181">ADC</z:chebi>) of tissue water, tended to progress with increasing occlusion time </plain></SENT>
+<SENT sid="8" pm="."><plain>Different <z:chebi fb="49" ids="35181">ADC</z:chebi> profiles correlated with different degrees of hemodynamic disturbances </plain></SENT>
+<SENT sid="9" pm="."><plain>In the ischemic core, which showed severely compromized perfusion, the <z:chebi fb="49" ids="35181">ADC</z:chebi> dropped significantly within 1 h </plain></SENT>
+<SENT sid="10" pm="."><plain>In perifocal areas, <z:chebi fb="49" ids="35181">ADC</z:chebi> reductions were delayed and less pronounced </plain></SENT>
+<SENT sid="11" pm="."><plain>Data from the bolus track and BOLD MRI experiments revealed the existence of residual flow, particularly in perifocal regions </plain></SENT>
+<SENT sid="12" pm="."><plain>Our data point to a time-dependent change in the relationship between <z:chebi fb="49" ids="35181">ADC</z:chebi> reductions and hemodynamic alterations and, therefore, agree with the concept of a progressively increasing perfusion threshold for ischemic tissue damage as a function of time of <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> </plain></SENT>
+</text></document>

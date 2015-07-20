@@ -1,0 +1,23 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Currently, histology is used as the endpoint to define success with photodynamic therapy (<z:chebi fb="7" ids="53228">PDT</z:chebi>) in patients with high-grade <z:mpath ids='MPATH_589'>dysplasia</z:mpath> (HGD) </plain></SENT>
+<SENT sid="1" pm="."><plain>Recurrences despite 'successful' ablation are common </plain></SENT>
+<SENT sid="2" pm="."><plain>The role of biomarkers in assessing response to <z:chebi fb="7" ids="53228">PDT</z:chebi> remains undefined </plain></SENT>
+<SENT sid="3" pm="."><plain>The objectives of the current study were 1) to assess biomarkers in a prospective cohort of patients with HGD/mucosal <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> before and after <z:chebi fb="7" ids="53228">PDT</z:chebi> and 2) to correlate biomarker status after <z:chebi fb="7" ids="53228">PDT</z:chebi> with histology </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS: Patients who underwent <z:chebi fb="7" ids="53228">PDT</z:chebi> for HGD/mucosal <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> were studied prospectively </plain></SENT>
+<SENT sid="5" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> patients underwent esophagogastroduodenoscopy, 4-quadrant biopsies every centimeter, endoscopic mucosal resection of visible nodules, and endoscopic ultrasound </plain></SENT>
+<SENT sid="6" pm="."><plain>Cytology samples were obtained by using standard cytology brushes </plain></SENT>
+<SENT sid="7" pm="."><plain>Biomarkers were assessed by using fluorescence in situ hybridization (FISH) </plain></SENT>
+<SENT sid="8" pm="."><plain>The biomarkers that were assessed included loss of 9p21 (site of the p16 gene) and 17p13.1 (site of the p53 gene) loci; gains of the 8q24(c-myc), 17q (HER2-neu), and 20q13 loci; and multiple gains </plain></SENT>
+<SENT sid="9" pm="."><plain>Patients received <z:chebi fb="7" ids="53228">PDT</z:chebi> 48 hours after the administration of <z:chebi fb="199" ids="26708">sodium</z:chebi> porfimer </plain></SENT>
+<SENT sid="10" pm="."><plain>Demographic and clinical variables were collected prospectively </plain></SENT>
+<SENT sid="11" pm="."><plain>Patients were followed with endoscopy and repeat cytology for biomarkers </plain></SENT>
+<SENT sid="12" pm="."><plain>The McNemar test was used to compare biomarker proportions before and after <z:chebi fb="7" ids="53228">PDT</z:chebi> </plain></SENT>
+<SENT sid="13" pm="."><plain>RESULTS: Thirty-one patients were studied </plain></SENT>
+<SENT sid="14" pm="."><plain>The median patient age was 66 years (interquartile range [IQR], 56-73 years), and 28 patients (88%) were men </plain></SENT>
+<SENT sid="15" pm="."><plain>The mean Barrett segment length was 5 cm (standard error of the mean, 0.5 cm) </plain></SENT>
+<SENT sid="16" pm="."><plain>Post-<z:chebi fb="7" ids="53228">PDT</z:chebi> biomarkers were obtained after a median duration of 9 months (IQR, 3-12 months) </plain></SENT>
+<SENT sid="17" pm="."><plain>There was a statistically significant decrease in the proportion of several biomarkers assessed after <z:chebi fb="7" ids="53228">PDT</z:chebi> </plain></SENT>
+<SENT sid="18" pm="."><plain>Six patients without HGD after <z:chebi fb="7" ids="53228">PDT</z:chebi> still had positive FISH results for 1 or more biomarkers: of these, 2 patients (33%) developed recurrent HGD </plain></SENT>
+<SENT sid="19" pm="."><plain>CONCLUSIONS: In this initial study, histologic downgrading of <z:mpath ids='MPATH_589'>dysplasia</z:mpath> after <z:chebi fb="7" ids="53228">PDT</z:chebi> was associated with the loss of biomarkers that have been associated with progression of <z:hpo ids='HP_0002664'>neoplasia</z:hpo> in <z:hpo ids='HP_0100580'>Barrett esophagus</z:hpo> </plain></SENT>
+<SENT sid="20" pm="."><plain>Patients with persistently positive biomarkers appeared to be at a higher risk of recurrent HGD </plain></SENT>
+<SENT sid="21" pm="."><plain>These findings should be confirmed in a larger study </plain></SENT>
+</text></document>

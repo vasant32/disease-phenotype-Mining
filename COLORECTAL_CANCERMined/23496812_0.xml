@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Whether the 7th edition of American Joint Committee on <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">Cancer</z:e> (AJCC) TNM staging system (AJCC-7) is a successful revision remains debatable </plain></SENT>
+<SENT sid="1" pm="."><plain>We aimed to compare the predictive capacity of the AJCC-7 for <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> with the 6th edition of the AJCC TNM staging system (AJCC-6) </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: The National <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">Cancer</z:e> Institute's Surveillance, Epidemiology, and End Results (SEER) dataset consisting of 158,483 records was used in this study </plain></SENT>
+<SENT sid="3" pm="."><plain>We evaluated the predictive capacity of the two editions of the staging system using Harrell's C index and Bayesian Information Criterion (BIC) </plain></SENT>
+<SENT sid="4" pm="."><plain>RESULTS: There was a significant prognostic difference between patients at stage IIB and IIC (P &lt; 0.001) </plain></SENT>
+<SENT sid="5" pm="."><plain>Stage III patients with similar prognoses were adequately sub-grouped in the same stage according to AJCC-7 </plain></SENT>
+<SENT sid="6" pm="."><plain>The Harrell's C index revealed a value of 0.7692 for AJCC-7, which was significantly better than 0.7663 for AJCC-6 (P &lt; 0.001) </plain></SENT>
+<SENT sid="7" pm="."><plain>BIC analysis provided consistent results (P &lt; 0.001) </plain></SENT>
+<SENT sid="8" pm="."><plain>CONCLUSIONS: This study demonstrates that AJCC-7 is superior to the AJCC-6 staging system in predictive capacity </plain></SENT>
+</text></document>

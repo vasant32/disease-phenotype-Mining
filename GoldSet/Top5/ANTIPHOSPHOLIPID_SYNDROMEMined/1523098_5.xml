@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We studied the in vitro effect of human intravenous immunoglobulin (IVIg) on the <z:e sem="disease" ids="C0024138,C0024141,C0024131,C0409974" disease_type="Disease or Syndrome" abbrv="">lupus</z:e> <z:chebi fb="3" ids="50249">anticoagulant</z:chebi> (LA) activity present in sera of 11 patients </plain></SENT>
+<SENT sid="1" pm="."><plain>LA potency was determined in <z:hpo ids='HP_0000001'>all</z:hpo> the cases and a fixed dilution of each serum was chosen to perform the dose-dependent neutralization experiments </plain></SENT>
+<SENT sid="2" pm="."><plain>For each patient, the dilute serum was incubated for 3 h at 37 degrees C with phosphate buffer saline (PBS) alone or containing IVIg at final concentrations of 0 to 50 mg/ml </plain></SENT>
+<SENT sid="3" pm="."><plain>Aliquots of the incubation mixtures were added to equal volumes of <z:mpath ids='MPATH_458'>normal</z:mpath> plasma and APTTs were performed </plain></SENT>
+<SENT sid="4" pm="."><plain>IVIg partially neutralized the LA activity present in 10 out of 11 patients sera </plain></SENT>
+<SENT sid="5" pm="."><plain>These neutralizations showed an IVIg dose-dependent behaviour </plain></SENT>
+<SENT sid="6" pm="."><plain>Statistically significant neutralizations were observed at least at one molar ratio (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e> = [IVIg]/patient's [IgG] or [IgM]) </plain></SENT>
+<SENT sid="7" pm="."><plain>In every case, a particular <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e> was found in which the neutralization was maximal (N%max) </plain></SENT>
+<SENT sid="8" pm="."><plain>The N%max ranged from 33.6% to 79.5% </plain></SENT>
+<SENT sid="9" pm="."><plain>Eight patients showed maximal LA neutralization at <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e> ranging from 8.9 to 56.8 </plain></SENT>
+<SENT sid="10" pm="."><plain>In one patient with drug-induced LA and another exhibiting LA cofactor effect, <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MRs</z:e> were more elevated </plain></SENT>
+<SENT sid="11" pm="."><plain>We found poor negative correlation between N%max and LA potency (r = -0.46) or N%max and <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e> of N%max (r = 0.47), although no statistic significance was reached </plain></SENT>
+<SENT sid="12" pm="."><plain>However, there was good agreement between LA potency and <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e> of N%max (r = 0.98, p less than 0.001) </plain></SENT>
+<SENT sid="13" pm="."><plain>We have shown that IVIg may neutralize LA activity in vitro </plain></SENT>
+<SENT sid="14" pm="."><plain>In view of these results, we believe that IVIg should be considered as an alternative therapy in patients with LA-related clinical complications </plain></SENT>
+</text></document>

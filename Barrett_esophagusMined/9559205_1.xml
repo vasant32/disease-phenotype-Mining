@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0011010'>Chronic</z:hpo> <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">GERD</z:e> is an unremitting, incurable disorder that recurs rapidly upon discontinuation of therapy </plain></SENT>
+<SENT sid="1" pm="."><plain>Primary complications of <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">GERD</z:e> include <z:hpo ids='HP_0100633'>esophagitis</z:hpo>, <z:hpo ids='HP_0002043'>esophageal stricture</z:hpo> and <z:hpo ids='HP_0100580'>Barrett esophagus</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>Current therapy focuses on modifying risk factors, inhibiting the production of acid and enhancing esophageal gastric motility </plain></SENT>
+<SENT sid="3" pm="."><plain>In patients with uncomplicated heartburn, nondrug therapy should be the initial therapeutic approach, with patient education a major step in promoting lifestyle changes and improving the outcome </plain></SENT>
+<SENT sid="4" pm="."><plain>Maintenance therapy is central to the management of <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">GERD</z:e> </plain></SENT>
+<SENT sid="5" pm="."><plain>If symptoms persist to suggest complicated disease, further diagnostic tests (endoscopy) are indicated </plain></SENT>
+<SENT sid="6" pm="."><plain><z:chebi fb="0" ids="37961">H2 receptor antagonists</z:chebi> usually resolve symptoms in 50% to 70% of patients, and <z:chebi fb="4" ids="53266">PPIs</z:chebi> in 74% to 96% of patients </plain></SENT>
+<SENT sid="7" pm="."><plain>Agents that improve esophageal motility, such as cisapride, may provide symptomatic relief of heartburn, but healing effects are inconsistent </plain></SENT>
+<SENT sid="8" pm="."><plain>In refractory disease, therapy is individualized to the patient, and may include combination therapy, more aggressive single line therapy or an appropriate surgical approach </plain></SENT>
+</text></document>

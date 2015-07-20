@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: To examine the ability of diffusion-weighted MRI (DWI) to detect ongoing <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> in patients with vascular <z:hpo ids='HP_0000726'>dementia</z:hpo> (VaD) </plain></SENT>
+<SENT sid="1" pm="."><plain>BACKGROUND: VaD due to small-vessel disease results from the cumulative impact of recurrent <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain><z:hpo ids='HP_0002637'>Cerebral ischemia</z:hpo> may produce clinical manifestations, producing the "stepwise" decline characteristic of VaD </plain></SENT>
+<SENT sid="3" pm="."><plain>Conventional MRI can detect small regions of ischemic damage but cannot determine when injury developed </plain></SENT>
+<SENT sid="4" pm="."><plain>In contrast, DWI shows sensitivity in detecting <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> of recent <z:hpo ids='HP_0003674'>onset</z:hpo> </plain></SENT>
+<SENT sid="5" pm="."><plain>DESIGN/METHODS: Patients with VaD (n = 30) underwent DWI in addition to standard MRI sequences </plain></SENT>
+<SENT sid="6" pm="."><plain>Patients were divided into two groups according to the presence of new focal deficits or mental change within 10 days before MRI </plain></SENT>
+<SENT sid="7" pm="."><plain>In 10 patients of positive group, symptomatic neurologic decline occurred an average of 4.2 days before the imaging procedure </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: Seven (70%) of 10 patients with a recent neurologic event showed 15 new regions of signal abnormality on DWI </plain></SENT>
+<SENT sid="9" pm="."><plain>The anatomic distribution of signal change could account for the patients' new symptoms or signs in <z:hpo ids='HP_0000001'>all</z:hpo> but one patient </plain></SENT>
+<SENT sid="10" pm="."><plain>Similar signal abnormality was detected in 4 (20%) of 20 patients without a recent neurologic event </plain></SENT>
+<SENT sid="11" pm="."><plain>New foci of altered signal intensity were distinguishable from prior injuries only with DWI </plain></SENT>
+<SENT sid="12" pm="."><plain>No significant difference was found between patients with and without DWI abnormalities in gender, age, Mini-Mental State Examination score, Hachinski Ischemic Score, vascular risk factors, or severity of increased signal on T2-weighted MRI scans </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSION: Small foci of abnormal signal on diffusion-weighted MRI (DWI), presumably representing recent small <z:mpath ids='MPATH_124'>infarcts</z:mpath>, occur often in vascular <z:hpo ids='HP_0000726'>dementia</z:hpo> (VaD) from small-vessel disease, even in patients without a recent "stepwise decline." The results suggest that DWI might be used to monitor VaD progression in future observational and interventional studies of this disorder </plain></SENT>
+</text></document>

@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVES: <z:hpo ids='HP_0002637'>Cerebral ischemia</z:hpo> causes an increased expression and activation of 5-lipoxygenase (5-LOX) and matrix metalloproteinase 9 (MMP-9) </plain></SENT>
+<SENT sid="1" pm="."><plain>Recent works demonstrated that the selective 5-LOX inhibitor <z:chebi fb="0" ids="10112">zileuton</z:chebi> down-regulates MMP-9 expression in <z:e sem="disease" ids="C0042373" disease_type="Disease or Syndrome" abbrv="">vascular diseases</z:e> and <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> </plain></SENT>
+<SENT sid="2" pm="."><plain>In the present work, we first studied the neuroprotective effect of <z:chebi fb="0" ids="10112">zileuton</z:chebi> on focal <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> in rats and further investigated the effect of <z:chebi fb="0" ids="10112">zileuton</z:chebi> on the expression of 5-LOX and MMP-9 in ischemic brain </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: Adult Sprague-Dawley rats underwent permanent middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (pMCAO) </plain></SENT>
+<SENT sid="4" pm="."><plain>The rats then received treatment with <z:chebi fb="0" ids="10112">zileuton</z:chebi> 5, 10 or 50 mg/kg or vehicle </plain></SENT>
+<SENT sid="5" pm="."><plain>Cerebral water content and <z:mpath ids='MPATH_124'>infarct</z:mpath> volume were measured 24 hours after pMCAO </plain></SENT>
+<SENT sid="6" pm="."><plain>Expression of 5-LOX <z:chebi fb="5" ids="33699">messenger RNA</z:chebi> (<z:chebi fb="2" ids="33699">mRNA</z:chebi>) and MMP-9 mRNA were determined by reverse transcription polymerase chain reaction </plain></SENT>
+<SENT sid="7" pm="."><plain>The levels of the proform and the active form of MMP-9 were detected by gelatin zymography </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: Oral treatment of <z:chebi fb="0" ids="10112">zileuton</z:chebi> at 10 or 50 mg/kg significantly reduced cerebral water content and <z:mpath ids='MPATH_124'>infarct</z:mpath> volume </plain></SENT>
+<SENT sid="9" pm="."><plain>It also down-regulated the expression of 5-LOX <z:chebi fb="2" ids="33699">mRNA</z:chebi> and MMP-9 mRNA </plain></SENT>
+<SENT sid="10" pm="."><plain><z:chebi fb="0" ids="10112">Zileuton</z:chebi> at 50 mg/kg could inhibit the active form of MMP-9 </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSION: These results suggest that selective 5-LOX inhibitor <z:chebi fb="0" ids="10112">zileuton</z:chebi> attenuates ischemic brain damage in rats, which may be partly associated with MMP-9 inhibition </plain></SENT>
+</text></document>

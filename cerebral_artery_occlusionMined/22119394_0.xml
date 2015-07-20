@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The pathophysiology of brain damage after <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> involves a number of mechanisms leading to neuronal damage such as the excessive release of an excitatory amino acid <z:chebi fb="6" ids="14321,29987">glutamate</z:chebi> and inflammatory reactions </plain></SENT>
+<SENT sid="1" pm="."><plain>Cannabinoid (CB) receptor <z:chebi fb="4" ids="48705">agonists</z:chebi> are expected to alleviate ischemic brain damage by modulating neurotransmission and neuroinflammatory responses via CB(1) and CB(2), respectively </plain></SENT>
+<SENT sid="2" pm="."><plain>TAK-937 is a selective and highly potent CB(1)/CB(2) receptor <z:chebi fb="4" ids="48705">agonist</z:chebi> </plain></SENT>
+<SENT sid="3" pm="."><plain>In this study, the effect of TAK-937 on ischemic brain damage was examined in rat and monkey <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> models </plain></SENT>
+<SENT sid="4" pm="."><plain>Sprague-Dawley rats were subjected to 2h transient middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (t-MCAo) by inserting an intraluminal suture </plain></SENT>
+<SENT sid="5" pm="."><plain>TAK-937 was administered intravenously for 24h starting 2h after MCAo </plain></SENT>
+<SENT sid="6" pm="."><plain><z:mpath ids='MPATH_124'>Infarct</z:mpath> volume was determined 24h after MCAo </plain></SENT>
+<SENT sid="7" pm="."><plain>Functional outcomes and brain <z:mpath ids='MPATH_127'>atrophy</z:mpath> were also evaluated 4weeks after MCAo </plain></SENT>
+<SENT sid="8" pm="."><plain>Next, cynomolgus monkeys were subjected to thromboembolic MCAo </plain></SENT>
+<SENT sid="9" pm="."><plain>TAK-937 was administered intravenously for 24h starting 0.5h after MCAo </plain></SENT>
+<SENT sid="10" pm="."><plain>Then, <z:mpath ids='MPATH_124'>infarct</z:mpath> volume and cerebrospinal fluid (CSF) S-100ß levels were determined </plain></SENT>
+<SENT sid="11" pm="."><plain>In the rat t-MCAo model, TAK-937 significantly reduced the <z:mpath ids='MPATH_124'>infarct</z:mpath> volume in male, female and ovariectomized rats and also improved functional outcomes and brain <z:mpath ids='MPATH_127'>atrophy</z:mpath> </plain></SENT>
+<SENT sid="12" pm="."><plain>In the monkey thromboembolic MCAo model, TAK-937 showed trend to reduce the <z:mpath ids='MPATH_124'>infarct</z:mpath> volume and S-100ß levels in CSF by 40% </plain></SENT>
+<SENT sid="13" pm="."><plain>S-100ß levels in CSF were positively correlated with <z:mpath ids='MPATH_124'>infarct</z:mpath> volume </plain></SENT>
+<SENT sid="14" pm="."><plain>These results suggest that TAK-937 may be useful for treatment of <z:hpo ids='HP_0011009'>acute</z:hpo> <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> </plain></SENT>
+<SENT sid="15" pm="."><plain>Moreover, S-100ß levels would be a useful surrogate biomarker for development of TAK-937 </plain></SENT>
+</text></document>

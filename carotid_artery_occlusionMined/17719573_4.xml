@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0011010'>Chronic</z:hpo> <z:e sem="disease" ids="C1695782" disease_type="Disease or Syndrome" abbrv="">cerebral hypoperfusion</z:e> is related to <z:e sem="disease" ids="C1112108" disease_type="Disease or Syndrome" abbrv="">neurological disorders</z:e> and contributes to a <z:hpo ids='HP_0001268'>cognitive decline</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Its experimental model in rats is permanent, bilateral common carotid <z:mp ids='MP_0006134'>artery occlusion</z:mp> </plain></SENT>
+<SENT sid="2" pm="."><plain>The cyclooxygenase (COX) system plays a pivotal role in the evolution of ischemic brain damage </plain></SENT>
+<SENT sid="3" pm="."><plain>Several COX inhibitors have proved to be neuroprotective in <z:hpo ids='HP_0001297'>stroke</z:hpo> models </plain></SENT>
+<SENT sid="4" pm="."><plain>We set out to characterize the effects of COX inhibitors in rats with permanent <z:e sem="disease" ids="C1695782" disease_type="Disease or Syndrome" abbrv="">cerebral hypoperfusion</z:e> </plain></SENT>
+<SENT sid="5" pm="."><plain>Some of the animals were exposed to two-vessel occlusion (n=72), while the others served as sham-operated controls (n=54) </plain></SENT>
+<SENT sid="6" pm="."><plain>This was followed by a 3-day post-treatment with the nonselective COX inhibitor <z:chebi fb="0" ids="49662">indomethacin</z:chebi> (3 mg/kg) or with the selective COX-2 inhibitor NS-398 (15 mg/kg) or with the solvent </plain></SENT>
+<SENT sid="7" pm="."><plain>Some groups of the animals were sacrificed after 3 days, while the remainder were tested in the <z:mp ids='MP_0001465'>Morris watermaze</z:mp> for 5 days, and were sacrificed after 2 weeks </plain></SENT>
+<SENT sid="8" pm="."><plain>Neurons in the hippocampus were subjected to immunocytochemical labeling with <z:chebi fb="0" ids="52815">cresyl violet</z:chebi>, the dendrites with microtubule-associated protein-2, astrocytes with glial fibrillary acidic protein and microglia activation with OX-42 antibody </plain></SENT>
+<SENT sid="9" pm="."><plain>Two-vessel occlusion induced a learning impairment, mild neuronal damage, marked dendritic injury and moderate astrocytic reaction in the hippocampus </plain></SENT>
+<SENT sid="10" pm="."><plain>NS-398, but not <z:chebi fb="0" ids="49662">indomethacin</z:chebi> improved the survival rate and abolished the <z:e sem="disease" ids="C0751265" disease_type="Mental or Behavioral Dysfunction" abbrv="">learning disability</z:e> </plain></SENT>
+<SENT sid="11" pm="."><plain>However, both drugs increased the proportion of animals displaying neuronal damage </plain></SENT>
+<SENT sid="12" pm="."><plain>Glial markers revealed a time-dependent elevation in both the sham and the two-vessel occluded group, and were unaffected by the treatments </plain></SENT>
+<SENT sid="13" pm="."><plain>In summary, NS-398 prevented the hypoperfusion-induced <z:hpo ids='HP_0002354'>memory impairment</z:hpo>, but not by protecting the hippocampal neurons </plain></SENT>
+</text></document>

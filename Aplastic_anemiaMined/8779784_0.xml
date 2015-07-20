@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 67-year-old female was admitted with <z:mp ids='MP_0002899'>fatigue</z:mp> </plain></SENT>
+<SENT sid="1" pm="."><plain>Peripheral blood examination showed severe <z:hpo ids='HP_0001876'>pancytopenia</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>Bone marrow biopsy revealed <z:e sem="disease" ids="C0151773" disease_type="Disease or Syndrome" abbrv="">hypoplastic marrow</z:e> </plain></SENT>
+<SENT sid="3" pm="."><plain>She was diagnosed as having <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> </plain></SENT>
+<SENT sid="4" pm="."><plain>Steroid pulse therapy was not effective </plain></SENT>
+<SENT sid="5" pm="."><plain>After treatment with erythropoietin (EPO) and granulocyte colony-stimulating factor (G-CSF), blasts which were positive for CD13, CD33, CD34 and HLA-DR and negative for myeloperoxidase appeared in the peripheral blood </plain></SENT>
+<SENT sid="6" pm="."><plain>At this time, bone marrow biopsy revealed <z:hpo ids='HP_0011974'>myelofibrosis</z:hpo> with increased blasts </plain></SENT>
+<SENT sid="7" pm="."><plain>Chromosome analysis showed 46XX, add (1) (p36), add (1) (q44), -2, -5, del (7) (q11), -12, +3mar </plain></SENT>
+<SENT sid="8" pm="."><plain>She died of <z:hpo ids='HP_0002090'>pneumonia</z:hpo> despite chemotherapy with <z:chebi fb="0" ids="4911">etoposide</z:chebi> </plain></SENT>
+<SENT sid="9" pm="."><plain>Administration of EPO and G-CSF may have led to the rapid development of <z:hpo ids='HP_0001909'>leukemia</z:hpo> and <z:hpo ids='HP_0011974'>myelofibrosis</z:hpo> </plain></SENT>
+</text></document>

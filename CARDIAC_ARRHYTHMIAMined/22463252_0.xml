@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Human heart rate variability, in the form of time series of intervals between heart beats, shows complex, fractal properties </plain></SENT>
+<SENT sid="1" pm="."><plain>Recently, it was demonstrated many times that the fractal properties vary from point to point along the series, leading to multifractality </plain></SENT>
+<SENT sid="2" pm="."><plain>In this paper, we concentrate not only on the fact that the human heart rate has multifractal properties but also that these properties depend on the time scale in which the multifractality is measured </plain></SENT>
+<SENT sid="3" pm="."><plain>This time scale is related to the frequency band of the signal </plain></SENT>
+<SENT sid="4" pm="."><plain>We find that human heart rate variability appears to be far more complex than hitherto reported in the studies using a fixed time scale </plain></SENT>
+<SENT sid="5" pm="."><plain>We introduce a method called multiscale multifractal analysis (<z:chebi fb="0" ids="34840">MMA</z:chebi>), which allows us to extend the description of heart rate variability to include the dependence on the magnitude of the variability and time scale (or frequency band) </plain></SENT>
+<SENT sid="6" pm="."><plain><z:chebi fb="0" ids="34840">MMA</z:chebi> is relatively immune to additive noise and nonstationarity, including the nonstationarity due to inclusions into the time series of events of a different dynamics (e.g., arrhythmic events in sinus rhythm) </plain></SENT>
+<SENT sid="7" pm="."><plain>The <z:chebi fb="0" ids="34840">MMA</z:chebi> method may provide new ways of measuring the nonlinearity of a signal, and it may help to develop new methods of medical diagnostics </plain></SENT>
+</text></document>

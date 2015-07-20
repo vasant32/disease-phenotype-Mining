@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIM: <z:chebi fb="11" ids="26333">Prostaglandin</z:chebi> G/H synthase 2 (PTGS2 or COX2) is one of the key factors in the cellular response to <z:mp ids='MP_0001845'>inflammation</z:mp> </plain></SENT>
+<SENT sid="1" pm="."><plain>PTGS2 is expressed in the affected intestinal segments of patients with <z:e sem="disease" ids="C0021390" disease_type="Disease or Syndrome" abbrv="">inflammatory bowel diseases</z:e> (IBD) </plain></SENT>
+<SENT sid="2" pm="."><plain>In IBD patients, <z:chebi fb="2" ids="35475">non-steroidal anti-inflammatory drugs</z:chebi>, which have been shown to reduce both the production and activity of PTGS2, may activate IBD and aggravate the symptoms </plain></SENT>
+<SENT sid="3" pm="."><plain>We aimed at examining genetic variants of PTGS2 that may be risk factors for IBD </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS: We have genotyped 291 individuals diagnosed with IBD and 367 controls from the Dutch population for the five most frequent polymorphisms of the PTGS2 gene </plain></SENT>
+<SENT sid="5" pm="."><plain>Clinical data were collected on <z:hpo ids='HP_0000001'>all</z:hpo> patients </plain></SENT>
+<SENT sid="6" pm="."><plain>DNA was extracted via <z:mpath ids='MPATH_458'>normal</z:mpath> laboratory methods </plain></SENT>
+<SENT sid="7" pm="."><plain>Genotyping was carried out using multiplex PCR followed by the Invader Assay and the 5' exonuclease assay (TaqMan) </plain></SENT>
+<SENT sid="8" pm="."><plain>New polymorphism screening was performed by pre-screening with denaturing high-performance liquid chromatography, followed by fluorescent sequencing </plain></SENT>
+<SENT sid="9" pm="."><plain>RESULTS: Allele 5209G was weakly associated with <z:hpo ids='HP_0100280'>Crohn's disease</z:hpo> (odds ratio (OR) 1.63, 95% confidence interval (CI) 1.03-2.57), and allele 8473T with <z:hpo ids='HP_0100279'>ulcerative colitis</z:hpo> (OR 1.50, 95%CI 1.00-2.27) </plain></SENT>
+<SENT sid="10" pm="."><plain>The haplotype including both alleles showed a strong association with IBD (OR 13.15, 95%CI 3.17-116.15) </plain></SENT>
+<SENT sid="11" pm="."><plain>This haplotype, while rare (-0.3%) in the general population, is found more frequently in the patients (3.5%) </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSION: Our data suggest that this haplotype of PTGS2 contributes to the susceptibility of IBD </plain></SENT>
+</text></document>

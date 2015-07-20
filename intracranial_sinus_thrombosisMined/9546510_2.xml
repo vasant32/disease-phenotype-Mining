@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>In January, 1995, a 64-year-old man became dizzy and vomited for several hours </plain></SENT>
+<SENT sid="1" pm="."><plain>48 h later he was drowsy, confused, and dysphasic </plain></SENT>
+<SENT sid="2" pm="."><plain>His pulse was 80/min and regular; blood pressure 220/110 mm&amp;#xa0;Hg </plain></SENT>
+<SENT sid="3" pm="."><plain>He had small equal pupils, no <z:hpo ids='HP_0000639'>nystagmus</z:hpo> or neck stiffness, diminished power in the right arm and leg with increased tone, and some right <z:hpo ids='HP_0011448'>ankle clonus</z:hpo> </plain></SENT>
+<SENT sid="4" pm="."><plain>He then had generalised <z:hpo ids='HP_0001250'>seizures</z:hpo> </plain></SENT>
+<SENT sid="5" pm="."><plain>His previous medical history was unremarkable </plain></SENT>
+<SENT sid="6" pm="."><plain><z:chebi fb="20" ids="16199">Urea</z:chebi> (8&amp;#xb7;7 mmol/L), <z:chebi fb="105" ids="17234">glucose</z:chebi> (8&amp;#xb7;2 mmol/L), and <z:chebi fb="2" ids="16919">creatine</z:chebi> kinase (853 U/L) were elevated </plain></SENT>
+<SENT sid="7" pm="."><plain>The erythrocyte sedimentation rate was 22 mm/h </plain></SENT>
+<SENT sid="8" pm="."><plain>A computed tomography (CT) brain scan on admission (figure) was interpreted as showing a primary intracerebral haemorrhage in the left temporoparietal region </plain></SENT>
+<SENT sid="9" pm="."><plain>Neurosurgeons and neuroradiologists thought the scan showed haemorrhagic transformation of a large arterial <z:mpath ids='MPATH_124'>infarct</z:mpath> in the middle cerebral artery territory </plain></SENT>
+<SENT sid="10" pm="."><plain>He died 8 h later </plain></SENT>
+<SENT sid="11" pm="."><plain>Necropsy showed <z:hpo ids='HP_0001640'>cardiomegaly</z:hpo>, symmetrical <z:hpo ids='HP_0001712'>left-ventricular hypertrophy</z:hpo>, and a fenestrated <z:hpo ids='HP_0001655'>patent foramen ovale</z:hpo> </plain></SENT>
+<SENT sid="12" pm="."><plain>Histologically verified ante-mortem <z:e sem="disease" ids="C0302148,C0087086" disease_type="Disease or Syndrome;Acquired Abnormality" abbrv="">thrombus</z:e> was present in right and left atria, adding to the clinical interpretation that the brain lesion had resulted from an arterial <z:mpath ids='MPATH_110'>embolus</z:mpath> </plain></SENT>
+</text></document>

@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND AIM: The treatment of <z:hpo ids='HP_0100279'>ulcerative colitis</z:hpo> (UC) with <z:chebi fb="0" ids="6775">5-aminosalicylic acid</z:chebi> (<z:chebi fb="0" ids="6775">5-ASA</z:chebi>) does not have the same therapeutic effect in <z:hpo ids='HP_0000001'>all</z:hpo> patients </plain></SENT>
+<SENT sid="1" pm="."><plain>We tested the hypothesis that the effectiveness of the drug is related to its mucosal concentration </plain></SENT>
+<SENT sid="2" pm="."><plain>PATIENTS: Twenty one UC patients receiving oral <z:chebi fb="0" ids="6775">5-ASA</z:chebi> (2.4-3.2 g/day) were enrolled in the study </plain></SENT>
+<SENT sid="3" pm="."><plain>Four were also receiving topical treatment (2 g/day) </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS: Six endoscopic biopsies were taken from the rectum for measurement of <z:chebi fb="0" ids="6775">5-ASA</z:chebi> concentrations (ng/mg) by HPLC; soluble interleukin 2 receptor (sIL-2R) concentrations (U/ml) were measured by ELISA and histology </plain></SENT>
+<SENT sid="5" pm="."><plain>Endoscopic and histological appearance was graded on a four point scale (0-3) </plain></SENT>
+<SENT sid="6" pm="."><plain>The Wilcoxon's rank test and Pearson's correlation coefficient were used for statistical analysis </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: Mucosal concentrations of <z:chebi fb="0" ids="6775">5-ASA</z:chebi> were significantly higher (p=0.03) in patients with endoscopic scores of 0-1 compared with those with scores of 2-3 (16.1 (range 10.2-45) v 5 </plain></SENT>
+<SENT sid="8" pm="."><plain>5 (3.5-17.4), respectively) and in patients with lower histological <z:mp ids='MP_0001845'>inflammation</z:mp> compared with those with more severe scores (17.4 (10 </plain></SENT>
+<SENT sid="9" pm="."><plain>5-45) v 8.9 (3.5-17.2), respectively) (p&lt;0.01) </plain></SENT>
+<SENT sid="10" pm="."><plain>In contrast, mucosal sIL2-R concentrations were significantly lower in patients with slight endoscopic and histological lesions than in those with more severe disease </plain></SENT>
+<SENT sid="11" pm="."><plain>A significative inverse correlation (r=-0.85) was found between <z:chebi fb="0" ids="6775">5-ASA</z:chebi> and sIL-2R mucosal concentrations (p=0.00008) </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: In patients with UC, in the same area of the intestinal tract, we found that the higher the <z:chebi fb="0" ids="6775">5-ASA</z:chebi> mucosal concentrations, the lower the IL-2R levels and endoscopic and histological scores </plain></SENT>
+<SENT sid="13" pm="."><plain>We hypothesise that maintenance of high mucosal <z:chebi fb="0" ids="6775">5-ASA</z:chebi> concentrations in <z:hpo ids='HP_0000001'>all</z:hpo> colonic segments could contribute to improve clinical outcome in UC patients </plain></SENT>
+</text></document>

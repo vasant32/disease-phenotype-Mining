@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Restoration of squamous epithelium in patients with Barrett's epithelium may be achieved by treatment with a <z:chebi fb="0" ids="49200">proton pump inhibitor</z:chebi> plus selective electrocoagulation of the metaplastic epithelium </plain></SENT>
+<SENT sid="1" pm="."><plain>The effect of such treatment on esophageal wall thickness and <z:mp ids='MP_0000002'>morphology</z:mp>, as determined by EUS, is unknown </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: Patients with <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> were treated with <z:chebi fb="14" ids="7772">omeprazole</z:chebi> (40 mg by mouth, twice daily) and underwent selective multipolar electrocoagulation of the metaplastic segment monthly until complete squamous re-epithelialization or a maximum of 6 treatments was achieved </plain></SENT>
+<SENT sid="3" pm="."><plain>EUS was performed before and 6 months after the end of treatment </plain></SENT>
+<SENT sid="4" pm="."><plain>Four-quadrant large-forceps biopsy specimens were taken every 2 cm at the 6-month follow-up </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: Twenty-five patients with Barrett's epithelium (mean length 3.1 cm, range 2-6 cm) were included </plain></SENT>
+<SENT sid="6" pm="."><plain>Complete endoscopic reversal was achieved in 24 patients </plain></SENT>
+<SENT sid="7" pm="."><plain>Residual <z:mpath ids='MPATH_167'>intestinal metaplasia</z:mpath> beneath squamous epithelium was observed in 1 patient </plain></SENT>
+<SENT sid="8" pm="."><plain>In 4 patients there was intestinalized mucosa at the neosquamocolunmar junction </plain></SENT>
+<SENT sid="9" pm="."><plain>The thickness of the treated distal esophageal wall decreased from 4.0 +/- 0.1 mm to 3.7 +/- 0.1 mm (mean +/- <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">SEM</z:e>; p &lt; 0.05, 2-tailed paired t test) </plain></SENT>
+<SENT sid="10" pm="."><plain>Untreated (control) esophageal wall thickness at the level of the aortic arch (2.1 +/- 0.1 mm vs. 2.2 +/- 0.1 mm) and the mid-body gastric wall thickness (2.9 +/- 0.1 mm vs. 3.1 +/- 0.1 mm) did not change </plain></SENT>
+<SENT sid="11" pm="."><plain>Among the 6 patients with residual <z:mpath ids='MPATH_167'>intestinal metaplasia</z:mpath> there was no change in mean wall thickness (3.7 +/- 0.2 mm vs. 3.8 +/- 0.2 mm); among the 19 without <z:mpath ids='MPATH_160'>metaplasia</z:mpath>, thickness decreased from 4.1 +/- 0.2 mm to 3.6 +/- 0.2 mm; p &lt; 0.01 </plain></SENT>
+<SENT sid="12" pm="."><plain>Of 11 patients with a decrease in wall thickness, only 1 had residual <z:mpath ids='MPATH_167'>intestinal metaplasia</z:mpath> </plain></SENT>
+<SENT sid="13" pm="."><plain>No changes in the 5-layer sonographic pattern of the esophageal wall were observed </plain></SENT>
+<SENT sid="14" pm="."><plain>CONCLUSIONS: Multipolar electrocoagulation of <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> results in a slight decrease in thickness of the treated esophageal wall </plain></SENT>
+<SENT sid="15" pm="."><plain>A decrease in wall thickness by EUS was associated with the absence of <z:mpath ids='MPATH_167'>intestinal metaplasia</z:mpath> in follow-up biopsy specimens </plain></SENT>
+</text></document>

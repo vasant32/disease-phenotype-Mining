@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: The weighted estimators generally used for analyzing case-cohort studies are not fully efficient and naive estimates of the predictive ability of a model from case-cohort data depend on the subcohort size </plain></SENT>
+<SENT sid="1" pm="."><plain>However, case-cohort studies represent a special type of incomplete data, and methods for analyzing incomplete data should be appropriate, in particular multiple imputation (MI) </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: We performed simulations to validate the MI approach for estimating hazard ratios and the predictive ability of a model or of an additional variable in case-cohort surveys </plain></SENT>
+<SENT sid="3" pm="."><plain>As an illustration, we analyzed a case-cohort survey from the Three-City study to estimate the predictive ability of D-dimer plasma concentration on <z:e sem="disease" ids="C0010068" disease_type="Disease or Syndrome" abbrv="">coronary heart disease</z:e> (CHD) and on vascular <z:hpo ids='HP_0000726'>dementia</z:hpo> (VaD) risks </plain></SENT>
+<SENT sid="4" pm="."><plain>RESULTS: When the imputation model of the phase-2 variable was correctly specified, MI estimates of hazard ratios and predictive abilities were similar to those obtained with full data </plain></SENT>
+<SENT sid="5" pm="."><plain>When the imputation model was misspecified, MI could provide biased estimates of hazard ratios and predictive abilities </plain></SENT>
+<SENT sid="6" pm="."><plain>In the Three-City case-cohort study, elevated D-dimer levels increased the risk of VaD (hazard ratio for two consecutive tertiles = 1.69, 95%CI: 1.63-1.74) </plain></SENT>
+<SENT sid="7" pm="."><plain>However, D-dimer levels did not improve the predictive ability of the model </plain></SENT>
+<SENT sid="8" pm="."><plain>CONCLUSIONS: MI is a simple approach for analyzing case-cohort data and provides an easy evaluation of the predictive ability of a model or of an additional variable </plain></SENT>
+</text></document>

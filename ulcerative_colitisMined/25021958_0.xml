@@ -1,0 +1,29 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>INTRODUCTION: Anti-TNF treatment is widely used in <z:e sem="disease" ids="C0021390" disease_type="Disease or Syndrome" abbrv="">inflammatory bowel disease</z:e> (IBD) but has been linked with reactivation of <z:e sem="disease" ids="C0041296" disease_type="Disease or Syndrome" abbrv="tb|tbc">tuberculosis</z:e> (TB) </plain></SENT>
+<SENT sid="1" pm="."><plain>Screening for active and latent TB prior to initiation of anti-TNF therapy is therefore mandated </plain></SENT>
+<SENT sid="2" pm="."><plain>ECCO recommends interferon gamma release assays (IGRAs) as, unlike tuberculin skin test, positive tests are not caused by previous Bacillus Calmette-Guérin (BCG) vaccine </plain></SENT>
+<SENT sid="3" pm="."><plain>However, <z:chebi fb="1" ids="35705">immunosuppressive agents</z:chebi> can result in indeterminate or unreportable results[i] and there is no clear guidance on managing them </plain></SENT>
+<SENT sid="4" pm="."><plain>We quantified the prevalence of indeterminate or unreportable TB IGRA Elispot results in a large tertiary centre cohort of patients with IBD </plain></SENT>
+<SENT sid="5" pm="."><plain>METHODS: A single centre retrospective study of IGRA tests performed on IBD patients prior to commencement of anti-TNF therapy between Oct 2010 and Oct 2013 </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: We included 140 patients (median age 34, range 24-86, 50% males) </plain></SENT>
+<SENT sid="7" pm="."><plain>92% had <z:hpo ids='HP_0100280'>Crohn's disease</z:hpo>, 4% <z:hpo ids='HP_0100279'>ulcerative colitis</z:hpo>, and 4% IBD-unclassified </plain></SENT>
+<SENT sid="8" pm="."><plain>At the time of IGRA testing, 115 patients were on immunomodulators and 6 on <z:chebi fb="2" ids="8378">prednisolone</z:chebi> </plain></SENT>
+<SENT sid="9" pm="."><plain>3 were positive for latent TB and were referred to <z:e sem="disease" ids="C0009450" disease_type="Disease or Syndrome" abbrv="">infectious disease</z:e> (ID) department prior to anti-TNF therapy </plain></SENT>
+<SENT sid="10" pm="."><plain>3 had indeterminate results; <z:hpo ids='HP_0000001'>all</z:hpo> were on <z:chebi fb="1" ids="35705">immunosuppressants</z:chebi> (2=<z:chebi fb="2" ids="2948">azathioprine</z:chebi>, 1=<z:chebi fb="0" ids="44185">methotrexate</z:chebi>) </plain></SENT>
+<SENT sid="11" pm="."><plain>2 had a lymphocyte count &lt;1 </plain></SENT>
+<SENT sid="12" pm="."><plain>In 2 cases the IGRA was repeated, one was negative and the second was unreportable on 2 occasions </plain></SENT>
+<SENT sid="13" pm="."><plain>None had TB risk factors and <z:hpo ids='HP_0000001'>all</z:hpo> were started on anti-TNF </plain></SENT>
+<SENT sid="14" pm="."><plain>To date, none have developed TB (follow up range 6-18 months) </plain></SENT>
+<SENT sid="15" pm="."><plain>10 had unreportable results, 9 of whom were on <z:chebi fb="2" ids="2948">azathioprine</z:chebi> </plain></SENT>
+<SENT sid="16" pm="."><plain>On repeat testing, 4 were negative, and the remainder were still unreportable, one of whom had risk factors for TB and was treated with <z:chebi fb="1" ids="6030">isoniazid</z:chebi> chemoprophylaxis on the advice of the ID team </plain></SENT>
+<SENT sid="17" pm="."><plain>The remaining 5 patients started anti-TNF based on the absence of risk factors for TB </plain></SENT>
+<SENT sid="18" pm="."><plain>No patient had reactivation of latent TB at follow up (range 1-18 months) </plain></SENT>
+<SENT sid="19" pm="."><plain>Lymphopaenia was found to be associated with non-reportable cases as compared to the reported cases (median lymphocyte count unreportable = 0.4, reportable = 1.2; p = 0.015) </plain></SENT>
+<SENT sid="20" pm="."><plain>CONCLUSION: Our results demonstrate TB IGRA is a useful test to screen for <z:e sem="disease" ids="C0872054" disease_type="Disease or Syndrome" abbrv="">latent infection</z:e> before initiating anti-TNF therapy </plain></SENT>
+<SENT sid="21" pm="."><plain>However, a minority of results are indeterminate or unreportable </plain></SENT>
+<SENT sid="22" pm="."><plain>In such cases repeat testing can produce definitive results </plain></SENT>
+<SENT sid="23" pm="."><plain>Low lymphocyte counts in association with immunosuppression may contribute to unreportable and indeterminate results; clinical risk stratification appears to be a safe way of managing such cases in this small cohort </plain></SENT>
+<SENT sid="24" pm="."><plain>REFERENCE: Papay P et al </plain></SENT>
+<SENT sid="25" pm="."><plain>Predictors of indeterminate IFN-γ release assay in screening for latent TB in <z:e sem="disease" ids="C0021390" disease_type="Disease or Syndrome" abbrv="">inflammatory bowel diseases</z:e> </plain></SENT>
+<SENT sid="26" pm="."><plain>Eur J Clin Invest </plain></SENT>
+<SENT sid="27" pm="."><plain>2011 DISCLOSURE OF INTEREST: None Declared </plain></SENT>
+</text></document>

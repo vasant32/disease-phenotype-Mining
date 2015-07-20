@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>INTRODUCTION: <z:hpo ids='HP_0001712'>Left ventricular hypertrophy</z:hpo> (LVH) predisposes patients to <z:hpo ids='HP_0011675'>arrhythmias</z:hpo>, but the mechanism of these <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> is unclear </plain></SENT>
+<SENT sid="1" pm="."><plain>Here we show that hearts from spontaneously hypertensive rats (SHR) have a lower threshold for induction mechanically induced <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> compared to age matched Wistar-Kyoto (WKY) </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: Recordings were made from isolated hearts from nine month old SHR (n = 18) and WKY (n = 17) rats </plain></SENT>
+<SENT sid="3" pm="."><plain>A water filled balloon in the left ventricle had its volume controlled by a servo-driven syringe </plain></SENT>
+<SENT sid="4" pm="."><plain>LVEDP was abruptly increased in increments until an ectopic beat was detected by an epicardial MAP electrode </plain></SENT>
+<SENT sid="5" pm="."><plain>Alternatively, LVEDP was abruptly reduced back to 5 mm Hg from an elevated pressure </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: SHR hearts had a lower threshold for stretch induced ectopics (29.87 ± 2.79 mm Hg vs. 42.23 ± 2.33 mm Hg, p &lt; 0.01) and for release induced ectopics (24.09 ± 1.40 vs. 37.23 ± 3.22, p &lt; 0.01) </plain></SENT>
+<SENT sid="7" pm="."><plain>Perfusion with 100 μM <z:chebi fb="7" ids="17076">streptomycin</z:chebi> increased threshold for stretch induced ectopics in both strains (from 49.4 ± 4.7 to 69.5 ± 6.9 mm Hg in WKY; p &lt; 0.05 and from 21.2 ± 3.5 to 39.7 ± 9.0 mm Hg in SHR; p = 0.07) </plain></SENT>
+<SENT sid="8" pm="."><plain>100 μM <z:chebi fb="7" ids="17076">streptomycin</z:chebi> also increased threshold for release induced ectopics in SHR (from 23.5 ± 3.6 to 32.6 ± 4.9 mm Hg; p &lt; 0.05) but not in WKY </plain></SENT>
+<SENT sid="9" pm="."><plain>Perfusion with 0.01 μM <z:chebi fb="0" ids="6046">isoprenaline</z:chebi> decreased the threshold for stretch induced ectopics in both strains (from 40.6 ± 5.0 to 22.6 ± 2.5 mm Hg in WKY; not significant at p &lt; 0.05; p = 0.07 and from 31.0 ± 5.5 to 14.3 ± 2.5 mm Hg in SHR; p &lt; 0.05) </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSIONS: Hearts from SHR are more susceptible to both stretch-induced and release-induced <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> </plain></SENT>
+</text></document>

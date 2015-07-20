@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PURPOSE: FDG PET/CT has been suggested as the most reliable modality to predict pathological <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> responses after neoadjuvant chemoradiotherapy (CRT) in locally advanced <z:e sem="disease" ids="C0007113" disease_type="Neoplastic Process" abbrv="">rectal cancer</z:e> (LARC) </plain></SENT>
+<SENT sid="1" pm="."><plain>However, several confounding factors including radiation-induced <z:mp ids='MP_0001845'>inflammation</z:mp> could not be easily avoided with the commonly used single-point FDG PET/CT </plain></SENT>
+<SENT sid="2" pm="."><plain>Our aim was to evaluate the accuracy of a dual-point PET/CT protocol in LARC response prediction to CRT </plain></SENT>
+<SENT sid="3" pm="."><plain>PATIENTS AND METHODS: Sixty-one LARC patients were enrolled and treated with neoadjuvant CRT </plain></SENT>
+<SENT sid="4" pm="."><plain>PET/CT was performed before and after CRT </plain></SENT>
+<SENT sid="5" pm="."><plain>Dual-point acquisition was applied to post-CRT PET/CT </plain></SENT>
+<SENT sid="6" pm="."><plain>Post-CRT SUVmax (postSUV), pre/post-CRT SUVmax change (RI), and dual-point index (DI) of post-CRT PET/CT were compared with the Dworak <z:mp ids='MP_0010537'>tumor regression</z:mp> grade (TRG) as a gold standard </plain></SENT>
+<SENT sid="7" pm="."><plain>Univariate and multivariate analyses, as well as receiver operating characteristic curve analysis, were used to evaluate the predictive ability of demographic, clinical, and metabolic PET parameters </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: Fifteen patients of TRG3-4 were defined as pathological responders, and 46 patients of TRG1-2 were nonresponders </plain></SENT>
+<SENT sid="9" pm="."><plain>The resulting response index (RI) ranged from -13 to 94.8% (59.1±22.0%), and delay index (DI) ranged from -45.2 to 25.0% (-9.1±12.1%) </plain></SENT>
+<SENT sid="10" pm="."><plain>Univariate analysis resulted in PET parameters (postSUV, RI, and DI) as significant predictors (P=0.004, P&lt;0.001, P&lt;0.0001) </plain></SENT>
+<SENT sid="11" pm="."><plain>According to multivariate analysis, RI and DI remained as significant predictors (P=0.04 and P=0.0004) </plain></SENT>
+<SENT sid="12" pm="."><plain>Receiver operating characteristic analysis showed that DI had significantly higher area under the curve compared with RI (0.906 vs 0.696, P=0.018) </plain></SENT>
+<SENT sid="13" pm="."><plain>Delay index had 86.7% sensitivity, 87.0% specificity, 68.4% positive predictive value, 95.2% negative predictive value, and 86.9% accuracy </plain></SENT>
+<SENT sid="14" pm="."><plain>CONCLUSIONS: Dual-point post-CRT PET/CT can predict pathological <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> response better than conventional single time point pre- and post-CRT PET/CT </plain></SENT>
+</text></document>

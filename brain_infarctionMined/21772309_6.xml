@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Diffusion-weighted imaging (DWI) is commonly used to assess irreversibly infarcted tissue but its accuracy is challenged by reports of diffusion lesion reversal (DLR) </plain></SENT>
+<SENT sid="1" pm="."><plain>We investigated the frequency and implications for mismatch classification of DLR using imaging from the EPITHET (Echoplanar Imaging Thrombolytic Evaluation Trial) and DEFUSE (Diffusion and Perfusion Imaging Evaluation for Understanding <z:hpo ids='HP_0001297'>Stroke</z:hpo> Evolution) studies </plain></SENT>
+<SENT sid="2" pm="."><plain>In 119 patients (83 treated with IV tissue plasminogen activator), follow-up images were coregistered to <z:hpo ids='HP_0011009'>acute</z:hpo> diffusion images and the lesions manually outlined to their maximal visual extent in diffusion space </plain></SENT>
+<SENT sid="3" pm="."><plain>Diffusion lesion reversal was defined as voxels of <z:hpo ids='HP_0011009'>acute</z:hpo> diffusion lesion that corresponded to <z:mpath ids='MPATH_458'>normal</z:mpath> brain at follow-up (i.e., final <z:mpath ids='MPATH_124'>infarct</z:mpath>, leukoaraiosis, and cerebrospinal fluid (CSF) voxels were excluded from consideration) </plain></SENT>
+<SENT sid="4" pm="."><plain>The appearance of DLR was visually checked for artifacts, the volume calculated, and the impact of adjusting baseline diffusion lesion volume for DLR volume on perfusion-diffusion mismatch analyzed </plain></SENT>
+<SENT sid="5" pm="."><plain>Median DLR volume reduced from 4.4 to 1.5 mL after excluding CSF/leukoaraiosis </plain></SENT>
+<SENT sid="6" pm="."><plain>Visual inspection verified 8/119 (6.7%) with true DLR, median volume 2.33 mL </plain></SENT>
+<SENT sid="7" pm="."><plain>Subtracting DLR from <z:hpo ids='HP_0011009'>acute</z:hpo> diffusion volume altered perfusion-diffusion mismatch (T(max)&gt;6 seconds, ratio&gt;1.2) in 3/119 (2.5%) patients </plain></SENT>
+<SENT sid="8" pm="."><plain>Diffusion lesion reversal between baseline and 3 to 6 hours DWI was also uncommon (7/65, 11%) and often transient </plain></SENT>
+<SENT sid="9" pm="."><plain>Clinically relevant DLR is uncommon and rarely alters perfusion-diffusion mismatch </plain></SENT>
+<SENT sid="10" pm="."><plain>The <z:hpo ids='HP_0011009'>acute</z:hpo> diffusion lesion is generally a reliable signature of the <z:mpath ids='MPATH_124'>infarct</z:mpath> core </plain></SENT>
+</text></document>

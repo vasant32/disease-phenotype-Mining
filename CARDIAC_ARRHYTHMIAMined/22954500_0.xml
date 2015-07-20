@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Ultrasound current source density imaging (UCSDI) exploits the acoustoelectric (AE) effect, an interaction between ultrasound pressure and electrical resistivity, to map electrical conduction in the heart </plain></SENT>
+<SENT sid="1" pm="."><plain>The conversion efficiency for UCSDI is determined by the AE interaction constant K, a fundamental property of <z:hpo ids='HP_0000001'>all</z:hpo> materials; K directly affects the magnitude of the detected voltage signal in UCSDI </plain></SENT>
+<SENT sid="2" pm="."><plain>This paper describes a technique for measuring K in biological tissue, and reports its value for the first time in cadaver hearts </plain></SENT>
+<SENT sid="3" pm="."><plain>A custom chamber was designed and fabricated to control the geometry for estimating K, which was measured in different ionic salt solutions and seven cadaver rabbit hearts </plain></SENT>
+<SENT sid="4" pm="."><plain>We found K to be strongly dependent on concentration for the divalent salt CuSO(4), but not for the monovalent salt <z:chebi fb="1" ids="26710">NaCl</z:chebi>, consistent with their different chemical properties </plain></SENT>
+<SENT sid="5" pm="."><plain>In the rabbit heart, K was determined to be 0.041 ± 0.012%/MPa, similar to the measurement of K in physiological saline (0.034 ± 0.003%/MPa) </plain></SENT>
+<SENT sid="6" pm="."><plain>This study provides a baseline estimate of K for modeling and experimental studies that involve UCSDI to map cardiac conduction and reentry currents associated with <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> </plain></SENT>
+</text></document>

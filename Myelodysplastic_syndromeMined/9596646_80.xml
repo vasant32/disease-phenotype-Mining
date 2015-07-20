@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The t(16;21)(q24;q22) translocation is a rare but recurrent chromosomal abnormality associated with therapy-related <z:e sem="disease" ids="C0027022" disease_type="Neoplastic Process" abbrv="MPD">myeloid malignancies</z:e> and a variant of the t(8;21) translocation in which the AML1 gene on chromosome 21 is rearranged </plain></SENT>
+<SENT sid="1" pm="."><plain>Here we report the molecular definition of this chromosomal aberration in four patients </plain></SENT>
+<SENT sid="2" pm="."><plain>We cloned cDNAs from the leukemic cells of a patient carrying t(16;21) by the reverse transcription polymerase chain reaction using an AML1-specific primer </plain></SENT>
+<SENT sid="3" pm="."><plain>The structural analysis of the cDNAs showed that AML1 was fused to a novel gene named MTG16 (Myeloid Translocation Gene on chromosome 16) which shows high homology to MTG8 (<z:chebi fb="0" ids="27561">ETO</z:chebi>/CDR) and MTGR1 </plain></SENT>
+<SENT sid="4" pm="."><plain>Northern blot analysis using MTG16 probes mainly detected 4.5 kb and 4.2 kb <z:chebi fb="40" ids="33697">RNAs</z:chebi>, along with several other minor <z:chebi fb="40" ids="33697">RNAs</z:chebi> in various human tissues </plain></SENT>
+<SENT sid="5" pm="."><plain>As in t(8;21), the t(16;21) breakpoints occurred between the exons 5 and 6 of AML1, and between the exons 1 and 2 or the exons 3 and 4 of MTG16 </plain></SENT>
+<SENT sid="6" pm="."><plain>The two genes are fused in-frame, resulting in the characteristic chimeric transcripts of this translocation </plain></SENT>
+<SENT sid="7" pm="."><plain>Although the reciprocal chimeric product, MTG16-AML1, was also detected in one of the t(16;21) patients, its protein product was predicted to be truncated </plain></SENT>
+<SENT sid="8" pm="."><plain>Thus, the AML1-MTG16 gene fusion in t(16;21) <z:hpo ids='HP_0001909'>leukemia</z:hpo> results in the production of a protein that is very similar to the AML1-MTG8 chimeric protein </plain></SENT>
+</text></document>

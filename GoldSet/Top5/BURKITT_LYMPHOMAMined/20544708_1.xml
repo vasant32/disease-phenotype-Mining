@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: MIB-1 proliferation index (PI) has proven helpful for diagnosis and prognosis in non-Hodgkin <z:hpo ids='HP_0002665'>lymphomas</z:hpo> (NHLs) </plain></SENT>
+<SENT sid="1" pm="."><plain>However, validated cutoff values for use in fine-needle <z:hpo ids='HP_0002835'>aspiration</z:hpo> (FNA) samples are not available </plain></SENT>
+<SENT sid="2" pm="."><plain>We investigated MIB-1 immunocytochemistry as an ancillary technique for stratifying NHL and attempted to establish PI cutpoints in cytologic samples </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: B-cell NHL FNA cases with available cytospins (CS) MIB-1 immunocytochemistry results were included </plain></SENT>
+<SENT sid="4" pm="."><plain>Demographic, molecular, immunophenotyping and MIB-1 PI data were collected from cytologic reports </plain></SENT>
+<SENT sid="5" pm="."><plain>Cases were subtyped according to the current World Health Organization classification and separated into indolent, aggressive, and highly aggressive groups </plain></SENT>
+<SENT sid="6" pm="."><plain>Statistical analysis was performed with pairwise Wilcoxon rank sum test and linear discriminant analysis to suggest appropriate PI cutpoints </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: Ninety-one NHL cases were subdivided in 56 (61.5%) indolent, 30 (33%) aggressive, and 5 (5.5%) highly aggressive <z:hpo ids='HP_0002665'>lymphomas</z:hpo> </plain></SENT>
+<SENT sid="8" pm="."><plain>The 3 groups had significantly different MIB-1 PIs from each other </plain></SENT>
+<SENT sid="9" pm="."><plain>Cutpoints were established for separating indolent (&lt;38%), aggressive (&gt; or =38% to &lt; or =80.1%) and highly aggressive (&gt;80.1%) </plain></SENT>
+<SENT sid="10" pm="."><plain>The groups were adequately predicted in 76 cases (83.5%) using the cutpoints and 15 cases showed discrepant <z:chebi fb="0" ids="53232">PIs</z:chebi> </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: MIB-1 immunohistochemistry on CS can help to stratify B-cell NHL and showed a significant increase in PI with <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> <z:hpo ids='HP_0000718'>aggressiveness</z:hpo> </plain></SENT>
+<SENT sid="12" pm="."><plain>Six misclassified cases had <z:chebi fb="0" ids="53232">PIs</z:chebi> close to the cutpoints </plain></SENT>
+<SENT sid="13" pm="."><plain>Discrepant MIB-1 PIs were related to dilution of positive cells by non-neoplastic lymphocytes and to the overlapping continuum of features between diffuse large B-cell <z:hpo ids='HP_0002665'>lymphoma</z:hpo> and Burkitt <z:hpo ids='HP_0002665'>lymphoma</z:hpo> </plain></SENT>
+<SENT sid="14" pm="."><plain>Validation of our approach in an unrelated, prospective dataset is required </plain></SENT>
+</text></document>

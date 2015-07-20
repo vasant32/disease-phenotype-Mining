@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Four patients with <z:hpo ids='HP_0004818'>paroxysmal nocturnal hemoglobinuria</z:hpo> and severe marrow <z:mpath ids='MPATH_58'>aplasia</z:mpath> were given marrow grafts either from allogeneic human-leukocyte-antigen-identical siblings (three patients) or from a syngeneic donor (one patient) </plain></SENT>
+<SENT sid="1" pm="."><plain>The patients with allogeneic grafts were conditioned with regimens that included <z:chebi fb="0" ids="4027">cyclophosphamide</z:chebi> and had sustained and complete marrow engraftment; subsequent tests were negative for <z:hpo ids='HP_0004818'>paroxysmal nocturnal hemoglobinuria</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>One patient developed <z:hpo ids='HP_0011010'>chronic</z:hpo> <z:e sem="disease" ids="C0018133" disease_type="Disease or Syndrome" abbrv="GVH">graft-versus-host disease</z:e> that resolved over 4 years </plain></SENT>
+<SENT sid="3" pm="."><plain>The patient receiving a syngeneic graft received marrow infusion without preceding immunosuppression </plain></SENT>
+<SENT sid="4" pm="."><plain>He had prompt engraftment, and hematologic variables returned to <z:mpath ids='MPATH_458'>normal</z:mpath> </plain></SENT>
+<SENT sid="5" pm="."><plain>A Ham's test done at 3 years was negative, but a complement lysis sensitivity test done 10 years after grafting was positive; the patient, however, remains asymptomatic </plain></SENT>
+<SENT sid="6" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> four patients are alive and well 4, 9, 10, and 12 years after transplantation </plain></SENT>
+<SENT sid="7" pm="."><plain><z:hpo ids='HP_0004818'>Paroxysmal nocturnal hemoglobinuria</z:hpo> apparently can be treated successfully by allogeneic or syngeneic marrow transplantation without subsequent maintenance therapy </plain></SENT>
+</text></document>

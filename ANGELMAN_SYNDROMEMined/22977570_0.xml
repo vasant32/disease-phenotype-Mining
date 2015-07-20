@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Assisted reproductive technology (ART) including in vitro fertilization (IVF) and intracytoplasmic sperm injection (ICSI) have been shown to be associated with abnormal <z:mp ids='MP_0003121'>genomic imprinting</z:mp>, thus increasing the incidence of imprinting disorders such as <z:e sem="disease" ids="C0004903" disease_type="Disease or Syndrome;Congenital Abnormality" abbrv="">Beckwith-Wiedemann syndrome</z:e> (BWS) and <z:e sem="disease" ids="C0162635" disease_type="Disease or Syndrome" abbrv="">Angelman syndrome (AS)</z:e> in ART-conceived children </plain></SENT>
+<SENT sid="1" pm="."><plain>Furthermore, a recent study described <z:mp ids='MP_0008877'>abnormal DNA methylation</z:mp> in clinically <z:mpath ids='MPATH_458'>normal</z:mpath> children conceived by ART </plain></SENT>
+<SENT sid="2" pm="."><plain>However, data from different studies are conflicting or inconclusive </plain></SENT>
+<SENT sid="3" pm="."><plain>This study examined DNA methylation patterns of multiple imprinted genes in children born after ART to primarily evaluate the impact of ART on <z:mp ids='MP_0003121'>genomic imprinting</z:mp> </plain></SENT>
+<SENT sid="4" pm="."><plain>A total of 101 newborns conceived by ART (40 ICSI and 61 IVF) and 60 naturally conceived newborns were involved in our study </plain></SENT>
+<SENT sid="5" pm="."><plain>After obtaining the approval of the Institutional Ethics Committee, umbilical cord blood was collected from each infant </plain></SENT>
+<SENT sid="6" pm="."><plain>Genomic DNA was isolated from each blood sample and treated using <z:chebi fb="0" ids="26709">sodium bisulfite</z:chebi> </plain></SENT>
+<SENT sid="7" pm="."><plain>Subsequently, using methylation-specific PCR (MS-PCR), we analyzed six differentially methylated regions (DMRs) including KvDMR1, SNRPN, <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MEST</z:e>, MEG3, TNDM and XIST </plain></SENT>
+<SENT sid="8" pm="."><plain>Meanwhile, information regarding twin pregnancies, gestational age, and birth weight of the neonates was documented </plain></SENT>
+<SENT sid="9" pm="."><plain>None of the cases presented with <z:hpo ids='HP_0000118'>phenotypic abnormalities</z:hpo> </plain></SENT>
+<SENT sid="10" pm="."><plain>Children conceived by ART were more likely to have <z:hpo ids='HP_0001518'>low birth weight</z:hpo> and to be born before term, compared with children conceived spontaneously </plain></SENT>
+<SENT sid="11" pm="."><plain>However, 7 months to 3 years of clinical follow-up showed that none of the children had clinical symptoms of any imprinting diseases </plain></SENT>
+<SENT sid="12" pm="."><plain>Furthermore, the MS-PCR results showed that <z:hpo ids='HP_0000001'>all</z:hpo> 161 children had <z:mpath ids='MPATH_458'>normal</z:mpath> DNA methylation patterns at six DMRs despite the different mode of conception </plain></SENT>
+<SENT sid="13" pm="."><plain>Our data did not indicate a higher risk of DNA-methylation defects in children born after ART </plain></SENT>
+<SENT sid="14" pm="."><plain>However, further studies using quantitative methods are needed to confirm these results </plain></SENT>
+</text></document>

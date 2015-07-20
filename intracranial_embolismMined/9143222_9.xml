@@ -1,0 +1,18 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We conducted a study using diffusion-weighted (DWI) and perfusion-weighted (PWI) magnetic resonance imaging (MRI) to evaluate the efficacy of thrombolysis in an embolic <z:hpo ids='HP_0001297'>stroke</z:hpo> model with recombinant tissue plasminogen activator (rt-PA) and hirulog, a novel direct-acting antithrombin </plain></SENT>
+<SENT sid="1" pm="."><plain>DWI can identify areas of <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> minutes from <z:hpo ids='HP_0001297'>stroke</z:hpo> <z:hpo ids='HP_0003674'>onset</z:hpo>, while PWI identifies regions of impaired blood flow </plain></SENT>
+<SENT sid="2" pm="."><plain>Right internal carotid arteries of 36 rabbits were embolized using aged heterologous <z:e sem="disease" ids="C0087086" disease_type="Disease or Syndrome" abbrv="">thrombi</z:e> </plain></SENT>
+<SENT sid="3" pm="."><plain>Baseline DWI and PWI scans were obtained to confirm successful embolization </plain></SENT>
+<SENT sid="4" pm="."><plain>Four animals with no observable DWI lesion on the initial scan were excluded; therefore, a total of 32 animals were randomized to one of three treatment groups: rt-PA (n = 11), rt-PA plus hirulog (n = 11), or placebo (n = 10) </plain></SENT>
+<SENT sid="5" pm="."><plain>Treatment was begun 1 h after <z:hpo ids='HP_0001297'>stroke</z:hpo> induction </plain></SENT>
+<SENT sid="6" pm="."><plain>Intravenous doses were as follows: rt-PA, 5 mg/kg over 0.5 h with 20% of the total dose given as a bolus; hirulog, 1 mg/kg bolus followed by 5 mg/kg over 1 h </plain></SENT>
+<SENT sid="7" pm="."><plain>MRI was performed at 2, 3, and 5 h following embolization </plain></SENT>
+<SENT sid="8" pm="."><plain>Six hours after embolization, brains were harvested, examined for <z:mp ids='MP_0001914'>hemorrhage</z:mp>, then prepared for histologic analysis </plain></SENT>
+<SENT sid="9" pm="."><plain>The rt-PA decreased fibrinogen levels by 73%, and hirulog prolonged the aPTT to four times the control value </plain></SENT>
+<SENT sid="10" pm="."><plain>Posttreatment areas of diffusion abnormality and perfusion delay were expressed as a ratio of baseline values </plain></SENT>
+<SENT sid="11" pm="."><plain>Significantly improved perfusion was seen in the rt-PA plus hirulog group compared with placebo (normalized ratios of the perfusion delay areas were as follows: placebo, 1.58, 0.47-3.59; rt-PA, 1.12, 0.04-3.95; rt-PA and hirulog, 0.40, 0.02-1.08; p &lt; 0.05) </plain></SENT>
+<SENT sid="12" pm="."><plain>Comparison of diffusion abnormality ratios measured at 5 h showed trends favoring reduced lesion size in both groups given rt-PA (normalized ratios of diffusion abnormality areas were as follows: placebo, 3.69, 0.39-15.71; rt-PA, 2.57, 0.74-5.00; rt-PA and hirulog, 1.95, 0.33-6.80; p = 0.32) </plain></SENT>
+<SENT sid="13" pm="."><plain>Significant <z:hpo ids='HP_0001342'>cerebral hemorrhage</z:hpo> was observed in one placebo, two rt-PA, and three rt-PA plus hirulog treated animals </plain></SENT>
+<SENT sid="14" pm="."><plain>One fatal systemic <z:mp ids='MP_0001914'>hemorrhage</z:mp> was observed in each of the rt-PA groups </plain></SENT>
+<SENT sid="15" pm="."><plain>We conclude that rt-PA plus hirulog improves cerebral perfusion but does not necessarily reduce cerebral injury </plain></SENT>
+<SENT sid="16" pm="."><plain>DWI and PWI are useful methods for monitoring thrombolysis </plain></SENT>
+</text></document>

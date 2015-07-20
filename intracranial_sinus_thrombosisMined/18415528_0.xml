@@ -1,0 +1,21 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Pain therapy with epidural or intrathecal catheters is an invasive method </plain></SENT>
+<SENT sid="1" pm="."><plain>These techniques have specific indications in both <z:hpo ids='HP_0011009'>acute</z:hpo> and <z:hpo ids='HP_0011010'>chronic</z:hpo> pain therapy </plain></SENT>
+<SENT sid="2" pm="."><plain>However, complications can occur </plain></SENT>
+<SENT sid="3" pm="."><plain>Thus, the potential complications and the therapy necessary must be known.Drugs: Complications resulting from <z:hpo ids='HP_0011009'>acute</z:hpo> <z:chebi fb="39" ids="36333">local anesthetic</z:chebi> intoxication's are rare </plain></SENT>
+<SENT sid="4" pm="."><plain>High plasma levels during <z:hpo ids='HP_0011010'>chronic</z:hpo> therapy may lead to <z:hpo ids='HP_0001289'>confusion</z:hpo> </plain></SENT>
+<SENT sid="5" pm="."><plain>Respiratory <z:hpo ids='HP_0000716'>depression</z:hpo> can occur in opioid naive patients up to 12 (-24) h after injection </plain></SENT>
+<SENT sid="6" pm="."><plain>Adequate monitoring is a prerequisite for this therapy </plain></SENT>
+<SENT sid="7" pm="."><plain>After application of <z:chebi fb="4" ids="46631">clonidine</z:chebi>, <z:hpo ids='HP_0002615'>hypotension</z:hpo> is frequent in hypertonic and hypovolemic patients </plain></SENT>
+<SENT sid="8" pm="."><plain>Epidural or intrathecalcatheter placement can result in therapeutic failure, trauma by punction and inability to place the catheter </plain></SENT>
+<SENT sid="9" pm="."><plain>During <z:hpo ids='HP_0011010'>chronic</z:hpo> therapy, technical problems can occur, e.g., dislocation, occlusion </plain></SENT>
+<SENT sid="10" pm="."><plain>To exclude intrathecal and intravascular placement, application of a test dosage of a <z:chebi fb="39" ids="36333">local anesthetic</z:chebi> with <z:chebi fb="47" ids="28918,33568">adrenaline</z:chebi> is recommended.Neurological complications can result in nerve root deficit or "simple" post-spinal <z:hpo ids='HP_0002315'>headache</z:hpo>, but <z:e sem="disease" ids="C0392548" disease_type="Disease or Syndrome" abbrv="">cauda equina syndromes</z:e>, paralyses, <z:mp ids='MP_0001915'>intracranial bleeding</z:mp>, sinus <z:mp ids='MP_0005048'>thrombosis</z:mp> and central neurological deficits have been reported </plain></SENT>
+<SENT sid="11" pm="."><plain><z:e sem="disease" ids="C0037278" disease_type="Disease or Syndrome" abbrv="">Skininfection</z:e> at the insertion site of the catheter has been observed with an incidence of 1.9 to 7.7% </plain></SENT>
+<SENT sid="12" pm="."><plain>A spinal <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infection</z:e> with neurological deficit is rare </plain></SENT>
+<SENT sid="13" pm="."><plain>Spinal <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infections</z:e> are often associated with other diseases </plain></SENT>
+<SENT sid="14" pm="."><plain>Spinalhematomas are rare </plain></SENT>
+<SENT sid="15" pm="."><plain><z:e sem="disease" ids="C0005779" disease_type="Disease or Syndrome" abbrv="">Coagulation disorders</z:e> and <z:chebi fb="2" ids="50249">anticoagulants</z:chebi> can lead to <z:mp ids='MP_0001914'>bleeding</z:mp> </plain></SENT>
+<SENT sid="16" pm="."><plain>Intravenous <z:chebi fb="5" ids="28304">heparin</z:chebi> should be avoided, because this is frequently associated with <z:mp ids='MP_0006054'>spinal bleeding</z:mp> </plain></SENT>
+<SENT sid="17" pm="."><plain>Therapy with cumarines is a contraindication for insertion of spinal catheters.Monitoring: During treatment with spinal catheters, adequate monitoring increases safety for the patients </plain></SENT>
+<SENT sid="18" pm="."><plain>Efficacy of the injections, puncture site and the neurological status should be documented daily </plain></SENT>
+<SENT sid="19" pm="."><plain>Neurological deficits must be diagnosed without losing time and adequate therapy must be initiated </plain></SENT>
+</text></document>

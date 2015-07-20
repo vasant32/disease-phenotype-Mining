@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Stem cells have shown a great potential to treat <z:e sem="disease" ids="C0178237" disease_type="Disease or Syndrome" abbrv="">diseases and injuries</z:e>, including ischemic brain injury </plain></SENT>
+<SENT sid="1" pm="."><plain>However, developing agents for the long-term tracking of stem cells with few side effects is still challenging </plain></SENT>
+<SENT sid="2" pm="."><plain>Our aim is to develop a novel fluorescent-<z:chebi fb="8" ids="46726">magnetite</z:chebi>-nanocluster (FMNC) with high MRI sensitivity and to examine its application in the labeling and tracking of mesenchymal stem cells (MSC) </plain></SENT>
+<SENT sid="3" pm="."><plain>For this purpose, we developed FMNC by embedding individual <z:chebi fb="0" ids="50823">magnetite nanoparticles</z:chebi> (NPs) into a <z:chebi fb="132" ids="53276">polystyrene</z:chebi> scaffold coated with two layers of <z:chebi fb="48" ids="30563">silica</z:chebi> and a sandwiched layer of rhodamine </plain></SENT>
+<SENT sid="4" pm="."><plain>We examined the efficacy of FMNC in MSC labeling and the feasibility of tracking FMNC-labeled MSCs in the ischemic mouse brain </plain></SENT>
+<SENT sid="5" pm="."><plain>We found that FMNC has high cell-labeling efficiency with no adverse effects on MSCs </plain></SENT>
+<SENT sid="6" pm="."><plain>In a mouse middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> model, FMNC-labeled MSCs migrated to and accumulated in the ischemic region after FMNC-labeled MSC transplantation </plain></SENT>
+<SENT sid="7" pm="."><plain>MRI findings highly correlated to immunohistochemistry results </plain></SENT>
+<SENT sid="8" pm="."><plain>FROM THE CLINICAL EDITOR: In this study, the authors report a novel fluorescent-<z:chebi fb="8" ids="46726">magnetite</z:chebi>-nanocluster with high MRI sensitivity and to labeling and tracking of mesenchymal stem cells, and provide in vivo data utilizing a murine <z:hpo ids='HP_0001297'>stroke</z:hpo> model </plain></SENT>
+</text></document>

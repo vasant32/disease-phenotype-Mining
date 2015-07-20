@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Peroxisome proliferator-activated receptor (PPAR) alpha is a transcription factor controlling <z:chebi fb="23" ids="18059">lipid</z:chebi> and <z:chebi fb="105" ids="17234">glucose</z:chebi> homeostasis </plain></SENT>
+<SENT sid="1" pm="."><plain>PPARalpha-deficient (-/-) mice are protected from high-fat diet-induced <z:hpo ids='HP_0000855'>insulin resistance</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>However, the impact of PPARalpha in the pathophysiological setting of <z:hpo ids='HP_0001513'>obesity</z:hpo>-related <z:hpo ids='HP_0000855'>insulin resistance</z:hpo> is unknown </plain></SENT>
+<SENT sid="3" pm="."><plain>Therefore, PPARalpha(-/-) mice in an <z:mp ids='MP_0001261'>obese</z:mp> (ob/ob) background were generated </plain></SENT>
+<SENT sid="4" pm="."><plain>PPARalpha deficiency did not influence the growth curves of the <z:mp ids='MP_0001261'>obese</z:mp> mice but surprisingly resulted in a severe, age-dependent <z:hpo ids='HP_0003074'>hyperglycemia</z:hpo> </plain></SENT>
+<SENT sid="5" pm="."><plain>PPARalpha deficiency did not aggravate peripheral <z:hpo ids='HP_0000855'>insulin resistance</z:hpo> </plain></SENT>
+<SENT sid="6" pm="."><plain>By contrast, PPARalpha(-/-) ob/ob mice developed pancreatic <z:hpo ids='HP_0006279'>beta-cell dysfunction</z:hpo> characterized by reduced mean islet area and <z:mp ids='MP_0003059'>decreased insulin secretion</z:mp> in response to <z:chebi fb="105" ids="17234">glucose</z:chebi> in vitro and in vivo </plain></SENT>
+<SENT sid="7" pm="."><plain>In primary human pancreatic islets, PPARalpha <z:chebi fb="4" ids="48705">agonist</z:chebi> treatment prevented fatty acid-induced impairment of <z:chebi fb="105" ids="17234">glucose</z:chebi>-stimulated insulin secretion, <z:mpath ids='MPATH_3'>apoptosis</z:mpath>, and <z:chebi fb="0" ids="17855">triglyceride</z:chebi> accumulation </plain></SENT>
+<SENT sid="8" pm="."><plain>These results indicate that PPARalpha improves the adaptative response of the pancreatic beta-cell to pathological conditions </plain></SENT>
+<SENT sid="9" pm="."><plain>PPARalpha could thus represent a promising target in the prevention of type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+</text></document>

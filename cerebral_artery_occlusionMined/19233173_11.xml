@@ -1,0 +1,18 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>CD47 is a cell surface <z:chebi fb="2" ids="17089">glycoprotein</z:chebi> that helps mediate neutrophil transmigration across blood vessels </plain></SENT>
+<SENT sid="1" pm="."><plain>The present study was performed to determine whether absence of the CD47 gene decreases focal ischemic brain damage </plain></SENT>
+<SENT sid="2" pm="."><plain>Mice were subjected to 90 min middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> </plain></SENT>
+<SENT sid="3" pm="."><plain>CD47 knockout mice were compared against matching <z:mp ids='MP_0002169'>wildtype</z:mp> mice </plain></SENT>
+<SENT sid="4" pm="."><plain>CD47 expression was checked by Western blotting </plain></SENT>
+<SENT sid="5" pm="."><plain><z:mpath ids='MPATH_124'>Infarct</z:mpath> volume and ischemic <z:e sem="disease" ids="C1527311" disease_type="Disease or Syndrome" abbrv="">brain swelling</z:e> were quantified with <z:chebi fb="0" ids="52815">cresyl violet</z:chebi>-stained brain sections at 24 and 72 h after <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> </plain></SENT>
+<SENT sid="6" pm="."><plain>The tight junction protein claudin-5 was detected by imunohistochemistry </plain></SENT>
+<SENT sid="7" pm="."><plain>Two surrogate markers of neuroinflammation, brain levels of matrix metalloproteinase-9 (MMP-9) and infiltration of neutrophils, were assessed by immunohistochemistry </plain></SENT>
+<SENT sid="8" pm="."><plain>Western blots confirmed that CD47 was absent in knockout brains </plain></SENT>
+<SENT sid="9" pm="."><plain><z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">Ischemia</z:e> did not appear to upregulate total brain levels of CD47 in WT mice </plain></SENT>
+<SENT sid="10" pm="."><plain>In CD47 knockout mice, <z:mpath ids='MPATH_124'>infarct</z:mpath> volumes were reduced at 24 and 72 h after <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e>, and hemispheric swelling was decreased at 72 h </plain></SENT>
+<SENT sid="11" pm="."><plain>Loss of claudin-5 was observed in ischemic WT brain </plain></SENT>
+<SENT sid="12" pm="."><plain>This effect was ameliorated in CD47 knockout brains </plain></SENT>
+<SENT sid="13" pm="."><plain>Extravasation of neutrophils into the brain parenchyma was significantly reduced in CD47 knockout mice compared to <z:mp ids='MP_0002169'>wildtype</z:mp> mice </plain></SENT>
+<SENT sid="14" pm="."><plain>MMP-9 appeared to be upregulated in microvessels within ischemic brain </plain></SENT>
+<SENT sid="15" pm="."><plain>MMP-9 levels were markedly lower in CD47 knockout brains compared to <z:mp ids='MP_0002169'>wildtype</z:mp> brains </plain></SENT>
+<SENT sid="16" pm="."><plain>We conclude that CD47 is broadly involved in neuroinflammation, and this integrin-associated-protein plays a role in promoting MMP-9 upregulaton, neutrophil extravasation, <z:e sem="disease" ids="C1527311" disease_type="Disease or Syndrome" abbrv="">brain swelling</z:e> and progression of <z:hpo ids='HP_0011009'>acute</z:hpo> ischemic brain injury </plain></SENT>
+</text></document>

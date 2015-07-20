@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Between 1991 and 1999, 44 leukemic patients received donor lymphocyte infusions (DLIs) at our center (22 patients with <z:hpo ids='HP_0005506'>chronic myelogenous leukemia</z:hpo> [<z:mp ids='MP_0005481'>CML</z:mp>]; 10 with <z:hpo ids='HP_0004808'>acute myelogenous leukemia</z:hpo>; 11 with <z:hpo ids='HP_0006721'>acute lymphatic leukemia</z:hpo>; and 1 with <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo>) </plain></SENT>
+<SENT sid="1" pm="."><plain>Seventeen patients received <z:e sem="disease" ids="C0018133" disease_type="Disease or Syndrome" abbrv="GVH">graft-versus-host disease</z:e> (GVHD) prophylaxis with <z:chebi fb="0" ids="44185">methotrexate</z:chebi> (MTX) at the time of DLI </plain></SENT>
+<SENT sid="2" pm="."><plain>In <z:mp ids='MP_0005481'>CML</z:mp> patients, 15 of 22 (68%) re-entered complete remission after DLI </plain></SENT>
+<SENT sid="3" pm="."><plain>At 3 years post-DLI, patients with cytogenetic (n = 10) or molecular (n = 3) relapse had a current <z:hpo ids='HP_0001909'>leukemia</z:hpo>-free survival (cLFS) rate of 85% compared with 0% for patients with hematologic relapse (P &lt; .001) </plain></SENT>
+<SENT sid="4" pm="."><plain>Among 15 <z:mp ids='MP_0005481'>CML</z:mp> patients who initially responded to DLI, 4 patients relapsed within the first 2 years </plain></SENT>
+<SENT sid="5" pm="."><plain>Four of 16 patients (25%) with <z:hpo ids='HP_0002488'>acute leukemia</z:hpo> had an initial response with complete remission after DLI </plain></SENT>
+<SENT sid="6" pm="."><plain>Two of them subsequently relapsed within 1 year </plain></SENT>
+<SENT sid="7" pm="."><plain>Patients with <z:hpo ids='HP_0002488'>acute leukemia</z:hpo> who relapsed within 1 year of hematopoietic stem cell transplantation (n = 9) had 0% cLFS at 18 months; patients with later relapse had 29% cLFS (P = .015) </plain></SENT>
+<SENT sid="8" pm="."><plain>The overall probability of cLFS at 3 years for <z:mp ids='MP_0005481'>CML</z:mp> patients was 46% </plain></SENT>
+<SENT sid="9" pm="."><plain>For other diseases, cLFS was 13% at 18 months after DLI </plain></SENT>
+<SENT sid="10" pm="."><plain>Patients who developed <z:hpo ids='HP_0011010'>chronic</z:hpo> GVHD secondary to DLI showed a 3-year cLFS of 51% compared with 18% for patients without <z:hpo ids='HP_0011010'>chronic</z:hpo> GVHD (P = .022) </plain></SENT>
+<SENT sid="11" pm="."><plain>This study emphasizes the importance of early disease stage and presence of <z:hpo ids='HP_0011010'>chronic</z:hpo> GVHD for effective DLI </plain></SENT>
+</text></document>

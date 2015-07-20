@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: The present study investigates the long-term effects of postischemic <z:hpo ids='HP_0002045'>hypothermia</z:hpo> on neuronal cell damage and concentration changes of apoptotic proteins after <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: Sixty-four Sprague-Dawley rats were anesthetized, intubated and ventilated with 2.0 Vol% <z:chebi fb="0" ids="6015">isoflurane</z:chebi> and 70% <z:chebi fb="0" ids="17045,29796">N2O</z:chebi>/O2 </plain></SENT>
+<SENT sid="2" pm="."><plain>After preparation the animals were randomly assigned to the following groups: group 1 (n = 32, fentanyl-<z:chebi fb="0" ids="17045,29796">N2O</z:chebi>/normothermia 37.5 degrees C), and group 2 (n = 32, fentanyl-<z:chebi fb="0" ids="17045,29796">N2O</z:chebi>/<z:hpo ids='HP_0002045'>hypothermia</z:hpo> 34.0 degrees C </plain></SENT>
+<SENT sid="3" pm="."><plain><z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">Ischemia</z:e> (45 min) was induced by common carotid <z:mp ids='MP_0006134'>artery occlusion</z:mp> plus hemorrhagic <z:hpo ids='HP_0002615'>hypotension</z:hpo> (MAP = 40 mmHg) </plain></SENT>
+<SENT sid="4" pm="."><plain>Arterial blood gases and pH were maintained constant </plain></SENT>
+<SENT sid="5" pm="."><plain>After 1, 3, 7, or 28 days (each n = 8) the brains were removed, frozen and cut </plain></SENT>
+<SENT sid="6" pm="."><plain>Neuronal damage was assessed by analyzing Bax, Bcl-2, p53, and Mdm-2 proteins, activated caspases-3-positive and eosinophilic cells </plain></SENT>
+<SENT sid="7" pm="."><plain>A third group (n = 8) of untreated animals served as naive controls </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: In hypothermic animals, Bax concentration was decreased by 50-70% over time compared to normothermia </plain></SENT>
+<SENT sid="9" pm="."><plain>On days 1 and 3, Bcl-2 was increased by 50% with <z:hpo ids='HP_0002045'>hypothermia</z:hpo> </plain></SENT>
+<SENT sid="10" pm="."><plain>The amount of activated caspase-3-positive cells in the ischemic hemisphere was 0.5% in the hypothermic and 1-2% in the normothermic animals </plain></SENT>
+<SENT sid="11" pm="."><plain>Of the hippocampal cells, 10-25% were eosinophilic in both groups over time </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSION: The present data show that <z:hpo ids='HP_0002045'>hypothermia</z:hpo> prevents an <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e>-induced increase of the pro-apoptotic protein Bax for as long as 28 days and increases the concentration of the antiapoptotic protein Bcl-2 up to 3 days compared to normothermic animals </plain></SENT>
+<SENT sid="13" pm="."><plain>Therefore, after <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo>, <z:hpo ids='HP_0002045'>hypothermia</z:hpo> has the sustained neuroprotective potential to shift <z:mpath ids='MPATH_3'>apoptosis</z:mpath>-related proteins towards neuronal cell survival </plain></SENT>
+</text></document>

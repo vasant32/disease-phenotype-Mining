@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND PURPOSE: The present study was performed to determine the role of alpha4 (CD49d), a member of the integrin family of <z:e sem="disease" ids="C0001511" disease_type="Disease or Syndrome;Acquired Abnormality" abbrv="">adhesion</z:e> molecules, in ischemic brain pathology </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: Male spontaneously hypertensive rats (SHR) or Sprague-Dawley rats underwent 60-minute middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (MCAO) followed by 23-hour reperfusion </plain></SENT>
+<SENT sid="2" pm="."><plain>Animals were injected intravenously with 2.5 mg/kg anti-rat alpha4 antibody (TA-2) or isotype control antibody (anti-human LFA-3 IgG(1), 1E6) 24 hours before MCAO </plain></SENT>
+<SENT sid="3" pm="."><plain><z:mpath ids='MPATH_124'>Infarct</z:mpath> volume was quantified by staining of fresh tissue with tetrazolium <z:chebi fb="76" ids="17996">chloride</z:chebi> and myeloperoxidase activity measured in SHR tissue homogenates 24 hours after MCAO </plain></SENT>
+<SENT sid="4" pm="."><plain>In SHR, mean arterial blood pressure was recorded before and after MCAO in animals treated with TA-2 and 1E6 </plain></SENT>
+<SENT sid="5" pm="."><plain>Fluorescence-activated cell sorting analysis was performed on peripheral blood leukocytes before and after MCAO </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: TA-2 treatment significantly reduced total <z:mpath ids='MPATH_124'>infarct</z:mpath> volume by 57.7% in normotensive rats (1E6, 84.2+/-11.5 mm(3), n=17; TA-2, 35.7+/-5.9 mm(3), n=16) and 35.5% in hypertensive rats (1E6, 146.6+/-15.5 mm(3), n=15; TA-2, 94.4+/-25.8 mm(3), n=11) </plain></SENT>
+<SENT sid="7" pm="."><plain>In both strains, TA-2 treatment significantly reduced body <z:hpo ids='HP_0001824'>weight loss</z:hpo> and attenuated the hyperthermic response to MCAO </plain></SENT>
+<SENT sid="8" pm="."><plain>In SHR, treatment with TA-2 significantly reduced brain myeloperoxidase activity </plain></SENT>
+<SENT sid="9" pm="."><plain>Resting mean arterial blood pressure was unaffected by treatment </plain></SENT>
+<SENT sid="10" pm="."><plain>Leukocyte counts were elevated in TA-2-treated rats </plain></SENT>
+<SENT sid="11" pm="."><plain>Fluorescence-activated cell sorting analysis demonstrated the ability of TA-2 to bind to CD3+, CD4+, CD8+, and CD11b+ cells in both naive animals and after MCAO </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: These data demonstrate that inhibition of alpha4 integrin can protect the brain against ischemic brain injury and implicate endogenous alpha4 integrin in the pathogenesis of <z:hpo ids='HP_0011009'>acute</z:hpo> brain injury </plain></SENT>
+<SENT sid="13" pm="."><plain>The mechanism by which alpha4 integrin inhibition offers cerebroprotection is independent of blood pressure modulation and is likely due to inhibition of leukocyte function </plain></SENT>
+</text></document>

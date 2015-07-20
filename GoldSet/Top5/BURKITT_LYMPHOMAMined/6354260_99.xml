@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>M13 DNA containing 20-30 apurinic/apyrimidinic (AP) sites per intact circular molecule was prepared by growing phage on an ung- dut- Escherichia coli mutant and treating the DNA with <z:chebi fb="0" ids="17568">uracil</z:chebi> N-glycosylase </plain></SENT>
+<SENT sid="1" pm="."><plain>AP sites obstruct in vitro DNA synthesis catalyzed by E. coli pol I </plain></SENT>
+<SENT sid="2" pm="."><plain>The position at which termination of synthesis occurs was determined for four enzymes </plain></SENT>
+<SENT sid="3" pm="."><plain>T4 DNA polymerase terminates one nucleotide before putative AP sites </plain></SENT>
+<SENT sid="4" pm="."><plain>DNA pol I, AMV reverse transcriptase, and DNA polymerase alpha terminate synthesis either before or at the site of an AP lesion depending on the particular sequence </plain></SENT>
+<SENT sid="5" pm="."><plain>We determined the identity of the nucleotide inserted opposite an AP site by synthesizing up to the lesion in a first-stage reaction using T4 DNA polymerase and then determining elongation in a second stage </plain></SENT>
+<SENT sid="6" pm="."><plain><z:chebi fb="0" ids="35584">Purines</z:chebi> are inserted opposite AP sites more readily than <z:chebi fb="0" ids="39447">pyrimidines</z:chebi>, and <z:chebi fb="0" ids="16284">dATP</z:chebi> is more efficient than <z:chebi fb="0" ids="16497">dGTP</z:chebi> in promoting such elongation </plain></SENT>
+<SENT sid="7" pm="."><plain>The DNA-dependent conversion of dNTP to dNMP was determined in mixtures of <z:hpo ids='HP_0000001'>all</z:hpo> four dNTP's by using AP DNA </plain></SENT>
+<SENT sid="8" pm="."><plain>The production of <z:chebi fb="14" ids="17713">dAMP</z:chebi> from <z:chebi fb="0" ids="16284">dATP</z:chebi> occurs most readily </plain></SENT>
+<SENT sid="9" pm="."><plain>We conclude that there is an inherent specificity for the incorporation of <z:chebi fb="1" ids="16708">adenine</z:chebi> <z:chebi fb="9" ids="36976">nucleotides</z:chebi> opposite AP sites in this in vitro system </plain></SENT>
+<SENT sid="10" pm="."><plain>Insofar as the model system reflects in vivo mutational events, our data suggest that depurination should produce transversions and depyrimidination should produce transitions </plain></SENT>
+</text></document>

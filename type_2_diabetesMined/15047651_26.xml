@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: Subjects with decreased erythrocyte survival have an unusually low GHb percentage </plain></SENT>
+<SENT sid="1" pm="."><plain>The goal of this study was to determine whether <z:hpo ids='HP_0003074'>hyperglycemia</z:hpo>, as reflected by GHb percentage, is associated with decreased erythrocyte survival </plain></SENT>
+<SENT sid="2" pm="."><plain>RESEARCH DESIGN AND METHODS: Erythrocyte survival was quantitated in 23 subjects with type 2 <z:mp ids='MP_0002055'>diabetes</z:mp>, and these values were correlated with the subjects' GHb percentage </plain></SENT>
+<SENT sid="3" pm="."><plain>Erythrocyte survival was determined from the difference between the subjects' alveolar <z:chebi fb="168" ids="17245">carbon monoxide</z:chebi> (CO) concentration and atmospheric CO concentration </plain></SENT>
+<SENT sid="4" pm="."><plain>Reticulocyte counts were obtained in 16 subjects </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: Although the vast majority of the subjects had erythrocyte life spans that fell within the <z:mpath ids='MPATH_458'>normal</z:mpath> range (123 +/- 23 days), there was a highly significant inverse correlation (r = -0.66, P &lt; 0.01) between life span and GHb percentage, with an average decline in life span of 6.9 days for each 1% rise in GHb </plain></SENT>
+<SENT sid="6" pm="."><plain>The reticulocyte count inversely correlated with erythrocyte life span (r = -0.77, P &lt; 0.01) </plain></SENT>
+<SENT sid="7" pm="."><plain>CONCLUSIONS: <z:hpo ids='HP_0003074'>Hyperglycemia</z:hpo>, as evidenced by high GHb percentage, is associated with an appreciable decrease in erythrocyte life span </plain></SENT>
+<SENT sid="8" pm="."><plain>Because GHb appears to be formed over the lifetime of the erythrocyte, this decreased erythrocyte survival suggests that high GHb percentages may systematically underestimate the true degree of <z:hpo ids='HP_0003074'>hyperglycemia</z:hpo> </plain></SENT>
+</text></document>

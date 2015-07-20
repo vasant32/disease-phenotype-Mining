@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">Ischemia</z:e>-related neurological injury is a primary cause of <z:hpo ids='HP_0001297'>stroke</z:hpo> disability </plain></SENT>
+<SENT sid="1" pm="."><plain>Studies have demonstrated that <z:chebi fb="3" ids="49957">xenon</z:chebi> (Xe) may have potential as an effective and nontoxic neuroprotectant </plain></SENT>
+<SENT sid="2" pm="."><plain>Xe delivery is, however, hampered by lack of suitable administration methods </plain></SENT>
+<SENT sid="3" pm="."><plain>We have developed a pressurization-freeze method to encapsulate Xe into echogenic liposomes (Xe-ELIP) and have modulated local gas release with transvascular ultrasound exposure </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS AND RESULTS: Fifteen microliters of Xe were encapsulated into each 1 mg of liposomes (70% Xe and 30% <z:chebi fb="17" ids="49474,49475">argon</z:chebi>) </plain></SENT>
+<SENT sid="5" pm="."><plain>Xe delivery from Xe-ELIP into cells and consequent neuroprotective effects were evaluated with oxygen/<z:chebi fb="105" ids="17234">glucose</z:chebi>-deprived and control neuronal cells in vitro </plain></SENT>
+<SENT sid="6" pm="."><plain>Xe-ELIP were administered into Sprague-Dawley rats intravenously or intra-arterially after right middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> </plain></SENT>
+<SENT sid="7" pm="."><plain>One-megahertz low-amplitude (0.18 MPa) continuous wave ultrasound directed onto the internal carotid artery triggered Xe release from circulating Xe-ELIP </plain></SENT>
+<SENT sid="8" pm="."><plain>Effects of Xe delivery on <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e>-induced neurological injury and disability were evaluated </plain></SENT>
+<SENT sid="9" pm="."><plain>Xe-ELIP delivery to oxygen/<z:chebi fb="105" ids="17234">glucose</z:chebi>-deprived neuronal cells improved cell viability in vitro and resulted in a 48% <z:mpath ids='MPATH_124'>infarct</z:mpath> volume decrease in vivo </plain></SENT>
+<SENT sid="10" pm="."><plain>Intravenous Xe-ELIP administration in combination with the ultrasound directed onto the carotid artery enhanced local Xe release from circulating Xe-ELIP and demonstrated 75% <z:mpath ids='MPATH_124'>infarct</z:mpath> volume reduction </plain></SENT>
+<SENT sid="11" pm="."><plain>This was comparable to the effect after intra-arterial administration </plain></SENT>
+<SENT sid="12" pm="."><plain>Behavioral tests on limb placement and grid and beam walking correlated with <z:mpath ids='MPATH_124'>infarct</z:mpath> reduction </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSIONS: This novel methodology may provide a noninvasive strategy for ultrasound-enhanced local therapeutic gas delivery for <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo>-related injury while minimizing systemic side effects </plain></SENT>
+</text></document>

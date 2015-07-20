@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PURPOSE: Half of patients with <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e>) have <z:e sem="disease" ids="C0027627" disease_type="Neoplastic Process" abbrv="mets">metastasis</z:e> during the whole course of the disease </plain></SENT>
+<SENT sid="1" pm="."><plain>Fewer than 10% of those are still alive at 5 years </plain></SENT>
+<SENT sid="2" pm="."><plain>Locally advanced <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e> accounts for 7% to 33% of <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e> relapses </plain></SENT>
+<SENT sid="3" pm="."><plain>Of these, only a small number of patients are resectable with a curative intent </plain></SENT>
+<SENT sid="4" pm="."><plain>Management of unresectable metastatic or locally advanced <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e> is a significant challenge </plain></SENT>
+<SENT sid="5" pm="."><plain>In this study, we focus on patients with unresectable locally advanced or metastatic <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e> and analyze survival rate and prognostic factors influencing the survival </plain></SENT>
+<SENT sid="6" pm="."><plain>METHODS: There were 277 patients identified </plain></SENT>
+<SENT sid="7" pm="."><plain>Several clinicopathologic parameters were evaluated </plain></SENT>
+<SENT sid="8" pm="."><plain>To determine the prognostic impact of the factors in survival, <z:hpo ids='HP_0000001'>all</z:hpo> parameters were tested from their relationship in Cox-regression model and Cox proportional hazards model </plain></SENT>
+<SENT sid="9" pm="."><plain>Survival curves were generated according to Kaplan-Meier method and the differences in survival were determined by employing the log-rank test </plain></SENT>
+<SENT sid="10" pm="."><plain>RESULTS: Three factors that influence the survival were identified: one or more than two organs involved (p = 0.041), higher carcinoembryonic antigen (CEA) level (p = 0.001), and different salvage treatment (p &lt; 0.001) </plain></SENT>
+<SENT sid="11" pm="."><plain>In Kaplan-Meier survival analysis, there were significant differences between patients with one and more than two organs involved (p = 0.027), different ranges of CEA level (p = 0.004), and different salvage treatment (p &lt; 0.001) </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: We clearly demonstrated three factors that influence the survival, including more than two organs involved, higher CEA level, and different salvage treatment </plain></SENT>
+<SENT sid="13" pm="."><plain>The higher the CEA level and the more organs (≥2) involved, the worse the survival </plain></SENT>
+<SENT sid="14" pm="."><plain>Even in patients with unresectable metastatic or locally advanced, aggressive treatment with target therapy seems to have survival benefit </plain></SENT>
+</text></document>

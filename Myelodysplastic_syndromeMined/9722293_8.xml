@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>One hundred and five consecutive primary high-risk <z:hpo ids='HP_0002863'>myelodysplastic syndromes</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e>) or secondary <z:hpo ids='HP_0011009'>acute</z:hpo> <z:mpath ids='MPATH_342'>myeloid leukaemia</z:mpath> (sAML) evolving from <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> (performance status 0-3, ECOG) entered this study </plain></SENT>
+<SENT sid="1" pm="."><plain>Induction chemotherapy (CT) consisted of idarubicine 12 mg/m2 i.v. on days 1 and 2, <z:chebi fb="0" ids="4911">etoposide</z:chebi> 60 mg/m2/12h i.v. for 5d, Ara-C 120 mg/ m2/12h i.v. for 5d (one or two courses) </plain></SENT>
+<SENT sid="2" pm="."><plain>Patients were randomized to receive or not G-CSF (5 microg/kg/d subcutaneously 48 h after the end of CT) </plain></SENT>
+<SENT sid="3" pm="."><plain>52 cases underwent CT alone and 53 CT+G-CSF </plain></SENT>
+<SENT sid="4" pm="."><plain>The CT+ G-CSF patients had a significantly shorter duration of <z:hpo ids='HP_0001875'>neutropenia</z:hpo> (8 nu 16d) with a lower incidence of <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infections</z:e> and significantly better responses (CR+PR: 74% v 52%, P&lt;0.05) </plain></SENT>
+<SENT sid="5" pm="."><plain>40 patients entered CR: 17 with CT and 2 3 with CT+G-CSF </plain></SENT>
+<SENT sid="6" pm="."><plain>Responders underwent two consolidation courses with the same CT, followed by high-dose Ara-C (2 g/m2 every 12h for 3 d) </plain></SENT>
+<SENT sid="7" pm="."><plain>Most CRs were clonal </plain></SENT>
+<SENT sid="8" pm="."><plain>At present 21 responders have relapsed (median relapse-free survival 4 5 months) </plain></SENT>
+<SENT sid="9" pm="."><plain>Eight responders received an allo-BMT, six are alive in CR 7-57 months post-transplant </plain></SENT>
+<SENT sid="10" pm="."><plain>Therefore allo-BMT only increases the chance of a long survival and possible cure </plain></SENT>
+<SENT sid="11" pm="."><plain>In conclusion, CT+G-CSF did not prolong either CR duration or survival; the growth factor support, however, increased the number of allo-transplantable cases by inducing higher remission rates and improving clinical conditions </plain></SENT>
+</text></document>

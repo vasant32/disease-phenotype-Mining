@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Low-dose arabinosyl <z:chebi fb="1" ids="16040">cytosine</z:chebi> (ARA-C) was tested in 15 patients with <z:hpo ids='HP_0002488'>acute leukemia</z:hpo> after a <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e>) and in six elderly patients with <z:hpo ids='HP_0011009'>acute</z:hpo> nonlymphoid <z:hpo ids='HP_0001909'>leukemia</z:hpo> (ANLL) </plain></SENT>
+<SENT sid="1" pm="."><plain>The drug was given subcutaneously at 10 mg/m2, every 12 hr for 2 weeks, every 28 days </plain></SENT>
+<SENT sid="2" pm="."><plain>The overall response rate was 19% (one complete remission, three partial responses), and the median duration of response was 4 months </plain></SENT>
+<SENT sid="3" pm="."><plain>No particular features at diagnosis were predictive of response </plain></SENT>
+<SENT sid="4" pm="."><plain><z:hpo ids='HP_0001876'>Pancytopenia</z:hpo> and marrow <z:mpath ids='MPATH_133'>hypoplasia</z:mpath> occurred after 44 (78%) of 56 courses of therapy and were more severe in nonresponders </plain></SENT>
+<SENT sid="5" pm="."><plain>Four patients died during the <z:mpath ids='MPATH_58'>aplasia</z:mpath> following ARA-C therapy </plain></SENT>
+<SENT sid="6" pm="."><plain>Subcutaneous low-dose ARA-C was of limited benefit and bore a noticeable hematologic toxicity </plain></SENT>
+</text></document>

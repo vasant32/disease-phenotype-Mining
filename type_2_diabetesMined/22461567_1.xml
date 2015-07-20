@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The mechanisms by which common genetic variation predisposes to type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> remain unclear </plain></SENT>
+<SENT sid="1" pm="."><plain>The disease-associated variants in TCF7L2 (rs7903146) and WFS1 (rs10010131) have been shown to affect response to exogenous glucagon-like <z:chebi fb="7" ids="16670">peptide</z:chebi> 1 (GLP-1), while variants in KCNQ1 (rs151290, rs2237892, and rs2237895) alter endogenous GLP-1 secretion </plain></SENT>
+<SENT sid="2" pm="."><plain>We set out to validate these observations using a model of GLP-1-induced insulin secretion </plain></SENT>
+<SENT sid="3" pm="."><plain>We studied healthy individuals using a hyperglycemic clamp and GLP-1 infusion </plain></SENT>
+<SENT sid="4" pm="."><plain>In addition, we measured active and total GLP-1 in response to an oral challenge in nondiabetic subjects </plain></SENT>
+<SENT sid="5" pm="."><plain>After genotyping the relevant single nucleotide polymorphisms, generalized linear regression models and repeated-measures ANCOVA models incorporating potential confounders, such as age and BMI, were used to assess the associations, if any, of response with genotype </plain></SENT>
+<SENT sid="6" pm="."><plain>These variants did not alter GLP-1 concentrations in response to oral intake </plain></SENT>
+<SENT sid="7" pm="."><plain>No effects on β-cell responsiveness to <z:hpo ids='HP_0003074'>hyperglycemia</z:hpo> and GLP-1 infusion were apparent </plain></SENT>
+<SENT sid="8" pm="."><plain><z:mp ids='MP_0002055'>Diabetes</z:mp>-associated variation (T allele at rs7903146) in TCF7L2 may impair the ability of <z:hpo ids='HP_0003074'>hyperglycemia</z:hpo> to suppress glucagon (45 ± 2 vs. 47 ± 2 vs. 60 ± 5 ng/L for CC, CT, and TT, respectively, P = 0.02) </plain></SENT>
+<SENT sid="9" pm="."><plain>In nondiabetic subjects, <z:mp ids='MP_0002055'>diabetes</z:mp>-associated genetic variation does not alter GLP-1 concentrations after an oral challenge or its effect on insulin secretion </plain></SENT>
+</text></document>

@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The human cardiac <z:chebi fb="199" ids="26708">sodium</z:chebi> channel Na(v)1.5 encoded by the SCN5A gene plays a critical role in cardiac excitability and the propagation of action potentials </plain></SENT>
+<SENT sid="1" pm="."><plain>Na(v)1.5 dysfunctions due to mutations cause <z:e sem="disease" ids="C0018799" disease_type="Disease or Syndrome" abbrv="">cardiac diseases</z:e> such as the LQT3 form of <z:hpo ids='HP_0001657'>long QT syndrome</z:hpo>, <z:e sem="disease" ids="C0264886" disease_type="Disease or Syndrome" abbrv="">conduction disorders</z:e>, and <z:e sem="disease" ids="C1142166" disease_type="Disease or Syndrome" abbrv="SUNDS">Brugada syndrome</z:e> (BrS) </plain></SENT>
+<SENT sid="2" pm="."><plain>They have also recently been associated with <z:hpo ids='HP_0001644'>dilated cardiomyopathy</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>BrS is characterized by coved ST-segment elevation on surface ECGs and lethal <z:hpo ids='HP_0004308'>ventricular arrhythmias</z:hpo> in an apparently structurally <z:mpath ids='MPATH_458'>normal</z:mpath> heart </plain></SENT>
+<SENT sid="4" pm="."><plain>Na(v)1.5 mutations that cause BrS result in a loss of channel function </plain></SENT>
+<SENT sid="5" pm="."><plain>Our aim was to functionally characterize two novel Na(v)1.5 mutations (A124D and V1378M) in BrS patients </plain></SENT>
+<SENT sid="6" pm="."><plain><z:mp ids='MP_0002169'>Wild-type</z:mp> (WT) and mutant Na(v)1.5 channels were expressed in tsA201 cells in the presence of the β(1)-auxiliary subunit </plain></SENT>
+<SENT sid="7" pm="."><plain>The patch-clamp technique and immunocytochemistry approaches were used to study the mutant channels and their cellular localization </plain></SENT>
+<SENT sid="8" pm="."><plain>The two mutant channels displayed a dramatic reduction in current density but had <z:mpath ids='MPATH_458'>normal</z:mpath> gating properties </plain></SENT>
+<SENT sid="9" pm="."><plain>The reduction in current density was caused by the retention of channel proteins in the endoplasmic reticulum (ER) </plain></SENT>
+<SENT sid="10" pm="."><plain>Mutant channel retention could be partially reversed by incubating transfected cells at 25°C and by treating them with mexiletine (for V1378M but not A124D), or with <z:chebi fb="0" ids="3962">curcumin</z:chebi> or thapsigargin, two drugs that target ER resident proteins </plain></SENT>
+<SENT sid="11" pm="."><plain>It is likely that the clinical phenotypes observed in these two BrS patients were related to a surface expression defect caused by ER retention </plain></SENT>
+</text></document>

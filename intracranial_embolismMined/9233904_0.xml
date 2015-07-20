@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND PURPOSE: The applicability of a bigate probe, simultaneously harvesting two spatially separated vessel segments, in the identification of Doppler microembolic signals (<z:chebi fb="28" ids="39005,39010">MES</z:chebi>) was evaluated </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: One hundred and ninety-seven patients with artificial heart valves were bilaterally monitored over two segments of each middle cerebral artery, with a minimal distance of 5 mm between them, using 2 MHz probes </plain></SENT>
+<SENT sid="2" pm="."><plain>Time delay in the appearance of high intensity transients between the two segments was calculated off-line, using dedicated software, integrated in the Doppler device </plain></SENT>
+<SENT sid="3" pm="."><plain>RESULTS: Bigate monitoring was feasible in 96% of patients </plain></SENT>
+<SENT sid="4" pm="."><plain><z:chebi fb="28" ids="39005,39010">MES</z:chebi> prevalence and counts were 37% and 26 (18-44) respectively </plain></SENT>
+<SENT sid="5" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> but 8.8% of the 2932 MES signals recorded appeared in both Doppler channels, with a time delay of 4.4 (4.2-4.7) msec (range between 0 and 34 msec) </plain></SENT>
+<SENT sid="6" pm="."><plain>Time delay in 97% of artifact signals was under 1 msec </plain></SENT>
+<SENT sid="7" pm="."><plain>Application of 1 msec as low and 20 msec as high cut-off point between <z:chebi fb="28" ids="39005,39010">MES</z:chebi> and artifacts resulted in the correct identification of 97% of artifacts and 89.6% of <z:chebi fb="28" ids="39005,39010">MES</z:chebi> </plain></SENT>
+<SENT sid="8" pm="."><plain>CONCLUSIONS: The multigate approach is a reliable method for identification of Doppler microembolic signals in patients with prosthetic heart valves </plain></SENT>
+<SENT sid="9" pm="."><plain>The value of this technique in other patient groups remains to be evaluated </plain></SENT>
+</text></document>

@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>In many phase II clinical trials, interim monitoring is based on the probability of a binary event, response, defined in terms of one or more time-to-event variables within a time period of fixed length </plain></SENT>
+<SENT sid="1" pm="."><plain>Such outcome-adaptive methods may require repeated interim suspension of accrual in order to follow each patient for the time period required to evaluate response </plain></SENT>
+<SENT sid="2" pm="."><plain>This may increase trial duration, and eligible patients arriving during such delays either must wait for accrual to reopen or be treated outside the trial </plain></SENT>
+<SENT sid="3" pm="."><plain>Alternatively, monitoring may be done continuously by ignoring censored data each time the stopping rule is applied, which wastes information </plain></SENT>
+<SENT sid="4" pm="."><plain>We propose an adaptive Bayesian method that eliminates these problems </plain></SENT>
+<SENT sid="5" pm="."><plain>At each patient's accrual time, an approximate posterior for the response probability based on <z:hpo ids='HP_0000001'>all</z:hpo> of the event-time data is used to compute an early stopping criterion </plain></SENT>
+<SENT sid="6" pm="."><plain>Application to a <z:hpo ids='HP_0001909'>leukemia</z:hpo> trial with a composite event shows that the method can reduce trial duration substantially while maintaining the reliability of interim decisions </plain></SENT>
+</text></document>

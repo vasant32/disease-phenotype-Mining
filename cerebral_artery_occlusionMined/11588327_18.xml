@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND PURPOSE: Diffusion-weighted MRI (DWI) can detect early ischemic changes and is sometimes used as a surrogate neurological end point in clinical trials </plain></SENT>
+<SENT sid="1" pm="."><plain>Recent experimental <z:hpo ids='HP_0001297'>stroke</z:hpo> studies have shown that with brief periods of <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e>, some DWI lesions transiently reverse, only to recur later </plain></SENT>
+<SENT sid="2" pm="."><plain>This study examined the histological condition of the tissue during the period of DWI reversal </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: Rats underwent 30 minutes of middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> followed by reperfusion </plain></SENT>
+<SENT sid="4" pm="."><plain>DWI images were obtained during <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> and 3 to 5 hours, 1 day, and 7 days later </plain></SENT>
+<SENT sid="5" pm="."><plain>MRI scans were compared with histology (5 hours, n=5; 7 days, n=5) with the use of neuronal (microtubule-associated protein 2 [MAP2]) and astrocytic (glial fibrillary acidic protein [GFAP]) markers and heat-shock protein 72 (HSP72) </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: DWI abnormalities reversed 3 to 5 hours after <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> <z:hpo ids='HP_0003674'>onset</z:hpo> but recurred at 1 day </plain></SENT>
+<SENT sid="7" pm="."><plain>Four animals showed complete reversal of the initial DWI hyperintensity, and 6 showed partial reversal </plain></SENT>
+<SENT sid="8" pm="."><plain>When the 5-hour DWI was completely <z:mpath ids='MPATH_458'>normal</z:mpath>, there was significant loss of MAP2 immunoreactivity, comprising approximately 30% of the initial DWI lesion </plain></SENT>
+<SENT sid="9" pm="."><plain>However, GFAP staining revealed morphologically <z:mpath ids='MPATH_458'>normal</z:mpath> astrocytes </plain></SENT>
+<SENT sid="10" pm="."><plain>HSP72 immunoreactivity at 5 hours was extensive and corresponded to the initial DWI lesion </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: After brief ischemic periods, normalization of the DWI does not necessarily imply that the tissue is <z:mpath ids='MPATH_458'>normal</z:mpath> </plain></SENT>
+<SENT sid="12" pm="."><plain>Neurons already exhibit evidence of structural damage and stress </plain></SENT>
+<SENT sid="13" pm="."><plain><z:mpath ids='MPATH_458'>Normal</z:mpath> GFAP staining suggests that other nonneuronal cell populations may partially compensate for altered fluid balances at the time of DWI reversal despite the presence of neuronal injury </plain></SENT>
+<SENT sid="14" pm="."><plain>These observations suggest that caution is warranted when relying solely on DWI for assessment of ischemic damage </plain></SENT>
+</text></document>

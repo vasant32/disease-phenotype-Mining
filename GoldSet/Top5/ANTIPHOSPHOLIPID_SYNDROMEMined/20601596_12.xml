@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>During the <z:e sem="disease" ids="C0085278" disease_type="Disease or Syndrome" abbrv="">antiphospholipid syndrome</z:e>, beta2-gpI interacts with <z:chebi fb="1" ids="16247">phospholipids</z:chebi> on endothelial cell (EC) surface to allow the binding of autoantibodies </plain></SENT>
+<SENT sid="1" pm="."><plain>However, induced-pathogenic intracellular signals suggest that beta2-gpI associates also with a receptor that is still not clearly identified </plain></SENT>
+<SENT sid="2" pm="."><plain>TLR2 and TLR4 have long been suspected, yet interactions between TLRs and beta2-gpI have never been unequivocally proven </plain></SENT>
+<SENT sid="3" pm="."><plain>The aim of the study was to identify the TLR directly involved in the binding of beta2-gpI on EC surface </plain></SENT>
+<SENT sid="4" pm="."><plain>beta2-gpI was not synthesized and secreted by ECs in vitro, but rather taken up from FCS </plain></SENT>
+<SENT sid="5" pm="."><plain>This uptake occurred through association with TLR2 and TLR4 which partitioned together in the <z:chebi fb="23" ids="18059">lipid</z:chebi> rafts of ECs </plain></SENT>
+<SENT sid="6" pm="."><plain>After coimmunoprecipitation, mass-spectrometry identification of <z:chebi fb="7" ids="16670">peptides</z:chebi> demonstrated that TLR2, but not TLR4, was implicated in the beta2-gpI retention </plain></SENT>
+<SENT sid="7" pm="."><plain>These results were further confirmed by plasmon resonance-based studies </plain></SENT>
+<SENT sid="8" pm="."><plain>Finally, siRNA were used to obtain TLR2-deficient ECs that lost their ability to bind biotinylated beta2-gpI and to trigger downstream phosphorylation of kinases and activation of NFkappaB </plain></SENT>
+<SENT sid="9" pm="."><plain>TLR4 may upregulate TLR2 expression, thereby contributing to beta2-gpI uptake </plain></SENT>
+<SENT sid="10" pm="."><plain>However, our data demonstrate that direct binding of beta2-gpI on EC surface occurs through direct interaction with TLR2 </plain></SENT>
+<SENT sid="11" pm="."><plain>Furthermore, signaling for anti-beta2-gpI may be envisioned as a multiprotein complex concentrated in <z:chebi fb="23" ids="18059">lipid</z:chebi> rafts on the EC membrane </plain></SENT>
+</text></document>

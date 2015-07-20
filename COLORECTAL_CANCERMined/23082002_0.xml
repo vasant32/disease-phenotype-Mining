@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PURPOSE: Vismodegib, a Hedgehog pathway inhibitor, has preclinical activity in <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e>) models </plain></SENT>
+<SENT sid="1" pm="."><plain>This trial assessed the efficacy, safety, and pharmacokinetics of adding vismodegib to first-line treatment for metastatic <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e> (mCRC) </plain></SENT>
+<SENT sid="2" pm="."><plain>Experimental design: Patients were randomized to receive vismodegib (150 mg/day orally) or placebo, in combination with FOLFOX or FOLFIRI chemotherapy plus bevacizumab (5 mg/kg) every 2 weeks until disease progression or intolerable toxicity </plain></SENT>
+<SENT sid="3" pm="."><plain>The primary endpoint was progression-free survival (PFS) </plain></SENT>
+<SENT sid="4" pm="."><plain>Key secondary objectives included evaluation of predictive biomarkers and pharmacokinetic drug interactions </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: A total of 199 patients with mCRC were treated on protocol (124 FOLFOX, 75 FOLFIRI) </plain></SENT>
+<SENT sid="6" pm="."><plain>The median PFS hazard ratio (HR) for vismodegib treatment compared with placebo was 1.25 (90% CI: 0.89-1.76; P = 0.28) </plain></SENT>
+<SENT sid="7" pm="."><plain>The overall response rates for placebo-treated and vismodegib-treated patients were 51% (90% CI: 43-60) and 46% (90% CI: 37-55), respectively </plain></SENT>
+<SENT sid="8" pm="."><plain>No vismodegib-associated benefit was observed in combination with either FOLFOX or FOLFIRI </plain></SENT>
+<SENT sid="9" pm="."><plain>Increased <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> tissue Hedgehog expression did not predict clinical benefit </plain></SENT>
+<SENT sid="10" pm="."><plain>Grade 3 to 5 adverse events reported for more than 5% of patients that occurred more frequently in the vismodegib-treated group were <z:mp ids='MP_0002899'>fatigue</z:mp>, <z:hpo ids='HP_0002018'>nausea</z:hpo>, asthenia, mucositis, <z:hpo ids='HP_0000763'>peripheral sensory neuropathy</z:hpo>, <z:hpo ids='HP_0001824'>weight loss</z:hpo>, decreased appetite, and <z:hpo ids='HP_0001944'>dehydration</z:hpo> </plain></SENT>
+<SENT sid="11" pm="."><plain>Vismodegib did not alter the pharmacokinetics of FOLFOX, FOLFIRI, or bevacizumab </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: Vismodegib does not add to the efficacy of standard therapy for mCRC </plain></SENT>
+<SENT sid="13" pm="."><plain>Compared with placebo, treatment intensity was lower for <z:hpo ids='HP_0000001'>all</z:hpo> regimen components in vismodegib-treated patients, suggesting that combined toxicity may have contributed to lack of efficacy </plain></SENT>
+</text></document>

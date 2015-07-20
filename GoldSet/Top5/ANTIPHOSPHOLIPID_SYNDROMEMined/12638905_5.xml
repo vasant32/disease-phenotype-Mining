@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>In the State of Indiana, blood donors are screened by a written questionnaire prior to donation to identify potential exposures to <z:e sem="disease" ids="C0009450" disease_type="Disease or Syndrome" abbrv="">infectious diseases</z:e> and to assess medications </plain></SENT>
+<SENT sid="1" pm="."><plain>The potential donor is not asked about aPL-related events </plain></SENT>
+<SENT sid="2" pm="."><plain>Animal experiments have shown, however, that passive transfer of aPL can produce aPL-associated pathology in the recipient </plain></SENT>
+<SENT sid="3" pm="."><plain>We determined the incidence of <z:hpo ids='HP_0003613'>antiphospholipid antibodies</z:hpo> (aPL) in 775 volunteer blood donors in Indiana </plain></SENT>
+<SENT sid="4" pm="."><plain>Tubing segments containing 2 ml of anticoagulated blood were obtained from donor units </plain></SENT>
+<SENT sid="5" pm="."><plain>The average donor age was 43 years (range 17-82); 45% were female </plain></SENT>
+<SENT sid="6" pm="."><plain>Our in-house aPL ELISA tested for IgG, IgA and IgM to <z:chebi fb="0" ids="28494">cardiolipin</z:chebi> (aCL), phosphatidylserine (aPS), <z:chebi fb="0" ids="16038">phosphatidylethanolamine</z:chebi> (aPE) and <z:chebi fb="0" ids="49183">phosphatidylcholine</z:chebi> (aPC) </plain></SENT>
+<SENT sid="7" pm="."><plain>The plasmas were tested with and without supplemental <z:chebi fb="0" ids="16247">phospholipid</z:chebi> (PL)-binding plasma proteins from adult bovine plasma (ABP) </plain></SENT>
+<SENT sid="8" pm="."><plain>A total of 24 tests were performed for each donor </plain></SENT>
+<SENT sid="9" pm="."><plain><z:mpath ids='MPATH_458'>Normal</z:mpath> ranges were determined for 98% of the donors by calculating multiples of the means (MoM) of OD values for each antigen-isotype combination </plain></SENT>
+<SENT sid="10" pm="."><plain>No decimals were used, <z:hpo ids='HP_0000001'>all</z:hpo> MoMs were rounded up to the next whole number </plain></SENT>
+<SENT sid="11" pm="."><plain>An additional two MoMs were added to the calculated cutoff values to eliminate borderline positive values </plain></SENT>
+<SENT sid="12" pm="."><plain>Results revealed that 63 (8.1 %) donors had positive findings for one or more aPL </plain></SENT>
+<SENT sid="13" pm="."><plain>The relatively high number of aPL-positive individuals reflects the observation that different donors were often in the highest 2% of each antigen-isotype combination tested </plain></SENT>
+<SENT sid="14" pm="."><plain>The aPL specificities, isotypes, and PL-binding protein dependence are summarized in this report </plain></SENT>
+</text></document>

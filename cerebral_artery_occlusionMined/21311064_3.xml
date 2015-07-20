@@ -1,0 +1,18 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND PURPOSE: Emerging data suggest that the molecular cell <z:hpo ids='HP_0011420'>death</z:hpo> pathways triggered by ischemic insults differ in the male and female brain </plain></SENT>
+<SENT sid="1" pm="."><plain>Cell <z:hpo ids='HP_0011420'>death</z:hpo> in males is initiated by poly(<z:chebi fb="13" ids="16761">ADP</z:chebi>-<z:chebi fb="1" ids="33942">ribose</z:chebi>) polymerase-1 (PARP-1) activation; however, manipulation of this pathway paradoxically increases ischemic damage in females </plain></SENT>
+<SENT sid="2" pm="."><plain>In contrast, females are exquisitely sensitive to caspase-mediated cell <z:hpo ids='HP_0011420'>death</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>The effect of caspase inhibition in PARP-1 knockout mice was evaluated to determine if the detrimental effects of PARP deletion in females were secondary to increased caspase activation </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS: Focal <z:hpo ids='HP_0001297'>stroke</z:hpo> was induced by transient or permanent middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (MCAO) in <z:mp ids='MP_0002169'>wild-type</z:mp> (WT) and PARP-1(-/-) mice of both sexes </plain></SENT>
+<SENT sid="5" pm="."><plain>The pan-caspase inhibitor, <z:chebi fb="0" ids="17362">quinoline</z:chebi>-Val-Asp(Ome)-<z:chebi fb="5" ids="29357,29358,29360,29361,51375,51376">CH2</z:chebi>-O-phenoxy (Q-VD-OPh), was administered 90 minutes after middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> </plain></SENT>
+<SENT sid="6" pm="."><plain><z:mpath ids='MPATH_124'>Infarct</z:mpath> size and neurological sores were assessed </plain></SENT>
+<SENT sid="7" pm="."><plain>Separate cohorts were used for protein analysis for PAR, <z:mpath ids='MPATH_3'>Apoptosis</z:mpath> inducing factor (AIF), caspase-9, and caspase-3 </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: WT mice of both sexes had increased nuclear AIF after <z:hpo ids='HP_0001297'>stroke</z:hpo> compared to PARP-1(-/-) mice </plain></SENT>
+<SENT sid="9" pm="."><plain>PARP-1(-/-) females had higher <z:hpo ids='HP_0001427'>mitochondrial</z:hpo> <z:chebi fb="0" ids="4056">cytochrome</z:chebi> C and activated caspase-9 and -3 levels than WT female mice </plain></SENT>
+<SENT sid="10" pm="."><plain>PARP-1(-/-) females also had an increase in <z:hpo ids='HP_0001297'>stroke</z:hpo>-induced cytosolic <z:chebi fb="0" ids="4056">cytochrome</z:chebi> C release compared with WT females, which was not seen in males </plain></SENT>
+<SENT sid="11" pm="."><plain>Q-VD-OPh decreased caspase-9 in both males and females but only led to reduction of <z:mpath ids='MPATH_124'>infarct</z:mpath> in females </plain></SENT>
+<SENT sid="12" pm="."><plain>PARP-1(-/-) males had smaller <z:mpath ids='MPATH_124'>infarcts</z:mpath>, whereas PARP-1(-/-) females had larger <z:hpo ids='HP_0001297'>strokes</z:hpo> compared with WT </plain></SENT>
+<SENT sid="13" pm="."><plain>Q-VD-OPh significantly decreased <z:mpath ids='MPATH_124'>infarct</z:mpath> in both WT and PARP-1(-/-) females in both transient and permanent MCAO models, but had no effect in males </plain></SENT>
+<SENT sid="14" pm="."><plain>CONCLUSIONS: Deletion of PARP-1 reduces <z:mpath ids='MPATH_124'>infarct</z:mpath> in males but exacerbates injury in females </plain></SENT>
+<SENT sid="15" pm="."><plain>PARP-1(-/-) females have enhanced caspase activation </plain></SENT>
+<SENT sid="16" pm="."><plain>The detrimental effects of PARP loss in females can be reversed with caspase inhibition </plain></SENT>
+</text></document>

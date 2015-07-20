@@ -1,0 +1,20 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>INTRODUCTION: Worldwide, <z:hpo ids='HP_0000819'>diabetes mellitus</z:hpo> presents a high burden for individuals and society </plain></SENT>
+<SENT sid="1" pm="."><plain>In Latin America, many people with <z:mp ids='MP_0002055'>diabetes</z:mp> have limited access to health care, which means that indirect costs may exceed direct health care cost </plain></SENT>
+<SENT sid="2" pm="."><plain><z:mp ids='MP_0002055'>Diabetes</z:mp> is Mexico's leading cause of <z:hpo ids='HP_0011420'>death</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>PURPOSE: To evaluate the cost-effectiveness ratios of the most used oral <z:chebi fb="0" ids="35526">hypoglycemic agents</z:chebi> (OHA) in the treatment of outpatients with type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> attending a public primary care clinic in Mexico City </plain></SENT>
+<SENT sid="4" pm="."><plain>DESIGN: A cross-sectional and analytic study was conducted in Mexico City </plain></SENT>
+<SENT sid="5" pm="."><plain>METHODOLOGY: Twenty-seven adult outpatients with type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> who were treated either with <z:chebi fb="0" ids="6801">metformin</z:chebi> or <z:chebi fb="0" ids="5441">glibenclamide</z:chebi> were included </plain></SENT>
+<SENT sid="6" pm="."><plain><z:chebi fb="0" ids="2376">Acarbose</z:chebi> was used as an alternative strategy </plain></SENT>
+<SENT sid="7" pm="."><plain>The study was carried out from the perspective of Mexican society </plain></SENT>
+<SENT sid="8" pm="."><plain>Direct medical and nonmedical costs as well as indirect costs were evaluated using a structured questionnaire </plain></SENT>
+<SENT sid="9" pm="."><plain>Efficacies of <z:hpo ids='HP_0000001'>all</z:hpo> drug treatments were evaluated retrospectively </plain></SENT>
+<SENT sid="10" pm="."><plain>A systematic search was conducted to select published randomized clinical trials based on predetermined inclusion criteria, and treatment success was defined as glycosylated <z:chebi fb="0" ids="35143">hemoglobin</z:chebi> factor ≤ 7% </plain></SENT>
+<SENT sid="11" pm="."><plain>Efficacy data of each drug and/or combination were analyzed using meta-analysis </plain></SENT>
+<SENT sid="12" pm="."><plain>The Monte Carlo Markov model was used </plain></SENT>
+<SENT sid="13" pm="."><plain>Quality-adjusted life-years (QALY) were used as the unit of effectiveness; incremental and sensitive analyses were performed and a 5% discount rate was calculated </plain></SENT>
+<SENT sid="14" pm="."><plain>A hypothetical cohort of 10,000 patients was modeled </plain></SENT>
+<SENT sid="15" pm="."><plain>RESULTS: The odds ratios of the success of each drug treatment were obtained from the meta-analyses, and were the following: 5.82 (<z:chebi fb="0" ids="5441">glibenclamide</z:chebi>), 3.86 (<z:chebi fb="0" ids="6801">metformin</z:chebi>), 3.5 (<z:chebi fb="0" ids="2376">acarbose</z:chebi>), and 6.76 (<z:chebi fb="0" ids="6801">metformin</z:chebi>-<z:chebi fb="0" ids="5441">glibenclamide</z:chebi>) </plain></SENT>
+<SENT sid="16" pm="."><plain>The cost-effectiveness ratios found were US$272.63/QALY (<z:chebi fb="0" ids="5441">glibenclamide</z:chebi>), US$296.48/QALY (<z:chebi fb="0" ids="6801">metformin</z:chebi>), and US$409.86/QALY (<z:chebi fb="0" ids="2376">acarbose</z:chebi>) </plain></SENT>
+<SENT sid="17" pm="."><plain>Sensitivity analysis did not show changes for the most cost-effective therapy when the effectiveness probabilities or treatment costs were modified </plain></SENT>
+<SENT sid="18" pm="."><plain>CONCLUSION: <z:chebi fb="0" ids="5441">Glibenclamide</z:chebi> is the most cost-effective treatment for the present study outpatient population diagnosed with type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> in the early stages </plain></SENT>
+</text></document>

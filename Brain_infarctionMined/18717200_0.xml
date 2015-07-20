@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 75-year-old-woman was admitted to our hospital because of <z:hpo ids='HP_0011009'>acute</z:hpo> <z:e sem="disease" ids="C0751955" disease_type="Disease or Syndrome" abbrv="">brain infarction</z:e> with symptoms of <z:hpo ids='HP_0002321'>vertigo</z:hpo>, conjugate deviation of the eyes, <z:e sem="disease" ids="C0037823,C0869217" disease_type="Mental or Behavioral Dysfunction" abbrv="">speech disturbances</z:e>, left <z:hpo ids='HP_0001269'>hemiparesis</z:hpo>, and right <z:hpo ids='HP_0002070'>limb ataxia</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>On admission, diffusion-weighted <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e> imaging revealed a high-intensity area in the right internal carotid artery (ICA) and vertebrobasilar (VB) territories </plain></SENT>
+<SENT sid="2" pm="."><plain>MRA showed <z:mpath ids='MPATH_458'>normal</z:mpath> intracranial arteries </plain></SENT>
+<SENT sid="3" pm="."><plain>Ultrasonography with a sector probe (2MHz) showed a mobile mass with an acoustic echo in the innominate artery </plain></SENT>
+<SENT sid="4" pm="."><plain>Contrast-enhanced computed tomography showed a calcified mass in the innominate artery </plain></SENT>
+<SENT sid="5" pm="."><plain>Despite full-dose antithrombotic therapy, recurrent attacks could not be prevented </plain></SENT>
+<SENT sid="6" pm="."><plain>Replacement of the innominate artery was performed by cardiac surgeons, and a ruptured calcified plaque was found in the innominate artery </plain></SENT>
+<SENT sid="7" pm="."><plain>Subsequent, computed tomography of the brain showed calcified emboli in the right ICA and VB territories </plain></SENT>
+<SENT sid="8" pm="."><plain>Arterial ultrasonography appears to be very useful in evaluating the innominate artery </plain></SENT>
+<SENT sid="9" pm="."><plain>On finding calcified emboli, an embolic source should be searched for in the aorta, heart valves, and the innominate artery </plain></SENT>
+<SENT sid="10" pm="."><plain>When <z:mpath ids='MPATH_124'>infarcts</z:mpath> with calcified emboli are found only in the right ICA and VB territories, the innominate artery should be explored by ultrasonography for the presence of a calcified atheroma </plain></SENT>
+</text></document>

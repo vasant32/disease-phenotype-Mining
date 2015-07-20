@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Ultrasound harmonic imaging of perfusion after ultrasound contrast agent (UCA) bolus injection (BHI) can detect cerebral perfusion deficits </plain></SENT>
+<SENT sid="1" pm="."><plain>In a pilot study, we evaluated the ability of time-intensity curve (TIC) measurements to differentiate between <z:mpath ids='MPATH_458'>normal</z:mpath> and hypoperfused brain areas in <z:hpo ids='HP_0011009'>acute</z:hpo> <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>Ten patients with symptoms of <z:hpo ids='HP_0011009'>acute</z:hpo> <z:e sem="disease" ids="C0740392" disease_type="Disease or Syndrome" abbrv="">middle cerebral artery infarction</z:e> were investigated (SONOS 5500, Harmonic Imaging 1.6/3.8 MHz, diencephalic plane, 10 cm investigation depth, SonoVue 2.4 mL bolus) </plain></SENT>
+<SENT sid="3" pm="."><plain>Peak signal increase (PSI), time-to-peak intensity (TPI) and area under the curve (AUC) were calculated for 60 regions-of-interest (ROIs) in each patient </plain></SENT>
+<SENT sid="4" pm="."><plain>Reference methods: Perfusion- and diffusion-weighted MRI (PWI/DWI) within 4 h before/after BHI (PWI threshold: 4 s) </plain></SENT>
+<SENT sid="5" pm="."><plain>Receiver operating characteristics (ROC) analysis defined cut-off values for each TIC variable to distinguish between <z:mpath ids='MPATH_458'>normal</z:mpath> and affected brain areas as defined by PWI/DWI </plain></SENT>
+<SENT sid="6" pm="."><plain>In five patients, PWI showed a perfusion delay &gt;4 s; seven patients had a DWI lesion </plain></SENT>
+<SENT sid="7" pm="."><plain>In three patients, both PWI and DWI findings showed pathology; one patient had a <z:mpath ids='MPATH_458'>normal</z:mpath> MRI of the insonation plane </plain></SENT>
+<SENT sid="8" pm="."><plain>Cut-off values for PWI delay: PSI: 5.53% (sensitivity .98, specificity .89); TPI: 4.04 s (sensitivity .74, specificity .69) and AUC: .63 (sensitivity .94, specificity .58) </plain></SENT>
+<SENT sid="9" pm="."><plain>Referred to the mean value in unaffected brain areas the relative thresholds were 17.6%, 109.5% and 16.1%, respectively </plain></SENT>
+<SENT sid="10" pm="."><plain>Regarding DWI, only for PSI, a significant cut-off value was defined: 10.86%, sensitivity .84, specificity .60 (34.6% of mean) </plain></SENT>
+<SENT sid="11" pm="."><plain>In conclusion, these thresholds distinguish between <z:mpath ids='MPATH_458'>normal</z:mpath> and affected brain areas in <z:hpo ids='HP_0011009'>acute</z:hpo> <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> </plain></SENT>
+</text></document>

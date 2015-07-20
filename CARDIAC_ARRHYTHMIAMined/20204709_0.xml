@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We extend a non-Tikhonov asymptotic embedding, proposed earlier, for calculation of conduction velocity restitution curves in ionic models of cardiac excitability </plain></SENT>
+<SENT sid="1" pm="."><plain>Conduction velocity restitution is the simplest non-trivial spatially extended problem in excitable media, and in the case of cardiac tissue it is an important tool for prediction of <z:hpo ids='HP_0011675'>cardiac arrhythmias</z:hpo> and <z:mp ids='MP_0006109'>fibrillation</z:mp> </plain></SENT>
+<SENT sid="2" pm="."><plain>An idealized conduction velocity restitution curve requires solving a non-linear eigenvalue problem with periodic boundary conditions, which in the cardiac case is very stiff and calls for the use of asymptotic methods </plain></SENT>
+<SENT sid="3" pm="."><plain>We compare asymptotics of restitution curves in four examples, two generic excitable media models, and two ionic cardiac models </plain></SENT>
+<SENT sid="4" pm="."><plain>The generic models include the classical FitzHugh-Nagumo model and its variation by Barkley </plain></SENT>
+<SENT sid="5" pm="."><plain>They are treated with standard singular perturbation techniques </plain></SENT>
+<SENT sid="6" pm="."><plain>The ionic models include a simplified "caricature" of Noble (J </plain></SENT>
+<SENT sid="7" pm="."><plain>Physiol </plain></SENT>
+<SENT sid="8" pm="."><plain>Lond </plain></SENT>
+<SENT sid="9" pm="."><plain>160:317-352, 1962) model and Beeler and Reuter (J </plain></SENT>
+<SENT sid="10" pm="."><plain>Physiol </plain></SENT>
+<SENT sid="11" pm="."><plain>Lond </plain></SENT>
+<SENT sid="12" pm="."><plain>268:177-210, 1977) model, which lead to non-Tikhonov problems where known asymptotic results do not apply </plain></SENT>
+<SENT sid="13" pm="."><plain>The Caricature Noble model is considered with particular care to demonstrate the well-posedness of the corresponding boundary-value problem </plain></SENT>
+<SENT sid="14" pm="."><plain>The developed method for calculation of conduction velocity restitution is then applied to the Beeler-Reuter model </plain></SENT>
+<SENT sid="15" pm="."><plain>We discuss new mathematical features appearing in cardiac ionic models and possible applications of the developed method </plain></SENT>
+</text></document>

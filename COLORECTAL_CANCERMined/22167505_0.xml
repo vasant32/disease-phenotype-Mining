@@ -1,0 +1,18 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVES: The value of screening for <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> has been well demonstrated, and national programmes are being implemented </plain></SENT>
+<SENT sid="1" pm="."><plain>At present the primary imaging modality is colonoscopy, which has an associated morbidity and mortality </plain></SENT>
+<SENT sid="2" pm="."><plain>CT colonography (CTC) has been proposed as an alternative, but this is associated with radiation exposure and generally requires bowel preparation </plain></SENT>
+<SENT sid="3" pm="."><plain>The aim of this pilot study was to assess the feasibility of <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e> colonography (MRC) without bowel preparation or water enema for the detection of colorectal <z:hpo ids='HP_0002664'>neoplasia</z:hpo> </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS: Patients scheduled for colonoscopy were invited to participate in the study; informed consent was obtained </plain></SENT>
+<SENT sid="5" pm="."><plain>MRC (with oral <z:chebi fb="8" ids="32594,32595">barium</z:chebi> faecal tagging and colonic air distension) was performed 1-2 weeks before the colonoscopy </plain></SENT>
+<SENT sid="6" pm="."><plain>Axial T(2) weighted single-shot fast spin-echo (prone and supine) and axial T(1) weighted fast spoiled gradient-recalled (pre- and post-iv <z:chebi fb="0" ids="33375">gadolinium</z:chebi>) supine MRI sequences were performed </plain></SENT>
+<SENT sid="7" pm="."><plain>The examinations were reported by two gastrointestinal radiologists by consensus </plain></SENT>
+<SENT sid="8" pm="."><plain>Colonoscopy following standard bowel preparation was performed by a single endoscopist blinded to the MRC results </plain></SENT>
+<SENT sid="9" pm="."><plain>Significant lesions were defined as <z:mpath ids='MPATH_491'>polyps</z:mpath> or masses &gt;10 mm in diameter </plain></SENT>
+<SENT sid="10" pm="."><plain>RESULTS: 29 patients were studied </plain></SENT>
+<SENT sid="11" pm="."><plain>Colonoscopy revealed 25 mass lesions in 13 patients </plain></SENT>
+<SENT sid="12" pm="."><plain>MRC correctly identified four of the nine lesions &gt;10 mm in diameter (sensitivity 44%; specificity 100%) </plain></SENT>
+<SENT sid="13" pm="."><plain>Although specificity remained high for smaller lesions, sensitivity was poor </plain></SENT>
+<SENT sid="14" pm="."><plain>CONCLUSION: This pilot study has demonstrated the feasibility of performing MRC without bowel preparation or water enema </plain></SENT>
+<SENT sid="15" pm="."><plain>This would seem to be a promising modality for <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> screening </plain></SENT>
+<SENT sid="16" pm="."><plain>Larger studies are required to determine the accuracy of this modality for the detection of colorectal <z:hpo ids='HP_0002664'>neoplasia</z:hpo> </plain></SENT>
+</text></document>

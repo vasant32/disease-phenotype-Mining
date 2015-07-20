@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PURPOSE: Electrophysiological mapping is effective in realizing a precise minimally invasive <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> surgery </plain></SENT>
+<SENT sid="1" pm="."><plain>Recently, an epicardial electrophysiological mapping system for minimally invasive <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> surgery was reported </plain></SENT>
+<SENT sid="2" pm="."><plain>The system requires a small electrode array, a tracking system and a global mapping algorithm </plain></SENT>
+<SENT sid="3" pm="."><plain>The optical tracking system employed in the research requires line of sight and complicated configuration </plain></SENT>
+<SENT sid="4" pm="."><plain>This paper proposes a new tracking method for locating an electrode array </plain></SENT>
+<SENT sid="5" pm="."><plain>METHODS: We developed a small electrode array and optical markers </plain></SENT>
+<SENT sid="6" pm="."><plain>Center points of respective optical markers and the electrode array are tracked via an endoscopic stream and calculated in image space </plain></SENT>
+<SENT sid="7" pm="."><plain>The orientation of the electrode array is calculated using the dot product between the vector joining two center points of two upper optical markers and the vector joining two end points of the longest edge of the electrode array </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: Mean tracking errors of position and orientation of the electrode array were 0.51 mm and 0.64°, respectively </plain></SENT>
+<SENT sid="9" pm="."><plain>And the processing time was constant at 46 ms per frame </plain></SENT>
+<SENT sid="10" pm="."><plain>Our method could successfully track the electrode array on the epicardium during in vivo experiment and a global epicardial electrophysiological map was reconstructed from separately measured epicardial electrograms by the small electrode array </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: An image-based tracking method for locating an electrode array was proposed </plain></SENT>
+<SENT sid="12" pm="."><plain>Tracking accuracy, processing time and applicability to surgical environment of our method proved to be acceptable </plain></SENT>
+<SENT sid="13" pm="."><plain>Consequently, our method enables the electrode array tracking system to be simplified with no separate tracking system </plain></SENT>
+</text></document>

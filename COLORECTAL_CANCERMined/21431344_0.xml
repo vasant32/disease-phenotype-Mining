@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: A combination of fluorouracil and leucovorin (5-FU/LV) with <z:chebi fb="0" ids="31941">oxaliplatin</z:chebi> (FOLFOX) is an established first-line therapy for <z:e sem="disease" ids="C0948380" disease_type="Neoplastic Process" abbrv="">metastatic colorectal cancer</z:e> (mCRC) </plain></SENT>
+<SENT sid="1" pm="."><plain>However, the cumulative neurotoxicity of <z:chebi fb="0" ids="31941">oxaliplatin</z:chebi> often requires therapy to be discontinued while the patient is still responding </plain></SENT>
+<SENT sid="2" pm="."><plain>A strategy to stop FOLFOX, deliver 5-FU/LV as a maintenance therapy and reintroduce FOLFOX was found to be equivalent in terms of efficacy while neurotoxicity was substantially reduced </plain></SENT>
+<SENT sid="3" pm="."><plain>The aim of this study was to evaluate feasibility of a stop-and-go strategy with S-1, an oral fluoropyrimidine derivative, as a maintenance therapy administered between modified FOLFOX6 (mFOLFOX6) as a first-line treatment of mCRC </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS: Thirty patients with untreated mCRC were treated with six cycles of mFOLFOX6 followed by maintenance therapy with oral S-1 </plain></SENT>
+<SENT sid="5" pm="."><plain>Reintroduction of mFOLFOX6 was scheduled after four cycles of S-1 or upon <z:e sem="disease" ids="C0178874" disease_type="Neoplastic Process" abbrv="">tumor progression</z:e> </plain></SENT>
+<SENT sid="6" pm="."><plain>The primary endpoint was duration of disease control (<z:chebi fb="5" ids="10101">DDC</z:chebi>) </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: Twenty-one of the 30 patients who achieved responses or stabilizations received S-1 maintenance therapy </plain></SENT>
+<SENT sid="8" pm="."><plain>mFOLFOX6 was reintroduced in 15 patients </plain></SENT>
+<SENT sid="9" pm="."><plain>Median <z:chebi fb="5" ids="10101">DDC</z:chebi> and progression-free survival were 9.3 and 7.9 months, respectively </plain></SENT>
+<SENT sid="10" pm="."><plain>The response rates and disease control rates were 40.0 and 86.6% for the initial mFOLFOX6, 23.8 and 57.1% for S-1 maintenance therapy and 20.0 and 73.3% for mFOLFOX6 reintroduction, respectively </plain></SENT>
+<SENT sid="11" pm="."><plain>Twenty-eight patients (93.3%) had <z:hpo ids='HP_0009830'>peripheral neuropathy</z:hpo>, but grade 3 neurotoxicity was observed in only 1 patient (3.3%) </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSION: The planned <z:chebi fb="0" ids="31941">oxaliplatin</z:chebi> stop-and-go strategy with oral S-1 maintenance therapy was feasible as a first-line treatment for Japanese mCRC patients </plain></SENT>
+<SENT sid="13" pm="."><plain>Further prospective randomized control study is warranted </plain></SENT>
+</text></document>

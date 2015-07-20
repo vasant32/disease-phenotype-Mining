@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Human studies indicate that transient <z:hpo ids='HP_0001872'>platelet abnormalities</z:hpo> accompany <z:hpo ids='HP_0011009'>acute</z:hpo> <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Although these abnormalities may precipitate the ischemi process, <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> could also alter platelet function </plain></SENT>
+<SENT sid="2" pm="."><plain>Platelets were therefore studied in gerbils subjected to 1 hour of unilateral carotid <z:mp ids='MP_0006134'>artery occlusion</z:mp> </plain></SENT>
+<SENT sid="3" pm="."><plain>Venous blood from five clinically affected gerbils contained more aggregated platelets (37.8% +/- 6.4) than did blood from eight unaffected animals (11.1% +/- 3.0; p less than 0.01) </plain></SENT>
+<SENT sid="4" pm="."><plain>Platelets labeled with 3H-<z:chebi fb="19" ids="28790">serotonin</z:chebi> were increased in ischemic brain; the ratio of radioactivity in the ipsilateral versus contralateral hemisphere was greater in eight affected (1.09 +/- 0.03) than in 19 unaffected (1.00 +/- 0.01; p less than 0.02) animals </plain></SENT>
+<SENT sid="5" pm="."><plain>The radioactive <z:chebi fb="19" ids="28790">serotonin</z:chebi> was located predominantly within blood vessels </plain></SENT>
+<SENT sid="6" pm="."><plain><z:hpo ids='HP_0002637'>Cerebral ischemia</z:hpo> thus stimulated the formation of platelet aggregates, a response which could contribute to the ischemic process </plain></SENT>
+</text></document>

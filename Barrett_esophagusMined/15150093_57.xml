@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:e sem="disease" ids="C0178874" disease_type="Neoplastic Process" abbrv="">Neoplastic progression</z:e> is an evolutionary process characterized by genomic instability and waves of clonal expansions carrying genetic and epigenetic lesions to fixation (100% of the cell population) </plain></SENT>
+<SENT sid="1" pm="."><plain>However, an evolutionarily neutral lesion may also reach fixation if it spreads as a hitchhiker on a selective sweep </plain></SENT>
+<SENT sid="2" pm="."><plain>We sought to distinguish advantageous lesions from hitchhikers in the <z:e sem="disease" ids="C0032927" disease_type="Neoplastic Process" abbrv="">premalignant condition</z:e> <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>Patients (211) had biopsies taken at 2-cm intervals in their Barrett's segments </plain></SENT>
+<SENT sid="4" pm="."><plain>Purified epithelial cells were assayed for loss of heterozygosity and microsatellite shifts on chromosomes 9 and 17, sequence mutations in CDKN2A/MTS1/INK4a (p16) and TP53 (p53), and methylation of the p16 promoter </plain></SENT>
+<SENT sid="5" pm="."><plain>We measured the expanse of a lesion in a Barrett's segment as the proportion of proliferating cells that carried a lesion in that locus </plain></SENT>
+<SENT sid="6" pm="."><plain>We then selected the lesion having expanses &gt;90% in the greatest number of patients as our first putative advantageous lesion </plain></SENT>
+<SENT sid="7" pm="."><plain>We filtered out hitchhikers by removing <z:hpo ids='HP_0000001'>all</z:hpo> expanses of other lesions that did not occur independent of the advantageous lesion </plain></SENT>
+<SENT sid="8" pm="."><plain>The entire process was repeated on the remaining expanses to identify additional advantageous lesions </plain></SENT>
+<SENT sid="9" pm="."><plain>p16 loss of heterozygosity, promoter methylation, and sequence mutations have strong, independent, advantageous effects on Barrett's cells early in progression </plain></SENT>
+<SENT sid="10" pm="."><plain>Second lesions in p16 and p53 are associated with later selective sweeps </plain></SENT>
+<SENT sid="11" pm="."><plain>Virtually <z:hpo ids='HP_0000001'>all</z:hpo> of the other lesion expansions, including microsatellite shifts, could be explained as hitchhikers on p16 lesion clonal expansions </plain></SENT>
+<SENT sid="12" pm="."><plain>These techniques can be applied to any <z:hpo ids='HP_0002664'>neoplasm</z:hpo> </plain></SENT>
+</text></document>

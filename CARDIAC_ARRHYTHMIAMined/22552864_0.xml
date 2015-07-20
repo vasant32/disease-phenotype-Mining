@@ -1,0 +1,7 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>To implement a flow-gating method to acquire phase-contrast (PC) images of carotid arteries without use of an electrocardiography (ECG) signal to synchronize the acquisition of imaging data with pulsatile arterial flow </plain></SENT>
+<SENT sid="1" pm="."><plain>The flow-gating method was realized through radial scanning and sophisticated post-processing methods including downsampling, complex difference, and correlation analysis to improve the evaluation of flow-gating times in radial phase-contrast scans </plain></SENT>
+<SENT sid="2" pm="."><plain>Quantitatively comparable results (R = 0.92-0.96, n = 9) of flow-related parameters, including mean velocity, mean flow rate, and flow volume, with conventional ECG-gated imaging demonstrated that the proposed method is highly feasible </plain></SENT>
+<SENT sid="3" pm="."><plain>The radial flow-gating PC imaging method is applicable in carotid arteries </plain></SENT>
+<SENT sid="4" pm="."><plain>The proposed flow-gating method can potentially avoid the setting up of ECG-related equipment for brain imaging </plain></SENT>
+<SENT sid="5" pm="."><plain>This technique has potential use in patients with <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> or weak ECG signals </plain></SENT>
+</text></document>

@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: To determine if <z:hpo ids='HP_0011010'>chronic</z:hpo> elevation of the inflammatory cytokine, <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> <z:mp ids='MP_0001651'>necrosis</z:mp> factor-alpha (TNFalpha), will affect <z:mpath ids='MPATH_124'>infarct</z:mpath> volume or cortical perfusion after focal <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: Transgenic (TNFalpha-Tg) rats overexpressing the murine TNFalpha gene in brain were prepared by injection of mouse DNA into rat oocytes </plain></SENT>
+<SENT sid="2" pm="."><plain>Brain levels of TNFalpha <z:chebi fb="2" ids="33699">mRNA</z:chebi> and protein were measured and compared between TNFalpha-Tg and non-transgenic (non-Tg) littermates </plain></SENT>
+<SENT sid="3" pm="."><plain>Mean <z:mpath ids='MPATH_124'>infarct</z:mpath> volume was calculated 24 hours or 7 days after one hour of reversible middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (MCAO) </plain></SENT>
+<SENT sid="4" pm="."><plain>Cortical perfusion was monitored by laser-Doppler flowmetry (LDF) during MCAO </plain></SENT>
+<SENT sid="5" pm="."><plain>Cortical vascular density was quantified by stereology </plain></SENT>
+<SENT sid="6" pm="."><plain>Post-ischemic cell <z:hpo ids='HP_0011420'>death</z:hpo> was assessed by immunohistochemistry and regional measurement of caspase-3 activity or DNA fragmentation </plain></SENT>
+<SENT sid="7" pm="."><plain>Unpaired t tests or analysis of variance with post hoc tests were used for comparison of group means </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: In TNFalpha-Tg rat brain, the aggregate mouse and rat TNFalpha <z:chebi fb="2" ids="33699">mRNA</z:chebi> level was fourfold higher than in non-Tg littermates and the corresponding TNFalpha protein level was increased fivefold (p &lt;or= 0.01) </plain></SENT>
+<SENT sid="9" pm="."><plain><z:mpath ids='MPATH_124'>Infarct</z:mpath> volume was greater in TNFalpha-Tg rats than in non-Tg controls at 24 hours (p &lt;or= 0.05) and 7 days (p &lt;or= 0.01) </plain></SENT>
+<SENT sid="10" pm="."><plain>Within the first 10 minutes of MCAO, cortical perfusion measured by LDF was reduced in TNFalpha-Tg rats (p &lt;or= 0.05) </plain></SENT>
+<SENT sid="11" pm="."><plain>However, regional vascular density was equivalent between TNFalpha-Tg and non-Tg animals (p = NS) </plain></SENT>
+<SENT sid="12" pm="."><plain>Neural cellular <z:mpath ids='MPATH_3'>apoptosis</z:mpath> was increased in transgenic animals as shown by elevated caspase-3 activity (p &lt;or= 0.05) and DNA fragmentation (p &lt;or= 0.001) at 24 hours </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSION: <z:hpo ids='HP_0011010'>Chronic</z:hpo> elevation of TNFalpha protein in brain increases susceptibility to ischemic injury but has no effect on vascular density </plain></SENT>
+<SENT sid="14" pm="."><plain>TNFalpha-Tg animals are more susceptible to apoptotic cell <z:hpo ids='HP_0011420'>death</z:hpo> after MCAO than are non-Tg animals </plain></SENT>
+<SENT sid="15" pm="."><plain>We conclude that the TNFalpha-Tg rat is a valuable new tool for the study of cytokine-mediated ischemic brain injury </plain></SENT>
+</text></document>

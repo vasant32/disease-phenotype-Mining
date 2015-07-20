@@ -1,0 +1,19 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Insulin is a mainstay in the treatment of type 1 <z:mp ids='MP_0002055'>diabetes</z:mp> and is a recommended option in patients with type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> who fail to maintain glycaemic control on other non-insulin therapies </plain></SENT>
+<SENT sid="1" pm="."><plain>The purpose of this study was to describe patient characteristics and evaluate changes in glycaemic control and weight in patients treated with insulin in an ambulatory care setting </plain></SENT>
+<SENT sid="2" pm="."><plain>Methods: Patients with <z:mp ids='MP_0002055'>diabetes</z:mp> were identified from the General Electric electronic medical record (EMR) database (1 September 2004 to 30 April 2008) </plain></SENT>
+<SENT sid="3" pm="."><plain>Patients were &gt; or =18 years, insulin naive, newly treated with monoinsulin therapy (index date) </plain></SENT>
+<SENT sid="4" pm="."><plain>Baseline characteristics were identified overall and stratified by insulin type (basal, mixed, and rapid) </plain></SENT>
+<SENT sid="5" pm="."><plain>Basal insulins were described by human versus analog and for insulin detemir and insulin glargine </plain></SENT>
+<SENT sid="6" pm="."><plain>Change in <z:chebi fb="34" ids="35143">haemoglobin</z:chebi> A1C (HbA1C) and weight from baseline (45 days pre- to 15 days postindex date) to 6 months (+/-90 days) were compared </plain></SENT>
+<SENT sid="7" pm="."><plain>Regression analyses were used to evaluate HbA1C outcomes across insulins and for the likelihood of gaining 0.9 kg (2 lbs) for detemir versus glargine controlling for baseline characteristics </plain></SENT>
+<SENT sid="8" pm="."><plain>Results: A total of 12 136 patients were included </plain></SENT>
+<SENT sid="9" pm="."><plain>A majority were initiated on a basal insulin (64.7%) followed by mixed (20.8%) and rapid (14.4%) </plain></SENT>
+<SENT sid="10" pm="."><plain>Basal users had significantly higher mean body weight and lower mean baseline HbA1C than mixed users (p &lt; 0.001 for <z:hpo ids='HP_0000001'>all</z:hpo>), and were significantly older, had higher baseline HbA1C and higher baseline body mass index (BMI) than rapid insulin users (p &lt; 0.001 for <z:hpo ids='HP_0000001'>all</z:hpo>) </plain></SENT>
+<SENT sid="11" pm="."><plain>Glargine patients had a significantly higher mean baseline HbA1C (p = 0.003) than detemir patients </plain></SENT>
+<SENT sid="12" pm="."><plain>The adjusted reduction in HbA1C was greater for rapid insulin than for mixed or basal insulin (p &lt; or = 0.05) </plain></SENT>
+<SENT sid="13" pm="."><plain>The adjusted differences in HbA1C between basal human and basal analog insulins and between detemir and glargine were not statistically significant (p &gt; 0.05) </plain></SENT>
+<SENT sid="14" pm="."><plain>Patients using detemir were 30% less likely to gain 0.9 kg or more than glargine users (p &lt; 0.05) </plain></SENT>
+<SENT sid="15" pm="."><plain>Conclusions: HbA1C outcomes in the ambulatory care setting were generally not different between insulin classes </plain></SENT>
+<SENT sid="16" pm="."><plain>The likelihood of <z:mp ids='MP_0005456'>weight gain</z:mp> was less with insulin detemir than with insulin glargine </plain></SENT>
+<SENT sid="17" pm="."><plain>Thus, real-world weight outcomes for basal analog insulin may differ by specific product </plain></SENT>
+</text></document>

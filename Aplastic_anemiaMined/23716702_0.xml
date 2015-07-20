@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Seronegative <z:hpo ids='HP_0012115'>hepatitis</z:hpo>-non-A, non-B, non-C, non-D, non-E <z:hpo ids='HP_0012115'>hepatitis</z:hpo>-is poorly characterized but strongly associated with serious complications </plain></SENT>
+<SENT sid="1" pm="."><plain>We collected 92 sera specimens from patients with non-A-E <z:hpo ids='HP_0012115'>hepatitis</z:hpo> in Chongqing, China between 1999 and 2007 </plain></SENT>
+<SENT sid="2" pm="."><plain>Ten sera pools were screened by Solexa deep sequencing </plain></SENT>
+<SENT sid="3" pm="."><plain>We discovered a 3,780-bp contig present in <z:hpo ids='HP_0000001'>all</z:hpo> 10 pools that yielded BLASTx E scores of 7e-05-0.008 against parvoviruses </plain></SENT>
+<SENT sid="4" pm="."><plain>The complete sequence of the in silico-assembled 3,780-bp contig was confirmed by gene amplification of overlapping regions over almost the entire genome, and the virus was provisionally designated NIH-CQV </plain></SENT>
+<SENT sid="5" pm="."><plain>Further analysis revealed that the contig was composed of two major ORFs </plain></SENT>
+<SENT sid="6" pm="."><plain>By protein BLAST, ORF1 and ORF2 were most homologous to the replication-associated protein of bat circovirus and the capsid protein of porcine parvovirus, respectively </plain></SENT>
+<SENT sid="7" pm="."><plain>Phylogenetic analysis indicated that NIH-CQV is located at the interface of Parvoviridae and Circoviridae </plain></SENT>
+<SENT sid="8" pm="."><plain>Prevalence of NIH-CQV in patients was determined by quantitative PCR </plain></SENT>
+<SENT sid="9" pm="."><plain>Sixty-three of 90 patient samples (70%) were positive, but <z:hpo ids='HP_0000001'>all</z:hpo> those from 45 healthy controls were negative </plain></SENT>
+<SENT sid="10" pm="."><plain>Average virus titer in the patient specimens was 1.05 e4 copies/µL </plain></SENT>
+<SENT sid="11" pm="."><plain>Specific antibodies against NIH-CQV were sought by immunoblotting </plain></SENT>
+<SENT sid="12" pm="."><plain>Eighty-four percent of patients were positive for IgG, and 31% were positive for IgM; in contrast, 78% of healthy controls were positive for IgG, but <z:hpo ids='HP_0000001'>all</z:hpo> were negative for IgM </plain></SENT>
+<SENT sid="13" pm="."><plain>Although more work is needed to determine the etiologic role of NIH-CQV in human disease, our data indicate that a parvovirus-like virus is highly prevalent in a cohort of patients with non-A-E <z:hpo ids='HP_0012115'>hepatitis</z:hpo> </plain></SENT>
+</text></document>

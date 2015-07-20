@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 70-year-old man underwent partial gastrectomy with pathology demonstrating gastric follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>After surgery, a staging FDG PET/CT study demonstrated an FDG-<z:chebi fb="156" ids="39214">avid</z:chebi> low-attenuation band in the liver </plain></SENT>
+<SENT sid="2" pm="."><plain>Corresponding MRI demonstrated a high T2 signal abnormality </plain></SENT>
+<SENT sid="3" pm="."><plain>This was believed to represent liver parenchymal injury due to liver retraction during surgery </plain></SENT>
+<SENT sid="4" pm="."><plain>The patient was managed conservatively </plain></SENT>
+<SENT sid="5" pm="."><plain>MRI at 1 month of follow-up demonstrated resolution of the T2 signal abnormality </plain></SENT>
+<SENT sid="6" pm="."><plain>FDG PET/CT at 6 months of follow-up demonstrated resolution of FDG uptake </plain></SENT>
+<SENT sid="7" pm="."><plain>Tissue injury from surgical retraction can produce FDG-<z:chebi fb="156" ids="39214">avid</z:chebi> lesions that need to be distinguished from <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">malignancy</z:e> on PET/CT </plain></SENT>
+</text></document>

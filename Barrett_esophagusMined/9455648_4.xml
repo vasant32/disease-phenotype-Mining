@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Esophageal cytology may improve sensitivity for the detection of <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">malignancy</z:e> but can be difficult to interpret in the presence of <z:mp ids='MP_0001845'>inflammation</z:mp> </plain></SENT>
+<SENT sid="1" pm="."><plain>To assess the value of cytology in assessing patients with <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> a retrospective review was performed </plain></SENT>
+<SENT sid="2" pm="."><plain>One hundred and sixty two patients (87 esophageal/gastroesophageal junction <z:mp ids='MP_0009308'>adenocarcinoma</z:mp>, 65 non-dysplastic <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> and 10 dysplastic <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo>) had biopsies and brushings taken for histological and cytological assessment </plain></SENT>
+<SENT sid="3" pm="."><plain>Eighty two of 92 patients with <z:mp ids='MP_0002038'>carcinoma</z:mp> or high-grade <z:mpath ids='MPATH_589'>dysplasia</z:mpath> had true positive malignant cytology </plain></SENT>
+<SENT sid="4" pm="."><plain>Seven of 65 patients with non-dysplastic but inflamed <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> had false positive malignant cytology </plain></SENT>
+<SENT sid="5" pm="."><plain>One of these patients had an esophagectomy on the basis of cytology but no <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> was found in the resection specimen </plain></SENT>
+<SENT sid="6" pm="."><plain>This translates into an 89% sensitivity and specificity of cytology for the detection of esophageal columnar <z:hpo ids='HP_0002664'>neoplasia</z:hpo> </plain></SENT>
+<SENT sid="7" pm="."><plain>Cytology from <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> can be misleading in the presence of severe <z:mp ids='MP_0001845'>inflammation</z:mp> </plain></SENT>
+<SENT sid="8" pm="."><plain>Cells from a benign Barrett's <z:mpath ids='MPATH_579'>ulcer</z:mpath> may appear frankly malignant when examined in isolation </plain></SENT>
+<SENT sid="9" pm="."><plain>Esophagectomy should not be performed on the basis of cytological evidence alone </plain></SENT>
+</text></document>

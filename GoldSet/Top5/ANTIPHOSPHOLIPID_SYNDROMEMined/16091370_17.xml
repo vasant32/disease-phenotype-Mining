@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The <z:e sem="disease" ids="C0085278" disease_type="Disease or Syndrome" abbrv="">antiphospholipid syndrome</z:e> is caused by autoantibodies directed against beta(2)-<z:chebi fb="2" ids="17089">glycoprotein</z:chebi> I (beta(2)GPI) </plain></SENT>
+<SENT sid="1" pm="."><plain>Dimerization of beta(2)GPI results in an increased platelet deposition to collagen </plain></SENT>
+<SENT sid="2" pm="."><plain>We found that <z:chebi fb="0" ids="39015">apolipoprotein</z:chebi> E receptor 2' (apoER2'), a member of the <z:chebi fb="2" ids="39026">low density lipoprotein</z:chebi> receptor family, is involved in activation of platelets by dimeric beta(2)GPI </plain></SENT>
+<SENT sid="3" pm="."><plain>To identify which domain of dimeric beta(2)GPI interacts with apoER2', we have constructed domain deletion mutants of dimeric beta(2)GPI, lacking domain I (DeltaI), II (DeltaII), or V (DeltaV), and a mutant with a W316S substitution in the <z:chebi fb="0" ids="16247">phospholipid</z:chebi> (PL)-insertion loop of domain V </plain></SENT>
+<SENT sid="4" pm="."><plain>DeltaI and DeltaII prolonged the clotting time, as did full-length dimeric beta(2)GPI; DeltaV had no effect on the clotting time </plain></SENT>
+<SENT sid="5" pm="."><plain>Second, DeltaI and DeltaII bound to anionic PL, comparable with full-length dimeric beta(2)GPI </plain></SENT>
+<SENT sid="6" pm="."><plain>DeltaV and the W316S mutant bound with decreased affinity to anionic PL </plain></SENT>
+<SENT sid="7" pm="."><plain>Platelet <z:e sem="disease" ids="C0001511" disease_type="Disease or Syndrome;Acquired Abnormality" abbrv="">adhesion</z:e> to collagen increased significantly when full-length dimeric beta(2)GPI, DeltaI, or DeltaII (mean increase 150%) were added to whole blood </plain></SENT>
+<SENT sid="8" pm="."><plain>No increase was found with plasma beta(2)GPI, DeltaV, or the W316S mutant </plain></SENT>
+<SENT sid="9" pm="."><plain>Immunoprecipitation indicated that full-length dimeric beta(2)GPI, DeltaI, DeltaII, and the W316S mutant can interact with apoER2' on platelets </plain></SENT>
+<SENT sid="10" pm="."><plain>DeltaV did not associate with apoER2' </plain></SENT>
+<SENT sid="11" pm="."><plain>We conclude that domain V is involved in both binding beta(2)GPI to anionic PL and in interaction with apoER2' and subsequent activation of platelets </plain></SENT>
+<SENT sid="12" pm="."><plain>The binding site in beta(2)GPI for interaction with apoER2' does not overlap with the hydrophobic insertion loop in domain V </plain></SENT>
+</text></document>

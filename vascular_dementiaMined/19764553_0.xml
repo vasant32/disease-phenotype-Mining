@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: To investigate the effect of geniposide on vascular <z:hpo ids='HP_0000726'>dementia</z:hpo> (VaD) in rats </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: VaD rat model was established by permanent ligation of bilateral common carotid arteries </plain></SENT>
+<SENT sid="2" pm="."><plain><z:mp ids='MP_0001465'>Morris water maze</z:mp> performance was assessed after 4 weeks of treatment with geniposide, followed by pathological examinations of hippocampus and cerebral cortex </plain></SENT>
+<SENT sid="3" pm="."><plain>RESULTS: The VaD rats had significantly longer escape latency and lower percentage of activities in platform quadrant than the rats in the sham surgery group (P&lt;0.05) </plain></SENT>
+<SENT sid="4" pm="."><plain>The VaD rats treated with geniposide [50 mg/(kg x d), 75 mg/(kg x d)] had significantly shorter escape latency (except the first day of the test) and significantly higher percentage of activities in platform quadrant than the VaD rats without treatment (P&lt;0.05) </plain></SENT>
+<SENT sid="5" pm="."><plain>No significant differences were found between the geniposide treated group and the <z:chebi fb="0" ids="53289,53290,53292">Donepezil</z:chebi> treated group and the sham surgery control group </plain></SENT>
+<SENT sid="6" pm="."><plain>Geniposide significantly alleviated neurons,<z:mpath ids='MPATH_3'>apoptosis</z:mpath> and <z:mp ids='MP_0001651'>necrosis</z:mp> induced by <z:hpo ids='HP_0011010'>chronic</z:hpo> <z:e sem="disease" ids="C1695782" disease_type="Disease or Syndrome" abbrv="">cerebral hypoperfusion</z:e> of cortex and hippocampus </plain></SENT>
+<SENT sid="7" pm="."><plain>CONCLUSION: <z:hpo ids='HP_0011010'>Chronic</z:hpo> <z:e sem="disease" ids="C1695782" disease_type="Disease or Syndrome" abbrv="">cerebral hypoperfusion</z:e> can induce <z:hpo ids='HP_0100543'>cognitive impairment</z:hpo> </plain></SENT>
+<SENT sid="8" pm="."><plain>Geniposide can improve cognitive ability of Vascular <z:hpo ids='HP_0000726'>Dementia</z:hpo> in rats </plain></SENT>
+<SENT sid="9" pm="."><plain>This may represent a potential treatment strategy for vascular <z:hpo ids='HP_0000726'>dementia</z:hpo> </plain></SENT>
+</text></document>

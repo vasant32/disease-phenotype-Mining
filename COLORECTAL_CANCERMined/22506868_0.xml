@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We present an adaptive percentile modified Wilcoxon rank sum test for the two-sample problem </plain></SENT>
+<SENT sid="1" pm="."><plain>The test is basically a Wilcoxon rank sum test applied on a fraction of the sample observations, and the fraction is adaptively determined by the sample observations </plain></SENT>
+<SENT sid="2" pm="."><plain>Most of the theory is developed under a location-shift model, but we demonstrate that the test is also meaningful for testing against more general alternatives </plain></SENT>
+<SENT sid="3" pm="."><plain>The test may be particularly useful for the analysis of massive datasets in which quasi-automatic hypothesis testing is required </plain></SENT>
+<SENT sid="4" pm="."><plain>We investigate the power characteristics of the new test in a simulation study, and we apply the test to a microarray experiment on <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> </plain></SENT>
+<SENT sid="5" pm="."><plain>These empirical studies demonstrate that the new test has good overall power and that it succeeds better in finding differentially expressed genes as compared to other popular tests </plain></SENT>
+<SENT sid="6" pm="."><plain>We conclude that the new nonparametric test is widely applicable and that its power is comparable to the power of the Baumgartner-Weiß-Schindler test </plain></SENT>
+</text></document>

@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>In the time period 1996-2004, a case-control study of <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> was conducted in Montevideo, Uruguay </plain></SENT>
+<SENT sid="1" pm="."><plain>The study included 610 cases and 1,220 controls, frequency matched for age, sex, and residence </plain></SENT>
+<SENT sid="2" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> cases were newly diagnosed and microscopically confirmed and controls were drawn from the same hospitals </plain></SENT>
+<SENT sid="3" pm="."><plain>Controls were submitted to factor analysis (principal components method) and 4 dietary patterns for men (prudent, traditional, Western, drinker) and 3 for women (prudent, Western, drinker) were retained </plain></SENT>
+<SENT sid="4" pm="."><plain>These were rotated and normalized by the Kaiser method </plain></SENT>
+<SENT sid="5" pm="."><plain>Scores were applied to <z:hpo ids='HP_0000001'>all</z:hpo> participants (cases and controls) and odds ratios were estimated by logistic regression and polynomial regression </plain></SENT>
+<SENT sid="6" pm="."><plain>The Western pattern showed an OR of 2.62 (95 % CI 1.36-5.08) for <z:hpo ids='HP_0003003'>colon cancer</z:hpo> among men, and women displayed a similar increase in risk </plain></SENT>
+<SENT sid="7" pm="."><plain>However, <z:e sem="disease" ids="C0007113" disease_type="Neoplastic Process" abbrv="">rectal cancer</z:e> was not associated with this diet, rather being inversely associated with the prudent and traditional patterns among men (OR 0.49, 95 % CI 0.28-0.57 for the traditional pattern) </plain></SENT>
+<SENT sid="8" pm="."><plain>In conclusion, whereas the Western pattern was directly associated with <z:hpo ids='HP_0003003'>colon cancer</z:hpo>, the prudent pattern was strongly protective for <z:e sem="disease" ids="C0007113" disease_type="Neoplastic Process" abbrv="">rectal cancer</z:e> </plain></SENT>
+</text></document>

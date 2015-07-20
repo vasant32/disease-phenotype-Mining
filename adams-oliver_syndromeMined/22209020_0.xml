@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIMS: We determined levels of the inflammatory marker YKL-40 in a population of patients with type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> (T2D) and investigated the association with mortality </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: In a prospective observational follow-up study, 290 patients with T2D, normoalbuminuria (n=177), <z:mp ids='MP_0002959'>microalbuminuria</z:mp> (n=71) and macroalbuminuria (n=42) were followed for a median (range) of 17.2 (0.2-23.0) years </plain></SENT>
+<SENT sid="2" pm="."><plain>Serum YKL-40 concentration was determined at baseline </plain></SENT>
+<SENT sid="3" pm="."><plain>RESULTS: Baseline median (IQR) YKL-40 level was 46ng/ml (36-67) in patients with normoalbuminuria, 61ng/ml (43-114) in microalbuminuric patients, and 81.5ng/ml (60-157) in patients with macroalbuminuria, p&lt;0.001 </plain></SENT>
+<SENT sid="4" pm="."><plain>During follow-up 189 patients (65.2%) died, 119 (41.0%) from cardiovascular causes </plain></SENT>
+<SENT sid="5" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo>-cause mortality was increased in patients with YKL-40 levels in the second and third tertile (hazard ratios (95% CI) compared with the first tertile, (1.50 (1.03-2.19), p=0.034, and 2.88 (2.01-4.12), p&lt;0.001) </plain></SENT>
+<SENT sid="6" pm="."><plain>This association persisted after adjustment for <z:e sem="disease" ids="C0850624" disease_type="Disease or Syndrome" abbrv="">cardiovascular risk factors</z:e> but was attenuated after additional adjustment for urinary albumin excretion rate and glomerular filtration rate </plain></SENT>
+<SENT sid="7" pm="."><plain>Cardiovascular mortality was increased with YKL-40 levels in the third tertile compared with the first tertile, (2.70 (1.78-4.08)), p&lt;0.001 </plain></SENT>
+<SENT sid="8" pm="."><plain>This association was diminished after adjustment for covariates </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSIONS: In patients with T2D and increasing <z:mp ids='MP_0002871'>albuminuria</z:mp> high YKL-40 levels predict <z:hpo ids='HP_0000001'>all</z:hpo>-cause mortality </plain></SENT>
+</text></document>

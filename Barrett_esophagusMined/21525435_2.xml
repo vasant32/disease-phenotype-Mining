@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We have shown that a novel <z:chebi fb="1" ids="16474">NADPH</z:chebi> oxidase isoform, NOX5-S, is the major isoform of <z:chebi fb="1" ids="16474">NADPH</z:chebi> oxidases in an esophageal <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> (EA) cell line, FLO, and is overexpressed in Barrett's mucosa with high-grade <z:mpath ids='MPATH_589'>dysplasia</z:mpath> </plain></SENT>
+<SENT sid="1" pm="."><plain>NOX5-S is responsible for acid-induced reactive oxygen species production </plain></SENT>
+<SENT sid="2" pm="."><plain>In this study, we found that <z:chebi fb="2" ids="33699">mRNA</z:chebi> levels of NOX5-S were significantly higher in FLO EA cells than in the <z:mpath ids='MPATH_458'>normal</z:mpath> human esophageal squamous cell line HET-1A or in a Barrett cell line, BAR-T </plain></SENT>
+<SENT sid="3" pm="."><plain>The <z:chebi fb="2" ids="33699">mRNA</z:chebi> levels of NOX5-S were also significantly increased in EA tissues </plain></SENT>
+<SENT sid="4" pm="."><plain>The data suggest that NOX5-S may be important in the development of EA </plain></SENT>
+<SENT sid="5" pm="."><plain>Mechanisms of functional regulation of NOX5-S are not fully understood </plain></SENT>
+<SENT sid="6" pm="."><plain>We show that small G protein Rac1 was present in HET-1A cells, BAR-T cells, and EA cell lines FLO and OE33 </plain></SENT>
+<SENT sid="7" pm="."><plain>Rac1 protein levels were significantly higher in FLO and OE33 cells than in HET-1A or BAR-T cells </plain></SENT>
+<SENT sid="8" pm="."><plain>Knockdown of Rac1 with Rac1 small interfering <z:chebi fb="40" ids="33697">RNA</z:chebi> significantly decreased acid-induced increase in <z:chebi fb="0" ids="16240">H(2)O(2)</z:chebi> production in FLO EA cells </plain></SENT>
+<SENT sid="9" pm="."><plain>Overexpression of constitutively active Rac1 significantly increased <z:chebi fb="0" ids="16240">H(2)O(2)</z:chebi> production, an increase that was blocked by knockdown of NOX5-S </plain></SENT>
+<SENT sid="10" pm="."><plain>By immunofluorescence staining and immunoprecipitation, we found that NOX5-S was present in the cytosol of FLO EA cells and colocalized with Rac1 and SERCA1/2 Ca(2+)-ATPase which is located in the endoplasmic reticulum membrane </plain></SENT>
+<SENT sid="11" pm="."><plain>We conclude that Rac1 may be important in activation of NOX5-S in FLO EA cells </plain></SENT>
+</text></document>

@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Organizing <z:hpo ids='HP_0002090'>pneumonia</z:hpo> (OP) is a distinct histopathologic lesion that occurs in a variety of clinical contexts </plain></SENT>
+<SENT sid="1" pm="."><plain>There have been occasional reports of OP occurring in patients with <z:e sem="disease" ids="C0376545" disease_type="Neoplastic Process" abbrv="">hematologic malignancies</z:e> </plain></SENT>
+<SENT sid="2" pm="."><plain>STUDY OBJECTIVES: To examine the association of OP with <z:e sem="disease" ids="C0376545" disease_type="Neoplastic Process" abbrv="">hematologic malignancies</z:e> and to assess the clinical course of affected patients </plain></SENT>
+<SENT sid="3" pm="."><plain>DESIGN: A retrospective review of our institutional experience of unexplained OP developing in patients with <z:e sem="disease" ids="C0376545" disease_type="Neoplastic Process" abbrv="">hematologic malignancies</z:e> </plain></SENT>
+<SENT sid="4" pm="."><plain>SETTING: Tertiary care, referral medical center </plain></SENT>
+<SENT sid="5" pm="."><plain>PATIENTS: We identified 6 patients with a verified histopathologic diagnosis of OP and antecedent or concomitant diagnosis of a <z:e sem="disease" ids="C0376545" disease_type="Neoplastic Process" abbrv="">hematologic malignancy</z:e> from the Mayo Clinic database (1995-2003) </plain></SENT>
+<SENT sid="6" pm="."><plain>Clinical, radiologic, and outcome data were abstracted from records </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: Underlying <z:e sem="disease" ids="C1521860" disease_type="Disease or Syndrome" abbrv="">hematologic disorders</z:e> included <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (2), <z:hpo ids='HP_0002488'>acute leukemia</z:hpo> (2), cutaneous T-cell <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (1), and <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo> (1) </plain></SENT>
+<SENT sid="8" pm="."><plain>OP was diagnosed by surgical lung biopsy in 4 and bronchoscopic biopsy in 2 </plain></SENT>
+<SENT sid="9" pm="."><plain>Four of the 6 patients had previously been exposed to chemotherapeutic agents, two had not </plain></SENT>
+<SENT sid="10" pm="."><plain>Three of the 6 patients had bone marrow transplantation prior to development of OP </plain></SENT>
+<SENT sid="11" pm="."><plain>Five patients were treated with <z:chebi fb="0" ids="8382">prednisone</z:chebi> and <z:hpo ids='HP_0000001'>all</z:hpo> experienced symptomatic improvement with documented radiologic resolution in 4 </plain></SENT>
+<SENT sid="12" pm="."><plain>One patient experienced symptomatic and radiologic resolution with observation alone </plain></SENT>
+<SENT sid="13" pm="."><plain>Three patients ultimately died from complications of their underlying <z:e sem="disease" ids="C1521860" disease_type="Disease or Syndrome" abbrv="">hematologic disorder</z:e> and 1 patient died of unknown causes </plain></SENT>
+<SENT sid="14" pm="."><plain>Two patients were alive without respiratory complaints more than 1 year after lung biopsy </plain></SENT>
+<SENT sid="15" pm="."><plain>CONCLUSIONS: OP occurs in patients with underlying <z:e sem="disease" ids="C0376545" disease_type="Neoplastic Process" abbrv="">hematologic malignancies</z:e> who may or may not have been treated with chemotherapy and responds favorably to <z:chebi fb="0" ids="50858">corticosteroid</z:chebi> therapy </plain></SENT>
+</text></document>

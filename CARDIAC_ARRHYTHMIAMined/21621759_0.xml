@@ -1,0 +1,6 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Fetal breathing movements are associated with respiratory sinus <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> (RSA) </plain></SENT>
+<SENT sid="1" pm="."><plain>We present an algorithm which processes RR interval time series in the time and frequency domain, identifying spectral peaks with characteristics consistent with fetal RSA </plain></SENT>
+<SENT sid="2" pm="."><plain>Tested on 50 data sets from the second and third trimester, the algorithm had a sensitivity of 96.1%, false positive rate 35.7%, false negative rate 3.9% </plain></SENT>
+<SENT sid="3" pm="."><plain>The characteristics of automatically and visually identified episodes were very similar and corresponded the expected changes over gestation </plain></SENT>
+<SENT sid="4" pm="."><plain>The method is suited for easy and reliable identification of fetal breathing movements </plain></SENT>
+</text></document>

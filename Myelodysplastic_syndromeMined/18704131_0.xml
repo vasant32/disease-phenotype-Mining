@@ -1,0 +1,19 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: <z:e sem="disease" ids="C0004610" disease_type="Disease or Syndrome" abbrv="">Bacteremia</z:e> frequently complicates <z:chebi fb="0" ids="35610">cytostatic</z:chebi> treatment of <z:e sem="disease" ids="C0376545" disease_type="Neoplastic Process" abbrv="">hematological malignancies</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>Initial antibiotic treatment is chosen empirically before the results of cultures are available </plain></SENT>
+<SENT sid="2" pm="."><plain>Rational choices depend on updated knowledge of microbial <z:e sem="disease" ids="C1269831" disease_type="Disease or Syndrome" abbrv="">resistance patterns</z:e> </plain></SENT>
+<SENT sid="3" pm="."><plain>We have examined microorganisms in blood cultures over a 10-year period and compared them with the preceding 5-year period </plain></SENT>
+<SENT sid="4" pm="."><plain>MATERIAL AND METHODS: We analyzed isolates from blood cultures in patients with a hematological malignant disorder treated in the Hematology Unit, St </plain></SENT>
+<SENT sid="5" pm="."><plain>Olavs Hospital during the years 1995 - 2005 </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: We found 373 isolates and 322 episodes of <z:e sem="disease" ids="C0004610" disease_type="Disease or Syndrome" abbrv="">bacteremia</z:e> in 225 patients </plain></SENT>
+<SENT sid="7" pm="."><plain>Most patients had <z:hpo ids='HP_0002488'>acute leukemia</z:hpo> or <z:mp ids='MP_0009440'>myeloma</z:mp>, with <z:hpo ids='HP_0001875'>neutropenia</z:hpo> after <z:chebi fb="0" ids="35610">cytostatic</z:chebi> treatment </plain></SENT>
+<SENT sid="8" pm="."><plain>The dominating pathogens were Escherichia coli (20 %), coagulase-negative staphylococci (13 %) and alpha-haemolytic streptococci (10 %) </plain></SENT>
+<SENT sid="9" pm="."><plain>Enterococcus <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infections</z:e> seem to occur more frequently and were associated with a high mortality </plain></SENT>
+<SENT sid="10" pm="."><plain><z:mp ids='MP_0001795'>Gram-negative</z:mp> organisms constituted 48 % and <z:mp ids='MP_0001796'>gram-positive</z:mp> organisms 48 % of the isolates </plain></SENT>
+<SENT sid="11" pm="."><plain>About 3 / 4 of the patients had <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infections</z:e> with <z:chebi fb="93" ids="17334">penicillin</z:chebi>-resistant bacteria </plain></SENT>
+<SENT sid="12" pm="."><plain>There was a low prevalence of organisms resistant to <z:chebi fb="0" ids="47779">aminoglycoside</z:chebi> </plain></SENT>
+<SENT sid="13" pm="."><plain><z:hpo ids='HP_0002488'>Acute leukemia</z:hpo> patients with <z:e sem="disease" ids="C0004610" disease_type="Disease or Syndrome" abbrv="">bacteremia</z:e> had a 30-days <z:hpo ids='HP_0000001'>all</z:hpo>-cause mortality of 10.3 % </plain></SENT>
+<SENT sid="14" pm="."><plain>INTERPRETATION: We found small changes in the pattern of pathogens and antibiotic resistance over time </plain></SENT>
+<SENT sid="15" pm="."><plain>The rates of antibiotic resistance were favorable compared to other European countries </plain></SENT>
+<SENT sid="16" pm="."><plain>The mortality rate seems to be unchanged and acceptable </plain></SENT>
+<SENT sid="17" pm="."><plain><z:chebi fb="93" ids="17334">Penicillin</z:chebi> G and <z:chebi fb="0" ids="47779">aminoglycoside</z:chebi> can still be considered as first-line treatment for suspected <z:e sem="disease" ids="C0004610" disease_type="Disease or Syndrome" abbrv="">bacteremia</z:e> in neutropenic patients in Norway </plain></SENT>
+</text></document>

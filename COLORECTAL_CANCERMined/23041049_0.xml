@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Patients undergoing liver resection for <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> <z:e sem="disease" ids="C0494165" disease_type="Neoplastic Process" abbrv="">liver metastasis</z:e> (CRCLM) are often treated with chemotherapy before surgery </plain></SENT>
+<SENT sid="1" pm="."><plain>However, the associations between chemotherapy, liver injury, perioperative outcomes, and other confounding factors remain unclear </plain></SENT>
+<SENT sid="2" pm="."><plain>This study investigates the effect of preoperative chemotherapy for CRCLM on nontumoral liver histology and perioperative outcomes in a contemporary cohort </plain></SENT>
+<SENT sid="3" pm="."><plain>STUDY DESIGN: Five hundred six patients underwent hepatic resection for CRCLM between April 2003 and March 2007 </plain></SENT>
+<SENT sid="4" pm="."><plain>Histologic evaluation of nontumoral liver parenchyma for sinusoidal <z:mpath ids='MPATH_66'>dilatation</z:mpath>, <z:hpo ids='HP_0001397'>steatosis</z:hpo>, and steatohepatitis was performed in 384 cases for which tissue was available </plain></SENT>
+<SENT sid="5" pm="."><plain>Patient factors, <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> characteristics, chemotherapy regimens, histology of nontumoral liver, and perioperative morbidity were analyzed </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: Two hundred fifty patients (65%) received preoperative chemotherapy for a median duration of 24 weeks </plain></SENT>
+<SENT sid="7" pm="."><plain>Irinotecan, <z:mp ids='MP_0006087'>increased body mass index</z:mp> (BMI), and <z:hpo ids='HP_0000819'>diabetes mellitus</z:hpo> (DM) were associated with <z:hpo ids='HP_0001397'>hepatic steatosis</z:hpo> and steatohepatitis </plain></SENT>
+<SENT sid="8" pm="."><plain>Sinusoidal <z:mpath ids='MPATH_66'>dilatation</z:mpath> was not associated with chemotherapy or any clinicopathologic factors </plain></SENT>
+<SENT sid="9" pm="."><plain>Perioperative blood transfusion was independently associated with an increased risk of any complication </plain></SENT>
+<SENT sid="10" pm="."><plain>Major postoperative complications were independently associated with major (≥ 3 segments) resections (57%) and perioperative blood transfusion </plain></SENT>
+<SENT sid="11" pm="."><plain>The use of any preoperative chemotherapy decreased the odds of major complications </plain></SENT>
+<SENT sid="12" pm="."><plain>Liver-related complications were independently associated with major resection and blood transfusion, but not with chemotherapy </plain></SENT>
+<SENT sid="13" pm="."><plain>Three postoperative <z:hpo ids='HP_0011420'>deaths</z:hpo> (0.8%) occurred, <z:hpo ids='HP_0000001'>all</z:hpo> in patients who were not treated with chemotherapy and had no evidence of liver injury </plain></SENT>
+<SENT sid="14" pm="."><plain>CONCLUSIONS: With appropriate patient selection, liver resection for CRCLM can be safely performed in patients treated with preoperative chemotherapy </plain></SENT>
+</text></document>

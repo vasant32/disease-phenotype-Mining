@@ -1,0 +1,6 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Instabilities in the electro-chemical resting state of the heart can generate ectopic waves that in turn can initiate <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>We derive methods for computing the resting state for mathematical models of the electro-chemical process underpinning a heartbeat, and we estimate the stability of the resting state by invoking the largest real part of the eigenvalues of a linearized model </plain></SENT>
+<SENT sid="2" pm="."><plain>The implementation of the methods is described and a number of numerical experiments illustrate the feasibility of the methods </plain></SENT>
+<SENT sid="3" pm="."><plain>In particular, we test the methods for problems where we can compare the solutions with analytical results, and problems where we have solutions computed by independent software </plain></SENT>
+<SENT sid="4" pm="."><plain>The software is also tested for a fairly realistic 3D model </plain></SENT>
+</text></document>

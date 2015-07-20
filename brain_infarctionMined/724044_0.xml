@@ -1,0 +1,6 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>In 54 cases of <z:e sem="disease" ids="C0751955" disease_type="Disease or Syndrome" abbrv="">brain infarction</z:e> and 17 control cases the gasometric parameters and <z:chebi fb="22" ids="28358">lactic acid</z:chebi> level were determined in arterial blood and cerebrospinal fluid </plain></SENT>
+<SENT sid="1" pm="."><plain><z:hpo ids='HP_0001942'>Metabolic acidosis</z:hpo> was demonstrated in the arterial blood and cerebrospinal fluid </plain></SENT>
+<SENT sid="2" pm="."><plain><z:hpo ids='HP_0005972'>Respiratory acidosis</z:hpo> compensated partly <z:hpo ids='HP_0001942'>metabolic acidosis</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>Changes in the cerebrospinal fluid were more frequent and more pronounced, especially in cases with fatal outcome </plain></SENT>
+<SENT sid="4" pm="."><plain>Deep <z:e sem="disease" ids="C0268029" disease_type="Disease or Syndrome" abbrv="">disturbances of acid-base balance</z:e> complicated with <z:mp ids='MP_0005039'>hypoxia</z:mp> may have prosnostic significance while moderate rise in <z:chebi fb="22" ids="28358">lactic acid</z:chebi> level is without this significance </plain></SENT>
+</text></document>

@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Background: Adaptation of implantable cardioverter defibrillator (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">ICD</z:e>) systems to the needs of pediatric and congenital heart patients is problematic due to constraints of vascular and thoracic <z:mp ids='MP_0000002'>anatomy</z:mp> </plain></SENT>
+<SENT sid="1" pm="."><plain>An improved understanding of the defibrillation energy and postshock pacing requirements in such patients may help direct more tailored <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">ICD</z:e> therapy </plain></SENT>
+<SENT sid="2" pm="."><plain>We describe the first prospective evaluation of defibrillation threshold (DFT) and postshock rhythm in this population </plain></SENT>
+<SENT sid="3" pm="."><plain>Methods: We prospectively studied patients ≤60 kg at time of <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">ICD</z:e> intervention </plain></SENT>
+<SENT sid="4" pm="."><plain>DFTs were obtained using a binary search protocol with three <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">VF</z:e> inductions </plain></SENT>
+<SENT sid="5" pm="."><plain>Postshock pacing was programmed using a stepwise protocol, lowering the rate prior to each <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">VF</z:e> induction </plain></SENT>
+<SENT sid="6" pm="."><plain>Results: Twenty patients were enrolled: 11 had <z:e sem="disease" ids="C1720983" disease_type="Disease or Syndrome" abbrv="">channelopathy</z:e>, five <z:hpo ids='HP_0002564'>congenital heart disease</z:hpo>, and four <z:hpo ids='HP_0001638'>cardiomyopathy</z:hpo> </plain></SENT>
+<SENT sid="7" pm="."><plain>The median age was 16 years, median weight 48 kg </plain></SENT>
+<SENT sid="8" pm="."><plain>Twelve patients had a transvenous high-voltage coil; eight had pericardial +/- subcutaneous coil(s) </plain></SENT>
+<SENT sid="9" pm="."><plain>Median DFT was 7 J (range 3-31 J); 19/20 patients had DFT ≤15 J and <z:hpo ids='HP_0000001'>all</z:hpo> patients &lt;25 kg had DFT ≤9 J (n = 6) </plain></SENT>
+<SENT sid="10" pm="."><plain>There was no difference in DFT between patients with transvenous versus pericardial +/- subcutaneous coils (median 7 J vs 6 J, P = 0.59) </plain></SENT>
+<SENT sid="11" pm="."><plain>No patient with <z:mpath ids='MPATH_458'>normal</z:mpath> atrioventricular conduction prior to defibrillation required postshock pacing (n = 16) </plain></SENT>
+<SENT sid="12" pm="."><plain>There were no adverse events </plain></SENT>
+<SENT sid="13" pm="."><plain>Conclusions: These data suggest that many pediatric <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">ICD</z:e> patients have low DFTs and adequate postshock escape rhythm </plain></SENT>
+<SENT sid="14" pm="."><plain>This may help determine appropriate parameters for future design of pediatric-specific <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">ICDs</z:e> </plain></SENT>
+<SENT sid="15" pm="."><plain>(PACE 2012;00:1-7) </plain></SENT>
+</text></document>

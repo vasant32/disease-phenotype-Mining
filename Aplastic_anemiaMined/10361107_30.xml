@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Few data are available on the long-term effect of bone marrow transplantation (BMT) on growth </plain></SENT>
+<SENT sid="1" pm="."><plain>This study examines those factors that play a role in the final height outcome of patients who underwent BMT during childhood </plain></SENT>
+<SENT sid="2" pm="."><plain>Data on 181 of 230 patients with <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo>, <z:hpo ids='HP_0001909'>leukemias</z:hpo>, and <z:hpo ids='HP_0002665'>lymphomas</z:hpo> who had BMT before puberty (mean age, 9.8 +/- 2.6 years) and who had reached their final height were analyzed </plain></SENT>
+<SENT sid="3" pm="."><plain>An overall decrease in final height standard deviation score (<z:chebi fb="26" ids="8984">SDS</z:chebi>) value was found compared with the height at BMT (P &lt; 10(7)) and with the genetic height (P &lt; 10(7)) </plain></SENT>
+<SENT sid="4" pm="."><plain>Girls did better than boys, and the younger in age the person was at time of BMT, the greater the loss in height </plain></SENT>
+<SENT sid="5" pm="."><plain>Previous cranial irradiation + single-dose total body irradiation (TBI) caused the greatest negative effect on final height achievement (P &lt; 10(4)) </plain></SENT>
+<SENT sid="6" pm="."><plain>Fractionation of TBI reduces this effect significantly and conditioning with <z:chebi fb="0" ids="28901">busulfan</z:chebi> and <z:chebi fb="0" ids="4027">cyclophosphamide</z:chebi> seems to eliminate it </plain></SENT>
+<SENT sid="7" pm="."><plain>The type of transplantation, <z:e sem="disease" ids="C0018133" disease_type="Disease or Syndrome" abbrv="GVH">graft-versus-host disease</z:e>, growth hormone, or steroid treatment did not influence final height </plain></SENT>
+<SENT sid="8" pm="."><plain>Irradiation, male gender and young age at BMT were found to be major factors for long-term height loss </plain></SENT>
+<SENT sid="9" pm="."><plain>Nevertheless, the majority of patients (140/181) have reached adult height within the <z:mpath ids='MPATH_458'>normal</z:mpath> range of the general population </plain></SENT>
+</text></document>

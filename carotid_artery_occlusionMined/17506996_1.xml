@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Leukocytes contribute to the <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e>-reperfusion injury </plain></SENT>
+<SENT sid="1" pm="."><plain>Recent studies suggested endothelins could be important mediators for leukocyte activation in <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>We tested if the <z:chebi fb="0" ids="51452">endothelinA receptor antagonist</z:chebi> BSF-208075 (ambrisentan) could reduce an ischemic lesion by modulation of leukocyte-endothelium interactions </plain></SENT>
+<SENT sid="3" pm="."><plain>Twenty-four gerbils underwent either a sham operation (n=6) or 15 min of bilateral carotid <z:mp ids='MP_0006134'>artery occlusion</z:mp> resulting in global <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> </plain></SENT>
+<SENT sid="4" pm="."><plain>Ischemic animals received <z:mpath ids='MPATH_458'>normal</z:mpath> saline (n=6), 5 mg/kg BSF-208075 (n=6) or 30 mg/kg (n=6) administered intravenously at 10 min of reperfusion </plain></SENT>
+<SENT sid="5" pm="."><plain>Leukocytes rolling or adhering to endothelium were counted by intravital microscopy in parietal subsurface venules through a closed cranial window </plain></SENT>
+<SENT sid="6" pm="."><plain>BSF-208075 dose-dependently reduced postischemic leukocytes rolling (7.3+/-2.3 vs. 3.3+/-1.4 vs. 0.7+/-0.7 [n/100 microm/min]; p&lt;0.05) and adhering (5.3+/-1.4 vs. 2.7+/-1.6 vs. 1.3+/-0.5 [n/100 microm/min]; p&lt;0.05) </plain></SENT>
+<SENT sid="7" pm="."><plain>Cerebral blood flow was not significantly changed by BSF-208075 </plain></SENT>
+<SENT sid="8" pm="."><plain>Cortical neurons [n/mm2] in an area corresponding to the in vivo microscopy were dose-dependently preserved 7 days after <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> (2456+/-687 vs. 3254+/-245 vs. 3780+/-168; p&lt;0.05) </plain></SENT>
+<SENT sid="9" pm="."><plain>Conclusion: Endothelins mediate leukocyte activation in <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> </plain></SENT>
+<SENT sid="10" pm="."><plain>The <z:chebi fb="0" ids="51452">endothelinA receptor antagonist</z:chebi> BSF-208075 administered during reperfusion reduces the postischemic leukocyte activation and causes neuroprotection </plain></SENT>
+</text></document>

@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Cichorium endivia </plain></SENT>
+<SENT sid="1" pm="."><plain>L, consumed either cooked or eaten raw in salads, is a popular kind of vegetable cultivated <z:hpo ids='HP_0000001'>all</z:hpo> around the World </plain></SENT>
+<SENT sid="2" pm="."><plain>Its components have been widely used in folk medicine in anti-inflammatory therapy </plain></SENT>
+<SENT sid="3" pm="."><plain>However, the anti-<z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> activity of the components has never been reported </plain></SENT>
+<SENT sid="4" pm="."><plain>In this study, (3S)-1,2,3,4-tetrahydro-β-carboline-3-<z:chebi fb="1" ids="33575">carboxylic acid</z:chebi> (1), an amino acid isolated from C. endivia </plain></SENT>
+<SENT sid="5" pm="."><plain>L, was found for the first time to show cytotoxic activity in <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> cell line HCT-8 </plain></SENT>
+<SENT sid="6" pm="."><plain>Compound 1 at concentrations of 0.5-4 μM induced <z:mpath ids='MPATH_3'>apoptosis</z:mpath> of HCT-8 cells in a dose-dependent manner </plain></SENT>
+<SENT sid="7" pm="."><plain>The compound 1-induced <z:mpath ids='MPATH_3'>apoptosis</z:mpath> in HCT-8 cells was accompanied by the loss of <z:hpo ids='HP_0001427'>mitochondrial</z:hpo> membrane potential, the activation of caspase-3, caspase-8 and caspase-9, the up-regulation of Bax and the down-regulation of Bcl-2 </plain></SENT>
+<SENT sid="8" pm="."><plain>In addition, compound 1 suppressed the activation of NF-κB, which acts as an inhibitor of <z:mpath ids='MPATH_3'>apoptosis</z:mpath> </plain></SENT>
+<SENT sid="9" pm="."><plain>Taken together, these results suggested that compound 1 could significantly induce <z:mpath ids='MPATH_3'>apoptosis</z:mpath> of HCT-8 cells through the suppression of NF-κB signaling pathway, and thus can be considered as a potential candidate for developing chemotherapeutic drugs against <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> </plain></SENT>
+</text></document>

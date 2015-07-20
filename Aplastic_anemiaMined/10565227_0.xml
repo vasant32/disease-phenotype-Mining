@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We encountered a patient with hypoplastic <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e>) who responded to immunosuppressive therapy including antithymocyte globulin and <z:chebi fb="0" ids="4031">cyclosporin A</z:chebi> (CsA) </plain></SENT>
+<SENT sid="1" pm="."><plain>A 13-year-old girl was referred to our hospital because of <z:hpo ids='HP_0001876'>pancytopenia</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>Bone marrow smears disclosed extreme hypocellularity without cellular atypism </plain></SENT>
+<SENT sid="3" pm="."><plain>A diagnosis of <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> was made, and immunosuppressive therapy consisting of ATG, CsA, granulocytecolony-stimulating factor (G-CSF), <z:chebi fb="0" ids="6888">methylprednisolone</z:chebi>, and <z:chebi fb="1" ids="4315">danazol</z:chebi> was started </plain></SENT>
+<SENT sid="4" pm="."><plain>A month later dysplastic cells appeared in the bone marrow </plain></SENT>
+<SENT sid="5" pm="."><plain>The karyotype of pretreatment bone marrow cells was 46, XX, del (13) (q12; q14) </plain></SENT>
+<SENT sid="6" pm="."><plain>Therefore, the final diagnosis was hypoplastic <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> </plain></SENT>
+<SENT sid="7" pm="."><plain>CsA and <z:chebi fb="1" ids="4315">danazol</z:chebi> were continued </plain></SENT>
+<SENT sid="8" pm="."><plain>The patient became transfusion-independent 1 month later and dysplastic cells disappeared from bone marrow 3 months later </plain></SENT>
+<SENT sid="9" pm="."><plain>The chromosomal abnormality also became undetectable 6 months after the initiation of treatment </plain></SENT>
+<SENT sid="10" pm="."><plain>These findings indicated that immunosuppressive therapy is beneficial for patients with hypoplastic <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> </plain></SENT>
+</text></document>

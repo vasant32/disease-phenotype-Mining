@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0005305'>Cerebral venous thrombosis</z:hpo> is a rare but dangerous condition </plain></SENT>
+<SENT sid="1" pm="."><plain>We present three cases of <z:hpo ids='HP_0005305'>cerebral venous thrombosis</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> three patients were females </plain></SENT>
+<SENT sid="3" pm="."><plain>CT scan was performed </plain></SENT>
+<SENT sid="4" pm="."><plain>One patient had a haemorrhagic <z:mpath ids='MPATH_124'>infarct</z:mpath> in the left temporal lobe, but CT scan was <z:mpath ids='MPATH_458'>normal</z:mpath> in the last two cases </plain></SENT>
+<SENT sid="5" pm="."><plain>MRI later revealed that <z:hpo ids='HP_0005305'>cerebral venous thrombosis</z:hpo> was the diagnosis in <z:hpo ids='HP_0000001'>all</z:hpo> three cases </plain></SENT>
+<SENT sid="6" pm="."><plain>MRI is the examination of choice when <z:hpo ids='HP_0005305'>cerebral venous thrombosis</z:hpo> is suspected </plain></SENT>
+<SENT sid="7" pm="."><plain>The patients were treated with <z:chebi fb="5" ids="28304">heparin</z:chebi> </plain></SENT>
+<SENT sid="8" pm="."><plain>One developed <z:hpo ids='HP_0000618'>blindness</z:hpo> due to <z:hpo ids='HP_0000648'>optic nerve atrophy</z:hpo> </plain></SENT>
+<SENT sid="9" pm="."><plain>One had discreet <z:hpo ids='HP_0100543'>cognitive deficits</z:hpo>, and the last patient had no neurological sequelae after she was discharged from the hospital </plain></SENT>
+</text></document>

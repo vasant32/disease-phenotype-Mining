@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PURPOSE: To corroborate the validity of a computerized methodology for evaluating carotid lesions at risk for <z:hpo ids='HP_0001297'>stroke</z:hpo> based on plaque echogenicity </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: The records of 96 carotid endarterectomy patients (59 men; median age 69.5 years, range 52 to 83) with stenoses &gt; 50% were studied retrospectively </plain></SENT>
+<SENT sid="2" pm="."><plain>Forty-one patients (43%) had been symptomatic preoperatively </plain></SENT>
+<SENT sid="3" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> patients had undergone computed tomography (CT) to detect infarction in the carotid territory and a duplex scan to measure <z:hpo ids='HP_0100546'>carotid stenosis</z:hpo> </plain></SENT>
+<SENT sid="4" pm="."><plain>Plaque echogenicity was analyzed by computer, expressing the echodensity in terms of the gray scale median (GSM) </plain></SENT>
+<SENT sid="5" pm="."><plain>The incidence of CT-documented <z:e sem="disease" ids="C0007785" disease_type="Disease or Syndrome" abbrv="">cerebral infarction</z:e> was analyzed in relation to symptomatology, percent stenosis, and echodensity </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: Symptoms correlated well with CT evidence of <z:e sem="disease" ids="C0751955" disease_type="Disease or Syndrome" abbrv="">brain infarction</z:e>: 32% of symptomatic patients had a positive CT scan versus 16% for asymptomatic plaques (p = 0.076) </plain></SENT>
+<SENT sid="7" pm="."><plain>The mean GSM value was 56 +/- 14 for plaques associated with negative CT scans and 38 +/- 13 for plaques from patients with positive scans (p &lt; 0.0001) </plain></SENT>
+<SENT sid="8" pm="."><plain>However, there was no difference in the GSM value between plaques with &gt; or &lt; 70% stenosis </plain></SENT>
+<SENT sid="9" pm="."><plain>Furthermore, the incidence of CT infarction was 40% in the cerebral territory of carotid plaques with a GSM value &lt; 50 and only 9% in those with a GSM &gt; 50 (p &lt; 0.001) </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSIONS: Computerized analysis of plaque echogenicity appears to provide clinically useful data that correlates with the incidence of <z:e sem="disease" ids="C0007785" disease_type="Disease or Syndrome" abbrv="">cerebral infarction</z:e> and symptoms </plain></SENT>
+<SENT sid="11" pm="."><plain>This method of analyzing plaque echolucency could be used as a screening tool for carotid stent studies to identify high-risk lesions better suited to conventional surgical treatment </plain></SENT>
+</text></document>

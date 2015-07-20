@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Human B cells and plasmacytoid dendritic cells constitutively express Toll-like receptor (TLR)9 and respond to TLR9 ligands, as evidenced by nuclear factor kappa B translocation and cytokine secretion </plain></SENT>
+<SENT sid="1" pm="."><plain>However, TLR9 expression on B lymphocytes appears to be dependent upon both the state of activation and differentiation of the B cell population </plain></SENT>
+<SENT sid="2" pm="."><plain>In the current study, TLR9 <z:chebi fb="2" ids="33699">mRNA</z:chebi> expression was evaluated in transformed human B cell lines and correlated with their response to CpG </plain></SENT>
+<SENT sid="3" pm="."><plain>Among the B cell lines, the Burkitt <z:hpo ids='HP_0002665'>lymphoma</z:hpo>-derived Namalwa line had the highest level of TLR9 expression, 20-fold greater than spleen </plain></SENT>
+<SENT sid="4" pm="."><plain>Following incubation with CpG oligonucleotide, Namalwa cells secreted increased amounts of TNF, IL-6, and IL-10 and expressed the costimulator molecules CD40, CD80, and CD86 </plain></SENT>
+<SENT sid="5" pm="."><plain>These functional responses to TLR9 activation occurred with similar EC(50) values in the 30- to 60-nM range </plain></SENT>
+<SENT sid="6" pm="."><plain>These results suggest that the Namalwa Burkitt <z:hpo ids='HP_0002665'>lymphoma</z:hpo> line may serve as a useful cell-based assay for the detection of novel TLR9 <z:chebi fb="4" ids="48705">agonists</z:chebi> as well as a model to further explore the regulation of TLR9 expression and signaling </plain></SENT>
+</text></document>

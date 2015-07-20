@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A computerized monitoring and analyzing system for neurosurgical intensive care has been developed </plain></SENT>
+<SENT sid="1" pm="."><plain>The system continuously monitors the function of the central <z:mp ids='MP_0008912'>nervous</z:mp>, cardiovascular and respiratory systems </plain></SENT>
+<SENT sid="2" pm="."><plain>Correlation between such parameters can be analyzed automatically </plain></SENT>
+<SENT sid="3" pm="."><plain>The electroencephalogram (EEG) and intracranial pressure (ICP) were monitored as parameters for <z:chebi fb="7" ids="29425,29426,29441,29447">CNS</z:chebi> function and condition </plain></SENT>
+<SENT sid="4" pm="."><plain>The cardiovascular and respiratory systems were monitored by heart rate, systemic blood pressure, central venous pressure, pulmonary arterial pressure, respiratory rate, and expiratory O2 and <z:chebi fb="97" ids="29325">CO2</z:chebi> pressures </plain></SENT>
+<SENT sid="5" pm="."><plain>Body temperature was also monitored continuously </plain></SENT>
+<SENT sid="6" pm="."><plain>Sequential changes of those parameters were displayed on time-dependent trend graphs, and correlations between each parameter were automatically analyzed by linear regression equations </plain></SENT>
+<SENT sid="7" pm="."><plain>The clinical applicability of the system was demonstrated in the postoperative treatment of <z:e sem="disease" ids="C0265110" disease_type="Disease or Syndrome" abbrv="">cerebral vasospasm</z:e> following <z:hpo ids='HP_0002138'>subarachnoid hemorrhage</z:hpo> due to ruptured <z:hpo ids='HP_0004944'>intracranial aneurysm</z:hpo> </plain></SENT>
+<SENT sid="8" pm="."><plain>In such a case, EEG slowing was observed in this system prior to clinical deterioration, and had a correlation with a decrease of pulmonary arterial pressure </plain></SENT>
+<SENT sid="9" pm="."><plain>Thus, the necessity for restoration of intravascular volume was realized before clinical deterioration progressed </plain></SENT>
+</text></document>

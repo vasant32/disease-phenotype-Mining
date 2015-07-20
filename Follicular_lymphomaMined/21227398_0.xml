@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PCR detection of chromosomal translocations and small insertion/deletion mutations is challenging when potential amplicon size varies greatly </plain></SENT>
+<SENT sid="1" pm="."><plain>Molecular diagnostic laboratories face such difficulties with the BCL2-IGH translocation in follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo> and with internal tandem duplication mutation of the FLT3 gene in <z:hpo ids='HP_0001909'>leukemia</z:hpo>, where breakpoints are widely distributed, mutations may be multiple, signal strength is low, and background noise is elevated </plain></SENT>
+<SENT sid="2" pm="."><plain>We developed a strategy, called Δ-PCR, that ensures PCR specificity and identifies individual breakpoints. Δ-PCR uses two forward primers (external and internal) and a reverse primer simultaneously </plain></SENT>
+<SENT sid="3" pm="."><plain>The internal primer functions as a probe with a defined distance Δ from the external primer </plain></SENT>
+<SENT sid="4" pm="."><plain>For follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo>, we prepared upstream, BCL2-specific primers for potential breakpoints to pair with a common, downstream VLJH primer </plain></SENT>
+<SENT sid="5" pm="."><plain>Multiplexed PCR amplicons are sized by capillary electrophoresis </plain></SENT>
+<SENT sid="6" pm="."><plain>Each of the upstream pairs has a defined interval separating them that uniquely identifies the breakpoint </plain></SENT>
+<SENT sid="7" pm="."><plain>The presence of two amplicons with a defined size difference confirms validity of the rearrangement and identity of the specific breakpoint, even if signal strength is low </plain></SENT>
+<SENT sid="8" pm="."><plain>By testing 40 follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo> and 12 control specimens from formalin-fixed, paraffin-embedded (FFPE) blocks, we showed that multiplex Δ-PCR is a simple, sensitive strategy to identify translocations with multiple breakpoints or partners </plain></SENT>
+<SENT sid="9" pm="."><plain>The strategy was also applied to detect minor leukemic clones with internal tandem duplication mutations and could have broader applications for other insertion/deletion and duplication mutations </plain></SENT>
+</text></document>

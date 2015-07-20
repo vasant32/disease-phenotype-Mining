@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> (T2D) is characterized by reduction of beta-cell mass and dysfunctional insulin secretion </plain></SENT>
+<SENT sid="1" pm="."><plain>Understanding beta-<z:mp ids='MP_0005384'>cell phenotype</z:mp> changes as T2D progresses should help explain these abnormalities </plain></SENT>
+<SENT sid="2" pm="."><plain>The <z:mp ids='MP_0002873'>normal phenotype</z:mp> should differ from the state of overwork when beta-cells compensate for <z:hpo ids='HP_0000855'>insulin resistance</z:hpo> to keep <z:chebi fb="105" ids="17234">glucose</z:chebi> levels <z:mpath ids='MPATH_458'>normal</z:mpath> </plain></SENT>
+<SENT sid="3" pm="."><plain>When only mild <z:e sem="disease" ids="C0020456" disease_type="Disease or Syndrome" abbrv="">hyperglycaemia</z:e> develops, beta-cells are subjected to glucotoxicity </plain></SENT>
+<SENT sid="4" pm="."><plain>As <z:e sem="disease" ids="C0020456" disease_type="Disease or Syndrome" abbrv="">hyperglycaemia</z:e> becomes more severe, so does glucotoxicity </plain></SENT>
+<SENT sid="5" pm="."><plain>beta-Cells in <z:hpo ids='HP_0000001'>all</z:hpo> four of these situations should have separate phenotypes </plain></SENT>
+<SENT sid="6" pm="."><plain>When assessing phenotype with gene expression, isolated islets have artefacts resulting from the trauma of isolation and <z:mp ids='MP_0005039'>hypoxia</z:mp> of islet cores </plain></SENT>
+<SENT sid="7" pm="."><plain>An advantage comes from laser capture microdissection (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">LCM</z:e>), which obtains beta-cell-rich tissue from pancreatic frozen sections </plain></SENT>
+<SENT sid="8" pm="."><plain>Valuable data can be obtained from animal models, but the real goal is human beta-cells </plain></SENT>
+<SENT sid="9" pm="."><plain>Our experience with <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">LCM</z:e> and gene arrays on frozen pancreatic sections from cadaver donors with T2D and controls is described </plain></SENT>
+<SENT sid="10" pm="."><plain>Although valuable data was obtained, we predict that the approach of taking fresh samples at the time of surgery is an even greater opportunity to markedly advance our understanding of how beta-<z:mp ids='MP_0005384'>cell phenotype</z:mp> evolves as T2D develops and progresses </plain></SENT>
+</text></document>

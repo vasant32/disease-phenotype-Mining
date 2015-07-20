@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Anomalous left main coronary artery (LMCA) originating from the right coronary sinus and running between the aorta and pulmonary trunk is a rare congenital condition </plain></SENT>
+<SENT sid="1" pm="."><plain>Although this disease is known to be associated with <z:hpo ids='HP_0001658'>myocardial infarction</z:hpo> and <z:hpo ids='HP_0001699'>sudden death</z:hpo>, the precise mechanism is uncertain </plain></SENT>
+<SENT sid="2" pm="."><plain>A 14-year-old male with this anomaly developed <z:hpo ids='HP_0001658'>myocardial infarction</z:hpo> during exercise complicated by <z:e sem="disease" ids="C0409980" disease_type="Disease or Syndrome" abbrv="">primary antiphospholipid syndrome</z:e> </plain></SENT>
+<SENT sid="3" pm="."><plain>He was admitted to hospital with persistent <z:hpo ids='HP_0100749'>chest pain</z:hpo> and sudden cardiac collapse that occurred while he was running </plain></SENT>
+<SENT sid="4" pm="."><plain>Cardiac catheterization demonstrated a narrowed segment in the LMCA and impaired blood flow, prompting a diagnosis of extensive anterior <z:hpo ids='HP_0001658'>myocardial infarction</z:hpo> </plain></SENT>
+<SENT sid="5" pm="."><plain>Emergency bypass surgery was performed using a single saphenous vein graft to the left anterior descending artery </plain></SENT>
+<SENT sid="6" pm="."><plain>Postoperative angiography showed the presence of an anomalous LMCA arising from the right sinus of Valsalva and running between the great vessels </plain></SENT>
+<SENT sid="7" pm="."><plain>The aortic samples were pathologically <z:mpath ids='MPATH_458'>normal</z:mpath> </plain></SENT>
+<SENT sid="8" pm="."><plain>He was discovered to also have <z:e sem="disease" ids="C0409980" disease_type="Disease or Syndrome" abbrv="">primary antiphospholipid syndrome</z:e> and was discharged without symptoms after <z:chebi fb="8" ids="10033">warfarin</z:chebi> therapy </plain></SENT>
+<SENT sid="9" pm="."><plain>Complicated <z:e sem="disease" ids="C0409980" disease_type="Disease or Syndrome" abbrv="">primary antiphospholipid syndrome</z:e> may trigger <z:hpo ids='HP_0001658'>myocardial infarction</z:hpo> in asymptomatic patients with this type of coronary anomaly </plain></SENT>
+</text></document>

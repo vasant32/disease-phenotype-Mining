@@ -1,0 +1,6 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We report two cases of <z:hpo ids='HP_0010534'>transient global amnesia</z:hpo> (<z:mp ids='MP_0004110'>TGA</z:mp>) diagnosed using a clinical criteria and single <z:chebi fb="23" ids="30212">photon</z:chebi> emission tomography (SPECT) with the aid of Statistical Parametric Mapping (SPM) </plain></SENT>
+<SENT sid="1" pm="."><plain>Both patients underwent an initial SPECT study about 20 h after the disappearance of the amnesic episode, and a second study 3 weeks after the episode </plain></SENT>
+<SENT sid="2" pm="."><plain>We conducted quantitative cerebral blood flow (CBF) analyses using SPM on Matlab </plain></SENT>
+<SENT sid="3" pm="."><plain>This revealed regions with abnormal CBF in the first studies but not in the second </plain></SENT>
+<SENT sid="4" pm="."><plain>This method appears to be useful for diagnosis of <z:mp ids='MP_0004110'>TGA</z:mp>, especially in patients with suspected <z:mp ids='MP_0004110'>TGA</z:mp> in whom the amnesic episode disappears within a few days </plain></SENT>
+</text></document>

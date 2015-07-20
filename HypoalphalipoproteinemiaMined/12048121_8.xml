@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:e sem="disease" ids="C0473527" disease_type="Disease or Syndrome" abbrv="">Hypoalphalipoproteinemia</z:e> (HALP) is a <z:e sem="disease" ids="C0242339" disease_type="Disease or Syndrome" abbrv="">dyslipidemia</z:e> characterized by <z:hpo ids='HP_0003233'>low HDL-cholesterol</z:hpo> (<z:chebi fb="0" ids="47775">HDL-C</z:chebi>) levels with important genetic contribution </plain></SENT>
+<SENT sid="1" pm="."><plain>However, no common genetic mutations have been found to be associated with this disorder </plain></SENT>
+<SENT sid="2" pm="."><plain>We screened the promoter and coding sequence of <z:chebi fb="0" ids="39015">apolipoprotein</z:chebi> (apo) A-I and lecithin:cholesterol acyltransferase (LCAT) genes and the 5' apo C-III region by SSCP and heteroduplex analysis, and DNA sequencing in 66 unrelated subjects with recurrent low <z:chebi fb="0" ids="47775">HDL-C</z:chebi> levels </plain></SENT>
+<SENT sid="3" pm="."><plain>We also analyzed the N370S and L444P variants, in the glucocerebrosidase (GBA) gene by restriction fragment analysis </plain></SENT>
+<SENT sid="4" pm="."><plain>Three mutations in the apo A-I gene (L144R, W108R, g.1833C&gt;T) and 3 mutations in the LCAT gene (S208T, I178T, IVS3-23C&gt;A) were detected, in six heterozygous subjects </plain></SENT>
+<SENT sid="5" pm="."><plain>In addition, a novel polymorphic site in LCAT gene (g.4886C&gt;T) has been identified </plain></SENT>
+<SENT sid="6" pm="."><plain>Allelic frequencies of polymorphisms g.(-636)C&gt;A, g.(-625)G&gt;A, g.(-620)T&gt;del, g.(-479C&gt;T and g.(-452)T&gt;C, located upstream of the apo C-III gene, were in <z:mpath ids='MPATH_458'>normal</z:mpath> range, and no other mutation was found in this region </plain></SENT>
+<SENT sid="7" pm="."><plain>Two HALP subjects were found to carry the N370S mutation at GBA locus </plain></SENT>
+<SENT sid="8" pm="."><plain>In conclusion, 12% of HALP subjects were found to carry mutations in apo A-I, LCAT, or GBA genes, which could explain this phenotype </plain></SENT>
+<SENT sid="9" pm="."><plain>Our results confirm the molecular, genetic and phenotypic <z:hpo ids='HP_0001425'>heterogeneity</z:hpo> of HALP </plain></SENT>
+</text></document>

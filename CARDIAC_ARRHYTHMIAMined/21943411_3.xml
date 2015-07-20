@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Fibroblasts are electrophysiologically quiescent in the healthy heart </plain></SENT>
+<SENT sid="1" pm="."><plain>Evidence suggests that remodeling following <z:hpo ids='HP_0001658'>myocardial infarction</z:hpo> may include coupling of myofibroblasts (Mfbs) among themselves and with myocytes via gap junctions </plain></SENT>
+<SENT sid="2" pm="."><plain>We use a magnetic resonance imaging-based, three-dimensional computational model of the chronically infarcted rabbit ventricles to characterize the arrhythmogenic substrate resulting from Mfb infiltration as a function of Mfb density </plain></SENT>
+<SENT sid="3" pm="."><plain>Mfbs forming gap junctions were incorporated into both <z:mpath ids='MPATH_124'>infarct</z:mpath> regions, the periinfarct zone (PZ) and the scar; six scenarios were modeled: 0%, 10%, and 30% Mfbs in the PZ, with either 80% or 0% Mfbs in the scar </plain></SENT>
+<SENT sid="4" pm="."><plain>Ionic current remodeling in PZ was also included </plain></SENT>
+<SENT sid="5" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> preparations exhibited elevated resting membrane potential within and near the PZ and action potential duration shortening throughout the ventricles </plain></SENT>
+<SENT sid="6" pm="."><plain>The unique combination of PZ ionic current remodeling and different degrees of Mfb infiltration in the infarcted ventricles determines susceptibility to <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> </plain></SENT>
+<SENT sid="7" pm="."><plain>At low densities, Mfbs do not alter <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> propensity; the latter arises predominantly from ionic current remodeling in PZ </plain></SENT>
+<SENT sid="8" pm="."><plain>At intermediate densities, Mfbs cause additional action potential shortening and exacerbate <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> propensity </plain></SENT>
+<SENT sid="9" pm="."><plain>At high densities, Mfbs protect against <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> by causing resting depolarization and blocking propagation, thus overcoming the arrhythmogenic effects of PZ ionic current remodeling </plain></SENT>
+</text></document>

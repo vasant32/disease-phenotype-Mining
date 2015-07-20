@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">Colorectal cancer</z:e> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e>) is the second most common <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">malignancy</z:e> in Japan </plain></SENT>
+<SENT sid="1" pm="."><plain>Treatment with inhibitors of the vascular endothelial growth factor (VEGF) signalling pathway has proven benefit in metastatic <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e> </plain></SENT>
+<SENT sid="2" pm="."><plain>Cediranib is an oral highly potent VEGF signalling inhibitor that inhibits <z:hpo ids='HP_0000001'>all</z:hpo> three VEGF receptors </plain></SENT>
+<SENT sid="3" pm="."><plain>PATIENTS AND METHODS: In this phase II, double-blind, placebo-controlled study, 172 patients with metastatic <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e> were randomised to receive once-daily cediranib (20 or 30 mg) or placebo, each combined with modified FOLFOX6 (mFOLFOX6) </plain></SENT>
+<SENT sid="4" pm="."><plain>The primary objective was comparison of progression-free survival (PFS) </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: The comparison of cediranib 20 mg versus placebo met the primary objective of PFS prolongation [hazard ratio = 0.70 (95% confidence interval 0.44-1.11), P = 0.167], which met the protocol-defined criterion of P &lt; 0.2 </plain></SENT>
+<SENT sid="6" pm="."><plain>Median PFS was 10.2 versus 8.3 months, respectively </plain></SENT>
+<SENT sid="7" pm="."><plain>The PFS comparison for cediranib 30 mg versus placebo did not meet the criterion </plain></SENT>
+<SENT sid="8" pm="."><plain>The most common adverse events (AEs) in the cediranib-containing groups were diarrhoea and <z:hpo ids='HP_0000822'>hypertension</z:hpo> </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSIONS: Cediranib 20 mg plus mFOLFOX6 met the predefined criteria in terms of improved PFS compared with placebo plus mFOLFOX6 </plain></SENT>
+<SENT sid="10" pm="."><plain>Cediranib 20 mg was generally well tolerated and the AE profile was consistent with previous studies </plain></SENT>
+</text></document>

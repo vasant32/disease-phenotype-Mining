@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND PURPOSE: <z:hpo ids='HP_0002140'>Ischemic stroke</z:hpo> is a destructive cerebrovascular disease and a leading cause of <z:hpo ids='HP_0011420'>death</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Yet, no ideal neuroprotective agents are available, leaving prevention an attractive alternative </plain></SENT>
+<SENT sid="2" pm="."><plain>The extracts from the fruits of Lycium barbarum (LBP), a Chinese anti-aging medicine and food supplement, showed neuroprotective function in the retina when given prophylactically </plain></SENT>
+<SENT sid="3" pm="."><plain>We aim to evaluate the protective effects of LBP pre-treatment in an experimental <z:hpo ids='HP_0001297'>stroke</z:hpo> model </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS: C57BL/6N male mice were first fed with either vehicle (PBS) or LBP (1 or 10 mg/kg) daily for 7 days </plain></SENT>
+<SENT sid="5" pm="."><plain>Mice were then subjected to 2-hour transient middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (MCAO) by the intraluminal method followed by 22-hour reperfusion upon filament removal </plain></SENT>
+<SENT sid="6" pm="."><plain>Mice were evaluated for neurological deficits just before sacrifice </plain></SENT>
+<SENT sid="7" pm="."><plain>Brains were harvested for <z:mpath ids='MPATH_124'>infarct</z:mpath> size estimation, water content measurement, immunohistochemical analysis, and Western blot experiments </plain></SENT>
+<SENT sid="8" pm="."><plain>Evans blue (EB) extravasation was determined to assess blood-brain barrier (<z:chebi fb="2" ids="33602">BBB</z:chebi>) disruption after MCAO </plain></SENT>
+<SENT sid="9" pm="."><plain>RESULTS: LBP pre-treatment significantly improved neurological deficits as well as decreased <z:mpath ids='MPATH_124'>infarct</z:mpath> size, hemispheric swelling, and water content </plain></SENT>
+<SENT sid="10" pm="."><plain>Fewer apoptotic cells were identified in LBP-treated brains by TUNEL assay </plain></SENT>
+<SENT sid="11" pm="."><plain>Reduced EB extravasation, fewer IgG-leaky vessels, and up-regulation of occludin expression were also observed in LBP-treated brains </plain></SENT>
+<SENT sid="12" pm="."><plain>Moreover, immunoreactivity for aquaporin-4 and glial fibrillary acidic protein were significantly decreased in LBP-treated brains </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSIONS: Seven-day oral LBP pre-treatment effectively improved neurological deficits, decreased <z:mpath ids='MPATH_124'>infarct</z:mpath> size and <z:hpo ids='HP_0002181'>cerebral edema</z:hpo> as well as protected the brain from <z:chebi fb="2" ids="33602">BBB</z:chebi> disruption, aquaporin-4 up-regulation, and glial activation </plain></SENT>
+<SENT sid="14" pm="."><plain>The present study suggests that LBP may be used as a prophylactic neuroprotectant in patients at high risk for <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> </plain></SENT>
+</text></document>

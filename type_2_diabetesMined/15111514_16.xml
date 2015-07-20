@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: Because there are limited data on the comparison of insulin aspart and mixed insulin in type 2 <z:mp ids='MP_0002055'>diabetes</z:mp>, this trial was performed to compare the efficacy and safety of preprandial insulin aspart with human soluble insulin (HI) and human premix (70% <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">NPH</z:e>/30% regular) insulin (MIX) </plain></SENT>
+<SENT sid="1" pm="."><plain>RESEARCH DESIGN AND METHODS: A total of 231 type 2 diabetic patients were randomized to insulin aspart (n = 75), HI (n = 80), or MIX (n = 76) for 3 months </plain></SENT>
+<SENT sid="2" pm="."><plain>Insulin aspart and HI were administered with or without bedtime <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">NPH</z:e> insulin </plain></SENT>
+<SENT sid="3" pm="."><plain>A total of 204 patients completed the trial according to protocol </plain></SENT>
+<SENT sid="4" pm="."><plain>HbA1c, 7-point blood <z:chebi fb="105" ids="17234">glucose</z:chebi>, insulin dosage, and <z:hpo ids='HP_0001988'>hypoglycemic episodes</z:hpo> were recorded </plain></SENT>
+<SENT sid="5" pm="."><plain>The primary end point was "change of HbA1c" from baseline to last visit </plain></SENT>
+<SENT sid="6" pm="."><plain>Analysis for equivalence was performed by t tests with three subtests </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: HbA1c decreased 0.91 +/- 1.00 for insulin aspart, 0.73 +/- 0.87 for HI, and 0.65 +/- 1.10 for MIX with the following confidence intervals: insulin aspart HI (-0.21 to 0.57, P = 0.025), insulin aspart MIX (-0.17 to 0.69, P = 0.092), and HI-MIX (-0.33 to 0.48, P = 0.006) </plain></SENT>
+<SENT sid="8" pm="."><plain>Postprandial blood <z:chebi fb="105" ids="17234">glucose</z:chebi> decreased in the insulin aspart group: 0.44 mmol/l to &gt;1.67 mmol/l compared with HI and 1.1 mmol/l to &gt;1.67 mmol/l compared with MIX </plain></SENT>
+<SENT sid="9" pm="."><plain>Preprandial insulin doses were similar in the insulin aspart and HI groups (10-14.5 U) </plain></SENT>
+<SENT sid="10" pm="."><plain>Hypoglycemic events per month were 0.56 HI, 0.40 insulin aspart, and 0.19 MIX </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: Statistically, insulin aspart was not equivalent to another treatment in terms of HbA1c reduction </plain></SENT>
+<SENT sid="12" pm="."><plain>Insulin aspart treatment resulted in improved HbA1c and postprandial blood <z:chebi fb="105" ids="17234">glucose</z:chebi> </plain></SENT>
+<SENT sid="13" pm="."><plain>The application of insulin aspart was safe and well tolerated </plain></SENT>
+</text></document>

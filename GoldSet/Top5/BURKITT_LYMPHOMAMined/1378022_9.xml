@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>On a panel of nine human B cell lines we showed that the expression of the complement regulatory factors complement receptor type 2 (CR2; CD21), decay-accelerating factor, (DAF; CD55) and homologous restriction factor (HRF20, CD59) is not correlated </plain></SENT>
+<SENT sid="1" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> lines expressed DAF, six lines carried detectable amounts of CR2 and three carried HRF20 </plain></SENT>
+<SENT sid="2" pm="."><plain>Upon incubation in human serum, under conditions which allowed the activation of complement through the alternative pathway, the CR2-carrying lines bound C3 fragments and two of them (Ramos and one of its two sublines) were damaged </plain></SENT>
+<SENT sid="3" pm="."><plain>These two lines had the lowest DAF expression, less than 50% of the cells reacted with the IA10 monoclonal antibody </plain></SENT>
+<SENT sid="4" pm="."><plain>By modulating the expression of the complement regulatory molecules, the lytic sensitivity of the B cell lines could be altered </plain></SENT>
+<SENT sid="5" pm="."><plain>Blockade of DAF on the HRF20-, CR2+ lines with the specific monoclonal antibodies increased their sensitivity to lysis by human serum </plain></SENT>
+<SENT sid="6" pm="."><plain>With the DAF- and HRF20+ cells significant lytic effect was obtained only when they were pretreated with both of the specific antibodies </plain></SENT>
+<SENT sid="7" pm="."><plain>Interferon-gamma or <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> <z:mp ids='MP_0001651'>necrosis</z:mp> factor-alpha treatment elevated the amount of CR2 on the low-CR2 expressor line (Ramos/HR1K) which thereafter bound higher amounts of C3 fragments and was lysed when incubated in human serum </plain></SENT>
+<SENT sid="8" pm="."><plain>This line had relatively low DAF level and lacked HRF20 </plain></SENT>
+<SENT sid="9" pm="."><plain>The cytokine treatment did not alter the expression of these molecules </plain></SENT>
+<SENT sid="10" pm="."><plain>The CR2+ Ramos and the CR2- Rael cells were treated with <z:chebi fb="0" ids="2038">5-azacytidine</z:chebi> which induced HRF20 and increased DAF expression </plain></SENT>
+<SENT sid="11" pm="."><plain>In parallel with this change Ramos cells became resistant to C-mediated lysis </plain></SENT>
+<SENT sid="12" pm="."><plain>The experiments with the panel of human B cell lines showed thus that cytolysis through activation of complement in homologous serum can be regulated at several steps by cell surface molecules </plain></SENT>
+<SENT sid="13" pm="."><plain>While expression of CR2 was required for C3 fixation, DAF and HRF20 inhibited lysis </plain></SENT>
+<SENT sid="14" pm="."><plain>By independent modulation of the quantities of these molecules, cells acquired or lost their sensitivity </plain></SENT>
+</text></document>

@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Narrow-band imaging (NBI) classification of colorectal lesions is clinically useful in determining treatment options for <z:e sem="disease" ids="C0009404" disease_type="Neoplastic Process" abbrv="">colorectal tumors</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>There is a learning curve, however </plain></SENT>
+<SENT sid="2" pm="."><plain>Accurate NBI-based diagnosis requires training and experience </plain></SENT>
+<SENT sid="3" pm="."><plain>In addition, objective diagnosis is necessary </plain></SENT>
+<SENT sid="4" pm="."><plain>Thus, we developed a computerized system to automatically classify NBI magnifying colonoscopic images </plain></SENT>
+<SENT sid="5" pm="."><plain>OBJECTIVE: To evaluate the utility and limitations of our automated NBI classification system </plain></SENT>
+<SENT sid="6" pm="."><plain>DESIGN: Retrospective study </plain></SENT>
+<SENT sid="7" pm="."><plain>SETTING: Department of endoscopy, university hospital </plain></SENT>
+<SENT sid="8" pm="."><plain>MAIN OUTCOME MEASUREMENTS: Performance of our computer-based system for classification of NBI magnifying colonoscopy images in comparison to classification by two experienced endoscopists and to histologic findings </plain></SENT>
+<SENT sid="9" pm="."><plain>RESULTS: For the 371 colorectal lesions depicted on validation images, the computer-aided classification system yielded a detection accuracy of 97.8% (363/371); sensitivity and specificity of types B-C3 lesions for a diagnosis of neoplastic lesion were 97.8% (317/324) and 97.9% (46/47), respectively </plain></SENT>
+<SENT sid="10" pm="."><plain>Diagnostic concordance between the computer-aided classification system and the two experienced endoscopists was 98.7% (366/371), with no significant difference between methods </plain></SENT>
+<SENT sid="11" pm="."><plain>LIMITATIONS: Retrospective, single-center in this initial report </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSION: Our new computer-aided system is reliable for predicting the histology of <z:e sem="disease" ids="C0009404" disease_type="Neoplastic Process" abbrv="">colorectal tumors</z:e> by using NBI magnifying colonoscopy </plain></SENT>
+</text></document>

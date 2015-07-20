@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>73 consecutive patients with severe <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> were treated by marrow transplantation from hematologically <z:mpath ids='MPATH_458'>normal</z:mpath> HLA identical siblings </plain></SENT>
+<SENT sid="1" pm="."><plain>68 patients lived long enough to document marrow engraftment </plain></SENT>
+<SENT sid="2" pm="."><plain>21 rejected the graft and 19 of these died </plain></SENT>
+<SENT sid="3" pm="."><plain>47 sustained engraftment and 18 of these died </plain></SENT>
+<SENT sid="4" pm="."><plain>In 16 patients, <z:hpo ids='HP_0011420'>death</z:hpo> was associated with <z:e sem="disease" ids="C0018133" disease_type="Disease or Syndrome" abbrv="GVH">graft versus host disease</z:e> </plain></SENT>
+<SENT sid="5" pm="."><plain>29 patients with sustained engraftment are alive with complete hematologic restoration between 8 mo and 5 yr </plain></SENT>
+<SENT sid="6" pm="."><plain>This analysis, by using a proportional hazards regression model, was directed at identifying factors that predicted survival (and absence of <z:e sem="disease" ids="C0018133" disease_type="Disease or Syndrome" abbrv="GVH">graft versus host disease</z:e>) </plain></SENT>
+<SENT sid="7" pm="."><plain>Of the 24 factors entered into the analysis only two strongly correlated with survival: (a) sex match of donor and recipient (P less than 0.01), and (b) absence of refractoriness to random donor platelets at the time of transplantation (P less than 0.05) </plain></SENT>
+<SENT sid="8" pm="."><plain>Refractoriness adversely influenced the survival of the sex mismatched patients, These data suggest that X and Y-associated transplantation antigen systems are important determinants of the outcome of marrow grafts between HLA identical siblings for the treatment of <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> </plain></SENT>
+<SENT sid="9" pm="."><plain>The machanism by which refractoriness to random donor platelets influences survival is currently unclear </plain></SENT>
+</text></document>

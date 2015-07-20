@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Cellular functions are regulated and executed by <z:chebi fb="1" ids="33837">complex protein</z:chebi> interaction networks </plain></SENT>
+<SENT sid="1" pm="."><plain>Accordingly, it is essential to understand the interplay between proteins in determining the activity status of signaling cascades </plain></SENT>
+<SENT sid="2" pm="."><plain>New methods are therefore required to provide information on different protein interaction events at the single cell level in <z:hpo ids='HP_0001425'>heterogeneous</z:hpo> cell populations, such as in tissue sections </plain></SENT>
+<SENT sid="3" pm="."><plain>We describe herein a multiplex proximity ligation assay for simultaneous analysis of multiple protein complexes in situ </plain></SENT>
+<SENT sid="4" pm="."><plain>Using this assay, we determined the balance between alternative protein complexes by visualizing EGFR, HER2 and HER3 homo and heterodimers in <z:hpo ids='HP_0003002'>breast cancer</z:hpo> tissue sections </plain></SENT>
+<SENT sid="5" pm="."><plain>In addition, the altered pattern of β-catenin complex formation with either E-cadherin or TCF1 was analyzed in <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> tissue sections </plain></SENT>
+<SENT sid="6" pm="."><plain>The study of several concurrent signaling events at single cell resolution will form a basis for a systems understanding, crucial for disease diagnostics and in drug development </plain></SENT>
+</text></document>

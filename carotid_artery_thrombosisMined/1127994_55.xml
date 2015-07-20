@@ -1,0 +1,7 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A system of grouping patients according to preoperative evaluation of risk of carotid endarterectomy is presented </plain></SENT>
+<SENT sid="1" pm="."><plain>The primary complications of this surgical procedure were <z:hpo ids='HP_0001658'>myocardial infarction</z:hpo> and residual mild to severe neurologic deficit </plain></SENT>
+<SENT sid="2" pm="."><plain>Neurologically stable patients without medical or angiographically determined risk factors (group 1, 129 patients) have a risk of 1% </plain></SENT>
+<SENT sid="3" pm="."><plain>Neurologically stable patients without medical risk but with angiographically determined risk (group 2, 56 patients) have a risk of 2% </plain></SENT>
+<SENT sid="4" pm="."><plain>Neurologically stable patients with significant medical illness and with or without angiographically determined risks (group 3, 76 patients) have a risk of 7%, primarily related to <z:e sem="disease" ids="C0018799" disease_type="Disease or Syndrome" abbrv="">cardiac disease</z:e> </plain></SENT>
+<SENT sid="5" pm="."><plain>Neurologically unstable patients (group 4, 70 patients) have a 10% risk for a neurologic deficit </plain></SENT>
+</text></document>

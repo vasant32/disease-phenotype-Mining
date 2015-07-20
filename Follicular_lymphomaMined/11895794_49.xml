@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Most patients with follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (FL) have somatically mutated V genes with intraclonal variation, consistent with location in the germinal center site </plain></SENT>
+<SENT sid="1" pm="."><plain>Using our own and published sequences, we have investigated the frequency of potential N-glycosylation sites introduced into functional V(H) genes as a consequence of <z:hpo ids='HP_0001428'>somatic mutation</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>FL cells were compared with <z:mpath ids='MPATH_458'>normal</z:mpath> memory B cells or plasma cells matched for similar levels of mutation </plain></SENT>
+<SENT sid="3" pm="."><plain>Strikingly, novel sites were detected in 55 of 70 (79%) patients with FL, compared to 7 of 75 (9%) in the <z:mpath ids='MPATH_458'>normal</z:mpath> B-cell population (P &lt;.001) </plain></SENT>
+<SENT sid="4" pm="."><plain>Diffuse large B-cell <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (DLCL) showed an intermediate frequency (13 of 32 [41%] patients) </plain></SENT>
+<SENT sid="5" pm="."><plain><z:mp ids='MP_0009440'>Myeloma</z:mp> and the mutated subset of <z:hpo ids='HP_0005550'>chronic lymphocytic leukemia</z:hpo> showed frequencies similar to those of <z:mpath ids='MPATH_458'>normal</z:mpath> cells in 5 of 64 (8%) patients and 5 of 40 (13%) patients, respectively </plain></SENT>
+<SENT sid="6" pm="."><plain>In 3 of 3 random patients with FL, immunoglobulin was expressed as recombinant single-chain Fv in Pichia pastoris, and glycosylation was demonstrated </plain></SENT>
+<SENT sid="7" pm="."><plain>These findings indicate that N-glycosylation of the variable region may be common in FL and in a subset of DLCL </plain></SENT>
+<SENT sid="8" pm="."><plain>Most novel sites are located in the complementarity-determining regions </plain></SENT>
+<SENT sid="9" pm="."><plain>V(H) sequences of nonfunctional V(H) genes contained few sites, arguing for positive selection in FL </plain></SENT>
+<SENT sid="10" pm="."><plain>One possibility is that the added carbohydrate in the variable region contributes to interaction with elements in the germinal center environment </plain></SENT>
+<SENT sid="11" pm="."><plain>This common feature of FL may be critical for <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> behavior </plain></SENT>
+</text></document>

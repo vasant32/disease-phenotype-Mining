@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Background- L-type calcium channel (LTCC) and <z:chebi fb="0" ids="29101">Na(+)</z:chebi>/Ca(2+) exchanger (NCX) have been implicated in repolarization-dependent <z:hpo ids='HP_0011675'>arrhythmias</z:hpo>, but also modulate calcium and contractility </plain></SENT>
+<SENT sid="1" pm="."><plain>Although LTCC inhibition is negative inotropic, NCX inhibition has the opposite effect </plain></SENT>
+<SENT sid="2" pm="."><plain>Combined block may, therefore, offer an advantage for hemodynamics and antiarrhythmic efficiency, particularly in diseased hearts </plain></SENT>
+<SENT sid="3" pm="."><plain>In a model of proarrhythmia, the dog with <z:hpo ids='HP_0011010'>chronic</z:hpo> <z:hpo ids='HP_0001678'>atrioventricular block</z:hpo>, we investigated whether combined inhibition of NCX and LTCC with SEA-0400 is effective against <z:chebi fb="0" ids="4681">dofetilide</z:chebi>-induced <z:hpo ids='HP_0001664'>torsade de pointes</z:hpo> <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> (TdP), while maintaining calcium homeostasis and hemodynamics </plain></SENT>
+<SENT sid="4" pm="."><plain>Methods and Results- Left ventricular pressure (LVP) and ECG were monitored during infusion of SEA-0400 and <z:chebi fb="1" ids="9948">verapamil</z:chebi> in anesthetized dogs </plain></SENT>
+<SENT sid="5" pm="."><plain>Different doses were tested against <z:chebi fb="0" ids="4681">dofetilide</z:chebi>-induced TdP in <z:hpo ids='HP_0011010'>chronic</z:hpo> <z:hpo ids='HP_0001678'>atrioventricular block</z:hpo> dogs </plain></SENT>
+<SENT sid="6" pm="."><plain>In ventricular myocytes, effects of SEA-0400 were tested on action potentials, calcium transients, and early afterdepolarizations </plain></SENT>
+<SENT sid="7" pm="."><plain>In cardiomyocytes, SEA-0400 (1 μmol/L) blocked 66±3% of outward NCX, 50±2% of inward NCX, and 33±9% of LTCC current </plain></SENT>
+<SENT sid="8" pm="."><plain>SEA-0400 had no effect on systolic calcium, but slowed relaxation, despite action potential shortening, and increased diastolic calcium </plain></SENT>
+<SENT sid="9" pm="."><plain>SEA-0400 stabilized <z:chebi fb="0" ids="4681">dofetilide</z:chebi>-induced lability of repolarization and suppressed early afterdepolarizations </plain></SENT>
+<SENT sid="10" pm="."><plain>In vivo, SEA-0400 (0.4 and 0.8 mg/kg) had no effect on left ventricular pressure and suppressed <z:chebi fb="0" ids="4681">dofetilide</z:chebi>-induced TdPs dose dependently </plain></SENT>
+<SENT sid="11" pm="."><plain><z:chebi fb="1" ids="9948">Verapamil</z:chebi> (0.3 mg/kg) also inhibited TdP, but caused a 15±8% drop of left ventricular pressure </plain></SENT>
+<SENT sid="12" pm="."><plain>A lower dose of <z:chebi fb="1" ids="9948">verapamil</z:chebi> without effects on left ventricular pressure (0.06 mg/kg) was not antiarrhythmic </plain></SENT>
+<SENT sid="13" pm="."><plain>Conclusions- In <z:hpo ids='HP_0011010'>chronic</z:hpo> <z:hpo ids='HP_0001678'>atrioventricular block</z:hpo> dogs, SEA-0400 treatment is effective against TdP </plain></SENT>
+<SENT sid="14" pm="."><plain>Unlike specific inhibition of LTCC, combined NCX and LTCC inhibition has no negative effects on cardiac hemodynamics </plain></SENT>
+</text></document>

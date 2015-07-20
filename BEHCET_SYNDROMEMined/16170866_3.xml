@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Mixture of experts (ME) is a modular neural network architecture for supervised learning </plain></SENT>
+<SENT sid="1" pm="."><plain>This paper illustrates the use of ME network structure to guide modelling Doppler ultrasound blood flow signals </plain></SENT>
+<SENT sid="2" pm="."><plain>Expectation-Maximization (EM) algorithm was used for training the ME so that the learning process is decoupled in a manner that fits well with the modular structure </plain></SENT>
+<SENT sid="3" pm="."><plain>The ophthalmic and internal carotid arterial Doppler signals were decomposed into time-frequency representations using discrete wavelet transform and statistical features were calculated to depict their distribution </plain></SENT>
+<SENT sid="4" pm="."><plain>The ME network structures were implemented for diagnosis of ophthalmic and internal carotid <z:e sem="disease" ids="C0852949" disease_type="Disease or Syndrome" abbrv="">arterial disorders</z:e> using the statistical features as inputs </plain></SENT>
+<SENT sid="5" pm="."><plain>To improve diagnostic accuracy, the outputs of expert networks were combined by a gating network simultaneously trained in order to stochastically select the expert that is performing the best at solving the problem </plain></SENT>
+<SENT sid="6" pm="."><plain>The ME network structure achieved accuracy rates which were higher than that of the stand-alone neural network models </plain></SENT>
+</text></document>

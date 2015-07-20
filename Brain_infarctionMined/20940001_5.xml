@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Endoplasmic reticulum (ER) stress has been implicated in the pathology of <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>During prolonged period of stress or when the adaptive response fails, apoptotic cell <z:hpo ids='HP_0011420'>death</z:hpo> ensues </plain></SENT>
+<SENT sid="2" pm="."><plain>Cerebral ischemic postconditioning (Postcond) has been shown to reduce <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo>/reperfusion (I/R) injury in both focal and global <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> model </plain></SENT>
+<SENT sid="3" pm="."><plain>However, the mechanism remains to be understood </plain></SENT>
+<SENT sid="4" pm="."><plain>This study aimed to elucidate whether Postcond attenuates brain I/R damage by suppressing ER stress-induced <z:mpath ids='MPATH_3'>apoptosis</z:mpath> and if the phosphatidylinositol-3kinase/Akt (PI3K/Akt) pathway is involved </plain></SENT>
+<SENT sid="5" pm="."><plain>A focal <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> rat model was used in the study </plain></SENT>
+<SENT sid="6" pm="."><plain>Rat brain <z:mpath ids='MPATH_124'>infarct</z:mpath> size and terminal deoxynucleotidyl transferase-mediated <z:chebi fb="0" ids="17625">dUTP</z:chebi> nick end labeling (TUNEL) positive cells in ischemic penumbra were assessed after reperfusion of the brain </plain></SENT>
+<SENT sid="7" pm="."><plain>The expressions of C/EBP-homologous protein (CHOP), caspase-12, <z:chebi fb="105" ids="17234">glucose</z:chebi>-regulated protein 78 (GRP78) and the phosphorylation of Akt (Ser473) in ischemic penumbra were measured after reperfusion </plain></SENT>
+<SENT sid="8" pm="."><plain>Our results showed that Postcond significantly attenuated brain I/R injury, as shown by reduction in <z:mpath ids='MPATH_124'>infarct</z:mpath> size, cell <z:mpath ids='MPATH_3'>apoptosis</z:mpath>, CHOP expression, caspase-12 activation and increase in GRP78 expression </plain></SENT>
+<SENT sid="9" pm="."><plain>LY294002, a <z:chebi fb="0" ids="50914">phosphoinositide 3-kinase inhibitor</z:chebi>, increased the number of TUNEL-positive cells suppressed by Postcond in penumbra </plain></SENT>
+<SENT sid="10" pm="."><plain>In addition, LY294002 diminished the effect of Postcond on the activation of CHOP, caspase-12 and GRP78 </plain></SENT>
+<SENT sid="11" pm="."><plain>These results suggest that Postcond protects brain from I/R injury by suppressing ER stress-induced <z:mpath ids='MPATH_3'>apoptosis</z:mpath> and PI3K/Akt pathway is involved </plain></SENT>
+</text></document>

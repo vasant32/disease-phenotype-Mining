@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVES: To determine the discrimination characteristics of a new algorithm and two existing symptom scoring systems for identification of patients with suspected <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>DESIGN: Derivation of algorithm by a case-control study and assessment of discrimination characteristics using receiver operating characteristics (ROC) curves </plain></SENT>
+<SENT sid="2" pm="."><plain>Three <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> scoring systems were investigated </plain></SENT>
+<SENT sid="3" pm="."><plain>The Bristol-Birmingham (BB) equation, which we derived from a large primary care dataset; the CAPER score, previously derived from a primary care case-control study and a symptom score derived from National Institute of Clinical Excellence (NICE) guidance for urgent referral of symptomatic patients </plain></SENT>
+<SENT sid="4" pm="."><plain>Their discrimination characteristics were investigated in two datasets: the BB derivation dataset and the CAPER score derivation dataset </plain></SENT>
+<SENT sid="5" pm="."><plain>The main analyses were ROC curves and the areas under them for <z:hpo ids='HP_0000001'>all</z:hpo> three algorithms in both datasets </plain></SENT>
+<SENT sid="6" pm="."><plain>Setting Electronic primary care databases </plain></SENT>
+<SENT sid="7" pm="."><plain>Main outcome measures Diagnosis of <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: In the BB dataset, areas under the curve were: BB equation 0.83 (95% CI 0.82 to 0.84); CAPER 0.79 (95% CI 0.79 to 0.80); the NICE guidelines 0.65 (95% CI 0.64 to 0.66) </plain></SENT>
+<SENT sid="9" pm="."><plain>In the CAPER dataset, areas under the curve were: BB 0.92 (95% CI 0.91 to 0.94); CAPER 0.91 (95% CI 0.89 to 0.93); NICE guidelines 0.75 (95% CI 0.72 to 0.79) </plain></SENT>
+<SENT sid="10" pm="."><plain>In subjects under 50 the discrimination characteristics of NICE referral guidelines were no better than chance </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: Both multivariable symptom scoring systems performed significantly better than NICE referral guidelines </plain></SENT>
+</text></document>

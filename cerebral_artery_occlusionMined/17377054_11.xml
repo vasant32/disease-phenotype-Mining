@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: Adipose-derived stem cells are an alternative stem cell source for <z:chebi fb="7" ids="29425,29426,29441,29447">CNS</z:chebi> therapies </plain></SENT>
+<SENT sid="1" pm="."><plain>The goals of the current study were to label adipose-derived stem cells with superparamagnetic <z:chebi fb="27" ids="50820">iron oxide</z:chebi> (SPIO) particles, to use MRI to guide the transplantation of adipose-derived stem cells in middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (MCAO)-injured mice, and to localize donor adipose-derived stem cells in the injured brain using MRI </plain></SENT>
+<SENT sid="2" pm="."><plain>We hypothesized that we would successfully label adipose-derived stem cells and image them with MRI </plain></SENT>
+<SENT sid="3" pm="."><plain>MATERIALS AND METHODS: Adipose-derived stem cells harvested from mice inbred for green fluorescent protein were labeled with SPIO ferumoxide particles through the use of poly-<z:chebi fb="0" ids="18019,29967">L-lysine</z:chebi> </plain></SENT>
+<SENT sid="4" pm="."><plain>Adipose-derived stem cell viability, iron staining, and proliferation were measured after SPIO labeling, and the sensitivity of MRI in the detection of SPIO-labeled adipose-derived stem cells was assessed ex vivo </plain></SENT>
+<SENT sid="5" pm="."><plain>Adult mice (n = 12) were subjected to unilateral MCAO </plain></SENT>
+<SENT sid="6" pm="."><plain>Two weeks later, in vivo 7-T MRI was performed to guide stereotactic transplantation of SPIO-labeled adipose-derived stem cells into brain tissue adjacent to the <z:mpath ids='MPATH_124'>infarct</z:mpath> </plain></SENT>
+<SENT sid="7" pm="."><plain>After 24 hours, the mice were sacrificed for high-resolution ex vivo 7-T or 9.4-T MRI and histologic study </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: Adipose-derived stem cells were efficiently labeled with SPIO particles without <z:mp ids='MP_0000340'>loss of cell</z:mp> viability or proliferation </plain></SENT>
+<SENT sid="9" pm="."><plain>Using MRI, we guided precise transplantation of adipose-derived stem cells </plain></SENT>
+<SENT sid="10" pm="."><plain><z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e> images of mice given injections of SPIO-labeled adipose-derived stem cells had hypointense regions that correlated with the histologic findings in donor cells </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSION: MRI proved useful in transplantation of adipose-derived stem cells in vivo </plain></SENT>
+<SENT sid="12" pm="."><plain>This imaging technique may be useful for studies of <z:chebi fb="7" ids="29425,29426,29441,29447">CNS</z:chebi> stem cell therapies </plain></SENT>
+</text></document>

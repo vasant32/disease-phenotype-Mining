@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The C-type lectins DC-SIGN (CD209) and L-SIGN (CD299) recognize defined carbohydrates expressed on pathogens and cells </plain></SENT>
+<SENT sid="1" pm="."><plain>Those lectins are expressed on dendritic cells (DC) and/or on liver-sinusoidal endothelial cells </plain></SENT>
+<SENT sid="2" pm="."><plain>Both cell types modulate immune responses </plain></SENT>
+<SENT sid="3" pm="."><plain>In <z:hpo ids='HP_0006721'>acute lymphoblastic leukemia</z:hpo> (ALL), aberrant glycosylation of blast cells can alter their interaction with the C-type lectins DC-SIGN and L-SIGN, thereby affecting their immunological elimination </plain></SENT>
+<SENT sid="4" pm="."><plain>We investigated whether recombinant DC-SIGN and L-SIGN bind to blood or bone marrow cells from B- and <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">T-ALL</z:e> patients and compared that with binding of peripheral blood lymphocytes from healthy donors </plain></SENT>
+<SENT sid="5" pm="."><plain>It was found that increased binding of ALL cells to DC-SIGN and L-SIGN was observed compared to cells from healthy donors </plain></SENT>
+<SENT sid="6" pm="."><plain>Furthermore, L-SIGN bound a higher percentage of leukemic and <z:mpath ids='MPATH_458'>normal</z:mpath> cells than DC-SIGN </plain></SENT>
+<SENT sid="7" pm="."><plain><z:e sem="disease" ids="C0023435" disease_type="Neoplastic Process" abbrv="">B-ALL</z:e> bone marrow cells showed the highest binding to L-SIGN </plain></SENT>
+<SENT sid="8" pm="."><plain>DC-SIGN bound equally well to <z:e sem="disease" ids="C0023435" disease_type="Neoplastic Process" abbrv="">B-ALL</z:e> and <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">T-ALL</z:e> cells </plain></SENT>
+<SENT sid="9" pm="."><plain>Within ALL subtypes, DC-SIGN binding was higher with <z:e sem="disease" ids="C1521897" disease_type="Neoplastic Process" abbrv="">mature T-ALL</z:e> </plain></SENT>
+<SENT sid="10" pm="."><plain>Interestingly, our data demonstrate that increased binding of DC-SIGN and L-SIGN to peripheral leukemic cells from <z:e sem="disease" ids="C0023435" disease_type="Neoplastic Process" abbrv="">B-ALL</z:e> patients is associated with poor survival </plain></SENT>
+<SENT sid="11" pm="."><plain>These data demonstrate that high binding of <z:e sem="disease" ids="C0023435" disease_type="Neoplastic Process" abbrv="">B-ALL</z:e> peripheral blood cells to DC-SIGN and L-SIGN correlates with poor prognosis </plain></SENT>
+<SENT sid="12" pm="."><plain>Apparently, when <z:e sem="disease" ids="C0023435" disease_type="Neoplastic Process" abbrv="">B-ALL</z:e> cells enter the blood circulation and are able to interact with DC-SIGN and L-SIGN the immune response is shifted toward tolerance </plain></SENT>
+<SENT sid="13" pm="."><plain>Additional studies are necessary to ascertain the possible role of these results in terms of disease pathogenesis and their potential as target to eradicate leukemic cells </plain></SENT>
+</text></document>

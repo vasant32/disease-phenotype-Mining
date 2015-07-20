@@ -1,0 +1,18 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We conducted a prospective, multicenter pilot study of remission induction therapy in patients with poor prognosis <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> and <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">AML</z:e> evolving from a preceding phase of <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>Fifty evaluable patients from 15 institutions were treated with one or two remission-induction courses consisting of i.v. <z:chebi fb="0" ids="42068">idarubicin</z:chebi> 12 mg/m2/day on days 1, 2, and 3 combined with a continuous i.v. infusion of <z:chebi fb="0" ids="28680">cytarabine</z:chebi> of 200 mg/m2/day on days 1 to 7 </plain></SENT>
+<SENT sid="2" pm="."><plain>Of the 27 complete remitters (54%), 23 received a consolidation course which was identical to the remission-induction course except for the <z:chebi fb="0" ids="42068">idarubicin</z:chebi> 12 mg/m2 which was given on day 1 only </plain></SENT>
+<SENT sid="3" pm="."><plain>Fifteen patients received maintenance therapy consisting of six courses of <z:chebi fb="0" ids="28680">cytarabine</z:chebi> 10 mg/m2, s.c. twice daily, for 14 days </plain></SENT>
+<SENT sid="4" pm="."><plain>Two complete remitters were allografted and five patients received an ABMT </plain></SENT>
+<SENT sid="5" pm="."><plain>The median survival of <z:hpo ids='HP_0000001'>all</z:hpo> 50 treated patients was 14 months </plain></SENT>
+<SENT sid="6" pm="."><plain>The median duration of disease-free survival was 11 months with two patients in CR more than 2 years after entering CR </plain></SENT>
+<SENT sid="7" pm="."><plain>Twenty-four of the 27 remitters have relapsed </plain></SENT>
+<SENT sid="8" pm="."><plain>Four patients died during remission-induction therapy, but no patient died as a result of persisting <z:mpath ids='MPATH_133'>hypoplasia</z:mpath> </plain></SENT>
+<SENT sid="9" pm="."><plain>No fatal complications occurred during the consolidation and maintenance courses </plain></SENT>
+<SENT sid="10" pm="."><plain>Age and stage of disease had no significant impact on CR rate nor on remission duration </plain></SENT>
+<SENT sid="11" pm="."><plain>The CR rate was significantly (P = 0.03) higher in patients with only <z:mpath ids='MPATH_458'>normal</z:mpath> metaphases compared to patients with cytogenetic abnormalities </plain></SENT>
+<SENT sid="12" pm="."><plain>The DFS at 2 years was 33 vs 8%, respectively, for patients without or with cytogenetic abnormalities (P = 0.02) </plain></SENT>
+<SENT sid="13" pm="."><plain>This study shows that patients below the age of 60 years with poor risk features are candidates for treatment with combination chemotherapy </plain></SENT>
+<SENT sid="14" pm="."><plain>A complete remission rate of more than 50% may be expected </plain></SENT>
+<SENT sid="15" pm="."><plain>Maintaining remission after remission-induction chemotherapy is a difficult issue </plain></SENT>
+<SENT sid="16" pm="."><plain>Patients not eligible for allogeneic BMT may be treated with intensive post-remission chemotherapy or autologous BMT </plain></SENT>
+</text></document>

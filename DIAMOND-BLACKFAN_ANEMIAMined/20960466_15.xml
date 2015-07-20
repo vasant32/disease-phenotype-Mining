@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Diamond-Blackfan <z:hpo ids='HP_0001903'>Anemia</z:hpo> (<z:chebi fb="28" ids="35299">DBA</z:chebi>) is characterized by a defect of erythroid progenitors and, clinically, by <z:hpo ids='HP_0001903'>anemia</z:hpo> and malformations </plain></SENT>
+<SENT sid="1" pm="."><plain><z:chebi fb="28" ids="35299">DBA</z:chebi> exhibits an <z:hpo ids='HP_0000006'>autosomal dominant</z:hpo> pattern of <z:hpo ids='HP_0000005'>inheritance</z:hpo> with <z:hpo ids='HP_0003829'>incomplete penetrance</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>Currently nine genes, <z:hpo ids='HP_0000001'>all</z:hpo> encoding ribosomal proteins (RP), have been found mutated in approximately 50% of patients </plain></SENT>
+<SENT sid="3" pm="."><plain>Experimental evidence supports the hypothesis that <z:chebi fb="28" ids="35299">DBA</z:chebi> is primarily the result of defective ribosome synthesis </plain></SENT>
+<SENT sid="4" pm="."><plain>By means of a large collaboration among six centers, we report here a mutation update that includes nine genes and 220 distinct mutations, 56 of which are new </plain></SENT>
+<SENT sid="5" pm="."><plain>The <z:chebi fb="28" ids="35299">DBA</z:chebi> Mutation Database now includes data from 355 patients </plain></SENT>
+<SENT sid="6" pm="."><plain>Of those where <z:hpo ids='HP_0000005'>inheritance</z:hpo> has been examined, 125 patients carry a de novo mutation and 72 an inherited mutation </plain></SENT>
+<SENT sid="7" pm="."><plain>Mutagenesis may be ascribed to slippage in 65.5% of indels, whereas CpG <z:chebi fb="0" ids="47885">dinucleotides</z:chebi> are involved in 23% of transitions </plain></SENT>
+<SENT sid="8" pm="."><plain>Using bioinformatic tools we show that gene conversion mechanism is not common in RP genes mutagenesis, notwithstanding the abundance of RP pseudogenes </plain></SENT>
+<SENT sid="9" pm="."><plain>Genotype-phenotype analysis reveals that malformations are more frequently associated with mutations in RPL5 and RPL11 than in the other genes </plain></SENT>
+<SENT sid="10" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> currently reported <z:chebi fb="28" ids="35299">DBA</z:chebi> mutations together with their functional and clinical data are included in the <z:chebi fb="28" ids="35299">DBA</z:chebi> Mutation Database </plain></SENT>
+</text></document>

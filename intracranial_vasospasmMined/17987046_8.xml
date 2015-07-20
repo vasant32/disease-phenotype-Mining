@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Delayed <z:e sem="disease" ids="C0265110" disease_type="Disease or Syndrome" abbrv="">cerebral vasospasm</z:e> after <z:hpo ids='HP_0002138'>subarachnoid hemorrhage</z:hpo> is primarily due to sustained contraction of arterial smooth muscle cells </plain></SENT>
+<SENT sid="1" pm="."><plain>Its pathogenesis remains unclear </plain></SENT>
+<SENT sid="2" pm="."><plain>The degree of arterial constriction is regulated by membrane potential that in turn is determined predominately by K+ conductance (GK) </plain></SENT>
+<SENT sid="3" pm="."><plain>Here, we identified the main voltage-gated K+ (Kv) channels contributing to outward delayed rectifier currents in dog basilar artery smooth muscle as Kv2 class through a combination of electrophysiological and pharmacological methods </plain></SENT>
+<SENT sid="4" pm="."><plain>Kv2 current density was nearly halved in vasospastic myocytes after <z:hpo ids='HP_0002138'>subarachnoid hemorrhage</z:hpo> (SAH) in dogs, and Kv2.1 and Kv2.2 were downregulated in vasospastic myocytes when examined by quantitative <z:chebi fb="2" ids="33699">mRNA</z:chebi>, Western blotting, and immunohistochemistry </plain></SENT>
+<SENT sid="5" pm="."><plain>Vasospastic myocytes were depolarized and had a smaller contribution of GK toward maintenance of their membrane potential </plain></SENT>
+<SENT sid="6" pm="."><plain>Pharmacological block of Kv current in control myocytes mimicked the depolarization observed in vasospastic arteries </plain></SENT>
+<SENT sid="7" pm="."><plain>The degree of membrane depolarization was found to be compatible with the amount of vasoconstriction observed after SAH </plain></SENT>
+<SENT sid="8" pm="."><plain>We conclude that Kv2 dysfunction after SAH contributes to the pathogenesis of delayed <z:e sem="disease" ids="C0265110" disease_type="Disease or Syndrome" abbrv="">cerebral vasospasm</z:e> </plain></SENT>
+<SENT sid="9" pm="."><plain>This may confer a novel target for treatment of delayed <z:e sem="disease" ids="C0265110" disease_type="Disease or Syndrome" abbrv="">cerebral vasospasm</z:e> </plain></SENT>
+</text></document>

@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: <z:hpo ids='HP_0005110'>Atrial fibrillation</z:hpo> (AF) is the most common sustained <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> in clinical practice </plain></SENT>
+<SENT sid="1" pm="."><plain>The Renin-Angiotensin-<z:chebi fb="0" ids="27584,30834">Aldosterone</z:chebi>-System plays a major role for the atrial structural and electrical remodelling </plain></SENT>
+<SENT sid="2" pm="."><plain>Recently elevated <z:chebi fb="0" ids="27584,30834">aldosterone</z:chebi> levels have been suggested to increase the risk for the development of AF </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: Rats were treated with <z:chebi fb="0" ids="27584,30834">aldosterone</z:chebi> by means of an osmotic minipump (0.5μg/h) over a period of 4 weeks </plain></SENT>
+<SENT sid="4" pm="."><plain>AF was induced by transesophageal burst pacing </plain></SENT>
+<SENT sid="5" pm="."><plain>Action potentials (AP) were recorded from left atrial preparations with microelectrodes </plain></SENT>
+<SENT sid="6" pm="."><plain>Atrial collagen was quantified by histological studies </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: <z:chebi fb="0" ids="27584,30834">Aldosterone</z:chebi> treatment resulted in <z:mpath ids='MPATH_159'>hypertrophy</z:mpath> as indicated by an increased ratio of heart weight/tibia length and doubled the time until the AF converted spontaneously into sinus rhythm (85.8±13.4 s vs. 38.3±6.9 s, p&lt;0.01) </plain></SENT>
+<SENT sid="8" pm="."><plain>This was associated with a significant shortening of the AP (APD90 26.2±1.1 vs. 31.2±1.9, p&lt;0.05) and an increased protein expression of Kir2.1 and Kv1.5 </plain></SENT>
+<SENT sid="9" pm="."><plain>Atrial collagen deposition was significantly greater in <z:chebi fb="0" ids="27584,30834">aldosterone</z:chebi>-treated rats </plain></SENT>
+<SENT sid="10" pm="."><plain>The alterations could be prevented by additional application <z:chebi fb="0" ids="9241">spironolactone</z:chebi> </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: The results of the present study suggest that in addition to the structural remodelling <z:chebi fb="0" ids="27584,30834">aldosterone</z:chebi> also promotes AF by altering repolarising <z:chebi fb="120" ids="26216">potassium</z:chebi> currents leading to action potential shortening </plain></SENT>
+</text></document>

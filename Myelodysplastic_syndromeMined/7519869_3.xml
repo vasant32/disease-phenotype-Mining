@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Variants of the t(15;17)(q22;q12-q21) chromosomal rearrangement associated with <z:hpo ids='HP_0004836'>acute promyelocytic leukemia</z:hpo> (APL) have been previously described and they frequently involve either chromosome 15 and/or 17 </plain></SENT>
+<SENT sid="1" pm="."><plain>Previously we reported a rare variant t(11;17) </plain></SENT>
+<SENT sid="2" pm="."><plain>We now describe two patients with <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e>) that transformed to APL-like <z:hpo ids='HP_0001909'>leukemia</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>Both had <z:mp ids='MP_0004027'>trisomy</z:mp> 11 at the diagnosis of APL-like <z:hpo ids='HP_0001909'>leukemia</z:hpo> </plain></SENT>
+<SENT sid="4" pm="."><plain>Following treatment for APL, patient 1 reverted to <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> and showed a <z:mpath ids='MPATH_458'>normal</z:mpath> karyotype </plain></SENT>
+<SENT sid="5" pm="."><plain>When <z:hpo ids='HP_0001909'>leukemia</z:hpo> recurred, his bone marrow karyotype was 47,XY,t(4;11), +11,der(22)t(1;22) </plain></SENT>
+<SENT sid="6" pm="."><plain>Both patients were treated with <z:hpo ids='HP_0000001'>all</z:hpo>-trans <z:chebi fb="2" ids="26536">retinoic acid</z:chebi> (ATRA) for APL for 5 weeks, but failed to respond </plain></SENT>
+<SENT sid="7" pm="."><plain>The karyotype of patient 1 after ATRA treatment was 46,XY,t(4;11); the <z:mp ids='MP_0004027'>trisomy</z:mp> 11 had been lost and the bone marrow was replaced with immature myeloblasts without promyelocytes </plain></SENT>
+<SENT sid="8" pm="."><plain>In patient 2, the karyotype remained the same as at diagnosis, i.e., 47,X,-Y,dir ins(4;7),del(5), +6,del(7), +8, + 11,-18 </plain></SENT>
+<SENT sid="9" pm="."><plain>Molecular analysis by reverse transcriptase PCR analysis showed the presence of <z:mp ids='MP_0002169'>wild type</z:mp> <z:chebi fb="2" ids="26536">retinoic acid</z:chebi> receptor alpha (RARA) and the absence of the PML-RARA chimeric gene associated with t(15;17) </plain></SENT>
+<SENT sid="10" pm="."><plain>Additional analysis of PLZF, a new zinc finger gene associated with t(11;17), also showed the absence of this hybrid gene </plain></SENT>
+<SENT sid="11" pm="."><plain>These data support the concept that APL is a <z:hpo ids='HP_0001425'>heterogeneous</z:hpo> disorder and that variants with chromosome 11 rearrangement exist that do not respond to ATRA </plain></SENT>
+</text></document>

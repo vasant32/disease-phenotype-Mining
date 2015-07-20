@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: β-blockers have little effectiveness in preventing vasovagal <z:hpo ids='HP_0001279'>syncope</z:hpo> in unselected populations, but they might be effective in older patients </plain></SENT>
+<SENT sid="1" pm="."><plain>We determined whether β-blockers prevent vasovagal <z:hpo ids='HP_0001279'>syncope</z:hpo> in an age-related fashion </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS AND RESULTS: Two populations were studied </plain></SENT>
+<SENT sid="3" pm="."><plain>A proportional hazards analysis was performed on an observational cohort study of 153 patients with vasovagal <z:hpo ids='HP_0001279'>syncope</z:hpo>, 52 of whom received β-blockers </plain></SENT>
+<SENT sid="4" pm="."><plain>A multivariable proportional hazards model stratified by center was performed on 208 participants in the randomized Prevention of <z:hpo ids='HP_0001279'>Syncope</z:hpo> Trial (POST), examining the interaction between age group and treatment with <z:chebi fb="0" ids="6904">metoprolol</z:chebi> </plain></SENT>
+<SENT sid="5" pm="."><plain>Age-specific hazard ratios were estimated for both studies and combined using the inverse variance meta-analytic method </plain></SENT>
+<SENT sid="6" pm="."><plain>In the cohort study, the hazard ratio for <z:hpo ids='HP_0001279'>syncope</z:hpo> if treated with β-blockers was 1.54 (95% CI, 0.78-3.05) for patients aged &lt;42 years and 0.48 (95% CI, 0.12-1.92) for patients aged ≥ 42 years </plain></SENT>
+<SENT sid="7" pm="."><plain>In POST, the proportional hazards model showed interactions between age and treatment effect (P=0.026) </plain></SENT>
+<SENT sid="8" pm="."><plain>The hazard ratio for patients aged ≥ 42 years who received <z:chebi fb="0" ids="6904">metoprolol</z:chebi> was 0.53 (95% CI, 0.25-1.10); in patients aged &lt;42 years, the hazard ratio was 1.62 (95% CI, 0.85-3.10) </plain></SENT>
+<SENT sid="9" pm="."><plain>A pooled analysis of both studies yielded an estimate of the hazard ratio of 1.58 (CI, 1.00-2.31) for patients aged &lt;42 years, and the hazard ratio was 0.52 (CI, 0.27-1.01) for patients aged ≥ 42 years </plain></SENT>
+<SENT sid="10" pm="."><plain>The 2 age groups differed significantly in response to β-blockers (P=0.007) </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: β-blocker treatment may suppress vasovagal <z:hpo ids='HP_0001279'>syncope</z:hpo> in middle-aged patients aged &gt;42 years </plain></SENT>
+</text></document>

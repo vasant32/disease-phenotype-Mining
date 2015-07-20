@@ -1,0 +1,19 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The histaminergic system plays an important role in memory and learning </plain></SENT>
+<SENT sid="1" pm="."><plain>Deficient histaminergic transmission in the human brain in vascular <z:hpo ids='HP_0000726'>dementia</z:hpo> (VD) has been suggested </plain></SENT>
+<SENT sid="2" pm="."><plain>To get a better insight into the problem, a rat model of VD based on permanent bilateral occlusion of the common carotid arteries (BCCAO) leading to <z:hpo ids='HP_0011010'>chronic</z:hpo> <z:e sem="disease" ids="C1695782" disease_type="Disease or Syndrome" abbrv="">cerebral hypoperfusion</z:e> was used </plain></SENT>
+<SENT sid="3" pm="."><plain>Prior to the BCCAO, male Wistar rats underwent 7 days training and only those animals that positively passed the holeboard memory test were chosen for the study </plain></SENT>
+<SENT sid="4" pm="."><plain>The rats which were operated on were injected i.p. daily for 6 days with either a <z:chebi fb="3" ids="25375">monoamine</z:chebi> oxidase B inhibitor - PF9601N (40 mg/kg), an acetycholinesterase inhibitor - <z:chebi fb="0" ids="45980">tacrine</z:chebi> (3 mg/kg), a <z:chebi fb="11" ids="18295">histamine</z:chebi> H(3) receptor blocker - DL76 (6 mg/kg) or saline </plain></SENT>
+<SENT sid="5" pm="."><plain>The first retest (R1) was performed one week after the surgery while each subsequent test was 5-7 days apart </plain></SENT>
+<SENT sid="6" pm="."><plain>The rats were euthanized 2 or 4 weeks following the operation </plain></SENT>
+<SENT sid="7" pm="."><plain>The concentration of brain <z:chebi fb="11" ids="18295">histamine</z:chebi> (HA) and the activity of <z:chebi fb="11" ids="18295">histamine</z:chebi> metabolising enzymes were measured using current procedures </plain></SENT>
+<SENT sid="8" pm="."><plain>The BCCAO drastically increased latency and run time (p&lt;0.001) 54 ± 30 vs. 3.4 ± 1.2 and 268 ± 18 vs. 74 ± 9, respectively, and affected working memory rather than reference memory as measured by the 1(st) retest (R1) </plain></SENT>
+<SENT sid="9" pm="."><plain>Treatment with either PF9601N or <z:chebi fb="0" ids="45980">tacrine</z:chebi> seems to exert a positive effect on working memory </plain></SENT>
+<SENT sid="10" pm="."><plain>This tendency disappeared after the drug treatment stopped </plain></SENT>
+<SENT sid="11" pm="."><plain>Latency and run time, although they improved in R2-R4, never attained the preoperative values </plain></SENT>
+<SENT sid="12" pm="."><plain>The brain tissues from rats treated with PF9601N showed only 15% and 50% of untreated rat MAO B and MAO A activity, respectively, despite the drug administration having been discontinued for 3 weeks </plain></SENT>
+<SENT sid="13" pm="."><plain>Other drugs examined did not influence MAO enzymes </plain></SENT>
+<SENT sid="14" pm="."><plain>Neither did <z:chebi fb="11" ids="18295">histamine</z:chebi> N-methyltransferase activity show changes related to BCCAO nor to the treatments </plain></SENT>
+<SENT sid="15" pm="."><plain>The hypothalamic HA concentration was significantly reduced after BCCAO: 1.13 ± 0.1 vs. 1.91 ± 0.16 </plain></SENT>
+<SENT sid="16" pm="."><plain>Noteworthy, the rats treated with PF9601N or DL76 had brain HA levels not significantly different from their intact counterparts </plain></SENT>
+<SENT sid="17" pm="."><plain>The rat vascular <z:hpo ids='HP_0000726'>dementia</z:hpo> model supports deficiency in histaminergic system in VD </plain></SENT>
+</text></document>

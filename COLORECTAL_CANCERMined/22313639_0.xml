@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>This study was designed to detect global gene expressions of primary advanced <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> (ACC) patients who have undergone FOLFOX4 chemotherapy and screen valuable biomarkers to predict the effects of chemotherapy </plain></SENT>
+<SENT sid="1" pm="."><plain>Samples from primary ACC patients who have undergone FOLFOX4 chemotherapy were collected </plain></SENT>
+<SENT sid="2" pm="."><plain>Their chemotherapy effects were evaluated and divided into chemotherapy sensitive group (experimental group) and non-sensitive group (control group) </plain></SENT>
+<SENT sid="3" pm="."><plain>Cancerous tissue gene expression profiles were detected by chip technology </plain></SENT>
+<SENT sid="4" pm="."><plain>Two groups with differentially expressed genes were screened by cluster analysis and significance analysis of microarrays (<z:chebi fb="75" ids="15414">SAM</z:chebi>) </plain></SENT>
+<SENT sid="5" pm="."><plain>Valuable biomarkers were screened by bioinformatics analysis </plain></SENT>
+<SENT sid="6" pm="."><plain>Immunohistochemical analysis was performed to characterize the pattern of Nkx2-3 and TGFB1I1 expression </plain></SENT>
+<SENT sid="7" pm="."><plain>Nkx2-3 and TGFB1I1 signal log ratio were used Receiver Operating Characteristic (ROC) analyses to calculate its own predicting accuracy </plain></SENT>
+<SENT sid="8" pm="."><plain>Thirty cases were divided into experimental group (13 cases) and control group (17 cases) </plain></SENT>
+<SENT sid="9" pm="."><plain>There was evident difference in the <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> cell biology states of the two groups; that is, 25 ESTs (21 genes) were upregulated and 5 ESTs (5 genes) were downregulated </plain></SENT>
+<SENT sid="10" pm="."><plain>Nkx2-3 protein was observed on the nucleus of the <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> cells and TGFB1I1 protein was observed on the nucleus and cytoplasm of the <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> cells in experimental group </plain></SENT>
+<SENT sid="11" pm="."><plain>Their prediction accuracies were 85.3% and 76.7% respectively </plain></SENT>
+<SENT sid="12" pm="."><plain>Nkx2-3 and TGFB1I1 expressions in control group are very low, but highly expressed in the experimental group; Nkx2-3 and TGFB1I1 may be classified as valuable biomarkers, as these can predict the effects of primary ACC patients who will undergo FOLFOX4 </plain></SENT>
+</text></document>

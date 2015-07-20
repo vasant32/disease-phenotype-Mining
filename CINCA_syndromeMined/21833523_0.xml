@@ -1,0 +1,20 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Cryopyrinopathies are a subgroup of autoinflammatory syndromes </plain></SENT>
+<SENT sid="1" pm="."><plain>Most cases have mutations in the CIAS1/NLRL3 gene, encoding the cryopyrin/NLRP3 protein </plain></SENT>
+<SENT sid="2" pm="."><plain>Cryopyrin, together with other proteins, is involved in the assembly of the cryopyrin/NLRP3 inflammasome </plain></SENT>
+<SENT sid="3" pm="."><plain>Mutations in CIAS1/NLRP3 result in increased IL-1β cleavage from biologically inactive pro-IL-1β </plain></SENT>
+<SENT sid="4" pm="."><plain>This results in systemic <z:mp ids='MP_0001845'>inflammation</z:mp> and three associated disorders of different severity, forming a clinical continuum with overlapping features </plain></SENT>
+<SENT sid="5" pm="."><plain>The mildest from, <z:e sem="disease" ids="C1610600" disease_type="Disease or Syndrome;Congenital Abnormality" abbrv="">familial cold autoinflammatory syndrome</z:e> (FCAS), is characterized by remitting <z:hpo ids='HP_0001945'>fevers</z:hpo>, <z:hpo ids='HP_0001025'>urticaria</z:hpo>-like <z:e sem="disease" ids="C0015230" disease_type="Disease or Syndrome" abbrv="">rash</z:e>, <z:e sem="disease" ids="C0162296" disease_type="Disease or Syndrome" abbrv="">polyarthralgia</z:e>/<z:hpo ids='HP_0001369'>arthritis</z:hpo>, and usually caused by cold exposure </plain></SENT>
+<SENT sid="6" pm="."><plain>More severe forms are <z:e sem="disease" ids="C0268390" disease_type="Disease or Syndrome" abbrv="">Muckle-Wells syndrome</z:e> (MWS) and <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CINCA</z:e>/<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">NOMID</z:e> </plain></SENT>
+<SENT sid="7" pm="."><plain>We report an 8-year-old boy with FCAS, who presented with overlapping features with MWS </plain></SENT>
+<SENT sid="8" pm="."><plain>He showed good response to seasonal anakinra treatment </plain></SENT>
+<SENT sid="9" pm="."><plain>Mutation analysis in CIAS1/NLRP3, PYCARD, and CASP1 was performed </plain></SENT>
+<SENT sid="10" pm="."><plain>Serum cytokine profiles, and cytokine expression from resting monocytes, and in response to mild <z:hpo ids='HP_0002045'>hypothermia</z:hpo>, and LPS stimulation were determined </plain></SENT>
+<SENT sid="11" pm="."><plain>Mutations in CIAS1/NLRP3, PYCARD, and CASP1 were not found </plain></SENT>
+<SENT sid="12" pm="."><plain>In response to mild <z:hpo ids='HP_0002045'>hypothermia</z:hpo>, an enhanced IL-1β expression by patient monocytes resulted in increased IL-6 and TNF-α secretion, as compared to control cells </plain></SENT>
+<SENT sid="13" pm="."><plain>The addition of the IL-1β receptor <z:chebi fb="68" ids="48706">antagonist</z:chebi> (anakinra) reversed these effects </plain></SENT>
+<SENT sid="14" pm="."><plain>In response to LPS stimulation, patient monocytes produced high level of IL-1β, IL-6 and TNF-α </plain></SENT>
+<SENT sid="15" pm="."><plain>This was markedly less pronounced in control monocytes </plain></SENT>
+<SENT sid="16" pm="."><plain>FCAS results in cold-induced cytokine dysregulation and systemic <z:mp ids='MP_0001845'>inflammation</z:mp> </plain></SENT>
+<SENT sid="17" pm="."><plain>Symptoms can be treated, using IL-1β <z:chebi fb="68" ids="48706">antagonists</z:chebi> </plain></SENT>
+<SENT sid="18" pm="."><plain>Further research is warranted, particularly in order to investigate pathophysiological mechanisms in "mutation negative" individuals </plain></SENT>
+</text></document>

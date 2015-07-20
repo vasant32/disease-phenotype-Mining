@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Mutations at splice junctions causing exon skipping are uncommon compared to exonic mutations, and two intronic mutations causing an aberrant phenotype have rarely been reported </plain></SENT>
+<SENT sid="1" pm="."><plain>Despite the high number of functional ABCA1 mutations reported to date, splice variants have been reported infrequently </plain></SENT>
+<SENT sid="2" pm="."><plain>We screened DNA from a 41 year-old male with low <z:chebi fb="0" ids="47775">HDL-C</z:chebi> (12 mg/dL [0.31 mmol/L]) and a family history of premature <z:e sem="disease" ids="C0010068" disease_type="Disease or Syndrome" abbrv="">coronary heart disease</z:e> (CHD) using polymerase chain reaction single-strand conformation polymorphism (SSCP) analysis </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: Family members with low levels of <z:chebi fb="0" ids="47775">HDL-C</z:chebi> (n = 6) were screened by SSCP for mutations in ABCA1 </plain></SENT>
+<SENT sid="4" pm="."><plain>Samples with altered SSCP patterns were sequenced directly using either an ABI 3700 or ABI3730Xl DNA Analyzer </plain></SENT>
+<SENT sid="5" pm="."><plain>To screen for splicing defects, cDNA was isolated from the proband's <z:chebi fb="40" ids="33697">RNA</z:chebi> and was sequenced as above </plain></SENT>
+<SENT sid="6" pm="."><plain>A series of minigenes were constructed to determine the contribution of <z:mpath ids='MPATH_458'>normal</z:mpath> and defective alleles </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: Two novel splice variants in ABCA1 were identified </plain></SENT>
+<SENT sid="8" pm="."><plain>The first mutation was a single base pair change (T-&gt;C) in IVS 7, 6 bps downstream from the exon7/intron7 junction </plain></SENT>
+<SENT sid="9" pm="."><plain>Amplification of cDNA and allelic subcloning identified skipping of Exon 7 that results in the elimination of 59 amino acids from the first extracellular loop of the ABCA1 protein </plain></SENT>
+<SENT sid="10" pm="."><plain>The second mutation was a single base pair change (G-&gt;C) at IVS 31 -1, at the intron/exon junction of exon 32 </plain></SENT>
+<SENT sid="11" pm="."><plain>This mutation causes skipping of exon 32, resulting in 8 novel amino acids followed by a stop codon and a predicted protein size of 1496 AA, compared to <z:mpath ids='MPATH_458'>normal</z:mpath> (2261 AA) </plain></SENT>
+<SENT sid="12" pm="."><plain>Bioinformatic studies predicted an impact on splicing as confirmed by in vitro assays of constitutive splicing </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSION: In addition to <z:chebi fb="1" ids="16347,3424">carnitine</z:chebi>-acylcarnitine translocase (CACT) deficiency and <z:e sem="disease" ids="C0079504" disease_type="Disease or Syndrome;Congenital Abnormality" abbrv="HPS">Hermansky-Pudlak syndrome</z:e> type 3, this represents only the third reported case in which 2 different splice mutations has resulted in an aberrant clinical phenotype </plain></SENT>
+</text></document>

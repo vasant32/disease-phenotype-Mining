@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIMS: During <z:hpo ids='HP_0001635'>heart failure</z:hpo> (HF), the left ventricle (LV) releases B-type natriuretic <z:chebi fb="7" ids="16670">peptide</z:chebi> (BNP), possibly contributing to adverse cardiovascular events including <z:hpo ids='HP_0004308'>ventricular arrhythmias</z:hpo> (VAs) and LV remodelling </plain></SENT>
+<SENT sid="1" pm="."><plain>We investigated the cardiac effects of <z:hpo ids='HP_0011010'>chronic</z:hpo> BNP elevation in healthy mice and compared the results with a model of HF after <z:hpo ids='HP_0001658'>myocardial infarction</z:hpo> (PMI mice) </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS AND RESULTS: Healthy mice were exposed to circulating BNP levels (BNP-Sham) similar to those measured in PMI mice </plain></SENT>
+<SENT sid="3" pm="."><plain>Telemetric surface electrocardiograms showed that in contrast with fibrotic PMI mice, electrical conduction was not affected in BNP-Sham mice </plain></SENT>
+<SENT sid="4" pm="."><plain>VAs were observed in both BNP-Sham and PMI but not in Sham mice </plain></SENT>
+<SENT sid="5" pm="."><plain>Analysis of heart rate variability indicated that <z:hpo ids='HP_0011010'>chronic</z:hpo> BNP infusion increased cardiac sympathetic tone </plain></SENT>
+<SENT sid="6" pm="."><plain>At the cellular level, BNP reduced Ca(2+) transients and impaired Ca(2+) reuptake in the sarcoplasmic reticulum, in line with blunted SR Ca(2+) ATPase 2a and S100A1 expression </plain></SENT>
+<SENT sid="7" pm="."><plain>BNP increased Ca(2+) spark frequency, reflecting Ca(2+) leak through <z:chebi fb="0" ids="8925">ryanodine</z:chebi> receptors, elevated diastolic Ca(2+), and promoted spontaneous Ca(2+) waves </plain></SENT>
+<SENT sid="8" pm="."><plain>Similar effects were observed in PMI mice </plain></SENT>
+<SENT sid="9" pm="."><plain>Most of these effects were reduced in BNP-Sham and PMI mice by the selective β1-<z:chebi fb="0" ids="37887">adrenergic blocker</z:chebi> <z:chebi fb="0" ids="6904">metoprolol</z:chebi> </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSION: Elevated BNP levels, by inducing sympathetic overdrive and altering Ca(2+) handling, promote adverse cardiac remodelling and VAs, which could account in part for the progression of HF after MI </plain></SENT>
+<SENT sid="11" pm="."><plain>The early use of β-blockers to prevent the deleterious effects of <z:hpo ids='HP_0011010'>chronic</z:hpo> BNP exposure may be beneficial in HF </plain></SENT>
+</text></document>

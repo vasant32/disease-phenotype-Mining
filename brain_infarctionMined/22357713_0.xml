@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: The relation between <z:mp ids='MP_0001845'>inflammation</z:mp> and brain MRI findings in the elderly remains poorly known </plain></SENT>
+<SENT sid="1" pm="."><plain>We investigated the association of circulating interleukin-6 (IL-6) and C-reactive protein (CRP) levels with baseline and longitudinal white matter hyperintensities (WMH), silent <z:e sem="disease" ids="C0751955" disease_type="Disease or Syndrome" abbrv="">brain infarction</z:e>, and brain volumes in community-dwelling elderly free of <z:hpo ids='HP_0000726'>dementia</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: We included 1,841 participants aged 65 to 80 years from the Three City-Dijon cohort </plain></SENT>
+<SENT sid="3" pm="."><plain>Participants followed an MRI examination at baseline and after a 4-year follow-up (n = 1,316) </plain></SENT>
+<SENT sid="4" pm="."><plain>IL-6 and CRP concentrations were measured at baseline from fasting blood samples </plain></SENT>
+<SENT sid="5" pm="."><plain>WMH were detected with an automatic imaging processing method and gray matter, hippocampal, white matter, and CSF volumes were estimated with voxel-based morphometry </plain></SENT>
+<SENT sid="6" pm="."><plain>Silent <z:e sem="disease" ids="C0751955" disease_type="Disease or Syndrome" abbrv="">brain infarctions</z:e> were assessed visually and defined as focal lesions of ≥3 mm in the absence of <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+<SENT sid="7" pm="."><plain>We used analysis of covariance and logistic regression to model the associations between inflammatory biomarkers and brain MRI findings adjusting for potential confounders </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: In cross-sectional analyses, higher IL-6 levels were associated with higher WMH volumes (p &lt; 0.01), lower gray matter (p = 0.001) and hippocampal (p = 0.01) volumes, and increasing CSF volumes (p = 0.002) in a dose-relationship pattern </plain></SENT>
+<SENT sid="9" pm="."><plain>Similar but weaker relations were observed for CRP </plain></SENT>
+<SENT sid="10" pm="."><plain>We observed no associations between baseline inflammatory biomarker levels and the evolution of MRI findings over 4 years </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: IL-6, and, to a lesser degree, CRP levels were associated with WMH severity as well as global markers of brain <z:mpath ids='MPATH_127'>atrophy</z:mpath> </plain></SENT>
+<SENT sid="12" pm="."><plain>These results suggest that an inflammatory process may be involved in both age-associated brain alterations </plain></SENT>
+</text></document>

@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Astrocytes play an active and important role in the pathophysiology of <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>We have previously shown that mature hipppocampal astrocytes functionally express two-pore domain <z:chebi fb="0" ids="29103">K(+)</z:chebi> channel TREK-1, which significantly contributes to the passive conductance and help to set the negative resting membrane potential essential for the optimal operation of some astrocytic homeostatic functions </plain></SENT>
+<SENT sid="2" pm="."><plain>However, its expression under ischemic conditions remains to be determined </plain></SENT>
+<SENT sid="3" pm="."><plain>In this study, we examined the expression of TREK-1 in rat brain under physiological and focal <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> conditions </plain></SENT>
+<SENT sid="4" pm="."><plain>The results show that TREK-1 was broadly expressed on astrocytes and neurons in the cortex, CA1 region of hippocampus </plain></SENT>
+<SENT sid="5" pm="."><plain>After middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> induced focal <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e>, the TREK-1 expression was significantly increased at days 3, 7 and 30 following reperfusion, which correlated with reactive <z:mp ids='MP_0003354'>astrogliosis</z:mp> in the cortex and hippocampus </plain></SENT>
+<SENT sid="6" pm="."><plain>Cultured cortical astrocytes also express TREK-1 </plain></SENT>
+<SENT sid="7" pm="."><plain>TREK-1 inhibitor <z:chebi fb="56" ids="15854">quinine</z:chebi> inhibited the proliferation of astrocytes exposed to <z:mp ids='MP_0005039'>hypoxia</z:mp> condition </plain></SENT>
+<SENT sid="8" pm="."><plain>These data provide evidence showing the astrocytic TREK-1 involvement in <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> pathology </plain></SENT>
+</text></document>

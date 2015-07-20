@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: The aim of this study was to determine the frequency and nature of errors made by computer electrocardiogram (ECG) analysis of <z:hpo ids='HP_0005110'>atrial fibrillation</z:hpo> (AF), and the clinical consequences </plain></SENT>
+<SENT sid="1" pm="."><plain>HYPOTHESIS: Computer software for interpreting ECGs has advanced </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: A total of 10279 ECGs were collected, automatically interpreted by the built-in ECG software, and then reread by 2 cardiologists </plain></SENT>
+<SENT sid="3" pm="."><plain>AF-related ECGs were classified into 3 groups: overinterpreted AF (rhythms other than AF interpreted as AF), misinterpreted AF (AF interpreted as rhythms other than AF), and true AF (AF interpreted as AF by both computer ECG interpretation and cardiologists) </plain></SENT>
+<SENT sid="4" pm="."><plain>RESULTS: There were 1057 AF-related ECGs from 409 patients </plain></SENT>
+<SENT sid="5" pm="."><plain>Among these, 840 ECGs (79.5%) were true AF </plain></SENT>
+<SENT sid="6" pm="."><plain>Overinterpretation occurred in 98 (9.3%) cases </plain></SENT>
+<SENT sid="7" pm="."><plain>Sinus rhythm and <z:hpo ids='HP_0011703'>sinus tachycardia</z:hpo> with <z:e sem="disease" ids="C0033036" disease_type="Disease or Syndrome" abbrv="">premature atrial contraction</z:e> and/or baseline artifact and sinus <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> were commonly overinterpreted as AF </plain></SENT>
+<SENT sid="8" pm="."><plain>Heart rate ≤60 bpm and baseline artifact significantly increased the likelihood of overinterpreted AF </plain></SENT>
+<SENT sid="9" pm="."><plain>Misdiagnosis occurred in 119 (11.3%) cases, in which AF was usually misdiagnosed as sinus or <z:hpo ids='HP_0004755'>supraventricular tachycardia</z:hpo> </plain></SENT>
+<SENT sid="10" pm="."><plain>The presence of <z:hpo ids='HP_0001649'>tachycardia</z:hpo> and low-amplitude atrial activity significantly increased the likelihood of misdiagnosis of AF </plain></SENT>
+<SENT sid="11" pm="."><plain>Among the erroneous computer ECG interpretations, 17 cases (7.8%) were not corrected by the ordering physicians and/or repeat computer-ECG interpretation; inappropriate follow-up studies or treatments of the patients were undertaken with no serious sequelae </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: Erroneous computer ECG interpretation of AF was not rare </plain></SENT>
+<SENT sid="13" pm="."><plain>Attention should be concentrated on educating physicians about ECG appearance and confounding factors of AF, along with ongoing quality control of built-in software for automatic ECG interpretation </plain></SENT>
+</text></document>

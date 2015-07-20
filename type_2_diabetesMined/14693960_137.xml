@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: To describe the changes in demographics, <z:chebi fb="0" ids="35526">antidiabetic</z:chebi> treatment, and glycemic control among the prevalent U.S. adult diagnosed type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> population between the National Health and Nutrition Examination Survey (NHANES) III (1988-1994) and the initial release of NHANES 1999-2000 </plain></SENT>
+<SENT sid="1" pm="."><plain>RESEARCH DESIGN AND METHODS: The study population was derived from NHANES III (n = 1,215) and NHANES 1999-2000 (n = 372) subjects who reported a diagnosis of type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> with available data on <z:mp ids='MP_0002055'>diabetes</z:mp> medication and HbA(1c) </plain></SENT>
+<SENT sid="2" pm="."><plain>Four therapeutic regimens were defined: diet only, insulin only, oral <z:chebi fb="0" ids="35526">antidiabetic</z:chebi> drugs (OADs) only, or OADs plus insulin </plain></SENT>
+<SENT sid="3" pm="."><plain>Multiple logistic regression was used to examine changes in <z:chebi fb="0" ids="35526">antidiabetic</z:chebi> regimens and glycemic control rates over time, adjusted for demographic and clinical risk factors </plain></SENT>
+<SENT sid="4" pm="."><plain>The outcome measure for glycemic control was HbA(1c) </plain></SENT>
+<SENT sid="5" pm="."><plain>Glycemic control rates were defined as the proportion of type 2 diabetic patients with HbA(1c) level &lt;7% </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: Dietary treatment in individuals with <z:mp ids='MP_0002055'>diabetes</z:mp> decreased as the sole therapy from 27.4 to 20.2% between the surveys </plain></SENT>
+<SENT sid="7" pm="."><plain>Insulin use also decreased from 24.2 to 16.4%, while those on OADs only increased from 45.4 to 52.5% </plain></SENT>
+<SENT sid="8" pm="."><plain>Combination of OADs and <z:e sem="disease" ids="C0020459" disease_type="Disease or Syndrome" abbrv="">insulin increased</z:e> from 3.1 to 11.0% </plain></SENT>
+<SENT sid="9" pm="."><plain>Glycemic control rates declined from 44.5% in NHANES III (1988-1994) to 35.8% in NHANES 1999-2000 </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSIONS: Treatment regimens among U.S. adults diagnosed with type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> have changed substantially over the past 10 years </plain></SENT>
+<SENT sid="11" pm="."><plain>However, a decrease in glycemic control rates was also observed during this time period </plain></SENT>
+<SENT sid="12" pm="."><plain>This trend may contribute to increased rates of macrovascular and microvascular <z:e sem="disease" ids="C0271672" disease_type="Disease or Syndrome" abbrv="">diabetic complications</z:e>, which may impact health care costs </plain></SENT>
+<SENT sid="13" pm="."><plain>Our data support the public health message of implementation of early, aggressive management of <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+</text></document>

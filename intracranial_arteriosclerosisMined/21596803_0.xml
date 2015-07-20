@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND PURPOSE: <z:hpo ids='HP_0002621'>Atherosclerosis</z:hpo> is a <z:e sem="disease" ids="C0442893" disease_type="Disease or Syndrome" abbrv="">systemic disease</z:e> that has been shown to cause various <z:e sem="disease" ids="C0007222" disease_type="Disease or Syndrome" abbrv="CVD">cardiovascular diseases</z:e> and <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>However, technologies to evaluate the volume of atherosclerotic plaque are limited </plain></SENT>
+<SENT sid="2" pm="."><plain>We present a method for determination of 3D plaque volume based on RA </plain></SENT>
+<SENT sid="3" pm="."><plain>MATERIALS AND METHODS: 3DRA images obtained from patients were used to evaluate the plaque </plain></SENT>
+<SENT sid="4" pm="."><plain>Six patients who were diagnosed with <z:mp ids='MP_0005338'>atherosclerotic lesions</z:mp> were included </plain></SENT>
+<SENT sid="5" pm="."><plain>The PR model developed for 3DRA was applied to analyze the geometry of the vessel and calculate the plaque volume </plain></SENT>
+<SENT sid="6" pm="."><plain>To validate the present method, we tested computer-generated phantoms with different degrees of stenosis </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: Application of PR to clinical cases allowed the estimation of plaque <z:mp ids='MP_0000002'>morphology</z:mp> and quantification of plaque volume </plain></SENT>
+<SENT sid="8" pm="."><plain>Technique validation showed that on average, PR can rebuild 92% of the plaque and provide satisfactory determination of plaque volume </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSIONS: A new approach to obtain plaque volume based on 3DRA is presented </plain></SENT>
+<SENT sid="10" pm="."><plain>The initial tests in 6 clinical cases and validation with different phantoms showed that this method is feasible </plain></SENT>
+<SENT sid="11" pm="."><plain>Further validation in a larger clinical series is required to assess the ultimate value of the present technique </plain></SENT>
+</text></document>

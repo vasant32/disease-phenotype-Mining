@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: There is an increasing trend for optical guidance techniques in surgery </plain></SENT>
+<SENT sid="1" pm="."><plain>Optical imaging using Diffuse Reflectance Spectroscopy (DRS) can distinguish different tissue types through a specific "optical fingerprint" </plain></SENT>
+<SENT sid="2" pm="."><plain>We investigated whether DRS could discriminate <z:e sem="disease" ids="C0027627" disease_type="Neoplastic Process" abbrv="mets">metastatic tumor</z:e> tissue from <z:mpath ids='MPATH_458'>normal</z:mpath> liver tissue and thus if this technique would have potential for further implementation into surgical instruments or radiological intervention tools </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: A miniaturized optical needle was developed able to collect DRS spectra between 500 and 1600 nm </plain></SENT>
+<SENT sid="4" pm="."><plain>Liver specimen of 24 patients operated for colorectal <z:e sem="disease" ids="C0494165" disease_type="Neoplastic Process" abbrv="">liver metastases</z:e> were analyzed with DRS immediately after resection </plain></SENT>
+<SENT sid="5" pm="."><plain>Multiple measurements were performed and DRS results were compared to the histology analysis of the measurement locations </plain></SENT>
+<SENT sid="6" pm="."><plain>In addition, <z:mpath ids='MPATH_458'>normal</z:mpath> liver tissue was scored for the presence or absence of <z:hpo ids='HP_0001397'>steatosis</z:hpo> </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: A total of 780 out of the 828 optical measurements were correctly classified into either <z:mpath ids='MPATH_458'>normal</z:mpath> or <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> tissue </plain></SENT>
+<SENT sid="8" pm="."><plain>The resulting sensitivity and specificity were both 94% </plain></SENT>
+<SENT sid="9" pm="."><plain>The results of the analysis for each patient individually showed an accuracy of 100% </plain></SENT>
+<SENT sid="10" pm="."><plain>The Spearman's rank correlation of DRS-estimated percentages of <z:hpo ids='HP_0001397'>hepatic steatosis</z:hpo> in liver tissue compared to that of the pathologist was 0.86 </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: DRS demonstrates a high accuracy in discriminating <z:mpath ids='MPATH_458'>normal</z:mpath> liver tissue from colorectal <z:e sem="disease" ids="C0494165" disease_type="Neoplastic Process" abbrv="">liver metastases</z:e> </plain></SENT>
+<SENT sid="12" pm="."><plain>DRS can also predict the degree of <z:hpo ids='HP_0001397'>hepatic steatosis</z:hpo> with high accuracy </plain></SENT>
+<SENT sid="13" pm="."><plain>The technique, here demonstrated in a needle like probe, may as such be incorporated into surgical tools for optical guided surgery or percutaneous needles for radiological interventions </plain></SENT>
+</text></document>

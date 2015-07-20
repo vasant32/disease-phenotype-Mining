@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Matrix metalloproteinases (MMPs) have been implicated in the pathophysiology of <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>In this study, we explored whether MMP activity can be visualized by noninvasive near-infrared fluorescence (NIRF) imaging using an MMP-activatable probe in a mouse model of <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>C57Bl6 mice were subjected to transient middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (MCAO) or sham operation </plain></SENT>
+<SENT sid="3" pm="."><plain>Noninvasive NIRF imaging was performed 24 h after probe injection, and target-to-background ratios (TBRs) between the two hemispheres were determined </plain></SENT>
+<SENT sid="4" pm="."><plain>TBRs were significantly higher in MCAO mice injected with the MMP-activatable probe than in sham-operated mice and in MCAO mice that were injected with the nonactivatable probe as controls </plain></SENT>
+<SENT sid="5" pm="."><plain>Treatment with an MMP inhibitor resulted in significantly lower TBRs and lesion volumes compared to injection of vehicle </plain></SENT>
+<SENT sid="6" pm="."><plain>To test the contribution of MMP-9 to the fluorescence signal, MMP9-deficient (MMP9(-/-)) mice and <z:mp ids='MP_0002169'>wild-type</z:mp> controls were subjected to MCAO of different durations to attain comparable lesion volumes </plain></SENT>
+<SENT sid="7" pm="."><plain>TBRs were significantly lower in MMP9(-/-) mice, suggesting a substantial contribution of MMP-9 activity to the signal </plain></SENT>
+<SENT sid="8" pm="."><plain>Our study shows that MMP activity after <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> can be imaged noninvasively with NIRF using an MMP-activatable probe, which might be a useful tool to study MMP activity in the pathophysiology of the disease </plain></SENT>
+</text></document>

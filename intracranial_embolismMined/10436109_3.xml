@@ -1,0 +1,19 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND PURPOSE: Asymptomatic embolic signal detection with the use of Doppler ultrasound has a number of potential clinical applications </plain></SENT>
+<SENT sid="1" pm="."><plain>However, its more widespread clinical use is severely limited by the lack of a reliable automated detection system </plain></SENT>
+<SENT sid="2" pm="."><plain>Design of such a system depends on accurate characterization of the unique features of embolic signals, which allow their differentiation from artifact and background Doppler speckle </plain></SENT>
+<SENT sid="3" pm="."><plain>We used a processing system with high temporal resolution to describe these features </plain></SENT>
+<SENT sid="4" pm="."><plain>We then used this information to design a new automated detection system </plain></SENT>
+<SENT sid="5" pm="."><plain>METHODS: We used a signal processing approach based on multiple overlapping band-pass filters to characterize 100 consecutive embolic signals from patients with <z:e sem="disease" ids="C0007273" disease_type="Disease or Syndrome" abbrv="">carotid artery disease</z:e> as well as both episodes of artifact resulting from probe tapping and facial movement and episodes of Doppler speckle </plain></SENT>
+<SENT sid="6" pm="."><plain>We then designed an automated detection system based both on these embolic signal characteristics and on the fact that embolic signals have maximum intensity over a narrow frequency range </plain></SENT>
+<SENT sid="7" pm="."><plain>This system was tested in real time on stored 5-second segments of data </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: The value of peak velocity at maximal intensity discriminated best between embolic signals and artifact and allowed differentiation with 100% sensitivity and specificity </plain></SENT>
+<SENT sid="9" pm="."><plain>Relative intensity increase, intensity volume, area under volume, average rise rate, and average fall rate appeared to discriminate best between embolic signals and Doppler speckle </plain></SENT>
+<SENT sid="10" pm="."><plain>For the majority of embolic signals, the intensity increase was spread over a narrow frequency or velocity range </plain></SENT>
+<SENT sid="11" pm="."><plain>The automated system we developed detected 296 of 325 <z:hpo ids='HP_0100546'>carotid stenosis</z:hpo> embolic signals from a new data set (sensitivity, 91.1%) </plain></SENT>
+<SENT sid="12" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> 200 episodes of artifact from a new data set were differentiated from embolic signals </plain></SENT>
+<SENT sid="13" pm="."><plain>Only 2 of 100 episodes of speckle were misidentified as embolic signals </plain></SENT>
+<SENT sid="14" pm="."><plain>CONCLUSIONS: Using a novel system for automated detection, which utilizes the fact that embolic signals have maximum intensity over a narrow frequency range, we have achieved detection with a high sensitivity and high specificity </plain></SENT>
+<SENT sid="15" pm="."><plain>These results are considerably better than those previously reported </plain></SENT>
+<SENT sid="16" pm="."><plain>We tested this initial system on short 5-second segments of data played in real time </plain></SENT>
+<SENT sid="17" pm="."><plain>This approach now needs to be developed for use in a true online system to determine whether it has sufficient sensitivity and specificity for clinical use </plain></SENT>
+</text></document>

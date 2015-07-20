@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Immunomodulatory drugs (IMiDs) are potent inhibitors of TNF-alpha and IL-1beta and elevators of IL-10 production in LPS-stimulated human PBMC </plain></SENT>
+<SENT sid="1" pm="."><plain>They are currently in clinical trials for various diseases, including <z:hpo ids='HP_0006775'>multiple myeloma</z:hpo>, <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo>, and <z:hpo ids='HP_0002861'>melanoma</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>In the present study, we have investigated the effects of thalidomide, CC-5013 and CC-4047 on the expression of COX-2 by stimulated PBMC </plain></SENT>
+<SENT sid="3" pm="."><plain>Our results show that thalidomide and IMiDs inhibited the expression of COX-2 but not the COX-1 protein in LPS-TNF-alpha and IL-1beta stimulated PBMC and shortened the half-life of COX-2 mRNA in a dose-dependent manner </plain></SENT>
+<SENT sid="4" pm="."><plain>They also inhibited the synthesis of <z:chebi fb="0" ids="15551">prostaglandin E2</z:chebi> from LPS-stimulated PBMC </plain></SENT>
+<SENT sid="5" pm="."><plain>While anti-TNF-alpha or IL-1beta neutralizing antibodies had no effect on COX-2 expression, anti-IL-10 neutralizing antibody elevated the expression of COX-2 mRNA, and protein from treated PBMC </plain></SENT>
+<SENT sid="6" pm="."><plain>These data suggest that the anti-inflammatory and anti-<z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> effects of IMiDs may be due in part to elevation of IL-10 production and its subsequent inhibition of COX-2 expression </plain></SENT>
+</text></document>

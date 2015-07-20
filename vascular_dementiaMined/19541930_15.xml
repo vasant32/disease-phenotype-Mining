@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:e sem="disease" ids="C0002395" disease_type="Disease or Syndrome" abbrv="SDAT">Alzheimer's disease</z:e> (AD) is thought to be caused by the accumulation of amyloid beta (Abeta) <z:chebi fb="7" ids="16670">peptide</z:chebi> within the brain </plain></SENT>
+<SENT sid="1" pm="."><plain>Endothelin-converting enzyme-2 (ECE-2), which is expressed in neural tissues, cleaves 'big endothelin' to produce the vasoconstrictor endothelin-1 </plain></SENT>
+<SENT sid="2" pm="."><plain>ECE-2 also degrades Abeta </plain></SENT>
+<SENT sid="3" pm="."><plain>We have examined ECE-2 expression in the temporal cortex of brain tissue from patients with AD, vascular <z:hpo ids='HP_0000726'>dementia</z:hpo>, and controls </plain></SENT>
+<SENT sid="4" pm="."><plain>Immunohistochemistry with specific antibodies showed ECE-2 to be abundant within pyramidal neurons in both the hippocampus and neocortex, but also to be present in certain astrocytes and microglia, particularly in AD brains </plain></SENT>
+<SENT sid="5" pm="."><plain>Quantitative real-time PCR showed ECE-2 mRNA to be markedly elevated in AD but not in vascular <z:hpo ids='HP_0000726'>dementia</z:hpo> </plain></SENT>
+<SENT sid="6" pm="."><plain>ECE-2 protein concentration, measured by sandwich enzyme-linked immunosorbent assay, was also significantly elevated in AD but not in vascular <z:hpo ids='HP_0000726'>dementia</z:hpo> </plain></SENT>
+<SENT sid="7" pm="."><plain>Exposure of SH-SY5Y human <z:hpo ids='HP_0003006'>neuroblastoma</z:hpo> cells to monomeric or oligomeric Abeta(1-42) caused an initial decrease in ECE-2 mRNA at 4 hours, but a marked increase by 24 hours </plain></SENT>
+<SENT sid="8" pm="."><plain>Our findings indicate that Abeta accumulation in AD is unlikely to be caused by ECE-2 deficiency </plain></SENT>
+<SENT sid="9" pm="."><plain>However, ECE-2 expression is up-regulated, perhaps to minimize Abeta accumulation, but this may also be a mechanism through which endothelin-1 production is increased and cerebral blood flow is reduced in AD </plain></SENT>
+<SENT sid="10" pm="."><plain>Our findings suggest that endothelin-1 receptor <z:chebi fb="68" ids="48706">antagonists</z:chebi>, already licensed for treating other diseases, could be of benefit in AD therapies </plain></SENT>
+</text></document>

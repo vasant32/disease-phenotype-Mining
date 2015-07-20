@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: To test the hypotheses that some thrombin-reactive anticardiolipin antibodies (aCL) may bind to protein C (PC) and/or activated PC (APC), and that some of the PC- and APC-reactive aCL may inhibit PC activation and/or the function of APC </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: We studied the reactivity of patient-derived monoclonal aCL with PC and APC </plain></SENT>
+<SENT sid="2" pm="."><plain>We examined the effects of the reactive antibodies on PC activation and on the activity of APC in plasma coagulation </plain></SENT>
+<SENT sid="3" pm="."><plain>RESULTS: Five of 5 patient-derived, thrombin-reactive monoclonal aCL bound to PC and APC </plain></SENT>
+<SENT sid="4" pm="."><plain>In addition, 1 patient-derived monoclonal antiprothrombin antibody (APT) that displayed aCL activity and reacted with thrombin also bound to PC and APC </plain></SENT>
+<SENT sid="5" pm="."><plain>Of these 6 PC- and APC-reactive aCL/APT, <z:hpo ids='HP_0000001'>all</z:hpo> failed to inhibit PC activation, but 1 (CL15) shortened the plasma coagulation time in the presence of exogenous APC and thus inhibited the <z:chebi fb="3" ids="50249">anticoagulant</z:chebi> function of APC </plain></SENT>
+<SENT sid="6" pm="."><plain>CONCLUSION: Most of the thrombin-reactive aCL in patients with <z:e sem="disease" ids="C0085278" disease_type="Disease or Syndrome" abbrv="">antiphospholipid syndrome</z:e> may bind to PC and APC </plain></SENT>
+<SENT sid="7" pm="."><plain>Of the APC-reactive aCL, some (like CL15) may inhibit the <z:chebi fb="3" ids="50249">anticoagulant</z:chebi> function of APC and are thus likely to be prothrombotic in the host </plain></SENT>
+</text></document>

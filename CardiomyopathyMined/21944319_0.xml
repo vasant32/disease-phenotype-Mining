@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>After a <z:hpo ids='HP_0001658'>myocardial infarction</z:hpo> (MI), an increase in the cardiac ratio of matrix metalloproteinases (MMPs) relative to their inhibitors (TIMPs) causes extracellular matrix modulation that leads to <z:hpo ids='HP_0002119'>ventricular dilatation</z:hpo> and <z:hpo ids='HP_0001635'>congestive heart failure</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Cell therapy can mitigate these effects </plain></SENT>
+<SENT sid="2" pm="."><plain>In this study, we tested whether increasing MMP inhibition via cell-based gene transfer of Timp-3 further preserved ventricular morphometry and cardiac function in a rat model of MI </plain></SENT>
+<SENT sid="3" pm="."><plain>We also measured the effect of treatment timing </plain></SENT>
+<SENT sid="4" pm="."><plain>We generated MI (coronary artery ligation) in adult rats </plain></SENT>
+<SENT sid="5" pm="."><plain>Three or 14 days later, we implanted medium (control) or vascular smooth muscle cells transfected with empty vector (VSMCs) or Timp-3 (C-TIMP-3) into the peri-<z:mpath ids='MPATH_124'>infarct</z:mpath> region (n = 15-24/group) </plain></SENT>
+<SENT sid="6" pm="."><plain>We assessed MMP-2 and -9 expression and activity, TIMP-3, and TNF-α expression, cell <z:mpath ids='MPATH_3'>apoptosis</z:mpath>, <z:mpath ids='MPATH_124'>infarct</z:mpath> size and thickness, ventricular morphometry, and cardiac function (by echocardiography) </plain></SENT>
+<SENT sid="7" pm="."><plain>Relative to medium, VSMCs delivered at either time point significantly reduced cardiac expression and activity of MMP-2 and -9, reduced expression of TNF-α, and increased expression of TIMP-3 </plain></SENT>
+<SENT sid="8" pm="."><plain>Cell therapy also <z:mp ids='MP_0006043'>reduced apoptosis</z:mp> and scar area, increased <z:mpath ids='MPATH_124'>infarct</z:mpath> thickness, preserved ventricular structure, and reduced functional loss </plain></SENT>
+<SENT sid="9" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> these effects were augmented by C-TIMP-3 treatment </plain></SENT>
+<SENT sid="10" pm="."><plain>Survival and cardiac function were significantly greater when VSMCs or C-TIMP-3 were delivered at 3 (vs. 14) days after MI </plain></SENT>
+<SENT sid="11" pm="."><plain>Upregulating <z:e sem="disease" ids="C0856742" disease_type="Disease or Syndrome" abbrv="">post-MI</z:e> cardiac TIMP-3 expression via cell-based gene therapy contributed additional regulation of MMP, TIMP, and TNF-α levels, thereby boosting the structural and functional effects of VSMCs transplanted at 3 or 14 days after an MI in rats </plain></SENT>
+<SENT sid="12" pm="."><plain>Early treatment may be superior to late, though both are effective </plain></SENT>
+</text></document>

@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PURPOSE: <z:e sem="disease" ids="C0004903" disease_type="Disease or Syndrome;Congenital Abnormality" abbrv="">Beckwith-Wiedemann Syndrome</z:e> is caused by defects in imprinted gene expression at 11p15 </plain></SENT>
+<SENT sid="1" pm="."><plain>Currently, quantitative Southern analysis using DNA methylation-sensitive restriction enzymes is used in molecular diagnosis of this syndrome </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: We describe a rapid and highly quantitative test for assessing DNA methylation at 11p15 using <z:chebi fb="0" ids="26709">sodium bisulfite</z:chebi> treatment of genomic DNA coupled with quantitative TaqMan methylation-sensitive polymerase chain reaction </plain></SENT>
+<SENT sid="3" pm="."><plain>RESULTS: TaqMan MSP can assess DNA methylation at both differentially methylated region (DMR)1 and DMR2 at 11p15 </plain></SENT>
+<SENT sid="4" pm="."><plain>In addition, by using TaqMan MSP we were able to determine the parent of origin of a duplication of 11p15 by quantification of both DMR1 and DMR2 DNA methylation </plain></SENT>
+<SENT sid="5" pm="."><plain>CONCLUSION: TaqMan MSP method is a robust and rapid method for detecting changes in DNA methylation that compares favorably to the current standard of Southern blot for DNA methylation analysis </plain></SENT>
+<SENT sid="6" pm="."><plain>Assessment of DMR1 and DMR2 provides the most comprehensive assay for methylation defects in <z:e sem="disease" ids="C0004903" disease_type="Disease or Syndrome;Congenital Abnormality" abbrv="">Beckwith Wiedemann Syndrome</z:e>, accounting for more than 70% of the cases </plain></SENT>
+<SENT sid="7" pm="."><plain>The advantages of TaqMan MSP are that it requires less DNA and that it is rapid, less labor-intensive, and amenable to high-throughput analysis </plain></SENT>
+<SENT sid="8" pm="."><plain>Moreover, this approach can be modified to assess DNA methylation changes anywhere in the genome </plain></SENT>
+</text></document>

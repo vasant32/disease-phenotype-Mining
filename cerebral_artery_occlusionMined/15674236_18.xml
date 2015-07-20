@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:chebi fb="1" ids="50694">Minocycline</z:chebi> is protective in models of transient middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (MCAO) </plain></SENT>
+<SENT sid="1" pm="."><plain>We studied whether <z:chebi fb="1" ids="50694">minocycline</z:chebi> and <z:chebi fb="1" ids="50845">doxycycline</z:chebi>, another <z:chebi fb="9" ids="27902">tetracycline</z:chebi> derivative, provide protection in permanent MCAO </plain></SENT>
+<SENT sid="2" pm="."><plain>Because <z:chebi fb="1" ids="50694">minocycline</z:chebi> inhibits matrix metalloprotease-9 (MMP-9), we also compared <z:chebi fb="1" ids="50694">minocycline</z:chebi>'s protective effect in <z:mp ids='MP_0002169'>wild type</z:mp> (wt) and MMP-9 knock-out (ko) mice </plain></SENT>
+<SENT sid="3" pm="."><plain>Wt FVB/N, Balb/C, and two lines of MMP-9 ko and their wt C57Bl/6 control mice were subjected to 24- or 72-hour permanent MCAO </plain></SENT>
+<SENT sid="4" pm="."><plain>Drug administration was started either 12 hours before or 2 hours after the <z:hpo ids='HP_0003674'>onset</z:hpo> of MCAO </plain></SENT>
+<SENT sid="5" pm="."><plain><z:mpath ids='MPATH_124'>Infarct</z:mpath> size was determined by triphenyltetrazolium staining or T2-weighted MRI </plain></SENT>
+<SENT sid="6" pm="."><plain>Zymography was used to study the expression of MMPs </plain></SENT>
+<SENT sid="7" pm="."><plain>In wt strains, <z:chebi fb="9" ids="27902">tetracycline</z:chebi> treatments started before MCAO reduced the <z:mpath ids='MPATH_124'>infarct</z:mpath> size by 25% to 50%, whereas the treatment started after MCAO was not protective </plain></SENT>
+<SENT sid="8" pm="."><plain><z:chebi fb="1" ids="50694">Minocycline</z:chebi> inhibited <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e>-provoked pro-MMP-9 induction in wt mice, but was not protective in MMP-9 ko mice </plain></SENT>
+<SENT sid="9" pm="."><plain>Pro-MMP-2 was induced by MCAO in wt and MMP-9 ko mice </plain></SENT>
+<SENT sid="10" pm="."><plain>MCAO-induced pro-MMP-2 was downregulated by <z:chebi fb="1" ids="50694">minocycline</z:chebi> treatment in wt mice but remained in MMP-9 ko mice at the same level as in saline-treated wt mice </plain></SENT>
+<SENT sid="11" pm="."><plain><z:chebi fb="9" ids="27902">Tetracyclines</z:chebi> are protective in permanent MCAO when the treatment is started before the insult </plain></SENT>
+<SENT sid="12" pm="."><plain><z:chebi fb="1" ids="50694">Minocycline</z:chebi> may provide protection by interfering with MMPs </plain></SENT>
+</text></document>

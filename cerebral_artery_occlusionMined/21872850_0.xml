@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Oxygen therapy (OT) with hyperbaric oxygen (HBO) or normobaric <z:mp ids='MP_0002319'>hyperoxia</z:mp> (NBO) improves the oxygenation of penumbral tissue in experimental <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>However, whether this results in the improvement of energy metabolism is unclear </plain></SENT>
+<SENT sid="2" pm="."><plain>We investigated the effect of both OTs on tissue <z:hpo ids='HP_0001941'>acidosis</z:hpo> and on ATP production </plain></SENT>
+<SENT sid="3" pm="."><plain>Beginning 25 min after filament middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (MCAO), mice breathed either air, 100% O₂ (NBO), or 100% O₂ at 3 ata (HBO) for 60 min </plain></SENT>
+<SENT sid="4" pm="."><plain>Regional tissue pH was measured using the <z:chebi fb="0" ids="27510">umbelliferone</z:chebi> fluorescence </plain></SENT>
+<SENT sid="5" pm="."><plain>Regional ATP concentration was depicted by substrate-specific bioluminescence </plain></SENT>
+<SENT sid="6" pm="."><plain>Severity of <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> did not differ among groups in laser-Doppler flowmetry </plain></SENT>
+<SENT sid="7" pm="."><plain>Both NBO (70.1±14.0 mm³) and, more effectively, HBO (57.2±11.9 mm³) significantly reduced volume of tissue <z:hpo ids='HP_0001941'>acidosis</z:hpo> compared to air (89.4±4.0 mm³), p&lt;0.05) </plain></SENT>
+<SENT sid="8" pm="."><plain>Topographically, <z:hpo ids='HP_0001941'>acidosis</z:hpo> was less pronounced in the medial striatum and in the cortical ischemic border areas </plain></SENT>
+<SENT sid="9" pm="."><plain>This resulted in significantly smaller volumes of ATP <z:mpath ids='MPATH_63'>depletion</z:mpath> (77.8±7.7 mm³ in air, 61.4±15.2 mm³ in NBO and 51.2±14.4 mm³ in HBO; p&lt;0.05) </plain></SENT>
+<SENT sid="10" pm="."><plain>In conclusion, OT significantly improves energy metabolism in the border zones of focal <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> which are the areas protected by OT in this model </plain></SENT>
+</text></document>

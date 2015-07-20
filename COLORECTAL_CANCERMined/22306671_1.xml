@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Targeting the epidermal growth factor receptor (EGFR) is a new therapeutic option for patients with metastatic colorectal or <z:mp ids='MP_0008714'>lung carcinoma</z:mp> </plain></SENT>
+<SENT sid="1" pm="."><plain>However, the therapy efficiency highly depends on the KRAS mutation status in the given <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumour</z:e> </plain></SENT>
+<SENT sid="2" pm="."><plain>Therefore a reliable and secure KRAS mutation testing is crucial </plain></SENT>
+<SENT sid="3" pm="."><plain>Here we investigated 100 colorectal <z:mp ids='MP_0002038'>carcinoma</z:mp> samples with known KRAS mutation status (62 mutated cases and 38 <z:mp ids='MP_0002169'>wild type</z:mp> cases) in a comparative manner with three different KRAS mutation testing techniques (Pyrosequencing, Dideoxysequencing and INFINITI) in order to test their reliability and sensitivity </plain></SENT>
+<SENT sid="4" pm="."><plain>For the large majority of samples (96/100, 96%), the KRAS mutation status obtained by <z:hpo ids='HP_0000001'>all</z:hpo> three methods was the same </plain></SENT>
+<SENT sid="5" pm="."><plain>Only two cases with clear discrepancies were observed </plain></SENT>
+<SENT sid="6" pm="."><plain>One case was reported as <z:mp ids='MP_0002169'>wild type</z:mp> by the INFINITI method while the two other methods detected a G13C mutation </plain></SENT>
+<SENT sid="7" pm="."><plain>In the second case the mutation could be detected by the Pyrosequencing and INFINITI method (15% and 15%), while no signal for mutation could be observed with the Dideoxysequencing method </plain></SENT>
+<SENT sid="8" pm="."><plain>Additional two unclear results were due to a detection of a G12V with the INFINITI method, which was below cut-off when repeated and which was not detectable by the other two methods and very weak signals in a G12V mutated case with the Dideoxy- and Pyroseqencing method compared to the INFINITI method, respectively </plain></SENT>
+<SENT sid="9" pm="."><plain>In summary <z:hpo ids='HP_0000001'>all</z:hpo> three methods are reliable and robust methods in detecting KRAS mutations </plain></SENT>
+<SENT sid="10" pm="."><plain>INFINITI, however seems to be slightly more sensitive compared to Dideoxy- and Pyrosequencing </plain></SENT>
+</text></document>

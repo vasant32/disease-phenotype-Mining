@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Coxsackievirus B3 (CVB3), along with other enteroviruses, is involved in about 50% of <z:mp ids='MP_0001856'>myocarditis</z:mp> cases and in the pathogenesis of <z:hpo ids='HP_0001644'>dilated cardiomyopathy</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Prevention of CVB3 <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infection</z:e> is therefore highly desirable </plain></SENT>
+<SENT sid="2" pm="."><plain>Virus-like particles (VLPs) are structurally similar to native virus particles and therefore are far better immunogens than any other subunit vaccines </plain></SENT>
+<SENT sid="3" pm="."><plain>Recombinant baculoviruses carrying either the intact, entire coding region of CVB3 or the four individual coding regions for virus proteins 1-4 (VP1-4) were constructed </plain></SENT>
+<SENT sid="4" pm="."><plain>Expression of CVB3 capsid proteins in insect cells infected with recombinant baculovirus was detected by immunofluorescence and Western blot analysis </plain></SENT>
+<SENT sid="5" pm="."><plain><z:chebi fb="27" ids="17992">Sucrose</z:chebi> gradient ultracentrifugation fractions of the infected cell lysates contained peaks of CVB3 antigen with an approximate density of 1.14g/ml </plain></SENT>
+<SENT sid="6" pm="."><plain>Electron microscopy demonstrated the presence of VLP in these <z:chebi fb="27" ids="17992">sucrose</z:chebi> fractions </plain></SENT>
+<SENT sid="7" pm="."><plain>The CVB3 VLP was non-infectious in tissue culture </plain></SENT>
+<SENT sid="8" pm="."><plain>SWR (H-2(q)) mice vaccinated with CVB3 VLP developed antibodies to CVB3 capsid proteins after the first boost </plain></SENT>
+<SENT sid="9" pm="."><plain>Antibody titre was comparable to the level induced by an attenuated CVB3 vaccine </plain></SENT>
+<SENT sid="10" pm="."><plain>Vaccinated animals were protected from <z:mp ids='MP_0001856'>myocarditis</z:mp> when subsequently challenged with cardiovirulent CVB3 (chimera-2) </plain></SENT>
+<SENT sid="11" pm="."><plain>Vaccination with VLP produced from the complete CVB3 coding region gave a greater immune response and afforded better protection than with VLP from the quadruple expression vector </plain></SENT>
+<SENT sid="12" pm="."><plain>These results demonstrate that CVB3 capsid proteins expressed in insect cells have the intrinsic capacity to assemble into non-infectious VLP, which afforded protection from CVB3 <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infection</z:e> to mice when used as a vaccine </plain></SENT>
+</text></document>

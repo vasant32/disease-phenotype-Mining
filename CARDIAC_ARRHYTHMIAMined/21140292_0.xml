@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Automatic classification of the electrocardiogram (ECG) signals is an important subject for clinical diagnosis of <z:e sem="disease" ids="C0018799" disease_type="Disease or Syndrome" abbrv="">heart disease</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>This study investigates the design of a high-efficient system to classify five types of ECG beat namely <z:mpath ids='MPATH_458'>normal</z:mpath> beats and four manifestations of heart <z:hpo ids='HP_0011675'>arrhythmia</z:hpo>, in twofold </plain></SENT>
+<SENT sid="2" pm="."><plain>First, we propose a system that includes two main modules: a feature extraction module and a classification module </plain></SENT>
+<SENT sid="3" pm="."><plain>Feature extraction module extracts a suitable combination of the ECG's morphological characteristics and timing interval features </plain></SENT>
+<SENT sid="4" pm="."><plain>Discrete wavelet transform is used to extract the morphological features </plain></SENT>
+<SENT sid="5" pm="."><plain>In the classification module, a multi-class support vector machine (SVM)-based classifier is employed </plain></SENT>
+<SENT sid="6" pm="."><plain>The parameters of this system are determined based on a trial and error method and its performance is evaluated for the <z:chebi fb="75" ids="27847,53620">MIT</z:chebi>-BIH <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> database </plain></SENT>
+<SENT sid="7" pm="."><plain>Extensive experiments on the parameters of this system such as classifier kernels and various types of features are conducted </plain></SENT>
+<SENT sid="8" pm="."><plain>These experiments show that in SVM training, the kernels, kernel parameters, and feature selection have very important roles for SVM classification accuracy </plain></SENT>
+<SENT sid="9" pm="."><plain>Therefore, most appropriates of these parameters should be used for SVM training </plain></SENT>
+<SENT sid="10" pm="."><plain>Then at the second fold, a novel hybrid intelligent system (HIS) is proposed that consists of three main modules </plain></SENT>
+<SENT sid="11" pm="."><plain>In the HIS, further to the two mentioned modules, an optimization module is added </plain></SENT>
+<SENT sid="12" pm="."><plain>In this module, a genetic algorithm is used for optimization of the relevant parameters of system </plain></SENT>
+<SENT sid="13" pm="."><plain>These parameters are: wavelet filter type for feature extraction, wavelet decomposition level, and classifier's parameters </plain></SENT>
+<SENT sid="14" pm="."><plain>Experimental results show that optimization improves the recognition system, efficiently, and HIS is more superior to the system, which as constant parameters </plain></SENT>
+</text></document>

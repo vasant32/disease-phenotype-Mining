@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND:: <z:e sem="disease" ids="C0268390" disease_type="Disease or Syndrome" abbrv="">Muckle-Wells syndrome</z:e> (MWS) is an inherited autoinflammatory disease caused by NLRP3 gene mutations which result in excessive interleukin-1 (IL-1) release </plain></SENT>
+<SENT sid="1" pm="."><plain>It is characterized by severe <z:hpo ids='HP_0001945'>fevers</z:hpo>, <z:e sem="disease" ids="C0015230" disease_type="Disease or Syndrome" abbrv="">rashes</z:e>, <z:hpo ids='HP_0002829'>arthralgia</z:hpo>, and <z:hpo ids='HP_0000509'>conjunctivitis</z:hpo>, leading to <z:hpo ids='HP_0000407'>sensorineural deafness</z:hpo> and <z:hpo ids='HP_0011034'>amyloidosis</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>The recombinant IL-1 receptor <z:chebi fb="68" ids="48706">antagonist</z:chebi> anakinra blocks the biologic activity of IL-1 </plain></SENT>
+<SENT sid="3" pm="."><plain>The aim of this study was to report the short- and long-term efficacy and safety of anakinra therapy in children and adults with severe MWS </plain></SENT>
+<SENT sid="4" pm="."><plain>PATIENTS AND METHODS:: A single center observational study was performed </plain></SENT>
+<SENT sid="5" pm="."><plain>Standardized assessments included clinical features, the MWS disease activity score (MWS-DAS), classical and novel inflammatory markers, and patient-derived measures of health </plain></SENT>
+<SENT sid="6" pm="."><plain>Outcome: MWS-DAS &lt;10 at 2 weeks and at last follow-up </plain></SENT>
+<SENT sid="7" pm="."><plain>Analysis: Measures of MWS disease activity were analyzed using descriptive statistics and paired comparative analysis </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS:: A total of 12 patients with severe MWS (5 children, 7 adults) received anakinra for a median time of 11months (5-14) </plain></SENT>
+<SENT sid="9" pm="."><plain>Disease activity was significantly lower in <z:hpo ids='HP_0000001'>all</z:hpo> patients at 2 weeks (p=0.0005) </plain></SENT>
+<SENT sid="10" pm="."><plain>MWS organ manifestations improved, as did <z:hpo ids='HP_0000001'>all</z:hpo> patient-derived measures of health, inflammatory markers, and hearing loss in two patients </plain></SENT>
+<SENT sid="11" pm="."><plain>The novel neutrophil activation biomarker S100A12 followed clinical disease activity </plain></SENT>
+<SENT sid="12" pm="."><plain>Treatment was well tolerated, and no serious adverse events were observed </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSION:: Anakinra was a safe and effective treatment for severe MWS, leading to a significant improvement of disease activity at 2 weeks and long-term </plain></SENT>
+<SENT sid="14" pm="."><plain>Anakinra therapy therefore should be considered in children and adults with severe MWS disease requiring IL-1 blockade </plain></SENT>
+</text></document>

@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>TO DATE, TWO MAIN CATEGORIES OF OCT TECHNIQUES HAVE BEEN DESCRIBED FOR IMAGING HEMODYNAMICS: Doppler OCT and OCT angiography </plain></SENT>
+<SENT sid="1" pm="."><plain>Doppler OCT can measure axial velocity profiles and flow in arteries and veins, while OCT angiography can determine vascular <z:mp ids='MP_0000002'>morphology</z:mp>, tone, and presence or absence of red blood cell (RBC) perfusion </plain></SENT>
+<SENT sid="2" pm="."><plain>However, neither method can quantify RBC velocity in capillaries, where RBC flow is typically transverse to the probe beam and single-file </plain></SENT>
+<SENT sid="3" pm="."><plain>Here, we describe new methods that potentially address these limitations </plain></SENT>
+<SENT sid="4" pm="."><plain>Firstly, we describe a complex-valued OCT signal in terms of a static scattering component, dynamic scattering component, and noise </plain></SENT>
+<SENT sid="5" pm="."><plain>Secondly, we propose that the time scale of random fluctuations in the dynamic scattering component are related to red blood cell velocity </plain></SENT>
+<SENT sid="6" pm="."><plain>Analysis was performed along the slow axis of repeated B-scans to parallelize measurements </plain></SENT>
+<SENT sid="7" pm="."><plain>We correlate our purported velocity measurements against two-<z:chebi fb="23" ids="30212">photon</z:chebi> microscopy measurements of RBC velocity, and investigate changes during <z:mp ids='MP_0002318'>hypercapnia</z:mp> </plain></SENT>
+<SENT sid="8" pm="."><plain>Finally, we image the <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> penumbra during distal middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (dMCAO), where OCT velocimetry methods provide additional insight that is not afforded by either Doppler OCT or OCT angiography </plain></SENT>
+</text></document>

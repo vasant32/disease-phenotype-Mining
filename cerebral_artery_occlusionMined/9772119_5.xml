@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Cell <z:hpo ids='HP_0011420'>death</z:hpo> after <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> is mediated by a massive release of excitatory amino acids, generation of free radicals, and - a crucial step - calcium influx into cells </plain></SENT>
+<SENT sid="1" pm="."><plain>We examined the hypothesis that concurrent administration of drugs ameliorating brain damage via different mechanisms would result in a synergistic neuroprotective effect </plain></SENT>
+<SENT sid="2" pm="."><plain>The neuroprotective efficacy of two clinically available drugs - the <z:chebi fb="0" ids="31882">N-methyl-D-aspartate</z:chebi> and calcium-channel <z:chebi fb="68" ids="48706">antagonist</z:chebi> <z:chebi fb="0" ids="4470">dextromethorphan</z:chebi> (DM) and the <z:chebi fb="11" ids="22586">antioxidant</z:chebi> tirilazad - were studied in monotherapy and in combination in a rat model of transient focal <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> </plain></SENT>
+<SENT sid="3" pm="."><plain>Male Sprague-Dawley rats were subjected to 90 min of middle-cerebral-<z:mp ids='MP_0006134'>artery occlusion</z:mp> by an intraluminal filament technique </plain></SENT>
+<SENT sid="4" pm="."><plain>The animals were randomly assigned to one of four treatments (n=10 each): (1) vehicle-treated controls, (2) DM, (3) tirilazad, (4) DM+tirilazad </plain></SENT>
+<SENT sid="5" pm="."><plain>Drugs or vehicles were administered 15 min before <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> and at reperfusion </plain></SENT>
+<SENT sid="6" pm="."><plain>Local cerebral blood flow (LCBF) was bilaterally recorded by continuous laser Doppler flowmetry </plain></SENT>
+<SENT sid="7" pm="."><plain>Functional deficits were quantified by daily neurological examinations </plain></SENT>
+<SENT sid="8" pm="."><plain><z:mpath ids='MPATH_124'>Infarct</z:mpath> volume was assessed planimetrically after 7 days </plain></SENT>
+<SENT sid="9" pm="."><plain>DM prevented post-ischemic hypoperfusion </plain></SENT>
+<SENT sid="10" pm="."><plain>Tirilazad did not influence LCBF </plain></SENT>
+<SENT sid="11" pm="."><plain>Monotherapy with DM or tirilazad improved neurological function and reduced <z:mpath ids='MPATH_124'>infarct</z:mpath> volume by 45% and 48%, respectively </plain></SENT>
+<SENT sid="12" pm="."><plain>Combination therapy failed to influence neurological recovery and <z:mpath ids='MPATH_124'>infarct</z:mpath> volume </plain></SENT>
+<SENT sid="13" pm="."><plain>Although, from pharmacological point of view, a synergistic neuroprotective effect is expected, combination of <z:chebi fb="0" ids="4470">dextromethorphan</z:chebi> and tirilazad may lead to mutual inhibition or potentiate adverse effects </plain></SENT>
+</text></document>

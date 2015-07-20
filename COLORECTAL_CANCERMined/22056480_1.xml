@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PURPOSE: To determine whether 3-hydroxy-3-methylglutaryl <z:chebi fb="3" ids="15346">coenzyme A</z:chebi> inhibitors (<z:chebi fb="0" ids="35664">statins</z:chebi>) are associated with a decreased risk of <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: The population included 159,219 postmenopausal women enrolled in the Women's Health Initiative in which 2000 pathologically confirmed cases of <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> were identified during an average of 10.7 (S.D </plain></SENT>
+<SENT sid="2" pm="."><plain>2.9) years </plain></SENT>
+<SENT sid="3" pm="."><plain>Information on <z:chebi fb="0" ids="35664">statins</z:chebi> was collected at baseline and years 1, 3, 6, and 9 </plain></SENT>
+<SENT sid="4" pm="."><plain>Self- and interviewer-administered questionnaires were used to collect information on other risk factors </plain></SENT>
+<SENT sid="5" pm="."><plain>Hazard ratios (HRs) and 95% confidence intervals (CIs) were calculated by the use of Cox proportional hazards regression to evaluate the relationship between <z:chebi fb="0" ids="35664">statin</z:chebi> use and risk </plain></SENT>
+<SENT sid="6" pm="."><plain>Statistical tests were two-sided </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: <z:chebi fb="0" ids="35664">Statins</z:chebi> were used by 12,030 (7.6%) women at baseline </plain></SENT>
+<SENT sid="8" pm="."><plain>The annualized <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> rate was 0.13% among users and 0.12% among nonusers </plain></SENT>
+<SENT sid="9" pm="."><plain>The multivariable adjusted HR for users versus nonusers was 0.99 (95% confidence interval [CI], 0.83-1.20, p = .95), and 0.79 (95% CI, 0.56-1.11) for users of ≥3 years </plain></SENT>
+<SENT sid="10" pm="."><plain>In the multivariable adjusted time-dependent model, the HR for <z:chebi fb="0" ids="40303">lovastatin</z:chebi> was 0.62 (95% CI, 0.39-0.99) </plain></SENT>
+<SENT sid="11" pm="."><plain>There was no effect of <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> location, stage or grade </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: There was a reduction in <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> risk associated with <z:chebi fb="0" ids="40303">lovastatin</z:chebi> and a nonsignificant association with longer duration of use </plain></SENT>
+</text></document>

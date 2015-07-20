@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND PURPOSE: Considerable clinical and radiological overlap between vascular <z:hpo ids='HP_0000726'>dementia</z:hpo> (VaD) and <z:hpo ids='HP_0002511'>Alzheimer disease</z:hpo> (AD) often makes the diagnosis difficult </plain></SENT>
+<SENT sid="1" pm="."><plain>Diffusion-tensor imaging studies showed that fractional anisotropy (FA) could be a useful marker for white matter changes </plain></SENT>
+<SENT sid="2" pm="."><plain>This study aimed to identify regional FA changes to identify a biomarker that could be used to differentiate VaD from AD </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: T1-weighted and diffusion-tensor imaging scans were obtained in 13 VaD patients, 16 AD patients, and 22 healthy elderly controls </plain></SENT>
+<SENT sid="4" pm="."><plain>We used tract-based spatial statistics to study regional changes in fractional anisotropy in AD, VaD, and elderly controls </plain></SENT>
+<SENT sid="5" pm="."><plain>We then used probabilistic tractography to parcel the corpus callosum in 7 regions according to its connectivity with major cerebral cortices using diffusion-tensor imaging data set </plain></SENT>
+<SENT sid="6" pm="."><plain>We compared the volume and mean FA in each set of transcallosal fibers between groups using ANOVA and then applied a discriminant analysis based on FA and T2-weighted imaging measures </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: FA reduction in forceps minor was the most significant area of difference between AD and VaD </plain></SENT>
+<SENT sid="8" pm="."><plain>Segmentation of the corpus callosum using tractography and comparison of FA changes of each segment confirmed the FA changes in transcallosal prefrontal tracts of patients with VaD when compared to AD </plain></SENT>
+<SENT sid="9" pm="."><plain>The best discriminant model was the combination of transcallosal prefrontal FA and Fazekas score with 87.5% accuracy, 100% specificity, and 93% sensitivity (P&lt;0.0001) </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSIONS: Integrating mean FA in the forceps minor to the Fazekas score provides a useful quantitative marker for differentiating AD from VaD </plain></SENT>
+</text></document>

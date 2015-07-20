@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Reduced conduction velocity (CV) in the myocardium is well known to increase the probability of <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> and can be caused by structural changes, reduced excitability of individual myocytes, or decreased electrical coupling in the tissue </plain></SENT>
+<SENT sid="1" pm="."><plain>Recently, investigators have developed antiarrhythmic drugs that target the connections between individual myocytes with the goal of restoring tissue CV, specifically through increasing gap-junction coupling </plain></SENT>
+<SENT sid="2" pm="."><plain>In a simple but qualitatively relevant mathematical model, we show here that the introduction of a drug that improves intercellular conductance will indeed increase the CV </plain></SENT>
+<SENT sid="3" pm="."><plain>However, conditions that would require such a drug, such as fibrotic remodeling, may also increase the load of fibroblasts </plain></SENT>
+<SENT sid="4" pm="."><plain>Fibroblasts may couple to myocytes in much the same way as myocytes couple to each other, and therefore the use of such an agent may also improve coupling between myocytes and fibroblasts </plain></SENT>
+<SENT sid="5" pm="."><plain>We present numerical examples illustrating that when the load of coupled fibroblasts on myocytes is low or nonexistent, the drug works as expected, i.e., the drug increases CV </plain></SENT>
+<SENT sid="6" pm="."><plain>On the other hand, when the fibroblast load is high, changes in CV are nonmonotonic, i.e., the CV first increases and then decreases with an increase in dosage </plain></SENT>
+<SENT sid="7" pm="."><plain>The existence of coupled fibroblasts may therefore impair the effect of the drug, and under unfortunate conditions may be proarrhythmic </plain></SENT>
+</text></document>

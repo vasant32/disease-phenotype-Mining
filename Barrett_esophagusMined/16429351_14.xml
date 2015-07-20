@@ -1,0 +1,21 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND STUDY AIM: Capsule endoscopy, using the PillCam ESO and sending images at a rate of 4 frames per second (fps), has a high sensitivity and specificity in diagnosing <z:hpo ids='HP_0002020'>gastroesophageal reflux disease</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">GERD</z:e>) lesions </plain></SENT>
+<SENT sid="1" pm="."><plain>We tested a new device which produces images at a rate of 14 fps </plain></SENT>
+<SENT sid="2" pm="."><plain>The diagnostic performance and esophageal visualization of these two devices were compared </plain></SENT>
+<SENT sid="3" pm="."><plain>PATIENTS AND METHODS: 42 patients with <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">GERD</z:e> symptoms and eight patients with a history of <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> had an esophagogastroduodenoscopy (EGD) </plain></SENT>
+<SENT sid="4" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> patients underwent capsule endoscopy of the esophagus within 1 hour prior to EGD </plain></SENT>
+<SENT sid="5" pm="."><plain>The first 25 patients had a capsule endoscopy examination with the 4-fps device </plain></SENT>
+<SENT sid="6" pm="."><plain>The following 25 patients underwent capsule endoscopy under identical conditions but using the 14-fps device </plain></SENT>
+<SENT sid="7" pm="."><plain>The reader of the capsule endoscopy study was blinded to the EGD findings </plain></SENT>
+<SENT sid="8" pm="."><plain>A diagnosis of <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">GERD</z:e> or <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> was established with EGD </plain></SENT>
+<SENT sid="9" pm="."><plain>The findings at capsule endoscopy were compared with the EGD findings </plain></SENT>
+<SENT sid="10" pm="."><plain>We also examined how frequently the esophagus in its entirety was visualized by these two devices </plain></SENT>
+<SENT sid="11" pm="."><plain>RESULTS: The 4-fps device diagnosed 16/19 cases of esophageal <z:mpath ids='MPATH_580'>erosions</z:mpath> or <z:mpath ids='MPATH_579'>ulcers</z:mpath> (sensitivity 84 %) and 6/8 cases of <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> (sensitivity 75 %) </plain></SENT>
+<SENT sid="12" pm="."><plain>The 14-fps capsule diagnosed 16/16 cases of <z:mp ids='MP_0004547'>esophageal ulcers</z:mp> or <z:mpath ids='MPATH_580'>erosions</z:mpath> and 7/7 cases of <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> (sensitivity 100 %) </plain></SENT>
+<SENT sid="13" pm="."><plain>The total diagnostic miss rate in the 4-fps group was 5/27 (18 %) whereas the diagnostic miss rate in the 14-fps group was 0/23 (0 %) P &lt; 0.02) </plain></SENT>
+<SENT sid="14" pm="."><plain>The upper esophageal sphincter (UES) was clearly identified in 6/25 patients (24 %) in the 4-fps group and in 20/25 patients (80 %) in the 14-fps group ( P &lt; 0.01) </plain></SENT>
+<SENT sid="15" pm="."><plain>The entire esophagus was well visualized in 3/25 patients (12 %) by the 4-fps device and in 19/25 (76 %) by the 14-fps device ( P &lt; 0.01) </plain></SENT>
+<SENT sid="16" pm="."><plain>The superiority of the 14-fps PillCam ESO capsule is consistent with the data obtained from fluoroscopic studies of swallowed PillCam capsules, showing that capsule speed may reach 20 cm/s </plain></SENT>
+<SENT sid="17" pm="."><plain>For the 14-fps PillCam this means one image transmitted per 3-cm segment at maximal capsule speed, therefore still allowing for full visualization of the entire esophagus </plain></SENT>
+<SENT sid="18" pm="."><plain>CONCLUSIONS: Capsule endoscopy using the 14-fps PillCam ESO showed a greater sensitivity than that of the 4-fps device for identifying <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">GERD</z:e> </plain></SENT>
+<SENT sid="19" pm="."><plain>The 14-fps PillCam ESO was statistically superior to the 4-fps device in visualizing the opening of the UES and the entirety of the esophagus </plain></SENT>
+</text></document>

@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A newly developed real-time sound spectroanalyzer was found to be capable of diagnosing malfunction of prosthetic heart valves </plain></SENT>
+<SENT sid="1" pm="."><plain>Sound spectroanalysis is believed to be superior to other methods such as phonocardiography and echocardiography </plain></SENT>
+<SENT sid="2" pm="."><plain>This system, developed in our institute, allows display on a cathode ray oscilloscope of five different modes of the valvular click, including the sound spectrograph and section pattern </plain></SENT>
+<SENT sid="3" pm="."><plain>Analysis of the section pattern allows measurement of the high-frequency components of the valvular click, which is normalized so as to be applicable to a click of any intensity </plain></SENT>
+<SENT sid="4" pm="."><plain>This parameter is called normalized maximal frequency (<z:chebi fb="3" ids="7438">NMF</z:chebi>) </plain></SENT>
+<SENT sid="5" pm="."><plain>Sound spectroanalyses were carried out 228 times on 127 patients having a prosthetic heart valve </plain></SENT>
+<SENT sid="6" pm="."><plain><z:chebi fb="3" ids="7438">NMF</z:chebi> values of normally functioning valves differed characteristically according to the type of valve, but did not change during the postoperative time course </plain></SENT>
+<SENT sid="7" pm="."><plain>Three of seven patients who had <z:e sem="disease" ids="C0007780" disease_type="Disease or Syndrome" abbrv="">cerebral embolism</z:e> showed significantly lower <z:chebi fb="3" ids="7438">NMF</z:chebi> values than <z:mpath ids='MPATH_458'>normal</z:mpath>, as did <z:hpo ids='HP_0000001'>all</z:hpo> four patients whose valve had become thrombosed </plain></SENT>
+</text></document>

@@ -1,0 +1,24 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>HuM195 is a recombinant humanized IgG1 monoclonal antibody reactive with CD33, a Mr 67,000 glycoprotein expressed on early myeloid progenitor cells and myeloid <z:hpo ids='HP_0001909'>leukemia</z:hpo> cells </plain></SENT>
+<SENT sid="1" pm="."><plain>HuM195 has been shown to rapidly target and saturate <z:hpo ids='HP_0004808'>acute myeloid leukemia</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">AML</z:e>) cells after i.v. infusion into patients and is capable of mediating antibody-dependent cellular cytotoxicity </plain></SENT>
+<SENT sid="2" pm="."><plain>This activity is enhanced in vitro when natural killer (NK) effector cells are preincubated with low concentrations of interleukin 2 (IL-2) </plain></SENT>
+<SENT sid="3" pm="."><plain>Previous Phase I trials of HuM195 in patients with relapsed <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">AML</z:e> demonstrated safety and attainment of complete responses, but significant antileukemic activity appears limited to patients with low <z:hpo ids='HP_0001909'>leukemia</z:hpo> <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> burdens </plain></SENT>
+<SENT sid="4" pm="."><plain>Therefore, in the present trial, we sought to determine whether low-dose IL-2 could safely enhance the numbers of NK cells and therefore the cytotoxic capability of HuM195 via presumptive NK cell antibody-dependent cellular cytotoxicity in vivo against myeloid <z:hpo ids='HP_0001909'>leukemia</z:hpo> cells </plain></SENT>
+<SENT sid="5" pm="."><plain>Thirteen patients with relapsed or refractory <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">AML</z:e> and one patient with advanced <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo> were treated with 0.6x10(6) IU/m2 of s.c </plain></SENT>
+<SENT sid="6" pm="."><plain>IL-2 daily for 35 days </plain></SENT>
+<SENT sid="7" pm="."><plain>Starting on day 15, patients received twice weekly i.v. infusions of HuM195 (3.0 mg/m2) for 3 weeks </plain></SENT>
+<SENT sid="8" pm="."><plain>Immediately after the HuM195 infusion, the patients received IL-2 i.v. infusions over 2 h at one of three escalating dose levels of 0.5x10(6), 1.0x10(6), and 2.0x10(6) IU/m2 </plain></SENT>
+<SENT sid="9" pm="."><plain>Peripheral blood mononuclear cells were quantitated and immunophenotyped by flow cytometry </plain></SENT>
+<SENT sid="10" pm="."><plain>Safety, tolerability, bone marrow mononuclear cell <z:mp ids='MP_0000002'>morphology</z:mp>, and immunophenotype, as well as responses were assessed </plain></SENT>
+<SENT sid="11" pm="."><plain>Of the 14 patients who entered the study, 10 were able to complete at least one cycle of therapy </plain></SENT>
+<SENT sid="12" pm="."><plain>Adverse effects to the s.c </plain></SENT>
+<SENT sid="13" pm="."><plain>IL-2 were relatively mild and included <z:hpo ids='HP_0010783'>erythema</z:hpo> and induration of the skin at the injection site and <z:hpo ids='HP_0011134'>low-grade fever</z:hpo> </plain></SENT>
+<SENT sid="14" pm="."><plain>Toxicity from the sequential HuM195 and i.v </plain></SENT>
+<SENT sid="15" pm="."><plain>IL-2 infusions included <z:hpo ids='HP_0002018'>nausea</z:hpo>, rigors, and <z:hpo ids='HP_0001945'>fever</z:hpo> </plain></SENT>
+<SENT sid="16" pm="."><plain>Toxicity was IL-2 dose related with dose-limiting toxicity seen at the 2.0x10(6) IU/m2 dose level </plain></SENT>
+<SENT sid="17" pm="."><plain>Three patients had stable disease at the completion of the first cycle and went on to receive a second cycle of treatment </plain></SENT>
+<SENT sid="18" pm="."><plain>CD3-positive, CD56-positive, and CD33-positive cells were generally found to significantly decrease immediately after each administration of i.v </plain></SENT>
+<SENT sid="19" pm="."><plain>IL-2 and HuM195 </plain></SENT>
+<SENT sid="20" pm="."><plain>CD56-expressing cells increased in 6 of 10 patients from the beginning to the end of therapy </plain></SENT>
+<SENT sid="21" pm="."><plain>Among the 10 evaluable patients, 2 patients had significant decreases in the percentage of blasts in the bone marrow (one of which achieved a complete bone marrow remission), 5 patients had stable levels of bone marrow blasts, and 3 had progression of disease on therapy </plain></SENT>
+<SENT sid="22" pm="."><plain>The combination of IL-2 and HuM195 shows modest biological activity and clinical antileukemic activity but also produced significant toxicity </plain></SENT>
+</text></document>

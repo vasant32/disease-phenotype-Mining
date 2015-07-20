@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PURPOSE Recent microarray and <z:chebi fb="40" ids="33697">RNA</z:chebi>-sequencing studies have uncovered aberrantly expressed microRNAs (miRs) in <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> (BE)-associated esophageal <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> (EAC) </plain></SENT>
+<SENT sid="1" pm="."><plain>The functional significance of these miRs in EAC initiation and progression is largely unknown </plain></SENT>
+<SENT sid="2" pm="."><plain>EXPERIMENTAL DESIGN Expression levels of miR-199a/b-3p, -199a-5p, -199b-5p, -200b, -200c, -223, and -375 were determined in microdissected tissues from cardiac mucosa, BE, dysplastic BE, and EAC using quantitative real time PCR </plain></SENT>
+<SENT sid="3" pm="."><plain>MiR-223 expression was validated in precursors and EACs from 95 EAC patients by in situ hybridization (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">ISH</z:e>) </plain></SENT>
+<SENT sid="4" pm="."><plain>MiR-223 was transfected into two EAC cell lines, and in vitro assays were performed </plain></SENT>
+<SENT sid="5" pm="."><plain>Target genes were identified using Illumina microarray, and results were validated in cell lines and human specimens </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS MiR-199 family members and miR-223 were significantly over-expressed in EAC, however only miR-223 showed a stepwise increase during EAC <z:e sem="disease" ids="C0596263" disease_type="Neoplastic Process" abbrv="">carcinogenesis</z:e> </plain></SENT>
+<SENT sid="7" pm="."><plain>A similar trend was observed by <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">ISH</z:e>, which additionally showed that miR-223 is exclusively expressed by the epithelial compartment </plain></SENT>
+<SENT sid="8" pm="."><plain>MiR-223 over-expressing cells had statistically significantly more migratory and invasive potential than scramble sequence transfected cells </plain></SENT>
+<SENT sid="9" pm="."><plain>PARP1 was identified as a direct target gene of miR-223 in EAC cells </plain></SENT>
+<SENT sid="10" pm="."><plain>Increased sensitivity to chemotherapy was observed in cells with enforced miR-223 expression and reduced PARP1 </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS MiR-223 is significantly up-regulated during the BE-<z:mpath ids='MPATH_589'>dysplasia</z:mpath>-EAC sequence </plain></SENT>
+<SENT sid="12" pm="."><plain>Although high miR-223 levels might contribute to an aggressive phenotype, our results also suggest that EAC patients with high miR-223 levels might benefit from treatment with DNA-damaging agents </plain></SENT>
+</text></document>

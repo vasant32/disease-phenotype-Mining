@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (FL) is the second-most common non-Hodgkin's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>The disease affects the lymph nodes, and 50% of patients present with bone marrow infiltration; however, the mechanisms involved in dissemination of the disease are not yet known </plain></SENT>
+<SENT sid="2" pm="."><plain>We previously reported that FL cells display an overexpression of Syk, a tyrosine kinase involved in many cellular processes including cell migration </plain></SENT>
+<SENT sid="3" pm="."><plain>Therefore, we sought to explore its role in the invasive process </plain></SENT>
+<SENT sid="4" pm="."><plain>Here, we show that FL patients display higher matrix metalloproteinase (MMP)-9 and vascular endothelial growth factor (VEGF) levels than healthy donors </plain></SENT>
+<SENT sid="5" pm="."><plain>Moreover, using Syk small interfering <z:chebi fb="40" ids="33697">RNA</z:chebi> and the Syk inhibitor R406, we demonstrate that, in FL cells, Syk is involved in the regulation of MMP-9 and VEGF expression, and that invasion and <z:mpath ids='MPATH_177'>angiogenesis</z:mpath> is mediated through a phosphatidylinositol-3 kinase (PI3K)-mammalian target of <z:chebi fb="0" ids="9168">rapamycin</z:chebi> module </plain></SENT>
+<SENT sid="6" pm="."><plain>Finally, using a FL xenograft mouse model we observe that fostamatinib (R788), inhibits MMP-9 expression and <z:mpath ids='MPATH_177'>angiogenesis</z:mpath> in vivo </plain></SENT>
+<SENT sid="7" pm="."><plain>Altogether, this study provides strong evidence that Syk represents an encouraging therapeutic target in FL and suggests the potential use of fostamatinib as an anti-invasive and anti-angiogenic drug </plain></SENT>
+</text></document>

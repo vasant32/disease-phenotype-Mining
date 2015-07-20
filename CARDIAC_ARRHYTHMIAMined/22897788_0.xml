@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Reactive oxygen species (ROS) have been associated with various human diseases, and considerable attention has been paid to investigate their physiological effects </plain></SENT>
+<SENT sid="1" pm="."><plain>Various ROS are synthesized in the mitochondria and accumulate in the cytoplasm if the cellular <z:chebi fb="11" ids="22586">antioxidant</z:chebi> defense mechanism fails </plain></SENT>
+<SENT sid="2" pm="."><plain>The critical balance of this ROS synthesis and <z:chebi fb="11" ids="22586">antioxidant</z:chebi> defense systems is termed the redox system of the cell </plain></SENT>
+<SENT sid="3" pm="."><plain>Various <z:e sem="disease" ids="C0007222" disease_type="Disease or Syndrome" abbrv="CVD">cardiovascular diseases</z:e> have also been affected by redox to different degrees </plain></SENT>
+<SENT sid="4" pm="."><plain>ROS have been indicated as both detrimental and protective, via different cellular pathways, for cardiac myocyte functions, electrophysiology, and pharmacology </plain></SENT>
+<SENT sid="5" pm="."><plain>Mostly, the ROS functions depend on the type and amount of ROS synthesized </plain></SENT>
+<SENT sid="6" pm="."><plain>While the literature clearly indicates ROS effects on cardiac contractility, their effects on cardiac excitability are relatively under appreciated </plain></SENT>
+<SENT sid="7" pm="."><plain>Cardiac excitability depends on the functions of various cardiac sarcolemal or <z:hpo ids='HP_0001427'>mitochondrial</z:hpo> ion channels carrying various depolarizing or repolarizing currents that also maintain cellular ionic homeostasis </plain></SENT>
+<SENT sid="8" pm="."><plain>ROS alter the functions of these ion channels to various degrees to determine excitability by affecting the cellular resting potential and the <z:mp ids='MP_0000002'>morphology</z:mp> of the cardiac action potential </plain></SENT>
+<SENT sid="9" pm="."><plain>Thus, redox balance regulates cardiac excitability, and under pathological regulation, may alter action potential propagation to cause <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> </plain></SENT>
+<SENT sid="10" pm="."><plain>Understanding how redox affects cellular excitability may lead to potential prophylaxis or treatment for various <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> </plain></SENT>
+<SENT sid="11" pm="."><plain>This review will focus on the studies of redox and cardiac excitation </plain></SENT>
+</text></document>

@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: <z:chebi fb="131" ids="25107">Magnesium</z:chebi> lithospermate B (MLB), a working extract from Salvia miltiorrhiza, was effective against <z:hpo ids='HP_0001677'>coronary artery disease</z:hpo>, <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo>, and <z:hpo ids='HP_0011010'>chronic</z:hpo> <z:e sem="disease" ids="C0022658" disease_type="Disease or Syndrome" abbrv="">renal disease</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>This study examined the effect of MLB on endothelin-1/endothelial nitric <z:chebi fb="177" ids="25741,29356">oxide</z:chebi> synthase (eNOS) in a <z:hpo ids='HP_0002138'>subarachnoid hemorrhage</z:hpo> (SAH) animal model </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: A rodent double-<z:mp ids='MP_0001914'>hemorrhage</z:mp> model was employed </plain></SENT>
+<SENT sid="3" pm="."><plain>Animals were randomly assigned to five groups (sham, SAH only, vehicle, 10 mg/kg/day MLB treatment, and pretreatment groups) </plain></SENT>
+<SENT sid="4" pm="."><plain>A radiolabeled NOS Assay Kit was used to detect eNOS </plain></SENT>
+<SENT sid="5" pm="."><plain>Serum and cerebrospinal fluid sampling for ET-1 (ELISA) was measured </plain></SENT>
+<SENT sid="6" pm="."><plain>The basilar arteries (BAs) were garnered and sliced, and their cross-sectional areas were determined </plain></SENT>
+<SENT sid="7" pm="."><plain>In addition, NOS inhibitor <z:chebi fb="13" ids="29785">nitro</z:chebi>-arginine <z:chebi fb="36" ids="29309">methyl</z:chebi> <z:chebi fb="21" ids="35701">ester</z:chebi> (L-<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">NAME</z:e>) was employed in the SAH+ MLB treatment groups </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: Significant vasoconstriction was perceived in the SAH group (lumen patency: 44.6%, p &lt; 0.01), but not in the MLB group (lumen patency: 89.3%) </plain></SENT>
+<SENT sid="9" pm="."><plain>The ET-1 level was reduced in the MLP plus SAH group (34%, p &lt; 0.01) when compared with the SAH groups (SAH only and vehicle) </plain></SENT>
+<SENT sid="10" pm="."><plain>MLB dose-dependently increased the level of eNOS when compared with the vehicle plus SAH group </plain></SENT>
+<SENT sid="11" pm="."><plain>However, the administration of L-<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">NAME</z:e> reversed the expression of eNOS and vasoconstriction (lumen patency: 56.2%) in the MLB group </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSION: The enhanced expression of eNOS and decreased ET-1 levels in the MLB groups may reflect its anti-spastic effect </plain></SENT>
+<SENT sid="13" pm="."><plain>In the study of NOS, L-<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">NAME</z:e> reversed MLB's anti-vasospastic effect </plain></SENT>
+<SENT sid="14" pm="."><plain>This finding lends credence to the hypothesis that MLB modulates ET-1 levels through a NOS-dependent mechanism in the pathogenesis of <z:e sem="disease" ids="C0265110" disease_type="Disease or Syndrome" abbrv="">cerebral vasospasm</z:e> following SAH </plain></SENT>
+</text></document>

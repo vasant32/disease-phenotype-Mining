@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Rationale: The emerging role of the ubiquitin-proteasome system in cardiomyocyte function and homeostasis implies the necessity of tight regulation of protein degradation </plain></SENT>
+<SENT sid="1" pm="."><plain>Yet, little is known about cardiac components of this machinery </plain></SENT>
+<SENT sid="2" pm="."><plain>Objective: We sought to determine whether molecules exist that control turnover of cardiac-specific proteins </plain></SENT>
+<SENT sid="3" pm="."><plain>Methods and Results: Utilizing a bioinformatic approach to identify novel cardiac-enriched sarcomere proteins we identified Fbxl22 </plain></SENT>
+<SENT sid="4" pm="."><plain>Tissue-specific expression was confirmed by multiple tissue Northern and Western Blot analyses as well as qRT-PCR on a human cDNA-library </plain></SENT>
+<SENT sid="5" pm="."><plain>Immunocolocalization experiments in neonatal and adult rat ventricular cardiomyocytes as well as murine heart tissue located Fbxl22 to the sarcomeric Z-disc </plain></SENT>
+<SENT sid="6" pm="."><plain>To detect cardiac protein interaction partners we performed a yeast two-hybrid screen employing Fbxl22 as bait </plain></SENT>
+<SENT sid="7" pm="."><plain>Coimmunoprecipitation confirmed the identified interactions of Fbxl22 with Skp1 and Cullin1, two critical components of SCF (Skp1/Cul1/F-box) E3-ligases </plain></SENT>
+<SENT sid="8" pm="."><plain>Moreover, we identified several potential substrates, including the z-disc proteins α-actinin and filamin C </plain></SENT>
+<SENT sid="9" pm="."><plain>Consistently, in vitro overexpression of Fbxl22 mediated degradation of both substrates in a dose-dependent fashion, while proteasome inhibition with MG-132 markedly attenuated degradation of both α-actinin and filamin C </plain></SENT>
+<SENT sid="10" pm="."><plain>Finally, targeted knockdown of Fbxl22 in rat cardiomyocytes as well as zebrafish embryos results in the accumulation of α-actinin associated with severely impaired contractile function and <z:hpo ids='HP_0001638'>cardiomyopathy</z:hpo> in vivo </plain></SENT>
+<SENT sid="11" pm="."><plain>Conclusions: These findings reveal the previously uncharacterized cardiac-specific F-box protein Fbxl22 as a component of a novel cardiac E3 ligase </plain></SENT>
+<SENT sid="12" pm="."><plain>Fbxl22 promotes the proteasome-dependent degradation of key sarcomeric proteins such as alpha-actinin and filamin C and is essential for maintenance of <z:mpath ids='MPATH_458'>normal</z:mpath> contractile function in vivo </plain></SENT>
+</text></document>

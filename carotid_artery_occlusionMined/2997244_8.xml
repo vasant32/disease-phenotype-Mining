@@ -1,0 +1,18 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The effect of nimodipine on cerebral metabolism during <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> and reflow was studied in female mongolian gerbils </plain></SENT>
+<SENT sid="1" pm="."><plain>Animals were divided into three experimental groups </plain></SENT>
+<SENT sid="2" pm="."><plain>Group 1 received 1 mg/kg nimodipine i.p </plain></SENT>
+<SENT sid="3" pm="."><plain>1 h prior to <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> </plain></SENT>
+<SENT sid="4" pm="."><plain>Group 2 received an injection of the vehicle, 5% <z:chebi fb="1" ids="46793">polyethylene glycol</z:chebi> 400 </plain></SENT>
+<SENT sid="5" pm="."><plain>Group 3 received an equal volume of <z:mpath ids='MPATH_458'>normal</z:mpath> saline </plain></SENT>
+<SENT sid="6" pm="."><plain><z:hpo ids='HP_0002637'>Cerebral ischemia</z:hpo> was induced by bilateral common carotid <z:mp ids='MP_0006134'>artery occlusion</z:mp> for 1, 2, or 5 min </plain></SENT>
+<SENT sid="7" pm="."><plain>Recirculation was established for 0, 1, or 5 min </plain></SENT>
+<SENT sid="8" pm="."><plain>Sham-operated animals served as nonischemic controls </plain></SENT>
+<SENT sid="9" pm="."><plain>Gerbils were killed by microwave irradiation </plain></SENT>
+<SENT sid="10" pm="."><plain>Regional levels of ATP, phosphocreatine, <z:chebi fb="105" ids="17234">glucose</z:chebi>, <z:chebi fb="15" ids="28087">glycogen</z:chebi>, cyclic <z:chebi fb="47" ids="16027,28971">AMP</z:chebi>, and cyclic <z:chebi fb="10" ids="17345">GMP</z:chebi> were measured in brain extracts using standard assay techniques </plain></SENT>
+<SENT sid="11" pm="."><plain>Levels of metabolites in sham-operated animals did not differ among Groups 1, 2, and 3 </plain></SENT>
+<SENT sid="12" pm="."><plain>At 1 min of <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e>, cortical and striatal ATP levels were highest in Group 1 (p less than 0.05 and p less than 0.01, respectively) </plain></SENT>
+<SENT sid="13" pm="."><plain>After 5 min of recirculation, cortical and striatal <z:chebi fb="105" ids="17234">glucose</z:chebi> levels were highest in Group 1 (p less than 0.005) </plain></SENT>
+<SENT sid="14" pm="."><plain>Regional levels of the metabolites measured at other times did not differ significantly among the three groups </plain></SENT>
+<SENT sid="15" pm="."><plain>Pretreatment with nimodipine thus retards the fall in ATP and facilitates the recovery of <z:chebi fb="105" ids="17234">glucose</z:chebi> in mongolian gerbils subjected to common carotid <z:mp ids='MP_0006134'>artery occlusion</z:mp> </plain></SENT>
+<SENT sid="16" pm="."><plain>A regional variability of this effect was observed </plain></SENT>
+</text></document>

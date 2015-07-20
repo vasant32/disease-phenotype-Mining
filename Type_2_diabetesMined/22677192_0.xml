@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIMS: To asses differences in treatment effects of a fixed combination of <z:chebi fb="0" ids="8024">perindopril</z:chebi>-indapamide on major clinical outcomes in patients with type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> across subgroups of cardiovascular risk </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: 11,140 participants with type 2 <z:mp ids='MP_0002055'>diabetes</z:mp>, from the ADVANCE trial, were randomized to <z:chebi fb="0" ids="8024">perindopril</z:chebi>-indapamide or matching placebo </plain></SENT>
+<SENT sid="2" pm="."><plain>The Framingham equation was used to calculate 5-year <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CVD</z:e> risk and to divide participants into two risk groups, moderate-high risk (&lt;25% and no history of macrovascular disease), very high risk (&gt;25% and/or history of macrovascular disease) </plain></SENT>
+<SENT sid="3" pm="."><plain>Endpoints were macrovascular and microvascular events </plain></SENT>
+<SENT sid="4" pm="."><plain>RESULTS: The mean age of participants was 66 years (42.5% female) </plain></SENT>
+<SENT sid="5" pm="."><plain>1000 macrovascular and 916 microvascular events were recorded over follow-up of 4.3 years </plain></SENT>
+<SENT sid="6" pm="."><plain>Relative treatment effects were similar across risk groups, (<z:hpo ids='HP_0000001'>all</z:hpo> P-values for <z:hpo ids='HP_0001425'>heterogeneity</z:hpo> ≥0.38) </plain></SENT>
+<SENT sid="7" pm="."><plain>Hazard ratios for combined macro- and microvascular events were 0.89 (0.77-1.03) for the moderate-high risk and 0.92 (0.81-1.03) for the very high risk </plain></SENT>
+<SENT sid="8" pm="."><plain>Absolute treatment effects tended to be greater in the high risk groups although differences were not statistically significant (P&gt;0.05) </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSIONS: Relative effects of blood pressure lowering with <z:chebi fb="0" ids="8024">perindopril</z:chebi>-indapamide on cardiovascular outcomes were similar across risk groups whilst absolute effects trended to be greater in the high risk group </plain></SENT>
+</text></document>

@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND PURPOSE: Intraarterial and intravenous thrombolysis are often ineffective for the treatment of <z:hpo ids='HP_0011009'>acute</z:hpo> <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> and are associated with a significant risk of <z:hpo ids='HP_0002170'>intracranial hemorrhage</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">ICH</z:e>) </plain></SENT>
+<SENT sid="1" pm="."><plain>Multimodal rescue therapy combining mechanical disruption and platelet GPIIb/IIIa receptor <z:chebi fb="68" ids="48706">antagonists</z:chebi> may improve recanalization </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: Patients who did not recanalize with thrombolysis were treated with GPIIb/IIIa <z:chebi fb="68" ids="48706">antagonists</z:chebi>, angioplasty, or an embolectomy device </plain></SENT>
+<SENT sid="3" pm="."><plain>Treatment was individualized based on vascular <z:mp ids='MP_0000002'>anatomy</z:mp>, <z:hpo ids='HP_0001297'>stroke</z:hpo> mechanism, patient status, and symptom duration </plain></SENT>
+<SENT sid="4" pm="."><plain>RESULTS: Twelve patients were treated within 3.8+/-2.2 hours </plain></SENT>
+<SENT sid="5" pm="."><plain>The mean National Institutes of Health <z:hpo ids='HP_0001297'>Stroke</z:hpo> Scale (NIHSS) score was 19.4+/-4.1 </plain></SENT>
+<SENT sid="6" pm="."><plain>Six patients had carotid terminus occlusion, whereas 5 had middle cerebral artery and 1 had basilar <z:mp ids='MP_0006134'>artery occlusion</z:mp> </plain></SENT>
+<SENT sid="7" pm="."><plain>The average doses of intraarterial tPA and reteplase were 17.1+/-8.6 mg and 2+/-0.6 units, respectively </plain></SENT>
+<SENT sid="8" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> patients received either an intravenous or intraarterial abciximab bolus (mean 11.8+/-5.8 mg) and <z:chebi fb="5" ids="28304">heparin</z:chebi> (mean 3278+/-1716U) </plain></SENT>
+<SENT sid="9" pm="."><plain>Eleven were treated with angioplasty and 4 had mechanical embolectomy or stenting </plain></SENT>
+<SENT sid="10" pm="."><plain>Complete (8) or partial (3) recanalization was achieved in 11 cases </plain></SENT>
+<SENT sid="11" pm="."><plain>There was only one (8.3%) symptomatic <z:mp ids='MP_0001914'>hemorrhage</z:mp> </plain></SENT>
+<SENT sid="12" pm="."><plain>Patients had a favorable outcome at discharge (mean NIHSS 8.9+/-8.7) and 6 (50%) had an NIHSS &lt; or =4 at discharge </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSIONS: Multimodal rescue therapy was effective at recanalizing occluded cerebral vessels that failed thrombolysis without an excess risk of <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">ICH</z:e> </plain></SENT>
+</text></document>

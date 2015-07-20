@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Epstein-Barr virus (EBV) is an oncogenic herpesvirus associated with a variety of <z:e sem="disease" ids="C0006826" disease_type="Neoplastic Process" abbrv="">malignancies</z:e>, including Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> and nasopharyngeal <z:mp ids='MP_0002038'>carcinoma</z:mp> (NPC) </plain></SENT>
+<SENT sid="1" pm="."><plain>Functions of most EBV genes have not been determined </plain></SENT>
+<SENT sid="2" pm="."><plain>The use of <z:mp ids='MP_0001794'>bacterial</z:mp> artificial chromosome (BAC) to clone and modify the genome of EBV has enhanced the gene function study in the context of genome </plain></SENT>
+<SENT sid="3" pm="."><plain>Infectious clones of EBV were previously established by using EBV-BAC plasmid p2089 </plain></SENT>
+<SENT sid="4" pm="."><plain>In order to further investigate EBV mutant biology, an easy and efficient method for gene modification in EBV-BAC was developed and detailed </plain></SENT>
+<SENT sid="5" pm="."><plain>The <z:chebi fb="0" ids="6104">kanamycin</z:chebi> gene (kan) flanked by recombinase FLP recognition targets (FRTs) was amplified from plasmid pKD13 and inserted into the vector of pcDNA3.1(+) </plain></SENT>
+<SENT sid="6" pm="."><plain>Through the introduction of restriction endonuclease BsmB I in PCR primers, NPC-derived LMP1 gDNA containing the full-length ORF was then precisely ligated with kan on pcDNA3.1(+) </plain></SENT>
+<SENT sid="7" pm="."><plain>The linear DNA segment of kan-LMP1 was transformed into E. coli DH10B cells containing p2089 and plasmid pKD46, homologous recombination was subsequently mediated by redalphabetagamma system from bacteriophage lambda </plain></SENT>
+<SENT sid="8" pm="."><plain>By this linear transformation and ET cloning, the full-length LMP1 in EBV-BAC (p2089) was replaced by the kan-LMP1 </plain></SENT>
+<SENT sid="9" pm="."><plain>The introduced kan gene in EBV-BAC genome was eliminated specifically by the recombinase FLP when transformed by plasmid pCP20, leaving an FRT scar of 69 bp </plain></SENT>
+<SENT sid="10" pm="."><plain>The mutant could be identified by antibiotic screening and PCR amplification on bacteria medium </plain></SENT>
+<SENT sid="11" pm="."><plain>This method allows the gene of interest to be easily modified alone and then to be introduced into EBV-BAC genome </plain></SENT>
+<SENT sid="12" pm="."><plain>Following this example of gene substitution, other mutations such as deletion, insertion and point mutation become convenient work, and this improved method can be a potential use of gene modification in other BAC-based herpesvirus genome </plain></SENT>
+</text></document>

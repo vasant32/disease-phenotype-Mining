@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 77-year-old man was referred to our hospital because of elevated LDH and leukoblastosis in the peripheral blood in June 2002 </plain></SENT>
+<SENT sid="1" pm="."><plain>Physical examination revealed neither <z:hpo ids='HP_0001433'>hepatosplenomegaly</z:hpo> nor superficial <z:hpo ids='HP_0002716'>lymphadenopathy</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>A bone marrow film showed dysmegakaryocytopoiesis with many micromegakaryocytes and MPO-positive blasts appearing in 20-30% of NCC </plain></SENT>
+<SENT sid="3" pm="."><plain>A diagnosis of <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">RAEB</z:e>-t) was made </plain></SENT>
+<SENT sid="4" pm="."><plain>Blastic cells were positive for CD13, 33, 34 and HLA-DR </plain></SENT>
+<SENT sid="5" pm="."><plain>Karyotypic analysis at diagnosis revealed 46XY, inv(3) (q21q26), t(9;22) (q34; q11) and minor-BCR/ABL chimeric m-<z:chebi fb="40" ids="33697">RNA</z:chebi> was detected by RT-PCR </plain></SENT>
+<SENT sid="6" pm="."><plain>Mild chemotherapy (low dose Ara-C etc) was given but the disease progressed to the <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">AML</z:e> stage with <z:hpo ids='HP_0001894'>thrombocytosis</z:hpo> in August </plain></SENT>
+<SENT sid="7" pm="."><plain>In September <z:chebi fb="0" ids="45783">imatinib</z:chebi> was given because of Ph positivity, but the effect was transient </plain></SENT>
+<SENT sid="8" pm="."><plain>In October massive <z:hpo ids='HP_0001974'>leukocytosis</z:hpo> with <z:e sem="disease" ids="C0679427" disease_type="Disease or Syndrome" abbrv="">myeloblastosis</z:e> was uncontrollable </plain></SENT>
+<SENT sid="9" pm="."><plain>In December 2002 the patient died of <z:hpo ids='HP_0002090'>pneumonia</z:hpo>, after a total course of 7.5 months </plain></SENT>
+<SENT sid="10" pm="."><plain>This rare case with Ph chromosome and 3q21q26 syndrome showed a poor prognosis as previously reported </plain></SENT>
+</text></document>

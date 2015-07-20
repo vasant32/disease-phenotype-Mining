@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Nasopharyngeal <z:mp ids='MP_0002038'>carcinomas</z:mp> (NPC) are etiologically related to the Epstein-Barr virus (EBV), and malignant NPC cells have consistent although <z:hpo ids='HP_0001425'>heterogeneous</z:hpo> expression of the EBV latent membrane protein 1 (LMP1) </plain></SENT>
+<SENT sid="1" pm="."><plain>LMP1 trafficking and signaling require its incorporation into membrane rafts </plain></SENT>
+<SENT sid="2" pm="."><plain>Conversely, raft environment is likely to modulate LMP1 activity </plain></SENT>
+<SENT sid="3" pm="."><plain>In order to investigate NPC-specific raft partners of LMP1, rafts derived from the C15 NPC xenograft were submitted to preparative immunoprecipitation of LMP1 combined with mass spectrometry analysis of coimmunoprecipitated proteins </plain></SENT>
+<SENT sid="4" pm="."><plain>Through this procedure, galectin 9, a beta-<z:chebi fb="0" ids="24163">galactoside</z:chebi> binding lectin and Hodgkin <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> antigen, was identified as a novel LMP1 partner </plain></SENT>
+<SENT sid="5" pm="."><plain>LMP1 interaction with galectin 9 was confirmed by coimmunoprecipitation and Western blotting in whole-cell extracts of NPC and EBV-transformed B cells (lymphoblastoid cell lines [LCLs]) </plain></SENT>
+<SENT sid="6" pm="."><plain>Using mutant proteins expressed in HeLa cells, LMP1 was shown to bind galectin 9 in a TRAF3-independent manner </plain></SENT>
+<SENT sid="7" pm="."><plain>Galectin 9 is abundant in NPC biopsies as well as in LCLs, whereas it is absent in Burkitt <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cells </plain></SENT>
+<SENT sid="8" pm="."><plain>In subsequent experiments, NPC cells were treated with <z:chebi fb="0" ids="9150">Simvastatin</z:chebi>, a drug reported to dissociate LMP1 from membrane rafts in EBV-transformed B cells </plain></SENT>
+<SENT sid="9" pm="."><plain>We found no significant effects of <z:chebi fb="0" ids="9150">Simvastatin</z:chebi> on the distribution of LMP1 and galectin 9 in NPC cell rafts </plain></SENT>
+<SENT sid="10" pm="."><plain>However, <z:chebi fb="0" ids="9150">Simvastatin</z:chebi> was highly cytotoxic for NPC cells, regardless of the presence or absence of LMP1 </plain></SENT>
+<SENT sid="11" pm="."><plain>This suggests that <z:chebi fb="0" ids="9150">Simvastatin</z:chebi> is a potentially useful agent for the treatment of NPCs although it has distinct mechanisms of action in NPC and LCL cells </plain></SENT>
+</text></document>

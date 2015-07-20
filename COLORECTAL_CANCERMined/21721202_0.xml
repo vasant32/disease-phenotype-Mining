@@ -1,0 +1,7 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Targeted therapies are relatively new molecules available for the oncologist </plain></SENT>
+<SENT sid="1" pm="."><plain>These drugs target a specific step of the cellular development and interfere with the intracellular signalization pathways </plain></SENT>
+<SENT sid="2" pm="."><plain>Amongst <z:hpo ids='HP_0000001'>all</z:hpo> others, EGF- and VEGF-pathways are currently targeted by these selective therapies </plain></SENT>
+<SENT sid="3" pm="."><plain>Modulating EGF and VEGF significantly improves overall survival and progression-free survival for many advanced or <z:e sem="disease" ids="C0027627" disease_type="Neoplastic Process" abbrv="mets">metastatic tumors</z:e> as <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e>, <z:hpo ids='HP_0012126'>gastric cancer</z:hpo>, <z:hpo ids='HP_0100723'>gastrointestinal stromal tumors</z:hpo> or <z:hpo ids='HP_0001402'>hepatocellular carcinoma</z:hpo> </plain></SENT>
+<SENT sid="4" pm="."><plain>Targeted therapies have a specific action site, a simple administration mode and are relatively well tolerated </plain></SENT>
+<SENT sid="5" pm="."><plain>In the future these molecules will probably be used "à la carte" for <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumors</z:e> that appear to be refractory to other drugs </plain></SENT>
+</text></document>

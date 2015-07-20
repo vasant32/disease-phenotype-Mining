@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Background </plain></SENT>
+<SENT sid="1" pm="."><plain>i-scan is a software-driven technology that allows modifications of sharpness, hue, and contrast to enhance mucosal imaging </plain></SENT>
+<SENT sid="2" pm="."><plain>It uses postimage acquisition software with real-time mapping technology embedded in the endoscopic processor </plain></SENT>
+<SENT sid="3" pm="."><plain>Aims </plain></SENT>
+<SENT sid="4" pm="."><plain>To review applications of i-scan technology in clinical endoscopic practice </plain></SENT>
+<SENT sid="5" pm="."><plain>Methods </plain></SENT>
+<SENT sid="6" pm="."><plain>This is a case series of 20 consecutive patients who underwent endoscopic procedures where i-scan image enhancement algorithms were applied </plain></SENT>
+<SENT sid="7" pm="."><plain>The main outcome measures were to compare mucosal lesions with high-definition white light endoscopy (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">HD</z:e>-WLE) and i-scan image enhancement for the application of diagnostic sampling and therapy </plain></SENT>
+<SENT sid="8" pm="."><plain>Results </plain></SENT>
+<SENT sid="9" pm="."><plain>13 cases involving the upper GI tract and 7 cases of the lower GI tract are included </plain></SENT>
+<SENT sid="10" pm="."><plain>For upper GI tract pathology i-scan assisted in diagnosis or therapy of <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> with <z:mpath ids='MPATH_589'>dysplasia</z:mpath>, esophageal <z:mp ids='MP_0009308'>adenocarcinoma</z:mp>, HSV <z:hpo ids='HP_0100633'>esophagitis</z:hpo>, gastric MALT <z:hpo ids='HP_0002665'>lymphoma</z:hpo>, gastric antral <z:mpath ids='MPATH_167'>intestinal metaplasia</z:mpath> with <z:mpath ids='MPATH_589'>dysplasia</z:mpath>, duodenal follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo>, and a flat duodenal <z:mpath ids='MPATH_270'>adenoma</z:mpath> </plain></SENT>
+<SENT sid="11" pm="."><plain>For lower GI tract pathology i-scan assisted in diagnosis or therapy of right-sided serrated <z:mpath ids='MPATH_270'>adenomas</z:mpath>, flat tubular <z:mpath ids='MPATH_270'>adenoma</z:mpath>, <z:mp ids='MP_0009315'>rectal adenocarcinoma</z:mp>, anal <z:e sem="disease" ids="C0007137,C0751688" disease_type="Neoplastic Process" abbrv="">squamous cell cancer</z:e>, solitary rectal <z:mpath ids='MPATH_579'>ulcer</z:mpath>, and radiation <z:mp ids='MP_0003305'>proctitis</z:mp> </plain></SENT>
+<SENT sid="12" pm="."><plain>Conclusions </plain></SENT>
+<SENT sid="13" pm="."><plain>i-scan imaging provides detailed topography of mucosal surfaces and delineates lesion edges, which can directly impact endoscopic management </plain></SENT>
+</text></document>

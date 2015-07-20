@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PURPOSE: Several studies have reported that carotid endarterectomy (CEA) with patch angioplasty has results that are superior to primary closure </plain></SENT>
+<SENT sid="1" pm="."><plain><z:chebi fb="3" ids="53251">Polytetrafluoroethylene</z:chebi> (<z:chebi fb="15" ids="53251">PTFE</z:chebi>) patching has been shown to have results comparable with autogenous vein patching; however, it requires a prolonged hemostasis time </plain></SENT>
+<SENT sid="2" pm="."><plain>Therefore, many surgeons are using collagen-impregnated Dacron patching (Hemashield [HP]) </plain></SENT>
+<SENT sid="3" pm="."><plain>This study is the first prospective randomized trial comparing CEA with <z:chebi fb="15" ids="53251">PTFE</z:chebi> patching versus HP patching </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS: Two hundred CEAs were randomized into two groups, 100 PTFE and 100 HP patching </plain></SENT>
+<SENT sid="5" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> patients underwent immediate postoperative and 1-month postoperative color duplex ultrasound scanning studies </plain></SENT>
+<SENT sid="6" pm="."><plain>Demographic and clinical characteristics were similar in both groups, including the mean operative diameter of the internal carotid artery </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: The perioperative <z:hpo ids='HP_0001297'>stroke</z:hpo> rates were 0% for <z:chebi fb="15" ids="53251">PTFE</z:chebi>, versus 7% for HP (4 major and 3 minor <z:hpo ids='HP_0001297'>strokes</z:hpo>, P =.02) </plain></SENT>
+<SENT sid="8" pm="."><plain>The combined perioperative <z:hpo ids='HP_0001297'>stroke</z:hpo> and <z:hpo ids='HP_0002326'>transient ischemic attack</z:hpo> rates were 3% for <z:chebi fb="15" ids="53251">PTFE</z:chebi>, versus 12% for HP (P =.047) </plain></SENT>
+<SENT sid="9" pm="."><plain>The operative mortality rate for <z:chebi fb="15" ids="53251">PTFE</z:chebi> was 0%, versus 2% for HP (P =.477) </plain></SENT>
+<SENT sid="10" pm="."><plain>Five perioperative carotid thromboses were noted in patients undergoing HP patching, versus none in patients undergoing <z:chebi fb="15" ids="53251">PTFE</z:chebi> patching (P =.07) </plain></SENT>
+<SENT sid="11" pm="."><plain>After 1 month of follow-up, 2% of patients in the <z:chebi fb="15" ids="53251">PTFE</z:chebi> group had a 50% or more restenosis, versus 12% of patients in the HP group (P =.013) </plain></SENT>
+<SENT sid="12" pm="."><plain>The mean operative time for <z:chebi fb="15" ids="53251">PTFE</z:chebi> patching was 119 minutes, versus 113 minutes for HP patching (P =.081) </plain></SENT>
+<SENT sid="13" pm="."><plain>The mean hemostasis time was significantly higher for <z:chebi fb="15" ids="53251">PTFE</z:chebi> patching than for HP patching, 14.4 versus 3.4 minutes (P &lt;.001) </plain></SENT>
+<SENT sid="14" pm="."><plain>CONCLUSION: CEA with HP patching had a higher incidence of perioperative <z:hpo ids='HP_0001297'>strokes</z:hpo>, carotid <z:mp ids='MP_0005048'>thrombosis</z:mp>, and 50% or more early restenosis than CEA with <z:chebi fb="15" ids="53251">PTFE</z:chebi> patching </plain></SENT>
+<SENT sid="15" pm="."><plain>However, the mean hemostasis time was higher for <z:chebi fb="15" ids="53251">PTFE</z:chebi> patching than for HP patching </plain></SENT>
+</text></document>

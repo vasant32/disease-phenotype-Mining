@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:chebi fb="0" ids="44185">Methotrexate</z:chebi> (MTX) is the anticancer and antirheumatoid drug that is believed to block nucleotide synthesis and cell cycle by inhibiting <z:chebi fb="0" ids="23743">dihydrofolate</z:chebi> reductase activity </plain></SENT>
+<SENT sid="1" pm="."><plain>We have developed novel affinity matrices, termed SG beads, that are easy to manipulate and are compatible with surface functionalization </plain></SENT>
+<SENT sid="2" pm="."><plain>Using the matrices, here we present evidence that deoxycytidine kinase (dCK), an enzyme that acts in the salvage pathway of nucleotide biosynthesis, is another target of MTX </plain></SENT>
+<SENT sid="3" pm="."><plain>MTX modulates dCK activity differentially depending on substrate concentrations </plain></SENT>
+<SENT sid="4" pm="."><plain><z:chebi fb="0" ids="28680">1-beta-D-Arabinofuranosylcytosine</z:chebi> (ara-C), a chemotherapy agent often used in combination with MTX, is a <z:chebi fb="0" ids="33838">nucleoside</z:chebi> analog whose incorporation into chromosome requires prior phosphorylation by dCK </plain></SENT>
+<SENT sid="5" pm="."><plain>We show that, remarkably, MTX enhances incorporation and cytotoxicity of ara-C through regulation of dCK activity in Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cells </plain></SENT>
+<SENT sid="6" pm="."><plain>Thus, this study provides new insight into the mechanisms underlying MTX actions and demonstrates the usefulness of the SG beads </plain></SENT>
+</text></document>

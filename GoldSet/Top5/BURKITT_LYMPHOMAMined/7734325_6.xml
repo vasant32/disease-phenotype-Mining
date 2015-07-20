@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>It is well established that bispecific antibodies (BsAbs) can be used effectively in targeting the ribosome-inactivating protein (RIP), saporin, against neoplastic B cells </plain></SENT>
+<SENT sid="1" pm="."><plain>We have now extended this delivery system for use with gelonin </plain></SENT>
+<SENT sid="2" pm="."><plain>By measuring antigen-binding characteristics and <z:chebi fb="0" ids="53000">epitope</z:chebi> mapping a panel of anti-gelonin MAbs using the IAsys resonant mirror bisensor, we were able to rapidly select the most suitable for making BaAbs </plain></SENT>
+<SENT sid="3" pm="."><plain>The Fab' fragments from these MAbs were chemically conjugated with Fab' from either anti-CD22 or anti-CD38 </plain></SENT>
+<SENT sid="4" pm="."><plain>Cytotoxicity assays showed that BsAbs were highly efficient at delivering gelonin to cultured Daudi cells and achieved levels of toxicity which correlated closely with the affinity of the BsAbs </plain></SENT>
+<SENT sid="5" pm="."><plain>Using pairs of anti-CD22 BsAbs we were able to generate bivalent BsAb-gelonin complexes which achieved IC50 values of 2 x 10(-11) M gelonin, a potency which is equivalent to that reached by saporin in this targeting system </plain></SENT>
+<SENT sid="6" pm="."><plain>However, because gelonin is 5-10 times less toxic than saporin, the therapeutic ratio for gelonin is superior, making it potentially a more useful agent for human treatment </plain></SENT>
+<SENT sid="7" pm="."><plain>Cytotoxicity assays and kinetic analysis showed that targeting gelonin via CD38 was 2-5 times less effective than delivery through CD22 </plain></SENT>
+<SENT sid="8" pm="."><plain>However, with a pair of BsAbs designed to co-target gelonin via CD22 and CD38, the cytotoxicity achieved equalled that obtained with a pair of anti-CD22 BsAbs (IC50 = 1 x 10(-11) M) </plain></SENT>
+<SENT sid="9" pm="."><plain>This important result suggests that the anti-CD38 helps bind the gelonin to the cell and is then 'dragged' or 'piggy-backed' into the cell by the anti-CD22 BsAb </plain></SENT>
+<SENT sid="10" pm="."><plain>The implication of these findings for <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> therapy is discussed </plain></SENT>
+</text></document>

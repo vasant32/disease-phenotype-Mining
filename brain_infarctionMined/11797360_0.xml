@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The purpose of this study was to determine the incidence of postoperative pulmonary complications (PPC) and the value of preoperative spirometry to predict PPC after laparoscopic cholecystectomy </plain></SENT>
+<SENT sid="1" pm="."><plain>Sixty-four of 1372 patients (8%) showed abnormal spirometry data </plain></SENT>
+<SENT sid="2" pm="."><plain>One out of 1372 patients developed <z:hpo ids='HP_0011951'>aspiration pneumonia</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>The patient had high risk factors for serious PPC such as <z:chebi fb="37" ids="15365">ASA</z:chebi> physical status 4.84 y/o, longer anesthesia duration (230 min), multiple <z:e sem="disease" ids="C0751955" disease_type="Disease or Syndrome" abbrv="">brain infarction</z:e> and low albuminemia </plain></SENT>
+<SENT sid="4" pm="."><plain>Thirty to 39% of patients with abnormal spirometry showed less severe PPC such as <z:hpo ids='HP_0100750'>atelectasis</z:hpo>, lung collapse and <z:hpo ids='HP_0002202'>pleural effusion</z:hpo>, and incidence was the similar with <z:mpath ids='MPATH_458'>normal</z:mpath> lung function patients </plain></SENT>
+<SENT sid="5" pm="."><plain>Postoperative blood gas analysis showed a slight increase in arterial carbon dioxide tension during oxygen therapy </plain></SENT>
+<SENT sid="6" pm="."><plain>However, none of the patients with abnormal spirometry and less severe PPC developed manifest PPC (<z:hpo ids='HP_0002090'>pneumonia</z:hpo>, <z:hpo ids='HP_0002093'>respiratory failure</z:hpo>) </plain></SENT>
+<SENT sid="7" pm="."><plain>Less severe PPC disappeared within second to third postoperative days </plain></SENT>
+<SENT sid="8" pm="."><plain>We conclude that laparoscopic intervention significantly reduced the incidence of severe PPC and the preoperative spirometry was not recommended in patients with no pulmonary symptoms </plain></SENT>
+</text></document>

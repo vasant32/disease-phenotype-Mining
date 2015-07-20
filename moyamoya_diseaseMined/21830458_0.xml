@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 40-year-old male presented to emergency room with <z:e sem="disease" ids="C0014544" disease_type="Disease or Syndrome" abbrv="">epileptic</z:e> <z:e sem="disease" ids="C0014549,C0494475" disease_type="Disease or Syndrome;Sign or Symptom" abbrv="">grand mal</z:e> <z:hpo ids='HP_0001250'>seizure</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>He had untreated <z:hpo ids='HP_0000822'>hypertension</z:hpo>, and prior diagnostic investigation showed duplex renal arteries of the right kidney with <z:hpo ids='HP_0000848'>hyperreninemia</z:hpo> in the left renal vein </plain></SENT>
+<SENT sid="2" pm="."><plain>He was nonsmoker, with moderate alcohol intake </plain></SENT>
+<SENT sid="3" pm="."><plain>Neurologic examination was <z:mpath ids='MPATH_458'>normal</z:mpath> except for <z:mp ids='MP_0002842'>high blood pressure</z:mp> and tongue bite </plain></SENT>
+<SENT sid="4" pm="."><plain>Electroencephalogram was nonspecific </plain></SENT>
+<SENT sid="5" pm="."><plain>Nuclear magnetic resonance (NMR) showed vascular lesions in the white matter and infratentorially an expansive lesion with no postcontrast imbibition in the right cerebellar hemisphere </plain></SENT>
+<SENT sid="6" pm="."><plain>Neurosonography revealed <z:mpath ids='MPATH_133'>hypoplasia</z:mpath> of both internal carotid arteries (ICA), mean diameter &lt;2 mm, subtotal stenosis at the origin of both ICA, and development of collateral path, typical for <z:e sem="disease" ids="C0026654" disease_type="Disease or Syndrome" abbrv="MYMY|MYMY1">moyamoya disease</z:e> </plain></SENT>
+<SENT sid="7" pm="."><plain>Magnetic resonance angiography (MRA) and digital subtraction angiography (DSA) confirmed the neurosonography diagnosis </plain></SENT>
+<SENT sid="8" pm="."><plain>Immunologic tests for <z:hpo ids='HP_0002633'>vasculitis</z:hpo> were negative, while hematologic examination showed 4G allele for PAI-1 </plain></SENT>
+<SENT sid="9" pm="."><plain>Serum <z:chebi fb="23" ids="18059">lipids</z:chebi> were elevated </plain></SENT>
+<SENT sid="10" pm="."><plain>We recommended neurosurgical operation of <z:mp ids='MP_0009277'>brain tumor</z:mp> </plain></SENT>
+<SENT sid="11" pm="."><plain>Histopathologic finding showed <z:hpo ids='HP_0002858'>meningioma</z:hpo> </plain></SENT>
+<SENT sid="12" pm="."><plain>This case is interesting because of the rare complex cerebrovascular disease, i.e. coexistence ofhypoplasia of both ICA, bilateral subtotal stenosis of ICA, intracranial <z:e sem="disease" ids="C0026654" disease_type="Disease or Syndrome" abbrv="MYMY|MYMY1">moyamoya disease</z:e>, and <z:mp ids='MP_0009277'>brain tumor</z:mp> </plain></SENT>
+</text></document>

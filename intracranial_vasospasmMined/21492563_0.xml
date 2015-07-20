@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: After an aneurysmal <z:hpo ids='HP_0002138'>subarachnoid hemorrhage</z:hpo>, cerebral microcirculatory changes occur as a result <z:e sem="disease" ids="C0265110" disease_type="Disease or Syndrome" abbrv="">cerebral vasospasm</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>The objective of this study is to investigate, with a computational model, how various degrees of vasospasm are influenced by increasing the mean blood pressure and decreasing the blood viscosity </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: Using ANSYS CFX software, a computational model was constructed to simulate steady-state fully developed laminar blood flow through a rigid wall system consisting of the internal carotid artery (ICA), anterior cerebral artery, posterior cerebral artery, and middle cerebral artery (<z:chebi fb="70" ids="34342">MCA</z:chebi>) </plain></SENT>
+<SENT sid="3" pm="."><plain>The <z:chebi fb="70" ids="34342">MCA</z:chebi> was selected for the site of a single <z:hpo ids='HP_0011009'>acute</z:hpo> vasospasm </plain></SENT>
+<SENT sid="4" pm="."><plain>Five severities of vasospasm were studied: 3 mm (<z:mpath ids='MPATH_458'>normal</z:mpath>), 2.5, 2, 1.5, and 1 mm </plain></SENT>
+<SENT sid="5" pm="."><plain>The ICA was assumed to have a constant inlet flow rate of 315 mL/min </plain></SENT>
+<SENT sid="6" pm="."><plain>The anterior cerebral artery and posterior cerebral artery were assumed to have constant outlet flow rates of 105 mL/min and 30 mL/min, respectively </plain></SENT>
+<SENT sid="7" pm="."><plain>The <z:chebi fb="70" ids="34342">MCA</z:chebi> was assumed to have a constant outlet pressure of 92 mL/min </plain></SENT>
+<SENT sid="8" pm="."><plain>Two different hematocrits, 45% and 32%, were simulated using the models </plain></SENT>
+<SENT sid="9" pm="."><plain>RESULTS: For a hematocrit of 45, the mean ICA inlet pressure required to pump blood through the system was 104 mm Hg for the 3-mm diameter <z:chebi fb="70" ids="34342">MCA</z:chebi> and 105, 108, 116, and 158 mm Hg for vasospasm diameters of 2.5, 2, 1.5, and 1 mm, respectively </plain></SENT>
+<SENT sid="10" pm="."><plain>For a hematocrit of 32, the mean ICA inlet pressure required was 102, 103, 105, 113, and 152 mm Hg, respectively </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: The <z:chebi fb="70" ids="34342">MCA</z:chebi> required a large increase in mean ICA inlet pressure for vasospasm diameters less than 1.5 mm, which suggests that for vasospasms more than 50% diameter reduction, the blood pressure must be increased dramatically </plain></SENT>
+<SENT sid="12" pm="."><plain>Decreasing the hematocrit had minimal impact on blood flow in a constricted vessel </plain></SENT>
+</text></document>

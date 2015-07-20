@@ -1,0 +1,18 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECT: Intrathecal bolus administration of (Z)-1-[N-(<z:chebi fb="0" ids="22502">2-aminoethyl</z:chebi>)-N-(2-ammonioethyl)aminio]diazen++ +-1-ium-1,2-diolate (DETA/NO), a long half-life diazeniumdiolate-class nitric <z:chebi fb="177" ids="25741,29356">oxide</z:chebi> (NO) donor, was evaluated for safety and efficacy in the treatment of delayed <z:e sem="disease" ids="C0265110" disease_type="Disease or Syndrome" abbrv="">cerebral vasospasm</z:e> in a canine model of <z:hpo ids='HP_0002138'>subarachnoid hemorrhage</z:hpo> (SAH) </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: The baseline basilar artery (BA) diameter of 25 dogs was measured with the aid of angiography on Day 0 </plain></SENT>
+<SENT sid="2" pm="."><plain>Vasospasm was then induced by intracisternal injection of autologous arterial blood on Days 0 and 2 </plain></SENT>
+<SENT sid="3" pm="."><plain>Repeated arteriography on Day 7 revealed an average BA diameter of 58% of baseline </plain></SENT>
+<SENT sid="4" pm="."><plain>Each dog was then randomized to one of four groups: a pathology control group (SAH only, four animals); a treatment control group (SAH plus 2 micromol of the inactive drug carrier DETA, eight animals); a low-dose treatment group (SAH plus 0.2 micromol DETA/NO, six animals); or a high-dose treatment group (SAH plus 2 micromol DETA/NO, six animals) </plain></SENT>
+<SENT sid="5" pm="."><plain>The drugs were administered in a 2-ml intrathecal bolus via the cisterna magna </plain></SENT>
+<SENT sid="6" pm="."><plain>Arterial caliber was monitored by angiography over the subsequent 4 hours </plain></SENT>
+<SENT sid="7" pm="."><plain>A 2-micromol dose of the drug was then given and serial arteriography continued for an additional hour to screen for tachyphylaxis </plain></SENT>
+<SENT sid="8" pm="."><plain>Intracranial pressure and respiratory and hemodynamic parameters were continuously monitored </plain></SENT>
+<SENT sid="9" pm="."><plain>Histopathological analyses of the animals' brains were performed after the dogs were killed on Day 8 </plain></SENT>
+<SENT sid="10" pm="."><plain>The drug DETA/NO produced reversal of vasospasm in a dose-dependent fashion that roughly followed a double exponential time course </plain></SENT>
+<SENT sid="11" pm="."><plain>Doses of 2 micromol DETA/NO resulted in restoration of the angiographically monitored BA diameter to the prevasospasm size at 1.5 hours posttreatment, and this was sustained at 88% of baseline at 4 hours (p &lt; 0.01, independent samples t-test) </plain></SENT>
+<SENT sid="12" pm="."><plain>By contrast, the treatment control group remained on average at 54% of baseline diameter </plain></SENT>
+<SENT sid="13" pm="."><plain>The low-dose treatment group achieved only partial and more transitory relaxation </plain></SENT>
+<SENT sid="14" pm="."><plain>Histopathological analyses showed findings consistent with <z:hpo ids='HP_0011010'>chronic</z:hpo> SAH but did not demonstrate any toxicity associated with the NO donor </plain></SENT>
+<SENT sid="15" pm="."><plain>No adverse physiological changes were seen </plain></SENT>
+<SENT sid="16" pm="."><plain>CONCLUSIONS: This study indicates that long-acting NO donors are potentially useful as agents to restore circulation in patients suffering from <z:e sem="disease" ids="C0265110" disease_type="Disease or Syndrome" abbrv="">cerebral vasospasm</z:e> </plain></SENT>
+</text></document>

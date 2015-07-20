@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND PURPOSE: We measured the temporal evolution of the T2 and diffusion tensor imaging parameters after transient and permanent cerebral middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (MCAo) in macaques, and compared it to standard histological analysis at the study end point </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: <z:hpo ids='HP_0001297'>Stroke</z:hpo> was created in adult male macaques by occluding a middle cerebral artery branch for 3 hours (transient MCAo, n=4 or permanent occlusion, n=3) </plain></SENT>
+<SENT sid="2" pm="."><plain>Conventional MRI and diffusion tensor imaging scans were performed 0 (<z:hpo ids='HP_0011009'>acute</z:hpo> day), 1, 3, 7, 10, 17, and 30 days after MCAo </plain></SENT>
+<SENT sid="3" pm="."><plain>Animals were euthanized after the final scan and the brains removed for histological analysis </plain></SENT>
+<SENT sid="4" pm="."><plain>RESULTS: Apparent diffusion coefficient in the lesion was decreased acutely, fractional anisotropy was elevated, and T2 remained <z:mpath ids='MPATH_458'>normal</z:mpath> </plain></SENT>
+<SENT sid="5" pm="."><plain>Thereafter, apparent diffusion coefficient increased above <z:mpath ids='MPATH_458'>normal</z:mpath>, fractional anisotropy decreased to below <z:mpath ids='MPATH_458'>normal</z:mpath>, T2 increased to a maximum and then declined </plain></SENT>
+<SENT sid="6" pm="."><plain>Reperfusion at 3 hours accelerated these MRI changes </plain></SENT>
+<SENT sid="7" pm="."><plain>Only the fractional anisotropy value was significantly different between transient and permanent groups at 30 days </plain></SENT>
+<SENT sid="8" pm="."><plain>Final MRI-defined fractional lesion volumes were well correlated with corresponding histological lesion volumes </plain></SENT>
+<SENT sid="9" pm="."><plain>Permanent MCAO animals showed more severe histological damage than their transient MCAO counterparts, especially myelin damage and axonal swelling </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSIONS: Overall, the MRI evolution of <z:hpo ids='HP_0001297'>stroke</z:hpo> in macaques was closer to what has been observed in humans than in <z:e sem="disease" ids="C1519106" disease_type="Experimental Model of Disease" abbrv="">rodent models</z:e> </plain></SENT>
+<SENT sid="11" pm="."><plain>This work supports the use of serial MRI in <z:hpo ids='HP_0001297'>stroke</z:hpo> studies in nonhuman primates </plain></SENT>
+</text></document>

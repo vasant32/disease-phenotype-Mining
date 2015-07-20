@@ -1,0 +1,23 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: The <z:e sem="disease" ids="C0085278" disease_type="Disease or Syndrome" abbrv="">antiphospholipid syndrome</z:e> (APS) is a thrombophillic disorder characterized by the presence of <z:hpo ids='HP_0003613'>antiphospholipid antibodies</z:hpo> (<z:chebi fb="21" ids="53713">APA</z:chebi>) </plain></SENT>
+<SENT sid="1" pm="."><plain>It often occurs in patients with <z:hpo ids='HP_0002725'>systemic lupus erythematosus</z:hpo> (SLE) and may be associated with <z:e sem="disease" ids="C0000809" disease_type="Disease or Syndrome" abbrv="">recurrent abortions</z:e> and <z:hpo ids='HP_0001873'>thrombocytopenia</z:hpo> and, occasionally, catastrophic thrombotic events </plain></SENT>
+<SENT sid="2" pm="."><plain>OBJECTIVES: To examine, retrospectively, the clinico-pathological features of patients with APS detected by the presence of the <z:e sem="disease" ids="C0024138,C0024141,C0024131,C0409974" disease_type="Disease or Syndrome" abbrv="">lupus</z:e> <z:chebi fb="3" ids="50249">anticoagulant</z:chebi> (LAC) </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: Patients were selected for study on the basis of a positive LAC test on review of the laboratory computer records of the King Faisal Specialist Hospital and Research Center </plain></SENT>
+<SENT sid="4" pm="."><plain>Following this, a clinical chart review was conducted in order to determine the clinical presentations, treatment and the course of patients identified </plain></SENT>
+<SENT sid="5" pm="."><plain>The information obtained was entered into an electronic database and subsequently analyzed </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: Seventy-seven patients were identified and reviewed </plain></SENT>
+<SENT sid="7" pm="."><plain>Fifty-six (73%) were female and 16 (21%) were children less than 15-years-old </plain></SENT>
+<SENT sid="8" pm="."><plain>Thirty-two patients (42%) had no clinical events (incidental APS) </plain></SENT>
+<SENT sid="9" pm="."><plain>The syndrome was classified as primary in 40 (52%) patients and secondary in 37 (48%) </plain></SENT>
+<SENT sid="10" pm="."><plain>Out of the 45 (58%) patients who presented with symptoms related to <z:chebi fb="21" ids="53713">APA</z:chebi> 22 (49%) had <z:mp ids='MP_0005048'>thrombosis</z:mp>, 24 (53%) had pregnancy failure, and 4 (9%) presented with catastrophic APS </plain></SENT>
+<SENT sid="11" pm="."><plain>The activated partial thromboplastin time (aPTT) was elevated and not corrected by mixing with <z:mpath ids='MPATH_458'>normal</z:mpath> plasma in 47 (61%) </plain></SENT>
+<SENT sid="12" pm="."><plain>On the other hand, the prothrombin time (PT) was <z:mpath ids='MPATH_458'>normal</z:mpath> in 66 (90%) </plain></SENT>
+<SENT sid="13" pm="."><plain>There is a significant difference between aPTT and PT as a screening test with P value of &lt; 0.0001 </plain></SENT>
+<SENT sid="14" pm="."><plain>Tests for anticardiolipin antibodies (ACA) were positive in 39 patients (70%) </plain></SENT>
+<SENT sid="15" pm="."><plain>Only 13 (17%) patients had <z:hpo ids='HP_0001873'>thrombocytopenia</z:hpo> </plain></SENT>
+<SENT sid="16" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> patients who presented with <z:mp ids='MP_0005048'>thrombosis</z:mp> were treated with <z:chebi fb="8" ids="10033">warfarin</z:chebi> but only 5 (23%) had received aspirin </plain></SENT>
+<SENT sid="17" pm="."><plain>Out of the 22 patients presenting with <z:mp ids='MP_0005048'>thrombosis</z:mp>, 12 (55%) had one or more recurrent thrombotic events while only 6 (25%) out of the 24 patients who presented with pregnancy failure had events other than pregnancy failure </plain></SENT>
+<SENT sid="18" pm="."><plain>Fifty-two patients were followed up regularly and were alive </plain></SENT>
+<SENT sid="19" pm="."><plain>CONCLUSIONS: We find that <z:mp ids='MP_0005048'>thrombosis</z:mp>, venous or arterial, and obstetric complications are the most frequent clinical findings in our patients with circulating LAC </plain></SENT>
+<SENT sid="20" pm="."><plain>Incidental APS is not an uncommon finding in patients screened for APS </plain></SENT>
+<SENT sid="21" pm="."><plain>There is a clear association between the presence of LAC and an abnormal aPTT, which is much less obvious with the PT </plain></SENT>
+</text></document>

@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Anti-EGFR monoclonal antibodies (anti-EGFRmAb) serve in the treatment of <z:e sem="disease" ids="C0948380" disease_type="Neoplastic Process" abbrv="">metastatic colorectal cancer</z:e> (mCRC), but patients with a mutation in KRAS/BRAF and nearly one-half of those without the mutation fail to respond </plain></SENT>
+<SENT sid="1" pm="."><plain>We performed microRNA (miRNA) analysis to find miRNAs predicting anti-EGFRmAb efficacy </plain></SENT>
+<SENT sid="2" pm="."><plain>Of the 99 mCRC patients, we studied differential miRNA expression by microarrays from <z:e sem="disease" ids="C0677930" disease_type="Neoplastic Process" abbrv="">primary tumors</z:e> of 33 patients who had <z:mp ids='MP_0002169'>wild-type</z:mp> KRAS/BRAF and third- to sixth-line anti-EGFRmAb treatment, with/without irinotecan </plain></SENT>
+<SENT sid="3" pm="."><plain>We tested the association of each miRNA with overall survival (OS) by the Cox proportional hazards regression model </plain></SENT>
+<SENT sid="4" pm="."><plain>Significant miR-31* up-regulation and miR-592 down-regulation appeared in progressive disease versus disease control </plain></SENT>
+<SENT sid="5" pm="."><plain>miR-31* expression and down-regulation of its target genes SLC26A3 and ATN1 were verified by quantitative reverse transcriptase polymerase chain reaction </plain></SENT>
+<SENT sid="6" pm="."><plain>Clustering of patients based on miRNA expression revealed a significant difference in OS between patient clusters </plain></SENT>
+<SENT sid="7" pm="."><plain>Members of the let-7 family showed significant up-regulation in the patient cluster with poor OS </plain></SENT>
+<SENT sid="8" pm="."><plain>Additionally, miR-140-5p up-regulation and miR-1224-5p down-regulation were significantly associated with poor OS in both cluster analysis and the Cox proportional hazards regression model </plain></SENT>
+<SENT sid="9" pm="."><plain>In mCRC patients with <z:mp ids='MP_0002169'>wild-type</z:mp> KRAS/BRAF, miRNA profiling can efficiently predict the benefits of anti-EGFRmAb treatment </plain></SENT>
+<SENT sid="10" pm="."><plain>Larger series of patients are necessary for application of these miRNAs as predictive/prognostic markers </plain></SENT>
+</text></document>

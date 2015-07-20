@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 58-year-old male diabetic patient with severe left ventricular dysfunction and pulmonary arterial <z:hpo ids='HP_0000822'>hypertension</z:hpo> successfully underwent coronary artery by pass grafting (CABG) and was extubated 48 hours after surgery </plain></SENT>
+<SENT sid="1" pm="."><plain>Patient had <z:hpo ids='HP_0005110'>atrial fibrillation</z:hpo> on 3rd post-operative day requiring loading dose of <z:chebi fb="0" ids="2663">amiodarone</z:chebi> followed by maintenance dose to control the <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>On 4th post operative day patient became tachypnoiec and required higher concentration of oxygen to maintain SpO2 &gt;90% </plain></SENT>
+<SENT sid="3" pm="."><plain>There was new infiltrates on the x-ray, which was more on right side </plain></SENT>
+<SENT sid="4" pm="."><plain>Initially treated as <z:hpo ids='HP_0006532'>pulmonary infection</z:hpo> and antifailure measures </plain></SENT>
+<SENT sid="5" pm="."><plain>The patient did not respond and the lesions progressed to opaque hemithorax by the 10th postoperative day </plain></SENT>
+<SENT sid="6" pm="."><plain>On 11th POD he was reintubated due to <z:hpo ids='HP_0002098'>respiratory distress</z:hpo> </plain></SENT>
+<SENT sid="7" pm="."><plain>After excluding <z:hpo ids='HP_0006532'>pulmonary infections</z:hpo>, pulmonary <z:hpo ids='HP_0000969'>oedema</z:hpo>, embolism and <z:e sem="disease" ids="C1096458" disease_type="Disease or Syndrome;Acquired Abnormality" abbrv="">vascular obstruction</z:e>, the possibility of drug induced pulmonary toxicity was considered </plain></SENT>
+<SENT sid="8" pm="."><plain>Hence <z:chebi fb="0" ids="2663">amiodarone</z:chebi> was withdrawn and steroid was initiated </plain></SENT>
+<SENT sid="9" pm="."><plain>There was good radiological and gas exchange improvement and he was extubated the following day </plain></SENT>
+<SENT sid="10" pm="."><plain>After one week course of steroids the infiltrates cleared and oxygenation also improved </plain></SENT>
+<SENT sid="11" pm="."><plain>Post CABG patients are prone for <z:hpo ids='HP_0011009'>acute</z:hpo> <z:chebi fb="0" ids="2663">amiodarone</z:chebi> toxicity and high index of suspicion is needed to diagnose this early so that fatal complication can be averted by timely intervention </plain></SENT>
+</text></document>

@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:chebi fb="4" ids="26833">16S</z:chebi> rDNA polymerase chain reaction (PCR) in the diagnosis of fastidious organisms is becoming increasingly commonplace </plain></SENT>
+<SENT sid="1" pm="."><plain>We present the case of a child admitted to an <z:hpo ids='HP_0011009'>acute</z:hpo> paediatric unit of a university teaching hospital with otorrhoea, torticollis, and cervical <z:hpo ids='HP_0002716'>lymphadenopathy</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>Examination revealed <z:hpo ids='HP_0001433'>hepatosplenomegaly</z:hpo> associated with <z:hpo ids='HP_0001876'>pancytopenia</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>Radiological imaging confirmed a retropharyngeal <z:mpath ids='MPATH_612'>abscess</z:mpath>, bilateral <z:hpo ids='HP_0000265'>mastoiditis</z:hpo>, <z:e sem="disease" ids="C0742035" disease_type="Disease or Syndrome" abbrv="">cerebellar lesions</z:e>, and venous sinus <z:mp ids='MP_0005048'>thrombosis</z:mp> </plain></SENT>
+<SENT sid="4" pm="."><plain>Swabs of aural discharge grew anaerobes </plain></SENT>
+<SENT sid="5" pm="."><plain>Drainage of the retropharyngeal <z:mpath ids='MPATH_612'>abscess</z:mpath> and bilateral mastoidectomy were performed </plain></SENT>
+<SENT sid="6" pm="."><plain>Bone marrow <z:hpo ids='HP_0002835'>aspiration</z:hpo> was initially suspicious of <z:hpo ids='HP_0011009'>acute</z:hpo> <z:mpath ids='MPATH_336'>leukaemia</z:mpath> prompting further investigations, but cytogenetic analysis ruled out this diagnosis and changes were attributed to severe <z:hpo ids='HP_0100806'>sepsis</z:hpo> </plain></SENT>
+<SENT sid="7" pm="."><plain>Following 27 days of intravenous antibiotics and after clinical improvement, <z:chebi fb="0" ids="3745">clindamycin</z:chebi> was started </plain></SENT>
+<SENT sid="8" pm="."><plain>Intraoperative pus yielded no significant pathogens </plain></SENT>
+<SENT sid="9" pm="."><plain>A <z:chebi fb="4" ids="26833">16S</z:chebi> rDNA PCR confirmed Fusobacterium necrophorum </plain></SENT>
+<SENT sid="10" pm="."><plain>The boy was discharged on a 6 week course of oral <z:chebi fb="0" ids="3745">clindamycin</z:chebi> </plain></SENT>
+</text></document>

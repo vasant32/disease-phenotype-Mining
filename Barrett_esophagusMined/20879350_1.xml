@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Learning medical image interpretation is an evolutive process that requires modular training systems, from non-expert to expert users </plain></SENT>
+<SENT sid="1" pm="."><plain>Our study aims at developing such a system for endomicroscopy diagnosis </plain></SENT>
+<SENT sid="2" pm="."><plain>It uses a difficulty predictor to try and shorten the physician learning curve </plain></SENT>
+<SENT sid="3" pm="."><plain>As the understanding of video diagnosis is driven by visual similarities, we propose a content-based video retrieval approach to estimate the level of interpretation difficulty </plain></SENT>
+<SENT sid="4" pm="."><plain>The performance of our retrieval method is compared with several state of the art methods, and its genericity is demonstrated with two different clinical databases, on the <z:hpo ids='HP_0100580'>Barrett's Esophagus</z:hpo> and on <z:mp ids='MP_0003269'>colonic polyps</z:mp> </plain></SENT>
+<SENT sid="5" pm="."><plain>From our retrieval results, we learn a difficulty predictor against a ground truth given by the percentage of false diagnoses among several physicians </plain></SENT>
+<SENT sid="6" pm="."><plain>Our experiments show that, although our datasets are not large enough to test for statistical significance, there is a noticeable relationship between our retrieval-based difficulty estimation and the difficulty experienced by the physicians </plain></SENT>
+</text></document>

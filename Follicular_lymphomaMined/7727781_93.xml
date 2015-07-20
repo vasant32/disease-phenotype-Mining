@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Successive oncogenic steps are necessary to generate <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>In many B-cell <z:hpo ids='HP_0002665'>lymphomas</z:hpo>, chromosomal translocations are considered to be an early oncogenic hit </plain></SENT>
+<SENT sid="2" pm="."><plain>We investigated whether the <z:hpo ids='HP_0002665'>lymphoma</z:hpo>-associated t(14;18) involving the BCL2 oncogene can occur outside the context of <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">malignancy</z:e> </plain></SENT>
+<SENT sid="3" pm="."><plain>To this end, we extensively screened blood cells from healthy blood donors by a very sensitive seminested polymerase chain reaction (PCR) for breakpoint junctions at JH1-5 on 14q32 and the major breakpoint region of BCL2 on 18q21 </plain></SENT>
+<SENT sid="4" pm="."><plain>In each individual, mononuclear cells, granulocytes, flow-sorted B cells, and T cells were separately tested in five to seven independently performed PCRs (in total, 0.5 x 10(6) to 1.0 x 10(6) cells per fraction per individual) </plain></SENT>
+<SENT sid="5" pm="."><plain>Amplification products that hybridized with an internal BCL2 probe and a JH probe were sequenced </plain></SENT>
+<SENT sid="6" pm="."><plain>Six of nine individuals harbored t(14;18) breakpoints </plain></SENT>
+<SENT sid="7" pm="."><plain>Translocations were restricted to B cells, with an estimated frequency of 1 in 10(5) or less circulating B cells </plain></SENT>
+<SENT sid="8" pm="."><plain>In total, 23 of 51 experiments on B cells were positive in contrast to 1 of 48 on T cells and 2 of 47 experiments on granulocytes </plain></SENT>
+<SENT sid="9" pm="."><plain>Consistent with the presence of 4.7% to 13.0% B cells in the mononuclear cell fractions, only very few (4 of 47) tests were positive in these fractions </plain></SENT>
+<SENT sid="10" pm="."><plain>Sequence analysis showed that four of six individuals harbored two to five unrelated t(14;18)-carrying B-cell clones </plain></SENT>
+<SENT sid="11" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> breakpoints had a structure similar to that in follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo> </plain></SENT>
+<SENT sid="12" pm="."><plain>We propose that B cells with the t(14;18) translocation are regularly generated in <z:mpath ids='MPATH_458'>normal</z:mpath> individuals, but that only very few cells with the translocation will acquire the additional oncogenic hits necessary to establish the malignant phenotype </plain></SENT>
+</text></document>

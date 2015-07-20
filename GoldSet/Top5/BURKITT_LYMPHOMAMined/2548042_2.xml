@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>L2C B lymphocytes have a constant high DNA synthesis due to their continuous proliferative state </plain></SENT>
+<SENT sid="1" pm="."><plain>The addition of polymyxin B (PmB), a rather selective inhibitor of protein kinase C, stopped (3H)<z:chebi fb="0" ids="17748">thymidine</z:chebi> incorporation with an IC50 of 10 microM when added 18 h before measuring DNA synthesis </plain></SENT>
+<SENT sid="2" pm="."><plain>Interestingly, PmB inhibition of DNA synthesis was suppressed when 4 nM 12-O-tetradecanoylphorbol-13-<z:chebi fb="49" ids="30089,47622">acetate</z:chebi> was added along with PmB, indicating that PmB may act through inhibition of protein kinase C </plain></SENT>
+<SENT sid="3" pm="."><plain>In the node and spleen lymphocytes of <z:mpath ids='MPATH_458'>normal</z:mpath> guinea pigs, protein kinase C activity was entirely cytosolic and was eluted at 0.12 M <z:chebi fb="1" ids="26710">NaCl</z:chebi> when adsorbed on <z:chebi fb="0" ids="52153">DEAE</z:chebi>-cellulose </plain></SENT>
+<SENT sid="4" pm="."><plain>In L2C leukemic lymphocytes, total protein kinase C activity was of the same order of magnitude, but 20% of it was associated with the membrane fraction </plain></SENT>
+<SENT sid="5" pm="."><plain>The <z:chebi fb="23" ids="18059">lipid</z:chebi>-dependent activity, eluted at 0.12 M <z:chebi fb="1" ids="26710">NaCl</z:chebi> from cytosolic and membrane fractions, was suppressed by <z:chebi fb="0" ids="15738">staurosporine</z:chebi> with an IC50 of 10-40 nM and by polymyxin B with an IC50 of 2-6 microM </plain></SENT>
+<SENT sid="6" pm="."><plain><z:chebi fb="0" ids="16749">Phosphoinositide</z:chebi> metabolism was studied in the transformed cells </plain></SENT>
+<SENT sid="7" pm="."><plain>Incorporation of 32Pi into polyphosphoinositides was considerable, whereas much more time was required for a tiny incorporation of <z:chebi fb="1" ids="24848">inositol</z:chebi> </plain></SENT>
+<SENT sid="8" pm="."><plain>We detected no release of radioactive <z:chebi fb="1" ids="24848">inositol</z:chebi> <z:chebi fb="0" ids="15266,18036">triphosphate</z:chebi> </plain></SENT>
+<SENT sid="9" pm="."><plain>Taken together, these results suggest that protein kinase C function is indispensible for triggering L2C leukemic lymphocyte proliferation </plain></SENT>
+<SENT sid="10" pm="."><plain>The causes of this permanent activation merit further investigation </plain></SENT>
+</text></document>

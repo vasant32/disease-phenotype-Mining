@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Hyperbaric oxygenation (HBO) after focal <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> reduces <z:mpath ids='MPATH_124'>infarct</z:mpath> size and improves outcome when applied early after <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Here, we evaluated effects of HBO on permanent focal <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> and applied magnetic resonance imaging (MRI) monitoring to study lesion evolution </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: Rats underwent permanent middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (MCAO) </plain></SENT>
+<SENT sid="3" pm="."><plain>Two hours later, animals were treated with HBO (100% <z:chebi fb="0" ids="15379">O(2)</z:chebi>/2 atm; n=17) for 1 hour or treated with room air (n=17) </plain></SENT>
+<SENT sid="4" pm="."><plain>Animals underwent serial MRI studies (DWI, PI, T2) beginning 90 minutes after MCAO </plain></SENT>
+<SENT sid="5" pm="."><plain>Neuroscore was assessed (5-point rating scale) </plain></SENT>
+<SENT sid="6" pm="."><plain>Animals were euthanized and brains were 2,3,5-triphenyltetrazolium <z:chebi fb="76" ids="17996">chloride</z:chebi> (TTC)-stained for <z:mpath ids='MPATH_124'>infarct</z:mpath> volume calculation 120 hours after MCAO </plain></SENT>
+<SENT sid="7" pm="."><plain>Immunohistochemistry was performed with antibodies against c-FOS and <z:chebi fb="0" ids="32585">4-hydroxy-2-nonenal</z:chebi>-modified proteins (HNE) to check for effects of <z:mp ids='MP_0003674'>oxidative stress</z:mp> caused by HBO treatment </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: HBO reduced <z:mpath ids='MPATH_124'>infarct</z:mpath> volume by 38% (P&lt;0.001) </plain></SENT>
+<SENT sid="9" pm="."><plain>As shown by MRI, neuroprotection began 5 hours after <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> and remained effective for 5 days </plain></SENT>
+<SENT sid="10" pm="."><plain>The relative regional cerebral blood flow was not different between groups at 3.5 and 5 hours after occlusion </plain></SENT>
+<SENT sid="11" pm="."><plain>There was less neurological deficit in HBO-treated animals compared with controls (P&lt;0.05) </plain></SENT>
+<SENT sid="12" pm="."><plain><z:chebi fb="23" ids="18059">Lipid</z:chebi> peroxidation of cerebral vessels after HBO treatment as measured by HNE staining and pattern of c-FOS induction were not significantly different between groups at 3.5 and 8 hours after <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSIONS: As monitored by MRI HBO treatment reversed ischemic lesion size between 3 and 5 hours after <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> and achieved a long-lasting neuroprotective effect without significant oxidative damage </plain></SENT>
+</text></document>

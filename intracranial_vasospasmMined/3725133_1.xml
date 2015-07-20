@@ -1,0 +1,6 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Calcium-channel entry blockers are drugs with different chemical properties and a common pharmacological characteristic </plain></SENT>
+<SENT sid="1" pm="."><plain>Calcium is very important in many physiological mechanisms and could be involved in neuronal damage following <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>Thus, <z:chebi fb="0" ids="38215">calcium-channel blockers</z:chebi> agents could be of interest in medical treatment of cerebrovascular diseases, <z:hpo ids='HP_0002315'>headache</z:hpo> and <z:hpo ids='HP_0002138'>subarachnoid hemorrhage</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain><z:chebi fb="0" ids="38215">Calcium-channel blockers</z:chebi> seem to have a direct protective role against neuronal ischemic damage and/or a direct action on cerebral vessels </plain></SENT>
+<SENT sid="4" pm="."><plain>Some clinical experiences have suggested a protective role of nimodipine in the prevention of ischemic complications related to <z:e sem="disease" ids="C0265110" disease_type="Disease or Syndrome" abbrv="">cerebral vasospasm</z:e> after <z:hpo ids='HP_0002138'>subarachnoid hemorrhage</z:hpo> </plain></SENT>
+</text></document>

@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: The Distress Thermometer (DT) and Hospital <z:hpo ids='HP_0000739'>Anxiety</z:hpo> and <z:hpo ids='HP_0000716'>Depression</z:hpo> Scale (HADS) are commonly used within <z:hpo ids='HP_0002664'>oncology</z:hpo> settings </plain></SENT>
+<SENT sid="1" pm="."><plain>However there is a paucity of research comparing these measures to gold standard structured clinical interviews assessing for clinical disorders </plain></SENT>
+<SENT sid="2" pm="."><plain>The aim of this study is to establish the sensitivity, specificity and optimal cut-off scores on these measures when compared to a clinical interview </plain></SENT>
+<SENT sid="3" pm="."><plain>METHOD: Ninety-nine patients with <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> completed the DT and HADS and a psychologist-administered gold standard structured clinical interview (the Composite International Diagnostic Interview-CIDI) </plain></SENT>
+<SENT sid="4" pm="."><plain>Receiver Operator Characteristic analyses (ROC) were conducted to establish the optimal cut-off score on the DT and HADS to identify clinical disorders based on the CIDI </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: Seventeen patients met criteria for a clinical disorder in the sample </plain></SENT>
+<SENT sid="6" pm="."><plain>A cut-off score of 4 on the DT indicated acceptable sensitivity (60%) and specificity (67%) to detect a current clinical disorder, while the optimal cut-off for the HADS was 10 (sensitivity=73%, specificity=72%) </plain></SENT>
+<SENT sid="7" pm="."><plain>The area under the ROC values were 0.66 for the DT (95% CI: 0.51, 0.82) and 0.78 for the HADS (95% CI: 0.67, 0.90) </plain></SENT>
+<SENT sid="8" pm="."><plain>The difference in AUC between the two measures was not statistically significant </plain></SENT>
+<SENT sid="9" pm="."><plain>LIMITATIONS: The limitations to the design and methodology of the study are discussed </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSION: The single item DT performed fairly, however not as well as the longer HADS in identifying clinical disorders amongst <z:hpo ids='HP_0002664'>oncology</z:hpo> patients, particularly <z:hpo ids='HP_0000739'>anxiety</z:hpo> disorders </plain></SENT>
+</text></document>

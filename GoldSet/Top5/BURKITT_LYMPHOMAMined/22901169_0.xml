@@ -1,0 +1,18 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: To investigate the effect of down-regulation of Sentrin/SUMO-specific protease 1 (SENP1) expression on the <z:mpath ids='MPATH_3'>apoptosis</z:mpath> of human Burkitt <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cells (Daudi cells) and potential mechanisms </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: Short hairpin <z:chebi fb="40" ids="33697">RNA</z:chebi> (shRNA) targeting SENP1 was designed and synthesized and then cloned into a lentiviral vector </plain></SENT>
+<SENT sid="2" pm="."><plain>A lentiviral packaging plasmid was used to transfect Daudi cells (sh-SENP1-Daudi group) </plain></SENT>
+<SENT sid="3" pm="."><plain>Daudi cells without transfection (Daudi group) and Daudi cells transfected with blank plasmid (sh-NC-Daudi group) served as control groups </plain></SENT>
+<SENT sid="4" pm="."><plain>Flow cytometry was performed to screen GFP positive cells and semiquantitative PCR and Western blot assays were employed to detect the inference efficiency </plain></SENT>
+<SENT sid="5" pm="."><plain>The <z:mp ids='MP_0000002'>morphology</z:mp> of cells was observed under a microscope before and after transfection </plain></SENT>
+<SENT sid="6" pm="."><plain>Fluorescence quantitative PCR and Western blot assays were conducted to measure the <z:chebi fb="2" ids="33699">mRNA</z:chebi> and protein expression of <z:mpath ids='MPATH_3'>apoptosis</z:mpath> related molecules (caspase-3, 8 and 9) </plain></SENT>
+<SENT sid="7" pm="."><plain>After treatment with <z:chebi fb="0" ids="29365">COCl2</z:chebi> for 24 h, the <z:chebi fb="2" ids="33699">mRNA</z:chebi> and protein expression of <z:mp ids='MP_0005039'>hypoxia</z:mp> inducible factor -1α (HIF-1α) was determined </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: Sequencing showed the expression vectors of shRNA targeting SENP1 to be successfully constructed </plain></SENT>
+<SENT sid="9" pm="."><plain>Following screening of GFP positive cells by FCM, semiqualitative PCR showed the interference efficiency was 79.2±0.026% </plain></SENT>
+<SENT sid="10" pm="."><plain>At 48 h after transfection, the Daudi cells became shrunken, had irregular edges and presented apoptotic bodies </plain></SENT>
+<SENT sid="11" pm="."><plain>Western blot assay revealed increase in expression of caspase-3, 8 and 9 with prolongation of transfection (P&lt;0.05) </plain></SENT>
+<SENT sid="12" pm="."><plain>Following <z:mp ids='MP_0005039'>hypoxia</z:mp> treatment, <z:chebi fb="2" ids="33699">mRNA</z:chebi> expression of HIF-1α remained unchanged in three groups (P&gt;0.05) but the protein expression of HIF-1α markedly increased (P&lt;0.05) </plain></SENT>
+<SENT sid="13" pm="."><plain>However, in the sh-SENP1-Daudi group, the protein expression of HIF-1α remained unchanged </plain></SENT>
+<SENT sid="14" pm="."><plain>CONCLUSION: SENP1-shRNA can efficiently inhibit SENP1 expression in Daudi cells </plain></SENT>
+<SENT sid="15" pm="."><plain>SENP1 inhibition may promote cell <z:mpath ids='MPATH_3'>apoptosis</z:mpath> </plain></SENT>
+<SENT sid="16" pm="."><plain>These findings suggest that SENP1 may serve as an important target in the gene therapy of Burkitts <z:hpo ids='HP_0002665'>lymphoma</z:hpo> </plain></SENT>
+</text></document>

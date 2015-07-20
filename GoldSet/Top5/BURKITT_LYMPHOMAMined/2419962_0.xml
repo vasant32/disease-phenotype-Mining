@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We investigated the destructive capability of three <z:e sem="disease" ids="C0021400" disease_type="Disease or Syndrome" abbrv="FLU">influenza</z:e> A strains, Victoria, PR8, and their recombinant X47, against the human <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cell line Daudi </plain></SENT>
+<SENT sid="1" pm="."><plain>Both Victoria and X47 strains share the same envelope <z:chebi fb="0" ids="17089">glycoproteins</z:chebi> (<z:chebi fb="1" ids="30092,30093,30094,30095">H3N2</z:chebi>), while PR8, the second parental strain of X47, differs in its envelope <z:chebi fb="0" ids="17089">glycoproteins</z:chebi> (HON1) </plain></SENT>
+<SENT sid="2" pm="."><plain>The <z:chebi fb="1" ids="30092,30093,30094,30095">H3N2</z:chebi> strains and particularly the X47 recombinant were cytotoxic to Daudi cells while the HON1 strain was not </plain></SENT>
+<SENT sid="3" pm="."><plain>To reduce the virulence of the oncolytic viruses, we inactivated them either with heat (56 degrees C/45 min) or with formalin </plain></SENT>
+<SENT sid="4" pm="."><plain>Both treatments significantly reduced the infectivity of the viruses </plain></SENT>
+<SENT sid="5" pm="."><plain>The X47 virus treated with formalin retained its hemagglutinin (HA) and neuraminidase (NA) activities but lost its cytotoxic potential </plain></SENT>
+<SENT sid="6" pm="."><plain>On the other hand, the heat-treated X47 virus retained its HA activity, lost its NA activity, but preserved its cytotoxic potential </plain></SENT>
+<SENT sid="7" pm="."><plain>Thus, the heat-inactivated X47 virus (X56) was the most effective non-virulent oncolytic agent we tested </plain></SENT>
+<SENT sid="8" pm="."><plain>The X56 virus arrested Daudi cell multiplication in-vitro by inhibiting cellular DNA synthesis </plain></SENT>
+<SENT sid="9" pm="."><plain>The mechanism by which X56 inhibited Daudi cell DNA synthesis was not related to interferon induction in Daudi cells, and did not necessarily involve the activation of the Epstein-Barr virus (EBV) genome present in Daudi cells </plain></SENT>
+<SENT sid="10" pm="."><plain>Although the mechanism remains unclear, the oncolytic potential of the X56 virus on Daudi cells was demonstrated </plain></SENT>
+</text></document>

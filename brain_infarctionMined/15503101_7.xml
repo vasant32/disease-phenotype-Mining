@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Neurological complications are very frequent in patients with infective <z:hpo ids='HP_0100584'>endocarditis</z:hpo> (20-40 %) </plain></SENT>
+<SENT sid="1" pm="."><plain>In these patients it is unclear at what time a valve replacement should be performed </plain></SENT>
+<SENT sid="2" pm="."><plain>In order to develop a data based recommendation we studied 12 patients of our own and analyzed 228 patients from the literature </plain></SENT>
+<SENT sid="3" pm="."><plain>We included patients with valve replacement after a neurological complication of <z:hpo ids='HP_0100584'>endocarditis</z:hpo> and documented the time between manifestation and operation and the outcome </plain></SENT>
+<SENT sid="4" pm="."><plain>Based on these 240 patients we calculated the risk of neurological deterioration after the valve replacement </plain></SENT>
+<SENT sid="5" pm="."><plain>After <z:e sem="disease" ids="C0751955" disease_type="Disease or Syndrome" abbrv="">brain infarction</z:e> this risk is 20% within three days, 20-50% between day 4 and 14, but declines to &lt; 10% after 14 days and &lt; 1% after 4 weeks </plain></SENT>
+<SENT sid="6" pm="."><plain>Valve replacement within the first four weeks after <z:hpo ids='HP_0002170'>intracranial hemorrhage</z:hpo> has been reported to be successful only in individual cases </plain></SENT>
+<SENT sid="7" pm="."><plain>The risk of deteriorating declines later to 15% </plain></SENT>
+<SENT sid="8" pm="."><plain>Based on these limited data we suggest that valve replacement in patients with <z:e sem="disease" ids="C0751955" disease_type="Disease or Syndrome" abbrv="">brain infarction</z:e> should be considered within the first 72 hours if they have severe <z:hpo ids='HP_0001635'>heart failure</z:hpo>, otherwise after four weeks </plain></SENT>
+<SENT sid="9" pm="."><plain>Only a few selected patients with <z:hpo ids='HP_0002170'>intracranial hemorrhage</z:hpo> and progressive <z:hpo ids='HP_0001635'>heart failure</z:hpo> might benefit from valve replacement within the first four weeks </plain></SENT>
+<SENT sid="10" pm="."><plain>For <z:hpo ids='HP_0000001'>all</z:hpo> other neurological complications there are no reliable data </plain></SENT>
+<SENT sid="11" pm="."><plain>We propose a structured approach depending on cardiac and neurological complications and the time course of the disease </plain></SENT>
+</text></document>

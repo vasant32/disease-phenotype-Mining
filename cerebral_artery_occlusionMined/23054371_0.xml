@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The splenic response to <z:hpo ids='HP_0001297'>stroke</z:hpo> is a proinflammatory reaction to ischemic injury resulting in expanded <z:hpo ids='HP_0002180'>neurodegeneration</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Splenectomy reduces neural injury in <z:e sem="disease" ids="C1519106" disease_type="Experimental Model of Disease" abbrv="">rodent models</z:e> of hemorrhagic and <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo>, however the exact nature of this response has yet to be fully understood </plain></SENT>
+<SENT sid="2" pm="."><plain>This study examines the migration of splenocytes after <z:e sem="disease" ids="C0007786" disease_type="Disease or Syndrome" abbrv="">brain ischemia</z:e> utilizing carboxyfluorescein diacetate succinimidyl <z:chebi fb="21" ids="35701">ester</z:chebi> (CFSE) to label them in vivo </plain></SENT>
+<SENT sid="3" pm="."><plain>The spleen was found to significantly decrease in size from 24 to 48 h following middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (MCAO) in rats compared to sham operated controls </plain></SENT>
+<SENT sid="4" pm="."><plain>By 96 h post-MCAO the spleen size returned to levels not different from sham operated rats </plain></SENT>
+<SENT sid="5" pm="."><plain>To track splenocyte migration following MCAO, spleens were injected with CFSE to label cells </plain></SENT>
+<SENT sid="6" pm="."><plain>CFSE positive cell numbers were significantly reduced in the 48 h MCAO group versus 48 h sham and CFSE labeled cells were equivalent in 96 h MCAO and sham groups </plain></SENT>
+<SENT sid="7" pm="."><plain>A significant increase of labeled lymphocyte, monocytes, and neutrophils was detected in the blood at 48 h post-MCAO when compared to the other groups </plain></SENT>
+<SENT sid="8" pm="."><plain>CFSE labeled cells migrated to the brain following MCAO but appear to remain within the vasculature </plain></SENT>
+<SENT sid="9" pm="."><plain>These cells were identified as natural killer cells (NK) and monocytes at 48 h and at 96 h post-MCAO NK cells, T cells and monocytes </plain></SENT>
+<SENT sid="10" pm="."><plain>After ischemic injury, splenocytes enter into systemic circulation and migrate to the brain exacerbating <z:hpo ids='HP_0002180'>neurodegeneration</z:hpo> </plain></SENT>
+</text></document>

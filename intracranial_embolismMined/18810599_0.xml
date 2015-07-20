@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: We have sought to relate C-reactive protein (CRP), a peripheral marker of <z:mp ids='MP_0001845'>inflammation</z:mp> frequently elevated in <z:hpo ids='HP_0001297'>stroke</z:hpo> patients, with aetiology and prognosis of <z:hpo ids='HP_0011009'>acute</z:hpo> <z:e sem="disease" ids="C0007785" disease_type="Disease or Syndrome" abbrv="">cerebral infarction</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>PATIENTS AND METHODS: Patients were included after a first-ever CT/<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e> documented <z:e sem="disease" ids="C0007785" disease_type="Disease or Syndrome" abbrv="">cerebral infarction</z:e> </plain></SENT>
+<SENT sid="2" pm="."><plain>CRP was measured from blood samples taken within the 6th hour of the <z:hpo ids='HP_0003674'>onset</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>Titres of C-reactive protein were stratified in quartiles </plain></SENT>
+<SENT sid="4" pm="."><plain>Aetiology of <z:hpo ids='HP_0001297'>stroke</z:hpo> was from TOAST criteria </plain></SENT>
+<SENT sid="5" pm="."><plain>Prognosis was mortality within 14 days of <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: The study included 648 <z:hpo ids='HP_0001297'>stroke</z:hpo> patients </plain></SENT>
+<SENT sid="7" pm="."><plain>They were 335 women and 313 men, with a mean age of 70.3 years (median 72) </plain></SENT>
+<SENT sid="8" pm="."><plain>CRP quartiles were mostly increased in cardioembolic <z:hpo ids='HP_0001297'>strokes</z:hpo>, After logistic regression analysis CRP remained an independent factor of 14-day mortality </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSIONS: Our study suggests that in the <z:hpo ids='HP_0011009'>acute</z:hpo> phase of the <z:e sem="disease" ids="C0007785" disease_type="Disease or Syndrome" abbrv="">cerebral infarction</z:e> CRP might be either a marker of cardioembolism or a predictive factor for short-term mortality </plain></SENT>
+</text></document>

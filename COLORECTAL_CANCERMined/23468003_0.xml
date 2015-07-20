@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We have previously reported that ITR-284, a potent <z:chebi fb="0" ids="23004,37622">carboxamide</z:chebi>-derived anticancer agent, induced <z:mpath ids='MPATH_3'>apoptosis</z:mpath> in <z:hpo ids='HP_0001909'>leukemia</z:hpo> cells </plain></SENT>
+<SENT sid="1" pm="."><plain>However, there are no reports showing that ITR-284 inhibits human hepatocellular and <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> cells </plain></SENT>
+<SENT sid="2" pm="."><plain>In this study, we investigated the antiproliferative effects and apoptotic induction of ITR-284 on various types of human hepatocellular and <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> cells in vitro </plain></SENT>
+<SENT sid="3" pm="."><plain>The growth inhibition effect of ITR-284 on <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> cells was evaluated by <z:chebi fb="0" ids="53233">thiazolyl blue tetrazolium bromide</z:chebi> (<z:chebi fb="0" ids="53233">MTT</z:chebi>) assay </plain></SENT>
+<SENT sid="4" pm="."><plain>Cell <z:mp ids='MP_0000002'>morphology</z:mp> was examined under a phase-contrast microscope </plain></SENT>
+<SENT sid="5" pm="."><plain>The activities of caspase-3, -8 and -9 were determined by caspase colorimetric assay </plain></SENT>
+<SENT sid="6" pm="."><plain>ITR-284 reduced the cell viability in human hepatocellular <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> cells (Hep G2, Hep 3B, SK-<z:chebi fb="15" ids="48293">HEP</z:chebi>-1 and J5) and <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> cells (HT 29, COLO 205, HCT 116 and SW 620) </plain></SENT>
+<SENT sid="7" pm="."><plain>ITR-284 had highly selective effects on Hep 3B and COLO 205 cells </plain></SENT>
+<SENT sid="8" pm="."><plain>ITR-284 stimulated morphological changes of Hep 3B and COLO 205 cells </plain></SENT>
+<SENT sid="9" pm="."><plain>The activation of caspase-3, -8 and -9 contributed to ITR-284-induced <z:mpath ids='MPATH_3'>apoptosis</z:mpath> </plain></SENT>
+<SENT sid="10" pm="."><plain>ITR-284-triggered growth inhibition was significantly attenuated by the inhibitors of caspase-3, -8 and -9 in Hep 3B and COLO 205 cells </plain></SENT>
+<SENT sid="11" pm="."><plain>ITR-284 induced <z:mpath ids='MPATH_3'>apoptosis</z:mpath> in Hep 3B and COLO 205 cells through the caspase cascade-dependent signaling pathway </plain></SENT>
+</text></document>

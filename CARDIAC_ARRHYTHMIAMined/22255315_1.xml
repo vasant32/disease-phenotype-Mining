@@ -1,0 +1,7 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>In this study, an automated algorithm was developed to identify the arrhythmic gastric slow wave activity that was recorded using high-resolution mapping technique </plain></SENT>
+<SENT sid="1" pm="."><plain>The raw signals were processed with a Savitzky-Golay filter, and the slow wave activation times were identified using a threshold-varying method and grouped using a region-growing method </plain></SENT>
+<SENT sid="2" pm="."><plain>Slow wave amplitudes and velocities were calculated for <z:hpo ids='HP_0000001'>all</z:hpo> cycles </plain></SENT>
+<SENT sid="3" pm="."><plain>Arrhythmic events were identified when the orientation of a slow wave at an electrode exceeded the 95% confidence interval of the averaged orientation of several <z:mpath ids='MPATH_458'>normal</z:mpath> cycles </plain></SENT>
+<SENT sid="4" pm="."><plain>A second selection criterion was further developed to identify the arrhythmic events by an anisotropy ratio </plain></SENT>
+<SENT sid="5" pm="."><plain>In both pig and human studies, <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> were associated with the emergence of circumferential velocity components and higher amplitudes </plain></SENT>
+</text></document>

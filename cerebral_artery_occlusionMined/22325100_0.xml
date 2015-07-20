@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Nordihydroguaiaretic acid (NDGA) is a powerful <z:chebi fb="11" ids="22586">antioxidant</z:chebi> and/or lipoxygenase (LOX) inhibitor which is isolated from Larrea tridentate </plain></SENT>
+<SENT sid="1" pm="."><plain>NDGA has been shown to have neuroprotective effects both in vitro and in vivo experiments </plain></SENT>
+<SENT sid="2" pm="."><plain>However, little is known regarding NDGA's protective mechanism in <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e>/reperfusion (I/R) injury </plain></SENT>
+<SENT sid="3" pm="."><plain>We therefore investigated the potential protective effects of NDGA and explored the underlying mechanisms </plain></SENT>
+<SENT sid="4" pm="."><plain>Oxygen-<z:chebi fb="105" ids="17234">glucose</z:chebi> deprivation (OGD) was performed in cultured rat cortical neurons for 60min </plain></SENT>
+<SENT sid="5" pm="."><plain>The effect of NDGA on OGD induced cell <z:hpo ids='HP_0011420'>death</z:hpo> and <z:mpath ids='MPATH_3'>apoptosis</z:mpath> was examined at 24h after reperfusion </plain></SENT>
+<SENT sid="6" pm="."><plain>Western blot was used to analyze the expression of p-c-jun and p-JNK </plain></SENT>
+<SENT sid="7" pm="."><plain>Exogenous 5-, 12-, 15-hydroxyeicosatetraenoic acid (<z:chebi fb="0" ids="36275">HETE</z:chebi>) was added respectively to the cells to investigate the contribution of the products of LOX to the c-Jun N-terminal protein kinase (JNK) pathway </plain></SENT>
+<SENT sid="8" pm="."><plain>Rats were injected intraperitoneally with NDGA before being subjected to middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (MCAO) </plain></SENT>
+<SENT sid="9" pm="."><plain>At 24h after reperfusion, neurological deficit, brain <z:mpath ids='MPATH_124'>infarct</z:mpath> volume and the expression of p-c-jun and p-JNK were measured </plain></SENT>
+<SENT sid="10" pm="."><plain>The results showed that NDGA increased cell viability and inhibited <z:mpath ids='MPATH_3'>apoptosis</z:mpath> after OGD in neurons </plain></SENT>
+<SENT sid="11" pm="."><plain>NDGA suppressed the expression of p-c-jun and p-JNK in cortical neurons, whereas exogenous 12-, 15-<z:chebi fb="0" ids="36275">HETE</z:chebi> attenuated this effect </plain></SENT>
+<SENT sid="12" pm="."><plain>NDGA improved neurological deficit, reduced <z:mpath ids='MPATH_124'>infarct</z:mpath> volumes, and downregulated the overexpression of p-c-jun and p-JNK after MCAO and reperfusion </plain></SENT>
+<SENT sid="13" pm="."><plain>In conclusion, these results suggest that NDGA's protective effect against I/R injury is mediated by the suppression of JNK pathway </plain></SENT>
+<SENT sid="14" pm="."><plain>This effect is probably due to its 12/15-LOX inhibitor property </plain></SENT>
+</text></document>

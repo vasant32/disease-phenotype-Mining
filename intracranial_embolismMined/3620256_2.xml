@@ -1,0 +1,4 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">Tumour</z:e> emboli from an endocardial <z:e sem="disease" ids="C0027627" disease_type="Neoplastic Process" abbrv="mets">metastasis</z:e> of an endometrial stromal <z:hpo ids='HP_0100242'>sarcoma</z:hpo> caused recurrent and ultimately fatal <z:hpo ids='HP_0001297'>strokes</z:hpo> in a woman of 40 </plain></SENT>
+<SENT sid="1" pm="."><plain>Endocardial <z:e sem="disease" ids="C0027627" disease_type="Neoplastic Process" abbrv="mets">metastases</z:e> are rare </plain></SENT>
+<SENT sid="2" pm="."><plain>They are known to embolise to the pulmonary and systemic arteries but not to cause recurrent <z:e sem="disease" ids="C0007780" disease_type="Disease or Syndrome" abbrv="">cerebral emboli</z:e> </plain></SENT>
+</text></document>

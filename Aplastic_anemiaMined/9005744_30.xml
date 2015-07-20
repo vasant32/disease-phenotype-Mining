@@ -1,0 +1,18 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Both immunosuppressive therapy and bone marrow transplantation are accepted treatments for patients with <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Choosing one of these therapies for a given patient depends not only on donor availability but also on such factors as patient age </plain></SENT>
+<SENT sid="2" pm="."><plain>OBJECTIVE: To compare survival rates and long-term complications after bone marrow transplantation or immunosuppressive therapy in patients with acquired <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> and to identify prognostic factors associated with improved survival </plain></SENT>
+<SENT sid="3" pm="."><plain>DESIGN: Center-based, retrospective analysis </plain></SENT>
+<SENT sid="4" pm="."><plain>SETTING: Referral center for patients with <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> </plain></SENT>
+<SENT sid="5" pm="."><plain>PATIENTS: 395 patients with acquired <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> </plain></SENT>
+<SENT sid="6" pm="."><plain>INTERVENTION: Bone marrow transplant from an HLA-identical, related donor or immunosuppressive therapy </plain></SENT>
+<SENT sid="7" pm="."><plain>MEASUREMENTS: Kaplan-Meier survival curves, results of log rank tests, and cumulative incidence curves </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: Of 168 bone marrow transplant recipients, 89% had sustained engraftment </plain></SENT>
+<SENT sid="9" pm="."><plain>Forty-six patients developed grade II to IV <z:hpo ids='HP_0011009'>acute</z:hpo> <z:e sem="disease" ids="C0018133" disease_type="Disease or Syndrome" abbrv="GVH">graft-versus-host disease</z:e>, and 68 developed <z:hpo ids='HP_0011010'>chronic</z:hpo> <z:e sem="disease" ids="C0018133" disease_type="Disease or Syndrome" abbrv="GVH">graft-versus-host disease</z:e> that required therapy </plain></SENT>
+<SENT sid="10" pm="."><plain>Of 227 patients who received immunosuppressive therapy, 44% achieved a complete, partial, or minimal response </plain></SENT>
+<SENT sid="11" pm="."><plain>Fifty-four percent died or had no response to therapy </plain></SENT>
+<SENT sid="12" pm="."><plain>Actuarial survival at 15 years was 69% for bone marrow transplant recipients and 38% for patients receiving immunosuppressive therapy (P &lt; 0.001) </plain></SENT>
+<SENT sid="13" pm="."><plain>Improved survival was associated with having bone marrow transplantation as primary therapy, being younger, having no transfusion before transplantation, and having a higher absolute neutrophil count </plain></SENT>
+<SENT sid="14" pm="."><plain>Disease duration, year of therapy, sex, refractoriness to platelet transfusions, and previous treatment with <z:chebi fb="5" ids="50113">androgens</z:chebi> or <z:chebi fb="0" ids="50858">corticosteroids</z:chebi> did not significantly affect survival </plain></SENT>
+<SENT sid="15" pm="."><plain>CONCLUSIONS: Data from this center suggest that bone marrow transplantation may be preferred for younger patients with acquired <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> who have matched, related donors </plain></SENT>
+<SENT sid="16" pm="."><plain>Long-term survival is excellent for patients who respond to either form of therapy </plain></SENT>
+</text></document>

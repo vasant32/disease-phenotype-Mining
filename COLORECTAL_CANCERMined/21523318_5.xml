@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The MAPK pathway is one of the most important pathways for novel anticancer drug development </plain></SENT>
+<SENT sid="1" pm="."><plain>We performed high-throughput screening for compounds that induce expression of p15INK4b, and identified JTP-74057 (GSK1120212), which is being evaluated in ongoing phase I, II and III clinical trials </plain></SENT>
+<SENT sid="2" pm="."><plain>We characterized its antitumor activities in vitro and in vivo </plain></SENT>
+<SENT sid="3" pm="."><plain>JTP-74057 strongly inhibited MEK1/2 kinase activities, but did not inhibit another 98 kinase activities </plain></SENT>
+<SENT sid="4" pm="."><plain>Treatment by JTP-74057 resulted in growth inhibition accompanied with upregulation of p15INK4b and/or p27KIP1 in most of the <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> cell lines tested </plain></SENT>
+<SENT sid="5" pm="."><plain>Daily oral administration of JTP-74057 for 14 days suppressed <z:e sem="disease" ids="C0598934" disease_type="Neoplastic Process" abbrv="">tumor growth</z:e> of HT-29 and COLO205 xenografts in <z:mp ids='MP_0003815'>nude</z:mp> mice </plain></SENT>
+<SENT sid="6" pm="."><plain>Notably, <z:mp ids='MP_0010537'>tumor regression</z:mp> was observed only in COLO205 xenografts, and COLO205 was much more sensitive to JTP-74057-induced <z:mpath ids='MPATH_3'>apoptosis</z:mpath> than HT-29 in vitro </plain></SENT>
+<SENT sid="7" pm="."><plain>Treatment with an Akt inhibitor enhanced the JTP-74057-induced <z:mpath ids='MPATH_3'>apoptosis</z:mpath> in HT-29 cells </plain></SENT>
+<SENT sid="8" pm="."><plain>Finally, JTP-74057 exhibited an additive or a synergistic effect in combination with the standard-of-care agents, <z:chebi fb="0" ids="46345">5-fluorouracil</z:chebi>, <z:chebi fb="0" ids="31941">oxaliplatin</z:chebi> or SN-38 </plain></SENT>
+<SENT sid="9" pm="."><plain>JTP-74057, a highly specific and potent MEK1/2 inhibitor, exerts favorable antitumor activities in vitro and in vivo </plain></SENT>
+<SENT sid="10" pm="."><plain>Sensitivity to JTP-74057-induced <z:mpath ids='MPATH_3'>apoptosis</z:mpath> may be an important factor for the estimation of in vivo efficacy, and sensitivity was enhanced by an Akt inhibitor </plain></SENT>
+<SENT sid="11" pm="."><plain>These results suggest the usefulness of JTP-74057 in therapeutic applications for <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> patients </plain></SENT>
+</text></document>

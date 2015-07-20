@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:e sem="disease" ids="C0265110" disease_type="Disease or Syndrome" abbrv="">Cerebral vasospasm</z:e> (CV) remains a common and devastating complication in patients with <z:hpo ids='HP_0002138'>subarachnoid hemorrhage</z:hpo> (SAH) </plain></SENT>
+<SENT sid="1" pm="."><plain>Despite its clinical significance and extensive research, the underlying pathogenesis and therapeutic perspectives of CV remain incompletely understood </plain></SENT>
+<SENT sid="2" pm="."><plain>Recently, it has been suggested that molecular hydrogen (H(2)) can selectively reduce levels of <z:chebi fb="1" ids="29191">hydroxyl radicals</z:chebi> (·OH) and ameliorate oxidative and inflammatory injuries to organs in many models </plain></SENT>
+<SENT sid="3" pm="."><plain>However, whether H(2) can ameliorate CV after SAH is still unknown </plain></SENT>
+<SENT sid="4" pm="."><plain>This study was designed to evaluate the efficacy of H(2) in preventing SAH-induced CV </plain></SENT>
+<SENT sid="5" pm="."><plain>Experimental SAH was induced in Sprague-Dawley rats using cisterna magna blood injection </plain></SENT>
+<SENT sid="6" pm="."><plain>Hydrogen-rich saline (HS) was injected intraperitoneally (5 ml/kg) immediately and at 24 hr after injury </plain></SENT>
+<SENT sid="7" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> rats were sacrificed 48 hr after the neurological examination scores had been recorded following SAH </plain></SENT>
+<SENT sid="8" pm="."><plain>Levels of <z:mp ids='MP_0003674'>oxidative stress</z:mp> and <z:mp ids='MP_0001845'>inflammation</z:mp> were evaluated </plain></SENT>
+<SENT sid="9" pm="."><plain>Basilar artery vasospasm was assessed by histological examination using light and transmission electron microscopy </plain></SENT>
+<SENT sid="10" pm="."><plain>HS treatment significantly improved neurological outcomes and attenuated morphological vasospasm of the basilar artery after SAH </plain></SENT>
+<SENT sid="11" pm="."><plain>In addition, we found that the beneficial effects of HS treatment on SAH-induced CV were associated with decreased levels of <z:chebi fb="23" ids="18059">lipid</z:chebi> peroxidation, increased activity of <z:chebi fb="11" ids="22586">antioxidant</z:chebi> enzymes, and reduced levels of proinflammatory cytokines in the basilar artery </plain></SENT>
+<SENT sid="12" pm="."><plain>These results indicate that H(2) has the potential to be a novel therapeutic strategy for the treatment of CV after SAH, and its neuroprotective effect might be partially mediated via limitation of <z:mp ids='MP_0001863'>vascular inflammation</z:mp> and <z:mp ids='MP_0003674'>oxidative stress</z:mp> </plain></SENT>
+</text></document>

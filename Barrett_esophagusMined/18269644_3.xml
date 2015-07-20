@@ -1,0 +1,19 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> (BE) with high-grade <z:mpath ids='MPATH_589'>dysplasia</z:mpath> (HGD) or early <z:mp ids='MP_0002038'>carcinoma</z:mp> treated with surgery or photodynamic therapy (<z:chebi fb="7" ids="53228">PDT</z:chebi>) is at risk of recurrence </plain></SENT>
+<SENT sid="1" pm="."><plain>The efficacy of endoscopic ultrasound (EUS) for surveillance after <z:chebi fb="7" ids="53228">PDT</z:chebi> is unknown </plain></SENT>
+<SENT sid="2" pm="."><plain>Our objective was to determine if EUS is superior to esophagogastroduodenoscopy (EGD) and/or CT scan for surveillance of BE <z:hpo ids='HP_0002664'>neoplasia</z:hpo> after <z:chebi fb="7" ids="53228">PDT</z:chebi> </plain></SENT>
+<SENT sid="3" pm="."><plain>The study was designed as a retrospective review with the setting as a tertiary referral center </plain></SENT>
+<SENT sid="4" pm="."><plain>Consecutive patients with BE with HGD or <z:mp ids='MP_0002038'>carcinoma</z:mp> in situ treated with <z:chebi fb="7" ids="53228">PDT</z:chebi> were followed with EUS, CT scan and EGD with jumbo biopsies every 1 cm at 3, 4, or 6-month intervals </plain></SENT>
+<SENT sid="5" pm="."><plain>Exclusion criteria was &lt; 6 months of follow up and/or &lt; 2 EUS procedures </plain></SENT>
+<SENT sid="6" pm="."><plain>Main outcome measurements were residual or <z:e sem="disease" ids="C0277556" disease_type="Disease or Syndrome" abbrv="">recurrent disease</z:e> discovered by any method </plain></SENT>
+<SENT sid="7" pm="."><plain>Results showed that 67/97 patients met the inclusion criteria (56 men and 11 women) </plain></SENT>
+<SENT sid="8" pm="."><plain>Median follow-up was 16 months </plain></SENT>
+<SENT sid="9" pm="."><plain>Recurrent or residual <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> (ACA) was detected in four patients during follow-up </plain></SENT>
+<SENT sid="10" pm="."><plain>EGD with random biopsies or targeted nodule biopsies detected three patients </plain></SENT>
+<SENT sid="11" pm="."><plain>EUS with endoscopic mucosal resection of the nodule confirmed T1 recurrence in one of these three </plain></SENT>
+<SENT sid="12" pm="."><plain>In the fourth patient, CT scan revealed perigastric <z:hpo ids='HP_0002716'>lymphadenopathy</z:hpo> and EUS-FNA (fine needle <z:hpo ids='HP_0002835'>aspiration</z:hpo>) confirmed <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> </plain></SENT>
+<SENT sid="13" pm="."><plain>There were two <z:hpo ids='HP_0011420'>deaths</z:hpo>, one related to disease progression and one unrelated </plain></SENT>
+<SENT sid="14" pm="."><plain>The rate of recurrent/persistent ACA after <z:chebi fb="7" ids="53228">PDT</z:chebi> was 4/67 = 6% </plain></SENT>
+<SENT sid="15" pm="."><plain>EUS did not detect disease when EGD and CT were <z:mpath ids='MPATH_458'>normal</z:mpath> </plain></SENT>
+<SENT sid="16" pm="."><plain>Limitations of this study include non-blinding of results and preferential status of non-invasive imaging (CT) over EUS </plain></SENT>
+<SENT sid="17" pm="."><plain>Our experience suggests that EUS has little role in the surveillance of these patients, unless discrete abnormalities are found on EGD or cross-sectional imaging </plain></SENT>
+</text></document>

@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND/AIM: Elevated microsatellite instability at selected tetranucleotide repeats (EMAST) is a genetic signature in certain cases of <z:hpo ids='HP_0003745'>sporadic</z:hpo> <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> and has been linked to MSH3-deficiency </plain></SENT>
+<SENT sid="1" pm="."><plain>It is currently controversial whether EMAST is associated with oncogenic properties in humans, specifically as <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> development in Msh3-deficient mice is not enhanced </plain></SENT>
+<SENT sid="2" pm="."><plain>However, a mutator phenotype is different between species as the genetic positions of repetitive sequences are not conserved </plain></SENT>
+<SENT sid="3" pm="."><plain>Here we studied the molecular effects of human MSH3-deficiency </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS: HCT116 and HCT116+chr3 (both MSH3-deficient) and primary human colon epithelial cells (HCEC, MSH3-<z:mp ids='MP_0002169'>wildtype</z:mp>) were stably transfected with an EGFP-based reporter plasmid for the detection of frameshift mutations within an [AAAG]17 repeat </plain></SENT>
+<SENT sid="5" pm="."><plain>MSH3 was silenced by shRNA and changes in protein expression were analyzed by shotgun proteomics </plain></SENT>
+<SENT sid="6" pm="."><plain>Colony forming assay was used to determine oncogenic transformation and double strand breaks (DSBs) were assessed by Comet assay </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: Despite differential MLH1 expression, both HCT116 and HCT116+chr3 cells displayed comparable high mutation rates (about 4×10(-4)) at [AAAG]17 repeats </plain></SENT>
+<SENT sid="8" pm="."><plain>Silencing of MSH3 in HCECs leads to a remarkable increased frameshift mutations in [AAAG]17 repeats whereas [CA]13 repeats were less affected </plain></SENT>
+<SENT sid="9" pm="."><plain>Upon MSH3-silencing, significant changes in the expression of 202 proteins were detected </plain></SENT>
+<SENT sid="10" pm="."><plain>Pathway analysis revealed overexpression of proteins involved in double strand break repair (MRE11 and RAD50), <z:mpath ids='MPATH_3'>apoptosis</z:mpath>, L1 recycling, and repression of proteins involved in metabolism, tRNA aminoacylation, and gene expression </plain></SENT>
+<SENT sid="11" pm="."><plain>MSH3-silencing did not induce oncogenic transformation and DSBs increased 2-fold </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: MSH3-deficiency in human colon epithelial cells results in EMAST, formation of DSBs and significant changes of the proteome but lacks oncogenic transformation </plain></SENT>
+<SENT sid="13" pm="."><plain>Thus, MSH3-deficiency alone is unlikely to drive human colon <z:e sem="disease" ids="C0596263" disease_type="Neoplastic Process" abbrv="">carcinogenesis</z:e> </plain></SENT>
+</text></document>

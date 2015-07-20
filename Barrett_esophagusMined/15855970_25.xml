@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Light-induced fluorescence endoscopy (LIFE) may improve the detection of high-grade <z:mpath ids='MPATH_589'>dysplasia</z:mpath> (HGD) and early stage <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> (EC) in <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> (BE) </plain></SENT>
+<SENT sid="1" pm="."><plain>The aim of this study was to compare LIFE with standard endoscopy (SE) in a randomized crossover study </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: Fifty patients with BE underwent SE and LIFE in a randomized sequence (4 to 6-week interval between procedures) </plain></SENT>
+<SENT sid="3" pm="."><plain>The two procedures were performed by two different endoscopists who were blinded to the findings of the other examination </plain></SENT>
+<SENT sid="4" pm="."><plain>Targeted biopsy specimens were taken from detected lesions, followed by random biopsy specimens with a 2-cm interval, 4-quadrant protocol </plain></SENT>
+<SENT sid="5" pm="."><plain>Biopsy specimens were routinely evaluated and subsequently reviewed by a single, blinded expert GI pathologist </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: Targeted biopsy specimens had a sensitivity for the diagnosis of HGD/EC of 62% (8/13) for both techniques </plain></SENT>
+<SENT sid="7" pm="."><plain>The overall sensitivity (<z:hpo ids='HP_0000001'>all</z:hpo> biopsy specimens) was 85% for SE and 69% for LIFE (p = 0.69) </plain></SENT>
+<SENT sid="8" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> targeted biopsy specimens had a positive predictive value (<z:chebi fb="0" ids="53261">PPV</z:chebi>) for HGD/EC of 41% for SE and 28% for LIFE (p = 0.40); autofluorescence-targeted biopsy specimens had a <z:chebi fb="0" ids="53261">PPV</z:chebi> of 13% </plain></SENT>
+<SENT sid="9" pm="."><plain>False-positive lesions had a significantly higher rate of <z:hpo ids='HP_0011009'>acute</z:hpo> <z:mp ids='MP_0001845'>inflammation</z:mp> than random biopsy specimens </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSIONS: In this study, LIFE did not improve the detection of HGD or EC in patients with BE compared with SE </plain></SENT>
+</text></document>

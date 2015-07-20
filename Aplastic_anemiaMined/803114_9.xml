@@ -1,0 +1,7 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>An in vitro marrow culture assay designed to measure erythropoietic capability was used to ascertain the presence of an inhibitor in the sera of patients with <z:hpo ids='HP_0004810'>congenital hypoplastic anemia</z:hpo> (CHA) </plain></SENT>
+<SENT sid="1" pm="."><plain>Marrow cells from nine anemic CHA patients responded to the stimulatory effect of exogenous erythropoietin (EPO) by an increase in <z:chebi fb="4" ids="30413">heme</z:chebi> synthesis in the presence of <z:mpath ids='MPATH_458'>normal</z:mpath> serum </plain></SENT>
+<SENT sid="2" pm="."><plain>The effect on <z:chebi fb="4" ids="30413">heme</z:chebi> synthesis was less than that observed with <z:mpath ids='MPATH_458'>normal</z:mpath> marrow cells </plain></SENT>
+<SENT sid="3" pm="."><plain>CHA serum inhibited <z:chebi fb="4" ids="30413">heme</z:chebi> synthesis by both <z:mpath ids='MPATH_458'>normal</z:mpath> and CHA marrow cells </plain></SENT>
+<SENT sid="4" pm="."><plain>It is concluded that an in-inhibitor of erythropoiesis is present in serum from CHA patients </plain></SENT>
+<SENT sid="5" pm="."><plain>This inhibitor most likely blocks the EPO-sensitive stem cell receptor sites, causing decreased response to the hormone </plain></SENT>
+</text></document>

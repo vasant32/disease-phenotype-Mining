@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Two cloned human lymphoblastoid cell lines, Raji and TK6, differ in their sensitivity to the cytotoxic effects of <z:chebi fb="0" ids="28925,37598">nitrogen mustard</z:chebi> (<z:chebi fb="0" ids="30102,30103,30104">HN2</z:chebi>) </plain></SENT>
+<SENT sid="1" pm="."><plain>Raji cells exhibit a biphasic response with an initial D value of 0.06 microgram/ml and a final slope of 0.25 microgram/ml </plain></SENT>
+<SENT sid="2" pm="."><plain>TK6 cells were considerably more sensitive, D0 value 0.02 microgram/ml </plain></SENT>
+<SENT sid="3" pm="."><plain>Dose-response relationships for delay in cell cycle progression were measured using flow cytometry </plain></SENT>
+<SENT sid="4" pm="."><plain>Delay in S-phase traverse was concentration-dependent in both cell lines, and at a given concentration was 2-fold greater in TK6 than in Raji </plain></SENT>
+<SENT sid="5" pm="."><plain>Numbers of crosslinks (determined by alkaline elution) increased linearly with increasing <z:chebi fb="0" ids="30102,30103,30104">HN2</z:chebi> concentration and were approximately 2-fold higher in TK6 than in Raji </plain></SENT>
+<SENT sid="6" pm="."><plain>At equal levels of DNA crosslinks, rates of removal were similar in both cell lines </plain></SENT>
+<SENT sid="7" pm="."><plain>Inhibition of [3H]TdR uptake was concentration-dependent and the extent of inhibition was similar in both cell lines </plain></SENT>
+<SENT sid="8" pm="."><plain>Recovery from <z:chebi fb="0" ids="30102,30103,30104">HN2</z:chebi>-induced inhibition of cell cycle progression markedly preceded recovery from inhibition of [3H]TdR incorporation suggesting that nucleotide pools are markedly perturbed in <z:chebi fb="0" ids="30102,30103,30104">HN2</z:chebi>-treated cells </plain></SENT>
+<SENT sid="9" pm="."><plain>The difference in sensitivity of these two cell lines cannot be adequately explained by differences in amounts of initial DNA damage, rates of repair, differential S-phase delay or rate of loss of DNA crosslinks </plain></SENT>
+</text></document>

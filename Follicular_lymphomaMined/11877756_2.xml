@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: A patient with follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo> was investigated with 0.5 mg Fab' or minute anti-CD22 labeled with 1100 MBq <z:chebi fb="1" ids="33353">technetium</z:chebi>-99m ((99m)Tc) </plain></SENT>
+<SENT sid="1" pm="."><plain>A computed tomography scan performed a week later revealed regression </plain></SENT>
+<SENT sid="2" pm="."><plain>This unexpected response prompted an investigation of single cell dosimetry of low-energy electron emitters </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: Another patient with low-grade, unclassifiable B-cell <z:hpo ids='HP_0002665'>lymphoma</z:hpo> with a low expression of CD22 was injected with (99m)Tc anti-CD22 </plain></SENT>
+<SENT sid="4" pm="."><plain>Blood samples were drawn 30 minutes, 4 hours, and 24 hours after injection </plain></SENT>
+<SENT sid="5" pm="."><plain><z:hpo ids='HP_0002665'>Lymphoma</z:hpo> cells (CD19+) and T cells (CD3+), which served as control cells, were separated using a flow cytometer </plain></SENT>
+<SENT sid="6" pm="."><plain>The radioactivity of the two cell populations was measured in an <z:chebi fb="0" ids="33167">NaI</z:chebi>(Tl) well-type detector </plain></SENT>
+<SENT sid="7" pm="."><plain>The mean uptake per cell and absorbed dose were calculated </plain></SENT>
+<SENT sid="8" pm="."><plain>The CD22 expression of the patient's cells and of a B-cell <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cell line (Raji) were assessed by flow cytometry for the extrapolation of the absorbed dose from the patient's cells to a cell line with higher CD22 expression </plain></SENT>
+<SENT sid="9" pm="."><plain>RESULTS: The average number of (99m)Tc atoms per CD19+ and CD3+ cell 4 hours postinjection were 5.4 and 0.054, respectively </plain></SENT>
+<SENT sid="10" pm="."><plain>Depending on the assumed ratio between antibody and CD22 molecules (1:2 or 1:1), the CD22 expression on the patient's cells and Raji cells varied from 2800 to 5700 and from 37,000 to 74,000 per cell, respectively </plain></SENT>
+<SENT sid="11" pm="."><plain>The average absorbed dose per cell ranged from 4 x 10(-7) to 0.1 grays (Gy) </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: It seems feasible to assess the mean <z:e sem="disease" ids="C1298180" disease_type="Neoplastic Process" abbrv="">single tumor</z:e> cell uptake of (99m)Tc targeted by Fab' or minute anti-CD22 in a patient's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> using sorted cell populations, thereby allowing single cell dosimetry </plain></SENT>
+<SENT sid="13" pm="."><plain>Extrapolation of the absorbed dose from (99m)Tc to cells with higher CD22 expression was made and under certain conditions absorbed doses of 0.1 Gy were obtained, indicating the potential relevance of low-energy electron emitters to therapy </plain></SENT>
+</text></document>

@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PURPOSE: Treatment of patients who have <z:e sem="disease" ids="C0948380" disease_type="Neoplastic Process" abbrv="">metastatic colorectal cancer</z:e> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e>) by using a combination of hepatic arterial infusion chemotherapy (HAIC) and systemic chemotherapy has resulted in promising clinical outcomes </plain></SENT>
+<SENT sid="1" pm="."><plain>Additionally, image-guided HAIC is reported to be less invasive and distribute drugs more accurately than surgical HAIC </plain></SENT>
+<SENT sid="2" pm="."><plain>The purpose of this study was to assess the combination of image-guided delivery of fluorouracil through HAIC and systemic irinotecan in a multicenter phase I/II study </plain></SENT>
+<SENT sid="3" pm="."><plain>MATERIALS AND METHODS: Twenty-five patients with unresectable <z:e sem="disease" ids="C0494165" disease_type="Neoplastic Process" abbrv="">liver metastases</z:e> from <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e> were fitted with hepatic arterial catheter and port systems by using image-guided methods </plain></SENT>
+<SENT sid="4" pm="."><plain>Intraarterial fluorouracil (1,000 mg/m(2)) was administered on days 1, 8, and 15 of each treatment cycle </plain></SENT>
+<SENT sid="5" pm="."><plain>The dose of systemic irinotecan on days 1 and 15 was escalated from 75 mg/m(2) </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: No dose-limiting toxicity was encountered during phase I, and the recommended dose of irinotecan was set at 150 mg/m(2) </plain></SENT>
+<SENT sid="7" pm="."><plain>Grade 3 or higher adverse events included <z:hpo ids='HP_0003074'>hyperglycemia</z:hpo> (15%), elevated γ-<z:chebi fb="0" ids="32483">glutamyl</z:chebi> transpeptidase levels (15%), and <z:hpo ids='HP_0001875'>neutropenia</z:hpo> (9%) </plain></SENT>
+<SENT sid="8" pm="."><plain>The response rate and median survival time were 72% and 49.8 months (95% CI, 27.5-78.1 mo), respectively </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSIONS: The combination of image-guided delivery of fluorouracil through HAIC and systemic irinotecan yielded favorable safety, response rate, and survival results </plain></SENT>
+<SENT sid="10" pm="."><plain>This combination should be evaluated in a large study </plain></SENT>
+</text></document>

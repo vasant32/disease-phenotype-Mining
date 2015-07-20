@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: The superiority of several immunochemical fecal occult blood tests (I-FOBT) over guaiac-based tests in <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> screening is now established </plain></SENT>
+<SENT sid="1" pm="."><plain>The aim of this study was to compare the analytical performance of 3 quantitative I-FOBTs </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: Stool samples from 10 healthy volunteers, initially I-FOBT negative, supplemented with human blood, were used to compare reproducibility and stability of measurement at varying storage temperatures (4°C, 10°C, 20°C, and 30°C) and durations before test analysis (1 to 10 days) for 3 I-FOBTs (New Hemtube/Magstream HT, OC-Auto sampling bottle3/OC-Sensor DIANA, and FOB Gold/SENTiFOB) </plain></SENT>
+<SENT sid="3" pm="."><plain>Concentrations ranging from 0 to 350 μg Hb/g of feces were evaluated </plain></SENT>
+<SENT sid="4" pm="."><plain>RESULTS: The measurement reproducibility of OC-Sensor was superior to Magstream and far superior to FOB Gold </plain></SENT>
+<SENT sid="5" pm="."><plain>For <z:hpo ids='HP_0000001'>all</z:hpo> tests, variability was essentially related to sampling </plain></SENT>
+<SENT sid="6" pm="."><plain>Detected <z:chebi fb="0" ids="35143">hemoglobin</z:chebi> (Hb) levels were substantially lower for <z:hpo ids='HP_0000001'>all</z:hpo> tests at temperatures above 20°C </plain></SENT>
+<SENT sid="7" pm="."><plain>At 20°C, this loss in concentration was less important with OC-Sensor (significant 1.7% daily decrease vs. 7.4% for Magstream and 7.8% for FOB Gold) </plain></SENT>
+<SENT sid="8" pm="."><plain>At 30°C, daily loss was 8.6% with OC-Sensor, whereas after 24 hours, only 30% of the original Hb was detected with FOB Gold, compared to 70% with Magstream </plain></SENT>
+<SENT sid="9" pm="."><plain>No Hb was detected on day 5 for the latter 2 tests </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSIONS: About reproducibility and temperature stability, OC-Sensor performed better than Magstream and far better that FOB Gold </plain></SENT>
+<SENT sid="11" pm="."><plain>IMPACT: Independently of the chosen test, the delay between sampling and test processing should be reduced, the maximal admissible delay depending on ambient temperature </plain></SENT>
+</text></document>

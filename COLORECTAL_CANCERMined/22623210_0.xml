@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PURPOSE: This phase I study assessed the safety, tolerability, maximum tolerated dose (MTD), pharmacokinetics, and preliminary antitumor effects of <z:chebi fb="0" ids="38940">sunitinib</z:chebi> combined with modified FOLFOX6 (mFOLFOX6) </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: Patients with advanced solid <z:e sem="disease" ids="C0006826" disease_type="Neoplastic Process" abbrv="">malignancies</z:e> received mFOLFOX6 in 2-week cycles with escalating <z:chebi fb="0" ids="38940">sunitinib</z:chebi> doses (25, 37.5, and 50 mg/day) on three schedules: 2 weeks on, 2 weeks off (2/2); 4 weeks on, 2 weeks off (4/2); or continuous daily dosing (CDD) </plain></SENT>
+<SENT sid="2" pm="."><plain>Patients received up to 8 treatment cycles (Schedule 2/2 and CDD schedule) or 6 cycles (Schedule 4/2) </plain></SENT>
+<SENT sid="3" pm="."><plain>An expansion cohort enrolled patients with <z:e sem="disease" ids="C0948380" disease_type="Neoplastic Process" abbrv="">metastatic colorectal cancer</z:e> at the Schedule 2/2 MTD </plain></SENT>
+<SENT sid="4" pm="."><plain>RESULTS: Overall, 53 patients were enrolled, with 43 evaluable for dose-limiting toxicity (DLT) </plain></SENT>
+<SENT sid="5" pm="."><plain>On Schedule 2/2 (n = 18), DLTs occurred in three patients at 50 mg/day (grade 4 <z:hpo ids='HP_0001875'>neutropenia</z:hpo> [n = 1]; grades 3 and 4 <z:hpo ids='HP_0001873'>thrombocytopenia</z:hpo> [n = 2]) and two patients achieved partial responses (PRs) </plain></SENT>
+<SENT sid="6" pm="."><plain>On Schedule 4/2 (n = 13), 37.5 mg/day exceeded the MTD with two DLTs (febrile <z:hpo ids='HP_0001875'>neutropenia</z:hpo> and grade 4 <z:hpo ids='HP_0002900'>hypokalemia</z:hpo>, respectively) </plain></SENT>
+<SENT sid="7" pm="."><plain>On the CDD schedule (n = 12), the MTD was 25 mg/day; one DLT (grade 3 <z:hpo ids='HP_0010280'>stomatitis</z:hpo>) was reported and two patients achieved PRs </plain></SENT>
+<SENT sid="8" pm="."><plain>The most common adverse events were <z:hpo ids='HP_0001875'>neutropenia</z:hpo>, <z:mp ids='MP_0002899'>fatigue</z:mp>, and <z:hpo ids='HP_0001873'>thrombocytopenia</z:hpo> </plain></SENT>
+<SENT sid="9" pm="."><plain>No clinically significant drug-drug interactions were apparent between <z:chebi fb="0" ids="38940">sunitinib</z:chebi>, its metabolite SU12662, and mFOLFOX6 </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSIONS: <z:chebi fb="0" ids="38940">Sunitinib</z:chebi> combined with mFOLFOX6 had acceptable tolerability </plain></SENT>
+<SENT sid="11" pm="."><plain>The MTDs were <z:chebi fb="0" ids="38940">sunitinib</z:chebi> 50 mg/day on Schedule 2/2 and 25 mg/day on the CDD schedule </plain></SENT>
+<SENT sid="12" pm="."><plain>A MTD for Schedule 4/2 was not established </plain></SENT>
+</text></document>

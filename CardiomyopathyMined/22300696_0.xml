@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVES: The purpose of this study was to establish the incidence of and risk factors for <z:hpo ids='HP_0001645'>sudden cardiac death</z:hpo> (SCD) in pediatric <z:hpo ids='HP_0001644'>dilated cardiomyopathy</z:hpo> (<z:chebi fb="20" ids="15767">DCM</z:chebi>) </plain></SENT>
+<SENT sid="1" pm="."><plain>BACKGROUND: The incidence of SCD in children with <z:chebi fb="20" ids="15767">DCM</z:chebi> is unknown </plain></SENT>
+<SENT sid="2" pm="."><plain>The ability to predict patients at high risk of SCD will help to define who may benefit most from implantable cardioverter-defibrillators </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: The cohort was 1,803 children in the PCMR (Pediatric <z:hpo ids='HP_0001638'>Cardiomyopathy</z:hpo> Registry) with a diagnosis of <z:chebi fb="20" ids="15767">DCM</z:chebi> from 1990 to 2009 </plain></SENT>
+<SENT sid="4" pm="."><plain>Cumulative incidence competing-risks event rates were estimated </plain></SENT>
+<SENT sid="5" pm="."><plain>We achieved risk stratification using Classification and Regression Tree methodology </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: The 5-year incidence rates were 29% for heart transplantation, 12.1% non-SCD, 4.0% <z:hpo ids='HP_0011420'>death</z:hpo> from unknown cause, and 2.4% for SCD </plain></SENT>
+<SENT sid="7" pm="."><plain>Of 280 <z:hpo ids='HP_0011420'>deaths</z:hpo>, 35 were SCD, and the cause was unknown for 56 </plain></SENT>
+<SENT sid="8" pm="."><plain>The 5-year incidence rate for SCD incorporating a subset of the unknown <z:hpo ids='HP_0011420'>deaths</z:hpo> is 3% </plain></SENT>
+<SENT sid="9" pm="."><plain>Patients receiving antiarrhythmic medication were at higher risk of SCD (hazard ratio: 3.0, 95% confidence interval: 1.1 to 8.3, p = 0.025) </plain></SENT>
+<SENT sid="10" pm="."><plain>A risk stratification model based on most recent echocardiographic values had 86% sensitivity and 57% specificity </plain></SENT>
+<SENT sid="11" pm="."><plain>Thirty of 35 SCDs occurred in patients who met <z:hpo ids='HP_0000001'>all</z:hpo> these criteria: left ventricular (LV) end-systolic dimension z-score &gt;2.6, age at diagnosis younger than 14.3 years, and the LV posterior wall thickness to end-diastolic dimension ratio &lt;0.14 </plain></SENT>
+<SENT sid="12" pm="."><plain>Sex, ethnicity, cause of <z:chebi fb="20" ids="15767">DCM</z:chebi>, and family history were not associated with SCD </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSIONS: The 5-year incidence rate of SCD in children with <z:chebi fb="20" ids="15767">DCM</z:chebi> is 3% </plain></SENT>
+<SENT sid="14" pm="."><plain>A risk stratification rule (86% sensitivity) included age at diagnosis younger than 14.3 years, LV dilation, and LV posterior wall thinning </plain></SENT>
+<SENT sid="15" pm="."><plain>Patients who consistently meet these criteria should be considered for implantable cardioverter-defibrillator placement </plain></SENT>
+</text></document>

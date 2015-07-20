@@ -1,0 +1,7 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 57-year-old man presented with <z:hpo ids='HP_0002090'>pneumonia</z:hpo>, <z:hpo ids='HP_0002098'>respiratory distress</z:hpo>, and <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>A diagnosis of <z:e sem="disease" ids="C0023241" disease_type="Disease or Syndrome" abbrv="">Legionnaires' disease</z:e> due to Legionella pneumophila (L. pneumophila) was established </plain></SENT>
+<SENT sid="2" pm="."><plain>The patient had long been drinking tap water via a conduit from a hot spring resource, from which L. pneumophila was also isolated </plain></SENT>
+<SENT sid="3" pm="."><plain>Both the patient's strain and the water strain of L. pneumophila were identified as serogroup 1, and the genetic relatedness between the two strains as seen by pulsed-field gel electrophoresis was 87% </plain></SENT>
+<SENT sid="4" pm="."><plain>The patient was successfully treated with <z:chebi fb="2" ids="42355,48923">erythromycin</z:chebi>, fluoroquinolone, and <z:chebi fb="0" ids="28077">rifampicin</z:chebi> </plain></SENT>
+<SENT sid="5" pm="."><plain>This case raises an important issue on public health represented by <z:e sem="disease" ids="C0023240" disease_type="Disease or Syndrome" abbrv="">legionellosis</z:e> in Japan </plain></SENT>
+</text></document>

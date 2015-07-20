@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Amylin is a 37-amino acid pancreatic <z:chebi fb="1" ids="15841">polypeptide</z:chebi>, probably involved in the pathophysiology of Type 2 (non-insulin-dependent) <z:hpo ids='HP_0000819'>diabetes mellitus</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>We have determined amylin in human plasma by extraction-based radioimmunoassay (Sep-Pak C18) </plain></SENT>
+<SENT sid="2" pm="."><plain>Of 23 healthy control subjects plasma amylin was determined as 11.9 +/- 3.5 ng/l </plain></SENT>
+<SENT sid="3" pm="."><plain>Of 27 patients with Type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> receiving insulin the amylin levels were lower, and in 16 patients with Type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> on oral medication they were higher than in the control subjects; 8.2 +/- 4.4 ng/l (p less than 0.01) vs 18.8 +/- 9.9 ng/l (p less than 0.05) </plain></SENT>
+<SENT sid="4" pm="."><plain>In 14 Type 1 (insulin-dependent) diabetic patients we found extremely low mean amounts of amylin: 2.9 +/- 1.9 ng/l (p less than 0.002) </plain></SENT>
+<SENT sid="5" pm="."><plain>Thus, basal amylin appears to be associated with the capacity to release insulin </plain></SENT>
+<SENT sid="6" pm="."><plain>An oral <z:chebi fb="105" ids="17234">glucose</z:chebi> load stimulated the release of amylin, this was more pronounced in patients with Type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> than in healthy subjects </plain></SENT>
+<SENT sid="7" pm="."><plain>An excellent correlation of mean amylin with mean insulin concentrations was obtained (r = 0.949) </plain></SENT>
+<SENT sid="8" pm="."><plain>In patients with Type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> amylin was reduced congruent to decreases in C-<z:chebi fb="7" ids="16670">peptide</z:chebi> during a hyperinsulinaemic, euglycaemic <z:chebi fb="105" ids="17234">glucose</z:chebi> clamp experiment (r = 0.971 for linear correlation between C-<z:chebi fb="7" ids="16670">peptide</z:chebi> levels and amylin) </plain></SENT>
+<SENT sid="9" pm="."><plain>We conclude, that amylin and insulin are co-secreted in humans, and that the amylin release is under feedback-control by insulin </plain></SENT>
+</text></document>

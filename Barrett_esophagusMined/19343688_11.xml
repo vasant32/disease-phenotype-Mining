@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Rapid Raman mapping was carried out on 20 microm sections of oesophageal biopsy samples </plain></SENT>
+<SENT sid="1" pm="."><plain>Contiguous 7 microm sections were stained with <z:chebi fb="1" ids="51686">haematoxylin</z:chebi> and eosin (H&amp;E) with histopathology provided by an expert pathologist </plain></SENT>
+<SENT sid="2" pm="."><plain>The step size and acquisition times were varied and the resulting spectra, principal component (PC) score maps and loads were compared </plain></SENT>
+<SENT sid="3" pm="."><plain>Overall mapping times were also compared to traditional Raman point mapping </plain></SENT>
+<SENT sid="4" pm="."><plain>The principal component loads for each of the maps were seen to be similar despite varying the acquisition time and number of spectra </plain></SENT>
+<SENT sid="5" pm="."><plain>Gross biochemical information was extracted showing good correlation with the H&amp;E sections even for short overall mapping times (30-90 minutes for a 2 mm biopsy, 0.5 s acquisition time per 25.3 microm Raman pixel) </plain></SENT>
+<SENT sid="6" pm="."><plain>This demonstrates that low signal to noise spectral maps are sufficient for the identification of histologically relevant biochemistry using principal component analysis as long as the spectral dataset is large enough </plain></SENT>
+</text></document>

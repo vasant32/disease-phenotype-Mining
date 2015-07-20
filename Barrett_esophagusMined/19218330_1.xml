@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:e sem="disease" ids="C0004763" disease_type="Disease or Syndrome" abbrv="CELLO">Barrett's oesophagus</z:e> (BO) carries an increased risk of progression to oesophageal <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> </plain></SENT>
+<SENT sid="1" pm="."><plain>Chromoendoscopy with <z:chebi fb="11" ids="6872">methylene blue</z:chebi> (MB) can be used to facilitate identification of BO and target areas for biopsy </plain></SENT>
+<SENT sid="2" pm="."><plain>If photoexcited, MB can generate reactive oxygen species and genotoxic photodegradation products leading to DNA damage </plain></SENT>
+<SENT sid="3" pm="."><plain>We have previously demonstrated that levels of DNA damage are increased in BO following MB chromoendoscopy </plain></SENT>
+<SENT sid="4" pm="."><plain>The aim of this study was to investigate whether DNA damage, as measured by the comet assay, can be minimized during chromoendoscopy by varying MB concentration and light wavelength using an in vitro model </plain></SENT>
+<SENT sid="5" pm="."><plain>OE33 cells were treated with MB (0.015-15 mM) and exposed to white light (WL) </plain></SENT>
+<SENT sid="6" pm="."><plain>Cells were also illuminated with WL fractions (580-700, 480-580, 350-480, &lt;575, &lt;610 and &lt;688 nm) in the presence of MB </plain></SENT>
+<SENT sid="7" pm="."><plain>At clinically relevant concentrations, WL illumination of MB (15 mM) caused significant DNA damage in vitro (P &lt; 0.001) </plain></SENT>
+<SENT sid="8" pm="."><plain>Illumination of MB with red light (580-700 nm) also stimulated high levels of DNA damage in OE33 cells (P &lt; 0.001) </plain></SENT>
+<SENT sid="9" pm="."><plain>This effect was not observed with green or blue light </plain></SENT>
+<SENT sid="10" pm="."><plain>Filtering WL to remove red light wavelengths (&gt;575 nm) reduced DNA damage and <z:mpath ids='MPATH_3'>apoptosis</z:mpath> to control levels in MB-treated cells </plain></SENT>
+<SENT sid="11" pm="."><plain>In addition, reducing the concentration of MB 10-fold markedly reduced the DNA-damaging effect of MB in vitro </plain></SENT>
+<SENT sid="12" pm="."><plain>The results show that photoactivation of MB by red light is responsible for the majority of DNA damage </plain></SENT>
+<SENT sid="13" pm="."><plain>Simple modifications to MB chromoendoscopy, such as filtering out red light from endoscopic WL or reducing MB concentration, are likely to limit DNA damage induced by the procedure </plain></SENT>
+</text></document>

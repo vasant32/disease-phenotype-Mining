@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:mp ids='MP_0002055'>Diabetes</z:mp> with or without the presence of <z:hpo ids='HP_0000822'>hypertension</z:hpo> damages the heart </plain></SENT>
+<SENT sid="1" pm="."><plain>However, there is currently a lack of information about these associated pathologies and the alteration of linked proteins </plain></SENT>
+<SENT sid="2" pm="."><plain>For these reasons, we were interested in the potential synergistic interaction of <z:mp ids='MP_0002055'>diabetes</z:mp> and <z:hpo ids='HP_0000822'>hypertension</z:hpo> in the heart, focusing on the proteome characterization of the pathological phenotypes and the associated hypertrophic response </plain></SENT>
+<SENT sid="3" pm="."><plain>We treated normotensive and spontaneously hypertensive (SHR) rats with either <z:chebi fb="1" ids="9288">streptozotocin</z:chebi> or vehicle </plain></SENT>
+<SENT sid="4" pm="."><plain>After 22weeks, type-I diabetic (DM1), SHR, SHR/DM1 and control left-ventricles were studied using proteomic approaches </plain></SENT>
+<SENT sid="5" pm="."><plain>Proteomics revealed that long-term DM1, SHR and SHR/DM1 rats exhibited 24, 53 and 53 altered proteins in the myocardia, respectively </plain></SENT>
+<SENT sid="6" pm="."><plain>DM1 myocardium showed over-expression of apoptotic and cytoskeleton proteins, and down-regulation of anti-apoptotic and <z:hpo ids='HP_0001427'>mitochondrial</z:hpo> metabolic enzymes </plain></SENT>
+<SENT sid="7" pm="."><plain>In both SHR and SHR/DM1 these changes were exacerbated and free <z:chebi fb="2" ids="35366">fatty-acid</z:chebi> (FFA) ß-oxidation enzymes were additionally decreased </plain></SENT>
+<SENT sid="8" pm="."><plain>Furthermore, SHR/DM1 hearts exhibited a misbalance of specific pro-hypertrophic, anti-apoptotic and <z:hpo ids='HP_0001427'>mitochondrial</z:hpo> ATP-carrier factors, which could cause additional damage </plain></SENT>
+<SENT sid="9" pm="."><plain>Differential proteins were validated and then clustered into different biological pathways using bioinformatics </plain></SENT>
+<SENT sid="10" pm="."><plain>These studies suggested the implication of FFA-nuclear receptors and hypertrophic factors in these pathologies </plain></SENT>
+<SENT sid="11" pm="."><plain>Although key ß-oxidation enzymes were not stimulated in DM1 and hypertensive hearts, peroxisome proliferator-activated receptors-α (PPARα) were potentially activated for other responses </plain></SENT>
+<SENT sid="12" pm="."><plain>In this regard, PPARα stimulation reduced <z:mpath ids='MPATH_159'>hypertrophy</z:mpath> and pro-hypertrophic factors such as annexin-V in high-<z:chebi fb="105" ids="17234">glucose</z:chebi> and <z:chebi fb="0" ids="2719,48432">angiotensin-II</z:chebi> induced cardiomyocytes </plain></SENT>
+<SENT sid="13" pm="."><plain>Thus, activation of PPARα could reflect a compensatory response to the metabolic-shifted, apoptotic and hypertrophic status of the hypertensive-diabetic <z:hpo ids='HP_0001638'>cardiomyopathy</z:hpo> </plain></SENT>
+</text></document>

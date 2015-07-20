@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Patients over the age of 75 represent more than half the recipients of permanent pacemakers </plain></SENT>
+<SENT sid="1" pm="."><plain>It is not known if they have a different risk of complications than younger patients </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: Patient-level data were pooled from the CTOPP, UKPACE, and Danish pacing trials </plain></SENT>
+<SENT sid="3" pm="."><plain>These three randomized trials of pacing mode systematically captured early and late complications following pacemaker insertion </plain></SENT>
+<SENT sid="4" pm="."><plain>Early postimplant complications included lead dislodgement or loss of capture, cardiac <z:mpath ids='MPATH_81'>perforation</z:mpath>, <z:hpo ids='HP_0002107'>pneumothorax</z:hpo>, <z:mp ids='MP_0008817'>hematoma</z:mp>, <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infection</z:e>, and <z:hpo ids='HP_0011420'>death</z:hpo> </plain></SENT>
+<SENT sid="5" pm="."><plain>Lead fracture was considered a late complication </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: A total of 4,814 patients were included in this analysis, with an average follow-up of 5.1 years </plain></SENT>
+<SENT sid="7" pm="."><plain>The average age was 76 years and 43% were female </plain></SENT>
+<SENT sid="8" pm="."><plain>Any early complication occurred in 5.1% of patients ≥75 years of age compared to 3.4% of patients aged &lt;75 years (P = 0.006) </plain></SENT>
+<SENT sid="9" pm="."><plain>This was driven by an increased risk of <z:hpo ids='HP_0002107'>pneumothorax</z:hpo> (1.6% vs 0.8%, P = 0.07) and both atrial and ventricular lead dislodgement/loss of capture (2.0% vs 1.1%, P = 0.07) </plain></SENT>
+<SENT sid="10" pm="."><plain>Early complications were higher in patients receiving atrial-based pacemakers in both age groups (&lt;75 years: 4.6% vs 2.4%; ≥75 years: 6.6% vs 3.7%); however, the relative risk was not influenced by age group </plain></SENT>
+<SENT sid="11" pm="."><plain>Older patients had a lower risk of lead fracture (3.6% vs 2.7%, P = 0.08) </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSION: Elderly patients (≥75 years of age) are at increased risk of early postimplant complications but are at lower risk for lead fracture </plain></SENT>
+</text></document>

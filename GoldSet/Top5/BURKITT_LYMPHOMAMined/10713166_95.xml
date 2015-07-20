@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The c-Myc oncoprotein is a transcription factor which is a critical regulator of cellular proliferation </plain></SENT>
+<SENT sid="1" pm="."><plain>Deregulated expression of c-Myc is associated with many human <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancers</z:e>, including Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>The c-Myc protein is normally degraded very rapidly with a half-life of 20 to 30 min </plain></SENT>
+<SENT sid="3" pm="."><plain>Here we demonstrate that proteolysis of c-Myc in vivo is mediated by the ubiquitin-proteasome pathway </plain></SENT>
+<SENT sid="4" pm="."><plain>Inhibition of proteasome activity blocks c-Myc degradation, and c-Myc is a substrate for ubiquitination in vivo </plain></SENT>
+<SENT sid="5" pm="."><plain>Furthermore, an increase in c-Myc stability occurs in mitotic cells and is associated with inhibited c-Myc ubiquitination </plain></SENT>
+<SENT sid="6" pm="."><plain>Deletion analysis was used to identify regions of the c-Myc protein which are required for rapid proteolysis </plain></SENT>
+<SENT sid="7" pm="."><plain>We found that a centrally located PEST sequence, amino acids 226 to 270, is necessary for rapid c-Myc degradation, but not for ubiquitination </plain></SENT>
+<SENT sid="8" pm="."><plain>Also, N-terminal sequences, located within the first 158 amino acids of c-Myc, are necessary for both efficient c-Myc ubiquitination and subsequent degradation </plain></SENT>
+<SENT sid="9" pm="."><plain>We found that c-Myc is significantly stabilized (two- to sixfold) in many Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo>-derived cell lines, suggesting that aberrant c-Myc proteolysis may play a role in the pathogenesis of Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> </plain></SENT>
+<SENT sid="10" pm="."><plain>Finally, mutation of Thr-58, a major phosphorylation site in c-Myc and a mutational hot spot in Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo>, increases c-Myc stability; however, mutation of c-Myc is not essential for stabilization in Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cells </plain></SENT>
+</text></document>

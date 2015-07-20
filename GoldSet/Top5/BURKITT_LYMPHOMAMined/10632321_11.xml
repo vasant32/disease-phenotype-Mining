@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>After chemotherapy, <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> cells with multidrug resistance (<z:chebi fb="14" ids="53218">MDR</z:chebi>) often emerge </plain></SENT>
+<SENT sid="1" pm="."><plain><z:chebi fb="14" ids="53218">MDR</z:chebi> is attributable to the expression of membrane transport proteins that inhibit the cellular influx and increase the efflux of many chemotherapeutic drugs </plain></SENT>
+<SENT sid="2" pm="."><plain>One such protein is P-<z:chebi fb="2" ids="17089">glycoprotein</z:chebi> (P-gp), which functions as an ATP-dependent active transporter </plain></SENT>
+<SENT sid="3" pm="."><plain>Recently, an anti-P-gp monoclonal antibody (MAb) that inhibits P-gp has been described </plain></SENT>
+<SENT sid="4" pm="."><plain>Previous studies from our laboratory using the anti-CD19 B-cell <z:hpo ids='HP_0002665'>lymphoma</z:hpo>-reactive MAb, HD37, have suggested that HD37 may also influence <z:chebi fb="14" ids="53218">MDR</z:chebi> </plain></SENT>
+<SENT sid="5" pm="."><plain>To test this directly, we used Namalwa/MDR1 cells to study the effect of HD37 on the efflux of <z:chebi fb="0" ids="8828">rhodamine 123</z:chebi> from these cells </plain></SENT>
+<SENT sid="6" pm="."><plain>We found that HD37 and three other anti-CD19 MAbs inhibited the efflux of <z:chebi fb="0" ids="8828">rhodamine 123</z:chebi> from Namalwa/MDR1 cells with approximately 50% of the efficiency of the well-known chemosensitizer, <z:chebi fb="1" ids="9948">verapamil</z:chebi> </plain></SENT>
+<SENT sid="7" pm="."><plain>In contrast, MAbs against seven other molecules expressed on these cells were ineffective </plain></SENT>
+<SENT sid="8" pm="."><plain>The inhibitory activity of HD37 did not require an Fc portion; F(ab')2 fragments were effective, but Fab' fragments were not, suggesting that higher avidity binding and/or cross-linking of CD19 are necessary </plain></SENT>
+<SENT sid="9" pm="."><plain>We could find no evidence that HD37 recognizes a cross-reactive <z:chebi fb="0" ids="53000">epitope</z:chebi> on P-gp, modulates P-gp from the cell surface, or enhances the ATPase activity of membranes from treated cells </plain></SENT>
+</text></document>

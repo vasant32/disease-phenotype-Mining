@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIMS: Late <z:chebi fb="0" ids="33375">gadolinium</z:chebi> enhancement (LGE) on contrast-enhanced magnetic resonance imaging (MRI) in <z:hpo ids='HP_0001639'>hypertrophic cardiomyopathy</z:hpo> (HCM) has been reported to be associated with <z:hpo ids='HP_0001685'>myocardial fibrosis</z:hpo> and cardiac events </plain></SENT>
+<SENT sid="1" pm="."><plain>In patients with HCM, two-dimensional (2D) strain can identify subclinical <z:hpo ids='HP_0005185'>global systolic dysfunction</z:hpo> despite <z:mpath ids='MPATH_458'>normal</z:mpath> left ventricular (LV) chamber function </plain></SENT>
+<SENT sid="2" pm="."><plain>Therefore, this study tested the hypothesis that global 2D strain could detect subtle <z:hpo ids='HP_0001685'>myocardial fibrosis</z:hpo> and serve as a novel prognostic parameter in HCM patients </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS AND RESULTS: Echocardiography and MRI were performed in 48 consecutive patients with HCM and <z:mpath ids='MPATH_458'>normal</z:mpath> chamber function </plain></SENT>
+<SENT sid="4" pm="."><plain>We measured global longitudinal strain (GLS) in apical two-chamber, four-chamber, and long-axis views using speckle-tracking analysis </plain></SENT>
+<SENT sid="5" pm="."><plain>The extent of LGE (%LGE = LGE volume/total LV volume) and LV mass index were calculated by MRI using Simpson's rule and custom software </plain></SENT>
+<SENT sid="6" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> patients were followed up for major cardiac events </plain></SENT>
+<SENT sid="7" pm="."><plain>Global longitudinal strain in patients with LGE was significantly lower than that without LGE (-11.8 ± 2.8 vs. -15.0 ± 1.7%, P &lt; 0.001) </plain></SENT>
+<SENT sid="8" pm="."><plain>Multivariate analysis showed that GLS was an independent predictor of %LGE (standard coefficient = 0.627, P &lt; 0.001) </plain></SENT>
+<SENT sid="9" pm="."><plain>During a mean follow-up period of 42 ± 12 months, five patients had cardiac events </plain></SENT>
+<SENT sid="10" pm="."><plain>When the patients were stratified based on the median level of GLS (-12.9%), <z:hpo ids='HP_0000001'>all</z:hpo> events were observed in the worse GLS group (P = 0.018) </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSION: These results suggest that global 2D strain might provide useful information on <z:hpo ids='HP_0001685'>myocardial fibrosis</z:hpo> and cardiac events in HCM patients with <z:mpath ids='MPATH_458'>normal</z:mpath> chamber function </plain></SENT>
+</text></document>

@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The reaction between a labelled monoclonal antibody (MoAb) and its specific target is characterised by three parameters: the association constant (Ka) of the labelled MoAb, the number (N) of effective binding sites on the specific target, and the immunoreactive fraction (F) of the labelled MoAb preparation </plain></SENT>
+<SENT sid="1" pm="."><plain>Immunological binding parameters are usually estimated graphically, by fitting the experimental data to linear equations derived from the first order law of mass action (FLMA) at equilibrium </plain></SENT>
+<SENT sid="2" pm="."><plain>However, only two parameters can be estimated simultaneously in a two-dimensional plot </plain></SENT>
+<SENT sid="3" pm="."><plain>Consequently, graphical estimation of Ka, F and N must be performed stepwise, using at least two different plots </plain></SENT>
+<SENT sid="4" pm="."><plain>The three parameters are interdependent, and therefore a stepwise estimation procedure might give suboptimal results </plain></SENT>
+<SENT sid="5" pm="."><plain>In order to investigate whether this is a problem of practical significance in the evaluation of labelled MoAbs, a computerised iterative nonlinear least squares (INLSQ) method was applied to estimate the three parameters simultaneously </plain></SENT>
+<SENT sid="6" pm="."><plain>The binding parameters in reactions between different 125I-labelled MoAbs and different types of targets were significantly changed when a graphical procedure was replaced by the computerised INLSQ method, and the goodness of fit to FLMA was improved </plain></SENT>
+<SENT sid="7" pm="."><plain>Hence, the nonlinear least squares method is the preferred procedure </plain></SENT>
+<SENT sid="8" pm="."><plain>Values were affected when only a subset of the data was included in the estimation procedure, indicating some <z:hpo ids='HP_0001425'>heterogeneity</z:hpo> even in these presumably homogeneous MoAb reactions </plain></SENT>
+<SENT sid="9" pm="."><plain>The radiolabelling procedure was presumed to be the main reason for this <z:hpo ids='HP_0001425'>heterogeneity</z:hpo> </plain></SENT>
+</text></document>

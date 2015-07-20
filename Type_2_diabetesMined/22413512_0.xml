@@ -1,0 +1,7 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The liver may maintain systemic homeostasis by releasing secretory proteins into the blood stream </plain></SENT>
+<SENT sid="1" pm="."><plain>In fact, comprehensive gene expression analysis revealed that the liver in humans expresses various kinds of genes encoding secretory proteins </plain></SENT>
+<SENT sid="2" pm="."><plain>Recently, function-unknown liver-derived secretory proteins have been termed as hepatokines </plain></SENT>
+<SENT sid="3" pm="."><plain>Using comprehensive gene expression analyses, we have identified selenoprotein P(SeP) as a novel hepatokine that elevates plasma <z:chebi fb="105" ids="17234">glucose</z:chebi> levels by inducing <z:hpo ids='HP_0000855'>insulin resistance</z:hpo> </plain></SENT>
+<SENT sid="4" pm="."><plain><z:chebi fb="40" ids="33697">RNA</z:chebi> interference-mediated knockdown of SeP in the liver improved <z:hpo ids='HP_0000855'>insulin resistance</z:hpo> and <z:hpo ids='HP_0003074'>hyperglycemia</z:hpo> in type 2 diabetic mice, suggesting that SeP is a novel therapeutic target for type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="5" pm="."><plain>Further functional characterization of hepatokines might provide novel diagnostic and therapeutic targets for the other diseases except <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+</text></document>

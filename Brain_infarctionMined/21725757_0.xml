@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Cerebral <z:mp ids='MP_0005039'>hypoxia</z:mp>-<z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> (HI) is an important cause of mortality and disability in newborns </plain></SENT>
+<SENT sid="1" pm="."><plain>It is a result of insufficient oxygen and <z:chebi fb="105" ids="17234">glucose</z:chebi> circulation to the brain, initiating long-term cerebral damage and cell <z:hpo ids='HP_0011420'>death</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>Emerging evidence suggests that endothelin receptor-A (<z:chebi fb="209" ids="16000,53460">ETA</z:chebi>) activation can play an important role in mediating brain damage </plain></SENT>
+<SENT sid="3" pm="."><plain>In this study, we investigated the role of <z:chebi fb="209" ids="16000,53460">ETA</z:chebi> receptor inhibition using <z:chebi fb="5" ids="53329">ABT</z:chebi>-627 in neonatal HI injured rats </plain></SENT>
+<SENT sid="4" pm="."><plain>Postnatal day 10 Sprague-Dawley rat pups (n=91) were assigned to the following groups: sham (n=28), HI (vehicle, n=32), and HI with <z:chebi fb="5" ids="53329">ABT</z:chebi>-627 at 3 mg/kg (n=31) </plain></SENT>
+<SENT sid="5" pm="."><plain>The Rice-Vannucci model was used to induce <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> by ligating the right common carotid artery, followed by a 2 h hypoxic episode using 8% oxygen in a 37°C chamber </plain></SENT>
+<SENT sid="6" pm="."><plain>Postoperative assessment was conducted at 48 h after injury and again at 4 weeks </plain></SENT>
+<SENT sid="7" pm="."><plain>At the <z:hpo ids='HP_0011009'>acute</z:hpo> time point, investigative markers included <z:hpo ids='HP_0002181'>cerebral edema</z:hpo>, infarction volume, and body weight change </plain></SENT>
+<SENT sid="8" pm="."><plain>Neurobehavioral testing was measured at 4 weeks post-injury </plain></SENT>
+<SENT sid="9" pm="."><plain>Our findings indicated that <z:chebi fb="5" ids="53329">ABT</z:chebi>-627 had no effect on the measured parameters </plain></SENT>
+<SENT sid="10" pm="."><plain>This study suggests that <z:chebi fb="209" ids="16000,53460">ETA</z:chebi> receptor blockade using <z:chebi fb="5" ids="53329">ABT</z:chebi>-627 post-treatment fails to improve neurological outcomes in neonatal HI injured rats </plain></SENT>
+</text></document>

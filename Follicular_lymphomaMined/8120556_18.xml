@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PURPOSE: Fludarabine is an active agent for patients with low-grade <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (LGL) but has mainly been used as a single agent </plain></SENT>
+<SENT sid="1" pm="."><plain>This trial was designed to define the maximum-tolerated dose (MTD) of a combination of fludarabine, <z:chebi fb="0" ids="50729">mitoxantrone</z:chebi>, and <z:chebi fb="0" ids="41879">dexamethasone</z:chebi> (FND), to identify the toxicities of these agents in combination, and to make preliminary observations about the efficacy of this combination </plain></SENT>
+<SENT sid="2" pm="."><plain>PATIENTS AND METHODS: Twenty-one patients with recurrent LGL or follicular large-cell <z:hpo ids='HP_0002665'>lymphoma</z:hpo> were treated, in cohorts of three, at stepwise escalating doses </plain></SENT>
+<SENT sid="3" pm="."><plain>Patients were required to have adequate marrow function and <z:mpath ids='MPATH_458'>normal</z:mpath> renal, hepatic, and cardiac function </plain></SENT>
+<SENT sid="4" pm="."><plain>RESULTS: The MTD of the combination was found to be as follows: fludarabine, 25 mg/m2/d (days 1 to 3); <z:chebi fb="0" ids="50729">mitoxantrone</z:chebi>, 10 mg/m2 (day 1); and <z:chebi fb="0" ids="41879">dexamethasone</z:chebi>, 20 mg/d (days 1 to 5) </plain></SENT>
+<SENT sid="5" pm="."><plain>Each course was administered monthly, and up to eight courses were given </plain></SENT>
+<SENT sid="6" pm="."><plain>Dose-limiting toxicities were <z:hpo ids='HP_0001875'>neutropenia</z:hpo> and <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infections</z:e> </plain></SENT>
+<SENT sid="7" pm="."><plain><z:hpo ids='HP_0001873'>Thrombocytopenia</z:hpo> was modest </plain></SENT>
+<SENT sid="8" pm="."><plain>Nonhematologic toxicity was very modest </plain></SENT>
+<SENT sid="9" pm="."><plain>Responses were seen at every dose level </plain></SENT>
+<SENT sid="10" pm="."><plain>The overall response rate was 71%, with a 43% complete remission (CR) rate </plain></SENT>
+<SENT sid="11" pm="."><plain>The median duration of CR was 18 months (with follow-up duration from 13 to 28+ months) </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSION: FND was well tolerated in this population </plain></SENT>
+<SENT sid="13" pm="."><plain>While our primary aim was to define the MTD, our preliminary observations on the efficacy of the regimen were favorable </plain></SENT>
+<SENT sid="14" pm="."><plain>The overall response rate was high, there was a high fraction of CRs, and our early impression is that these responses are durable </plain></SENT>
+</text></document>

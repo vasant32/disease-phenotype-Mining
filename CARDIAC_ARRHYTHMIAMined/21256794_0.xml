@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Cardiac electrical activity is influenced by temperature </plain></SENT>
+<SENT sid="1" pm="."><plain>In experimental models, the induction of <z:hpo ids='HP_0002045'>hypothermia</z:hpo> and/or <z:hpo ids='HP_0001945'>hyperthermia</z:hpo> has been used for the study of mechanisms of <z:hpo ids='HP_0011675'>cardiac arrhythmia</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>A system that allows for localized, controlled induction, besides simultaneously recording electrical activity in the same induced area, needs to be developed ad hoc </plain></SENT>
+<SENT sid="3" pm="."><plain>This article describes the construction and application of a new system capable of locally modifying the epicardial temperature of isolated hearts and of carrying out cardiac mapping with sufficient spatial resolution </plain></SENT>
+<SENT sid="4" pm="."><plain>The system is based on a thermoelectric refrigerator and an array of 128 stainless steel unipolar electrodes in encapsulated <z:chebi fb="48" ids="30721">epoxy</z:chebi> of good thermal conductivity </plain></SENT>
+<SENT sid="5" pm="."><plain>The surface of the electrode is shaped to match the ventricular curvature </plain></SENT>
+<SENT sid="6" pm="."><plain>The electrode-device was tested on 7 isolated perfused rabbit hearts following the Langendorff technique </plain></SENT>
+<SENT sid="7" pm="."><plain>Quality recordings were obtained for the left ventricle at temperatures of 37° C, 22° C and 42° C </plain></SENT>
+<SENT sid="8" pm="."><plain>The effects of temperature were explored in relation to two electrophysiological parameters: the QT interval during sinus rhythm and the VV interval during <z:hpo ids='HP_0001663'>ventricular fibrillation</z:hpo> </plain></SENT>
+<SENT sid="9" pm="."><plain>The results indicate that this is a suitable method for creating and analyzing electrophysiological <z:hpo ids='HP_0001425'>heterogeneities</z:hpo> induced by temperature in the experimental model </plain></SENT>
+</text></document>

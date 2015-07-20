@@ -1,0 +1,18 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Alteration of blood-brain barrier (<z:chebi fb="2" ids="33602">BBB</z:chebi>) function occurs in both permanent and temporary <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Studies in vivo and in vitro have shown that <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> <z:mp ids='MP_0001651'>necrosis</z:mp> factor-alpha (TNFalpha) is involved in changes of <z:chebi fb="2" ids="33602">BBB</z:chebi> permeability </plain></SENT>
+<SENT sid="2" pm="."><plain>However, the relationship between TNFalpha expression and <z:chebi fb="2" ids="33602">BBB</z:chebi> disruption during reperfusion is unclear </plain></SENT>
+<SENT sid="3" pm="."><plain>The aim of this study is to find the cell source of TNFalpha and to determine the relationship between TNFalpha expression and <z:chebi fb="2" ids="33602">BBB</z:chebi> disruption following temporary focal <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> in mice </plain></SENT>
+<SENT sid="4" pm="."><plain>Adult CD-1 mice received 1 h middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (MCAO) followed by 2 h, 6 h, 12 h, 24 h, and 48 h of reperfusion </plain></SENT>
+<SENT sid="5" pm="."><plain>MCAO was achieved using an intraluminal suture technique and reperfusion was performed by the suture withdrawal </plain></SENT>
+<SENT sid="6" pm="."><plain>Neutralizing monoclonal anti-mouse TNFalpha antibody was administrated intraventricularly immediately after reperfusion </plain></SENT>
+<SENT sid="7" pm="."><plain>TNFalpha expression was determined by double labeling immunohistochemistry </plain></SENT>
+<SENT sid="8" pm="."><plain><z:chebi fb="2" ids="33602">BBB</z:chebi> permeability was determined by albumin immunostaining </plain></SENT>
+<SENT sid="9" pm="."><plain>TNFalpha immunoreactivity (IR) was observed in the ipsilateral hemisphere from 1 h MCAO with 2 h reperfusion </plain></SENT>
+<SENT sid="10" pm="."><plain>TNFalpha positive cells included neurons, astrocytes, and ependymal cells </plain></SENT>
+<SENT sid="11" pm="."><plain><z:chebi fb="2" ids="33602">BBB</z:chebi> disruption was detected beginning at 6 h reperfusion but was not present at 2 h of reperfusion </plain></SENT>
+<SENT sid="12" pm="."><plain>The areas of <z:chebi fb="2" ids="33602">BBB</z:chebi> disruption were significantly enlarged at 12 h reperfusion and plateaued at 24 h to 48 h reperfusion </plain></SENT>
+<SENT sid="13" pm="."><plain><z:chebi fb="2" ids="33602">BBB</z:chebi> disruptions were significantly attenuated in the anti-TNFalpha antibody treated mice (p&lt;0.05) </plain></SENT>
+<SENT sid="14" pm="."><plain>Our results demonstrate that TNFalpha IR existed in neurons, astrocytes, and ependymal cells during reperfusion </plain></SENT>
+<SENT sid="15" pm="."><plain>TNFalpha IR following temporary focal <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> precedes increased <z:chebi fb="2" ids="33602">BBB</z:chebi> permeability </plain></SENT>
+<SENT sid="16" pm="."><plain>Treatment with TNFalpha antibody reduces <z:chebi fb="2" ids="33602">BBB</z:chebi> disruption, suggesting TNFalpha may be an important mediator in altering <z:chebi fb="2" ids="33602">BBB</z:chebi> permeability during reperfusion </plain></SENT>
+</text></document>

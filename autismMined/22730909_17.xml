@@ -1,0 +1,24 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: The <z:hpo ids='HP_0000717'>autism</z:hpo> rate has recently increased to 1 in 100 children </plain></SENT>
+<SENT sid="1" pm="."><plain>Genetic studies demonstrate poorly understood complexity </plain></SENT>
+<SENT sid="2" pm="."><plain>Environmental factors apparently also play a role </plain></SENT>
+<SENT sid="3" pm="."><plain>Magnetic resonance imaging (MRI) studies demonstrate <z:mp ids='MP_0005238'>increased brain sizes</z:mp> and altered connectivity </plain></SENT>
+<SENT sid="4" pm="."><plain>Electroencephalogram (EEG) coherence studies confirm connectivity changes </plain></SENT>
+<SENT sid="5" pm="."><plain>However, genetic-, MRI- and/or EEG-based diagnostic tests are not yet available </plain></SENT>
+<SENT sid="6" pm="."><plain>The varied study results likely reflect methodological and population differences, small samples and, for EEG, lack of attention to group-specific artifact </plain></SENT>
+<SENT sid="7" pm="."><plain>METHODS: Of the 1,304 subjects who participated in this study, with ages ranging from 1 to 18 years old and assessed with comparable EEG studies, 463 children were diagnosed with <z:hpo ids='HP_0000729'>autism spectrum disorder</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">ASD</z:e>); 571 children were neuro-typical controls (C) </plain></SENT>
+<SENT sid="8" pm="."><plain>After artifact management, principal components analysis (<z:chebi fb="20" ids="36751">PCA</z:chebi>) identified EEG spectral coherence factors with corresponding loading patterns </plain></SENT>
+<SENT sid="9" pm="."><plain>The 2- to 12-year-old subsample consisted of 430 ASD- and 554 C-group subjects (n = 984) </plain></SENT>
+<SENT sid="10" pm="."><plain>Discriminant function analysis (<z:chebi fb="0" ids="23716">DFA</z:chebi>) determined the spectral coherence factors' discrimination success for the two groups </plain></SENT>
+<SENT sid="11" pm="."><plain>Loading patterns on the <z:chebi fb="0" ids="23716">DFA</z:chebi>-selected coherence factors described <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">ASD</z:e>-specific coherence differences when compared to controls </plain></SENT>
+<SENT sid="12" pm="."><plain>RESULTS: Total sample <z:chebi fb="20" ids="36751">PCA</z:chebi> of coherence data identified 40 factors which explained 50.8% of the total population variance </plain></SENT>
+<SENT sid="13" pm="."><plain>For the 2- to 12-year-olds, the 40 factors showed highly significant group differences (P &lt; 0.0001) </plain></SENT>
+<SENT sid="14" pm="."><plain>Ten randomly generated split half replications demonstrated high-average classification success (C, 88.5%; <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">ASD</z:e>, 86.0%) </plain></SENT>
+<SENT sid="15" pm="."><plain>Still higher success was obtained in the more restricted age sub-samples using the jackknifing technique: 2- to 4-year-olds (C, 90.6%; <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">ASD</z:e>, 98.1%); 4- to 6-year-olds (C, 90.9%; <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">ASD</z:e> 99.1%); and 6- to 12-year-olds (C, 98.7%; <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">ASD</z:e>, 93.9%) </plain></SENT>
+<SENT sid="16" pm="."><plain>Coherence loadings demonstrated reduced short-distance and reduced, as well as increased, long-distance coherences for the <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">ASD</z:e>-groups, when compared to the controls </plain></SENT>
+<SENT sid="17" pm="."><plain>Average spectral loading per factor was wide (10.1 Hz) </plain></SENT>
+<SENT sid="18" pm="."><plain>CONCLUSIONS: Classification success suggests a stable coherence loading pattern that differentiates <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">ASD</z:e>- from C-group subjects </plain></SENT>
+<SENT sid="19" pm="."><plain>This might constitute an EEG coherence-based phenotype of childhood <z:hpo ids='HP_0000717'>autism</z:hpo> </plain></SENT>
+<SENT sid="20" pm="."><plain>The predominantly reduced short-distance coherences may indicate poor local network function </plain></SENT>
+<SENT sid="21" pm="."><plain>The increased long-distance coherences may represent compensatory processes or reduced neural pruning </plain></SENT>
+<SENT sid="22" pm="."><plain>The wide average spectral range of factor loadings may suggest over-damped neural networks </plain></SENT>
+</text></document>

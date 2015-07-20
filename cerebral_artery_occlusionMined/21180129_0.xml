@@ -1,0 +1,19 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIM: To evaluate the effect of NG-<z:chebi fb="13" ids="29785">nitro</z:chebi>-<z:chebi fb="0" ids="16467,29952">L-arginine</z:chebi> (L-NA) on inflammatory factor and neuronal <z:mpath ids='MPATH_3'>apoptosis</z:mpath> after focal cerebral ischemic injury in rats and the possible mechanism of protective effect of L-NA against cerebral ischemic injury </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: Thirty male SD rats weighing 250-280 g were randomly divided into three groups (n=10): (1) Sham operated group (SH), (2) Ischemic group (IS), (3) L-NA group </plain></SENT>
+<SENT sid="2" pm="."><plain>In L-NA group L-NA 20 mg/kg was given intraperitoneally twice a day for 3 consecutive days </plain></SENT>
+<SENT sid="3" pm="."><plain>In IS group <z:mpath ids='MPATH_458'>normal</z:mpath> saline was given instead of L-NA </plain></SENT>
+<SENT sid="4" pm="."><plain>Focal <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> was produced by middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (MCAO) for 12 h </plain></SENT>
+<SENT sid="5" pm="."><plain>A nylon thread with rounded tip which was inserted into left internal carotid artery cranially until resistance was felt </plain></SENT>
+<SENT sid="6" pm="."><plain>The distance from bifurcation of common carotid artery to the tip of the thread was about 18-19 mm </plain></SENT>
+<SENT sid="7" pm="."><plain>Focal <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> was confirmed by left <z:hpo ids='HP_0002277'>Horner's syndrome</z:hpo> and right side <z:hpo ids='HP_0002301'>hemiplegia</z:hpo> </plain></SENT>
+<SENT sid="8" pm="."><plain>In SH group the carotid artery was exposed but no thread was inserted </plain></SENT>
+<SENT sid="9" pm="."><plain>The expression of TNF-alpha was determined by immunochemistry and the content of IL-1beta was measured by radio immunity </plain></SENT>
+<SENT sid="10" pm="."><plain>The Bcl-2 and Bax protein expression were detected by flow cytometry </plain></SENT>
+<SENT sid="11" pm="."><plain>RESULTS: The expression of TNF-alpha and the content of IL-1 beta were markedly increased after MCAO </plain></SENT>
+<SENT sid="12" pm="."><plain>Significantly increased DNA fragmentation indication of <z:mpath ids='MPATH_3'>apoptosis</z:mpath> was detected after MCAO </plain></SENT>
+<SENT sid="13" pm="."><plain>The expression of TNF-alpha and the content of IL-1 beta was significantly lower in L-NA group than in IS group </plain></SENT>
+<SENT sid="14" pm="."><plain>The percentage of <z:mpath ids='MPATH_3'>apoptosis</z:mpath> cells and expression of Bax protein were markedly lower in L-NA group than in IS group but still significantly higher than in SH group </plain></SENT>
+<SENT sid="15" pm="."><plain>The expression of Bcl-2 protein was markedly higher in L-NA group than in IS group </plain></SENT>
+<SENT sid="16" pm="."><plain>There was no significant difference in the expression of Bcl-2 protein between IS and SH group </plain></SENT>
+<SENT sid="17" pm="."><plain>CONCLUSION: L-NA could inhibit the increase in the expression of TNF-alpha and the content of IL-1beta, and protect neurons from <z:mpath ids='MPATH_3'>apoptosis</z:mpath> induced by focal <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> through increasing the Bcl-2 protein expression and inhibiting the Bax protein expression </plain></SENT>
+</text></document>

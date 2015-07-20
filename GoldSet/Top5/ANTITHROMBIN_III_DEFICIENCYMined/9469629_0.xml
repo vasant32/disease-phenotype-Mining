@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>I report on my 6-year experience identifying the correlation of low antithrombin III (AT III) levels with <z:hpo ids='HP_0001677'>coronary artery disease</z:hpo> in a rural Missouri family practice setting </plain></SENT>
+<SENT sid="1" pm="."><plain>I measured plasma AT III levels in 78 patients who were at risk for <z:hpo ids='HP_0001677'>coronary artery disease</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>I also tracked <z:chebi fb="23" ids="18059">lipid</z:chebi> profiles, HBA1C, blood pressure, body mass index, hostility, and <z:chebi fb="164" ids="18723">nicotine</z:chebi> use </plain></SENT>
+<SENT sid="3" pm="."><plain>I measured AT III levels using Baxter Diagnostic AG Dade antithrombin III chromogenic coagulation assays of antithrombin III (<z:mpath ids='MPATH_458'>normal</z:mpath> range, 88% to 126%) at the Boone County Hospital Laboratory, Columbia, Missouri </plain></SENT>
+<SENT sid="4" pm="."><plain>I analyzed the patient records and looked for the worst recording of each of the above risk factors, selecting the highest blood pressure, total cholesterol, <z:chebi fb="1" ids="47774">LDL cholesterol</z:chebi>, <z:chebi fb="4" ids="17855">triglycerides</z:chebi>, HBA1C, weight, and age </plain></SENT>
+<SENT sid="5" pm="."><plain>I selected the lowest AT III level, which often occurred when the patient was stressed </plain></SENT>
+<SENT sid="6" pm="."><plain>When the worst risk factors were picked over a long period of time, low AT III correlated with an arbitrary <z:hpo ids='HP_0001677'>coronary artery disease</z:hpo> scale 24% of the time </plain></SENT>
+<SENT sid="7" pm="."><plain>This negative correlation (r = -.49) was higher than any other risk factor in these selected patients </plain></SENT>
+</text></document>

@@ -1,0 +1,22 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PURPOSE: To analyze the long-term outcomes and pattern of failures for Stage III follicular <z:hpo ids='HP_0002665'>lymphomas</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS AND MATERIALS: A retrospective review of <z:hpo ids='HP_0000001'>all</z:hpo> patients with Stage III follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo> presented to our institution between 1978 and 1993 was performed </plain></SENT>
+<SENT sid="2" pm="."><plain>One hundred ten patients were eligible and form the basis of this analysis </plain></SENT>
+<SENT sid="3" pm="."><plain>Fifty-seven patients were male </plain></SENT>
+<SENT sid="4" pm="."><plain>The median age was 57 years (range: 21-82 years) </plain></SENT>
+<SENT sid="5" pm="."><plain>The treatments were as follows: chemotherapy alone (<z:chebi fb="3" ids="3498">CTX</z:chebi>), 39 patients; combined modality with chemotherapy and radiation therapy (CMT), 69; radiation therapy alone, 2 </plain></SENT>
+<SENT sid="6" pm="."><plain>Radiation therapy fields were as follows: regional, 13 patients; extended, 6; subtotal, 44; and central lymphatic, 8 </plain></SENT>
+<SENT sid="7" pm="."><plain>The median number of chemotherapy cycles was 8, and 98 patients received <z:chebi fb="0" ids="28748">doxorubicin</z:chebi>-containing regimens </plain></SENT>
+<SENT sid="8" pm="."><plain>Enough information was available to calculate the International Prognostic Index for 107 patients </plain></SENT>
+<SENT sid="9" pm="."><plain>The following prognostic factors were examined for predictive value in overall survival (OS) and freedom from progression (FFP) by univariate and multivariate analyses: International Prognostic Index, gender, <z:chebi fb="4" ids="24996">lactate</z:chebi> dehydrogenase (LDH) (<z:mpath ids='MPATH_458'>normal</z:mpath> vs. elevated), B symptoms, performance status, beta-2 microglobulin, presence or absence of a bulky disease, age (&lt;/= vs. &gt;60 years), number of sites of involvement, treatment (<z:chebi fb="3" ids="3498">CTX</z:chebi> vs. CMT), and pathology </plain></SENT>
+<SENT sid="10" pm="."><plain>To minimize patient selection biases given the nature of the retrospective analysis, the patterns of relapse were analyzed only for the patients who achieved a complete response </plain></SENT>
+<SENT sid="11" pm="."><plain>RESULTS: The median follow-up for the alive patients was 9.5 years (range: 1.1-19.5 years) </plain></SENT>
+<SENT sid="12" pm="."><plain>Complete response was achieved in 80 patients: 24 of 39 patients in the <z:chebi fb="3" ids="3498">CTX</z:chebi> group (62%), 54 of 69 patients in the CMT group (78%), and 2 of 2 patients in the radiation therapy alone group </plain></SENT>
+<SENT sid="13" pm="."><plain>The actuarial 5- and 10-year OS rates were 65% and 42%, respectively </plain></SENT>
+<SENT sid="14" pm="."><plain>The 5- and 10-year FFP was 42% and 26%, respectively </plain></SENT>
+<SENT sid="15" pm="."><plain>Significant prognostic factors by multivariate analyses were age and LDH for OS and LDH for FFP </plain></SENT>
+<SENT sid="16" pm="."><plain>For complete responders, 5-year freedom from recurrence in the original sites of involvement (with or without recurrence in the new sites) was 43% for <z:chebi fb="3" ids="3498">CTX</z:chebi> and 60% for CMT patients (p = 0.03, Wilcoxon) </plain></SENT>
+<SENT sid="17" pm="."><plain>Five-year freedom from isolated recurrence in the original sites of involvement was 60% for <z:chebi fb="3" ids="3498">CTX</z:chebi> and 69% for CMT patients (p = 0.17) </plain></SENT>
+<SENT sid="18" pm="."><plain>The 5-year overall FFP was 43% for <z:chebi fb="3" ids="3498">CTX</z:chebi> patients and 56% for CMT patients (p = 0.06) </plain></SENT>
+<SENT sid="19" pm="."><plain>CONCLUSION: Combined modality treatment seems to give an advantage in terms of disease control in the primary sites compared to chemotherapy alone, though the advantages in OS and FFP were not statistically significant in our patient population </plain></SENT>
+<SENT sid="20" pm="."><plain>By multivariate analyses, LDH was a significant prognostic indicator for OS and FFP, whereas age was for OS </plain></SENT>
+</text></document>

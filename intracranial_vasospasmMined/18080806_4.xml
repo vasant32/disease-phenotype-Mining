@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Transcranial Doppler sonography (TCD) is a noninvasive method for detecting arterial <z:e sem="disease" ids="C0265110" disease_type="Disease or Syndrome" abbrv="">cerebral vasospasm</z:e> (CVS) in aneurysmal <z:hpo ids='HP_0002138'>subarachnoid hemorrhage</z:hpo> (SAH) </plain></SENT>
+<SENT sid="1" pm="."><plain>Computed tomographic angiography (CTA) has been increasingly used for CVS diagnosis </plain></SENT>
+<SENT sid="2" pm="."><plain>The purpose of this study was to evaluate the degree of agreement between TCD and CTA in diagnosing clinical CVS following SAH, and to define the role of CTA in triaging patients prior to digital subtraction angiography (DSA) and endovascular intervention </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: Fifty-five consecutive patients with aneurysmal SAH who underwent sequential TCD and CTA were analyzed </plain></SENT>
+<SENT sid="4" pm="."><plain>TCD CVS was defined as anterior circulation peak mean velocity (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">PMV</z:e>) &gt;160 cm/s, basilar artery (BA) <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">PMV</z:e> &gt;90 cm/s, and Lindegaard ratio (LR) &gt;6 </plain></SENT>
+<SENT sid="5" pm="."><plain>CTA CVS was defined as &gt;50% <z:chebi fb="2" ids="8069">luminal</z:chebi> narrowing in the affected vessel </plain></SENT>
+<SENT sid="6" pm="."><plain>Clinical CVS was defined as the <z:hpo ids='HP_0003674'>onset</z:hpo> of new focal neurological deficit attributed to delayed ischemic injury </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: Thirteen patients (24%) had clinical CVS and 42 patients (76%) were asymptomatic </plain></SENT>
+<SENT sid="8" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> patients with clinical CVS had also radiological evidence of CVS (agreement 100%) </plain></SENT>
+<SENT sid="9" pm="."><plain>In 35 patients without clinical CVS, both tests agreed for absence of CVS in 28 cases (agreement 83%) </plain></SENT>
+<SENT sid="10" pm="."><plain>The remaining 7 asymptomatic patients had radiological CVS only, in disagreement with clinical absence of CVS (17%) </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: Clinical evaluation and TCD can reliably diagnose CVS in symptomatic patients and <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">PMV</z:e> &gt;180 cm/s, or can rule out CVS in asymptomatic patients with <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">PMV</z:e> &lt;140 cm/s </plain></SENT>
+<SENT sid="12" pm="."><plain>In this category of patients, adding a CTA to clinical evaluation and TCD may not be warranted </plain></SENT>
+</text></document>

@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (MCAO) is widely used as a rat model of focal <z:e sem="disease" ids="C0007786" disease_type="Disease or Syndrome" abbrv="">brain ischemia</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>Evaluation of brain damage often includes the morphological analysis of the injury area, MRI, and various scales which depend on functional tests, commonly known as neurological severity score (NSS) </plain></SENT>
+<SENT sid="2" pm="."><plain>We determined the optimal number of NSS tests and assessed their capacity for non-invasive evaluation of brain ischemic injury in the rat MCAO model </plain></SENT>
+<SENT sid="3" pm="."><plain>275 male Sprague-Dawley rats were randomly divided into five groups, given either permanent (p) MCAO or transient (t) MCAO using an uncoated 4-0 monofilament catheter or a <z:chebi fb="144" ids="48140">silicone</z:chebi>-coated monofilament </plain></SENT>
+<SENT sid="4" pm="."><plain>The rats' neurological status was examined before and at 1 and 24h following MCAO </plain></SENT>
+<SENT sid="5" pm="."><plain>The size of brain injury was then measured histologically and the extent of right cerebral hemisphere <z:hpo ids='HP_0000969'>edema</z:hpo> was calculated </plain></SENT>
+<SENT sid="6" pm="."><plain>We established a correlation between these tests and morphological data for brain injury </plain></SENT>
+<SENT sid="7" pm="."><plain>Adjusted R(2) of the prediction of total histology score was 0.7 </plain></SENT>
+<SENT sid="8" pm="."><plain>The Hosmer-Lemeshow p-value of this model was 0.812 for total brain histology </plain></SENT>
+<SENT sid="9" pm="."><plain>For the <z:hpo ids='HP_0002181'>brain edema</z:hpo> the adjusted R(2) of the prediction model was 0.48 </plain></SENT>
+<SENT sid="10" pm="."><plain>The Hosmer-Lemeshow p-value of this model was 0.558 for <z:hpo ids='HP_0002181'>brain edema</z:hpo> </plain></SENT>
+<SENT sid="11" pm="."><plain>Our methods of estimating <z:mpath ids='MPATH_124'>infarct</z:mpath> size produces reliable and well correlated results at 24h and demonstrates to be an easy and quick way to assess <z:mpath ids='MPATH_124'>infarct</z:mpath> size soon after ischemic injury has occurred </plain></SENT>
+<SENT sid="12" pm="."><plain>The described method for neurological assessment could ultimately aid in assessing various treatment modalities in the early hours following <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+</text></document>

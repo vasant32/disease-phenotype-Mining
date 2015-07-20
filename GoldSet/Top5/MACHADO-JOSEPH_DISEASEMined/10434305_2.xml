@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>To apply genetics to the problem of human polyglutamine-repeat disease, we recreated polyglutamine-repeat disease in Drosophila melanogaster </plain></SENT>
+<SENT sid="1" pm="."><plain>To do this, we expressed forms of the human gene encoding spinocerebellar <z:hpo ids='HP_0001251'>ataxia</z:hpo> type 3, also called <z:e sem="disease" ids="C0024408" disease_type="Disease or Syndrome" abbrv="MJD|SCA3">Machado-Joseph disease</z:e> (SCA-3/<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MJD</z:e>) </plain></SENT>
+<SENT sid="2" pm="."><plain>This gene is responsible for the most common form of human <z:hpo ids='HP_0001251'>ataxia</z:hpo> worldwide </plain></SENT>
+<SENT sid="3" pm="."><plain>Expression of a <z:mpath ids='MPATH_458'>normal</z:mpath> form of the <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MJD</z:e> protein with 27 polyglutamines (MJDtr-Q27) had no phenotype </plain></SENT>
+<SENT sid="4" pm="."><plain>However, expression of a form of the protein with an expanded run of 78 glutamines (MJDtr-Q78) caused <z:hpo ids='HP_0003584'>late onset</z:hpo> progressive degeneration </plain></SENT>
+<SENT sid="5" pm="."><plain>In addition, the MJDtr-Q78 formed abnormal protein aggregates, or nuclear inclusions (NIs), whereas the control protein was cytoplasmic </plain></SENT>
+<SENT sid="6" pm="."><plain>These data indicate that the mechanisms of human polyglutamine-repeat disease are conserved to Drosophila </plain></SENT>
+<SENT sid="7" pm="."><plain>We are currently using this model to address potential mechanisms by which the mutant disease protein causes neural degeneration, as well as to define genes that can prevent polyglutamine-induced degeneration </plain></SENT>
+<SENT sid="8" pm="."><plain>By applying the power of Drosophila genetics to the problem of human polyglutamine-induced neural degeneration, we hope to identify ways to prevent and treat these diseases in humans </plain></SENT>
+</text></document>

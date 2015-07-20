@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Quantification of myocardial T1 relaxation has potential value in the diagnosis of both ischemic and nonischemic <z:hpo ids='HP_0001638'>cardiomyopathies</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Image acquisition using the modified Look-Locker inversion recovery technique is clinically feasible for T1 mapping </plain></SENT>
+<SENT sid="2" pm="."><plain>However, respiratory motion limits its applicability and degrades the accuracy of T1 estimation </plain></SENT>
+<SENT sid="3" pm="."><plain>The robust registration of acquired inversion recovery images is particularly challenging due to the large changes in image contrast, especially for those images acquired near the signal null point of the inversion recovery and other inversion times for which there is little tissue contrast </plain></SENT>
+<SENT sid="4" pm="."><plain>In this article, we propose a novel motion correction algorithm </plain></SENT>
+<SENT sid="5" pm="."><plain>This approach is based on estimating synthetic images presenting contrast changes similar to the acquired images </plain></SENT>
+<SENT sid="6" pm="."><plain>The estimation of synthetic images is formulated as a variational energy minimization problem </plain></SENT>
+<SENT sid="7" pm="."><plain>Validation on a consecutive patient data cohort shows that this strategy can perform robust nonrigid registration to align inversion recovery images experiencing significant motion and lead to suppression of motion induced artifacts in the T1 map </plain></SENT>
+</text></document>

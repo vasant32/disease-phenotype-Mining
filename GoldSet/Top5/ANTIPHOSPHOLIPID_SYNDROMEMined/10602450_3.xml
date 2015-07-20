@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Autoantibodies against prothrombin, including <z:e sem="disease" ids="C0024138,C0024141,C0024131,C0409974" disease_type="Disease or Syndrome" abbrv="">lupus</z:e> <z:chebi fb="3" ids="50249">anticoagulant</z:chebi> antibodies (LAC), have been identified in patients with <z:hpo ids='HP_0002725'>systemic lupus erythematosus</z:hpo> (SLE) and <z:e sem="disease" ids="C0085278" disease_type="Disease or Syndrome" abbrv="">antiphospholipid syndrome</z:e> (APS) </plain></SENT>
+<SENT sid="1" pm="."><plain>To identify the <z:chebi fb="0" ids="53000">epitopes</z:chebi> of LAC in patients with SLE and APS, we analyzed B cell <z:chebi fb="0" ids="53000">epitopes</z:chebi> of anti-prothrombin Abs </plain></SENT>
+<SENT sid="2" pm="."><plain>Prothrombin was purified from fresh plasma samples from healthy subjects, and fragmented by thrombin </plain></SENT>
+<SENT sid="3" pm="."><plain>Two fragments (prethrombin-1, 50 kDa, and fragment-1, 22 kDa) were separated and used for further experiments </plain></SENT>
+<SENT sid="4" pm="."><plain>The two fragments were coated on irradiated plate and the binding activities of sera from 13 patients with anti-prothrombin Abs (SLE, 7; APS, 4; SLE+APS, 2) were determined by using ELISA </plain></SENT>
+<SENT sid="5" pm="."><plain>The assay was conducted under the following conditions: use of irradiated plates, and <z:chebi fb="2" ids="127105">TBS</z:chebi> containing <z:chebi fb="0" ids="53424">Tween-20</z:chebi> </plain></SENT>
+<SENT sid="6" pm="."><plain>We detected two types of anti-prothrombin Abs </plain></SENT>
+<SENT sid="7" pm="."><plain>The first was anti-prethrombin-1 (n=5) while the other was Ab against fragment-1 (n=8) </plain></SENT>
+<SENT sid="8" pm="."><plain>There were no patients with Abs that showed binding activities to both fragments </plain></SENT>
+<SENT sid="9" pm="."><plain>A higher proportion of patients with <z:mp ids='MP_0005048'>thrombosis</z:mp> were positive for anti-prethrombin-1 Abs (80%) than for anti-fragment-1 Abs (25%) </plain></SENT>
+<SENT sid="10" pm="."><plain>Two patients with anti-prethrombin-1 Ab were positive for LAC and negative for anti-<z:chebi fb="0" ids="28494">cardiolipin</z:chebi>-beta2 <z:chebi fb="2" ids="17089">glycoprotein</z:chebi> I antibody (aCL-beta2GPI) </plain></SENT>
+<SENT sid="11" pm="."><plain>Our results strongly support the notion that both prethrombin-1 and fragment-1 on prothrombin molecule are B cell <z:chebi fb="0" ids="53000">epitopes</z:chebi> </plain></SENT>
+</text></document>

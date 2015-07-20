@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: SYTO probes are gaining momentum as reliable and easy to use markers of apoptotic cell <z:hpo ids='HP_0011420'>death</z:hpo>, but the phenomenon underlying reduced SYTO fluorescence in apoptotic cells as compared with <z:mpath ids='MPATH_458'>normal</z:mpath> cells is still not fully elucidated </plain></SENT>
+<SENT sid="1" pm="."><plain>Herein, we attempt to provide further insights into mechanisms of reduced SYTO16 fluorescence during <z:mpath ids='MPATH_3'>apoptosis</z:mpath> </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: Human follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cell lines were subjected to diverse apoptotic and oncotic stimuli with subsequent multiparametric flow cytometric and fluorescence imaging analysis </plain></SENT>
+<SENT sid="3" pm="."><plain>SYTO green (SYTO11-16), TMRM, PI, 7AAD, and Hoechst 33342 probes were applied for multivariate analysis of temporal sequence of apoptotic events </plain></SENT>
+<SENT sid="4" pm="."><plain>Sorting of cells differing in the level of SYTO16 fluorescence and subsequent characterization of obtained subpopulations were also performed </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: Loss of SYTO16 fluorescence (SYTOlow/PI+ events) has been observed in cells exposed to oncotic stimuli, whereas SYTOhigh/PI+ events did not prevail at any treatment scenario </plain></SENT>
+<SENT sid="6" pm="."><plain>We tracked similarities and discrepancies between SYTO16 and TMRM probes </plain></SENT>
+<SENT sid="7" pm="."><plain>Often, SYTO16 and TMRM exhibited the same staining profiles, as loss of their fluorescence was detected in a single cell population </plain></SENT>
+<SENT sid="8" pm="."><plain>However, both <z:hpo ids='HP_0001427'>mitochondrial</z:hpo> uncoupler FCCP and a small-molecule Bcl-2 inhibitor, HA14-1, appeared to induce distinct staining profiles of SYTO16 and TMRM, with the decrease in TMRM fluorescence preceding the loss of SYTO16 fluorescence </plain></SENT>
+<SENT sid="9" pm="."><plain>Importantly, in both cases (FCCP and HA14-1) the decrease of SYTO16 fluorescence was blocked by pharmacological inhibition of caspases (with z-VAD-fmk) </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSIONS: The data demonstrate that loss of SYTO16 is caspase-dependent, as is not a mere indicator of Deltapsim dissipation </plain></SENT>
+<SENT sid="11" pm="."><plain>Commonly observed similarities between SYTO and TMRM may stem from the fast kinetics of apoptotic events once cell <z:hpo ids='HP_0011420'>death</z:hpo> is initiated </plain></SENT>
+</text></document>

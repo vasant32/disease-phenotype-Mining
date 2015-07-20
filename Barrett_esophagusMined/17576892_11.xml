@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>HYPOTHESIS: <z:hpo ids='HP_0011010'>Chronic</z:hpo> <z:mp ids='MP_0001845'>inflammation</z:mp> of esophageal mucosa secondary to refluxed gastric juice increases gene expression of interleukin 8 (IL-8) </plain></SENT>
+<SENT sid="1" pm="."><plain>Antireflux surgery can reduce this overexpression </plain></SENT>
+<SENT sid="2" pm="."><plain>DESIGN: Prospective analysis of archival paraffin-embedded tissue </plain></SENT>
+<SENT sid="3" pm="."><plain>SETTING: Academic tertiary medical center </plain></SENT>
+<SENT sid="4" pm="."><plain>PATIENTS AND METHODS: One hundred eight patients with reflux symptoms were classified according to pH monitoring and endoscopic and histologic findings </plain></SENT>
+<SENT sid="5" pm="."><plain>Twenty patients did not have reflux or mucosal injury; 47 had reflux disease (16 <z:hpo ids='HP_0100633'>esophagitis</z:hpo> and 31 <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo>), 20 had <z:mpath ids='MPATH_589'>dysplasia</z:mpath>, and 21 had <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> </plain></SENT>
+<SENT sid="6" pm="."><plain>Microdissection was performed to exclude inflammatory cells and stromal tissue </plain></SENT>
+<SENT sid="7" pm="."><plain>After <z:chebi fb="40" ids="33697">RNA</z:chebi> isolation and reverse transcription, IL-8 messenger <z:chebi fb="40" ids="33697">RNA</z:chebi> expression was measured using quantitative real-time polymerase chain reaction </plain></SENT>
+<SENT sid="8" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> patients with reflux disease had Nissen fundoplication with biopsies at matched levels within the esophagus preoperation and postoperation </plain></SENT>
+<SENT sid="9" pm="."><plain>RESULTS: Expression of IL-8 was increased in patients with reflux compared with those without reflux </plain></SENT>
+<SENT sid="10" pm="."><plain>Patients with the highest IL-8 expression were those with Barrett's <z:mpath ids='MPATH_589'>dysplasia</z:mpath> and <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> (P&lt;.001) </plain></SENT>
+<SENT sid="11" pm="."><plain>In patients with reflux, Nissen fundoplication led to significantly decreased IL-8 expression compared with preoperative levels in <z:hpo ids='HP_0100633'>esophagitis</z:hpo> (P = .01) and <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> (P = .03) </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: Interleukin 8 messenger <z:chebi fb="40" ids="33697">RNA</z:chebi> expression increases during the progression of reflux disease from <z:mpath ids='MPATH_458'>normal</z:mpath> squamous mucosa to esophageal <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> </plain></SENT>
+<SENT sid="13" pm="."><plain>Elimination of reflux with Nissen fundoplication significantly reduces IL-8 expression in both squamous and Barrett's mucosa </plain></SENT>
+<SENT sid="14" pm="."><plain>These results demonstrate that effective antireflux surgery can modulate the gene expression of esophageal mucosa and may impact the natural history of reflux disease </plain></SENT>
+</text></document>

@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVES: <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> (BE) is a <z:e sem="disease" ids="C0032927" disease_type="Neoplastic Process" abbrv="">premalignant condition</z:e> of the esophagus </plain></SENT>
+<SENT sid="1" pm="."><plain>It is a consequence of mucosal injury from <z:hpo ids='HP_0011010'>chronic</z:hpo> <z:hpo ids='HP_0002020'>gastroesophageal reflux</z:hpo> in which <z:chebi fb="1" ids="3098">bile acids</z:chebi> are an important toxic component </plain></SENT>
+<SENT sid="2" pm="."><plain>The farnesoid X receptor (FXR) is a nuclear receptor involved in the regulation of <z:chebi fb="0" ids="3098">bile acid</z:chebi> synthesis, transport, and absorption </plain></SENT>
+<SENT sid="3" pm="."><plain>FXR activation is also involved in the induction of the innate immune response </plain></SENT>
+<SENT sid="4" pm="."><plain>This suggests that FXR is involved in the pathogenesis and the <z:mp ids='MP_0001845'>inflammation</z:mp> seen in BE </plain></SENT>
+<SENT sid="5" pm="."><plain>METHODS: <z:chebi fb="2" ids="33699">mRNA</z:chebi> levels of FXR and the FXR-regulated genes, ileal <z:chebi fb="0" ids="3098">bile acid</z:chebi>-binding protein (IBABP), small heterodimer partner (SHP), and chemokines interleukin (IL)-8 and macrophage inflammatory protein 3 alpha (MIP3 alpha), were determined by real time-polymerase chain reaction (RT-PCR) </plain></SENT>
+<SENT sid="6" pm="."><plain>Protein expression was determined by immunohistochemistry </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: FXR was not expressed in squamous epithelium of healthy subjects (N = 7), but was present in both squamous and columnar epithelium of BE patients </plain></SENT>
+<SENT sid="8" pm="."><plain>Compared to the squamous epithelium of BE patients, their columnar epithelium displayed a 2.3-fold (P= 0.02) increase in FXR <z:chebi fb="2" ids="33699">mRNA</z:chebi> </plain></SENT>
+<SENT sid="9" pm="."><plain>Also, IBABP (2.2-fold; P= 0.0029), SHP (2.7-fold; P= 0.007), IL-8 (1.5-fold; P= 0.04), and MIP3 alpha (1.7-fold; P= 0.019) transcription levels were increased </plain></SENT>
+<SENT sid="10" pm="."><plain>Exposure of esophageal cell line TE7 to <z:chebi fb="0" ids="28834">deoxycholic acid</z:chebi> (DCA) resulted in a similar induction </plain></SENT>
+<SENT sid="11" pm="."><plain>The induction was abolished by the FXR <z:chebi fb="68" ids="48706">antagonist</z:chebi> guggulsterone </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: Expression levels of the <z:chebi fb="0" ids="3098">bile acid</z:chebi> receptor FXR, the <z:chebi fb="0" ids="3098">bile acid</z:chebi> metabolism genes IBABP and SHP, and the chemokines IL-8 and MIP3 alpha are increased in Barrett's epithelium </plain></SENT>
+<SENT sid="13" pm="."><plain>The in vitro induction of FXR by DCA suggests that <z:chebi fb="1" ids="3098">bile acids</z:chebi> can actively induce the <z:mp ids='MP_0001845'>inflammatory response</z:mp> in BE by recruiting immune cells </plain></SENT>
+</text></document>

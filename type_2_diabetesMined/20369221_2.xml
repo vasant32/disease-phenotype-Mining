@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIMS/HYPOTHESIS: In 2006 a risk stratification model was developed by Boyko et al. to predict foot ulceration in patients with <z:mp ids='MP_0002055'>diabetes</z:mp>, using seven commonly available clinical variables </plain></SENT>
+<SENT sid="1" pm="."><plain>We sought to validate and optimise this clinical prediction rule in a different setting </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: A retrospective cohort study was conducted on <z:hpo ids='HP_0000001'>all</z:hpo> patients with <z:mp ids='MP_0002055'>diabetes</z:mp> attending the podiatry section of a <z:e sem="disease" ids="C0206172" disease_type="Disease or Syndrome" abbrv="">diabetic foot</z:e> clinic at a tertiary hospital in Portugal (n = 360) </plain></SENT>
+<SENT sid="3" pm="."><plain>Assessment at baseline included variables evaluated in the previous study and other relevant variables </plain></SENT>
+<SENT sid="4" pm="."><plain>RESULTS: Type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> was present in 98% of patients, 45% were men and (at baseline) the median age was 65 years </plain></SENT>
+<SENT sid="5" pm="."><plain>Median follow-up was 25 months (range 3-86), during which 94 patients (26%) developed a foot <z:mpath ids='MPATH_579'>ulcer</z:mpath> </plain></SENT>
+<SENT sid="6" pm="."><plain>Boyko's model had an area under the receiver operating curve of 0.83 (95% CI 0.78-0.88) </plain></SENT>
+<SENT sid="7" pm="."><plain>The corresponding value for the optimised model, which included the footwear risk variable, was 0.88 (95% CI 0.84-0.91) </plain></SENT>
+<SENT sid="8" pm="."><plain>Both models had high classification accuracy for prediction of foot ulceration </plain></SENT>
+<SENT sid="9" pm="."><plain>However, the optimised model tended to produce higher specificity and positive likelihood ratio values at <z:hpo ids='HP_0000001'>all</z:hpo> levels </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSIONS/INTERPRETATION: This study confirmed that Boyko's proposed model has a high capacity to predict foot ulceration in <z:mp ids='MP_0002055'>diabetes</z:mp> patients of both sexes </plain></SENT>
+<SENT sid="11" pm="."><plain>Our results suggest that the inclusion of a further footwear variable could improve the model </plain></SENT>
+<SENT sid="12" pm="."><plain>Nevertheless, prospective validation in a larger population is still necessary </plain></SENT>
+</text></document>

@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: To determine whether members of the highly phosphorylated SR protein family are autoantigens and, if so, to determine the frequency and molecular basis of antigen recognition </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: Native human SR proteins were purified to homogeneity from HeLa cells, and an enzyme-linked immunosorbent assay (ELISA) was developed </plain></SENT>
+<SENT sid="2" pm="."><plain>Further studies employed immunoblotting of both phosphorylated and dephosphorylated SR proteins </plain></SENT>
+<SENT sid="3" pm="."><plain>RESULTS: Anti-SR protein reactivity was frequently detected in the sera of patients with <z:hpo ids='HP_0002725'>systemic lupus erythematosus</z:hpo> (SLE) </plain></SENT>
+<SENT sid="4" pm="."><plain>Sera from 52% of the SLE patients in a group of patients with a variety of autoimmune and other disorders (n = 137) and from 50% of the SLE patients in a separate group (n = 102) were positive in an ELISA </plain></SENT>
+<SENT sid="5" pm="."><plain>In contrast, sera from patients with other disorders, such as <z:hpo ids='HP_0001370'>rheumatoid arthritis</z:hpo> and <z:e sem="disease" ids="C0409980" disease_type="Disease or Syndrome" abbrv="">primary antiphospholipid syndrome</z:e>, reacted infrequently </plain></SENT>
+<SENT sid="6" pm="."><plain>Reactivity with <z:chebi fb="0" ids="4705">double-stranded DNA</z:chebi> (dsDNA), used in the diagnosis of SLE, did not correlate with SR protein reactivity </plain></SENT>
+<SENT sid="7" pm="."><plain>Anti-SR autoantisera did not bind highly charged unphosphorylated <z:chebi fb="7" ids="16670">peptides</z:chebi> related to the SR domain, which is rich in arginine and <z:chebi fb="0" ids="37712">phosphoserine</z:chebi> residues </plain></SENT>
+<SENT sid="8" pm="."><plain>Surprisingly, many of the <z:chebi fb="0" ids="53000">epitopes</z:chebi> were influenced by the presence or absence of SR protein phosphorylation </plain></SENT>
+<SENT sid="9" pm="."><plain>In immunoblots, some patient sera lost reactivity upon SR protein dephosphorylation, while others significantly gained reactivity </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSION: We have identified a novel set of autoantigens in SLE, the SR protein family of non-small nuclear RNP pre-<z:chebi fb="5" ids="33699">messenger RNA</z:chebi> splicing factors </plain></SENT>
+<SENT sid="11" pm="."><plain>Anti-SR autoantibodies are distinct from those which bind dsDNA </plain></SENT>
+<SENT sid="12" pm="."><plain>The identification of this new set of autoantigens and the observation that the auto-<z:chebi fb="0" ids="53000">epitope</z:chebi>(s) involves posttranslational modification offer new possibilities for understanding <z:hpo ids='HP_0002960'>autoimmunity</z:hpo> and its development </plain></SENT>
+</text></document>

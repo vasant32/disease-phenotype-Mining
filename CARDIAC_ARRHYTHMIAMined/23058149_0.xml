@@ -1,0 +1,19 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: To determine the optimal <z:chebi fb="3" ids="16335">adenosine</z:chebi> dose effective in <z:hpo ids='HP_0004755'>supraventricular tachycardia</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">SVT</z:e>) and underlying conditions affecting the effective dose in children </plain></SENT>
+<SENT sid="1" pm="."><plain>STUDY DESIGN: Experimental study </plain></SENT>
+<SENT sid="2" pm="."><plain>PLACE AND DURATION OF STUDY: Department of Cardiology, The Children's Hospital and Institute of Child Health, Lahore, from July 2008 to June 2011 </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODOLOGY: <z:hpo ids='HP_0000001'>All</z:hpo> children presenting with <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">SVT</z:e> were administered <z:chebi fb="3" ids="16335">adenosine</z:chebi> in rapid boluses according to PALS guidelines using incremental doses of 100, 200 and 300 μg/kg </plain></SENT>
+<SENT sid="4" pm="."><plain>The response was recorded on 12 lead ECG </plain></SENT>
+<SENT sid="5" pm="."><plain><z:hpo ids='HP_0004309'>Preexcitation</z:hpo> was documented and echocardiography performed on <z:hpo ids='HP_0000001'>all</z:hpo> children after attaining sinus rhythm </plain></SENT>
+<SENT sid="6" pm="."><plain>Mann Whitney test and Kruskal-Wallis test were used as a test of significance to determine any difference in effective <z:chebi fb="3" ids="16335">adenosine</z:chebi> dose between <z:mpath ids='MPATH_458'>normal</z:mpath> heart and various underlying conditions, taking p &lt; 0.05 as significant </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: Eighty five patients were treated for 110 episodes of <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">SVT</z:e> with <z:chebi fb="3" ids="16335">adenosine</z:chebi> </plain></SENT>
+<SENT sid="8" pm="."><plain>M:F ratio was 2.2:1 </plain></SENT>
+<SENT sid="9" pm="."><plain>Their age ranged from 6 days to 14 years with mean age of 27.9 months </plain></SENT>
+<SENT sid="10" pm="."><plain><z:chebi fb="3" ids="16335">Adenosine</z:chebi> was effective in reverting 97 episodes of <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">SVT</z:e> to sinus rhythm (88.2%) </plain></SENT>
+<SENT sid="11" pm="."><plain>A dose of upto 100 μg/kg was only effective in 36.4% episodes of <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">SVT</z:e> </plain></SENT>
+<SENT sid="12" pm="."><plain>Two hundred μg/kg was effective in 44.3% of those not responding to 100 μg/kg dose (n = 31/70, cumulative 64.5%) </plain></SENT>
+<SENT sid="13" pm="."><plain>A dose of 300 μg/kg was effective in further 25 patients not responding to lower doses (n = 25/38, 65.8%; cumulative 88.2%) </plain></SENT>
+<SENT sid="14" pm="."><plain>Mean effective dose of <z:chebi fb="3" ids="16335">adenosine</z:chebi> was 185.3 + 81.0 μg/kg with median effective dose of 200 μg/kg </plain></SENT>
+<SENT sid="15" pm="."><plain>Significantly higher dose of <z:chebi fb="3" ids="16335">adenosine</z:chebi> was required in children with underlying pre-excitation, n = 18/97 (220.8 + 67.6 μg/kg vs. 177.2 + 81.9 μg/kg, p = 0.039) </plain></SENT>
+<SENT sid="16" pm="."><plain>CONCLUSION: <z:chebi fb="3" ids="16335">Adenosine</z:chebi> is an effective medicine in treating <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">SVT</z:e> in children </plain></SENT>
+<SENT sid="17" pm="."><plain>A higher dose of 200 μg/kg may be used as first bolus particularly in children with pre-excitation </plain></SENT>
+</text></document>

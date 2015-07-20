@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:e sem="disease" ids="C0024796" disease_type="Disease or Syndrome" abbrv="MFS|MFS1">Marfan syndrome</z:e> is a dominantly inherited <z:e sem="disease" ids="C0009782" disease_type="Disease or Syndrome" abbrv="">connective tissue disease</z:e> characterized by cardiovascular, skeletal and ocular manifestations, which was firstly described by Antoine Marfan in 1896 </plain></SENT>
+<SENT sid="1" pm="."><plain>The underlying disorder is a mutation, which impairs fibrillin synthesis and is associated with the FBN-1 gene on the 15th chromosome </plain></SENT>
+<SENT sid="2" pm="."><plain>Ghent Nosology is used for diagnosis </plain></SENT>
+<SENT sid="3" pm="."><plain>The progressive <z:mpath ids='MPATH_66'>dilatation</z:mpath> of the proximal aorta leading to dissection and rupture is the typical feature of the disease </plain></SENT>
+<SENT sid="4" pm="."><plain><z:hpo ids='HP_0004942'>Aortic aneurysm</z:hpo> and <z:e sem="disease" ids="C0003496" disease_type="Disease or Syndrome" abbrv="">aortic rupture</z:e> are the lethal complications of the disorder </plain></SENT>
+<SENT sid="5" pm="."><plain>Increased life expectancy depends on the control and the prevention of the cardiovascular complications </plain></SENT>
+<SENT sid="6" pm="."><plain>The most frequent cardiovascular manifestation is the mitral valve involvement </plain></SENT>
+<SENT sid="7" pm="."><plain>The principal pathologic findings on the mitral valve are annular <z:mpath ids='MPATH_66'>dilatation</z:mpath>, fibromyxomatous changes of the leaflets and chordae, elongation and rupture of chordae and deposition of calcium </plain></SENT>
+<SENT sid="8" pm="."><plain>Prolapsus occurs in 80% of the cases </plain></SENT>
+<SENT sid="9" pm="."><plain>Elective surgery with optimal timing is associated with increased survival </plain></SENT>
+<SENT sid="10" pm="."><plain>In the follow-up of patients after surgery for <z:hpo ids='HP_0004942'>aortic aneurysm</z:hpo> and dissection, serial imaging studies in order to detect a new <z:hpo ids='HP_0003674'>onset</z:hpo> <z:hpo ids='HP_0002617'>aneurysm</z:hpo> or dissection on different sites of the aorta are essential </plain></SENT>
+</text></document>

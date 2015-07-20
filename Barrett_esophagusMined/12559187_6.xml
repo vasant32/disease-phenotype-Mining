@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Helicobacter pylori may protect against the development of <z:mpath ids='MPATH_589'>dysplasia</z:mpath> in Barrett's epithelium of patients with <z:hpo ids='HP_0002020'>gastroesophageal reflux disease</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>The aim of this study was to determine whether H. pylori preferentially induces <z:mpath ids='MPATH_3'>apoptosis</z:mpath> in Barrett's-derived <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> cells compared to <z:mpath ids='MPATH_458'>normal</z:mpath> cells </plain></SENT>
+<SENT sid="2" pm="."><plain>A Barrett's-derived <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> cell line (OE33) was grown </plain></SENT>
+<SENT sid="3" pm="."><plain>H. pylori <z:mp ids='MP_0002169'>wild-type</z:mp>, isogenic vacA-, cagA(-), and picB-/cagE- mutant strains were grown on agar plates </plain></SENT>
+<SENT sid="4" pm="."><plain>Intact or sonicated bacteria were used to treat <z:mpath ids='MPATH_458'>normal</z:mpath> and OE33 cells for 24 hours, and Hoechst dye binding was performed to measure <z:mpath ids='MPATH_3'>apoptosis</z:mpath> </plain></SENT>
+<SENT sid="5" pm="."><plain>FAS protein expression was determined by Western immunoblotting </plain></SENT>
+<SENT sid="6" pm="."><plain>OE33 cells treated with intact H. pylori <z:mp ids='MP_0002169'>wild-type</z:mp> strains produced significant (P &lt; 0.05) dose-dependent increases in <z:mpath ids='MPATH_3'>apoptosis</z:mpath> compared to <z:mpath ids='MPATH_458'>normal</z:mpath> esophageal cells </plain></SENT>
+<SENT sid="7" pm="."><plain>H. pylori <z:mp ids='MP_0002169'>wild-type</z:mp> and vacA- isogenic strains were more effective than cagA- and picB-/cage- isogenic strains in inducing <z:mpath ids='MPATH_3'>apoptosis</z:mpath> in OE33 cells </plain></SENT>
+<SENT sid="8" pm="."><plain>In OE33 cells, H. pylori sonicates produced lower levels of <z:mpath ids='MPATH_3'>apoptosis</z:mpath> than intact bacteria </plain></SENT>
+<SENT sid="9" pm="."><plain><z:mp ids='MP_0002169'>Wild-type</z:mp> H. pylori strains increased Fas protein expression in OE33 cells at 18 hours </plain></SENT>
+<SENT sid="10" pm="."><plain>H. pylori induced <z:mpath ids='MPATH_3'>apoptosis</z:mpath> at a higher rate in the Barrett's-derived human esophageal <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> cells than in <z:mpath ids='MPATH_458'>normal</z:mpath> esophageal cells </plain></SENT>
+<SENT sid="11" pm="."><plain>The H. pylori-induced <z:mpath ids='MPATH_3'>apoptosis</z:mpath> was primarily dependent on intact bacteria and the presence of the cagA and picB/cagE gene products </plain></SENT>
+<SENT sid="12" pm="."><plain>H. pylori-induced <z:mpath ids='MPATH_3'>apoptosis</z:mpath> may involve the Fas-caspase cascade </plain></SENT>
+</text></document>

@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Ambient particulate matter (PM) can increase the incidence of <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>However, the arrhythmogenic mechanism of PM is poorly understood </plain></SENT>
+<SENT sid="2" pm="."><plain>This study investigated the arrhythmogenic mechanism of PM </plain></SENT>
+<SENT sid="3" pm="."><plain>In Sprague-Dawley rats, QT interval was increased from 115.0±14.0 to 142.1±18.4ms (p=0.02) after endotracheal exposure of DEP (200μg/ml for 30min, n=5) </plain></SENT>
+<SENT sid="4" pm="."><plain><z:mp ids='MP_0009732'>Ventricular premature contractions</z:mp> were more frequently observed after DEP exposure (100%) than baseline (20%, p=0.04) </plain></SENT>
+<SENT sid="5" pm="."><plain>These effects were prevented by pretreatment of <z:chebi fb="0" ids="28939">N-acetylcysteine</z:chebi> (NAC, 5mmol/L, n=3) </plain></SENT>
+<SENT sid="6" pm="."><plain>In 12 Langendorff-perfused rat hearts, DEP infusion of 12.5μg/ml for 20min prolonged action potential duration (APD) at only left ventricular base increasing apicobasal repolarization gradients </plain></SENT>
+<SENT sid="7" pm="."><plain>Spontaneous early afterdepolarization (EAD) and <z:hpo ids='HP_0004756'>ventricular tachycardia</z:hpo> (VT) were observed in 8 (67%) and 6 (50%) hearts, respectively, versus no spontaneous triggered activity or VT in any hearts before DEP infusion </plain></SENT>
+<SENT sid="8" pm="."><plain>DEP-induced APD prolongation, EAD and VT were successfully prevented with NAC (5mmol/L, n=5), <z:chebi fb="1" ids="7565">nifedipine</z:chebi> (10μmol/L, n=5), and active Ca(2+)/calmodulin-dependent protein kinase II (CaMKII) blockade, KN 93 (1μmol/L, n=5), but not by thapsigargin (200nmol/L) plus <z:chebi fb="0" ids="8925">ryanodine</z:chebi> (10μmol/L, n=5) and inactive CaMKII blockade, KN 92 (1μmol/L, n=5) </plain></SENT>
+<SENT sid="9" pm="."><plain>In neonatal rat cardiomyocytes, DEP provoked ROS generation in dose dependant manner </plain></SENT>
+<SENT sid="10" pm="."><plain>DEP (12.5μg/ml) induced <z:mpath ids='MPATH_3'>apoptosis</z:mpath>, and this effect was prevented by NAC and KN 93 </plain></SENT>
+<SENT sid="11" pm="."><plain>Thus, this study shows that in vivo and vitro exposure of PM induced APD prolongation, EAD and <z:hpo ids='HP_0004308'>ventricular arrhythmia</z:hpo> </plain></SENT>
+<SENT sid="12" pm="."><plain>These effects might be caused by <z:mp ids='MP_0003674'>oxidative stress</z:mp> and CaMKII activation </plain></SENT>
+</text></document>

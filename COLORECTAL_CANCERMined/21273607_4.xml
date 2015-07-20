@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIM: This study was designed to determine the efficacy and tolerability of <z:chebi fb="0" ids="31348">capecitabine</z:chebi>, <z:chebi fb="0" ids="31941">oxaliplatin</z:chebi> and bevacizumab in combination with cetuximab as first-line therapy for advanced <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>PATIENTS AND METHODS: Patients with previously untreated advanced <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> received <z:chebi fb="0" ids="31941">oxaliplatin</z:chebi> 130 mg/m² and bevacizumab 7.5 mg/kg every three weeks, <z:chebi fb="0" ids="31348">capecitabine</z:chebi> 850 mg/m² twice daily on days 1-14, and cetuximab at 400 mg/m² load and 250 mg/m² weekly </plain></SENT>
+<SENT sid="2" pm="."><plain>KRAS, BRAF and PI3K mutation status from paraffin-embedded <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> samples were assessed using real-time polymerase chain reaction </plain></SENT>
+<SENT sid="3" pm="."><plain>RESULTS: Thirty patients were evaluable for safety and efficacy </plain></SENT>
+<SENT sid="4" pm="."><plain>One patient had a complete response and 12 patients had a partial response, giving an overall response rate of 43% (95% confidence interval (CI) 25%-63%) </plain></SENT>
+<SENT sid="5" pm="."><plain>Fifteen patients had stable disease </plain></SENT>
+<SENT sid="6" pm="."><plain>The median time to progression was 10.3 months (95% CI, 6.8-16.3 months) </plain></SENT>
+<SENT sid="7" pm="."><plain>The median overall survival was 18.8 months (95% CI, 14.2-23.7 months) </plain></SENT>
+<SENT sid="8" pm="."><plain>Common grade ≥ 3 non-hematological toxicities were <z:hpo ids='HP_0000988'>skin rash</z:hpo> (37%), <z:hpo ids='HP_0000763'>sensory neuropathy</z:hpo> (27%) and <z:hpo ids='HP_0002014'>diarrhea</z:hpo> (17%) </plain></SENT>
+<SENT sid="9" pm="."><plain>Grade ≥ 3 hematological toxicities were uncommon </plain></SENT>
+<SENT sid="10" pm="."><plain>Mutations in KRAS, BRAF and PI3K occurred in 34.5%, 10.3% and 10.3% of patients respectively, but did not correlate with treatment outcome </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSION: The addition of cetuximab to <z:chebi fb="0" ids="31348">capecitabine</z:chebi>, <z:chebi fb="0" ids="31941">oxaliplatin</z:chebi> and bevacizumab did not improve the three-drug regimen activity compared to published data and was associated with significant toxicities requiring frequent dose modifications </plain></SENT>
+<SENT sid="12" pm="."><plain>KRAS, BRAF, and PI3K mutation status were consistent with published literature, but did not affect outcome in this small study </plain></SENT>
+</text></document>

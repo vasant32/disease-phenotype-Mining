@@ -1,0 +1,6 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0001513'>Obesity</z:hpo> has been shown to increase lumbar CSF pressure in healthy subjects </plain></SENT>
+<SENT sid="1" pm="."><plain>The authors studied lumbar CSF opening pressure in 18 <z:mp ids='MP_0001261'>obese</z:mp>, 33 overweight, and 49 nonoverweight subjects with <z:mpath ids='MPATH_458'>normal</z:mpath> MRI and <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e> venography (MRV) of the brain </plain></SENT>
+<SENT sid="2" pm="."><plain>No subject had a CSF pressure above 200 mm <z:chebi fb="2" ids="29375,33813">H2O</z:chebi> </plain></SENT>
+<SENT sid="3" pm="."><plain><z:hpo ids='HP_0001513'>Obesity</z:hpo> does not cause abnormal CSF pressure in subjects with <z:mpath ids='MPATH_458'>normal</z:mpath> MRV </plain></SENT>
+<SENT sid="4" pm="."><plain>Individuals with a CSF pressure higher than 200 mm <z:chebi fb="2" ids="29375,33813">H2O</z:chebi> should undergo MRV to exclude <z:hpo ids='HP_0005305'>cerebral venous thrombosis</z:hpo> </plain></SENT>
+</text></document>

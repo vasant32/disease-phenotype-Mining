@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Insulin is stored in pancreatic beta-cells in beta-granules </plain></SENT>
+<SENT sid="1" pm="."><plain>Whenever insulin is secreted in response to a nutrient secretagogue, there is a complementary increase in proinsulin biosynthesis to replenish intracellular insulin stores </plain></SENT>
+<SENT sid="2" pm="."><plain>This specific nutrient regulation of proinsulin biosynthesis is predominately regulated at the translational level </plain></SENT>
+<SENT sid="3" pm="."><plain>Recently, a highly conserved cis-element in the 5'-untranslated region (UTR) of preproinsulin <z:chebi fb="2" ids="33699">mRNA</z:chebi>, named ppIGE, has been identified that is required for specific translational regulation of proinsulin biosynthesis </plain></SENT>
+<SENT sid="4" pm="."><plain>This ppIGE is also found in the 5'-UTR of certain other translationally regulated beta-granule protein <z:chebi fb="2" ids="33699">mRNAs</z:chebi>, including the proinsulin processing endopeptidases, PC1/3 and PC2 </plain></SENT>
+<SENT sid="5" pm="."><plain>This provides a mechanism whereby proinsulin processing is adaptable to changes in proinsulin biosynthesis </plain></SENT>
+<SENT sid="6" pm="."><plain>However, relatively few beta-granules undergo secretion, with most remaining in the storage pool for approximately 5 days </plain></SENT>
+<SENT sid="7" pm="."><plain>Aged beta-granules are retired by intracellular degradation mechanisms, either via crinophagy and/or autophagy, as another long-term means of maintaining beta-granule stores at optimal levels </plain></SENT>
+<SENT sid="8" pm="."><plain>When a disconnection between insulin production and secretion arises, as may occur in type 2 <z:mp ids='MP_0002055'>diabetes</z:mp>, autophagy further increases to maintain beta-granule numbers </plain></SENT>
+<SENT sid="9" pm="."><plain>However, if this increased autophagy becomes <z:hpo ids='HP_0011010'>chronic</z:hpo>, autophagia-mediated cell <z:hpo ids='HP_0011420'>death</z:hpo> occurs that could then contribute to beta-cell loss in type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+</text></document>

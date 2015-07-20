@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: Determining which small deep <z:mpath ids='MPATH_124'>infarcts</z:mpath> (SDIs) are of lacunar, arterial, or cardioembolic etiology is challenging, but important in delivering optimal <z:hpo ids='HP_0001297'>stroke</z:hpo> prevention therapy </plain></SENT>
+<SENT sid="1" pm="."><plain>We sought to distinguish lacunar from nonlacunar causes of SDIs using a gene expression profile </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: A total of 184 <z:hpo ids='HP_0002140'>ischemic strokes</z:hpo> were analyzed </plain></SENT>
+<SENT sid="3" pm="."><plain>Lacunar <z:hpo ids='HP_0001297'>stroke</z:hpo> was defined as a lacunar syndrome with infarction &lt;15mm in a region supplied by penetrating arteries </plain></SENT>
+<SENT sid="4" pm="."><plain><z:chebi fb="40" ids="33697">RNA</z:chebi> from blood was processed on whole genome microarrays </plain></SENT>
+<SENT sid="5" pm="."><plain>Genes differentially expressed between lacunar (n = 30) and nonlacunar <z:hpo ids='HP_0001297'>strokes</z:hpo> (n = 86) were identified (false discovery rate ≤ 0.05, fold change &gt;|1.5|) and used to develop a prediction model </plain></SENT>
+<SENT sid="6" pm="."><plain>The model was evaluated by cross-validation and in a second test cohort (n = 36) </plain></SENT>
+<SENT sid="7" pm="."><plain>The etiology of SDIs of unclear cause (SDIs ≥ 15mm or SDIs with potential embolic source) (n = 32) was predicted using the derived model </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: A 41-gene profile discriminated lacunar from nonlacunar <z:hpo ids='HP_0001297'>stroke</z:hpo> with &gt;90% sensitivity and specificity </plain></SENT>
+<SENT sid="9" pm="."><plain>Of the 32 SDIs of unclear cause, 15 were predicted to be lacunar, and 17 were predicted to be nonlacunar </plain></SENT>
+<SENT sid="10" pm="."><plain>The identified profile represents differences in immune response between lacunar and nonlacunar <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+<SENT sid="11" pm="."><plain>INTERPRETATION: Profiles of differentially expressed genes can distinguish lacunar from nonlacunar <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+<SENT sid="12" pm="."><plain>SDIs of unclear cause were frequently predicted to be of nonlacunar etiology, suggesting that comprehensive workup of SDIs is important to identify potential cardioembolic and arterial causes </plain></SENT>
+<SENT sid="13" pm="."><plain>Further study is required to evaluate the gene profile in an independent cohort and determine the clinical and treatment implications of SDIs of predicted nonlacunar etiology </plain></SENT>
+</text></document>

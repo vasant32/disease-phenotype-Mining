@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The clinical utility of endoscopic ultrasound (EUS) for staging patients with <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> and high-grade <z:mpath ids='MPATH_589'>dysplasia</z:mpath> (HGD) or intramucosal <z:mp ids='MP_0002038'>carcinoma</z:mp> (IMC) prior to endoscopic therapy is unclear </plain></SENT>
+<SENT sid="1" pm="."><plain>We performed a retrospective analysis of patients with HGD or IMC referred to an American medical center for endoscopic treatment between 2004 and 2010 </plain></SENT>
+<SENT sid="2" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> patients had pretreatment staging by EUS </plain></SENT>
+<SENT sid="3" pm="."><plain>We examined the frequency that EUS findings consistent with advanced disease (<z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> invasion into the submucosa, lymph node involvement, or regional <z:e sem="disease" ids="C0027627" disease_type="Neoplastic Process" abbrv="mets">metastasis</z:e>) led to a change in management </plain></SENT>
+<SENT sid="4" pm="."><plain>The analysis was stratified by nodularity and pre-EUS histology </plain></SENT>
+<SENT sid="5" pm="."><plain>We identified one hundred thirty-five patients with HGD (n = 106, 79%) or IMC (n = 29, 21%) had staging by EUS (79 non-nodular, 56 nodular) </plain></SENT>
+<SENT sid="6" pm="."><plain>Pathologic lymph nodes or <z:e sem="disease" ids="C0027627" disease_type="Neoplastic Process" abbrv="mets">metastases</z:e> were not found by EUS </plain></SENT>
+<SENT sid="7" pm="."><plain>There were no endosonographic abnormalities noted in any patient with non-nodular mucosa (0/79) </plain></SENT>
+<SENT sid="8" pm="."><plain>Abnormal EUS findings were present in 8/56 patients (14%) with nodular <z:hpo ids='HP_0002664'>neoplasia</z:hpo> (five IMC, three HGD) </plain></SENT>
+<SENT sid="9" pm="."><plain>Endoscopic mucosal resection was performed in 44 patients with a nodule, with 13% (6/44) having <z:e sem="disease" ids="C0677898" disease_type="Neoplastic Process" abbrv="">invasive cancer</z:e> </plain></SENT>
+<SENT sid="10" pm="."><plain>In nodular <z:hpo ids='HP_0002664'>neoplasia</z:hpo>, the EUS and endoscopic mucosal resection were abnormal in 24% (5/21) and 40% (6/15) of those with IMC and 9% (3/35) and 0% (0/29) of those with HGD, respectively </plain></SENT>
+<SENT sid="11" pm="."><plain>In this study we found that EUS did not alter management in patients with non-nodular HGD or IMC </plain></SENT>
+<SENT sid="12" pm="."><plain>Because the diagnostic utility of EUS in subjects with non-nodular <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> is low, the value of performing endoscopic mucosal resection in this setting is questionable </plain></SENT>
+<SENT sid="13" pm="."><plain>For patients with nodular <z:hpo ids='HP_0002664'>neoplasia</z:hpo>, resection of the nodule with histological examination had greater utility than staging by EUS </plain></SENT>
+</text></document>

@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Tetramethylpyrazine (<z:chebi fb="5" ids="46324,9533">TMP</z:chebi>), an ingredient of Chinese herbal Szechwan lovage rhizome, shows vasorelaxant effect </plain></SENT>
+<SENT sid="1" pm="."><plain><z:e sem="disease" ids="C0265110" disease_type="Disease or Syndrome" abbrv="">Cerebral vasospasm</z:e> (CVS) after <z:hpo ids='HP_0002138'>subarachnoid hemorrhage</z:hpo> (SAH) is associated with high mortality and morbidity </plain></SENT>
+<SENT sid="2" pm="."><plain>Here, we evaluated the effect of <z:chebi fb="5" ids="46324,9533">TMP</z:chebi> in a model of CVS and sought to identify the underlying mechanisms of action </plain></SENT>
+<SENT sid="3" pm="."><plain>A rabbit SAH model was established by injection of the autoblood via cisterna magna </plain></SENT>
+<SENT sid="4" pm="."><plain>Cerebral blood flow and arterial diameter were measured by Transcranial Doppler (TCD) and Computed Tomography Angiography (CTA) </plain></SENT>
+<SENT sid="5" pm="."><plain>Expression of eNOS and PDE-V in basilar artery (BA) was assessed by western blots </plain></SENT>
+<SENT sid="6" pm="."><plain>Levels of nitric <z:chebi fb="177" ids="25741,29356">oxide</z:chebi> (NO) in plasma and cerebral spinal fluid, and of intra-endothelium Ca(2+) were measured </plain></SENT>
+<SENT sid="7" pm="."><plain>Significantly reduced diameter and accelerated blood flow velocity were detected in BAs of SAH animals (P&lt;0.05 vs. sham group) </plain></SENT>
+<SENT sid="8" pm="."><plain>Expression of eNOS and NO was increased, and PDE-V expression was reduced by <z:chebi fb="5" ids="46324,9533">TMP</z:chebi>.<z:chebi fb="5" ids="46324,9533">TMP</z:chebi> ameliorated <z:e sem="disease" ids="C0265110" disease_type="Disease or Syndrome" abbrv="">cerebral vasospasm</z:e> (P&lt;0.05 vs. SAH group), and L-<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">NAME</z:e> (a NOS inhibitor) partly abrogated the effects of <z:chebi fb="5" ids="46324,9533">TMP</z:chebi> </plain></SENT>
+<SENT sid="9" pm="."><plain><z:chebi fb="5" ids="46324,9533">TMP</z:chebi> induced a dose-dependent increase of intra-endothelium Ca(2+) </plain></SENT>
+<SENT sid="10" pm="."><plain>The current results demonstrated that the vasorelaxant effect of <z:chebi fb="5" ids="46324,9533">TMP</z:chebi> was at least in part via regulation of NO/cGMP signaling </plain></SENT>
+</text></document>

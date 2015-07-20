@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Albumin and IgG were determined in serum and cerebrospinal fluid (CSF) of patients with early-<z:hpo ids='HP_0003674'>onset</z:hpo> <z:e sem="disease" ids="C0002395" disease_type="Disease or Syndrome" abbrv="SDAT">Alzheimer's disease</z:e> (AD, n </plain></SENT>
+<SENT sid="1" pm="."><plain>13), senile <z:hpo ids='HP_0000726'>dementia</z:hpo> of Alzheimer type (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">SDAT</z:e>, n </plain></SENT>
+<SENT sid="2" pm="."><plain>33), vascular <z:hpo ids='HP_0000726'>dementia</z:hpo> divided into multi-<z:mpath ids='MPATH_124'>infarct</z:mpath> (MID, n </plain></SENT>
+<SENT sid="3" pm="."><plain>9) and probable vascular (PVD, n </plain></SENT>
+<SENT sid="4" pm="."><plain>11) <z:hpo ids='HP_0000726'>dementia</z:hpo> </plain></SENT>
+<SENT sid="5" pm="."><plain>Albumin and IgG ratio and IgG index were calculated </plain></SENT>
+<SENT sid="6" pm="."><plain>CSF albumin and albumin ratio were significantly higher in MID patients indicating an increased <z:chebi fb="2" ids="33602">BBB</z:chebi> permeability </plain></SENT>
+<SENT sid="7" pm="."><plain>IgG ratio and IgG index did not show any significant difference among groups </plain></SENT>
+<SENT sid="8" pm="."><plain>These results do not provide evidence for <z:chebi fb="2" ids="33602">BBB</z:chebi> damage in AD/<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">SDAT</z:e>, while in MID the increase of CSF albumin and albumin ratio is suggestive of <z:chebi fb="2" ids="33602">BBB</z:chebi> dysfunction </plain></SENT>
+</text></document>

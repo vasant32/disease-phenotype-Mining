@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:e sem="disease" ids="C0033845" disease_type="Disease or Syndrome" abbrv="">Pseudotumor cerebri</z:e> is a condition characterized by <z:hpo ids='HP_0002516'>increased intracranial pressure</z:hpo> with <z:mpath ids='MPATH_458'>normal</z:mpath> cerebrospinal fluid composition </plain></SENT>
+<SENT sid="1" pm="."><plain>It is usually associated with many medical conditions and drugs </plain></SENT>
+<SENT sid="2" pm="."><plain>It has been reported that <z:hpo ids='HP_0000001'>all</z:hpo>-trans-<z:chebi fb="2" ids="26536">retinoic acid</z:chebi> can induce <z:e sem="disease" ids="C0033845" disease_type="Disease or Syndrome" abbrv="">pseudotumor cerebri</z:e> </plain></SENT>
+<SENT sid="3" pm="."><plain>The authors report a 35-year-old patient diagnosed with <z:hpo ids='HP_0004836'>acute promyelocytic leukemia</z:hpo> who developed <z:e sem="disease" ids="C0033845" disease_type="Disease or Syndrome" abbrv="">pseudotumor cerebri</z:e> after receiving <z:hpo ids='HP_0000001'>all</z:hpo>-trans-<z:chebi fb="2" ids="26536">retinoic acid</z:chebi> </plain></SENT>
+<SENT sid="4" pm="."><plain>The patient was treated with 60 mg/day of <z:hpo ids='HP_0000001'>all</z:hpo>-trans-<z:chebi fb="2" ids="26536">retinoic acid</z:chebi> </plain></SENT>
+<SENT sid="5" pm="."><plain>Two weeks later, she had severe <z:hpo ids='HP_0002315'>headache</z:hpo> and <z:hpo ids='HP_0000622'>blurred vision</z:hpo> </plain></SENT>
+<SENT sid="6" pm="."><plain>The neurological examination revealed <z:hpo ids='HP_0001085'>papilledema</z:hpo> and <z:hpo ids='HP_0000505'>decreased visual acuity</z:hpo> </plain></SENT>
+<SENT sid="7" pm="."><plain>Other physical examinations were unremarkable </plain></SENT>
+<SENT sid="8" pm="."><plain>Brain CT was <z:mpath ids='MPATH_458'>normal</z:mpath> </plain></SENT>
+<SENT sid="9" pm="."><plain>Additionally, lumbar puncture was performed and the CSF finding was <z:mpath ids='MPATH_458'>normal</z:mpath> except for high CSF pressure </plain></SENT>
+<SENT sid="10" pm="."><plain>According to modified Dandy criteria, the diagnosis was <z:e sem="disease" ids="C0033845" disease_type="Disease or Syndrome" abbrv="">pseudotumor cerebri</z:e> </plain></SENT>
+<SENT sid="11" pm="."><plain>The patient's symptoms disappeared after <z:hpo ids='HP_0000001'>all</z:hpo>-trans-<z:chebi fb="2" ids="26536">retinoic acid</z:chebi> was discontinued </plain></SENT>
+<SENT sid="12" pm="."><plain>To our knowledge, this is the first case report in Thailand </plain></SENT>
+</text></document>

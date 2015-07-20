@@ -1,0 +1,20 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: To explore the feasibility of producing small-area geospatial maps of <z:hpo ids='HP_0011010'>chronic</z:hpo> disease risk for use by clinical commissioning groups and public health teams </plain></SENT>
+<SENT sid="1" pm="."><plain>STUDY DESIGN: Cross-sectional geospatial analysis using routinely collected general practitioner electronic record data </plain></SENT>
+<SENT sid="2" pm="."><plain>SAMPLE AND SETTING: Tower Hamlets, an inner-city district of London, UK, characterised by high socioeconomic and ethnic diversity and high prevalence of non-<z:e sem="disease" ids="C0009450" disease_type="Disease or Syndrome" abbrv="">communicable diseases</z:e> </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: The authors used type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> as an example </plain></SENT>
+<SENT sid="4" pm="."><plain>The data set was drawn from electronic general practice records on <z:hpo ids='HP_0000001'>all</z:hpo> non-diabetic individuals aged 25-79 years in the district (n=163 275) </plain></SENT>
+<SENT sid="5" pm="."><plain>The authors used a validated instrument, QDScore, to calculate 10-year risk of developing type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="6" pm="."><plain>Using specialist mapping software (ArcGIS), the authors produced visualisations of how these data varied by lower and middle super output area across the district </plain></SENT>
+<SENT sid="7" pm="."><plain>The authors enhanced these maps with information on examples of locality-based social determinants of health (population density, fast food outlets and green spaces) </plain></SENT>
+<SENT sid="8" pm="."><plain>Data were piloted as three types of geospatial map (basic, heat and ring) </plain></SENT>
+<SENT sid="9" pm="."><plain>The authors noted practical, technical and information governance challenges involved in producing the maps </plain></SENT>
+<SENT sid="10" pm="."><plain>RESULTS: Usable data were obtained on 96.2% of <z:hpo ids='HP_0000001'>all</z:hpo> records </plain></SENT>
+<SENT sid="11" pm="."><plain>One in 11 adults in our cohort was at 'high risk' of developing type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> with a 20% or more 10-year risk </plain></SENT>
+<SENT sid="12" pm="."><plain>Small-area geospatial mapping illustrated 'hot spots' where up to 17.3% of <z:hpo ids='HP_0000001'>all</z:hpo> adults were at high risk of developing type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="13" pm="."><plain>Ring maps allowed visualisation of high risk for type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> by locality alongside putative social determinants in the same locality </plain></SENT>
+<SENT sid="14" pm="."><plain>The task of downloading, cleaning and mapping data from electronic general practice records posed some technical challenges, and judgement was required to group data at an appropriate geographical level </plain></SENT>
+<SENT sid="15" pm="."><plain>Information governance issues were time consuming and required local and national consultation and agreement </plain></SENT>
+<SENT sid="16" pm="."><plain>CONCLUSIONS: Producing small-area geospatial maps of <z:mp ids='MP_0002055'>diabetes</z:mp> risk calculated from general practice electronic record data across a district-wide population was feasible but not straightforward </plain></SENT>
+<SENT sid="17" pm="."><plain>Geovisualisation of epidemiological and environmental data, made possible by interdisciplinary links between public health clinicians and human geographers, allows presentation of findings in a way that is both accessible and engaging, hence potentially of value to commissioners and policymakers </plain></SENT>
+<SENT sid="18" pm="."><plain>Impact studies are needed of how maps of <z:hpo ids='HP_0011010'>chronic</z:hpo> disease risk might be used in public health and urban planning </plain></SENT>
+</text></document>

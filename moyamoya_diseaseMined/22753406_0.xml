@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>More than 30 mutations in ACTA2, which encodes α-smooth muscle actin, have been identified to cause <z:hpo ids='HP_0000006'>autosomal dominant</z:hpo> thoracic <z:hpo ids='HP_0004942'>aortic aneurysm</z:hpo> and dissection </plain></SENT>
+<SENT sid="1" pm="."><plain>The mutation R256H is of particular interest because it also causes <z:hpo ids='HP_0001643'>patent ductus arteriosus</z:hpo> and <z:e sem="disease" ids="C0026654" disease_type="Disease or Syndrome" abbrv="MYMY|MYMY1">moyamoya disease</z:e> </plain></SENT>
+<SENT sid="2" pm="."><plain>R256H is one of the more prevalent mutations and, based on its molecular location near the strand-strand interface in the actin filament, may affect F-actin stability </plain></SENT>
+<SENT sid="3" pm="."><plain>To understand the molecular ramifications of the R256H mutation, we generated Saccharomyces cerevisiae yeast cells expressing only R256H yeast actin as a model system </plain></SENT>
+<SENT sid="4" pm="."><plain>These cells displayed abnormal cytoskeletal <z:mp ids='MP_0000002'>morphology</z:mp> and increased sensitivity to latrunculin A </plain></SENT>
+<SENT sid="5" pm="."><plain>After cable disassembly induced by transient exposure to latrunculin A, mutant cells were delayed in reestablishing the actin cytoskeleton </plain></SENT>
+<SENT sid="6" pm="."><plain>In vitro, mutant actin exhibited a higher than <z:mpath ids='MPATH_458'>normal</z:mpath> critical concentration and a delayed nucleation </plain></SENT>
+<SENT sid="7" pm="."><plain>Consequently, we investigated regulation of mutant actin by formin, a potent facilitator of nucleation and a protein needed for <z:mpath ids='MPATH_458'>normal</z:mpath> vascular smooth muscle cell development </plain></SENT>
+<SENT sid="8" pm="."><plain>Mutant actin polymerization was inhibited by the FH1-<z:chebi fb="0" ids="50314">FH2</z:chebi> fragment of the yeast formin, Bni1 </plain></SENT>
+<SENT sid="9" pm="."><plain>This fragment strongly capped the filament rather than facilitating polymerization </plain></SENT>
+<SENT sid="10" pm="."><plain>Interestingly, <z:chebi fb="0" ids="8040">phalloidin</z:chebi> or the presence of <z:mp ids='MP_0002169'>wild type</z:mp> actin reversed the strong capping behavior of Bni1 </plain></SENT>
+<SENT sid="11" pm="."><plain>Together, the data suggest that the R256H actin mutation alters filament conformation resulting in filament instability and misregulation by formin </plain></SENT>
+<SENT sid="12" pm="."><plain>These biochemical effects may contribute to abnormal histology identified in diseased arterial samples from affected patients </plain></SENT>
+</text></document>

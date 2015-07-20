@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0001649'>Tachycardia</z:hpo>-induced <z:hpo ids='HP_0001638'>cardiomyopathy</z:hpo> (TIC) is an important cause of <z:hpo ids='HP_0001635'>heart failure</z:hpo> as it is potentially reversible after ventricular rate control </plain></SENT>
+<SENT sid="1" pm="."><plain>A 66-year-old hypertensive woman presented with a 15-day history of <z:hpo ids='HP_0001649'>tachycardia</z:hpo>, dyspnoea and <z:hpo ids='HP_0000969'>oedema</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>ECG revealed <z:hpo ids='HP_0005110'>atrial fibrillation</z:hpo> with ventricular frequency of 130 beats per minute (bpm) </plain></SENT>
+<SENT sid="3" pm="."><plain>Echocardiogram showed <z:mp ids='MP_0002753'>dilated left ventricle</z:mp> (LV) with 0.39 ejection fraction </plain></SENT>
+<SENT sid="4" pm="."><plain>Angiography revealed non-obstructed coronary arteries </plain></SENT>
+<SENT sid="5" pm="."><plain>Heart rate and <z:hpo ids='HP_0001635'>cardiac failure</z:hpo> were controlled with <z:chebi fb="0" ids="2663">amiodarone</z:chebi>, digoxine, <z:chebi fb="0" ids="3380">captopril</z:chebi>, <z:chebi fb="0" ids="6904">metoprolol</z:chebi> and <z:chebi fb="0" ids="47426">furosemide</z:chebi> </plain></SENT>
+<SENT sid="6" pm="."><plain>During follow-up, despite drug dose optimisation, the patient kept complaining of <z:hpo ids='HP_0001649'>tachycardia</z:hpo> and dyspnoea with a ventricular rate between 108 and 120&amp;emsp14;bpm </plain></SENT>
+<SENT sid="7" pm="."><plain>Medical staff suspected she was not taking her medicines properly </plain></SENT>
+<SENT sid="8" pm="."><plain>Two months later, the patient was asymptomatic and had converted to sinus rhythm (heart rate of 76&amp;emsp14;bpm) </plain></SENT>
+<SENT sid="9" pm="."><plain>Echocardiogram showed <z:mpath ids='MPATH_458'>normal</z:mpath> LV size and function </plain></SENT>
+<SENT sid="10" pm="."><plain>Patient's diagnosis was TIC </plain></SENT>
+<SENT sid="11" pm="."><plain>Although rare, TIC should be considered in <z:hpo ids='HP_0000001'>all</z:hpo> cases of systolic dysfunction associated with tachyarrhythmia </plain></SENT>
+</text></document>

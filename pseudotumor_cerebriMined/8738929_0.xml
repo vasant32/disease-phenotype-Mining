@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: <z:hpo ids='HP_0002516'>Increased intracranial pressure</z:hpo> with <z:hpo ids='HP_0001298'>encephalopathy</z:hpo> has rarely been reported in <z:hpo ids='HP_0008207'>Addison's disease</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>METHOD: Case Study </plain></SENT>
+<SENT sid="2" pm="."><plain>RESULTS: A 16-year-old female who presented with <z:hpo ids='HP_0002181'>cerebral edema</z:hpo> of unknown etiology was eventually diagnosed as having <z:hpo ids='HP_0008207'>Addison's disease</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>She had early morning <z:hpo ids='HP_0002315'>headaches</z:hpo>, fatiguability, <z:hpo ids='HP_0002014'>diarrhea</z:hpo> and deterioration in school performance </plain></SENT>
+<SENT sid="4" pm="."><plain>She was <z:e sem="disease" ids="C0857122" disease_type="Disease or Syndrome" abbrv="">hyponatremic</z:e> with a serum <z:chebi fb="199" ids="26708">sodium</z:chebi> of 128 mmol/L and hyperkalemic with a serum <z:chebi fb="120" ids="26216">potassium</z:chebi> of 5.9 mmol/L </plain></SENT>
+<SENT sid="5" pm="."><plain>She had a low serum osmolality (264 mosm), high urine osmolality (533 mosm) and high urine <z:chebi fb="199" ids="26708">sodium</z:chebi> (87 mosm) </plain></SENT>
+<SENT sid="6" pm="."><plain>She had a postural drop in blood pressure and diffuse <z:mp ids='MP_0001188'>hyperpigmentation</z:mp> </plain></SENT>
+<SENT sid="7" pm="."><plain>An ACTH stimulation test revealed a low baseline <z:chebi fb="1" ids="17650">cortisol</z:chebi> and no response to ACTH </plain></SENT>
+<SENT sid="8" pm="."><plain>Plasma renin activity was increased </plain></SENT>
+<SENT sid="9" pm="."><plain>Serum ACTH was elevated </plain></SENT>
+<SENT sid="10" pm="."><plain>She responded well to intravenous fluids and solu-cortef and was discharged on <z:chebi fb="2" ids="17650">hydrocortisone</z:chebi> and florinef </plain></SENT>
+<SENT sid="11" pm="."><plain>She remains well 18 months after the <z:hpo ids='HP_0011009'>acute</z:hpo> episode with no neurologic complaints or findings </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSION: <z:hpo ids='HP_0008207'>Addison's Disease</z:hpo> should be considered in the differential diagnosis of symptomatic <z:hpo ids='HP_0002181'>cerebral edema</z:hpo> and idiopathic intracranial <z:hpo ids='HP_0000822'>hypertension</z:hpo> </plain></SENT>
+</text></document>

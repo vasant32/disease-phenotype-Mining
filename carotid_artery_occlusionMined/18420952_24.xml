@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND PURPOSE: Interactions between excitotoxic, inflammatory, and apoptotic pathways determine outcome in hypoxic-ischemic brain damage </plain></SENT>
+<SENT sid="1" pm="."><plain>The transcription factor NF-kappaB has been suggested to enhance brain damage via stimulation of cytokine production </plain></SENT>
+<SENT sid="2" pm="."><plain>There is also evidence that NF-kappaB activity is required for neuronal survival </plain></SENT>
+<SENT sid="3" pm="."><plain>We used the NF-kappaB inhibitor NBD, coupled to TAT to facilitate cerebral uptake, to determine the neuroprotective capacity of NF-kappaB inhibition in neonatal <z:mp ids='MP_0005039'>hypoxia</z:mp>-<z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> (HI) and to identify its contribution to cerebral <z:mp ids='MP_0001845'>inflammation</z:mp> and damage </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS: Brain damage was induced in neonatal rats by unilateral carotid <z:mp ids='MP_0006134'>artery occlusion</z:mp> and <z:mp ids='MP_0005039'>hypoxia</z:mp> and analyzed immunohistochemically; NF-kappaB activity was analyzed by EMSA </plain></SENT>
+<SENT sid="5" pm="."><plain>We analyzed cytokine <z:chebi fb="2" ids="33699">mRNA</z:chebi> levels and activation of apoptotic pathways by Western blotting </plain></SENT>
+<SENT sid="6" pm="."><plain>In vitro effects of TAT-NBD were determined in a neuronal cell line </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: Inhibition of cerebral NF-kappaB activity by TAT-NBD had a significant neuroprotective effect; brain damage was reduced by more than 80% with a therapeutic window of at least 6 hours </plain></SENT>
+<SENT sid="8" pm="."><plain>In contrast to earlier suggestions, the protective effect of TAT-NBD did not involve suppression of early cytokine upregulation after HI </plain></SENT>
+<SENT sid="9" pm="."><plain>Moreover, NF-kappaB inhibition prevented HI-induced upregulation and nuclear as well as <z:hpo ids='HP_0001427'>mitochondrial</z:hpo> accumulation of p53, prevented <z:hpo ids='HP_0001427'>mitochondrial</z:hpo> <z:chebi fb="1" ids="18070">cytochrome-c</z:chebi> release and activation of caspase-3 </plain></SENT>
+<SENT sid="10" pm="."><plain>Finally, TAT-NBD could directly increase neuronal survival because TAT-NBD was sufficient to inhibit <z:hpo ids='HP_0011420'>death</z:hpo> in a neuronal cell line </plain></SENT>
+<SENT sid="11" pm="."><plain>A nonactive mutant <z:chebi fb="7" ids="16670">peptide</z:chebi> did not have any effect </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: Inhibition of NF-kappaB has strong neuroprotective effects that involve downregulation of apoptotic molecules but are independent of inhibition of cytokine production </plain></SENT>
+</text></document>

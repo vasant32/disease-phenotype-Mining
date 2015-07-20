@@ -1,0 +1,18 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Cardiovascular failure in <z:hpo ids='HP_0100806'>sepsis</z:hpo> involves a combination of <z:hpo ids='HP_0011106'>hypovolemia</z:hpo>, decreased vascular tone, myocardial <z:hpo ids='HP_0000716'>depression</z:hpo> and microcirculatory alterations </plain></SENT>
+<SENT sid="1" pm="."><plain>Fluids represent the first line therapeutic intervention, with controversy regarding the type of fluid </plain></SENT>
+<SENT sid="2" pm="."><plain>Recent data indicate that albumin is safe and might even be beneficial in specific subgroups </plain></SENT>
+<SENT sid="3" pm="."><plain>Starches may be an alternative, although concerns exist on potential detrimental effects on renal function of old generation starches </plain></SENT>
+<SENT sid="4" pm="."><plain>Trials testing new generation starches are ongoing </plain></SENT>
+<SENT sid="5" pm="."><plain>When fluids fail to correct <z:hpo ids='HP_0002615'>hypotension</z:hpo>, vasopressor agents are used </plain></SENT>
+<SENT sid="6" pm="."><plain>Various <z:chebi fb="0" ids="37962">adrenergic agents</z:chebi> increase blood pressure, especially <z:chebi fb="40" ids="18243">dopamine</z:chebi>, <z:chebi fb="15" ids="33569">noradrenaline</z:chebi> and <z:chebi fb="47" ids="28918,33568">adrenaline</z:chebi>, by stimulating alpha-adrenergic receptors </plain></SENT>
+<SENT sid="7" pm="."><plain>They also variably stimulate beta-adrenergic receptors, increasing cardiac contractility, heart rate, and splanchnic perfusion, but with increased risk of <z:hpo ids='HP_0011675'>arrhythmias</z:hpo>, immunomodulation and increased metabolism </plain></SENT>
+<SENT sid="8" pm="."><plain>Furthermore, <z:chebi fb="40" ids="18243">dopamine</z:chebi> stimulates dopaminergic receptors, resulting in doubtful effects on splanchnic and renal perfusion, but also in <z:chebi fb="32" ids="24621">endocrine</z:chebi> alterations </plain></SENT>
+<SENT sid="9" pm="?"><plain>Do these pharmacologic differences among the various alpha-<z:chebi fb="0" ids="37962">adrenergic agents</z:chebi> translate into clinical differences </plain></SENT>
+<SENT sid="10" pm="."><plain>Several randomized trials tested the effects of these agents on outcome </plain></SENT>
+<SENT sid="11" pm="."><plain><z:chebi fb="2" ids="28918">Epinephrine</z:chebi> produces more undesired effects than <z:chebi fb="1" ids="18357,33569">norepinephrine</z:chebi>, but no clear cut differences on outcome were observed in underpowered trials </plain></SENT>
+<SENT sid="12" pm="."><plain><z:chebi fb="1" ids="18357,33569">Norepinephrine</z:chebi> should be preferred over <z:chebi fb="40" ids="18243">dopamine</z:chebi>, as suggested in one large trial and confirmed in a meta-analysis </plain></SENT>
+<SENT sid="13" pm="."><plain>Vasopressin may be considered as an alternative or in addition to <z:chebi fb="0" ids="37962">adrenergic agents</z:chebi> </plain></SENT>
+<SENT sid="14" pm="."><plain>In one large trial, no significant difference in outcome was observed, and the exact role of vasopressin still needs clarification </plain></SENT>
+<SENT sid="15" pm="."><plain>Finally, various inotropic agents can counteract septic myocardial <z:hpo ids='HP_0000716'>depression</z:hpo> </plain></SENT>
+<SENT sid="16" pm="."><plain>So far, no study supports their routine use, but these may be justified on an individual basis </plain></SENT>
+</text></document>

@@ -1,0 +1,7 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0000952'>Jaundice</z:hpo>, with and without hepatobiliary damage, has a wide spectrum of causes </plain></SENT>
+<SENT sid="1" pm="."><plain>In the initial evaluation, fractionation of the <z:chebi fb="0" ids="16990">bilirubin</z:chebi> facilitates differential diagnosis </plain></SENT>
+<SENT sid="2" pm="."><plain><z:hpo ids='HP_0008282'>Unconjugated hyperbilirubinemia</z:hpo> most often is the result of pigment overload or <z:e sem="disease" ids="C0017551" disease_type="Disease or Syndrome" abbrv="">Gilbert's disease</z:e> </plain></SENT>
+<SENT sid="3" pm="."><plain>Most patients with <z:hpo ids='HP_0000952'>jaundice</z:hpo> seen by the clinician have underlying <z:e sem="disease" ids="C0267792" disease_type="Disease or Syndrome" abbrv="">hepatobiliary disease</z:e> </plain></SENT>
+<SENT sid="4" pm="."><plain>Liver biopsy usually establishes the etiology of hepatocellular forms of <z:hpo ids='HP_0000952'>jaundice</z:hpo> </plain></SENT>
+<SENT sid="5" pm="."><plain>In patients with <z:hpo ids='HP_0001396'>cholestasis</z:hpo>, visualization of the biliary tree by either transhepatic or endoscopic retrograde cholangiopancreatography provides the most direct means of differentiating mechanical <z:e sem="disease" ids="C0400979" disease_type="Disease or Syndrome" abbrv="">biliary obstruction</z:e> from <z:hpo ids='HP_0001406'>intrahepatic cholestasis</z:hpo> </plain></SENT>
+</text></document>

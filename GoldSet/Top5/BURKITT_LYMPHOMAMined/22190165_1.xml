@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Non-Hodgkin <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (NHL) represents a heterogenous group of <z:hpo ids='HP_0002664'>neoplasias</z:hpo> originating from lymphoid cells </plain></SENT>
+<SENT sid="1" pm="."><plain><z:mp ids='MP_0005601'>Increased angiogenesis</z:mp> and expression of Vascular Endothelial Growth Factor (VEGF) and its receptors (VEGFR) have been found to be associated with NHL disease progression </plain></SENT>
+<SENT sid="2" pm="."><plain>Increase in VEGF and other cytokines stimulate signaling cascades, including the Ras/Raf/Mek/Erk pathway, resulting in increased proliferation and <z:mp ids='MP_0006043'>decreased apoptosis</z:mp> </plain></SENT>
+<SENT sid="3" pm="."><plain>Here, we report the in vitro antilymphoma activity of <z:chebi fb="0" ids="50924">sorafenib</z:chebi>, an inhibitor of VEGFR and Raf kinase </plain></SENT>
+<SENT sid="4" pm="."><plain><z:chebi fb="0" ids="50924">Sorafenib</z:chebi> induced potent cytotoxicity in NHL cell lines and patient samples </plain></SENT>
+<SENT sid="5" pm="."><plain>This induction of cytotoxicity was associated with a corresponding increase in apoptotic cell <z:hpo ids='HP_0011420'>death</z:hpo> </plain></SENT>
+<SENT sid="6" pm="."><plain>Mechanism of action of <z:chebi fb="0" ids="50924">sorafenib</z:chebi> was investigated in follicular (DoHH2) and Burkitt <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (Raji) cell lines </plain></SENT>
+<SENT sid="7" pm="."><plain>pStat3, pAkt, Mcl1, and Xiap were downregulated in both cell lines, whereas pErk decreased in Raji but not in DoHH2 cells following <z:chebi fb="0" ids="50924">sorafenib</z:chebi> treatment </plain></SENT>
+<SENT sid="8" pm="."><plain>IL6 was unable to prevent <z:chebi fb="0" ids="50924">sorafenib</z:chebi> induced repression of pStat3, pAkt, Mcl1, and Bcl-Xl </plain></SENT>
+<SENT sid="9" pm="."><plain><z:chebi fb="0" ids="50924">Sorafenib</z:chebi> in combination with an mTORC1 inhibitor <z:chebi fb="0" ids="9168">rapamycin</z:chebi> demonstrated synergy in inducing cytotoxicity in NHL cells </plain></SENT>
+<SENT sid="10" pm="."><plain><z:chebi fb="0" ids="50924">Sorafenib</z:chebi>/<z:chebi fb="0" ids="9168">rapamycin</z:chebi> combination resulted in downregulation of pAkt, pmTOR, p-p70S6K, p4EBP1, pGSK3β, Mcl1, and Bcl-Xl </plain></SENT>
+<SENT sid="11" pm="."><plain>On the basis of our results, a clinical trial is underway using <z:chebi fb="0" ids="50924">sorafenib</z:chebi> with everolimus in NHL patients </plain></SENT>
+</text></document>

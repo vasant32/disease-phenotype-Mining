@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Extracellular <z:chebi fb="9" ids="36976">nucleotides</z:chebi> play an important role in the regulation of vascular tone and may be involved in <z:e sem="disease" ids="C0265110" disease_type="Disease or Syndrome" abbrv="">cerebral vasospasm</z:e> after subarachnoidal haemorrhage </plain></SENT>
+<SENT sid="1" pm="."><plain>This study was designed to characterise the contractile P2 receptors in endothelium-denuded human cerebral and omental arteries </plain></SENT>
+<SENT sid="2" pm="."><plain>The isometric tension of isolated vessel segments was recorded in vitro </plain></SENT>
+<SENT sid="3" pm="."><plain>P2 receptor <z:chebi fb="2" ids="33699">mRNA</z:chebi> expression was examined by RT-PCR </plain></SENT>
+<SENT sid="4" pm="."><plain>RESULTS: In human cerebral arteries, the selective P2Y6 receptor <z:chebi fb="4" ids="48705">agonist</z:chebi>, UDPbetaS was the most potent of <z:hpo ids='HP_0000001'>all</z:hpo> the <z:chebi fb="4" ids="48705">agonists</z:chebi> tested (pEC50 = 6.8 PlusMinus; 0.7) </plain></SENT>
+<SENT sid="5" pm="."><plain>The <z:chebi fb="4" ids="48705">agonist</z:chebi> potency; UDPbetaS &gt; alphabeta-MeATP &gt; UTPgammaS &gt; <z:chebi fb="0" ids="27575">ATPgammaS</z:chebi> &gt; ADPbetaS = 0, indicated the presence of contractile P2X1 P2Y2, P2Y4 and P2Y6, but not P2Y1 receptors, in human cerebral arteries </plain></SENT>
+<SENT sid="6" pm="."><plain>In human omental arteries, UDPbetaS was inactive </plain></SENT>
+<SENT sid="7" pm="."><plain>The <z:chebi fb="4" ids="48705">agonist</z:chebi> potency; alphabeta-MeATP &gt; <z:chebi fb="0" ids="27575">ATPgammaS</z:chebi> = UTPgammaS &gt; ADPbetaS = UDPbetaS = 0, indicated the presence of contractile P2X1, and P2Y2 receptors, but not P2Y1 or P2Y6 receptors, in human omental arteries </plain></SENT>
+<SENT sid="8" pm="."><plain>RT-PCR analysis of endothelium-denuded human cerebral and omental arteries demonstrated P2X1, P2Y1, P2Y2 and P2Y6 receptor <z:chebi fb="2" ids="33699">mRNA</z:chebi> expression </plain></SENT>
+<SENT sid="9" pm="."><plain>There were no bands for the P2Y4 receptor <z:chebi fb="2" ids="33699">mRNA</z:chebi> in the omental arteries, while barely detectable in the cerebral arteries </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSIONS: P2Y6 receptors play a prominent role in mediating contraction of human cerebral arteries </plain></SENT>
+<SENT sid="11" pm="."><plain>Conversely, no such effect can be observed in human omental arteries and previous results confirm the absence of P2Y6 receptors in human coronary arteries </plain></SENT>
+<SENT sid="12" pm="."><plain>The P2Y6 receptor might be a suitable target for the treatment of <z:e sem="disease" ids="C0265110" disease_type="Disease or Syndrome" abbrv="">cerebral vasospasm</z:e> </plain></SENT>
+</text></document>

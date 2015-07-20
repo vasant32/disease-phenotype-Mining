@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: <z:hpo ids='HP_0003613'>Antiphospholipid antibodies</z:hpo> are associated with increased risk of <z:mp ids='MP_0005048'>thrombosis</z:mp>, particularly as in <z:e sem="disease" ids="C0085278" disease_type="Disease or Syndrome" abbrv="">antiphospholipid syndrome</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>This study aims to determine the <z:hpo ids='HP_0011009'>acute</z:hpo> effects of anticardiolipin antibodies on nitric <z:chebi fb="177" ids="25741,29356">oxide</z:chebi> production and vascular function </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: Ex vivo aortic rings from male Sprague Dawley rats were incubated with IgG monoclonal anticardiolipin antibody (IS4) or a non-specific IgG control </plain></SENT>
+<SENT sid="3" pm="."><plain>In organ baths, response to <z:chebi fb="0" ids="8093">phenylephrine</z:chebi> and acetlycholine was determined alone and with <z:chebi fb="13" ids="29785">nitro</z:chebi>-<z:chebi fb="0" ids="16467,29952">L-arginine</z:chebi> <z:chebi fb="36" ids="29309">methyl</z:chebi> <z:chebi fb="21" ids="35701">ester</z:chebi> (L-<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">NAME</z:e>), 1,400 W, <z:chebi fb="0" ids="15816">D-arginine</z:chebi>, <z:chebi fb="0" ids="16467,29952">L-arginine</z:chebi>, <z:chebi fb="0" ids="29321">sodium nitroprusside</z:chebi> and <z:chebi fb="0" ids="28494">cardiolipin</z:chebi> </plain></SENT>
+<SENT sid="4" pm="."><plain>In vivo antibodies were injected into anaesthetised, spontaneously breathing male Sprague Dawley rats </plain></SENT>
+<SENT sid="5" pm="."><plain>Haemodynamic variables and serum nitric <z:chebi fb="177" ids="25741,29356">oxide</z:chebi> were measured </plain></SENT>
+<SENT sid="6" pm="."><plain>Immunohistochemistry for iNOS and eNOS was performed in kidney vessels </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: Phenylepherine contraction was decreased in the IS4 group compared to controls (p &lt; 0.001) </plain></SENT>
+<SENT sid="8" pm="."><plain>L-<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">NAME</z:e>, 1,400 W and <z:chebi fb="0" ids="28494">cardiolipin</z:chebi>, abolished this effect </plain></SENT>
+<SENT sid="9" pm="."><plain><z:chebi fb="0" ids="16467,29952">L-Arginine</z:chebi> caused significant relaxation in the IS4 group (p = 0.005) </plain></SENT>
+<SENT sid="10" pm="."><plain>Mean arterial pressure in rats injected with IS4 was reduced compared to IgG and saline controls (p &lt; 0.001) </plain></SENT>
+<SENT sid="11" pm="."><plain>NO in plasma increased significantly after IS4 administration (p &lt; 0.001) </plain></SENT>
+<SENT sid="12" pm="."><plain>Immunohistochemistry showed increased iNOS expression in kidney arteries in the IS4 group, with no change in eNOS </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSION: Anticardiolipin antibodies induce NO production acutely via increased expression of iNOS in both ex vivo and in vivo models </plain></SENT>
+</text></document>

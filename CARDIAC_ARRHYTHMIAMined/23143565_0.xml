@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Electric field mapping is commonly used to identify irregular conduction pathways in the heart (e.g., <z:hpo ids='HP_0011675'>arrhythmia</z:hpo>) and brain (e.g., <z:e sem="disease" ids="C0014544" disease_type="Disease or Syndrome" abbrv="">epilepsy</z:e>) </plain></SENT>
+<SENT sid="1" pm="."><plain>Ultrasound current source density imaging (UCSDI), based on the acoustoelectric (AE) effect, is a promising new technique for mapping electrical current in four dimensions with enhanced resolution </plain></SENT>
+<SENT sid="2" pm="."><plain>The frequency and pulse shape of the ultrasound beam affect the sensitivity and spatial resolution of UCSDI </plain></SENT>
+<SENT sid="3" pm="."><plain>In this study, we explore the effects of ultrasound transducer frequency bandwidth and coded excitation pulses for UCSDI and the inherent tradeoff between sensitivity and spatial resolution </plain></SENT>
+<SENT sid="4" pm="."><plain>We used both simulations and bench-top experiments to image a time-varying electrical dipole in 0.9% <z:chebi fb="1" ids="26710">NaCl</z:chebi> solution </plain></SENT>
+<SENT sid="5" pm="."><plain>To study the effects of ultrasound bandwidth, we chose two ultrasound transducers with different center frequencies (1.0 and 2.25 MHz) </plain></SENT>
+<SENT sid="6" pm="."><plain>For coded excitation, we measured the AE voltage signal with different chirp excitations </plain></SENT>
+<SENT sid="7" pm="."><plain>As expected, higher bandwidth correlated with improved spatial resolution at the cost of sensitivity </plain></SENT>
+<SENT sid="8" pm="."><plain>On the other hand, chirp excitation significantly improved sensitivity (3.5 μV/mA) compared with conventional square pulse excitation (1.6 μV/mA) at 1 MHz </plain></SENT>
+<SENT sid="9" pm="."><plain>Pulse compression achieved spatial resolution similar to that obtained using square pulse excitation, demonstrating enhanced detection sensitivity without loss of resolution </plain></SENT>
+<SENT sid="10" pm="."><plain>Optimization of the time duration of the chirp pulse and frequency sweep rate can be further used to improve the quality of UCSDI </plain></SENT>
+</text></document>

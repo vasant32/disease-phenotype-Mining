@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0005305'>Cerebral venous thrombosis</z:hpo> (CVT) is a disease with multiple known etiologies that present with a remarkably wide spectrum of clinical signs and symptoms </plain></SENT>
+<SENT sid="1" pm="."><plain>We present a case of a 34-year-old man with a history of meningeal symptoms for 1 week after receiving a lumbar injection for <z:hpo ids='HP_0003419'>lower back pain</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>He subsequently developed dense right <z:hpo ids='HP_0002301'>hemiplegia</z:hpo> and global <z:hpo ids='HP_0002381'>aphasia</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>Head magnetic resonance imaging revealed superior sagittal sinus <z:mp ids='MP_0005048'>thrombosis</z:mp> </plain></SENT>
+<SENT sid="4" pm="."><plain>The patient was started on intravenous <z:chebi fb="5" ids="28304">heparin</z:chebi> but deteriorated neurologically </plain></SENT>
+<SENT sid="5" pm="."><plain>Urokinase infusion directly into the superior sagittal sinus was performed, with striking functional and neurologic improvement </plain></SENT>
+<SENT sid="6" pm="."><plain><z:e sem="disease" ids="C0024138,C0024141,C0024131,C0409974" disease_type="Disease or Syndrome" abbrv="">Lupus</z:e> <z:chebi fb="3" ids="50249">anticoagulant</z:chebi> was positive </plain></SENT>
+<SENT sid="7" pm="."><plain>We also present the case of a 24-year-old pregnant woman who developed an <z:hpo ids='HP_0011009'>acute onset</z:hpo> of meningeal symptoms and resultant left <z:hpo ids='HP_0001269'>hemiparesis</z:hpo> </plain></SENT>
+<SENT sid="8" pm="."><plain>Head magnetic resonance angiography revealed <z:mp ids='MP_0005048'>thrombosis</z:mp> of right transverse and sigmoid sinuses </plain></SENT>
+<SENT sid="9" pm="."><plain><z:e sem="disease" ids="C0242666" disease_type="Disease or Syndrome" abbrv="">Protein S deficiency</z:e> was found </plain></SENT>
+<SENT sid="10" pm="."><plain>She was started on intravenous <z:chebi fb="5" ids="28304">heparin</z:chebi>, then enoxaparin, with improvement in symptoms </plain></SENT>
+<SENT sid="11" pm="."><plain>These cases demonstrate that CVT can be a cause of <z:hpo ids='HP_0001297'>stroke</z:hpo> in young patients with hypercoagability disorders, and a heightened awareness of CVT will promote optimal medical care and functional outcomes </plain></SENT>
+<SENT sid="12" pm="."><plain>Excellent functional recovery is likely with early recognition and treatment of the underlying etiology, as well as successful lysis of the clot </plain></SENT>
+</text></document>

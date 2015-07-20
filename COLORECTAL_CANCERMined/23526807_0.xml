@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PURPOSE: To establish the apparent diffusion coefficient (<z:chebi fb="49" ids="35181">ADC</z:chebi>) suitability to evaluate the radiofrequency ablation (RFA) outcome in patients with chemotherapy resistant or partially responding colorectal <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> <z:e sem="disease" ids="C0494165" disease_type="Neoplastic Process" abbrv="">liver metastases</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>MATERIALS AND METHODS: A total of 56 patients with 116 metastatic foci over 10 mm in diameter were examined with 1.5 Tesla MRI scanner 1 day before percutaneous RFA treatment </plain></SENT>
+<SENT sid="2" pm="."><plain>Lesions were evaluated in echo-planar diffusion-weighted images with b = 0, 15 and 500 s/mm(2)  </plain></SENT>
+<SENT sid="3" pm="."><plain>On basis of computed tomography scan at 6 weeks, 3 and 6 months after RFA and serum CEA (carcinoembryonic antigen) level lesion were recognized as responding or nonresponding lesions </plain></SENT>
+<SENT sid="4" pm="."><plain><z:chebi fb="49" ids="35181">ADC</z:chebi> values for b = 0-15 and 0-500 s/mm(2) of responding and nonresponding lesions were compared </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: Noncomplete ablation concerned 28 lesions </plain></SENT>
+<SENT sid="6" pm="."><plain>Mean pretreatment <z:chebi fb="49" ids="35181">ADC</z:chebi> values for b = 0-15 and 0-500 s/mm(2) of responding <z:e sem="disease" ids="C0027627" disease_type="Neoplastic Process" abbrv="mets">metastases</z:e> were significantly lower (2.14 and 1.48 × 10(-3) mm(2) /s) than those of nonresponding <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumors</z:e> (2.7 and 1.74 × 10(-3) mm(2) /s) </plain></SENT>
+<SENT sid="7" pm="."><plain>Sensitivity, specificity, and accuracy of <z:chebi fb="49" ids="35181">ADC</z:chebi> values for b = 0-15 s/mm(2) were 79 (95%CI = 59-92), 85 (95%CI = 76-92), 84%; and for b = 0-500 s/mm(2) , the efficacy parameters were, respectively, 78 (95%CI = 56-92), 78 (95%CI = 67-86), and 78% </plain></SENT>
+<SENT sid="8" pm="."><plain>The P value was under 0.001 for both b parameters </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSION: The pretreatment <z:chebi fb="49" ids="35181">ADCs</z:chebi> values of chemotherapy resistant or partially responding colorectal <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> liver metastatic lesion can be predictive factor of <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumors</z:e> response to RFA therapy </plain></SENT>
+<SENT sid="10" pm="."><plain>J </plain></SENT>
+<SENT sid="11" pm="."><plain>Magn </plain></SENT>
+<SENT sid="12" pm="."><plain>Reson </plain></SENT>
+<SENT sid="13" pm="."><plain>Imaging 2013;. © 2013 Wiley Periodicals, Inc </plain></SENT>
+</text></document>

@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (FL) is one of the most common types of nonHodgkin <z:hpo ids='HP_0002665'>lymphoma</z:hpo> in the U.S </plain></SENT>
+<SENT sid="1" pm="."><plain>Diagnosis of FL is based on tissue biopsy that shows characteristic morphologic and immunohistochemical (IHC) findings </plain></SENT>
+<SENT sid="2" pm="."><plain>Our group's work focuses on the development of computer-aided image-analysis techniques to improve the FL grading </plain></SENT>
+<SENT sid="3" pm="."><plain>Since centroblast enumeration needs to be performed in malignant follicles, the development of an automated system to accurately identify follicles on digital images of lymphoid tissue is an important step </plain></SENT>
+<SENT sid="4" pm="."><plain>In this letter, we describe an automated system to identify follicles in IHC-stained tissue sections </plain></SENT>
+<SENT sid="5" pm="."><plain>A unique feature of the system described here is the use of texture and color information to mimic the process that a human expert might use to identify follicle regions </plain></SENT>
+<SENT sid="6" pm="."><plain>Comparison of system-generated results with expert-generated ground truth has shown promising results with a mean similarity score of 87.11% </plain></SENT>
+</text></document>

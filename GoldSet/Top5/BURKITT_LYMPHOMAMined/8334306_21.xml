@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>UV radiation is known to induce lymphocyte nonresponsiveness both in vitro and in vivo </plain></SENT>
+<SENT sid="1" pm="."><plain>We have found that UV radiation rapidly induced tyrosine phosphorylation and calcium signaling in <z:mpath ids='MPATH_458'>normal</z:mpath> human peripheral blood lymphocytes </plain></SENT>
+<SENT sid="2" pm="."><plain>In the leukemic T cell line Jurkat and the Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cell line Ramos, UV rapidly induced tyrosine phosphorylation in a wavelength-dependent manner, giving strong signals after UVB and UVC, but not UVA, irradiation </plain></SENT>
+<SENT sid="3" pm="."><plain>Similarly, in Jurkat cells UV-induced calcium signals were dependent on the dose of UVB or UVC irradiation over a range of 150-1200 J/m2, but only a small signal was observed for UVA at a dose of 1200 J/m2 </plain></SENT>
+<SENT sid="4" pm="."><plain>The UV-induced calcium signals were blocked by the <z:chebi fb="0" ids="38637">tyrosine kinase inhibitor</z:chebi> herbimycin A, indicating that they were dependent on tyrosine phosphorylation </plain></SENT>
+<SENT sid="5" pm="."><plain>Phospholipase C (PLC) gamma 1 was tyrosine phosphorylated in response to UV irradiation but to a lesser extent than observed after CD3 cross-linking </plain></SENT>
+<SENT sid="6" pm="."><plain>However, PLC gamma 1-associated proteins demonstrated to bind to the PLC gamma 1 SH2 domain were tyrosine phosphorylated strongly after UV irradiation </plain></SENT>
+<SENT sid="7" pm="."><plain>A similar dose response was observed for the inhibition by herbimycin A of UV-induced calcium signals and UV-induced tyrosine phosphorylation of PLC gamma 1 and associated proteins </plain></SENT>
+<SENT sid="8" pm="."><plain>We propose that in contrast to CD3/Ti stimulation, UV aberrantly triggers lymphocyte signal transduction pathways by a mechanism that bypasses <z:mpath ids='MPATH_458'>normal</z:mpath> receptor control </plain></SENT>
+</text></document>

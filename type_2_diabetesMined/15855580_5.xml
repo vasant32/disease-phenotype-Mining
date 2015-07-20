@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: The relationship between coronary endothelial function and <z:hpo ids='HP_0000855'>insulin resistance</z:hpo> remains speculative </plain></SENT>
+<SENT sid="1" pm="."><plain>We sought to determine whether <z:chebi fb="0" ids="8228">pioglitazone</z:chebi>, an insulin-sensitizing peroxisome proliferator-activated receptor (PPAR)-gamma <z:chebi fb="4" ids="48705">agonist</z:chebi>, improves cardiac endothelial function in individuals with type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="2" pm="."><plain>RESEARCH DESIGN AND METHODS: Sixteen subjects with insulin-treated type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> and without overt <z:e sem="disease" ids="C0007222" disease_type="Disease or Syndrome" abbrv="CVD">cardiovascular disease</z:e> were randomly assigned to receive either 45 mg of <z:chebi fb="0" ids="8228">pioglitazone</z:chebi> or matching placebo for 3 months </plain></SENT>
+<SENT sid="3" pm="."><plain>Rest and <z:chebi fb="3" ids="16335">adenosine</z:chebi>-stimulated myocardial blood flow (MBF) were quantified with [(13)N]ammonia and <z:chebi fb="4" ids="30225">positron</z:chebi> emission tomography at baseline and study conclusion </plain></SENT>
+<SENT sid="4" pm="."><plain>RESULTS: After 3 months, HbA(1c) levels dropped by 0.68% in the <z:chebi fb="0" ids="8228">pioglitazone</z:chebi> group and increased by 0.17% in the placebo group (P = 0.009 for difference between groups) </plain></SENT>
+<SENT sid="5" pm="."><plain><z:chebi fb="0" ids="17855">Triglyceride</z:chebi> (-93 vs. -39 mg/dl, P = 0.026) and <z:chebi fb="17" ids="39025">HDL</z:chebi> concentrations (+4.8 vs. -6.0 mg/dl, P = 0.014) improved significantly in the <z:chebi fb="0" ids="8228">pioglitazone</z:chebi> group compared with placebo </plain></SENT>
+<SENT sid="6" pm="."><plain>Despite these favorable changes, there was no demonstrable change in baseline MBF (-0.05 +/- 0.24 vs. -0.09 +/- 0.24 ml  </plain></SENT>
+<SENT sid="7" pm="."><plain>min(-1)  </plain></SENT>
+<SENT sid="8" pm="."><plain>g(-1), P = 0.45), <z:chebi fb="3" ids="16335">adenosine</z:chebi>-stimulated MBF (0.10 +/- 0.75 vs. 0.14 +/- 0.31 ml  </plain></SENT>
+<SENT sid="9" pm="."><plain>min(-1)  </plain></SENT>
+<SENT sid="10" pm="."><plain>g(-1), P = 0.25), or coronary flow reserve (0.45 +/- 1.22 vs. 0.35 +/- 0.72 ml  </plain></SENT>
+<SENT sid="11" pm="."><plain>min(-1)  </plain></SENT>
+<SENT sid="12" pm="."><plain>g(-1), P = 0.64) after 12 weeks of exposure to <z:chebi fb="0" ids="8228">pioglitazone</z:chebi> or placebo, respectively </plain></SENT>
+<SENT sid="13" pm="."><plain>Regression analysis revealed that lower <z:chebi fb="105" ids="17234">glucose</z:chebi> concentration at the time of the study was associated with higher coronary flow reserve (P = 0.012) </plain></SENT>
+<SENT sid="14" pm="."><plain>CONCLUSIONS: <z:chebi fb="0" ids="8228">Pioglitazone</z:chebi> treatment for 12 weeks in subjects with insulin-requiring type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> had no demonstrable effect on coronary flow reserve despite metabolic improvements </plain></SENT>
+<SENT sid="15" pm="."><plain>Higher ambient <z:chebi fb="105" ids="17234">glucose</z:chebi> levels contribute to impaired vascular reactivity in individuals with <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+</text></document>

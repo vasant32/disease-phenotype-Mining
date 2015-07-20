@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Conserved domains in proteins are one of the major sources of functional information for experimental design and genome-level annotation </plain></SENT>
+<SENT sid="1" pm="."><plain>Though search tools for conserved domain databases such as Hidden Markov Models (<z:chebi fb="8" ids="24564">HMMs</z:chebi>) are sensitive in detecting conserved domains in proteins when they share sufficient sequence similarity, they tend to miss more divergent family members, as they lack a reliable statistical framework for the detection of low sequence similarity </plain></SENT>
+<SENT sid="2" pm="."><plain>We have developed a greatly improved HMMerThread algorithm that can detect remotely conserved domains in highly divergent sequences </plain></SENT>
+<SENT sid="3" pm="."><plain>HMMerThread combines relaxed conserved domain searches with fold recognition to eliminate false positive, sequence-based identifications </plain></SENT>
+<SENT sid="4" pm="."><plain>With an accuracy of 90%, our software is able to automatically predict highly divergent members of conserved domain families with an associated 3-dimensional structure </plain></SENT>
+<SENT sid="5" pm="."><plain>We give additional confidence to our predictions by validation across species </plain></SENT>
+<SENT sid="6" pm="."><plain>We have run HMMerThread searches on eight proteomes including human and present a rich resource of remotely conserved domains, which adds significantly to the functional annotation of entire proteomes </plain></SENT>
+<SENT sid="7" pm="."><plain>We find ∼4500 cross-species validated, remotely conserved domain predictions in the human proteome alone </plain></SENT>
+<SENT sid="8" pm="."><plain>As an example, we find a DNA-binding domain in the C-terminal part of the A-kinase anchor protein 10 (AKAP10), a PKA adaptor that has been implicated in <z:hpo ids='HP_0011675'>cardiac arrhythmias</z:hpo> and premature cardiac <z:hpo ids='HP_0011420'>death</z:hpo>, which upon stress likely translocates from mitochondria to the nucleus/nucleolus </plain></SENT>
+<SENT sid="9" pm="."><plain>Based on our prediction, we propose that with this HLH-domain, AKAP10 is involved in the transcriptional control of stress response </plain></SENT>
+<SENT sid="10" pm="."><plain>Further remotely conserved domains we discuss are examples from areas such as sporulation, chromosome segregation and signalling during immune response </plain></SENT>
+<SENT sid="11" pm="."><plain>The HMMerThread algorithm is able to automatically detect the presence of remotely conserved domains in proteins based on weak sequence similarity </plain></SENT>
+<SENT sid="12" pm="."><plain>Our predictions open up new avenues for biological and medical studies </plain></SENT>
+<SENT sid="13" pm="."><plain>Genome-wide HMMerThread domains are available at http://vm1-hmmerthread.age.mpg.de </plain></SENT>
+</text></document>

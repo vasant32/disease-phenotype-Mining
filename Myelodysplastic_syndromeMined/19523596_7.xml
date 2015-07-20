@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PURPOSE: Randomized controlled trials (RCTs) are the best tool to evaluate the effectiveness of clinical interventions </plain></SENT>
+<SENT sid="1" pm="."><plain>The CONSORT (Consolidated Standards of Reporting Trials) statement is an evidence-based approach to improve the quality of RCTs </plain></SENT>
+<SENT sid="2" pm="."><plain>The aim of this study was to evaluate the reporting quality of published RCTs concerning myeloid <z:e sem="disease" ids="C0376545" disease_type="Neoplastic Process" abbrv="">hematologic malignancies</z:e> according to the CONSORT statement </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: PubMed was searched for English-language RCTs involving patients with <z:hpo ids='HP_0004808'>acute myeloid leukemia</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">AML</z:e>), <z:hpo ids='HP_0011010'>chronic</z:hpo> myeloid <z:hpo ids='HP_0001909'>leukemia</z:hpo> (<z:mp ids='MP_0005481'>CML</z:mp>) and <z:hpo ids='HP_0002863'>myelodysplastic syndromes</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e>) </plain></SENT>
+<SENT sid="4" pm="."><plain>Trials were considered eligible when participants were randomly assigned to at least two treatment arms and included patients with <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">AML</z:e>, <z:mp ids='MP_0005481'>CML</z:mp> or <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> </plain></SENT>
+<SENT sid="5" pm="."><plain>Quality of reporting was assessed using a 24-item questionnaire based on the CONSORT checklist </plain></SENT>
+<SENT sid="6" pm="."><plain>Reporting was assessed in one pre-CONSORT (1988-1995) and one post-CONSORT (1996-2008) period </plain></SENT>
+<SENT sid="7" pm="."><plain>The effect of CONSORT statement in high- and low-ranked journals, according to their impact factor, has also been evaluated </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: The search identified 261 eligible articles for analysis </plain></SENT>
+<SENT sid="9" pm="."><plain>Only 13 of the 24 items of CONSORT statement were addressed in 75% or more of the studies </plain></SENT>
+<SENT sid="10" pm="."><plain>Most items concerning the methodological issues were reported by fewer than 50% of the studies </plain></SENT>
+<SENT sid="11" pm="."><plain>Significant improvements over time were seen for items that assessed the methodological quality, while RCTs published in high-ranked journals showed better quality of reporting </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: Quality of reporting in RCTs focusing on <z:e sem="disease" ids="C0027022" disease_type="Neoplastic Process" abbrv="MPD">myeloid malignancies</z:e> remains unsatisfactory </plain></SENT>
+<SENT sid="13" pm="."><plain>Further improvement of reporting is necessary to assess the validity of clinical research </plain></SENT>
+</text></document>

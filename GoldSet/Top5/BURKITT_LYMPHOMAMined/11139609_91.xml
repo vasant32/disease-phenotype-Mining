@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The proto-oncogene c-myc (myc) encodes a transcription factor (Myc) that promotes growth, proliferation and <z:mpath ids='MPATH_3'>apoptosis</z:mpath> </plain></SENT>
+<SENT sid="1" pm="."><plain>Myc has been suggested to induce these effects by induction/repression of downstream genes </plain></SENT>
+<SENT sid="2" pm="."><plain>Here we report the identification of potential Myc target genes in a human B cell line that grows and proliferates depending on conditional myc expression </plain></SENT>
+<SENT sid="3" pm="."><plain>Oligonucleotide microarrays were applied to identify downstream genes of Myc at the level of cytoplasmic <z:chebi fb="2" ids="33699">mRNA</z:chebi> </plain></SENT>
+<SENT sid="4" pm="."><plain>In addition, we identified potential Myc target genes in nuclear run-on experiments by changes in their transcription rate </plain></SENT>
+<SENT sid="5" pm="."><plain>The identified genes belong to gene classes whose products are involved in amino acid/protein synthesis, <z:chebi fb="23" ids="18059">lipid</z:chebi> metabolism, protein turnover/folding, nucleotide/DNA synthesis, transport, nucleolus function/<z:chebi fb="40" ids="33697">RNA</z:chebi> binding, transcription and splicing, <z:mp ids='MP_0003674'>oxidative stress</z:mp> and signal transduction </plain></SENT>
+<SENT sid="6" pm="."><plain>The identified targets support our current view that myc acts as a master gene for growth control and increases transcription of a large variety of genes </plain></SENT>
+</text></document>

@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (FL) B cells contract tight connections with their microenvironment, which governs the pathogenesis and progression of the disease </plain></SENT>
+<SENT sid="1" pm="."><plain>Indeed, specific immune response gene signatures, obtained from whole biopsy samples, have been associated with patient survival </plain></SENT>
+<SENT sid="2" pm="."><plain>In this study, we performed gene expression profiling of purified B cell and non-B cell compartments obtained from FL and reactive lymph nodes </plain></SENT>
+<SENT sid="3" pm="."><plain>We identified 677 non-redundant genes defining the FL interface and involving 26 FL-specific functional networks </plain></SENT>
+<SENT sid="4" pm="."><plain>This approach highlighted an interleukin-4 (IL-4)-centered pathway associated with an activation of signal transducer and activator of transcription 6 (STAT6), which favors overexpression of IL-4-target genes </plain></SENT>
+<SENT sid="5" pm="."><plain>In addition, FL microenvironment was characterized by a strong enrichment in follicular helper T cells (T(FH)), as demonstrated through transcriptomic and flow cytometry analyses </plain></SENT>
+<SENT sid="6" pm="."><plain>The majority of phospho-STAT6(pos) B cells were located at the vicinity of cells expressing the programmed <z:hpo ids='HP_0011420'>death</z:hpo> 1 (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">PD</z:e>-1) T(FH) marker </plain></SENT>
+<SENT sid="7" pm="."><plain>Moreover, purified FL-derived T(FH), expressed IL4 at very high levels compared with purified tonsil-derived T(FH) or non-T(FH) microenvironment </plain></SENT>
+<SENT sid="8" pm="."><plain>Altogether, our study demonstrated that <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e>-infiltrating T(FH) specifically express functional IL-4 in FL, creating an IL-4-dependent T(FH)-B cell axis </plain></SENT>
+<SENT sid="9" pm="."><plain>This cross talk could sustain FL pathogenesis and represent a new potential therapeutic target </plain></SENT>
+</text></document>

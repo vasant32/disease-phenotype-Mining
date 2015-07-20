@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: The effective screening of <z:hpo ids='HP_0001658'>myocardial infarction</z:hpo> (MI) patients threatened by <z:hpo ids='HP_0004756'>ventricular tachycardia</z:hpo> (VT) is an important issue in clinical practice, especially in the process of implantable cardioverter-defibrillator (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">ICD</z:e>) therapy recommendation </plain></SENT>
+<SENT sid="1" pm="."><plain>This study proposes new parameters describing depolarization and repolarization inhomogeneity in high resolution body surface potential maps (HR BSPM) to identify MI patients threatened by VT </plain></SENT>
+<SENT sid="2" pm="."><plain>MATERIAL/METHODS: High resolution ECGs were recorded from 64 surface leads </plain></SENT>
+<SENT sid="3" pm="."><plain>Time-averaged HR BSPMs were used </plain></SENT>
+<SENT sid="4" pm="."><plain>Several parameters for <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> risk assessment were calculated in 2 groups of MI patients: those with and without documented VT </plain></SENT>
+<SENT sid="5" pm="."><plain>Additionally, a control group of healthy subjects was studied </plain></SENT>
+<SENT sid="6" pm="."><plain>To assess the risk of VT, the following parameters were proposed: correlation coefficient between STT and QRST integral maps (STT_QRST_CORR), departure index of absolute value of STT integral map (STT_DI), and departure index of absolute value of T-wave shape index (TSI_DI) </plain></SENT>
+<SENT sid="7" pm="."><plain>These new parameters were compared to known parameters: QRS width, QT interval, QT dispersion, Tpeak-Tend interval, total cosines between QRS complex and T wave, and non-dipolar content of QRST integral maps </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: STT_DI, TSI_DI, STT_QRST_CORR, QRS width, and QT interval parameters were statistically significant (p ≤ 0.05) in <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> risk assessment </plain></SENT>
+<SENT sid="9" pm="."><plain>The highest sensitivity was found for the STT_DI parameter (0.77) and the highest specificity for TSI_DI (0.79) </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSIONS: <z:hpo ids='HP_0011675'>Arrhythmia</z:hpo> risk is demonstrated by both abnormal spatial distribution of the repolarization phase and changed relationship between depolarization and repolarization phases, as well as their prolongation </plain></SENT>
+<SENT sid="11" pm="."><plain>The proposed new parameters might be applied for risk stratification of <z:hpo ids='HP_0011675'>cardiac arrhythmia</z:hpo> </plain></SENT>
+</text></document>

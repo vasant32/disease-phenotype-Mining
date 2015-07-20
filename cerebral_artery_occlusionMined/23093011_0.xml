@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0002637'>Cerebral ischemia</z:hpo> induced the proliferation and differentiation of neural stem cells in discrete regions of brain </plain></SENT>
+<SENT sid="1" pm="."><plain>However, only a small fraction of the neural stem/progenitor cells survives </plain></SENT>
+<SENT sid="2" pm="."><plain>In this report, the effects of <z:chebi fb="0" ids="6888">methylprednisolone</z:chebi> (MP) on proliferation, differentiation and survival of neural progenitor cells were explored through early MP administration after occlusion of the middle cerebral artery (MCAo) </plain></SENT>
+<SENT sid="3" pm="."><plain>Transient <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> was induced by middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> in Sprague Dawley male rats </plain></SENT>
+<SENT sid="4" pm="."><plain>One hour, 1 day, 3 days, 14 days, and 28 days after MCAo, neurological examination was performed to evaluate the neurological deficit </plain></SENT>
+<SENT sid="5" pm="."><plain>MCAo rats were randomly divided into two groups, MP-group was injected MP (30 mg/kg, i.p.) at 3 h, 12 h, and 24 h after MCAo, and vehicle group was injected equal saline (i.p.) </plain></SENT>
+<SENT sid="6" pm="."><plain>Animals were sacrificed at 3 days, 14 days, and 28 days after MCAo </plain></SENT>
+<SENT sid="7" pm="."><plain>MP was found to decrease <z:mpath ids='MPATH_3'>apoptosis</z:mpath> and TNF-alpha and IL-6 expression at 3 days after MCAo in the ipsilateral striatum </plain></SENT>
+<SENT sid="8" pm="."><plain>Moreover, MP significantly increased the migrated new neurons (BrdU+/ DCX+) and immature neurons (BrdU+/Tuj1+) at day 14 after MCAo in the ipsilateral striatum </plain></SENT>
+<SENT sid="9" pm="."><plain>Likewise, MP increased the number of mature neurons (BrdU+/MAP2+) at 28 days after MCAo </plain></SENT>
+<SENT sid="10" pm="."><plain>However, MP did not affect the progenitor cell proliferation (BrdU+ and Nestin+) at day 3 after MCAo in the subventricular zone (SVZ), but improved the neurological deficit at day 1 and day 3 after MCAo </plain></SENT>
+<SENT sid="11" pm="."><plain>These results indicate that early MP administration can improve the neurological deficit and enhance the survival of new neurons in the ipsilateral striatum by inhibiting <z:mpath ids='MPATH_3'>apoptosis</z:mpath> and downregulation of <z:mp ids='MP_0001845'>inflammatory response</z:mp> after transient <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> in rats </plain></SENT>
+</text></document>

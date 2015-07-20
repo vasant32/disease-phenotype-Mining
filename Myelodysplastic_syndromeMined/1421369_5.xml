@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We treated 10 patients with a therapy-related <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo> with escalating doses of granulocyte-macrophage colony-stimulating factor (GM-CSF; sargramostim) in a phase II trial and used sequential cytogenetic analyses to determine whether there was stimulation of nonclonal hematopoiesis </plain></SENT>
+<SENT sid="1" pm="."><plain>The GM-CSF was administered by continuous intravenous infusion over 2 hours daily for 14 days, followed by a 14-day rest period </plain></SENT>
+<SENT sid="2" pm="."><plain>The initial starting dose was 60 micrograms/m2/d </plain></SENT>
+<SENT sid="3" pm="."><plain>The GM-CSF dose was escalated within individual patients to 125 micrograms/m2, 250 micrograms/m2, and then 500 micrograms/m2/d until the peripheral blood neutrophil count at least doubled and exceeded 1,000/microL </plain></SENT>
+<SENT sid="4" pm="."><plain>GM-CSF treatment then continued in monthly maintenance cycles </plain></SENT>
+<SENT sid="5" pm="."><plain>During 57 treatment courses, the neutrophil count increased in 52 but only doubled and exceeded 1,000/microL in 21 </plain></SENT>
+<SENT sid="6" pm="."><plain>Mild <z:hpo ids='HP_0001880'>eosinophilia</z:hpo> was stimulated in five patients, but only two had greater than 1,000 eosinophils/microL </plain></SENT>
+<SENT sid="7" pm="."><plain>In only three patients was any stimulation of platelet or red blood cell production observed, and thus, little change in transfusion requirements occurred </plain></SENT>
+<SENT sid="8" pm="."><plain>The bone marrow karyotypes from individual patients either remained completely abnormal or became increasingly abnormal over the course of treatment </plain></SENT>
+<SENT sid="9" pm="."><plain>We found no evidence that GM-CSF preferentially stimulated <z:mpath ids='MPATH_458'>normal</z:mpath> marrow stem cells to proliferate or had the ability to eradicate the cytogenetically abnormal clone by inducing terminal differentiation </plain></SENT>
+<SENT sid="10" pm="."><plain>Although the effect on granulopoiesis was transient and dependent on continued GM-CSF treatment, the increase in the neutrophil count was clinically important in some patients, allowing more effective control of ongoing <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infections</z:e> </plain></SENT>
+</text></document>

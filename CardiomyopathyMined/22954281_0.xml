@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Mitochondria provide an environment conducive to mutations in DNA molecules (mtDNA) </plain></SENT>
+<SENT sid="1" pm="."><plain>Analyses of mtDNA have shown mutations potentially leading to many cardiovascular traits </plain></SENT>
+<SENT sid="2" pm="."><plain>Here, we describe a patient with <z:hpo ids='HP_0001644'>dilated cardiomyopathy</z:hpo> and new mtDNA duplication </plain></SENT>
+<SENT sid="3" pm="."><plain>The patient presented symptoms of <z:hpo ids='HP_0001635'>heart failure</z:hpo> New York Heart Association functional class III and was diagnosed with non-familial <z:hpo ids='HP_0001644'>dilated cardiomyopathy</z:hpo> with important left ventricular systolic dysfunction </plain></SENT>
+<SENT sid="4" pm="."><plain>Sequencing of mtDNA control region was done, and a 15 bp duplication was observed between <z:chebi fb="9" ids="36976">nucleotides</z:chebi> 16,018 and 16,032 </plain></SENT>
+<SENT sid="5" pm="."><plain>Part of this duplication is localized within the tRNA proline gene (<z:chebi fb="0" ids="29177">tRNA(Pro)</z:chebi>) that has an important role in cell protection against <z:mp ids='MP_0003674'>oxidative stress</z:mp> and is considered an important regulatory factor for cellular reactive oxygen species balance </plain></SENT>
+<SENT sid="6" pm="."><plain>This duplication could alter the stability or secondary structure of <z:chebi fb="0" ids="29177">tRNA(Pro)</z:chebi>, affecting mt-protein synthesis </plain></SENT>
+<SENT sid="7" pm="."><plain>In turn, the presence of duplication in <z:chebi fb="0" ids="29177">tRNA(Pro)</z:chebi> could cause some <z:mp ids='MP_0003674'>oxidative stress</z:mp> imbalance and, so, <z:hpo ids='HP_0001427'>mitochondrial</z:hpo> dysfunction could result in the pathogenicity </plain></SENT>
+</text></document>

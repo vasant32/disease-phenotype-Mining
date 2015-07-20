@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Ocular lesions, the main morbidity of <z:e sem="disease" ids="C0004943" disease_type="Disease or Syndrome" abbrv="">Behcet's disease</z:e> (BD), are the most difficult to treat </plain></SENT>
+<SENT sid="1" pm="."><plain>The aim of this study was to evaluate the efficacy of rituximab </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: Inclusion criteria were <z:chebi fb="46" ids="15035">retinal</z:chebi> <z:hpo ids='HP_0002633'>vasculitis</z:hpo> and <z:hpo ids='HP_0000969'>edema</z:hpo>, resistant to cytotoxic drugs </plain></SENT>
+<SENT sid="3" pm="."><plain>Twenty patients were randomized to a rituximab group (RG) or cytotoxic combination therapy group (CCTG) </plain></SENT>
+<SENT sid="4" pm="."><plain>Rituximab was given in two 1000-mg courses (15-day interval) </plain></SENT>
+<SENT sid="5" pm="."><plain>Subjects received <z:chebi fb="0" ids="44185">methotrexate</z:chebi> (15 mg/weekly) with <z:chebi fb="2" ids="8378">prednisolone</z:chebi> (0.5 mg/kg per day) </plain></SENT>
+<SENT sid="6" pm="."><plain>The CCTG received pulse <z:chebi fb="0" ids="4027">cyclophosphamide</z:chebi> (1000 mg/monthly), <z:chebi fb="2" ids="2948">azathioprine</z:chebi> (2-3 mg/kg per day) and <z:chebi fb="2" ids="8378">prednisolone</z:chebi> (0.5 mg/kg per day) </plain></SENT>
+<SENT sid="7" pm="."><plain>The primary endpoint was the overall state of patients' eyes and the Total Adjusted Disease Activity Index (TADAI) </plain></SENT>
+<SENT sid="8" pm="."><plain>Secondary endpoints were: visual acuity (VA), <z:hpo ids='HP_0012123'>posterior uveitis</z:hpo> (PU), and <z:chebi fb="46" ids="15035">retinal</z:chebi> <z:hpo ids='HP_0002633'>vasculitis</z:hpo> (RV) </plain></SENT>
+<SENT sid="9" pm="."><plain>The baseline data were compared at 6 months by paired sample t-test and analysis of variance </plain></SENT>
+<SENT sid="10" pm="."><plain>RESULTS: TADAI improved significantly in the RG (t = 3.340, P = 0.009), but not in the CCTG (t = 2.241, P = 0.052) </plain></SENT>
+<SENT sid="11" pm="."><plain>For secondary endpoints (RG/CCTG), the mean VA improved in two patients versus three (2/3), remained unchanged in 1/1, and worsened in 7/6 patients </plain></SENT>
+<SENT sid="12" pm="."><plain>The mean PU improved significantly in the RG (t = 3.943, P = 0.001), not in the CCTG (t = 2.371, P = 0.028) </plain></SENT>
+<SENT sid="13" pm="."><plain>RV improved, but not statistically (t = 2.027, P = 0.057 vs. t = 1.045, P = 0.31) </plain></SENT>
+<SENT sid="14" pm="."><plain><z:hpo ids='HP_0000969'>Edema</z:hpo> of retina, disc and macula improved significantly in both, but much better for the RG (t = 2.781, P = 0.012 vs. t = 2.707, P = 0.014) </plain></SENT>
+<SENT sid="15" pm="."><plain>CONCLUSION: Rituximab was efficient in severe ocular manifestations of BD, TADAI improved significantly after 6 months with rituximab, but not with CCT </plain></SENT>
+</text></document>

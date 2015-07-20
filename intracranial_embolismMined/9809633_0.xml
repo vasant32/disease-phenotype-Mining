@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The sample-volume length (SVL) of an embolic signal has previously been used to differentiate between gaseous and particulate emboli and has been calculated using high-resolution Wigner analysis </plain></SENT>
+<SENT sid="1" pm="."><plain>Although successful, this method of analysis is not widely available to other groups using transcranial Doppler ultrasound (TCD) to classify emboli </plain></SENT>
+<SENT sid="2" pm="."><plain>The SVL of embolic signals can also be calculated using time domain analysis, which is a far simpler method and potentially available to <z:hpo ids='HP_0000001'>all</z:hpo> TCD users </plain></SENT>
+<SENT sid="3" pm="."><plain>The aim of this study was to compare the SVL of embolic signals calculated using Wigner analysis and time domain analysis to assess whether or not time domain analysis can replace Wigner analysis to classify emboli </plain></SENT>
+<SENT sid="4" pm="."><plain>In total, 215 particulate and 100 gaseous emboli were recorded onto digital audiotape and analysed off-line </plain></SENT>
+<SENT sid="5" pm="."><plain>Two SVLs for each embolic signal were calculated by measuring embolic duration and velocity in the time domain and with Wigner analysis </plain></SENT>
+<SENT sid="6" pm="."><plain>Receiver operator characteristic (ROC) curves were plotted to assess the optimum SVL threshold for each method, and levels of sensitivity and specificity were defined </plain></SENT>
+<SENT sid="7" pm="."><plain>The optimum SVL threshold using Wigner analysis was 1.28 cm, yielding 93% sensitivity and 97% specificity </plain></SENT>
+<SENT sid="8" pm="."><plain>Using time domain analysis, the optimum threshold was 1.12 cm, yielding 90% sensitivity and 96% specificity </plain></SENT>
+<SENT sid="9" pm="."><plain>The methods were compared statistically (chi2) using their optimum thresholds, and were found not to be statistically different for classifying particles p=0.283) or gaseous emboli (p=0.700) </plain></SENT>
+<SENT sid="10" pm="."><plain>This study has shown that the SVL of embolic signals, used to differentiate particulate from gaseous emboli, can be calculated more simply in the time domain, which yields as accurate results as calculating the SVL using Wigner analysis </plain></SENT>
+</text></document>

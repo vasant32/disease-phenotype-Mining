@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The t(14;18) translocation, which is characteristic of follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo>, results in the overexpression of the bcl-2 gene dependent upon regulatory elements within the bcl-2 5' flanking region and the immunoglobulin heavy chain gene enhancers </plain></SENT>
+<SENT sid="1" pm="."><plain>Conflicting evidence exists on the effects of NF-kappaB expression on Bcl-2 levels in different cell types </plain></SENT>
+<SENT sid="2" pm="."><plain><z:hpo ids='HP_0002665'>Lymphoma</z:hpo> cells with the t(14;18) translocation show high levels of nuclear NF-kappaB proteins </plain></SENT>
+<SENT sid="3" pm="."><plain>We observed decreased levels of endogenous Bcl-2 when the IkappaBalpha-super-repressor was expressed in a t(14;18) cell line </plain></SENT>
+<SENT sid="4" pm="."><plain>Deletion analysis of the bcl-2 promoter indicated that the repressive effect of the IkappaBalpha-super-repressor occurred through a region that contained no NF-kappaB consensus sequences </plain></SENT>
+<SENT sid="5" pm="."><plain>This highly active region contained a c-<z:chebi fb="47" ids="16027,28971">AMP</z:chebi> response element (CRE) and several Sp1 binding sites </plain></SENT>
+<SENT sid="6" pm="."><plain>Chromatin immunoprecipitation assays with antibodies specific for the NF-kappaB and CREB/ATF family members, as well as Sp1, resulted in the isolation of this IkappaBalpha-super-repressor responsive region of the bcl-2 promoter </plain></SENT>
+<SENT sid="7" pm="."><plain>Mutation of the CRE and the two Sp1 sites in different combinations in bcl-2 reporter constructs resulted in the loss of bcl-2 promoter repression by the IkappaBalpha-super-repressor </plain></SENT>
+<SENT sid="8" pm="."><plain>We therefore conclude that the activation of bcl-2 by NF-kappaB in t(14;18) <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cells is mediated through the CRE and Sp1 binding sites </plain></SENT>
+</text></document>

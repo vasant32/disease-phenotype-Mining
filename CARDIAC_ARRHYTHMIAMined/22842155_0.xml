@@ -1,0 +1,7 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>In order to quantify small molecules at the early stage of drug discovery, we developed a quantitation approach based on mass spectrometry imaging (MSI) using matrix-assisted laser desorption/ionization time-of-flight mass spectrometry (MALDI-TOF MS) without the use of a labeled compound </plain></SENT>
+<SENT sid="1" pm="."><plain>We describe a method intended to respond to the main challenges encountered in quantification through MALDI imaging dedicated to whole-body or single <z:hpo ids='HP_0001425'>heterogeneous</z:hpo> organ samples (brain, eye, liver) </plain></SENT>
+<SENT sid="2" pm="."><plain>These include the high dependence of the detected signal on the matrix deposition, the MALDI ionization yield of specific target molecules, and lastly, the ion suppression effect on the tissue </plain></SENT>
+<SENT sid="3" pm="."><plain>To address these challenges, we based our approach on the use of a normalization factor called the TEC (Tissue Extinction Coefficient) </plain></SENT>
+<SENT sid="4" pm="."><plain>This factor takes into account the ion suppression effect that is both tissue- and drug-specific </plain></SENT>
+<SENT sid="5" pm="."><plain>Through this protocol, the amount of drug per gram of tissue was determined, which in turn, was compared with other analytical techniques such as Liquid Chromatography-Mass spectrometry (LC-MS/MS) </plain></SENT>
+</text></document>

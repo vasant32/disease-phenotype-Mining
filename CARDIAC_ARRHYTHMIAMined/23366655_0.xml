@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>In this paper, a person identification mechanism implemented with Cardioid based graph using electrocardiogram (ECG) is presented </plain></SENT>
+<SENT sid="1" pm="."><plain>Cardioid based graph has given a reasonably good classification accuracy in terms of differentiating between individuals </plain></SENT>
+<SENT sid="2" pm="."><plain>However, the current feature extraction method using Euclidean distance could be further improved by using Mahalanobis distance measurement producing extracted coefficients which takes into account the correlations of the data set </plain></SENT>
+<SENT sid="3" pm="."><plain>Identification is then done by applying these extracted features to Radial Basis Function Network </plain></SENT>
+<SENT sid="4" pm="."><plain>A total of 30 ECG data from MITBIH <z:mpath ids='MPATH_458'>Normal</z:mpath> Sinus Rhythm database (NSRDB) and MITBIH <z:hpo ids='HP_0011675'>Arrhythmia</z:hpo> database (MITDB) were used for development and evaluation purposes </plain></SENT>
+<SENT sid="5" pm="."><plain>Our experimentation results suggest that the proposed feature extraction method has significantly increased the classification performance of subjects in both databases with accuracy from 97.50% to 99.80% in NSRDB and 96.50% to 99.40% in MITDB </plain></SENT>
+<SENT sid="6" pm="."><plain>High sensitivity, specificity and positive predictive value of 99.17%, 99.91% and 99.23% for NSRDB and 99.30%, 99.90% and 99.40% for MITDB also validates the proposed method </plain></SENT>
+<SENT sid="7" pm="."><plain>This result also indicates that the right feature extraction technique plays a vital role in determining the persistency of the classification accuracy for Cardioid based person identification mechanism </plain></SENT>
+</text></document>

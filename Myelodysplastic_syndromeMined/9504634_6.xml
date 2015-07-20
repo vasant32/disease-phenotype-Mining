@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0002863'>Myelodysplastic syndromes</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e>) are a group of clonal disturbances with defective cellular differentiation </plain></SENT>
+<SENT sid="1" pm="."><plain><z:chebi fb="0" ids="28940">Vitamin D3</z:chebi> (VD) analogues can act on the differentiation and maturity of different cell lines </plain></SENT>
+<SENT sid="2" pm="."><plain>We studied the effects of VD on a series of patients with <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> in an open-design trial </plain></SENT>
+<SENT sid="3" pm="."><plain>Nineteen patients, 12 men and seven women, with <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> were included </plain></SENT>
+<SENT sid="4" pm="."><plain>Patients were 74.8 +/- 5.6 years (mean +/- SD), seven had refractory <z:hpo ids='HP_0001903'>anaemia</z:hpo> with ringed sideroblasts, five had refractory <z:hpo ids='HP_0001903'>anaemia</z:hpo>, one had refractory <z:hpo ids='HP_0001903'>anaemia</z:hpo> with excess of blasts and six had <z:hpo ids='HP_0011010'>chronic</z:hpo> <z:mpath ids='MPATH_501'>myelomonocytic leukaemia</z:mpath> </plain></SENT>
+<SENT sid="5" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> the patients were in a low to intermediate risk group </plain></SENT>
+<SENT sid="6" pm="."><plain>Mean follow-up period was 26.21 months, range 9-75 </plain></SENT>
+<SENT sid="7" pm="."><plain>Responders were defined as follows: granulocyte or platelet count increase by 50%, or <z:chebi fb="34" ids="35143">haemoglobin</z:chebi> increase of 1.5 g/dl or transfusion needs decrease by 50% </plain></SENT>
+<SENT sid="8" pm="."><plain>The first five patients received 266 microg of <z:chebi fb="0" ids="17933">calcifediol</z:chebi> three times a week and the other 14 received <z:chebi fb="0" ids="17823">calcitriol</z:chebi> (0.25-0.75 microg/d) </plain></SENT>
+<SENT sid="9" pm="."><plain>Response was observed in 11 patients </plain></SENT>
+<SENT sid="10" pm="."><plain>In the <z:chebi fb="0" ids="17933">calcifediol</z:chebi>-treated group, one case responded, three were nonresponders, and one showed progression </plain></SENT>
+<SENT sid="11" pm="."><plain>In the <z:chebi fb="0" ids="17823">calcitriol</z:chebi> group, 10 were responders (two with major response), and four were non-responders </plain></SENT>
+<SENT sid="12" pm="."><plain>No correlation was observed between baseline levels of <z:chebi fb="27" ids="27300">vitamin D</z:chebi> metabolites and the presence of response </plain></SENT>
+<SENT sid="13" pm="."><plain>No <z:hpo ids='HP_0003072'>hypercalcaemia</z:hpo> was observed </plain></SENT>
+<SENT sid="14" pm="."><plain>Treatment with <z:chebi fb="0" ids="28940">vitamin D3</z:chebi> metabolites could induce a long-standing response of the haematological disturbance in some low-intermediate risk <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> patients without inducing <z:hpo ids='HP_0003072'>hypercalcaemia</z:hpo> </plain></SENT>
+</text></document>

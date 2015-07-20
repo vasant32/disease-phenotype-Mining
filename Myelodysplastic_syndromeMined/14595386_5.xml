@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Allogeneic hematopoietic stem cell transplantation (HSCT) is the only curative therapy for patients with <z:hpo ids='HP_0002863'>myelodysplastic syndromes</z:hpo> (MDSs) </plain></SENT>
+<SENT sid="1" pm="."><plain>We have analyzed the outcome of 81 patients who underwent an allogeneic transplant from an HLA-identical sibling donor </plain></SENT>
+<SENT sid="2" pm="."><plain>The overall survival (OS) was 31% and disease-free survival was 30% at 5.8 years </plain></SENT>
+<SENT sid="3" pm="."><plain>Transplant-related complications were the cause of <z:hpo ids='HP_0011420'>death</z:hpo> in 44% and disease progression in 16% of patients </plain></SENT>
+<SENT sid="4" pm="."><plain><z:hpo ids='HP_0011009'>Acute</z:hpo> <z:e sem="disease" ids="C0018133" disease_type="Disease or Syndrome" abbrv="GVH">graft-versus-host disease</z:e> (aGVHD) grades II-IV occurred in 32 cases (39%) </plain></SENT>
+<SENT sid="5" pm="."><plain>Extensive <z:hpo ids='HP_0011010'>chronic</z:hpo> GVHD (cGVHD) was observed in 27% of patients </plain></SENT>
+<SENT sid="6" pm="."><plain>When the log-rank test was performed, we observed that patients transplanted more than 6 months after diagnosis, and those transplanted with bone marrow (BM) displayed a shorter survival (P=0.009 and 0.005, respectively) </plain></SENT>
+<SENT sid="7" pm="."><plain>Patients who developed cGVHD showed a trend towards better OS (P=0.07) </plain></SENT>
+<SENT sid="8" pm="."><plain>Patients receiving BM had a higher incidence of aGVHD (65 vs 50%) and less cGVHD (52 vs 30%), although the differences did not reach statistical significance </plain></SENT>
+<SENT sid="9" pm="."><plain>Moreover, patients who received PB-<z:chebi fb="15" ids="50443">HSC</z:chebi> displayed a faster engraftment (P=0.000) and showed a significantly lower early transplant-related mortality (14 vs 42%; P=0.006) and longer OS (P=0.005) </plain></SENT>
+<SENT sid="10" pm="."><plain>In summary, our results show that hematopoietic transplantation should be performed as soon as possible in <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> patients and that PB is preferable to BM as a source of <z:chebi fb="15" ids="50443">HSC</z:chebi> </plain></SENT>
+</text></document>

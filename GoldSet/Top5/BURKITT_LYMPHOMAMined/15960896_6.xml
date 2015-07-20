@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIM: To investigate anticancer effects and molecular mechanism of deguelin on human Burkittos <z:hpo ids='HP_0002665'>lymphoma</z:hpo> Daudi cells in vitro and compare the cytotoxicities of deguelin on Daudi cells and human peripheral blood monocular cells (PBMC) </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: The effects of deguelin on the growth of Daudi cells were studied by 3-(4, 5-dimethyl-2-thiazolyl)-2,5-diphenyl-2H-tetrazolium (<z:chebi fb="0" ids="53233">MTT</z:chebi>) assay </plain></SENT>
+<SENT sid="2" pm="."><plain><z:mpath ids='MPATH_3'>Apoptosis</z:mpath> were detected through Hoechst 33258 staining and Annexin V/PI double-labeled cytometry </plain></SENT>
+<SENT sid="3" pm="."><plain>The effect of deguelin on the cell cycle of Daudi cells were studied by a <z:chebi fb="0" ids="51240">propidium iodide</z:chebi> method </plain></SENT>
+<SENT sid="4" pm="."><plain>The expressions of cyclin D1 and pRb were checked by Western blot </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: The proliferation of Daudi cells were decreased in deguelin-treated group with a 24-h IC50 value of 51.55 nmol/L </plain></SENT>
+<SENT sid="6" pm="."><plain>Deguelin induced Daudi cells <z:mpath ids='MPATH_3'>apoptosis</z:mpath> was in a time- and dose-dependent manner </plain></SENT>
+<SENT sid="7" pm="."><plain>G0/G1 phase increased and S phase decreased in Daudi cells treated with deguelin </plain></SENT>
+<SENT sid="8" pm="."><plain>With deguelin 0, 5, 10, 20, and 40 nmol/L treatment for 24 h, G0/G1 phase increased from 37.34% to 56.56%, whereas S phase decreased from 37.72% to 21.36% </plain></SENT>
+<SENT sid="9" pm="."><plain>PBMC was less sensitive to the cytotoxic effect of deguelin than Daudi cells </plain></SENT>
+<SENT sid="10" pm="."><plain>The expression of cyclin D1 and pRb protein were decreased sharply in Daudi cells treated with deguelin </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSION: Deguelin is able to inhibit the proliferation of Daudi cells by regulating the cell cycle that arrested cells at G0/G1 phase and inducing the cell <z:mpath ids='MPATH_3'>apoptosis</z:mpath> </plain></SENT>
+<SENT sid="12" pm="."><plain>Moreover, deguelin selectively induced <z:mpath ids='MPATH_3'>apoptosis</z:mpath> of Daudi cells with low toxicity in PBMC </plain></SENT>
+<SENT sid="13" pm="."><plain>The antitumor effects of deguelin were related to down-regulating the expression of cyclin D1 and pRb protein </plain></SENT>
+</text></document>

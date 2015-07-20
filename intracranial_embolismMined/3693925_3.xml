@@ -1,0 +1,5 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 59-year-old man developed <z:e sem="disease" ids="C0036690" disease_type="Disease or Syndrome" abbrv="">septicaemia</z:e> caused by Kingella denitrificans </plain></SENT>
+<SENT sid="1" pm="."><plain>Treatment was with <z:chebi fb="1" ids="28971">ampicillin</z:chebi> and an <z:chebi fb="0" ids="47779">aminoglycoside</z:chebi> </plain></SENT>
+<SENT sid="2" pm="."><plain>The illness was complicated by a cerebral <z:mpath ids='MPATH_110'>embolus</z:mpath> </plain></SENT>
+<SENT sid="3" pm="."><plain>An obvious source of <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infection</z:e> was not found </plain></SENT>
+</text></document>

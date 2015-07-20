@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We questioned if <z:hpo ids='HP_0011009'>acute</z:hpo> administration of n-3 fatty acids (FA) carried in n-3 rich <z:chebi fb="0" ids="17855">triglyceride</z:chebi> (TG) emulsions provides neuroprotection in neonatal mice subjected to hypoxic-ischemic (H/I) brain injury </plain></SENT>
+<SENT sid="1" pm="."><plain>We examined specificity of FA, optimal doses, and therapeutic windows for neuroprotection after H/I </plain></SENT>
+<SENT sid="2" pm="."><plain>H/I insult was induced in C57BL/6J 10-day-old mice by right carotid artery ligation followed by exposure to 8% <z:chebi fb="0" ids="15379">O(2)</z:chebi> for 15 minutes at 37°C </plain></SENT>
+<SENT sid="3" pm="."><plain>Intraperitoneal injection with n-3-rich TG emulsions, n-6 rich TG emulsions or saline for control was administered at different time points before and/or after H/I </plain></SENT>
+<SENT sid="4" pm="."><plain>In separate experiments, dose responses were determined with TG containing only <z:chebi fb="0" ids="36005">docosahexaenoic acid</z:chebi> (Tri-DHA) or eicosapentaenoic acid (Tri-<z:chebi fb="113" ids="28364">EPA</z:chebi>) with a range of 0.1-0.375 g n-3 TG/kg, administered immediately after H/I insult </plain></SENT>
+<SENT sid="5" pm="."><plain><z:mpath ids='MPATH_124'>Infarct</z:mpath> volume and cerebral blood flow (CBF) were measured </plain></SENT>
+<SENT sid="6" pm="."><plain>Treatment with n-3 TG emulsions both before- and after- H/I significantly reduced total <z:mpath ids='MPATH_124'>infarct</z:mpath> volume by a mean of 43% when administered 90 min prior to H/I and by 47% when administered immediately after H/I </plain></SENT>
+<SENT sid="7" pm="."><plain>In post-H/I experiments Tri-DHA, but not Tri-<z:chebi fb="113" ids="28364">EPA</z:chebi> exhibited neuroprotective effects with both low and high doses (p&lt;0.05) </plain></SENT>
+<SENT sid="8" pm="."><plain>Moreover, delayed post-H/I treatment with Tri-DHA significantly decreased total <z:mpath ids='MPATH_124'>infarct</z:mpath> volume by a mean of 51% when administered at 0 hr, by 46% at 1 hr, and by 51% at 2 hr after H/I insult </plain></SENT>
+<SENT sid="9" pm="."><plain>No protective effect occurred with Tri-DHA injection at 4 hr after H/I </plain></SENT>
+<SENT sid="10" pm="."><plain>There were no n-3 TG related differences in CBF </plain></SENT>
+<SENT sid="11" pm="."><plain>A significant reduction in brain tissue <z:hpo ids='HP_0011420'>death</z:hpo> was maintained after Tri-DHA injection at 8 wk after the initial brain injury </plain></SENT>
+<SENT sid="12" pm="."><plain>Thus, n-3 TG, specifically containing DHA, is protective against H/I induced <z:e sem="disease" ids="C0751955" disease_type="Disease or Syndrome" abbrv="">brain infarction</z:e> when administered up to 2 hr after H/I injury </plain></SENT>
+<SENT sid="13" pm="."><plain><z:hpo ids='HP_0011009'>Acute</z:hpo> administration of TG-rich DHA may prove effective for treatment of <z:hpo ids='HP_0001297'>stroke</z:hpo> in humans </plain></SENT>
+</text></document>

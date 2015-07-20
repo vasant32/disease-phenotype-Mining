@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Body fluid gas pressure and electrolytes of patients with ruptured <z:hpo ids='HP_0002617'>aneurysm</z:hpo> were continuously analyzed </plain></SENT>
+<SENT sid="1" pm="."><plain>Intracranial pressure (ICP) was regulated at the level of 120-100 mm <z:chebi fb="2" ids="29375,33813">H2O</z:chebi> by cerebral ventricular drainage </plain></SENT>
+<SENT sid="2" pm="."><plain>There was no significant change in the pH, PCO2, <z:chebi fb="0" ids="17544">HCO3-</z:chebi>, <z:chebi fb="1" ids="29101">Na+</z:chebi>, K+, <z:chebi fb="1" ids="39099">Ca+</z:chebi>+ in the cerebrospinal fluid (CSF) of patients with slight or moderate disturbance of consciousness (lethargic-drowsy state) </plain></SENT>
+<SENT sid="3" pm="."><plain>The PcsfO2 of the patients with marked <z:hpo ids='HP_0004372'>disturbances of consciousness</z:hpo> (semicoma-<z:hpo ids='HP_0001259'>coma</z:hpo>) was significantly low </plain></SENT>
+<SENT sid="4" pm="."><plain>PcsfO2 of the patients with <z:e sem="disease" ids="C0265110" disease_type="Disease or Syndrome" abbrv="">cerebral vasospasm</z:e> was significantly lower than for those without vasospasms </plain></SENT>
+<SENT sid="5" pm="."><plain>PcsfO2/PaO2 was 0.27 +/- 0.01 in the patients with vasospasm and 0.50 +/- 0.01 in those with vasospasm </plain></SENT>
+<SENT sid="6" pm="."><plain>PcsfO2 tended to decrease in patients with markedly bloody CSF </plain></SENT>
+<SENT sid="7" pm="."><plain>When the bloody CSF was cleared by ventricular drainage, PcsfO2 increased </plain></SENT>
+<SENT sid="8" pm="."><plain>PcsfO2 did not return to a <z:mpath ids='MPATH_458'>normal</z:mpath> value in the patients with marked <z:hpo ids='HP_0004372'>disturbances of consciousness</z:hpo> despite sufficient arterial oxygen tension </plain></SENT>
+<SENT sid="9" pm="."><plain>This suggests that PcsfO2 and PcsfO2/PaO2 should provide a convenient index for the prognosis of patients with ruptured <z:hpo ids='HP_0002617'>aneurysm</z:hpo> </plain></SENT>
+</text></document>

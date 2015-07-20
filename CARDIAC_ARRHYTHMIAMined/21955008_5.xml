@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>INTRODUCTION: <z:hpo ids='HP_0005110'>Atrial fibrillation</z:hpo> (AF) ablation requires postprocedural anticoagulation to prevent <z:hpo ids='HP_0001907'>thromboembolic events</z:hpo> because of the ablation procedure itself or due to recurrent AF postprocedure </plain></SENT>
+<SENT sid="1" pm="."><plain>Dabigatran is a new <z:chebi fb="3" ids="50249">anticoagulant</z:chebi> and may be useful after AF ablation to prevent <z:hpo ids='HP_0001907'>thromboembolic events</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS AND RESULTS: We evaluated 123 consecutive patients who were started on dabigatran after AF ablation </plain></SENT>
+<SENT sid="3" pm="."><plain>Patients were given enoxaparin 0.5 mg/kg at the end of the procedure, which was repeated 12 hours later and then discontinued </plain></SENT>
+<SENT sid="4" pm="."><plain>Dabigatran was started 22 hours postablation with drug dose based on renal function </plain></SENT>
+<SENT sid="5" pm="."><plain>Primary outcomes were <z:hpo ids='HP_0001907'>thromboembolic events</z:hpo>, <z:mp ids='MP_0001914'>bleeding</z:mp> complications, and side effects over a 30-day follow-up period </plain></SENT>
+<SENT sid="6" pm="."><plain>The preablation <z:chebi fb="3" ids="50249">anticoagulant</z:chebi> was <z:chebi fb="8" ids="10033">warfarin</z:chebi> in 56 (45.5%) patients, dabigatran in 34 (27.6%), and aspirin in 26 (21.1%) </plain></SENT>
+<SENT sid="7" pm="."><plain>Seven (5.7%) patients were on no <z:chebi fb="3" ids="50249">anticoagulant</z:chebi> before ablation </plain></SENT>
+<SENT sid="8" pm="."><plain>The patients on dabigatran before ablation with <z:mpath ids='MPATH_458'>normal</z:mpath> renal function had the drug stopped 36 hours preablation </plain></SENT>
+<SENT sid="9" pm="."><plain>There were no preprocedural or intraprocedural thromboembolic episodes or <z:mp ids='MP_0001914'>bleeding</z:mp> </plain></SENT>
+<SENT sid="10" pm="."><plain>Three patients received dabigatran 75 mg bid and the rest 150 mg bid </plain></SENT>
+<SENT sid="11" pm="."><plain>There were no postablation <z:hpo ids='HP_0001297'>strokes</z:hpo>, <z:hpo ids='HP_0002326'>transient ischemic attacks</z:hpo>, or systemic thromboemboli in any patient </plain></SENT>
+<SENT sid="12" pm="."><plain>Three patients discontinued dabigatran and were changed to <z:chebi fb="8" ids="10033">warfarin</z:chebi>, 2 because of gastrointestinal side effects and 1 because of a diffuse <z:e sem="disease" ids="C0015230" disease_type="Disease or Syndrome" abbrv="">rash</z:e> </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSIONS: Dabigatran is safe and well tolerated after AF ablation </plain></SENT>
+<SENT sid="14" pm="."><plain>It did not cause <z:mp ids='MP_0001914'>bleeding</z:mp> complications and there were no <z:hpo ids='HP_0001907'>thromboembolic events</z:hpo> </plain></SENT>
+<SENT sid="15" pm="."><plain>Dabigatran appears to be an alternative to <z:chebi fb="8" ids="10033">warfarin</z:chebi> after AF ablation </plain></SENT>
+</text></document>

@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The sequence of Epstein-Barr virus (EBV) and B lymphocyte changes in the 3 days following <z:hpo ids='HP_0011009'>acute</z:hpo> <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infection</z:e> was analyzed </plain></SENT>
+<SENT sid="1" pm="."><plain>By 16 hr the average infected lymphocyte had 1 EBV episome </plain></SENT>
+<SENT sid="2" pm="."><plain>Nuclear protein-2 (EBNA-2) and EBNA-leader protein (-LP) were detected by 12 hr, and by 32 hr were at the levels of stable <z:e sem="disease" ids="C0149678" disease_type="Disease or Syndrome" abbrv="">EBV infection</z:e> in lymphoblastoid cell lines (LCLs) </plain></SENT>
+<SENT sid="3" pm="."><plain>At 12 hr, <z:hpo ids='HP_0000001'>all</z:hpo> EBNA-LP and EBNA-2 RNAs were initiated from the Pw promoter </plain></SENT>
+<SENT sid="4" pm="."><plain>By 36 hr a significant EBNA-LP and EBNA-2 RNA fraction initiated from the upstream Pc promoter </plain></SENT>
+<SENT sid="5" pm="."><plain>Throughout <z:hpo ids='HP_0011009'>acute</z:hpo> <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infection</z:e>, a similar fraction of potentially bicistronic EBNA-LP <z:chebi fb="2" ids="33699">mRNAs</z:chebi> had first exon splices which would result in EBNA-LP translation </plain></SENT>
+<SENT sid="6" pm="."><plain>By 36 hr c-myc <z:chebi fb="40" ids="33697">RNA</z:chebi> was transiently induced, and CD21 and CD23 <z:chebi fb="40" ids="33697">RNAs</z:chebi> were beginning to increase </plain></SENT>
+<SENT sid="7" pm="."><plain>This coincided with low-level EBNA-1, EBNA-3A, B, and C, and latent membrane protein-1 (LMP-1) expression </plain></SENT>
+<SENT sid="8" pm="."><plain>By 46 hr, EBNA-1, the EBNA-3s, and LMP-1 were near the levels ordinarily found in LCLs and a substantial fraction of lymphocytes were in S phase </plain></SENT>
+<SENT sid="9" pm="."><plain>These results are compatible with a key role for EBNA-2 (or EBNA-LP) in regulating virus and cell gene expression </plain></SENT>
+<SENT sid="10" pm="."><plain>High-level expression of the EBV-encoded small <z:chebi fb="40" ids="33697">RNAs</z:chebi>, EBERs, was delayed beyond 36 hr and may, therefore, be activated by other virus or cell genes </plain></SENT>
+<SENT sid="11" pm="."><plain>A 65-kDa virion protein persisted in acutely infected cells </plain></SENT>
+<SENT sid="12" pm="."><plain>This protein could be a mediator of virus or cell gene expression </plain></SENT>
+</text></document>

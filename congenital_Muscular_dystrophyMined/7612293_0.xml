@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A patient with non-Fukuyama type merosin-positive <z:hpo ids='HP_0003741'>congenital muscular dystrophy</z:hpo> (nonFCMD) who had severe <z:hpo ids='HP_0001324'>muscle weakness</z:hpo> leading to early <z:hpo ids='HP_0011420'>death</z:hpo> was reported </plain></SENT>
+<SENT sid="1" pm="."><plain>He was the first product of <z:e sem="disease" ids="C0014544" disease_type="Disease or Syndrome" abbrv="">epileptic</z:e> mother who had been placed on <z:chebi fb="1" ids="8069">phenobarbital</z:chebi> and phenytoin </plain></SENT>
+<SENT sid="2" pm="."><plain>The patient had severe <z:hpo ids='HP_0002093'>respiratory failure</z:hpo> and <z:hpo ids='HP_0001324'>muscle weakness</z:hpo> at the neonatal period, and died at 4 months of age </plain></SENT>
+<SENT sid="3" pm="."><plain><z:hpo ids='HP_0002828'>Multiple joint contractures</z:hpo> were also noted at birth </plain></SENT>
+<SENT sid="4" pm="."><plain>Serum <z:chebi fb="2" ids="16919">creatine</z:chebi> kinase was within <z:mpath ids='MPATH_458'>normal</z:mpath> limits (123 IU/l) </plain></SENT>
+<SENT sid="5" pm="."><plain>Electromyography showed a myogenic pattern </plain></SENT>
+<SENT sid="6" pm="."><plain>Brain computed tomographic (CT) scan and magnetic resonance imaging (MRI) were <z:mpath ids='MPATH_458'>normal</z:mpath> without white matter lucency or <z:hpo ids='HP_0001302'>pachygyria</z:hpo> </plain></SENT>
+<SENT sid="7" pm="."><plain>Muscle biopsy revealed dystrophic changes and type 2C fiber predominance </plain></SENT>
+<SENT sid="8" pm="."><plain>Dystrophin, dystrophin-associated <z:chebi fb="0" ids="17089">glycoproteins</z:chebi> and merosin were <z:hpo ids='HP_0000001'>all</z:hpo> positively demonstrated </plain></SENT>
+<SENT sid="9" pm="."><plain>Although patients with merosin-positive nonFCMD have relatively mild clinical course, our patient had severe <z:hpo ids='HP_0001324'>muscle weakness</z:hpo> with fatal outcome </plain></SENT>
+<SENT sid="10" pm="."><plain>Defect in muscle fiber maturation and differentiation, such as an increase of undifferentiated type 2C fibers, may be a major factor to influence muscle symptoms in non FCMD </plain></SENT>
+</text></document>

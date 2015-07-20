@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Long term continuous monitoring of electrocardiogram (ECG) in a free living environment provides valuable information for prevention on the <z:e sem="disease" ids="C0027051" disease_type="Disease or Syndrome" abbrv="MR|mi|AMI">heart attack</z:e> and other high risk diseases </plain></SENT>
+<SENT sid="1" pm="."><plain>This paper presents the design of a real-time wearable ECG monitoring system with associated <z:hpo ids='HP_0011675'>cardiac arrhythmia</z:hpo> classification algorithms </plain></SENT>
+<SENT sid="2" pm="."><plain>One of the striking advantages is that ECG analog front-end and on-node digital processing are designed to remove most of the noise and bias </plain></SENT>
+<SENT sid="3" pm="."><plain>In addition, the wearable sensor node is able to monitor the patient's ECG and motion signal in an unobstructive way </plain></SENT>
+<SENT sid="4" pm="."><plain>To realize the real-time medical analysis, the ECG is digitalized and transmitted to a smart phone via Bluetooth </plain></SENT>
+<SENT sid="5" pm="."><plain>On the smart phone, the ECG waveform is visualized and a novel layered hidden Markov model is seamlessly integrated to classify multiple <z:hpo ids='HP_0011675'>cardiac arrhythmias</z:hpo> in real time </plain></SENT>
+<SENT sid="6" pm="."><plain>Experimental results demonstrate that the clean and reliable ECG waveform can be captured in multiple stressed conditions and the real-time classification on <z:hpo ids='HP_0011675'>cardiac arrhythmia</z:hpo> is competent to other workbenches </plain></SENT>
+</text></document>

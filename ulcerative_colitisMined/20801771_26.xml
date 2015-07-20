@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: To compare four faecal markers for their ability to predict steroid refractoriness in severe paediatric <z:hpo ids='HP_0100279'>ulcerative colitis</z:hpo> (UC) </plain></SENT>
+<SENT sid="1" pm="."><plain>Construct validity and responsiveness to change were also assessed </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: This was a prospective multicentre cohort study </plain></SENT>
+<SENT sid="3" pm="."><plain>Stool samples from 101 children (13.3 + or - 3.6 years; Pediatric UC Activity Index (PUCAI) at admission 72 + or - 12 points) were obtained at the third day of intravenous steroid therapy </plain></SENT>
+<SENT sid="4" pm="."><plain>Repeated samples at discharge were obtained from 24 children </plain></SENT>
+<SENT sid="5" pm="."><plain>Predictive validity was assessed using diagnostic utility statistics to predict steroid failure (ie, the need for salvage treatment) </plain></SENT>
+<SENT sid="6" pm="."><plain>Concurrent validity was assessed using correlational analysis with the following constructs: PUCAI, Lindgren and Seo scores, physician's global assessment, albumin, erythrocyte sedimentation rate and C-reactive protein (CRP) </plain></SENT>
+<SENT sid="7" pm="."><plain>Responsiveness was assessed using test utility and correlational strategies </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: Median values (IQR) were very high at baseline for <z:hpo ids='HP_0000001'>all</z:hpo> four markers (calprotectin 4215 microg/g (2297-8808); lactoferrin 212 microg/g (114-328); M2-<z:chebi fb="1" ids="15361">pyruvate</z:chebi> kinase (M2-PK) 363 U/g (119-3104); and S100A12 469 microg/g (193-1112)) </plain></SENT>
+<SENT sid="9" pm="."><plain>M2-PK was numerically superior to the other three markers and CRP in predicting response to <z:chebi fb="0" ids="50858">corticosteroid</z:chebi> treatment (area under the receiver operating characteristic (ROC) curve 0.75 (95% CI 0.64 to 0.85; p&lt;0.001) vs &lt;0.65 for the others) </plain></SENT>
+<SENT sid="10" pm="."><plain>However, it did not add to the predictive ability of the PUCAI (area under the ROC 0.81 (95% CI 0.73 to 0.89)) </plain></SENT>
+<SENT sid="11" pm="."><plain>M2-PK also had the highest construct validity but with a modest mean correlation with <z:hpo ids='HP_0000001'>all</z:hpo> constructs (r=0.3; p&lt;0.05) </plain></SENT>
+<SENT sid="12" pm="."><plain>None of the markers was responsive to change (Spearman's rho correlation with change in the PUCAI &lt;0.1; p&gt;0.05, area under the ROC curve &lt;0.65; p&gt;0.05) </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSIONS: The four markers were greatly elevated in severe paediatric UC </plain></SENT>
+<SENT sid="14" pm="."><plain>Only M2-PK had good construct and predictive validity, and none was responsive to change </plain></SENT>
+<SENT sid="15" pm="."><plain>The PUCAI, a simple clinical index, performed better than the faecal markers in predicting outcome following a course of intravenous <z:chebi fb="0" ids="50858">corticosteroids</z:chebi> in severe UC </plain></SENT>
+</text></document>

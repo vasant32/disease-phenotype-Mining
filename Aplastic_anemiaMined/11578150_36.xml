@@ -1,0 +1,21 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Severe <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> is a life-threatening <z:hpo ids='HP_0005528'>bone marrow failure</z:hpo> disorder </plain></SENT>
+<SENT sid="1" pm="."><plain>High-dose <z:chebi fb="0" ids="4027">cyclophosphamide</z:chebi> therapy followed by allogeneic bone marrow transplantation cures the disease </plain></SENT>
+<SENT sid="2" pm="."><plain>However, it requires a suitable donor and carries the risk for <z:e sem="disease" ids="C0018133" disease_type="Disease or Syndrome" abbrv="GVH">graft-versus-host disease</z:e> </plain></SENT>
+<SENT sid="3" pm="."><plain>A small pilot study demonstrated that high-dose <z:chebi fb="0" ids="4027">cyclophosphamide</z:chebi> therapy without bone marrow transplantation leads to durable, treatment-free complete remission </plain></SENT>
+<SENT sid="4" pm="."><plain>OBJECTIVE: To confirm the safety and efficacy of high-dose <z:chebi fb="0" ids="4027">cyclophosphamide</z:chebi> therapy alone in patients with severe <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> </plain></SENT>
+<SENT sid="5" pm="."><plain>DESIGN: Uncontrolled clinical trial </plain></SENT>
+<SENT sid="6" pm="."><plain>SETTING: Three tertiary care hospitals </plain></SENT>
+<SENT sid="7" pm="."><plain>PATIENTS: 19 patients with untreated severe <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> </plain></SENT>
+<SENT sid="8" pm="."><plain>INTERVENTION: <z:chebi fb="0" ids="4027">Cyclophosphamide</z:chebi>, 50 mg/kg of body weight per day for 4 consecutive days </plain></SENT>
+<SENT sid="9" pm="."><plain>MEASUREMENTS: Probability of response and overall survival were measured </plain></SENT>
+<SENT sid="10" pm="."><plain>Complete remission was defined as <z:mpath ids='MPATH_458'>normal</z:mpath> blood count for age and sex </plain></SENT>
+<SENT sid="11" pm="."><plain>Partial remission was defined as independence from transfusion and an absolute neutrophil count greater than 0.5 x 10(9) cells/L without growth factor support </plain></SENT>
+<SENT sid="12" pm="."><plain>Nonresponders were patients who remained transfusion dependent or died </plain></SENT>
+<SENT sid="13" pm="."><plain>Relapse was defined as no longer meeting criteria for partial or complete remission </plain></SENT>
+<SENT sid="14" pm="."><plain>RESULTS: The median time to an absolute neutrophil count of 0.5 x 10(9) cells/L was 49 days </plain></SENT>
+<SENT sid="15" pm="."><plain>The probability of survival was 84% (95% CI, 59% to 95%) at 24 months </plain></SENT>
+<SENT sid="16" pm="."><plain>The probability of achieving treatment-free remission was 73% (CI, 51% to 91%) at 24 months, and the probability of achieving complete remission was 65% (CI, 39% to 89%) at 50 months </plain></SENT>
+<SENT sid="17" pm="."><plain>No responding patients have had relapse or have developed secondary clonal disorders </plain></SENT>
+<SENT sid="18" pm="."><plain>CONCLUSIONS: High-dose <z:chebi fb="0" ids="4027">cyclophosphamide</z:chebi> therapy without bone marrow transplantation produces durable treatment-free remission in severe <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> </plain></SENT>
+<SENT sid="19" pm="."><plain>This approach deserves further study in patients with severe <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> who are not suitable candidates for allogeneic bone marrow transplantation </plain></SENT>
+</text></document>

@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: To study the role of extracellular signal-regulated kinase (ERK) in <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> and the mechanism of protective effects of U0126 (1,4-diamino-2,3-dicyano-1,4-bis[2-aminophenylthio] <z:chebi fb="7" ids="39479">butadiene</z:chebi>) on ischemic brain </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: Mice underwent left middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (MCAO) by introducing a suture in the lumen </plain></SENT>
+<SENT sid="2" pm="."><plain>U0126 was injected intravenously through the internal jugular vein </plain></SENT>
+<SENT sid="3" pm="."><plain>The immuno-activity of phosphorylated ERK1/2 (pERK1/2), phosphorylated <z:chebi fb="0" ids="52290">mitogen</z:chebi> activated protein kinase kinase (pMEK), and phosphorylated Elk-1 (pElk-1) was assessed by Western blot analysis and immunohistochemistry </plain></SENT>
+<SENT sid="4" pm="."><plain>Interleukin (IL)-1beta <z:chebi fb="2" ids="33699">mRNA</z:chebi> level was measured by ribonuclease protection assay </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: Phosphorylated ERK1/2 in 2 hours MCAO mice was down-regulated after intravenous injection of U0126 </plain></SENT>
+<SENT sid="6" pm="."><plain>The inhibition was dose dependent and treatment time related </plain></SENT>
+<SENT sid="7" pm="."><plain>pMEK and pElk-1 were also reduced in a similar fashion after U0126 treatment </plain></SENT>
+<SENT sid="8" pm="."><plain>IL-1beta <z:chebi fb="2" ids="33699">mRNA</z:chebi> increased after 1 and 2 hours of MCAO </plain></SENT>
+<SENT sid="9" pm="."><plain>After injection of U0126, it was down-regulated during 1 to 4 hours after MCAO </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSION: Intravenous administration of the MEK inhibitor U0126 inhibits pMEK, pERK1/2, and pElk-1 up-regulation induced by <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> </plain></SENT>
+<SENT sid="11" pm="."><plain>The protective effect of U0126 against ischemic injury is probably resulted from the reduction of IL-1beta <z:chebi fb="2" ids="33699">mRNA</z:chebi> via the inhibition of ERK pathway </plain></SENT>
+</text></document>

@@ -1,0 +1,4 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Studies have shown a protective effect of hydroxychloroquine on <z:mp ids='MP_0005048'>thrombosis</z:mp> in <z:hpo ids='HP_0002725'>systemic lupus erythematosus</z:hpo> patients </plain></SENT>
+<SENT sid="1" pm="."><plain>Recent in vitro studies have demonstrated that this molecule was able to restore the <z:chebi fb="3" ids="50249">anticoagulant</z:chebi> action of annexin A5, which is reduced in presence of <z:hpo ids='HP_0003613'>antiphospholipid antibodies</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>Hydroxychloroquine use may be a new approach of the prevention of <z:mp ids='MP_0005048'>thrombosis</z:mp> in the <z:e sem="disease" ids="C0085278" disease_type="Disease or Syndrome" abbrv="">antiphospholipid syndrome</z:e>, which remains to be validated by well-conducted clinical trials </plain></SENT>
+</text></document>

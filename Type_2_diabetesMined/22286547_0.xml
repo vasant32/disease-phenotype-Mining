@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND/AIMS: Recent evidence has shown that an inflammatory process is involved in the development and progression of diabetic <z:hpo ids='HP_0000112'>nephropathy</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>This study examined the impact of activated intrarenal lymphocytes in this inflammatory process </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: We studied T cell recruitment in mice with <z:chebi fb="1" ids="9288">streptozotocin</z:chebi> (STZ)-induced <z:mp ids='MP_0002055'>diabetes</z:mp> by flow cytometry and immunohistochemistry </plain></SENT>
+<SENT sid="3" pm="."><plain>The kidney biopsy specimens from patients with type 2 <z:hpo ids='HP_0000819'>diabetes mellitus</z:hpo> and diabetic <z:hpo ids='HP_0000112'>nephropathy</z:hpo> were evaluated by immunohistochemistry </plain></SENT>
+<SENT sid="4" pm="."><plain>RESULTS: In flow cytometry, intrarenal CD3+ T cells were significantly increased in proteinuric mice at 20 weeks after STZ injection </plain></SENT>
+<SENT sid="5" pm="."><plain>However, the population of T cells and B cells in diabetic spleen was not different from that of control mice </plain></SENT>
+<SENT sid="6" pm="."><plain>Immunohistochemistry also showed a marked infiltration of interstitial CD4+, CD8+ T cells in diabetic kidney </plain></SENT>
+<SENT sid="7" pm="."><plain>Interferon-γ (IFN-γ) and <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> <z:mp ids='MP_0001651'>necrosis</z:mp> factor-α (TNF-α) <z:chebi fb="2" ids="33699">mRNA</z:chebi> expression was significantly increased in diabetic mouse kidney compared with controls </plain></SENT>
+<SENT sid="8" pm="."><plain>Interestingly, flow cytometry analysis of kidney-derived mononuclear cells from diabetic mice showed significantly increased production of IFN-γ and TNF-α by CD3+ T cells </plain></SENT>
+<SENT sid="9" pm="."><plain>Type 2 diabetic patients also showed a marked increase in CD4+, CD8+ and CD20+ cells in interstitium, and the number of CD4+ and CD20+ cells correlated with the amount of <z:hpo ids='HP_0000093'>proteinuria</z:hpo> </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSION: Our results clearly showed that aberrant intrarenal infiltration and the activation of T cells in interstitium are the underlying immunopathological mechanisms of diabetic kidney injury </plain></SENT>
+</text></document>

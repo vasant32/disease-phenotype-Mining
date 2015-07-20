@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND PURPOSE: The severity of the neurological deficit after <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> is moderately correlated with <z:mpath ids='MPATH_124'>infarct</z:mpath> volume </plain></SENT>
+<SENT sid="1" pm="."><plain>In the current study, we sought to quantify the impact of location on neurological deficit severity and to delineate this impact from that of volume </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: We developed atlases consisting of location-weighted values indicating the relative importance in terms of neurological deficit severity for every voxel of the brain </plain></SENT>
+<SENT sid="3" pm="."><plain>These atlases were applied to 80 first-ever <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> patients to produce estimates of clinical deficit severity </plain></SENT>
+<SENT sid="4" pm="."><plain>Each patient had an MRI and National Institutes of Health <z:hpo ids='HP_0001297'>Stroke</z:hpo> Scale (NIHSS) examination just before or soon after hospital discharge </plain></SENT>
+<SENT sid="5" pm="."><plain>The correlation between the location-based deficit predictions and measured neurological deficit (NIHSS) scores were compared with the correlation obtained using volume alone to predict the neurological deficit </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: Volume-based estimates of neurological deficit severity were only moderately correlated with measured NIHSS scores (r=0.62) </plain></SENT>
+<SENT sid="7" pm="."><plain>The combination of volume and location resulted in a significantly better correlation with clinical deficit severity (r=0.79, P=0.032) </plain></SENT>
+<SENT sid="8" pm="."><plain>CONCLUSIONS: The atlas methodology is a feasible way of integrating <z:mpath ids='MPATH_124'>infarct</z:mpath> size and location to predict <z:hpo ids='HP_0001297'>stroke</z:hpo> severity </plain></SENT>
+<SENT sid="9" pm="."><plain>It can estimate <z:hpo ids='HP_0001297'>stroke</z:hpo> severity better than volume alone </plain></SENT>
+</text></document>

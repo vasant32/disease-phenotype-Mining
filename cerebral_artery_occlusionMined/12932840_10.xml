@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>To test the hypothesis that presence of metalloproteases (MMPs), their inhibitors (TIMPs) and their substrate laminin-5 differs between the ischemic core and the surrounding tissue, we examined the impact of middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp>/reperfusion (<z:chebi fb="70" ids="34342">MCA</z:chebi>:O/R) on these molecules in different regions of the <z:mpath ids='MPATH_124'>infarct</z:mpath> </plain></SENT>
+<SENT sid="1" pm="."><plain>We also investigated the influence of <z:hpo ids='HP_0002045'>hypothermia</z:hpo> on the progression of the ischemic lesion and MMP activity </plain></SENT>
+<SENT sid="2" pm="."><plain>Brain sections from 64 Wistar rats subjected to <z:chebi fb="70" ids="34342">MCA</z:chebi>:O/R were examined by means of cytohistochemistry and zymography </plain></SENT>
+<SENT sid="3" pm="."><plain>The artery was occluded for 2 h followed by 3, 5, 8 and 12 h of reperfusion </plain></SENT>
+<SENT sid="4" pm="."><plain>Well characterized antibodies against laminin-5, MMPs and TIMP-2 were used </plain></SENT>
+<SENT sid="5" pm="."><plain>A total of 32 rats were treated with <z:hpo ids='HP_0002045'>hypothermia</z:hpo> </plain></SENT>
+<SENT sid="6" pm="."><plain>The presence of each antigen was related to the following regions of interest: ischemic core with <z:chebi fb="2" ids="33602">BBB</z:chebi> breakdown (I(c)), surrounding ischemic tissue without <z:chebi fb="2" ids="33602">BBB</z:chebi> breakdown (I(r)), and the contralateral non-ischemic region (N) </plain></SENT>
+<SENT sid="7" pm="."><plain>Regions of interest were defined by MRI </plain></SENT>
+<SENT sid="8" pm="."><plain>The I(c) increased over time at the cost of the I(r) </plain></SENT>
+<SENT sid="9" pm="."><plain><z:chebi fb="2" ids="33602">BBB</z:chebi> breakdown occurred early in the ischemic core and increased over time </plain></SENT>
+<SENT sid="10" pm="."><plain><z:hpo ids='HP_0002045'>Hypothermia</z:hpo> reduced the <z:chebi fb="2" ids="33602">BBB</z:chebi> breakdown at <z:hpo ids='HP_0000001'>all</z:hpo> time points </plain></SENT>
+<SENT sid="11" pm="."><plain>A graded decreased presence of laminin-5 was observed with 16.5+/-3.7(N)&gt;10+/-2.8(I(r))&gt;4+/-1.4(I(c)) immunopositive microvessels/mm(2) at 3 h of reperfusion </plain></SENT>
+<SENT sid="12" pm="."><plain>MMP-9 showed a reverse pattern with 0 (N)&lt;4+/-0.8(I(r))&lt;10+/-1.5(I(c)) immunopositive microvessels/mm(2) </plain></SENT>
+<SENT sid="13" pm="."><plain><z:hpo ids='HP_0002045'>Hypothermia</z:hpo> decreased the MMP activity measured by zymography </plain></SENT>
+<SENT sid="14" pm="."><plain>Laminin-5 and MMP presence relate directly to the degree of postischemic injury </plain></SENT>
+<SENT sid="15" pm="."><plain><z:hpo ids='HP_0002045'>Hypothermia</z:hpo> reduces the conversion from the I(r) to ischemic core and the degree of <z:chebi fb="2" ids="33602">BBB</z:chebi> as well as MMP abundance </plain></SENT>
+</text></document>

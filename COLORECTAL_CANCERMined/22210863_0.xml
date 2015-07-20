@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Deregulation of cell signaling pathways plays a crucial role in the development of <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumors</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>The identification of such pathways requires effective analysis tools that facilitate the interpretation of expression differences </plain></SENT>
+<SENT sid="2" pm="."><plain>Here, we present a novel and highly efficient method for identifying deregulated subnetworks in a regulatory network </plain></SENT>
+<SENT sid="3" pm="."><plain>Given a score for each node that measures the degree of deregulation of the corresponding gene or protein, the algorithm computes the heaviest connected subnetwork of a specified size reachable from a designated root node </plain></SENT>
+<SENT sid="4" pm="."><plain>This root node can be interpreted as a molecular key player responsible for the observed deregulation </plain></SENT>
+<SENT sid="5" pm="."><plain>To demonstrate the potential of our approach, we analyzed three gene expression data sets </plain></SENT>
+<SENT sid="6" pm="."><plain>In one scenario, we compared expression profiles of non-malignant primary mammary epithelial cells derived from BRCA1 mutation carriers and of epithelial cells without BRCA1 mutation </plain></SENT>
+<SENT sid="7" pm="."><plain>Our results suggest that <z:mp ids='MP_0003674'>oxidative stress</z:mp> plays an important role in epithelial cells of BRCA1 mutation carriers and that the activation of stress proteins may result in avoidance of <z:mpath ids='MPATH_3'>apoptosis</z:mpath> leading to an increased overall survival of cells with genetic alterations </plain></SENT>
+<SENT sid="8" pm="."><plain>In summary, our approach opens new avenues for the elucidation of pathogenic mechanisms and for the detection of molecular key players </plain></SENT>
+</text></document>

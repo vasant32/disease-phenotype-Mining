@@ -1,0 +1,22 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The upregulation or mutation of C-MYC has been observed in gastric, colon, breast, and <z:hpo ids='HP_0100526'>lung tumors</z:hpo> and in Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>However, little is known about the role C-MYC plays in <z:mp ids='MP_0008010'>gastric adenocarcinoma</z:mp> </plain></SENT>
+<SENT sid="2" pm="."><plain>In the present study, we intended to investigate the influence of C-MYC on the growth, proliferation, <z:mpath ids='MPATH_3'>apoptosis</z:mpath>, invasion, and cell cycle of the <z:hpo ids='HP_0012126'>gastric cancer</z:hpo> cell line SGC7901 and the gastric cell line HFE145 </plain></SENT>
+<SENT sid="3" pm="."><plain>C-MYC cDNA was subcloned into a constitutive vector PCDNA3.1 followed by transfection in <z:mpath ids='MPATH_458'>normal</z:mpath> gastric cell line HFE145 by using liposome </plain></SENT>
+<SENT sid="4" pm="."><plain>Then stable transfectants were selected and appraised </plain></SENT>
+<SENT sid="5" pm="."><plain>Specific inhibition of C-MYC was achieved using a vector-based siRNA system which was transfected in <z:hpo ids='HP_0012126'>gastric cancer</z:hpo> cell line SGC7901 </plain></SENT>
+<SENT sid="6" pm="."><plain>The <z:mpath ids='MPATH_3'>apoptosis</z:mpath> and cell cycles of these clones were analyzed by using flow cytometric assay </plain></SENT>
+<SENT sid="7" pm="."><plain>The growth and proliferation were analyzed by cell growth curves and colony-forming assay, respectively </plain></SENT>
+<SENT sid="8" pm="."><plain>The invasion of these clones was analyzed by using cell migration assay </plain></SENT>
+<SENT sid="9" pm="."><plain>The C-MYC stable expression clones (HFE-Myc) and C-MYC RNAi cells (SGC-<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e>) were detected and compared with their control groups, respectively </plain></SENT>
+<SENT sid="10" pm="."><plain>HFE-Myc grew faster than HFE145 and HFE-PC (HFE145 transfected with PCDNA3.1 vector) </plain></SENT>
+<SENT sid="11" pm="."><plain>SGC-MR1, 2 grew slower than SGC7901 and SGC-MS1, 2 (SGC7901 transfected with scrambled control duplexes) </plain></SENT>
+<SENT sid="12" pm="."><plain>The cell counts of HFE-Myc in the third, fourth, fifth, sixth, and seventh days were significantly more than those of control groups (P &lt; 0.05) </plain></SENT>
+<SENT sid="13" pm="."><plain>Those of SGC-MR1, 2 in the fourth, fifth, sixth, and seventh days were significantly fewer than those of control groups (P &lt; 0.05) </plain></SENT>
+<SENT sid="14" pm="."><plain>Cell cycle analysis showed that proportions of HFE-Myc and SGC-<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e> cells in G0-G1 and G2-M were different significantly with their control groups, respectively (P &lt; 0.05) </plain></SENT>
+<SENT sid="15" pm="."><plain>The <z:mpath ids='MPATH_3'>apoptosis</z:mpath> rate of HFE-Myc was significantly higher than those of control groups (P &lt; 0.05) </plain></SENT>
+<SENT sid="16" pm="."><plain>Results of colony-forming assay showed that the colony formation rate of HFE-Myc was higher than those of control groups; otherwise, the rate of SGC-<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e> was lower than those of their control groups (P &lt; 0.05) </plain></SENT>
+<SENT sid="17" pm="."><plain>The results of cell migration assay showed that there were no significant differences between experimental groups and control groups (P &gt; 0.05) </plain></SENT>
+<SENT sid="18" pm="."><plain>In conclusion, C-MYC can promote the growth and proliferation of <z:mpath ids='MPATH_458'>normal</z:mpath> gastric cells, and knockdown of C-MYC can restrain the growth and proliferation of <z:hpo ids='HP_0012126'>gastric cancer</z:hpo> cells </plain></SENT>
+<SENT sid="19" pm="."><plain>It can induce cell <z:mpath ids='MPATH_3'>apoptosis</z:mpath> and help <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> cell maintain malignant phenotype </plain></SENT>
+<SENT sid="20" pm="."><plain>But it can have not a detectable influence on the ability of invasion of <z:hpo ids='HP_0012126'>gastric cancer</z:hpo> cells </plain></SENT>
+</text></document>

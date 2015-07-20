@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: To identify risk factors for idiopathic intracranial <z:hpo ids='HP_0000822'>hypertension</z:hpo> (IIH) in men </plain></SENT>
+<SENT sid="1" pm="."><plain>DESIGN: Case-control study </plain></SENT>
+<SENT sid="2" pm="."><plain>A 96-item telephone questionnaire, answered retrospectively, with cases recalling at the age of their diagnosis and controls recalling at the age of their corresponding case's diagnosis </plain></SENT>
+<SENT sid="3" pm="."><plain>SETTING: Outpatient clinics in two US tertiary care centers </plain></SENT>
+<SENT sid="4" pm="."><plain>PARTICIPANTS: The characteristics of 24 men with IIH were compared to those of 48 controls matched for sex, age, race, and World Health Organization body mass index (BMI) category </plain></SENT>
+<SENT sid="5" pm="."><plain>MAIN OUTCOME MEASURES: Two previously validated questionnaires: the ADAM (<z:chebi fb="3" ids="50113">Androgen</z:chebi> Deficiency in Aging Males) questionnaire for <z:chebi fb="51" ids="17347">testosterone</z:chebi> deficiency and the Berlin questionnaire for <z:hpo ids='HP_0002870'>obstructive sleep apnea</z:hpo> (OSA), embedded within the telephone questionnaire </plain></SENT>
+<SENT sid="6" pm="."><plain>Analysis with Mantel-Haenszel odds ratios and mixed-effects logistic regression models accounted for matching </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: Cases and controls had similar enrollment matching characteristics </plain></SENT>
+<SENT sid="8" pm="."><plain>Although matching was successful by BMI category, there was a small difference between BMI values of cases and controls (cases: median 31.7, controls: median 29.9; p=0.03) </plain></SENT>
+<SENT sid="9" pm="."><plain>After adjustment by BMI value, men with IIH were significantly more likely than controls to have a positive ADAM questionnaire for <z:chebi fb="51" ids="17347">testosterone</z:chebi> deficiency (OR: 17.4, 95% CI: 5.6-54.5; p&lt;0.001) and significantly more likely to have either a positive Berlin questionnaire for OSA or history of diagnosed OSA (OR: 4.4, 95% CI: 1.5-12.9; p=0.03) </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSIONS: Men with IIH are more likely than controls to have symptoms associated with <z:chebi fb="51" ids="17347">testosterone</z:chebi> deficiency and OSA </plain></SENT>
+<SENT sid="11" pm="."><plain>These associations suggest a possible role for sex hormones and OSA in the pathogenesis of IIH in men </plain></SENT>
+</text></document>

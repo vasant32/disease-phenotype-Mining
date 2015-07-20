@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PURPOSE: Treatment advances have improved outcomes in clinical trials of patients with <z:e sem="disease" ids="C0948380" disease_type="Neoplastic Process" abbrv="">metastatic colorectal cancer</z:e> (mCRC) </plain></SENT>
+<SENT sid="1" pm="."><plain>Less is known about these effects for patients in real-world settings </plain></SENT>
+<SENT sid="2" pm="."><plain>This study evaluated treatment patterns and survival in older, demographically diverse patients with mCRC </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: A retrospective cohort analysis was performed for 4,250 patients from January 1, 2000 to December 31, 2007 using linked Surveillance, Epidemiology, and End Results-Medicare database </plain></SENT>
+<SENT sid="4" pm="."><plain>Patients were ≥ 66 years, enrolled in Medicare parts A and B, and received first-line treatment with fluorouracil and leucovorin (5-FU/LV), <z:chebi fb="0" ids="31348">capecitabine</z:chebi> (CAP), 5-FU/LV plus <z:chebi fb="0" ids="31941">oxaliplatin</z:chebi> (FOLFOX), or CAP and <z:chebi fb="0" ids="31941">oxaliplatin</z:chebi> (CAPOX) </plain></SENT>
+<SENT sid="5" pm="."><plain>Cox regression with backward elimination and propensity score-weighted Cox regression estimated relative risk of <z:hpo ids='HP_0011420'>death</z:hpo> </plain></SENT>
+<SENT sid="6" pm="."><plain>Date of last follow-up was December 2009 </plain></SENT>
+<SENT sid="7" pm="."><plain>Statistical comparisons were made between 5-FU/LV vs. CAP and FOLFOX vs. CAPOX </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: Compared to 5-FU/LV, patients treated with CAP were older (mean age 78 vs. 76; P&lt;0.0001) and more likely female (61 vs. 54 %; P=0.0017), while patients receiving CAPOX and FOLFOX were similar in age (mean age 74 vs. 73; P=0.0924) </plain></SENT>
+<SENT sid="9" pm="."><plain>Complications requiring medical resource utilization following initiation of therapy were significantly higher among patients administered with 5-FU/LV (54 %) vs. CAP (17 %; P&lt;0.0001) and FOLFOX (75 %) vs. CAPOX (57 %; P&lt;0.0001) </plain></SENT>
+<SENT sid="10" pm="."><plain>The multivariate analysis revealed no significant differences in survival between 5-FU/LV and CAP and between FOLFOX and CAPOX </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: Overall survival was comparable between CAP and 5-FU/LV and between CAPOX and FOLFOX with fewer complications requiring medical resource utilization associated with CAP and CAPOX, thus confirming clinical trial results </plain></SENT>
+</text></document>

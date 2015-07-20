@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIMS: The shRNA-mediated loss of expression of the desmosomal protein plakophilin-2 leads to <z:chebi fb="199" ids="26708">sodium</z:chebi> current (I(Na)) dysfunction </plain></SENT>
+<SENT sid="1" pm="."><plain>Whether pkp2 gene haploinsufficiency leads to I(Na) deficit in vivo remains undefined </plain></SENT>
+<SENT sid="2" pm="."><plain>Mutations in pkp2 are detected in <z:hpo ids='HP_0011663'>arrhythmogenic right ventricular cardiomyopathy</z:hpo> (ARVC) </plain></SENT>
+<SENT sid="3" pm="."><plain><z:hpo ids='HP_0001663'>Ventricular fibrillation</z:hpo> and <z:hpo ids='HP_0001699'>sudden death</z:hpo> often occur in the 'concealed phase' of the disease, prior to overt structural damage </plain></SENT>
+<SENT sid="4" pm="."><plain>The mechanisms responsible for these <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> remain poorly understood </plain></SENT>
+<SENT sid="5" pm="."><plain>We sought to characterize the <z:mp ids='MP_0000002'>morphology</z:mp>, histology, and ultrastructural features of PKP2-heterozygous-null (PKP2-Hz) murine hearts and explore the relation between PKP2 abundance, I(Na) function, and cardiac electrical synchrony </plain></SENT>
+<SENT sid="6" pm="."><plain>METHODS AND RESULTS: Hearts of PKP2-Hz mice were characterized by multiple methods </plain></SENT>
+<SENT sid="7" pm="."><plain>We observed ultrastructural but not histological or gross anatomical differences in PKP2-Hz hearts compared with <z:mp ids='MP_0002169'>wild-type</z:mp> (WT) littermates </plain></SENT>
+<SENT sid="8" pm="."><plain>Yet, in myocytes, decreased amplitude and a shift in gating and kinetics of I(Na) were observed </plain></SENT>
+<SENT sid="9" pm="."><plain>To further unmask I(Na) deficiency, we exposed myocytes, Langendorff-perfused hearts, and anaesthetized animals to a pharmacological challenge (flecainide) </plain></SENT>
+<SENT sid="10" pm="."><plain>In PKP2-Hz hearts, the extent of flecainide-induced I(Na) block, impaired ventricular conduction, and altered electrocardiographic parameters were larger than controls </plain></SENT>
+<SENT sid="11" pm="."><plain>Flecainide provoked <z:hpo ids='HP_0004308'>ventricular arrhythmias</z:hpo> and <z:hpo ids='HP_0011420'>death</z:hpo> in PKP2-Hz animals, but not in the WT </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: PKP2 haploinsufficiency leads to I(Na) deficit in murine hearts </plain></SENT>
+<SENT sid="13" pm="."><plain>Our data support the notion of a cross-talk between desmosome and <z:chebi fb="199" ids="26708">sodium</z:chebi> channel complex </plain></SENT>
+<SENT sid="14" pm="."><plain>They also suggest that I(Na) dysfunction may contribute to generation and/or maintenance of <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> in PKP2-deficient hearts </plain></SENT>
+<SENT sid="15" pm="."><plain>Whether pharmacological challenges could help unveil <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> risk in patients with mutations or variants in PKP2 remains undefined </plain></SENT>
+</text></document>

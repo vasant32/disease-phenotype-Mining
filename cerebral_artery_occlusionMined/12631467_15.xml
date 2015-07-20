@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Interleukin-1 (IL-1) contributes to ischemic <z:hpo ids='HP_0002180'>neurodegeneration</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>However, the mechanisms regulating action of IL-1 are still poorly understood </plain></SENT>
+<SENT sid="2" pm="."><plain>In order to clear this central issue, mice that were gene deficient in IL-1alpha and beta (IL-1 KO) and <z:mp ids='MP_0002169'>wild-type</z:mp> mice were subjected to 1-h transient middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (tMCAO) </plain></SENT>
+<SENT sid="3" pm="."><plain>Expression levels of IL-1beta and IL-1 receptor I (IL-1RI) were then examined </plain></SENT>
+<SENT sid="4" pm="."><plain>Generation of <z:chebi fb="0" ids="25941">peroxynitrite</z:chebi> and the expression of <z:chebi fb="2" ids="33699">mRNAs</z:chebi> for nitric <z:chebi fb="177" ids="25741,29356">oxide</z:chebi> synthase (NOS) subtypes were also determined </plain></SENT>
+<SENT sid="5" pm="."><plain>Immunostaining for IL-1beta was increased from 6 h and peaked at 24 h after tMCAO in the microglia and macrophage </plain></SENT>
+<SENT sid="6" pm="."><plain>The immunoreactivities of IL-1RI were increased progressively in the microvasculature and neuron-like cells of the ipsilateral hemisphere </plain></SENT>
+<SENT sid="7" pm="."><plain><z:mpath ids='MPATH_124'>Infarct</z:mpath> volumes were significantly lower in IL-1 KO mice compared with <z:mp ids='MP_0002169'>wild-type</z:mp> mice 48 h after tMCAO (P&lt;0.01) </plain></SENT>
+<SENT sid="8" pm="."><plain>The immunoreactivities of <z:chebi fb="0" ids="44454">3-nitro-L-tyrosine</z:chebi> were determined in the neurons and microvasculature 24 h after tMCAO and were significantly decreased in the IL-1 KO mice compared to <z:mp ids='MP_0002169'>wild-type</z:mp> mice </plain></SENT>
+<SENT sid="9" pm="."><plain>In addition, expression levels of NOS <z:chebi fb="2" ids="33699">mRNA</z:chebi> in IL-1 KO mice were lower than that measured in <z:mp ids='MP_0002169'>wild-type</z:mp> mice </plain></SENT>
+<SENT sid="10" pm="."><plain>These results indicate that IL-1 is up-regulated and may play a role in <z:hpo ids='HP_0002180'>neurodegeneration</z:hpo> by <z:chebi fb="0" ids="25941">peroxynitrite</z:chebi> production during <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> </plain></SENT>
+</text></document>

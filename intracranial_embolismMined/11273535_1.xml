@@ -1,0 +1,18 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: To evaluate the relevance of bed side clinical diagnostic scoring systems--Siriraj <z:hpo ids='HP_0001297'>stroke</z:hpo> score (SSS), Allen score and their combined use for differentiating <z:hpo ids='HP_0011009'>acute</z:hpo> haemorrhagic and thrombotic <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>MATERIAL AND METHODS: The study was conducted on 240 admitted patients of <z:hpo ids='HP_0001297'>stroke</z:hpo> over a period of two years </plain></SENT>
+<SENT sid="2" pm="."><plain>SSS was calculated immediately and Allen score, 24 hours after admission </plain></SENT>
+<SENT sid="3" pm="."><plain>CT scan was done immediately and 48 hours after admission if required </plain></SENT>
+<SENT sid="4" pm="."><plain>The sensitivity, specificity, positive predictive value, negative predictive value and diagnostic gain were calculated for both the scores </plain></SENT>
+<SENT sid="5" pm="."><plain>Comparability between the scores and CT scan finding was determined with the help of kappa statistic programme </plain></SENT>
+<SENT sid="6" pm="."><plain>Receiver operating characteristic curves (ROC) were plotted to assess the diagnostic accuracy of both scores over a range of cut-off points </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: One hundred and thirty four patients (55.83%) had infarction and 106 patients (44.17%) had haemorrhage </plain></SENT>
+<SENT sid="8" pm="."><plain>SSS was applicable in 66.25% patients (159 out of 240) while Allen score was applicable in only 61.25% patients (147 our of 240) </plain></SENT>
+<SENT sid="9" pm="."><plain>The sensitivity, specificity, positive predictive value, negative predictive value and diagnostic gain for SSS were 73%, 85%, 85%, 71% and 30% for infarction and 85%, 73%, 71%, 85% and 27% for haemorrhage respectively, whereas the corresponding figures for Allen score were 91%, 60%, 77%, 82% and 18% for infarction and 60%, 91%, 82%, 77% and 41% for haemorrhage respectively </plain></SENT>
+<SENT sid="10" pm="."><plain>There was overall moderate comparability between SSS and Allen score for diagnosing supratentorial <z:hpo ids='HP_0001297'>stroke</z:hpo> (k = 0.396) </plain></SENT>
+<SENT sid="11" pm="."><plain>The comparability of these scores in terms of certain results was worse (k = 0.143) </plain></SENT>
+<SENT sid="12" pm="."><plain>However when the results that were within the diagnostic range with both the scores were considered, the agreement in diagnosing infarction and haemorrhage was almost perfect (k = 0.874) </plain></SENT>
+<SENT sid="13" pm="."><plain>While considering CT scan finding as gold standard for differentiation of infarction and haemorrhage, the overall accuracy of SSS and Allen score was seventy eight percent </plain></SENT>
+<SENT sid="14" pm="."><plain>CONCLUSION: (a) Applicability of SSS only in 66.25% patients and wrong diagnosis in 22.01% patients does not reflect its usefulness because adequate management of <z:hpo ids='HP_0001297'>stroke</z:hpo> requires a gold standard diagnosis which is only possible by immediate CT scan </plain></SENT>
+<SENT sid="15" pm="."><plain>(b) Allen score is not useful because it can be assessed only after 24 hours of <z:hpo ids='HP_0003674'>onset</z:hpo> of <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+<SENT sid="16" pm="."><plain>This deprives the management to <z:hpo ids='HP_0000001'>all</z:hpo> thrombotic patients in speculated time window of modern management </plain></SENT>
+</text></document>

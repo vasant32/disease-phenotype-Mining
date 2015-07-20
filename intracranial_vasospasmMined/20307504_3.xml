@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The signal transducer and activator of transcription 1 (STAT1) is one of the most important signaling molecule transducing signals from the cell surface in response to cytokines or growth factors </plain></SENT>
+<SENT sid="1" pm="."><plain><z:hpo ids='HP_0002138'>Subarachnoid hemorrhage</z:hpo> (SAH) results in production of cytokines and growth factors in the CSF </plain></SENT>
+<SENT sid="2" pm="."><plain>We here investigated whether this signaling molecule is activated in the rat basilar artery after SAH </plain></SENT>
+<SENT sid="3" pm="."><plain>In a rat single-<z:mp ids='MP_0001914'>hemorrhage</z:mp> model of SAH, basilar arteries were obtained at various times until 7days after SAH </plain></SENT>
+<SENT sid="4" pm="."><plain>Western blot analysis with phosphorylated (p)-STAT1 at Tyr(701), p-STAT1 at Ser(727), STAT1, and actin antibodies was performed </plain></SENT>
+<SENT sid="5" pm="."><plain>The expression of STAT1 and p-STAT1 at Tyr(701) in basilar arteries was also examined by immunohistochemistry </plain></SENT>
+<SENT sid="6" pm="."><plain>Intracisternal injection of interleukin-6 (IL-6), <z:chebi fb="17" ids="16240">hydrogen peroxide</z:chebi>, or <z:chebi fb="1" ids="29191">hydroxyl radical</z:chebi> scavenger was conducted to examine for phosphorylation of STAT1 </plain></SENT>
+<SENT sid="7" pm="."><plain>Western blot analysis showed STAT1 to be significantly phosphorylated at Tyr(701) and Ser(727) within 2h of SAH and to gradually decrease thereafter </plain></SENT>
+<SENT sid="8" pm="."><plain>Immunohistochemistry revealed this phosphorylation of STAT1 to occur in the outer membranes of the basilar artery </plain></SENT>
+<SENT sid="9" pm="."><plain>Intracisternal injection of <z:chebi fb="17" ids="16240">hydrogen peroxide</z:chebi>, but not IL-6, also significantly increased phosphorylation of STAT1 at Tyr(701) </plain></SENT>
+<SENT sid="10" pm="."><plain><z:chebi fb="1" ids="29191">Hydroxyl radical</z:chebi> scavenger significantly reduced phosphorylation of STAT1 </plain></SENT>
+<SENT sid="11" pm="."><plain>These results indicate that reactive oxygen species, produced in the CSF after SAH, activates STAT1 molecule in the outer membranes of basilar arteries </plain></SENT>
+<SENT sid="12" pm="."><plain>This STAT1 signaling might contribute to morphological arterial wall changes in <z:e sem="disease" ids="C0265110" disease_type="Disease or Syndrome" abbrv="">cerebral vasospasm</z:e> </plain></SENT>
+</text></document>

@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>In an open study, 42 venous Port-A-Cath systems (PAC) were implanted in 40 patients with <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">AML</z:e> (12), ALL/<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">AUL</z:e> (11), NHL with bone marrow infiltration (8), Hodgkin's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (3), <z:e sem="disease" ids="C0280100" disease_type="Neoplastic Process" abbrv="">solid tumors</z:e> (5) and severe <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> (1) </plain></SENT>
+<SENT sid="1" pm="."><plain>Mean duration of system use was 212 days </plain></SENT>
+<SENT sid="2" pm="."><plain>The cumulated duration of use of <z:hpo ids='HP_0000001'>all</z:hpo> systems was 8.883 days </plain></SENT>
+<SENT sid="3" pm="."><plain>1,627 blood samples were taken from the PAC </plain></SENT>
+<SENT sid="4" pm="."><plain>Blood sampling was possible on 8,696 of 8,883 days of cumulated access (98%) </plain></SENT>
+<SENT sid="5" pm="."><plain>A total of 522 blood transfusions were administrated </plain></SENT>
+<SENT sid="6" pm="."><plain>Fifty-two episodes of <z:hpo ids='HP_0001875'>neutropenia</z:hpo> (granulocyte counts less than 0.5 x 10(9)/l) with a mean duration of 17 days were observed in the group of the 23 patients with <z:hpo ids='HP_0002488'>acute leukemias</z:hpo> </plain></SENT>
+<SENT sid="7" pm="."><plain>A total of 25 complications were registered </plain></SENT>
+<SENT sid="8" pm="."><plain>The incidence was 2.8/1,000 days of access </plain></SENT>
+<SENT sid="9" pm="."><plain>Twelve complications were regarded as severe </plain></SENT>
+<SENT sid="10" pm="."><plain><z:hpo ids='HP_0004936'>Venous thrombosis</z:hpo> was observed in 3 cases </plain></SENT>
+<SENT sid="11" pm="."><plain>In addition, there were 2 disruptions of the catheter, 1 disconnection, 1 looping and 4 local <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infections</z:e> </plain></SENT>
+<SENT sid="12" pm="."><plain>The rate of <z:e sem="disease" ids="C0243026" disease_type="Disease or Syndrome" abbrv="">systemic infection</z:e> could not be accurately estimated because the catheter was always left in place and antibiotic treatment was started immediately in case of <z:hpo ids='HP_0001945'>fever</z:hpo> with or without bacteriemia </plain></SENT>
+<SENT sid="13" pm="."><plain>The overall rate of catheter-related complications in patients with <z:hpo ids='HP_0002488'>acute leukemia</z:hpo> was not higher than in patients with <z:e sem="disease" ids="C0280100" disease_type="Neoplastic Process" abbrv="">solid tumors</z:e> </plain></SENT>
+</text></document>

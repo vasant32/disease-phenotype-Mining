@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (FL) is characterized by constitutive expression of Bcl-2 as a consequence of t(14;18) </plain></SENT>
+<SENT sid="1" pm="."><plain>Evidence suggests factors in the lymph node microenvironment, related to intratumoral T cells, macrophages, and dendritic cells, play a role in the disease process </plain></SENT>
+<SENT sid="2" pm="."><plain>We generated proteomic cytokine profiles of FL (N = 50) and <z:hpo ids='HP_0002729'>follicular hyperplasia</z:hpo> (FH; N = 23) </plain></SENT>
+<SENT sid="3" pm="."><plain>A total of 10 cytokines were assayed using ultrasensitive multiplex enzyme-linked immunosorbent assays: IL-1beta, IL-2, IL-4, IL-5, IL-8, IL-10, IL-13, IL-12p70, <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> <z:mp ids='MP_0001651'>necrosis</z:mp> factor-alpha, and interferon-gamma </plain></SENT>
+<SENT sid="4" pm="."><plain>Each cytokine showed overall lower protein concentrations in FL, with the exception of IL-4, which was nearly 5 times higher in FL than FH (P = .005) </plain></SENT>
+<SENT sid="5" pm="."><plain>Using reverse-phase protein microarrays (RPMAs), we evaluated the activation state of several intracellular signaling proteins downstream of cytokine receptors </plain></SENT>
+<SENT sid="6" pm="."><plain>Basal Erk phosphorylation was approximately 4 times greater in FL than FH (P &lt; .001), with similar findings for Mek; Stat-6 showed weak basal phosphorylation that was approximately twice as high in FL than in FH (P = .012) </plain></SENT>
+<SENT sid="7" pm="."><plain>In conclusion, the FL microenvironment contains increased levels of IL-4, with prominent <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> basal phosphorylation of Erk </plain></SENT>
+<SENT sid="8" pm="."><plain>These findings suggest IL-4, Erk, and possibly Stat-6 may play a role in the biology of FL and may serve as targets for future therapies </plain></SENT>
+</text></document>

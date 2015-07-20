@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Patients who develop <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> should be entered into an endoscopic surveillance program, including endoscopic biopsy </plain></SENT>
+<SENT sid="1" pm="."><plain>For patients who do not develop <z:mpath ids='MPATH_589'>dysplasia</z:mpath>, we recommend surveillance every 3 years </plain></SENT>
+<SENT sid="2" pm="."><plain>Patients with low-grade <z:mpath ids='MPATH_589'>dysplasia</z:mpath> should be surveyed with endoscopy and biopsy every 6 months over the next year, then at 1-year intervals if there has not been progression to a higher grade of <z:mpath ids='MPATH_589'>dysplasia</z:mpath> </plain></SENT>
+<SENT sid="3" pm="."><plain>The role of endoscopic ablation therapy has yet to be defined </plain></SENT>
+<SENT sid="4" pm="."><plain>Because of the high risk (30% to 40%) of developing <z:e sem="disease" ids="C0546837,C0014859" disease_type="Neoplastic Process" abbrv="">esophageal cancer</z:e> among patients with high-grade <z:mpath ids='MPATH_589'>dysplasia</z:mpath>, we recommend esophagectomy for those who are medically fit to undergo this surgery </plain></SENT>
+<SENT sid="5" pm="."><plain>However, it is important that an expert pathologist confirms the diagnosis and that the operation is performed by a surgeon experienced in esophageal resection </plain></SENT>
+<SENT sid="6" pm="."><plain>For those who are not candidates for surgery or refuse it, we recommend consideration of endoscopic ablative therapy </plain></SENT>
+<SENT sid="7" pm="."><plain>The other option available is to continue surveillance at 3- to 6-month intervals with reconsideration of surgical or experimental ablative therapy if <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> develops (see Figure 1) </plain></SENT>
+</text></document>

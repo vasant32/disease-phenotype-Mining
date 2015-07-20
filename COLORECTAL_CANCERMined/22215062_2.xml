@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Clinical trials under-represent patients (pts) &gt;65 years </plain></SENT>
+<SENT sid="1" pm="."><plain>Non-interventional studies (NISs) help to evaluate therapies in daily practice </plain></SENT>
+<SENT sid="2" pm="."><plain>This <z:chebi fb="15" ids="53204">NIS</z:chebi> evaluates efficacy and safety of cetuximab in combination with chemotherapy in <z:e sem="disease" ids="C0948380" disease_type="Neoplastic Process" abbrv="">metastatic colorectal cancer</z:e> (mCRC) pts aged &gt;65 years vs ≤ 65 years </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: A total of 657 pts were recruited into the <z:chebi fb="15" ids="53204">NIS</z:chebi> and analysed applying descriptive statistics and χ(2) or Fisher's exact test </plain></SENT>
+<SENT sid="4" pm="."><plain>RESULTS: A total of 309 and 305 pts aged ≤ 65 and &gt;65 years, respectively, were documented; 80% showing a reduced ECOG status of 1-2 and 95% having received at least one palliative treatment </plain></SENT>
+<SENT sid="5" pm="."><plain>Cetuximab was combined with irinotecan according to approval status </plain></SENT>
+<SENT sid="6" pm="."><plain>Grade III/IV toxicities occurred in 20% of pts without any difference between age groups although the older pts had significantly more pre-existing comorbidities (P=0.001) </plain></SENT>
+<SENT sid="7" pm="."><plain>A total of 64.2% of the pts developed <z:hpo ids='HP_0000988'>skin rash</z:hpo>, which was strongly related to response (P&lt;0.0002) without any difference between age groups (P=0.34) </plain></SENT>
+<SENT sid="8" pm="."><plain>The objective response rates were 37.9% for ages 18-65 years vs 35.4% for &gt;65 years </plain></SENT>
+<SENT sid="9" pm="."><plain>Progression-free survival (PFS) did not differ between pts 18-65 years old (6.5 months) in comparison with pts &gt;65 years (7.0 months) </plain></SENT>
+<SENT sid="10" pm="."><plain>In a multivariate analysis only ECOG status had a negative impact on PFS (HR: 0,675; 95% Cl, 0.53-0.87; P=0.0019) </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSION: This <z:chebi fb="15" ids="53204">NIS</z:chebi> reports one of the largest mCRC collectives &gt;65 years and reduced performance status </plain></SENT>
+<SENT sid="12" pm="."><plain>Cetuximab has a similar efficacy and safety profile for pts aged ≤ 65 and &gt;65 years </plain></SENT>
+</text></document>

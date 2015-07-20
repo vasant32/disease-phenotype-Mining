@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The Epstein-Barr virus (EBV) transforms B cells in part by inhibiting the cellular apoptotic programme </plain></SENT>
+<SENT sid="1" pm="."><plain>This is also observed when Burkitt <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cell lines are infected with EBV </plain></SENT>
+<SENT sid="2" pm="."><plain>Induction of <z:mpath ids='MPATH_3'>apoptosis</z:mpath> is one of the mechanisms by which fludarabine inhibits the growth of cells with low proliferative capacity </plain></SENT>
+<SENT sid="3" pm="."><plain>This compound can also inhibit several other mechanisms in the cell, including inhibition of the synthesis of factors such as STAT1 </plain></SENT>
+<SENT sid="4" pm="."><plain>To analyse the relationship between EBV status, fludarabine-induced <z:mpath ids='MPATH_3'>apoptosis</z:mpath>, and transcription factors we studied the EBV-negative Burkitt <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cell line BL2, its EBV-infected counterpart BL2.B95.8 and the EBV-transformed cell line PRI </plain></SENT>
+<SENT sid="5" pm="."><plain>The BL2 cell line was found to be very sensitive to fludarabine </plain></SENT>
+<SENT sid="6" pm="."><plain>The BL2.B95.8 and PRI cells were both resistant but the latter to a lesser extent </plain></SENT>
+<SENT sid="7" pm="."><plain>In the PRI cells fludarabine activated p53, but not in the BL2.B95.8 cells in which the p53 pathway is inactivated </plain></SENT>
+<SENT sid="8" pm="."><plain>We observed that this inactivation results in part from the lack of expression of the MDM2 inhibitor p14ARF </plain></SENT>
+<SENT sid="9" pm="."><plain>Conversely, there was a substantial constitutive activation of STAT1, and not of the other STATs, in the BL2.B95.8 cells and a modest one in the PRI cells </plain></SENT>
+<SENT sid="10" pm="."><plain>Furthermore, expression of STAT1 was significantly reduced by fludarabine treatment in the PRI cells, but not in the BL2.BL95.8 cells </plain></SENT>
+<SENT sid="11" pm="."><plain>Finally, the expression of p21WAF1/CIP1 was detected only in the BL2.B95.8 and PRI cells </plain></SENT>
+<SENT sid="12" pm="."><plain>This protein, known to play a role in cell survival, may therefore be involved in the resistance of the BL2.B95.8 cells to fludarabine </plain></SENT>
+</text></document>

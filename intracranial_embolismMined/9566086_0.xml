@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Microscopic cerebral arterial air emboli (MCAAE) cause neurologic injury during cardiac surgery </plain></SENT>
+<SENT sid="1" pm="."><plain>We used a mathematical model of gas absorption to gain a preliminary assessment of what physical or physiologic parameters affect MCAAE absorption in the setting of cardiac surgery with its unique set of <z:mpath ids='MPATH_458'>normal</z:mpath> values </plain></SENT>
+<SENT sid="2" pm="."><plain>Simulated MCAAE of radii 50 and 200 microns have absorption times of 2 and 32 min, respectively </plain></SENT>
+<SENT sid="3" pm="."><plain>Predicted absorption times depend dramatically on PaN2 </plain></SENT>
+<SENT sid="4" pm="."><plain>MCAAE are predicted to be absorbed twice as quickly at a PaN2 of 0 vs. 380 mmHg (FiO2 approximately equal to 0.50) </plain></SENT>
+<SENT sid="5" pm="."><plain>Moderate <z:hpo ids='HP_0002045'>hypothermia</z:hpo> (27 degrees C) is predicted to cause only small decreases in absorption time </plain></SENT>
+<SENT sid="6" pm="."><plain>Changes in cerebral blood flow (for example, as affected by <z:chebi fb="0" ids="35143">hemoglobin</z:chebi> concentration, PaCO2, PaO2, collateral circulation, <z:chebi fb="37" ids="38867">anesthetics</z:chebi>, or cerebral metabolism) probably have only small effects on absorption time </plain></SENT>
+<SENT sid="7" pm="."><plain>Intravascular perfluorocarbons are predicted to cause small-to-moderate decreases in absorption time </plain></SENT>
+<SENT sid="8" pm="."><plain>In conclusion, there is probably only one important determinant of MCAAE absorption time during normothermic or moderately hypothermic CPB: arterial nitrogen partial pressure </plain></SENT>
+</text></document>

@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>This study was to evaluate the benefit of the screening of <z:hpo ids='HP_0005145'>coronary artery stenosis</z:hpo> (CAS) using dual-source CT (DSCT) in patients with <z:e sem="disease" ids="C0007785" disease_type="Disease or Syndrome" abbrv="">cerebral infarction</z:e> caused by a Large Artery <z:hpo ids='HP_0002621'>Atherosclerosis</z:hpo> (LAA) </plain></SENT>
+<SENT sid="1" pm="."><plain>From November 2007 to February 2008, 34 patients (25 males and 9 females; mean age, 62.4 +/- 9.5 years) were enrolled </plain></SENT>
+<SENT sid="2" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> of them had <z:hpo ids='HP_0002140'>ischemic strokes</z:hpo> of LAA type but with no cardiac symptoms </plain></SENT>
+<SENT sid="3" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> patients underwent coronary CT angiography (CCTA) using DSCT </plain></SENT>
+<SENT sid="4" pm="."><plain>A significant <z:hpo ids='HP_0005145'>coronary artery stenosis</z:hpo> was defined as the one having more than 50% of <z:chebi fb="2" ids="8069">luminal</z:chebi> narrowing </plain></SENT>
+<SENT sid="5" pm="."><plain>We evaluated diagnostic accuracy for CAS in <z:hpo ids='HP_0001297'>stroke</z:hpo> patients of LAA with a receiver operating characteristics curve analysis </plain></SENT>
+<SENT sid="6" pm="."><plain>Of the 34 <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> patients, 18 (52.9%) had <z:mpath ids='MPATH_458'>normal</z:mpath> coronary arteries, 5 (14.7%) had insignificant CAS, and 11 (32.4%) had a significant CAS </plain></SENT>
+<SENT sid="7" pm="."><plain>The Agatston scores were more than 400 in 54.5% of the patients with a significant CAS, but less than 40 in 86.9% of the patients without it (p for trend = 0.001) </plain></SENT>
+<SENT sid="8" pm="."><plain>For age, the optimal cut-off point for a diagnosis of CAS was 63, which had a sensitivity of 90.9%, a specificity of 69.6%, a positive predictive value of 58.8%, and a negative predictive value of 94.1%, respectively </plain></SENT>
+<SENT sid="9" pm="."><plain>For the Agatston score, the optimal cut-off was 40, which had 81.8%, 91.3%, 81.8%, and 91.3%, respectively </plain></SENT>
+<SENT sid="10" pm="."><plain>CCTA using DSCT appears to be a promising screening technique for CAS in patients with an <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> of LAA </plain></SENT>
+</text></document>

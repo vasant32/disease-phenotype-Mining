@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The use of <z:chebi fb="0" ids="50131">5-aza-2'-deoxycytidine</z:chebi> (5-azadc) for <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo>, <z:hpo ids='HP_0004808'>acute myeloid leukemia</z:hpo> and <z:hpo ids='HP_0011010'>chronic</z:hpo> myeloid <z:hpo ids='HP_0001909'>leukemia</z:hpo> is becoming an effective and attractive option for these <z:e sem="disease" ids="C0376545" disease_type="Neoplastic Process" abbrv="">hematological malignancies</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>The PU.1 transcription factor is important for cellular differentiation through the control of its target genes not only in myeloid and B-lymphoid cells, but also in erythroid cells </plain></SENT>
+<SENT sid="2" pm="."><plain>Downregulation of PU.1 was reported to play a role in the pathogenesis of various <z:e sem="disease" ids="C0376545" disease_type="Neoplastic Process" abbrv="">hematological malignancies</z:e> </plain></SENT>
+<SENT sid="3" pm="."><plain>In this study, we sought to identify the relationship between the effects of 5-azadc and PU.1 </plain></SENT>
+<SENT sid="4" pm="."><plain>For this purpose, we employed PU.1-knockdown K562 (K562 PU.1KD) cells stably expressing PU.1 short inhibitory <z:chebi fb="40" ids="33697">RNAs</z:chebi> and PU.1-overexpressing K562 (K562 PU.1OE) cells </plain></SENT>
+<SENT sid="5" pm="."><plain>Therapeutic concentrations (0.1 and 0.5 μM) of 5-azadc resulted in <z:mpath ids='MPATH_73'>growth arrest</z:mpath> in the G2/M phase </plain></SENT>
+<SENT sid="6" pm="."><plain>Strikingly, however, K562 PU.1OE cells had significantly increased rates of G2/M and apoptotic sub-G1 phase cells </plain></SENT>
+<SENT sid="7" pm="."><plain>We observed the induction of cyclin B1, a regulator of the G2/M transition, after the addition of 5-azadc </plain></SENT>
+<SENT sid="8" pm="."><plain>This induction was abolished in K562 PU.1KD cells, but significantly induced in K562 PU.1OE cells </plain></SENT>
+<SENT sid="9" pm="."><plain>Further analyses revealed potent induction of <z:chebi fb="0" ids="35143">hemoglobin</z:chebi> A1 expression in K562 PU.1OE cells </plain></SENT>
+<SENT sid="10" pm="."><plain>Taken together, these findings suggest that the PU.1 expression level is tightly related to the differentiating and apoptotic effects of 5-azadc in K562 cells </plain></SENT>
+</text></document>

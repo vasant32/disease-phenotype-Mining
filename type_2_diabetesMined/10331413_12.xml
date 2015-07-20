@@ -1,0 +1,20 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Patients with cystic <z:mp ids='MP_0003045'>fibrosis</z:mp> (CF)-related <z:mp ids='MP_0002055'>diabetes</z:mp> (CFRD) have clinical features of both type 1 and type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="1" pm="."><plain>Past studies have documented peripheral <z:hpo ids='HP_0000855'>insulin resistance</z:hpo> in CF, and some studies have noted high hepatic <z:chebi fb="105" ids="17234">glucose</z:chebi> production (HGP) in CF patients </plain></SENT>
+<SENT sid="2" pm="."><plain>We hypothesized that patients with CF, similar to patients with type 2 <z:mp ids='MP_0002055'>diabetes</z:mp>, have hepatic <z:hpo ids='HP_0000855'>insulin resistance</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>Cystic <z:mp ids='MP_0003045'>fibrosis</z:mp> is a catabolic condition, yet the etiology of catabolism is poorly understood </plain></SENT>
+<SENT sid="4" pm="."><plain>De novo lipogenesis is energy wasteful and precludes ketogenesis </plain></SENT>
+<SENT sid="5" pm="."><plain>Patients with CFRD rarely develop ketogenesis, despite insulin deficiency </plain></SENT>
+<SENT sid="6" pm="."><plain>We speculated that CF patients have de novo lipogenesis, and therefore evaluated substrate utilization in CF </plain></SENT>
+<SENT sid="7" pm="."><plain>Using [6,6-2H2]<z:chebi fb="105" ids="17234">glucose</z:chebi> and a three-step hyperinsulinemic-euglycemic clamp, we measured HGP in 29 adult CF subjects and 18 control volunteers </plain></SENT>
+<SENT sid="8" pm="."><plain>Using indirect calorimetry, we measured <z:chebi fb="23" ids="18059">lipid</z:chebi> oxidation, oxidative <z:chebi fb="105" ids="17234">glucose</z:chebi> metabolism, and resting energy expenditure at baseline and at high levels of insulin </plain></SENT>
+<SENT sid="9" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> subjects were characterized by oral <z:chebi fb="105" ids="17234">glucose</z:chebi> tolerance testing (OGTT) and National <z:mp ids='MP_0002055'>Diabetes</z:mp> Data Group criteria </plain></SENT>
+<SENT sid="10" pm="."><plain>The CF subjects had increased HGP when compared with control subjects (CF, 3.5+/-0.6; control, 2.5+/-0.5 mg x kg(-1) x h(-1); P = 0.002) </plain></SENT>
+<SENT sid="11" pm="."><plain>Baseline HGP correlated with <z:chebi fb="105" ids="17234">glucose</z:chebi> levels obtained 2 h after a <z:chebi fb="105" ids="17234">glucose</z:chebi> load given for OGTT (r = 0.69, P = 0.001) </plain></SENT>
+<SENT sid="12" pm="."><plain>Suppression of HGP by insulin was significantly less in <z:hpo ids='HP_0000001'>all</z:hpo> CF subgroups than in control subjects at peripheral insulin levels of 16 and 29 microU/ml </plain></SENT>
+<SENT sid="13" pm="."><plain>At peripheral insulin levels of 100 microU/ml and 198 microU/ml, there was no difference in insulin suppression of HGP between CF and control subjects </plain></SENT>
+<SENT sid="14" pm="."><plain>At baseline, there was no significant difference between control and CF subjects for <z:chebi fb="105" ids="17234">glucose</z:chebi> or <z:chebi fb="23" ids="18059">lipid</z:chebi> oxidation </plain></SENT>
+<SENT sid="15" pm="."><plain>During maximum insulin stimulation, there was a greater tendency for nonoxidative <z:chebi fb="105" ids="17234">glucose</z:chebi> metabolism in <z:hpo ids='HP_0000001'>all</z:hpo> CF subjects </plain></SENT>
+<SENT sid="16" pm="."><plain>The CF subjects with <z:hpo ids='HP_0001952'>abnormal glucose tolerance</z:hpo> also had de novo lipogenesis </plain></SENT>
+<SENT sid="17" pm="."><plain>Our results indicate that CF patients have several defects in substrate utilization, including de novo lipogenesis </plain></SENT>
+<SENT sid="18" pm="."><plain>Furthermore, these results suggest that high hepatic <z:chebi fb="105" ids="17234">glucose</z:chebi> production and hepatic <z:hpo ids='HP_0000855'>insulin resistance</z:hpo> contribute to the high incidence of <z:hpo ids='HP_0001952'>abnormal glucose tolerance</z:hpo> in CF </plain></SENT>
+</text></document>

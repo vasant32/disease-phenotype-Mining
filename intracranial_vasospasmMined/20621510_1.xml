@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Increasing attention is being paid to the <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> risk conferred by imaging modalities such as computed tomography (CT) </plain></SENT>
+<SENT sid="1" pm="."><plain>Patients with <z:hpo ids='HP_0002138'>subarachnoid hemorrhage</z:hpo> (SAH) often are <z:e sem="disease" ids="C0010340" disease_type="Disease or Syndrome" abbrv="">critically ill</z:e> and require numerous imaging studies </plain></SENT>
+<SENT sid="2" pm="."><plain>A nonradiating diagnostic modality, transcranial Doppler (TCD), effectively screens for <z:e sem="disease" ids="C0265110" disease_type="Disease or Syndrome" abbrv="">cerebral vasospasm</z:e> </plain></SENT>
+<SENT sid="3" pm="."><plain>But when TCD is not available, CT angiography or conventional angiography may be ordered, increasing a patient's total radiation dose </plain></SENT>
+<SENT sid="4" pm="."><plain>This study investigated the total amount of radiation to which patients with SAH are exposed, and whether that amount was decreased by the availability of TCD </plain></SENT>
+<SENT sid="5" pm="."><plain>Patients with nontraumatic SAH who were admitted to an intensive care unit within 48 hours of symptom <z:hpo ids='HP_0003674'>onset</z:hpo> and who survived and remained hospitalized for at least 7 days were eligible </plain></SENT>
+<SENT sid="6" pm="."><plain>TCD was available for one group (TCD group) but not for the other group (no-TCD group) </plain></SENT>
+<SENT sid="7" pm="."><plain>The total radiation dose for each patient was tallied </plain></SENT>
+<SENT sid="8" pm="."><plain>There were no differences in demographic variables or significant difference in radiation exposure between the 2 groups </plain></SENT>
+<SENT sid="9" pm="."><plain>Average total radiation exposure was 82.03 mSv in the TCD group and 89.79 mSv in the no-TCD group (P=.60) </plain></SENT>
+<SENT sid="10" pm="."><plain>Head imaging accounted for 97.2% of the total radiation exposure in the TCD group and 90% of that in the no-TCD group </plain></SENT>
+<SENT sid="11" pm="."><plain>Patients with SAH are exposed to a substantial amount of radiation, almost <z:hpo ids='HP_0000001'>all</z:hpo> of which is centered on the head </plain></SENT>
+<SENT sid="12" pm="."><plain>Using Biological Effects of Ionizing Radiation VII <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> risk estimates, the average lifetime attributable risk from SAH management was approximately 1 in 125 </plain></SENT>
+<SENT sid="13" pm="."><plain>Methods for decreasing radiation exposure are needed </plain></SENT>
+</text></document>

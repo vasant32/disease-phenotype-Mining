@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The <z:e sem="disease" ids="C0162635" disease_type="Disease or Syndrome" abbrv="">Angelman syndrome</z:e> gene, UBE3A, is subject to <z:mp ids='MP_0003121'>genomic imprinting</z:mp> controlled by mechanisms that are only partially understood </plain></SENT>
+<SENT sid="1" pm="."><plain>Its antisense transcript, UBE3A-ATS, is also imprinted and hypothesized to suppress UBE3A in cis </plain></SENT>
+<SENT sid="2" pm="."><plain>In this research, we showed that the mouse antisense ortholog, Ube3a-ATS, was transcribed by <z:chebi fb="40" ids="33697">RNA</z:chebi> polymerase (RNAP) II </plain></SENT>
+<SENT sid="3" pm="."><plain>However, unlike typical protein-coding transcripts, Ube3a-ATS was not poly-adenylated and was localized exclusively in the nucleus </plain></SENT>
+<SENT sid="4" pm="."><plain>It was relatively unstable with a half-life of 4 h, shorter than most protein-coding <z:chebi fb="40" ids="33697">RNAs</z:chebi> tested </plain></SENT>
+<SENT sid="5" pm="."><plain>To understand the role of Ube3a-ATS in vivo, a mouse model with a 0.9-kb genomic deletion over the paternal Snrpn major promoter was studied </plain></SENT>
+<SENT sid="6" pm="."><plain>The mice showed partial activation of paternal Ube3a, with decreased expression of Ube3a-ATS but not any imprinting defects in the Prader-Willi syndrome/<z:e sem="disease" ids="C0162635" disease_type="Disease or Syndrome" abbrv="">Angelman syndrome</z:e> region </plain></SENT>
+<SENT sid="7" pm="."><plain>A novel cell culture model was also generated with a transcriptional termination cassette inserted downstream of Ube3a on the paternal chromosome to reduce Ube3a-ATS transcription </plain></SENT>
+<SENT sid="8" pm="."><plain>In neuronally differentiated embryonic stem (ES) cells, paternal Ube3a was found to be expressed at a high level, comparable with that of the maternal allele </plain></SENT>
+<SENT sid="9" pm="."><plain>To further characterize the antisense <z:chebi fb="40" ids="33697">RNA</z:chebi>, a strand-specific microarray was performed </plain></SENT>
+<SENT sid="10" pm="."><plain>Ube3a-ATS was detectable across the entire locus of Ube3a and extended beyond the transcriptional start site of Ube3a </plain></SENT>
+<SENT sid="11" pm="."><plain>In summary, we conclude that Ube3a-ATS is an atypical RNAPII transcript that represses Ube3a on the paternal chromosome </plain></SENT>
+<SENT sid="12" pm="."><plain>These results suggest that the repression of human UBE3A-ATS may activate the expression of UBE3A from the paternal chromosome, providing a potential therapeutic strategy for patients with <z:e sem="disease" ids="C0162635" disease_type="Disease or Syndrome" abbrv="">Angelman syndrome</z:e> </plain></SENT>
+</text></document>

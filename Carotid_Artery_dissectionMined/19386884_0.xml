@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 32-year-old male patient presented to the emergency department (ED) complaining of a <z:hpo ids='HP_0002315'>headache</z:hpo> and <z:hpo ids='HP_0002321'>vertigo</z:hpo> precipitated by sneezing </plain></SENT>
+<SENT sid="1" pm="."><plain>He had a recent history of neck trauma </plain></SENT>
+<SENT sid="2" pm="."><plain>Examination revealed <z:hpo ids='HP_0000666'>horizontal nystagmus</z:hpo> and a gait that veered to the left, exacerbated by heel to toe walking </plain></SENT>
+<SENT sid="3" pm="."><plain>A diagnosis of <z:e sem="disease" ids="C0338586" disease_type="Disease or Syndrome" abbrv="">vertebral artery dissection</z:e> (VAD) was suspected </plain></SENT>
+<SENT sid="4" pm="."><plain>A bleed was ruled out in the ED by computerised tomography, after which the patient was loaded with aspirin </plain></SENT>
+<SENT sid="5" pm="."><plain>The diagnosis was confirmed by magnetic resonance imaging and magnetic resonance angiography </plain></SENT>
+<SENT sid="6" pm="."><plain>Although optimal treatment for VAD is unknown, the Cervical <z:e sem="disease" ids="C0002949" disease_type="Disease or Syndrome;Acquired Abnormality" abbrv="">Artery Dissection</z:e> in <z:hpo ids='HP_0001297'>Stroke</z:hpo> Study (CADISS) is an ongoing randomised multicentre prospective study comparing antiplatelet therapy with anticoagulation for patients with both <z:e sem="disease" ids="C0338585" disease_type="Disease or Syndrome" abbrv="">carotid artery dissection</z:e> and VAD </plain></SENT>
+<SENT sid="7" pm="."><plain><z:hpo ids='HP_0002315'>Headache</z:hpo> is a very common presentation to the ED and a full neurological examination is essential if rarer causes are not to be missed </plain></SENT>
+</text></document>

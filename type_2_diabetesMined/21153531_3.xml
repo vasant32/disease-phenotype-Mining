@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIMS/HYPOTHESIS: The Finnish <z:mp ids='MP_0002055'>diabetes</z:mp> risk questionnaire is a widely used, simple tool for identification of those at risk for drug-treated type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="1" pm="."><plain>We updated the risk questionnaire by using clinically diagnosed and screen-detected type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> instead of drug-treated <z:mp ids='MP_0002055'>diabetes</z:mp> as an endpoint and by considering additional predictors </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: Data from 18,301 participants in studies of the Evaluation of Screening and Early Detection Strategies for Type 2 <z:mp ids='MP_0002055'>Diabetes</z:mp> and <z:hpo ids='HP_0000833'>Impaired Glucose Tolerance</z:hpo> (DETECT-2) project with baseline and follow-up information on oral <z:chebi fb="105" ids="17234">glucose</z:chebi> tolerance status were included </plain></SENT>
+<SENT sid="3" pm="."><plain>Incidence of type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> within 5 years was used as the outcome variable </plain></SENT>
+<SENT sid="4" pm="."><plain>Improvement in discrimination and classification of the logistic regression model was assessed by the area under the receiver-operating characteristic (ROC) curve and by the net reclassification improvement </plain></SENT>
+<SENT sid="5" pm="."><plain>Internal validation was by bootstrapping techniques </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: Of the 18,301 participants, 844 developed type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> in a period of 5 years (4.6%) </plain></SENT>
+<SENT sid="7" pm="."><plain>The Finnish risk score had an area under the ROC curve of 0.742 (95% CI 0.726-0.758) </plain></SENT>
+<SENT sid="8" pm="."><plain>Re-estimation of the regression coefficients improved the area under the ROC curve to 0.766 (95% CI 0.750-0.783) </plain></SENT>
+<SENT sid="9" pm="."><plain>Additional items such as male sex, smoking and family history of <z:mp ids='MP_0002055'>diabetes</z:mp> (parent, sibling or both) improved the area under the ROC curve and net reclassification </plain></SENT>
+<SENT sid="10" pm="."><plain>Bootstrapping showed good internal validity </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS/INTERPRETATION: The predictive value of the original Finnish risk questionnaire could be improved by adding information on sex, smoking and family history of <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="12" pm="."><plain>The DETECT-2 update of the Finnish <z:mp ids='MP_0002055'>diabetes</z:mp> risk questionnaire is an adequate and robust predictor for future screen-detected and clinically diagnosed type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> in Europid populations </plain></SENT>
+</text></document>

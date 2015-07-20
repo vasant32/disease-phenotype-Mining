@@ -1,0 +1,20 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Toll-like receptor 4 (TLR4) is activated in response to <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> leading to substantial brain damage </plain></SENT>
+<SENT sid="1" pm="."><plain>In contrast, mild activation of TLR4 by preconditioning with low dose exposure to <z:chebi fb="0" ids="16412">lipopolysaccharide</z:chebi> (LPS) prior to <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> dramatically improves outcome by reprogramming the signaling response to injury </plain></SENT>
+<SENT sid="2" pm="."><plain>This suggests that TLR4 signaling can be altered to induce an endogenously neuroprotective phenotype </plain></SENT>
+<SENT sid="3" pm="."><plain>However, the TLR4 signaling events involved in this neuroprotective response are poorly understood </plain></SENT>
+<SENT sid="4" pm="."><plain>Here we define several molecular mediators of the primary signaling cascades induced by LPS preconditioning that give rise to the reprogrammed response to <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> and confer the neuroprotective phenotype </plain></SENT>
+<SENT sid="5" pm="."><plain>METHODS: C57BL6 mice were preconditioned with low dose LPS prior to transient middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (MCAO) </plain></SENT>
+<SENT sid="6" pm="."><plain>Cortical tissue and blood were collected following MCAO </plain></SENT>
+<SENT sid="7" pm="."><plain>Microarray and qtPCR were performed to analyze gene expression associated with TLR4 signaling </plain></SENT>
+<SENT sid="8" pm="."><plain>EMSA and DNA binding ELISA were used to evaluate NFκB and IRF3 activity </plain></SENT>
+<SENT sid="9" pm="."><plain>Protein expression was determined using Western blot or ELISA </plain></SENT>
+<SENT sid="10" pm="."><plain>MyD88-/- and TRIF-/- mice were utilized to evaluate signaling in LPS preconditioning-induced neuroprotection </plain></SENT>
+<SENT sid="11" pm="."><plain>RESULTS: Gene expression analyses revealed that LPS preconditioning resulted in a marked upregulation of anti-inflammatory/type I IFN-associated genes following <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> while pro-inflammatory genes induced following <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> were present but not differentially modulated by LPS </plain></SENT>
+<SENT sid="12" pm="."><plain>Interestingly, although expression of pro-inflammatory genes was observed, there was decreased activity of NFκB p65 and increased presence of NFκB inhibitors, including Ship1, Tollip, and p105, in LPS-preconditioned mice following <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+<SENT sid="13" pm="."><plain>In contrast, IRF3 activity was enhanced in LPS-preconditioned mice following <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+<SENT sid="14" pm="."><plain>TRIF and MyD88 deficient mice revealed that neuroprotection induced by LPS depends on TLR4 signaling via TRIF, which activates IRF3, but does not depend on MyD88 signaling </plain></SENT>
+<SENT sid="15" pm="."><plain>CONCLUSION: Our results characterize several critical mediators of the TLR4 signaling events associated with neuroprotection </plain></SENT>
+<SENT sid="16" pm="."><plain>LPS preconditioning redirects TLR4 signaling in response to <z:hpo ids='HP_0001297'>stroke</z:hpo> through suppression of NFκB activity, enhanced IRF3 activity, and increased anti-inflammatory/type I IFN gene expression </plain></SENT>
+<SENT sid="17" pm="."><plain>Interestingly, this protective phenotype does not require the suppression of pro-<z:mp ids='MP_0002501'>inflammatory mediators</z:mp> </plain></SENT>
+<SENT sid="18" pm="."><plain>Furthermore, our results highlight a critical role for TRIF-IRF3 signaling as the governing mechanism in the neuroprotective response to <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+</text></document>

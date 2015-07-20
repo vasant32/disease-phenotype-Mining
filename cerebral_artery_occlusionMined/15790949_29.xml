@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND PURPOSE: Darbepoetin alfa is a novel erythropoiesis-stimulating protein developed for treating <z:hpo ids='HP_0001903'>anemia</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>In animal models, exogenous recombinant human erythropoietin has been reported to be beneficial in treating experimental <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>In this study, we determined whether darbepoetin alfa would protect in a rat model of transient focal <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: Rats received 2-hour middle cerebral artery suture-occlusion </plain></SENT>
+<SENT sid="4" pm="."><plain>The drug (darbepoetin alfa, 10 microg/kg) or vehicle was administered intraperitoneally 2 hours after <z:hpo ids='HP_0003674'>onset</z:hpo> of middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> </plain></SENT>
+<SENT sid="5" pm="."><plain>Animals were allowed to survive for 3 or 14 days </plain></SENT>
+<SENT sid="6" pm="."><plain>Behavioral tests were performed sequentially </plain></SENT>
+<SENT sid="7" pm="."><plain><z:mpath ids='MPATH_124'>Infarct</z:mpath> volumes and <z:e sem="disease" ids="C1527311" disease_type="Disease or Syndrome" abbrv="">brain swelling</z:e> were determined </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: Darbepoetin alfa-treated rats showed improved neuroscores relative to vehicle-treated animals beginning within 1 hour of treatment and persisting throughout the 14-day survival period </plain></SENT>
+<SENT sid="9" pm="."><plain>Darbepoetin alfa significantly reduced corrected total (cortical + subcortical) <z:mpath ids='MPATH_124'>infarct</z:mpath> volume (56.3+/-20.6 and 110.8+/-6.8 mm3, respectively) and total <z:mpath ids='MPATH_124'>infarct</z:mpath> areas at multiple levels compared with vehicle in the 14-day survival group </plain></SENT>
+<SENT sid="10" pm="."><plain><z:e sem="disease" ids="C1527311" disease_type="Disease or Syndrome" abbrv="">Brain swelling</z:e> was not affected by treatment </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: Darbepoetin alfa confers behavioral and histological neuroprotection after focal <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> in rats </plain></SENT>
+</text></document>

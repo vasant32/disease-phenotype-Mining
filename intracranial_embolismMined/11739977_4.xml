@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND PURPOSE: Transcranial Doppler (TCD) can detect high-intensity transient signals (HITS) in the cerebral circulation </plain></SENT>
+<SENT sid="1" pm="."><plain>HITS may correspond to artifacts or solid or gaseous emboli </plain></SENT>
+<SENT sid="2" pm="."><plain>The aim of this study was to develop an offline automated Doppler system allowing the classification of HITS </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: We studied 600 HITS in vivo, including 200 artifacts from <z:mpath ids='MPATH_458'>normal</z:mpath> subjects, 200 solid emboli from patients with symptomatic internal carotid <z:mp ids='MP_0006135'>artery stenosis</z:mp>, and 200 gaseous emboli in <z:hpo ids='HP_0001297'>stroke</z:hpo> patients with <z:hpo ids='HP_0001655'>patent foramen ovale</z:hpo> </plain></SENT>
+<SENT sid="4" pm="."><plain>The study was 2-fold, each part involving 300 HITS (100 of each type) </plain></SENT>
+<SENT sid="5" pm="."><plain>The first 300 HITS (learning set) were used to construct an automated classification algorithm </plain></SENT>
+<SENT sid="6" pm="."><plain>The remaining 300 HITS (validation set) were used to check the validity of this algorithm </plain></SENT>
+<SENT sid="7" pm="."><plain>To classify HITS, we combined dual-gate TCD with a wavelet representation and compared it with the current "gold standard," the human experts </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: A combination of the peak frequency of HITS and the time delay makes it possible to separate artifacts from emboli </plain></SENT>
+<SENT sid="9" pm="."><plain>On the validation set, we achieved a sensitivity of 97%, a specificity of 98%, a positive predictive value (<z:chebi fb="0" ids="53261">PPV</z:chebi>) of 99%, and a negative predictive value (NPV) of 94% </plain></SENT>
+<SENT sid="10" pm="."><plain>To distinguish between solid and gaseous emboli, where positive refers now to the solid emboli, we used the peak frequency, the relative power, and the envelope symmetry of HITS </plain></SENT>
+<SENT sid="11" pm="."><plain>On the validation set, we achieved a sensitivity of 89%, a specificity of 86%, a conditional <z:chebi fb="0" ids="53261">PPV</z:chebi> of 89%, and a conditional NPV of 89% </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: An automated wavelet representation combined with dual-gate TCD can reliably reject artifacts from emboli </plain></SENT>
+<SENT sid="13" pm="."><plain>From a clinical standpoint, however, this approach has only a fair accuracy in differentiating between solid and gaseous emboli </plain></SENT>
+</text></document>

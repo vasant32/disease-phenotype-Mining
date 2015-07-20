@@ -1,0 +1,32 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>INTRODUCTION: T lymphocytes expressing the αEβ7 integrin are highly enriched within human intestinal epithelium and lamina propria </plain></SENT>
+<SENT sid="1" pm="."><plain>Studies exploring pathogenic or protective functions of αEβ7 expressing cells are lacking </plain></SENT>
+<SENT sid="2" pm="."><plain>Defining this phenotype is critical for our understanding of IBD pathogenesis and of translational importance with the development of etrolizumab, a humanised antibody specific to the β7 integrin that blocks α4β7:MAdCAM-1 and αEβ7:E-cadherin interactions </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: Lymphocytes within colonic biopsies from a total of 43 UC and 35 non-disease control patients were studied </plain></SENT>
+<SENT sid="4" pm="."><plain>Multi-colour FACS was optimised to determine surface and intracellular protein expression (CD45, CD3, CD4, CD8, αE, β7, CD161, IL-17A, TNFα, IFNγ and IL-10) </plain></SENT>
+<SENT sid="5" pm="."><plain>qPCR was performed on TCRαβ+ lymphocytes, FACS sorted into CD4(+)αEβ7+, CD4(+)αEβ7-, CD8(+)αEβ7+ and CD8(+)αEβ7- prior to gene expression assay </plain></SENT>
+<SENT sid="6" pm="."><plain>Dual stain IHC for αE, plus CD3, CD4, CD8 and FOXP3 was performed using a Ventana Benchmark XT autostainer </plain></SENT>
+<SENT sid="7" pm="."><plain>Severity of UC was stratified using the Mayo endoscopic score for <z:hpo ids='HP_0100279'>ulcerative colitis</z:hpo> </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: <z:hpo ids='HP_0100279'>Ulcerative colitis</z:hpo> was associated with a significantly increased frequency of T lymphocytes in the intestinal mucosa (p &lt; 0.05) </plain></SENT>
+<SENT sid="9" pm="."><plain>IHC revealed the highest expression of αE on CD4 and CD8 intraepithelial lymphocytes, although a substantial number of lamina propria lymphocytes also expressed this integrin </plain></SENT>
+<SENT sid="10" pm="."><plain>In UC, FACS demonstrated CD4(+)αEβ7+ lymphocytes had a higher potential to produce the pro-inflammatory cytokines IFNγ(p &lt; 0.01), TNFα(p &lt; 0.001) and IL-17A(p &lt; 0.0001) than CD4(+)αEβ7- lymphocytes </plain></SENT>
+<SENT sid="11" pm="."><plain>In addition, a mean of 31.5% of the CD4(+)αEβ7+ lymphocytes produced both IL-17A and IFNγ compared to a mean of only 7.7% in the CD4(+)αEβ7- compartment (p &lt; 0.001) </plain></SENT>
+<SENT sid="12" pm="."><plain>IL-10 was not differentially expressed between CD4(+)αEβ7+ and CD4(+)αEβ7- lymphocytes in controls or UC, and a low frequency of αEβ7+FOXP3+ cells was observed by IHC </plain></SENT>
+<SENT sid="13" pm="."><plain>qPCR array confirmed higher <z:chebi fb="2" ids="33699">mRNA</z:chebi> levels of IFNγ(p &lt; 0.001), TNFα(p &lt; 0.01) and IL-17A(p &lt; 0.01), and lower transcription of FOXP3 (p &lt; 0.0001) in CD4(+)αEβ7+ cells compared to CD4(+)αEβ7- cells </plain></SENT>
+<SENT sid="14" pm="."><plain>CONCLUSION: αEβ7 expression was associated with an enrichment of pro-inflammatory Th17, Th1 and Th17/Th1 T lymphocytes, and not associated with a regulatory phenotype </plain></SENT>
+<SENT sid="15" pm="."><plain>These data suggest therapeutic interventions targeting αE expressing T cells and the αEβ7 integrin itself may be viable approaches for reducing aberrant <z:mp ids='MP_0001845'>inflammatory responses</z:mp> in UC </plain></SENT>
+<SENT sid="16" pm="."><plain>DISCLOSURE OF INTEREST: C </plain></SENT>
+<SENT sid="17" pm="."><plain>Lamb Grant/research support from: Genentech, J </plain></SENT>
+<SENT sid="18" pm="."><plain>Mansfield Grant/research support from: Genentech, G </plain></SENT>
+<SENT sid="19" pm="."><plain>Tew Employee of: Genentech, D </plain></SENT>
+<SENT sid="20" pm="."><plain>Gibbons Grant/research support from: Genentech, A </plain></SENT>
+<SENT sid="21" pm="."><plain>Long Grant/research support from: Genentech, P </plain></SENT>
+<SENT sid="22" pm="."><plain>Irving Grant/research support from: Genentech, L </plain></SENT>
+<SENT sid="23" pm="."><plain>Deihl Employee of: Genentech, J </plain></SENT>
+<SENT sid="24" pm="."><plain>Eastham Anderson Employee of: Genentech, G </plain></SENT>
+<SENT sid="25" pm="."><plain>O'Boyle Grant/research support from: Genentech, D </plain></SENT>
+<SENT sid="26" pm="."><plain>Jones Grant/research support from: Genentech, A </plain></SENT>
+<SENT sid="27" pm="."><plain>Hayday Grant/research support from: Genentech, M </plain></SENT>
+<SENT sid="28" pm="."><plain>Keir Employee of: Genentech, J </plain></SENT>
+<SENT sid="29" pm="."><plain>Egen Employee of: Genentech, J </plain></SENT>
+<SENT sid="30" pm="."><plain>Kirby Grant/research support from: Genentech </plain></SENT>
+</text></document>

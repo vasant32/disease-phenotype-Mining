@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Memory complaints are frequent in the elderly but its implications in cognition over time remain a controversial issue </plain></SENT>
+<SENT sid="1" pm="."><plain>Our objective was to evaluate the risk of self perceived memory complaints in the evolution for future <z:hpo ids='HP_0000726'>dementia</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>The LADIS (Leukoaraiosis and Disability) prospective multinational European study evaluates the impact of white matter changes (WMC) on the transition of independent elderly subjects into disability </plain></SENT>
+<SENT sid="3" pm="."><plain>Independent elderly were enrolled due to the presence of WMC </plain></SENT>
+<SENT sid="4" pm="."><plain>Subjects were evaluated yearly during 3 years with a comprehensive clinical protocol and a neuropsychological battery </plain></SENT>
+<SENT sid="5" pm="."><plain><z:hpo ids='HP_0000726'>Dementia</z:hpo> and subtypes of <z:hpo ids='HP_0000726'>dementia</z:hpo> were classified </plain></SENT>
+<SENT sid="6" pm="."><plain>Self perceived memory complaints in independent elderly were collected during the interview </plain></SENT>
+<SENT sid="7" pm="."><plain>MRI was performed at entry and at the end of the study </plain></SENT>
+<SENT sid="8" pm="."><plain>639 subjects were included (74.1 ± 5 years old, 55% women, 9.6 ± 3.8 years of schooling) </plain></SENT>
+<SENT sid="9" pm="."><plain>At end of follow-up, 90 patients were <z:e sem="disease" ids="C0860630" disease_type="Mental or Behavioral Dysfunction" abbrv="">demented</z:e> (vascular <z:hpo ids='HP_0000726'>dementia</z:hpo>, 54; <z:e sem="disease" ids="C0002395" disease_type="Disease or Syndrome" abbrv="SDAT">Alzheimer's disease</z:e> (AD) and AD with vascular component, 34; <z:hpo ids='HP_0002145'>frontotemporal dementia</z:hpo>, 2) </plain></SENT>
+<SENT sid="10" pm="."><plain>Using Cox regression analysis, we found that self perceived memory complaints were a strong predictor of AD and AD with vascular component during the follow-up (β = 2.7, p = 0.008; HR = 15.5, CI 95% [2.04, 117.6]), independently of other confounders, namely depressive symptoms, WMC severity, medial temporal lobe <z:mpath ids='MPATH_127'>atrophy</z:mpath>, and global cognition status at baseline </plain></SENT>
+<SENT sid="11" pm="."><plain>Self perceived memory complaints did not predict vascular <z:hpo ids='HP_0000726'>dementia</z:hpo> </plain></SENT>
+<SENT sid="12" pm="."><plain>In the LADIS study, self perceived memory complaints predicted AD but not vascular <z:hpo ids='HP_0000726'>dementia</z:hpo> in elderly subjects with WMC living independently </plain></SENT>
+</text></document>

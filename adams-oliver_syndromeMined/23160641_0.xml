@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIMS/HYPOTHESIS: Human complex metabolic traits are in part regulated by genetic determinants </plain></SENT>
+<SENT sid="1" pm="."><plain>Here we applied exome sequencing to identify novel associations of coding polymorphisms at minor allele frequencies (MAFs) &gt;1% with common metabolic phenotypes </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: The study comprised three stages </plain></SENT>
+<SENT sid="3" pm="."><plain>We performed medium-depth (8×) whole exome sequencing in 1,000 cases with type 2 <z:mp ids='MP_0002055'>diabetes</z:mp>, BMI &gt;27.5 kg/m(2) and <z:hpo ids='HP_0000822'>hypertension</z:hpo> and in 1,000 controls (stage 1) </plain></SENT>
+<SENT sid="4" pm="."><plain>We selected 16,192 polymorphisms nominally associated (p &lt; 0.05) with case-control status, from four selected annotation categories or from loci reported to associate with metabolic traits </plain></SENT>
+<SENT sid="5" pm="."><plain>These variants were genotyped in 15,989 Danes to search for association with 12 metabolic phenotypes (stage 2) </plain></SENT>
+<SENT sid="6" pm="."><plain>In stage 3, polymorphisms showing potential associations were genotyped in a further 63,896 Europeans </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: Exome sequencing identified 70,182 polymorphisms with MAF &gt;1% </plain></SENT>
+<SENT sid="8" pm="."><plain>In stage 2 we identified 51 potential associations with one or more of eight metabolic phenotypes covered by 45 unique polymorphisms </plain></SENT>
+<SENT sid="9" pm="."><plain>In meta-analyses of stage 2 and stage 3 results, we demonstrated robust associations for coding polymorphisms in CD300LG (fasting <z:chebi fb="4" ids="47775">HDL-cholesterol</z:chebi>: MAF 3.5%, p = 8.5 × 10(-14)), COBLL1 (type 2 <z:mp ids='MP_0002055'>diabetes</z:mp>: MAF 12.5%, OR 0.88, p = 1.2 × 10(-11)) and MACF1 (type 2 <z:mp ids='MP_0002055'>diabetes</z:mp>: MAF 23.4%, OR 1.10, p = 8.2 × 10(-10)) </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSIONS/INTERPRETATION: We applied exome sequencing as a basis for finding genetic determinants of metabolic traits and show the existence of low-frequency and common coding polymorphisms with impact on common metabolic traits </plain></SENT>
+<SENT sid="11" pm="."><plain>Based on our study, coding polymorphisms with MAF above 1% do not seem to have particularly high effect sizes on the measured metabolic traits </plain></SENT>
+</text></document>

@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>In contrast to severe <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> (sAA), the appropriate management of patients with moderate <z:hpo ids='HP_0001876'>pancytopenia</z:hpo> is unclear </plain></SENT>
+<SENT sid="1" pm="."><plain>In this study, we examined the efficacy of a humanized monoclonal antibody recognizing interleukin-2 receptor (daclizumab), which has proven to be a successful <z:chebi fb="1" ids="35705">immunosuppressive agent</z:chebi> in solid organ and bone marrow transplantation </plain></SENT>
+<SENT sid="2" pm="."><plain>We treated 17 patients with moderate <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> (mAA) with 1 mg/kg every 2 weeks for 3 months </plain></SENT>
+<SENT sid="3" pm="."><plain>mAA was defined as <z:hpo ids='HP_0000716'>depression</z:hpo> of 2 of the 3 blood counts: absolute neutrophil count 1200/mm3 or less, platelet count 70,000/mm3 or less, <z:chebi fb="0" ids="35143">hemoglobin</z:chebi> level 8.5 g/dL or lower, and absolute reticulocyte count 60,000/mm3 or less </plain></SENT>
+<SENT sid="4" pm="."><plain>The primary end point of our protocol was a hematologic response in at least one affected peripheral blood value </plain></SENT>
+<SENT sid="5" pm="."><plain>Daclizumab had little toxicity </plain></SENT>
+<SENT sid="6" pm="."><plain>Six of the 16 (38%) evaluable patients responded to treatment </plain></SENT>
+<SENT sid="7" pm="."><plain>Two patients with previously <z:hpo ids='HP_0011010'>chronic</z:hpo> disease showed complete return of <z:mpath ids='MPATH_458'>normal</z:mpath> counts, which were sustained for more than 2 years following treatment </plain></SENT>
+<SENT sid="8" pm="."><plain>Four patients had single-lineage responses </plain></SENT>
+<SENT sid="9" pm="."><plain>Two previously transfusion-dependent patients became transfusion independent; one patient with many <z:hpo ids='HP_0001875'>neutropenia</z:hpo>-related <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infections</z:e> had a <z:mpath ids='MPATH_458'>normal</z:mpath> neutrophil count following treatment </plain></SENT>
+<SENT sid="10" pm="."><plain>Daclizumab appears safe; its efficacy in this pilot protocol suggests that expanded study of this monoclonal antibody in immune-mediated <z:hpo ids='HP_0005528'>bone marrow failure</z:hpo> syndrome is warranted </plain></SENT>
+</text></document>

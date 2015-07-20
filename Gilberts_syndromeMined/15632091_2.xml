@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The problem of identifying motifs comprising <z:chebi fb="9" ids="36976">nucleotides</z:chebi> at a set of polymorphic DNA sites, not necessarily contiguous, arises in many human genetic problems </plain></SENT>
+<SENT sid="1" pm="."><plain>However, when the sites are not contiguous, no efficient algorithm exists for polymorphic motif identification </plain></SENT>
+<SENT sid="2" pm="."><plain>A search based on complete enumeration is computationally inefficient </plain></SENT>
+<SENT sid="3" pm="."><plain>We have developed probabilistic search algorithms to discover motifs of known or unknown lengths </plain></SENT>
+<SENT sid="4" pm="."><plain>We have developed statistical tests of significance for assessing a motif discovery, and a statistical criterion for simultaneously estimating motif length and discovering it </plain></SENT>
+<SENT sid="5" pm="."><plain>We have tested these algorithms on various synthetic data sets and have shown that they are very efficient, in the sense that the "true" motifs can be detected in the vast majority of replications and in a small number of iterations </plain></SENT>
+<SENT sid="6" pm="."><plain>Additionally, we have applied them to some real data sets and have shown that they are able to identify known motifs </plain></SENT>
+<SENT sid="7" pm="."><plain>In certain applications, it is pertinent to find motifs that contain contrasting <z:chebi fb="9" ids="36976">nucleotides</z:chebi> at the sites included in the motif (e.g., motifs identified in case-control association studies) </plain></SENT>
+<SENT sid="8" pm="."><plain>For this, we have suggested appropriate modifications </plain></SENT>
+<SENT sid="9" pm="."><plain>Using simulations, we have discovered that the success rate of identification of the correct motif is high in case-control studies except when relative risks are small </plain></SENT>
+<SENT sid="10" pm="."><plain>Our analyses of evolutionary data sets resulted in the identification of some motifs that appear to have important implications on human evolutionary inference </plain></SENT>
+<SENT sid="11" pm="."><plain>These algorithms can easily be implemented to discover motifs from multilocus genotype data by simple numerical recoding of genotypes </plain></SENT>
+</text></document>

@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIM: To provide a sensitive genetic screening method for rapid identification of <z:hpo ids='HP_0000001'>all</z:hpo> known length polymorphisms in the promoter region of the <z:chebi fb="0" ids="16704">uridine</z:chebi> 5'-diphosphoglucose glucuronosyltransferase (UGT) 1A1 gene comprising (TA)5, (TA)7 and (TA)8 repeats as opposed to the non-mutated (TA)6 allele </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: The UGT1A1 promoter genotype was assessed in 115 subjects by means of a newly developed pyrosequencing method </plain></SENT>
+<SENT sid="2" pm="."><plain>PCR-generated DNA templates of heterozygous (TA)5 and (TA)7 carriers were cloned into a TOPO TA vector and verified by sequencing </plain></SENT>
+<SENT sid="3" pm="."><plain>In addition, a (TA)8 segment was produced by cloning to demonstrate the ability of the method to detect this mutation </plain></SENT>
+<SENT sid="4" pm="."><plain>RESULTS: <z:hpo ids='HP_0000001'>All</z:hpo> length polymorphisms of the UGT1A1 promoter described in the literature were clearly identified </plain></SENT>
+<SENT sid="5" pm="."><plain>Fifteen subjects had <z:e sem="disease" ids="C0017551" disease_type="Disease or Syndrome" abbrv="">Gilbert's syndrome</z:e> with elevated serum <z:chebi fb="0" ids="16990">bilirubin</z:chebi> associated with a homozygous (TA)7TAA/(TA)7TAA genotype </plain></SENT>
+<SENT sid="6" pm="."><plain>Two subjects with the rare genotypes (TA)5TAA/(TA)6TAA and (TA)5TAA/(TA)7TAA were found, where only the latter one displayed elevated serum <z:chebi fb="0" ids="16990">bilirubin</z:chebi> levels </plain></SENT>
+<SENT sid="7" pm="."><plain>Allelic frequencies were 0.9%, 66.1% and 33% for the (TA)5TAA, (TA)6TAA and (TA)7TAA allele, respectively </plain></SENT>
+<SENT sid="8" pm="."><plain>CONCLUSION: Our method enables reliable genetic single-step screening for <z:hpo ids='HP_0000001'>all</z:hpo> known length polymorphisms in the UGT1A1 gene promoter that cause <z:e sem="disease" ids="C0017551" disease_type="Disease or Syndrome" abbrv="">Gilbert's syndrome</z:e> </plain></SENT>
+<SENT sid="9" pm="."><plain>This facilitates pharmacogenetic-guided dosing of drugs with known toxicity metabolized by UGT1A1 </plain></SENT>
+</text></document>

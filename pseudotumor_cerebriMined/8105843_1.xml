@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The authors studied intracranial hemodynamics in experimental animals (Macaca Fuscatus) with <z:hpo ids='HP_0011009'>acute</z:hpo> intracranial <z:hpo ids='HP_0000822'>hypertension</z:hpo> by use of transcranial Doppler (TCD) ultrasound </plain></SENT>
+<SENT sid="1" pm="."><plain>The blood mean flow velocity in the middle cerebral artery (<z:chebi fb="70" ids="34342">MCA</z:chebi>-FV) and pulsatility index (PI) was recorded using TCD ultrasound (TC2-64, <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">EME</z:e>) as in the clinical study </plain></SENT>
+<SENT sid="2" pm="."><plain><z:hpo ids='HP_0011009'>Acute</z:hpo> intracranial <z:hpo ids='HP_0000822'>hypertension</z:hpo> was produced to determine the correlation of <z:chebi fb="70" ids="34342">MCA</z:chebi>-FV with intracranial pressure (ICP) and cerebral perfusion pressure (CPP) in 11 monkeys, and the correlation of PI with ICP and CPP in 7 monkeys </plain></SENT>
+<SENT sid="3" pm="."><plain>ICP was elevated by infusing 0.1-0.2 ml/min of saline into the balloon using infusion pump </plain></SENT>
+<SENT sid="4" pm="."><plain>ICP was raised until maximum level </plain></SENT>
+<SENT sid="5" pm="."><plain>Changes of <z:chebi fb="70" ids="34342">MCA</z:chebi>-FV, PI, ICP and CPP were evaluated until the CPP of 0mmHg </plain></SENT>
+<SENT sid="6" pm="."><plain>There was a significant correlation between <z:chebi fb="70" ids="34342">MCA</z:chebi>-FV and ICP (p &lt; 0.01) as well as between <z:chebi fb="70" ids="34342">MCA</z:chebi>-FV and CPP (p &lt; 0.01) in <z:hpo ids='HP_0000001'>all</z:hpo> 11 monkeys </plain></SENT>
+<SENT sid="7" pm="."><plain>There was also a significant correlation between PI and ICP (p &lt; 0.01) and between PI and CPP (p &lt; 0.01) in 7 monkeys </plain></SENT>
+<SENT sid="8" pm="."><plain>PI increased markedly when ICP was 80mmHg or greater or when CPP was 60mmHg or less </plain></SENT>
+<SENT sid="9" pm="."><plain>ICP was always above 80mmHg when PI was above 1.2 </plain></SENT>
+<SENT sid="10" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> PI values were above 1.0 when CPP was 40mmHg or less </plain></SENT>
+<SENT sid="11" pm="."><plain>Thus, we could not estimate the absolute values of ICP or CPP from <z:chebi fb="70" ids="34342">MCA</z:chebi>-FV and PI </plain></SENT>
+<SENT sid="12" pm="."><plain>It seems possible, however, to follow changes in intracranial hemodynamics at the time of increased ICP if <z:chebi fb="70" ids="34342">MCA</z:chebi>-FV and PI are measured continuously while paying attention to factors influencing <z:chebi fb="70" ids="34342">MCA</z:chebi>-FV.(ABSTRACT TRUNCATED AT 250 WORDS) </plain></SENT>
+</text></document>

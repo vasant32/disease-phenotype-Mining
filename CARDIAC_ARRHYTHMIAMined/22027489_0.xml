@@ -1,0 +1,7 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Time-variant partial directed coherence (tvPDC) is used for the first time in a multivariate analysis of heart rate variability (HRV), respiratory movements (RMs) and (systolic) arterial blood pressure </plain></SENT>
+<SENT sid="1" pm="."><plain>It is shown that respiration-related HRV components which also occur at other frequencies besides the RM frequency (= respiratory sinus <z:hpo ids='HP_0011675'>arrhythmia</z:hpo>, RSA) can be identified </plain></SENT>
+<SENT sid="2" pm="."><plain>These additional components are known to be an effect of the 'half-the-mean-heart-rate-dilemma' ('cardiac aliasing' CA) </plain></SENT>
+<SENT sid="3" pm="."><plain>These CA components may contaminate the entire frequency range of HRV and can lead to misinterpretation of the RSA analysis </plain></SENT>
+<SENT sid="4" pm="."><plain>TvPDC analysis of simulated and clinical data (full-term neonates and sedated patients) reveals these contamination effects and, in addition, the respiration-related CA components can be separated from the RSA component and the Traube-Hering-Mayer wave </plain></SENT>
+<SENT sid="5" pm="."><plain>It can be concluded that tvPDC can be beneficially applied to avoid misinterpretations in HRV analyses as well as to quantify partial correlative interaction properties between RM and RSA </plain></SENT>
+</text></document>

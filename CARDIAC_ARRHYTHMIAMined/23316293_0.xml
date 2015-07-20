@@ -1,0 +1,19 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: The etiologies of <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> remain undetermined in 15% to 40% of patients </plain></SENT>
+<SENT sid="1" pm="."><plain>Apart from <z:hpo ids='HP_0005110'>atrial fibrillation</z:hpo>, other <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> are less well-characterized as risk factors </plain></SENT>
+<SENT sid="2" pm="."><plain>Premature cardiac contractions are known to confer long-term cardiovascular risks, like <z:hpo ids='HP_0001658'>myocardial infarction</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain><z:hpo ids='HP_0002140'>Ischemic stroke</z:hpo> as cardiovascular risk outcome remains a topic of interest </plain></SENT>
+<SENT sid="4" pm="."><plain>We examined the prospective relationships in the <z:hpo ids='HP_0002621'>Atherosclerosis</z:hpo> Risk in Communities (ARIC) study, to determine whether premature atrial (PAC) or ventricular (<z:mp ids='MP_0010018'>PVC</z:mp>) contractions are associated with increased risk for incident <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> </plain></SENT>
+<SENT sid="5" pm="."><plain>METHODS AND RESULTS: We analyzed 14 493 baseline <z:hpo ids='HP_0001297'>stroke</z:hpo>-free middle-aged individuals in the ARIC public-use data </plain></SENT>
+<SENT sid="6" pm="."><plain>The presence of PAC or <z:mp ids='MP_0010018'>PVC</z:mp> at baseline was assessed from 2-minute electrocardiogram </plain></SENT>
+<SENT sid="7" pm="."><plain>A physician-panel confirmed and classified <z:hpo ids='HP_0000001'>all</z:hpo> <z:hpo ids='HP_0001297'>stroke</z:hpo> cases </plain></SENT>
+<SENT sid="8" pm="."><plain>Average follow-up time was 13 years </plain></SENT>
+<SENT sid="9" pm="."><plain>Proportional hazards models assessed associations between premature contractions and incident <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+<SENT sid="10" pm="."><plain>PACs and <z:mp ids='MP_0010018'>PVCs</z:mp> were identified in 717 (4.9%) and 793 (5.5%) participants, respectively </plain></SENT>
+<SENT sid="11" pm="."><plain>In <z:hpo ids='HP_0000001'>all</z:hpo>, 509(3.5%) participants developed <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> </plain></SENT>
+<SENT sid="12" pm="."><plain>The hazard ratio (HR) (95% confidence interval [CI]) associated with <z:mp ids='MP_0010018'>PVC</z:mp> was 1.77 (1.30, 2.41), attenuated to 1.25 (0.91, 1.71) after adjusting for baseline <z:hpo ids='HP_0001297'>stroke</z:hpo> risk factors </plain></SENT>
+<SENT sid="13" pm="."><plain>The interaction between <z:mp ids='MP_0010018'>PVC</z:mp> and baseline <z:hpo ids='HP_0000822'>hypertension</z:hpo> was marginally significant (P=0.08) </plain></SENT>
+<SENT sid="14" pm="."><plain>Among normotensives, having <z:mp ids='MP_0010018'>PVCs</z:mp> was associated with nearly 2-fold increase in the rate of incident <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> (HR 1.69; 95% CI 1.02, 2.78), adjusting for <z:hpo ids='HP_0001297'>stroke</z:hpo> risk factors </plain></SENT>
+<SENT sid="15" pm="."><plain>The adjusted risk of <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> associated with PACs was 1.30 (95% CI 0.92, 1.83) </plain></SENT>
+<SENT sid="16" pm="."><plain>CONCLUSIONS: Presence of <z:mp ids='MP_0010018'>PVCs</z:mp> may indicate an increased risk of <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo>, especially in normotensives </plain></SENT>
+<SENT sid="17" pm="."><plain>This risk approximates risk of <z:hpo ids='HP_0001297'>stroke</z:hpo> from being black, male, or <z:mp ids='MP_0001261'>obese</z:mp> in normotensives from this cohort </plain></SENT>
+</text></document>

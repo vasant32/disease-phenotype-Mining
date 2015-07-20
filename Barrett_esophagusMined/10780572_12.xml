@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> predisposes affected patients to the development of esophageal <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> </plain></SENT>
+<SENT sid="1" pm="."><plain>The development of <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> proceeds along a progression through low- and high-grade <z:mpath ids='MPATH_589'>dysplasia</z:mpath> </plain></SENT>
+<SENT sid="2" pm="."><plain>Surveillance of Barrett's patients requires serial endoscopic investigations and grading mucosal biopsies </plain></SENT>
+<SENT sid="3" pm="."><plain>Unfortunately, grading of biopsies by conventional <z:chebi fb="1" ids="51686">hematoxylin</z:chebi> and eosin staining is fraught with significant interobserver variations </plain></SENT>
+<SENT sid="4" pm="."><plain>We have found in both biopsy and resection specimens that immunostaining for the small <z:chebi fb="11" ids="15996">GTP</z:chebi> binding protein Rab11 is increased in low-grade dysplastic cells </plain></SENT>
+<SENT sid="5" pm="."><plain>This staining is lost in high-grade dysplastic cells </plain></SENT>
+<SENT sid="6" pm="."><plain>These results suggest that low-grade dysplastic cells undergo an apical trafficking blockade, which is released as cells progress to the less differentiated phenotype of high-grade <z:mpath ids='MPATH_589'>dysplasia</z:mpath> and <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> </plain></SENT>
+<SENT sid="7" pm="."><plain>Examination of the SKGT-4 esophageal <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> cell line demonstrated prominent <z:chebi fb="2" ids="33699">mRNA</z:chebi> and protein expression for Rab11 </plain></SENT>
+<SENT sid="8" pm="."><plain>Rab11 immunostaining was present in SKGT-4 cells as a perinuclear nidus of punctate staining along with a more diffuse punctate pattern </plain></SENT>
+<SENT sid="9" pm="."><plain>Thus, Rab11 expression was present in a esophageal <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> cells in culture </plain></SENT>
+<SENT sid="10" pm="."><plain>Markers of vesicle trafficking may be critical factors for grading of mucosal dysplastic transitions leading to <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> </plain></SENT>
+</text></document>

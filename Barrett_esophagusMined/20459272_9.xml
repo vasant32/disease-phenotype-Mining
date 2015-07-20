@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Early detection of <z:hpo ids='HP_0002664'>neoplasia</z:hpo> in patients with <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> is essential to improve outcomes </plain></SENT>
+<SENT sid="1" pm="."><plain>The aim of this ex vivo study was to evaluate the ability of high-resolution microendoscopic imaging and quantitative image analysis to identify neoplastic lesions in patients with <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>Nine patients with pathologically confirmed <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> underwent endoscopic examination with biopsies or endoscopic mucosal resection </plain></SENT>
+<SENT sid="3" pm="."><plain>Resected fresh tissue was imaged with fiber bundle microendoscopy; images were analyzed by visual interpretation or by quantitative image analysis to predict whether the imaged sites were non-neoplastic or neoplastic </plain></SENT>
+<SENT sid="4" pm="."><plain>The best performing pair of quantitative features were chosen based on their ability to correctly classify the data into the two groups </plain></SENT>
+<SENT sid="5" pm="."><plain>Predictions were compared to the gold standard of histopathology </plain></SENT>
+<SENT sid="6" pm="."><plain>Subjective analysis of the images by expert clinicians achieved average sensitivity and specificity of 87% and 61%, respectively </plain></SENT>
+<SENT sid="7" pm="."><plain>The best performing quantitative classification algorithm relied on two image textural features and achieved a sensitivity and specificity of 87% and 85%, respectively </plain></SENT>
+<SENT sid="8" pm="."><plain>This ex vivo pilot trial demonstrates that quantitative analysis of images obtained with a simple microendoscope system can distinguish <z:hpo ids='HP_0002664'>neoplasia</z:hpo> in <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> with good sensitivity and specificity when compared to histopathology and to subjective image interpretation </plain></SENT>
+</text></document>

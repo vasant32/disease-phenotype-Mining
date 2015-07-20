@@ -1,0 +1,23 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Same-day bidirectional endoscopy (BDE) is commonly used in clinical practice </plain></SENT>
+<SENT sid="1" pm="."><plain>OBJECTIVE: Our purpose was to determine the frequency, patient demographics, indications, and significant endoscopic findings for patients undergoing BDE </plain></SENT>
+<SENT sid="2" pm="."><plain>DESIGN: Retrospective study with a national endoscopic database </plain></SENT>
+<SENT sid="3" pm="."><plain>SETTING: Diverse clinical practice settings in the United States, including 75% from private practice </plain></SENT>
+<SENT sid="4" pm="."><plain>PATIENTS: A total of 591,074 adult patients had upper or lower endoscopy; 66,265 patients (11.2%) with same-day BDE and a subgroup (n = 9067) with a common indication for both upper and lower examinations are the subjects of this analysis </plain></SENT>
+<SENT sid="5" pm="."><plain>MAIN OUTCOME MEASUREMENTS: Age, sex, and procedure indication were analyzed in <z:hpo ids='HP_0000001'>all</z:hpo> subjects </plain></SENT>
+<SENT sid="6" pm="."><plain>Significant endoscopic findings were measured in patients with a single indication of <z:hpo ids='HP_0001903'>anemia</z:hpo>, a positive fecal occult blood test (FOBT), or <z:hpo ids='HP_0002027'>abdominal pain</z:hpo>/<z:e sem="disease" ids="C0013395" disease_type="Disease or Syndrome" abbrv="">dyspepsia</z:e> (pain) for both upper and lower endoscopy </plain></SENT>
+<SENT sid="7" pm="."><plain>METHODS: The Clinical Outcomes Research Initiative (CORI) national endoscopic database was analyzed to determine the number of patients who underwent same-day BDE between 2000 and 2004 </plain></SENT>
+<SENT sid="8" pm="."><plain>Patients with a single indication of <z:hpo ids='HP_0001903'>anemia</z:hpo>, positive fecal occult blood test (FOBT), or <z:hpo ids='HP_0002027'>abdominal pain</z:hpo>/<z:e sem="disease" ids="C0013395" disease_type="Disease or Syndrome" abbrv="">dyspepsia</z:e> (pain) on both EGD and colonoscopy were included for the analysis of endoscopic findings </plain></SENT>
+<SENT sid="9" pm="."><plain>Significant upper GI findings were defined as suspected <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">malignancy</z:e>, <z:hpo ids='HP_0100026'>arteriovenous malformation</z:hpo> (<z:mp ids='MP_0006093'>AVM</z:mp>), <z:mpath ids='MPATH_579'>ulcer</z:mpath>, <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo>, and stricture </plain></SENT>
+<SENT sid="10" pm="."><plain>Significant lower GI findings included suspected <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">malignancy</z:e>, <z:mpath ids='MPATH_491'>polyp</z:mpath> &gt;9 mm, and <z:mp ids='MP_0006093'>AVM</z:mp> </plain></SENT>
+<SENT sid="11" pm="."><plain>RESULTS: A total of 591,074 patients had upper and/or lower endoscopy; 66,265 patients (11.2%) had same-day BDE </plain></SENT>
+<SENT sid="12" pm="."><plain>The majority of patients were female (52.1%), and the mean age of patients with BDE was 60.8 years </plain></SENT>
+<SENT sid="13" pm="."><plain>A total of 6538 patients (9.9%) had <z:hpo ids='HP_0001903'>anemia</z:hpo>, 1169 (1.8%) had a positive FOBT, and 1360 (2.1%) had pain as the sole indication for both examinations </plain></SENT>
+<SENT sid="14" pm="."><plain>After adjustment for age and sex, significant findings were higher in patients with <z:hpo ids='HP_0001903'>anemia</z:hpo> than in those with pain (odds ratio 1.89; 95% CI, 1.59-2.26) and for patients with positive FOBT versus pain (odds ratio 1.83; 95% CI, 1.48-2.26) </plain></SENT>
+<SENT sid="15" pm="."><plain>LIMITATIONS: Retrospective analysis with possible bias </plain></SENT>
+<SENT sid="16" pm="."><plain>Fewer patients with pain had significant findings compared to the other two groups (P value &lt;.0001) </plain></SENT>
+<SENT sid="17" pm="."><plain>CONCLUSIONS: More than 10% of patients undergoing upper or lower endoscopy receive same-day BDE </plain></SENT>
+<SENT sid="18" pm="."><plain>BDE commonly revealed important conditions in patients with <z:hpo ids='HP_0001903'>anemia</z:hpo> or positive FOBT </plain></SENT>
+<SENT sid="19" pm="."><plain>Bidirectional endoscopy commonly revealed important pathology in patients with <z:hpo ids='HP_0001903'>anemia</z:hpo> or positive FOBT </plain></SENT>
+<SENT sid="20" pm="."><plain>Patients with pain had a lower prevalence of serious findings compared to the other groups studied </plain></SENT>
+<SENT sid="21" pm="."><plain>The benefits of BDE in patients with pain are uncertain and require additional investigation </plain></SENT>
+</text></document>

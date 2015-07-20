@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Allogeneic peripheral blood stem cell transplantation (PBSCT) has emerged as an alternative to bone marrow transplantation </plain></SENT>
+<SENT sid="1" pm="."><plain>PBSCT can be associated with a higher incidence of <z:hpo ids='HP_0011010'>chronic</z:hpo> <z:e sem="disease" ids="C0018133" disease_type="Disease or Syndrome" abbrv="GVH">graft-versus-host disease</z:e> (cGVHD) </plain></SENT>
+<SENT sid="2" pm="."><plain>In this study, we investigated whether there was a correlation between the composition of PBSC grafts (CD34+ and CD3+ cells) and hematological recovery, GVHD, relapse, and relapse-free survival (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">RFS</z:e>) after myeloablative HLA-identical sibling PBSCT </plain></SENT>
+<SENT sid="3" pm="."><plain>The evolution of 100 <z:hpo ids='HP_0011009'>acute</z:hpo> or <z:hpo ids='HP_0005558'>chronic leukemia</z:hpo> patients was analyzed </plain></SENT>
+<SENT sid="4" pm="."><plain>Neither hematological recovery, <z:hpo ids='HP_0011009'>acute</z:hpo> or cGVHD, nor relapse, was significantly associated with CD3+ cell dose </plain></SENT>
+<SENT sid="5" pm="."><plain>Increasing CD34+ stem cells was associated with faster neutrophil (P=0.03) and platelet (P=0.007) recovery </plain></SENT>
+<SENT sid="6" pm="."><plain>Moreover, 47 of the 78 patients evaluable for cGVHD (60%; 95% CI, 49-71%) developed extensive cGVHD </plain></SENT>
+<SENT sid="7" pm="."><plain>The probability of extensive cGVHD at 4 years was 34% (95% CI, 21-47%) in patients receiving a 'low' CD34+ cell dose (&lt;8.3 x 10(6)/kg), as compared to 62% (95% CI, 48-76%) in patients receiving a 'high' CD34+ cell dose (&gt;8.3 x 10(6)/kg) (P=0.01) </plain></SENT>
+<SENT sid="8" pm="."><plain>At a median follow-up of 59 months, this has not translated into a difference in relapse </plain></SENT>
+<SENT sid="9" pm="."><plain>In patients evaluable for cGVHD, <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">RFS</z:e> was significantly higher in patients receiving a 'low' CD34+ cell dose as compared to those receiving a 'high' CD34+ cell dose (P=0.04) </plain></SENT>
+<SENT sid="10" pm="."><plain>This difference was mainly because of a significantly higher cGVHD-associated mortality (P=0.01) </plain></SENT>
+<SENT sid="11" pm="."><plain>Efforts to accelerate engraftment by increasing CD34+ cell dose must be counterbalanced with the risk of detrimental cGVHD </plain></SENT>
+</text></document>

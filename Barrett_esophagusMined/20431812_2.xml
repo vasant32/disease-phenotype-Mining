@@ -1,0 +1,23 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Endoscopic mucosal resection (EMR) has been proposed as a primary method of managing patients with <z:mpath ids='MPATH_589'>dysplasia</z:mpath>- or mucosal-based <z:e sem="disease" ids="C0546837,C0152018" disease_type="Neoplastic Process" abbrv="">cancers of the esophagus</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>OBJECTIVES: To evaluate the use of EMR for the treatment of <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> with <z:mpath ids='MPATH_589'>dysplasia</z:mpath> or early <z:mp ids='MP_0009308'>adenocarcinoma</z:mp>, assessing efficacy, complication rates and long-term outcomes </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: <z:hpo ids='HP_0000001'>All</z:hpo> patients who underwent EMR at St Paul's Hospital (Vancouver, British Columbia) were reviewed </plain></SENT>
+<SENT sid="3" pm="."><plain>Eligible patients were assessed with aggressive biopsy protocols </plain></SENT>
+<SENT sid="4" pm="."><plain>Detected <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancers</z:e> were staged with both endoscopic ultrasound imaging and computed tomography </plain></SENT>
+<SENT sid="5" pm="."><plain>Appropriate patients were offered EMR using a commercially available mucosectomy device </plain></SENT>
+<SENT sid="6" pm="."><plain>EMR was repeated at six- to eight-week intervals until complete </plain></SENT>
+<SENT sid="7" pm="."><plain>Patients with less than one year of follow-up or who were undergoing other ablative methods were excluded </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: Twenty-two patients (<z:hpo ids='HP_0000001'>all</z:hpo> men) with a mean (+/- SD) age of 67+/-10.6 years were identified </plain></SENT>
+<SENT sid="9" pm="."><plain>The mean duration of <z:hpo ids='HP_0002020'>gastroesophageal reflux disease</z:hpo> was 17 years (range four to 40 years) and <z:hpo ids='HP_0000001'>all</z:hpo> were receiving <z:chebi fb="0" ids="49200">proton pump inhibitor</z:chebi> therapy </plain></SENT>
+<SENT sid="10" pm="."><plain>The mean length of <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> was 5.5+/-3.5 cm </plain></SENT>
+<SENT sid="11" pm="."><plain>One patient had no <z:mpath ids='MPATH_589'>dysplasia</z:mpath> (isolated nodule), three had low-grade <z:mpath ids='MPATH_589'>dysplasia</z:mpath>, 15 had high-grade <z:mpath ids='MPATH_589'>dysplasia</z:mpath> (HGD) and three had <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> </plain></SENT>
+<SENT sid="12" pm="."><plain>A mean of 1.7+/-0.83 endoscopic sessions were performed, with a mean of 6+/-5.4 sections removed </plain></SENT>
+<SENT sid="13" pm="."><plain>Following EMR, three patients developed strictures; two of these patients had pre-existing strictures and the third required two dilations, which resolved his symptoms </plain></SENT>
+<SENT sid="14" pm="."><plain>There were no other complications </plain></SENT>
+<SENT sid="15" pm="."><plain>Three patients underwent esophagectomy </plain></SENT>
+<SENT sid="16" pm="."><plain>Two had <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> or HGD in a pre-existing stricture </plain></SENT>
+<SENT sid="17" pm="."><plain>The third patient had an <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> not amenable to EMR </plain></SENT>
+<SENT sid="18" pm="."><plain>One patient with a long segment of <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> underwent radiofrequency ablation </plain></SENT>
+<SENT sid="19" pm="."><plain>At a median follow-up of two years (range one to three years), the remaining 18 patients (82%) had no evidence of HGD or <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> </plain></SENT>
+<SENT sid="20" pm="."><plain>CONCLUSION: Most patients with <z:mp ids='MP_0000467'>esophageal dysplasia</z:mp> can be managed with EMR </plain></SENT>
+<SENT sid="21" pm="."><plain>Individuals with pre-existing strictures require other endoscopic andor surgical methods to manage their <z:mpath ids='MPATH_589'>dysplasia</z:mpath> or <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> </plain></SENT>
+</text></document>

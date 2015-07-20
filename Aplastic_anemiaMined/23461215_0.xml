@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We report a case of pediatric severe <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> (SAA), where the patient underwent allogenic bone marrow transplantation (BMT) from an HLA mismatched family donor and developed <z:hpo ids='HP_0000097'>focal segmental glomerulosclerosis</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">FSGS</z:e>) </plain></SENT>
+<SENT sid="1" pm="."><plain>An 11-year-old girl, who had SAA, was admitted to our hospital in 200X </plain></SENT>
+<SENT sid="2" pm="."><plain>Complete remission was not attained after immunosuppressive therapy with rabbit-antithymocyte globulin, <z:chebi fb="2" ids="8378">prednisolone</z:chebi> (PSL), and <z:chebi fb="0" ids="4031">cyclosporine</z:chebi> A (CsA) </plain></SENT>
+<SENT sid="3" pm="."><plain>Eight months after being diagnosed with SAA, she underwent an allogenic BMT from her mother </plain></SENT>
+<SENT sid="4" pm="."><plain>We used a combination of 2-Gy total body irradiation, fludarabine, and <z:chebi fb="0" ids="4027">cyclophosphamide</z:chebi> as a preparative regimen prior to the BMT </plain></SENT>
+<SENT sid="5" pm="."><plain>CsA and PSL were used as prophylaxis against GVHD </plain></SENT>
+<SENT sid="6" pm="."><plain>Since the BMT did not lead to successful engraftment, the patient required two peripheral blood stem cell transplantations (PBSCT) </plain></SENT>
+<SENT sid="7" pm="."><plain>Engraftment was sustained and no <z:hpo ids='HP_0011009'>acute</z:hpo> or <z:hpo ids='HP_0011010'>chronic</z:hpo> GVHD was observed </plain></SENT>
+<SENT sid="8" pm="."><plain>Six months after the first BMT, she developed clinical <z:hpo ids='HP_0000100'>nephrotic syndrome</z:hpo> despite the continuous PSL and CsA treatments </plain></SENT>
+<SENT sid="9" pm="."><plain>Renal biopsy revealed a total of 12 glomeruli, one of which showed segmental <z:mp ids='MP_0000612'>sclerosis</z:mp> </plain></SENT>
+<SENT sid="10" pm="."><plain>Electron microscopy revealed diffuse effacement of the foot processes </plain></SENT>
+<SENT sid="11" pm="."><plain>These findings were consistent with <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">FSGS</z:e>, and she was treated with <z:chebi fb="0" ids="168396">mycophenolate</z:chebi> mofetil (MMF) in combination with PSL instead of CsA, which greatly reduced her <z:hpo ids='HP_0000093'>proteinuria</z:hpo> </plain></SENT>
+<SENT sid="12" pm="."><plain>In general, the most common type of <z:hpo ids='HP_0000112'>nephropathy</z:hpo> after HSCT is GVHD-related <z:hpo ids='HP_0000100'>nephrotic syndrome</z:hpo>, and the most common pathological finding is membranous <z:hpo ids='HP_0000112'>nephropathy</z:hpo> or minimal change </plain></SENT>
+<SENT sid="13" pm="."><plain><z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">FSGS</z:e> without GVHD after HSCT, such as that observed in our case, is rare </plain></SENT>
+<SENT sid="14" pm="."><plain>In this case, the renal damage appears to have been caused by the effect of circulating permeability factors with immunity change after HSCT </plain></SENT>
+<SENT sid="15" pm="."><plain>This case demonstrates the importance of renal biopsy as a guide to determine the extent of renal damage and as an aid to determine the possible response to therapy </plain></SENT>
+</text></document>

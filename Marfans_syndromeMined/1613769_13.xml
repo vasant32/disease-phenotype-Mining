@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Members of an International Consortium for Linkage Analysis of the <z:e sem="disease" ids="C0024796" disease_type="Disease or Syndrome" abbrv="MFS|MFS1">Marfan Syndrome</z:e> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MFS1</z:e>) have pooled data for joint analysis in an attempt to determine the precise location of the <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MFS1</z:e> gene and the order of 10 DNA markers on 15q </plain></SENT>
+<SENT sid="1" pm="."><plain>Five laboratories performed a total of 2111 genotypes in 22 families consisting of 225 affected and 248 <z:mpath ids='MPATH_458'>normal</z:mpath> subjects </plain></SENT>
+<SENT sid="2" pm="."><plain>For each marker a mean of 98 meioses was informative </plain></SENT>
+<SENT sid="3" pm="."><plain>D15S48 and D15S1 were identified as the closest linked markers with 99% upper confidence intervals of 12% and 13% respectively </plain></SENT>
+<SENT sid="4" pm="."><plain>We have used the CRI-MAP program to construct the most likely order as: D15S24-D15S25-D15S1-<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MFS1</z:e>-D15S48-D15S49+ ++-(D15S45/S51)-(D15S29/S38) </plain></SENT>
+<SENT sid="5" pm="."><plain>Placement of D15S2 in relation to -D15S1-D15S48- cannot be determined with certainty </plain></SENT>
+<SENT sid="6" pm="."><plain>The genetic map of these markers extends 53.6 cM in males and 65.0 cM in females with a sex averaged map of 60.7 cM </plain></SENT>
+<SENT sid="7" pm="."><plain>The sex difference was statistically significant (p = 0.005) </plain></SENT>
+<SENT sid="8" pm="."><plain>Linkage <z:hpo ids='HP_0001425'>heterogeneity</z:hpo> between 22 MFS1 families was documented (p = 0.009) necessitating the exclusion of one family from the analysis </plain></SENT>
+<SENT sid="9" pm="."><plain>However, comparison of the remaining 21 families for two point and multipoint lod scores showed no evidence for linkage <z:hpo ids='HP_0001425'>heterogeneity</z:hpo> of the <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MFS1</z:e> locus </plain></SENT>
+</text></document>

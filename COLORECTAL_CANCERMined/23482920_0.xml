@@ -1,0 +1,20 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIM: To identify key variables associated with <z:hpo ids='HP_0003003'>colon cancer</z:hpo> testing using the 2009 California Health Inventory Survey (CHIS) </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: The CHIS has been conducted biennially since 2001 using a two-stage, geographically stratified random-digit-dial sample design to produce a representative sample of the entire State </plain></SENT>
+<SENT sid="2" pm="."><plain>For this study we used survey data from 2001-2009 inclusive </plain></SENT>
+<SENT sid="3" pm="."><plain>We restricted our analysis to White, Black, and Hispanic/Latinos aged 50-80 years </plain></SENT>
+<SENT sid="4" pm="."><plain>Weighted data was used to calculate the proportion of participants who underwent some form of <z:hpo ids='HP_0003003'>colon cancer</z:hpo> testing (colonoscopy, flexible sigmoidoscopy or fecal occult blood testing) within the previous 5 years stratified by race/ethnicity </plain></SENT>
+<SENT sid="5" pm="."><plain>For inferential analysis, boot-strapping with replacement was performed on the weighted sample to attain variance estimates at the 95%CI </plain></SENT>
+<SENT sid="6" pm="."><plain>For mean differences among categories we used t-tests and for comparisons of categorical data we used Pearson's χ(2) </plain></SENT>
+<SENT sid="7" pm="."><plain>Binary logistic regression was used to identify independent variables associated with undergoing some form of testing </plain></SENT>
+<SENT sid="8" pm="."><plain>Trend analysis was performed to determine rates of testing over the study period stratified by race </plain></SENT>
+<SENT sid="9" pm="."><plain>RESULTS: The CHIS database for 2009 had 30 857 unique respondents corresponding to a weighted sample size of 10.6 million Californians </plain></SENT>
+<SENT sid="10" pm="."><plain>Overall, 63.0% (63.0-63.1) underwent a <z:hpo ids='HP_0003003'>colon cancer</z:hpo> test within the previous 5 years; with 70.5% (70.5%-70.6%) of this subset having undergone colonoscopy </plain></SENT>
+<SENT sid="11" pm="."><plain>That is 44.5% (44.4%-44.5%) of <z:hpo ids='HP_0000001'>all</z:hpo> individuals 50-80 underwent colonoscopy </plain></SENT>
+<SENT sid="12" pm="."><plain>By multivariable regression, those tested were more likely to be male (OR = 1.06; 95%CI: 1.06-1.06), Black (OR = 1.30; 95%CI: 1.30-1.31), have a family member with <z:hpo ids='HP_0003003'>colon cancer</z:hpo> (OR = 1.71; 95%CI: 1.70-1.72), and have health insurance (OR = 2.71; 95%CI: 2.70-2.72) </plain></SENT>
+<SENT sid="13" pm="."><plain>Progressive levels above the poverty line were also associated with receiving a test (100%-199%: 1.21; 1.20-1.21), (200%-299%:1.41; 1.40-1.42), (&gt; 300:1.69; 1.68-1.70) </plain></SENT>
+<SENT sid="14" pm="."><plain>The strongest variable was physician recommendation (OR = 3.90; 95%CI: 3.88-3.91) </plain></SENT>
+<SENT sid="15" pm="."><plain>For the Hispanic/Latino group, additional variables associated with testing were success of physician-patient communication (OR = 2.44; 95%CI: 2.40-2.48) and naturalized citizenship status (OR = 1.91; 95%CI: 1.89-1.93) </plain></SENT>
+<SENT sid="16" pm="."><plain>Trend analysis demonstrated increased <z:hpo ids='HP_0003003'>colon cancer</z:hpo> testing for <z:hpo ids='HP_0000001'>all</z:hpo> racial/ethnic subgroups from 2001-2009 although the rate remained considerably lower for the Hispanic/Latino subgroup </plain></SENT>
+<SENT sid="17" pm="."><plain>CONCLUSION: Using CHIS we identified California citizens most likely to undergo <z:hpo ids='HP_0003003'>colon cancer</z:hpo> testing </plain></SENT>
+<SENT sid="18" pm="."><plain>The strongest variable associated with testing for <z:hpo ids='HP_0000001'>all</z:hpo> groups was physician recommendation </plain></SENT>
+</text></document>

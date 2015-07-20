@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:mp ids='MP_0003121'>Genomic imprinting</z:mp> refers to parent-of-origin-specific gene expression </plain></SENT>
+<SENT sid="1" pm="."><plain>Human chromosome band 11p15.5 houses a large cluster of genes that are imprinted </plain></SENT>
+<SENT sid="2" pm="."><plain>Dysregulation of this gene cluster is associated with the <z:hpo ids='HP_0001548'>overgrowth</z:hpo> and <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> predisposition <z:e sem="disease" ids="C0004903" disease_type="Disease or Syndrome;Congenital Abnormality" abbrv="">syndrome, Beckwith-Wiedemann</z:e> syndrome </plain></SENT>
+<SENT sid="3" pm="."><plain>Several genes in this imprinted cluster encode proteins involved in growth regulation, e.g. the paternally expressed IGF2 and the maternally expressed cell-cycle regulator cyclin dependent kinase inhibitor, CDKN1C </plain></SENT>
+<SENT sid="4" pm="."><plain>Disruption of imprinted gene expression can result from genetic or epigenetic alterations </plain></SENT>
+<SENT sid="5" pm="."><plain>Genetic alterations such as duplication, deletion, translocation, inversion, and mutation in imprinted regions have been shown to cause disease </plain></SENT>
+<SENT sid="6" pm="."><plain>In addition, epimutations that are extrinsic to the primary DNA sequence have also been shown to cause disease </plain></SENT>
+<SENT sid="7" pm="."><plain>These epimutations usually involve gain or loss of methylation at regulatory differentially methylated regions </plain></SENT>
+<SENT sid="8" pm="."><plain>Recently, several human diseases in addition to <z:e sem="disease" ids="C0004903" disease_type="Disease or Syndrome;Congenital Abnormality" abbrv="">Beckwith-Wiedemann syndrome</z:e> have been reported to have molecular alterations at chromosome 11p15.5 </plain></SENT>
+<SENT sid="9" pm="."><plain>These include isolated hemihyperplasia, Russell-Silver syndrome, and <z:hpo ids='HP_0008255'>transient neonatal diabetes mellitus</z:hpo> </plain></SENT>
+<SENT sid="10" pm="."><plain>These molecular alterations and their phenotypic effects on growth are discussed </plain></SENT>
+</text></document>

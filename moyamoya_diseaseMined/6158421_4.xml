@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Two cases of <z:e sem="disease" ids="C0026654" disease_type="Disease or Syndrome" abbrv="MYMY|MYMY1">Moyamoya disease</z:e> in children are presented </plain></SENT>
+<SENT sid="1" pm="."><plain>The EEG of each child demonstrated minimal abnormalities at rest </plain></SENT>
+<SENT sid="2" pm="."><plain>However, during 3 min of <z:hpo ids='HP_0002883'>hyperventilation</z:hpo>, the record developed rhythmic delta activity which persisted in excess of 5 min after termination of over breathing </plain></SENT>
+<SENT sid="3" pm="."><plain>This activity did not respond to <z:chebi fb="105" ids="17234">glucose</z:chebi> administration and was maximal in the areas correlating with the clinical symptoms </plain></SENT>
+<SENT sid="4" pm="."><plain>It appears to represent a physiologic correlate of an abnormal vascular response to <z:mp ids='MP_0003032'>hypocapnia</z:mp> </plain></SENT>
+<SENT sid="5" pm="."><plain>Although admittedly a non-specific response, the persistence of delta activity easily provoked by <z:hpo ids='HP_0002883'>hyperventilation</z:hpo>, the topographic correspondence to the ultimately demonstrated vascular anomaly, and the lack of response to <z:chebi fb="105" ids="17234">glucose</z:chebi> ingestion represent a combination of factors which, in the appropriate clinical setting, are distinctive and of diagnostic value </plain></SENT>
+<SENT sid="6" pm="."><plain>Currently, invasive arteriography is required for definitive diagnosis of <z:e sem="disease" ids="C0026654" disease_type="Disease or Syndrome" abbrv="MYMY|MYMY1">Moyamoya</z:e> </plain></SENT>
+<SENT sid="7" pm="."><plain>Improved selection of children for invasive studies may be accomplished by EEG screening </plain></SENT>
+</text></document>

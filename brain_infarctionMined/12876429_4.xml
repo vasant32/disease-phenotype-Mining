@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:chebi fb="0" ids="9642">N-Tosyl-L-phenylalanyl-chloromethyl ketone</z:chebi> (<z:chebi fb="0" ids="9642">TPCK</z:chebi>) reduces <z:mpath ids='MPATH_3'>apoptosis</z:mpath> in vitro </plain></SENT>
+<SENT sid="1" pm="."><plain>Pretreatment with <z:chebi fb="0" ids="9642">TPCK</z:chebi> reduces brain injury </plain></SENT>
+<SENT sid="2" pm="?"><plain>Would treatment after injury reduce damage </plain></SENT>
+<SENT sid="3" pm="."><plain>Seven-day-old rats had the right carotid artery ligated and were subjected to 2.5 h of 8% oxygen and were treated intraperitoneally 3 h after <z:mp ids='MP_0005039'>hypoxia</z:mp> with 10 mg/kg of <z:chebi fb="0" ids="9642">TPCK</z:chebi> or vehicle </plain></SENT>
+<SENT sid="4" pm="."><plain>Brain damage was measured 22 days after injury </plain></SENT>
+<SENT sid="5" pm="."><plain>bcl-2, bax, and <z:chebi fb="1" ids="18070">cytochrome c</z:chebi> where measured by Western blot 24 h after injury </plain></SENT>
+<SENT sid="6" pm="."><plain>Caspase-9 and caspase-3 activity were measured enzymatically 24 h after injury </plain></SENT>
+<SENT sid="7" pm="."><plain>Treatment with <z:chebi fb="0" ids="9642">TPCK</z:chebi> reduced the loss of the right hemisphere caused by injury from 27.6 +/- 2.8% <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">SEM</z:e> (vehicle, n = 56) to 19.8 +/- 2.8% (<z:chebi fb="0" ids="9642">TPCK</z:chebi>, n = 61, p &lt; 0.05) </plain></SENT>
+<SENT sid="8" pm="."><plain>Hypoxic <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> increased cytosolic <z:chebi fb="1" ids="18070">cytochrome c</z:chebi> from 0.25 +/- 0.04 to 0.4 +/- 0.04 optical density (OD; p &lt; 0.05), but <z:chebi fb="0" ids="9642">TPCK</z:chebi> had no effect (0.31 +/- 0.03 OD) </plain></SENT>
+<SENT sid="9" pm="."><plain><z:chebi fb="0" ids="9642">TPCK</z:chebi> reduced caspase-9 activity from 72 +/- 30 to 43 +/- 5 fluorescence units/h/mg (p &lt; 0.05 vs. vehicle), and caspase-3 activity from 66 +/- 10 to 39 +/- 3.7 fluorescence units/h/mg (p &lt; 0.05 vs. vehicle) </plain></SENT>
+<SENT sid="10" pm="."><plain>Treatment with <z:chebi fb="0" ids="9642">TPCK</z:chebi> 3 h after hypoxic <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> reduced brain <z:mpath ids='MPATH_124'>infarct</z:mpath> size </plain></SENT>
+<SENT sid="11" pm="."><plain><z:chebi fb="0" ids="9642">TPCK</z:chebi> may act by reducing caspase-9 activation by <z:chebi fb="1" ids="18070">cytochrome c</z:chebi> </plain></SENT>
+</text></document>

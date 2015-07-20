@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: To test the validity of a published clinical model for predicting incident <z:mp ids='MP_0002055'>diabetes</z:mp> in Japanese Americans </plain></SENT>
+<SENT sid="1" pm="."><plain>RESEARCH DESIGN AND METHODS: A total of 465 nondiabetic Japanese Americans (243 men, 222 women), aged 34-75 years, were studied at baseline and at 5-6 years </plain></SENT>
+<SENT sid="2" pm="."><plain>A total of 412 subjects were studied at 10 years </plain></SENT>
+<SENT sid="3" pm="."><plain>The clinical model included age, sex, ethnicity, BMI, systolic blood pressure, fasting plasma <z:chebi fb="105" ids="17234">glucose</z:chebi> (FPG), <z:chebi fb="4" ids="47775">HDL cholesterol</z:chebi>, and family history of <z:mp ids='MP_0002055'>diabetes</z:mp> at baseline </plain></SENT>
+<SENT sid="4" pm="."><plain><z:mp ids='MP_0002055'>Diabetes</z:mp> status at 5-6 and 10 years was determined by 75-g oral <z:chebi fb="105" ids="17234">glucose</z:chebi> tolerance test </plain></SENT>
+<SENT sid="5" pm="."><plain>The clinical model, 2-h <z:chebi fb="105" ids="17234">glucose</z:chebi>, and FPG were compared using receiver-operating characteristic (ROC) curves </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS-The <z:mp ids='MP_0002055'>diabetes</z:mp> risk associated with BMI, sex, and <z:chebi fb="4" ids="47775">HDL cholesterol</z:chebi> differed by age (P &lt;or= 0.011) </plain></SENT>
+<SENT sid="7" pm="."><plain>At 5-6 years, the clinical model ROC curve area (0.896) was higher than that for FPG (0.776, P = 0.008), but not for 2-h <z:chebi fb="105" ids="17234">glucose</z:chebi> (0.851, P = 0.341), for subjects aged &lt;or=55 years </plain></SENT>
+<SENT sid="8" pm="."><plain>For older subjects, the clinical model ROC curve area (0.599) was lower than that for 2-h <z:chebi fb="105" ids="17234">glucose</z:chebi> (0.792, P &lt;or= 0.001), but not for FPG (0.627, P = 0.467) </plain></SENT>
+<SENT sid="9" pm="."><plain>At 10 years, there were no significant differences between the clinical model, FPG, and 2-h <z:chebi fb="105" ids="17234">glucose</z:chebi> ROC curve areas in either age group </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSIONS: In Japanese Americans aged &lt;or=55 years, a clinical model was better than FPG for predicting <z:mp ids='MP_0002055'>diabetes</z:mp> after 5-6 years but not after 10 years </plain></SENT>
+<SENT sid="11" pm="."><plain>The model was not useful in older Japanese Americans, whereas 2-h <z:chebi fb="105" ids="17234">glucose</z:chebi> was useful for predicting <z:mp ids='MP_0002055'>diabetes</z:mp> risk regardless of age </plain></SENT>
+</text></document>

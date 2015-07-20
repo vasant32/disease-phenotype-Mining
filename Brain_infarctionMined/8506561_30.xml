@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND PURPOSE: Functional tests that are stable and consistent over time are an advantage for long-term evaluation of treatment in experimental <z:hpo ids='HP_0001297'>stroke</z:hpo> research </plain></SENT>
+<SENT sid="1" pm="."><plain>Because little information on this subject is available in rodents with focal <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo>, we investigated the outcome of three behavioral tests for a period of 3 months after the insult </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: Spontaneously hypertensive rats were sham-operated (n = 27) or underwent an occlusion (n = 36) of the right middle cerebral artery </plain></SENT>
+<SENT sid="3" pm="."><plain>Before surgery <z:hpo ids='HP_0000001'>all</z:hpo> rats were tested for <z:chebi fb="110" ids="2679">amphetamine</z:chebi>-induced rotational behavior, and half of the rats were trained in a paw-reaching task </plain></SENT>
+<SENT sid="4" pm="."><plain>One, 2, and 3 months after surgery the tests were repeated, together with a test for sensorimotor function </plain></SENT>
+<SENT sid="5" pm="."><plain><z:mpath ids='MPATH_124'>Infarct</z:mpath> size was measured morphometrically </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: In the lesion group, total hemisphere area was reduced by 22%, caudate putamen by 47%, and the thalamus by 24% </plain></SENT>
+<SENT sid="7" pm="."><plain>Contralateral to the lesion, paw-reaching was highly impaired, regardless of whether or not the rats had been pretrained, and lesion size correlated significantly to paw-reach performance </plain></SENT>
+<SENT sid="8" pm="."><plain>Ipsilateral rotation increased and sensorimotor function recovered with time in infarcted rats </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSIONS: In contrast to <z:chebi fb="110" ids="2679">amphetamine</z:chebi>-induced rotation and sensorimotor behavior, the paw-reaching test provides a stable behavioral parameter after a middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> </plain></SENT>
+<SENT sid="10" pm="."><plain>Moreover, the lesion-induced deficit in paw-reaching is highly correlated to the extent of the <z:mpath ids='MPATH_124'>infarct</z:mpath>, suggesting that this test is useful in evaluating treatment effects for a longer period of time </plain></SENT>
+</text></document>

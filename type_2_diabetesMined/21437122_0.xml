@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>In healthy tissue, a wound initiates an <z:mp ids='MP_0001845'>inflammatory response</z:mp> characterized by the presence of a <z:mp ids='MP_0008817'>hematoma</z:mp>, infiltration of inflammatory cells into the wound and, eventually, wound healing </plain></SENT>
+<SENT sid="1" pm="."><plain>In pathological conditions like <z:hpo ids='HP_0000819'>diabetes mellitus</z:hpo>, wound healing is impaired by the presence of <z:hpo ids='HP_0011010'>chronic</z:hpo> nonresolving <z:mp ids='MP_0001845'>inflammation</z:mp> </plain></SENT>
+<SENT sid="2" pm="."><plain>p38 <z:chebi fb="0" ids="52290">mitogen</z:chebi>-activated protein kinase (MAPK) inhibitors have demonstrated anti-inflammatory effects, primarily by inhibiting the expression of inflammatory cytokines and regulating cellular traffic into wounds </plain></SENT>
+<SENT sid="3" pm="."><plain>The db/db mouse model of type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> was used to characterize the time course of expression of activated p38 during <z:mp ids='MP_0001792'>impaired wound healing</z:mp> </plain></SENT>
+<SENT sid="4" pm="."><plain>The p38α-selective inhibitor, SCIO-469, was applied topically and effects on p38 activation and on wound healing were evaluated </plain></SENT>
+<SENT sid="5" pm="."><plain>A topical dressing used clinically, Promogran™, was used as a comparator </plain></SENT>
+<SENT sid="6" pm="."><plain>In this study, we established that p38 is phosphorylated on Days 1 to 7 post-wounding in db/db mice </plain></SENT>
+<SENT sid="7" pm="."><plain>Further, we demonstrated that SCIO-469, at a dose of 10 μg/wound, had a positive effect on wound contraction, <z:mpath ids='MPATH_183'>granulation tissue</z:mpath> formation, and re-epithelialization, and also increased wound maturity during healing </plain></SENT>
+<SENT sid="8" pm="."><plain>These effects were similar to or greater than those observed with Promogran™ </plain></SENT>
+<SENT sid="9" pm="."><plain>These results suggest a novel approach to prophylactic and therapeutic management of <z:hpo ids='HP_0011010'>chronic</z:hpo> wounds associated with <z:mp ids='MP_0002055'>diabetes</z:mp> or other conditions in which healing is impaired </plain></SENT>
+</text></document>

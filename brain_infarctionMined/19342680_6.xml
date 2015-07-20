@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>IL-20, an IL-10 family member, is involved in various <z:e sem="disease" ids="C1290884" disease_type="Disease or Syndrome" abbrv="">inflammatory diseases</z:e>, such as <z:hpo ids='HP_0003765'>psoriasis</z:hpo>, <z:hpo ids='HP_0001370'>rheumatoid arthritis</z:hpo>, and <z:hpo ids='HP_0002621'>atherosclerosis</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>We investigated whether <z:mp ids='MP_0005039'>hypoxia</z:mp> in vitro and an in vivo model of <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> would up-regulate IL-20 expression </plain></SENT>
+<SENT sid="2" pm="."><plain>In vitro, IL-20 expression increased in hypoxic HaCaT, HEK293 cells, chondrocytes, monocytes, and <z:hpo ids='HP_0100843'>glioblastoma</z:hpo> cells </plain></SENT>
+<SENT sid="3" pm="."><plain>Inhibition of <z:mp ids='MP_0005039'>hypoxia</z:mp>-inducible factor 1alpha inhibited CoCl(2)-induced IL-20 expression </plain></SENT>
+<SENT sid="4" pm="."><plain>We identified two putative <z:mp ids='MP_0005039'>hypoxia</z:mp> response elements in the human il20 gene promoter </plain></SENT>
+<SENT sid="5" pm="."><plain>Promoter activity assays showed that CoCl(2) mimicked <z:mp ids='MP_0005039'>hypoxia</z:mp>-activated luciferase reporter gene expression </plain></SENT>
+<SENT sid="6" pm="."><plain>In vivo, experimental <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> up-regulated IL-20 in the sera and brain tissue of rats </plain></SENT>
+<SENT sid="7" pm="."><plain>IL-20 stained positively in glia-like cells in peri-infarcted lesions, but not in contralateral tissue </plain></SENT>
+<SENT sid="8" pm="."><plain>Administration of IL-20 mAb ameliorated <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e>-induced <z:e sem="disease" ids="C0751955" disease_type="Disease or Syndrome" abbrv="">brain infarction</z:e> of rats after experimental <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> </plain></SENT>
+<SENT sid="9" pm="."><plain>In vitro, RT-PCR analysis showed that <z:hpo ids='HP_0100843'>glioblastoma</z:hpo> cells, GBM8901, expressed IL-20 and its receptor subunits IL-20R1, IL-20R2, and IL-22R1 </plain></SENT>
+<SENT sid="10" pm="."><plain>IL-20 induced cell proliferation in GBM8901 cells by activating the JAK2/STAT3 and ERK1/2 pathways </plain></SENT>
+<SENT sid="11" pm="."><plain>IL-20 also induced production of IL-1beta, IL-8, and <z:chebi fb="17" ids="50099">MCP</z:chebi>-1 in GBM8901 cells </plain></SENT>
+<SENT sid="12" pm="."><plain>We conclude that IL-20 was responsive to <z:mp ids='MP_0005039'>hypoxia</z:mp> in vitro and in the <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> model and that up-regulation of IL-20 in the ischemic brain may contribute to brain injury </plain></SENT>
+</text></document>

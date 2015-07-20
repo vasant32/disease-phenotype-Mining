@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>In recent years, a relationship has been suggested between the occurrence of <z:e sem="disease" ids="C0007780" disease_type="Disease or Syndrome" abbrv="">cerebral embolism</z:e> and <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Ultrasound has therefore become essential in the detection of emboli when monitoring cerebral <z:e sem="disease" ids="C0042373" disease_type="Disease or Syndrome" abbrv="">vascular disorders</z:e> and forms part of ultrasound brain-imaging techniques </plain></SENT>
+<SENT sid="2" pm="."><plain>Such detection is based on investigating the middle cerebral artery using a TransCranial Doppler (TCD) system, and analyzing the Doppler signal of the embolism </plain></SENT>
+<SENT sid="3" pm="."><plain>Most of the emboli detected in practical experiments are large emboli because their signatures are easy to recognize in the TCD signal </plain></SENT>
+<SENT sid="4" pm="."><plain>However, detection of small emboli remains a challenge </plain></SENT>
+<SENT sid="5" pm="."><plain>Various approaches have been proposed to solve the problem, ranging from the exclusive use of expert human knowledge to automated collection of signal parameters </plain></SENT>
+<SENT sid="6" pm="."><plain>Many studies have recently been performed using time-frequency distributions and classical parameter modeling for automatic detection of emboli </plain></SENT>
+<SENT sid="7" pm="."><plain>It has been shown that autoregressive (AR) modeling associated with an abrupt change detection technique is one of the best methods for detection of microemboli </plain></SENT>
+<SENT sid="8" pm="."><plain>One alternative to this is a technique based on taking expert knowledge into account </plain></SENT>
+<SENT sid="9" pm="."><plain>This paper aims to unite these two approaches using AR modeling and expert knowledge through a neurofuzzy approach </plain></SENT>
+<SENT sid="10" pm="."><plain>The originality of this approach lies in combining these two techniques and then proposing a parameter referred to as score ranging from 0 to 1 </plain></SENT>
+<SENT sid="11" pm="."><plain>Unlike classical techniques, this score is not only a measure of confidence of detection but also a tool enabling the final detection of the presence or absence of microemboli to be performed by the practitioner </plain></SENT>
+<SENT sid="12" pm="."><plain>Finally, this paper provides performance evaluation and comparison with an automated technique, i.e., AR modeling used in vitro </plain></SENT>
+</text></document>

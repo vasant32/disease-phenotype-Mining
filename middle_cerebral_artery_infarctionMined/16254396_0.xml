@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND PURPOSE: Previous studies indicate the potential of transcranial sonography (TCS) to detect cerebrovascular disease </plain></SENT>
+<SENT sid="1" pm="."><plain>The authors conducted this patient study to evaluate the diagnostic potential of gray-scale TCS in depicting hemorrhagic transformation (HT) in the early phase of <z:e sem="disease" ids="C0740392" disease_type="Disease or Syndrome" abbrv="">middle cerebral artery infarction</z:e> </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: TCS was performed in 32 patients with <z:hpo ids='HP_0011009'>acute</z:hpo> <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> in the middle cerebral artery territory less than 12, 24 +/- 4, 72 +/- 6, and 120 +/- 12 hours after symptom <z:hpo ids='HP_0003674'>onset</z:hpo> (SONOS 5500, S4 probe, 16 cm investigation depth) </plain></SENT>
+<SENT sid="3" pm="."><plain>Hemorrhagic transformation was identified as hyperechogenicity in the <z:chebi fb="70" ids="34342">MCA</z:chebi> territory, and the echogenicity of these areas was assessed </plain></SENT>
+<SENT sid="4" pm="."><plain>In addition, the dislocation of the third ventricle (midline shift, <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MLS</z:e>) was assessed by TCS </plain></SENT>
+<SENT sid="5" pm="."><plain>Size and localization of infarction were determined by cranial computed tomography (CCT) </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: In 10 of 11 patients, TCS detected HT as confirmed by CCT </plain></SENT>
+<SENT sid="7" pm="."><plain>In 1 patient, TCS provided a false-positive result </plain></SENT>
+<SENT sid="8" pm="."><plain>In another patient, TCS was unable to detect the <z:mp ids='MP_0001914'>hemorrhage</z:mp> (sensitivity, 91%; specificity, 95%) </plain></SENT>
+<SENT sid="9" pm="."><plain>The echointensity of HT increased over time </plain></SENT>
+<SENT sid="10" pm="."><plain><z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MLS</z:e> measurement failed to predict fatal outcome in 1 patient </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: TCS is a promising tool for depicting HT in patients with <z:hpo ids='HP_0011009'>acute</z:hpo> hemispheric <z:hpo ids='HP_0001297'>stroke</z:hpo> and might be suitable for monitoring purposes </plain></SENT>
+</text></document>

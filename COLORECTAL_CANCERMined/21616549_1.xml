@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The objective of this work was to investigate the factors influencing the quality of empirical Bayes estimates (EBEs) of individual random effects of a mixed-effects Markov model for ordered categorical data </plain></SENT>
+<SENT sid="1" pm="."><plain>It was motivated by an attempt to develop a model-based dose adaptation tool for clinical use in <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> patients receiving <z:chebi fb="0" ids="31348">capecitabine</z:chebi>, which induces severe <z:e sem="disease" ids="C0852711" disease_type="Disease or Syndrome" abbrv="">hand-and-foot syndrome</z:e> (HFS) toxicity in more than a half of the patients </plain></SENT>
+<SENT sid="2" pm="."><plain>This simulation-based study employed a published mixed-effects model for HFS </plain></SENT>
+<SENT sid="3" pm="."><plain>The quality of EBEs was assessed in terms of accuracy and precision, as well as shrinkage </plain></SENT>
+<SENT sid="4" pm="."><plain>Three optimization algorithms were compared: simplex, quasi-Newton and adaptive random search </plain></SENT>
+<SENT sid="5" pm="."><plain>The investigated factors were amount of data per patient, distribution of categories within patients, magnitude of the inter-individual variability, and values of the effect model parameters </plain></SENT>
+<SENT sid="6" pm="."><plain>The main factors affecting the quality of EBEs were the values of parameters governing the dose-response relationship and the within-subject distribution of categories </plain></SENT>
+<SENT sid="7" pm="."><plain>For the chosen HFS toxicity model, the accuracy and precision of EBEs were rather low, and therefore the feasibility of their use for individual model-based dose adaptation seemed limited </plain></SENT>
+</text></document>

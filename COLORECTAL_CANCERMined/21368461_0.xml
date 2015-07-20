@@ -1,0 +1,18 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>UNLABELLED: In <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e>), <z:chebi fb="0" ids="46345">5-fluorouracil</z:chebi> (5-FU) has been a basic chemotherapeutic agent </plain></SENT>
+<SENT sid="1" pm="."><plain><z:chebi fb="0" ids="30839">Orotate</z:chebi> phosphoribosyltransferase (OPRT) and <z:chebi fb="0" ids="17748">thymidine</z:chebi> phosphorylase (TP) are essential enzymes for activation of 5-FU </plain></SENT>
+<SENT sid="2" pm="."><plain>Dihydropyrimidine dehydrogenase (DPD) is an enzyme for degradation </plain></SENT>
+<SENT sid="3" pm="."><plain>The feasibility of individualized chemotherapy was studied using the enzyme expression and drug sensitivity test </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS: The study included 160 surgical patients (stage II to IV) </plain></SENT>
+<SENT sid="5" pm="."><plain>OPRT, TP, and DPD expressions, assessed with immunohistochemistry, were evaluated in relation to clinicopathological features and patient survival </plain></SENT>
+<SENT sid="6" pm="."><plain>We assessed 5-FU sensitivity using the collagen gel droplet </plain></SENT>
+<SENT sid="7" pm="."><plain>Embedded culture-drug sensitivity test(CDDST) </plain></SENT>
+<SENT sid="8" pm="."><plain>The area under the concentration curve (AUC) and growth inhibition curve (IR) were combined in the AUC-IR curve, according to which the individual AUC(IR₅₀) was calculated </plain></SENT>
+<SENT sid="9" pm="."><plain>Durations to achieve AUC(IR₅₀) were calculated using AUC(₂₄hr) values in UFT and S-1 </plain></SENT>
+<SENT sid="10" pm="."><plain>RESULTS: TP and DPD expression were positively associated with <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e> progression and related with poor prognosis, although OPRT expression was negatively associated with <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e> progression and related with better prognosis </plain></SENT>
+<SENT sid="11" pm="."><plain>Patient survival was best in patients with OPRT (+) DPD (-), and worst in those with OPRT (-) DPD (+) </plain></SENT>
+<SENT sid="12" pm="."><plain>Individual AUC(IR₅₀) ranged from less than 100 mg·hr/mL to more than 10,000 mg·hr/mL </plain></SENT>
+<SENT sid="13" pm="."><plain>In the chemotherapy with UFT, 55% of patients achieved AUC(IR₅₀) within 6 months, 13% of patients achieved it 6 to 12 months, another 13% of patients in 12 to 24 months, and the other 19% after 24 months of chemotherapy </plain></SENT>
+<SENT sid="14" pm="."><plain>In the chemotherapy with S-1, 31% of patients achieved AUC(IR₅₀) within 1 course, 15% in 1 to 2 courses, another 23% in 2 to 6 courses and the other 31% of patients achieved AUC(IR₅₀) after 6 courses </plain></SENT>
+<SENT sid="15" pm="."><plain>CONCLUSIONS: The present results suggest that patients' prognosis may be improved with selection of an anti-<z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> drug based on the 5-FU metabolizing enzyme expressions and prognostic factors </plain></SENT>
+<SENT sid="16" pm="."><plain>CD-<z:chebi fb="14" ids="38291">DST</z:chebi> may predict the duration of chemotherapy </plain></SENT>
+</text></document>

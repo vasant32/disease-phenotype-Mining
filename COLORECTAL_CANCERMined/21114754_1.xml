@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIM: Observed associations of alcohol with <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> are prone to distortion by confounding and reverse causation </plain></SENT>
+<SENT sid="1" pm="."><plain>A Mendelian randomization approach provides an unbiased estimate of the association using the <z:chebi fb="1" ids="17478">aldehyde</z:chebi> dehydrogenase 2 (ALDH2) variant as a surrogate of alcohol exposure </plain></SENT>
+<SENT sid="2" pm="."><plain>METHOD: A meta-analysis was performed to assess the association between the ALDH2 genotype and colorectal <z:hpo ids='HP_0002664'>neoplasia</z:hpo>, using the ALDH2 genotype as a marker of alcohol intake </plain></SENT>
+<SENT sid="3" pm="."><plain>RESULTS: The pooled odds ratio (OR) of colorectal <z:hpo ids='HP_0002664'>neoplasia</z:hpo> was 1.31 (95%CI, 1.01-1.70) for the Glu/Glu vs the Lys/Lys genotype </plain></SENT>
+<SENT sid="4" pm="."><plain>There was no evidence of interstudy <z:hpo ids='HP_0001425'>heterogeneity</z:hpo> (P = 0.12, I² = 42.7) </plain></SENT>
+<SENT sid="5" pm="."><plain>The overall risk for Glu/Lys heterozygotes relative to Lys/Lys homozygotes (under a fixed-effects model) was 1.13 (95%CI, 0.86-1.48) </plain></SENT>
+<SENT sid="6" pm="."><plain>There was no evidence of publication bias for Glu/Glu or Glu/Lys analysis </plain></SENT>
+<SENT sid="7" pm="."><plain>CONCLUSION: The result supports the role of alcohol in colorectal <z:e sem="disease" ids="C0596263" disease_type="Neoplastic Process" abbrv="">carcinogenesis</z:e> based on a Mendelian randomization approach </plain></SENT>
+</text></document>

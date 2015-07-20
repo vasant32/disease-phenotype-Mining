@@ -1,0 +1,6 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0011675'>Cardiac arrhythmia</z:hpo> relating to <z:hpo ids='HP_0001943'>hypoglycemia</z:hpo> is suggested as a cause of <z:hpo ids='HP_0011420'>death</z:hpo> in diabetic patients </plain></SENT>
+<SENT sid="1" pm="."><plain>This article introduces electrocardiographic (ECG) parameters for artificially induced <z:hpo ids='HP_0001943'>hypoglycemia</z:hpo> detection </plain></SENT>
+<SENT sid="2" pm="."><plain>In addition, a hybrid technique of swarm-based support vector machine (SVM) is introduced for <z:hpo ids='HP_0001943'>hypoglycemia</z:hpo> detection using the ECG parameters as inputs </plain></SENT>
+<SENT sid="3" pm="."><plain>In this technique, a particle swarm optimization (PSO) is proposed to optimize the SVM to detect <z:hpo ids='HP_0001943'>hypoglycemia</z:hpo> </plain></SENT>
+<SENT sid="4" pm="."><plain>In an experiment using medical data of patients with Type 1 <z:mp ids='MP_0002055'>diabetes</z:mp>, the introduced ECG parameters show significant contributions to the performance of the <z:hpo ids='HP_0001943'>hypoglycemia</z:hpo> detection and the proposed detection technique performs well in terms of sensitivity and specificity </plain></SENT>
+</text></document>

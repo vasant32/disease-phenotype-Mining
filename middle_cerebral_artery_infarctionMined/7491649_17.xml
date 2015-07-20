@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND PURPOSE: An accurate measure of the severity of ischemic insult and the resulting prognosis is needed to assess the effectiveness of new treatments for <z:hpo ids='HP_0011009'>acute</z:hpo> <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>We studied the reproducibility and accuracy of measurements of <z:mpath ids='MPATH_124'>infarct</z:mpath> volume with MRI and correlated the measurements with outcome </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: <z:mpath ids='MPATH_124'>Infarct</z:mpath> volume was measured on T2-weighted images with the Analyze image analysis software </plain></SENT>
+<SENT sid="3" pm="."><plain>This technique was found to be highly accurate and reproducible </plain></SENT>
+<SENT sid="4" pm="."><plain>RESULTS: Measurements of <z:mpath ids='MPATH_124'>infarct</z:mpath> volume were found to be highly accurate and reproducible </plain></SENT>
+<SENT sid="5" pm="."><plain>Twenty-one patients (mean age, 66.5 years; range, 28 to 90 years) with cortical middle cerebral artery territory <z:mpath ids='MPATH_124'>infarcts</z:mpath> in whom adequate data could be obtained were studied within 72 hours from <z:hpo ids='HP_0003674'>onset</z:hpo> (mean delay to MRI, 27.5 hours; range, 5 to 72 hours) </plain></SENT>
+<SENT sid="6" pm="."><plain>The Scandinavian <z:hpo ids='HP_0001297'>Stroke</z:hpo> Scale was used to calculate a prognostic score, and clinical outcome was assessed at 3 months </plain></SENT>
+<SENT sid="7" pm="."><plain><z:mpath ids='MPATH_124'>Infarct</z:mpath> volume was found to significantly predict outcome </plain></SENT>
+<SENT sid="8" pm="."><plain>Mean <z:mpath ids='MPATH_124'>infarct</z:mpath> volume in the independent patients was 35.7 +/- 29.7 cm3 compared with 88.3 +/- 71.3 cm3 in dependent patients and 166.5 +/- 65.9 cm3 in dead patients (F = 10.52, P &lt; .001) </plain></SENT>
+<SENT sid="9" pm="."><plain>Patients with an initial <z:mpath ids='MPATH_124'>infarct</z:mpath> volume less than 80 cm3 were found to have a better outcome than those with larger <z:mpath ids='MPATH_124'>infarct</z:mpath> volumes </plain></SENT>
+<SENT sid="10" pm="."><plain>Secondary <z:mp ids='MP_0001914'>hemorrhage</z:mp> visible on MRI also predicted a poor outcome </plain></SENT>
+<SENT sid="11" pm="."><plain>In contrast, the Scandinavian <z:hpo ids='HP_0001297'>Stroke</z:hpo> Scale did not significantly predict outcome </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: The results demonstrate that measurement of the size of <z:e sem="disease" ids="C0740392" disease_type="Disease or Syndrome" abbrv="">middle cerebral artery infarction</z:e> with MRI is a useful tool in assessing prognosis and will have a valuable role in assessing new therapeutic agents </plain></SENT>
+</text></document>

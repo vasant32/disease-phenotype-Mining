@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Background </plain></SENT>
+<SENT sid="1" pm="."><plain><z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">Colorectal cancer</z:e> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e>) is one of the most common <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancers</z:e> in the world, identification of biomarkers for early detection of <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e> represents a relevant target </plain></SENT>
+<SENT sid="2" pm="."><plain>The present study aims to determine serum peptidome patterns for <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e> diagnosis </plain></SENT>
+<SENT sid="3" pm="."><plain>Methods </plain></SENT>
+<SENT sid="4" pm="."><plain>The present work focused on serum proteomic analysis of 32 health volunteers and 38 CRC by ClinProt Kit combined with mass spectrometry </plain></SENT>
+<SENT sid="5" pm="."><plain>This approach allowed the construction of a <z:chebi fb="7" ids="16670">peptide</z:chebi> patterns able to differentiate the studied populations </plain></SENT>
+<SENT sid="6" pm="."><plain>An independent group of serum (including 33 health volunteers, 34 CRC, 16 colorectal <z:mpath ids='MPATH_270'>adenoma</z:mpath>, 36 <z:hpo ids='HP_0011459'>esophageal carcinoma</z:hpo>, and 31 gastric <z:mp ids='MP_0002038'>carcinoma</z:mp> samples) was used to verify the diagnostic and differential diagnostic capability of the peptidome patterns blindly </plain></SENT>
+<SENT sid="7" pm="."><plain>An immunoassay method was used to determine serum CEA of <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e> and controls </plain></SENT>
+<SENT sid="8" pm="."><plain>Results </plain></SENT>
+<SENT sid="9" pm="."><plain>A quick classifier algorithm was used to construct the peptidome patterns for identification of <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e> from controls </plain></SENT>
+<SENT sid="10" pm="."><plain>Two of the identified peaks at m/z 741 and 7772 were used to construct peptidome patterns, achieving an accuracy close to 100% (&gt;CEA, P &lt; 0.05) </plain></SENT>
+<SENT sid="11" pm="."><plain>Furthermore, the peptidome patterns could differentiate validation group with high accuracy </plain></SENT>
+<SENT sid="12" pm="."><plain>Conclusions </plain></SENT>
+<SENT sid="13" pm="."><plain>These results suggest that the ClinProt Kit combined with mass spectrometry yields significantly higher accuracy for the diagnosis and differential diagnosis of <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e> </plain></SENT>
+</text></document>

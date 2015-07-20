@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Peroxisome proliferator-activated receptors (PPARs) are a potential target for neuroprotection in focal <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>These nuclear receptors have major effects in <z:chebi fb="23" ids="18059">lipid</z:chebi> metabolism, but they are also involved in inflammatory processes </plain></SENT>
+<SENT sid="2" pm="."><plain>Three PPAR isotypes have been identified: alpha, beta (or delta) and gamma </plain></SENT>
+<SENT sid="3" pm="."><plain>The development of PPAR transgenic mice offers a promising tool for prospective therapeutic studies </plain></SENT>
+<SENT sid="4" pm="."><plain>This study used MRI to assess the role of PPARalpha and PPARbeta in the development of <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+<SENT sid="5" pm="."><plain>Permanent middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> induced focal <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> in <z:mp ids='MP_0002169'>wild-type</z:mp>, PPARalpha-null mice and PPARbeta-null mice </plain></SENT>
+<SENT sid="6" pm="."><plain>T(2)-weighted MRI was performed with a 7 T MRI scan on day 0, 1, 3, 7 and 14 to monitor lesion growth in the various genotypes </plain></SENT>
+<SENT sid="7" pm="."><plain>General Linear Model statistical analysis found a significant difference in lesion volume between <z:mp ids='MP_0002169'>wild-type</z:mp> and PPAR-null mice for both alpha and beta isotypes </plain></SENT>
+<SENT sid="8" pm="."><plain>These data validate high-resolution MRI for monitoring cerebral ischemic lesions, and confirm the neuroprotective role of PPARalpha and PPARbeta in the brain </plain></SENT>
+</text></document>

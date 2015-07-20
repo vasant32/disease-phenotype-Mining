@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Matrix metalloproteinases (MMPs) are proteolytic enzymes that can degrade the extracellular matrix </plain></SENT>
+<SENT sid="1" pm="."><plain>MMP-9 and MMP-2 have been implicated in brain injury formation </plain></SENT>
+<SENT sid="2" pm="."><plain>The authors examined the effect of MMP inhibitor KB-R7785 on brain <z:mpath ids='MPATH_124'>infarct</z:mpath> formation resulting from permanent focal <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> in mice </plain></SENT>
+<SENT sid="3" pm="."><plain><z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">Ischemia</z:e> was induced by intraluminal middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (MCAO) in mice under <z:chebi fb="2" ids="5615">halothane</z:chebi> anesthesia </plain></SENT>
+<SENT sid="4" pm="."><plain>Zymography was conducted to measure the MMPs activity in ischemic brain tissues </plain></SENT>
+<SENT sid="5" pm="."><plain>Injection of KB-R7785 (100 mg/kg) 30 min before MCAO significantly decreased both MMP-9 activity and <z:mpath ids='MPATH_124'>infarct</z:mpath> volume determined at 24 h </plain></SENT>
+<SENT sid="6" pm="."><plain>In addition, KB-R7785 injected twice at 1 and 4.5 h after MCAO significantly decreased <z:mpath ids='MPATH_124'>infarct</z:mpath> volume </plain></SENT>
+<SENT sid="7" pm="."><plain>These results indicate that KB-R7785 has a protective efficacy against focal <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo>, and our data provide further evidence that MMP-9 contributes to brain <z:mpath ids='MPATH_124'>infarct</z:mpath> formation </plain></SENT>
+</text></document>

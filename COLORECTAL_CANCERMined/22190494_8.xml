@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Silent information regulator 1 (SIRT1) represents an <z:chebi fb="0" ids="15846">NAD(+)</z:chebi>-dependent deacetylase that inhibits proapoptotic factors including p53 </plain></SENT>
+<SENT sid="1" pm="."><plain>Here we determined whether SIRT1 is downstream of the prototypic c-MYC oncogene, which is activated in the majority of <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumors</z:e> </plain></SENT>
+<SENT sid="2" pm="."><plain>Elevated expression of c-MYC in human <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> correlated with increased SIRT1 protein levels </plain></SENT>
+<SENT sid="3" pm="."><plain>Activation of a conditional c-MYC allele induced increased levels of SIRT1 protein, <z:chebi fb="0" ids="15846">NAD(+)</z:chebi>, and <z:chebi fb="0" ids="17154">nicotinamide</z:chebi>-phosphoribosyltransferase (NAMPT) <z:chebi fb="2" ids="33699">mRNA</z:chebi> in several cell types </plain></SENT>
+<SENT sid="4" pm="."><plain>This increase in SIRT1 required the induction of the NAMPT gene by c-MYC </plain></SENT>
+<SENT sid="5" pm="."><plain>NAMPT is the rate-limiting enzyme of the <z:chebi fb="0" ids="15846">NAD(+)</z:chebi> salvage pathway and enhances SIRT1 activity by increasing the amount of <z:chebi fb="0" ids="15846">NAD(+)</z:chebi> </plain></SENT>
+<SENT sid="6" pm="."><plain>c-MYC also contributed to SIRT1 activation by sequestering the SIRT1 inhibitor deleted in <z:hpo ids='HP_0003002'>breast cancer</z:hpo> 1 (DBC1) from the SIRT1 protein </plain></SENT>
+<SENT sid="7" pm="."><plain>In primary human fibroblasts previously immortalized by introduction of c-MYC, down-regulation of SIRT1 induced senescence and <z:mpath ids='MPATH_3'>apoptosis</z:mpath> </plain></SENT>
+<SENT sid="8" pm="."><plain>In various cell lines inactivation of SIRT1 by <z:chebi fb="40" ids="33697">RNA</z:chebi> interference, chemical inhibitors, or ectopic DBC1 enhanced c-MYC-induced <z:mpath ids='MPATH_3'>apoptosis</z:mpath> </plain></SENT>
+<SENT sid="9" pm="."><plain>Furthermore, SIRT1 directly bound to and deacetylated c-MYC </plain></SENT>
+<SENT sid="10" pm="."><plain>Enforced SIRT1 expression increased and <z:mpath ids='MPATH_63'>depletion</z:mpath>/inhibition of SIRT1 reduced c-MYC stability </plain></SENT>
+<SENT sid="11" pm="."><plain><z:mpath ids='MPATH_63'>Depletion</z:mpath>/inhibition of SIRT1 correlated with reduced lysine 63-linked polyubiquitination of c-Myc, which presumably destabilizes c-MYC by supporting degradative lysine 48-linked polyubiquitination </plain></SENT>
+<SENT sid="12" pm="."><plain>Moreover, SIRT1 enhanced the transcriptional activity of c-MYC </plain></SENT>
+<SENT sid="13" pm="."><plain>Taken together, these results show that c-MYC activates SIRT1, which in turn promotes c-MYC function </plain></SENT>
+<SENT sid="14" pm="."><plain>Furthermore, SIRT1 suppressed cellular senescence in cells with deregulated c-MYC expression and also inhibited c-MYC-induced <z:mpath ids='MPATH_3'>apoptosis</z:mpath> </plain></SENT>
+<SENT sid="15" pm="."><plain>Constitutive activation of this positive feedback loop may contribute to the development and maintenance of <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumors</z:e> in the context of deregulated c-MYC </plain></SENT>
+</text></document>

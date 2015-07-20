@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">Colorectal cancer</z:e> is the third most common type of <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> worldwide </plain></SENT>
+<SENT sid="1" pm="."><plain>However, this disease can be prevented by detection and removal of precursor <z:mpath ids='MPATH_490'>adenomatous polyps</z:mpath> during optical colonoscopy (OC) </plain></SENT>
+<SENT sid="2" pm="."><plain>During OC, the endoscopist looks for <z:mp ids='MP_0003269'>colon polyps</z:mp> </plain></SENT>
+<SENT sid="3" pm="."><plain>While <z:mpath ids='MPATH_140'>hyperplastic polyps</z:mpath> are benign lesions, <z:mpath ids='MPATH_490'>adenomatous polyps</z:mpath> are likely to become cancerous </plain></SENT>
+<SENT sid="4" pm="."><plain>Hence, it is a common practice to remove <z:hpo ids='HP_0000001'>all</z:hpo> identified <z:mpath ids='MPATH_491'>polyps</z:mpath> and send them to subsequent histological analysis </plain></SENT>
+<SENT sid="5" pm="."><plain>But removal of <z:mpath ids='MPATH_140'>hyperplastic polyps</z:mpath> poses unnecessary risk to patients and incurs unnecessary costs for histological analysis </plain></SENT>
+<SENT sid="6" pm="."><plain>In this paper, we develop the first part of a novel optical biopsy application based on narrow-band imaging (NBI) </plain></SENT>
+<SENT sid="7" pm="."><plain>A barrier to an automatic system is that <z:mpath ids='MPATH_491'>polyp</z:mpath> classification algorithms require manual segmentations of the <z:mpath ids='MPATH_491'>polyps</z:mpath>, so we automatically segment <z:mpath ids='MPATH_491'>polyps</z:mpath> in colonoscopic NBI data </plain></SENT>
+<SENT sid="8" pm="."><plain>We propose an algorithm, Shape-UCM, which is an extension of the gPb-OWT-UCM algorithm, a state-of-the-art algorithm for boundary detection and segmentation </plain></SENT>
+<SENT sid="9" pm="."><plain>Shape-UCM solves the intrinsic scale selection problem of gPb-OWT-UCM by including prior knowledge about the shape of the <z:mpath ids='MPATH_491'>polyps</z:mpath> </plain></SENT>
+<SENT sid="10" pm="."><plain>Shape-UCM outperforms previous methods with a specificity of 92%, a sensitivity of 71%, and an accuracy of 88% for automatic segmentation of a test set of 87 images </plain></SENT>
+</text></document>

@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: <z:chebi fb="0" ids="31941">Oxaliplatin</z:chebi> is used as a neo-adjuvant therapy in hepatic colorectal <z:mp ids='MP_0002038'>carcinoma</z:mp> <z:e sem="disease" ids="C0027627" disease_type="Neoplastic Process" abbrv="mets">metastasis</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>This treatment has significant side effects, as <z:chebi fb="0" ids="31941">oxaliplatin</z:chebi> is toxic to the sinusoidal endothelial cells and can induce <z:e sem="disease" ids="C0019156" disease_type="Disease or Syndrome" abbrv="">sinusoidal obstruction syndrome</z:e> (SOS), which is related to decreased overall survival </plain></SENT>
+<SENT sid="2" pm="."><plain><z:chebi fb="0" ids="16856">Glutathione</z:chebi> has an important role in the defence system, catalysed by <z:chebi fb="0" ids="16856">glutathione</z:chebi> S-transferase (GST), including two non-enzyme producing polymorphisms (GSTM1-null and GSTT1-null) </plain></SENT>
+<SENT sid="3" pm="."><plain>We hypothesise that patients with a non-enzyme producing polymorphism have a higher risk of developing toxic injury owing to <z:chebi fb="0" ids="31941">oxaliplatin</z:chebi> </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS: In the nontumour-bearing liver, the presence of SOS was studied histopathologically </plain></SENT>
+<SENT sid="5" pm="."><plain>The genotype was determined by a semi-nested PCR </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: Thirty-two of the 55 (58%) patients showed SOS lesions, consisting of 27% mild, 22% moderate and 9% severe lesions </plain></SENT>
+<SENT sid="7" pm="."><plain>The GSTM1-null genotype was present in 25 of the 55 (46%) </plain></SENT>
+<SENT sid="8" pm="."><plain>Multivariate analysis showed that the GSTM1-null genotype significantly correlated with the presence of (moderate-severe) SOS (P=0.026) </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSION: The GSTM1-null genotype is an independent risk factor for SOS </plain></SENT>
+<SENT sid="10" pm="."><plain>This finding allows us, in association with other risk factors, to conceive a potential risk profile predicting whether the patient is at risk of developing SOS, before starting <z:chebi fb="0" ids="31941">oxaliplatin</z:chebi>, and subsequently might result in adjustment of treatment </plain></SENT>
+</text></document>

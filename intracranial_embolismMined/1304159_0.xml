@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: <z:hpo ids='HP_0002617'>Aneurysm</z:hpo> of the interatrial septum is a potential cause of <z:mpath ids='MPATH_118'>systemic embolism</z:mpath>, but it is rarely responsible for a <z:e sem="disease" ids="C0007780" disease_type="Disease or Syndrome" abbrv="">cerebral embolism</z:e> in childhood </plain></SENT>
+<SENT sid="1" pm="."><plain>CASE REPORT: A girl, aged 14 years, presented with a sudden right <z:hpo ids='HP_0002301'>hemiplegia</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>The coagulation factors were <z:mpath ids='MPATH_458'>normal</z:mpath>, as was the CSF </plain></SENT>
+<SENT sid="3" pm="."><plain>The CT scan was <z:mpath ids='MPATH_458'>normal</z:mpath> and the EEG showed some theta waves (3-4/s) on the left temporal lobe </plain></SENT>
+<SENT sid="4" pm="."><plain>MRI, performed 6 days later, showed ischemic lesions leading to a search for the origin of the embolism </plain></SENT>
+<SENT sid="5" pm="."><plain>One-dimensional echocardiography revealed no abnormality, but two-dimensional echocardiography showed an <z:hpo ids='HP_0002617'>aneurysm</z:hpo> of the interatrial septum bulging into the right atrium </plain></SENT>
+<SENT sid="6" pm="."><plain>The child was treated with low doses of <z:chebi fb="0" ids="15365">acetylsalicylic acid</z:chebi>, but still had a moderate degree of <z:hpo ids='HP_0011099'>spastic hemiplegia</z:hpo> one year later </plain></SENT>
+<SENT sid="7" pm="."><plain>CONCLUSION: <z:e sem="disease" ids="C0018799" disease_type="Disease or Syndrome" abbrv="">Cardiopathies</z:e> can be among the causes of <z:e sem="disease" ids="C0007780" disease_type="Disease or Syndrome" abbrv="">cerebral embolism</z:e> in children </plain></SENT>
+<SENT sid="8" pm="."><plain>An <z:hpo ids='HP_0002617'>aneurysm</z:hpo> of the interatrial septum requires treatment throughout patient's life </plain></SENT>
+</text></document>

@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The recent identification of mutations in genes encoding demonstrated or putative glycosyltransferases has revealed a novel mechanism for <z:hpo ids='HP_0003741'>congenital muscular dystrophy</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Hypoglycosylated alpha-dystroglycan (alpha-DG) is commonly seen in Fukuyama-type <z:hpo ids='HP_0003741'>congenital muscular dystrophy</z:hpo> (FCMD), muscle-eye-<z:e sem="disease" ids="C0006111" disease_type="Disease or Syndrome" abbrv="">brain disease</z:e> (MEB), Walker-Warburg syndrome (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">WWS</z:e>), and Large(myd) mice </plain></SENT>
+<SENT sid="2" pm="."><plain>POMGnT1 and POMTs, the gene products responsible for MEB and <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">WWS</z:e>, respectively, synthesize unique O-<z:chebi fb="0" ids="37684">mannose</z:chebi> sugar chains on alpha-DG </plain></SENT>
+<SENT sid="3" pm="."><plain>The function of fukutin, the gene product responsible for FCMD, remains undetermined </plain></SENT>
+<SENT sid="4" pm="."><plain>Here we show that fukutin co-localizes with POMGnT1 in the Golgi apparatus </plain></SENT>
+<SENT sid="5" pm="."><plain>Direct interaction between fukutin and POMGnT1 was confirmed by co-immunoprecipitation and two-hybrid analyses </plain></SENT>
+<SENT sid="6" pm="."><plain>The transmembrane region of fukutin mediates its localization to the Golgi and participates in the interaction with POMGnT1 </plain></SENT>
+<SENT sid="7" pm="."><plain>Y371C, a missense mutation found in FCMD, retains fukutin in the ER and also redirects POMGnT1 to the ER </plain></SENT>
+<SENT sid="8" pm="."><plain>Finally, we demonstrate reduced POMGnT1 enzymatic activity in transgenic knock-in mice carrying the retrotransposal insertion in the fukutin gene, the prevalent mutation in FCMD </plain></SENT>
+<SENT sid="9" pm="."><plain>From these findings, we propose that fukutin forms a complex with POMGnT1 and may modulate its enzymatic activity </plain></SENT>
+</text></document>

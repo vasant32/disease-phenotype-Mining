@@ -1,0 +1,19 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Laparoscopic liver surgery must reproduce open surgical steps </plain></SENT>
+<SENT sid="1" pm="."><plain>Intraoperative ultrasonography (IOUS) is mandatory, but reliability of laparoscopic IOUS has been poorly evaluated </plain></SENT>
+<SENT sid="2" pm="."><plain>The aim of this study was to compare laparoscopic versus open IOUS in staging <z:e sem="disease" ids="C0023903" disease_type="Neoplastic Process" abbrv="">liver tumours</z:e> </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: <z:hpo ids='HP_0000001'>All</z:hpo> patients scheduled for liver resection between September 2009 and March 2011 were considered </plain></SENT>
+<SENT sid="4" pm="."><plain>Inclusion criteria were primary and <z:e sem="disease" ids="C0027627" disease_type="Neoplastic Process" abbrv="mets">metastatic tumours</z:e> </plain></SENT>
+<SENT sid="5" pm="."><plain>Exclusion criteria were: hilar/gallbladder <z:mpath ids='MPATH_354'>cholangiocarcinoma</z:mpath>, ten or more lesions, repeat resection, laparoscopic hepatectomy, <z:e sem="disease" ids="C0001511" disease_type="Disease or Syndrome;Acquired Abnormality" abbrv="">adhesions</z:e> and unresectability </plain></SENT>
+<SENT sid="6" pm="."><plain>Following percutaneous ultrasonography and thoracoabdominal computed tomography (CT), and on indication contrast-enhanced (CE) liver magnetic resonance imaging (MRI) and/or <z:chebi fb="4" ids="30225">positron</z:chebi> emission tomography (PET)-CT, patients were scheduled for laparoscopy, laparoscopic IOUS, then laparotomy, open IOUS and Partial hepatectomy </plain></SENT>
+<SENT sid="7" pm="."><plain>Data were collected prospectively </plain></SENT>
+<SENT sid="8" pm="."><plain>Reference standards were final pathology and 6-month follow-up results </plain></SENT>
+<SENT sid="9" pm="."><plain>RESULTS: Sixty-five patients were included, who had a median of 3 preoperative imaging studies (ultrasonography/CT 100 per cent, CE-MRI 67 per cent, PET-CT 54 per cent) </plain></SENT>
+<SENT sid="10" pm="."><plain>A total of 119 lesions were diagnosed </plain></SENT>
+<SENT sid="11" pm="."><plain>Laparoscopic IOUS detected 22 additional lesions (+18·5 per cent) in 14 patients </plain></SENT>
+<SENT sid="12" pm="."><plain>Open IOUS detected two additional lesions, but did not confirm four lesions; overall 20 additional lesions (+16·8 per cent) were detected in ten patients </plain></SENT>
+<SENT sid="13" pm="."><plain>Pathology confirmed 14 newly detected malignant nodules (+11·8 per cent) in eight patients </plain></SENT>
+<SENT sid="14" pm="."><plain>After 6 months ten new nodules were identified in six patients </plain></SENT>
+<SENT sid="15" pm="."><plain>The sensitivity of preoperative imaging, laparoscopic IOUS and open IOUS was 83·1, 92·3 and 93·0 per cent respectively; accuracy was 79, 82 and 88 per cent </plain></SENT>
+<SENT sid="16" pm="."><plain>In comparison with open IOUS, the sensitivity and accuracy of laparoscopic IOUS were 98·6 and 94 per cent </plain></SENT>
+<SENT sid="17" pm="."><plain>CONCLUSION: Laparoscopic IOUS is a reliable tool for staging <z:e sem="disease" ids="C0023903" disease_type="Neoplastic Process" abbrv="">liver tumours</z:e> with a performance similar to that of open IOUS in detecting new nodules </plain></SENT>
+</text></document>

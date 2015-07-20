@@ -1,0 +1,18 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Bone marrow transplantation is an optimal treatment of <z:hpo ids='HP_0002488'>acute leukemia</z:hpo> and <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Allergic manifestations in recipients long after bone marrow transplantation have been reported </plain></SENT>
+<SENT sid="2" pm="."><plain>A case involving transfer of atopy manifested as <z:e sem="disease" ids="C0016470" disease_type="Disease or Syndrome" abbrv="">food allergy</z:e>-induced-<z:hpo ids='HP_0001047'>atopic dermatitis</z:hpo> is reported </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: The donor and the patient were investigated by prick tests and RAST to the same food <z:chebi fb="18" ids="50904">allergens</z:chebi> </plain></SENT>
+<SENT sid="4" pm="."><plain>Single blind, oral challenge to egg documented <z:e sem="disease" ids="C0016470" disease_type="Disease or Syndrome" abbrv="">food allergy</z:e> in the recipient </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: A 5-year-old boy without history of atopy developed severe <z:hpo ids='HP_0001047'>atopic dermatitis</z:hpo> after bone marrow transplantation from his HLA-identical sister for <z:hpo ids='HP_0006721'>acute lymphoblastic leukemia</z:hpo> </plain></SENT>
+<SENT sid="6" pm="."><plain>The patient's course had been marked previously by <z:hpo ids='HP_0011009'>acute</z:hpo> <z:e sem="disease" ids="C0018133" disease_type="Disease or Syndrome" abbrv="GVH">graft versus host disease</z:e> and <z:e sem="disease" ids="C0010823" disease_type="Disease or Syndrome" abbrv="">cytomegalovirus infection</z:e> </plain></SENT>
+<SENT sid="7" pm="."><plain>Immunoallergic evaluation showed an exquisite sensitization to egg, peanut, and soybean </plain></SENT>
+<SENT sid="8" pm="."><plain>Total IgE was 6400 KIU/L </plain></SENT>
+<SENT sid="9" pm="."><plain>Concomitantly, the donor showed the same sensitizations </plain></SENT>
+<SENT sid="10" pm="."><plain>Absolute avoidance resulted in the regression of <z:hpo ids='HP_0001047'>atopic dermatitis</z:hpo> </plain></SENT>
+<SENT sid="11" pm="."><plain>Subsequently, new sensitization to wheat flour, Dermatophagoides pteronyssinus, birch, and plantain pollens was detected </plain></SENT>
+<SENT sid="12" pm="."><plain>The donor developed <z:hpo ids='HP_0002099'>asthma</z:hpo> </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSIONS: This case gives evidence of the transfer of sensitization from donor to recipient </plain></SENT>
+<SENT sid="14" pm="."><plain>The passive transfer of memory cells within the bone marrow inoculum is a possible mechanism </plain></SENT>
+<SENT sid="15" pm="."><plain>The current concept of <z:e sem="disease" ids="C0869403,C0700625,C0020517" disease_type="Pathologic Function;Disease or Syndrome" abbrv="">allergy</z:e> supports down regulation of Th1 cells to the benefit of Th2 cells </plain></SENT>
+<SENT sid="16" pm="."><plain>Additional deregulation induced by <z:hpo ids='HP_0011009'>acute</z:hpo> <z:e sem="disease" ids="C0018133" disease_type="Disease or Syndrome" abbrv="GVH">graft versus host disease</z:e>, <z:e sem="disease" ids="C0010823" disease_type="Disease or Syndrome" abbrv="">cytomegalovirus infection</z:e>, and immunosuppression is possible </plain></SENT>
+</text></document>

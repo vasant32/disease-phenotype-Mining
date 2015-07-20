@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>An experimental model to study <z:hpo ids='HP_0002013'>vomiting</z:hpo> due to <z:hpo ids='HP_0011009'>acute</z:hpo> increases in intracranial pressure (ICP) was standardized in dogs </plain></SENT>
+<SENT sid="1" pm="."><plain><z:hpo ids='HP_0011010'>Chronic</z:hpo> lateral cerebral ventricle cannulated animals were partially restrained in an observation chamber </plain></SENT>
+<SENT sid="2" pm="."><plain>The cannula was connected to a buffered saline pressure head which could be adjusted to the required height with the help of a pulley system to attain the desired intracranial pressure </plain></SENT>
+<SENT sid="3" pm="."><plain>In separate sets of experiments the ICP was raised and maintained at 20, 40, 60 and 80 mmHg for 30 min </plain></SENT>
+<SENT sid="4" pm="."><plain>The incidence of <z:hpo ids='HP_0002013'>vomiting</z:hpo> and/or retching was observed and the <z:hpo ids='HP_0002013'>vomiting</z:hpo>/retching score (V/R score) was calculated to quantify the severity </plain></SENT>
+<SENT sid="5" pm="."><plain>The V/R score increased with the level of ICP, maximum being at ICP 80 mmHg </plain></SENT>
+<SENT sid="6" pm="."><plain>At this level, the effect of pretreatment with <z:chebi fb="2" ids="8499">propranolol</z:chebi>, <z:chebi fb="1" ids="8364">prazosin</z:chebi> and ondansetron was studied </plain></SENT>
+<SENT sid="7" pm="."><plain><z:chebi fb="1" ids="8364">Prazosin</z:chebi> and <z:chebi fb="2" ids="8499">propranolol</z:chebi> treatment reduced the <z:hpo ids='HP_0002013'>vomiting</z:hpo>/retching score, while ondansetron failed to do so </plain></SENT>
+<SENT sid="8" pm="."><plain>This model can be used for evaluating therapeutic interventions for elevated ICP-induced <z:hpo ids='HP_0002013'>vomiting</z:hpo> </plain></SENT>
+</text></document>

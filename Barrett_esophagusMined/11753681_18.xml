@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:e sem="disease" ids="C0178874" disease_type="Neoplastic Process" abbrv="">Neoplastic progression</z:e> in <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> is a multi-step process in which the metaplastic columnar epithelium sequentially evolves through a <z:mpath ids='MPATH_160'>metaplasia</z:mpath>-<z:mpath ids='MPATH_589'>dysplasia</z:mpath>-<z:mp ids='MP_0002038'>carcinoma</z:mp> sequence </plain></SENT>
+<SENT sid="1" pm="."><plain>The expression and DNA copy number of key cell cycle regulatory genes in paired <z:mpath ids='MPATH_458'>normal</z:mpath> and <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> samples was evaluated </plain></SENT>
+<SENT sid="2" pm="."><plain>Protein levels were evaluated in 60 formalin-fixed, paraffin-embedded human tissues by immunohistochemistry </plain></SENT>
+<SENT sid="3" pm="."><plain>DNA copy number from 20 fresh tissue pairs was analysed by Southern blot analysis </plain></SENT>
+<SENT sid="4" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> <z:mpath ids='MPATH_458'>normal</z:mpath> mucosal samples expressed the p27(kip1) protein, but did not display appreciable nuclear staining for p16(kip4), p21(cip1) or cyclins D1 and E </plain></SENT>
+<SENT sid="5" pm="."><plain>Barrett's metaplastic specimens displayed increased expression levels of p16(kip4) (74%), p21(cip1) (89%) and cyclins D1 (43%) and E (37%) </plain></SENT>
+<SENT sid="6" pm="."><plain>p27 protein was absent in three cases </plain></SENT>
+<SENT sid="7" pm="."><plain>There was a significant correlation between the expression of p16(kip4) and cyclin E, and p21(cip1) and p27(kip4) with cyclin D1 </plain></SENT>
+<SENT sid="8" pm="."><plain>DNA analysis did not reveal any amplification or deletion of these genes </plain></SENT>
+<SENT sid="9" pm="."><plain>Acid suppression, however, was associated with significantly lower expression levels of key cell cycle proteins </plain></SENT>
+<SENT sid="10" pm="."><plain>Increased expression of key cell cycle regulatory genes appears to occur early in the <z:e sem="disease" ids="C0178874" disease_type="Neoplastic Process" abbrv="">neoplastic progression</z:e> associated with <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> </plain></SENT>
+<SENT sid="11" pm="."><plain>Treatment with <z:chebi fb="0" ids="49200">proton pump inhibitors</z:chebi> appears to alter this increased expression </plain></SENT>
+</text></document>

@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 27-year-old man was admitted to our hospital complaining of a persistent high <z:hpo ids='HP_0001945'>fever</z:hpo> since August 2007 </plain></SENT>
+<SENT sid="1" pm="."><plain>Chest radiography showed infiltration shadows in the right lower lung field </plain></SENT>
+<SENT sid="2" pm="."><plain>Chest CT revealed scattered small nodular shadows and patchy consolidations in the right lower lobe </plain></SENT>
+<SENT sid="3" pm="."><plain>He was diagnosed as secondary <z:mp ids='MP_0010998'>pulmonary alveolar proteinosis</z:mp> (sPAP) associated with <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e>), confirmed by video-assisted thoracic surgery (VATS) and bone marrow <z:hpo ids='HP_0002835'>aspiration</z:hpo> </plain></SENT>
+<SENT sid="4" pm="."><plain>Sera were negative for anti-granulocyte-macrophage colony-stimulating factor (GM-CSF) autoantibody </plain></SENT>
+<SENT sid="5" pm="."><plain>He developed a subcutaneous <z:mpath ids='MPATH_612'>abscess</z:mpath> and <z:hpo ids='HP_0001287'>meningitis</z:hpo> caused by M. absessus after VATS </plain></SENT>
+<SENT sid="6" pm="."><plain>After a long-course of antibiotic therapy, an allogenic peripheral blood stem cell transplantation was performed </plain></SENT>
+<SENT sid="7" pm="."><plain>But he died of <z:e sem="disease" ids="C0018133" disease_type="Disease or Syndrome" abbrv="GVH">graft versus host disease</z:e> and M. abscessus <z:hpo ids='HP_0100806'>sepsis</z:hpo> 87 days after transplantation </plain></SENT>
+</text></document>

@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Experimental <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> (EAA) can be induced in CBA/J mice when they are sublethally irradiated and injected with lymph node cells (LNC) from C3H/He mice </plain></SENT>
+<SENT sid="1" pm="."><plain>Mice injected with LNC die of severe <z:hpo ids='HP_0001876'>pancytopenia</z:hpo> and marrow <z:mpath ids='MPATH_58'>aplasia</z:mpath> </plain></SENT>
+<SENT sid="2" pm="."><plain>In the present study, cells from other anatomical locations and subsets of LNC were examined for their ability to induce and to modulate EAA </plain></SENT>
+<SENT sid="3" pm="."><plain>Of peritoneal, splenic, and thymic cells, only cells from the thymus had EAA activity </plain></SENT>
+<SENT sid="4" pm="."><plain>C3H/He bone marrow cells did not induce any adverse effects in sublethally or lethally irradiated CBA/J mice </plain></SENT>
+<SENT sid="5" pm="."><plain>LNC, when depleted of B or phagocytic cells, retained EAA activity </plain></SENT>
+<SENT sid="6" pm="."><plain>In contrast, LNC depleted of T cells had significantly less EAA activity </plain></SENT>
+<SENT sid="7" pm="."><plain>Furthermore, when T cells of LNC were separated into peanut agglutinin (<z:chebi fb="3" ids="48021">PNA</z:chebi>)-receptor-positive and negative fractions, only the <z:chebi fb="3" ids="48021">PNA</z:chebi>- cells were able to induce EAA </plain></SENT>
+<SENT sid="8" pm="."><plain>EAA activity was lost when LNC were irradiated (1000 rad) </plain></SENT>
+<SENT sid="9" pm="."><plain>The inability of splenic or bone marrow cells to induce EAA could have been due to the presence of cells that suppressed EAA activity </plain></SENT>
+<SENT sid="10" pm="."><plain>When splenic or bone marrow cells were coinjected with LNC, EAA was not induced </plain></SENT>
+<SENT sid="11" pm="."><plain>Coinjected irradiated splenic cells, but not bone marrow cells, were still able to inhibit EAA activity </plain></SENT>
+<SENT sid="12" pm="."><plain>Bone marrow cells seemed to inhibit EAA by replacing stem cells that were lost during the EAA process </plain></SENT>
+<SENT sid="13" pm="."><plain>On the other hand, splenic cells appeared to suppress EAA activity of LNC </plain></SENT>
+<SENT sid="14" pm="."><plain>Thus, radiosensitive <z:chebi fb="3" ids="48021">PNA</z:chebi>- T cells of lymph nodes or thymus were capable of inducing EAA, and their activity could be modulated by radioresistant splenic cells </plain></SENT>
+</text></document>

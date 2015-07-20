@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0011009'>Acute</z:hpo> coronary syndromes are caused by platelet-mediated <z:mp ids='MP_0005048'>thrombosis</z:mp> following rupture of a plaque </plain></SENT>
+<SENT sid="1" pm="."><plain><z:chebi fb="0" ids="35664">HMG-CoA reductase inhibitors</z:chebi> (<z:chebi fb="0" ids="35664">statins</z:chebi>) reduce the incidence of events early after <z:hpo ids='HP_0011009'>acute</z:hpo> coronary syndromes, which are independent of its cholesterol-lowering effect </plain></SENT>
+<SENT sid="2" pm="."><plain>Accordingly, we investigated whether <z:chebi fb="0" ids="35664">statins</z:chebi> inhibit platelet-mediated arterial <z:e sem="disease" ids="C0302148,C0087086" disease_type="Disease or Syndrome;Acquired Abnormality" abbrv="">thrombus</z:e> formation in vivo and, if so, the underlying mechanisms </plain></SENT>
+<SENT sid="3" pm="."><plain>Rats were divided into 4 groups </plain></SENT>
+<SENT sid="4" pm="."><plain>Group 1 was treated with the vehicle, whereas groups 2, 3, and 4 were treated with cerivastatin for 7 days (1, 2, and 5 mg/kg i.p., respectively) </plain></SENT>
+<SENT sid="5" pm="."><plain>Cerivatatin did not change serum cholesterol levels </plain></SENT>
+<SENT sid="6" pm="."><plain>Carotid <z:hpo ids='HP_0004420'>arterial thrombosis</z:hpo> was created by perivascular <z:chebi fb="0" ids="30808">FeCl3</z:chebi> delivery </plain></SENT>
+<SENT sid="7" pm="."><plain>Cerivastatin significantly prolonged the time to thrombotic occlusion of carotid artery </plain></SENT>
+<SENT sid="8" pm="."><plain>Cerivastatin significantly dose-dependently inhibited both ex vivo platelet P-selectin expression, a marker of platelet activation, and platelet aggregation </plain></SENT>
+<SENT sid="9" pm="."><plain>Cerivastatin significantly augmented platelet-derived nitric <z:chebi fb="177" ids="25741,29356">oxide</z:chebi> (NO) release, and up-regulated platelet and endothelial nitric <z:chebi fb="177" ids="25741,29356">oxide</z:chebi> synthase (NOS) <z:chebi fb="2" ids="33699">mRNA</z:chebi> expressions </plain></SENT>
+<SENT sid="10" pm="."><plain>N-<z:chebi fb="13" ids="29785">nitro</z:chebi>-<z:chebi fb="0" ids="16467,29952">L-arginine</z:chebi> methylester abolished the effects of cerivastatin </plain></SENT>
+<SENT sid="11" pm="."><plain>This study demonstrates that in vivo administration of <z:chebi fb="0" ids="35664">statin</z:chebi> protects against platelet-mediated <z:hpo ids='HP_0004420'>arterial thrombosis</z:hpo>, possibly by augmenting platelet- and endothelium-derived NO releases via up-regulation of platelet and endothelial NOS </plain></SENT>
+</text></document>

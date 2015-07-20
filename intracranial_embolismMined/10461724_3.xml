@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A number of methods to detect <z:e sem="disease" ids="C0007780" disease_type="Disease or Syndrome" abbrv="">cerebral emboli</z:e> and differentiate them from artefacts using Doppler ultrasound have been described in the literature </plain></SENT>
+<SENT sid="1" pm="."><plain>In most, Fourier transform-based (FT) spectral analysis has been used </plain></SENT>
+<SENT sid="2" pm="."><plain>The FT is not ideally suited to analysis of short-duration embolic signals due to an inherent trade-off between temporal and frequency resolution </plain></SENT>
+<SENT sid="3" pm="."><plain>An alternative approach that might be expected to describe embolic signals well is the wavelet transform </plain></SENT>
+<SENT sid="4" pm="."><plain>Wavelets are ideally suited for the analysis of sudden short-duration signal changes </plain></SENT>
+<SENT sid="5" pm="."><plain>Therefore, we have implemented a wavelet-based analysis and compared the results of this with a conventional FFT-based analysis </plain></SENT>
+<SENT sid="6" pm="."><plain>The temporal resolution, as measured by the half-width maximum, was significantly better for the continuous wavelet transform (CWT), mean (SD) 8.40 (8.82) ms, compared with the 128-point FFT, 12.92 (9.70) ms, and 64-point FFT, 10.80 (5.69) ms </plain></SENT>
+<SENT sid="7" pm="."><plain>Time localization of the CWT for the embolic signal was also significantly better than the FFT </plain></SENT>
+<SENT sid="8" pm="."><plain>The wavelet transform appears well suited to the analysis of embolic signals offering superior time resolution and time localization to the FFT </plain></SENT>
+</text></document>

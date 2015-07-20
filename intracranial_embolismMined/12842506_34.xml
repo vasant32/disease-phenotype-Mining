@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Neurologic and clinical morbidity after coronary artery bypass grafting (CABG) can be significant </plain></SENT>
+<SENT sid="1" pm="."><plain>By avoiding cardiopulmonary bypass, off-pump CABG (OPCAB) may reduce morbidity </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: Sixty patients (30 CABG and 30 OPCAB) were prospectively randomized </plain></SENT>
+<SENT sid="3" pm="."><plain>Neurocognitive testing was performed before the operation and 2 weeks and 1 year after the operation </plain></SENT>
+<SENT sid="4" pm="."><plain>Neurologic testing to detect <z:hpo ids='HP_0001297'>stroke</z:hpo> and (99m)Tc-HMPAO whole-brain single <z:chebi fb="23" ids="30212">photon</z:chebi> emission computed tomography scanning to assess cerebral perfusion were performed before the operation and 3 days afterward </plain></SENT>
+<SENT sid="5" pm="."><plain>Bilateral middle cerebral artery transcranial Doppler scanning was performed intraoperatively to detect cerebral microemboli </plain></SENT>
+<SENT sid="6" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> examiners were blinded to treatment group </plain></SENT>
+<SENT sid="7" pm="."><plain>Clinical morbidity and costs were compared </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: Coronary artery bypass grafting was associated with more cerebral microemboli (575 +/- 278.5 CABG versus 16.0 +/- 19.5 OPCAB (median +/- semiinterquartile range) and significantly reduced cerebral perfusion after the operation to the bilateral occipital, cerebellar, precunei, thalami, and left temporal lobes (p &lt; or = 0.01) </plain></SENT>
+<SENT sid="9" pm="."><plain>Cerebral perfusion with OPCAB was unchanged </plain></SENT>
+<SENT sid="10" pm="."><plain>Compared with base line, OPCAB patients performed better on the Rey Auditory Verbal Learning Test (total and recognition scores) at both 2 weeks and at 1 year (p &lt; or = 0.05), whereas CABG performance was statistically unchanged for <z:hpo ids='HP_0000001'>all</z:hpo> cognitive measures </plain></SENT>
+<SENT sid="11" pm="."><plain>Patients who underwent CABG had more chest tube drainage (1389 +/- 1256 mL CABG versus 789 +/- 586 mL OPCAB, p = 0.02) and required more blood (3.9 +/- 5.8 U CABG versus 1.2 +/- 2.2 U OPCAB, p = 0.02), fresh frozen plasma (3.0 +/- 6.0 U CABG versus 0.5 +/- 2.2 U OPCAB, p = 0.03), and hours of postoperative use of <z:chebi fb="40" ids="18243">dopamine</z:chebi> (16.3 +/- 21.2 hours CABG versus 7.3 +/- 9.7 hours OPCAB, p = 0.04) </plain></SENT>
+<SENT sid="12" pm="."><plain>These differences culminated in higher costs for CABG ($23,053 +/- $5,320 CABG versus $17,780 +/- $4,390 OPCAB, p &lt; 0.0001) </plain></SENT>
+<SENT sid="13" pm="."><plain>One <z:hpo ids='HP_0001297'>stroke</z:hpo> occurred with CABG, compared with none with OPCAB (p = NS) </plain></SENT>
+<SENT sid="14" pm="."><plain>One OPCAB patient died because of a pulmonary <z:mpath ids='MPATH_110'>embolus</z:mpath> (p = NS) </plain></SENT>
+<SENT sid="15" pm="."><plain>CONCLUSIONS: Compared with CABG, OPCAB may reduce neurologic and clinical morbidity as well as cost </plain></SENT>
+</text></document>

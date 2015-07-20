@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>MicroRNAs (miRNAs) are increasingly reported to have important roles in diverse biological and pathological processes </plain></SENT>
+<SENT sid="1" pm="."><plain>Changes in abundance of muscle-specific microRNA, miR-1, have been implicated in <z:e sem="disease" ids="C0018799" disease_type="Disease or Syndrome" abbrv="">cardiac disease</z:e>, including <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> and <z:hpo ids='HP_0001635'>heart failure</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>However, the specific molecular targets and cellular mechanisms involved in the miR-1 function in the heart are only beginning to emerge </plain></SENT>
+<SENT sid="3" pm="."><plain>In this study, we investigated miR-1 expression and its potential role in the mouse model of <z:mp ids='MP_0001799'>viral</z:mp> <z:mp ids='MP_0001856'>myocarditis</z:mp> (VMC) </plain></SENT>
+<SENT sid="4" pm="."><plain>The expression levels of miR-1 and its target gene Connexin 43 (Cx43) were measured by real-time PCR and western blotting, respectively </plain></SENT>
+<SENT sid="5" pm="."><plain>The miR-1 expression levels were significantly increased in cardiac myocytes from VMC mice in comparison with control samples (relative expression: 10 ± 2.5 vs. 31 ± 7.6, P &lt; 0.05) </plain></SENT>
+<SENT sid="6" pm="."><plain>Among the target genes of miR-1, the expression Cx43 protein was significantly reduced in such mice while there was no significant difference in the its <z:chebi fb="2" ids="33699">mRNA</z:chebi> levels </plain></SENT>
+<SENT sid="7" pm="."><plain>Our results revealed an inverse correlation between miR-1 levels and Cx43 protein expression in VMC samples </plain></SENT>
+<SENT sid="8" pm="."><plain>Using a bioinformatics-based approach, we found two identical potential binding sites were found in mouse miR-1 and Cx43 3'- untranslated region, this confirms a possible regulatory role of miR-1 </plain></SENT>
+<SENT sid="9" pm="."><plain>In cultured, miRNA transfected myocardial cells, we show overexpression of miR-1 accompanied by a decrease in Cx43 protein's expression </plain></SENT>
+<SENT sid="10" pm="."><plain>There was only a slight (not statistically significant) drop in Cx43 <z:chebi fb="2" ids="33699">mRNA</z:chebi> levels </plain></SENT>
+<SENT sid="11" pm="."><plain>Our results indicate that miR-1 is involved in VMC via post-transcriptional repression of Cx43, and might constitute potentially valuable data for the development of a new approach in the treatment of this disease </plain></SENT>
+</text></document>

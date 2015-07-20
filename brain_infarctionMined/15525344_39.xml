@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Recently, erythropoietin (EPO) and the nonerythropoietic derivative asialoEPO have been linked to tissue protection in the <z:mp ids='MP_0008912'>nervous</z:mp> system </plain></SENT>
+<SENT sid="1" pm="."><plain>In this study, we tested their effects in a model of neonatal <z:mp ids='MP_0005039'>hypoxia</z:mp>-<z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> (HI) in 7-day-old rats (unilateral carotid ligation and exposure to 7.7% <z:chebi fb="0" ids="15379">O(2)</z:chebi> for 50 min) </plain></SENT>
+<SENT sid="2" pm="."><plain>EPO (10 U/g body weight = 80 ng/g; n = 24), asialoEPO (80 ng/g; n = 23) or vehicle (phosphate-buffered saline with 0.1% human serum albumin; n = 24) was injected intraperitoneally 4 h before HI </plain></SENT>
+<SENT sid="3" pm="."><plain>Both drugs were protective, as judged by measuring the <z:mpath ids='MPATH_124'>infarct</z:mpath> volumes, neuropathological score and gross morphological score </plain></SENT>
+<SENT sid="4" pm="."><plain>The <z:mpath ids='MPATH_124'>infarct</z:mpath> volumes were significantly reduced by both EPO (52%) and asialoEPO (55%) treatment, even though the plasma levels of asialoEPO had dropped below the detection limit (1 pm) at the <z:hpo ids='HP_0003674'>onset</z:hpo> of HI, while those of EPO were in the nanomolar range </plain></SENT>
+<SENT sid="5" pm="."><plain>Thus, a brief trigger by asialoEPO before the insult appears to be sufficient for protection </plain></SENT>
+<SENT sid="6" pm="."><plain>Proteomics analysis after asialoEPO treatment alone (no HI) revealed at least one differentially up-regulated protein, synaptosome-associated protein of 25 kDa (SNAP-25) </plain></SENT>
+<SENT sid="7" pm="."><plain>Activation (phosphorylation) of ERK was significantly reduced in asialoEPO-treated animals after HI </plain></SENT>
+<SENT sid="8" pm="."><plain>EPO and the nonerythropoietic asialoEPO both provided significant and equal neuroprotection when administered 4 h prior to HI in 7-day-old rats </plain></SENT>
+<SENT sid="9" pm="."><plain>The protection might be related to reduced ERK activation and up-regulation of SNAP-25 </plain></SENT>
+</text></document>

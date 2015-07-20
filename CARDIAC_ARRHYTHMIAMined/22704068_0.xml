@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:chebi fb="5" ids="36333">Local anaesthetics</z:chebi> may induce <z:hpo ids='HP_0001695'>cardiac arrest</z:hpo>, usually because of rapid absorption from the site of injection or because of an intended intravascular injection </plain></SENT>
+<SENT sid="1" pm="."><plain>Early central <z:mp ids='MP_0008912'>nervous</z:mp> system symptoms usually precede <z:hpo ids='HP_0001250'>seizures</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain><z:hpo ids='HP_0011675'>Cardiac arrhythmias</z:hpo> follow the <z:chebi fb="7" ids="29425,29426,29441,29447">CNS</z:chebi> signs </plain></SENT>
+<SENT sid="3" pm="."><plain>These <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> often resolve with the i.v. bolus injection of 100 to 150mL of a <z:chebi fb="23" ids="18059">lipid</z:chebi> emulsion (20% Intralipid(®)) </plain></SENT>
+<SENT sid="4" pm="."><plain>Although long acting <z:chebi fb="5" ids="36333">local anaesthetics</z:chebi> (<z:chebi fb="0" ids="3215">bupivacaine</z:chebi>, ropivacaine, levobupivacaine) are predominantly involved in this cardiac toxicity, <z:chebi fb="0" ids="6456">lidocaine</z:chebi> may also induce <z:hpo ids='HP_0011675'>cardiac arrhythmias</z:hpo> and clinician must be aware of this risk </plain></SENT>
+<SENT sid="5" pm="."><plain>In case of <z:hpo ids='HP_0001695'>cardiac arrest</z:hpo>, resuscitation manoeuvres are of major importance </plain></SENT>
+<SENT sid="6" pm="."><plain>They need to be performed immediately and the efficacy of the <z:chebi fb="23" ids="18059">lipid</z:chebi> rescue requires a correct coronary flow to be efficacious </plain></SENT>
+<SENT sid="7" pm="."><plain>Finally, prevention is the key of a safe injection </plain></SENT>
+<SENT sid="8" pm="."><plain>It is important to control the dose, to inject slowly, without any excessive pressure and to verify that no blood reflux occurs </plain></SENT>
+</text></document>

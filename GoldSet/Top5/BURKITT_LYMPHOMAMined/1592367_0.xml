@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We reported a new monoclonal antibody, designated FUB-1, reacting with <z:mpath ids='MPATH_458'>normal</z:mpath> and neoplastic large lymphoid cells </plain></SENT>
+<SENT sid="1" pm="."><plain>FUB-1 was produced using a Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cell line (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">HBL</z:e>-5) as an immunogen </plain></SENT>
+<SENT sid="2" pm="."><plain>Its immunoglobulin subtype was IgM </plain></SENT>
+<SENT sid="3" pm="."><plain>The determinant was not on the surface but in the cytoplasm </plain></SENT>
+<SENT sid="4" pm="."><plain>Western blotting analysis revealed that the molecular weight of the antigen was 52,000 dalton </plain></SENT>
+<SENT sid="5" pm="."><plain>In the <z:mpath ids='MPATH_458'>normal</z:mpath> lymphoid tissue, FUB-1 reacted with large lymphoid cells, but not with small or medium-sized lymphoid cells or plasma cells </plain></SENT>
+<SENT sid="6" pm="."><plain>In addition, the FUB-1 antigen was not found in resting cells in the peripheral blood (PB), but it was induced on mononuclear cells of PB by addition of PWM or <z:chebi fb="1" ids="53780">PMA</z:chebi> </plain></SENT>
+<SENT sid="7" pm="."><plain>In the B-cell <z:hpo ids='HP_0002665'>lymphomas</z:hpo> tested, FUB-1 reacted with small cleaved cell <z:hpo ids='HP_0002665'>lymphomas</z:hpo> (3/12), large cell <z:hpo ids='HP_0002665'>lymphomas</z:hpo> (7/10), Burkitt's <z:hpo ids='HP_0002665'>lymphomas</z:hpo> (4/4) and <z:e sem="disease" ids="C1521815" disease_type="Neoplastic Process" abbrv="">immunoblastic</z:e> <z:hpo ids='HP_0002665'>lymphomas</z:hpo> (2/2), but not with small cell <z:hpo ids='HP_0002665'>lymphomas</z:hpo> (0/3) or intermediate lymphocytic <z:hpo ids='HP_0002665'>lymphomas</z:hpo> (0/8) </plain></SENT>
+<SENT sid="8" pm="."><plain>These findings indicate that the FUB-1 antigen appears to be expressed on <z:mpath ids='MPATH_458'>normal</z:mpath> lymphoid cells during blastoid transformation and on neoplastic large lymphoid cells </plain></SENT>
+<SENT sid="9" pm="."><plain>FUB-1 also reacted with <z:mpath ids='MPATH_458'>normal</z:mpath> glandular epithelium and various <z:mp ids='MP_0009308'>adenocarcinomas</z:mp> </plain></SENT>
+<SENT sid="10" pm="."><plain>FUB-1 may be useful to investigate the mechanism of in vitro blastoid transformation or activation of lymphoid cells </plain></SENT>
+</text></document>

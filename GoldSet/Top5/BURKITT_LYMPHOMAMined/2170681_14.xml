@@ -1,0 +1,21 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> line Daudi carries a nontransforming Epstein-Barr virus (EBV) strain that has a deletion in the BamHI WYH region of the genome coding for the EBV nuclear antigen 2 (EBNA-2) </plain></SENT>
+<SENT sid="1" pm="."><plain>Daudi cells fail to express the EBV-encoded latent membrane protein (LMP) (D </plain></SENT>
+<SENT sid="2" pm="."><plain>Ghosh and E </plain></SENT>
+<SENT sid="3" pm="."><plain>Kieff, J </plain></SENT>
+<SENT sid="4" pm="."><plain>Virol </plain></SENT>
+<SENT sid="5" pm="."><plain>64:1855-1858, 1990) </plain></SENT>
+<SENT sid="6" pm="."><plain>We show that LMP expression can be up regulated by exposure to <z:chebi fb="0" ids="17968">n-butyrate</z:chebi> and by <z:e sem="disease" ids="C0038826" disease_type="Disease or Syndrome" abbrv="">superinfection</z:e> with the B95-8 (B virus)- and P3HR1 (P virus)-derived EBV strains </plain></SENT>
+<SENT sid="7" pm="."><plain>Two LMP <z:chebi fb="1" ids="15841">polypeptides</z:chebi> of 60 and 48 kilodaltons (kDa) were detected in immunoblots of Daudi cells that had been exposed to 3 mM <z:chebi fb="0" ids="17968">n-butyrate</z:chebi> for 24 h </plain></SENT>
+<SENT sid="8" pm="."><plain>The intensity of the 48-kDa LMP increased during 72 h, in parallel with the appearance of early antigen-positive cells </plain></SENT>
+<SENT sid="9" pm="."><plain>The 60-kDa LMP was expressed at a low level and remained constant </plain></SENT>
+<SENT sid="10" pm="."><plain><z:e sem="disease" ids="C0038826" disease_type="Disease or Syndrome" abbrv="">Superinfection</z:e> of Daudi cells with B and P virus induced the 60-kDa LMP within 3 h </plain></SENT>
+<SENT sid="11" pm="."><plain>In addition, P virus induced the 48-kDa LMP at a low level </plain></SENT>
+<SENT sid="12" pm="."><plain>The B virus-encoded EBNA-2 and EBNA-5 were detected 12 h after <z:e sem="disease" ids="C0038826" disease_type="Disease or Syndrome" abbrv="">superinfection</z:e> </plain></SENT>
+<SENT sid="13" pm="."><plain>The B virus-encoded 63-kDa LMP was coexpressed with the endogenous LMP after 48 h </plain></SENT>
+<SENT sid="14" pm="."><plain>Inactivation of the virus by UV illumination abolished the expression of the B virus-encoded antigens but did not affect the induction of the endogenous LMP </plain></SENT>
+<SENT sid="15" pm="."><plain>The B-cell activation marker CD23 was up regulated by B virus <z:e sem="disease" ids="C0038826" disease_type="Disease or Syndrome" abbrv="">superinfection</z:e> but not by <z:chebi fb="0" ids="17968">n-butyrate</z:chebi> exposure </plain></SENT>
+<SENT sid="16" pm="."><plain>CD23 was also expressed at a higher level in a stable B virus-converted subline, E95A-Daudi, that was EBNA-2 positive and coexpressed the Daudi virus- and B virus-encoded LMP </plain></SENT>
+<SENT sid="17" pm="."><plain>The results suggest that LMP expression is regulated by the interaction of cellular and <z:mp ids='MP_0001799'>viral</z:mp> factors </plain></SENT>
+<SENT sid="18" pm="."><plain>Binding of the virus to its membrane receptor might be involved in the triggering of cellular control mechanisms </plain></SENT>
+<SENT sid="19" pm="."><plain><z:mp ids='MP_0001799'>Viral</z:mp> gene products are not directly involved in this function but may contribute to create a permissive cellular environment for LMP expression </plain></SENT>
+</text></document>

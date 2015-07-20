@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Fibrillin is the major component of extracellular microfibrils </plain></SENT>
+<SENT sid="1" pm="."><plain>Mutations in the fibrillin gene on chromosome 15 (FBN1) were first described in the heritable connective disorder, <z:e sem="disease" ids="C0024796" disease_type="Disease or Syndrome" abbrv="MFS|MFS1">Marfan syndrome</z:e> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MFS</z:e>) </plain></SENT>
+<SENT sid="2" pm="."><plain>FBN1 has also been shown to harbor mutations related to a spectrum of conditions phenotypically related to <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MFS</z:e>, called "type-1 fibrillinopathies." In 1995, in an effort to standardize the information regarding these mutations and to facilitate their mutational analysis and identification of structure/function and phenotype/genotype relationships, we created a human FBN1 mutation database, UMD-FBN1 </plain></SENT>
+<SENT sid="3" pm="."><plain>This database gives access to a software package that provides specific routines and optimized multicriteria research and sorting tools </plain></SENT>
+<SENT sid="4" pm="."><plain>For each mutation, information is provided at the gene, protein, and clinical levels </plain></SENT>
+<SENT sid="5" pm="."><plain>This tool is now a worldwide reference and is frequently used by teams working in the field; more than 220,000 interrogations have been made to it since January 1998 </plain></SENT>
+<SENT sid="6" pm="."><plain>The database has recently been modified to follow the guidelines on mutation databases of the HUGO Mutation Database Initiative (<z:chebi fb="5" ids="53218">MDI</z:chebi>) and the Human Genome Variation Society (HGVS), including their approved mutation nomenclature </plain></SENT>
+<SENT sid="7" pm="."><plain>The current update shows 559 entries, of which 421 are novel </plain></SENT>
+<SENT sid="8" pm="."><plain>UMD-FBN1 is accessible at www.umd.be/ </plain></SENT>
+<SENT sid="9" pm="."><plain>We have also recently developed a FBN1 polymorphism database in order to facilitate diagnostics </plain></SENT>
+</text></document>

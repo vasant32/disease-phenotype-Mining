@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0005110'>Atrial fibrillation</z:hpo> (AF) is the most common <z:hpo ids='HP_0011675'>cardiac arrhythmia</z:hpo> but its proarrhythmic substrate remains unclear </plain></SENT>
+<SENT sid="1" pm="."><plain>Reentrant electrical activity in the atria may be responsible for AF maintenance </plain></SENT>
+<SENT sid="2" pm="."><plain>Over the last decade, different catheter ablation strategies targeting the electrical substrate of the left atrium have been developed in order to treat AF </plain></SENT>
+<SENT sid="3" pm="."><plain>Complex Fractionated Atrial Electrograms (CFAE) recorded in the atria may represent not only reentry mechanisms, but also a large variety of bystander electrical wave fronts </plain></SENT>
+<SENT sid="4" pm="."><plain>In order to identify CFAE involved in AF maintenance as a potential target for AF ablation, we have developed an algorithm based on nonlinear data analysis using Recurrence Quantification Analysis (RQA) </plain></SENT>
+<SENT sid="5" pm="."><plain>RQA features make it possible to quantify hidden structures in a signal and offer clear representations of different CFAE types </plain></SENT>
+<SENT sid="6" pm="."><plain>Five RQA features were used to qualify CFAE areas previously tagged by a trained electrophysiologist </plain></SENT>
+<SENT sid="7" pm="."><plain>Data from these analyzes were used by two classifiers to detect CFAE periods in a signal </plain></SENT>
+<SENT sid="8" pm="."><plain>While a single feature is not sufficient to properly detect CFAE periods, the set of five RQA features combined with a classifier were highly reliable for CFAE detection </plain></SENT>
+</text></document>

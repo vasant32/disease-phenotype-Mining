@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">Colorectal cancer</z:e> screening by means of faecal immunochemical tests (FITs) requires successive screening rounds for an optimal preventive effect </plain></SENT>
+<SENT sid="1" pm="."><plain>However, data on the influence of the length of the screening interval on participation and diagnostic yield are lacking </plain></SENT>
+<SENT sid="2" pm="."><plain>Repeated FIT screening was therefore performed in a population-based trial comparing various repeat intervals </plain></SENT>
+<SENT sid="3" pm="."><plain>DESIGN: 7501 Dutch individuals aged 50-74 years were randomly selected and invited for two 1-sample FIT screening rounds (<z:chebi fb="34" ids="35143">haemoglobin</z:chebi> (Hb) concentration ≥ 50 ng/ml, corresponding to 10 μg Hb/g faeces) with intervals of 1 (group I), 2 (group II) or 3 years (group III) </plain></SENT>
+<SENT sid="4" pm="."><plain>RESULTS: In group I, participation was 64.7% in the first screening round and 63.2% in the second </plain></SENT>
+<SENT sid="5" pm="."><plain>The corresponding percentages for groups II and III were 61.0% vs 62.5% and 62.0% vs 64.0% </plain></SENT>
+<SENT sid="6" pm="."><plain>Triennial screening resulted in a higher participation rate in the second screening round compared with annual screening (p=0.04) </plain></SENT>
+<SENT sid="7" pm="."><plain>The overall positivity rate in the second screening round was significantly lower compared with the first round (6.0% vs 8.4%; OR 0.69, 95% CI 0.58 to 0.82) and did not depend on interval length (p=0.23) </plain></SENT>
+<SENT sid="8" pm="."><plain>Similarly, the overall detection rate of advanced <z:hpo ids='HP_0002664'>neoplasia</z:hpo> was significantly lower in the second round compared with the first screening round (1.9% vs 3.3%; OR 0.57, 95% CI 0.43 to 0.76) and also did not depend on interval length (p=0.62) </plain></SENT>
+<SENT sid="9" pm="."><plain>The positive predictive value of the FIT did not significantly change over time (41% vs 33%; p=0.07) </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSION: The total number of advanced <z:hpo ids='HP_0002664'>neoplasia</z:hpo> found at repeat FIT screening is not influenced by the interval length within a range of 1-3 years </plain></SENT>
+<SENT sid="11" pm="."><plain>Furthermore, there is a stable and acceptably high participation in the second screening round </plain></SENT>
+<SENT sid="12" pm="."><plain>This implies that screening intervals can be tailored to local resources </plain></SENT>
+</text></document>

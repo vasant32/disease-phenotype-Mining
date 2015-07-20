@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The polymerase chain reaction (PCR) was used to study clonality in a group of children with B-lineage <z:hpo ids='HP_0011009'>acute</z:hpo> lymphoblastic <z:mpath ids='MPATH_336'>leukaemia</z:mpath> (ALL) </plain></SENT>
+<SENT sid="1" pm="."><plain>Rearrangement of the immunoglobulin heavy chain gene (IgH) results in a hypervariable sequence known as the complementarity determining region III </plain></SENT>
+<SENT sid="2" pm="."><plain>This can be amplified by the PCR using one pair of consensus primers </plain></SENT>
+<SENT sid="3" pm="."><plain>The PCR product is highly clone-specific in both size and sequence </plain></SENT>
+<SENT sid="4" pm="."><plain>Successful amplification was achieved in 50 of 62 cases of B-lineage ALL studied (81%) </plain></SENT>
+<SENT sid="5" pm="."><plain>Both DNA and <z:chebi fb="40" ids="33697">RNA</z:chebi> gave almost identical results </plain></SENT>
+<SENT sid="6" pm="."><plain>In contrast amplification was only achieved in 2 of 42 control cases (non-B-lineage <z:mpath ids='MPATH_336'>leukaemias</z:mpath>, <z:mpath ids='MPATH_458'>normal</z:mpath> and reactive marrows); these were both cases of <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">T-ALL</z:e> with IgH rearrangement on Southern blotting </plain></SENT>
+<SENT sid="7" pm="."><plain>The main advantages of this technique over Southern blot assessment of clonality are the short time to result and requirement for much less DNA allowing study of small samples eg cerebrospinal fluid and testicular biopsies </plain></SENT>
+<SENT sid="8" pm="."><plain>It is also generally more sensitive for the detection of a malignant clone in a polyclonal marrow cell population and forms the basis of techniques to study <z:e sem="disease" ids="C0242596" disease_type="Neoplastic Process" abbrv="MRD">minimal residual disease</z:e> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MRD</z:e>) </plain></SENT>
+</text></document>

@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: <z:e sem="disease" ids="C1142166" disease_type="Disease or Syndrome" abbrv="SUNDS">Brugada syndrome</z:e> is characterized by ST-segment abnormalities in V1-V3 </plain></SENT>
+<SENT sid="1" pm="."><plain>Electrocardiogram (ECG) leads placed in the 3rd and 2nd intercostal spaces (ICSs) increased the sensitivity for the detection of a type I ECG pattern </plain></SENT>
+<SENT sid="2" pm="."><plain>The anatomic explanation for this finding is pending </plain></SENT>
+<SENT sid="3" pm="."><plain>OBJECTIVE: The purpose of the study was to correlate the location of the Brugada type I ECG with the anatomic location of the right ventricular outflow tract (RVOT) </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS: Twenty patients with positive <z:chebi fb="0" ids="28462">ajmaline</z:chebi> challenge and 10 patients with spontaneous Brugada type I ECG performed by using 12 right precordial leads underwent cardiovascular magnetic resonance imaging (CMRI) </plain></SENT>
+<SENT sid="5" pm="."><plain>The craniocaudal and lateral extent of the RVOT and maximal RVOT area were determined </plain></SENT>
+<SENT sid="6" pm="."><plain>Type I ECG pattern and maximal ST-segment elevation were correlated to extent and maximal RVOT area, respectively </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: In <z:hpo ids='HP_0000001'>all</z:hpo> patients, Brugada type I pattern was found in the 3rd <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">ICS</z:e> in sternal and left-parasternal positions </plain></SENT>
+<SENT sid="8" pm="."><plain>RVOT extent determined by using CMRI included the 3rd <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">ICS</z:e> in <z:hpo ids='HP_0000001'>all</z:hpo> patients </plain></SENT>
+<SENT sid="9" pm="."><plain>Maximal RVOT area was found in 3 patients in the 2nd <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">ICS</z:e>, in 5 patients in the 4th <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">ICS</z:e>, and in 22 patients in the 3rd <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">ICS</z:e> </plain></SENT>
+<SENT sid="10" pm="."><plain>CMRI predicted type I pattern with a sensitivity of 97.2%, specificity of 91.7%, positive predictive value of 88.6%, and negative predictive value of 98.0% </plain></SENT>
+<SENT sid="11" pm="."><plain>Maximal RVOT area coincided with maximal ST-segment elevation in 29 of 30 patients </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSION: RVOT localization determined by using CMRI correlates highly with the type I Brugada pattern </plain></SENT>
+<SENT sid="13" pm="."><plain>Lead positioning according to RVOT location improves the diagnosis of <z:e sem="disease" ids="C1142166" disease_type="Disease or Syndrome" abbrv="SUNDS">Brugada syndrome</z:e> </plain></SENT>
+</text></document>

@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We investigated 11 patients with <z:e sem="disease" ids="C0026654" disease_type="Disease or Syndrome" abbrv="MYMY|MYMY1">moyamoya disease</z:e> about 123I-Iomazenil kinetics in the brain using three-compartment, two-parameter model </plain></SENT>
+<SENT sid="1" pm="."><plain>The transition rate constant (K1) from the blood to the brain and the binding potential (BP) of the <z:chebi fb="13" ids="22720">benzodiazepine</z:chebi> to the receptors were calculated for every ROI (right and left side of cerebellum, frontal lobe, parietal lobe, occipital lobe and temporal lobe; 10 ROIs a case) </plain></SENT>
+<SENT sid="2" pm="."><plain>The K1 value correlated with BP value significantly, but not so closely (r = 0.639) </plain></SENT>
+<SENT sid="3" pm="."><plain>And there is no significant difference in BP value among low-K1 group (mean (of K1) -S.D. &lt; or = K1 &lt; or = mean) and high-K1 group (mean &lt; K1 &lt; or = mean + S.D.) </plain></SENT>
+<SENT sid="4" pm="."><plain>This means that CBF and BP do not correlate closely in the average <z:e sem="disease" ids="C0026654" disease_type="Disease or Syndrome" abbrv="MYMY|MYMY1">Moyamoya disease</z:e> patients </plain></SENT>
+<SENT sid="5" pm="."><plain>And we showed a case with <z:chebi fb="54" ids="17202">IMP</z:chebi>/IMZ discrepancy </plain></SENT>
+<SENT sid="6" pm="."><plain>The nerve cell in the hypoperfused area which has almost <z:mpath ids='MPATH_458'>normal</z:mpath> BP value is ischemic but viable </plain></SENT>
+<SENT sid="7" pm="."><plain>IMZ-SPECT presents an important information about the viability of the hypoperfused area in <z:e sem="disease" ids="C0026654" disease_type="Disease or Syndrome" abbrv="MYMY|MYMY1">Moyamoya disease</z:e> patients' brain </plain></SENT>
+</text></document>

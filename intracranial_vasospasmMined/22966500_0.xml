@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:e sem="disease" ids="C0265110" disease_type="Disease or Syndrome" abbrv="">Cerebral vasospasm</z:e> and delayed <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> remain an unsolved problem in patients with aneurysmal <z:hpo ids='HP_0002138'>subarachnoid hemorrhage</z:hpo> (SAH) </plain></SENT>
+<SENT sid="1" pm="."><plain>In theory, high-dose <z:chebi fb="0" ids="32599">magnesium sulfate</z:chebi> (MgSO(4)) therapy offers vascular and neuroprotective benefits and is therefore currently under evaluation </plain></SENT>
+<SENT sid="2" pm="."><plain>The intensity of the <z:mp ids='MP_0001845'>inflammatory response</z:mp> after SAH is associated with the outcome </plain></SENT>
+<SENT sid="3" pm="."><plain>The aim of the current study was to evaluate a possible link between the <z:mp ids='MP_0001845'>inflammatory response</z:mp> and MgSO(4) therapy, since <z:chebi fb="131" ids="25107">magnesium</z:chebi> (Mg(2+)) has anti-inflammatory properties </plain></SENT>
+<SENT sid="4" pm="."><plain>In 15 patients with SAH, inflammatory cytokine levels in the cerebrospinal fluid (CSF) and peripheral blood were determined daily using an enzyme-linked immunosorbent assay between day 4 and day 12 </plain></SENT>
+<SENT sid="5" pm="."><plain>Eight patients were treated with standard therapy alone (group 1) and seven patients were treated with an additional, high-dose of MgSO(4) (group 2) </plain></SENT>
+<SENT sid="6" pm="."><plain>Serum Mg(2+) levels in group 2 were significantly higher compared to group 1: 1.48 ± 0.04 mmol/L versus 0.90 ± 0.01 mmol/L, ρ&lt;0.001 </plain></SENT>
+<SENT sid="7" pm="."><plain>Interleukin-6 (IL-6) in the CSF was significantly lower in group 2 compared to group 1: 6680 ± 989 vs.11079 ± 1277 pg/mL, ρ = 0.021 </plain></SENT>
+<SENT sid="8" pm="."><plain>A trend towards lower systemic IL-6 levels was found in group 2: 58 ± 7 versus 104 ± 21 pg/mL, ρ = 0.052 </plain></SENT>
+<SENT sid="9" pm="."><plain>Systemic IL-1β levels were significantly lower in group 2: 0.66 ± 0.11 and 0.15 ± 0.01 pg/mL (ρ&lt;0.001), while the CSF levels did not differ </plain></SENT>
+<SENT sid="10" pm="."><plain><z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">Tumor</z:e> <z:mp ids='MP_0001651'>necrosis</z:mp> factor-α levels did not differ between the two groups </plain></SENT>
+<SENT sid="11" pm="."><plain>Although there were more patients with favorable outcome in group 2, the difference was not statistically significant </plain></SENT>
+<SENT sid="12" pm="."><plain>This was probably due to the small sample size </plain></SENT>
+<SENT sid="13" pm="."><plain>The results indicate a suppression of inflammatory cytokine release, in particular IL-6, in patients treated with high-dose MgSO(4) </plain></SENT>
+<SENT sid="14" pm="."><plain>These results call for further studies of the effect of Mg(2+) on the inflammatory signaling pathway with regard to delayed <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> following SAH </plain></SENT>
+</text></document>

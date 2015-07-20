@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:chebi fb="2" ids="16919">Creatine</z:chebi> Kinase BB isoenzyme (CKBB) has been shown to rise in the serum and CSF following <z:hpo ids='HP_0011009'>acute</z:hpo> cerebral injury </plain></SENT>
+<SENT sid="1" pm="."><plain>To test the hypothesis that brain <z:mpath ids='MPATH_124'>infarct</z:mpath> size could be estimated from the appearance and disappearance of CKBB in the serum and CSF, <z:hpo ids='HP_0001297'>strokes</z:hpo> of varying size were produced in twelve mongrel dogs by silastic emboli </plain></SENT>
+<SENT sid="2" pm="."><plain>The rate of disappearance, Kd of CKBB (-.00732 +/- 0.001 min-1 mean +/- SE, N = 8) was determined by injecting purified CKBB (25 IU) intravenously then measuring its disappearance </plain></SENT>
+<SENT sid="3" pm="."><plain>Following the embolic <z:hpo ids='HP_0001297'>stroke</z:hpo>, serum samples were taken hourly for 24 hours and then at intervals for up to 160 hours for measurement of CKBB by radioimmunoassay until the animals were sacrificed </plain></SENT>
+<SENT sid="4" pm="."><plain>The brains were then removed, fixed in formalin, cut in 2 mm sections and photographed </plain></SENT>
+<SENT sid="5" pm="."><plain>The area of the <z:mpath ids='MPATH_124'>infarct</z:mpath> was measured using high pad digitizer interfaced with an Apple computer </plain></SENT>
+<SENT sid="6" pm="."><plain>The <z:mpath ids='MPATH_124'>infarct</z:mpath> size was then calculated from the area and thickness </plain></SENT>
+<SENT sid="7" pm="."><plain>Using a one-compartment mathematical model, the <z:mpath ids='MPATH_124'>infarct</z:mpath> size was estimated from the amount of CKBB appearing in the serum, the Kd of CKBB, and the amount of CKBB depleted from tissue </plain></SENT>
+<SENT sid="8" pm="."><plain>The computed <z:mpath ids='MPATH_124'>infarct</z:mpath> size correlated well (r = 0.94) with the measured <z:mpath ids='MPATH_124'>infarct</z:mpath> size </plain></SENT>
+<SENT sid="9" pm="."><plain>This model may have value in testing therapeutic modalities in the intact animal </plain></SENT>
+</text></document>

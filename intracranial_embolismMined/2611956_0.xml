@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Ilexonin A is an effective compound isolated from Ilex pubescens Hook. et Arn </plain></SENT>
+<SENT sid="1" pm="."><plain>It has been used in the clinic to treat <z:e sem="disease" ids="C0007222" disease_type="Disease or Syndrome" abbrv="CVD">cardiovascular diseases</z:e> such as <z:e sem="disease" ids="C0007780" disease_type="Disease or Syndrome" abbrv="">cerebral embolism</z:e> and <z:hpo ids='HP_0001658'>myocardial infarction</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>Experimental studies have shown that it inhibited <z:mp ids='MP_0005048'>thrombosis</z:mp>, platelet <z:e sem="disease" ids="C0001511" disease_type="Disease or Syndrome;Acquired Abnormality" abbrv="">adhesion</z:e>, and platelet aggregation and <z:chebi fb="0" ids="28790">5-HT</z:chebi> release induced by collagen, <z:chebi fb="13" ids="16761">ADP</z:chebi> or A23187 in vitro and in vivo </plain></SENT>
+<SENT sid="3" pm="."><plain>The inhibitory effect of platelet aggregation induced by A23187 was reduced by adding <z:chebi fb="0" ids="3312">CaCl2</z:chebi> (1mM) to the medium </plain></SENT>
+<SENT sid="4" pm="."><plain>It suggests that the effects of llexonin A on platelet function are possibly related to calcium </plain></SENT>
+<SENT sid="5" pm="."><plain>The present experiments were designed to investigate the effects of Ilexonin A on thrombin-induced <z:chebi fb="0" ids="29108">Ca2+</z:chebi> fluxes of platelets, in which quin-2 was used to measure the cytoplasmic <z:chebi fb="0" ids="29108">Ca2+</z:chebi> concentration </plain></SENT>
+<SENT sid="6" pm="."><plain>The results indicated that the free calcium concentrations of resting platelets and the platelets activated by thrombin were 78.65 +/- 7.74 nM and 871.10 +/- 123.63 nM respectively </plain></SENT>
+<SENT sid="7" pm="."><plain>After adding <z:chebi fb="0" ids="30740">EGTA</z:chebi> (lmM) to the medium, the calcium concentrations reduced to 34.75 +/- 7.77 nM and 50 </plain></SENT>
+<SENT sid="8" pm="."><plain>86 +/- 7.44 nM </plain></SENT>
+<SENT sid="9" pm="."><plain>Ilexonin A and <z:chebi fb="1" ids="9948">verapamil</z:chebi> markedly inhibited the thrombin induced <z:chebi fb="0" ids="29108">Ca2+</z:chebi> influx </plain></SENT>
+<SENT sid="10" pm="."><plain>The IC50 was 76.8 microM and 67.5 microM respectively </plain></SENT>
+<SENT sid="11" pm="."><plain>But both had no effect on thrombin-induced <z:chebi fb="0" ids="29108">Ca2+</z:chebi> release from dense tubular system </plain></SENT>
+<SENT sid="12" pm="."><plain>It suggests that Ilexonin A acts most likely as a calcium slow channel blocker </plain></SENT>
+</text></document>

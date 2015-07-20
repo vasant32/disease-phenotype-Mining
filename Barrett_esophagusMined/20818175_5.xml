@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Esophageal <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> (EAC) arises in the backdrop of reflux-induced metaplastic phenomenon known as <z:hpo ids='HP_0100580'>Barrett esophagus</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>The prognosis of advanced EAC is dismal, and there is an urgent need for identifying molecular targets for therapy </plain></SENT>
+<SENT sid="2" pm="."><plain>Serial Analysis of Gene Expression (SAGE) was performed on metachronous mucosal biopsies from a patient who underwent progression to EAC during endoscopic surveillance </plain></SENT>
+<SENT sid="3" pm="."><plain>SAGE confirmed significant upregulation of Axl "tags" during the multistep progression of <z:hpo ids='HP_0100580'>Barrett esophagus</z:hpo> to EAC </plain></SENT>
+<SENT sid="4" pm="."><plain>In a cohort of 92 surgically resected EACs, Axl overexpression was associated with shortened median survival on both univariate (p &lt; 0.004) and multivariate (p &lt; 0.036) analysis </plain></SENT>
+<SENT sid="5" pm="."><plain>Genetic knockdown of Axl receptor tyrosine kinase (RTK) function was enabled in two EAC lines (OE33 and JH-EsoAd1) using lentiviral short hairpin <z:chebi fb="40" ids="33697">RNA</z:chebi> (shRNA) </plain></SENT>
+<SENT sid="6" pm="."><plain>Genetic knockdown of Axl in EAC cell lines inhibited invasion, migration, and in vivo engraftment, which was accompanied by downregulation in the activity of the Ral GTPase proteins (RalA and RalB) </plain></SENT>
+<SENT sid="7" pm="."><plain>Restoration of Ral activation rescued the transformed phenotype of EAC cell lines, suggesting a novel effector mechanism for Axl in <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> cells </plain></SENT>
+<SENT sid="8" pm="."><plain>Pharmacological inhibition of Axl was enabled using a small molecule <z:chebi fb="68" ids="48706">antagonist</z:chebi>, R428 (Rigel Pharmaceuticals) </plain></SENT>
+<SENT sid="9" pm="."><plain>Pharmacological inhibition of Axl with R428 in EAC cell lines significantly reduced anchorage-independent growth, invasion and migration </plain></SENT>
+<SENT sid="10" pm="."><plain>Blockade of Axl function abrogated phosphorylation of ERBB2 (Her-2/neu) at the Tyr877 residue, indicative of receptor crosstalk </plain></SENT>
+<SENT sid="11" pm="."><plain>Axl RTK is an adverse prognostic factor in EAC </plain></SENT>
+<SENT sid="12" pm="."><plain>The availability of small molecule inhibitors of Axl function provides a tractable strategy for molecular therapy of established EAC </plain></SENT>
+</text></document>

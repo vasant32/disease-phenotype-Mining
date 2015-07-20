@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cells may contaminate blood or BM stem cell collections used for autologous transplants and contribute to relapse </plain></SENT>
+<SENT sid="1" pm="."><plain>We report on the development of a B-cell <z:hpo ids='HP_0002665'>lymphoma</z:hpo>-purging technique, using streptavidin-coated ferrofluids (SAFF) and a high-gradient magnetic-separation device (HGMSD) </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: Blood or BM samples were spiked with bcl-2 positive <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cells, labeled with biotinylated B cell MAb (CD19, CD20, CD37) then purged by positive selection of CD34(+) cells, followed by negative selection with SAFF and a high HGMSD </plain></SENT>
+<SENT sid="3" pm="."><plain>Purging efficiency was judged by dual-labeled flow cytometry and by PCR analysis of bcl-2 </plain></SENT>
+<SENT sid="4" pm="."><plain>RESULTS: A 6 log purge of bcl-2 <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cells could be achieved by first enriching for CD34(+) cells, followed by negative selection with SAFF and HGMSD </plain></SENT>
+<SENT sid="5" pm="."><plain>The use of SAFF with HGMSD alone could only accomplish a 2-3 log purge </plain></SENT>
+<SENT sid="6" pm="."><plain>DISCUSSION: CD34 selection from blood or BM of follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo> patients, followed by negative selection of MAb-labeled cells with SAFF could achieve a 6 log purge </plain></SENT>
+<SENT sid="7" pm="."><plain>However, cell yields were low (10%) and purging efficacy was limited to low starting concentration of <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cells (&lt; or = 1.0%) </plain></SENT>
+<SENT sid="8" pm="."><plain>This technique, however, may be useful for full-scale clinical purging of <z:e sem="disease" ids="C0242596" disease_type="Neoplastic Process" abbrv="MRD">minimal residual disease</z:e> following debulking with a <z:chebi fb="0" ids="4027">cyclophosphamide</z:chebi> or other agents </plain></SENT>
+</text></document>

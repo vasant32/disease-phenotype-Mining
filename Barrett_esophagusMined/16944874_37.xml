@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We have constructed a high-speed, two-dimensional capillary electrophoresis system with a compact and high-sensitivity fluorescence detector </plain></SENT>
+<SENT sid="1" pm="."><plain>This instrument is used for the rapid and reproducible separations of <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> tissue homogenates </plain></SENT>
+<SENT sid="2" pm="."><plain>Proteins and biogenic <z:chebi fb="39" ids="32952">amines</z:chebi> are labeled with the fluorogenic reagent 3-(2-furoyl)<z:chebi fb="0" ids="17362">quinoline</z:chebi>-2-carboxaldehyde </plain></SENT>
+<SENT sid="3" pm="."><plain>Labeled biomolecules are separated sequentially in two capillaries </plain></SENT>
+<SENT sid="4" pm="."><plain>The first capillary employs capillary sieving electrophoresis using a replaceable sieving matrix </plain></SENT>
+<SENT sid="5" pm="."><plain>Fractions are successively transferred to a second capillary where they undergo additional separation by micellar electrokinetic capillary chromatography </plain></SENT>
+<SENT sid="6" pm="."><plain>The comprehensive two-dimensional separation requires 60 min </plain></SENT>
+<SENT sid="7" pm="."><plain>Within-day migration time reproducibility is better than 1% in both dimensions for the 50 most intense features </plain></SENT>
+<SENT sid="8" pm="."><plain>Between-day migration time precision is 1.3% for CSE and better than 0.6% for MECC </plain></SENT>
+<SENT sid="9" pm="."><plain>Biopsies were obtained from the squamous epithelium in the proximal tubular <z:e sem="disease" ids="C0004763" disease_type="Disease or Syndrome" abbrv="CELLO">esophagus, Barrett's</z:e> epithelium from the distal esophagus, and fundus region of the stomach from each of three <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> patients with informed consent </plain></SENT>
+<SENT sid="10" pm="."><plain>We identified 18 features from the homogenate profiles as biogenic <z:chebi fb="39" ids="32952">amines</z:chebi> and amino acids </plain></SENT>
+<SENT sid="11" pm="."><plain>For each of the patients, Barrett's biopsies had more than 5 times the levels of phenylalanine and alanine as compared to squamous tissues </plain></SENT>
+<SENT sid="12" pm="."><plain>The patient with high-grade <z:mpath ids='MPATH_589'>dysplasia</z:mpath> shows the highest concentrations for 13 of the amino acids across <z:hpo ids='HP_0000001'>all</z:hpo> tissue types </plain></SENT>
+<SENT sid="13" pm="."><plain>Concentrations of glycine are 40 times higher in squamous biopsies compared to Barrett's and fundal biopsies from the patient with high-grade <z:mpath ids='MPATH_589'>dysplasia</z:mpath> </plain></SENT>
+<SENT sid="14" pm="."><plain>These results suggest that two-dimensional capillary electrophoresis may be of value for the rapid characterization of endoscopic and surgical biopsies </plain></SENT>
+</text></document>

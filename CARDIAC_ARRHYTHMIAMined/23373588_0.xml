@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>INTRODUCTION: Recent developments in body surface mapping and computer processing have allowed noninvasive mapping of atrial activation responsible for various <z:hpo ids='HP_0011675'>cardiac arrhythmias</z:hpo> with increasingly greater resolution </plain></SENT>
+<SENT sid="1" pm="."><plain>We developed specific algorithms to identify localized sources and atrial propagation occurring simultaneously during ongoing <z:hpo ids='HP_0005110'>atrial fibrillation</z:hpo> (AF) </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS AND RESULTS: We report the feasibility of noninvasive panoramic mapping of human AF mechanisms and its validation by successful ablation </plain></SENT>
+<SENT sid="3" pm="."><plain>We used a commercially available mapping system using an array of 252 body surface electrodes and noncontrast thoracic CT scan to obtain high-resolution images of the biatrial geometry and the relative electrode positions </plain></SENT>
+<SENT sid="4" pm="."><plain>On the surface unipolar electrograms acquired during AF we developed specific signal-analysis process combining filtering, wavelet transform, and phase mapping </plain></SENT>
+<SENT sid="5" pm="."><plain>At least 5 windows with spontaneous, long ventricular pauses were selected for mapping </plain></SENT>
+<SENT sid="6" pm="."><plain>The incidence, location and characteristics of localized sources (foci and rotors) were assessed on the cumulative duration of <z:hpo ids='HP_0000001'>all</z:hpo> recorded windows </plain></SENT>
+<SENT sid="7" pm="."><plain>In a patient with paroxysmal AF, noninvasive maps showed multiple single or repetitive discharges from 3 pulmonary veins (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">PVs</z:e>), a rotor meandering along the right venous ostia, and their mutual interplay </plain></SENT>
+<SENT sid="8" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> areas outside the left posterior wall were passively activated </plain></SENT>
+<SENT sid="9" pm="."><plain>AF terminated during isolation of right <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">PV</z:e> </plain></SENT>
+<SENT sid="10" pm="."><plain>In a patient with persistent AF for 7 months, a rotor was identified recurrently, drifting in the left atrial inferior and posterior wall and in the roof </plain></SENT>
+<SENT sid="11" pm="."><plain>It was not stationary for more than 2 rotations </plain></SENT>
+<SENT sid="12" pm="."><plain>The right atrial free wall was activated over the Bachman's bundle by a passive wavefront propagating in a counterclockwise pattern </plain></SENT>
+<SENT sid="13" pm="."><plain>Ablation at the rotor locations abruptly converted AF into atrial <z:hpo ids='HP_0001649'>tachycardia</z:hpo> after 10 minutes of radiofrequency application </plain></SENT>
+<SENT sid="14" pm="."><plain>Further mapping and ablation confirmed a counterclockwise cavotricuspid isthmus-dependent flutter </plain></SENT>
+<SENT sid="15" pm="."><plain>CONCLUSIONS: This report demonstrates the feasibility of noninvasive panoramic mapping of AF in identifying active sources, which include unstable rotors and <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">PV</z:e> foci, and its validation by ablation results </plain></SENT>
+</text></document>

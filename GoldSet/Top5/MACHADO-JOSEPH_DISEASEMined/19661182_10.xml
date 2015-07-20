@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:chebi fb="1" ids="18421">Superoxide</z:chebi> dismutase-1 (SOD1) and ataxin-3 are two <z:hpo ids='HP_0002180'>neurodegenerative disease</z:hpo> proteins in association with familial <z:hpo ids='HP_0007354'>amyotrophic lateral sclerosis</z:hpo> and <z:e sem="disease" ids="C0024408" disease_type="Disease or Syndrome" abbrv="MJD|SCA3">Machado-Joseph disease</z:e>/spinocerebellar <z:hpo ids='HP_0001251'>ataxia</z:hpo> type 3 </plain></SENT>
+<SENT sid="1" pm="."><plain>Both <z:mpath ids='MPATH_458'>normal</z:mpath> and mutant types of SOD1 and ataxin-3 are degraded by the proteasome </plain></SENT>
+<SENT sid="2" pm="."><plain>It was recently reported that these two proteins are associated with the endoplasmic reticulum (ER) </plain></SENT>
+<SENT sid="3" pm="."><plain>Mammalian gp78 is an E3 ubiquitin ligase involved in ER-associated degradation (ERAD) </plain></SENT>
+<SENT sid="4" pm="."><plain>Here, we show that gp78 interacts with both SOD1 and ataxin-3 </plain></SENT>
+<SENT sid="5" pm="."><plain>Overexpression of gp78 promotes the ubiquitination and degradation of these two proteins, whereas knockdown of gp78 stabilizes them </plain></SENT>
+<SENT sid="6" pm="."><plain>Moreover, gp78 represses aggregate formation of mutant SOD1 and protect cells against mutant SOD1-induced cell <z:hpo ids='HP_0011420'>death</z:hpo> </plain></SENT>
+<SENT sid="7" pm="."><plain>Furthermore, gp78 is increased in cells transfected with these two mutant proteins as well as in ALS mice </plain></SENT>
+<SENT sid="8" pm="."><plain>Thus, our results suggest that gp78 functions in the regulation of SOD1 and ataxin-3 to target them for ERAD </plain></SENT>
+</text></document>

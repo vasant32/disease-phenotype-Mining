@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A central issue in genome-wide association (GWA) studies is assessing statistical significance while adjusting for multiple hypothesis testing </plain></SENT>
+<SENT sid="1" pm="."><plain>An equally important question is the statistical efficiency of the GWA design as compared to the traditional sequential approach in which genome-wide linkage analysis is followed by region-wise association mapping </plain></SENT>
+<SENT sid="2" pm="."><plain>Nevertheless, GWA is becoming more popular due in part to cost efficiency: commercially available 1M chips are nearly as inexpensive as a custom-designed 10 K chip </plain></SENT>
+<SENT sid="3" pm="."><plain>It is becoming apparent, however, that most of the on-going GWA studies with 2,000-5,000 samples are in fact underpowered </plain></SENT>
+<SENT sid="4" pm="."><plain>As a means to improve power, we emphasize the importance of utilizing prior information such as results of previous linkage studies via a stratified false discovery rate (FDR) control </plain></SENT>
+<SENT sid="5" pm="."><plain>The essence of the stratified FDR control is to prioritize the genome and maintain power to interrogate candidate regions within the GWA study </plain></SENT>
+<SENT sid="6" pm="."><plain>These candidate regions can be defined as, but are by no means limited to, linkage-peak regions </plain></SENT>
+<SENT sid="7" pm="."><plain>Furthermore, we theoretically unify the stratified FDR approach and the weighted P-value method, and we show that stratified FDR can be formulated as a robust version of weighted FDR </plain></SENT>
+<SENT sid="8" pm="."><plain>Finally, we demonstrate the utility of the methods in two GWA datasets: Type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> (FUSION) and an on-going study of long-term <z:e sem="disease" ids="C0271672" disease_type="Disease or Syndrome" abbrv="">diabetic complications</z:e> (DCCT/EDIC) </plain></SENT>
+<SENT sid="9" pm="."><plain>The methods are implemented as a user-friendly software package, SFDR </plain></SENT>
+<SENT sid="10" pm="."><plain>The same stratification framework can be readily applied to other type of studies, for example, using GWA results to improve the power of sequencing data analyses </plain></SENT>
+</text></document>

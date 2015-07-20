@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A remarkable feature of regenerative processes is their ability to halt proliferation once an organ's structure has been restored </plain></SENT>
+<SENT sid="1" pm="."><plain>The Wnt signalling pathway is the major driving force for homeostatic self-renewal and regeneration in the mammalian intestine </plain></SENT>
+<SENT sid="2" pm="."><plain>However, the mechanisms that counterbalance Wnt-driven proliferation are poorly understood </plain></SENT>
+<SENT sid="3" pm="."><plain>Here we demonstrate in mice and humans that yes-associated protein 1 (YAP; also known as YAP1)--a protein known for its powerful growth-inducing and oncogenic properties--has an unexpected growth-suppressive function, restricting Wnt signals during intestinal regeneration </plain></SENT>
+<SENT sid="4" pm="."><plain>Transgenic expression of YAP reduces Wnt target gene expression and results in the rapid loss of intestinal crypts </plain></SENT>
+<SENT sid="5" pm="."><plain>In addition, loss of YAP results in Wnt hypersensitivity during regeneration, leading to <z:mpath ids='MPATH_134'>hyperplasia</z:mpath>, expansion of intestinal stem cells and niche cells, and formation of ectopic crypts and microadenomas </plain></SENT>
+<SENT sid="6" pm="."><plain>We find that cytoplasmic YAP restricts elevated Wnt signalling independently of the AXIN-APC-GSK-3β complex partly by limiting the activity of dishevelled (DVL) </plain></SENT>
+<SENT sid="7" pm="."><plain>DVL signals in the nucleus of intestinal stem cells, and its forced expression leads to enhanced Wnt signalling in crypts </plain></SENT>
+<SENT sid="8" pm="."><plain>YAP dampens Wnt signals by restricting DVL nuclear translocation during regenerative growth </plain></SENT>
+<SENT sid="9" pm="."><plain>Finally, we provide evidence that YAP is silenced in a subset of highly aggressive and undifferentiated human colorectal <z:mp ids='MP_0002038'>carcinomas</z:mp>, and that its expression can restrict the growth of colorectal <z:mp ids='MP_0002038'>carcinoma</z:mp> xenografts </plain></SENT>
+<SENT sid="10" pm="."><plain>Collectively, our work describes a novel mechanistic paradigm for how proliferative signals are counterbalanced in regenerating tissues </plain></SENT>
+<SENT sid="11" pm="."><plain>Additionally, our findings have important implications for the targeting of YAP in human <z:e sem="disease" ids="C0006826" disease_type="Neoplastic Process" abbrv="">malignancies</z:e> </plain></SENT>
+</text></document>

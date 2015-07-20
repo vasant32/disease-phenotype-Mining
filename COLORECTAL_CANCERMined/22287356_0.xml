@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: To investigate the effect of multidrug resistance-associated protein 4 (MRP4) expression on the radiosensitivity of colorectal <z:mp ids='MP_0002038'>carcinoma</z:mp> cell lines in vitro </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: The vector of shRNA for <z:chebi fb="40" ids="33697">RNA</z:chebi> interference was constructed and then transfected into HCT116 cell line to steadily down-regulate the expression of MRP4 </plain></SENT>
+<SENT sid="2" pm="."><plain>HCT116 cells were divided into 3 groups including the CON group(non-transfected), NC group (negative control virus was added), and KD group (RNAi target was added for transfection) </plain></SENT>
+<SENT sid="3" pm="."><plain>To test the effectiveness of <z:chebi fb="40" ids="33697">RNA</z:chebi> interference, real-time polymerase chain reaction and Western blot were used to measure the expression pattern of MRP4 at both <z:chebi fb="2" ids="33699">mRNA</z:chebi> and protein levels, respectively </plain></SENT>
+<SENT sid="4" pm="."><plain>For the examination of the effect of <z:chebi fb="40" ids="33697">RNA</z:chebi> interference of MRP4 on the radiosensitivity, flow cytometry was used to calculate the rate of apoptotic cells 24 h after 4 Gy radiation </plain></SENT>
+<SENT sid="5" pm="."><plain>Proliferation of the cells was measured via <z:chebi fb="0" ids="53233">MTT</z:chebi> assay at different time points </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: ShRNA plasmid was successfully constructed </plain></SENT>
+<SENT sid="7" pm="."><plain>Transfection of this constructed vector into HCT116 cell line caused steady silencing of MRP4 expression (HCT116-KD) </plain></SENT>
+<SENT sid="8" pm="."><plain>MRP4 <z:chebi fb="2" ids="33699">mRNA</z:chebi> and protein expression were significantly down-regulated following <z:chebi fb="40" ids="33697">RNA</z:chebi> interference(P&lt;0.05) </plain></SENT>
+<SENT sid="9" pm="."><plain>Twenty-four hours after radiation, the <z:mpath ids='MPATH_3'>apoptosis</z:mpath> rate of KD cell line was (71.7±0.8)%, significantly higher than that in the CON group [(56.1±0.9)%] and NC group[(59.8±0.8)%](P&lt;0.05) </plain></SENT>
+<SENT sid="10" pm="."><plain>Fourty-eight hours and 72 hours after radiation, the proliferation was significantly inhibited in KD cells compared to the control groups(P&lt;0.05) </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: Expression of MRP4 is closely related to radiotolerance of colorectal <z:mp ids='MP_0002038'>carcinoma</z:mp> </plain></SENT>
+<SENT sid="12" pm="."><plain>Down-regulation of MRP4 expression by <z:chebi fb="40" ids="33697">RNA</z:chebi> interference enhances radiosensitivity of colorectal <z:mp ids='MP_0002038'>carcinoma</z:mp> cell lines in vitro </plain></SENT>
+<SENT sid="13" pm="."><plain>MRP4 may be an effective molecular marker for predicting the radiosensitivity of colorectal <z:mp ids='MP_0002038'>carcinoma</z:mp> </plain></SENT>
+</text></document>

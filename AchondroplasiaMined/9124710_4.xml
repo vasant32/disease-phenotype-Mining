@@ -1,0 +1,5 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Dexter cattle carry a genetic defect causing a dwarf phenotype in the heterozygotes (Dx+/-), while homozygotes (Dx+/+) are <z:hpo ids='HP_0003826'>stillborn</z:hpo> with extreme shortening of limbs and gross craniofacial defects and are described as 'bulldog' calves </plain></SENT>
+<SENT sid="1" pm="."><plain>The heterozygous phenotype has been likened to achondroplastic <z:hpo ids='HP_0003510'>dwarfism</z:hpo> in humans (ACH), which has recently been shown to be the result of mutations in the transmembrane region of the fibroblast growth factor receptor 3 (FGFR3) gene </plain></SENT>
+<SENT sid="2" pm="."><plain>We have sequenced the transmembrane region of bovine FGFR3 from <z:mpath ids='MPATH_458'>normal</z:mpath> Dexter cattle (Dx-/-) and bulldog calves (Dx+/+) </plain></SENT>
+<SENT sid="3" pm="."><plain>The sequence from both is identical and therefore excludes mutations in the trans-membrane region of FGFR3 as the cause of Dexter <z:hpo ids='HP_0003510'>dwarfism</z:hpo> </plain></SENT>
+</text></document>

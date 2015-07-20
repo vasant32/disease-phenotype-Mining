@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIMS/HYPOTHESIS: Insulin hypersecretion may be an independent predictor of progression to type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="1" pm="."><plain>Identifying genes affecting insulin hypersecretion are important in understanding disease progression </plain></SENT>
+<SENT sid="2" pm="."><plain>We have previously shown that <z:mp ids='MP_0002055'>diabetes</z:mp>-susceptible <z:chebi fb="28" ids="35299">DBA</z:chebi>/2 mice congenitally display high insulin secretion </plain></SENT>
+<SENT sid="3" pm="."><plain>We studied this model to map and identify the gene(s) responsible for this trait </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS: Intravenous <z:chebi fb="105" ids="17234">glucose</z:chebi> tolerance tests followed by a genome-wide scan were performed on 171 (C57BL/6 x <z:chebi fb="28" ids="35299">DBA</z:chebi>/2) x C57BL/6 backcross mice </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: A quantitative trait locus, designated hyperinsulin production-1 (Hip1), was mapped with a logarithm of odds score of 7.7 to a region on chromosome 13 </plain></SENT>
+<SENT sid="6" pm="."><plain>Production of congenic mice confirmed that Hip1 influenced the insulin hypersecretion trait </plain></SENT>
+<SENT sid="7" pm="."><plain>By studying appropriate recombinant inbred mouse strains, the Hip1 locus was further localised to a 2 Mb interval, which contained only nine genes </plain></SENT>
+<SENT sid="8" pm="."><plain>Expression analysis showed that the only gene differentially expressed in islets isolated from the parental strains was Nnt, which encodes the <z:hpo ids='HP_0001427'>mitochondrial</z:hpo> proton pump, <z:chebi fb="0" ids="25527">nicotinamide nucleotide</z:chebi> transhydrogenase (NNT) </plain></SENT>
+<SENT sid="9" pm="."><plain>We also found in five mouse strains a positive correlation (r2 = 0.90, p &lt; 0.01) between NNT activity and first-phase insulin secretion, emphasising the importance of this enzyme in beta cell function </plain></SENT>
+<SENT sid="10" pm="."><plain>Furthermore, of these five strains, only those with high NNT activity are known to exhibit severe <z:mp ids='MP_0002055'>diabetes</z:mp> after becoming <z:mp ids='MP_0001261'>obese</z:mp> </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS/INTERPRETATION: Insulin hypersecretion is associated with increased Nnt expression </plain></SENT>
+<SENT sid="12" pm="."><plain>We suggest that NNT must play an important role in beta cell function and that its effect on the high insulin secretory capacity of the <z:chebi fb="28" ids="35299">DBA</z:chebi>/2 mouse may predispose beta cells of these mice to failure </plain></SENT>
+</text></document>

@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Optical coherence tomography (OCT) is an optical imaging method that produces high-resolution cross-sectional images of the esophagus </plain></SENT>
+<SENT sid="1" pm="."><plain>The accuracy of OCT for differentiating tissue types at the squamocolumnar junction (SCJ) has not been established </plain></SENT>
+<SENT sid="2" pm="."><plain>OBJECTIVE: The purpose of this study was to identify and validate OCT image criteria for distinguishing metaplastic from nonmetaplastic tissue at the SCJ </plain></SENT>
+<SENT sid="3" pm="."><plain>DESIGN: A total of 196 biopsy-correlated OCT images of the SCJ were acquired from 113 patients undergoing upper endoscopy </plain></SENT>
+<SENT sid="4" pm="."><plain>A pathologist blinded to the OCT results reviewed each pathology specimen and determined the presence of the following histopathology: gastric cardia, squamous mucosa, pancreatic <z:mpath ids='MPATH_160'>metaplasia</z:mpath>, and <z:mpath ids='MPATH_167'>intestinal metaplasia</z:mpath> </plain></SENT>
+<SENT sid="5" pm="."><plain>An algorithm for diagnosing specialized <z:mpath ids='MPATH_167'>intestinal metaplasia</z:mpath> (SIM) was created by reviewing a training set of 40 biopsy-correlated OCT images </plain></SENT>
+<SENT sid="6" pm="."><plain>Two blinded investigators prospectively tested the algorithm on a validation set of 123 images </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: OCT images of squamous mucosa were characterized by a layered appearance without epithelial glands; gastric cardia, by vertical pit and gland structure, a well-defined epithelial surface reflectivity, and relatively poor image penetration; and SIM by an irregular architecture and good image penetration </plain></SENT>
+<SENT sid="8" pm="."><plain>The OCT criteria were 85% sensitive and 95% specific for SIM when applied retrospectively to the training set </plain></SENT>
+<SENT sid="9" pm="."><plain>When applied to the validation set, the algorithm was 81% sensitive for both OCT readers and 66% and 57% specific for diagnosing SIM </plain></SENT>
+<SENT sid="10" pm="."><plain>The interobserver agreement was good (kappa = 0.53) </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: OCT imaging can identify SIM at the SCJ with an accuracy similar to that of endoscopy </plain></SENT>
+</text></document>

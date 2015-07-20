@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: The efficacy and safety of cetuximab for irinotecan-intolerant patients has not yet been evaluated in detail </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: We retrospectively analyzed the efficacy and safety of cetuximab monotherapy for patients with <z:e sem="disease" ids="C0948380" disease_type="Neoplastic Process" abbrv="">metastatic colorectal cancer</z:e> (MCRC) that was intolerant to irinotecan </plain></SENT>
+<SENT sid="2" pm="."><plain>RESULTS: Among 105 patients who received cetuximab-containing chemotherapy until March 2010, 22 patients were treated with cetuximab monotherapy due to irinotecan intolerance </plain></SENT>
+<SENT sid="3" pm="."><plain>Cetuximab was given at the approved dosage to <z:hpo ids='HP_0000001'>all</z:hpo> patients </plain></SENT>
+<SENT sid="4" pm="."><plain>The performance status was 2 or 3 in 17 patients (77%) </plain></SENT>
+<SENT sid="5" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> but 1 patient had <z:mp ids='MP_0002169'>wild-type</z:mp> KRAS <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumors</z:e> </plain></SENT>
+<SENT sid="6" pm="."><plain>The causes of irinotecan intolerance were <z:mp ids='MP_0000611'>icterus</z:mp> (n = 9; 41%; median serum total <z:chebi fb="0" ids="16990">bilirubin</z:chebi>, 6.3 mg/dl), symptomatic peritoneal <z:e sem="disease" ids="C0027627" disease_type="Neoplastic Process" abbrv="mets">metastasis</z:e> or obstruction (n = 8; 36%), and <z:hpo ids='HP_0001873'>thrombocytopenia</z:hpo> (n = 1; 5%) </plain></SENT>
+<SENT sid="7" pm="."><plain>Four patients (18%) refused irinotecan due to previous irinotecan-associated toxicity </plain></SENT>
+<SENT sid="8" pm="."><plain>Two patients achieved a partial response with an apparent drop of serum <z:chebi fb="0" ids="16990">bilirubin</z:chebi>, for a response rate of 9.1% </plain></SENT>
+<SENT sid="9" pm="."><plain>The median progression-free survival and overall survival were 1.6 and 3.5 months, respectively </plain></SENT>
+<SENT sid="10" pm="."><plain>No grade 3 or 4 adverse events or treatment-related <z:hpo ids='HP_0011420'>deaths</z:hpo> were experienced </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSION: Cetuximab monotherapy for irinotecan-intolerant MCRC is feasible </plain></SENT>
+<SENT sid="12" pm="."><plain>However, the overall efficacy was modest in the present cohort, despite the fact that most of the patients had <z:mp ids='MP_0002169'>wild-type</z:mp> KRAS <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumors</z:e>; further effective therapies should be evaluated to improve the prognosis of this patient population </plain></SENT>
+</text></document>

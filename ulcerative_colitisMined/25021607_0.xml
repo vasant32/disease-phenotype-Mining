@@ -1,0 +1,21 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>INTRODUCTION: <z:chebi fb="0" ids="35666">Thiopurines</z:chebi> (TPs) including <z:chebi fb="2" ids="2948">azathioprine</z:chebi> and <z:chebi fb="0" ids="50667">mercaptopurine</z:chebi> have an established role in maintaining disease remission in <z:hpo ids='HP_0100279'>ulcerative colitis</z:hpo> (UC) but their impact on the risk of colectomy remains unknown </plain></SENT>
+<SENT sid="1" pm="."><plain>Our aim was to establish predictors of colectomy and determine the effect of TPs on the risk for colectomy using the Clinical Practice Research Datalink (CPRD) </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: We conducted a population based study using electronic primary care records in the UK </plain></SENT>
+<SENT sid="3" pm="."><plain>We identified incident cases of UC between 1989 and 2009 in the CPRD which contains prescribing and clinical data for 8% of the UK population and is a validated research database </plain></SENT>
+<SENT sid="4" pm="."><plain>Patients were included if registered with a practice for at least 12 months prior to diagnosis </plain></SENT>
+<SENT sid="5" pm="."><plain>We compared rates of colectomy between TP users and non-users and examined the impact of treatment duration </plain></SENT>
+<SENT sid="6" pm="."><plain>We performed survival analysis using the Kaplan-Meier method </plain></SENT>
+<SENT sid="7" pm="."><plain>Independent risk factors for surgery were determined using a multivariable Cox proportional hazards model </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: Overall, 8673 patient met our inclusion criteria of which 479 (5.5%) went on to have a total colectomy during 21 years of follow up </plain></SENT>
+<SENT sid="9" pm="."><plain>51.4% were male and the median age was 46 years (IQR: 32-62 years) </plain></SENT>
+<SENT sid="10" pm="."><plain>Female patients were less likely to undergo colectomy (HR 0.70, 95% CI: 0.58-0.84, p &lt; 0.001) </plain></SENT>
+<SENT sid="11" pm="."><plain>There was a threefold increase in the risk of colectomy amongst TP users compared with non-users (HR 3.48, 95% CI: 2.84-4.37, p &lt; 0.001) </plain></SENT>
+<SENT sid="12" pm="."><plain>Of the TP users, those receiving greater than 12 months of treatment, were least likely to undergo colectomy compared with users for less than 3 months (HR 0.29, 95% CI: 0.21-0.40, p &lt; 0.001) </plain></SENT>
+<SENT sid="13" pm="."><plain>Early steroid users were almost twice as likely to undergo colectomy (HR 1.94, 95% CI: 1.59-2.37, p &lt; 0.001) </plain></SENT>
+<SENT sid="14" pm="."><plain><z:chebi fb="0" ids="6775">5-ASA</z:chebi> use was protective, with users 65% less likely to undergo colectomy than non-users (HR 0.35, 95% CI: 0.28-0.44, p &lt; 0.001) </plain></SENT>
+<SENT sid="15" pm="."><plain>CONCLUSION: Male sex, TP use and early steroid use within 3 months of diagnosis are predictors of colectomy in UC </plain></SENT>
+<SENT sid="16" pm="."><plain>Amongst TP users, sustained TP use for greater than 12 months duration, was associated with a reduction in colectomy rates </plain></SENT>
+<SENT sid="17" pm="."><plain><z:chebi fb="0" ids="6775">5-ASA</z:chebi> use was associated with a two thirds reduction in risk of colectomy </plain></SENT>
+<SENT sid="18" pm="."><plain>Our findings support the role of <z:chebi fb="0" ids="6775">5-ASA</z:chebi> use and prolonged TP treatment for UC patients with a severe disease phenotype </plain></SENT>
+<SENT sid="19" pm="."><plain>DISCLOSURE OF INTEREST: None Declared </plain></SENT>
+</text></document>

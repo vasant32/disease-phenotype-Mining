@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We present a rare case of <z:hpo ids='HP_0001342'>cerebral hemorrhage</z:hpo> due to Epstein-Barr virus (EBV)-associated post-transplant <z:hpo ids='HP_0005523'>lymphoproliferative disorder</z:hpo> (PTLD) </plain></SENT>
+<SENT sid="1" pm="."><plain>A 58-year-old man with <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo> received allogeneic hematopoietic stem cell transplantation from an unrelated donor after being conditioned with fludarabine, melphalan, and total body irradiation </plain></SENT>
+<SENT sid="2" pm="."><plain>Tacrolimus and <z:chebi fb="0" ids="44185">methotrexate</z:chebi> were given for <z:e sem="disease" ids="C0018133" disease_type="Disease or Syndrome" abbrv="GVH">graft-versus-host disease</z:e> (GVHD) prophylaxis </plain></SENT>
+<SENT sid="3" pm="."><plain>On day 23, he developed <z:hpo ids='HP_0011009'>acute</z:hpo> GVHD, which was successfully treated with <z:chebi fb="2" ids="8378">prednisolone</z:chebi> (PSL) </plain></SENT>
+<SENT sid="4" pm="."><plain>The tapering of PSL failed because of extensive <z:hpo ids='HP_0011010'>chronic</z:hpo> GVHD involving the liver and lungs, and <z:chebi fb="0" ids="168396">mycophenolate</z:chebi> mofetil was added on day 244 </plain></SENT>
+<SENT sid="5" pm="."><plain>On day 340, the patient suddenly complained of severe <z:hpo ids='HP_0002315'>headache</z:hpo> </plain></SENT>
+<SENT sid="6" pm="."><plain>Computed tomography confirmed subcortical <z:mp ids='MP_0001914'>hemorrhage</z:mp>, and he died on day 348 </plain></SENT>
+<SENT sid="7" pm="."><plain>The autopsy revealed atypical lymphocytes infiltrating the brain and meninges, which were positive for B-cell-associated antigens and EBV-encoded <z:chebi fb="40" ids="33697">RNA</z:chebi>, and thus EBV-associated PTLD was diagnosed </plain></SENT>
+</text></document>

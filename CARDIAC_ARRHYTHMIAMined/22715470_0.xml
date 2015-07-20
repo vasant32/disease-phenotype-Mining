@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>RATIONALE: Slow nonuniform electric propagation in the border zone (BZ) of a healed myocardial <z:mpath ids='MPATH_124'>infarct</z:mpath> (MI) can give rise to reentrant <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>The extent to which this is influenced by structural rather than cellular electric remodeling is unclear </plain></SENT>
+<SENT sid="2" pm="."><plain>OBJECTIVE: To determine whether structural remodeling alone in the <z:mpath ids='MPATH_124'>infarct</z:mpath> BZ could provide a substrate for re-entry by (i) characterizing the 3-dimensional (3D) structure of the myocardium surrounding a healed MI at high spatial resolution and (ii) modeling electric activation on this structure </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS AND RESULTS: Anterior left ventricular (LV) <z:mpath ids='MPATH_124'>infarcts</z:mpath> were induced in 2 rats by coronary artery ligation </plain></SENT>
+<SENT sid="4" pm="."><plain>Three-dimensional BZ volume (4.1 mm(3) and 5.6 mm(3)) were imaged at 14 days using confocal microscopy </plain></SENT>
+<SENT sid="5" pm="."><plain>Viable myocytes were identified, and their connectivity and orientation were quantified </plain></SENT>
+<SENT sid="6" pm="."><plain>Preserved cell networks were observed in the subendocardium and subepicardium of the <z:mpath ids='MPATH_124'>infarct</z:mpath> </plain></SENT>
+<SENT sid="7" pm="."><plain>Myocyte tracts traversed the BZ, and there was heavy infiltration of collagen into the adjacent myocardium </plain></SENT>
+<SENT sid="8" pm="."><plain>Myocyte connectivity decreased by ≈65% over 250 μm across the BZ </plain></SENT>
+<SENT sid="9" pm="."><plain>This structure was incorporated into 3D network models on which activation was simulated using Luo-Rudy membrane dynamics assuming <z:mpath ids='MPATH_458'>normal</z:mpath> cellular electric properties </plain></SENT>
+<SENT sid="10" pm="."><plain>Repetitive stimulation was imposed at selected BZ sites </plain></SENT>
+<SENT sid="11" pm="."><plain>Stimulus site-specific unidirectional propagation occurred in the BZ with rate-dependent slowing and conduction block, and reentry was demonstrated in one substrate </plain></SENT>
+<SENT sid="12" pm="."><plain>Activation times were prolonged because of tract path length and local slowing </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSIONS: We have used a detailed image-based model of the <z:mpath ids='MPATH_124'>infarct</z:mpath> BZ to demonstrate that structural <z:hpo ids='HP_0001425'>heterogeneity</z:hpo> provides a dynamic substrate for electric reentry </plain></SENT>
+</text></document>

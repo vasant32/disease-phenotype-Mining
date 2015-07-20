@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: The A1C-Derived Average <z:chebi fb="105" ids="17234">Glucose</z:chebi> (ADAG) study demonstrated a linear relationship between HbA(1c) and mean plasma <z:chebi fb="105" ids="17234">glucose</z:chebi> (MPG) </plain></SENT>
+<SENT sid="1" pm="."><plain>As <z:chebi fb="105" ids="17234">glucose</z:chebi> variability (GV) may contribute to glycation, we examined the association of several <z:chebi fb="105" ids="17234">glucose</z:chebi> variability indices and the MPG-HbA(1c) relationship </plain></SENT>
+<SENT sid="2" pm="."><plain>RESEARCH DESIGN AND METHODS: Analyses included 268 patients with type 1 <z:mp ids='MP_0002055'>diabetes</z:mp> and 159 with type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="3" pm="."><plain>MPG during 3 months was calculated from 7-point self-monitored plasma <z:chebi fb="105" ids="17234">glucose</z:chebi> and continuous <z:chebi fb="105" ids="17234">glucose</z:chebi> monitoring </plain></SENT>
+<SENT sid="4" pm="."><plain>We calculated three different measures of GV and used a multiple-step regression model to determine the contribution of the respective GV measures to the MPG-HbA(1c) relationship </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: GV, as reflected by SD and continuous overlapping net glycemic action, had a significant effect on the MPG-HbA(1c) relationship in type 1 diabetic patients so that high GV led to a higher HbA(1c) level for the same MPG </plain></SENT>
+<SENT sid="6" pm="."><plain>In type 1 <z:mp ids='MP_0002055'>diabetes</z:mp>, the impact of confounding and effect modification of a low versus high SD at an MPG level of 160 mg/dL on the HbA(1c) level is 7.02 vs. 7.43 and 6.96 vs. 7.41 </plain></SENT>
+<SENT sid="7" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> GV measures showed the same tendency </plain></SENT>
+<SENT sid="8" pm="."><plain>CONCLUSIONS: In only type 1 diabetic patients, GV shows a significant interaction with MPG in the association with HbA(1c) </plain></SENT>
+<SENT sid="9" pm="."><plain>This effect is more pronounced at higher HbA(1c) levels </plain></SENT>
+<SENT sid="10" pm="."><plain>However, the impact of GV on the HbA(1c) level in type 1 <z:mp ids='MP_0002055'>diabetes</z:mp> is modest, particularly when HbA(1c) is close to the treatment target of 7% </plain></SENT>
+</text></document>

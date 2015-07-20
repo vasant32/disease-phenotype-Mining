@@ -1,0 +1,18 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We identified 68 patients with clonal T-large granular lymphocyte (T-LGL) proliferations who were seen at the Mayo Clinic between 1984 and 1992 </plain></SENT>
+<SENT sid="1" pm="."><plain>Nineteen (28%) were asymptomatic at diagnosis, while the rest experienced <z:mp ids='MP_0002899'>fatigue</z:mp> (60%), B-symptoms (12%), and <z:hpo ids='HP_0002719'>recurrent infections</z:hpo> (15%) </plain></SENT>
+<SENT sid="2" pm="."><plain>Associated comorbid conditions included <z:hpo ids='HP_0001370'>rheumatoid arthritis</z:hpo> (RA) in 26% </plain></SENT>
+<SENT sid="3" pm="."><plain>Severe <z:hpo ids='HP_0001903'>anemia</z:hpo> (<z:chebi fb="0" ids="35143">hemoglobin</z:chebi> [Hb] &lt; 8g/dL) and neutopenia (absolute neutrophil count [ANC] &lt; 500/microL) were seen in 19% and 40% of patients, respectively </plain></SENT>
+<SENT sid="4" pm="."><plain>Immunophenotypic studies showed CD3+, CD8+ phenotype in the majority (72%) </plain></SENT>
+<SENT sid="5" pm="."><plain>Twenty-one patients (31%) have required no therapy, and remain relatively stable with a median follow-up period of 50 months </plain></SENT>
+<SENT sid="6" pm="."><plain>Treatment was required at either diagnosis (36 patients) or at subsequent follow-up (11 patients) </plain></SENT>
+<SENT sid="7" pm="."><plain>Initial response rates were similar in patients treated with <z:chebi fb="0" ids="4027">cyclophosphamide</z:chebi> (<z:chebi fb="3" ids="3498">CTX</z:chebi>) with or without <z:chebi fb="0" ids="8382">prednisone</z:chebi> (69%), or <z:chebi fb="0" ids="8382">prednisone</z:chebi> alone (73%) </plain></SENT>
+<SENT sid="8" pm="."><plain>Overall, 61 patients (90%) are alive with a median follow-up of 44 months </plain></SENT>
+<SENT sid="9" pm="."><plain>Actuarial median survival of this entire cohort is 161 months </plain></SENT>
+<SENT sid="10" pm="."><plain>The presence of <z:hpo ids='HP_0001903'>anemia</z:hpo> or symptoms does not appear to correlate with the <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> burden </plain></SENT>
+<SENT sid="11" pm="."><plain>In patients requiring therapy, a lower ANC and the presence of B-symptoms/<z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infection</z:e> were independently associated with a significantly lower probability of achieving a molecular or hematologic complete remission (H-CR) </plain></SENT>
+<SENT sid="12" pm="."><plain>Intermittent immunosuppressive therapy is effective in achieving durable responses in a number of patients </plain></SENT>
+<SENT sid="13" pm="."><plain>T-LGL proliferations are associated with a favorable prognosis and response to therapy </plain></SENT>
+<SENT sid="14" pm="."><plain>However, significant <z:hpo ids='HP_0001425'>heterogeneity</z:hpo> exists in clinical presentation and associated comorbid conditions </plain></SENT>
+<SENT sid="15" pm="."><plain>These disorders should be included in the differential diagnosis of patients with unexplained cytopenias, particularly in the setting of RA and other <z:hpo ids='HP_0002960'>autoimmune disorders</z:hpo> </plain></SENT>
+<SENT sid="16" pm="."><plain>Analogous to the situation with <z:e sem="disease" ids="C1136085" disease_type="Neoplastic Process" abbrv="">monoclonal gammopathies</z:e>, a term such as T-cell clonopathy of undetermined significance (TCUS) may be more appropriate to describe these patients </plain></SENT>
+</text></document>

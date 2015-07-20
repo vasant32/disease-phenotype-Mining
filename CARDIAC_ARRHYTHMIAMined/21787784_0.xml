@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Complete <z:hpo ids='HP_0001678'>atrioventricular block</z:hpo> (CAVB) and related ventricular <z:hpo ids='HP_0001662'>bradycardia</z:hpo> are known to induce <z:hpo ids='HP_0001714'>ventricular hypertrophy</z:hpo> and <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Different animal models of CAVB have been established with the most common being the dog model </plain></SENT>
+<SENT sid="2" pm="."><plain>Related studies were mainly focused on the consequences on the main repolarizing currents in these species, i.e. IKr and IKs, with a limited time point kinetics post-AVB </plain></SENT>
+<SENT sid="3" pm="."><plain>In order to explore at a genomic scale the electrical remodeling induced by AVB and its chronology, we have developed a novel model of CAVB in the mouse using a radiofrequency-mediated ablation procedure </plain></SENT>
+<SENT sid="4" pm="."><plain>We investigated transcriptional changes in ion channels and contractile proteins in the left ventricles as a function of time (12h, 1, 2 and 5 days after CAVB), using high-throughput real-time RT-PCR </plain></SENT>
+<SENT sid="5" pm="."><plain>ECG in conscious and anesthetized mice, left ventricular pressure recordings and patch-clamp were used for characterization of this new mouse model </plain></SENT>
+<SENT sid="6" pm="."><plain>As expected, CAVB was associated with a lengthening of the QT interval </plain></SENT>
+<SENT sid="7" pm="."><plain>Moreover, polymorphic <z:hpo ids='HP_0004756'>ventricular tachycardia</z:hpo> was recorded in 6/9 freely-moving mice during the first 24h post-ablation </plain></SENT>
+<SENT sid="8" pm="."><plain>Remarkably, <z:mp ids='MP_0010633'>myocardial hypertrophy</z:mp> was only evident 48 h post-ablation and was associated with <z:mp ids='MP_0002833'>increased heart weight</z:mp> and altered expression of contractile proteins </plain></SENT>
+<SENT sid="9" pm="."><plain>During the first 24 hours post-CAVB, genes encoding ion channel subunits were either up-regulated (such as Nav1.5, +74%) or down-regulated (Kv4.2, -43%; KChIP2, -47%; Navβ1, -31%; Cx43, -29%) </plain></SENT>
+<SENT sid="10" pm="."><plain>Consistent with the transient alteration of Kv4.2 expression, I(to) was reduced at day 1, but restored at day 5 </plain></SENT>
+<SENT sid="11" pm="."><plain>In conclusion, CAVB induces two waves of molecular remodeling: an early one (≤24 h) leading to <z:hpo ids='HP_0011675'>arrhythmias</z:hpo>, a later one related to <z:mpath ids='MPATH_159'>hypertrophy</z:mpath> </plain></SENT>
+<SENT sid="12" pm="."><plain>These results provide new molecular basis for <z:hpo ids='HP_0004756'>ventricular tachycardia</z:hpo> induced by <z:mp ids='MP_0010519'>AV block</z:mp> </plain></SENT>
+</text></document>

@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The pediatric Non-Hodgkin's <z:hpo ids='HP_0002665'>lymphomas</z:hpo> are a <z:hpo ids='HP_0001425'>heterogeneous</z:hpo> group of <z:e sem="disease" ids="C0006826" disease_type="Neoplastic Process" abbrv="">malignancies</z:e> of B- or T-cell origin </plain></SENT>
+<SENT sid="1" pm="."><plain>Approximately half of them are characterized as Burkitt's <z:hpo ids='HP_0002665'>lymphomas</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>Typically, one of the reciprocal translocations t(8;14)(q24;q32), t(2;8)(p11;q24) or t(8;22)(q24;q11) is seen in the <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> cell, each involving the protooncogene c-myc on chromosome 8 </plain></SENT>
+<SENT sid="3" pm="."><plain>Characteristically, in most patients the translocation occurs between the distal end of the long arm on chromosome 8 (c-myc) and chromosome 14 (immunoglobulin heavy chain locus, IgH) </plain></SENT>
+<SENT sid="4" pm="."><plain>The breakpoint regions are distributed over a wide range of more than 10 Kb on chr </plain></SENT>
+<SENT sid="5" pm="."><plain>8 and over several hundred Kb on chr </plain></SENT>
+<SENT sid="6" pm="."><plain>14 </plain></SENT>
+<SENT sid="7" pm="."><plain>With standard-PCR, fragments can only be amplified to a size of about 2 Kb </plain></SENT>
+<SENT sid="8" pm="."><plain>The development of PCR-applications to generate long products up to 20 Kb now allows a detection of these breakpoints </plain></SENT>
+<SENT sid="9" pm="."><plain>Several primer pairs from different regions of the IgH-gene and the c-myc-gene were tested in each patient </plain></SENT>
+<SENT sid="10" pm="."><plain>Until now, 20 patients with Burkitt's <z:hpo ids='HP_0002665'>Lymphoma</z:hpo> or <z:e sem="disease" ids="C0023435" disease_type="Neoplastic Process" abbrv="">B-ALL</z:e> characterized by L3 <z:mp ids='MP_0000002'>morphology</z:mp> were examined </plain></SENT>
+<SENT sid="11" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> patients were treated according the protocols of the NHL-BFM '90 or '95 study </plain></SENT>
+<SENT sid="12" pm="."><plain>In 11/20 patients, recombinations between chromosomes 8 and 14 could be detected with our primer pairs </plain></SENT>
+<SENT sid="13" pm="."><plain>In serial dilutions of DNA from malignant cells in DNA from healthy controls, sensitivities of one malignant cell in 2 x 10(4) <z:mpath ids='MPATH_458'>normal</z:mpath> cells could be obtained </plain></SENT>
+<SENT sid="14" pm="."><plain>This method will now allow us to characterize the involved breakpoints more exactly and to analyze patient samples (blood, bone marrow, aphereses products and <z:e sem="disease" ids="C0543478" disease_type="Neoplastic Process" abbrv="">residual tumors</z:e>) during or after therapy for the existence of minimal <z:e sem="disease" ids="C0543478" disease_type="Neoplastic Process" abbrv="">residual tumor</z:e> cells </plain></SENT>
+</text></document>

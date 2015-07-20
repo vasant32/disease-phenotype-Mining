@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: This study aimed to identify pathways and cellular processes that are modulated by exposure of <z:mpath ids='MPATH_458'>normal</z:mpath> esophageal cells to bile and acid </plain></SENT>
+<SENT sid="1" pm="."><plain>BACKGROUND: <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> most likely develops as a response of esophageal stem cells to the abnormal reflux environment </plain></SENT>
+<SENT sid="2" pm="."><plain>Although insights into the underlying molecular mechanisms are slowly emerging, much of the metaplastic process remains unknown </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: We performed a global analysis of gene expression in <z:mpath ids='MPATH_458'>normal</z:mpath> squamous esophageal cells in response to bile or acid exposure </plain></SENT>
+<SENT sid="4" pm="."><plain>Differentially expressed genes were classified into major biological functions using pathway analysis and interaction network software </plain></SENT>
+<SENT sid="5" pm="."><plain>Array data were verified by quantitative PCR and western blot both in vitro and in human esophageal biopsies </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: Bile modulated expression of 202 genes, and acid modulated expression of 103 genes </plain></SENT>
+<SENT sid="7" pm="."><plain>Genes involved in squamous differentiation formed the largest functional group (n = 45) <z:hpo ids='HP_0000001'>all</z:hpo> of which were downregulated by bile exposure </plain></SENT>
+<SENT sid="8" pm="."><plain>This included genes such as involucrin (IVL), keratinocyte differentiation-associated protein (KRTDAP), grainyhead-like 1 (GRHL1), and desmoglein1 (DSG1) the downregulation of which was confirmed by quantitative PCR and western blot </plain></SENT>
+<SENT sid="9" pm="."><plain>Bile also caused expression changes in genes involved in cell <z:e sem="disease" ids="C0001511" disease_type="Disease or Syndrome;Acquired Abnormality" abbrv="">adhesion</z:e>, DNA repair, <z:mp ids='MP_0003674'>oxidative stress</z:mp>, cell cycle, Wnt signaling, and <z:chebi fb="23" ids="18059">lipid</z:chebi> metabolism </plain></SENT>
+<SENT sid="10" pm="."><plain>Analysis of human esophageal biopsies demonstrated greatly reduced expression of IVL, KRTDAP, DSG1, and GRHL1 in metaplastic compared to squamous epithelia </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: We report for the first time that bile inhibits the squamous differentiation program of esophageal epithelial cells </plain></SENT>
+<SENT sid="12" pm="."><plain>This, coordinated with induction of genes driving intestinal differentiation, may be required for the development of <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> </plain></SENT>
+</text></document>

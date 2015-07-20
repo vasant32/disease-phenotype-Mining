@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIMS: Information about numerical genomic alterations in the <z:mp ids='MP_0002006'>tumorigenesis</z:mp> of Barrett's <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> (BCA) is still limited </plain></SENT>
+<SENT sid="1" pm="."><plain>In order to search for gene amplification and ploidy status, a series of locus-specific DNA probes and associated centromere probes was analysed in the <z:mpath ids='MPATH_160'>metaplasia</z:mpath>-<z:mpath ids='MPATH_589'>dysplasia</z:mpath>-<z:mp ids='MP_0009308'>adenocarcinoma</z:mp>-sequence </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: Fluorescence in situ hybridisation (FISH) was performed on paraffin sections with locus-specific DNA probes for D7S486, c-myc, cyclin D1, Her-2/neu, 20q13.2 and associated chromosomes 7, 8, 11, 17 and 20 </plain></SENT>
+<SENT sid="3" pm="."><plain>Corresponding areas of <z:mpath ids='MPATH_167'>intestinal metaplasia</z:mpath> (IM, n = 5), low grade <z:mpath ids='MPATH_589'>dysplasia</z:mpath> (LGD, n = 9), high grade <z:mpath ids='MPATH_589'>dysplasia</z:mpath> (HGD, n = 15) and BCA (n = 16) were analysed </plain></SENT>
+<SENT sid="4" pm="."><plain>RESULTS: Gene amplification of c-myc, Cyclin D1, Her-2/neu and 20q13.2 was observed in 15-35% of BCA </plain></SENT>
+<SENT sid="5" pm="."><plain>Coincident amplification of genes was also present </plain></SENT>
+<SENT sid="6" pm="."><plain>Polysomies for <z:hpo ids='HP_0000001'>all</z:hpo> investigated centromere probes were highly prevalent (up to 85%) </plain></SENT>
+<SENT sid="7" pm="."><plain>Gene amplification was also demonstrated in HGD lesions </plain></SENT>
+<SENT sid="8" pm="."><plain>Polysomies were observed in HGD in high frequency (up to 80%) </plain></SENT>
+<SENT sid="9" pm="."><plain>Extensive <z:hpo ids='HP_0001425'>genetic heterogeneity</z:hpo> was observed in both, BCA and HGD displaying different levels of amplification </plain></SENT>
+<SENT sid="10" pm="."><plain>None of the samples with LGD showed a locus-specific amplification, but polysomies for <z:hpo ids='HP_0000001'>all</z:hpo> investigated chromosomes were present in 18-48% of LGD </plain></SENT>
+<SENT sid="11" pm="."><plain>No changes were detected in BCA associated IM and squamous epithelium </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: Our data indicate that oncogene amplification of c-myc, cyclin D1, Her-2/neu, and 20q13.2 occurring in BCA and less frequently in HGD is a late event in the <z:mp ids='MP_0002006'>tumorigenesis</z:mp> </plain></SENT>
+<SENT sid="13" pm="."><plain>Polysomies of chromosomes 7, 8, 11, 17 and 20, which were highly prevalent in BCA and HGD occur already at the stage of LGD </plain></SENT>
+<SENT sid="14" pm="."><plain>This may be a result of an early polyploidization, preceding the later genetic events, such as gene amplification in HGD and BCA </plain></SENT>
+<SENT sid="15" pm="."><plain>The detection of shared numerical genomic changes and the detected extensive <z:hpo ids='HP_0001425'>genetic heterogeneity</z:hpo> in the <z:mpath ids='MPATH_160'>metaplasia</z:mpath>-<z:mpath ids='MPATH_589'>dysplasia</z:mpath>-<z:mp ids='MP_0002038'>carcinoma</z:mp>-sequence in <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> supports the hypothesis of a process of multiclonal expansion underlying this progression </plain></SENT>
+</text></document>

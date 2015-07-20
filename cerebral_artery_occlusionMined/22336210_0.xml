@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: To examine the temporal and spatial expression of vascular endothelial growth factor (VEGF) and angiopoietins (Ang) in rat brain after <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo>, and to elucidate the roles they played in <z:mpath ids='MPATH_177'>angiogenesis</z:mpath> and vascular permeability </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: Rats were subjected to either middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (MCAO) or sham operation </plain></SENT>
+<SENT sid="2" pm="."><plain>Reverse transcriptase-polymerase chain reaction, Western blotting, and immunohistochemistry were used to detect the expression of VEGF, Ang-1 and Ang-2 at different time points after <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> </plain></SENT>
+<SENT sid="3" pm="."><plain>CD31 was used to label endothelial cells after MCAO </plain></SENT>
+<SENT sid="4" pm="."><plain>Vascular permeability was determined by Evans blue </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: VEGF was markedly increased at 2 h, had an initial peak at 12 h (0.7249 ± 0.1933, P &lt; 0.01), and a second peak at 7 days (0.5264 ± 0.1519, P &lt; 0.01) </plain></SENT>
+<SENT sid="6" pm="."><plain>Ang-2 mRNA and protein significantly increased after MCAO, both of them peaked at 12 h (0.6747 ± 0.2416, P &lt; 0.01; 1.1197 ± 0.1780, P &lt; 0.01) </plain></SENT>
+<SENT sid="7" pm="."><plain>In contrast, Ang-1 mRNA and protein gradually decreased after MCAO, respectively reaching a minimum at 3 d (0.3220 ± 0.1427, P &lt; 0.01) and 1 d (0.1298 ± 0.0293, P &lt; 0.01) </plain></SENT>
+<SENT sid="8" pm="."><plain>Changes in the expression of these factors correlated with the progress of <z:mpath ids='MPATH_177'>angiogenesis</z:mpath> and vascular permeability </plain></SENT>
+<SENT sid="9" pm="."><plain>Evans blue test revealed that the vascular permeability gradually increased, and peaked at day 1 after <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> [(6.219 ± 0.887) µg/g, P &lt; 0.01] </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSION: Dynamic temporal changes in VEGF, Ang-1 and Ang-2 expression stimulate the cerebral <z:mpath ids='MPATH_177'>angiogenesis</z:mpath> after focal <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> </plain></SENT>
+</text></document>

@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: The purpose of this study was to determine the relationships between plasma adiponectin and leptin levels, total and central <z:hpo ids='HP_0001513'>obesity</z:hpo>, and <z:chebi fb="105" ids="17234">glucose</z:chebi> utilization across the adult age span </plain></SENT>
+<SENT sid="1" pm="."><plain>RESEARCH DESIGN AND METHODS: We studied 148 women aged 18-81 years with a BMI range of 17.2-44.3 kg/m(2) </plain></SENT>
+<SENT sid="2" pm="."><plain>Total percent body fat was determined by dual-energy X-ray absorptiometry and abdominal fat by computed tomography </plain></SENT>
+<SENT sid="3" pm="."><plain><z:chebi fb="105" ids="17234">Glucose</z:chebi> tolerance in non-type 2 diabetic volunteers was determined with an oral <z:chebi fb="105" ids="17234">glucose</z:chebi> tolerance test </plain></SENT>
+<SENT sid="4" pm="."><plain><z:chebi fb="105" ids="17234">Glucose</z:chebi> utilization (M) was measured during the last 60 min of hyperinsulinemic-euglycemic clamps (240 pmol x m(-2) x min(-1)) </plain></SENT>
+<SENT sid="5" pm="."><plain>Plasma adiponectin levels were measured by radioimmunoassay </plain></SENT>
+<SENT sid="6" pm="."><plain>The women were separated into three age-groups: young, middle, and old (&lt;40, 40-59, and &gt;or=60 years, respectively), as well as by <z:chebi fb="105" ids="17234">glucose</z:chebi> tolerance status </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: Adiponectin concentrations did not differ by age-groups </plain></SENT>
+<SENT sid="8" pm="."><plain>There were significant age effects for BMI, percent body fat, visceral fat, subcutaneous abdominal fat, VO(2max), and M </plain></SENT>
+<SENT sid="9" pm="."><plain>Adiponectin levels were lower in the <z:e sem="disease" ids="C0362046" disease_type="Disease or Syndrome" abbrv="">prediabetic</z:e> women (n = 18) than in the <z:mpath ids='MPATH_458'>normal</z:mpath> <z:chebi fb="105" ids="17234">glucose</z:chebi>-tolerant women (n = 108) and the women with type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> (n = 22) (both P &lt; 0.05) </plain></SENT>
+<SENT sid="10" pm="."><plain>Univariate correlations revealed significant negative relationships between plasma adiponectin levels and BMI, percent body fat, visceral fat, subcutaneous abdominal fat, fasting leptin, and fasting insulin and positive relationship with M (<z:hpo ids='HP_0000001'>all</z:hpo> P &lt; 0.05) </plain></SENT>
+<SENT sid="11" pm="."><plain>In a multiple stepwise regression model to predict adiponectin, only M remained in the model at P &lt; 0.001 </plain></SENT>
+<SENT sid="12" pm="."><plain>Multivariate analyses revealed a significant relation for M as a function of adiponectin, insulin, and VO(2max) </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSIONS: The data suggest that plasma adiponectin does not change with age but levels are negatively associated with percent body fat, visceral fat, subcutaneous abdominal fat, insulin, and leptin levels in women </plain></SENT>
+<SENT sid="14" pm="."><plain>Adiponectin is positively associated with M across the age span in women </plain></SENT>
+</text></document>

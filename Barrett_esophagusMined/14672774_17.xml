@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Laparoscopic antireflux surgery (LARS) corrects significant physiologic and anatomic abnormalities in patients with <z:hpo ids='HP_0002020'>gastroesophageal reflux disease</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">GERD</z:e>); however, debate exists whether LARS prevents recurrent symptoms and <z:e sem="disease" ids="C1608408" disease_type="Neoplastic Process" abbrv="">malignant transformation</z:e> in patients with <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> (BE) </plain></SENT>
+<SENT sid="1" pm="."><plain>This study compared clinical outcomes after LARS in patients with and without BE </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: From 1994 to 2001, 448 patients who underwent LARS were studied </plain></SENT>
+<SENT sid="3" pm="."><plain>Of these, 68 (15%) had preoperative evidence of BE with low-grade <z:mpath ids='MPATH_589'>dysplasia</z:mpath> in 3 (4%), and 380 (85%) were without BE </plain></SENT>
+<SENT sid="4" pm="."><plain>Mean postoperative follow-up was more than 30 months in each group </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: After LARS, there was equivalent reduction in acid reduction medication use and typical <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">GERD</z:e> symptoms in both groups </plain></SENT>
+<SENT sid="6" pm="."><plain>Anatomic failures developed in 12% of patients with BE and in 5% of those without BE (P = 0.05) </plain></SENT>
+<SENT sid="7" pm="."><plain>Upper endoscopy with biopsies was obtained in 50 of 68 patients (74%) with BE at 37 +/- 22 months postoperatively </plain></SENT>
+<SENT sid="8" pm="."><plain><z:mpath ids='MPATH_167'>Intestinal metaplasia</z:mpath> was no longer present in 7 of 50 (14%) BE patients, and low-grade <z:mpath ids='MPATH_589'>dysplasia</z:mpath> regressed to nondysplastic Barrett's in 2 of 3 patients </plain></SENT>
+<SENT sid="9" pm="."><plain>New low-grade <z:mpath ids='MPATH_589'>dysplasia</z:mpath> developed in 1 BE patient (2%) at postoperative endoscopic surveillance </plain></SENT>
+<SENT sid="10" pm="."><plain>No BE patients developed high-grade <z:mpath ids='MPATH_589'>dysplasia</z:mpath> or <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: After LARS, patients with BE have symptomatic relief and reduction in medication use equivalent to non-BE patients </plain></SENT>
+<SENT sid="12" pm="."><plain>Regression of <z:mpath ids='MPATH_167'>intestinal metaplasia</z:mpath> and the absence of progression to high-grade <z:mpath ids='MPATH_589'>dysplasia</z:mpath> or <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> suggest that LARS is an effective approach for the management of patients with <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> </plain></SENT>
+<SENT sid="13" pm="."><plain>The higher failure rate of LARS in BE is of concern and mandates ongoing follow-up of these patients </plain></SENT>
+</text></document>

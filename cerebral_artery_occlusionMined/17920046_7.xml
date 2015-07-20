@@ -1,0 +1,6 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:mpath ids='MPATH_124'>Infarcts</z:mpath> expand over a period of several days after focal <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Inhibition of <z:mpath ids='MPATH_124'>infarct</z:mpath> expansion would be a promising strategy for the protection of the brain after ischemic insult </plain></SENT>
+<SENT sid="2" pm="."><plain>In this study, we examined the effect of <z:chebi fb="0" ids="35664">statin</z:chebi> treatment initiated 2 days after transient occlusion of the middle cerebral artery for 80 min </plain></SENT>
+<SENT sid="3" pm="."><plain>Treatment with continuous infusion of pravastatin with an osmotic minipump for 6 days resulted in a significantly smaller <z:mpath ids='MPATH_124'>infarct</z:mpath> volume and better recovery of motor function at 8 days after <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> compared to vehicle treatment </plain></SENT>
+<SENT sid="4" pm="."><plain>These results suggest that <z:chebi fb="0" ids="35664">statin</z:chebi> treatment during the postischemic period may be effective in <z:hpo ids='HP_0001297'>stroke</z:hpo> patients </plain></SENT>
+</text></document>

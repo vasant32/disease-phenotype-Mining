@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0001406'>Intrahepatic cholestasis</z:hpo> of pregnancy may be complicated by fetal <z:hpo ids='HP_0011675'>arrhythmia</z:hpo>, fetal <z:mp ids='MP_0005039'>hypoxia</z:mp>, <z:e sem="disease" ids="C0022876" disease_type="Disease or Syndrome" abbrv="">preterm labor</z:e>, and, in severe cases, intrauterine <z:hpo ids='HP_0011420'>death</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>The precise etiology of fetal <z:hpo ids='HP_0011420'>death</z:hpo> is not known </plain></SENT>
+<SENT sid="2" pm="."><plain>However, <z:chebi fb="0" ids="36257">taurocholate</z:chebi> has been demonstrated to cause <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> and abnormal calcium dynamics in cardiomyocytes </plain></SENT>
+<SENT sid="3" pm="."><plain>To identify the underlying reason for increased susceptibility of fetal cardiomyocytes to <z:hpo ids='HP_0011675'>arrhythmia</z:hpo>, we studied myofibroblasts (MFBs), which appear during structural remodeling of the adult diseased heart </plain></SENT>
+<SENT sid="4" pm="."><plain>In vitro, they depolarize rat cardiomyocytes via heterocellular gap junctional coupling </plain></SENT>
+<SENT sid="5" pm="."><plain>Recently, it has been hypothesized that ventricular MFBs might appear in the developing human heart, triggered by physiological fetal <z:mp ids='MP_0005039'>hypoxia</z:mp> </plain></SENT>
+<SENT sid="6" pm="."><plain>However, their presence in the fetal heart (FH) and their proarrhythmogenic effects have not been systematically characterized </plain></SENT>
+<SENT sid="7" pm="."><plain>Immunohistochemistry demonstrated that ventricular MFBs transiently appear in the human FH during gestation </plain></SENT>
+<SENT sid="8" pm="."><plain>We established two in vitro models of the maternal heart (MH) and FH, both exposed to increasing doses of <z:chebi fb="0" ids="36257">taurocholate</z:chebi> </plain></SENT>
+<SENT sid="9" pm="."><plain>The MH model consisted of confluent strands of rat cardiomyocytes, whereas for the FH model, we added cardiac MFBs on top of cardiomyocytes </plain></SENT>
+<SENT sid="10" pm="."><plain><z:chebi fb="0" ids="36257">Taurocholate</z:chebi> in the FH model, but not in the MH model, slowed conduction velocity from 19 to 9 cm/s, induced early after depolarizations, and resulted in sustained re-entrant <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> </plain></SENT>
+<SENT sid="11" pm="."><plain>These arrhythmic events were prevented by <z:chebi fb="1" ids="9907">ursodeoxycholic acid</z:chebi>, which hyperpolarized MFB membrane potential by modulating <z:chebi fb="120" ids="26216">potassium</z:chebi> conductance </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSION: These results illustrate that the appearance of MFBs in the FH may contribute to <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> </plain></SENT>
+<SENT sid="13" pm="."><plain>The above-described mechanism represents a new therapeutic approach for <z:hpo ids='HP_0011675'>cardiac arrhythmias</z:hpo> at the level of MFB </plain></SENT>
+</text></document>

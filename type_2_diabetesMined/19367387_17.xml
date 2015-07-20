@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIMS/HYPOTHESIS: Beta cell loss contributes to type 2 <z:mp ids='MP_0002055'>diabetes</z:mp>, with <z:mp ids='MP_0006042'>increased apoptosis</z:mp> representing an underlying mechanism </plain></SENT>
+<SENT sid="1" pm="."><plain>Autophagy, i.e. the physiological degradation of damaged organelles and proteins, may, if altered, be associated with a distinct form of cell <z:hpo ids='HP_0011420'>death</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>We studied several features of autophagy in beta cells from type 2 diabetic patients and assessed the role of metabolic perturbation and pharmacological intervention </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: Pancreatic samples were obtained from organ donors and isolated islets prepared both by collagenase digestion and density gradient centrifugation </plain></SENT>
+<SENT sid="4" pm="."><plain>Beta cell <z:mp ids='MP_0000002'>morphology</z:mp> and morphometry were studied by electron microscopy </plain></SENT>
+<SENT sid="5" pm="."><plain>Gene expression studies were performed by quantitative RT-PCR </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: Using electron microscopy, we observed more dead beta cells in diabetic (2.24 +/- 0.53%) than control (0.66 +/- 0.52%) samples (p &lt; 0.01) </plain></SENT>
+<SENT sid="7" pm="."><plain>Massive vacuole overload (suggesting altered autophagy) was associated with 1.18 +/- 0.54% dead beta cells in type 2 diabetic samples and with 0.36 +/- 0.26% in control samples (p &lt; 0.05) </plain></SENT>
+<SENT sid="8" pm="."><plain>Density volume of <z:hpo ids='HP_0003736'>autophagic vacuoles</z:hpo> and autophagosomes was significantly higher in diabetic beta cells </plain></SENT>
+<SENT sid="9" pm="."><plain>Unchanged gene expression of beclin-1 and ATG1 (also known as ULK1), and reduced transcription of LAMP2 and cathepsin B and D was observed in type 2 diabetic islets </plain></SENT>
+<SENT sid="10" pm="."><plain>Exposure of non-diabetic islets to increased NEFA concentration led to a marked increase of vacuole accumulation, together with enhanced beta cell <z:hpo ids='HP_0011420'>death</z:hpo>, which was associated with decreased LAMP2 expression </plain></SENT>
+<SENT sid="11" pm="."><plain><z:chebi fb="0" ids="6801">Metformin</z:chebi> ameliorated autophagy alterations in diabetic beta cells and beta cells exposed to NEFA, a process associated with normalisation of LAMP2 expression </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS/INTERPRETATION: Beta cells in human type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> have signs of altered autophagy, which may contribute to loss of beta cell mass </plain></SENT>
+<SENT sid="13" pm="."><plain>To preserve beta cell mass in diabetic patients, it may be necessary to target multiple cell-<z:hpo ids='HP_0011420'>death</z:hpo> pathways </plain></SENT>
+</text></document>

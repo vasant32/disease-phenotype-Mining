@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BMP4 rs4444235 is a candidate susceptibility allele that has been associated with an increased risk of <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>This study was conducted to examine the association between BMP4 rs4444235 polymorphism and <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> risk </plain></SENT>
+<SENT sid="2" pm="."><plain>Odds ratio (ORs) with 95% CIs was pooled as effect indicator </plain></SENT>
+<SENT sid="3" pm="."><plain>A comprehensive search of related publications was conducted and those which met the inclusion criteria were included </plain></SENT>
+<SENT sid="4" pm="."><plain>Test of <z:hpo ids='HP_0001425'>heterogeneity</z:hpo>, meta-regression, subgroup analysis, cumulative meta-analysis, assessment of publication bias, and sensitivity test were performed using Stata 11.0 </plain></SENT>
+<SENT sid="5" pm="."><plain>8 articles on rs4444235 including 19,893 cases and 22,106 controls were included </plain></SENT>
+<SENT sid="6" pm="."><plain>There was slight <z:hpo ids='HP_0001425'>heterogeneity</z:hpo> which may come from ethnicity and source of control </plain></SENT>
+<SENT sid="7" pm="."><plain>Pooled results for <z:hpo ids='HP_0000001'>all</z:hpo> five genetic models were statistically significant </plain></SENT>
+<SENT sid="8" pm="."><plain>ORs were 1.063 (95% CI = (1.034, 1.092)), 1.081 (95% CI = (1.028, 1.136)), and 1.166(95% CI = (1.081, 1.258)) for C versus T, TC versus TT, and CC versus TT comparisons respectively </plain></SENT>
+<SENT sid="9" pm="."><plain>In Caucasian population, carriers of C allele, CC genotype and TC genotype were at an increased risk of developing <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e>, with an OR of 1.079 (95% CI = (1.044, 1.114)), 1.095 (95% CI = (1.034, 1.159)), and 1.199 (95% CI = (1.117,1.287)) respectively </plain></SENT>
+<SENT sid="10" pm="."><plain>Cumulative meta-analysis indicated that pooled ORs were approximating 1.1 with publication year passing </plain></SENT>
+<SENT sid="11" pm="."><plain>No significant publication bias was suggested </plain></SENT>
+<SENT sid="12" pm="."><plain>Sensitivity test indicated stable results </plain></SENT>
+<SENT sid="13" pm="."><plain>In conclusion, BMP4-rs4444235 polymorphism is probably associated with <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e> risk, and C allele is a possible risk factor in overall population </plain></SENT>
+<SENT sid="14" pm="."><plain>The same conclusion was drawn in Caucasians, but no significant results were obtained in other ethnic populations probably due to limited sample sizes </plain></SENT>
+</text></document>

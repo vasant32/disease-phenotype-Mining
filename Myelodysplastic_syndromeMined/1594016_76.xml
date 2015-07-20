@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Few studies have evaluated the late effects of adjuvant chemotherapy for <z:hpo ids='HP_0003002'>breast cancer</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Moreover, the relation between the risk of <z:hpo ids='HP_0001909'>leukemia</z:hpo> and the amount of drug given and the interaction of chemotherapy with radiotherapy have not been described in detail </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: We conducted a case-control study in a cohort of 82,700 women given a diagnosis of <z:hpo ids='HP_0003002'>breast cancer</z:hpo> from 1973 to 1985 in five areas of the United States </plain></SENT>
+<SENT sid="3" pm="."><plain>Detailed information about therapy was obtained for 90 patients with <z:hpo ids='HP_0001909'>leukemia</z:hpo> and 264 matched controls </plain></SENT>
+<SENT sid="4" pm="."><plain>The dose of radiation to the active marrow was estimated from individual radiotherapy records (mean dose, 7.5 Gy) </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: The risk of <z:hpo ids='HP_0011009'>acute</z:hpo> nonlymphocytic <z:hpo ids='HP_0001909'>leukemia</z:hpo> was significantly increased after regional radiotherapy alone (relative risk, 2.4), <z:chebi fb="0" ids="22333">alkylating agents</z:chebi> alone (relative risk, 10.0), and combined radiation and drug therapy (relative risk, 17.4) </plain></SENT>
+<SENT sid="6" pm="."><plain>Dose-dependent risks were observed after radiotherapy and treatment with melphalan and <z:chebi fb="0" ids="4027">cyclophosphamide</z:chebi> </plain></SENT>
+<SENT sid="7" pm="."><plain>Melphalan was 10 times more leukemogenic than <z:chebi fb="0" ids="4027">cyclophosphamide</z:chebi> (relative risk, 31.4 vs. 3.1) </plain></SENT>
+<SENT sid="8" pm="."><plain>There was little increase in the risk associated with total <z:chebi fb="0" ids="4027">cyclophosphamide</z:chebi> doses of less than 20,000 mg </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSIONS: Although <z:hpo ids='HP_0001909'>leukemia</z:hpo> occurs in few patients with <z:hpo ids='HP_0003002'>breast cancer</z:hpo>, significantly elevated risks were linked to treatments with regional radiation and <z:chebi fb="0" ids="22333">alkylating agents</z:chebi> </plain></SENT>
+<SENT sid="10" pm="."><plain>Melphalan is a more potent leukemogen than <z:chebi fb="0" ids="4027">cyclophosphamide</z:chebi> or radiotherapy </plain></SENT>
+<SENT sid="11" pm="."><plain>Low risks were associated with the levels of <z:chebi fb="0" ids="4027">cyclophosphamide</z:chebi> in common use today </plain></SENT>
+<SENT sid="12" pm="."><plain>Systemic drug therapy combined with radiotherapy that delivers high doses to the marrow appears to enhance the risk of <z:hpo ids='HP_0001909'>leukemia</z:hpo> </plain></SENT>
+</text></document>

@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Severe <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> (SAA) is a disease with an autoimmune component </plain></SENT>
+<SENT sid="1" pm="."><plain>The susceptibility to the development of SAA is strongly associated with genes in the major histocompatibility complex (MHC) </plain></SENT>
+<SENT sid="2" pm="."><plain>The gene for <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> <z:mp ids='MP_0001651'>necrosis</z:mp> factor-alpha (TNF-alpha) is encoded in the MHC locus and TNF-alpha is involved in the pathogenesis of SAA </plain></SENT>
+<SENT sid="3" pm="."><plain>A TNF-alpha variant with a polymorphism at position -308 in its promoter region (-308A), which is designated TNF2, has been demonstrated to be linked to a number of <z:hpo ids='HP_0002960'>autoimmune diseases</z:hpo> </plain></SENT>
+<SENT sid="4" pm="."><plain>In this study, the TNF-alpha -308 promoter polymorphism and HLA-DRB1 alleles were analyzed in 75 SAA patients, 55 mild <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> patients (<z:chebi fb="8" ids="35738">MAA</z:chebi>), and 128 controls </plain></SENT>
+<SENT sid="5" pm="."><plain>In SAA the phenotype frequencies of TNF2, HLA-DR3, and -DR2 were significantly higher in comparison to controls </plain></SENT>
+<SENT sid="6" pm="."><plain>Stratification analysis confirmed that the TNF2 allele contributes to the susceptibility to SAA independently of HLA-DR3 or -DR2 </plain></SENT>
+<SENT sid="7" pm="."><plain>The results indicated that TNF2 might act as an independent risk factor for SAA </plain></SENT>
+</text></document>

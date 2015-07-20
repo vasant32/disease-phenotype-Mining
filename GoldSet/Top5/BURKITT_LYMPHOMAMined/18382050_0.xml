@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: To construct the genomic library of Raji cells and screen it by EBV DNA probe </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: High molecular weight genomic DNA of Raji cells was digested by restriction enzyme BamHI </plain></SENT>
+<SENT sid="2" pm="."><plain>DNA fragments ranging from 9 to 23 kb were recovered by <z:chebi fb="2" ids="2511">agarose</z:chebi> gel electrophoresis, which were ligated with Lambda DASH II vector BamHI arms pre-treated with calf intestine alkaline phosphatase (CIAP) </plain></SENT>
+<SENT sid="3" pm="."><plain>Ligated DNA was packed in vitro using Gigapack III gold packaging extract </plain></SENT>
+<SENT sid="4" pm="."><plain>The library was plated on XL1-blue MRA (P2) host strain.Titering and screening of the Raji genomic library were performed </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: The primary titer of the Raji genomic library was 1.8 x 10(5) pfu/mL, while that of the amplified library was 2.8 x 10(8) pfu/mL </plain></SENT>
+<SENT sid="6" pm="."><plain>Plaques (1 x 10(5)) were screened with (32)P-labeled EBV DNA probe(EBV genome 5-3271), 4 positive clones were obtained, and 1 of the 4 positive clones was picked out randomly for the second round of plaque screening </plain></SENT>
+<SENT sid="7" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> the phage plaques were positive </plain></SENT>
+<SENT sid="8" pm="."><plain>DNA of the positive clone was extracted and was digested with BamHI </plain></SENT>
+<SENT sid="9" pm="."><plain>The length of the inserted fragment was 8.5 kb </plain></SENT>
+<SENT sid="10" pm="."><plain>Sequencing and BLAST analysis revealed that the inserted fragments consisted of the BamHI-W fragment at one end and clone RP11-665A22 on chromosome 15 at the other end </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSION: The successfully established genomic library of Raji cells will provide a basis for cloning the sequences of the EBV junction sites and interpreting the mechanism of <z:e sem="disease" ids="C1326912" disease_type="Neoplastic Process" abbrv="">oncogenesis</z:e> of EBV integration </plain></SENT>
+</text></document>

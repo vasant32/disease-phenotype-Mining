@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>IL-12 is a 70-kDa heterodimer formed by the 40-kDa heavy chain (p40) and the 35-kDa light chain (p35) </plain></SENT>
+<SENT sid="1" pm="."><plain>Twenty-five Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cell lines (CL) and seven <z:mpath ids='MPATH_458'>normal</z:mpath> lymphoblastoid B CL were studied </plain></SENT>
+<SENT sid="2" pm="."><plain>The Burkitt's CL included <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">AIDS</z:e>-associated B CL (AABCL) (7 EBV+/2 EBV-) and non-AABCL (8 EBV+/8 EBV-) </plain></SENT>
+<SENT sid="3" pm="."><plain>Reverse transcription-PCR detected p40 in EBV+ AABCL (7 of 7), EBV+ non-AABCL (3 of 8), and <z:mpath ids='MPATH_458'>normal</z:mpath> lymphoblastoid B CL (6 of 6) but not in EBV- CL (0 of 10) </plain></SENT>
+<SENT sid="4" pm="."><plain>p35 <z:chebi fb="2" ids="33699">mRNA</z:chebi> was detected in 30 of 30 CL </plain></SENT>
+<SENT sid="5" pm="."><plain>Constitutive secretion of p40 was found in 7 of 7 EBV+ AABCL (range, 341-18,086 pg/ml) and p70 in 3 of 7 EBV+ AABCL (range, 25-197 pg/ml), but in only 1 of 8 EBV+ non-AABCL and 0 of 7 <z:mpath ids='MPATH_458'>normal</z:mpath> lymphoblastoid CL </plain></SENT>
+<SENT sid="6" pm="."><plain><z:chebi fb="1" ids="53780">PMA</z:chebi> stimulated p40 secretion in 7 of 7 EBV+ AABCL and p70 secretion in 5 of 7 EBV+ AABCL </plain></SENT>
+<SENT sid="7" pm="."><plain><z:chebi fb="1" ids="53780">PMA</z:chebi> also triggered p40 and p70 secretion in 2 EBV+ non-AABCL and in 3 of 7 <z:mpath ids='MPATH_458'>normal</z:mpath> lymphoblastoid CL </plain></SENT>
+<SENT sid="8" pm="."><plain>No IL-12 secretion was detected in 10 EBV- CL, including EBV- AABCL </plain></SENT>
+<SENT sid="9" pm="."><plain>The CL produced IL-10, a known inhibitor of IL-12, but anti-IL-10 Abs did not neutralize IL-12 </plain></SENT>
+<SENT sid="10" pm="."><plain>Similarly, neutralizing anti-IFN gamma Abs or IFN gamma did not affect B cell IL-12 </plain></SENT>
+<SENT sid="11" pm="."><plain>For IL-12R studies, reverse transcription-PCR and 125I-IL-12 binding assays were performed </plain></SENT>
+<SENT sid="12" pm="."><plain>Although <z:hpo ids='HP_0000001'>all</z:hpo> CL tested showed <z:chebi fb="2" ids="33699">mRNA</z:chebi> accumulation for one of the IL-12R components, IL-12 binding sites were detected in only 1 of 30 CL </plain></SENT>
+<SENT sid="13" pm="."><plain>Our data suggest that: 1) AABCL constitutively secrete large amounts of IL-12, contrasting with low IL-12 production by HIV-1 infected PBMC; 2) lack of IL-12 expression in EBV- AABCL suggests that in vivo exposure of B cells to HIV-1 only does not induce IL-12 secretion and that both HIV-1 and EBV are required; 3) the autocrine-negative effect of IL-10 on IL-12 in monocytes and the enhancing effect of IFN gamma on IL-12 secretion do not apply to B cells derived from <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">AIDS</z:e> patients </plain></SENT>
+</text></document>

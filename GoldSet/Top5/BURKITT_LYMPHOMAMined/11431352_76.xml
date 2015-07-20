@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Development of the chimeric mouse antihuman CD20 antibody, Rituximab, presented a notable advance in the treatment of patients with non-Hodgkin's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (NHL) </plain></SENT>
+<SENT sid="1" pm="."><plain>Its use allowed the specific targeting of <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> B cells without the systemic toxicity of traditional therapies </plain></SENT>
+<SENT sid="2" pm="."><plain>The mechanisms by which Rituximab induces its antitumor activity are not fully understood </plain></SENT>
+<SENT sid="3" pm="."><plain>We have shown previously that Rituximab down-regulates Bcl-2 expression in some B-NHL cell <z:hpo ids='HP_0002665'>lymphoma</z:hpo> lines through an interleukin 10 (IL-10)-dependent autocrine loop, an effect that renders the resistant cells susceptible to chemotherapeutic drugs </plain></SENT>
+<SENT sid="4" pm="."><plain>The objective of this study was to delineate the signaling pathway by which Bcl-2 is controlled by Rituximab and IL-10 </plain></SENT>
+<SENT sid="5" pm="."><plain>We hypothesized that the down-regulation of IL-10 by Rituximab decreases activation of the signal transducer and activator of transcription 3 (STAT3) protein, which in turn, is responsible for decreased levels of Bcl-2 </plain></SENT>
+<SENT sid="6" pm="."><plain>We demonstrate by phosphoprotein immunoblotting and gel shift analyses that endogenous IL-10 induces activation of STAT3 in the 2F7 cell line </plain></SENT>
+<SENT sid="7" pm="."><plain>Furthermore, we show that Rituximab and anti-IL-10 antibody treatment decreases the ability of STAT3 to bind to its DNA binding site </plain></SENT>
+<SENT sid="8" pm="."><plain>The decrease in STAT3 activation by these treatments correlates with a decrease in Bcl-2 expression </plain></SENT>
+<SENT sid="9" pm="."><plain>Additionally, <z:chebi fb="0" ids="28814">piceatannol</z:chebi>, an inhibitor of STAT3 activation, down-regulates the expression of Bcl-2 </plain></SENT>
+<SENT sid="10" pm="."><plain>Altogether, these results demonstrate that Bcl-2 expression is under the regulation of the STAT3 signaling pathway, which is regulated by endogenously secreted IL-10 </plain></SENT>
+<SENT sid="11" pm="."><plain>Hence, Rituximab-induced down-regulation of IL-10 expression is responsible for the down-regulation of Bcl-2 and sensitization of NHL cells by therapeutic drugs </plain></SENT>
+<SENT sid="12" pm="."><plain>Furthermore, these findings support the notion that circulating IL-10 in vivo may control the resistance of NHL to drug-mediated cytotoxicity </plain></SENT>
+</text></document>

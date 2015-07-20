@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND &amp; AIMS: We previously established long-term culture conditions under which single crypts or stem cells derived from mouse small intestine expand over long periods </plain></SENT>
+<SENT sid="1" pm="."><plain>The expanding crypts undergo multiple crypt fission events, simultaneously generating villus-like epithelial domains that contain <z:hpo ids='HP_0000001'>all</z:hpo> differentiated types of cells </plain></SENT>
+<SENT sid="2" pm="."><plain>We have adapted the culture conditions to grow similar epithelial organoids from mouse colon and human small intestine and colon </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: Based on the mouse small intestinal culture system, we optimized the mouse and human colon culture systems </plain></SENT>
+<SENT sid="4" pm="."><plain>RESULTS: Addition of Wnt3A to the combination of growth factors applied to mouse colon crypts allowed them to expand indefinitely </plain></SENT>
+<SENT sid="5" pm="."><plain>Addition of <z:chebi fb="0" ids="17154">nicotinamide</z:chebi>, along with a small molecule inhibitor of Alk and an inhibitor of p38, were required for long-term culture of human small intestine and colon tissues </plain></SENT>
+<SENT sid="6" pm="."><plain>The culture system also allowed growth of mouse Apc-deficient <z:mpath ids='MPATH_270'>adenomas</z:mpath>, human <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> cells, and human metaplastic epithelia from regions of <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> </plain></SENT>
+<SENT sid="7" pm="."><plain>CONCLUSIONS: We developed a technology that can be used to study infected, inflammatory, or neoplastic tissues from the human gastrointestinal tract </plain></SENT>
+<SENT sid="8" pm="."><plain>These tools might have applications in regenerative biology through ex vivo expansion of the intestinal epithelia </plain></SENT>
+<SENT sid="9" pm="."><plain>Studies of these cultures indicate that there is no inherent restriction in the replicative potential of adult stem cells (or a Hayflick limit) ex vivo </plain></SENT>
+</text></document>

@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0001903'>Anemia</z:hpo> is a common complication of patients with <z:hpo ids='HP_0006775'>multiple myeloma</z:hpo> (MM) and <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e>) </plain></SENT>
+<SENT sid="1" pm="."><plain>Most of these patients often require blood transfusion </plain></SENT>
+<SENT sid="2" pm="."><plain>12 patients, including 7 cases of MM and 5 cases of <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e>, were treated with rhEPO 10,000 micrograms three times a week for 15 weeks </plain></SENT>
+<SENT sid="3" pm="."><plain>The <z:chebi fb="0" ids="35143">hemoglobin</z:chebi> in 6 of 7 cases of MM steadily increased and eventually reached <z:mpath ids='MPATH_458'>normal</z:mpath> level without blood transfusion </plain></SENT>
+<SENT sid="4" pm="."><plain>The number of erythroid precursors in bone marrow was increased significantly and serum ferritin concentration was decreased gradually during EPO administration </plain></SENT>
+<SENT sid="5" pm="."><plain>However 5 patients with <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> did not show any response to EPO </plain></SENT>
+<SENT sid="6" pm="."><plain>The adverse side effects were hardly observed in any patients received EPO treatment </plain></SENT>
+<SENT sid="7" pm="."><plain>It is suggested that rhEPO is a promising preparation for treating MM-associated <z:hpo ids='HP_0001903'>anemia</z:hpo> rather than <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e>-associated <z:hpo ids='HP_0001903'>anemia</z:hpo> </plain></SENT>
+</text></document>

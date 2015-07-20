@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVES: The interpretation of endoscopic findings by gastroenterologists is still a difficult and highly subjective task </plain></SENT>
+<SENT sid="1" pm="."><plain>Despite important developments such as chromo-endoscopy, pit pattern analysis, fluorescence imaging as well as narrow band imaging it still requires lots of experience and training with a certain tentativeness until the final biopsy </plain></SENT>
+<SENT sid="2" pm="."><plain>By the development of computer-assisted diagnosis (CAD) systems this process can be supported </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: This paper presents a new approach to CAD for <z:e sem="disease" ids="C0940937" disease_type="Neoplastic Process" abbrv="">precancerous lesions</z:e> in the esophagus based on color-texture analysis in a content-based image retrieval (CBIR) framework </plain></SENT>
+<SENT sid="4" pm="."><plain>The novelty of our approach lies in the combination of newly developed color-texture features with the interactive feedback loop provided by a relevance feedback algorithm </plain></SENT>
+<SENT sid="5" pm="."><plain>This allows the expert to steer the query and is still robust against accidental false decisions </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: We reached an inter-rater reliability of kappa = 0.71 on a database of 390 endoscopic images </plain></SENT>
+<SENT sid="7" pm="."><plain>The retrieval accuracy didn't change significantly until a wrong decision rate of 20% </plain></SENT>
+<SENT sid="8" pm="."><plain>CONCLUSIONS: Thus, the system could be able to support practitioners with less experience or in private practice </plain></SENT>
+<SENT sid="9" pm="."><plain>In combination with a connected case database it can also support case-based reasoning for the diagnostic decision process </plain></SENT>
+</text></document>

@@ -1,0 +1,18 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Early intervention after <z:hpo ids='HP_0011009'>acute</z:hpo> <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> is essential to minimize brain cell injury </plain></SENT>
+<SENT sid="1" pm="."><plain>Although reperfusion of the ischemic brain is the treatment of choice for <z:hpo ids='HP_0011009'>acute</z:hpo> <z:hpo ids='HP_0001297'>stroke</z:hpo>, reperfusion itself may cause additional injury </plain></SENT>
+<SENT sid="2" pm="."><plain>The inflammatory cascade, characterized in part by early leukocyte interaction with endothelium, may contribute to this additional injury to blood vessels and surrounding brain tissue, extending the area of infarction </plain></SENT>
+<SENT sid="3" pm="."><plain>The selectin family of <z:e sem="disease" ids="C0001511" disease_type="Disease or Syndrome;Acquired Abnormality" abbrv="">adhesion</z:e> molecules mediates the initial, rolling and tethering of leukocytes to endothelium </plain></SENT>
+<SENT sid="4" pm="."><plain>P-selectin is rapidly expressed on ischemic endothelium in the brain vasculature, and L-selectin is expressed on leukocytes </plain></SENT>
+<SENT sid="5" pm="."><plain>Blocking the selectin-mediated tethering step may limit the inflammatory component of reperfusion injury in the brain </plain></SENT>
+<SENT sid="6" pm="."><plain>Fucoidin (FCN), a competitive inhibitor of P- and L-selectin, has been reported to decrease leukocyte accumulation during reperfusion of other organs </plain></SENT>
+<SENT sid="7" pm="."><plain>The effect of both leukocyte and endothelial selectin inhibition after <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> and reperfusion has not been previously examined </plain></SENT>
+<SENT sid="8" pm="."><plain>The purpose of this study was to determine the effects of selectin <z:e sem="disease" ids="C0001511" disease_type="Disease or Syndrome;Acquired Abnormality" abbrv="">adhesion</z:e> molecule blockade on <z:e sem="disease" ids="C0007785" disease_type="Disease or Syndrome" abbrv="">cerebral infarction</z:e> size and neurological function after middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> and reperfusion (MCAO-R) in the rat </plain></SENT>
+<SENT sid="9" pm="."><plain>MCAO was induced using the filament method </plain></SENT>
+<SENT sid="10" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> animals were subjected to 4 h of MCAO and 24 h of reperfusion </plain></SENT>
+<SENT sid="11" pm="."><plain>After 24 h, brains were analyzed for size of infarction </plain></SENT>
+<SENT sid="12" pm="."><plain>Neurological function was assessed during <z:hpo ids='HP_0001297'>stroke</z:hpo> and 24 h after reperfusion </plain></SENT>
+<SENT sid="13" pm="."><plain>Two groups were studied, an untreated control group (n = 9) and a group treated with the selectin inhibitor, fucoidin (25 mg kg(-1)) (n = 9) </plain></SENT>
+<SENT sid="14" pm="."><plain>We found that selectin blockade significantly <z:mp ids='MP_0006058'>reduced cerebral infarction size</z:mp> by 50% (p &lt; 0.05) and improved neurological function (p &lt; 0.05) </plain></SENT>
+<SENT sid="15" pm="."><plain>In addition, a trend toward decreased <z:hpo ids='HP_0002181'>cerebral edema</z:hpo> was demonstrated with selectin inhibition </plain></SENT>
+<SENT sid="16" pm="."><plain>These results indicate that treatment of the blood and the endothelium with a selectin <z:chebi fb="1" ids="35472">anti-inflammatory agent</z:chebi> is protective after focal <z:hpo ids='HP_0001297'>stroke</z:hpo> and reperfusion in the rat </plain></SENT>
+</text></document>

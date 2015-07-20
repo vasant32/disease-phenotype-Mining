@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Alterations in the fecal <z:mp ids='MP_0001794'>bacterial</z:mp> flora occur in <z:e sem="disease" ids="C0021390" disease_type="Disease or Syndrome" abbrv="">inflammatory bowel disease</z:e> (IBD) </plain></SENT>
+<SENT sid="1" pm="."><plain>We examined the abundance and diversity of Clostridium leptum group, an important group of carbohydrate-fermenting bacteria, in the feces of patients with IBD and compared them with healthy controls </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: Seventeen healthy controls (HC), 20 patients with <z:hpo ids='HP_0100280'>Crohn's disease</z:hpo> (CD) and 22 patients with <z:hpo ids='HP_0100279'>ulcerative colitis</z:hpo> (UC) participated in the study </plain></SENT>
+<SENT sid="3" pm="."><plain>DNA extracted from fecal samples was amplified by PCR targeting <z:chebi fb="4" ids="26833">16S</z:chebi> rRNA gene sequences specific to C. leptum group </plain></SENT>
+<SENT sid="4" pm="."><plain>The PCR product was subjected to temporal temperature gradient electrophoresis (TTGE) and the number and position of individual bands were noted and diversity was estimated </plain></SENT>
+<SENT sid="5" pm="."><plain>The identity of bands at different positions was confirmed by cloning and sequencing </plain></SENT>
+<SENT sid="6" pm="."><plain>Real time quantitative PCR with Mesa Green, targeted at specific <z:chebi fb="4" ids="26833">16S</z:chebi> rRNA gene sequences, was used to quantitate C. leptum group and its most prominent constituent, Faecalibacterium prausnitzii </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: Twenty five different operational taxonomic units (OTUs, equivalent to species) were identified constituting the C. leptum group in these participants </plain></SENT>
+<SENT sid="8" pm="."><plain>Their sequences were deposited in GenBank [accession numbers GQ465348 to GQ465370] </plain></SENT>
+<SENT sid="9" pm="."><plain>OTU number was significantly reduced in CD (7.7 ± 3.7, mean ± SD) and UC (9.0 ± 3.0) compared to HC (11.9 ± 2.2) (P=0.0005) </plain></SENT>
+<SENT sid="10" pm="."><plain>The Simpson D index of alpha diversity was not significantly different between the three groups </plain></SENT>
+<SENT sid="11" pm="."><plain>Total numbers of C. leptum group bacteria and F. prausnitzii were reduced in both CD and UC compared to HC (P=0.0036 and P&lt;0.0001 respectively) </plain></SENT>
+<SENT sid="12" pm="."><plain>Disease activity did not influence numbers of C. leptum or F. prausnitzii in patients with CD or UC </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSION: C. leptum numbers and diversity were significantly reduced in both CD and UC suggesting that alterations noted were not specific to one disease </plain></SENT>
+<SENT sid="14" pm="."><plain>This could contribute to reduced <z:chebi fb="0" ids="26666">short chain fatty acid</z:chebi> production in IBD </plain></SENT>
+</text></document>

@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A patient with <z:hpo ids='HP_0004430'>severe combined immunodeficiency</z:hpo> received seven transplants of bone marrow from an HLA-B-compatible and HLA-D-compatible unrelated donor in an attempt to provide immunologic reconstitution </plain></SENT>
+<SENT sid="1" pm="."><plain>The first four transplants achieved restricted engraftment with evidence of rudimentary immunologic function </plain></SENT>
+<SENT sid="2" pm="."><plain>A fifth transplant, given after low-dose <z:chebi fb="0" ids="4027">cyclophosphamide</z:chebi>, produced reconstituion of cell-mediated immunity </plain></SENT>
+<SENT sid="3" pm="."><plain>Marrow <z:mpath ids='MPATH_58'>aplasia</z:mpath> developed after recontamination with a nonpathogenic microflora </plain></SENT>
+<SENT sid="4" pm="."><plain>Transplantation of marrow previously stored in liquid nitrogen was ineffective </plain></SENT>
+<SENT sid="5" pm="."><plain>A subsequent transplant, administered after high-dose <z:chebi fb="0" ids="4027">cyclophosphamide</z:chebi>, achieved durable engraftment, with complete hematopoietic and immunologic reconstitution </plain></SENT>
+<SENT sid="6" pm="."><plain>Seventeen months after transplantation, full functional engraftment persists </plain></SENT>
+<SENT sid="7" pm="."><plain><z:e sem="disease" ids="C0018133" disease_type="Disease or Syndrome" abbrv="GVH">Graft-versus-host disease</z:e> has been <z:hpo ids='HP_0011010'>chronic</z:hpo> and moderately severe, but limited to the skin and oral mucosa </plain></SENT>
+<SENT sid="8" pm="."><plain>Transplantation of marrow from unrelated histocompatible donors may provide a useful treatment for patients with <z:hpo ids='HP_0004430'>severe combined immunodeficiency</z:hpo> or <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> who lack a matched sibling or related donor </plain></SENT>
+</text></document>

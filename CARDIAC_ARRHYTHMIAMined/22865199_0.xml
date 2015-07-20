@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PURPOSE: Regional cardiac sympathetic denervation (RCSD) associated with reduced <z:chebi fb="15" ids="33569">noradrenaline</z:chebi> transporter (NAT) function has been linked to <z:hpo ids='HP_0011675'>cardiac arrhythmia</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>This study examined the association of LMI1195, an (18)F-labeled NAT substrate developed for <z:chebi fb="4" ids="30225">positron</z:chebi> emission tomography (PET) imaging, with NAT in vitro, and its imaging to detect RCSD and guide antiarrhythmic drug treatment in vivo </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: LMI1195 association with NAT was assessed in comparison with other substrates, <z:chebi fb="15" ids="33569">noradrenaline</z:chebi> (NA) and (123)I-metaiodobenzylguanidine (MIBG), in NAT-expressing cells </plain></SENT>
+<SENT sid="3" pm="."><plain>LMI1195 cardiac imaging was performed for evaluation of RCSD in a rabbit model surgically developed by regional <z:chebi fb="43" ids="15882">phenol</z:chebi> application on the left ventricular (LV) wall </plain></SENT>
+<SENT sid="4" pm="."><plain>The <z:mpath ids='MPATH_458'>normal</z:mpath> LV areas in images were quantified as regions with radioactivity ≥50 % maximum </plain></SENT>
+<SENT sid="5" pm="."><plain>Potential impact of RCSD on <z:chebi fb="0" ids="4681">dofetilide</z:chebi>, an antiarrhythmic drug, induced ECG changes was assessed </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: NAT blockade with <z:chebi fb="0" ids="47781">desipramine</z:chebi> reduced LMI1195 cell uptake by 90 ± 3 %, similar to NA and MIBG </plain></SENT>
+<SENT sid="7" pm="."><plain>NA, MIBG, or self inhibited LMI1195 cell uptake concentration-dependently with comparable IC(50) values (1.09, 0.21, and 0.90 μM) </plain></SENT>
+<SENT sid="8" pm="."><plain>LMI1195 cardiac imaging differentiated innervated and denervated areas in RCSD rabbits </plain></SENT>
+<SENT sid="9" pm="."><plain>The surgery resulted in a large denervated LV area at 2 weeks which was partially recovered at 12 weeks </plain></SENT>
+<SENT sid="10" pm="."><plain>Myocardial perfusion imaging with flurpiridaz F 18 showed <z:mpath ids='MPATH_458'>normal</z:mpath> perfusion in RCSD areas </plain></SENT>
+<SENT sid="11" pm="."><plain><z:chebi fb="0" ids="4681">Dofetilide</z:chebi> induced more prominent QTc prolongation in RCSD than control animals </plain></SENT>
+<SENT sid="12" pm="."><plain>However, changes in heart rate were comparable </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSION: LMI1195 exhibits high association with NAT and can be used for imaging RCSD </plain></SENT>
+<SENT sid="14" pm="."><plain>The detected RCSD increases cardiac risks to the antiarrhythmic drug, <z:chebi fb="0" ids="4681">dofetilide</z:chebi>, by inducing more QTc prolongation </plain></SENT>
+</text></document>

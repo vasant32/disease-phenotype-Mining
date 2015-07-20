@@ -1,0 +1,6 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A woman presented with broad complex <z:hpo ids='HP_0001649'>tachycardia</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>She was converted to sinus rhythm with intravenous <z:chebi fb="0" ids="2663">amiodarone</z:chebi> and continued on oral <z:chebi fb="0" ids="2663">amiodarone</z:chebi> </plain></SENT>
+<SENT sid="2" pm="."><plain>The <z:chebi fb="0" ids="2663">amiodarone</z:chebi> was stopped 3 weeks later as she was pregnant </plain></SENT>
+<SENT sid="3" pm="."><plain>Electrocardiogram (ECG) then revealed coved-type ST elevation in C1, suggestive of <z:e sem="disease" ids="C1142166" disease_type="Disease or Syndrome" abbrv="SUNDS">Brugada syndrome</z:e>, and widespread inferior ST elevation </plain></SENT>
+<SENT sid="4" pm="."><plain>Electrocardiogram several months later showed resolution of inferior ST elevation </plain></SENT>
+</text></document>

@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Adipose tissue dysfunction underpins the association of <z:hpo ids='HP_0001513'>obesity</z:hpo> with type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="1" pm="."><plain>Adipogenesis is required for the maintenance of adipose tissue function </plain></SENT>
+<SENT sid="2" pm="."><plain>It involves the commitment and subsequent differentiation of preadipocytes and is coordinated by autocrine, paracrine, and <z:chebi fb="32" ids="24621">endocrine</z:chebi> factors </plain></SENT>
+<SENT sid="3" pm="."><plain>We previously reported that fibroblast growth factor-1 (FGF-1) primes primary human preadipocytes and <z:e sem="disease" ids="C0796154" disease_type="Disease or Syndrome" abbrv="SDYS">Simpson Golabi Behmel syndrome</z:e> (SGBS) preadipocytes and increases adipogenesis through a cascade involving extracellular signal-related kinase 1/2 (ERK1/2) </plain></SENT>
+<SENT sid="4" pm="."><plain>Here, we aimed to use the FGF-1 system to identify novel adipogenic regulators </plain></SENT>
+<SENT sid="5" pm="."><plain>Expression profiling revealed bone morphogenetic protein (BMP) and activin membrane-bound inhibitor (BAMBI) as a putative FGF-1 effector </plain></SENT>
+<SENT sid="6" pm="."><plain>BAMBI is a transmembrane protein and modulator of paracrine factors that regulate adipogenesis, including transforming growth factor (TGF) superfamily members (TGF-β and BMP) and Wnt </plain></SENT>
+<SENT sid="7" pm="."><plain>Functional investigations established BAMBI as a negative regulator of adipogenesis and modulator of the anti- and proadipogenic effects of Wnt3a, TGF-β1, and BMP-4 </plain></SENT>
+<SENT sid="8" pm="."><plain>Further studies showed that BAMBI expression levels are decreased in a mouse model of diet-induced <z:hpo ids='HP_0001513'>obesity</z:hpo> </plain></SENT>
+<SENT sid="9" pm="."><plain>Collectively, these findings establish BAMBI as a novel, negative regulator of adipogenesis that can act as a nexus to integrate multiple paracrine signals to coordinate adipogenesis </plain></SENT>
+<SENT sid="10" pm="."><plain>Alterations in BAMBI may play a role in the (patho)<z:mp ids='MP_0001532'>physiology</z:mp> of <z:hpo ids='HP_0001513'>obesity</z:hpo>, and manipulation of BAMBI may present a novel therapeutic approach to improve adipose tissue function </plain></SENT>
+</text></document>

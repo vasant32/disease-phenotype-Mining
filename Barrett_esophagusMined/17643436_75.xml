@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> (BE) with high-grade <z:mpath ids='MPATH_589'>dysplasia</z:mpath> (HGD) is a risk factor for development of <z:hpo ids='HP_0011459'>esophageal carcinoma</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Photodynamic therapy (<z:chebi fb="7" ids="53228">PDT</z:chebi>) with Photofrin (PHO) has been used to eliminate HGD in BE </plain></SENT>
+<SENT sid="2" pm="."><plain>OBJECTIVE: Our purpose was to compare PHOPDT plus <z:chebi fb="14" ids="7772">omeprazole</z:chebi> with <z:chebi fb="14" ids="7772">omeprazole</z:chebi> only (OM) </plain></SENT>
+<SENT sid="3" pm="."><plain>DESIGN: Five-year follow-up of a randomized, multicenter, multinational, pathology-blinded HGD trial </plain></SENT>
+<SENT sid="4" pm="."><plain>SETTING: 30 sites in 4 countries </plain></SENT>
+<SENT sid="5" pm="."><plain>PATIENTS: 208 </plain></SENT>
+<SENT sid="6" pm="."><plain>INTERVENTIONS: Patients with BE and HGD were randomized (2:1) to PHOPDT (n=138) or OM (n=70) into a 2-year trial followed up for 3 more years </plain></SENT>
+<SENT sid="7" pm="."><plain>PHOPDT patients received 2 mg/kg PHO intravenously followed by endoscopic laser light exposure of Barrett's mucosa at a wavelength of 630 nm within 40 to 50 hours to a maximum of 3 courses at least 90 days apart </plain></SENT>
+<SENT sid="8" pm="."><plain>Both groups received 20 mg of OM twice daily </plain></SENT>
+<SENT sid="9" pm="."><plain>Pathologists at one center assessed biopsy specimens in a blinded fashion </plain></SENT>
+<SENT sid="10" pm="."><plain>MAIN OUTCOME MEASUREMENT: HGD ablation status over 5 years of follow-up </plain></SENT>
+<SENT sid="11" pm="."><plain>RESULTS: At 5 years PHOPDT was significantly more effective than OM in eliminating HGD (77% [106/138] vs 39% [27/70], P&lt;.0001) </plain></SENT>
+<SENT sid="12" pm="."><plain>A secondary outcome measure preventing progression to <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> showed a significant difference (P=.027) with about half the likelihood of <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> occurring in PHOPDT (21/138 [15%]) compared with OM (20/70 [29%]), with a significantly (P=.004) longer time to progression to <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> favoring PHOPDT </plain></SENT>
+<SENT sid="13" pm="."><plain>LIMITATIONS: Not <z:hpo ids='HP_0000001'>all</z:hpo> patients were available for follow-up </plain></SENT>
+<SENT sid="14" pm="."><plain>CONCLUSIONS: This 5-year randomized trial of BE patients with HGD demonstrates that PHOPDT is a clinically and statistically effective therapy in producing long-term ablation of HGD and reducing the potential impact of <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> compared with OM </plain></SENT>
+</text></document>

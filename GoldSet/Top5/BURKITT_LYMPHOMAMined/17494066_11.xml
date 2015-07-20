@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The Epstein-Barr virus (EBV)-encoded leader protein, EBNA-LP, strongly activates the EBNA2-mediated transcriptional activation of cellular and <z:mp ids='MP_0001799'>viral</z:mp> genes and is therefore important for EBV-induced B-cell transformation </plain></SENT>
+<SENT sid="1" pm="."><plain>However, a truncated form of EBNA-LP is produced in cells infected with variant EBV strains lacking EBNA2 due to a genetic deletion </plain></SENT>
+<SENT sid="2" pm="."><plain>The function of this truncated form is unknown </plain></SENT>
+<SENT sid="3" pm="."><plain>We show here that some Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cells harboring defective EBV strains are specifically resistant to the caspase-dependent <z:mpath ids='MPATH_3'>apoptosis</z:mpath> induced by verotoxin 1 (VT-1) or <z:chebi fb="0" ids="15738">staurosporine</z:chebi> </plain></SENT>
+<SENT sid="4" pm="."><plain>These cells produced low-molecular-weight Y1Y2-truncated isoforms of EBNA-LP, which were partly localized in the cytoplasm </plain></SENT>
+<SENT sid="5" pm="."><plain>The transfection of sensitive cells with constructs encoding truncated EBNA-LP isoforms, but not full-length EBNA-LP, induced resistance to caspase-mediated <z:mpath ids='MPATH_3'>apoptosis</z:mpath> </plain></SENT>
+<SENT sid="6" pm="."><plain>Furthermore, VT-1 induced protein phosphatase 2A (PP2A) activation in sensitive cells but not in resistant cells, in which the truncated EBNA-LP interacted with this protein </plain></SENT>
+<SENT sid="7" pm="."><plain>Thus, the resistance to <z:mpath ids='MPATH_3'>apoptosis</z:mpath> observed in cells harboring defective EBV strains most probably results from the inactivation of PP2A via interactions with low-molecular-weight Y1Y2-truncated EBNA-LP isoforms </plain></SENT>
+</text></document>

@@ -1,0 +1,18 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: Currently, 3 antiphospholipid assays are widely used clinically [<z:e sem="disease" ids="C0024138,C0024141,C0024131,C0409974" disease_type="Disease or Syndrome" abbrv="">lupus</z:e> <z:chebi fb="3" ids="50249">anticoagulant</z:chebi> (LAC), anticardiolipin (aCL), and anti-ß-<z:chebi fb="2" ids="17089">glycoprotein</z:chebi> I (anti-ß-GPI)] </plain></SENT>
+<SENT sid="1" pm="."><plain>LAC is the most specific assay, conferring the highest risk of <z:mp ids='MP_0005048'>thrombosis</z:mp> and pregnancy loss, but it cannot be validly performed in an anticoagulated patient </plain></SENT>
+<SENT sid="2" pm="."><plain>We investigated the usefulness of antiphosphatidylserine/prothrombin (anti-PS/PT) and its association with <z:mp ids='MP_0005048'>thrombosis</z:mp> </plain></SENT>
+<SENT sid="3" pm="."><plain>Anti-PS/PT is strongly associated with the presence of LAC </plain></SENT>
+<SENT sid="4" pm="."><plain>We also studied the association of IgA antiphospholipid isotypes and specific domains of ß-GPI with <z:mp ids='MP_0005048'>thrombosis</z:mp> in <z:hpo ids='HP_0002725'>systemic lupus erythematosus</z:hpo> (SLE) </plain></SENT>
+<SENT sid="5" pm="."><plain>METHODS: Stored samples from patients with SLE, with and without past <z:mp ids='MP_0005048'>thrombosis</z:mp>, were assayed for antibodies to the whole ß-GPI protein (IgG/IgM/IgA), to ß-GPI domain 1 (IgG), to ß-GPI domain 4/5 (IgA), aCL (IgG/IgM/IgA), and anti-PS/PT (IgG, IgM, and IgG/M) </plain></SENT>
+<SENT sid="6" pm="."><plain>LAC was detected using the dilute Russell's viper venom time (dRVVT) with confirmatory testing </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: Anti-PS/PT IgG and IgG/M and anti-ß-GPI IgG, IgM, and IgA were highly associated with a history of LAC by dRVVT (p &lt; 0.0001) </plain></SENT>
+<SENT sid="8" pm="."><plain>For <z:hpo ids='HP_0000001'>all</z:hpo> <z:mp ids='MP_0005048'>thrombosis</z:mp>, of the traditional ELISA assays, anti-ß-GPI IgA, IgG, and aCL IgA were most associated </plain></SENT>
+<SENT sid="9" pm="."><plain>Anti-PS/PT IgG and IgG/M had a similar magnitude of association to the traditional ELISA </plain></SENT>
+<SENT sid="10" pm="."><plain>For <z:hpo ids='HP_0004936'>venous thrombosis</z:hpo>, of the traditional ELISA, anti-ß-GPI (IgG and IgA), anti-PS/PT (IgG and IgG/M), and aCL IgA were associated </plain></SENT>
+<SENT sid="11" pm="."><plain>Again, anti-PS/PT (IgG and IgG/M) had the same magnitude of association as the traditional ELISA </plain></SENT>
+<SENT sid="12" pm="."><plain>For <z:hpo ids='HP_0001297'>stroke</z:hpo>, significant association was seen with anti-ß-GPI IgA D4/5 </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSION: In anticoagulated patients, where LAC testing is not valid, anti-PS/PT, either IgG or IgG/IgM, might serve as useful alternative tests to predict a higher risk of <z:mp ids='MP_0005048'>thrombosis</z:mp> </plain></SENT>
+<SENT sid="14" pm="."><plain>Anti-PS/PT antibodies were associated with <z:hpo ids='HP_0000001'>all</z:hpo> <z:mp ids='MP_0005048'>thrombosis</z:mp> and with <z:hpo ids='HP_0004936'>venous thrombosis</z:hpo> </plain></SENT>
+<SENT sid="15" pm="."><plain>IgA isotypes in <z:e sem="disease" ids="C0409983" disease_type="Disease or Syndrome" abbrv="">secondary antiphospholipid syndrome</z:e> are associated with <z:mp ids='MP_0005048'>thrombosis</z:mp> </plain></SENT>
+<SENT sid="16" pm="."><plain>Anti-ß-<z:chebi fb="2" ids="17089">glycoprotein</z:chebi> domain 1 was not shown to be associated with <z:mp ids='MP_0005048'>thrombosis</z:mp> in SLE </plain></SENT>
+</text></document>

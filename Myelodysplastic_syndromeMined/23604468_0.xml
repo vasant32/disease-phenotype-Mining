@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Higher-risk <z:hpo ids='HP_0002863'>myelodysplastic syndromes</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e>) are aggressive disorders with <z:hpo ids='HP_0003678'>rapid progression</z:hpo> to <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">AML</z:e> and short survival </plain></SENT>
+<SENT sid="1" pm="."><plain><z:chebi fb="0" ids="2038">Azacitidine</z:chebi> has shown unprecedented survival advantage in these patients but its treatment schedule involves daily hospital administrations for 7 days every 4 weeks </plain></SENT>
+<SENT sid="2" pm="."><plain>Due to patient and staffing constraints, we have treated 50 patients with a 5-day dose-intensified (500 mg/m(2) total monthly dose divided in 5 days) <z:chebi fb="0" ids="2038">azacitidine</z:chebi> schedule in our center </plain></SENT>
+<SENT sid="3" pm="."><plain>The regimen was well tolerated, with Grade 3/4 adverse events seen in 24 % patients and only two discontinuations due to toxicity </plain></SENT>
+<SENT sid="4" pm="."><plain>The response rate was similar to that reported with the 7-day schedule: 16 % complete remissions, 32 % partial remissions, and 62 % transfusion independence </plain></SENT>
+<SENT sid="5" pm="."><plain>The median survival was 19.2 months from diagnosis </plain></SENT>
+<SENT sid="6" pm="."><plain>In addition, this regimen reduced hospital visits by 28 % and drug use by 30 % </plain></SENT>
+<SENT sid="7" pm="."><plain>Our results demonstrate the safety and efficacy of a dose-intensified 5-day regimen </plain></SENT>
+</text></document>

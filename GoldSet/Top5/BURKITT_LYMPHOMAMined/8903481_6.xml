@@ -1,0 +1,20 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The highly specific cytotoxic action of ribosome-inactivating protein (RIP) containing immunotoxins (ITs) makes IT therapy a promising approach to eliminating residual malignant cells </plain></SENT>
+<SENT sid="1" pm="."><plain>We investigated the cytotoxicity of the IT CD22-recombinant ricin A to the B-cell line Ramos in vitro and in vivo </plain></SENT>
+<SENT sid="2" pm="."><plain>Cytotoxicity of CD22-recombinant ricin A in vitro was very high as expressed by the very low 50% inhibition dose (ID50) of 3.5 x 10(-11) M </plain></SENT>
+<SENT sid="3" pm="."><plain>Cytotoxicity was increased 7 times in the presence of the cytotoxicity enhancer <z:chebi fb="0" ids="31206">NH4Cl</z:chebi> </plain></SENT>
+<SENT sid="4" pm="."><plain>The ultimate kill of Ramos cells by CD22-recombinant ricin A was high (2.7-log kill) and was increased strongly in the presence of <z:chebi fb="0" ids="31206">NH4Cl</z:chebi> (4.2-log kill) </plain></SENT>
+<SENT sid="5" pm="."><plain>Anti-<z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> activity in vivo was investigated by i.v. treatment of solid s.c </plain></SENT>
+<SENT sid="6" pm="."><plain>Ramos xenografts in <z:mp ids='MP_0003815'>nude</z:mp> BALB/c mice </plain></SENT>
+<SENT sid="7" pm="."><plain>A single dose did not inhibit <z:e sem="disease" ids="C0598934" disease_type="Neoplastic Process" abbrv="">tumor growth</z:e> </plain></SENT>
+<SENT sid="8" pm="."><plain>Treatment on 5 consecutive days resulted in evident <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> reduction </plain></SENT>
+<SENT sid="9" pm="."><plain>In one mouse, <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> could no longer be detected on the 6th day after starting treatment </plain></SENT>
+<SENT sid="10" pm="."><plain>However, after 8 days <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> volumes increased again </plain></SENT>
+<SENT sid="11" pm="."><plain>Antitumor activity was more pronounced in a disseminated <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> model in <z:mp ids='MP_0002536'>SCID</z:mp> mice </plain></SENT>
+<SENT sid="12" pm="."><plain>IT treatment (i.v.) 7 days after i.v. inoculation with Ramos cells resulted in cure of <z:hpo ids='HP_0000001'>all</z:hpo> mice </plain></SENT>
+<SENT sid="13" pm="."><plain>Non-specific toxicity was low </plain></SENT>
+<SENT sid="14" pm="."><plain>Alanine aminotransferase (ALAT) levels in serum were elevated temporarily </plain></SENT>
+<SENT sid="15" pm="."><plain>Serum values of <z:chebi fb="0" ids="24190">gamma-glutamyl</z:chebi> transferase (gamma-GT), <z:chebi fb="0" ids="16990">bilirubin</z:chebi> and creatinin did not change </plain></SENT>
+<SENT sid="16" pm="."><plain>Body weight was also transiently reduced </plain></SENT>
+<SENT sid="17" pm="."><plain>The LD50 in <z:mp ids='MP_0002536'>SCID</z:mp> mice after i.v. administration was high (0.626 mg IT per mouse) </plain></SENT>
+<SENT sid="18" pm="."><plain>The clearance rate in <z:mp ids='MP_0002536'>SCID</z:mp> mice, as determined by ELISA, was biphasic </plain></SENT>
+</text></document>

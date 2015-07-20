@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PURPOSE: Rituximab is an anti-CD20 monoclonal antibody, and it is used to treat B-cell <z:hpo ids='HP_0002665'>lymphomas</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Antibody-dependent cellular cytotoxicity (ADCC) is considered one of the mechanisms through which rituximab exerts its effects </plain></SENT>
+<SENT sid="2" pm="."><plain>Granulocyte colony-stimulating factor (G-CSF) enhances the cytotoxicity of neutrophils through ADCC, and it can be speculated that a combination of rituximab and G-CSF may augment the treatment efficacy of rituximab </plain></SENT>
+<SENT sid="3" pm="."><plain>EXPERIMENTAL DESIGN: We administered rituximab with CHOP (<z:chebi fb="0" ids="4027">cyclophosphamide</z:chebi>, <z:chebi fb="0" ids="28748">doxorubicin</z:chebi>, <z:chebi fb="0" ids="28445">vincristine</z:chebi>, <z:chebi fb="0" ids="8382">prednisone</z:chebi>) treatment with G-CSF to 15 patients with follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo>, and we investigated the safety and efficacy of this regimen </plain></SENT>
+<SENT sid="4" pm="."><plain>We investigated ADCC activity in neutrophils and the expression of cell surface antigens including Fcgamma receptor type I [FcgammaRI (CD64)] on neutrophils to determine the optimal dose of G-CSF </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: Adverse reactions occurred in 14 of 15 patients and consisted mainly of grade 3/4 hematological toxicity </plain></SENT>
+<SENT sid="6" pm="."><plain>The response rate was 100%, with complete remission in 12 patients (80%) and partial remission in 3 patients (20%) </plain></SENT>
+<SENT sid="7" pm="."><plain>At 14 months, the median length of the observation period, 2 of 12 patients had relapsed </plain></SENT>
+<SENT sid="8" pm="."><plain>G-CSF administration increased both FcgammaRI expression and ADCC activity </plain></SENT>
+<SENT sid="9" pm="."><plain>There were no significant differences in the levels of FcgammaRI expression or ADCC activity between the 2 microg/kg G-CSF and 5 microg/kg G-CSF groups, indicating that the optimal dose of G-CSF was 2 microg/kg </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSIONS: We conclude that the combination of rituximab-CHOP and G-CSF is well tolerated </plain></SENT>
+<SENT sid="11" pm="."><plain>We plan to carry out a randomized trial to compare efficacy between rituximab-CHOP treatment and treatment with a combination of rituximab-CHOP and G-CSF </plain></SENT>
+</text></document>

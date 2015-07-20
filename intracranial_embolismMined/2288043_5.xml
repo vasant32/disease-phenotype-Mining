@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Experiments were performed to assess the combined therapeutic effects of hyperbaric oxygen (HBO) and i.v. <z:chebi fb="0" ids="6456">lidocaine</z:chebi> on neural function after <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> induced by cerebral <z:mpath ids='MPATH_111'>air embolism</z:mpath> in anesthetized cats </plain></SENT>
+<SENT sid="1" pm="."><plain>Neural function was determined by measuring the somatosensory evoked potential (SEP) amplitude </plain></SENT>
+<SENT sid="2" pm="."><plain>Air was infused into the carotid artery in increments of 0.08 ml to maintain the SEP amplitude at 10% or less of baseline values for 15 min </plain></SENT>
+<SENT sid="3" pm="."><plain>Three groups were studied </plain></SENT>
+<SENT sid="4" pm="."><plain>A control group (n = 9) received no further treatment after SEP suppression </plain></SENT>
+<SENT sid="5" pm="."><plain>An HBO group (n = 8) was treated with oxygen at 2.8 atm abs for 130 min </plain></SENT>
+<SENT sid="6" pm="."><plain>A third group (n = 8) received an i.v. <z:chebi fb="0" ids="6456">lidocaine</z:chebi> infusion in addition to HBO </plain></SENT>
+<SENT sid="7" pm="."><plain>Air infusion suppressed the SEP amplitude to the same level in <z:hpo ids='HP_0000001'>all</z:hpo> groups </plain></SENT>
+<SENT sid="8" pm="."><plain>The control group recovered 27.4 +/- 5.5% (mean +/- <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">SEM</z:e>) of the baseline SEP amplitude, whereas the HBO group recovered 62.0% +/- 7.2%, and the HBO plus <z:chebi fb="0" ids="6456">lidocaine</z:chebi> group recovered 75.3 +/- 5.7% </plain></SENT>
+<SENT sid="9" pm="."><plain>The results show that both HBO and the combination of HBO and <z:chebi fb="0" ids="6456">lidocaine</z:chebi> promote a significant recovery of the SEP amplitude compared to no treatment </plain></SENT>
+<SENT sid="10" pm="."><plain>However, <z:chebi fb="0" ids="6456">lidocaine</z:chebi> therapy adds no benefit to HBO therapy alone </plain></SENT>
+</text></document>

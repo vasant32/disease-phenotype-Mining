@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Immunosuppressive therapy has been used for successful treatment of severe <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo>, but little information is available on outcome in older patients </plain></SENT>
+<SENT sid="1" pm="."><plain>OBJECTIVE: To evaluate outcome in patients older than 50 years of age who received immunosuppressive therapy for <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>DESIGN: Retrospective cohort study </plain></SENT>
+<SENT sid="3" pm="."><plain>SETTING: 56 centers of the European Group for Blood and Marrow Transplantation (EBMT) </plain></SENT>
+<SENT sid="4" pm="."><plain>PATIENTS: 810 patients with <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> reported between 1974 and 1997 </plain></SENT>
+<SENT sid="5" pm="."><plain>Patients were evaluated according to age group: 60 years of age or older (n = 127), 50 to 59 years of age (n = 115), and 20 to 49 years of age (n = 568; reference group) </plain></SENT>
+<SENT sid="6" pm="."><plain>INTERVENTION: Antilymphocyte globulin, <z:chebi fb="0" ids="4031">cyclosporine</z:chebi>, or both </plain></SENT>
+<SENT sid="7" pm="."><plain>MEASUREMENTS: Survival, cause of <z:hpo ids='HP_0011420'>death</z:hpo>, response to treatment, relapse rate, and risk for late complications were analyzed in <z:hpo ids='HP_0000001'>all</z:hpo> patients and by age group </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: The 5-year survival rate was 57% (95% CI, 46% to 66%) in patients 50 to 59 years of age and 50% (CI, 39% to 60%) in patients 60 years of age or older compared with 72% (CI, 68% to 76%) in patients younger than 50 years of age (P &lt; 0.001) </plain></SENT>
+<SENT sid="9" pm="."><plain>Response to therapy, relapse rate, and risk for clonal complications were similar in <z:hpo ids='HP_0000001'>all</z:hpo> three age groups (P &gt; 0.2) </plain></SENT>
+<SENT sid="10" pm="."><plain>Age was significantly associated with an increased risk for <z:hpo ids='HP_0011420'>death</z:hpo> (relative risk compared with patients 20 to 49 years of age, 1.80 [CI, 1.29 to 2.52] for patients 50 to 59 years of age and 2.57 [CI, 1.87 to 3.53] for patients &gt; or = 60 years of age), mainly because of <z:mp ids='MP_0001914'>bleeding</z:mp> or <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infection</z:e> (P = 0.02) </plain></SENT>
+<SENT sid="11" pm="."><plain>Response to immunosuppressive therapy in <z:hpo ids='HP_0000001'>all</z:hpo> patients at 12 months was 62% (CI, 58% to 66%); no difference was seen among the age groups in multivariate analysis (P &gt; 0.2) </plain></SENT>
+<SENT sid="12" pm="."><plain>Sixty-six of the 379 responding patients (17%) subsequently had relapse </plain></SENT>
+<SENT sid="13" pm="."><plain>The risk for clonal disorders at 10 years was 20% (CI, 15% to 27%) </plain></SENT>
+<SENT sid="14" pm="."><plain>CONCLUSIONS: Response to immunosuppression in <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> is independent of age, but treatment is associated with increased mortality in older patients </plain></SENT>
+</text></document>

@@ -1,0 +1,7 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The MDM2 gene is a gene whose product binds to p53 and regulates its function </plain></SENT>
+<SENT sid="1" pm="."><plain>Amplification of MDM2 has been found in human <z:hpo ids='HP_0100242'>sarcomas</z:hpo>, where it leads to inactivation of p53 </plain></SENT>
+<SENT sid="2" pm="."><plain>In 64 cases of generally advanced <z:hpo ids='HP_0002863'>myelodysplastic syndromes</z:hpo>, we found no amplification or rearrangement of MDM2 gene by Southern analysis </plain></SENT>
+<SENT sid="3" pm="."><plain>MDM2 <z:chebi fb="40" ids="33697">RNA</z:chebi> was also <z:mpath ids='MPATH_458'>normal</z:mpath> in the 15 cases where Northern analysis was made </plain></SENT>
+<SENT sid="4" pm="."><plain>Thus, amplification of MDM2 is not seen or must be very rare in <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e>) </plain></SENT>
+<SENT sid="5" pm="."><plain>Because P53 gene mutations are not frequent in <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e>, inactivation of p53 seems to be, overall, a rare pathogenetic event in <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> </plain></SENT>
+</text></document>

@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIM: To determine the efficacy of flow cytometry (FC) in the assessment of bone marrow (BM) in B-cell non-Hodgkin <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (B-NHL) </plain></SENT>
+<SENT sid="1" pm="."><plain>FC is a common practice, but is far from being validated </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS AND RESULTS: Morphological analysis and FC immunophenotyping were performed on 421 samples </plain></SENT>
+<SENT sid="3" pm="."><plain>T-cell <z:hpo ids='HP_0002665'>lymphomas</z:hpo>, <z:e sem="disease" ids="C0019829" disease_type="Neoplastic Process" abbrv="hd">Hodgkin's disease</z:e>, <z:hpo ids='HP_0011010'>chronic</z:hpo> lymphocytic <z:mpath ids='MPATH_336'>leukaemia</z:mpath> and hairy cell <z:mpath ids='MPATH_336'>leukaemia</z:mpath> were not included in the study </plain></SENT>
+<SENT sid="4" pm="."><plain>Clonality was assessed by the standard kappa/lambda/CD19 test </plain></SENT>
+<SENT sid="5" pm="."><plain>Aberrant immunophenotypes present in the B-cell subpopulation were also investigated </plain></SENT>
+<SENT sid="6" pm="."><plain>A double-step procedure was employed in <z:hpo ids='HP_0000001'>all</z:hpo> cases to increase the sensitivity of the FC procedure </plain></SENT>
+<SENT sid="7" pm="."><plain>Of 380 evaluable samples, 188 corresponded to follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (FL), 58 to diffuse large B-cell <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">DLBCL</z:e>), 57 to mantle cell <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MCL</z:e>), seven to Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> and the remaining 70 samples to other low-grade <z:hpo ids='HP_0002665'>lymphomas</z:hpo> </plain></SENT>
+<SENT sid="8" pm="."><plain>Morphological marrow infiltration was found in 148 cases, and flow immunophenotyping identified 138 cases with BM involvement </plain></SENT>
+<SENT sid="9" pm="."><plain>A concordance between the two methods was detected in 298 cases (79%) </plain></SENT>
+<SENT sid="10" pm="."><plain>There was a discordance in 82 cases (21%): <z:mp ids='MP_0000002'>morphology</z:mp> positive/FC negative in 46 cases and <z:mp ids='MP_0000002'>morphology</z:mp> negative/FC positive in 36 (61% of <z:hpo ids='HP_0000001'>all</z:hpo> cases with discordance were from FL) </plain></SENT>
+<SENT sid="11" pm="."><plain>There was no difference in outcome when patients with discordances were compared with patients without discordances </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: Most samples showed concordance between morphological and FC results </plain></SENT>
+<SENT sid="13" pm="."><plain>FC identified BM involvement in the absence of morphological infiltration </plain></SENT>
+<SENT sid="14" pm="."><plain><z:mp ids='MP_0000002'>Morphology</z:mp>/FC discordance seems to have no influence on the outcome of FL patients </plain></SENT>
+</text></document>

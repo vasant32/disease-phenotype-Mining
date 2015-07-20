@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0002863'>Myelodysplastic syndrome</z:hpo> is a clonal process characterized by ineffective hematopoiesis and progression to <z:hpo ids='HP_0002488'>acute leukemia</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Although many <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo> and leukemic patients have compromised immunity, the role of underlying mutations in regulating immune function is poorly understood </plain></SENT>
+<SENT sid="2" pm="."><plain>Recent studies show that NUP98-HOXD13 (NHD13) fusion gene results in <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo> and impairs lymphocyte differentiation in transgenic mice </plain></SENT>
+<SENT sid="3" pm="."><plain>In our studies, we sought to elucidate the mechanism by which NHD13 affects B-lymphocyte development and function </plain></SENT>
+<SENT sid="4" pm="."><plain>Based on our preliminary findings that transgenic mice had <z:hpo ids='HP_0003496'>increased levels of IgM</z:hpo> and reduced IgG1 and IgE, we hypothesized that the fusion gene might impair class switch recombination (CSR) </plain></SENT>
+<SENT sid="5" pm="."><plain>Mice were immunologically challenged with <z:chebi fb="0" ids="39352">dinitrophenol</z:chebi> </plain></SENT>
+<SENT sid="6" pm="."><plain>NHD13 mice showed a marked reduction in B-lymphocyte differentiation in their bone marrow and spleen following <z:chebi fb="0" ids="39352">dinitrophenol</z:chebi> stimulation and had reduced production of <z:chebi fb="0" ids="39352">dinitrophenol</z:chebi>-specific antibodies </plain></SENT>
+<SENT sid="7" pm="."><plain>Spleen follicles from these mice were small and hypocellular, indicating failure of clonal expansion </plain></SENT>
+<SENT sid="8" pm="."><plain>When isolated NHD13 B lymphocytes were stimulated in vitro using Escherichia coli <z:chebi fb="0" ids="16412">lipopolysaccharide</z:chebi> or <z:chebi fb="0" ids="16412">lipopolysaccharide</z:chebi> + interleukin-4, they failed to undergo sufficient CSR and proliferation </plain></SENT>
+<SENT sid="9" pm="."><plain>Taken together, our findings show that expression of NUP98-HOXD13 impairs CSR and reduces the antibody-mediated immune response, in addition to its role in <z:hpo ids='HP_0001909'>leukemia</z:hpo> </plain></SENT>
+<SENT sid="10" pm="."><plain>Further delineation of the NUP98-HOXD13 transgene may reveal novel pathways involved in CSR </plain></SENT>
+</text></document>

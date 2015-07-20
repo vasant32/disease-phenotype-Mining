@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>In type-2 <z:mp ids='MP_0002055'>diabetes</z:mp>, hyperglucagonaemia aggravates elevated blood <z:chebi fb="105" ids="17234">glucose</z:chebi> levels </plain></SENT>
+<SENT sid="1" pm="."><plain>Relative to our knowledge of the β-cell and insulin secretion, there remains a limited understanding of glucagon secretion in α-cells </plain></SENT>
+<SENT sid="2" pm="."><plain>Regulation of glucagon may be dependent on a combination of factors, which include direct <z:chebi fb="105" ids="17234">glucose</z:chebi> sensing by the α-cell, innervations from the autonomic <z:mp ids='MP_0008912'>nervous</z:mp> system and potential 'paracrine' actions by hormones and factors that are released by adjacent <z:chebi fb="32" ids="24621">endocrine</z:chebi> cells within the islets </plain></SENT>
+<SENT sid="3" pm="."><plain>The list of potential 'paracrine' regulators within the islet includes insulin, somatostatin, γ-aminobutyric acid, <z:chebi fb="6" ids="14321,29987">glutamate</z:chebi> and zinc </plain></SENT>
+<SENT sid="4" pm="."><plain>Zinc crystallises with insulin in β-cells and is co-secreted with insulin </plain></SENT>
+<SENT sid="5" pm="."><plain>In the scientific literature, the effect of exogeneous zinc on glucagon secretion has been debated </plain></SENT>
+<SENT sid="6" pm="."><plain>Here, we confirm that an increase in exogeneous zinc does inhibit glucagon secretion </plain></SENT>
+<SENT sid="7" pm="."><plain>To determine if there are physiological effects of zinc on glucagon secretion we used a β-cell-specific ZnT8 knockout (Znt8BKO) mouse model </plain></SENT>
+<SENT sid="8" pm="."><plain>Znt8BKO mice, despite showing lower granular zinc content in β-cells, showed no changes in fasted plasma glucagon levels and <z:chebi fb="105" ids="17234">glucose</z:chebi> regulated glucagon secretion </plain></SENT>
+<SENT sid="9" pm="."><plain>These findings suggest that zinc secreted from β-cell does not regulate glucagon secretion </plain></SENT>
+</text></document>

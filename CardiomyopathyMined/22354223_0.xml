@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 2-month-old infant with <z:hpo ids='HP_0001635'>congestive heart failure</z:hpo> was referred to the authors' hospital </plain></SENT>
+<SENT sid="1" pm="."><plain>Echocardiography exhibited a <z:mp ids='MP_0002753'>dilated left ventricle</z:mp> (LV), poor LV systolic function, and intraventricular <z:e sem="disease" ids="C0302148,C0087086" disease_type="Disease or Syndrome;Acquired Abnormality" abbrv="">thrombus</z:e> </plain></SENT>
+<SENT sid="2" pm="."><plain>Laboratory data showed a <z:mpath ids='MPATH_458'>normal</z:mpath> <z:chebi fb="0" ids="16737">creatinine</z:chebi> phosphokinase level and negative troponin T test results </plain></SENT>
+<SENT sid="3" pm="."><plain>The <z:hpo ids='HP_0001635'>congestive heart failure</z:hpo> was managed using a beta-blocker, an angiotensin receptor blocker, and <z:chebi fb="40" ids="35498">diuretics</z:chebi> </plain></SENT>
+<SENT sid="4" pm="."><plain>Head computed tomography performed during the treatment course showed periventricular calcifications </plain></SENT>
+<SENT sid="5" pm="."><plain>Congenital <z:e sem="disease" ids="C0010823" disease_type="Disease or Syndrome" abbrv="">cytomegalovirus infection</z:e> was subsequently diagnosed </plain></SENT>
+<SENT sid="6" pm="."><plain>Fetal echocardiography performed during pregnancy showed impaired LV function, suggesting that the <z:hpo ids='HP_0001638'>cardiomyopathy</z:hpo> was associated with <z:e sem="disease" ids="C0010823" disease_type="Disease or Syndrome" abbrv="">cytomegalovirus infection</z:e> in utero </plain></SENT>
+</text></document>

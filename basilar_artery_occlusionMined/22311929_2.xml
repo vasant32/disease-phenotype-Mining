@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: To develop a functional outcome prediction score, based on immediate pretreatment parameters, in <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> patients receiving IV alteplase </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: The derivation cohort consists of 1,319 <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> patients treated with IV alteplase at the Helsinki University Central Hospital, Helsinki, Finland </plain></SENT>
+<SENT sid="2" pm="."><plain>We evaluated the predictive value of parameters associated with the 3-month outcome and developed the score according to the magnitude of logistic regression coefficients </plain></SENT>
+<SENT sid="3" pm="."><plain>We assessed accuracy of the model with bootstrapping </plain></SENT>
+<SENT sid="4" pm="."><plain>External validation was performed in a cohort of 330 patients treated at the University Hospital Basel, Basel, Switzerland </plain></SENT>
+<SENT sid="5" pm="."><plain>We assessed the score performance with area under the receiver operating characteristic curve (AUC-ROC) </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: The DRAGON score (0-10 points) consists of (hyper)Dense cerebral artery sign/early <z:mpath ids='MPATH_124'>infarct</z:mpath> signs on admission CT scan (both = 2, either = 1, none = 0), prestroke modified Rankin Scale (mRS) score &gt;1 (yes = 1), Age (≥ 80 years = 2, 65-79 years = 1, &lt;65 years = 0), <z:chebi fb="105" ids="17234">Glucose</z:chebi> level at baseline (&gt;8 mmol/L [&gt;144 mg/dL] = 1), <z:hpo ids='HP_0003674'>Onset</z:hpo>-to-treatment time (&gt;90 minutes = 1), and baseline National Institutes of Health <z:hpo ids='HP_0001297'>Stroke</z:hpo> Scale score (&gt;15 = 3, 10-15 = 2, 5-9 = 1, 0-4 = 0) </plain></SENT>
+<SENT sid="7" pm="."><plain>AUC-ROC was 0.84 (0.80-0.87) in the derivation cohort and 0.80 (0.74-0.86) in the validation cohort </plain></SENT>
+<SENT sid="8" pm="."><plain>Proportions of patients with good outcome (mRS score 0-2) were 96%, 88%, 74%, and 0% for 0-1, 2, 3, and 8-10 points, respectively </plain></SENT>
+<SENT sid="9" pm="."><plain>Proportions of patients with miserable outcome (mRS score 5-6) were 0%, 2%, 5%, 70%, and 100% for 0-1, 2, 3, 8, and 9-10 points, respectively </plain></SENT>
+<SENT sid="10" pm="."><plain>External validation showed similar results </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: The DRAGON score is valid at our site and was reliable externally </plain></SENT>
+<SENT sid="12" pm="."><plain>It can support clinical decision-making, especially when invasive add-on strategies are considered </plain></SENT>
+<SENT sid="13" pm="."><plain>The score was not studied in patients with basilar <z:mp ids='MP_0006134'>artery occlusion</z:mp> </plain></SENT>
+<SENT sid="14" pm="."><plain>Further external validation is warranted </plain></SENT>
+</text></document>

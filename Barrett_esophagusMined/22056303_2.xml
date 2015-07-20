@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND &amp; AIMS: Radiofrequency ablation (RFA) is safe and effective treatment for flat <z:mpath ids='MPATH_589'>dysplasia</z:mpath> associated with <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> (BE) </plain></SENT>
+<SENT sid="1" pm="."><plain>However, there are limited data on the safety of RFA in patients who had prior endoscopic mucosal resection (EMR), which might increase the risk of complications </plain></SENT>
+<SENT sid="2" pm="."><plain>We compared complications and histologic outcomes between patients who had EMR before RFA and those who received only RFA </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: We performed a retrospective analysis of data collected from patients treated for BE, associated with <z:mpath ids='MPATH_589'>dysplasia</z:mpath> or intramucosal <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e>, at the Mayo Clinic in Rochester, Minnesota, from 1998-2009 </plain></SENT>
+<SENT sid="4" pm="."><plain>Patients were divided into groups that had RFA after EMR (group 1, n = 44) or only RFA (group 2, n = 46) </plain></SENT>
+<SENT sid="5" pm="."><plain>We compared the incidence of complications (strictures, <z:mp ids='MP_0001914'>bleeding</z:mp>, and esophageal <z:mpath ids='MPATH_81'>perforation</z:mpath>) and histologic features (complete resolution of <z:mpath ids='MPATH_589'>dysplasia</z:mpath> and complete resolution of <z:mpath ids='MPATH_167'>intestinal metaplasia</z:mpath> [CR-IM]) between groups </plain></SENT>
+<SENT sid="6" pm="."><plain>Logistic regression analysis was performed to assess predictors of stricture formation </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: Stricture rates were 14% in group 1 and 9% in group 2 (odds ratio, 1.53; 95% confidence interval [CI], 0.26-9.74) </plain></SENT>
+<SENT sid="8" pm="."><plain>The rates of CR-IM were 43% in group 1 and 74% in group 2 (odds ratio, 0.33; 95% CI, 0.14-0.78) </plain></SENT>
+<SENT sid="9" pm="."><plain>The rates of complete resolution of <z:mpath ids='MPATH_589'>dysplasia</z:mpath> were 76% in group 1 and 71% in group 2 (odds ratio, 1.28; 95% CI, 0.39-4.17) </plain></SENT>
+<SENT sid="10" pm="."><plain>The adjusted odds ratio for CR-IM in group 1 (adjusting for age, segment length, and grade of <z:mpath ids='MPATH_589'>dysplasia</z:mpath>) was 0.50 (95% CI, 0.15-1.66) </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: Stricture rates among patients who receive only RFA are comparable to those of patients who had prior EMR </plain></SENT>
+<SENT sid="12" pm="."><plain>EMR appears safe to perform prior to RFA </plain></SENT>
+</text></document>

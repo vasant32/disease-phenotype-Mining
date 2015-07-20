@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0011010'>Chronic</z:hpo> pain is one of the most common complications of <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="1" pm="."><plain>However, current treatments for diabetic pain are usually unrealistic because the underlying mechanisms are far from being clear </plain></SENT>
+<SENT sid="2" pm="."><plain>Immerging studies have implicated immune factors as key players in the diabetic pain </plain></SENT>
+<SENT sid="3" pm="."><plain>High-mobility group box 1 (HMGB1) is an important mediator of <z:mp ids='MP_0001845'>inflammatory response</z:mp>, but its role in diabetic pain is unclear </plain></SENT>
+<SENT sid="4" pm="."><plain>In the present study, we observed that db/db mice (a model of type 2 <z:mp ids='MP_0002055'>diabetes</z:mp>) developed persistent mechanical <z:mp ids='MP_0003177'>allodynia</z:mp> from postnatal 2 months </plain></SENT>
+<SENT sid="5" pm="."><plain>Western blot showed that in postnatal 2-5 months, HMGB1 was significantly higher than that of the heterozygous littermates (db/+) mice </plain></SENT>
+<SENT sid="6" pm="."><plain>Intrathecal injection of a HMGB1 neutralizing antibody (anti-HMGB1) inhibited mechanical <z:mp ids='MP_0003177'>allodynia</z:mp> </plain></SENT>
+<SENT sid="7" pm="."><plain>Immunostaining data showed that compared with db/+ and C57 mice (postnatal 4 months), glial fibrillary acidic protein (GFAP) staining was significantly increased in the spinal cord of db/db mice </plain></SENT>
+<SENT sid="8" pm="."><plain>Anti-HMGB1 could effectively decrease GFAP expression </plain></SENT>
+<SENT sid="9" pm="."><plain>Real-time PCR showed that in postnatal 4 months, db/db mice induced significant increases of TNF-alpha, IL-1β, IL-6 and monocyte chemoattractant protein-1 (<z:chebi fb="17" ids="50099">MCP</z:chebi>-1) in the spinal dorsal horn, while anti-HMGB1 (50 μg) effectively inhibited the up-regulation of these <z:mp ids='MP_0002501'>inflammatory mediators</z:mp> </plain></SENT>
+<SENT sid="10" pm="."><plain>Our results indicate that HMGB1 is significantly up-regulated in the spinal cord of type 2 <z:mp ids='MP_0002055'>diabetes</z:mp>, and inhibiting HMGB1 may provide a novel treatment for diabetic pain </plain></SENT>
+</text></document>

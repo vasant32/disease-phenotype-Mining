@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Human studies indicate augmented myocardial <z:chebi fb="23" ids="18059">lipid</z:chebi> metabolism in females, and that sex and <z:hpo ids='HP_0001513'>obesity</z:hpo> interact to predict myocardial fatty acid oxidation and storage </plain></SENT>
+<SENT sid="1" pm="."><plain>Altered <z:chebi fb="23" ids="18059">lipid</z:chebi> dynamics precede <z:hpo ids='HP_0001638'>cardiomyopathies</z:hpo>, and many studies now address high fat diets </plain></SENT>
+<SENT sid="2" pm="."><plain>Conversely, caloric restriction (CR), is the most studied model for longevity and stress resistance, including protection against <z:e sem="disease" ids="C0151744" disease_type="Disease or Syndrome" abbrv="IHD">myocardial ischemia</z:e> </plain></SENT>
+<SENT sid="3" pm="."><plain>However, no information exists on the effects of long-term caloric restriction (CR) on triacylglyceride (TAG) content and dynamics in the heart </plain></SENT>
+<SENT sid="4" pm="."><plain>This study explored the effects of CR, sex and age on TAG dynamics in mouse hearts </plain></SENT>
+<SENT sid="5" pm="."><plain>Male and female SVJ129 mice were fed either <z:mpath ids='MPATH_458'>normal</z:mpath> (ND) or CR diet for 3 or 10 months </plain></SENT>
+<SENT sid="6" pm="."><plain>In 5-month-old mice, CR similarly decreased cardiac TAG in males (ND: 25.5±4.5 nmol/mg protein; CR: 12.6±2.7, P&lt;0.05) and females (ND: 30.1±4.4; CR: 13.7±1.2) (no significant differences in TAG content were seen between sexes) </plain></SENT>
+<SENT sid="7" pm="."><plain>CR reduced the contribution of exogenous <z:chebi fb="2" ids="29889">palmitate</z:chebi> to oxidative metabolism in males and females, by 15% and 11% respectively, versus ND, without affecting cardiac workload </plain></SENT>
+<SENT sid="8" pm="."><plain>CR also induced a larger reduction in TAG turnover in male (68%) than female hearts (38%) </plain></SENT>
+<SENT sid="9" pm="."><plain>Interestingly, in 5 month old male mice, CR reproduced the lower TAG turnover rates of middle-aged males (ND 13-month-old male=423±76 nmol/mg protein/min) </plain></SENT>
+<SENT sid="10" pm="."><plain>Thus, long term CR reduces TAG pool dynamics </plain></SENT>
+<SENT sid="11" pm="."><plain>Despite reduced content, hearts of female mice subjected to CR retained a more dynamic TAG pool than males, while males respond with greater metabolic remodeling of cardiac <z:chebi fb="23" ids="18059">lipid</z:chebi> dynamics </plain></SENT>
+</text></document>

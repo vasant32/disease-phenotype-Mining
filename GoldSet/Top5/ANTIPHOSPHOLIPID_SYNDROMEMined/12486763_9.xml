@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: <z:hpo ids='HP_0002725'>Systemic lupus erythematosus</z:hpo> (SLE) with or without evidence of <z:hpo ids='HP_0003613'>antiphospholipid antibodies</z:hpo> (aPA) and <z:e sem="disease" ids="C0085278" disease_type="Disease or Syndrome" abbrv="">antiphospholipid syndrome</z:e> (APS) is associated with a high rate of <z:hpo ids='HP_0005268'>spontaneous abortions</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>The placenta is thought to be the site of pathological damage in many of these abortions </plain></SENT>
+<SENT sid="2" pm="."><plain>To test this hypothesis, we studied the effects of sera obtained from women with SLE with or without treatment on human placental explants in culture </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: We cultured 5.5- to 7.5-week-old human placental explants in a culture medium containing F-12 DMEM and 10% FCS or in 90% human serum obtained from nonpregnant women with SLE prior to or after treatment </plain></SENT>
+<SENT sid="4" pm="."><plain>Culture was carried out for 96 hr </plain></SENT>
+<SENT sid="5" pm="."><plain>At the end of the culture period, we studied the secretion of the placental hormones <z:chebi fb="0" ids="50114">estrogen</z:chebi> (E2), <z:chebi fb="28" ids="17026">progesterone</z:chebi> (PGN), and human chorionic gonadotropin (hCG) </plain></SENT>
+<SENT sid="6" pm="."><plain>In addition, we studied the proliferation rate (using PCNA staining) and the rate of <z:mpath ids='MPATH_3'>apoptosis</z:mpath> (using ApoTag) of the trophoblastic cells </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: Placentae grew better in <z:mpath ids='MPATH_458'>normal</z:mpath> human serum than in a chemically defined medium of F-12 DMEM and 10% FCS </plain></SENT>
+<SENT sid="8" pm="."><plain>Enhanced growth and higher secretion rates for hCG and <z:chebi fb="1" ids="23965">estradiol</z:chebi> (E2) were manifested in placentae cultured in control sera with no change in PGN secretion </plain></SENT>
+<SENT sid="9" pm="."><plain>Secretion rates of hCG and PGN (but not of E2 in the treated group) by placental explants were similar to that of controls </plain></SENT>
+<SENT sid="10" pm="."><plain>However, the serum levels prior to culture were not measured </plain></SENT>
+<SENT sid="11" pm="."><plain>Further, explants in serum from untreated women with SLE produced a significant decrease in the proliferation rate of the trophoblastic cells and an increase of <z:mpath ids='MPATH_3'>apoptosis</z:mpath> </plain></SENT>
+<SENT sid="12" pm="."><plain>Treatment significantly reduced the apoptotic rate and <z:mp ids='MP_0000351'>increased cell proliferation</z:mp>, but the cell proliferation rate was still lower than that noted in controls </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSIONS: We conclude that sera from women with SLE may directly damage the developing placenta reducing proliferation and enhancing <z:mpath ids='MPATH_3'>apoptosis</z:mpath> </plain></SENT>
+<SENT sid="14" pm="."><plain>Successful treatment of the women reduces that damage </plain></SENT>
+</text></document>

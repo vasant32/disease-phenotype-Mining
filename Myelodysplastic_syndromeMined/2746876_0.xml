@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A case of therapy-related <z:hpo ids='HP_0002863'>myelodysplastic syndromes</z:hpo> (t-<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e>) in 66-year-old male patient is reported </plain></SENT>
+<SENT sid="1" pm="."><plain>The patient was diagnosed as having <z:hpo ids='HP_0006775'>multiple myeloma</z:hpo> in July 1983 </plain></SENT>
+<SENT sid="2" pm="."><plain><z:chebi fb="0" ids="4027">Cyclophosphamide</z:chebi> was given since September 1984, and melphalan was added since June 1986 </plain></SENT>
+<SENT sid="3" pm="."><plain>Radiation therapy was not performed </plain></SENT>
+<SENT sid="4" pm="."><plain>Mild, slowly aggravating <z:hpo ids='HP_0001876'>pancytopenia</z:hpo> developed in July 1987 </plain></SENT>
+<SENT sid="5" pm="."><plain>By December 1987, the <z:chebi fb="0" ids="35143">hemoglobin</z:chebi> level dropped to 6.0 g/dl, leukocytes to 2,800/microliters, and platelets to 15,000/microliters </plain></SENT>
+<SENT sid="6" pm="."><plain>At that time, 27% of the bone marrow cells were blasts and 23.3% monocytoid cells </plain></SENT>
+<SENT sid="7" pm="."><plain>Based on these findings, a diagnosis of t-<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> was made </plain></SENT>
+<SENT sid="8" pm="."><plain>He was managed by supportive care only, but the monocytoid cells increased rapidly in number and he died of <z:mp ids='MP_0001182'>pulmonary bleeding</z:mp> in March 1988 </plain></SENT>
+<SENT sid="9" pm="."><plain>Chromosomal banding studies of the bone marrow cells revealed dir ins [inv (17) (p13q21); 21] (q21; p13q22) in <z:hpo ids='HP_0000001'>all</z:hpo> the 11 metaphases examined, but chromosomes No. 5 and 7 were <z:mpath ids='MPATH_458'>normal</z:mpath> </plain></SENT>
+<SENT sid="10" pm="."><plain>However, Keldsen et al reported that chromosome 21q rearrangements were nonrandomly associated with t-<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> and t-<z:hpo ids='HP_0011009'>acute</z:hpo> nonlymphocytic <z:hpo ids='HP_0001909'>leukemia</z:hpo> </plain></SENT>
+</text></document>

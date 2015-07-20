@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Cerebral microembolization during cardiopulmonary bypass may lead to <z:hpo ids='HP_0001268'>cognitive decline</z:hpo> after cardiac surgery </plain></SENT>
+<SENT sid="1" pm="."><plain>Transfusion of the unprocessed shed blood (major source of <z:chebi fb="23" ids="18059">lipid</z:chebi> microparticulates) into the patient during cardiopulmonary bypass is common practice to reduce blood loss and blood transfusion </plain></SENT>
+<SENT sid="2" pm="."><plain>Processing of shed blood with cell saver before transfusion may limit cerebral microembolization and reduce <z:hpo ids='HP_0001268'>cognitive decline</z:hpo> after surgery </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS AND RESULTS: A total of 226 elderly patients were randomly allocated to either cell saver or control groups </plain></SENT>
+<SENT sid="4" pm="."><plain>Anesthesia and surgical management were standardized </plain></SENT>
+<SENT sid="5" pm="."><plain>Epiaortic scanning of the proximal thoracic aorta was performed in <z:hpo ids='HP_0000001'>all</z:hpo> patients </plain></SENT>
+<SENT sid="6" pm="."><plain>Transcranial Doppler was used to measure cerebral embolic rates </plain></SENT>
+<SENT sid="7" pm="."><plain>Standardized neuropsychological testing was conducted 1 week before and 6 weeks after surgery </plain></SENT>
+<SENT sid="8" pm="."><plain>The raw scores for each test were converted to Z scores, and then a combined Z score of 10 main variables was calculated for both study groups </plain></SENT>
+<SENT sid="9" pm="."><plain>The primary analysis was based on dichotomous composite cognitive outcome with a 1-SD rule </plain></SENT>
+<SENT sid="10" pm="."><plain><z:e sem="disease" ids="C0338656" disease_type="Mental or Behavioral Dysfunction" abbrv="">Cognitive dysfunction</z:e> was present in 6% (95% confidence interval, 1.3% to 10.7%) of patients in the cell saver group and 15% (95% confidence interval, 8% to 22%) of patients in the control group 6 weeks after surgery (P=0.038) </plain></SENT>
+<SENT sid="11" pm="."><plain>The severity of aortic atheroma and cerebral embolic count were similar between the 2 groups </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: The present report demonstrates that processing of shed blood with cell saver results in clinically significant reduction in <z:e sem="disease" ids="C1319200" disease_type="Mental or Behavioral Dysfunction" abbrv="">postoperative cognitive dysfunction</z:e> after cardiac surgery </plain></SENT>
+<SENT sid="13" pm="."><plain>These findings emphasize the clinical importance of <z:chebi fb="23" ids="18059">lipid</z:chebi> embolization in contributing to postoperative <z:hpo ids='HP_0001268'>cognitive decline</z:hpo> in patients exposed to cardiopulmonary bypass </plain></SENT>
+</text></document>

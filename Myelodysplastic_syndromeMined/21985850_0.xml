@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Therapyrelated mucositis is associated with considerable morbidity </plain></SENT>
+<SENT sid="1" pm="."><plain>This complication following allogeneic stem cell therapy (alloSCT) is less severe after reduced intense conditioning (RIC); however, even here it may be serious </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: 52 patients (male: n = 35 (67%), female: n = 17 (33%)) at a median age of 62 years (35-73 years) underwent alloSCT after RIC </plain></SENT>
+<SENT sid="3" pm="."><plain>Conditioning was either total body irradiation (TBI)(2Gy)/±fludarabine (n = 33, 63.5%) or chemotherapy based </plain></SENT>
+<SENT sid="4" pm="."><plain><z:e sem="disease" ids="C0018133" disease_type="Disease or Syndrome" abbrv="GVH">Graftversushost disease</z:e> (GvHD) prophylaxis was carried out with <z:chebi fb="0" ids="4031">cyclosporine</z:chebi> A ± <z:chebi fb="0" ids="168396">mycophenolate</z:chebi> mofetil (MMF) </plain></SENT>
+<SENT sid="5" pm="."><plain>45 patients (87%) received shortcourse <z:chebi fb="0" ids="44185">methotrexate</z:chebi> (MTX) </plain></SENT>
+<SENT sid="6" pm="."><plain>Mucositis was graded according to the Bearman and the World Health Organisation (WHO) scale </plain></SENT>
+<SENT sid="7" pm="."><plain>A variety of parameters were correlated with mucositis </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: The Bearman and WHO scales showed excellent correlation </plain></SENT>
+<SENT sid="9" pm="."><plain>Mucositis was significantly more severe after chemotherapybased conditioning compared to conditioning with TBI(2Gy)/±fludarabine (p &lt; 0.002) as well as in cases with an increase in <z:chebi fb="0" ids="16737">creatinine</z:chebi> levels above the upper <z:mpath ids='MPATH_458'>normal</z:mpath> value (UNV) on day +1 after SCT (p &lt; 0.05) </plain></SENT>
+<SENT sid="10" pm="."><plain>Furthermore, the severity correlated with time to engraftment of leucocytes (correlation coefficient (cc) = 0.26, p &lt; 0.02) and thrombocytes (cc = 0.38, p &lt; 0.001) </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: The conditioning regimen and <z:hpo ids='HP_0003259'>increased creatinine</z:hpo> levels at day +1 were identified as factors predicting the severity of mucositis after RICSCT </plain></SENT>
+<SENT sid="12" pm="."><plain><z:chebi fb="0" ids="16737">Creatinine</z:chebi> levels on day +1 after SCT may help identify patients at risk for severe mucositis in the further course of transplantation </plain></SENT>
+</text></document>

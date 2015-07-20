@@ -1,0 +1,19 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND PURPOSE: Serological evidence of <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infection</z:e> with Chlamydia pneumoniae has been associated with <z:e sem="disease" ids="C0007222" disease_type="Disease or Syndrome" abbrv="CVD">cardiovascular disease</z:e> in multiple epidemiological studies </plain></SENT>
+<SENT sid="1" pm="."><plain>The data on its association with <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> are limited </plain></SENT>
+<SENT sid="2" pm="."><plain>We sought to determine whether <z:hpo ids='HP_0011010'>chronic</z:hpo> C pneumoniae <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infection</z:e> is associated with <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> in a multi-ethnic population </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: The Northern Manhattan <z:hpo ids='HP_0001297'>Stroke</z:hpo> Study contains a population-based, case-control study component </plain></SENT>
+<SENT sid="4" pm="."><plain>Cases had first <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> and matched control subjects were derived through random digit dialing </plain></SENT>
+<SENT sid="5" pm="."><plain>Titers of IgG, IgA, and IgM antibodies specific for C pneumoniae were measured with the use of microimmunofluorescence, and titers &gt;/=1:16 were considered positive </plain></SENT>
+<SENT sid="6" pm="."><plain>Conditional logistic regression was used to calculate odds ratios (ORs) and 95% confidence intervals (95% CIs) after adjustment for medical, behavioral, and socioeconomic factors </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: Eighty-nine cases and 89 control subjects were selected </plain></SENT>
+<SENT sid="8" pm="."><plain>Mean age among cases was 68.5+/-12.8 years; 53% were women and 15% of the subjects were white, 28% were black, and 54% were Hispanic </plain></SENT>
+<SENT sid="9" pm="."><plain>Elevated C pneumoniae IgA titers were significantly associated with risk of <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> after adjusting for other <z:hpo ids='HP_0001297'>stroke</z:hpo> risk factors (adjusted OR 4 </plain></SENT>
+<SENT sid="10" pm="."><plain>51, 95% CI 1.44 to 14.06) </plain></SENT>
+<SENT sid="11" pm="."><plain>IgG titers were less strongly associated with <z:hpo ids='HP_0001297'>stroke</z:hpo> risk (adjusted OR 2.59, 95% CI 0.87 to 7.75) </plain></SENT>
+<SENT sid="12" pm="."><plain>The association of IgA with <z:hpo ids='HP_0001297'>stroke</z:hpo> risk was detected in both younger and older groups, in men and women, and in whites, blacks, and Hispanics </plain></SENT>
+<SENT sid="13" pm="."><plain>There was also a significant continuous increase in risk associated with the log-transformation of the titer for IgA (adjusted OR 1.32, 95% CI 1.05 to 1.66) but not IgG </plain></SENT>
+<SENT sid="14" pm="."><plain>CONCLUSIONS: Serological evidence of <z:hpo ids='HP_0011010'>chronic</z:hpo> <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infection</z:e> with C pneumoniae is associated with risk of <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> in an urban, multi-ethnic population </plain></SENT>
+<SENT sid="15" pm="."><plain>IgA titers may be a better marker of this risk than are IgG titers </plain></SENT>
+<SENT sid="16" pm="."><plain>This association is independent of other <z:e sem="disease" ids="C0042373" disease_type="Disease or Syndrome" abbrv="">vascular disease</z:e> risk factors </plain></SENT>
+<SENT sid="17" pm="."><plain>Further prospective epidemiological studies of the effect of this <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infection</z:e> on <z:hpo ids='HP_0001297'>stroke</z:hpo> risk are warranted </plain></SENT>
+</text></document>

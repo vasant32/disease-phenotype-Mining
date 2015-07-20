@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>B-lineage <z:hpo ids='HP_0002488'>acute leukemia</z:hpo> (<z:e sem="disease" ids="C0023435" disease_type="Neoplastic Process" abbrv="">B-ALL</z:e>) cells often require stromal cell support for optimal proliferation and apoptotic resistance </plain></SENT>
+<SENT sid="1" pm="."><plain>In addition, stromal cell contact can promote resistance to chemotherapeutic agents </plain></SENT>
+<SENT sid="2" pm="."><plain>However, the precise biochemical pathways within the leukemic cell that are activated by the bone marrow microenvironment which result promotion of cell proliferation and apoptotic protection are not fully characterized </plain></SENT>
+<SENT sid="3" pm="."><plain>We have recently reported that simultaneous inhibition of the MEK and PI3K pathways or the MEK and mTOR pathways promote rapid <z:mpath ids='MPATH_3'>apoptosis</z:mpath> of the stromal cell dependent B-lineage ALL cell line BLIN-2 in the presence of stromal cell support </plain></SENT>
+<SENT sid="4" pm="."><plain>These data indicated that stromal cell induced apoptotic protection is mediated by PI3K/mTOR and MEK in a mechanism(s) that suggests cross-talk or points of convergence </plain></SENT>
+<SENT sid="5" pm="."><plain>The EGF receptor (EGFR) has been reported to activate both MEK and PI3K </plain></SENT>
+<SENT sid="6" pm="."><plain>We report herein that use of the EGFR inhibitor, AG1478, inhibits BLIN-2 survival in the presence of stromal cells </plain></SENT>
+<SENT sid="7" pm="."><plain>FACS analysis revealed that EGFR is expressed on the surface of BLIN-2 cells </plain></SENT>
+<SENT sid="8" pm="."><plain>The addition of EGF to BLIN-2 cultures in the absence of stromal cells prolongs BLIN-2 survival </plain></SENT>
+<SENT sid="9" pm="."><plain>Similarly, introduction of a constitutively active form of EGFR, v-ErbB, into BLIN-2 prolongs the survival of BLIN-2 cells in the absence of stromal cell support </plain></SENT>
+<SENT sid="10" pm="."><plain>These data provide evidence that stimulation of the EGFR pathway is one mechanism by which the bone marrow microenvironment may contribute to the growth and survival of B-cell <z:hpo ids='HP_0002488'>acute leukemia</z:hpo> </plain></SENT>
+</text></document>

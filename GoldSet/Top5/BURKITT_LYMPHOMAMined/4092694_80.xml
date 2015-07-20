@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The human c-myc gene consists of three exons transcribed from two distinct promoters and the function of the first, noncoding exon is unknown </plain></SENT>
+<SENT sid="1" pm="."><plain>In COLO 320 cells, there co-exist <z:mpath ids='MPATH_458'>normal</z:mpath> and truncated (i.e., lacking exon 1) c-myc genes, both of which are transcribed </plain></SENT>
+<SENT sid="2" pm="."><plain>Studies on the turnover of c-myc <z:chebi fb="2" ids="33699">mRNA</z:chebi> show that the <z:mpath ids='MPATH_458'>normal</z:mpath> <z:chebi fb="2" ids="33699">mRNA</z:chebi> has an in vivo half-life of approximately 30 min which is approximately similar to the turnover time of the <z:chebi fb="2" ids="33699">mRNA</z:chebi> in lymphoblastoid cells </plain></SENT>
+<SENT sid="3" pm="."><plain>However, the truncated <z:chebi fb="2" ids="33699">mRNA</z:chebi> was found to be substantially more stable </plain></SENT>
+<SENT sid="4" pm="."><plain>This observation was also made with a Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cell line which has a translocated, truncated c-myc gene </plain></SENT>
+<SENT sid="5" pm="."><plain>Therefore truncation of the c-myc gene can cause the <z:chebi fb="2" ids="33699">mRNA</z:chebi> to be more stable than the full size product suggesting that this can be a crucial factor in the activation of the c-myc oncogene, by exon 1 loss, in chromosomal translocation </plain></SENT>
+<SENT sid="6" pm="."><plain>The results also suggest a role for exon 1 in the c-myc <z:chebi fb="2" ids="33699">mRNA</z:chebi> degradative mechanism </plain></SENT>
+</text></document>

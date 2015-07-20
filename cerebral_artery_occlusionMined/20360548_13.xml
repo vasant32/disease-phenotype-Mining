@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND PURPOSE: After 1 clinical study in which recombinant erythropoietin (EPO) protected against <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> and improved clinical outcome, the German multicenter EPO trial recently reported increased mortality in <z:hpo ids='HP_0001297'>stroke</z:hpo> patients receiving EPO after tissue-plasminogen activator (t-PA)-induced thrombolysis </plain></SENT>
+<SENT sid="1" pm="."><plain>The reasons for the adverse effects of EPO in t-PA-treated patients are unknown </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: Mice were submitted to 90 minutes of middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> </plain></SENT>
+<SENT sid="3" pm="."><plain>Immediately after reperfusion, animals were treated with <z:mpath ids='MPATH_458'>normal</z:mpath> saline or t-PA (10 mg/kg) </plain></SENT>
+<SENT sid="4" pm="."><plain>Animals subsequently received injections of <z:mpath ids='MPATH_458'>normal</z:mpath> saline or EPO that were administered after reperfusion and 12 hours later (2500 IU/kg each) </plain></SENT>
+<SENT sid="5" pm="."><plain>Ischemic injury and <z:hpo ids='HP_0002181'>brain edema</z:hpo> were analyzed at 24 hours after reperfusion by <z:chebi fb="0" ids="52815">cresyl violet</z:chebi> staining and terminal transferase biotinylated-<z:chebi fb="0" ids="17625">dUTP</z:chebi> nick end labeling </plain></SENT>
+<SENT sid="6" pm="."><plain>Blood-brain barrier integrity was assessed by histochemistry for extravasated serum IgG </plain></SENT>
+<SENT sid="7" pm="."><plain>Matrix metalloproteinase activity was evaluated by gelatinase zymography </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: EPO did not influence ischemic <z:mpath ids='MPATH_124'>infarct</z:mpath> size but reduced <z:e sem="disease" ids="C1527311" disease_type="Disease or Syndrome" abbrv="">brain swelling</z:e> </plain></SENT>
+<SENT sid="9" pm="."><plain>This effect was abolished by t-PA, which exacerbated serum IgG extravasation in ischemic tissue </plain></SENT>
+<SENT sid="10" pm="."><plain>Gelatinase zymographies revealed that EPO promoted matrix metalloproteinase-9 activity that was markedly elevated by t-PA </plain></SENT>
+<SENT sid="11" pm="."><plain>Add-on treatment with t-PA increased the density of DNA-fragmented cells in ischemic tissue of EPO-treated, but not vehicle-treated, mice </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: Our data demonstrate a hitherto unknown interaction of t-PA with EPO at the blood-brain interface, ie, promotion of vascular permeability and extracellular matrix breakdown, which may account for the unfavorable actions of EPO in t-PA-treated patients </plain></SENT>
+<SENT sid="13" pm="."><plain>After t-PA-induced thrombolysis, EPO may not be suitable as <z:hpo ids='HP_0001297'>stroke</z:hpo> treatment </plain></SENT>
+</text></document>

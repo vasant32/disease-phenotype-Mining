@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND PURPOSE: Quantitative predictions of the risk of <z:hpo ids='HP_0005305'>cerebral venous thrombosis</z:hpo> (CVT) conferred by certain genotypes have yet to be reliably established </plain></SENT>
+<SENT sid="1" pm="."><plain>We conducted a comprehensive meta-analysis of <z:hpo ids='HP_0000001'>all</z:hpo> candidate genes studied to assess their genetic contribution to the etiology of CVT </plain></SENT>
+<SENT sid="2" pm="."><plain>We compared our findings against equivalent analyses for pediatric CVT and adult <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: Databases were searched to August 2010 for <z:hpo ids='HP_0000001'>all</z:hpo> genes investigated in adult CVT, and odds ratios (ORs) for each gene-disease association were calculated </plain></SENT>
+<SENT sid="4" pm="."><plain>A mendelian randomization strategy was also undertaken to determine whether a causal relation to one gene could be ascertained </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: We identified 26 case-control studies investigating 6 polymorphisms in 6 genes and included 1183 CVT cases and 5189 controls </plain></SENT>
+<SENT sid="6" pm="."><plain>Statistically significant associations with CVT were found for factor V Leiden/G1691A (OR=2.40; 95% CI, 1.75 to 3.30; P&lt;0.00001) and prothrombin/G20210A (OR=5.48; 95% CI, 3.88 to 7.74; P&lt;0.00001) </plain></SENT>
+<SENT sid="7" pm="."><plain>After iterative analysis controlling for interstudy <z:hpo ids='HP_0001425'>heterogeneity</z:hpo>, <z:chebi fb="13" ids="29357,29358">methylene</z:chebi> <z:chebi fb="0" ids="20506,26907">tetrahydrofolate</z:chebi> reductase/C677T was also found to be significantly associated (OR=2.30; 95% CI, 1.20 to 4.42; P=0.02) </plain></SENT>
+<SENT sid="8" pm="."><plain>Variants in the remaining 3 genes (Janus kinase-2, plasminogen activator inhibitor-1, and protein Z) were not significantly associated </plain></SENT>
+<SENT sid="9" pm="."><plain>Pooled ORs for CVT risk in adults for factor V Leiden and prothrombin were significantly greater when compared against childhood CVT and adult arterial <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> </plain></SENT>
+<SENT sid="10" pm="."><plain>A causal relation with <z:chebi fb="13" ids="29357,29358">methylene</z:chebi> <z:chebi fb="0" ids="20506,26907">tetrahydrofolate</z:chebi> reductase may exist </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: CVT has a genetic basis </plain></SENT>
+<SENT sid="12" pm="."><plain>Genes involved in the clotting cascade provide a greater level of <z:mp ids='MP_0005048'>thrombosis</z:mp> risk in the cerebral venous circulation compared with its arterial circulation, and a greater level of risk exists for adults compared with children </plain></SENT>
+</text></document>

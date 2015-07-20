@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Mutations were screened for in the glucokinase gene of 25 Japanese patients with Type 2 (non-insulin-dependent) <z:hpo ids='HP_0000819'>diabetes mellitus</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Each exon was scanned by electrophoresis of enzymatically amplified DNA segments under non-denaturing conditions and variants were sequenced </plain></SENT>
+<SENT sid="2" pm="."><plain>A variant pattern was detected in exon 5 of one patient </plain></SENT>
+<SENT sid="3" pm="."><plain>Direct sequencing of this exon revealed a single nucleotide substitution in codon 188 (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">GCT</z:e>--&gt;ACT) of one of two alleles resulting in the mutation of Ala188--&gt;Thr, an invariant residue in the sequence of <z:hpo ids='HP_0000001'>all</z:hpo> mammalian glucokinases and hexokinases </plain></SENT>
+<SENT sid="4" pm="."><plain>This mutation was not found in 40 <z:mpath ids='MPATH_458'>normal</z:mpath> control subjects </plain></SENT>
+<SENT sid="5" pm="."><plain>The proband had been diagnosed with Type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> at the age of 62 years </plain></SENT>
+<SENT sid="6" pm="."><plain>Four other members of her family have the same mutation and <z:hpo ids='HP_0000001'>all</z:hpo> have Type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> or <z:hpo ids='HP_0000833'>impaired glucose tolerance</z:hpo> </plain></SENT>
+<SENT sid="7" pm="."><plain>The youngest age at diagnosis of Type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> in these other members was 13 years, suggesting that her pedigree was <z:hpo ids='HP_0004904'>maturity-onset diabetes of the young</z:hpo> (MODY) </plain></SENT>
+<SENT sid="8" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> subjects with the Thr188 mutation show a decreased insulin secretory response during oral <z:chebi fb="105" ids="17234">glucose</z:chebi> tolerance testing </plain></SENT>
+<SENT sid="9" pm="."><plain>Mutations in the glucokinase gene associated with Type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> have been previously identified in Caucasian (French and British) subjects </plain></SENT>
+<SENT sid="10" pm="."><plain>This study indicates that mutations in this gene are also implicated in the development of Type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> in Asians </plain></SENT>
+<SENT sid="11" pm="."><plain>Further studies are required to determine the frequency of mutations in glucokinase among Japanese patients with Type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+</text></document>

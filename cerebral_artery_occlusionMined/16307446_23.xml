@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Ischemic preconditioning (IP) protects the brain from subsequent, prolonged, and lethal <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> in experimental studies </plain></SENT>
+<SENT sid="1" pm="."><plain>Erythropoietin (EPO) participates in the brain's intrinsic response to injury and may play a role in preconditioning </plain></SENT>
+<SENT sid="2" pm="."><plain>By using a middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (MCAo) model of <z:hpo ids='HP_0002326'>transient ischemic attack</z:hpo> (<z:hpo ids='HP_0002326'>TIA</z:hpo>), we sought to determine whether EPO is required for IP in the protective response against focal <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>Rats underwent three 10-min <z:chebi fb="70" ids="34342">MCA</z:chebi> occlusions or sham surgery </plain></SENT>
+<SENT sid="4" pm="."><plain>Three days later, animals underwent 2 hr of MCAo and 22 hr of reperfusion </plain></SENT>
+<SENT sid="5" pm="."><plain>Experimental <z:hpo ids='HP_0002326'>TIAs</z:hpo> reduced <z:mpath ids='MPATH_124'>infarct</z:mpath> volumes by 55% (P &lt; 0.05), inhibited DNA fragmentation, and improved neurological outcome by 50% (P &lt; 0.05) after <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> </plain></SENT>
+<SENT sid="6" pm="."><plain>EPO and its receptor were up-regulated by IP in the ipsilateral hemisphere by 24 hr after IP, before <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> and soluble EPO receptor attenuated neuroprotection by IP (88% reduction, P &lt; 0.05) </plain></SENT>
+<SENT sid="7" pm="."><plain>Pretreatment with the <z:chebi fb="0" ids="50914">PI-3 kinase inhibitor</z:chebi> <z:chebi fb="0" ids="52289">wortmannin</z:chebi> abolished the protective effect of IP against ischemic injury (P &lt; 0.05) </plain></SENT>
+<SENT sid="8" pm="."><plain>IP may be mediated in part by EPO through a PI-3 kinase pathway </plain></SENT>
+</text></document>

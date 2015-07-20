@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: To investigate whether cutoff value of 5.6 mmol/l for impaired fasting <z:chebi fb="105" ids="17234">glucose</z:chebi> (IFG) improves the prediction of Type 2 <z:hpo ids='HP_0000819'>diabetes mellitus</z:hpo> (T2DM) in comparison to the 6.1 mmol/l value </plain></SENT>
+<SENT sid="1" pm="."><plain>RESEARCH DESIGN AND METHODS: A total of 5794 non-diabetic subjects aged 42+/-13 years were followed for 6.5 years </plain></SENT>
+<SENT sid="2" pm="."><plain>T2DM was defined based on the WHO 1999 criteria </plain></SENT>
+<SENT sid="3" pm="."><plain>Cox regression analysis was used to calculate the relative risk (RR) of developing T2DM </plain></SENT>
+<SENT sid="4" pm="."><plain>Model discrimination was assessed by calculating the area under the receiver operating characteristic curve (AUC) </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: During the follow-up, there were 351 incident T2DM </plain></SENT>
+<SENT sid="6" pm="."><plain>The RR (95% CI) of the 6.1 and 5.6 mmol/l cutoffs were comparable in both univariate and multivariate analysis [9.6 (7.5-12.3) vs. 8.4 (6.4-10.0), respectively in univariate and 2.4 (1.8-3.2) vs. 3.3 (2.6-4.2), respectively in multivariate models] </plain></SENT>
+<SENT sid="7" pm="."><plain>Using the 5.6 mmol/l cutoff value in the multivariate model significantly improved its discrimination in comparison to the 6.1 mmol/l value [AUC (95% CI): 0.78 (0.74-0.83) vs. 0.74 (0.70-0.79), P&lt;0.01] </plain></SENT>
+<SENT sid="8" pm="."><plain>Models with <z:hpo ids='HP_0000833'>impaired glucose tolerance</z:hpo> and fasting <z:chebi fb="105" ids="17234">glucose</z:chebi> had the highest AUC of 0.81(95% CI: 0.78-0.85) </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSIONS: The 5.6 mmol/l cutoff value of IFG combined with other <z:mp ids='MP_0002055'>diabetes</z:mp> risk factors performs significantly better than the 6.1 mmol/l value for prediction of future T2DM </plain></SENT>
+</text></document>

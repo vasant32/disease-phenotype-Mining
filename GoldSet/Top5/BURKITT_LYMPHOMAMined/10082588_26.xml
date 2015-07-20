@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Epstein-Barr virus (EBV) nuclear antigen 1 (EBNA-1) is the essential protein for maintenance of the EBV episome and establishment of latency </plain></SENT>
+<SENT sid="1" pm="."><plain>The BamHI Q promoter (Qp) is used for the transcription of EBNA-1 mRNA in type I and type II latency, which are <z:e sem="disease" ids="C0149678" disease_type="Disease or Syndrome" abbrv="">EBV infection</z:e> states exemplified by Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> and nasopharyngeal <z:mp ids='MP_0002038'>carcinoma</z:mp> </plain></SENT>
+<SENT sid="2" pm="."><plain>However, Qp is inactive in type III latency, and other promoters (the BamHI C promoter and/or the BamHI W promoter) are used for EBNA-1 </plain></SENT>
+<SENT sid="3" pm="."><plain>The involvement of interferon regulatory factors (IRFs) in the regulation of Qp is suggested by the presence of an essential interferon-stimulated response element (ISRE) in the promoter </plain></SENT>
+<SENT sid="4" pm="."><plain>In this work, expression of IRF-2 is shown to be inversely associated with Qp status, i.e., IRF-2 levels are high in type III latency (when Qp is inactive) and low in type I latency (when Qp is active) </plain></SENT>
+<SENT sid="5" pm="."><plain>Also, IRF-2 is identified by electrophoretic mobility shift assay as the major protein binding to the Qp ISRE in type III latency </plain></SENT>
+<SENT sid="6" pm="."><plain>In transient transfection assays, IRF-2 represses the activity of Qp-reporter constructs </plain></SENT>
+<SENT sid="7" pm="."><plain>Overexpression of IRF-2 in a type I latency cell line did not activate the endogenous Qp but marginally reduced the EBNA-1 mRNA level </plain></SENT>
+<SENT sid="8" pm="."><plain>Switching from type III latency (Qp inactive) to type II latency (Qp active), as produced by cell fusion, is directly associated with greatly reduced expression of IRF-2 </plain></SENT>
+<SENT sid="9" pm="."><plain>These data strongly suggest that IRF-2 is a negative regulator of Qp and may contribute to the silencing of Qp in type III latency </plain></SENT>
+</text></document>

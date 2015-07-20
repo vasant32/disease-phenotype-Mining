@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 36-year-old man was admitted to our hospital for investigation of <z:hpo ids='HP_0002907'>microscopic hematuria</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>He was very tall and presented <z:hpo ids='HP_0001166'>arachnodactyly</z:hpo> of the fingers and toes </plain></SENT>
+<SENT sid="2" pm="."><plain>Chest computed tomography and cardiac echography revealed annuloaortic <z:mpath ids='MPATH_474'>ectasia</z:mpath> and <z:hpo ids='HP_0001659'>aortic regurgitation</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>Based on these findings, we suspected <z:e sem="disease" ids="C0024796" disease_type="Disease or Syndrome" abbrv="MFS|MFS1">Marfan syndrome</z:e> and performed gene analysis of the FBN1 gene, which encodes fibrillin-1 </plain></SENT>
+<SENT sid="4" pm="."><plain>Mutational analysis showed the missence mutation, p </plain></SENT>
+<SENT sid="5" pm="."><plain>Ile 2585 Thr, present in exon 62 of the FBN1 gene </plain></SENT>
+<SENT sid="6" pm="."><plain>To investigate the genesis of microscopic and dismorphic <z:hpo ids='HP_0000790'>hematuria</z:hpo>, we performed a renal biopsy </plain></SENT>
+<SENT sid="7" pm="."><plain>Light microscopic analysis revealed the absence of any apparent histological changes in the glomerulus, small artery and arteriole </plain></SENT>
+<SENT sid="8" pm="."><plain>Electron microscopic analysis revealed the glomerular basement membrane to be irregularly thickened, however, there was neither any electron dense deposition nor fibrillar material </plain></SENT>
+<SENT sid="9" pm="."><plain><z:e sem="disease" ids="C0024796" disease_type="Disease or Syndrome" abbrv="MFS|MFS1">Marfan syndrome</z:e> is an <z:e sem="disease" ids="C0410787" disease_type="Disease or Syndrome" abbrv="">inherited disorder of connective tissue</z:e> based on abnormality of the FBN1 gene </plain></SENT>
+<SENT sid="10" pm="."><plain>Fibfibrllin-1 acts not only as a component of microfibrils, but also as the regulator of transforming growth factor -beta signal transduction </plain></SENT>
+<SENT sid="11" pm="."><plain>From these points of view, we speculated that irregular formation of the glomerular basement membrane of our patient was induced by an imbalance in production of the extracellular matrix as the consequence of abnormal fibrillin-1--TGF-beta signaling </plain></SENT>
+</text></document>

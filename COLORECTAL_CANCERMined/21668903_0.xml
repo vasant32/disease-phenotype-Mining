@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>There has been great recent interest in the medical and statistical literature in the assessment and validation of surrogate endpoints as proxies for clinical endpoints in medical studies </plain></SENT>
+<SENT sid="1" pm="."><plain>More recently, authors have focused on using metaanalytical methods for quantification of surrogacy </plain></SENT>
+<SENT sid="2" pm="."><plain>In this article, we extend existing procedures for analysis based on the accelerated failure time model to this setting </plain></SENT>
+<SENT sid="3" pm="."><plain>An advantage of this approach relative to proportional hazards model is that it allows for analysis in the semicompeting risks setting, where we model the region where the surrogate endpoint occurs before the true endpoint </plain></SENT>
+<SENT sid="4" pm="."><plain>Several estimation methods and attendant inferential procedures are presented </plain></SENT>
+<SENT sid="5" pm="."><plain>In addition, between- and within-trial methods for evaluating surrogacy are developed; a novel principal components procedure is developed for quantifying trial-level surrogacy </plain></SENT>
+<SENT sid="6" pm="."><plain>The methods are illustrated by application to data from several studies in <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> </plain></SENT>
+</text></document>

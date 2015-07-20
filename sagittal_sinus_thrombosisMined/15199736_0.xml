@@ -1,0 +1,25 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 52-year-old previously healthy woman was admitted to our hospital for <z:hpo ids='HP_0002133'>status epilepticus</z:hpo> in November 1999 </plain></SENT>
+<SENT sid="1" pm="."><plain>She had not taken oral contraceptives </plain></SENT>
+<SENT sid="2" pm="."><plain>After treatment with intravenous <z:chebi fb="11" ids="49575">diazepam</z:chebi> and phenytoin, she did not develop <z:hpo ids='HP_0001250'>seizures</z:hpo> anymore </plain></SENT>
+<SENT sid="3" pm="."><plain>When she became alert, there was a mild left <z:hpo ids='HP_0001269'>hemiparesis</z:hpo> </plain></SENT>
+<SENT sid="4" pm="."><plain>Lumbar puncture showed an opening pressure of 145 mm <z:chebi fb="2" ids="29375,33813">H2O</z:chebi>, and the cerebrospinal fluid was acellular </plain></SENT>
+<SENT sid="5" pm="."><plain>Cranial <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e> imaging demonstrated <z:mp ids='MP_0005048'>thrombosis</z:mp> of the superior sagittal sinus and fresh infarction in the right frontal lobe </plain></SENT>
+<SENT sid="6" pm="."><plain>Plasma fibrinogen, fibrin degradation product, and prothrombin fragment 1 + 2 levels were elevated </plain></SENT>
+<SENT sid="7" pm="."><plain>Proteins S and C activities and anti-thrombin III levels were within the <z:mpath ids='MPATH_458'>normal</z:mpath> range </plain></SENT>
+<SENT sid="8" pm="."><plain><z:e sem="disease" ids="C0024138,C0024141,C0024131,C0409974" disease_type="Disease or Syndrome" abbrv="">Lupus</z:e> <z:chebi fb="3" ids="50249">anticoagulant</z:chebi> and anti-<z:chebi fb="0" ids="28494">cardiolipin</z:chebi> antibody were negative </plain></SENT>
+<SENT sid="9" pm="."><plain>She was treated with continuous <z:chebi fb="5" ids="28304">heparin</z:chebi> infusion for ten days and with oral <z:chebi fb="8" ids="10033">warfarin</z:chebi> thereafter </plain></SENT>
+<SENT sid="10" pm="."><plain>Six months after the first admission, platelet count became more than 400 x 10(3)/microliter </plain></SENT>
+<SENT sid="11" pm="."><plain>In July 2002, she developed <z:hpo ids='HP_0003677'>slowly progressive</z:hpo> monoplegia of the left arm </plain></SENT>
+<SENT sid="12" pm="."><plain>Cranial <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e> imaging demonstrated patent superior sagittal sinus, fresh infarction in the right parietal lobe, and old small infarction in the right <z:chebi fb="47" ids="37409">corona</z:chebi> radiata </plain></SENT>
+<SENT sid="13" pm="."><plain>The patient was maintained on <z:chebi fb="8" ids="10033">warfarin</z:chebi> and 100 mg of aspirin thereafter </plain></SENT>
+<SENT sid="14" pm="."><plain>In September 2002, platelet count was 737 x 10(3)/microliter </plain></SENT>
+<SENT sid="15" pm="."><plain>Bone marrow examination showed increased megakaryopoiesis with <z:mpath ids='MPATH_458'>normal</z:mpath> erythroid and myeloid series and no chromosomal aberrations </plain></SENT>
+<SENT sid="16" pm="."><plain>Serum C-reactive protein and iron levels were in the <z:mpath ids='MPATH_458'>normal</z:mpath> range </plain></SENT>
+<SENT sid="17" pm="."><plain>An abdominal ultrasound demonstrated mild <z:hpo ids='HP_0001744'>splenomegaly</z:hpo> </plain></SENT>
+<SENT sid="18" pm="."><plain>Thus, we made a diagnosis of <z:e sem="disease" ids="C0040028" disease_type="Disease or Syndrome" abbrv="">essential thrombocythemia</z:e> (ET) </plain></SENT>
+<SENT sid="19" pm="."><plain>ET causes thrombotic events in the course of the disease at a rate of 7% per year </plain></SENT>
+<SENT sid="20" pm="."><plain><z:e sem="disease" ids="C0007785" disease_type="Disease or Syndrome" abbrv="">Cerebral infarction</z:e> is not uncommon, but occurrence of cerebral sinus <z:mp ids='MP_0005048'>thrombosis</z:mp> has been rarely reported </plain></SENT>
+<SENT sid="21" pm="."><plain>Recently, several cases have been reported in which <z:e sem="disease" ids="C0007785" disease_type="Disease or Syndrome" abbrv="">cerebral infarction</z:e> was the first manifestation of ET even with platelet counts lower than 600 x 10(3)/microliter </plain></SENT>
+<SENT sid="22" pm="."><plain>To our knowledge, there have been no reported cases of ET presenting with cerebral venous sinus <z:mp ids='MP_0005048'>thrombosis</z:mp> </plain></SENT>
+<SENT sid="23" pm="."><plain>Platelet count should be monitored in the patients with venous sinus <z:mp ids='MP_0005048'>thrombosis</z:mp> of undetermined etiology </plain></SENT>
+</text></document>

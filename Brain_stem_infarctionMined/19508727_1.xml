@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Hereditary hemorrhagic <z:hpo ids='HP_0001009'>telangiectasia</z:hpo> (HHT), also known as <z:e sem="disease" ids="C0039445" disease_type="Disease or Syndrome" abbrv="">Rendu-Osler-Weber syndrome</z:e>, is an <z:hpo ids='HP_0000006'>autosomal dominant</z:hpo> disorder which is clinically characterised by <z:hpo ids='HP_0004406'>recurrent epistaxis</z:hpo>, mucocutaneous <z:hpo ids='HP_0001009'>telangiectasia</z:hpo> and visceral <z:hpo ids='HP_0100026'>arteriovenous malformations</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Genetic linkage studies identified two genes primarily related to HHT: endoglin (ENG) on chromosome 9q33-34 and activin receptor-like kinase1 (ACVRL1) on chromosome 12q13 </plain></SENT>
+<SENT sid="2" pm="."><plain>We have screened a total of 41 unselected German patients with the suspected diagnosis of HHT </plain></SENT>
+<SENT sid="3" pm="."><plain>Mutation analysis for the ENG and ACVRL1 genes in <z:hpo ids='HP_0000001'>all</z:hpo> patients was performed by PCR amplification </plain></SENT>
+<SENT sid="4" pm="."><plain>Sequences were then compared to the HHT database http://www.hhtmutation.org sequences of the ENG <z:chebi fb="2" ids="33699">mRNA</z:chebi> (accession no </plain></SENT>
+<SENT sid="5" pm="."><plain>BC014271.2) and the ACVRL1 <z:chebi fb="2" ids="33699">mRNA</z:chebi> (accession no </plain></SENT>
+<SENT sid="6" pm="."><plain>NM000020.1) </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: We identified 15 different mutations in 18 cases by direct sequencing </plain></SENT>
+<SENT sid="8" pm="."><plain>Among these mutations, one novel ENG mutation could be detected which has not yet been described in the literature before </plain></SENT>
+<SENT sid="9" pm="."><plain>The genotype-phenotype correlation was consistent with a higher frequency of <z:hpo ids='HP_0006548'>pulmonary arteriovenous malformations</z:hpo> in patients with ENG mutations than in patients with ACVRL1 mutations in our collective </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSION: For rapid genotyping of mutations and SNPs (single nucleotide polymorphisms) in ENG and ACVRL1, allele-specific PCR methods with sequence-specific primers (PCR-SSP) were established and their value analysed </plain></SENT>
+</text></document>

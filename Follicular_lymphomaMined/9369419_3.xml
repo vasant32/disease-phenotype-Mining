@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The in vitro analysis of growth regulation in low-grade B non-Hodgkin's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (B-NHL) is hampered by the rapid apoptotic <z:hpo ids='HP_0011420'>death</z:hpo> of the malignant B cells ex vivo </plain></SENT>
+<SENT sid="1" pm="."><plain>A complex culture system, using murine CDw32 transfected fibroblasts (LTK-cells), IL-4 and anti-CD40 mAb, has been established for the propagation of <z:mpath ids='MPATH_458'>normal</z:mpath> mature B cells in vitro </plain></SENT>
+<SENT sid="2" pm="."><plain>We investigated the influence of the different components of this coculture system on cell survival and <z:mpath ids='MPATH_3'>apoptosis</z:mpath> of B-NHL cells </plain></SENT>
+<SENT sid="3" pm="."><plain>Nine samples from patients with follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo> and from eight patients with <z:e sem="disease" ids="C0242647,C0334633" disease_type="Neoplastic Process" abbrv="">immunocytoma</z:e> were analyzed </plain></SENT>
+<SENT sid="4" pm="."><plain>No cell proliferation of B-NHL cells could be induced in the culture system </plain></SENT>
+<SENT sid="5" pm="."><plain>However, CDw32-transfected murine fibroblasts most efficiently supported cell viability of B-NHL cells with an increase in cell survival by 114% compared to the control (P = 0.047) </plain></SENT>
+<SENT sid="6" pm="."><plain>IL-4 alone also had a stimulatory effect on cell survival of B-NHL cells after 6 days </plain></SENT>
+<SENT sid="7" pm="."><plain>In contrast, the soluble recombinant CD40 ligand gp39 and the anti-CD40 mAbs mAb89 and EA-5 did not prolong cell survival </plain></SENT>
+<SENT sid="8" pm="."><plain>CDw32 transfectants blocked <z:mpath ids='MPATH_3'>apoptosis</z:mpath> of B-NHL cells efficiently from 67% in the control to 16% (P = 0.001) </plain></SENT>
+<SENT sid="9" pm="."><plain>Reduction in <z:mpath ids='MPATH_3'>apoptosis</z:mpath> was accompanied by an elevated bcl-2 protein expression </plain></SENT>
+<SENT sid="10" pm="."><plain>IL-4 or mAb89 did not further reduce apoptotic cell <z:hpo ids='HP_0011420'>death</z:hpo> in CDw32 transfectant-dependent cocultures </plain></SENT>
+<SENT sid="11" pm="."><plain>Our data underline the pivotal role of LTK- cells for cell survival of B-NHL cells in vitro </plain></SENT>
+<SENT sid="12" pm="."><plain>The efficient blockage of <z:mpath ids='MPATH_3'>apoptosis</z:mpath> associated with increased bcl-2 protein expression causes prolonged cell viability of the B-NHL cells </plain></SENT>
+</text></document>

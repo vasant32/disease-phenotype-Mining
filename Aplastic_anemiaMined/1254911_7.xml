@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Several different approaches of automated grain counting of microautoradiographic grain densities have been reported in the literature </plain></SENT>
+<SENT sid="1" pm="."><plain>Application of grain counters to cell biology is limited, however, primarily due to shortage of methods allowing the interpretation of grain counts on a molecular basis </plain></SENT>
+<SENT sid="2" pm="."><plain>Two suitable methods of quantitative autoradiography at the cellular level are reviewed, developed for the isotopes <z:chebi fb="32" ids="36927">14C</z:chebi> and 125 I </plain></SENT>
+<SENT sid="3" pm="."><plain>They permit evaluation of absolute radioactivity in autoradiographs and, thus, determination of synthesis processes such as <z:chebi fb="9" ids="16991">deoxyribonucleic acid</z:chebi> synthesis, and of antigen densities on cell surfaces </plain></SENT>
+<SENT sid="4" pm="."><plain>In this approach towards quantitative autoradiography, grain densities are compared photometrically over labeled cells and over a standard source on the same autoradiograph </plain></SENT>
+<SENT sid="5" pm="."><plain>Allowance has to be made for the specific geometric factors of the isotope used </plain></SENT>
+<SENT sid="6" pm="."><plain>This can be advantageously done with an integrating type of measurement using incident light bright-field </plain></SENT>
+<SENT sid="7" pm="."><plain>With this type of recording, there is an exponential dependence of the photometric values on the radioactive dose </plain></SENT>
+<SENT sid="8" pm="."><plain>As an example of application, results are presented of the <z:chebi fb="9" ids="16991">deoxyribonucleic acid</z:chebi> synthesis rate of human myelocytes in <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> and of the immunoglobulin G density on lymphocyte membranes in the <z:mpath ids='MPATH_458'>normal</z:mpath> state and in <z:hpo ids='HP_0005550'>chronic lymphocytic leukemia</z:hpo> </plain></SENT>
+</text></document>

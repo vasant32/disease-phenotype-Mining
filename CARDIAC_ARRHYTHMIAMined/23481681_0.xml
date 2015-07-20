@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Ventricular assist devices are blood pumps that offer an option to support the circulation of patients with severe <z:hpo ids='HP_0001635'>heart failure</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Since a failing heart has a remaining pump function, its interaction with the ventricular assist device influences the hemodynamics </plain></SENT>
+<SENT sid="2" pm="."><plain>Ideally, the hearts action is taken into account for actuating the device such that the device is synchronized to the natural cardiac cycle </plain></SENT>
+<SENT sid="3" pm="."><plain>To realize this in practice, a reliable real-time algorithm for the automatic synchronization of the ventricular assist device to the heart rate is required </plain></SENT>
+<SENT sid="4" pm="."><plain>This paper defines the tasks such an algorithm needs to fulfill: the automatic detection of <z:hpo ids='HP_0011675'>irregular heart beats</z:hpo> and the feedback control of the phase shift between the systolic phases of the heart and the assist device </plain></SENT>
+<SENT sid="5" pm="."><plain>We demonstrate a possible solution to these problems and analyze its performance in two steps </plain></SENT>
+<SENT sid="6" pm="."><plain>First, the algorithm is tested using the <z:chebi fb="75" ids="27847,53620">MIT</z:chebi>-BIH <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> database </plain></SENT>
+<SENT sid="7" pm="."><plain>Second, the algorithm is implemented in a controller for a pulsatile and a continuousflow ventricular assist device </plain></SENT>
+<SENT sid="8" pm="."><plain>These devices are connected to a hybrid mock circulation where three test scenarios are evaluated </plain></SENT>
+<SENT sid="9" pm="."><plain>The proposed algorithm ensures a reliable synchronization of the ventricular assist device to the heart cycle, while being insensitive to irregularities in the heart rate </plain></SENT>
+</text></document>

@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: <z:chebi fb="0" ids="6456">Lidocaine</z:chebi> is an antiarrythmicum used as an <z:chebi fb="0" ids="35623">anticonvulsant</z:chebi> for neonatal <z:hpo ids='HP_0001250'>seizures</z:hpo>, also during therpeutic <z:hpo ids='HP_0002045'>hypothermia</z:hpo> following (perinatal) asphyxia </plain></SENT>
+<SENT sid="1" pm="."><plain><z:hpo ids='HP_0002045'>Hypothermia</z:hpo> may affect the efficacy, safety and dosing of <z:chebi fb="0" ids="6456">lidocaine</z:chebi> in these patients </plain></SENT>
+<SENT sid="2" pm="."><plain>OBJECTIVE: To study the efficacy and safety of <z:chebi fb="0" ids="6456">lidocaine</z:chebi> in newborns with perinatal asphyxia during moderate <z:hpo ids='HP_0002045'>hypothermia</z:hpo>, and to develop an effective and safe dosing regimen </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: Hypothermic newborns with perinatal asphyxia and <z:chebi fb="0" ids="6456">lidocaine</z:chebi> for <z:hpo ids='HP_0001250'>seizure</z:hpo> control were included </plain></SENT>
+<SENT sid="4" pm="."><plain>Efficacy was studied using continuous amplitude-integrated electroencephalography </plain></SENT>
+<SENT sid="5" pm="."><plain>Safety was assessed using continuous cardiac monitoring </plain></SENT>
+<SENT sid="6" pm="."><plain>An optimal dosing regimen was developed with simulations using data from a pharmacokinetic model </plain></SENT>
+<SENT sid="7" pm="."><plain>Plasma samples were collected during <z:hpo ids='HP_0002045'>hypothermia</z:hpo> on consecutive mornings </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: A total of 22 hypothermic and 26 historical normothermic asphyxiated newborns with <z:chebi fb="0" ids="6456">lidocaine</z:chebi> were included </plain></SENT>
+<SENT sid="9" pm="."><plain>A response of 91% on epileptiform activity on the amplitude-integrated EEG was observed for <z:chebi fb="0" ids="6456">lidocaine</z:chebi> add-on therapy </plain></SENT>
+<SENT sid="10" pm="."><plain>No relationship between <z:chebi fb="0" ids="6456">lidocaine</z:chebi> or MEGX plasma concentrations and heart frequency could be identified </plain></SENT>
+<SENT sid="11" pm="."><plain>None of the newborns experienced cardiac arrythmias </plain></SENT>
+<SENT sid="12" pm="."><plain><z:hpo ids='HP_0002045'>Hypothermia</z:hpo> reduced <z:chebi fb="0" ids="6456">lidocaine</z:chebi> clearance by 24% compared with normothermia </plain></SENT>
+<SENT sid="13" pm="."><plain>A novel dosing regimen was developed an initial bolus loading dose of 2 mg/kg, for patients with body weight 2.0-2.5 kg followed by consecutive continuous infusions of 6 mg/kg/h (for 3.5 h), 3 mg/kg/h (for 12 h), 1.5 mg/kg/h (for 12 h), or for patients with bodyweights 2.5-4.5 kg 7 mg/kg/h (for 3.5 h), 3.5 mg/kg/h (for 12 h), 1.75 mg/kg/h (for 12 h), before stopping </plain></SENT>
+<SENT sid="14" pm="."><plain>CONCLUSIONS: <z:chebi fb="0" ids="6456">Lidocaine</z:chebi> can be assumed to be an effective <z:chebi fb="0" ids="35623">antiepileptic</z:chebi> drug during <z:hpo ids='HP_0002045'>hypothermia</z:hpo> in asphyxiated neonates </plain></SENT>
+</text></document>

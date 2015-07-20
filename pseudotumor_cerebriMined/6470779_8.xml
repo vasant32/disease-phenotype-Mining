@@ -1,0 +1,7 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A graph is presented for predicting delayed intracranial <z:hpo ids='HP_0000822'>hypertension</z:hpo> (intracranial pressure (ICP) greater than 30 mm Hg) for severely head-injured patients, based on a logistic regression model </plain></SENT>
+<SENT sid="1" pm="."><plain>Data gathered during the first 24 hours of patient observation are used to predict patient status during the subsequent 48 hours </plain></SENT>
+<SENT sid="2" pm="."><plain>The best predictor out of 10 factors analyzed was the peak ICP level during the first 24 hours (p less than 0.0001) </plain></SENT>
+<SENT sid="3" pm="."><plain>Other predictors used in the final model were the presence of <z:hpo ids='HP_0002615'>hypotension</z:hpo> (p = 0.045) and abnormal ventricles--defined as ventricles which were either absent, small, or enlarged (p = 0.086) </plain></SENT>
+<SENT sid="4" pm="."><plain>Error rates of 24% and 20% were obtained initially and by means of a separate cross-validation group, respectively </plain></SENT>
+<SENT sid="5" pm="."><plain>Use of a conservative cut point (25% estimated chance of developing excess ICP) for designating high-risk patients provided a procedure with sensitivity of 86% to 89% for the two groups </plain></SENT>
+</text></document>

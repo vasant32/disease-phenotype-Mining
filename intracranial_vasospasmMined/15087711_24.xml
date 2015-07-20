@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:mpath ids='MPATH_3'>Apoptosis</z:mpath> in the endothelium of major cerebral arteries may play a role in the initiation and maintenance of <z:e sem="disease" ids="C0265110" disease_type="Disease or Syndrome" abbrv="">cerebral vasospasm</z:e> after <z:hpo ids='HP_0002138'>subarachnoid hemorrhage</z:hpo> (SAH) </plain></SENT>
+<SENT sid="1" pm="."><plain>We tested the therapeutic effect of caspase inhibitors on endothelial <z:mpath ids='MPATH_3'>apoptosis</z:mpath> and on <z:e sem="disease" ids="C0265110" disease_type="Disease or Syndrome" abbrv="">cerebral vasospasm</z:e> in an established dog double-<z:mp ids='MP_0001914'>hemorrhage</z:mp> model </plain></SENT>
+<SENT sid="2" pm="."><plain>Thirty-one mongrel dogs were divided into five groups: control; SAH; SAH treated with vehicle [DMSO]; SAH treated with Ac-DEVD-<z:chebi fb="0" ids="29327">CHO</z:chebi> [a specific caspase-3 inhibitor]; and SAH treated with Z-VAD-FMK [a broad caspase inhibitor] </plain></SENT>
+<SENT sid="3" pm="."><plain>The inhibitors (100 microM) were injected into the cisterna magna daily from Day 0 through Day 3 </plain></SENT>
+<SENT sid="4" pm="."><plain>Angiography was performed on Day 0 and Day 7 </plain></SENT>
+<SENT sid="5" pm="."><plain>Histology, TUNEL staining, and immunohistochemistry were conducted on basilar arteries collected on Day 7 after SAH </plain></SENT>
+<SENT sid="6" pm="."><plain>Positive staining of TUNEL, poly(<z:chebi fb="13" ids="16761">ADP</z:chebi>)-<z:chebi fb="1" ids="33942">ribose</z:chebi> polymerase (PARP), caspase-3, and caspase-8 was observed in the endothelial cells of the spastic arteries </plain></SENT>
+<SENT sid="7" pm="."><plain>Double fluorescence labeling demonstrated co-localization of TUNEL with caspase-3 and TNFalpha receptor-1 (TNFR1) </plain></SENT>
+<SENT sid="8" pm="."><plain>Ac-DEVD-<z:chebi fb="0" ids="29327">CHO</z:chebi> and Z-VAD-FMK prevented endothelial <z:mpath ids='MPATH_3'>apoptosis</z:mpath> and reduced angiographic vasospasm </plain></SENT>
+<SENT sid="9" pm="."><plain>The mechanism of <z:mpath ids='MPATH_3'>apoptosis</z:mpath> in endothelial cells involves TNFR1 and the caspase-8 and caspase-3 pathways </plain></SENT>
+<SENT sid="10" pm="."><plain>Caspase inhibitors may have potential in the treatment of <z:e sem="disease" ids="C0265110" disease_type="Disease or Syndrome" abbrv="">cerebral vasospasm</z:e> </plain></SENT>
+</text></document>

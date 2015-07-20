@@ -1,0 +1,5 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 73-year-old man was admitted to our hospital because of a 2-year history of repeated painful edematous <z:hpo ids='HP_0010783'>erythemas</z:hpo> on the skin and <z:hpo ids='HP_0001876'>pancytopenia</z:hpo> for the last 8 months </plain></SENT>
+<SENT sid="1" pm="."><plain>FDG PET/CT demonstrated multiple cutaneous foci with increased tracer accumulation throughout the body, multiple FDG-<z:chebi fb="156" ids="39214">avid</z:chebi> lymph nodes in the mediastinum, bilateral pulmonary hili and abdomen, and diffusively increased FDG uptake of bone marrow </plain></SENT>
+<SENT sid="2" pm="."><plain>A skin biopsy revealed infiltration by neutrophilic granulocytes consistent with <z:e sem="disease" ids="C0085077" disease_type="Disease or Syndrome" abbrv="">Sweet syndrome</z:e> </plain></SENT>
+<SENT sid="3" pm="."><plain><z:hpo ids='HP_0002863'>Myelodysplastic syndrome</z:hpo> was established on bone marrow <z:hpo ids='HP_0002835'>aspiration</z:hpo> and biopsy </plain></SENT>
+</text></document>

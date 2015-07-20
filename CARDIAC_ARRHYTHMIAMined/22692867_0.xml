@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Anatomically realistic and biophysically detailed multiscale computer models of the heart are playing an increasingly important role in advancing our understanding of integrated cardiac function in health and disease </plain></SENT>
+<SENT sid="1" pm="."><plain>Such detailed simulations, however, are computationally vastly demanding, which is a limiting factor for a wider adoption of in-silico modeling </plain></SENT>
+<SENT sid="2" pm="."><plain>While current trends in high-performance computing (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">HPC</z:e>) hardware promise to alleviate this problem, exploiting the potential of such architectures remains challenging since strongly scalable algorithms are necessitated to reduce execution times </plain></SENT>
+<SENT sid="3" pm="."><plain>Alternatively, acceleration technologies such as graphics processing units (GPUs) are being considered </plain></SENT>
+<SENT sid="4" pm="."><plain>While the potential of GPUs has been demonstrated in various applications, benefits in the context of bidomain simulations where large sparse linear systems have to be solved in parallel with advanced numerical techniques are less clear </plain></SENT>
+<SENT sid="5" pm="."><plain>In this study, the feasibility of multi-GPU bidomain simulations is demonstrated by running strong scalability benchmarks using a state-of-the-art model of rabbit ventricles </plain></SENT>
+<SENT sid="6" pm="."><plain>The model is spatially discretized using the finite element methods (FEM) on fully unstructured grids </plain></SENT>
+<SENT sid="7" pm="."><plain>The GPU code is directly derived from a large pre-existing code, the <z:hpo ids='HP_0011675'>Cardiac Arrhythmia</z:hpo> Research Package (CARP), with very minor perturbation of the code base </plain></SENT>
+<SENT sid="8" pm="."><plain>Overall, bidomain simulations were sped up by a factor of 11.8 to 16.3 in benchmarks running on 6-20 GPUs compared to the same number of CPU cores </plain></SENT>
+<SENT sid="9" pm="."><plain>To match the fastest GPU simulation which engaged 20 GPUs, 476 CPU cores were required on a national supercomputing facility </plain></SENT>
+</text></document>

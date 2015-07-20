@@ -1,0 +1,30 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: The aim of our study was to determine on CT whether a relation exists between a radiation-induced <z:hpo ids='HP_0002181'>brain edema</z:hpo>, treated with <z:chebi fb="40" ids="35498">diuretics</z:chebi> and its corresponding Houndsfield Units (HU) </plain></SENT>
+<SENT sid="1" pm="."><plain>PATIENTS AND METHODS: Seventy-five patients (age 20 to 65 years, suffering from <z:hpo ids='HP_0002315'>headaches</z:hpo> but without <z:hpo ids='HP_0000822'>hypertension</z:hpo> <z:mp ids='MP_0009277'>brain tumors</z:mp> or cerebral <z:hpo ids='HP_0002634'>arteriosclerosis</z:hpo> were examined as a reference group </plain></SENT>
+<SENT sid="2" pm="."><plain>Three slices with 8 mm thickness, 24 mm apart in the upper, middle and lower third of the brain were obtained to measure the HU of the white matter </plain></SENT>
+<SENT sid="3" pm="."><plain>The second group consisted of 20 patients with <z:mp ids='MP_0009277'>brain tumors</z:mp>, which underwent brain surgery </plain></SENT>
+<SENT sid="4" pm="."><plain>HU of the white matter were measured before radiation and after 10, 20, 30, 40 and 50 Gy </plain></SENT>
+<SENT sid="5" pm="."><plain>If a reduction in density was detected, <z:chebi fb="40" ids="35498">diuretic</z:chebi> therapy with 40 mg <z:chebi fb="0" ids="47426">furosemide</z:chebi> per o.s. was initiated </plain></SENT>
+<SENT sid="6" pm="."><plain>If no increase in density was found on follow-up additional therapy with <z:chebi fb="31" ids="17754">glycerine</z:chebi> (4.5 g/kg body weight) was started </plain></SENT>
+<SENT sid="7" pm="."><plain>In this cases follow-up was on day 4 after initiation of <z:chebi fb="40" ids="35498">diuretics</z:chebi> </plain></SENT>
+<SENT sid="8" pm="."><plain>If clinical symptoms suggested an increasing in intracranial pressure, CT-examination was performed immediately </plain></SENT>
+<SENT sid="9" pm="."><plain>Therapy was started according to measurement results </plain></SENT>
+<SENT sid="10" pm="."><plain>The third group consisted of 64 patients with <z:mp ids='MP_0009277'>brain tumors</z:mp>, that underwent postsurgical radiation therapy </plain></SENT>
+<SENT sid="11" pm="."><plain>Prior to radiation therapy 40 mg <z:chebi fb="0" ids="47426">furosemide</z:chebi> per o.s. were given </plain></SENT>
+<SENT sid="12" pm="."><plain>CT-examinations, intensified <z:chebi fb="40" ids="35498">diuretic</z:chebi> therapy and follow-up examinations were performed as in group 2 </plain></SENT>
+<SENT sid="13" pm="."><plain>If, despite therapy, the HU decreased, infusion of mannites was added </plain></SENT>
+<SENT sid="14" pm="."><plain>The second and third group of patients received radiation therapy with telecobalt and/or a linear accelerator (6 and 9 MeV X-ray) </plain></SENT>
+<SENT sid="15" pm="."><plain>RESULTS: In the first group white matter density was &gt; 30 HU </plain></SENT>
+<SENT sid="16" pm="."><plain>In the second group white matter density was between 25 and 29 HU prior to <z:chebi fb="40" ids="35498">diuretic</z:chebi> therapy </plain></SENT>
+<SENT sid="17" pm="."><plain>Under 25 HU a continuous <z:hpo ids='HP_0002315'>headache</z:hpo>, <z:hpo ids='HP_0002321'>vertigo</z:hpo> and <z:hpo ids='HP_0001289'>confusion</z:hpo> ensued </plain></SENT>
+<SENT sid="18" pm="."><plain><z:chebi fb="40" ids="35498">Diuretic</z:chebi> therapy was intensified until the measured values reached 25 to 29 HU </plain></SENT>
+<SENT sid="19" pm="."><plain>Forty-seven of 64 patients in the third group had 25 to 29 HU prior to radiation therapy </plain></SENT>
+<SENT sid="20" pm="."><plain>Despite prophylactic <z:chebi fb="40" ids="35498">diuretic</z:chebi> therapy in 28 cases density decreased to 20 to 24 HU </plain></SENT>
+<SENT sid="21" pm="."><plain>Improvement was achieved with an additional <z:chebi fb="31" ids="17754">glycerine</z:chebi> per o.s </plain></SENT>
+<SENT sid="22" pm="."><plain>The measured values reached again 25 to 29 HU </plain></SENT>
+<SENT sid="23" pm="."><plain>In 1 case the values dropped under 20 HU </plain></SENT>
+<SENT sid="24" pm="."><plain>Additional mannite infusion was necessary </plain></SENT>
+<SENT sid="25" pm="."><plain>In 17 of 64 patients white matter density was &gt; 30 HU prior to radiation therapy, dropping to 25 to 29 HU during radiation </plain></SENT>
+<SENT sid="26" pm="."><plain>Prophylactic <z:chebi fb="40" ids="35498">diuretic</z:chebi> administration kept the values in this range </plain></SENT>
+<SENT sid="27" pm="."><plain>A correlation between age of the patient, radiation source, total dose, <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> histology and degree of change in HU was not found </plain></SENT>
+<SENT sid="28" pm="."><plain>CONCLUSION: Measurements of HU can serve as a good indicator for spontaneous or <z:chebi fb="40" ids="35498">diuretic</z:chebi> induced changes of a white matter <z:hpo ids='HP_0000969'>edema</z:hpo> during radiation therapy </plain></SENT>
+</text></document>

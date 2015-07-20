@@ -1,0 +1,18 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>While IGF-1 plays a role in early B-cell development, little is known of insulin and insulin-like growth factor-1 (IGF-1) action in post-marrow B-cells </plain></SENT>
+<SENT sid="1" pm="."><plain>Recently, our laboratory demonstrated that mouse and human <z:hpo ids='HP_0006775'>multiple myeloma</z:hpo> (MM) cell lines possess functional insulin receptors (IRs) and IGF-1 receptors (IGF-1Rs) </plain></SENT>
+<SENT sid="2" pm="."><plain>In this study, we show that responsiveness to insulin and IGF-1 is more developed in human MM cell lines than in human B-lymphoblastoid cell lines </plain></SENT>
+<SENT sid="3" pm="."><plain>Two human MM cell lines (U266 and RPMI 8226) were compared to three B-lymphoblastoid cell lines [Epstein-Barr virus immortalized B-cells (EBV), a Burkitt <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cell line (Ramos), and a non-EBV lymphoblastoid cell line (HS Sultan)] </plain></SENT>
+<SENT sid="4" pm="."><plain>Surface IR and IGF-1R expression, measured by flow cytometry, demonstrated that the MM cell lines expressed more IRs and IGF-1Rs than did the EBV, Ramos, or HS Sultan cell lines </plain></SENT>
+<SENT sid="5" pm="."><plain>In vitro receptor kinase activity of affinity-purified receptors showed that the MM cells had more phosphorylated receptors than did the EBV, Ramos, or HS Sultan cells </plain></SENT>
+<SENT sid="6" pm="."><plain>Intracellular receptor signaling was also markedly different between the two cell groups </plain></SENT>
+<SENT sid="7" pm="."><plain>Whole cell phosphorylation studies showed that MM cells possessed not only hormone-dependent receptor autophosphorylation (M(r) 97,000) but also substrate phosphorylation (M(r) 185,000; 60,000) </plain></SENT>
+<SENT sid="8" pm="."><plain>The lymphoblastoid cells, while demonstrating receptor autophosphorylation (IR autophosphorylation in the EBV cell line at 200 nM hormone was similar to MM receptor phosphorylation at 2 nM), lacked hormone-responsive substrates </plain></SENT>
+<SENT sid="9" pm="."><plain>The MM cell lines contained significantly more hormone-stimulated phosphatidylinositol 3-kinase (PI 3-kinase) activity than the B-lymphoblastoid cell lines </plain></SENT>
+<SENT sid="10" pm="."><plain>In the MM cells, PI 3-kinase was activated by at least 10-fold, but, in the B-lymphoblastoid cell lines, it was activated by no more than 2-fold </plain></SENT>
+<SENT sid="11" pm="."><plain>Hormone-responsive <z:chebi fb="105" ids="17234">glucose</z:chebi> metabolism was also greater in the MM cell lines </plain></SENT>
+<SENT sid="12" pm="."><plain>In the U266 cells, <z:e sem="disease" ids="C0020459" disease_type="Disease or Syndrome" abbrv="">insulin increased</z:e> <z:chebi fb="4" ids="24996">lactate</z:chebi> production 62 +/- 9 and 101 +/- 12% (mean +/- SE) at concentrations of 2 nM and 200 nM, respectively </plain></SENT>
+<SENT sid="13" pm="."><plain>IGF-1 produced 72 +/- 9 and 99 +/- 13% increases at similar concentrations </plain></SENT>
+<SENT sid="14" pm="."><plain>In the 8226 cells, <z:e sem="disease" ids="C0020459" disease_type="Disease or Syndrome" abbrv="">insulin increased</z:e> <z:chebi fb="4" ids="24996">lactate</z:chebi> production 4 +/- 4 and 36 +/- 15% at 2 and 200 nM, respectively </plain></SENT>
+<SENT sid="15" pm="."><plain>IGF-1 produced a 13 +/- 6 and 70 +/- 18% increase </plain></SENT>
+<SENT sid="16" pm="."><plain>In the EBV and Ramos cells, neither hormone increased <z:chebi fb="4" ids="24996">lactate</z:chebi> production by more than 10 +/- 3%.(ABSTRACT TRUNCATED AT 400 WORDS) </plain></SENT>
+</text></document>

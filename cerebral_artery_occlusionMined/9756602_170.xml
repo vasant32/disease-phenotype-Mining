@@ -1,0 +1,18 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>UNLABELLED: BACKGROUND and PURPOSE: Reperfusion disrupts cerebral capillaries, causing <z:hpo ids='HP_0002181'>cerebral edema</z:hpo> and <z:mp ids='MP_0001914'>hemorrhage</z:mp> </plain></SENT>
+<SENT sid="1" pm="."><plain>Middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (MCAO) induces the matrix-degrading metalloproteinases, but their role in capillary injury after reperfusion is unknown </plain></SENT>
+<SENT sid="2" pm="."><plain>Matrix metalloproteinases (MMPs) and tissue inhibitors to metalloproteinases (TIMPs) modulate capillary permeability </plain></SENT>
+<SENT sid="3" pm="."><plain>Therefore, we measured blood-brain barrier (<z:chebi fb="2" ids="33602">BBB</z:chebi>) permeability, brain water and electrolytes, MMPs, and TIMPs at multiple times after reperfusion </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS: Adult rats underwent MCAO for 2 hours by the suture method </plain></SENT>
+<SENT sid="5" pm="."><plain>Brain uptake of <z:chebi fb="32" ids="36927">14C</z:chebi>-<z:chebi fb="27" ids="17992">sucrose</z:chebi> was measured from 3 hours to 14 days after reperfusion </plain></SENT>
+<SENT sid="6" pm="."><plain>Levels of MMPs and TIMPs were measured by zymography and reverse zymography, respectively, in contiguous tissues </plain></SENT>
+<SENT sid="7" pm="."><plain>Other rats had water and electrolytes measured at 3, 24, or 48 hours after reperfusion </plain></SENT>
+<SENT sid="8" pm="."><plain>Treatment with a synthetic MMP inhibitor, BB-1101, on <z:chebi fb="2" ids="33602">BBB</z:chebi> permeability and <z:hpo ids='HP_0002181'>cerebral edema</z:hpo> was studied </plain></SENT>
+<SENT sid="9" pm="."><plain>RESULTS: Brain <z:chebi fb="27" ids="17992">sucrose</z:chebi> uptake increased after 3 and 48 hours of reperfusion, with maximal opening at 48 hours and return to <z:mpath ids='MPATH_458'>normal</z:mpath> by 14 days </plain></SENT>
+<SENT sid="10" pm="."><plain>There was a correlation between the levels of gelatinase A at 3 hours and the <z:chebi fb="27" ids="17992">sucrose</z:chebi> uptake (P&lt;0.05) </plain></SENT>
+<SENT sid="11" pm="."><plain>Gelatinase A (MMP-2) was maximally increased at 5 days, and TIMP-2 was highest at 5 days </plain></SENT>
+<SENT sid="12" pm="."><plain>Gelatinase B and TIMP-1 were maximally elevated at 48 hours </plain></SENT>
+<SENT sid="13" pm="."><plain>The inhibitor of gelatinase B, TIMP-1, was also increased at 48 hours </plain></SENT>
+<SENT sid="14" pm="."><plain>Treatment with BB-1101 reduced <z:chebi fb="2" ids="33602">BBB</z:chebi> opening at 3 hours and <z:hpo ids='HP_0002181'>brain edema</z:hpo> at 24 hours, but neither was affected at 48 hours </plain></SENT>
+<SENT sid="15" pm="."><plain>CONCLUSIONS: The initial opening at 3 hours correlated with gelatinase A levels and was blocked by a synthetic MMP inhibitor </plain></SENT>
+<SENT sid="16" pm="."><plain>The delayed opening, which was associated with elevated levels of gelatinase B, failed to respond to the MMP inhibitor, suggesting different mechanisms of injury for the biphasic <z:chebi fb="2" ids="33602">BBB</z:chebi> injury </plain></SENT>
+</text></document>

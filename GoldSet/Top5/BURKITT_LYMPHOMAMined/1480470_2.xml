@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We have recently isolated a functional promoter encoding the human <z:chebi fb="1" ids="15841">polypeptide</z:chebi>-binding protein (BiP) gene from Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cells by polymerase chain reaction (The EMBL Data Library accession number X59969, 1991) </plain></SENT>
+<SENT sid="1" pm="."><plain>This promoter DNA segment (termed BiP670) was fused to the <z:mp ids='MP_0001794'>bacterial</z:mp> <z:chebi fb="0" ids="17698">chloramphenicol</z:chebi> acetyltransferase (CAT) reporter gene and expressed in NIH3T3 cells </plain></SENT>
+<SENT sid="2" pm="."><plain>BiP670 retains basal and <z:chebi fb="0" ids="29108">Ca2+</z:chebi> <z:chebi fb="0" ids="24869">ionophore</z:chebi> A23187-inducible activities </plain></SENT>
+<SENT sid="3" pm="."><plain>Using 5' deletion assay, we found three basal expression elements (BEE) in the BiP670 </plain></SENT>
+<SENT sid="4" pm="."><plain>Removal of the distal BBE (BBE3), which is contained in a segment spanning -368/-170, caused a 50% loss of the basal activity; removal together with the middle BBE (BBE2), which is contained in a segment spanning -170/-107, resulted in a further 30% loss of the activity </plain></SENT>
+<SENT sid="5" pm="."><plain>Further removal of the proximal BBE (BBE1), which spans -107/-39, abolished greater than 95% of the basal expression </plain></SENT>
+<SENT sid="6" pm="."><plain>In addition, an A23187-inducible element (AIE) appeared to be associated with the BBE1 </plain></SENT>
+<SENT sid="7" pm="."><plain>At least a six-fold inducibility remained as long as the BiP promoter retained the sequences -107/-39 </plain></SENT>
+<SENT sid="8" pm="."><plain>Using an in vitro gel mobility shift assay, an A23187-inducible nuclear factor (AINF) was detected from NIH3T3 cells </plain></SENT>
+<SENT sid="9" pm="."><plain>DNA binding competition experiments indicate that the -107/-39 segment contains a sequence motif which interacts with this cellular factor </plain></SENT>
+<SENT sid="10" pm="."><plain>Further analysis showed that the two direct repeats, ranging -108/-73 and -72/-40, are the target for AINF binding </plain></SENT>
+<SENT sid="11" pm="."><plain>A 3-4 fold increase of the AINF binding to both repeated sequences was detected from induced cells </plain></SENT>
+<SENT sid="12" pm="."><plain>Similar results were also demonstrated in HeLa cells, suggesting that transcriptional control of BiP gene expression in mammalian cells is conserved </plain></SENT>
+<SENT sid="13" pm="."><plain>These findings also imply that the identified nuclear factor may be important in mediating transcriptional activation of the BiP gene </plain></SENT>
+</text></document>

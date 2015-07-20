@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PURPOSE: To evaluate the correlation between change in FDG uptake before and after chemotherapy in <z:e sem="disease" ids="C0494165" disease_type="Neoplastic Process" abbrv="">hepatic metastases</z:e> of colorectal <z:mp ids='MP_0002038'>carcinoma</z:mp> (HCRC) and a histopathologic <z:mp ids='MP_0010537'>tumor regression</z:mp> grade (TRG) </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: In patients with HCRC, PET/CT data prior to hepatic surgery were retrospectively analyzed under an IRB waiver </plain></SENT>
+<SENT sid="2" pm="."><plain>The maximum standard uptake value (SUVmax) was measured before and after chemotherapy </plain></SENT>
+<SENT sid="3" pm="."><plain>The relative change of FDG activity in the identified lesions was calculated (dSUV) </plain></SENT>
+<SENT sid="4" pm="."><plain>Histopathological specimens of resected <z:e sem="disease" ids="C0027627" disease_type="Neoplastic Process" abbrv="mets">metastases</z:e> were graded on a 5-score TRG scale </plain></SENT>
+<SENT sid="5" pm="."><plain>A TRG of 1-3 was rated as a responding to therapy, whereas TRG 4-5 were regarded as non-responding lesions </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: 31 lesions were identified in 23 patients </plain></SENT>
+<SENT sid="7" pm="."><plain>Mean SUVmax before and after therapy was 6.9 ± 3.7 and 3.5 ± 1.8, respectively </plain></SENT>
+<SENT sid="8" pm="."><plain>The area under the receiver operator characteristic curve revealed a conclusive correlation between TRG and dSUV (AUC 0.773; 95% confidence interval 0.599-0.946) with a cut off at 41% decrease in FDG activity yielding a sensitivity and specificity of 72 and 75%, respectively </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSION: A relative change in FDG activity (dSUV) of more than 41% decrease correlated significantly with histopathological <z:mp ids='MP_0010537'>tumor regression</z:mp> and might be a prognostic tool for response to chemotherapy in HCRC </plain></SENT>
+</text></document>

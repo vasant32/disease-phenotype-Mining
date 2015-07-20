@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: Bone marrow from <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> (AA) patients shows reduced numbers in long-term culture (LTC)-initiating cell (LTC-IC) assays </plain></SENT>
+<SENT sid="1" pm="."><plain>The LTC-IC assay is based on assumptions of the culture kinetics of <z:mpath ids='MPATH_458'>normal</z:mpath> hematopoietic stem cells (<z:chebi fb="15" ids="50443">HSC</z:chebi>), which are not necessarily justified in a disease state </plain></SENT>
+<SENT sid="2" pm="."><plain>We therefore undertook a detailed examination of the kinetics of quiescent <z:chebi fb="15" ids="50443">HSC</z:chebi> from AA patients in LTC </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: Colony formation by quiescent <z:chebi fb="15" ids="50443">HSC</z:chebi> in LTC was tested by pretreating control (n=6) and AA bone marrow (n=7) with <z:chebi fb="0" ids="46345">5-fluorouracil</z:chebi> </plain></SENT>
+<SENT sid="4" pm="."><plain>Secondly, we manipulated <z:mpath ids='MPATH_458'>normal</z:mpath> samples to inoculate cultures with proportions of CD34+ cells similar to those from AA samples </plain></SENT>
+<SENT sid="5" pm="."><plain>We obtained enough CD34+ cells to reconstitute one AA sample to "<z:mpath ids='MPATH_458'>normal</z:mpath>" levels </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: Patient cells showed altered kinetics with rapid proliferation and premature termination of LTC </plain></SENT>
+<SENT sid="7" pm="."><plain>In vivo, decreased numbers of <z:chebi fb="15" ids="50443">HSC</z:chebi> may induce rapid proliferation and differentiation; a similar phenomenon could explain the observations in culture </plain></SENT>
+<SENT sid="8" pm="."><plain>We therefore manipulated <z:mpath ids='MPATH_458'>normal</z:mpath> samples to contain a proportion of CD34+ <z:chebi fb="15" ids="50443">HSC</z:chebi> similar to that in AA samples </plain></SENT>
+<SENT sid="9" pm="."><plain>Although absolute numbers of secondary colonies in LTC were reduced, the kinetics of culture were not altered </plain></SENT>
+<SENT sid="10" pm="."><plain>However, when AA CD34+ <z:chebi fb="15" ids="50443">HSC</z:chebi> were reconstituted to "<z:mpath ids='MPATH_458'>normal</z:mpath>" levels, the cultures still demonstrated early termination </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: The kinetics of LTC are not affected by CD34+ <z:chebi fb="15" ids="50443">HSC</z:chebi> number </plain></SENT>
+<SENT sid="12" pm="."><plain>However, quiescent <z:chebi fb="15" ids="50443">HSC</z:chebi> derived from patients with AA have qualitative differences from <z:mpath ids='MPATH_458'>normal</z:mpath> cells, as reflected by distinct kinetics in long-term culture </plain></SENT>
+<SENT sid="13" pm="."><plain>This has implications for the interpretation of the LTC-IC assay with AA samples </plain></SENT>
+</text></document>

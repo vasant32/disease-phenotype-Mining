@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIMS/HYPOTHESIS: Glycated albumin is a measure of the mean plasma <z:chebi fb="105" ids="17234">glucose</z:chebi> concentration over approximately 2-3 weeks </plain></SENT>
+<SENT sid="1" pm="."><plain>We determined reference values for glycated albumin, and assessed its utility for the diagnosis of type 2 <z:hpo ids='HP_0000819'>diabetes mellitus</z:hpo> in the general population </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: We studied 1,575 men and women (mean age, 49.9 years; range, 26-78 years) who participated in a periodic health examination in a suburban Japanese town </plain></SENT>
+<SENT sid="3" pm="."><plain>HbA(1c) and fasting plasma concentrations of <z:chebi fb="105" ids="17234">glucose</z:chebi> (FPG) and glycated albumin were measured </plain></SENT>
+<SENT sid="4" pm="."><plain>Participants with FPG ≥ 7.0 mmol/l or HbA(1c) ≥ 6.5% (48 mmol/mol) were diagnosed as having <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="5" pm="."><plain>In our laboratory, the glycated albumin assay had intra-assay and inter-assay CVs of 1.1% and 1.6%, respectively </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: Glycated albumin levels were significantly correlated with HbA(1c) levels (r = 0.766, p &lt; 0.001) and FPG (r = 0.706, p &lt; 0.001) </plain></SENT>
+<SENT sid="7" pm="."><plain>The presence of <z:mp ids='MP_0002055'>diabetes</z:mp> was significantly higher in participants with glycated albumin levels between 15.0% and 15.9% (five of 276, 1.81%) than in those with glycated albumin &lt;14% (three of 672, 0.45%) (p = 0.037), and was markedly increased in those with a glycated albumin level &gt;16% (58 of 207, 28.0%) </plain></SENT>
+<SENT sid="8" pm="."><plain>Receiver operating characteristic curve analysis indicated that a glycated albumin level of ≥15.5% was optimal for predicting <z:mp ids='MP_0002055'>diabetes</z:mp>, with a sensitivity of 83.3% and a specificity of 83.3% </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSIONS/INTERPRETATION: There is merit to further investigating the potential for glycated albumin to be used as an alternative measure of dysglycaemia for future research and clinical practice </plain></SENT>
+</text></document>

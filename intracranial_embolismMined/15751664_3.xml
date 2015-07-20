@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: To determine the association between high-intensity transient signals (HITS) and perfusionist interventions, purging techniques, pump flows and venous reservoir blood volume levels during cardiopulmonary bypass </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: Transcranial Doppler was used to detect HITS in the middle cerebral artery during the period of aortic crossclamping in patients undergoing coronary artery bypass grafting </plain></SENT>
+<SENT sid="2" pm="."><plain>Perfusionist-related interventions were recorded and included blood sampling (including the number of times that the oxygenator sampling manifold was purged), drug bolus injections and infusions (vasopressors, crystalloid and <z:chebi fb="1" ids="29864">mannitol</z:chebi>) </plain></SENT>
+<SENT sid="3" pm="."><plain>Pump flows and venous reservoir volume levels were also documented </plain></SENT>
+<SENT sid="4" pm="."><plain>RESULTS: There were 534 interventions in 90 patients [median number of interventions per patient: 6 (quartiles: 4, 8)] </plain></SENT>
+<SENT sid="5" pm="."><plain>The median total HITS count from <z:hpo ids='HP_0000001'>all</z:hpo> interventions was 17 (5, 37) </plain></SENT>
+<SENT sid="6" pm="."><plain>This represented 38% of the total HITS counts during aortic crossclamping </plain></SENT>
+<SENT sid="7" pm="."><plain>Factors contributing to differences in the HITS count included type of intervention (p &lt;0.0001) and perfusionist (p =0.0012) </plain></SENT>
+<SENT sid="8" pm="."><plain>Blood sampling (p&lt;0.001) and drug bolus injections (p=0.06) had higher HITS counts per patient than infusions </plain></SENT>
+<SENT sid="9" pm="."><plain>Repetitive purging significantly increased HITS counts (r=0.74; p &lt;0.001) </plain></SENT>
+<SENT sid="10" pm="."><plain>Purging perfusionists (purging: 1-10 times) had higher HITS counts per patient [5 HITS (1, 15) than nonpurgers [0 HITS (0, 1) p &lt;0.0001] </plain></SENT>
+<SENT sid="11" pm="."><plain>HITS counts were significantly correlated with reservoir volumes (r= -0.20, p=0.017) and pump flow rates (r=0.21, p =0.008) </plain></SENT>
+<SENT sid="12" pm="."><plain>Reservoir volume levels &lt; or =800 mL were associated with higher HITS counts per intervention [11 HITS (2, 27)] during blood sampling compared with higher volume levels [3 HITS (1, 10), p =0.001] </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSIONS: <z:e sem="disease" ids="C0007780" disease_type="Disease or Syndrome" abbrv="">Cerebral emboli</z:e> associated with perfusionist interventions can be minimized by not purging the sampling manifold, using continuous infusions rather than bolus injections, and maintaining <z:mp ids='MP_0010127'>high blood-volume</z:mp> levels (&gt;800mL) in the venous reservoir </plain></SENT>
+</text></document>

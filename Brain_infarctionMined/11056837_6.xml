@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>EEGs from 16 patients with <z:hpo ids='HP_0001297'>stroke</z:hpo> in three different stages of evolution were recorded </plain></SENT>
+<SENT sid="1" pm="."><plain>EEG sources were calculated every 0.39 Hz by frequency domain VARETA </plain></SENT>
+<SENT sid="2" pm="."><plain>The main source was within the delta band in 2 out of 4 <z:hpo ids='HP_0011010'>chronic</z:hpo> patients, and in 67% of the patients in the <z:hpo ids='HP_0011009'>acute</z:hpo> or <z:hpo ids='HP_0011011'>subacute</z:hpo> stages when <z:hpo ids='HP_0000969'>edema</z:hpo> (cytotoxic or vasogenic) was present </plain></SENT>
+<SENT sid="3" pm="."><plain>Moreover, <z:hpo ids='HP_0000001'>all</z:hpo> patients showed abnormal activity in the theta band </plain></SENT>
+<SENT sid="4" pm="."><plain>Sources of abnormal activity in cortical or corticosubcortical <z:mpath ids='MPATH_124'>infarcts</z:mpath> were located in the cortex, surrounding the lesion </plain></SENT>
+<SENT sid="5" pm="."><plain>At the site of the <z:mpath ids='MPATH_124'>infarct</z:mpath>, a decrease of EEG power was observed </plain></SENT>
+<SENT sid="6" pm="."><plain>Sources of abnormal theta power coincided with <z:hpo ids='HP_0000969'>edema</z:hpo> and/or ischemic penumbra </plain></SENT>
+</text></document>

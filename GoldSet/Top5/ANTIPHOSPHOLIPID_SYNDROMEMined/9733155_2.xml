@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:e sem="disease" ids="C0085278" disease_type="Disease or Syndrome" abbrv="">Antiphospholipid syndrome</z:e> (APS) is characterized by <z:hpo ids='HP_0004419'>recurrent thrombosis</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>The <z:chebi fb="3" ids="50249">anticoagulant</z:chebi> management of APS <z:mp ids='MP_0005048'>thrombosis</z:mp> remains controversial </plain></SENT>
+<SENT sid="2" pm="."><plain>Few reports on markers of in vivo activation of coagulation have been reported </plain></SENT>
+<SENT sid="3" pm="."><plain>To determine whether plasma levels of prothrombin fragment 1 + 2 (F1 +2) correlate with thrombotic risk and treatment effect in patients with APS, plasma F1 + 2 levels were followed in 57 patients with this syndrome for more than 2 years </plain></SENT>
+<SENT sid="4" pm="."><plain>Clinical findings were also observed in these patients </plain></SENT>
+<SENT sid="5" pm="."><plain>Plasma levels of F1 + 2 in patients with APS were significantly higher when compared with control subjects (p&lt;.05) </plain></SENT>
+<SENT sid="6" pm="."><plain>These results suggest patients with APS are in a <z:e sem="disease" ids="C0398623" disease_type="Disease or Syndrome" abbrv="">hypercoagulable state</z:e> </plain></SENT>
+<SENT sid="7" pm="."><plain>Plasma levels of F1 + 2 significantly decreased following treatment with either aspirin, or aspirin plus <z:chebi fb="8" ids="10033">warfarin</z:chebi> (p&lt;.05 and p&lt;.01, respectively) </plain></SENT>
+<SENT sid="8" pm="."><plain>Recurrent thromboses or <z:hpo ids='HP_0005268'>spontaneous abortions</z:hpo> occurred in <z:hpo ids='HP_0000001'>all</z:hpo> eight patients whose plasma levels of F1 + 2 remained higher than 1 nmol/l after treatment with either aspirin alone or no <z:chebi fb="2" ids="50249">anticoagulants</z:chebi> </plain></SENT>
+<SENT sid="9" pm="."><plain>These patients were subsequently treated with <z:chebi fb="8" ids="10033">warfarin</z:chebi> as well as aspirin, and plasma levels of F1 + 2 decreased to less than 1 nmol/l, with no additional thrombotic events over the remainder of the 2-year follow-up </plain></SENT>
+<SENT sid="10" pm="."><plain>No fatal <z:mp ids='MP_0001914'>bleeding</z:mp> was observed in treated patients </plain></SENT>
+<SENT sid="11" pm="."><plain>Our results suggest plasma levels of F1 + 2 are useful indicators of successful treatment </plain></SENT>
+<SENT sid="12" pm="."><plain>It is also suggested that <z:chebi fb="8" ids="10033">warfarin</z:chebi> plus mini-dose aspirin therapy is effective for patients with APS to protect from recurrent thromboses without harmful side effects </plain></SENT>
+<SENT sid="13" pm="."><plain>Further, prospective cohort studies are needed to substantiate these associations </plain></SENT>
+</text></document>

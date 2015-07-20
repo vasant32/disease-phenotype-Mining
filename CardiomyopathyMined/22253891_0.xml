@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Programmed cell <z:hpo ids='HP_0011420'>death</z:hpo> 5 (PDCD5) is a cytosolic protein suppressing growth of multiple types of <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> cells through activating p53 </plain></SENT>
+<SENT sid="1" pm="."><plain>We hypothesized that PDCD5 plays an essential role in cardiac remodeling and function </plain></SENT>
+<SENT sid="2" pm="."><plain>PDCD5 was significantly up-regulated in the hearts from mice subjected to <z:chebi fb="0" ids="2719,48432">angiotensin II</z:chebi> treatment or transverse aortic constriction </plain></SENT>
+<SENT sid="3" pm="."><plain>Thus, we generated transgenic mice over-expressing human PDCD5 under the control of alpha myosin heavy chain promoter to examine the role of PDCD5 in cardiac remodeling </plain></SENT>
+<SENT sid="4" pm="."><plain>Transgenic <z:e sem="disease" ids="C0263541" disease_type="Disease or Syndrome" abbrv="">founder</z:e> died spontaneously displayed <z:mp ids='MP_0000274'>enlarged heart</z:mp> </plain></SENT>
+<SENT sid="5" pm="."><plain>The high PDCD5 over-expressing line (10-fold) showed <z:mp ids='MP_0008770'>reduced survival rate</z:mp>, increase in heart weight normalized to body weight </plain></SENT>
+<SENT sid="6" pm="."><plain>Real-Time RT-PCR analysis revealed fetal gene program was up-regulated </plain></SENT>
+<SENT sid="7" pm="."><plain>Echocardiography and histopathological examination showed characteristics of <z:hpo ids='HP_0001644'>dilated cardiomyopathy</z:hpo> and <z:hpo ids='HP_0001635'>heart failure</z:hpo> in transgenic mice </plain></SENT>
+<SENT sid="8" pm="."><plain>Western blot and immunohistochemistry analysis showed autophagy was dramatically increased in transgenic mice as compared to WT littermates control mice, while <z:mpath ids='MPATH_3'>apoptosis</z:mpath> remained unchanged </plain></SENT>
+<SENT sid="9" pm="."><plain>The enhanced autophagy in high over-expressing line was associated with significant increase in p53 activity and its downstream target damage-regulated autophagy modulator expression </plain></SENT>
+<SENT sid="10" pm="."><plain>The low over-expressing line (3.5-fold) appeared <z:mpath ids='MPATH_458'>normal</z:mpath>, but was more susceptible to <z:chebi fb="0" ids="2719,48432">angiotensin II</z:chebi>-induced <z:mp ids='MP_0001625'>cardiac hypertrophy</z:mp> </plain></SENT>
+<SENT sid="11" pm="."><plain>This study is the first providing evidence that PDCD5 plays an important role in cardiac remodeling </plain></SENT>
+</text></document>

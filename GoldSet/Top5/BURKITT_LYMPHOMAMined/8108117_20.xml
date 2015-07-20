@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A panel of 18 Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">BL</z:e>) and nine other cell lines was examined for mutations in the N-terminal transactivation domain of c-Myc </plain></SENT>
+<SENT sid="1" pm="."><plain>Mutations leading to exchange of amino acids were detected in 13 BL but in none of the control cell lines </plain></SENT>
+<SENT sid="2" pm="."><plain>Mutations in c-Myc clustered between amino acid positions 57 and 62 </plain></SENT>
+<SENT sid="3" pm="."><plain>Thr-58 and Ser-62 are known phosphorylation sites of c-Myc in vivo </plain></SENT>
+<SENT sid="4" pm="."><plain><z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">BL</z:e> cell lines derived from the same <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumour</z:e> revealed different mutations </plain></SENT>
+<SENT sid="5" pm="."><plain>Mutant cDNAs of the <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">BL</z:e> cell line Raji differed at 14 positions indicating ongoing mutation of the translocated c-myc during long-term propagation in cell culture </plain></SENT>
+<SENT sid="6" pm="."><plain>The effect of mutations on transactivation by c-Myc was tested by expression of GAL4/c-Myc fusion proteins in the <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">BL</z:e> cell line Raji </plain></SENT>
+<SENT sid="7" pm="."><plain>Mutants with an amino acid exchange at positions 58 or 60 transactivated a reporter gene two- to fivefold weaker than <z:mp ids='MP_0002169'>wildtype</z:mp> c-Myc </plain></SENT>
+<SENT sid="8" pm="."><plain>Thr-58 and Ser-62 were replaced by aspartic acid to mimic constitutively phosphorylated forms of c-Myc </plain></SENT>
+<SENT sid="9" pm="."><plain>These mutants transactivated two- to three-fold weaker than <z:mp ids='MP_0002169'>wildtype</z:mp> c-Myc indicating that a negative charge at positions 58 and/or 62 per se does not enhance transactivation </plain></SENT>
+<SENT sid="10" pm="."><plain>We propose that mutations in the N-terminal domain of c-Myc correlate with reduced transactivation and provide a growth advantage for <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">BL</z:e> cells </plain></SENT>
+</text></document>

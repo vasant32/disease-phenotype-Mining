@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Annexin A5 (AnxA5) is a potent <z:chebi fb="3" ids="50249">anticoagulant</z:chebi> protein that crystallizes over <z:chebi fb="0" ids="16247">phospholipid</z:chebi> bilayers (PLBs), blocking their availability for coagulation reactions </plain></SENT>
+<SENT sid="1" pm="."><plain><z:hpo ids='HP_0003613'>Antiphospholipid antibodies</z:hpo> disrupt AnxA5 binding, thereby accelerating coagulation reactions </plain></SENT>
+<SENT sid="2" pm="."><plain>This disruption may contribute to <z:mp ids='MP_0005048'>thrombosis</z:mp> and <z:e sem="disease" ids="C0000786" disease_type="Disease or Syndrome" abbrv="">miscarriages</z:e> in the <z:e sem="disease" ids="C0085278" disease_type="Disease or Syndrome" abbrv="">antiphospholipid syndrome</z:e> (APS) </plain></SENT>
+<SENT sid="3" pm="."><plain>We investigated whether the <z:chebi fb="1" ids="38068">antimalarial</z:chebi> drug, hydroxychloroquine (HCQ), might affect this prothrombotic mechanism </plain></SENT>
+<SENT sid="4" pm="."><plain>Binding of AnxA5 to PLBs was measured with labeled AnxA5 and also imaged with atomic force microscopy </plain></SENT>
+<SENT sid="5" pm="."><plain>Immunoglobulin G levels, AnxA5, and plasma coagulation times were measured on cultured human umbilical vein endothelial cells and a syncytialized trophoblast cell line </plain></SENT>
+<SENT sid="6" pm="."><plain>AnxA5 <z:chebi fb="3" ids="50249">anticoagulant</z:chebi> activities of APS patient plasmas were also determined </plain></SENT>
+<SENT sid="7" pm="."><plain>HCQ reversed the effect of <z:hpo ids='HP_0003613'>antiphospholipid antibodies</z:hpo> on AnxA5 and restored AnxA5 binding to PLBs, an effect corroborated by atomic force microscopy </plain></SENT>
+<SENT sid="8" pm="."><plain>Similar reversals of antiphospholipid-induced abnormalities were measured on the surfaces of human umbilical vein endothelial cells and syncytialized trophoblast cell lines, wherein HCQ reduced the binding of <z:hpo ids='HP_0003613'>antiphospholipid antibodies</z:hpo>, increased cell-surface AnxA5 concentrations, and prolonged plasma coagulation to control levels </plain></SENT>
+<SENT sid="9" pm="."><plain>In addition, HCQ increased the AnxA5 <z:chebi fb="3" ids="50249">anticoagulant</z:chebi> activities of APS patient plasmas </plain></SENT>
+<SENT sid="10" pm="."><plain>In conclusion, HCQ reversed antiphospholipid-mediated disruptions of AnxA5 on PLBs and cultured cells, and in APS patient plasmas </plain></SENT>
+<SENT sid="11" pm="."><plain>These results support the concept of novel therapeutic approaches that address specific APS disease mechanisms </plain></SENT>
+</text></document>

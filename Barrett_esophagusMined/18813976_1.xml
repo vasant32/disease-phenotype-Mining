@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: A <z:e sem="disease" ids="C1519106" disease_type="Experimental Model of Disease" abbrv="">rodent model</z:e> of gastroduodenal-<z:e sem="disease" ids="C0017168,C0559234" disease_type="Disease or Syndrome;Finding" abbrv="">esophageal reflux</z:e> can result in replacement of squamous esophageal mucosa with intestinal-type columnar mucosa and <z:mp ids='MP_0002038'>carcinoma</z:mp> </plain></SENT>
+<SENT sid="1" pm="."><plain>The validity of this model is debated, as it is unproven whether this mucosa is <z:mpath ids='MPATH_167'>intestinal metaplasia</z:mpath> due to reflux or represents migration of adjacent jejunal mucosa above the anastomosis </plain></SENT>
+<SENT sid="2" pm="."><plain>The aim of this study was to evaluate the esophageal intestinal-type mucosa in these animals by measuring expression of trefoil factor genes (TFF-1, -2, -3) and comparing it with adjacent jejunum in order to determine its etiology </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: Twenty-five rats underwent esophagojejunostomy at the ligament of Treitz to induce reflux of gastric and duodenal contents </plain></SENT>
+<SENT sid="4" pm="."><plain>The animals were sacrificed at 16 weeks (n = 14) and 30 weeks (n = 11) </plain></SENT>
+<SENT sid="5" pm="."><plain>After sacrifice, the distal esophagus, jejunum, and colon were obtained </plain></SENT>
+<SENT sid="6" pm="."><plain><z:chebi fb="40" ids="33697">RNA</z:chebi> was isolated, reverse transcribed, and <z:chebi fb="5" ids="33699">messenger RNA</z:chebi> (<z:chebi fb="2" ids="33699">mRNA</z:chebi>) expression of TFF-1, -2, and -3 was measured with real-time polymerase chain reaction (PCR) </plain></SENT>
+<SENT sid="7" pm="."><plain>Linear discriminant analysis classified samples based on gene expression </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: Esophageal intestinal-type mucosa was present at sacrifice in 18 animals </plain></SENT>
+<SENT sid="9" pm="."><plain>Compared to jejunum, the expression of TFF-1 and TFF-2 mRNA in the intestinal mucosa of the distal esophagus was increased (p = 0.0007 and p &lt; 0.0001, respectively) </plain></SENT>
+<SENT sid="10" pm="."><plain>Expression of TFF-3 was also increased in esophageal intestinal mucosa compared with jejunum (p = 0.0002), but there was significant overlap in expression between these tissues for this gene </plain></SENT>
+<SENT sid="11" pm="."><plain>Linear discriminant analysis misclassified esophageal intestinal-type mucosa as jejunum in only one case </plain></SENT>
+<SENT sid="12" pm="."><plain>In no cases was jejunum misclassified as esophageal intestinal-type mucosa </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSION: The gene expression profile of esophageal intestinal-type mucosa following surgically induced reflux in a <z:e sem="disease" ids="C1519106" disease_type="Experimental Model of Disease" abbrv="">rodent model</z:e> indicates that this represents <z:mpath ids='MPATH_167'>intestinal metaplasia</z:mpath>, not proximal migration of jejunum </plain></SENT>
+<SENT sid="14" pm="."><plain>This validates this model for studying the pathogenesis of <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> </plain></SENT>
+<SENT sid="15" pm="."><plain>Use of this model has potential for assessment of the impact of various therapies on the natural history of reflux disease </plain></SENT>
+</text></document>

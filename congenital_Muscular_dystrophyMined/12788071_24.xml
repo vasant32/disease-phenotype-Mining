@@ -1,0 +1,7 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Muscle-eye-<z:e sem="disease" ids="C0006111" disease_type="Disease or Syndrome" abbrv="">brain disease</z:e> (MEB), an <z:hpo ids='HP_0000007'>autosomal recessive</z:hpo> disorder, is characterized by <z:hpo ids='HP_0003741'>congenital muscular dystrophy</z:hpo>, brain malformation, and ocular abnormalities </plain></SENT>
+<SENT sid="1" pm="."><plain>Previously, we found that MEB is caused by mutations in the gene encoding the protein O-linked <z:chebi fb="0" ids="37684">mannose</z:chebi> beta1,2-N-acetylglucosaminyltransferase 1 (POMGnT1), which is responsible for the formation of the GlcNAcbeta1-2Man linkage of O-mannosyl glycan </plain></SENT>
+<SENT sid="2" pm="."><plain>Although 13 mutations have been identified in patients with MEB, only the protein with the most frequently observed splicing site mutation has been studied </plain></SENT>
+<SENT sid="3" pm="."><plain>This protein was found to have no activity </plain></SENT>
+<SENT sid="4" pm="."><plain>Here, we expressed the remaining mutant POMGnT1s and found that none of them had any activity </plain></SENT>
+<SENT sid="5" pm="."><plain>These results clearly demonstrate that MEB is inherited as a loss-of-function of POMGnT1 </plain></SENT>
+</text></document>

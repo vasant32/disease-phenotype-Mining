@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Non-dysplastic serrated <z:mpath ids='MPATH_491'>polyps</z:mpath> (ND-SP) represent a <z:hpo ids='HP_0001425'>heterogeneous</z:hpo> group of colorectal lesions that comprise <z:mpath ids='MPATH_140'>hyperplastic polyp</z:mpath> (HP) and the non-dysplastic subset of sessile serrated <z:mpath ids='MPATH_270'>adenoma</z:mpath>/<z:mpath ids='MPATH_491'>polyp</z:mpath>/lesion (SSA/P/L) and its borderline variant (BSSA/P/L) </plain></SENT>
+<SENT sid="1" pm="."><plain>Given the observer variation in their histological typing, the identification of reliable markers that assist in the characterisation is warranted </plain></SENT>
+<SENT sid="2" pm="."><plain>Most important is the identification of <z:mpath ids='MPATH_491'>polyp</z:mpath> qualities that may reflect the patients' risk of developing <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> </plain></SENT>
+<SENT sid="3" pm="."><plain>To address these issues, CD133 may represent a potential adjunct </plain></SENT>
+<SENT sid="4" pm="."><plain>Here we studied the discriminatory value of CD133 expression in the classification of ND-SPs and its distribution pattern in relation to synchronous colorectal <z:mp ids='MP_0002038'>carcinoma</z:mp> (SCRC) </plain></SENT>
+<SENT sid="5" pm="."><plain>39 SSA/P/Ls, 27 BSSA/P/Ls and 21 matched <z:chebi fb="1" ids="46711">HPs</z:chebi> were immunostained for CD133 </plain></SENT>
+<SENT sid="6" pm="."><plain>The data were further correlated to the presence of SCRC and to <z:mpath ids='MPATH_491'>polyp</z:mpath> site and size </plain></SENT>
+<SENT sid="7" pm="."><plain>Ignoring SCRC status, CD133 was expressed more prominently in SSA/P/Ls than in <z:chebi fb="1" ids="46711">HPs</z:chebi> </plain></SENT>
+<SENT sid="8" pm="."><plain>The values for BSSA/P/Ls fell in between, yet closer to the SSA/P/L scorings </plain></SENT>
+<SENT sid="9" pm="."><plain>This observation was retained in the context of SCRC and for SSA/P/Ls not associated with SCRC </plain></SENT>
+<SENT sid="10" pm="."><plain>Right-sidedness and large size of the <z:mpath ids='MPATH_491'>polyps</z:mpath> more commonly associated with increased CD133 expression </plain></SENT>
+<SENT sid="11" pm="."><plain>CD133 expression was not a significant discriminator as to the SCRC status </plain></SENT>
+<SENT sid="12" pm="."><plain>BSSA/P/Ls are more closely aligned to SSA/P/L and further that SSA/P/L and BSSA/P/Ls fundamentally differ from HP by their CD133 immunoprofile, a notion that can be exploited in the diagnostic routine practice </plain></SENT>
+<SENT sid="13" pm="."><plain>Recorded data further indirectly support the idea that SSA/P/Ls are more prone to <z:e sem="disease" ids="C0178874" disease_type="Neoplastic Process" abbrv="">neoplastic progression</z:e> than are <z:chebi fb="1" ids="46711">HPs</z:chebi> </plain></SENT>
+</text></document>

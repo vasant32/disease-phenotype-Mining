@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: The early differential diagnosis of <z:e sem="disease" ids="C0002395" disease_type="Disease or Syndrome" abbrv="SDAT">Alzheimer's disease</z:e> (AD) remains still problematic </plain></SENT>
+<SENT sid="1" pm="."><plain>We developed a laboratory test enabling us to distinguish patients with AD from those with vascular <z:hpo ids='HP_0000726'>dementia</z:hpo> (VD) and healthy subjects </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: The AD group consisted of 22 women and 18 men </plain></SENT>
+<SENT sid="3" pm="."><plain>The VD group consisted of 16 women and 8 men </plain></SENT>
+<SENT sid="4" pm="."><plain>Age-matched controls consisted of 12 women and 9 men </plain></SENT>
+<SENT sid="5" pm="."><plain>Plasma <z:chebi fb="0" ids="35420">pregnenolone sulfate</z:chebi> (PregS), dehydroepiandrosterone (DHEA) and its <z:chebi fb="0" ids="16189">sulfate</z:chebi> (DHEAS) were determined by radioimmunoassay </plain></SENT>
+<SENT sid="6" pm="."><plain><z:chebi fb="0" ids="28750">17-Hydroxypregnenolone</z:chebi> (17Preg) and 7-hydroxylated metabolites of DHEA (7alphaDHEA, 7betaDHEA) were determined by radioimmunoassay after separation by high performance liquid chromatography (HPLC) </plain></SENT>
+<SENT sid="7" pm="."><plain><z:chebi fb="0" ids="17230">Homocysteine</z:chebi> (<z:chebi fb="0" ids="17230">Hcy</z:chebi>), cysteine (Cys), <z:chebi fb="0" ids="4047">cysteinylglycine</z:chebi> (<z:chebi fb="0" ids="4047">Cysgly</z:chebi>) and <z:chebi fb="0" ids="16856">glutathione</z:chebi> (GSH) were measured by HPLC </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: The ANOVA results of significant between-group differences were as follows: The PregS and the 17-Preg and DHEAS levels were independent from the diagnosis </plain></SENT>
+<SENT sid="9" pm="."><plain>The 7alphaDHEA levels significantly depended on the sex (p &lt; 0.05) and diagnosis (p &lt; 0.01) </plain></SENT>
+<SENT sid="10" pm="."><plain>Amino-<z:chebi fb="0" ids="29256">thiols</z:chebi> were influenced by the diagnosis (p &lt; 0.01, p = 0.0541, p &lt; 0.01 and p = 0.0536 for Cys, <z:chebi fb="0" ids="17230">Hcy</z:chebi>, <z:chebi fb="0" ids="4047">Cysgly</z:chebi> and GSH, respectively) </plain></SENT>
+<SENT sid="11" pm="."><plain>Using a stepwise backward regression analysis, the following parameters were obtained: X = 11.5 + 4.03 x sex +1.09 x <z:chebi fb="0" ids="17230">Hcy</z:chebi> + 0.190 x PregS - 4.76 x DHEAS + 3.00 x DHEA - 34.3 x 77alphaDHEA - 0.885 x <z:chebi fb="0" ids="4047">Cysgly</z:chebi> from which P-value as a discriminator was calculated according to the formula: P = 1/(1 + e(-x)) </plain></SENT>
+<SENT sid="12" pm="."><plain>Then, for P &gt; 0.5, a subject was considered as AD-positive (with 89% correct prediction) </plain></SENT>
+<SENT sid="13" pm="."><plain>Discussion: The opportunity of early differential diagnosis of AD should help physicians to use suitable treatment for retardation of pathological processes </plain></SENT>
+</text></document>

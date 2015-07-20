@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Close association between <z:hpo ids='HP_0005110'>atrial fibrillation</z:hpo> (AF) and brain natriuretic <z:chebi fb="7" ids="16670">peptide</z:chebi> (BNP) has been demonstrated by several studies </plain></SENT>
+<SENT sid="1" pm="."><plain>Important gender differences exist in AF patients including a higher plasma BNP level in women </plain></SENT>
+<SENT sid="2" pm="."><plain>Therefore, it is imperative to evaluate the relationship between AF and BNP separately in men and women </plain></SENT>
+<SENT sid="3" pm="."><plain>OBJECTIVE: This study examined possible gender-specific role of BNP in predicting procedure outcome in AF patients undergoing catheter ablation </plain></SENT>
+<SENT sid="4" pm="."><plain>METHOD: The study population included 568 consecutive patients (age 62 ± 10, male 73%, paroxysmal 25%, persistent 38%, and long-standing persistent AF 37%) undergoing AF ablation, who had structurally <z:mpath ids='MPATH_458'>normal</z:mpath> heart and left ventricular ejection fraction ≥45% </plain></SENT>
+<SENT sid="5" pm="."><plain>Baseline BNP was measured in <z:hpo ids='HP_0000001'>all</z:hpo> </plain></SENT>
+<SENT sid="6" pm="."><plain>Patients were grouped into "<z:mpath ids='MPATH_458'>normal</z:mpath>" and "high" BNP based on gender-specific cut-off values (&lt;50 and ≥50 pg/mL in males, &lt;100 and ≥ 100 pg/mL in females) </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULT: Baseline BNP was significantly higher among women than men (126 ± 112 versus 87 ± 99, P = 0.009) </plain></SENT>
+<SENT sid="8" pm="."><plain>At 12 ± 6 month follow-up, 304 of 414 (73%) males and 98 of 154 (64%) females were AF/atrial <z:hpo ids='HP_0001649'>tachycardia</z:hpo>-free off antiarrhythmic drugs (log-rank P = 0.018) </plain></SENT>
+<SENT sid="9" pm="."><plain>In multivariable analysis, BNP remained an independent predictor of AF recurrence (BNP ≥ 50: hazard ratio [HR] 2.54, P = 0.006) in males </plain></SENT>
+<SENT sid="10" pm="."><plain>No such association was observed among females (BNP ≥ 100: HR 0.79, 95% CI 0.43-1.42; P = 0.426) </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSION: Baseline BNP was found to be an independent predictor of AF recurrence in male patients undergoing ablation </plain></SENT>
+<SENT sid="12" pm="."><plain>This correlation between BNP and AF recurrence was not observed in females </plain></SENT>
+<SENT sid="13" pm="."><plain>Thus, BNP plays a gender-specific prognostic role in AF </plain></SENT>
+</text></document>

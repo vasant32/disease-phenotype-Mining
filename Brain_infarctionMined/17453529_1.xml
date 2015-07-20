@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Thin-section diffusion-weighted imaging (DWI) is known to improve lesion detectability, with long imaging time as a drawback </plain></SENT>
+<SENT sid="1" pm="."><plain>Parallel imaging (PI) is a technique that takes advantage of spatial sensitivity information inherent in an array of multiple-receiver surface coils to partially replace time-consuming spatial encoding and reduce imaging time </plain></SENT>
+<SENT sid="2" pm="."><plain>PURPOSE: To prospectively evaluate a 3-mm-thin-section DWI technique combined with PI by means of qualitative and quantitative measurements </plain></SENT>
+<SENT sid="3" pm="."><plain>MATERIAL AND METHODS: 30 patients underwent conventional echo-planar (EPI) DWI (5-mm section thickness, 1-mm intersection gap) without parallel imaging, and thin-section EPI-DWI with PI (3-mm section thickness, 0-mm intersection gap) for a b value of 1000 s/mm(2), with an imaging time of 40 and 80 s, respectively </plain></SENT>
+<SENT sid="4" pm="."><plain>Signal-to-noise ratio (SNR), relative signal intensity (rSI), and apparent diffusion coefficient (<z:chebi fb="49" ids="35181">ADC</z:chebi>) values were measured over a lesion-free cerebral region on both series by two radiologists </plain></SENT>
+<SENT sid="5" pm="."><plain>A quality score was assigned for each set of images to assess the image quality </plain></SENT>
+<SENT sid="6" pm="."><plain>When a brain lesion was present, contrast-to-noise ratio (<z:chebi fb="11" ids="50807">CNR</z:chebi>) and corresponding <z:chebi fb="49" ids="35181">ADC</z:chebi> were also measured </plain></SENT>
+<SENT sid="7" pm="."><plain>Student t-tests were used for statistical analysis </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: Mean SNR values of the <z:mpath ids='MPATH_458'>normal</z:mpath> brain were 33.61+/-4.35 and 32.98+/-7.19 for conventional and thin-slice DWI (P&gt;0.05), respectively </plain></SENT>
+<SENT sid="9" pm="."><plain>Relative signal intensities were significantly higher on thin-section DWI (P&lt;0.05) </plain></SENT>
+<SENT sid="10" pm="."><plain>Mean <z:chebi fb="49" ids="35181">ADCs</z:chebi> of the brain obtained by both techniques were comparable (P&gt;0.05) </plain></SENT>
+<SENT sid="11" pm="."><plain>Quality scores and overall lesion <z:chebi fb="11" ids="50807">CNR</z:chebi> were found to be higher in thin-section DWI with parallel imaging </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSION: A thin-section technique combined with PI improves rSI, <z:chebi fb="11" ids="50807">CNR</z:chebi>, and image quality without compromising SNR and <z:chebi fb="49" ids="35181">ADC</z:chebi> measurements in an acceptable imaging time </plain></SENT>
+</text></document>

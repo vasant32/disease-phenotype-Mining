@@ -1,0 +1,5 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 12-month-old infant presented with cerebral <z:hpo ids='HP_0001250'>seizures</z:hpo> and neurological deficits </plain></SENT>
+<SENT sid="1" pm="."><plain>MRI scan of the brain and angiography showed massive cerebral venous sinus <z:mp ids='MP_0005048'>thrombosis</z:mp> complicated by a dural <z:hpo ids='HP_0004947'>arteriovenous fistula</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>Subsequent clotting analysis revealed a <z:e sem="disease" ids="C0242666" disease_type="Disease or Syndrome" abbrv="">protein S deficiency</z:e> </plain></SENT>
+<SENT sid="3" pm="."><plain>Screening for inherited coagulation inhibitor deficiency is recommended in children with unexplained or atypical thrombotic events </plain></SENT>
+</text></document>

@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVES: This study evaluates intra- and interobserver variability of automatic diameter and volume measurements of colorectal <z:e sem="disease" ids="C0494165" disease_type="Neoplastic Process" abbrv="">liver metastases</z:e> (CRLM) before and after chemotherapy and its influence on response classification </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: Pre-and post-chemotherapy CT-scans of 33 patients with 138 CRLM were evaluated </plain></SENT>
+<SENT sid="2" pm="."><plain>Two observers measured <z:hpo ids='HP_0000001'>all</z:hpo> <z:e sem="disease" ids="C0027627" disease_type="Neoplastic Process" abbrv="mets">metastases</z:e> three times on pre-and post-chemotherapy CT-scans, using three different techniques: manual diameter (MD), automatic diameter (AD) and automatic volume (AV) </plain></SENT>
+<SENT sid="3" pm="."><plain>RECIST 1.0 criteria were used to define response classification </plain></SENT>
+<SENT sid="4" pm="."><plain>For each technique, we assessed intra- and interobserver reliability by determining the intraclass correlation coefficient (α-level 0.05) </plain></SENT>
+<SENT sid="5" pm="."><plain>Intra-observer agreement was estimated by the variance coefficient (%) </plain></SENT>
+<SENT sid="6" pm="."><plain>For inter-observer agreement the relative measurement error (%) was calculated using Bland-Altman analysis </plain></SENT>
+<SENT sid="7" pm="."><plain>In addition, we compared agreement in response classification by calculating kappa-scores (κ) and estimating proportions of discordance between methods (%) </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: Intra-observer variability was 6.05%, 4.28% and 12.72% for MD, AD and AV, respectively </plain></SENT>
+<SENT sid="9" pm="."><plain>Inter-observer variability was 4.23%, 2.02% and 14.86% for MD, AD and AV, respectively </plain></SENT>
+<SENT sid="10" pm="."><plain>Chemotherapy marginally affected these estimates </plain></SENT>
+<SENT sid="11" pm="."><plain>Agreement in response classification did not improve using AD or AV (MD κ=0.653, AD κ=0.548, AV κ=0.548) and substantial discordance between observers was observed with <z:hpo ids='HP_0000001'>all</z:hpo> three methods (MD 17.8%, AD 22.2%, AV 22.2%) </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSION: Semi-automatic software allows repeatable and reproducible measurement of both diameter and volume measurements of CRLM, but does not reduce variability in response classification </plain></SENT>
+</text></document>

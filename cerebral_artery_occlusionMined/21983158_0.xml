@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Evidence suggests an association between <z:e sem="disease" ids="C0007786" disease_type="Disease or Syndrome" abbrv="">brain ischemia</z:e> and <z:e sem="disease" ids="C0002395" disease_type="Disease or Syndrome" abbrv="SDAT">Alzheimer's disease</z:e> (AD) development </plain></SENT>
+<SENT sid="1" pm="."><plain>Amyloid plaques consisted of β-amyloid <z:chebi fb="7" ids="16670">peptide</z:chebi> (Aβ) in the brain are a pathological hallmark of AD </plain></SENT>
+<SENT sid="2" pm="."><plain>Little is known about how <z:e sem="disease" ids="C0007786" disease_type="Disease or Syndrome" abbrv="">brain ischemia</z:e> induces AD-like neuropathology </plain></SENT>
+<SENT sid="3" pm="."><plain>A strategy effective to block such brain changes has not been reported </plain></SENT>
+<SENT sid="4" pm="."><plain>Here, adult male Sprague-Dawley rats were subjected to a 90-min right middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (MCAO) </plain></SENT>
+<SENT sid="5" pm="."><plain><z:chebi fb="0" ids="33135">Pyrrolidine</z:chebi> dithiocarbamate (PDTC) at various doses was given daily via gastric gavage with the first dose given at 10 min after the <z:hpo ids='HP_0003674'>onset</z:hpo> of reperfusion </plain></SENT>
+<SENT sid="6" pm="."><plain>The MCAO increased Aβ1-42 concentrations in the ischemic brain tissues </plain></SENT>
+<SENT sid="7" pm="."><plain>PDTC attenuated this increase </plain></SENT>
+<SENT sid="8" pm="."><plain>PDTC also decreased the <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e>-reduced expression of neprilysin, an Aβ degrading enzyme </plain></SENT>
+<SENT sid="9" pm="."><plain>Aβ1-42 levels were negatively correlated with neprilysin protein abundance </plain></SENT>
+<SENT sid="10" pm="."><plain><z:e sem="disease" ids="C0007786" disease_type="Disease or Syndrome" abbrv="">Brain ischemia</z:e> decreased the expression of β-amyloid converting enzyme 1, a key enzyme to produce Aβ, and increased the expression of insulin-degrading enzyme, another Aβ degrading enzyme </plain></SENT>
+<SENT sid="11" pm="."><plain>Animals had impaired learning and memory at 2 months after the MCAO </plain></SENT>
+<SENT sid="12" pm="."><plain>PDTC attenuated this impairment </plain></SENT>
+<SENT sid="13" pm="."><plain>PDTC also improved long-term neurological outcomes </plain></SENT>
+<SENT sid="14" pm="."><plain>Our findings suggest that PDTC improves long-term neurological outcome of rats after transient focal <z:e sem="disease" ids="C0007786" disease_type="Disease or Syndrome" abbrv="">brain ischemia</z:e> </plain></SENT>
+<SENT sid="15" pm="."><plain>PDTC reduces <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e>-induced Aβ accumulation, possibly via preserving neprilysin expression </plain></SENT>
+</text></document>

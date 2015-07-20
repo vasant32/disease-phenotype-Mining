@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Recent advances in genetical engineering of the mouse have highlighted the importance of reproducible and less invasive models of <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> in mice </plain></SENT>
+<SENT sid="1" pm="."><plain>In this paper, we developed minimally invasive and reproducible model of distal middle cerebral artery (<z:chebi fb="70" ids="34342">MCA</z:chebi>) occlusion in mice using <z:chebi fb="25" ids="49696">krypton</z:chebi> (Kr) laser-induced photothrombosis </plain></SENT>
+<SENT sid="2" pm="."><plain>C57BL/6 or BALB mice (n=8 each) were anesthetized with <z:chebi fb="2" ids="5615">halothane</z:chebi> </plain></SENT>
+<SENT sid="3" pm="."><plain>The skin was cut, the temporal muscle was retracted, and the right distal <z:chebi fb="70" ids="34342">MCA</z:chebi> was observed through the skull </plain></SENT>
+<SENT sid="4" pm="."><plain>A Kr laser beam of wavelength 568 nm was focused onto the <z:chebi fb="70" ids="34342">MCA</z:chebi> over the intact skull </plain></SENT>
+<SENT sid="5" pm="."><plain>Upon laser irradiation, intravenous administration of a <z:chebi fb="0" ids="52261">rose bengal</z:chebi> solution was begun </plain></SENT>
+<SENT sid="6" pm="."><plain>After 4 min of irradiation, the laser beam was refocused on the <z:chebi fb="70" ids="34342">MCA</z:chebi> just proximal to the first spot, and another 4-min irradiation was performed </plain></SENT>
+<SENT sid="7" pm="."><plain>Then, the right common carotid artery (CCA) was ligated </plain></SENT>
+<SENT sid="8" pm="."><plain>Three days later, the brain was removed, and <z:mpath ids='MPATH_124'>infarct</z:mpath> volume was determined </plain></SENT>
+<SENT sid="9" pm="."><plain>Infarction confined almost solely to the cortical area was produced in each mouse </plain></SENT>
+<SENT sid="10" pm="."><plain>Mean <z:mpath ids='MPATH_124'>infarct</z:mpath> volume in C57BL/6 mice was 25.2+/-13.7 mm3 </plain></SENT>
+<SENT sid="11" pm="."><plain>The BALB mice group showed significantly larger and more reproducible infarction (44.1+/-5.2 mm3; the coefficient of variation was 12%) than did C57BL/6 mice (P&lt;0.005) </plain></SENT>
+<SENT sid="12" pm="."><plain>Our photothrombosis model of <z:hpo ids='HP_0001297'>stroke</z:hpo> in mice can be performed without craniectomy, and its reproducibility is satisfactory when using BALB mice </plain></SENT>
+</text></document>

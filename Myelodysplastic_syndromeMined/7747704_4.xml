@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">Tumor</z:e> <z:mp ids='MP_0001651'>necrosis</z:mp> factor (TNF) inhibits hematopoietic cell proliferation </plain></SENT>
+<SENT sid="1" pm="."><plain>The combination of pentoxifylline (PTX) and ciprofloxacin (Cipro) has been previously shown to reduce circulating serum levels of TNF </plain></SENT>
+<SENT sid="2" pm="."><plain>In this Phase II trial 14 patients with advanced <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo> were treated with PTX (2,000 mg/day) and Cipro (1,000 mg/day) in order to determine tolerability and effect on peripheral blood cell counts, progenitor cell responsiveness to cytokines and circulating serum levels of interleukin-6 (IL6) and TNF </plain></SENT>
+<SENT sid="3" pm="."><plain>Toxicity attributed to PTX and Cipro were limited to <z:hpo ids='HP_0002018'>nausea</z:hpo> in 4 patients </plain></SENT>
+<SENT sid="4" pm="."><plain>Peripheral blood cell counts, platelet transfusion requirements and red blood cell transfusion requirements did not change during administration of PTX and Cipro (daily for 28 days) </plain></SENT>
+<SENT sid="5" pm="."><plain>Marrow progenitor cells of patients entered into trial were less responsive to stimulation with cytokines in vitro at baseline and during the trial compared to <z:mpath ids='MPATH_458'>normal</z:mpath> volunteers </plain></SENT>
+<SENT sid="6" pm="."><plain>Eight patients had elevated IL6 levels before treatment with PTX and Cipro these levels did not change during therapy </plain></SENT>
+<SENT sid="7" pm="."><plain>Five patients had elevated TNF levels at baseline </plain></SENT>
+<SENT sid="8" pm="."><plain>There was a suggestion of decreased TNF levels during treatment with PTX and Cipro (P = .09) </plain></SENT>
+<SENT sid="9" pm="."><plain>In conclusion, PTX and Cipro was well tolerated but no evidence of efficacy was observed </plain></SENT>
+</text></document>

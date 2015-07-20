@@ -1,0 +1,19 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Anti-inflammatory treatment affects ischemic damage and neurogenesis in <z:e sem="disease" ids="C1519106" disease_type="Experimental Model of Disease" abbrv="">rodent models</z:e> of <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>We investigated the potential benefit of COX-2 inhibition with parecoxib in spontaneously hypertensive rats (SHRs) subjected to transient middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (tMCAo) </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: Sixty-four male SHRs were randomized to 90 min of intraluminal tMCAo or sham surgery </plain></SENT>
+<SENT sid="3" pm="."><plain>Parecoxib (10 mg/kg) or isotonic saline was administered intraperitoneally (IP) during the procedure, and twice daily thereafter </plain></SENT>
+<SENT sid="4" pm="."><plain>Nineteen animals were euthanized after 24 hours, and each hemisphere was examined for <z:chebi fb="2" ids="33699">mRNA</z:chebi> expression of pro-inflammatory cytokines and COX enzymes by quantitative RT-PCR </plain></SENT>
+<SENT sid="5" pm="."><plain>Twenty-three tMCAo animals were studied with diffusion and T2 weighted MRI within the first 24 hours, and ten of the SHRs underwent follow-up MRI six days later </plain></SENT>
+<SENT sid="6" pm="."><plain>Thirty-three SHRs were given 5-<z:chebi fb="1" ids="22927,47265">bromo</z:chebi>-2'-deoxy-<z:chebi fb="0" ids="16704">uridine</z:chebi> (BrdU) twice daily on Day 4 to 7 after tMCAo </plain></SENT>
+<SENT sid="7" pm="."><plain>Animals were euthanized on Day 8 and the brains were studied with free-floating immunohistochemistry for activated microglia (ED-1), hippocampal granule cell BrdU incorporation, and neuronal nuclei (NeuN) </plain></SENT>
+<SENT sid="8" pm="."><plain><z:mpath ids='MPATH_124'>Infarct</z:mpath> volume estimation was done using the 2D nucleator and Cavalieri principle on NeuN-stained coronal brain sections </plain></SENT>
+<SENT sid="9" pm="."><plain>The total number of BrdU+ cells in the dentate gyrus (DG) of the hippocampus was estimated using the optical fractionator </plain></SENT>
+<SENT sid="10" pm="."><plain>RESULTS: We found a significant reduction in <z:mpath ids='MPATH_124'>infarct</z:mpath> volume in parecoxib treated animals one week after tMCAo (p &lt; 0.03) </plain></SENT>
+<SENT sid="11" pm="."><plain>Cortical <z:chebi fb="49" ids="35181">ADC</z:chebi> values in the parecoxib group were markedly less increased on Day 8 (p &lt; 0.01) </plain></SENT>
+<SENT sid="12" pm="."><plain>Interestingly, the parecoxib treated rats were segregated into two subgroups, suggesting a responder vs. non-responder phenomenon </plain></SENT>
+<SENT sid="13" pm="."><plain>We found indications of <z:chebi fb="2" ids="33699">mRNA</z:chebi> up-regulation of IL-1beta, IL-6, TNF-alpha and COX-2, whereas COX-1 remained unaffected </plain></SENT>
+<SENT sid="14" pm="."><plain>Hippocampal granule cell BrdU incorporation was not affected by parecoxib treatment </plain></SENT>
+<SENT sid="15" pm="."><plain>Presence of ED-1+ activated microglia in the hippocampus was related to an increase in BrdU uptake in the DG </plain></SENT>
+<SENT sid="16" pm="."><plain>CONCLUSION: IP parecoxib administration during tMCAo was neuroprotective, as evidenced by a large reduction in mean <z:mpath ids='MPATH_124'>infarct</z:mpath> volume and a lower cortical <z:chebi fb="49" ids="35181">ADC</z:chebi> increment </plain></SENT>
+<SENT sid="17" pm="."><plain>Increased pro-inflammatory cytokine <z:chebi fb="2" ids="33699">mRNA</z:chebi> levels and hippocampal granule cell BrdU incorporation remained unaffected </plain></SENT>
+</text></document>

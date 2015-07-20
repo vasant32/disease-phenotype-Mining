@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Cerebral arterial vasospasm leads to delayed <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> and constitutes the major delayed complication following aneurysmal <z:hpo ids='HP_0002138'>subarachnoid hemorrhage</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain><z:e sem="disease" ids="C0265110" disease_type="Disease or Syndrome" abbrv="">Cerebral vasospasm</z:e> can be reduced by increased blood clearance from the subarachnoid space </plain></SENT>
+<SENT sid="2" pm="."><plain>Clinical pilot studies allow the hypothesis that the clearance of subarachnoid blood is facilitated by means of <z:mp ids='MP_0002730'>head shaking</z:mp> </plain></SENT>
+<SENT sid="3" pm="."><plain>A major obstacle for meaningful clinical studies is the lack of data on appropriate parameters of <z:mp ids='MP_0002730'>head shaking</z:mp> </plain></SENT>
+<SENT sid="4" pm="."><plain>Our in vitro study aims to provide these essential parameters </plain></SENT>
+<SENT sid="5" pm="."><plain>METHODOLOGY/PRINCIPAL FINDINGS: A model of the basal cerebral cistern was derived from human magnetic resonance imaging data </plain></SENT>
+<SENT sid="6" pm="."><plain><z:hpo ids='HP_0002138'>Subarachnoid hemorrhage</z:hpo> was simulated by addition of dyed experimental blood to transparent experimental cerebrospinal fluid (CSF) filling the model of the basal cerebral cistern </plain></SENT>
+<SENT sid="7" pm="."><plain>Effects of various head positions and head motion settings (<z:mp ids='MP_0000745'>shaking</z:mp> angle amplitudes and <z:mp ids='MP_0000745'>shaking</z:mp> frequencies) on blood clearance were investigated using the quantitative dye washout method </plain></SENT>
+<SENT sid="8" pm="."><plain>Blood washout can be divided into two phases: Blood/CSF mixing and clearance </plain></SENT>
+<SENT sid="9" pm="."><plain>The major effect of <z:mp ids='MP_0000745'>shaking</z:mp> consists in better mixing of blood and CSF thereby increasing clearance rate </plain></SENT>
+<SENT sid="10" pm="."><plain>Without <z:mp ids='MP_0000745'>shaking</z:mp>, blood/CSF mixing and blood clearance in the basal cerebral cistern are hampered by differences in density and viscosity of blood and CSF </plain></SENT>
+<SENT sid="11" pm="."><plain>Blood clearance increases with decreased <z:mp ids='MP_0000745'>shaking</z:mp> frequency and with increased <z:mp ids='MP_0000745'>shaking</z:mp> angle amplitude </plain></SENT>
+<SENT sid="12" pm="."><plain><z:mp ids='MP_0002730'>Head shaking</z:mp> facilitates clearance by varying the direction of gravitational force </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSIONS/SIGNIFICANCE: From this in vitro study can be inferred that patient or <z:mp ids='MP_0002730'>head shaking</z:mp> with large <z:mp ids='MP_0000745'>shaking</z:mp> angles at low frequency is a promising therapeutic strategy to increase blood clearance from the subarachnoid space </plain></SENT>
+</text></document>

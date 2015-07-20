@@ -1,0 +1,19 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PURPOSE: Platelet-derived growth factor receptor (PDGFR) inhibition by reducing tumoral interstitial fluid pressure might increase the efficacy of chemotherapy </plain></SENT>
+<SENT sid="1" pm="."><plain><z:chebi fb="0" ids="45783">Imatinib</z:chebi> inhibits PDGFR kinase activity at therapeutically relevant doses </plain></SENT>
+<SENT sid="2" pm="."><plain>This phase I study aimed to assess the maximal tolerated dose (MTD) of <z:chebi fb="0" ids="45783">imatinib</z:chebi> in combination with mFOLFOX6-bevacizumab in patients with advanced <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> and to identify pharmacokinetic (PK) interactions and toxicities </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: Eligible patients had <z:e sem="disease" ids="C1513041" disease_type="Disease or Syndrome" abbrv="">measurable disease</z:e> and adequate organ function </plain></SENT>
+<SENT sid="4" pm="."><plain>On day-14, patients commenced <z:chebi fb="0" ids="45783">imatinib</z:chebi> daily plus bevacizumab (5 mg/kg/2 weekly) </plain></SENT>
+<SENT sid="5" pm="."><plain>Two weeks later (day 1), patients were also treated with full dose mFOLFOX6-bevacizumab for 12 cycles </plain></SENT>
+<SENT sid="6" pm="."><plain>Blood samples were taken for PK </plain></SENT>
+<SENT sid="7" pm="."><plain>DLTs defined in the first 6 weeks </plain></SENT>
+<SENT sid="8" pm="."><plain>Standard dose escalation of <z:chebi fb="0" ids="45783">imatinib</z:chebi>, with 3 patient cohorts: planned dose levels (DL): DL1; 400 mg, DL2; 600 mg, DL3; 800 mg daily </plain></SENT>
+<SENT sid="9" pm="."><plain>RESULTS: Ten patients enrolled </plain></SENT>
+<SENT sid="10" pm="."><plain>DL1 3 patients, DL2 7 patients </plain></SENT>
+<SENT sid="11" pm="."><plain>DLTs observed in 3 of 6 patients in DL2: febrile <z:hpo ids='HP_0001875'>neutropenia</z:hpo> (2); Grade 3 infection and Grade 4 <z:hpo ids='HP_0001875'>neutropenia</z:hpo> (1) </plain></SENT>
+<SENT sid="12" pm="."><plain><z:hpo ids='HP_0001875'>Neutropenia</z:hpo> was most frequent AEs: Grade 3/4 in &gt;60 % of patients overall </plain></SENT>
+<SENT sid="13" pm="."><plain>In DL2 pts, <z:chebi fb="0" ids="45783">imatinib</z:chebi> clearance was reduced post-chemotherapy (P &lt; 0.05) </plain></SENT>
+<SENT sid="14" pm="."><plain><z:chebi fb="0" ids="31941">Oxaliplatin</z:chebi> and 5FU PK unchanged by <z:chebi fb="0" ids="45783">imatinib</z:chebi> </plain></SENT>
+<SENT sid="15" pm="."><plain>CONCLUSIONS: MTD was <z:chebi fb="0" ids="45783">imatinib</z:chebi> 400 mg plus full dose mFOLFOX-bevacizumab </plain></SENT>
+<SENT sid="16" pm="."><plain>Dose escalation of <z:chebi fb="0" ids="45783">imatinib</z:chebi> limited by <z:hpo ids='HP_0001875'>neutropenia</z:hpo> </plain></SENT>
+<SENT sid="17" pm="."><plain>Further study is warranted as <z:chebi fb="0" ids="45783">imatinib</z:chebi> can be delivered at levels that inhibit PDGFR </plain></SENT>
+</text></document>

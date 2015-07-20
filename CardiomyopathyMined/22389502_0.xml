@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Junctophilins (JPs) play an important role in the formation of junctional membrane complexes (JMC) in striated muscle by physically linking the transverse-tubule and sarcoplasmic reticulum (SR) membranes </plain></SENT>
+<SENT sid="1" pm="."><plain>Researchers have found five JP2 mutants in humans with <z:hpo ids='HP_0001639'>hypertrophic cardiomyopathy</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>Among these, Y141H and S165F are associated with severely altered Ca(2+) signaling in cardiomyocytes </plain></SENT>
+<SENT sid="3" pm="."><plain>We previously reported that S165F also induced both <z:mpath ids='MPATH_159'>hypertrophy</z:mpath> and altered intracellular Ca(2+) signaling in mouse skeletal myotubes </plain></SENT>
+<SENT sid="4" pm="."><plain>In the present study, we attempted to identify the dominant-negative role(s) of Y141H in primary mouse skeletal myotubes </plain></SENT>
+<SENT sid="5" pm="."><plain>Consistent with S165F, Y141H led to <z:mpath ids='MPATH_159'>hypertrophy</z:mpath> and altered Ca(2+) signaling (a decrease in the gain of excitation-contraction coupling and an increase in the resting level of myoplasmic Ca(2+)) </plain></SENT>
+<SENT sid="6" pm="."><plain>However, unlike S165F, neither <z:chebi fb="0" ids="8925">ryanodine</z:chebi> receptor 1-mediated Ca(2+) release from the SR nor the phosphorylation of the mutated JP2 by protein kinase C was related to the altered Ca(2+) signaling by Y141H </plain></SENT>
+<SENT sid="7" pm="."><plain>Instead, abnormal JMC and increased SOCE via Orai1 were found, suggesting that the <z:mpath ids='MPATH_159'>hypertrophy</z:mpath> caused by Y141H progressed differently from S165F </plain></SENT>
+<SENT sid="8" pm="."><plain>Therefore JP2 can be linked to skeletal <z:hpo ids='HP_0003712'>muscle hypertrophy</z:hpo> via various Ca(2+) signaling pathways, and SOCE could be one of the causes of altered Ca(2+) signaling observed in <z:hpo ids='HP_0003712'>muscle hypertrophy</z:hpo> </plain></SENT>
+</text></document>

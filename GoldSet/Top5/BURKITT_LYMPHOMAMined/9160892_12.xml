@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>An increasing number of reports shows a link between the Epstein-Barr virus (EBV) and lymphoid <z:hpo ids='HP_0002664'>neoplasia</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>The latent membrane protein 1 (LMP1) is likely to play a determinant role in this process since this EBV encoded protein has oncogenic properties and is usually expressed in EBV-associated <z:e sem="disease" ids="C0024314" disease_type="Neoplastic Process" abbrv="">lymphoproliferative diseases</z:e> (LPD), except Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>We previously identified in LPD patients mutational hot spots and a 30 bp or 69 bp deletion in the LMP1 gene region coding for the C-terminal domain </plain></SENT>
+<SENT sid="3" pm="."><plain>These deletions are located in an area shown to be important for the activation of the transcription factor NF-kappaB </plain></SENT>
+<SENT sid="4" pm="."><plain>These findings lead us to test whether these natural deletion variants may have a functional effect </plain></SENT>
+<SENT sid="5" pm="."><plain>We measured the stimulation of their activity using a luciferase reporter plasmid containing NF-kappaB responsive elements </plain></SENT>
+<SENT sid="6" pm="."><plain>We tested the NF-kappaB inducing activity of four naturally occurring LMP1 deletion variants </plain></SENT>
+<SENT sid="7" pm="."><plain>Our results show that these deletion variants activate NF-kappaB to the same level as the <z:mp ids='MP_0002169'>wild-type</z:mp> form, indicating that the crucial residues for NF-kappaB activation are conserved among the variants isolated and lie within the last 32 amino acids of the C-terminal domain of the LMP1 oncogene </plain></SENT>
+</text></document>

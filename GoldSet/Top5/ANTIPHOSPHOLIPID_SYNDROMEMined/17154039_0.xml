@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We report a 76-year-old woman with <z:e sem="disease" ids="C0018378" disease_type="Disease or Syndrome" abbrv="">Guillain-Barré syndrome</z:e> (GBS) who developed recurrent <z:e sem="disease" ids="C0149871" disease_type="Disease or Syndrome" abbrv="">deep venous thromboses</z:e> (DVT) </plain></SENT>
+<SENT sid="1" pm="."><plain>She has had no past medical history of <z:hpo ids='HP_0001907'>thromboembolic events</z:hpo> or fetal loss </plain></SENT>
+<SENT sid="2" pm="."><plain>Because D-dimer was elevated from the early stage of her illness, <z:chebi fb="5" ids="28304">heparin</z:chebi>, and then <z:chebi fb="8" ids="10033">warfarin</z:chebi>, was given as prophylaxis for <z:hpo ids='HP_0001907'>thromboembolic events</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>On Day 103, she developed marked <z:hpo ids='HP_0000969'>edema</z:hpo> in her legs, and DVT was diagnosed in the left popliteal vein by ultrasound </plain></SENT>
+<SENT sid="4" pm="."><plain>Three days later, the patient developed <z:hpo ids='HP_0002204'>pulmonary embolism</z:hpo>, and an inferior vena cava filter was implanted </plain></SENT>
+<SENT sid="5" pm="."><plain>Although D-dimer became temporarily <z:mpath ids='MPATH_458'>normal</z:mpath>, it increased again, and recurrent DVT was diagnosed in bilateral femoral veins on Day 167 </plain></SENT>
+<SENT sid="6" pm="."><plain>IgG anticardiolipin antibody titer was found to be highly elevated at 79 U/ml (<z:mpath ids='MPATH_458'>normal</z:mpath> range: &lt; 10) </plain></SENT>
+<SENT sid="7" pm="."><plain>However, anti-beta 2 glycoprotein I antibody, which has been proven to be associated with <z:e sem="disease" ids="C0085278" disease_type="Disease or Syndrome" abbrv="">antiphospholipid syndrome</z:e> (APS), was negative </plain></SENT>
+<SENT sid="8" pm="."><plain>Thus, IgG anticardiolipin may have played an important role in the <z:hpo ids='HP_0001907'>thromboembolic events</z:hpo> in this patient </plain></SENT>
+<SENT sid="9" pm="."><plain>We speculate that the occurrence of APS may be associated with anticardiolipin antibody, which may form in some patients with GBS secondary to myelin damage </plain></SENT>
+</text></document>

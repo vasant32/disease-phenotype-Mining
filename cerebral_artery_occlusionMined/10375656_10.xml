@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Activation of c-fos, an immediate early gene, and the subsequent upregulation of Fos protein expression occur following neural injury, including focal <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> (fci) </plain></SENT>
+<SENT sid="1" pm="."><plain>Fos and Jun form a heterodimer known as activator protein 1, which regulates the expression of many late effector genes </plain></SENT>
+<SENT sid="2" pm="."><plain>To study the downstream effects of c-fos expression following <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e>, we suppressed the translation of c-fos by administering an antisense oligonucleotide (AO) to c-fos <z:chebi fb="2" ids="33699">mRNA</z:chebi> </plain></SENT>
+<SENT sid="3" pm="."><plain>Eighteen hours prior to fci, male, Long Evans (LE) rats received intraventricular injections of AO, mismatched AO (MS) or artificial cerebrospinal fluid (aCSF) </plain></SENT>
+<SENT sid="4" pm="."><plain>Fci was induced by permanent right middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> </plain></SENT>
+<SENT sid="5" pm="."><plain>At 24-h post-occlusion, neurological function was assessed, and the animals were sacrificed </plain></SENT>
+<SENT sid="6" pm="."><plain>The brains were removed and stained with triphenyltetrazolium <z:chebi fb="76" ids="17996">chloride</z:chebi> for <z:mpath ids='MPATH_124'>infarct</z:mpath> volume determination </plain></SENT>
+<SENT sid="7" pm="."><plain>Fos immunohistochemistry was performed in separate animals to determine the effects of treatment on Fos expression number of Fos positive cells </plain></SENT>
+<SENT sid="8" pm="."><plain>AO administration reduced the number of cells with fci-induced Fos expression by approximately 75% </plain></SENT>
+<SENT sid="9" pm="."><plain>No differences in neurological scores existed between any of the groups </plain></SENT>
+<SENT sid="10" pm="."><plain>AO-treated LE developed larger <z:mpath ids='MPATH_124'>infarcts</z:mpath> (40.1+/-1.0%, mean+/-S.D., p&lt;0.001) than MS- or aCSF-treated controls (34.3+/-1.0%, 34.6+/-1.0%, respectively) </plain></SENT>
+<SENT sid="11" pm="."><plain>These results suggest that c-fos activation and subsequent Fos protein expression exerts a neuroprotective effect, which is likely via upregulation of neurotrophins, following focal <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> </plain></SENT>
+<SENT sid="12" pm="."><plain>This response, among others, may contribute to brain adaptation to injury that underlies functional recovery after <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+</text></document>

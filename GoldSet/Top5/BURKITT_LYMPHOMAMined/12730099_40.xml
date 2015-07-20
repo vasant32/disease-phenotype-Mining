@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Members of the RasGRP family of Ras activators have C1 domains that bind diacylglycerol (DAG) and DAG analogs such as the <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e>-promoting <z:chebi fb="0" ids="37532">phorbol esters</z:chebi> </plain></SENT>
+<SENT sid="1" pm="."><plain>RasGRP members could be responsible for some of the DAG signaling processes that have previously been attributed to protein kinase C (PKC) </plain></SENT>
+<SENT sid="2" pm="."><plain>We found that RasGRP3 is selectively expressed in B cells, suggesting that RasGRP3 might function downstream of the B-cell receptor (BCR) </plain></SENT>
+<SENT sid="3" pm="."><plain>Indeed, stimulation of Ramos B cells with the DAG analog <z:chebi fb="0" ids="37532">phorbol ester</z:chebi> <z:chebi fb="0" ids="30807">myristate</z:chebi> (<z:chebi fb="1" ids="53780">PMA</z:chebi>) results in the association of RasGRP3 with the membrane fraction </plain></SENT>
+<SENT sid="4" pm="."><plain>However, we also made the unexpected observation that RasGRP3 is phosphorylated, coincident with Ras activation after stimulation </plain></SENT>
+<SENT sid="5" pm="."><plain>When inhibitors of PKC are present, Ras activation is attenuated, and this attenuation correlates with an inhibition of RasGRP3 phosphorylation </plain></SENT>
+<SENT sid="6" pm="."><plain>RasGRP3 is phosphorylated in vitro by PKC-theta and PKC-beta2 </plain></SENT>
+<SENT sid="7" pm="."><plain>When ectopically coexpressed in HEK-293 cells, a dominant-activated mutant of PKC-theta phosphorylates RasGRP3 and enhances Ras-Erk signaling </plain></SENT>
+<SENT sid="8" pm="."><plain>These results provide the first indication for a functional interaction between a RasGRP family member and a dissimilar DAG binding protein </plain></SENT>
+<SENT sid="9" pm="."><plain>A convergent DAG signaling system could be important in fine-tuning Ras signaling during B-cell development or during the humoral immune response </plain></SENT>
+</text></document>

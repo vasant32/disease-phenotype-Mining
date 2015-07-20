@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Fourteen patients with severe <z:hpo ids='HP_0000822'>hypertension</z:hpo> and <z:hpo ids='HP_0001920'>renal artery stenosis</z:hpo> were treated surgically </plain></SENT>
+<SENT sid="1" pm="."><plain>One patient died 4 days after surgery due to a <z:hpo ids='HP_0005305'>cerebral thrombosis</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>The other 13 patients were followed for 18-24 months </plain></SENT>
+<SENT sid="3" pm="."><plain>Five were considered cured since the diastolic blood pressure (<z:chebi fb="4" ids="35861">DBP</z:chebi>) was less than or equal to 90 mm Hg without therapy </plain></SENT>
+<SENT sid="4" pm="."><plain>Five were improved since <z:chebi fb="4" ids="35861">DBP</z:chebi> was less than or equal to 100 mm Hg during treatment with only one or two <z:chebi fb="0" ids="35674">antihypertensive agents</z:chebi> </plain></SENT>
+<SENT sid="5" pm="."><plain>There were unchanged </plain></SENT>
+<SENT sid="6" pm="."><plain>Renal vein renin ratio (RVRR) was greater than or equal to 1.5 either before or after <z:chebi fb="0" ids="47426">furosemide</z:chebi> in <z:hpo ids='HP_0000001'>all</z:hpo> patients who were cured or improved and less than or equal to 1.5 in 2 of 3 who were unchanged </plain></SENT>
+<SENT sid="7" pm="."><plain>It can be concluded that surgical treatment cured or improved 77% of the patients, and that a RVRR greater than or equal to 1.5 is a good predictor of the blood pressure lowering effect of surgery </plain></SENT>
+</text></document>

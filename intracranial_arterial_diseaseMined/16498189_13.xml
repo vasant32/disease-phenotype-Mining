@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>INTRODUCTION: Independent predictors of outcome for <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> include age and initial <z:hpo ids='HP_0001297'>stroke</z:hpo> severity </plain></SENT>
+<SENT sid="1" pm="."><plain>Intracranial large-vessel occlusion would be expected to predict poor outcome </plain></SENT>
+<SENT sid="2" pm="."><plain>Because large-vessel occlusion and <z:hpo ids='HP_0001297'>stroke</z:hpo> severity are likely correlated, it is unclear if largevessel occlusion independently predicts outcome or is simply a marker for <z:hpo ids='HP_0001297'>stroke</z:hpo> severity </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: A consecutive series of patients with suspected <z:hpo ids='HP_0001297'>stroke</z:hpo> or <z:hpo ids='HP_0002326'>transient ischemic attack</z:hpo> were imaged acutely with computed tomography angiography (CTA) </plain></SENT>
+<SENT sid="4" pm="."><plain>CTAs were reviewed for intracranial large-vessel occlusion as the cause of the <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+<SENT sid="5" pm="."><plain>Baseline National Institutes of Health <z:hpo ids='HP_0001297'>Stroke</z:hpo> Scale (NIHSS) score, discharge modified Rankin score, and patient demographics were abstracted from hospital records </plain></SENT>
+<SENT sid="6" pm="."><plain>Poor neurological outcome was defined as modified Rankin score exceeding 2 </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: Seventy-two consecutive patients with <z:hpo ids='HP_0011009'>acute</z:hpo> <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> were imaged with CTA </plain></SENT>
+<SENT sid="8" pm="."><plain>The median (range) time from <z:hpo ids='HP_0001297'>stroke</z:hpo> symptom <z:hpo ids='HP_0003674'>onset</z:hpo> to CT imaging was 183 minutes (25 minutes to 4 days) </plain></SENT>
+<SENT sid="9" pm="."><plain>Median NIHSS score was 6 (1-32) and intracranial large-vessel occlusion was found in 28 (38.9%) patients </plain></SENT>
+<SENT sid="10" pm="."><plain>Fifty-six percent of patients had a good neurological outcome </plain></SENT>
+<SENT sid="11" pm="."><plain>In multivariate logistic regression analysis, two variables predicted poor neurological outcome: baseline NIHSS score (OR 1.21, 95% CI [1.07-1.37]) and presence of intracranial large-vessel occlusion (OR 4.48, 95% CI [1.19-16.9]) </plain></SENT>
+<SENT sid="12" pm="."><plain>The predictive value of large-vessel occlusion on outcome was similar to an 8-point increase in NIHSS score </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSION: In patients presenting with <z:hpo ids='HP_0011009'>acute</z:hpo> <z:e sem="disease" ids="C0007786" disease_type="Disease or Syndrome" abbrv="">brain ischemia</z:e>, intracranial large-vessel occlusion independently predicts poor neurological outcome at hospital discharge, as does the presence of a high NIHSS score </plain></SENT>
+<SENT sid="14" pm="."><plain>Performing routine intracranial vascular imaging on <z:hpo ids='HP_0011009'>acute</z:hpo> <z:hpo ids='HP_0001297'>stroke</z:hpo> patients may allow for more accurate determination of prognosis and may also guide therapy </plain></SENT>
+</text></document>

@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:chebi fb="0" ids="41977">Daunorubicin</z:chebi> (DNR) is one of the most important cytotoxic agents in the treatment of <z:hpo ids='HP_0004808'>acute myeloid leukemia</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">AML</z:e>) </plain></SENT>
+<SENT sid="1" pm="."><plain>Its use is usually limited by drug-induced cardiotoxicity depending on the cumulative dose administered </plain></SENT>
+<SENT sid="2" pm="."><plain>Liposomal encapsulation of DNR (DaunoXome, DNX) seems to reduce the risk of this severe side effect </plain></SENT>
+<SENT sid="3" pm="."><plain>To investigate the toxicity of DNX in heavily pretreated patients, we conducted a phase I trial, including patients (pts) older than 60 years with relapsed or refractory <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">AML</z:e> </plain></SENT>
+<SENT sid="4" pm="."><plain>DNX was used at doses of 40, 60, 75 and 90 mg/m(2), biweekly </plain></SENT>
+<SENT sid="5" pm="."><plain>Fourteen patients with a median age of 69 years (range, 63-77) were enrolled </plain></SENT>
+<SENT sid="6" pm="."><plain>A total of 49 courses of DNX were administered [3 pts at 40 mg/m(2) (for a total of 13 courses), 5 at 60 mg/m(2) (20 courses), 4 at 75 mg/m(2) (12 courses), and 2 at 90 mg/m(2) (4 courses)] </plain></SENT>
+<SENT sid="7" pm="."><plain>The mean cumulative dose of DNX administered was 340 mg (range, 120-1200) </plain></SENT>
+<SENT sid="8" pm="."><plain>A 20% decline in the left ventricular ejection fraction (LVEF) without clinical signs and symptoms of <z:hpo ids='HP_0001635'>heart failure</z:hpo> was noted in 2 patients after a cumulative DNX dose of 480 mg, both with pre-existing <z:e sem="disease" ids="C0018799" disease_type="Disease or Syndrome" abbrv="">heart disease</z:e> </plain></SENT>
+<SENT sid="9" pm="."><plain>Even at the highest cumulative doses of DNX, no further decline in LVEF was noted </plain></SENT>
+<SENT sid="10" pm="."><plain><z:hpo ids='HP_0002018'>Nausea</z:hpo>, <z:hpo ids='HP_0002013'>vomiting</z:hpo>, <z:hpo ids='HP_0001596'>alopecia</z:hpo> and mucositis were absent </plain></SENT>
+<SENT sid="11" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> patients had significant <z:e sem="disease" ids="C0854467" disease_type="Disease or Syndrome" abbrv="">myelosuppression</z:e> requiring transfusion support </plain></SENT>
+<SENT sid="12" pm="."><plain>During treatment, 3 patients showed a 25% reduction of leukemic blasts in the bone marrow, 3 patients had to be excluded due to <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">AML</z:e> progression after the 2nd DNX course, and 7 patients died during the first 6 weeks of treatment </plain></SENT>
+<SENT sid="13" pm="."><plain>We conclude from these data that DNX offers a less toxic alternative to DNR and other <z:chebi fb="0" ids="48120">anthracyclines</z:chebi> </plain></SENT>
+<SENT sid="14" pm="."><plain>Using DNX dosages of 40 to 90 mg/m(2) biweekly seems to have little anti-leukemic activity in a patient population heavily pretreated with <z:chebi fb="0" ids="48120">anthracyclines</z:chebi> </plain></SENT>
+</text></document>

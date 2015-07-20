@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PURPOSE: Studies have shown an association between socioeconomic status (SES) and quality of <z:hpo ids='HP_0002664'>oncology</z:hpo> care, but less is known about the impact of patient SES on clinical trial participation </plain></SENT>
+<SENT sid="1" pm="."><plain>PATIENTS AND METHODS: We assessed clinical trial participation patterns according to important SES (income, education) and demographic factors in a large sample of patients surveyed via an Internet-based treatment decision tool </plain></SENT>
+<SENT sid="2" pm="."><plain>Logistic regression, conditioning on type of <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e>, was used </plain></SENT>
+<SENT sid="3" pm="."><plain>Attitudes toward clinical trials were assessed using prespecified items about treatment, treatment tolerability, convenience, and cost </plain></SENT>
+<SENT sid="4" pm="."><plain>RESULTS: From 2007 to 2011, 5,499 patients were successfully surveyed </plain></SENT>
+<SENT sid="5" pm="."><plain>Forty percent discussed clinical trials with their physician, 45% of discussions led to physician offers of clinical trial participation, and 51% of offers led to clinical trial participation </plain></SENT>
+<SENT sid="6" pm="."><plain>The overall clinical trial participation rate was 9% </plain></SENT>
+<SENT sid="7" pm="."><plain>In univariate models, older patients (P = .002) and patients with lower income (P = .001) and education (P = .02) were less likely to participate in clinical trials </plain></SENT>
+<SENT sid="8" pm="."><plain>In a multivariable model, income remained a statistically significant predictor of clinical trial participation (odds ratio, 0.73; 95% CI, 0.57 to 0.94; P = .01) </plain></SENT>
+<SENT sid="9" pm="."><plain>Even in patients age ≥ 65 years, who have universal access to Medicare, lower income predicted lower trial participation </plain></SENT>
+<SENT sid="10" pm="."><plain>Cost concerns were much more evident among lower-income patients (P &lt; .001) </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSION: Lower-income patients were less likely to participate in clinical trials, even when considering age group </plain></SENT>
+<SENT sid="12" pm="."><plain>A better understanding of why income is a barrier may help identify ways to make clinical trials better available to <z:hpo ids='HP_0000001'>all</z:hpo> patients and would increase the generalizability of clinical trial results across <z:hpo ids='HP_0000001'>all</z:hpo> income levels </plain></SENT>
+</text></document>

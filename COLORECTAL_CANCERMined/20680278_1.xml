@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PURPOSE: To study the possible pharmacokinetic and pharmacodynamic interactions between irinotecan and <z:chebi fb="0" ids="50673">methimazole</z:chebi> </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: A patient treated for <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> with single agent irinotecan received <z:chebi fb="0" ids="50673">methimazole</z:chebi> co-medication for <z:e sem="disease" ids="C0018213" disease_type="Disease or Syndrome" abbrv="">Graves' disease</z:e> </plain></SENT>
+<SENT sid="2" pm="."><plain>Irinotecan pharmacokinetics and side effects were followed during a total of four courses (two courses with and two courses without <z:chebi fb="0" ids="50673">methimazole</z:chebi>) </plain></SENT>
+<SENT sid="3" pm="."><plain>RESULTS: Plasma concentrations of the active irinotecan metabolite SN-38 and its inactive metabolite SN-38-<z:chebi fb="0" ids="24302">Glucuronide</z:chebi> were both higher (a mean increase of 14 and 67%, respectively) with <z:chebi fb="0" ids="50673">methimazole</z:chebi> co-medication, compared to irinotecan monotherapy </plain></SENT>
+<SENT sid="4" pm="."><plain>As a result, the mean SN-38 glucuronidation rate increased with 47% during concurrent treatment </plain></SENT>
+<SENT sid="5" pm="."><plain>Other possible confounding factors did not change over time </plain></SENT>
+<SENT sid="6" pm="."><plain>Specific adverse events due to <z:chebi fb="0" ids="50673">methimazole</z:chebi> co-treatment were not seen </plain></SENT>
+<SENT sid="7" pm="."><plain>CONCLUSIONS: Additional in vitro experiments suggest that these results can be explained by induction of UGT1A1 by <z:chebi fb="0" ids="50673">methimazole</z:chebi>, leading to higher SN-38G concentrations </plain></SENT>
+<SENT sid="8" pm="."><plain>The prescribed combination of these drugs may lead to highly toxic intestinal SN-38 levels </plain></SENT>
+<SENT sid="9" pm="."><plain>We therefore advise physicians to be very careful in combining <z:chebi fb="0" ids="50673">methimazole</z:chebi> with regular irinotecan doses, especially in patients who are prone to irinotecan toxicity </plain></SENT>
+</text></document>

@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The effects of hemodynamic changes in the developing brain have yet to be fully understood </plain></SENT>
+<SENT sid="1" pm="."><plain>The aim of this study was to explore the relationship between perturbations of the cerebral blood flow in the developing brain via unilateral hypoperfusion in P7 rats </plain></SENT>
+<SENT sid="2" pm="."><plain>As expected, nuclear caspase-3 (casp3) cleavage and DNA fragmentation were detected at 48 hours after <z:hpo ids='HP_0001297'>stroke</z:hpo> in the injured cortex </plain></SENT>
+<SENT sid="3" pm="."><plain>Surprisingly, casp3 was also cleaved in the contralateral cortex, although without cell <z:hpo ids='HP_0011420'>death</z:hpo> markers </plain></SENT>
+<SENT sid="4" pm="."><plain>Delayed (48 hours) casp3 cleavage without DNA fragmentation was also identified after unilateral common carotid <z:mp ids='MP_0006134'>artery occlusion</z:mp>, both in the hypoperfused cortex and the unaffected cortex, producing mirror images </plain></SENT>
+<SENT sid="5" pm="."><plain>Upstream calpain activation, caspase-2 cleavage, and <z:hpo ids='HP_0001427'>mitochondrial</z:hpo> <z:chebi fb="1" ids="18070">cytochrome c</z:chebi> release initiated casp3 cleavage, but did not produce preconditioning </plain></SENT>
+<SENT sid="6" pm="."><plain>The neuronal marker NeuN co-localized with cleaved casp3 in cortical layers II-III and VI and with gaba-amino <z:chebi fb="4" ids="30772">butyric acid</z:chebi> in layer III </plain></SENT>
+<SENT sid="7" pm="."><plain>Indeed, collateral supply was provided from the opposite side during carotid <z:mp ids='MP_0006134'>artery occlusion</z:mp> but not after reperfusion, and the number of cleaved casp3-positive cells significantly negatively correlated with the common carotid artery immediate reperfusion percentage </plain></SENT>
+<SENT sid="8" pm="."><plain>In summary, unilateral hypoperfusion, while insufficient to induce cell <z:hpo ids='HP_0011420'>death</z:hpo>, may active bilateral and symmetric casp3 in the P7 rat brain </plain></SENT>
+<SENT sid="9" pm="."><plain>Additionally, the opposite healthy hemisphere is altered due to the injury and thus should not be used as an internal control </plain></SENT>
+</text></document>

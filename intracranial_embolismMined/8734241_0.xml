@@ -1,0 +1,4 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We report a case of thyroid <z:hpo ids='HP_0001638'>cardiomyopathy</z:hpo> from an <z:chebi fb="60" ids="24859">iodine</z:chebi> overload in a patient admitted for a <z:hpo ids='HP_0001297'>cerebrovascular accident</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>The diagnosis was suggested by a hyperkinetic circulatory status and confirmed by the increased circulating thyroid hormone concentrations </plain></SENT>
+<SENT sid="2" pm="."><plain>Treatment improved the haemodynamic status, however the patient died from a cerebral <z:e sem="disease" ids="C0019270" disease_type="Disease or Syndrome" abbrv="">herniation</z:e> </plain></SENT>
+</text></document>

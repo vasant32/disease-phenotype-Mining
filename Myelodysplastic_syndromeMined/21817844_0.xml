@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 64-year-old man had been admitted to a previous hospital because of <z:hpo ids='HP_0002249'>melena</z:hpo> and a diagnosis of <z:hpo ids='HP_0100279'>ulcerative colitis</z:hpo> (UC, <z:e sem="disease" ids="C0868908" disease_type="Disease or Syndrome" abbrv="">pancolitis</z:e> type) had been made </plain></SENT>
+<SENT sid="1" pm="."><plain>He had received <z:chebi fb="2" ids="8378">prednisolone</z:chebi> and <z:chebi fb="0" ids="6775">5-ASA</z:chebi> but steroid-induced <z:e sem="disease" ids="C0221773" disease_type="Disease or Syndrome" abbrv="">hyperamylasemia</z:e> had developed </plain></SENT>
+<SENT sid="2" pm="."><plain><z:chebi fb="2" ids="8378">Prednisolone</z:chebi> had been tapered and halted, but it had resulted in UC relapse and <z:hpo ids='HP_0001873'>thrombocytopenia</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>Then, he was referred to our hospital due to severe <z:hpo ids='HP_0002249'>melena</z:hpo> with hypovolemic shock </plain></SENT>
+<SENT sid="4" pm="."><plain>However, he was also positive for CMV antigen </plain></SENT>
+<SENT sid="5" pm="."><plain>Thus, we attempted to treat him with <z:chebi fb="0" ids="465284">ganciclovir</z:chebi> for CMV and intravenous <z:chebi fb="0" ids="4031">cyclosporine</z:chebi> (CsA) for UC </plain></SENT>
+<SENT sid="6" pm="."><plain>According to his clinical course, a reduction of CsA blood concentration induced <z:mp ids='MP_0000221'>leukocytopenia</z:mp> </plain></SENT>
+<SENT sid="7" pm="."><plain><z:hpo ids='HP_0002863'>Myelodysplastic syndrome</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e>, <z:e sem="disease" ids="C1318550" disease_type="Neoplastic Process" abbrv="">RAEB-1</z:e>) was then revealed after bone marrow biopsy </plain></SENT>
+<SENT sid="8" pm="."><plain>A high blood CsA concentration may cause the improvement of UC and <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> conditions </plain></SENT>
+</text></document>

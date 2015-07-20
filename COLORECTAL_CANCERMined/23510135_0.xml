@@ -1,0 +1,20 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Organised <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> screening is likely to be cost-effective, but cost-effectiveness results alone may not help policy makers to make decisions about programme feasibility or service providers to plan programme delivery </plain></SENT>
+<SENT sid="1" pm="."><plain>For these purposes, estimates of the impact on the health services of actually introducing screening in the target population would be helpful </plain></SENT>
+<SENT sid="2" pm="."><plain>However, these types of analyses are rarely reported </plain></SENT>
+<SENT sid="3" pm="."><plain>As an illustration of such an approach, we estimated annual health service resource requirements and health outcomes over the first decade of a population-based <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> screening programme in Ireland </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS: A Markov state-transition model of colorectal <z:hpo ids='HP_0002664'>neoplasia</z:hpo> natural history was used </plain></SENT>
+<SENT sid="5" pm="."><plain>Three core screening scenarios were considered: (a) flexible sigmoidoscopy (FSIG) once at age 60, (b) biennial guaiac-based faecal occult blood tests (gFOBT) at 55--74 years, and (c) biennial faecal immunochemical tests (FIT) at 55--74 years </plain></SENT>
+<SENT sid="6" pm="."><plain>Three alternative FIT roll-out scenarios were also investigated relating to age-restricted screening (55--64 years) and staggered age-based roll-out across the 55--74 age group </plain></SENT>
+<SENT sid="7" pm="."><plain>Parameter estimates were derived from literature review, existing screening programmes, and expert opinion </plain></SENT>
+<SENT sid="8" pm="."><plain>Results were expressed in relation to the 2008 population (4.4 million people, of whom 700,800 were aged 55--74) </plain></SENT>
+<SENT sid="9" pm="."><plain>RESULTS: FIT-based screening would deliver the greatest health benefits, averting 164 colorectal <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> cases and 272 <z:hpo ids='HP_0011420'>deaths</z:hpo> in year 10 of the programme </plain></SENT>
+<SENT sid="10" pm="."><plain>Capacity would be required for 11,095-14,820 diagnostic and surveillance colonoscopies annually, compared to 381--1,053 with FSIG-based, and 967--1,300 with gFOBT-based, screening </plain></SENT>
+<SENT sid="11" pm="."><plain>With FIT, in year 10, these colonoscopies would result in 62 hospital admissions for abdominal <z:mp ids='MP_0001914'>bleeding</z:mp>, 27 bowel <z:mpath ids='MPATH_81'>perforations</z:mpath> and one <z:hpo ids='HP_0011420'>death</z:hpo> </plain></SENT>
+<SENT sid="12" pm="."><plain>Resource requirements for pathology, diagnostic radiology, radiotherapy and colorectal resection were highest for FIT </plain></SENT>
+<SENT sid="13" pm="."><plain>Estimates depended on screening uptake </plain></SENT>
+<SENT sid="14" pm="."><plain>Alternative FIT roll-out scenarios had lower resource requirements </plain></SENT>
+<SENT sid="15" pm="."><plain>CONCLUSIONS: While FIT-based screening would quite quickly generate attractive health outcomes, it has heavy resource requirements </plain></SENT>
+<SENT sid="16" pm="."><plain>These could impact on the feasibility of a programme based on this screening modality </plain></SENT>
+<SENT sid="17" pm="."><plain>Staggered age-based roll-out would allow time to increase endoscopy capacity to meet programme requirements </plain></SENT>
+<SENT sid="18" pm="."><plain>Resource modelling of this type complements conventional cost-effectiveness analyses and can help inform policy making and service planning </plain></SENT>
+</text></document>

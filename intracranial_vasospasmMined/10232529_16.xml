@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: A small number of patients with aneurysmal <z:hpo ids='HP_0002138'>subarachnoid hemorrhage</z:hpo> have angiographic evidence of <z:e sem="disease" ids="C0265110" disease_type="Disease or Syndrome" abbrv="">cerebral vasospasm</z:e> within 48 hours of the <z:hpo ids='HP_0003674'>onset</z:hpo> of <z:mp ids='MP_0001914'>hemorrhage</z:mp> </plain></SENT>
+<SENT sid="1" pm="."><plain>The present study analyzes the prognostic value and determinants of this ultraearly angiographic finding </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: We analyzed prospectively collected data from the placebo-treated group in a multicenter clinical trial conducted at 54 neurosurgical centers in North America </plain></SENT>
+<SENT sid="3" pm="."><plain>The presence and severity of ultraearly angiographic vasospasm (UEAV) was determined by a blinded review of the admission angiograms </plain></SENT>
+<SENT sid="4" pm="."><plain>Using logistic regression analysis, we identified independent determinants of UEAV from demographic, clinical, laboratory, and neuroimaging characteristics of the patients </plain></SENT>
+<SENT sid="5" pm="."><plain>The impact of UEAV on the risk of symptomatic vasospasm and 3-month outcome was analyzed after adjusting for potential confounding factors </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: Of 296 patients in the analysis, 37 (13%) had angiographic evidence of vasospasm at admission </plain></SENT>
+<SENT sid="7" pm="."><plain>An initial Glasgow <z:hpo ids='HP_0001259'>Coma</z:hpo> Scale score of less than 14 (odds ratio [OR], 2.5; 95% confidence interval [CI], 1.1-6.0), and serum <z:chebi fb="199" ids="26708">sodium</z:chebi> greater than 138 mmol/L (OR, 3.4; 95% CI, 1.5-8.3) were associated with UEAV </plain></SENT>
+<SENT sid="8" pm="."><plain>UEAV was associated with increased risk of symptomatic vasospasm (OR, 2.5; 95% CI, 1.2-5.4) and poor outcome at 3 months (OR, 2.8; 95% CI, 1.2-6.3), after adjusting for other variables </plain></SENT>
+<SENT sid="9" pm="."><plain>This risk of symptomatic vasospasm was not influenced by early surgery (within 48 h of <z:mp ids='MP_0001914'>hemorrhage</z:mp> <z:hpo ids='HP_0003674'>onset</z:hpo>) </plain></SENT>
+<SENT sid="10" pm="."><plain>Poor outcome was more likely to occur in patients with UEAV who did not undergo early surgery (P = 0.03) </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSION: Our analysis suggests that patients with angiographic evidence of vasospasm at admission are at high risk for both symptomatic vasospasm and poor outcome </plain></SENT>
+<SENT sid="12" pm="."><plain>We also found that early surgery did not aggravate this risk </plain></SENT>
+</text></document>

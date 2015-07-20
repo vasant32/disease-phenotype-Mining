@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 51 year-old male with untreated <z:hpo ids='HP_0012115'>hepatitis</z:hpo> C <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infection</z:e>, <z:hpo ids='HP_0001394'>cirrhosis</z:hpo> and <z:hpo ids='HP_0001644'>dilated cardiomyopathy</z:hpo> with a HeartMate II LVAD presented with right <z:hpo ids='HP_0001635'>heart failure</z:hpo> and cardiogenic shock, INR of 7, <z:mp ids='MP_0010163'>hemolysis</z:mp> and <z:hpo ids='HP_0000083'>renal failure</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain><z:hpo ids='HP_0011009'>Acute</z:hpo> LVAD <z:mp ids='MP_0005048'>thrombosis</z:mp> was suspected </plain></SENT>
+<SENT sid="2" pm="."><plain>Alteplase was injected into the inflow cannula of the LVAD with little effect </plain></SENT>
+<SENT sid="3" pm="."><plain>Intravenous Alteplase was given but failed to restore an adequate pump output, resulting in the need for emergency pump exchange </plain></SENT>
+<SENT sid="4" pm="."><plain>The patient had an uncomplicated post-operative recovery and was discharged uneventfully </plain></SENT>
+<SENT sid="5" pm="."><plain>Inspection of the pump identified a <z:e sem="disease" ids="C0302148,C0087086" disease_type="Disease or Syndrome;Acquired Abnormality" abbrv="">thrombus</z:e> wedged between the spines of the impeller </plain></SENT>
+<SENT sid="6" pm="."><plain>Our case highlights the challenges in managing pump <z:mp ids='MP_0005048'>thrombosis</z:mp> which is often resistant to thrombolysis and may instead rely upon prompt surgical intervention to be resolved. © 2012 Wiley Periodicals, Inc </plain></SENT>
+</text></document>

@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A family is reported in which three male siblings of Asian descent developed non-Hodgkin's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (NHL) </plain></SENT>
+<SENT sid="1" pm="."><plain>Case 1 was diagnosed with indolent follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo> stage IIIA at age 45 </plain></SENT>
+<SENT sid="2" pm="."><plain>Case 2 presented with large B-cell <z:hpo ids='HP_0002665'>lymphoma</z:hpo> stage IIB at age 56 </plain></SENT>
+<SENT sid="3" pm="."><plain>Chromosomal investigation of the peripheral blood did not show abnormalities </plain></SENT>
+<SENT sid="4" pm="."><plain>Chemotherapy induced a complete remission </plain></SENT>
+<SENT sid="5" pm="."><plain>However, after a period of nearly ten years he developed <z:hpo ids='HP_0011009'>acute</z:hpo> <z:mpath ids='MPATH_342'>myeloid leukaemia</z:mpath> </plain></SENT>
+<SENT sid="6" pm="."><plain>Case 3 developed large B-cell <z:hpo ids='HP_0002665'>lymphoma</z:hpo> stage <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">IVA</z:e> at age 52 </plain></SENT>
+<SENT sid="7" pm="."><plain>Cytogenetic analysis in peripheral blood was <z:mpath ids='MPATH_458'>normal</z:mpath> </plain></SENT>
+<SENT sid="8" pm="."><plain>Shared genetic and environmental risk factors remain to be identified in this family </plain></SENT>
+<SENT sid="9" pm="."><plain>Familial aggregation of NHL is uncommon </plain></SENT>
+<SENT sid="10" pm="."><plain>In some families, various forms of <z:hpo ids='HP_0002721'>immunodeficiency</z:hpo> have been found </plain></SENT>
+<SENT sid="11" pm="."><plain>In addition to coincidental clustering of cases, and rare cases explained by known <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumour</z:e> syndromes such as Li-Fraumeni (like) syndrome, other familial cases may share as yet unknown genetic and/or environmental risk factors </plain></SENT>
+</text></document>

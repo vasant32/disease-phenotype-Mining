@@ -1,0 +1,18 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: To identify existing prediction models for the risk of development of type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> and to externally validate them in a large independent cohort </plain></SENT>
+<SENT sid="1" pm="."><plain>DATA SOURCES: Systematic search of English, German, and Dutch literature in PubMed until February 2011 to identify prediction models for <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="2" pm="."><plain>DESIGN : Performance of the models was assessed in terms of discrimination (C statistic) and calibration (calibration plots and Hosmer-Lemeshow test).The validation study was a prospective cohort study, with a case cohort study in a random subcohort </plain></SENT>
+<SENT sid="3" pm="."><plain>SETTING: Models were applied to the Dutch cohort of the European Prospective Investigation into <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">Cancer</z:e> and Nutrition cohort study (EPIC-NL) </plain></SENT>
+<SENT sid="4" pm="."><plain>PARTICIPANTS: 38 379 people aged 20-70 with no <z:mp ids='MP_0002055'>diabetes</z:mp> at baseline, 2506 of whom made up the random subcohort </plain></SENT>
+<SENT sid="5" pm="."><plain>OUTCOME MEASURE: Incident type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: The review identified 16 studies containing 25 prediction models </plain></SENT>
+<SENT sid="7" pm="."><plain>We considered 12 models as basic because they were based on variables that can be assessed non-invasively and 13 models as extended because they additionally included conventional biomarkers such as <z:chebi fb="105" ids="17234">glucose</z:chebi> concentration </plain></SENT>
+<SENT sid="8" pm="."><plain>During a median follow-up of 10.2 years there were 924 cases in the full EPIC-NL cohort and 79 in the random subcohort </plain></SENT>
+<SENT sid="9" pm="."><plain>The C statistic for the basic models ranged from 0.74 (95% confidence interval 0.73 to 0.75) to 0.84 (0.82 to 0.85) for risk at 7.5 years </plain></SENT>
+<SENT sid="10" pm="."><plain>For prediction models including biomarkers the C statistic ranged from 0.81 (0.80 to 0.83) to 0.93 (0.92 to 0.94) </plain></SENT>
+<SENT sid="11" pm="."><plain>Most prediction models overestimated the observed risk of <z:mp ids='MP_0002055'>diabetes</z:mp>, particularly at higher observed risks </plain></SENT>
+<SENT sid="12" pm="."><plain>After adjustment for differences in incidence of <z:mp ids='MP_0002055'>diabetes</z:mp>, calibration improved considerably </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSIONS: Most basic prediction models can identify people at high risk of developing <z:mp ids='MP_0002055'>diabetes</z:mp> in a time frame of five to 10 years </plain></SENT>
+<SENT sid="14" pm="."><plain>Models including biomarkers classified cases slightly better than basic ones </plain></SENT>
+<SENT sid="15" pm="."><plain>Most models overestimated the actual risk of <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="16" pm="."><plain>Existing prediction models therefore perform well to identify those at high risk, but cannot sufficiently quantify actual risk of future <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+</text></document>

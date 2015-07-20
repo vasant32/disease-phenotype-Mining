@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>As <z:mp ids='MP_0003674'>oxidative stress</z:mp> in relation with <z:e sem="disease" ids="C0027765" disease_type="Disease or Syndrome" abbrv="">neurological diseases</z:e> has become an important point in recent research, simple methods to be used in epidemiological studies and clinical practice are required </plain></SENT>
+<SENT sid="1" pm="."><plain>The hypothesis that the analytical methods used in research laboratories (RLM) can be used interchangeably with commercial kits (CKM) for SOD and TRAP is tested </plain></SENT>
+<SENT sid="2" pm="."><plain>Both methods were compared using linear transformations of the RLM measurements into the CKM scales </plain></SENT>
+<SENT sid="3" pm="."><plain>Data were obtained from Alzheimer's, Parkinson's, and vascular <z:hpo ids='HP_0000726'>dementia</z:hpo> patients and controls </plain></SENT>
+<SENT sid="4" pm="."><plain>The lack of fit and the run's test of residuals were not significant, but the same sign method detected significant nonlinearities (P&lt;0.000001 for SOD, P&lt;0.01 for TRAP) </plain></SENT>
+<SENT sid="5" pm="."><plain>The intragroup CVs of both methods were comparable for TRAP, while in the RLM determinations of SOD resulted in &lt;50% of those obtained with the CKM </plain></SENT>
+<SENT sid="6" pm="."><plain>The ANCOVA comparison of the regression parameters across the clinical groups resulted significant for SOD (P&lt;0.0001) and not significant for TRAP </plain></SENT>
+<SENT sid="7" pm="."><plain>Both methods agree in describing the features of the clinical groups, but the degree of agreement at the individual concentration was poor and they could not be readily intercalibrated </plain></SENT>
+<SENT sid="8" pm="."><plain><z:mpath ids='MPATH_458'>Normal</z:mpath> and pathological values should be obtained independently for the CKM to insure their applicability to large populations </plain></SENT>
+</text></document>

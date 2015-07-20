@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>In healthy neonates, connections between the heart and lungs through brain stem chemosensory pathways and the autonomic <z:mp ids='MP_0008912'>nervous</z:mp> system result in cardiorespiratory synchronization </plain></SENT>
+<SENT sid="1" pm="."><plain>This interdependence between cardiac and respiratory dynamics can be difficult to measure because of intermittent signal quality in intensive care settings and variability of heart and breathing rates </plain></SENT>
+<SENT sid="2" pm="."><plain>We employed a phase-based measure suggested by Schäfer and coworkers (Schäfer C, Rosenblum MG, Kurths J, Abel HH </plain></SENT>
+<SENT sid="3" pm="."><plain>Nature 392: 239-240, 1998) to obtain a breath-by-breath analysis of cardiorespiratory interaction </plain></SENT>
+<SENT sid="4" pm="."><plain>This measure of cardiorespiratory interaction does not distinguish between cardiac control of respiration associated with cardioventilatory coupling and respiratory influences on the heart rate associated with respiratory sinus <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> </plain></SENT>
+<SENT sid="5" pm="."><plain>We calculated, in sliding 4-min windows, the probability density of heartbeats as a function of the concurrent phase of the respiratory cycle </plain></SENT>
+<SENT sid="6" pm="."><plain>Probability density functions whose Shannon entropy had a &lt;0.1% chance of occurring from random numbers were classified as exhibiting interaction </plain></SENT>
+<SENT sid="7" pm="."><plain>In this way, we analyzed 18 infant-years of data from 1,202 patients in the Neonatal Intensive Care Unit at University of Virginia </plain></SENT>
+<SENT sid="8" pm="."><plain>We found evidence of interaction in 3.3 patient-years of data (18%) </plain></SENT>
+<SENT sid="9" pm="."><plain>Cardiorespiratory interaction increased several-fold with postnatal development, but, surprisingly, the rate of increase was not affected by gestational age at birth </plain></SENT>
+<SENT sid="10" pm="."><plain>We find evidence for moderate correspondence between this measure of cardiorespiratory interaction and cardioventilatory coupling and no evidence for respiratory sinus <z:hpo ids='HP_0011675'>arrhythmia</z:hpo>, leading to the need for further investigation of the underlying mechanism </plain></SENT>
+<SENT sid="11" pm="."><plain>Such continuous measures of physiological interaction may serve to gauge developmental maturity in neonatal intensive care patients and prove useful in decisions about incipient illness and about hospital discharge </plain></SENT>
+</text></document>

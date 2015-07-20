@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIM: Current classification systems of <z:e sem="disease" ids="C0009402" disease_type="Neoplastic Process" abbrv="CRC">large bowel cancer</z:e> only refer to <z:e sem="disease" ids="C0027627" disease_type="Neoplastic Process" abbrv="mets">metastatic disease</z:e> as M0, M1 or Mx </plain></SENT>
+<SENT sid="1" pm="."><plain><z:e sem="disease" ids="C0854750" disease_type="Neoplastic Process" abbrv="">Recurrent colorectal cancer</z:e> primarily occurs in the liver, lungs, nodes or peritoneum </plain></SENT>
+<SENT sid="2" pm="."><plain>The management of each of these sites of recurrence has made significant advances and each is a subspecialty in its own right </plain></SENT>
+<SENT sid="3" pm="."><plain>The aim of this paper was to devise a classification system which accurately describes the site and extent of metastatic spread </plain></SENT>
+<SENT sid="4" pm="."><plain>METHOD: An amendment of the current system is proposed in which liver, lung and <z:e sem="disease" ids="C0346989" disease_type="Neoplastic Process" abbrv="">peritoneal metastases</z:e> are annotated by 'Liv 0,1', 'Pul 0,1' and 'Per 0,1' in describing the primary presentation </plain></SENT>
+<SENT sid="5" pm="."><plain>These are then subclassified, taking into account the chronology, size, number and geographical distribution of <z:e sem="disease" ids="C0027627" disease_type="Neoplastic Process" abbrv="mets">metastatic disease</z:e> or logoregional recurrence and its K-Ras status </plain></SENT>
+<SENT sid="6" pm="."><plain>CONCLUSION: This discussion document proposes a classification system which is logical and simple to use </plain></SENT>
+<SENT sid="7" pm="."><plain>We plan to validate it prospectively </plain></SENT>
+</text></document>

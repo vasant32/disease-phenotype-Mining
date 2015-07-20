@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIMS/HYPOTHESIS: Exendin-4 is a 39 amino acid <z:chebi fb="4" ids="48705">agonist</z:chebi> of the glucagon-like <z:chebi fb="7" ids="16670">peptide</z:chebi> receptor and has been approved for treatment of type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="1" pm="."><plain>Many reports describe an increased incidence of <z:hpo ids='HP_0001735'>acute pancreatitis</z:hpo> in humans treated with exendin-4 (exenatide) </plain></SENT>
+<SENT sid="2" pm="."><plain>Previous studies have evaluated the effect of exendin-4 on beta cells and beta cell function </plain></SENT>
+<SENT sid="3" pm="."><plain>We evaluated the histological and biochemical effects of exendin-4 on the pancreas in rats </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS: We studied 20 Sprague-Dawley male rats, ten of which were treated with exendin-4 and ten of which were used as controls </plain></SENT>
+<SENT sid="5" pm="."><plain>The study period was 75 days </plain></SENT>
+<SENT sid="6" pm="."><plain>Serum and pancreatic tissue were removed for biochemical and histological study </plain></SENT>
+<SENT sid="7" pm="."><plain>Blood <z:chebi fb="105" ids="17234">glucose</z:chebi>, amylase, lipase, insulin and adipocytokines were compared between the two groups </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: Animals treated with exendin-4 had more pancreatic acinar <z:mp ids='MP_0001845'>inflammation</z:mp>, more pyknotic nuclei and weighed significantly less than control rats </plain></SENT>
+<SENT sid="9" pm="."><plain>They also had higher serum lipase than control animals </plain></SENT>
+<SENT sid="10" pm="."><plain>Exendin-4 treatment was associated with lower insulin and leptin levels as well as lower HOMA values than in the untreated control group </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS/INTERPRETATION: Although the use of exendin-4 in rats is associated with <z:hpo ids='HP_0004325'>decreased weight</z:hpo> gain, lower <z:hpo ids='HP_0000855'>insulin resistance</z:hpo> and lower leptin levels than in control animals, extended use of exendin-4 in rats leads to pancreatic acinar <z:mp ids='MP_0001845'>inflammation</z:mp> and pyknosis </plain></SENT>
+<SENT sid="12" pm="."><plain>This raises important concerns about the likelihood of inducing <z:hpo ids='HP_0001735'>acute pancreatitis</z:hpo> in humans receiving incretin mimetic therapy </plain></SENT>
+</text></document>

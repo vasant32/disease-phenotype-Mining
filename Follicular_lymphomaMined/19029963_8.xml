@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We enrolled 23 patients with relapsed follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (FL) in a prospective single-arm study of auto-SCT combined with in vivo rituximab graft purging and post transplant rituximab maintenance </plain></SENT>
+<SENT sid="1" pm="."><plain><z:e sem="disease" ids="C0242596" disease_type="Neoplastic Process" abbrv="MRD">Minimal residual disease</z:e> was monitored with quantitative PCR testing </plain></SENT>
+<SENT sid="2" pm="."><plain>With a median follow-up of 74.2 months, neither median overall survival (OS) nor PFS has been reached </plain></SENT>
+<SENT sid="3" pm="."><plain>Here, 5-year OS and 5-year PFS are 78% (95% confidence interval (CI) 61-95%) and 59% (95% CI 38-80%), respectively </plain></SENT>
+<SENT sid="4" pm="."><plain>Time to progression (<z:chebi fb="1" ids="18284">TTP</z:chebi>) with the experimental regimen was significantly improved compared with <z:chebi fb="1" ids="18284">TTP</z:chebi> with the last prior treatment (P&lt;0.001) </plain></SENT>
+<SENT sid="5" pm="."><plain>Durable molecular remissions occurred in 11 of 13 assessable patients </plain></SENT>
+<SENT sid="6" pm="."><plain>PFS was significantly longer in patients who achieved a molecular remission by 3 months post-auto-SCT (P=0.001) </plain></SENT>
+<SENT sid="7" pm="."><plain>Prolonged <z:hpo ids='HP_0004313'>hypogammaglobulinemia</z:hpo> occurred in most patients; however, no increase in major <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infections</z:e> was observed </plain></SENT>
+</text></document>

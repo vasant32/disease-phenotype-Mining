@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:chebi fb="1" ids="36809">Tricyclic antidepressant</z:chebi> (<z:chebi fb="6" ids="30956">TCA</z:chebi>) poisoning is a major problem in medicine, with a high morbidity and mortality rate </plain></SENT>
+<SENT sid="1" pm="."><plain>The main cause of fatality is <z:hpo ids='HP_0011675'>cardiac arrhythmias</z:hpo> resulting from intoxication </plain></SENT>
+<SENT sid="2" pm="."><plain><z:chebi fb="17" ids="32139">Sodium bicarbonate</z:chebi> is the drug of choice, but severe poisoning necessitates further interventions </plain></SENT>
+<SENT sid="3" pm="."><plain><z:chebi fb="0" ids="32599">Magnesium sulfate</z:chebi> seems to be effective in this condition </plain></SENT>
+<SENT sid="4" pm="."><plain>In a randomized, clinical trial, we evaluated <z:hpo ids='HP_0000001'>all</z:hpo> patients with a history of <z:chebi fb="6" ids="30956">TCA</z:chebi> intoxication referred to the Loghman Hakim Hospital Poison Center </plain></SENT>
+<SENT sid="5" pm="."><plain>The patients were randomly divided into two groups: one treated by bicarbonate infusion (control group) and the other (case group) by the infusion of <z:chebi fb="0" ids="32599">magnesium sulfate</z:chebi> in addition to the treatment in the first group </plain></SENT>
+<SENT sid="6" pm="."><plain>Seventy-two patients were recruited into the study (36 cases and 36 controls) </plain></SENT>
+<SENT sid="7" pm="."><plain>Mean duration of intensive care unit stay in the cases and controls were 25.63 ± 9.33 and 82.67 ± 21.66 hours, respectively (P &lt; 0.001) </plain></SENT>
+<SENT sid="8" pm="."><plain>Mortality rate in the case group was 13.9% and 33.3% in the other group (P = 0.052) </plain></SENT>
+<SENT sid="9" pm="."><plain><z:chebi fb="0" ids="32599">Magnesium sulfate</z:chebi> can be an effective drug in the treatment of <z:chebi fb="6" ids="30956">TCA</z:chebi> poisoning; however, several randomized, clinical trials are still necessary to confirm this </plain></SENT>
+</text></document>

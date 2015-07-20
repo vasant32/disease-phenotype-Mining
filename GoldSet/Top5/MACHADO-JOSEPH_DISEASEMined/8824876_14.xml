@@ -1,0 +1,19 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:e sem="disease" ids="C0024408" disease_type="Disease or Syndrome" abbrv="MJD|SCA3">Machado-Joseph disease</z:e> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MJD</z:e>) is an <z:hpo ids='HP_0000006'>autosomal dominant</z:hpo> <z:e sem="disease" ids="C0524851" disease_type="Disease or Syndrome" abbrv="">neurodegenerative disorder</z:e> associated with an unstable and expanded CAG repeat </plain></SENT>
+<SENT sid="1" pm="."><plain>We analyzed this locus from various sources including <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MJD</z:e> families, Acadian, African American, Caucasian, Greenland Inuit and Thai populations </plain></SENT>
+<SENT sid="2" pm="."><plain>The range of the CAG repeat size was 14-40 in the <z:mpath ids='MPATH_458'>normal</z:mpath> alleles while the <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MJD</z:e> alleles contained 73-78 repeats in our studies </plain></SENT>
+<SENT sid="3" pm="."><plain>We found 25 different alleles on <z:mpath ids='MPATH_458'>normal</z:mpath> chromosomes with a heterozygosity of 0.86 in combined populations </plain></SENT>
+<SENT sid="4" pm="."><plain>The most common alleles were 23 (22.9%) and 14 (25.5%) repeats </plain></SENT>
+<SENT sid="5" pm="."><plain>We also examined 16 chimpanzees and various Old World monkeys: a pigtail macaque, a mangabey and 12 rhesus macaques </plain></SENT>
+<SENT sid="6" pm="."><plain>The DNA sequences surrounding the CAG repeat did not vary among species </plain></SENT>
+<SENT sid="7" pm="."><plain>The range of the number of the CAG repeats is 13-14 in macaques, 16 in mangabey and 14-20 in chimpanzees </plain></SENT>
+<SENT sid="8" pm="."><plain>Variant CAA or AAG triplets in the CAG repeat tracts were found in <z:hpo ids='HP_0000001'>all</z:hpo> 268 human, 28 monkey and 32 chimpanzee chromosomes </plain></SENT>
+<SENT sid="9" pm="."><plain>As reported in a previous study [Kawaguchi et al </plain></SENT>
+<SENT sid="10" pm="."><plain>(1994) Nature Genet </plain></SENT>
+<SENT sid="11" pm="."><plain>8, 221-228] the common variant positions were the third (CAA), fourth (AAG) and sixth (CAA) positions </plain></SENT>
+<SENT sid="12" pm="."><plain>However, we found three human chromosomes containing CAG at the sixth position and the mangabey had AAG at the ninth position </plain></SENT>
+<SENT sid="13" pm="."><plain>In addition, we found CAG at the fourth position and AAG at the sixth position in <z:hpo ids='HP_0000001'>all</z:hpo> macaque chromosomes </plain></SENT>
+<SENT sid="14" pm="."><plain>The nucleotide following the CAG repeat tract was usually G in <z:hpo ids='HP_0000001'>all</z:hpo> species studied </plain></SENT>
+<SENT sid="15" pm="."><plain>However, we sometimes found C at this position in human and chimpanzee chromosomes </plain></SENT>
+<SENT sid="16" pm="."><plain>Interestingly, this variant C was found in <z:hpo ids='HP_0000001'>all</z:hpo> expanded chromosomes and in 54.5% of chromosomes with 27-40 CAG repeats but it was not found in any chromosomes with less than 20 CAG repeats </plain></SENT>
+<SENT sid="17" pm="."><plain>We hypothesize that the variant C may be associated with CAG repeat instability </plain></SENT>
+</text></document>

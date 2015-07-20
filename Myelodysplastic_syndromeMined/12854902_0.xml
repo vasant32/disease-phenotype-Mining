@@ -1,0 +1,20 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Patients with relapsed or refractory <z:hpo ids='HP_0002665'>lymphoma</z:hpo> often require treatment with aggressive chemotherapy </plain></SENT>
+<SENT sid="1" pm="."><plain>At McGill University, a combination of high dose <z:chebi fb="0" ids="4911">VP-16</z:chebi> and <z:chebi fb="0" ids="4027">cyclophosphamide</z:chebi> (VP-CY) is commonly used as a salvage regimen </plain></SENT>
+<SENT sid="2" pm="."><plain>In recent years, cytogenetic abnormalities of the long arm of chromosome 11 at band 23 (11q23) have been linked to the use of <z:chebi fb="0" ids="4911">VP-16</z:chebi>, and may be associated with secondary <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo> or <z:hpo ids='HP_0002488'>acute leukemia</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>Therapy related 11q23 anomalies have not been widely studied in <z:hpo ids='HP_0002665'>lymphoma</z:hpo> patients </plain></SENT>
+<SENT sid="4" pm="."><plain>We have identified and reviewed the course of 107 patients who have been treated with VP-CY </plain></SENT>
+<SENT sid="5" pm="."><plain>Thirty-five patients remain alive and 21 consented to participate in our study </plain></SENT>
+<SENT sid="6" pm="."><plain>Patient bone marrows were studied morphologically, cytogenetically and molecularly, to identify any new changes that may have developed over the course of their treatment, with a special emphasis on the search for 11q23 rearrangements </plain></SENT>
+<SENT sid="7" pm="."><plain>Mean time between VP-CY treatment and marrow evaluation was 3.6 years </plain></SENT>
+<SENT sid="8" pm="."><plain>Of the 21 patients, 5 had <z:e sem="disease" ids="C0019829" disease_type="Neoplastic Process" abbrv="hd">Hodgkin's disease</z:e> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">HD</z:e>) and 16 had non Hodgkin's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (NHL) </plain></SENT>
+<SENT sid="9" pm="."><plain>They received a total of 30 cycles of VP-CY </plain></SENT>
+<SENT sid="10" pm="."><plain>Response rate was 100%, with 16 complete and 5 partial responses </plain></SENT>
+<SENT sid="11" pm="."><plain>Eighteen patients later underwent autologous stem cell transplantation </plain></SENT>
+<SENT sid="12" pm="."><plain>At the time of study, 19 of the patients were disease free and 2 were in relapse </plain></SENT>
+<SENT sid="13" pm="."><plain>On morphological analysis, 12 marrows appeared <z:mpath ids='MPATH_458'>normal</z:mpath> and 6 showed mild dyserythropoiesis </plain></SENT>
+<SENT sid="14" pm="."><plain>Standard cytogenetics was done to examine for any new chromosomal translocations or deletions </plain></SENT>
+<SENT sid="15" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> cytogenetic studies yielded <z:mpath ids='MPATH_458'>normal</z:mpath> results </plain></SENT>
+<SENT sid="16" pm="."><plain>Molecular analysis by Southern blot was done on 15 patients in a search for 11q23 rearrangements, including the partial tandem duplication of ALL-1 </plain></SENT>
+<SENT sid="17" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> molecular studies were <z:mpath ids='MPATH_458'>normal</z:mpath> </plain></SENT>
+<SENT sid="18" pm="."><plain>We conclude that the use of VP-CY, given in our treatment schedule, does not appear to be associated with an increased risk of developing 11q23 rearrangements </plain></SENT>
+</text></document>

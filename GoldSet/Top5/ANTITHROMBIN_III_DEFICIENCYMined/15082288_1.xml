@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVES: Systemic heparinization is usually required for cardiopulmonary bypass (CPB) </plain></SENT>
+<SENT sid="1" pm="."><plain>However, problems such as <z:hpo ids='HP_0011874'>heparin-induced thrombocytopenia</z:hpo>, protamine shock, and <z:hpo ids='HP_0001976'>antithrombin III deficiency</z:hpo> exist related to CPB with heparinization </plain></SENT>
+<SENT sid="2" pm="."><plain>The aim of this study was to evaluate argatroban (ARG) as a substitute for <z:chebi fb="5" ids="28304">heparin</z:chebi> during CPB </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: In the pilot study, blood samples were sequentially obtained from dogs with continuous infusion of ARG at a dose of 10 (n = 6), 20 (n = 6), or 30 (n = 6) microg/kg per min for 2 h without CPB </plain></SENT>
+<SENT sid="4" pm="."><plain>In the main study, dogs underwent CPB for 2 h with 10 (n = 6) or 30 (n = 6) microg/kg per min of ARG or with <z:chebi fb="5" ids="28304">heparin</z:chebi> with blood samples obtained sequentially </plain></SENT>
+<SENT sid="5" pm="."><plain>Thrombogenicity in each group was evaluated by observation of the blood-contacting surfaces of the CPB circuits with scanning electron microscopy (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">SEM</z:e>) </plain></SENT>
+<SENT sid="6" pm="."><plain>Evidence of <z:hpo ids='HP_0001907'>thromboembolism</z:hpo> in the dogs was also investigated in histological specimens of the kidney and spleen in addition to microscopic observation at autopsy </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: In the pilot study, the activated coagulation time (ACT) reached a maximum level dose-dependently after continuous infusion of ARG for 30 min </plain></SENT>
+<SENT sid="8" pm="."><plain>ACT returned to the baseline value within 60 min after the termination of continuous infusion </plain></SENT>
+<SENT sid="9" pm="."><plain>In the main study, CPB with 30 microg/kg per min of ARG achieved thrombin-antithrombin III complex (TAT) level similar to that achieved by CPB with <z:chebi fb="5" ids="28304">heparin</z:chebi> </plain></SENT>
+<SENT sid="10" pm="."><plain>Platelet count with 30 microg/kg per min of ARG tended to be higher than that with <z:chebi fb="5" ids="28304">heparin</z:chebi> or 10 microg/kg per min of ARG </plain></SENT>
+<SENT sid="11" pm="."><plain>The <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">SEM</z:e> appearance of blood-contacting surfaces of the CPB circuits after infusion with 30 microg/kg per min of ARG appeared to be similar to that after infusion with <z:chebi fb="5" ids="28304">heparin</z:chebi> </plain></SENT>
+<SENT sid="12" pm="."><plain>Depositions on the blood-contacting surfaces of the CPB circuits were also frequently observed with 10 microg/kg per min of ARG </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSIONS: Coagulability related to CPB was controlled by the appropriate ARG dosage without the use of <z:chebi fb="5" ids="28304">heparin</z:chebi> in dogs </plain></SENT>
+<SENT sid="14" pm="."><plain>ARG may be a substitute for <z:chebi fb="5" ids="28304">heparin</z:chebi> in CPB </plain></SENT>
+</text></document>

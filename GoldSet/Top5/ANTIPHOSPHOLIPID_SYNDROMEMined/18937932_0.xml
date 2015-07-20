@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:e sem="disease" ids="C0085278" disease_type="Disease or Syndrome" abbrv="">Antiphospholipid syndrome</z:e> (APS) is an acquired thrombotic disorder </plain></SENT>
+<SENT sid="1" pm="."><plain>It mainly occurs with <z:e sem="disease" ids="C0442893" disease_type="Disease or Syndrome" abbrv="">systemic disease</z:e> or as a primary disorder </plain></SENT>
+<SENT sid="2" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> organs may be involved by <z:mp ids='MP_0005048'>thrombosis</z:mp>, but to date the most common <z:chebi fb="32" ids="24621">endocrine</z:chebi> manifestation is <z:hpo ids='HP_0011010'>chronic</z:hpo> <z:hpo ids='HP_0000846'>adrenal insufficiency</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>Very few cases of <z:mp ids='MP_0003348'>hypopituitarism</z:mp> with primary APS have been reported </plain></SENT>
+<SENT sid="4" pm="."><plain>We report the case of a 27-year-old woman, victim of a <z:hpo ids='HP_0001297'>stroke</z:hpo> leading to <z:hpo ids='HP_0000651'>double vision</z:hpo> and intracranial <z:hpo ids='HP_0000822'>hypertension</z:hpo> </plain></SENT>
+<SENT sid="5" pm="."><plain>Magnetic resonance imaging showed a macro-<z:mpath ids='MPATH_270'>adenoma</z:mpath> with <z:mp ids='MP_0001914'>hemorrhage</z:mp> of a suprasellar lesion </plain></SENT>
+<SENT sid="6" pm="."><plain>Hormone assessment showed hyper prolactinemia with positive anticardiolipin antibody </plain></SENT>
+<SENT sid="7" pm="."><plain>Our case is the second reported associating APS with <z:e sem="disease" ids="C0038454" disease_type="Disease or Syndrome" abbrv="">apoplexy</z:e> </plain></SENT>
+<SENT sid="8" pm="."><plain>We discuss the clinical, biological and radiological features observed in our case </plain></SENT>
+<SENT sid="9" pm="."><plain>We conclude that APS should be searched for whenever a history of <z:mpath ids='MPATH_270'>adenoma</z:mpath> with <z:e sem="disease" ids="C0038454" disease_type="Disease or Syndrome" abbrv="">apoplexy</z:e> is found associated with <z:hpo ids='HP_0004419'>recurrent thrombosis</z:hpo> </plain></SENT>
+</text></document>

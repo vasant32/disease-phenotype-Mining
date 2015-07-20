@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: The primary purpose was to investigate whether serum vitamin A concentration is associated with idiopathic intracranial <z:hpo ids='HP_0000822'>hypertension</z:hpo> (IIH) </plain></SENT>
+<SENT sid="1" pm="."><plain>The secondary aim was to obtain pilot data regarding the amount of vitamin A ingested by patients and controls </plain></SENT>
+<SENT sid="2" pm="."><plain>BACKGROUND: Vitamin A is an attractive candidate mediator of IIH as many of the symptoms and signs of <z:e sem="disease" ids="C0342951" disease_type="Disease or Syndrome" abbrv="">hypervitaminosis</z:e> A mimic those of IIH </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: We prospectively determined serum <z:chebi fb="1" ids="50211">retinol</z:chebi> and <z:chebi fb="0" ids="16179">retinyl ester</z:chebi> concentration in 16 women with IIH and 70 healthy young women </plain></SENT>
+<SENT sid="4" pm="."><plain>Using a survey instrument, we also determined the average daily vitamin A ingestion in a convenience sample of patients and controls </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: Serum <z:chebi fb="1" ids="50211">retinol</z:chebi> concentration was significantly higher in the patient group (median 752 ug/L) compared with the control group (median 530 ug/L), even after adjusting for age and body mass index (p &lt; 0.001) </plain></SENT>
+<SENT sid="6" pm="."><plain><z:chebi fb="0" ids="16179">Retinyl ester</z:chebi> concentration, however, was similar in the patient (median 48 ug/L) and control (median 41 ug/L) groups (p = 0.32) </plain></SENT>
+<SENT sid="7" pm="."><plain>There was no significant correlation between serum <z:chebi fb="1" ids="50211">retinol</z:chebi> concentration and body mass index in the patients (r = 0.16) or controls (r = -0.02) </plain></SENT>
+<SENT sid="8" pm="."><plain>Finally, there was no significant difference in the amounts of vitamin A ingested by the patients or controls, although the small number of subjects in both groups reduced the power of this conclusion </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSIONS: Elevated serum <z:chebi fb="1" ids="50211">retinol</z:chebi> concentration is associated with IIH </plain></SENT>
+<SENT sid="10" pm="."><plain><z:hpo ids='HP_0001513'>Obesity</z:hpo>, by itself, does not explain these higher levels </plain></SENT>
+<SENT sid="11" pm="."><plain>Patients may ingest an abnormally large amount of vitamin A, metabolize it abnormally, or be unusually sensitive to its effects </plain></SENT>
+<SENT sid="12" pm="."><plain>Alternatively, elevated level of serum <z:chebi fb="1" ids="50211">retinol</z:chebi> may reflect an epiphenomenon of another variable we did not measure or a nonspecific effect of elevated <z:chebi fb="1" ids="50211">retinol</z:chebi> binding capacity </plain></SENT>
+</text></document>

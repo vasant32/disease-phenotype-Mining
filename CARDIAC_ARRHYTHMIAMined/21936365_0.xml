@@ -1,0 +1,5 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Singularity is a basic feature of biological signals </plain></SENT>
+<SENT sid="1" pm="."><plain>Based on the variations of wavelet transform modulus maxima in multi-scales, we studied the basic theorem for analyzing the singularity and proposed an algorithm for calculating lipschitz exponent </plain></SENT>
+<SENT sid="2" pm="."><plain>Then we applied the algorithm to calculate the singularity of R-wave in ECG </plain></SENT>
+<SENT sid="3" pm="."><plain>Our study found that the level of singularity of R-waves in ECG between the 10 arrhythm patients randomly chosen and the healthy persons was significantly different, with the level of singularity of R-wave of <z:mpath ids='MPATH_458'>normal</z:mpath> persons remarkably higher than that of <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> patients </plain></SENT>
+</text></document>

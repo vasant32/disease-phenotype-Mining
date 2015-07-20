@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>RATIONALE: L-type Ca(2+) (Ca(V)1.2) channels shape the cardiac action potential waveform and are essential for excitation-contraction coupling in heart </plain></SENT>
+<SENT sid="1" pm="."><plain>A gain-of-function G406R mutation in a cytoplasmic loop of Ca(V)1.2 channels causes <z:hpo ids='HP_0001657'>long QT syndrome</z:hpo> 8 (LQT8), a disease also known as Timothy syndrome </plain></SENT>
+<SENT sid="2" pm="."><plain>However, the mechanisms by which this mutation enhances Ca(V)1.2-LQT8 currents and generates lethal <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> are unclear </plain></SENT>
+<SENT sid="3" pm="."><plain>OBJECTIVE: To test the hypothesis that the anchoring protein AKAP150 modulates Ca(V)1.2-LQT8 channel gating in ventricular myocytes </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS AND RESULTS: Using a combination of molecular, imaging, and electrophysiological approaches, we discovered that Ca(V)1.2-LQT8 channels are abnormally coupled to AKAP150 </plain></SENT>
+<SENT sid="5" pm="."><plain>A pathophysiological consequence of forming this aberrant ion channel-anchoring protein complex is enhanced Ca(V)1.2-LQT8 currents </plain></SENT>
+<SENT sid="6" pm="."><plain>This occurs through a mechanism whereby the anchoring protein functions like a subunit of Ca(V)1.2-LQT8 channels that stabilizes the open conformation and augments the probability of coordinated openings of these channels </plain></SENT>
+<SENT sid="7" pm="."><plain>Ablation of AKAP150 restores <z:mpath ids='MPATH_458'>normal</z:mpath> gating in Ca(V)1.2-LQT8 channels and protects the heart from <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> </plain></SENT>
+<SENT sid="8" pm="."><plain>CONCLUSION: We propose that AKAP150-dependent changes in Ca(V)1.2-LQT8 channel gating may constitute a novel general mechanism for Ca(V)1.2-driven <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> </plain></SENT>
+</text></document>

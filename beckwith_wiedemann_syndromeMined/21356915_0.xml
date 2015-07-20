@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>INTRODUCTIONThe <z:mp ids='MP_0003121'>genomic imprinting</z:mp> mechanism regulates differential expression of paternally and maternally derived genes </plain></SENT>
+<SENT sid="1" pm="."><plain>During development, primordial germ cells (<z:chebi fb="6" ids="26336">PGCs</z:chebi>) have a unique methylation pattern which undergoes demethylation, both globally and at imprinted loci </plain></SENT>
+<SENT sid="2" pm="."><plain>Later, the methylation status of imprinted genes is re-established during gametogenesis by de novo methylation </plain></SENT>
+<SENT sid="3" pm="."><plain>Errors in the methylation patterns of imprinted genes have been associated with syndromes such as <z:e sem="disease" ids="C0004903" disease_type="Disease or Syndrome;Congenital Abnormality" abbrv="">Beckwith-Wiedemann</z:e>, Angelman, and Prader-Willi in humans </plain></SENT>
+<SENT sid="4" pm="."><plain>Human embryonic stem cells (hESCs) have unique methylation patterns compared to somatic stem cells and <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> cells </plain></SENT>
+<SENT sid="5" pm="."><plain>The status of allelic expression or methylation of human imprinted genes can be studied in detail in human embryos/blastocysts and hESCs to understand early development and differentiation </plain></SENT>
+<SENT sid="6" pm="."><plain>This protocol describes the <z:chebi fb="0" ids="17137">bisulfite</z:chebi> genomic sequencing method for analysis of methylation patterns of imprinted loci in human embryonic stem cells </plain></SENT>
+<SENT sid="7" pm="."><plain>Multiple imprinted loci can be analyzed by performing the following protocol with gene-specific primers </plain></SENT>
+</text></document>

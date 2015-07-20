@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The aggregation of ataxin-3 is associated with spinocerebellar <z:hpo ids='HP_0001251'>ataxia</z:hpo> type 3, which is characterized by the formation of intraneuronal aggregates </plain></SENT>
+<SENT sid="1" pm="."><plain>However, the mechanism of aggregation is currently not well understood </plain></SENT>
+<SENT sid="2" pm="."><plain>Ataxin-3 consists of a folded Josephin domain followed by two ubiquitin-interacting motifs and a C-terminal polyglutamine tract, which in the non-pathological form is less than 45 residues in length </plain></SENT>
+<SENT sid="3" pm="."><plain>We demonstrate that ataxin-3 with 64 glutamines (at(Q64)) undergoes a two-stage aggregation </plain></SENT>
+<SENT sid="4" pm="."><plain>The first stage involves formation of <z:chebi fb="26" ids="8984">SDS</z:chebi>-soluble aggregates, and the second stage results in formation of <z:chebi fb="26" ids="8984">SDS</z:chebi>-insoluble aggregates via the poly(Q) region </plain></SENT>
+<SENT sid="5" pm="."><plain>Both these first and second stage aggregates display typical amyloid-like characteristics </plain></SENT>
+<SENT sid="6" pm="."><plain>Under the same conditions at(Q15) and at(QHQ) undergo a single step aggregation event resulting in <z:chebi fb="26" ids="8984">SDS</z:chebi>-soluble aggregates, which does not involve the polyglutamine tract </plain></SENT>
+<SENT sid="7" pm="."><plain>These aggregates do not convert to the <z:chebi fb="26" ids="8984">SDS</z:chebi>-insoluble form </plain></SENT>
+<SENT sid="8" pm="."><plain>These observations demonstrate that ataxin-3 has an inherent capacity to aggregate through its non-polyglutamine domains </plain></SENT>
+<SENT sid="9" pm="."><plain>However, the presence of a pathological length polyglutamine tract introduces an additional step resulting in formation of a highly stable amyloid-like aggregate </plain></SENT>
+</text></document>

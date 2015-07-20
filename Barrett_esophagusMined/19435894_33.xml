@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Esophageal <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> risk in <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> (BE) is increased 30- to 125-fold versus the general population </plain></SENT>
+<SENT sid="1" pm="."><plain>Among <z:hpo ids='HP_0000001'>all</z:hpo> BE patients, however, <z:e sem="disease" ids="C0178874" disease_type="Neoplastic Process" abbrv="">neoplastic progression</z:e> occurs only once per 200 patient-years </plain></SENT>
+<SENT sid="2" pm="."><plain>Molecular biomarkers are therefore needed to risk-stratify patients for more efficient surveillance endoscopy and to improve the early detection of progression </plain></SENT>
+<SENT sid="3" pm="."><plain>We therefore performed a retrospective, multicenter, double-blinded validation study of eight BE progression prediction methylation biomarkers </plain></SENT>
+<SENT sid="4" pm="."><plain>Progression or nonprogression were determined at 2 years (tier 1) and 4 years (tier 2) </plain></SENT>
+<SENT sid="5" pm="."><plain>Methylation was assayed in 145 nonprogressors and 50 progressors using real-time quantitative methylation-specific PCR </plain></SENT>
+<SENT sid="6" pm="."><plain>Progressors were significantly older than nonprogressors (70.6 versus 62.5 years; P &lt; 0.001) </plain></SENT>
+<SENT sid="7" pm="."><plain>We evaluated a linear combination of the eight markers, using coefficients from a multivariate logistic regression analysis </plain></SENT>
+<SENT sid="8" pm="."><plain>Areas under the ROC curve (AUC) were high in the 2-year, 4-year, and combined data models (0.843, 0.829, and 0.840; P &lt; 0.001, &lt;0.001, and &lt;0.001, respectively) </plain></SENT>
+<SENT sid="9" pm="."><plain>In addition, even after rigorous overfitting correction, the incremental AUCs contributed by panels based on the 8 markers plus age versus age alone were substantial (Delta-AUC = 0.152, 0.114, and 0.118, respectively) in <z:hpo ids='HP_0000001'>all</z:hpo> 3 models </plain></SENT>
+<SENT sid="10" pm="."><plain>A methylation biomarker-based panel to predict <z:e sem="disease" ids="C0178874" disease_type="Neoplastic Process" abbrv="">neoplastic progression</z:e> in BE has potential clinical value in improving both the efficiency of surveillance endoscopy and the early detection of <z:hpo ids='HP_0002664'>neoplasia</z:hpo> </plain></SENT>
+</text></document>

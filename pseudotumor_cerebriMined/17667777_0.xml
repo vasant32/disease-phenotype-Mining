@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: Describe neurotologic findings associated with idiopathic intracranial <z:hpo ids='HP_0000822'>hypertension</z:hpo> (IIH) </plain></SENT>
+<SENT sid="1" pm="."><plain>STUDY DESIGN: Retrospective </plain></SENT>
+<SENT sid="2" pm="."><plain>SETTING: Tertiary referral center </plain></SENT>
+<SENT sid="3" pm="."><plain>PATIENTS: Case of IIH (&gt;250 mm water) presenting with unilateral <z:hpo ids='HP_0010628'>facial palsy</z:hpo> and enlargement of the fallopian canal on computed tomography and magnetic resonance imaging </plain></SENT>
+<SENT sid="4" pm="."><plain>INTERVENTION(S): Oral <z:chebi fb="0" ids="27690">acetazolamide</z:chebi>, <z:chebi fb="0" ids="50858">corticosteroids</z:chebi>, and cerebrospinal fluid drainage </plain></SENT>
+<SENT sid="5" pm="."><plain>MAIN OUTCOME MEASURE(S): Intracranial pressure measurement, cranial nerve examination, audiometry, and symptom assessment </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: Audiometry revealed asymmetric <z:mp ids='MP_0004740'>sensorineural hearing loss</z:mp> </plain></SENT>
+<SENT sid="7" pm="."><plain>Enlargement of the fallopian canal with cerebrospinal fluid was evident on imaging studies </plain></SENT>
+<SENT sid="8" pm="."><plain>Partial resolution of IIH symptoms was achieved </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSION: IIH is an enigmatic disease entity </plain></SENT>
+<SENT sid="10" pm="."><plain><z:hpo ids='HP_0002516'>Increased intracranial pressure</z:hpo> usually presents with <z:hpo ids='HP_0002315'>headache</z:hpo> and <z:hpo ids='HP_0008629'>pulsatile tinnitus</z:hpo> and is occasionally associated with <z:e sem="disease" ids="C0010266" disease_type="Disease or Syndrome" abbrv="">cranial neuropathies</z:e> </plain></SENT>
+<SENT sid="11" pm="."><plain><z:hpo ids='HP_0011349'>Abducens palsy</z:hpo> is most common, producing <z:hpo ids='HP_0000651'>diplopia</z:hpo> </plain></SENT>
+<SENT sid="12" pm="."><plain><z:hpo ids='HP_0001291'>Cranial nerve involvement</z:hpo> is often asymmetric, producing false localizing signs </plain></SENT>
+<SENT sid="13" pm="."><plain>Facial <z:hpo ids='HP_0003470'>paralysis</z:hpo> is an uncommon sequela of IIH </plain></SENT>
+<SENT sid="14" pm="."><plain>Treatment of IIH consists of reducing intracranial pressure </plain></SENT>
+<SENT sid="15" pm="."><plain><z:chebi fb="0" ids="50858">Corticosteroids</z:chebi> are recommended for treatment of facial <z:hpo ids='HP_0003470'>paralysis</z:hpo> </plain></SENT>
+</text></document>

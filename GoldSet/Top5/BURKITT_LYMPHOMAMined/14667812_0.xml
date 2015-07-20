@@ -1,0 +1,7 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Representational difference analysis, a cDNA subtraction approach, was used to identify genes that are expressed in <z:hpo ids='HP_0002488'>acute leukemia</z:hpo> but not in <z:mpath ids='MPATH_458'>normal</z:mpath> hematological tissues </plain></SENT>
+<SENT sid="1" pm="."><plain>We isolated a cDNA fragment from a cell line derived from a B cell <z:hpo ids='HP_0006721'>acute lymphoblastic leukemia</z:hpo> bearing two Philadelphia chromosomes </plain></SENT>
+<SENT sid="2" pm="."><plain>The cDNA derives from an orphan gene that was named BLACE </plain></SENT>
+<SENT sid="3" pm="."><plain>BLACE is located in region 7q36 and encodes a major 5.3-kb transcript and several alternatively spliced minor transcripts </plain></SENT>
+<SENT sid="4" pm="."><plain>Significant expression of BLACE was detected by RT-PCR and quantitative RT-PCR in bone marrow samples from B cell <z:hpo ids='HP_0006721'>acute lymphoblastic leukemia</z:hpo> patients </plain></SENT>
+<SENT sid="5" pm="."><plain>BLACE was not or was scarcely expressed in other types of <z:e sem="disease" ids="C0376545" disease_type="Neoplastic Process" abbrv="">hematological malignancies</z:e>, in <z:mpath ids='MPATH_458'>normal</z:mpath> tissues, and in <z:e sem="disease" ids="C0280100" disease_type="Neoplastic Process" abbrv="">solid tumors</z:e> </plain></SENT>
+</text></document>

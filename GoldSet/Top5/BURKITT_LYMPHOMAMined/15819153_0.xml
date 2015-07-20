@@ -1,0 +1,5 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 38-year-old man was referred by his dental surgeon with a painful swelling in the right mandibular sulcus and an ipsilateral numb lip </plain></SENT>
+<SENT sid="1" pm="."><plain>Dental <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infection</z:e> secondary to <z:hpo ids='HP_0000670'>caries</z:hpo> was initially diagnosed but biopsy revealed this to be a Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>After intense chemotherapy, the patient is still in remission three years later </plain></SENT>
+<SENT sid="3" pm="."><plain>This case is a reminder that <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">malignancy</z:e> should always be high on a clinician's list of differential diagnoses of jaw swelling associated with <z:hpo ids='HP_0000707'>neurological abnormalities</z:hpo> and prompt referral is essential </plain></SENT>
+</text></document>

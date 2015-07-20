@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The epidermal growth factor receptor (EGFR) is frequently overexpressed in <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> and is therefore an attractive target for treatment </plain></SENT>
+<SENT sid="1" pm="."><plain>(ZEGFR:1907)2 is a newly developed dimeric affibody molecule with high affinity to the extracellular part of EGFR </plain></SENT>
+<SENT sid="2" pm="."><plain>In this study, we evaluated the cytotoxic effects of (ZEGFR:1907)2 in combination with external radiation and the possible inhibitory effects in the EGFR signalling pathways in the <z:hpo ids='HP_0003003'>colon cancer</z:hpo> cell lines HT-29 and HCT116 </plain></SENT>
+<SENT sid="3" pm="."><plain>The effects were compared with an EGFR antibody (cetuximab) and the <z:chebi fb="0" ids="38637">tyrosine kinase inhibitors</z:chebi> (<z:chebi fb="0" ids="114785">erlotinib</z:chebi> and <z:chebi fb="0" ids="38940">sunitinib</z:chebi>) </plain></SENT>
+<SENT sid="4" pm="."><plain>These cell lines are genotypically different with respect to e.g. KRAS and BRAF mutational status, recently shown to be of clinical significance for therapeutic effects </plain></SENT>
+<SENT sid="5" pm="."><plain>Both cell lines express approximately 100,000-150,000 EGFRs per cell but differ in the radiation response (HCT116, SF2=0.28 and HT-29, SF2=0.70) </plain></SENT>
+<SENT sid="6" pm="."><plain>Exposure to (ZEGFR:1907)2 produced a small, but significant, reduction in survival in HCT116 but did not affect HT-29 cells </plain></SENT>
+<SENT sid="7" pm="."><plain>Similar results were obtained after exposure to EGF and the EGFR antibody cetuximab </plain></SENT>
+<SENT sid="8" pm="."><plain>The EGFR tyrosine kinase targeting inhibitor <z:chebi fb="0" ids="114785">erlotinib</z:chebi> and the multi-<z:chebi fb="0" ids="38637">tyrosine kinase inhibitor</z:chebi> <z:chebi fb="0" ids="38940">sunitinib</z:chebi> reduced survival in both cell lines </plain></SENT>
+<SENT sid="9" pm="."><plain>However, none of the drugs had any significant radiosensitizing effects in combination with radiation </plain></SENT>
+<SENT sid="10" pm="."><plain>Akt and Erk are central proteins in the EGFR downstream signalling and in the cellular response to ionizing radiation </plain></SENT>
+<SENT sid="11" pm="."><plain>The activation of Akt (Ser 473) and Erk (Thr202/Tyr204) by radiation was both dose- and time-dependent </plain></SENT>
+<SENT sid="12" pm="."><plain>However the activation of EGFR was not clearly affected by radiation </plain></SENT>
+<SENT sid="13" pm="."><plain>Neither (ZEGFR:1907)2 nor any of the other drugs were able to completely inactivate Akt or Erk </plain></SENT>
+<SENT sid="14" pm="."><plain>On the contrary, <z:chebi fb="0" ids="114785">erlotinib</z:chebi> stimulated Akt phosphorylation in both cell lines and in HCT116 cells Erk was activated </plain></SENT>
+<SENT sid="15" pm="."><plain>Overall the results illustrate the complexity in response to radiation and drugs in cells with differential phenotypic status </plain></SENT>
+</text></document>

@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BCL2, originally identified as a proto-oncogene in B-cell <z:hpo ids='HP_0002665'>lymphoma</z:hpo>, is a key regulator of <z:mpath ids='MPATH_3'>apoptosis</z:mpath> </plain></SENT>
+<SENT sid="1" pm="."><plain>Although it is more than 200 kb in length, at least 70% of the t(14;18) translocation in follicular <z:hpo ids='HP_0002665'>lymphomas</z:hpo> occurs at the BCL2 major breakpoint region (mbr), located in the 3'-untranslated region (3'-UTR) </plain></SENT>
+<SENT sid="2" pm="."><plain>We have previously found that the mbr is a regulatory element which positively regulates BCL2 expression and this regulatory function was closely associated with SATB1, which binds to a 37 bp mbr (37 mbr) in the 3'-end of the mbr directly </plain></SENT>
+<SENT sid="3" pm="."><plain>However, the precise molecular mechanisms by which the mbr regulates gene expression are not fully understood </plain></SENT>
+<SENT sid="4" pm="."><plain>In this study, we purified Poly(<z:chebi fb="13" ids="16761">ADP</z:chebi>-<z:chebi fb="1" ids="33942">ribose</z:chebi>) polymerase-1 (PARP-1) from the DNA-protein complexes formed by 37 mbr in Jurkat cells and demonstrated that PARP-1 participates in the 37 mbr-protein complex's formation in vitro and in vivo </plain></SENT>
+<SENT sid="5" pm="."><plain>Functional analysis showed that overexpression of PARP-1 decreases 37 mbr regulatory function and BCL2 expression </plain></SENT>
+<SENT sid="6" pm="."><plain>Conversely, knockdown of PARP-1 with RNAi increases BCL2 expression </plain></SENT>
+<SENT sid="7" pm="."><plain>Taken together, the present findings indicate that PARP-1 is a component of BCL2 37 mbr-protein complexes, and PARP-1 is involved in the regulation of BCL2 expression </plain></SENT>
+<SENT sid="8" pm="."><plain>These findings are helpful in understanding the regulatory mechanisms of BCL2 expression </plain></SENT>
+</text></document>

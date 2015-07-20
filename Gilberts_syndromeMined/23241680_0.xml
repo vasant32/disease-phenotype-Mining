@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Abstract Background: <z:e sem="disease" ids="C0017551" disease_type="Disease or Syndrome" abbrv="">Gilbert's syndrome</z:e> is a common metabolic dysfunction characterized by elevated levels of unconjugated <z:chebi fb="0" ids="16990">bilirubin</z:chebi> in the bloodstream </plain></SENT>
+<SENT sid="1" pm="."><plain>This condition is usually caused by additional (TA) insertions in a promoter region of the <z:chebi fb="0" ids="17659">uridine diphosphate</z:chebi> glucuronosyltransferase 1A1 (UGT1A1) gene, which instead of the sequence А(TА)6TАА contains А(TА)7TАА </plain></SENT>
+<SENT sid="2" pm="."><plain>While the condition itself is benign, it presents elevated risk for patients treated with irinotecan, a common chemotherapy drug </plain></SENT>
+<SENT sid="3" pm="."><plain>Methods: The technique is based on hybridization analysis of a pre-amplified segment of the UGT1A1 gene promoter performed on a microarray </plain></SENT>
+<SENT sid="4" pm="."><plain>Specific probes containing <z:chebi fb="0" ids="48010">locked nucleic acids</z:chebi> (<z:chebi fb="17" ids="48010">LNA</z:chebi>) were designed and immobilized on the microarray to provide accurate identification </plain></SENT>
+<SENT sid="5" pm="."><plain>Results: A microarray has been developed to identify both common and rare variants of UGT1A1(TA)n polymorphisms </plain></SENT>
+<SENT sid="6" pm="."><plain>In total, 108 individuals were genotyped </plain></SENT>
+<SENT sid="7" pm="."><plain>Out of these, 47 (43.5%) had homozygous <z:mp ids='MP_0002169'>wild-type</z:mp> genotypes (TA)6/(TA)6; 41(38%) were heterozygotes (TA)6/(TA)7; and 18 (16.7%) - homozygotes (TA)7/(TA)7 </plain></SENT>
+<SENT sid="8" pm="."><plain>In two cases (1.8%), rare genotypes (TA)5/(TA)7 and (TA)5/(TA)6 were found </plain></SENT>
+<SENT sid="9" pm="."><plain>The results were in full agreement with the sequencing </plain></SENT>
+<SENT sid="10" pm="."><plain>In addition, synthetic fragments corresponding to <z:hpo ids='HP_0000001'>all</z:hpo> human allelic variants [(TA)5, (TA)6, (TA)7, (TA)8] were successfully tested </plain></SENT>
+<SENT sid="11" pm="."><plain>Conclusions: The developed microarray-based approach for identification of polymorphic variants of the UGT1A1 gene is a promising and reliable diagnostic tool that can be successfully implemented in clinical practice </plain></SENT>
+</text></document>

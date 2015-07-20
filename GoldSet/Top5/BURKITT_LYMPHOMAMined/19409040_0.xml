@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>There are many reports that cross-linking antibodies (Abs) bound to the surface of B-<z:hpo ids='HP_0002665'>lymphoma</z:hpo> cells can induce <z:mpath ids='MPATH_3'>apoptosis</z:mpath> and/or cell <z:hpo ids='HP_0011420'>death</z:hpo>, especially with anti-CD20 Abs </plain></SENT>
+<SENT sid="1" pm="."><plain>This study was intended to extend our understanding of these effects </plain></SENT>
+<SENT sid="2" pm="."><plain>To determine if CD20 is a unique target in this respect, or whether Abs to other antigens would have similar effects, six Abs were tested, with and without cross-linking with a secondary Ab, on three target cell lines </plain></SENT>
+<SENT sid="3" pm="."><plain>We utilized assays that distinguish between apoptotic, dead, and viable cells </plain></SENT>
+<SENT sid="4" pm="."><plain>Two assays were used: Annexin V plus <z:chebi fb="0" ids="51240">propidium iodide</z:chebi>, and <z:chebi fb="0" ids="52097">JC-1</z:chebi> plus SYTOX green (Molecular Probes, Eugene, OR) </plain></SENT>
+<SENT sid="5" pm="."><plain>Most of the Abs tested induced a low level of <z:mpath ids='MPATH_3'>apoptosis</z:mpath> and cell <z:hpo ids='HP_0011420'>death</z:hpo> in Ramos cells, but not in the other two cell lines (Raji and RL) </plain></SENT>
+<SENT sid="6" pm="."><plain>In general, the level of toxicity was correlated with the level of antigen expression, with Abs to high-density antigens having the strongest effects </plain></SENT>
+<SENT sid="7" pm="."><plain>However, since the majority of Ramos cells continued to multiply, it is questionable whether toxicity at this level can provide a significant clinical benefit </plain></SENT>
+<SENT sid="8" pm="."><plain>Unexpectedly, there was also a population of cells that stained weakly with Annexin V </plain></SENT>
+<SENT sid="9" pm="."><plain>These cells were distinct from classical apoptotic cells, and appeared to belong to the viable cell population </plain></SENT>
+<SENT sid="10" pm="."><plain>In these cells, Annexin V stained the region of the Ab cap, in contrast to the ringed staining of classical apoptotic cells </plain></SENT>
+<SENT sid="11" pm="."><plain>In conclusion: 1) Low-level induction of <z:mpath ids='MPATH_3'>apoptosis</z:mpath> was not unique for anti-CD20 Abs, but occurred similarly with other Abs, and 2) results of Annexin V staining experiments may need to be reevaluated </plain></SENT>
+<SENT sid="12" pm="."><plain>Further studies are required to explain why Annexin V binding sites are exposed in the region of an Ab cap </plain></SENT>
+</text></document>

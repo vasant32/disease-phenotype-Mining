@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OKY-1581, a <z:chebi fb="0" ids="15627">thromboxane A2</z:chebi> (<z:chebi fb="0" ids="15627">TXA2</z:chebi>) synthetase inhibitor, was administered to cats with <z:mpath ids='MPATH_458'>normal</z:mpath> and constricted basilar arteries </plain></SENT>
+<SENT sid="1" pm="."><plain>At a dose of 60mg/kg (i.v.), both <z:mpath ids='MPATH_458'>normal</z:mpath> and constricted vessels dilated, and the mean arterial blood pressure (MABP) fell from 55 to 75 mmHg </plain></SENT>
+<SENT sid="2" pm="."><plain>If MABP remained constant, vessel diameter did not change </plain></SENT>
+<SENT sid="3" pm="."><plain><z:hpo ids='HP_0002138'>Subarachnoid hemorrhage</z:hpo> (SAH) was simulated by intracisternal injection of autologous arterial blood </plain></SENT>
+<SENT sid="4" pm="."><plain>Regional cerebral blood flow (rCBF) was assessed by the heat clearance and H2 clearance methods </plain></SENT>
+<SENT sid="5" pm="."><plain>The two methods presented similar response profiles </plain></SENT>
+<SENT sid="6" pm="."><plain>rCBF responses to intravenous OKY-1581 fell into 3 categories: A) no change in rCBF, B) decrease in rCBF related to MABP and C) increase in rCBF in the presence of <z:hpo ids='HP_0002615'>hypotension</z:hpo> </plain></SENT>
+<SENT sid="7" pm="."><plain>Types A and B were observed in 3 out of 10 control cats and 4 out of 14 SAH-induced cats, with Type C responses in the remainder </plain></SENT>
+<SENT sid="8" pm="."><plain>There was no significant difference between the groups </plain></SENT>
+<SENT sid="9" pm="."><plain>While the results do not support a major role for <z:chebi fb="0" ids="15627">TXA2</z:chebi> in <z:e sem="disease" ids="C0265110" disease_type="Disease or Syndrome" abbrv="">cerebral vasospasm</z:e> pathogenesis, OKY-1581 may still be useful in the treatment of <z:e sem="disease" ids="C0265110" disease_type="Disease or Syndrome" abbrv="">cerebral vasospasm</z:e>, as it improves distal and deep circulation and inhibits platelet aggregation </plain></SENT>
+</text></document>

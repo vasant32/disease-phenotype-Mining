@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0005110'>Atrial fibrillation</z:hpo> is the most common sustained <z:hpo ids='HP_0011675'>cardiac arrhythmia</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>The rhythm in <z:hpo ids='HP_0005110'>atrial fibrillation</z:hpo> is irregular </plain></SENT>
+<SENT sid="2" pm="."><plain>Correct interpretation of the electrocardiogram (ECG) is essential </plain></SENT>
+<SENT sid="3" pm="."><plain><z:hpo ids='HP_0004749'>Atrial flutter</z:hpo> can present as regular or irregular <z:mp ids='MP_0010393'>narrow QRS complex</z:mp> <z:hpo ids='HP_0001649'>tachycardia</z:hpo> </plain></SENT>
+<SENT sid="4" pm="."><plain>Knowledge of the ECG features of <z:hpo ids='HP_0004749'>atrial flutter</z:hpo> will help to differentiate it from <z:hpo ids='HP_0004763'>paroxysmal supraventricular tachycardia</z:hpo> </plain></SENT>
+<SENT sid="5" pm="."><plain>The treatment strategy in <z:hpo ids='HP_0005110'>atrial fibrillation</z:hpo> should focus on rhythm control vs. rate control, and anticoagulation should be started based on the calculated risk of systemic embolisation </plain></SENT>
+<SENT sid="6" pm="."><plain><z:hpo ids='HP_0004749'>Atrial flutter</z:hpo> is a unique <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> that has similar management strategies to those of <z:hpo ids='HP_0005110'>atrial fibrillation</z:hpo>; however, radiofrequency ablation is increasingly preferred due to its higher rate of efficacy and safety compared to pharmacological therapy </plain></SENT>
+</text></document>

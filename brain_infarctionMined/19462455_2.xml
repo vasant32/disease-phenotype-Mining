@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The aim of this study was to investigate the therapeutic efficacy and neuroprotective mechanisms of UCF-101, a novel Omi/HtrA2 inhibitor, following <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e>/reperfusion brain injury </plain></SENT>
+<SENT sid="1" pm="."><plain>Male Wistar rats were subjected to 2 hr of middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> followed by reperfusion </plain></SENT>
+<SENT sid="2" pm="."><plain>Animals were divided into 3 groups: sham, vehicle-treated <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e>/reperfusion, and UCF-101 treatment </plain></SENT>
+<SENT sid="3" pm="."><plain>In the UCF-101 treatment group, rats were intraperitoneally administered UCF-101 (1.5 micromol/kg) 10 min prior to reperfusion </plain></SENT>
+<SENT sid="4" pm="."><plain>The rats were evaluated for neurological deficits, and brain <z:mpath ids='MPATH_124'>infarct</z:mpath> volume was assessed by 2,3,5-triphenyl tetrazolium <z:chebi fb="76" ids="17996">chloride</z:chebi> </plain></SENT>
+<SENT sid="5" pm="."><plain>TUNEL staining was utilized to evaluate the amount of <z:mpath ids='MPATH_3'>apoptosis</z:mpath> </plain></SENT>
+<SENT sid="6" pm="."><plain>In addition, expressions of protein caspase-8, caspase-3, FasL, and FLIP were examined by Western blot analysis </plain></SENT>
+<SENT sid="7" pm="."><plain>Results demonstrated that UCF-101 treatment significantly decreased cerebral <z:mpath ids='MPATH_124'>infarct</z:mpath> size by about 16.27% (P &lt; 0.05) and also improved neurological behavior </plain></SENT>
+<SENT sid="8" pm="."><plain>TUNEL staining revealed that UCF-101 treatment significantly reduced TUNEL-positive cells in the cerebral cortex </plain></SENT>
+<SENT sid="9" pm="."><plain>Furthermore, the upregulation in the expression of FasL and the cleavage products of active caspase-8 and caspase-3 induced by <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> was attenuated in mice treated with UCF-101, whereas upregulation of FLIP levels was increased </plain></SENT>
+<SENT sid="10" pm="."><plain>The present results demonstrated that UCF-101 protects against <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo>/reperfusion injury in mice </plain></SENT>
+<SENT sid="11" pm="."><plain>UCF-101 provided neuroprotection in vivo, and this was correlated with regulation of Fas-mediated apoptotic proteins </plain></SENT>
+<SENT sid="12" pm="."><plain>Taken together, the use of UCF-101 is a potent, neuroprotective factor for the treatment of focal <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> </plain></SENT>
+</text></document>

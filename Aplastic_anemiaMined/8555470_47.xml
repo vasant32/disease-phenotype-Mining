@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Severe <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> (SAA) can be successfully treated with allogeneic bone marrow transplantation (BMT) or immunosuppressive therapy </plain></SENT>
+<SENT sid="1" pm="."><plain>However, the majority of patients with SAA are not eligible for BMT because they lack an HLA-identical sibling </plain></SENT>
+<SENT sid="2" pm="."><plain>Conventional immunosuppressive therapy also has major limitations; many of its remissions are incomplete and relapse or secondary clonal disease is common </plain></SENT>
+<SENT sid="3" pm="."><plain><z:chebi fb="0" ids="4027">Cyclophosphamide</z:chebi> is a potent <z:chebi fb="1" ids="35705">immunosuppressive agent</z:chebi> that is used in <z:hpo ids='HP_0000001'>all</z:hpo> BMT conditioning regimens for patients with SAA </plain></SENT>
+<SENT sid="4" pm="."><plain>Preliminary evidence suggested that high-dose <z:chebi fb="0" ids="4027">cyclophosphamide</z:chebi>, even without BMT, may be beneficial to patients with SAA </plain></SENT>
+<SENT sid="5" pm="."><plain>Therefore, 10 patients with SAA and lacking an HLA-identical sibling were treated with high-dose <z:chebi fb="0" ids="4027">cyclophosphamide</z:chebi> (45 mg/kg/d) for 4 consecutive days with or without <z:chebi fb="0" ids="4031">cyclosporine</z:chebi> </plain></SENT>
+<SENT sid="6" pm="."><plain>A complete response (<z:chebi fb="0" ids="35143">hemoglobin</z:chebi> level, &gt; 13 g/dL; absolute neutrophil count, &gt; 1.5 x 10(9)/L, and platelet count &gt; 125 x 10(9)/L) was achieved in 7 of the 10 patients </plain></SENT>
+<SENT sid="7" pm="."><plain>One of the complete responders died from the acquired <z:hpo ids='HP_0002721'>immunodeficiency</z:hpo> syndrome 44 months after treatment with high-dose <z:chebi fb="0" ids="4027">cyclophosphamide</z:chebi> </plain></SENT>
+<SENT sid="8" pm="."><plain>The 6 remaining patients are alive and in continuous complete remission, with a median follow-up of 10.8 years (range, 7.3 to 17.8 years) </plain></SENT>
+<SENT sid="9" pm="."><plain>The median time to last platelet transfusion and time to 0.5 x 10(9) neutrophils/L were 85 and 95 days, respectively </plain></SENT>
+<SENT sid="10" pm="."><plain>None of the complete responders has relapsed or developed a clonal disease </plain></SENT>
+<SENT sid="11" pm="."><plain>These results suggest that high-dose <z:chebi fb="0" ids="4027">cyclophosphamide</z:chebi>, even without BMT, may be more effective than conventional immunosuppressive therapy in restoring <z:mpath ids='MPATH_458'>normal</z:mpath> hematopoiesis and preventing relapse or secondary clonal disorders </plain></SENT>
+<SENT sid="12" pm="."><plain>Hence, further studies confirming the efficacy of this approach in SAA are indicated </plain></SENT>
+</text></document>

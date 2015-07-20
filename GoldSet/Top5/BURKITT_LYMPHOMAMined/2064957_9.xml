@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The ability of recombinant interleukin 2 (rIL2) activated lymphocytes (LAK) to purge BM samples contaminated by <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumour</z:e> cells was evaluated </plain></SENT>
+<SENT sid="1" pm="."><plain>Human BM mononuclear cells were contaminated with 10% of the <z:hpo ids='HP_0002665'>lymphoma</z:hpo> line CA46 and then cultured in liquid medium containing 1000 U/ml of rIL2 and/or LAK autologous to the used BM </plain></SENT>
+<SENT sid="2" pm="."><plain>At the end of coculture the growth of <z:e sem="disease" ids="C0543478" disease_type="Neoplastic Process" abbrv="">residual tumour</z:e> cells and of CFU-GM were evaluated by clonogenic assay </plain></SENT>
+<SENT sid="3" pm="."><plain>No <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumour</z:e> cell growth was observed in 5/5 independent experiments after 18 h of coculture with LAK </plain></SENT>
+<SENT sid="4" pm="."><plain>No significant inhibition of CFU-GM growth was also noted </plain></SENT>
+<SENT sid="5" pm="."><plain>Subsequently, the effect of LAK on BM obtained from four leukaemic patients and contaminated with 20-50% of their own <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">AML</z:e> and ALL cells was studied using MAb as a tool for identifying leukaemic cells </plain></SENT>
+<SENT sid="6" pm="."><plain>LAK eliminated 24-78% of contaminating cryopreserved uncultured autologous leukaemic cells </plain></SENT>
+<SENT sid="7" pm="."><plain>In five cases the BM was contaminated by a low (2%) amount of ALL cells </plain></SENT>
+<SENT sid="8" pm="."><plain>In these patients the monoclonal heavy chain rearrangement typical of ALL was no longer visible after coculture with LAK </plain></SENT>
+<SENT sid="9" pm="."><plain>Evidence for selective <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumour</z:e> cytotoxicity by LAK was confirmed by using autologous BM cells as hot and cold targets in a <z:chebi fb="0" ids="50076">51Cr</z:chebi> release assay </plain></SENT>
+<SENT sid="10" pm="."><plain>Finally, successful haematologic reconstitution of lethally irradiated BALB/c mice was obtained using syngeneic BM cocultured with LAK </plain></SENT>
+<SENT sid="11" pm="."><plain>These results support the investigational use of rIL2 and LAK in the treatment of human <z:mpath ids='MPATH_336'>leukaemia</z:mpath> </plain></SENT>
+</text></document>

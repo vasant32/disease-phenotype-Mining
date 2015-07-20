@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: We found a high incidence of thrombotic <z:hpo ids='HP_0011420'>deaths</z:hpo> in COX-1(+/-)COX-2(-/-) mice and sought to define the mechanism of these events </plain></SENT>
+<SENT sid="1" pm="."><plain>The cyclooxygenase products <z:chebi fb="0" ids="26995">thromboxane</z:chebi> A(2) and prostacyclin are important in the regulation of coagulation but their role in fibrinolysis is largely unexplored </plain></SENT>
+<SENT sid="2" pm="."><plain>PAI-1 blocks fibrinolysis by inhibiting plasminogen activator </plain></SENT>
+<SENT sid="3" pm="."><plain>AIM: Our objective was to explain the mechanism of increased <z:mp ids='MP_0005048'>thrombosis</z:mp> associated with the COX-1(+/-)COX-2(-/-) genotype </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS: Carotid <z:mp ids='MP_0006134'>artery occlusion</z:mp> times were measured after photochemical injury </plain></SENT>
+<SENT sid="5" pm="."><plain>PAI-1 levels were measured in the plasma by ELISA </plain></SENT>
+<SENT sid="6" pm="."><plain>PAI-1 levels in the aorta were measured by RT-PCR and Western blotting </plain></SENT>
+<SENT sid="7" pm="."><plain>Urinary metabolites of <z:chebi fb="0" ids="26995">Thromboxane</z:chebi> A(2) and prostacyclin were measured by ELISA </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: The COX-1(+/-)COX-2(-/-) genotype is associated with a decreased time to occlusion in the carotid artery <z:mp ids='MP_0005048'>thrombosis</z:mp> model (30 ± 5 minutes vs 60 ± minutes in <z:mp ids='MP_0002169'>wild type</z:mp>, p&lt;.001) </plain></SENT>
+<SENT sid="9" pm="."><plain>The COX-1(-/-)COX-2(+/+), COX-1(+/-)COX-2(+/-) and COX-1(+/-)COX-2(+/+) <z:hpo ids='HP_0000001'>all</z:hpo> had occlusion times similar to <z:mp ids='MP_0002169'>wild type</z:mp> </plain></SENT>
+<SENT sid="10" pm="."><plain>COX-1(+/+)COX-2(-/-) had a prolonged occlusion time </plain></SENT>
+<SENT sid="11" pm="."><plain>COX-1(+/-)COX-2(-/-) had increased PAI-1 levels in the plasma and aorta and with a prolonged euglobulin lysis time (37.4 ± 10.2 hours vs 15.6 ± 9.8 hours in <z:mp ids='MP_0002169'>wild type</z:mp>, p&lt;.004) </plain></SENT>
+<SENT sid="12" pm="."><plain>The decreased time to occlusion in the COX-1(+/-)COX2(-/-) mice was normalized by an inhibitory antibody to PAI-1 whereas the antibody had no effect on the time to occlusion in <z:mp ids='MP_0002169'>wild type</z:mp> mice </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSION: The COX-1(+/-)COX-2(-/-) genotype is associated with a shortened time to occlusion in the carotid <z:mp ids='MP_0005048'>thrombosis</z:mp> model and the shortened time to occlusion is mediated through increased PAI-1 levels resulting in decreased fibrinolysis </plain></SENT>
+</text></document>

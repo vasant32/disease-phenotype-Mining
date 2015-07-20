@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Between August 1989 and November 2003, 33 patients at our center with acquired <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> underwent bone marrow transplantation (BMT) from HLA-identical sibling donors with <z:chebi fb="0" ids="4027">cyclophosphamide</z:chebi> and in vivo anti-CD52 monoclonal antibodies (MoAb) for conditioning </plain></SENT>
+<SENT sid="1" pm="."><plain>The median age at BMT was 17 years (range, 4-46 years) </plain></SENT>
+<SENT sid="2" pm="."><plain>Before BMT, 58% were heavily transfused (&gt;50 transfusions), and 42% had previously experienced treatment failure with antithymocyte globulin-based immunosuppressive therapy </plain></SENT>
+<SENT sid="3" pm="."><plain>Unmanipulated bone marrow was used as the source of stem cells in <z:hpo ids='HP_0000001'>all</z:hpo> patients except 1 </plain></SENT>
+<SENT sid="4" pm="."><plain><z:e sem="disease" ids="C0018133" disease_type="Disease or Syndrome" abbrv="GVH">Graft-versus-host disease</z:e> (GVHD) prophylaxis was with <z:chebi fb="0" ids="4031">cyclosporine</z:chebi> alone in 19 (58%) patients; 14 received anti-CD52 MoAb in addition to <z:chebi fb="0" ids="4031">cyclosporine</z:chebi> </plain></SENT>
+<SENT sid="5" pm="."><plain>The conditioning regimen was well tolerated without significant <z:hpo ids='HP_0011009'>acute</z:hpo> toxicity </plain></SENT>
+<SENT sid="6" pm="."><plain>Graft failure was seen in 8 patients (primary, n = 4; secondary, n = 4) </plain></SENT>
+<SENT sid="7" pm="."><plain>Of those whose grafts failed, 4 survived long-term (complete autologous recovery, n = 2; rescue with previously stored marrow, n = 1; second allograft, n = 1) </plain></SENT>
+<SENT sid="8" pm="."><plain>The cumulative incidence of graft failure and grade II to IV <z:hpo ids='HP_0011009'>acute</z:hpo> and <z:hpo ids='HP_0011010'>chronic</z:hpo> GVHD was 24%, 14%, and 4%, respectively </plain></SENT>
+<SENT sid="9" pm="."><plain>None developed extensive <z:hpo ids='HP_0011010'>chronic</z:hpo> GVHD </plain></SENT>
+<SENT sid="10" pm="."><plain>With a median follow-up of 59 months, the 5-year survival was 81% (95% confidence interval, 68%-96%) </plain></SENT>
+<SENT sid="11" pm="."><plain>No unexpected early or late infectious or noninfectious complications were observed </plain></SENT>
+<SENT sid="12" pm="."><plain>We conclude that the conditioning regimen containing <z:chebi fb="0" ids="4027">cyclophosphamide</z:chebi> and anti-CD52 MoAb is well tolerated and effective for acquired <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> with HLA-matched sibling donors </plain></SENT>
+<SENT sid="13" pm="."><plain>The favorable effect on the incidence and severity of GVHD is noteworthy in this study and warrants further investigation </plain></SENT>
+</text></document>

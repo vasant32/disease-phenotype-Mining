@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The Spalt (sal) gene family plays an important role in regulating developmental processes of many organisms </plain></SENT>
+<SENT sid="1" pm="."><plain>Mutations of human SALL1 cause the <z:hpo ids='HP_0000006'>autosomal dominant</z:hpo> disorder, <z:e sem="disease" ids="C0265246,C1531578" disease_type="Disease or Syndrome;Congenital Abnormality" abbrv="">Townes-Brocks syndrome</z:e> (<z:chebi fb="2" ids="127105">TBS</z:chebi>), and result in ear, limb, anal, renal, and heart anomalies </plain></SENT>
+<SENT sid="2" pm="."><plain>Targeted deletion of mouse Sall1 results in <z:mp ids='MP_0000520'>kidney agenesis</z:mp> or severe dysgenesis </plain></SENT>
+<SENT sid="3" pm="."><plain>Molecular mechanisms of Sall1, however, have remained largely unknown </plain></SENT>
+<SENT sid="4" pm="."><plain>Here we report that Sall1 synergistically activates canonical Wnt signaling </plain></SENT>
+<SENT sid="5" pm="."><plain>The transcriptional activity of Sall1 is related to its nuclear localization to punctate nuclear foci (pericentromeric heterochromatin), but not to its localization or association with beta-catenin, the nuclear component of Wnt signaling </plain></SENT>
+<SENT sid="6" pm="."><plain>In contrast, the <z:chebi fb="40" ids="33697">RNA</z:chebi> interference of Sall1 reduces reporter activities of canonical Wnt signaling </plain></SENT>
+<SENT sid="7" pm="."><plain>The N-terminal truncated Sall1, produced by mutations often found in <z:chebi fb="2" ids="127105">TBS</z:chebi>, disturbs localization of native Sall1 to heterochromatin, and also down-regulates the synergistic transcriptional enhancement for Wnt signal by native Sall1 </plain></SENT>
+<SENT sid="8" pm="."><plain>Thus, we propose a new mechanism for Wnt signaling activation, that is the heterochromatin localization of Sall1 </plain></SENT>
+</text></document>

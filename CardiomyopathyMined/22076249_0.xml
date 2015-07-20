@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0001639'>Hypertrophic cardiomyopathy</z:hpo> (HCM) is characterized by <z:hpo ids='HP_0001670'>asymmetric septal hypertrophy</z:hpo> and is often caused by mutations in MYBPC3 gene encoding cardiac myosin-binding protein C </plain></SENT>
+<SENT sid="1" pm="."><plain>In contrast to humans, who are already affected at the heterozygous state, mouse models develop the phenotype mainly at the homozygous state </plain></SENT>
+<SENT sid="2" pm="."><plain>Evidence from cell culture work suggested that altered proteasome function contributes to the pathogenesis of HCM </plain></SENT>
+<SENT sid="3" pm="."><plain>Here we tested in two heterozygous Mybpc3-targeted mouse models whether adrenergic stress unmasks a specific cardiac phenotype and proteasome dysfunction </plain></SENT>
+<SENT sid="4" pm="."><plain>The first model carries a human Mybpc3 mutation (Het-KI), the second is a heterozygous Mybpc3 knock-out (Het-KO) </plain></SENT>
+<SENT sid="5" pm="."><plain>Both models were compared to <z:mp ids='MP_0002169'>wild-type</z:mp> (WT) mice </plain></SENT>
+<SENT sid="6" pm="."><plain>Mice were treated with a combination of <z:chebi fb="0" ids="6046">isoprenaline</z:chebi> and <z:chebi fb="0" ids="8093">phenylephrine</z:chebi> (ISO/PE) or <z:chebi fb="1" ids="26710">NaCl</z:chebi> for 1 week </plain></SENT>
+<SENT sid="7" pm="."><plain>Whereas ISO/PE induced <z:hpo ids='HP_0001712'>left ventricular hypertrophy</z:hpo> (LVH) with increased posterior wall thickness to a similar extent in <z:hpo ids='HP_0000001'>all</z:hpo> groups, it increased septum thickness only in Het-KI and Het-KO </plain></SENT>
+<SENT sid="8" pm="."><plain>ISO/PE did not affect the proteasomal chymotrypsin-like activity or β5-subunit protein level in Het-KO or <z:mp ids='MP_0002169'>wild-type</z:mp> mice (WT) </plain></SENT>
+<SENT sid="9" pm="."><plain>In contrast, both parameters were markedly lower in Het-KI and negatively correlated with the degree of LVH in Het-KI only </plain></SENT>
+<SENT sid="10" pm="."><plain>In conclusion, adrenergic stress revealed septal <z:mpath ids='MPATH_159'>hypertrophy</z:mpath> in both heterozygous mouse models of HCM, but proteasome dysfunction only in Het-KI mice, which carry a mutant allele and closely mimic human HCM </plain></SENT>
+<SENT sid="11" pm="."><plain>This supports the hypothesis that proteasome impairment contributes to the pathophysiology of HCM </plain></SENT>
+</text></document>

@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: Serum is usually added to growth media when mammalian cells are cultured in vitro to supply the cells with growth factors, hormones, nutrients and trace elements </plain></SENT>
+<SENT sid="1" pm="."><plain>Defined proteins and metal ions, such as insulin, growth factors, transferrin and <z:chebi fb="1" ids="48843">sodium selenite</z:chebi>, are sometimes also included and can in some cases substitute serum components </plain></SENT>
+<SENT sid="2" pm="."><plain>How adaptation to serum free media influences cells has not been studied in detail </plain></SENT>
+<SENT sid="3" pm="."><plain>MATERIALS AND METHODS: We have adapted the Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> line Ramos to a serum-free medium that supports long-term survival and studied gene expression changes that occurred during the adaptation process </plain></SENT>
+<SENT sid="4" pm="."><plain>RESULTS AND CONCLUSIONS: The adaptation process was characterized by initial cell population <z:mpath ids='MPATH_73'>growth arrest</z:mpath>, and after that extensive cell <z:hpo ids='HP_0011420'>death</z:hpo>, followed by proliferation and long-term survival of clonal cultures </plain></SENT>
+<SENT sid="5" pm="."><plain>Proliferation and cell cycle progression of the serum-free cultures closely mimicked that of serum-dependent cells </plain></SENT>
+<SENT sid="6" pm="."><plain>Affymetrix micro-array technology was used to identify gene expression alterations that had occurred during the adaptation </plain></SENT>
+<SENT sid="7" pm="."><plain>Most changes were subtle, but frequently the genes with altered expression were involved in basal cellular functions such as cell division, cell cycle regulation, <z:mpath ids='MPATH_3'>apoptosis</z:mpath> and cell signalling </plain></SENT>
+<SENT sid="8" pm="."><plain>Some alterations were restored when the cells were transferred back to serum-containing medium, indicating that expression of these genes was controlled by components in serum </plain></SENT>
+<SENT sid="9" pm="."><plain>Others were not, and may represent changes that were selected during the adaptation process </plain></SENT>
+<SENT sid="10" pm="."><plain>Among these were, for example, several genes within the Wnt signalling pathway </plain></SENT>
+</text></document>

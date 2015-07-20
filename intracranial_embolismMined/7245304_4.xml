@@ -1,0 +1,6 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A patient is presented who had severe <z:hpo ids='HP_0002315'>headache</z:hpo> and then developed a <z:e sem="disease" ids="C0038131,C0038506" disease_type="Disease or Syndrome;Sign or Symptom" abbrv="">stuttering</z:e> course of clinical neurological deficits </plain></SENT>
+<SENT sid="1" pm="."><plain>Arteriography demonstrated an ipsilateral proximal middle cerebral <z:mpath ids='MPATH_110'>embolus</z:mpath> </plain></SENT>
+<SENT sid="2" pm="."><plain>With recurrence of symptoms, repeat arteriography showed another, more proximal <z:mpath ids='MPATH_110'>embolus</z:mpath> with areas of distal occlusion </plain></SENT>
+<SENT sid="3" pm="."><plain>The <z:hpo ids='HP_0002315'>headache</z:hpo> probably occurred when the <z:mpath ids='MPATH_110'>embolus</z:mpath> became lodged in a pain sensitive cerebral vessel at the base of the brain </plain></SENT>
+<SENT sid="4" pm="."><plain>The subsequent <z:e sem="disease" ids="C0038131,C0038506" disease_type="Disease or Syndrome;Sign or Symptom" abbrv="">stuttering</z:e> neurological deficits were due to fragmentation of the <z:mpath ids='MPATH_110'>embolus</z:mpath> as well as recurrence </plain></SENT>
+</text></document>

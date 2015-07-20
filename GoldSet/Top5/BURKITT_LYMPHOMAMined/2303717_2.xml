@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The interaction of two Burkitt <z:hpo ids='HP_0002665'>lymphoma</z:hpo> lines, Raji and Rael, with human C and NK cells was analyzed </plain></SENT>
+<SENT sid="1" pm="."><plain>Raji cells activate the alternative C pathway (<z:chebi fb="65" ids="13534">ACP</z:chebi>) and then bind C3 fragments </plain></SENT>
+<SENT sid="2" pm="."><plain>Consequently, the cells become more sensitive to lysis by CR3-bearing NK cells but not to C lysis </plain></SENT>
+<SENT sid="3" pm="."><plain>In contrast, Rael cells are poor <z:chebi fb="65" ids="13534">ACP</z:chebi> activators, do not bind C3 fragments, and are therefore resistant to C-dependent NK lysis </plain></SENT>
+<SENT sid="4" pm="."><plain>As suggested earlier, the difference between Raji and Rael could be attributed to the presence or absence of CR2, respectively, on their surface </plain></SENT>
+<SENT sid="5" pm="."><plain>To potentiate C- and NK-dependent lysis of target cells, we generated heteroconjugates composed of a murine antitransferrin receptor mAb and of human C C3b or iC3b </plain></SENT>
+<SENT sid="6" pm="."><plain>Antibody-C3b conjugates induced C3 deposition on Rael cells and elevated C3 deposition on Raji cells in human serum </plain></SENT>
+<SENT sid="7" pm="."><plain>Both Raji and Rael cells coated with antibody-C3b conjugates were efficiently lyzed by the cytolytic <z:chebi fb="65" ids="13534">ACP</z:chebi> in human serum </plain></SENT>
+<SENT sid="8" pm="."><plain>This conjugate had a small enhancing effect on target cell lysis by NK cells which could be markedly increased by combined treatment of the target cell with antibody-C3b conjugate and C5-depleted human serum </plain></SENT>
+<SENT sid="9" pm="."><plain>On the other hand, antibody-iC3b conjugates efficiently potentiated lysis of target cells by NK cells in the absence of serum </plain></SENT>
+<SENT sid="10" pm="."><plain>The iC3b-directed cytotoxicity was mediated by CR3-bearing NK effector cells </plain></SENT>
+<SENT sid="11" pm="."><plain>Anti-C3 but not anti-mouse Ig antibodies abrogated the activity of the antibody-iC3b conjugate </plain></SENT>
+<SENT sid="12" pm="."><plain>These results further demonstrate that NK cytotoxicity may be potentiated by opsonizing the target cells with C3 fragments and suggest that antibody-C3b/iC3b conjugates could be potent tools for targeting and potentiation of the lytic action of both C and NK cells against <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> cells </plain></SENT>
+</text></document>

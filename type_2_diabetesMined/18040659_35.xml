@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIMS/HYPOTHESIS: Mutations at the gene encoding wolframin (WFS1) cause <z:chebi fb="20" ids="27998">Wolfram</z:chebi> syndrome, a rare neurological condition </plain></SENT>
+<SENT sid="1" pm="."><plain>Associations between single nucleotide polymorphisms (SNPs) at WFS1 and type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> have recently been reported </plain></SENT>
+<SENT sid="2" pm="."><plain>Thus, our aim was to replicate those associations in a northern Swedish case-control study of type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="3" pm="."><plain>We also performed a meta-analysis of published and previously unpublished data from Sweden, Finland and France, to obtain updated summary effect estimates </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS: Four WFS1 SNPs (rs10010131, rs6446482, rs752854 and rs734312 [H611R]) were genotyped in a type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> case-control study (n = 1,296/1,412) of Swedish adults </plain></SENT>
+<SENT sid="5" pm="."><plain>Logistic regression was used to assess the association between each WFS1 SNP and type 2 <z:mp ids='MP_0002055'>diabetes</z:mp>, following adjustment for age, sex and BMI </plain></SENT>
+<SENT sid="6" pm="."><plain>We then performed a meta-analysis of 11 studies of type 2 <z:mp ids='MP_0002055'>diabetes</z:mp>, comprising up to 14,139 patients and 16,109 controls, to obtain a summary effect estimate for the WFS1 variants </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: In the northern Swedish study, the minor allele at rs752854 was associated with reduced type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> risk [odds ratio (OR) 0.85, 95% CI 0.75-0.96, p=0.010] </plain></SENT>
+<SENT sid="8" pm="."><plain>Borderline statistical associations were observed for the remaining SNPs </plain></SENT>
+<SENT sid="9" pm="."><plain>The meta-analysis of the four independent replication studies for SNP rs10010131 and correlated variants showed evidence for statistical association (OR 0.87, 95% CI 0.82-0.93, p=4.5 x 10(-5)) </plain></SENT>
+<SENT sid="10" pm="."><plain>In an updated meta-analysis of <z:hpo ids='HP_0000001'>all</z:hpo> 11 studies, strong evidence of statistical association was also observed (OR 0.89, 95% CI 0.86-0.92; p=4.9 x 10(-11)) </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS/INTERPRETATION: In this study of WFS1 variants and type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> risk, we have replicated the previously reported associations between SNPs at this locus and the risk of type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+</text></document>

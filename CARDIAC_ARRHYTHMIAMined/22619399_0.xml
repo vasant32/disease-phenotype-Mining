@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:chebi fb="0" ids="2666">Amitriptyline</z:chebi> (AMT) is commonly used in the management of children with <z:e sem="disease" ids="C0022104" disease_type="Disease or Syndrome" abbrv="IBS">irritable bowel syndrome</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>AMT is pro-arrhythmogenic and increases the risk of <z:hpo ids='HP_0001645'>sudden cardiac death</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>However, there is not enough data regarding the cardiac toxicity in therapeutic doses of AMT in children and the need for screening electrocardiogram (EKG) </plain></SENT>
+<SENT sid="3" pm="."><plain>Errors in computer EKG interpretation are not uncommon </plain></SENT>
+<SENT sid="4" pm="."><plain>In a risk-prevention study, the authors sought to identify the true incidence of prolonged corrected QT (QTc) interval and other <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> in children with <z:e sem="disease" ids="C0022104" disease_type="Disease or Syndrome" abbrv="IBS">irritable bowel syndrome</z:e> before the initiation of AMT </plain></SENT>
+<SENT sid="5" pm="."><plain>Out of the 760 EKGs screened, 3 EKGs demonstrated a true prolonged QTc after the careful manual reading by a pediatric cardiologist and they were not picked by computer-generated reading </plain></SENT>
+<SENT sid="6" pm="."><plain>The authors conclude that screening EKG should always be performed on children before initiating AMT therapy </plain></SENT>
+<SENT sid="7" pm="."><plain>Also, the computer-generated EKG needs to be verified by a pediatric cardiologist to avoid serious misinterpretations </plain></SENT>
+</text></document>

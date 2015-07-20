@@ -1,0 +1,5 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 45-year-old man was hospitalized for <z:hpo ids='HP_0001279'>syncope</z:hpo> due to fascicular <z:hpo ids='HP_0004756'>ventricular tachycardia</z:hpo> degenerating into <z:hpo ids='HP_0001663'>ventricular fibrillation</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">VF</z:e>) </plain></SENT>
+<SENT sid="1" pm="."><plain>The electrocardiogram showed an early repolarization syndrome </plain></SENT>
+<SENT sid="2" pm="."><plain>The <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> was repetitive and disappeared after oral hydroquinidine </plain></SENT>
+<SENT sid="3" pm="."><plain>An implantable cardioverter-defibrillator (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">ICD</z:e>) was implanted; subsequently, the patient was <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> free at 9 months follow-up </plain></SENT>
+</text></document>

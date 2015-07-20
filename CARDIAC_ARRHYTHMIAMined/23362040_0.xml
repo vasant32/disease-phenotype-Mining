@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: To report a case of accidental <z:chebi fb="1" ids="2682">amphotericin B</z:chebi> overdose that was treated with plasmapheresis </plain></SENT>
+<SENT sid="1" pm="."><plain>CASE SUMMARY: A 60-year-old woman with a history of kidney transplant 4 years prior to presentation for a congenital abnormality was admitted for a suspected <z:e sem="disease" ids="C0553576" disease_type="Disease or Syndrome" abbrv="">systemic fungal infection</z:e> </plain></SENT>
+<SENT sid="2" pm="."><plain>The patient inadvertently received intravenous <z:chebi fb="1" ids="2682">amphotericin B</z:chebi> <z:chebi fb="0" ids="23614">deoxycholate</z:chebi> 250 mg (4.3 mg/kg) over 2 hours instead of prescribed <z:chebi fb="0" ids="2682">liposomal amphotericin B</z:chebi> </plain></SENT>
+<SENT sid="3" pm="."><plain>The medication error was discovered 16 hours after administration </plain></SENT>
+<SENT sid="4" pm="."><plain>She had <z:mpath ids='MPATH_458'>normal</z:mpath> vital signs at that time and reported <z:hpo ids='HP_0002027'>abdominal pain</z:hpo> and general malaise </plain></SENT>
+<SENT sid="5" pm="."><plain>Results of a metabolic panel were significant for a <z:chebi fb="0" ids="16737">creatinine</z:chebi> level of 2.1 mg/dL and <z:chebi fb="0" ids="16526">CO(2)</z:chebi> of 17 mg/dL </plain></SENT>
+<SENT sid="6" pm="."><plain>Her serum <z:chebi fb="1" ids="2682">amphotericin B</z:chebi> concentration 33 hours after the initial dose was 4.9 μg/mL </plain></SENT>
+<SENT sid="7" pm="."><plain>She subsequently received 5 courses of plasmapheresis and 3 courses of hemodialysis and ultimately did not develop any further renal injury, as well as <z:mp ids='MP_0010163'>hemolysis</z:mp>, cardiovascular collapse, dysrhythmias, or severe electrolyte abnormalities </plain></SENT>
+<SENT sid="8" pm="."><plain>DISCUSSION: The dosing differences between nonliposomal and liposomal preparations of <z:chebi fb="1" ids="2682">amphotericin B</z:chebi> can be as high as 50-fold </plain></SENT>
+<SENT sid="9" pm="."><plain>Reported adverse events from overdose in both animal models and human case reports include <z:hpo ids='HP_0000083'>renal insufficiency</z:hpo>, <z:mp ids='MP_0010163'>hemolysis</z:mp>, <z:hpo ids='HP_0001873'>thrombocytopenia</z:hpo>, electrolyte abnormality, and cardiac dysrhythmias </plain></SENT>
+<SENT sid="10" pm="."><plain>There have been previous reports of similar errors that have led to <z:hpo ids='HP_0011420'>death</z:hpo> </plain></SENT>
+<SENT sid="11" pm="."><plain>Furthermore, <z:chebi fb="1" ids="2682">amphotericin B</z:chebi> has been shown to be poorly dialyzable </plain></SENT>
+<SENT sid="12" pm="."><plain>Our patient's serum <z:chebi fb="1" ids="2682">amphotericin B</z:chebi> concentration decreased after she received plasmapheresis, and she did not develop severe complications </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSIONS: We describe a patient who survived a 4-fold overdose of <z:chebi fb="1" ids="2682">amphotericin B</z:chebi> because of a medication error </plain></SENT>
+<SENT sid="14" pm="."><plain>The use of plasmapheresis may have enhanced the elimination of <z:chebi fb="1" ids="2682">amphotericin B</z:chebi> and may have contributed to the positive outcome </plain></SENT>
+<SENT sid="15" pm="."><plain>However, the role of plasmapheresis in amphotericin overdose is not fully understood </plain></SENT>
+</text></document>

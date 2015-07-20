@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:chebi fb="0" ids="44423">Hydroxyurea</z:chebi> (HU) is an S-phase-specific cytotoxic drug used in the clinical treatment of <z:e sem="disease" ids="C0376545" disease_type="Neoplastic Process" abbrv="">haematological malignancies</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>HU treatment has been shown to lead to accumulation of short DNA fragments which show direct correlation with cytotoxicity </plain></SENT>
+<SENT sid="2" pm="."><plain>Specific regular DNA fragmentation is a biochemical feature of <z:mpath ids='MPATH_3'>apoptosis</z:mpath> (programmed cell <z:hpo ids='HP_0011420'>death</z:hpo>) in some systems </plain></SENT>
+<SENT sid="3" pm="."><plain>We investigated the effect of HU on a neoplastic (Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo>) cell line (BM13674) in vitro to determine the role of <z:mpath ids='MPATH_3'>apoptosis</z:mpath> in HU action </plain></SENT>
+<SENT sid="4" pm="."><plain>HU produced growth inhibition and cell <z:hpo ids='HP_0011420'>death</z:hpo> by <z:mpath ids='MPATH_3'>apoptosis</z:mpath> in BM13674 cells </plain></SENT>
+<SENT sid="5" pm="."><plain>Low dose HU (66 and 131 mumol/l) gave a growth inhibition effect only with no <z:mpath ids='MPATH_3'>apoptosis</z:mpath> being induced </plain></SENT>
+<SENT sid="6" pm="."><plain>Higher doses (0.66-13 mmol/l) induced <z:mpath ids='MPATH_3'>apoptosis</z:mpath> in a dose-dependent manner </plain></SENT>
+<SENT sid="7" pm="."><plain>Regular DNA fragmentation was detected by <z:chebi fb="2" ids="2511">agarose</z:chebi> gel electrophoresis of DNA and this correlated in time with the <z:hpo ids='HP_0003674'>onset</z:hpo> of <z:mpath ids='MPATH_3'>apoptosis</z:mpath> detected by light and electron microscopy </plain></SENT>
+<SENT sid="8" pm="."><plain>The results do not exclude the possibility that HU directly induces DNA strand breaks, which then initiate <z:mpath ids='MPATH_3'>apoptosis</z:mpath> and accompanying regular fragmentation of DNA in the apoptotic cells </plain></SENT>
+</text></document>

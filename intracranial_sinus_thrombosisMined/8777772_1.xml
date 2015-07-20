@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A woman with a 7-year history of intermittent <z:hpo ids='HP_0002076'>migraine</z:hpo> had 3 months of gradually worsening <z:hpo ids='HP_0002315'>headaches</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Initial neurologic examination including fundus examination was <z:mpath ids='MPATH_458'>normal</z:mpath>, and initial head computerized tomographic (CT) scan and magnetic resonance imaging (MRI) were thought to be <z:mpath ids='MPATH_458'>normal</z:mpath> </plain></SENT>
+<SENT sid="2" pm="."><plain>The patient was given dihydroergotamine (DHE-45), 1.0 mg, intravenously for relief of <z:hpo ids='HP_0002315'>headache</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>Five hours later, she complained of severe diffuse <z:hpo ids='HP_0002315'>headache</z:hpo> and <z:hpo ids='HP_0002018'>nausea</z:hpo> </plain></SENT>
+<SENT sid="4" pm="."><plain>Neurologic examination showed left arm <z:mp ids='MP_0000746'>weakness</z:mp> and sensory loss, blurring of the left optic disc, and bilateral <z:hpo ids='HP_0003487'>Babinski signs</z:hpo> </plain></SENT>
+<SENT sid="5" pm="."><plain>Cerebral arteriography demonstrated <z:mp ids='MP_0005048'>thrombosis</z:mp> of the sagittal sinus, which in retrospect was present on the initial contrast CT scan and MRI scan </plain></SENT>
+<SENT sid="6" pm="."><plain>The patient's deficits worsened, and she eventually died 20 days later as a result of <z:e sem="disease" ids="C0007785" disease_type="Disease or Syndrome" abbrv="">cerebral infarctions</z:e> and <z:hpo ids='HP_0002516'>increased intracranial pressure</z:hpo>, despite attempts at selective thrombolysis of the sagittal sinus </plain></SENT>
+<SENT sid="7" pm="."><plain>DHE has potent venoconstrictive effects </plain></SENT>
+<SENT sid="8" pm="."><plain>We suspect that DHE helped precipitate <z:hpo ids='HP_0002344'>neurologic deterioration</z:hpo> in this patient with sagittal sinus <z:mp ids='MP_0005048'>thrombosis</z:mp> </plain></SENT>
+</text></document>

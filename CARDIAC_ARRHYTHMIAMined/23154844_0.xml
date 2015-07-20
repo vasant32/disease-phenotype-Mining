@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIMS: Catheter ablation for <z:hpo ids='HP_0004757'>paroxysmal atrial fibrillation</z:hpo> (AF) is rapidly becoming a standard practice </plain></SENT>
+<SENT sid="1" pm="."><plain>There is literature to support that catheter ablation of persistent AF requires additional 'substrate modification' </plain></SENT>
+<SENT sid="2" pm="."><plain>In clinical practice, operators rely on automated fractionation maps created by three-dimensional anatomic mapping systems to rapidly assess complex 'fractionated' signals (CFAE) </plain></SENT>
+<SENT sid="3" pm="."><plain>These systems use differing algorithms to automate the process </plain></SENT>
+<SENT sid="4" pm="."><plain>The agreement between operators and contemporary algorithms has not been examined </plain></SENT>
+<SENT sid="5" pm="."><plain>We sought to assess the agreement between operators and a novel method of quantification calculating percentage fractionation (PF) </plain></SENT>
+<SENT sid="6" pm="."><plain>METHODS AND RESULTS: Expert opinion on 80 atrial electrogram 4 s signals of varying levels of activity were gathered and pooled for comparison </plain></SENT>
+<SENT sid="7" pm="."><plain>Twelve independent experts visually quantified the signal fractionation and offered a threshold level for ablation </plain></SENT>
+<SENT sid="8" pm="."><plain>We developed an algorithm to find sites with high continuous electrical activity, or high PF </plain></SENT>
+<SENT sid="9" pm="."><plain>Correlation between experts and PF was 0.78 [P &lt; 0.01, 95% confidence interval (CI) (0.68-0.86)] </plain></SENT>
+<SENT sid="10" pm="."><plain>Receiver operating characteristics curve sensitivity and specificity for PF were 0.7727 and 0.8103 at the optimal cut-off point of 58.45 PF with area under curve 0.89 CI (0.80-0.99) </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSION: The PF statistic represents a more robust and intuitive measure to represent fractionated atrial activity; importantly it demonstrates excellent agreement with expert users and presents a new standard for algorithm assessment </plain></SENT>
+<SENT sid="12" pm="."><plain>Use of a PF statistic should be considered in automated mapping systems </plain></SENT>
+</text></document>

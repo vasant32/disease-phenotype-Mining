@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: The DISCERN AF study (Discerning Symptomatic and Asymptomatic Episodes Pre and Post Radiofrequency Ablation of <z:hpo ids='HP_0005110'>Atrial Fibrillation</z:hpo>) monitored <z:hpo ids='HP_0005110'>atrial fibrillation</z:hpo> (AF) using an implantable cardiac monitor (ICM) to assess the incidence and predictors of asymptomatic AF before and after catheter ablation </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: Patients with symptomatic AF underwent implantation of an ICM with an automated AF detection algorithm 3 months before and 18 months after ablation </plain></SENT>
+<SENT sid="2" pm="."><plain>Patients kept a standardized diary to record symptoms of <z:hpo ids='HP_0011675'>arrhythmia</z:hpo>, and ICM data were downloaded every 3 months </plain></SENT>
+<SENT sid="3" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> episodes were blindly adjudicated and correlated with the diary </plain></SENT>
+<SENT sid="4" pm="."><plain>Asymptomatic recurrences were ICM episodes of 2 minutes or longer with no associated diary symptoms </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: Fifty patients had 2355 ICM episodes </plain></SENT>
+<SENT sid="6" pm="."><plain>Of these, 69.0% were true AF/<z:hpo ids='HP_0004749'>atrial flutter</z:hpo> (AFL)/atrial <z:hpo ids='HP_0001649'>tachycardia</z:hpo> (AT); 16.0%, sinus with <z:mp ids='MP_0009732'>extrasystoles</z:mp>; 11.0%, artifact; and 4.0%, sinus <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> </plain></SENT>
+<SENT sid="7" pm="."><plain>Total AF/AFL/AT burden was reduced by 86% from a mean (SD) of 2.0 (0.5) h/d per patient before to 0.3 (0.2) h/d per patient after ablation (P &lt; .001), and 56.0% of <z:hpo ids='HP_0000001'>all</z:hpo> episodes were asymptomatic </plain></SENT>
+<SENT sid="8" pm="."><plain>The ratio of asymptomatic to symptomatic AF episodes increased after ablation from 1.1 to 3.7 (P = .002) </plain></SENT>
+<SENT sid="9" pm="."><plain>By symptoms alone, 29 of 50 patients (58%) were free of AF/AFL/AT after ablation compared with 23 of 50 (46%) using ICM-detected AF/AFL/AT recurrence </plain></SENT>
+<SENT sid="10" pm="."><plain>Asymptomatic episodes were more likely AFL/AT and were significantly shorter and slower, with lower heart rate variability </plain></SENT>
+<SENT sid="11" pm="."><plain>However, the postablation state was the strongest independent predictor of asymptomatic AF </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: The ratio of asymptomatic to symptomatic AF episodes increased from 1.1 before to 3.7 after ablation </plain></SENT>
+<SENT sid="13" pm="."><plain>Postablation state is the strongest predictor of asymptomatic AF </plain></SENT>
+<SENT sid="14" pm="."><plain>Symptoms alone underestimate postablation AF burden, with 12% of patients having asymptomatic recurrences only </plain></SENT>
+<SENT sid="15" pm="."><plain>TRIAL REGISTRATION: clinicaltrials.gov Identifier: NCT00745706 </plain></SENT>
+</text></document>

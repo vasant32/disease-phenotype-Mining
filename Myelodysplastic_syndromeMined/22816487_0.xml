@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The management of <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e>) remains challenging </plain></SENT>
+<SENT sid="1" pm="."><plain>We performed a phase I/II study to evaluate the safety and efficacy of <z:chebi fb="0" ids="50131">decitabine</z:chebi> in patients with <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> in Japan </plain></SENT>
+<SENT sid="2" pm="."><plain>Patients with <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> with red cell transfusion dependence or 5-30% blasts in marrow and with an International Prognostic Scoring System score of intermediate-1 or higher were eligible </plain></SENT>
+<SENT sid="3" pm="."><plain>Patients received intravenous <z:chebi fb="0" ids="50131">decitabine</z:chebi> at 15 or 20 mg/m(2) daily for 5 days every 4 weeks </plain></SENT>
+<SENT sid="4" pm="."><plain>A total of 37 patients were enrolled </plain></SENT>
+<SENT sid="5" pm="."><plain>Three patients received 15 mg/m(2) and experienced no dose limiting toxicity during the first cycle </plain></SENT>
+<SENT sid="6" pm="."><plain>Thirty-four patients received 20 mg/m(2)  </plain></SENT>
+<SENT sid="7" pm="."><plain>Grade 3 or greater non-hematologic toxicities included <z:e sem="disease" ids="C0007785" disease_type="Disease or Syndrome" abbrv="">cerebral infarction</z:e> (n = 1), <z:hpo ids='HP_0100309'>subdural hematoma</z:hpo> (n = 1), elevated blood <z:chebi fb="105" ids="17234">glucose</z:chebi> (n = 1), and <z:hpo ids='HP_0002092'>pulmonary hypertension</z:hpo> (n = 1) </plain></SENT>
+<SENT sid="8" pm="."><plain>At 20 mg/m(2) , complete response, partial response, and hematologic improvement were observed in 7 (20.6%), 2 (5.9%), and 7 (20.6%) patients, respectively </plain></SENT>
+<SENT sid="9" pm="."><plain>Complete cytogenetic response was observed in 30% of evaluable 20 patients </plain></SENT>
+<SENT sid="10" pm="."><plain>The median number of cycles to clinical response was 4 (range 4-8), and duration of remission was 474+ days (range 294-598+) </plain></SENT>
+<SENT sid="11" pm="."><plain>The 2-year rate of <z:hpo ids='HP_0004808'>acute myeloid leukemia</z:hpo>-free survival was 52% </plain></SENT>
+<SENT sid="12" pm="."><plain>Correlative studies revealed hypomethylation in multiple genes in peripheral blood cells after treatment </plain></SENT>
+<SENT sid="13" pm="."><plain>Hypomethylation was generally more profound in CD15 + peripheral blood cells, which reflects myeloid cells, than in peripheral blood mononuclear cells </plain></SENT>
+<SENT sid="14" pm="."><plain>In summary, <z:chebi fb="0" ids="50131">decitabine</z:chebi> was safe and demonstrated efficacy in Japanese patients with high-risk <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> </plain></SENT>
+<SENT sid="15" pm="."><plain>This trial was registered at ClinicalTrials.gov (NCT00796003) </plain></SENT>
+</text></document>

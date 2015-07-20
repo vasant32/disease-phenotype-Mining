@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Ischemic preconditioning (<z:chebi fb="76" ids="53004">IPC</z:chebi>) induces endogenous neuroprotection from a subsequent ischemic injury </plain></SENT>
+<SENT sid="1" pm="."><plain><z:chebi fb="76" ids="53004">IPC</z:chebi> involves downregulation of metabolic pathways </plain></SENT>
+<SENT sid="2" pm="."><plain>As <z:chebi fb="3" ids="16335">adenosine</z:chebi> 5'-monophosphate-activated protein kinase (AMPK) is a critical sensor of energy balance and plays a major role in cellular metabolism, its role in <z:chebi fb="76" ids="53004">IPC</z:chebi> was investigated </plain></SENT>
+<SENT sid="3" pm="."><plain>A brief 3-min middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (MCAO) was employed to induce <z:chebi fb="76" ids="53004">IPC</z:chebi> in male mice 72 h before 90-min MCAO </plain></SENT>
+<SENT sid="4" pm="."><plain>Levels of AMPK and phosphorylated AMPK (pAMPK), the active form of the kinase, were assessed after <z:chebi fb="76" ids="53004">IPC</z:chebi> </plain></SENT>
+<SENT sid="5" pm="."><plain>A pharmacological activator or inhibitor of AMPK was used to determine the dependence of <z:chebi fb="76" ids="53004">IPC</z:chebi> on AMPK signaling </plain></SENT>
+<SENT sid="6" pm="."><plain>Additionally, AMPK-α2 null mice were subjected to <z:chebi fb="76" ids="53004">IPC</z:chebi>, and subsequent <z:mpath ids='MPATH_124'>infarct</z:mpath> damage was assessed </plain></SENT>
+<SENT sid="7" pm="."><plain><z:chebi fb="76" ids="53004">IPC</z:chebi> induced neuroprotection, enhanced heat shock protein-70 (<z:chebi fb="24" ids="50430">HSP</z:chebi>-70), and improved behavioral outcomes </plain></SENT>
+<SENT sid="8" pm="."><plain>These beneficial effects occurred in parallel with a significant inhibition of pAMPK protein expression </plain></SENT>
+<SENT sid="9" pm="."><plain>Although both pharmacological inhibition of AMPK or <z:chebi fb="76" ids="53004">IPC</z:chebi> led to neuroprotection, <z:chebi fb="76" ids="53004">IPC</z:chebi> offered no additional protective effects when co-administered with an AMPK inhibitor </plain></SENT>
+<SENT sid="10" pm="."><plain>Moreover, pharmacological activation of AMPK with <z:chebi fb="0" ids="6801">metformin</z:chebi> abolished the neuroprotective effects of <z:chebi fb="76" ids="53004">IPC</z:chebi> </plain></SENT>
+<SENT sid="11" pm="."><plain>AMPK-α2 null mice that lack the catalytic isoform of AMPK failed to demonstrate a preconditioning response </plain></SENT>
+<SENT sid="12" pm="."><plain>Regulation of AMPK plays an important role in <z:chebi fb="76" ids="53004">IPC</z:chebi>-mediated neuroprotection </plain></SENT>
+<SENT sid="13" pm="."><plain>AMPK may be a potential therapeutic target for the treatment of <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> </plain></SENT>
+</text></document>

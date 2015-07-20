@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>During a routine health examination, a 50-year-old man was found to have an elevated lesion at the esophagogastric junction </plain></SENT>
+<SENT sid="1" pm="."><plain>Poorly differentiated <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> was diagnosed from the biopsy findings </plain></SENT>
+<SENT sid="2" pm="."><plain>Computed tomography showed <z:e sem="disease" ids="C0027627" disease_type="Neoplastic Process" abbrv="mets">metastases</z:e> in the mediastinal, intra-abdominal, and paraaortic lymph nodes </plain></SENT>
+<SENT sid="3" pm="."><plain>The clinical stage diagnosis was cT2, cN4, cM0, cStage IVa </plain></SENT>
+<SENT sid="4" pm="."><plain>Combination chemotherapy with docetaxel, CDDP, and 5-FU (DCF) was started initially </plain></SENT>
+<SENT sid="5" pm="."><plain>After 2 courses of DCF, the <z:e sem="disease" ids="C1402294" disease_type="Disease or Syndrome" abbrv="">primary lesion</z:e> and mediastinal lymph nodes had decreased in size, but the intra-abdominal lymph node had grown </plain></SENT>
+<SENT sid="6" pm="."><plain>A curative operation with paraaortic lymph node dissection was considered possible; thus, video-assisted thoracoscopic surgery of the esophagus with 3-field lymph node dissection was performed </plain></SENT>
+<SENT sid="7" pm="."><plain>The final findings revealed Barrett's <z:hpo ids='HP_0011459'>esophageal carcinoma</z:hpo>, EG, 0-III,23×18 mm, mod-por, CT-pT1b (sm3) pN4, sM0, fStage IV </plain></SENT>
+<SENT sid="8" pm="."><plain>Histologically, the mediastinal <z:e sem="disease" ids="C0686619" disease_type="Neoplastic Process" abbrv="">lymph node metastases</z:e> disappeared with chemotherapy, but no reduction was observed in the abdominal lymph nodes </plain></SENT>
+<SENT sid="9" pm="."><plain>After surgery, 2 courses of combination adjuvant chemotherapy with CDDP and 5-FU were administered along with 50 Gy of radiotherapy </plain></SENT>
+<SENT sid="10" pm="."><plain>Subsequently, the treatment was changed to tegafur-gimeracil-oteracil <z:chebi fb="120" ids="26216">potassium</z:chebi> alone on an outpatient basis </plain></SENT>
+<SENT sid="11" pm="."><plain>The patient remains recurrence free 22 months postsurgery </plain></SENT>
+</text></document>

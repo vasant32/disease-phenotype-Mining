@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Mutations in LAMA2 cause severe <z:hpo ids='HP_0003741'>congenital muscular dystrophy</z:hpo> accompanied by <z:mp ids='MP_0000768'>nervous system defects</z:mp> [1] </plain></SENT>
+<SENT sid="1" pm="."><plain>Mice homozygous for the dy(2J) allele of LAMA2 express a laminin alpha2 subunit that has a deletion in the amino-terminal domain VI, providing an animal model for study of the molecular basis of <z:hpo ids='HP_0003741'>congenital muscular dystrophy</z:hpo> [2] [3] </plain></SENT>
+<SENT sid="2" pm="."><plain>Domain VI is predicted to be involved in laminin polymerization, along with amino-terminal domains from laminin beta and gamma chains [4] </plain></SENT>
+<SENT sid="3" pm="."><plain>In a solution-polymerization assay, we found that purified dy(2J) laminin assembled poorly and formed little polymer, in contrast to <z:mp ids='MP_0002169'>wild-type</z:mp> muscle laminin </plain></SENT>
+<SENT sid="4" pm="."><plain>Furthermore, dissolution of the collagen IV network caused dy(2J) laminin to be released into solution, indicating that laminin polymers within the skeletal muscle basement membrane were defective </plain></SENT>
+<SENT sid="5" pm="."><plain>In addition to loss of polymerization, dy(2J) laminin had a reduced affinity for <z:chebi fb="5" ids="28304">heparin</z:chebi> </plain></SENT>
+<SENT sid="6" pm="."><plain>Finally, recombinant laminin engineered with the dy(2J) deletion was more sensitive to proteolysis and was readily cleaved near the junction of domains V and VI </plain></SENT>
+<SENT sid="7" pm="."><plain>Thus, the dy(2J) deletion selectively disrupts polymer formation, reduces affinity for <z:chebi fb="5" ids="28304">heparin</z:chebi>, and destabilizes domain VI </plain></SENT>
+<SENT sid="8" pm="."><plain>These are the first specific functional defects to be identified in a <z:hpo ids='HP_0003560'>muscular dystrophy</z:hpo> laminin, and it is likely that these defects contribute to the abnormalities seen in dy(2J)/dy(2J) muscle and nerve </plain></SENT>
+</text></document>

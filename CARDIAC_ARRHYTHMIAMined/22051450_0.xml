@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Tiotropium has been associated with an increased risk of mortality and/or cardiovascular events </plain></SENT>
+<SENT sid="1" pm="."><plain>Recent data from RCTs suggests tiotropium Handihaler to be safe, but its safety has not yet been fully investigated under real-life circumstances </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: We conducted 2 nested case-control studies in a COPD cohort from the Dutch IPCI database </plain></SENT>
+<SENT sid="3" pm="."><plain>In the first case-control study, cases had a cardiovascular or cerebrovascular endpoint (CCVE): <z:hpo ids='HP_0001297'>stroke</z:hpo> and <z:hpo ids='HP_0002326'>transient ischemic attack</z:hpo> (<z:hpo ids='HP_0002326'>TIA</z:hpo>), <z:hpo ids='HP_0001658'>myocardial infarction</z:hpo>, <z:hpo ids='HP_0001635'>heart failure</z:hpo> and/or <z:hpo ids='HP_0004308'>ventricular arrhythmia</z:hpo> </plain></SENT>
+<SENT sid="4" pm="."><plain>In the second, cases were <z:hpo ids='HP_0000001'>all</z:hpo> patients who died </plain></SENT>
+<SENT sid="5" pm="."><plain>Cases were matched to controls on age, sex and index date </plain></SENT>
+<SENT sid="6" pm="."><plain>Conditional logistic regression analysis was used to calculate adjusted odds ratios (OR(adj)) with 95% confidence intervals (CI) for tiotropium vs. long-acting beta-<z:chebi fb="4" ids="48705">agonists</z:chebi> (LABA) </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: Within a cohort of 6788 COPD patients, 784 CCVE's and 1032 <z:hpo ids='HP_0011420'>deaths</z:hpo> were reported </plain></SENT>
+<SENT sid="8" pm="."><plain>Compared to current LABA use, use of tiotropium Handihaler was neither associated with an increased risk of a CCVE (OR(adj) 0.89, 95% 0.55-1.44) nor with an increased risk of <z:hpo ids='HP_0011420'>death</z:hpo> (OR(adj) 0.79, 95% CI 0.49-1.28) </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSIONS: In real life, use of tiotropium Handihaler in COPD patients is not associated with an increased risk of a CCVE or mortality compared to LABA </plain></SENT>
+</text></document>

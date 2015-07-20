@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Leptin is a hormone primarily produced by adipocytes and serum leptin is elevated in <z:mp ids='MP_0001261'>obese</z:mp> persons </plain></SENT>
+<SENT sid="1" pm="."><plain>One risk factor associated with <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> of the esophagus is <z:hpo ids='HP_0001513'>obesity</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>We hypothesized that leptin would have stimulatory effects on esophageal <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> and alter <z:mpath ids='MPATH_3'>apoptosis</z:mpath> in vitro </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: Barrett's esophageal <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> cells (BIC-1 and SEG-1) were cultured with human recombinant leptin (80 ng/mL) for 24 hours </plain></SENT>
+<SENT sid="4" pm="."><plain>Cell growth was determined by <z:chebi fb="0" ids="53233">MTT</z:chebi> assay </plain></SENT>
+<SENT sid="5" pm="."><plain><z:mpath ids='MPATH_3'>Apoptosis</z:mpath> and <z:mp ids='MP_0001651'>necrosis</z:mp> was measured after 16 hours of treatment with leptin using a Cell <z:hpo ids='HP_0011420'>Death</z:hpo> Kit </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: Exogenous leptin stimulated cell proliferation in both cell lines </plain></SENT>
+<SENT sid="7" pm="."><plain>No changes in <z:mpath ids='MPATH_3'>apoptosis</z:mpath> or <z:mp ids='MP_0001651'>necrosis</z:mp> resulted between control and leptin-treated groups </plain></SENT>
+<SENT sid="8" pm="."><plain>CONCLUSIONS: We have shown that leptin increases the proliferation of human esophageal <z:mp ids='MP_0009308'>adenocarcinoma</z:mp>, but does not alter cell <z:mpath ids='MPATH_3'>apoptosis</z:mpath> or <z:mp ids='MP_0001651'>necrosis</z:mp> </plain></SENT>
+<SENT sid="9" pm="."><plain>The data suggest that leptin stimulates esophageal <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> growth by nonapoptotic mechanisms </plain></SENT>
+<SENT sid="10" pm="."><plain>Leptin antagonism may have potential efficacy in <z:e sem="disease" ids="C0546837,C0014859" disease_type="Neoplastic Process" abbrv="">esophageal cancer</z:e> therapy </plain></SENT>
+</text></document>

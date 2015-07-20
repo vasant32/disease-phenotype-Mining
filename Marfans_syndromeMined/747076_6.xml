@@ -1,0 +1,6 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The first reported case of <z:hpo ids='HP_0004953'>abdominal aortic aneurysm</z:hpo> complicating <z:hpo ids='HP_0002156'>homocystinuria</z:hpo> is presented </plain></SENT>
+<SENT sid="1" pm="."><plain>The clinical features and microscopic findings were identical to those of an atherosclerotic <z:hpo ids='HP_0002617'>aneurysm</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain><z:hpo ids='HP_0002156'>Homocystinuria</z:hpo> may stimulate <z:e sem="disease" ids="C0024796" disease_type="Disease or Syndrome" abbrv="MFS|MFS1">Marfan's syndrome</z:e> but can be differentiated by the <z:chebi fb="53" ids="17514">cyanide</z:chebi>-<z:chebi fb="0" ids="7596">nitroprusside</z:chebi> screening test for <z:chebi fb="0" ids="17485">homocystine</z:chebi> in urine </plain></SENT>
+<SENT sid="3" pm="."><plain>Although <z:hpo ids='HP_0002156'>homocystinuria</z:hpo> is accompanied by an increased risk of <z:mp ids='MP_0005048'>thrombosis</z:mp>, surgical treatment of complicating diseases should not be avoided </plain></SENT>
+<SENT sid="4" pm="."><plain><z:chebi fb="5" ids="16709">Pyridoxine</z:chebi> treatment is recommended </plain></SENT>
+</text></document>

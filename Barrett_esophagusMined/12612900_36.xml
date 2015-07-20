@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND AIMS: Factors associated with the development and malignant progression of <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> are poorly understood </plain></SENT>
+<SENT sid="1" pm="."><plain>Gastrin is a <z:chebi fb="0" ids="52290">mitogen</z:chebi> capable of inducing growth in <z:mpath ids='MPATH_458'>normal</z:mpath> and malignant gastrointestinal mucosa </plain></SENT>
+<SENT sid="2" pm="."><plain>It is unknown whether gastrin can influence cellular events in the esophagus in Barrett's </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: Reverse-transcription polymerase chain reaction (RT-PCR) and northern analysis for the cholecystokinin (CCK(2)) receptor were performed on <z:mpath ids='MPATH_458'>normal</z:mpath>, inflamed, metaplastic, and malignant esophageal mucosa </plain></SENT>
+<SENT sid="4" pm="."><plain>Real-time PCR quantified expression of the receptor </plain></SENT>
+<SENT sid="5" pm="."><plain>[(125)I]-G17-autoradiography localized the CCK(2) receptor in mucosal sections </plain></SENT>
+<SENT sid="6" pm="."><plain>[(3)H]-<z:chebi fb="0" ids="17748">thymidine</z:chebi> and bromodeoxyuridine (BrdU) incorporation determined proliferation in response to G17 in biopsy specimens incubated ex vivo </plain></SENT>
+<SENT sid="7" pm="."><plain>Proliferation and signaling studies were performed on OE33(E) cells transfected with the CCK(2) receptor </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: RT-PCR identified receptor expression in 3 of 9 controls, 5 of 7 patients with <z:hpo ids='HP_0100633'>esophagitis</z:hpo>, 10 of 10 patients with Barrett's <z:mpath ids='MPATH_160'>metaplasia</z:mpath>, and 7 of 12 esophageal <z:mp ids='MP_0009308'>adenocarcinomas</z:mp> </plain></SENT>
+<SENT sid="9" pm="."><plain>Real-time PCR quantified expression in 10 patients with Barrett's showing a level of expression 2 orders of magnitude higher than in 12 control patients </plain></SENT>
+<SENT sid="10" pm="."><plain>[(125)I]-G17 bound to epithelia within glandular regions of Barrett's mucosa </plain></SENT>
+<SENT sid="11" pm="."><plain>Ten nmol/L G17 induced a 2-fold (n = 7, P = 0.0257, t test) increase in [(3)H]-<z:chebi fb="0" ids="17748">thymidine</z:chebi> incorporation in mucosal biopsy specimens, abolished by the addition of the CCK(2) receptor <z:chebi fb="68" ids="48706">antagonist</z:chebi> L-740, 093 </plain></SENT>
+<SENT sid="12" pm="."><plain>One nmol/L G17 induced a 1.94- +/- 0.13-fold (n = 6, t test, P = 0.001) increase in [(3)H]-<z:chebi fb="0" ids="17748">thymidine</z:chebi> incorporation in OE33(E)(GR) cells, abolished by L-740, 093 </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSIONS: Gastrin induces proliferation via the CCK(2) receptor in Barrett's mucosa </plain></SENT>
+<SENT sid="14" pm="."><plain>This may have implications for the management of patients with <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> in whom gastrin is elevated by acid-suppression therapy </plain></SENT>
+</text></document>

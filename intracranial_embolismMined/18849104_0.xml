@@ -1,0 +1,6 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>In present research, Barker-coded excitation is applied to improve the sensitivity of emboli detection in transcranial Doppler (TCD) ultrasound systems </plain></SENT>
+<SENT sid="1" pm="."><plain>A 13-chip Barker code with a base pulse sequence that comprises two cycles at 2 MHz is used to compare with a 20-cycle pulse in both simulation studies and in vitro experiments </plain></SENT>
+<SENT sid="2" pm="."><plain>The results show that the system using coded excitation gains a 2.78-dB improvement in measured <z:mpath ids='MPATH_110'>embolus</z:mpath>-to-blood ratio (MEBR) while keeping a similar signal-to-noise ratio (SNR) </plain></SENT>
+<SENT sid="3" pm="."><plain>The simulation results also indicate that the MEBR of the emboli are related to their velocities-a fast <z:mpath ids='MPATH_110'>embolus</z:mpath> has lower MEBR compared with a slow one with the same backscatter amplitudes, which makes fast emboli more difficult to detect </plain></SENT>
+<SENT sid="4" pm="."><plain>TCD system using coded excitation is more sensitive for faster and smaller emboli, which is significant for early diagnosis of <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+</text></document>

@@ -1,0 +1,7 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0003613'>Antiphospholipid antibodies</z:hpo> are serological markers of <z:e sem="disease" ids="C0085278" disease_type="Disease or Syndrome" abbrv="">antiphospholipid syndrome</z:e> (APS) </plain></SENT>
+<SENT sid="1" pm="."><plain>Diversity of so-called <z:hpo ids='HP_0003613'>antiphospholipid antibodies</z:hpo> is well-known </plain></SENT>
+<SENT sid="2" pm="."><plain>These antibodies are directed against <z:chebi fb="0" ids="16247">phospholipid</z:chebi> binding proteins such as beta(2)-<z:chebi fb="2" ids="17089">glycoprotein</z:chebi> I and prothrombin as well as against <z:chebi fb="1" ids="16247">phospholipids</z:chebi> such as <z:chebi fb="0" ids="28494">cardiolipin</z:chebi> </plain></SENT>
+<SENT sid="3" pm="."><plain><z:mp ids='MP_0005048'>Thrombosis</z:mp> and pregnancy morbidity are clinical features of APS </plain></SENT>
+<SENT sid="4" pm="."><plain>In addition, cardiovascular manifestations, <z:e sem="disease" ids="C1112108" disease_type="Disease or Syndrome" abbrv="">neurological disorders</z:e>, skin manifestations, renal involvements and <z:hpo ids='HP_0001873'>thrombocytopenia</z:hpo> are reported to be significant in clinical aspects of APS </plain></SENT>
+<SENT sid="5" pm="."><plain>Anticoagulation therapy and antiplatelet therapy are effective for the secondary prevention of <z:mp ids='MP_0005048'>thrombosis</z:mp> in APS </plain></SENT>
+</text></document>

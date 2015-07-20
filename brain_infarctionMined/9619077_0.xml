@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 66-year-old man was admitted to our hospital because of hemiballism of his left extremities </plain></SENT>
+<SENT sid="1" pm="."><plain>The hemiballism disappeared soon after beginning therapy with <z:chebi fb="6" ids="5613">haloperidol</z:chebi> and <z:chebi fb="6" ids="3647">chlorpromazine</z:chebi> </plain></SENT>
+<SENT sid="2" pm="."><plain>X-ray CT brain scan on day 3 showed infarction in the right putamen and the right parietal lobe </plain></SENT>
+<SENT sid="3" pm="."><plain>Cerebral angiography on day 9 was <z:mpath ids='MPATH_458'>normal</z:mpath> </plain></SENT>
+<SENT sid="4" pm="."><plain>Transesophageal echocardiography revealed no abnormality except for an <z:hpo ids='HP_0011995'>atrial septal aneurysm</z:hpo> </plain></SENT>
+<SENT sid="5" pm="."><plain>Transcranial color-flow imaging demonstrated high intensity transient signal (HITS) with Valsalva maneuver </plain></SENT>
+<SENT sid="6" pm="."><plain><z:e sem="disease" ids="C0238096" disease_type="Disease or Syndrome" abbrv="">Paradoxical embolism</z:e> was, therefore, thought to have caused the patient's <z:e sem="disease" ids="C0751955" disease_type="Disease or Syndrome" abbrv="">brain infarction</z:e> </plain></SENT>
+<SENT sid="7" pm="."><plain>It was speculated that the hemiballism was caused by <z:hpo ids='HP_0000734'>disinhibition</z:hpo> of the cortex resulting from loss of negative feedback in the motor system due to the putaminal lesion </plain></SENT>
+<SENT sid="8" pm="."><plain>It is necessary to treat hemiballism using an appropriate therapy to prevent exacerbation </plain></SENT>
+</text></document>

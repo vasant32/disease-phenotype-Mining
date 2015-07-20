@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVES: The authors present evidence that the delta opioid receptor <z:chebi fb="4" ids="48705">agonist</z:chebi> Deltorphin-D(variant) (Delt-D(var)) and hibernating woodchuck plasma (HWP), but not summer-active woodchuck plasma (SAWP), can provide significant neuroprotection from focal <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> in mice by a mechanism that relies in part on reducing nitric <z:chebi fb="177" ids="25741,29356">oxide</z:chebi> (NO) release in ischemic tissue </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: <z:hpo ids='HP_0002637'>Cerebral ischemia</z:hpo> was produced in <z:mp ids='MP_0002169'>wild-type</z:mp> and NO synthase-deficient (NOS(-/-)) mice by transient, 1-hour middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (MCAO) </plain></SENT>
+<SENT sid="2" pm="."><plain>Behavioral deficits were determined at 22 hours and <z:mpath ids='MPATH_124'>infarct</z:mpath> volume was assessed at 24 hours after MCAO </plain></SENT>
+<SENT sid="3" pm="."><plain>Mice were treated with saline or Delt-D(var) at 2.0 and 4.0 mg/kg, or 200 microL of HWP or SAWP </plain></SENT>
+<SENT sid="4" pm="."><plain>NOS(-/-) mice were treated with either saline or Delt-D(var) at 4.0 mg/kg </plain></SENT>
+<SENT sid="5" pm="."><plain>NO release was determined using an N9 microglial cell line pretreated with delta- or mu-specific opioids and HWP or SAWP prior to activation with <z:chebi fb="0" ids="16412">lipopolysaccharide</z:chebi> and interferon-gamma </plain></SENT>
+<SENT sid="6" pm="."><plain>Nitrate in the medium was measured as an indicator of NO production </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: Infusion of Delt-D(var) or HWP (but not SAWP) decreased <z:mpath ids='MPATH_124'>infarct</z:mpath> volume and improved behavioral deficits following 1 hour of MCAO and 24 hours of reperfusion </plain></SENT>
+<SENT sid="8" pm="."><plain>In NOS(-/-) mice, endothelial NOS(+/+) is required to provide Delt-D(var)-induced neuroprotection </plain></SENT>
+<SENT sid="9" pm="."><plain>Delt-D(var) and HWP dose-dependently decreased NO release in cell culture, while SAWP and other delta- and mu-specific opioids did not </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSIONS: Delt-D(var) and HWP, but not SAWP, are effective neuroprotectant agents in a mouse model of transient MCAO </plain></SENT>
+<SENT sid="11" pm="."><plain>In cell culture, the mechanism of this ischemic neuroprotection may rely in part on their ability to block NO release </plain></SENT>
+</text></document>

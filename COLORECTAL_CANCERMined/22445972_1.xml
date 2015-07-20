@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: To construct a lentiviral vector of miR-335 gene and verify the target gene of miR-335 </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: The precursor sequence of miR-335 gene was amplified from the genomic DNA by PCR and cloned into the lentiviral vector PLVTHM labeled with GFP </plain></SENT>
+<SENT sid="2" pm="."><plain>Real-time quantitative RT-PCR was used to detect miR-335 and RASA1 expression in different <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> cell lines </plain></SENT>
+<SENT sid="3" pm="."><plain>A recombinant vector psiCHECK-2-RASA1 containing RASA1 3'UTR was constructed followed by site-directed mutagenesis of RASA1 3'UTR to establish the vector psiCHECK-2-RASA1-Mut </plain></SENT>
+<SENT sid="4" pm="."><plain>Co-transfection of hsa-mir-335 or a NC with these recombined vectors in HEK293A and SW480 cells was performed, and dual-luciferase reporter assay was utilized to examine the changes in luciferase activities </plain></SENT>
+<SENT sid="5" pm="."><plain>The recombinant PLVTHM-miR335 plasmid was packaged into mature lentivirus by 293FT cells and used to infect SW620 cells </plain></SENT>
+<SENT sid="6" pm="."><plain>Flow cytometry was employed for sorting the GFP+ cells </plain></SENT>
+<SENT sid="7" pm="."><plain>The expression of miR-335 and RASA1 were determined by qRT-PCR, and Western blotting was used to detect the expression of RASA1 protein in SW620 cell lines </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: The recombinant lentiviral vector PLVTHM-miR335, psiCHECK-2-RASA1 and the mutation expression vector psiCHECK-2-RASA1-Mut were successfully constructed </plain></SENT>
+<SENT sid="9" pm="."><plain>Dual-luciferase reporter assay showed that miR-335 decreased luciferase activity in cells co-transfected with psiCHECK-2-RASA1 </plain></SENT>
+<SENT sid="10" pm="."><plain>The expression of miR-335 in SW620 cells infected with the lentivirus PLVTHM-miR335 was significantly increased, but the expression of RASA1 showed only slight changes </plain></SENT>
+<SENT sid="11" pm="."><plain>Overexpression of miR-335 suppressed the expression of RASA1 protein in SW620 cells </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSION: We have successfully constructed the lentiviral vector containing mir-335 gene and a SW620 cell line with miR-335 overexpression </plain></SENT>
+<SENT sid="13" pm="."><plain>MiR-335 can suppress RASA1 gene expression by targeting the specific sequence of RASA1 3'UTR </plain></SENT>
+</text></document>

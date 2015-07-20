@@ -1,0 +1,7 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: To distinguish centroblast cells from non-centroblast cells using a novel automated method in follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cases and measure its performance on cases obtained by a consensus of six pathologists </plain></SENT>
+<SENT sid="1" pm="."><plain>STUDY DESIGN: Geometric and color texture features were used in the training and testing of the supervised quadratic discriminant analysis classifier </plain></SENT>
+<SENT sid="2" pm="."><plain>The technique was trained and tested on a data set composed of 218 centroblast images and 218 non-centroblast images </plain></SENT>
+<SENT sid="3" pm="."><plain>Computer performance was tested by measuring sensitivity and specificity among cells classified as centroblast and non-centroblast by consensus of six board-certified hematopathologists </plain></SENT>
+<SENT sid="4" pm="."><plain>RESULTS: Automated classification distinguished centroblast from non-centroblast cells with a classification accuracy of 82.56% and sensitivity and specificity of 86.67% and 86.96%, respectively, when the approach was tested </plain></SENT>
+<SENT sid="5" pm="."><plain>CONCLUSION: The novelty of our approach is the identification of the centroblast cells with prior information and the introduction of the principal component analysis in the spectral domain to extract texture color features </plain></SENT>
+</text></document>

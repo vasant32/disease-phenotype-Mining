@@ -1,0 +1,4 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Two elderly patients with transfusion-dependent <z:hpo ids='HP_0005505'>refractory anemia</z:hpo> due to <z:hpo ids='HP_0002863'>myelodysplastic syndromes</z:hpo> were treated with a course of low-dose subcutaneous <z:chebi fb="1" ids="16040">cytosine</z:chebi> <z:chebi fb="0" ids="22601">arabinoside</z:chebi> in an attempt to reduce their transfusion requirements </plain></SENT>
+<SENT sid="1" pm="."><plain>Following treatment, they required no transfusions for over six months </plain></SENT>
+<SENT sid="2" pm="."><plain>The treatment was well tolerated, but was associated with initial <z:e sem="disease" ids="C0854467" disease_type="Disease or Syndrome" abbrv="">myelosuppression</z:e> </plain></SENT>
+</text></document>

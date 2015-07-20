@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND PURPOSE: Imaging of <z:hpo ids='HP_0005305'>cerebral vein thrombosis</z:hpo> is still challenging </plain></SENT>
+<SENT sid="1" pm="."><plain>Currently, diagnosis is based on CT venography and MRI including MRA and conventional digital subtraction angiography </plain></SENT>
+<SENT sid="2" pm="."><plain>However, especially in <z:hpo ids='HP_0011010'>chronic</z:hpo> cases, each method has shown its limitations </plain></SENT>
+<SENT sid="3" pm="."><plain>Newer strategies for MRI are found on molecular imaging using targeted contrast agents </plain></SENT>
+<SENT sid="4" pm="."><plain>The aim of this study was to prove the feasibility of a novel fibrin-targeted <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e> contrast agent (EP-2104R; EPIX Pharmaceuticals) for selective imaging of sinus <z:hpo ids='HP_0004936'>venous thrombosis</z:hpo> in an animal model </plain></SENT>
+<SENT sid="5" pm="."><plain>METHODS: <z:mp ids='MP_0005048'>Thrombosis</z:mp> of the superior sagittal sinus with human blood was induced in 6 pigs using a combined microsurgical and interventional approach </plain></SENT>
+<SENT sid="6" pm="."><plain>MRI was then performed before and up to 120 minutes after injection of 4 micromol/kg body weight EP-2104R </plain></SENT>
+<SENT sid="7" pm="."><plain>Molecular imaging was performed with a 3-dimensional high-resolution T1-weighted gradient echo sequence </plain></SENT>
+<SENT sid="8" pm="."><plain>Time courses of signal-to-noise ratio and contrast-to-noise ratio were analyzed </plain></SENT>
+<SENT sid="9" pm="."><plain><z:e sem="disease" ids="C0087086" disease_type="Disease or Syndrome" abbrv="">Thrombi</z:e> were then surgically removed and the <z:chebi fb="0" ids="33375">Gadolinium</z:chebi> concentration was assessed </plain></SENT>
+<SENT sid="10" pm="."><plain>RESULTS: In <z:hpo ids='HP_0000001'>all</z:hpo> cases the <z:mp ids='MP_0005048'>thrombosis</z:mp> could be successfully induced; the complete <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e> protocol could be performed in 5 animals </plain></SENT>
+<SENT sid="11" pm="."><plain>In these cases the <z:e sem="disease" ids="C0087086" disease_type="Disease or Syndrome" abbrv="">thrombi</z:e> showed selective enhancement after injection of the molecular contrast agent </plain></SENT>
+<SENT sid="12" pm="."><plain>However, a continuous contrast-to-noise ratio increase was seen up to 120 minutes after contrast administration, achieving a contrast-to-noise ratio of 14.2+/-0.7 between clot and the blood pool </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSIONS: The novel fibrin-targeted molecular <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e> contrast EP-2104R allows selective and high-contrast imaging of cerebral sinus vein <z:mp ids='MP_0005048'>thrombosis</z:mp> in an animal model </plain></SENT>
+</text></document>

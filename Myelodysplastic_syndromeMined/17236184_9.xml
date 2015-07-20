@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:e sem="disease" ids="C0268070" disease_type="Disease or Syndrome" abbrv="">Copper deficiency</z:e> is a recognized but often overlooked cause of <z:hpo ids='HP_0001903'>anemia</z:hpo> and <z:hpo ids='HP_0001875'>neutropenia</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>We began checking serum copper levels on patients referred for evaluation for unexplained <z:hpo ids='HP_0001903'>anemia</z:hpo> and <z:hpo ids='HP_0001875'>neutropenia</z:hpo> or <z:hpo ids='HP_0002863'>myelodysplasia</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>Eight patients were identified as copper deficient (serum copper less than 70 microg/dL) </plain></SENT>
+<SENT sid="3" pm="."><plain>The <z:hpo ids='HP_0001903'>anemia</z:hpo> was normochromic and normocytic in seven patients </plain></SENT>
+<SENT sid="4" pm="."><plain><z:hpo ids='HP_0001875'>Neutropenia</z:hpo> was present in seven patients </plain></SENT>
+<SENT sid="5" pm="."><plain>Seven patients had been referred for evaluation of <z:hpo ids='HP_0002863'>myelodysplasia</z:hpo> </plain></SENT>
+<SENT sid="6" pm="."><plain>Three were seen for consideration for allogenic stem cell transplant </plain></SENT>
+<SENT sid="7" pm="."><plain>Five patients had concomitant peripheral neurological symptoms </plain></SENT>
+<SENT sid="8" pm="."><plain>Seven patients were treated with oral copper <z:chebi fb="1" ids="24265">gluconate</z:chebi> </plain></SENT>
+<SENT sid="9" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> treated patients demonstrated a hematological response; seven had a complete remission </plain></SENT>
+<SENT sid="10" pm="."><plain>The improvement in <z:hpo ids='HP_0001903'>anemia</z:hpo> and <z:hpo ids='HP_0001875'>neutropenia</z:hpo> was rapid with normalization of blood counts within three to four weeks </plain></SENT>
+<SENT sid="11" pm="."><plain>In one patient, normalization of the underlying marrow <z:mpath ids='MPATH_589'>dysplasia</z:mpath> was demonstrated by bone marrow histology eight months after copper replacement </plain></SENT>
+<SENT sid="12" pm="."><plain>The cause of <z:e sem="disease" ids="C0268070" disease_type="Disease or Syndrome" abbrv="">copper deficiency</z:e> was felt to be gastrointestinal <z:hpo ids='HP_0002024'>malabsorption</z:hpo> in five of our patients </plain></SENT>
+<SENT sid="13" pm="."><plain>We conclude that <z:e sem="disease" ids="C0268070" disease_type="Disease or Syndrome" abbrv="">copper deficiency</z:e> should be considered in <z:hpo ids='HP_0000001'>all</z:hpo> patients with unexplained <z:hpo ids='HP_0001903'>anemia</z:hpo> and <z:hpo ids='HP_0001875'>neutropenia</z:hpo> or <z:hpo ids='HP_0002863'>myelodysplasia</z:hpo> </plain></SENT>
+</text></document>

@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Calsequestrin-2 (CASQ2) is a Ca(2+) buffering protein of myocardial sarcoplasmic reticulum </plain></SENT>
+<SENT sid="1" pm="."><plain>CASQ2 mutations underlie a form of catecholaminergic polymorphic <z:hpo ids='HP_0004756'>ventricular tachycardia</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CPVT</z:e>) </plain></SENT>
+<SENT sid="2" pm="."><plain>The <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CPVT</z:e> phenotype is recapitulated in Casq2 -/- mice </plain></SENT>
+<SENT sid="3" pm="."><plain>Repolarization lability (RL)-beat-to-beat variability in the T wave <z:mp ids='MP_0000002'>morphology</z:mp>-has been reported in <z:hpo ids='HP_0001657'>long-QT syndrome</z:hpo>, but has not been evaluated in <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CPVT</z:e> </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS AND RESULTS: ECG from Casq2 -/- mice was evaluated with respect to heart rate (HR) and RL changes prior to <z:hpo ids='HP_0003674'>onset</z:hpo> of <z:hpo ids='HP_0004756'>ventricular tachycardia</z:hpo> (VT) to gain insight into arrhythmogenesis in <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CPVT</z:e> </plain></SENT>
+<SENT sid="5" pm="."><plain>Telemetry from unrestrained mice (3-month-old males, 5 animals of each genotype) and ECG before and after <z:chebi fb="0" ids="6046">isoproterenol</z:chebi> administration in anesthetized mice was analyzed </plain></SENT>
+<SENT sid="6" pm="."><plain>Average HR in sinus rhythm (SR), occurrence of nonsinus rhythm and RL were quantified </plain></SENT>
+<SENT sid="7" pm="."><plain>HR was slower in Casq2 -/- animals </plain></SENT>
+<SENT sid="8" pm="."><plain>Accelerated junctional rhythm (JR) occurred more frequently in Casq2 -/- mice and often preceded VT </plain></SENT>
+<SENT sid="9" pm="."><plain>In Casq2 -/- mice, HR increased prior to VT <z:hpo ids='HP_0003674'>onset</z:hpo>, prior to <z:hpo ids='HP_0003674'>onset</z:hpo> of JR and on transition from JR to VT </plain></SENT>
+<SENT sid="10" pm="."><plain>RL increased during progression from SR to VT and after <z:chebi fb="0" ids="6046">isoproterenol</z:chebi> administration in Casq2 -/-, but not in Casq2+/+ animals </plain></SENT>
+<SENT sid="11" pm="."><plain><z:chebi fb="0" ids="6046">Isoproterenol</z:chebi> did not increase repolarization alternans in either genotype </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: Accelerated JR, likely caused by triggered activity in His/Purkinje system, occurs frequently in Casq2 -/- mice </plain></SENT>
+<SENT sid="13" pm="."><plain>The absence of CASQ2 results in increased RL </plain></SENT>
+<SENT sid="14" pm="."><plain>The increase in HR and in RL precede <z:hpo ids='HP_0003674'>onset</z:hpo> of <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> in this <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CPVT</z:e> model </plain></SENT>
+<SENT sid="15" pm="."><plain>Nonalternans RL precedes <z:hpo ids='HP_0004308'>ventricular arrhythmia</z:hpo> in wider range of conditions than previously appreciated </plain></SENT>
+</text></document>

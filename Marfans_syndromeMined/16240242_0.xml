@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>HISTORY: Pronounced <z:hpo ids='HP_0000939'>osteoporosis</z:hpo> was discovered in a 44-year-old man presenting with an herniated intervertebral disk </plain></SENT>
+<SENT sid="1" pm="."><plain>He reported <z:hpo ids='HP_0011003'>severe myopia</z:hpo>, incomplete dislocation of the lenses and <z:hpo ids='HP_0000541'>retinal detachment</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>He did not know of any thrombembolic events in the past </plain></SENT>
+<SENT sid="3" pm="."><plain>On physical examination Marfan-like appearance and a <z:hpo ids='HP_0000767'>funnel chest</z:hpo> were noted </plain></SENT>
+<SENT sid="4" pm="."><plain>Because of these findings <z:e sem="disease" ids="C0024796" disease_type="Disease or Syndrome" abbrv="MFS|MFS1">Marfan syndrome</z:e> was suspected </plain></SENT>
+<SENT sid="5" pm="."><plain>INVESTIGATIONS: Considering the findings of the x-rays, <z:hpo ids='HP_0002156'>homocystinuria</z:hpo> was suspected as a cause of <z:hpo ids='HP_0000939'>osteoporosis</z:hpo>, despite apparently <z:mpath ids='MPATH_458'>normal</z:mpath> cognitive functions </plain></SENT>
+<SENT sid="6" pm="."><plain>This diagnosis was confirmed by greatly increased values of serum <z:chebi fb="0" ids="17230">homocysteine</z:chebi> and a positive test for urinary <z:chebi fb="0" ids="17485">homocystine</z:chebi> </plain></SENT>
+<SENT sid="7" pm="."><plain>Since methionine and <z:chebi fb="0" ids="17485">homocystine</z:chebi> were both elevated, the diagnosis of cystathionin-beta-synthase deficiency was established </plain></SENT>
+<SENT sid="8" pm="."><plain>DIAGNOSIS, TREATMENT AND COURSE: After taking <z:chebi fb="3" ids="37445">folate</z:chebi> and <z:chebi fb="14" ids="27306">vitamin B6</z:chebi>, the <z:chebi fb="0" ids="17230">homocysteine</z:chebi> level decreased moderately </plain></SENT>
+<SENT sid="9" pm="."><plain>Betaine and subsequently <z:chebi fb="9" ids="17439">vitamin B12</z:chebi> were added </plain></SENT>
+<SENT sid="10" pm="."><plain><z:chebi fb="0" ids="17230">Homocysteine</z:chebi> values declined markedly on this therapeutic regimen </plain></SENT>
+<SENT sid="11" pm="."><plain>Two years later the patient was admitted again because of atypical <z:mp ids='MP_0006112'>angina</z:mp> </plain></SENT>
+<SENT sid="12" pm="."><plain><z:e sem="disease" ids="C0010068" disease_type="Disease or Syndrome" abbrv="">Coronary heart disease</z:e> could be excluded by coronary angiography </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSION: Diagnosis of premature <z:hpo ids='HP_0000939'>osteoporosis</z:hpo> should prompt consideration of <z:hpo ids='HP_0002156'>homocystinuria</z:hpo> even in adults </plain></SENT>
+<SENT sid="14" pm="."><plain><z:hpo ids='HP_0005177'>Premature arteriosclerosis</z:hpo>, thrombembolic diseases, dislocation of the lens and <z:hpo ids='HP_0000541'>retinal detachment</z:hpo> may give further clues </plain></SENT>
+</text></document>

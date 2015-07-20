@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Vascular <z:hpo ids='HP_0000726'>dementia</z:hpo> (VaD) differs from <z:e sem="disease" ids="C0002395" disease_type="Disease or Syndrome" abbrv="SDAT">Alzheimer's disease</z:e> (AD) in larger fluctuations of <z:hpo ids='HP_0100543'>cognitive impairment</z:hpo>, hypothetically because of deteriorated vigilance control </plain></SENT>
+<SENT sid="1" pm="."><plain>Vigilance levels are reflected by locations of EEG sources </plain></SENT>
+<SENT sid="2" pm="."><plain>Transition from alertness to sleep might be particularly sensitive to degradations of vigilance control </plain></SENT>
+<SENT sid="3" pm="."><plain>Twelve AD and 12 VaD patients (medication free, mean age 75.6 and 77.6 years, respectively, difference = n.s.), and 12 healthy elderly subjects (mean age 70.6 years), who served as controls, were studied (each group comprised 2 males and 10 females) </plain></SENT>
+<SENT sid="4" pm="."><plain>A twenty-one-channel EEG was recorded from full alertness to the <z:hpo ids='HP_0003674'>onset</z:hpo> of sleep stage 2 </plain></SENT>
+<SENT sid="5" pm="."><plain>Dipole source modeling, based on Fast Fourier Transform dipole approximation, yielded 3D source localizations in 7 EEG frequency bands </plain></SENT>
+<SENT sid="6" pm="."><plain>For each brain axis, means of source location differences between successive 20-second periods were calculated (fluctuation magnitude) </plain></SENT>
+<SENT sid="7" pm="."><plain>EEG band-wise MANCOVAs (3 brain axes, 3 subject groups, covariate: age) showed differences in fluctuation magnitude between groups in the 10.5- to 12-Hz alpha(2) frequency band (p=0.0066) </plain></SENT>
+<SENT sid="8" pm="."><plain>Post hoc ANCOVAs for the axes (3 subject groups, covariate: age) were significant on the superior-inferior axis: VaD patients had higher fluctuations than AD patients and controls, without significant difference between the latter two </plain></SENT>
+<SENT sid="9" pm="."><plain>Thus, larger source fluctuations in VaD might reflect the patients' decreased vigilance control, accounting for their increased fluctuations of <z:hpo ids='HP_0100543'>cognitive impairment</z:hpo> </plain></SENT>
+</text></document>

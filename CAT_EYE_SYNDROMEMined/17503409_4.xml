@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Neuronal differentiation (ND) represents a well-defined phenomenon in biological terms but proteins involved have not been studied systematically </plain></SENT>
+<SENT sid="1" pm="."><plain>We therefore aimed to study ND by <z:chebi fb="2" ids="26536">retinoic acid</z:chebi> (RA) in a widely used <z:hpo ids='HP_0003006'>neuroblastoma</z:hpo> cell line by comparative proteomics </plain></SENT>
+<SENT sid="2" pm="."><plain>The ND was induced in the N1E-115 cell line by serum deprivation and RA treatment </plain></SENT>
+<SENT sid="3" pm="."><plain>Undifferentiated cells and cells undergoing serum deprivation served as controls </plain></SENT>
+<SENT sid="4" pm="."><plain>Protein extracts were run on 2-DE followed by MALDI-TOF or MALDI-TOF-TOF analysis </plain></SENT>
+<SENT sid="5" pm="."><plain>Quantification was carried out using specific software and stringent statistical analysis was performed </plain></SENT>
+<SENT sid="6" pm="."><plain>Tubulin beta 5, <z:e sem="disease" ids="C0265493" disease_type="Disease or Syndrome" abbrv="CES">cat eye syndrome</z:e> critical region protein 5 homolog, putative <z:chebi fb="11" ids="15996">GTP</z:chebi>-binding protein PTD004 homolog, and the metabolic proteins <z:chebi fb="0" ids="17138">glyceraldehyde-3-phosphate</z:chebi> dehydrogenase and transketolase were differentially regulated </plain></SENT>
+<SENT sid="7" pm="."><plain>Differential protein levels of cytoskeleton proteins including tubulins and metabolic proteins have been reported to be regulated by ND </plain></SENT>
+<SENT sid="8" pm="."><plain>Herein, specific signaling differences as reflected by putative <z:chebi fb="11" ids="15996">GTP</z:chebi>-binding protein PTD004 changes in differentiated cells are shown and a possible role for the <z:e sem="disease" ids="C0265493" disease_type="Disease or Syndrome" abbrv="CES">Cat eye syndrome</z:e> critical region protein 5 homolog is proposed </plain></SENT>
+<SENT sid="9" pm="."><plain>The <z:chebi fb="0" ids="16249">protein disulfide</z:chebi> isomerase associated 3 protein fits the already proposed findings of chaperon regulation by ND </plain></SENT>
+<SENT sid="10" pm="."><plain>The study forms the molecular basis for further evaluation of the functional roles of the differentially expressed proteins in ND </plain></SENT>
+</text></document>

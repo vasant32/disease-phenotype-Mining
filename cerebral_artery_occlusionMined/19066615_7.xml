@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>This study examined whether neuronal <z:chebi fb="0" ids="35143">hemoglobin</z:chebi> (Hb) is present in rats </plain></SENT>
+<SENT sid="1" pm="."><plain>It then examined whether <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> or ischemic preconditioning (<z:chebi fb="76" ids="53004">IPC</z:chebi>) affects neuronal Hb levels in vivo and in vitro </plain></SENT>
+<SENT sid="2" pm="."><plain>In vivo, male Sprague-Dawley rats were subjected to either 15 mins of transient middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (MCAO) with 24 h of reperfusion, an <z:chebi fb="76" ids="53004">IPC</z:chebi> stimulus, or 24 h of permanent MCAO (pMCAO), or <z:chebi fb="76" ids="53004">IPC</z:chebi> followed 3 days later by 24 h of pMCAO </plain></SENT>
+<SENT sid="3" pm="."><plain>In vitro, primary cultured neurons were exposed to 2 h of oxygen-<z:chebi fb="105" ids="17234">glucose</z:chebi> deprivation (OGD) with 22 h of reoxygenation </plain></SENT>
+<SENT sid="4" pm="."><plain>Results showed that Hb is widely expressed in rat cerebral neurons but not astrocytes </plain></SENT>
+<SENT sid="5" pm="."><plain><z:chebi fb="0" ids="35143">Hemoglobin</z:chebi> expression was significantly upregulated in the ipsilateral caudate and the cortical core of the middle cerebral artery territory after <z:chebi fb="76" ids="53004">IPC</z:chebi> </plain></SENT>
+<SENT sid="6" pm="."><plain><z:chebi fb="0" ids="35143">Hemoglobin</z:chebi> levels also increased more in the penumbral cortex and the contralateral hemisphere 24 h after pMCAO, but expressions in the ipsilateral caudate and the cortical core area were decreased </plain></SENT>
+<SENT sid="7" pm="."><plain>Ischemic preconditioning modified pMCAO-induced brain Hb changes </plain></SENT>
+<SENT sid="8" pm="."><plain>Neuronal Hb levels in vitro were increased by 2 h of OGD and 22 h of reoxygenation </plain></SENT>
+<SENT sid="9" pm="."><plain>These results indicate that Hb is synthesized in neurons and can be upregulated by <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> </plain></SENT>
+</text></document>

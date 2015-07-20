@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> (BE) patients demonstrate a higher distal esophageal acid exposure profile than other <z:hpo ids='HP_0002020'>gastroesophageal reflux disease</z:hpo> patients </plain></SENT>
+<SENT sid="1" pm="."><plain>Cellular <z:mp ids='MP_0003674'>oxidative stress</z:mp> has been proposed to contribute to the development of BE and esophageal <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> </plain></SENT>
+<SENT sid="2" pm="."><plain>However, a relationship between low esophageal pH and <z:mp ids='MP_0003674'>oxidative stress</z:mp> has yet to be elucidated </plain></SENT>
+<SENT sid="3" pm="."><plain>The aim of this study was to determine the duration of low pH exposure in the esophagus of BE patients compared to those with erosive <z:hpo ids='HP_0100633'>esophagitis</z:hpo> (EE) and to test if brief exposure to low pH leads to the induction of reactive oxygen species (ROS) </plain></SENT>
+<SENT sid="4" pm="."><plain>Seventy-three patients with BE or EE were evaluated by 24-hour esophageal pH monitoring and the percentage of time during which there was exposure to pH &lt; or = 4 and pH &lt; or = 2 was recorded </plain></SENT>
+<SENT sid="5" pm="."><plain>In vitro, Seg-1 and Het-1A cells were evaluated after brief exposure to pH4 or pH2 by flow cytometry and fluorescent microscopy for the production of ROS </plain></SENT>
+<SENT sid="6" pm="."><plain>BE patients demonstrated a significantly higher exposure to low pH values (pH &lt; or = 2) than EE patients </plain></SENT>
+<SENT sid="7" pm="."><plain>The mean percent total time, duration and mean number of reflux episodes at pH &lt; or = 2 were 2.8 +/- 0.53%, 28.8 +/- 3.6 seconds and 79 +/- 11.4 episodes in BE patients, whereas in EE patients they were significantly less, 1.16 +/- 0.3%, 15.6 +/- 1.2 seconds and 48.3 +/- 8.8 episodes, respectively (P &lt; 0.05) </plain></SENT>
+<SENT sid="8" pm="."><plain>In vitro experiments indicate that esophageal cells, when exposed to pH 2, produce ROS </plain></SENT>
+<SENT sid="9" pm="."><plain>In vitro studies using brief pH 2 exposure are biologically relevant to the clinical situation </plain></SENT>
+<SENT sid="10" pm="."><plain>Our studies indicate that such exposure induces <z:mp ids='MP_0003674'>oxidative stress</z:mp> </plain></SENT>
+<SENT sid="11" pm="."><plain>This stress may cause DNA damage, mutations and progression to <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> </plain></SENT>
+</text></document>

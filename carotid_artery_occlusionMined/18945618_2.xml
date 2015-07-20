@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Posterior communicating artery (PCoA) <z:mpath ids='MPATH_133'>hypoplasia</z:mpath> is a fetal variant of the Circle of Willis </plain></SENT>
+<SENT sid="1" pm="."><plain>According to angiograms and autopsy reports, this congenital variation is found in 6-21% of the general population </plain></SENT>
+<SENT sid="2" pm="."><plain>PCoA <z:mpath ids='MPATH_133'>hypoplasia</z:mpath> only becomes a risk factor for <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> in the presence of ipsilateral internal carotid artery (ICA) occlusion </plain></SENT>
+<SENT sid="3" pm="."><plain>The aim of our study was to determine the role of PCoA <z:mpath ids='MPATH_133'>hypoplasia</z:mpath> in <z:hpo ids='HP_0011009'>acute</z:hpo> <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> in the absence of ICA occlusion </plain></SENT>
+<SENT sid="4" pm="."><plain>We examined 310 <z:hpo ids='HP_0011009'>acute</z:hpo> <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> patients (mean age+/-standard deviation; 68.9+/-15.6 years) </plain></SENT>
+<SENT sid="5" pm="."><plain>Cerebral magnetic resonance angiography was performed within 72 hours of <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> <z:hpo ids='HP_0003674'>onset</z:hpo> </plain></SENT>
+<SENT sid="6" pm="."><plain>For comparison, a risk factor-matched control group was recruited </plain></SENT>
+<SENT sid="7" pm="."><plain>Conditional logistic regression was used to calculate odds ratios (OR) and 95% confidence intervals (CI) to estimate the independent effect of potential risk factors </plain></SENT>
+<SENT sid="8" pm="."><plain>The overall incidence of PCoA <z:mpath ids='MPATH_133'>hypoplasia</z:mpath> in our experimental group was 19.35% (n=60), which was significantly higher than in the control group (8.20%, n=22, p=0.036, OR, 3.21; 95% CI, 1.43-9.62) </plain></SENT>
+<SENT sid="9" pm="."><plain>The most common ischemic event was ipsilateral thalamic <z:e sem="disease" ids="C0333559" disease_type="Disease or Syndrome" abbrv="">lacunar infarctions</z:e> with or without occipital lobe involvement </plain></SENT>
+<SENT sid="10" pm="."><plain>Based on our results, PCoA <z:mpath ids='MPATH_133'>hypoplasia</z:mpath> appears to be a contributor to the risk of <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo>, even in the absence of ICA occlusion </plain></SENT>
+<SENT sid="11" pm="."><plain>This risk is especially pronounced for <z:hpo ids='HP_0001297'>strokes</z:hpo> involving arteries that penetrate the thalamus </plain></SENT>
+</text></document>

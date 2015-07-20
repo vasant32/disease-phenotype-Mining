@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Inflammatory damage plays a pivotal role in <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> and may represent a target for treatment </plain></SENT>
+<SENT sid="1" pm="."><plain>Pigment epithelium-derived factor (PEDF) is proven to possess neuroprotective property </plain></SENT>
+<SENT sid="2" pm="."><plain>But there is little known about the intrinsic PEDF after <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>This study evaluated the time course expression of the intrinsic PEDF and its underlying regulation mechanisms after <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> </plain></SENT>
+<SENT sid="4" pm="."><plain>Male Sprague-Dawley rats were subjected to permanent middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> </plain></SENT>
+<SENT sid="5" pm="."><plain><z:chebi fb="0" ids="9434">Telmisartan</z:chebi> (PPARγ <z:chebi fb="4" ids="48705">agonist</z:chebi>) and GW9662 (PPARγ <z:chebi fb="68" ids="48706">antagonist</z:chebi>) were systemically administered to explore the effect on PPARγ, PEDF, NF-κB and MMP-9 expression at 24 h after <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> by western blot and qRT-PCR </plain></SENT>
+<SENT sid="6" pm="."><plain>The neurological deficits, brain water content and <z:mpath ids='MPATH_124'>infarct</z:mpath> volume were measured </plain></SENT>
+<SENT sid="7" pm="."><plain>Compared with <z:mpath ids='MPATH_458'>normal</z:mpath> group, the expressions of PEDF and PPARγ decreased, and the expression of NF-κB and MMP-9 increased at early stage after <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> (P &lt; 0.05) </plain></SENT>
+<SENT sid="8" pm="."><plain>Compared with the vehicle group, the decrease of PEDF and PPARγ was significantly up-regulated and the increase of NF-κB and MMP-9 was down-regulated by <z:chebi fb="0" ids="9434">telmisartan</z:chebi> at 24 h (P &lt; 0.05) </plain></SENT>
+<SENT sid="9" pm="."><plain>The neurological deficits, brain water content and <z:mpath ids='MPATH_124'>infarct</z:mpath> volume were dramatically alleviated by <z:chebi fb="0" ids="9434">telmisartan</z:chebi> (P &lt; 0.05) </plain></SENT>
+<SENT sid="10" pm="."><plain><z:chebi fb="0" ids="9434">Telmisartan</z:chebi>'s effects were reversed by GW9662 co-administration (P &lt; 0.05) </plain></SENT>
+<SENT sid="11" pm="."><plain>The expression of intrinsic PEDF was down-regulated at the early stage of <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> </plain></SENT>
+<SENT sid="12" pm="."><plain>The protective effects of intrinsic PEDF by activating PPARγ pathway may be one of the strategic targets for cerebral ischemic therapies </plain></SENT>
+</text></document>

@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Herbal preparations can affect the expression of many genes involved in the ischemic process </plain></SENT>
+<SENT sid="1" pm="."><plain>These genes have been providing insights into the molecular basis of brain plasticity in <z:hpo ids='HP_0001297'>stroke</z:hpo> rehabilitation </plain></SENT>
+<SENT sid="2" pm="."><plain>However, the extent of plasticity has not been investigated using a chemogenomic approach </plain></SENT>
+<SENT sid="3" pm="."><plain>A herbal preparation (270 mg/kg) used to treat ischemic mice for 45 days after global <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> resulted in a significant decrease in <z:mpath ids='MPATH_124'>infarct</z:mpath> volume and neurological score compared with that of vehicle </plain></SENT>
+<SENT sid="4" pm="."><plain>This effect was characterized by investigating chemical genomic profiles of the mouse hippocampus with a cDNA microarray containing 1176 known genes </plain></SENT>
+<SENT sid="5" pm="."><plain>Treatment with the herbal preparation reversed the expression of 46 genes out of 100 genes altered in untreated ischemic mouse hippocampus </plain></SENT>
+<SENT sid="6" pm="."><plain>These data indicated that more genes were upregulated (60.78%) than downregulated (30.61%), and only 46 genes (46%) appear to be prime targets for therapeutic intervention in <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> </plain></SENT>
+<SENT sid="7" pm="."><plain>The altered genes can be classified into seven groups, including signal transduction (12 genes, 27%), oncogene (8 genes, 17%), and transcriptional regulation (7 genes, 15%) </plain></SENT>
+<SENT sid="8" pm="."><plain>Such multiple plasticity of expression could be considered as the beneficial role of this herbal preparation in <z:hpo ids='HP_0001297'>stroke</z:hpo> rehabilitation </plain></SENT>
+<SENT sid="9" pm="."><plain>Changes in gene expression of nuclear factor of activated T cells, 14-3-3 eta, and beta-arrestin suggest a potential role for the immune system in this plasticity </plain></SENT>
+<SENT sid="10" pm="."><plain>Brain plasticity originates from a balance of up and downregulated genes (Yin and Yang), and reversal of gene expression in multiple pathways indicates that a complex signaling network may be constructed and investigated further </plain></SENT>
+</text></document>

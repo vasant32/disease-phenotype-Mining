@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:mpath ids='MPATH_3'>Apoptosis</z:mpath> is instrumental in the processes generating the diversity of the B-cell repertoire </plain></SENT>
+<SENT sid="1" pm="."><plain>Autoreactive B-cells are eliminated by anti-IgM crosslinking after encountering self-antigens, but precise mechanisms leading to B-cell <z:mpath ids='MPATH_3'>apoptosis</z:mpath> are still not well understood </plain></SENT>
+<SENT sid="2" pm="."><plain>We report here the cleavage of the transcription factor SP1 in the human Burkitt <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cell line BL60 during anti-IgM-induced <z:mpath ids='MPATH_3'>apoptosis</z:mpath> </plain></SENT>
+<SENT sid="3" pm="."><plain>Western blot analysis revealed two cleavage products of approximately 68 kDa and 45 kDa after induction of <z:mpath ids='MPATH_3'>apoptosis</z:mpath> </plain></SENT>
+<SENT sid="4" pm="."><plain>Cleavage could be completely inhibited by zDEVD-fmk, an inhibitor specific for caspase 3-like proteases </plain></SENT>
+<SENT sid="5" pm="."><plain>In-vitro cleavage of recombinant SP1 by recombinant caspase 3 (CPP32) or caspase 7 (Mch 3) results in similar cleavage products as those observed in vivo </plain></SENT>
+<SENT sid="6" pm="."><plain>Recombinant caspase 6 (Mch 2) primarily generates a 68-kDa cleavage product, as observed after <z:chebi fb="0" ids="22986">calcium ionophore</z:chebi> (CaI) induced B-cell <z:mpath ids='MPATH_3'>apoptosis</z:mpath> </plain></SENT>
+<SENT sid="7" pm="."><plain>In contrast, caspase 1 (ICE) did not cleave SP1 in vitro </plain></SENT>
+<SENT sid="8" pm="."><plain>The time course of SP1 cleavage during anti-IgM-induced <z:mpath ids='MPATH_3'>apoptosis</z:mpath> is paralleled by an increase of caspase activity measured by DEVD-p-nitroanilide (DEVD-pNA) cleavage </plain></SENT>
+<SENT sid="9" pm="."><plain>DNA band-shift assays revealed a decrease in the intensity of the full length SP1/DNA complex and an increase in the intensity of a smaller complex due to the binding of one SP1 cleavage product </plain></SENT>
+<SENT sid="10" pm="."><plain>By Edman sequencing we could identify a caspase 3 cleavage site after Asp584 (D584AQPQAGR), generating a 22-kDa C-terminal SP1 protein fragment which still contains the DNA binding site </plain></SENT>
+<SENT sid="11" pm="."><plain>Our results show the cleavage of the human transcription factor SP1 in vivo and in vitro, underlining the central role of caspase 3-like proteases during the process of anti-IgM-induced <z:mpath ids='MPATH_3'>apoptosis</z:mpath> </plain></SENT>
+</text></document>

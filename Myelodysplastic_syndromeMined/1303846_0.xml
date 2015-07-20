@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>According to the FAB classification, a patient (case 1) could not be diagnosed as <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e>-RA, although she had clinical features of <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e>, as compared with another patient (case 2) who was diagnosed as <z:mp ids='MP_0011356'>RAS</z:mp> and had abnormal karyotype (20q- and 5q-) of bone marrow (BM) cells </plain></SENT>
+<SENT sid="1" pm="."><plain>BM cells of the two patients were SCD (sister chromatid differentiation) negative </plain></SENT>
+<SENT sid="2" pm="."><plain>Rearrangement of c-erbB and c-erbA was found in the genome of the BM cells in both patients, when southern blot hybridization was performed with probe v-erbB+A </plain></SENT>
+<SENT sid="3" pm="."><plain>Therefore, case 1 could be diagnosed as <z:e sem="disease" ids="C0026986,C0033027" disease_type="Neoplastic Process" abbrv="">preleukemia</z:e> </plain></SENT>
+<SENT sid="4" pm="."><plain>During a period about 3 years of treatment with the drug stanozolol in case 1 there was good effect and successful reversion was obtained </plain></SENT>
+<SENT sid="5" pm="."><plain>She had then <z:mpath ids='MPATH_458'>normal</z:mpath> hematologic and cytogenetic patterns of BM and PB and the rearrangement of c-erbB of BM cells also disappeared </plain></SENT>
+<SENT sid="6" pm="."><plain>She has worked for two years since then </plain></SENT>
+<SENT sid="7" pm="."><plain>The mechanism of effective treatment and successful reversion was discussed briefly </plain></SENT>
+<SENT sid="8" pm="."><plain>Probe v-erbB was shown to be useful in investigation of gene diagnosis of <z:e sem="disease" ids="C0026986,C0033027" disease_type="Neoplastic Process" abbrv="">preleukemia</z:e> or <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> (shown elsewhere) </plain></SENT>
+</text></document>

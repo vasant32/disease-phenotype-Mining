@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>QT prolongation is associated with increased risk of <z:hpo ids='HP_0011675'>cardiac arrhythmias</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Identifying the genetic variants that mediate antipsychotic-induced prolongation may help to minimize this risk, which might prevent the removal of efficacious drugs from the market </plain></SENT>
+<SENT sid="2" pm="."><plain>We performed candidate gene analysis and five drug-specific genome-wide association studies (GWASs) with 492K single-nucleotide polymorphisms to search for genetic variation mediating antipsychotic-induced QT prolongation in 738 <z:hpo ids='HP_0100753'>schizophrenia</z:hpo> patients from the Clinical Antipsychotic Trial of Intervention Effectiveness study </plain></SENT>
+<SENT sid="3" pm="."><plain>Our candidate gene study suggests the involvement of NOS1AP and NUBPL (P-values=1.45 × 10(-05) and 2.66 × 10(-13), respectively) </plain></SENT>
+<SENT sid="4" pm="."><plain>Furthermore, our top GWAS hit achieving genome-wide significance, defined as a Q-value &lt;0.10 (P-value=1.54 × 10(-7), Q-value=0.07), located in SLC22A23, mediated the effects of <z:chebi fb="0" ids="8707">quetiapine</z:chebi> on prolongation </plain></SENT>
+<SENT sid="5" pm="."><plain>SLC22A23 belongs to a family of <z:chebi fb="0" ids="25699">organic ion</z:chebi> transporters that shuttle a variety of compounds, including drugs, environmental toxins and endogenous metabolites, across the cell membrane </plain></SENT>
+<SENT sid="6" pm="."><plain>This gene is expressed in the heart and is integral in mouse heart development </plain></SENT>
+<SENT sid="7" pm="."><plain>The genes mediating antipsychotic-induced QT prolongation partially overlap with the genes affecting <z:mpath ids='MPATH_458'>normal</z:mpath> QT interval variation </plain></SENT>
+<SENT sid="8" pm="."><plain>However, some genes may also be unique for drug-induced prolongation </plain></SENT>
+<SENT sid="9" pm="."><plain>This study demonstrates the potential of GWAS to discover genes and pathways that mediate antipsychotic-induced QT prolongation </plain></SENT>
+</text></document>

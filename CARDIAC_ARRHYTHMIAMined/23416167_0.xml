@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The TRPM4 calcium-activated non-selective <z:chebi fb="0" ids="25414">monovalent cation</z:chebi> channel has been reported in mammalian atrial cardiomyocytes, but its implication in this tissue remains unknown </plain></SENT>
+<SENT sid="1" pm="."><plain>We used a combination of pharmacological tools and disruption of the Trpm4 gene in mice to investigate the channel implication in atrial action potential (AP) </plain></SENT>
+<SENT sid="2" pm="."><plain>To search for TRPM4 activity, single channel currents were recorded on freshly isolated atrial cardiomyocytes using the patch-clamp technique </plain></SENT>
+<SENT sid="3" pm="."><plain>To investigate TRPM4 implication in AP, the transmembrane potential was recorded on the multicellular preparation using intracellular microelectrodes after isolating the mouse atrium, under electrical stimulation (rate=5Hz) </plain></SENT>
+<SENT sid="4" pm="."><plain>Isolated atrial cardiomyocytes from the Trpm4(+/+) mouse expressed a typical TRPM4 current while cardiomyocytes from Trpm4(-/-) mouse did not </plain></SENT>
+<SENT sid="5" pm="."><plain>The Trpm4(+/+) mouse atrium exhibited AP durations at 50, 70 and 90% repolarization of 8.9±0.5ms, 16.0±1.0ms, and 30.2±1.6ms, respectively </plain></SENT>
+<SENT sid="6" pm="."><plain>The non-selective <z:chebi fb="36" ids="36916">cation</z:chebi> channel inhibitor <z:chebi fb="0" ids="42638">flufenamic acid</z:chebi> (10(-6) and 10(-5)mol·L(-1)) produced a concentration-dependent decrease in AP duration </plain></SENT>
+<SENT sid="7" pm="."><plain>Similarly, the TRPM4-inhibitor <z:chebi fb="0" ids="28820">9-phenanthrol</z:chebi> reversibly reduced the duration of AP with an EC50 at 21×10(-6)mol·L(-1), which is similar to that reported for TRPM4 current inhibition in HEK-293 cells </plain></SENT>
+<SENT sid="8" pm="."><plain><z:chebi fb="0" ids="28820">9-Phenanthrol</z:chebi> had no effect on other AP parameters </plain></SENT>
+<SENT sid="9" pm="."><plain>The effect of <z:chebi fb="0" ids="28820">9-phenanthrol</z:chebi> is markedly reduced in the mouse ventricle, which displays only weak expression of the channel </plain></SENT>
+<SENT sid="10" pm="."><plain>Moreover, atria from Trpm4(-/-) mice exhibited an AP that was 20% shorter than that of atria from littermate control mice, and the effect of <z:chebi fb="0" ids="28820">9-phenanthrol</z:chebi> on AP was abolished in the Trpm4(-/-) mice </plain></SENT>
+<SENT sid="11" pm="."><plain>Our results showed that TRPM4 is implicated in the waveform of the atrial action potential </plain></SENT>
+<SENT sid="12" pm="."><plain>It is thus a potential target for pharmacological approaches against atrial <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> </plain></SENT>
+</text></document>

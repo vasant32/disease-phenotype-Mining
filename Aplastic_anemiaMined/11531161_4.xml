@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>160 Kunming mice were divided at random into 3 groups </plain></SENT>
+<SENT sid="1" pm="."><plain>Group 1: <z:mpath ids='MPATH_458'>normal</z:mpath> control (40 mice) </plain></SENT>
+<SENT sid="2" pm="."><plain>Group 2: <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> (AA) control (60 mice); <z:chebi fb="56" ids="16716">benzene</z:chebi> inhalation was carried out for 2.5 months and sterilized <z:mpath ids='MPATH_458'>normal</z:mpath> saline was injected i.p. for another 6 weeks </plain></SENT>
+<SENT sid="3" pm="."><plain>Group 3: treated AA (60 mice); <z:chebi fb="56" ids="16716">benzene</z:chebi> was administered by inhalation in a similar manner, Sheng-Mai Injection (SMI) was administered i.p. for 6 weeks after the AA models were established </plain></SENT>
+<SENT sid="4" pm="."><plain>SMI is a famous Chinese traditional prescription of Panax ginseng C.A </plain></SENT>
+<SENT sid="5" pm="."><plain>Meyer (0.1 g/ml), Ophiopogon japonicus (Thunb.) Ker-Gawl (0.312 g/ml) and Fructus Schisandrae (0.158 g/ml) </plain></SENT>
+<SENT sid="6" pm="."><plain>Activities of <z:chebi fb="0" ids="17111">phosphoribosylpyrophosphate</z:chebi> (PRPP) synthetase in BFU-Es and CFU-Es were estimated by ion pair reversed phase HPLC (IPrHPLC) </plain></SENT>
+<SENT sid="7" pm="."><plain>Accompanying the sharp drop in counts of erythroid progenitor cells, the PRPP synthetase activity in CFU-Es of AA mice was reduced significantly (P&lt;0.01), whereas there were no remarkable changes of this enzyme activity in their BFU-Es compared with the control group </plain></SENT>
+<SENT sid="8" pm="."><plain>Both the counts of erythroid progenitor cells and PRPP synthetase activity in CFU-Es returned nearly to <z:mpath ids='MPATH_458'>normal</z:mpath> levels following treatment with SMI of mice in Group 3 (P&lt;0.01) </plain></SENT>
+<SENT sid="9" pm="."><plain>Our results suggest that the attenuation of PRPP synthetase activity in peripheral erythrocytes of AA patients may originate from the weakening of activity of this enzyme in CFU-Es from their bone marrow </plain></SENT>
+<SENT sid="10" pm="."><plain>The impairment of PRPP formation would explain ATP <z:mpath ids='MPATH_63'>depletion</z:mpath> and disorders of energy metabolism in AA erythrocytes </plain></SENT>
+<SENT sid="11" pm="."><plain>SMI can distinctly increase the reduced quantity of erythroid progenitor cells and promote rapid restoration of PRPP synthetase activity in CFU-Es of AA mice </plain></SENT>
+</text></document>

@@ -1,0 +1,19 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Background </plain></SENT>
+<SENT sid="1" pm="."><plain>The Recommendations of the European LeukemiaNet (ELN) have become an essential tool in the management and prognosis of patients with <z:hpo ids='HP_0011010'>chronic</z:hpo> myeloid <z:hpo ids='HP_0001909'>leukemia</z:hpo> (<z:mp ids='MP_0005481'>CML</z:mp>) treated with <z:chebi fb="0" ids="38637">tyrosine kinase inhibitors</z:chebi> (TKIs) </plain></SENT>
+<SENT sid="2" pm="."><plain>However, the definition of suboptimal response remains under discussion </plain></SENT>
+<SENT sid="3" pm="."><plain>Methods </plain></SENT>
+<SENT sid="4" pm="."><plain>We used conventional cytogenetics for the detection of clonal changes in Ph-positive and negative clones </plain></SENT>
+<SENT sid="5" pm="."><plain>RT-PCR and sequencing were carried out on peripheral blood leukocytes to detect the type of BCR-ABL1 transcript </plain></SENT>
+<SENT sid="6" pm="."><plain>The BCR-ABL1 mutational status was assessed using sequencing of RT-PCR products </plain></SENT>
+<SENT sid="7" pm="."><plain>High performance capillary electrophoresis for determination of <z:chebi fb="0" ids="45783">imatinib</z:chebi> (IMA) plasma concentration was used </plain></SENT>
+<SENT sid="8" pm="."><plain>Results </plain></SENT>
+<SENT sid="9" pm="."><plain>A retrospective study of 110 patients diagnosed with <z:hpo ids='HP_0011010'>chronic</z:hpo>-phase (CP) <z:mp ids='MP_0005481'>CML</z:mp> treated with IMA or 2(nd) generation TKIs in the years 2000-2009 focused on analysis of patients with suboptimal response according to ELN criteria </plain></SENT>
+<SENT sid="10" pm="."><plain>40 patients were administered IMA as first-line therapy and 70 had been pretreated with interferon-alpha (IFN-α) with or without Ara-C and/or <z:chebi fb="0" ids="44423">hydroxyurea</z:chebi> (HU) for a median 12 months (range, 1-92 months) </plain></SENT>
+<SENT sid="11" pm="."><plain>After adjusting for the ELN criteria, major molecular response (MMR) was achieved after median 34 and 39 months in 66.7% and 41.7% of patients after the first and second-line IMA therapy with suboptimal response defined as lack of achievement of MMR at the 18(th) month of treatment, respectively </plain></SENT>
+<SENT sid="12" pm="."><plain>In comparison to patients with optimal response, patients with suboptimal response did not show significant differences in overall survival (OS) or progression-free survival (PFS) </plain></SENT>
+<SENT sid="13" pm="."><plain>Cytogenetic assays demonstrated additional chromosome abnormalities (ACAs): chromosome 8 <z:mp ids='MP_0004027'>trisomy</z:mp> in a Ph-negative clone during the IMA treatment (in 1 case) and der(9q) in Ph-positive clone (in 2 cases); in patients receiving first-line IMA only chromosome 8 <z:mp ids='MP_0004027'>trisomy</z:mp> was observed which was associated with <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo> - this was the only case where hematopoietic stem cell transplantation (HSCT) was performed </plain></SENT>
+<SENT sid="14" pm="."><plain>During the treatment with IMA in both subgroups no regulatory mutations in the ABL kinase domain were confirmed </plain></SENT>
+<SENT sid="15" pm="."><plain>Conclusion </plain></SENT>
+<SENT sid="16" pm="."><plain>We believe that the category of suboptimal response should be redefined or withdrawn from the ELN 2009 recommendations for management of <z:mp ids='MP_0005481'>CML</z:mp> patients treated with TKIs </plain></SENT>
+<SENT sid="17" pm="."><plain>Patients with suboptimal response who have no additional risks (additional cytogenetic abnormalities or BCR-ABL1 regulatory mutations) may remain on IMA treatment while patients with these risks should be switched to the 2(nd) generation TKIs </plain></SENT>
+</text></document>

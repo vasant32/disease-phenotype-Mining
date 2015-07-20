@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: To characterize the expression of Toll-like receptor 4 (TLR4) in monocytes of diabetic <z:hpo ids='HP_0000112'>nephropathy</z:hpo> (DN) patients and the response of TLR4 to <z:chebi fb="0" ids="16412">lipopolysaccharide</z:chebi> (LPS), and, further, to explore the potential effects of inflammatory immune response in DN </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: Thirty DN patients with <z:mp ids='MP_0009644'>uremia</z:mp>, ten early-type 2 DN patients, and twenty healthy volunteers were enrolled for the determination of TLR4 expression in monocytes by using peripheral blood flow cytometry </plain></SENT>
+<SENT sid="2" pm="."><plain>Peripheral blood mononuclear cells (PBMCs) were isolated and subjected to 1 μg/mL LPS for 24 h </plain></SENT>
+<SENT sid="3" pm="."><plain>Monocytes were collected to assay NF-κB p65 and Notch1 expression by Western blot, with immuneofluorescence detection </plain></SENT>
+<SENT sid="4" pm="."><plain>Serum and supernatants were sampled for the determination of interleukin-6 (IL-6) concentration by using ELISA </plain></SENT>
+<SENT sid="5" pm="."><plain>Serum C-reactive protein (CRP) level was determined by using the immunoturbidimetry </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: Compared with the <z:mpath ids='MPATH_458'>normal</z:mpath> control, type 2 DN uremic patients had a significantly higher TLR4 fluorescence-blot intensities (FI), and serum CRP and IL-6 levels [TLR4 FI: DN <z:mp ids='MP_0009644'>uremia</z:mp> patients 2.8±0.9; early type 2 DN patients 3.4 ±0.7; healthy subjects 1.6±0.7 </plain></SENT>
+<SENT sid="7" pm="."><plain>IL-6 concentration: DN <z:mp ids='MP_0009644'>uremia</z:mp> patients (84.8±20.7) pg/mL; early type 2 DN patients (63.20±14.4) pg/mL; healthy subjects (11.0±2.0) pg/mL </plain></SENT>
+<SENT sid="8" pm="."><plain>CRP concentraton: DN <z:mp ids='MP_0009644'>uremia</z:mp> patients (5.4��2.8) mg/L; early type 2 DN patients (3.7±1.7) mg/L; healthy subjects (1.7±0.7) mg/L </plain></SENT>
+<SENT sid="9" pm="."><plain>P&lt;0.01 for any DN-group vs control] </plain></SENT>
+<SENT sid="10" pm="."><plain>In early type 2 DN patients, following exposure to LPS, PBMCs showed a significant upregulation in TLR4 and NF-κB p65 expression and a remarked increase in serum IL-6 level (<z:hpo ids='HP_0000001'>all</z:hpo> P&lt;0.05), and NF-κB p65 transfer to the nucleus is enhanced </plain></SENT>
+<SENT sid="11" pm="."><plain>Notch1 protein expression was not significantly altered in any group </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSION: A disturbance in proinflammatory CD14(+)CD16(+) monocytes occurs in type 2 DN patients </plain></SENT>
+<SENT sid="13" pm="."><plain>Such immunological dysfunction may be related to activation in NF-κB/TLR4 signaling pathways, and have nothing to do with the Notch1 signaling pathway </plain></SENT>
+</text></document>

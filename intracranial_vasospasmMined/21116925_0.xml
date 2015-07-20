@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: The vasoconstrictor endothelin-1(1-21) (ET-1) seems to induce <z:e sem="disease" ids="C0265110" disease_type="Disease or Syndrome" abbrv="">cerebral vasospasm</z:e> after aneurismal <z:hpo ids='HP_0002138'>subarachnoid hemorrhage</z:hpo> (aSAH) </plain></SENT>
+<SENT sid="1" pm="."><plain>Moreover, ET-1 causes spreading depolarization (SD) via vasoconstriction/<z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> </plain></SENT>
+<SENT sid="2" pm="."><plain>ET-1(1-31) is an alternate metabolic intermediate in the generation of ET-1 </plain></SENT>
+<SENT sid="3" pm="."><plain>Our aim was to investigate whether endothelin-1(1-31) causes SD in a similar fashion to ET-1 </plain></SENT>
+<SENT sid="4" pm="."><plain>METHOD: Increasing concentrations of either ET-1, ET-1(1-31) or vehicle were brain topically applied in 29 rats </plain></SENT>
+<SENT sid="5" pm="."><plain>Each concentration was superfused for one hour while regional cerebral blood flow (rCBF) and direct current electrocorticogram (DC-ECoG) were recorded </plain></SENT>
+<SENT sid="6" pm="."><plain>FINDINGS: In response to the highest concentration of 10(-6) M, <z:hpo ids='HP_0000001'>all</z:hpo> animals of both ET groups developed typical SD </plain></SENT>
+<SENT sid="7" pm="."><plain>At concentrations below 10(-6) M only ET-1 induced SD (n=14 of 19 rats) </plain></SENT>
+<SENT sid="8" pm="."><plain>Thus, the efficacy of ET-1(1-31) to induce SD was significantly lower (P&lt;0.001, two-tailed Fisher's Exact Test) </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSIONS: Our findings suggest that ET-1(1-31) less potently induces SD compared to ET-1 which implicates that it is a less potent vasoconstrictor </plain></SENT>
+<SENT sid="10" pm="."><plain>Speculatively, it could be interesting to shift the metabolic pathway towards the alternate intermediate ET-1(1-31) after aSAH as an alternative strategy to <z:chebi fb="209" ids="16000,53460">ETA</z:chebi> receptor inhibition </plain></SENT>
+<SENT sid="11" pm="."><plain>This could decrease ET-induced vasoconstriction and SD generation while a potentially beneficial basal <z:chebi fb="209" ids="16000,53460">ETA</z:chebi> receptor activation is maintained </plain></SENT>
+</text></document>

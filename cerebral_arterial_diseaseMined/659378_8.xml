@@ -1,0 +1,4 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A <z:e sem="disease" ids="C0013146" disease_type="Mental or Behavioral Dysfunction" abbrv="">drug abuse</z:e> patient with <z:hpo ids='HP_0011009'>acute</z:hpo> <z:hpo ids='HP_0001342'>intracerebral hemorrhage</z:hpo> is presented </plain></SENT>
+<SENT sid="1" pm="."><plain>Brain tissue obtained at surgery corroborated angiographic evidence of <z:hpo ids='HP_0005318'>cerebral vasculitis</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>The possible relationship between <z:e sem="disease" ids="C0242510" disease_type="Mental or Behavioral Dysfunction" abbrv="">drug usage</z:e> and the occurrence of <z:mp ids='MP_0001916'>intracerebral bleeding</z:mp> and/or <z:hpo ids='HP_0005318'>cerebral vasculitis</z:hpo> in such patients is discussed </plain></SENT>
+</text></document>

@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PURPOSE: Radiofrequency ablation (RF) of atrioventricular reentrant <z:hpo ids='HP_0001649'>tachycardia</z:hpo> (AVNRT) is an effective method for treating this <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>However, inadverted <z:mp ids='MP_0010519'>AV block</z:mp> requiring implantation of permanent pacemaker is a worrisome side effect </plain></SENT>
+<SENT sid="2" pm="."><plain>Although permanent <z:mp ids='MP_0010519'>AV block</z:mp> seems to be rare nowadays, patients are by no means spared from this severe complication </plain></SENT>
+<SENT sid="3" pm="."><plain>Catheter cryoablation is emerging as an alternative technology with an excellent safety profile, but limited data exist regarding its efficacy </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS: We conducted a randomized study among patients with AVNRT remitted to our center for EP study and ablation between January 2008 and June 2010 </plain></SENT>
+<SENT sid="5" pm="."><plain>After giving a written consent, patients were randomized to conventional RF or cryoablation, unless specific preference of patient was stated </plain></SENT>
+<SENT sid="6" pm="."><plain>Primary outcomes were <z:hpo ids='HP_0011009'>acute</z:hpo> success, <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">SVT</z:e> recurrence, and complications, including <z:mp ids='MP_0010519'>AV block</z:mp> </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: One hundred nineteen patients were included (60 cryoablation and 59 conventional RF) </plain></SENT>
+<SENT sid="8" pm="."><plain>There were no differences in demographic and clinical baseline data between groups </plain></SENT>
+<SENT sid="9" pm="."><plain><z:hpo ids='HP_0011009'>Acute</z:hpo> procedural success was achieved in 59 patients (98 %) in cryoablation group and 59 (100 %) in RF </plain></SENT>
+<SENT sid="10" pm="."><plain>One patient in RF group underwent complete <z:mp ids='MP_0010519'>AV block</z:mp> and pacemaker implantation </plain></SENT>
+<SENT sid="11" pm="."><plain>Over a mean follow-up period of 256.6 days, there was a significant difference in AVNRT recurrence between cryoablation and RF patients (15 versus 3.4 %, p = 0.03) </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSION: Catheter cryoablation of AVNRT is a clinically effective alternative to RF ablation, with excellent <z:hpo ids='HP_0011009'>acute</z:hpo> success rate </plain></SENT>
+<SENT sid="13" pm="."><plain>Despite a slightly higher rate of recurrence during long-term follow-up, these results suggest that cryoablation may be considered as first-line approach, especially in younger people, where the risk of permanent pacing because of inadvertent <z:mp ids='MP_0010519'>AV block</z:mp> may be relevant </plain></SENT>
+</text></document>

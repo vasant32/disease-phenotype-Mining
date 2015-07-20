@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0011874'>Heparin-induced thrombocytopenia</z:hpo> (HIT) is a well described side effect of <z:chebi fb="5" ids="28304">heparin</z:chebi> therapy </plain></SENT>
+<SENT sid="1" pm="."><plain>A 12-year-old boy developed <z:hpo ids='HP_0002625'>deep-vein thrombosis</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>Risk factors for initial <z:mp ids='MP_0005048'>thrombosis</z:mp> are <z:e sem="disease" ids="C0085278" disease_type="Disease or Syndrome" abbrv="">antiphospholipid syndrome</z:e> and heterozygous mutation for prothrombin G20210A </plain></SENT>
+<SENT sid="3" pm="."><plain><z:chebi fb="3" ids="50249">Anticoagulant</z:chebi> therapy with <z:chebi fb="8" ids="10033">warfarin</z:chebi> for 12 months was effective, but discontinuation of <z:chebi fb="8" ids="10033">warfarin</z:chebi> after 12 months resulted in recurrence of <z:mp ids='MP_0005048'>thrombosis</z:mp> </plain></SENT>
+<SENT sid="4" pm="."><plain>Unfractionated <z:chebi fb="5" ids="28304">heparin</z:chebi> (UFH) was initiated during the <z:hpo ids='HP_0011009'>acute</z:hpo> period, but <z:hpo ids='HP_0011874'>heparin-induced thrombocytopenia</z:hpo> developed </plain></SENT>
+<SENT sid="5" pm="."><plain>Transition from UFH to fondaparinux resulted in successful anticoagulation for a period of platelet recovery </plain></SENT>
+<SENT sid="6" pm="."><plain>We report a case of HIT developing with a background of prothrombotic genetic risk factors and <z:e sem="disease" ids="C0085278" disease_type="Disease or Syndrome" abbrv="">antiphospholipid syndrome</z:e> </plain></SENT>
+<SENT sid="7" pm="."><plain>This case study highlights several difficulties in pediatric HIT cases </plain></SENT>
+</text></document>

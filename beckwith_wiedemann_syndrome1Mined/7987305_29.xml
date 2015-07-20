@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:e sem="disease" ids="C0004903" disease_type="Disease or Syndrome;Congenital Abnormality" abbrv="">Beckwith-Wiedemann syndrome</z:e> (BWS) is a congenital <z:hpo ids='HP_0001548'>overgrowth</z:hpo> syndrome with associated <z:e sem="disease" ids="C0027654" disease_type="Neoplastic Process" abbrv="">embryonal tumours</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>Most BWS cases are <z:hpo ids='HP_0003745'>sporadic</z:hpo> but familial cases occur in 15% of patients and in these there is linkage to chromosome 11p15 </plain></SENT>
+<SENT sid="2" pm="."><plain>In addition, a small number of patients have cytogenetic abnormalities involving chromosome 11p15 </plain></SENT>
+<SENT sid="3" pm="."><plain>Approximately 20% of <z:hpo ids='HP_0003745'>sporadic</z:hpo> BWS patients have uniparental paternal disomy (UPD) of chromosome 11p15 </plain></SENT>
+<SENT sid="4" pm="."><plain>This finding together with the observation that penetrance in familial cases depends on parental transmission, suggests that the gene(s) for BWS are imprinted </plain></SENT>
+<SENT sid="5" pm="."><plain>The recent demonstration of biallelic expression of the otherwise maternally imprinted IGF2 gene in some BWS patients implicates excess IGF2 expression in the disease </plain></SENT>
+<SENT sid="6" pm="."><plain>Here we have analysed the allele-specific methylation patterns in the IGF2 gene and in the neighbouring and reciprocally imprinted H19 gene in a group of 42 BWS patients, 10 of which were mosaic UPD cases </plain></SENT>
+<SENT sid="7" pm="."><plain>We found that allelic methylation of both genes was <z:mpath ids='MPATH_458'>normal</z:mpath> in <z:hpo ids='HP_0000001'>all</z:hpo> non-UPD cases, with the paternal allele being methylated, and was increased in UPD cases in proportion with the disomic lineage </plain></SENT>
+<SENT sid="8" pm="."><plain>These findings suggest that <z:hpo ids='HP_0003745'>sporadic</z:hpo> BWS is not associated with a general alteration of methylation imprinting of the IGF2 and H19 genes </plain></SENT>
+<SENT sid="9" pm="."><plain>The methylation assay used in this study thus also offers a simple and reliable diagnostic test of UPD for 11p15.5 </plain></SENT>
+<SENT sid="10" pm="."><plain>An unexpected finding was a distortion of the frequency of AvaII alleles at the IGF2 locus exclusively in UPD BWS cases (P &lt; 0.001) </plain></SENT>
+<SENT sid="11" pm="."><plain>This further implicates the IGF2 gene in aspects of the BWS phenotype </plain></SENT>
+</text></document>

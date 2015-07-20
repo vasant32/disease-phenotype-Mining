@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: <z:hpo ids='HP_0002863'>Myelodysplastic syndrome</z:hpo> with isolated chromosome 5q deletion (<z:e sem="disease" ids="C0740302" disease_type="Disease or Syndrome" abbrv="">5q- syndrome</z:e>) is a clonal stem cell disorder characterized by ineffective hematopoiesis </plain></SENT>
+<SENT sid="1" pm="."><plain>MicroRNAs (miRNAs) are important regulators of hematopoiesis and their aberrant expression was detected in some clonal hematopoietic disorders </plain></SENT>
+<SENT sid="2" pm="."><plain>We thus analyzed miRNA expressions in bone marrow CD34+ cells of <z:e sem="disease" ids="C0740302" disease_type="Disease or Syndrome" abbrv="">5q- syndrome</z:e> patients </plain></SENT>
+<SENT sid="3" pm="."><plain>Further, we studied gene expressions of miR-143, miR-145, miR-378 and miR-146a mapped within the 5q deletion </plain></SENT>
+<SENT sid="4" pm="."><plain>RESULTS: Using microarrays we identified 21 differently expressed miRNAs in 5q- patients compared to controls </plain></SENT>
+<SENT sid="5" pm="."><plain>Especially, miR-34a was markedly overexpressed in 5q- patients, suggesting its role in an <z:mp ids='MP_0006042'>increased apoptosis</z:mp> of bone marrow progenitors </plain></SENT>
+<SENT sid="6" pm="."><plain>Out of four miRNAs at del(5q), only miR-378 and miR-146a showed reduced gene expression in the patients </plain></SENT>
+<SENT sid="7" pm="."><plain>An integrative analysis of <z:chebi fb="2" ids="33699">mRNA</z:chebi> profiles and predicted putative targets defined potential downstream targets of the deregulated miRNAs </plain></SENT>
+<SENT sid="8" pm="."><plain>The list of targets included several genes that play an important role in the regulation of hematopoiesis (e.g. KLF4, LEF1, SPI1) </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSIONS: The study demonstrates global overexpression of miRNAs is associated with 5q- phenotype </plain></SENT>
+<SENT sid="10" pm="."><plain>Identification of hematopoiesis-relevant target genes indicates that the deregulated miRNAs may be involved in the pathogenesis of <z:e sem="disease" ids="C0740302" disease_type="Disease or Syndrome" abbrv="">5q- syndrome</z:e> by a modulation of these targets </plain></SENT>
+<SENT sid="11" pm="."><plain>The expression data on miRNAs at del(5q) suggest the presence of mechanisms for compensation of a gene dosage </plain></SENT>
+</text></document>

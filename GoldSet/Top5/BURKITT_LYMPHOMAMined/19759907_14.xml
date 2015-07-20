@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Additional chromosomal abnormalities are currently detected in Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>They play major roles in the progression of <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">BL</z:e> and in prognosis </plain></SENT>
+<SENT sid="2" pm="."><plain>The genes involved remain elusive </plain></SENT>
+<SENT sid="3" pm="."><plain>A whole-genome oligonucleotide array CGH analysis correlated with karyotype and FISH was performed in a set of 27 Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo>-derived cell lines and <z:e sem="disease" ids="C0677930" disease_type="Neoplastic Process" abbrv="">primary tumors</z:e> </plain></SENT>
+<SENT sid="4" pm="."><plain>More than half of the 145 CNAs&lt;2 Mb were mapped to Mendelian CNVs, including GSTT1, <z:chebi fb="0" ids="16856">glutathione</z:chebi> s-transferase and BIRC6, an anti-apoptotic protein, possibly predisposing to some <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancers</z:e> </plain></SENT>
+<SENT sid="5" pm="."><plain>Somatic cell line-specific CNVs localized to the IG locus were consistently observed with the 244 K aCGH platform </plain></SENT>
+<SENT sid="6" pm="."><plain>Among 136 CNAs &gt;2 Mb, gains were found in 1q (12/27), 13q (7/27), 7q (6/27), 8q(4/27), 2p (3/27), 11q (2/27) and 15q (2/27) </plain></SENT>
+<SENT sid="7" pm="."><plain>Losses were found in 3p (5/27), 4p (4/27), 4q (4/27), 9p (4/27), 13q (4/27), 6p (3/27), 17p (3/27), 6q (2/27),11pterp13 (2/27) and 14q12q21.3 (2/27) </plain></SENT>
+<SENT sid="8" pm="."><plain>Twenty one minimal critical regions (MCR), (range 0.04-71.36 Mb), were delineated in <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumors</z:e> and cell lines </plain></SENT>
+<SENT sid="9" pm="."><plain>Three MCRs were localized to 1q </plain></SENT>
+<SENT sid="10" pm="."><plain>The proximal one was mapped to 1q21.1q25.2 with a 6.3 Mb amplicon (1q21.1q21.3) harboring BCA2 and PIAS3 </plain></SENT>
+<SENT sid="11" pm="."><plain>In the other 2 MCRs, 1q32.1 and 1q44, MDM4 and AKT3 appeared as possible drivers of these gains respectively </plain></SENT>
+<SENT sid="12" pm="."><plain>The 13q31.3q32.1 &lt;89.58-96.81&gt; MCR contained an amplicon and ABCC4 might be the driver of this amplicon </plain></SENT>
+<SENT sid="13" pm="."><plain>The 40 Kb 2p16.1 &lt;60.96-61&gt; MCR was the smallest gained MCR and specifically encompassed the REL oncogene which is already implicated in B cell <z:hpo ids='HP_0002665'>lymphomas</z:hpo> </plain></SENT>
+<SENT sid="14" pm="."><plain>The most frequently deleted MCR was 3p14.1 &lt;60.43-60.53&gt; that removed the fifth exon of FHIT </plain></SENT>
+<SENT sid="15" pm="."><plain>Further investigations which combined gene expression and functional studies are essential to understand the <z:e sem="disease" ids="C0598766" disease_type="Neoplastic Process" abbrv="">lymphomagenesis</z:e> mechanism and for the development of more effective, targeted therapeutic strategies </plain></SENT>
+</text></document>

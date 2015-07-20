@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Expression of the human TcR beta gene is controlled by an enhancer located 6kb 3' to the C beta 2 gene segment </plain></SENT>
+<SENT sid="1" pm="."><plain>The activity of this enhancer has been shown to be inducible with <z:chebi fb="0" ids="37532">phorbol esters</z:chebi> </plain></SENT>
+<SENT sid="2" pm="."><plain>Within the enhancer the beta E2 element is responsible for the major part of the inducibility, multimerised beta E2 alone is also highly <z:chebi fb="0" ids="37532">phorbol ester</z:chebi> inducible </plain></SENT>
+<SENT sid="3" pm="."><plain>The beta E2 element contains a consensus ets-binding site as well as a core motif, and we have shown that the beta E2 ets site binds both Ets-1 and Ets-2 in vitro and that purified core binding factor (CBF) can bind the core site present in beta E2 </plain></SENT>
+<SENT sid="4" pm="."><plain>Mutations which specifically disrupt Ets-1 and Ets-2 binding abolish inducibility as well as reducing activity, whereas mutants which cannot bind CBF have only reduced basal activity </plain></SENT>
+<SENT sid="5" pm="."><plain>In Jurkat, which has a high level of endogenous Ets-1, multimerized beta E2 was inactive unless treated with <z:chebi fb="1" ids="53780">PMA</z:chebi> </plain></SENT>
+<SENT sid="6" pm="."><plain>However when transfected into cells with no detectable Ets-1 the beta E2 multimer was highly active in the absence of <z:chebi fb="1" ids="53780">PMA</z:chebi> </plain></SENT>
+<SENT sid="7" pm="."><plain>Co-transfection of an Ets-1 expression construct with the full enhancer into Jurkat cells led to a repression of enhancer activity, suggesting a repressive role for Ets-1 </plain></SENT>
+<SENT sid="8" pm="."><plain>Co-transfection of Ets-1 was also able to repress strongly the activity of the beta E2 multimer </plain></SENT>
+<SENT sid="9" pm="."><plain>Repression of activity from both the full enhancer construct and the beta E2 multimer was most dramatic in the presence of <z:chebi fb="1" ids="53780">PMA</z:chebi>, suggesting that Ets-1 could block TcR beta activation </plain></SENT>
+<SENT sid="10" pm="."><plain>The Ets-1 expression construct used transactivated the HTLV-1 LTR which has also been shown to bind Ets-1 </plain></SENT>
+<SENT sid="11" pm="."><plain>The repression of beta E2 activity by Ets-1 appears therefore to be specific </plain></SENT>
+<SENT sid="12" pm="."><plain>In conclusion, the combination of ets and core sites in beta E2 constitutes a novel inducible element, which is specifically transrepressed by Ets-1 </plain></SENT>
+</text></document>

@@ -1,0 +1,7 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>An endothelial cell inhibitor was purified from supernatant of an Epstein-Barr virus-immortalized cell line and identified as fragments of calreticulin </plain></SENT>
+<SENT sid="1" pm="."><plain>The purified recombinant <z:chebi fb="0" ids="29318,29339">NH2</z:chebi>-terminal domain of calreticulin (amino acids 1-180) inhibited the proliferation of endothelial cells, but not cells of other lineages, and suppressed <z:mpath ids='MPATH_177'>angiogenesis</z:mpath> in vivo </plain></SENT>
+<SENT sid="2" pm="."><plain>We have named this <z:chebi fb="0" ids="29318,29339">NH2</z:chebi>-terminal domain of calreticulin vasostatin </plain></SENT>
+<SENT sid="3" pm="."><plain>When inoculated into athymic mice, vasostatin significantly reduced growth of human Burkitt <z:hpo ids='HP_0002665'>lymphoma</z:hpo> and human colon <z:mp ids='MP_0002038'>carcinoma</z:mp> </plain></SENT>
+<SENT sid="4" pm="."><plain>Compared with other inhibitors of <z:mpath ids='MPATH_177'>angiogenesis</z:mpath>, vasostatin is a small, soluble, and stable molecule that is easy to produce and deliver </plain></SENT>
+<SENT sid="5" pm="."><plain>As an <z:mpath ids='MPATH_177'>angiogenesis</z:mpath> inhibitor that specifically targets proliferating endothelial cells, vasostatin has a unique potential for <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> treatment </plain></SENT>
+</text></document>

@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0000739'>Anxiety</z:hpo> following <z:hpo ids='HP_0001635'>heart failure</z:hpo> (HF) and/or <z:hpo ids='HP_0001658'>myocardial infarction</z:hpo> (MI) can impede recovery and constitute a major risk factor for further cardiac events </plain></SENT>
+<SENT sid="1" pm="."><plain>The present study was aimed to evaluate <z:hpo ids='HP_0000739'>anxiety</z:hpo> following <z:chebi fb="0" ids="28748">doxorubicin</z:chebi> (DOX)-induced <z:hpo ids='HP_0001638'>cardiomyopathy</z:hpo>, a <z:e sem="disease" ids="C1519106" disease_type="Experimental Model of Disease" abbrv="">rodent model</z:e> for HF, in mice </plain></SENT>
+<SENT sid="2" pm="."><plain>Furthermore, the study investigated the effect of <z:chebi fb="0" ids="2611">alprazolam</z:chebi> on <z:hpo ids='HP_0000739'>anxiety</z:hpo> and <z:hpo ids='HP_0001638'>cardiomyopathy</z:hpo> in this model </plain></SENT>
+<SENT sid="3" pm="."><plain>The study was carried out in Swiss <z:mp ids='MP_0001189'>albino</z:mp> mice </plain></SENT>
+<SENT sid="4" pm="."><plain>DOX was used at a dose of 10 mg/kg i.v </plain></SENT>
+<SENT sid="5" pm="."><plain><z:chebi fb="0" ids="2611">Alprazolam</z:chebi> was administered at doses of 0.5, 1 and 2 mg/kg po for 7 days' pre- and 7 days' post-DOX </plain></SENT>
+<SENT sid="6" pm="."><plain><z:hpo ids='HP_0000739'>Anxiety</z:hpo> was measured on day 8 and on day 14 using elevated plus maze and Vogel's conflict test </plain></SENT>
+<SENT sid="7" pm="."><plain>On 14th day, serum <z:chebi fb="4" ids="24996">lactate</z:chebi> dehydrogenase (LDH) was estimated </plain></SENT>
+<SENT sid="8" pm="."><plain>The mice were then killed and hearts were dissected out for estimation of <z:chebi fb="0" ids="33202">thiobarbituric acid</z:chebi> reactive substance and Transmission Electron Microscopy (TEM) studies </plain></SENT>
+<SENT sid="9" pm="."><plain>Our results showed that DOX administration induced <z:hpo ids='HP_0001638'>cardiomyopathy</z:hpo> in mice </plain></SENT>
+<SENT sid="10" pm="."><plain>This was evidenced by an increased serum LDH and tissue malondialdehyde (<z:chebi fb="14" ids="32506">MDA</z:chebi>) and was confirmed by TEM studies </plain></SENT>
+<SENT sid="11" pm="."><plain><z:chebi fb="0" ids="2611">Alprazolam</z:chebi> treatment for 14 days dose dependently reversed DOX-induced increase in LDH and <z:chebi fb="14" ids="32506">MDA</z:chebi> as well as the morphological alterations induced by DOX in TEM studies </plain></SENT>
+<SENT sid="12" pm="."><plain>Furthermore, <z:chebi fb="0" ids="2611">alprazolam</z:chebi> also reversed the <z:hpo ids='HP_0000739'>anxiety</z:hpo>-like effects induced by DOX in both the tests for <z:hpo ids='HP_0000739'>anxiety</z:hpo> </plain></SENT>
+<SENT sid="13" pm="."><plain>Thus, <z:chebi fb="0" ids="2611">alprazolam</z:chebi> appears to be a good candidate for alleviating <z:hpo ids='HP_0000739'>anxiety</z:hpo> in patients following MI or HF </plain></SENT>
+</text></document>

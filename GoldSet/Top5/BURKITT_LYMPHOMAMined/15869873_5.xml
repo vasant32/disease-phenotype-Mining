@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>At relapse, T-cell <z:hpo ids='HP_0011009'>acute</z:hpo> lymphoblastic <z:mpath ids='MPATH_336'>leukaemia</z:mpath> (ALL) has a worse patient outcome than B-cell precursor (BCP-) ALL </plain></SENT>
+<SENT sid="1" pm="."><plain>To investigate this further, we compared in vitro cellular drug resistance profiles of T-cell and BCP-ALL samples obtained at relapse </plain></SENT>
+<SENT sid="2" pm="."><plain>We investigated 237 paediatric relapsed ALL cases, including 151 samples taken at first relapse, of which 30 were T-cell ALL </plain></SENT>
+<SENT sid="3" pm="."><plain>In vitro drug resistance was measured using the 4-day <z:chebi fb="36" ids="29309">methyl</z:chebi>-thiazol-tetrazolium (<z:chebi fb="0" ids="53233">MTT</z:chebi>) assay and cellular immunophenotype was determined at central reference laboratories </plain></SENT>
+<SENT sid="4" pm="."><plain>Similar results were found for first relapsed ALL samples and for the total group: T-cell ALL samples were more resistant to 4-<z:chebi fb="7" ids="29192">HOO</z:chebi>-ifosfamide (1.4-fold, P = 0.019) and <z:chebi fb="2" ids="27899">cisplatin</z:chebi> (3.7-fold, P = 0.005) </plain></SENT>
+<SENT sid="5" pm="."><plain>The samples were more sensitive to <z:chebi fb="0" ids="35666">thiopurines</z:chebi> such as <z:chebi fb="0" ids="50667">mercaptopurine</z:chebi> (2.1-fold, P = 0.007) and thioguanine (1.7-fold, P = 0.003) </plain></SENT>
+<SENT sid="6" pm="."><plain>Resistance/sensitivity to 16 other drugs did not differ significantly </plain></SENT>
+<SENT sid="7" pm="."><plain>These results do not explain the relatively poor prognosis of T-cell ALL at relapse, but do suggest that the more intensive use of <z:chebi fb="0" ids="35666">thiopurines</z:chebi> in relapsed T-cell ALL may be beneficial </plain></SENT>
+</text></document>

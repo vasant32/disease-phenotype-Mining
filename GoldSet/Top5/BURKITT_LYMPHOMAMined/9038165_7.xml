@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The cellular receptors for poliovirus (PVR) are <z:chebi fb="0" ids="17089">glycoproteins</z:chebi> belonging to the immunoglobulin superfamily </plain></SENT>
+<SENT sid="1" pm="."><plain>Functional receptors for poliovirus are only expressed by primates; known rodent homologues lack the ability to bind virus due to amino acid differences </plain></SENT>
+<SENT sid="2" pm="."><plain>Human poliovirus <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infections</z:e> are targeted to the gastrointestinal tract and, rarely, to motor neurons in the central <z:mp ids='MP_0008912'>nervous</z:mp> system </plain></SENT>
+<SENT sid="3" pm="."><plain>Available evidence suggests that poliovirus uses only one cellular receptor, implying that the tissue tropism of poliovirus is likely to be related to the expression of the human PVR (hPVR) </plain></SENT>
+<SENT sid="4" pm="."><plain>However, low levels of expression of hPVR-specific <z:chebi fb="2" ids="33699">mRNAs</z:chebi> can be detected in many human tissues other than the apparent target cells </plain></SENT>
+<SENT sid="5" pm="."><plain>The nonpathogenic function of hPVR is unknown </plain></SENT>
+<SENT sid="6" pm="."><plain>For a study of the transcriptional control of hPVR expression, we have isolated and characterized the promoter of the hPVR gene </plain></SENT>
+<SENT sid="7" pm="."><plain>Deletion analysis defined an approximately 280 base pair minimal promoter fragment that: 1) lacks TATA- and CAAT-like elements, 2) is distinguished by a high GC content, and 3) promotes transcription at multiple start sites </plain></SENT>
+<SENT sid="8" pm="."><plain>The pattern of activity caused by transfection of serial 5'- and 3'-promoter deletions is almost identical in HEp2, HeLa, COS-1, and mouse L929 cells, indicating a similar transcriptional regulation of the hPVR promoter in these cell lines </plain></SENT>
+<SENT sid="9" pm="."><plain>However, on transfection of Raji cells, a Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cell line harboring a transcriptionally inactive hPVR gene, <z:hpo ids='HP_0000001'>all</z:hpo> promoter reporter constructs tested exerted only residual activity </plain></SENT>
+<SENT sid="10" pm="."><plain>These results suggest that the cis-element(s) governing cell type-specific hPVR expression resides in the minimal promoter region </plain></SENT>
+<SENT sid="11" pm="."><plain>We also report the sequences of the promoters of two monkey homologues to hPVR (AGMalpha1 and AGMalpha2) </plain></SENT>
+<SENT sid="12" pm="."><plain>Transcripts encoding the monkey poliovirus receptors originate from a region analogous to that identified for hPVR transcripts </plain></SENT>
+</text></document>

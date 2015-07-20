@@ -1,0 +1,18 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> (BE) is an <z:mpath ids='MPATH_167'>intestinal metaplasia</z:mpath> that occurs in the setting of <z:hpo ids='HP_0011010'>chronic</z:hpo> acid and <z:e sem="disease" ids="C0005403" disease_type="Disease or Syndrome" abbrv="">bile reflux</z:e> and is associated with a risk for <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> </plain></SENT>
+<SENT sid="1" pm="."><plain>Expression of intestine-specific transcription factors in the esophagus likely contributes to <z:mpath ids='MPATH_160'>metaplasia</z:mpath> development </plain></SENT>
+<SENT sid="2" pm="."><plain>Our objective was to explore the effects of an intestine-specific transcription factor when expressed in the mouse esophageal epithelium </plain></SENT>
+<SENT sid="3" pm="."><plain>Transgenic mice were derived in which the transcription factor Cdx2 is expressed in squamous epithelium using the murine Keratin-14 gene promoter </plain></SENT>
+<SENT sid="4" pm="."><plain>Effects of the transgene upon cell proliferation and differentiation, gene expression, and barrier integrity were explored </plain></SENT>
+<SENT sid="5" pm="."><plain>K14-Cdx2 mice express the Cdx2 transgene in esophageal squamous tissues </plain></SENT>
+<SENT sid="6" pm="."><plain>Cdx2 expression was associated with reduced basal epithelial cell proliferation and altered cell <z:mp ids='MP_0000002'>morphology</z:mp> </plain></SENT>
+<SENT sid="7" pm="."><plain>Ultrastructurally two changes were noted </plain></SENT>
+<SENT sid="8" pm="."><plain>Cdx2 expression was associated with dilated space between the basal cells and diminished cell-cell <z:e sem="disease" ids="C0001511" disease_type="Disease or Syndrome;Acquired Abnormality" abbrv="">adhesion</z:e> caused by reduced Desmocollin-3 mRNA and protein expression </plain></SENT>
+<SENT sid="9" pm="."><plain>This compromised epithelial barrier function, as the measured trans-epithelial electrical resistance (TEER) of the K14-Cdx2 epithelium was significantly reduced compared to controls (1189 Ohm*cm(2) ±343.5 to 508 Ohm*cm(2)±92.48, p = 0.0532) </plain></SENT>
+<SENT sid="10" pm="."><plain>Secondly, basal cells with features of a transitional cell type, intermediate between keratinocytes and columnar Barrett's epithelial cells, were observed </plain></SENT>
+<SENT sid="11" pm="."><plain>These cells had reduced keratin bundles and increased endoplasmic reticulum levels, suggesting the adoption of secretory-cell features </plain></SENT>
+<SENT sid="12" pm="."><plain>Moreover, at the ultrastructural level they resembled "Distinctive" cells associated with multilayered epithelium </plain></SENT>
+<SENT sid="13" pm="."><plain>Treatment of the K14-Cdx2 mice with 5'-Azacytidine elicited expression of BE-associated genes including Cdx1, Krt18, and Slc26a3/Dra, suggesting the phenotype could be advanced under certain conditions </plain></SENT>
+<SENT sid="14" pm="."><plain>We conclude that ectopic Cdx2 expression in keratinocytes alters cell proliferation, barrier function, and differentiation </plain></SENT>
+<SENT sid="15" pm="."><plain>These altered cells represent a transitional cell type between <z:mpath ids='MPATH_458'>normal</z:mpath> squamous and columnar BE cells </plain></SENT>
+<SENT sid="16" pm="."><plain>The K14-Cdx2 mice represent a useful model to study progression from squamous epithelium to BE </plain></SENT>
+</text></document>

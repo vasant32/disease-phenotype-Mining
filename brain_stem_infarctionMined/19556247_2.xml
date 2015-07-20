@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AGGF1 is an angiogenic factor, and its deregulation is associated with a vascular malformation consistent with <z:e sem="disease" ids="C0022739" disease_type="Disease or Syndrome" abbrv="KTS">Klippel-Trenaunay syndrome (KTS)</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>This study defines the molecular mechanism for transcriptional regulation of AGGF1 expression </plain></SENT>
+<SENT sid="2" pm="."><plain>Transcription of AGGF1 starts at two nearby sites, -367 and -364 bp upstream of the translation start site </plain></SENT>
+<SENT sid="3" pm="."><plain>Analyses of 5'- and 3'-serial promoter deletions defined the core promoter/regulatory elements, including two repressor sites (from -1971 to -3990 and from -7521 to -8391, respectively) and two activator sites (a GATA1 consensus binding site from -295 to -300 and a second activator site from -129 to -159) </plain></SENT>
+<SENT sid="4" pm="."><plain>Both the GATA1 site and the second activator site are essential for AGGF1 expression </plain></SENT>
+<SENT sid="5" pm="."><plain>A similar expression profile was found for GATA1 and AGGF1 in cells (including various endothelial cells) and tissues </plain></SENT>
+<SENT sid="6" pm="."><plain>Electrophoretic mobility shift assay and chromatin immunoprecipitation assays demonstrated that GATA1 was able to bind to the AGGF1 DNA in vitro and in vivo </plain></SENT>
+<SENT sid="7" pm="."><plain>Overexpression of GATA1 increased expression of AGGF1 </plain></SENT>
+<SENT sid="8" pm="."><plain>We identified one rare polymorphism -294C&gt;T in a <z:hpo ids='HP_0003745'>sporadic</z:hpo> <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">KTS</z:e> patient, which is located in the GATA1 site, disrupts binding of GATA1 to DNA, and abolishes the GATA1 stimulatory effect on transcription of AGGF1 </plain></SENT>
+<SENT sid="9" pm="."><plain>Knockdown of GATA1 expression by siRNA reduced expression of AGGF1, and resulted in endothelial cell <z:mpath ids='MPATH_3'>apoptosis</z:mpath> and inhibition of endothelial capillary vessel formation and cell migration, which was rescued by purified recombinant human AGGF1 protein </plain></SENT>
+<SENT sid="10" pm="."><plain>These results demonstrate that GATA1 regulates expression of AGGF1 and reveal a novel role for GATA1 in endothelial cell biology and <z:mpath ids='MPATH_177'>angiogenesis</z:mpath> </plain></SENT>
+</text></document>

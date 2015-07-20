@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The leaves of the Cashew plant (Anacardium occidentale L.) are used by the folk medicine in South America and West Africa </plain></SENT>
+<SENT sid="1" pm="."><plain>This plant is rich in <z:chebi fb="5" ids="47916">flavonoids</z:chebi>, which are polyphenolic compounds widespread in plants, and that have diverse physiological effects </plain></SENT>
+<SENT sid="2" pm="."><plain>In a sub-<z:hpo ids='HP_0011009'>acute</z:hpo> toxicity assay it was found that an ethanolic extract of Cashew leaves elicited <z:hpo ids='HP_0001888'>lymphopenia</z:hpo> in rats </plain></SENT>
+<SENT sid="3" pm="."><plain>The extract was also found to be cytotoxic and to induce <z:mpath ids='MPATH_3'>apoptosis</z:mpath> in Jurkat (<z:hpo ids='HP_0006721'>acute lymphoblastic leukemia</z:hpo>) cells </plain></SENT>
+<SENT sid="4" pm="."><plain>The crude ethanolic extract was fractionated and resolved by HPLC </plain></SENT>
+<SENT sid="5" pm="."><plain>One of the four fractions obtained led to the isolation of the biflavonoid agasthisflavone </plain></SENT>
+<SENT sid="6" pm="."><plain>[(3)H]-<z:chebi fb="0" ids="17748">thymidine</z:chebi> incorporation assays and flow cytometry analysis showed that the isolated compound displayed a high anti-proliferative effect in Jurkat cells with an IC(50) of 2.4 μg/ml (4.45 μM) </plain></SENT>
+<SENT sid="7" pm="."><plain>The effect of <z:chebi fb="0" ids="2512">agathisflavone</z:chebi> on the <z:hpo ids='HP_0004836'>acute promyelocytic leukemia</z:hpo> cell line HL60, Burkitt <z:hpo ids='HP_0002665'>lymphoma</z:hpo> Raji cells and Hep-2 <z:hpo ids='HP_0012118'>laryngeal carcinoma</z:hpo> cells was also tested </plain></SENT>
+<SENT sid="8" pm="."><plain>The two latter ones were only mildly affected by <z:chebi fb="0" ids="2512">agathisflavone</z:chebi> </plain></SENT>
+<SENT sid="9" pm="."><plain>It is also shown that <z:chebi fb="0" ids="2512">agathisflavone</z:chebi> induces <z:mpath ids='MPATH_3'>apoptosis</z:mpath> in Jurkat cells and it this proposed that this is the likely mechanism of <z:chebi fb="0" ids="2512">agathisflavone</z:chebi> specific cytotoxicity </plain></SENT>
+</text></document>

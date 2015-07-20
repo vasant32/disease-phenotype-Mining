@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A rare case of a brainstem variant of reversible <z:hpo ids='HP_0006859'>posterior leukoencephalopathy</z:hpo> syndrome (RPLS) is reported </plain></SENT>
+<SENT sid="1" pm="."><plain>A 34-year-old man with a past history of untreated <z:hpo ids='HP_0003774'>chronic renal failure</z:hpo> and <z:hpo ids='HP_0000822'>hypertension</z:hpo> was admitted to our hospital complaining of severe nuchal <z:hpo ids='HP_0002315'>headache</z:hpo> lasting for about four days </plain></SENT>
+<SENT sid="2" pm="."><plain>His neurological examination was <z:mpath ids='MPATH_458'>normal</z:mpath>, however physical examination revealed his blood pressure was 216/120 mmHg </plain></SENT>
+<SENT sid="3" pm="."><plain>Computed tomography imaging (CT) showed his brain stem with a low attenuation </plain></SENT>
+<SENT sid="4" pm="."><plain>Magnetic resonance imaging (MRI) revealed extensive hyperintensity and enlargement of the midbrain and pons on T2 weighted and fluid attenuated inversion-recovery (FLAIR) image </plain></SENT>
+<SENT sid="5" pm="."><plain>However, there was no abnormal lesion seen in either bilateral occipital lobe </plain></SENT>
+<SENT sid="6" pm="."><plain>Diffusion-weighted image (DWI) was <z:mpath ids='MPATH_458'>normal</z:mpath> at the brainstem, but apparent diffusion coefficient (<z:chebi fb="49" ids="35181">ADC</z:chebi>) values were slightly elevated at the left midbrain </plain></SENT>
+<SENT sid="7" pm="."><plain>There was no contrast enhancement </plain></SENT>
+<SENT sid="8" pm="."><plain>His symptom and radiological finding improved soon after his blood pressure was controlled </plain></SENT>
+<SENT sid="9" pm="."><plain>A repeated MRI taken two weeks later showed complete resolution of the lesion </plain></SENT>
+<SENT sid="10" pm="."><plain>RPLS associated with predominant involvement of the brainstem and sparing of the supratentorial region is rare, but it should be differentiated from <z:e sem="disease" ids="C0521542" disease_type="Disease or Syndrome" abbrv="">brain stem infarction</z:e>, pontine <z:hpo ids='HP_0009733'>glioma</z:hpo>, <z:e sem="disease" ids="C0206083" disease_type="Disease or Syndrome" abbrv="">central pontine myelinolysis</z:e> and infective <z:hpo ids='HP_0002383'>encephalitis</z:hpo>, since the neulological consequences are potentially fully reversible after adequate and prompt treatment </plain></SENT>
+</text></document>

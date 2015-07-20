@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The <z:chebi fb="2" ids="39026">low-density lipoprotein</z:chebi> receptor-related protein (LRP) is a member of the <z:chebi fb="15" ids="39026">LDL</z:chebi> receptor gene family that binds several ligands, including tissue-type plasminogen activator (tPA) </plain></SENT>
+<SENT sid="1" pm="."><plain>tPA is found in blood, where its primary function is as a thrombolytic enzyme, and in the central <z:mp ids='MP_0008912'>nervous</z:mp> system where it mediates events associated with cell <z:hpo ids='HP_0011420'>death</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain><z:hpo ids='HP_0002637'>Cerebral ischemia</z:hpo> induces changes in the neurovascular unit (NVU) that result in <z:hpo ids='HP_0002181'>brain edema</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>We investigated whether the interaction between tPA and LRP plays a role in the regulation of the permeability of the NVU during <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> </plain></SENT>
+<SENT sid="4" pm="."><plain>We found that the ischemic insult induces shedding of LRP's ectodomain from perivascular astrocytes into the basement membrane </plain></SENT>
+<SENT sid="5" pm="."><plain>This event associates with the detachment of astrocytic end-feet processes and the formation of areas of perivascular <z:hpo ids='HP_0000969'>edema</z:hpo> </plain></SENT>
+<SENT sid="6" pm="."><plain>The shedding of LRP's ectodomain is significantly decreased in tPA deficient (tPA(-/-)) mice, is increased by incubation with tPA, and is inhibited by the receptor-associated protein (RAP) </plain></SENT>
+<SENT sid="7" pm="."><plain>Furthermore, treatment with either RAP or anti-LRP IgG results in a faster recovery of motor activity and protection of the integrity of the NVU following middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (MCAO) </plain></SENT>
+<SENT sid="8" pm="."><plain>Together, these results implicate tPA/LRP interactions as key regulators of the integrity of the NVU </plain></SENT>
+</text></document>

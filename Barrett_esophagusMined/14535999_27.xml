@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND OBJECTIVES: Helicobacter pylori shows a characteristic tropism for the mucus-producing gastric epithelium </plain></SENT>
+<SENT sid="1" pm="."><plain>In infected patients, H. pylori colocalizes in situ with the gastric secretory mucin MUC5AC </plain></SENT>
+<SENT sid="2" pm="."><plain>The carbohydrate blood-group antigen Lewis B (LeB) was deemed responsible for the adherence of H. pylori to the gastric surface epithelium </plain></SENT>
+<SENT sid="3" pm="."><plain>We sought to determine if MUC5AC is the carrier of LeB, and thus if MUC5AC is the underlying gene product functioning as the main receptor for H. pylori in the stomach </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS: We studied three types of human tissue producing MUC5AC: <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> (BE), <z:mpath ids='MPATH_458'>normal</z:mpath> gastric tissue, and <z:mp ids='MP_0005213'>gastric metaplasia</z:mp> of the duodenum (GMD) </plain></SENT>
+<SENT sid="5" pm="."><plain>Tissue sections were immuno-fluorescently stained for MUC5AC or LeB, and subsequently incubated with one of three strains of <z:chebi fb="0" ids="51247">Texas red</z:chebi>-labeled H. pylori, one of which was unable to bind to LeB </plain></SENT>
+<SENT sid="6" pm="."><plain>We determined the colocalization of MUC5AC or LeB with adherent H. pylori </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: The binding patterns for the two LeB-binding strains to <z:hpo ids='HP_0000001'>all</z:hpo> tissues were similar, whereas the strain unable to bind to LeB did not bind to any of the tissues </plain></SENT>
+<SENT sid="8" pm="."><plain>In <z:mpath ids='MPATH_458'>normal</z:mpath> gastric tissue, the LeB-binding strains always bound to MUC5AC- and LeB-positive epithelial cells </plain></SENT>
+<SENT sid="9" pm="."><plain>In four nonsecretor patients, colocalization of the LeB-binding strains was found to MUC5AC-positive gastric epithelial cells </plain></SENT>
+<SENT sid="10" pm="."><plain>In BE, the LeB-binding H. pylori strains colocalized very specifically to MUC5AC-positive cells </plain></SENT>
+<SENT sid="11" pm="."><plain>MUC5AC-producing cells in GMD contained LeB </plain></SENT>
+<SENT sid="12" pm="."><plain>Yet, LeB-binding H. pylori not only colocalized to MUC5AC or LeB present in GMD, but also bound to the LeB-positive brush border of <z:mpath ids='MPATH_458'>normal</z:mpath> duodenal epithelium </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSIONS: Mucin MUC5AC is the most important carrier of the LeB carbohydrate structure in <z:mpath ids='MPATH_458'>normal</z:mpath> gastric tissue and forms the major receptor for H. pylori </plain></SENT>
+</text></document>

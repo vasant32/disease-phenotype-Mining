@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Interleukin-6 (IL-6) is a proinflammatory cytokine reported to play an important role in induction of <z:e sem="disease" ids="C0265110" disease_type="Disease or Syndrome" abbrv="">cerebral vasospasm</z:e> after <z:hpo ids='HP_0002138'>subarachnoid haemorrhage</z:hpo> (SAH) </plain></SENT>
+<SENT sid="1" pm="."><plain>Soluble gp130 (sgp130) and soluble IL-6 receptor (sIL-6R) are known to act as signal transducing receptors of IL-6, the former as an <z:chebi fb="68" ids="48706">antagonist</z:chebi> and the latter as an <z:chebi fb="4" ids="48705">agonist</z:chebi> </plain></SENT>
+<SENT sid="2" pm="."><plain>However, there have been no reports concerning regulation of the IL-6 signalling pathway in cerebrospinal fluid (CSF) after SAH </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: Concentrations of IL-6, sgp130 and sIL-6R were measured serially until day 14 in CSF from nine patients with SAH </plain></SENT>
+<SENT sid="4" pm="."><plain>CSF samples obtained from patients suffering from unruptured <z:hpo ids='HP_0002617'>aneurysm</z:hpo> were used as controls </plain></SENT>
+<SENT sid="5" pm="."><plain>Colocalisation of IL-6 and sgp130 in CSF on day 1 was further examined by immunoprecipitaiton </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: Concentrations of IL-6 in CSF increased immediately after the <z:hpo ids='HP_0003674'>onset</z:hpo> of SAH and remained chronically elevated over control values </plain></SENT>
+<SENT sid="7" pm="."><plain>Both sgp130 and sIL-6R also exhibited increased on day 1, followed by a decrease limited to the gp130 case after day 5 </plain></SENT>
+<SENT sid="8" pm="."><plain>Sgp130 coimmunoprecipitated with IL-6 in CSF on day 1 after SAH </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSIONS: Our findings suggest that sgp130 regulates IL-6 signalling as an <z:chebi fb="68" ids="48706">antagonist</z:chebi> in CSF immediately after SAH </plain></SENT>
+<SENT sid="10" pm="."><plain>As the concentration of sgp130 decreases after day 5, IL-6 signals might then be more easily transmitted, presumably resulting in <z:e sem="disease" ids="C0265110" disease_type="Disease or Syndrome" abbrv="">cerebral vasospasm</z:e> </plain></SENT>
+</text></document>

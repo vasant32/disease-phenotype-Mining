@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Diminished responsiveness to <z:hpo ids='HP_0001943'>hypoglycemia</z:hpo> contributes to defective counterregulation in <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="1" pm="."><plain>Pancreatic and/or circulating somatostatin are elevated in <z:mp ids='MP_0002055'>diabetes</z:mp>, which may inhibit counterregulatory hormone release during <z:hpo ids='HP_0001943'>hypoglycemia</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>Thus, a selective somatostatin receptor type 2 antagonist (SSTR2a) should improve hormone counterregulation to <z:hpo ids='HP_0001943'>hypoglycemia</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>Nondiabetic (N) and <z:chebi fb="1" ids="9288">streptozotocin</z:chebi>-induced diabetic (D) rats underwent 4-h infusion of saline or SSTR2a with insulin-induced <z:hpo ids='HP_0001943'>hypoglycemia</z:hpo> clamped at 2.5 ± 0.5 mmol/L </plain></SENT>
+<SENT sid="4" pm="."><plain>To evaluate the effect of the SSTR2a in the absence of <z:hpo ids='HP_0001943'>hypoglycemia</z:hpo>, rats underwent a 4-h infusion of saline (Ctrl:N, Ctrl:D) or SSTR2a (Ctrl:D+SSTR2a) only </plain></SENT>
+<SENT sid="5" pm="."><plain>The attenuated glucagon response to <z:hpo ids='HP_0001943'>hypoglycemia</z:hpo> in D (P &lt; 0.0002) was fully restored by SSTR2a (P &lt; 0.0001) </plain></SENT>
+<SENT sid="6" pm="."><plain>Furthermore, the attenuated <z:chebi fb="0" ids="16827">corticosterone</z:chebi> response in D (P &lt; 0.002) was also enhanced by SSTR2a (P &lt; 0.05) </plain></SENT>
+<SENT sid="7" pm="."><plain>In the absence of <z:hpo ids='HP_0001943'>hypoglycemia</z:hpo>, SSTR2a did not alter basal blood <z:chebi fb="105" ids="17234">glucose</z:chebi> levels </plain></SENT>
+<SENT sid="8" pm="."><plain>D exhibited 62% more pancreatic somatostatin than N after <z:hpo ids='HP_0001943'>hypoglycemia</z:hpo> </plain></SENT>
+<SENT sid="9" pm="."><plain>In N rats, SSTR2a did not augment the glucagon or <z:chebi fb="0" ids="16827">corticosterone</z:chebi> response to <z:hpo ids='HP_0001943'>hypoglycemia</z:hpo> </plain></SENT>
+<SENT sid="10" pm="."><plain>Thus, somatostatin may contribute to impaired glucagon responsiveness to <z:hpo ids='HP_0001943'>hypoglycemia</z:hpo> in <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="11" pm="."><plain>We demonstrate that SSTR2 antagonism enhances <z:hpo ids='HP_0001943'>hypoglycemia</z:hpo>-stimulated glucagon and <z:chebi fb="0" ids="16827">corticosterone</z:chebi> release in D but not in N rats </plain></SENT>
+<SENT sid="12" pm="."><plain>SSTR2 antagonism does not affect basal glycemia in D rats </plain></SENT>
+</text></document>

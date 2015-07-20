@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Radiofrequency ablation is routinely used to treat <z:hpo ids='HP_0011675'>cardiac arrhythmias</z:hpo>, but gaps remain in ablation lesion sets because there is no direct visualization of ablation-related changes </plain></SENT>
+<SENT sid="1" pm="."><plain>In this study, we acutely identify and target gaps using a real-time magnetic resonance imaging (RT-MRI) system, leading to a complete and transmural ablation in the atrium </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS AND RESULTS: A swine model was used for these studies (n=12) </plain></SENT>
+<SENT sid="3" pm="."><plain>Ablation lesions with a gap were created in the atrium using fluoroscopy and an electroanatomic system in the first group (n=5) </plain></SENT>
+<SENT sid="4" pm="."><plain>The animal was then moved to a 3-tesla MRI system where high-resolution late <z:chebi fb="0" ids="33375">gadolinium</z:chebi> enhancement MRI was used to identify the gap </plain></SENT>
+<SENT sid="5" pm="."><plain>Using an RT-MRI catheter navigation and visualization system, the gap area was ablated in the <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e> scanner </plain></SENT>
+<SENT sid="6" pm="."><plain>In a second group (n=7), ablation lesions with varying gaps in between were created under RT-MRI guidance, and gap lengths determined using late <z:chebi fb="0" ids="33375">gadolinium</z:chebi> enhancement <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e> images were correlated with gap length measured from gross pathology </plain></SENT>
+<SENT sid="7" pm="."><plain>Gaps up to 1.0 mm were identified using gross pathology, and gaps up to 1.4 mm were identified using late <z:chebi fb="0" ids="33375">gadolinium</z:chebi> enhancement MRI </plain></SENT>
+<SENT sid="8" pm="."><plain>Using an RT-MRI system with active catheter navigation gaps can be targeted acutely, leading to lesion sets with no gaps </plain></SENT>
+<SENT sid="9" pm="."><plain>The correlation coefficient (R(2)) between the gap length was identified using MRI, and the gross pathology was 0.95 </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSIONS: RT-MRI system can be used to identify and acutely target gaps in atrial ablation lesion sets </plain></SENT>
+<SENT sid="11" pm="."><plain><z:hpo ids='HP_0011009'>Acute</z:hpo> targeting of gaps in ablation lesion sets can potentially lead to significant improvement in clinical outcomes </plain></SENT>
+</text></document>

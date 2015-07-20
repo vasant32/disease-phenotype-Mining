@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The homeostasis model assessment (HOMA) represents a simple index for evaluating insulin sensitivity, but clinical use is limited </plain></SENT>
+<SENT sid="1" pm="."><plain>Insulin sensitivity indices calculated from plasma <z:chebi fb="105" ids="17234">glucose</z:chebi> and plasma insulin concentrations after an oral <z:chebi fb="105" ids="17234">glucose</z:chebi> tolerant test (OGTT) have been proposed, but have not been validated in the Japanese population </plain></SENT>
+<SENT sid="2" pm="."><plain>We compared these indices with the euglycemic hyperinsulinemic clamp technique to evaluate the predicting insulin sensitivities in 77 Japanese subjects with varying degrees of <z:chebi fb="105" ids="17234">glucose</z:chebi> tolerance (<z:mpath ids='MPATH_458'>normal</z:mpath> <z:chebi fb="105" ids="17234">glucose</z:chebi> tolerance, n=40; <z:hpo ids='HP_0000833'>impaired glucose tolerance</z:hpo>, n=22; and type 2 <z:hpo ids='HP_0000819'>diabetes mellitus</z:hpo>, n=15) </plain></SENT>
+<SENT sid="3" pm="."><plain>Insulin sensitivity was measured by the euglycemic hyperinsulinemic <z:chebi fb="105" ids="17234">glucose</z:chebi> clamp technique using an artificial pancreas, and expressed as the M-value </plain></SENT>
+<SENT sid="4" pm="."><plain>Weak inverse correlations existed between the HOMA index and M-values (r=-0.227, P=0.0468) </plain></SENT>
+<SENT sid="5" pm="."><plain>An alternative index calculated by Matsuda's formula correlated with the M-value (r=0.450, P=0.0001) </plain></SENT>
+<SENT sid="6" pm="."><plain>A second index calculated by Stumvoll's formula also correlated with the M-value (r=0.641, P=0.0001) </plain></SENT>
+<SENT sid="7" pm="."><plain>Finally, a third index calculated by Gutt's formula also significantly correlated with the M-value (r=0.526, P=0.0001) </plain></SENT>
+<SENT sid="8" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> three indices are applicable for clinical use </plain></SENT>
+<SENT sid="9" pm="."><plain>The second index is the most sensitive measure of insulin sensitivity in the Japanese population </plain></SENT>
+</text></document>

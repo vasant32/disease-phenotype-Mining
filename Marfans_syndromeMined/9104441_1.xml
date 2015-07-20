@@ -1,0 +1,33 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Because a reduction in bone density often correlates to an increased risk of fracture, bone density is usually measured in an attempt to establish the risk of fracture </plain></SENT>
+<SENT sid="1" pm="."><plain>The results from bone density measurement are intended to provide a potential basis for treating <z:hpo ids='HP_0000939'>osteoporosis</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>When assessing the value of bone density measurement, the key issues concern the reliability of the various methods (i.e., how accurately they reflect bone density) and whether bone density treatment can actually prevent fracture </plain></SENT>
+<SENT sid="3" pm="."><plain><z:e sem="disease" ids="C0029456" disease_type="Disease or Syndrome" abbrv="">OSTEOPOROSIS</z:e>: Humans begin to lose bone tissue as they become older </plain></SENT>
+<SENT sid="4" pm="."><plain>In most cases, this process is slow and gradual </plain></SENT>
+<SENT sid="5" pm="."><plain>Bone tissue begins to disappear when people are aged between 30 and 40 years and continues throughout life </plain></SENT>
+<SENT sid="6" pm="."><plain>However, bone loss varies greatly among individuals, and some elderly people show no sign of bone loss </plain></SENT>
+<SENT sid="7" pm="."><plain>Several factors influence both the loss of bone mass as people age and the formation of bone mass in the growing individual </plain></SENT>
+<SENT sid="8" pm="."><plain>The single most important factor associated with <z:mp ids='MP_0004016'>reduced bone mass</z:mp> is the loss of the female <z:chebi fb="25" ids="50112">sex hormone</z:chebi> (<z:chebi fb="67" ids="50114">oestrogen</z:chebi>) </plain></SENT>
+<SENT sid="9" pm="."><plain>Tobacco smoking, lack of exercise, and low calcium levels in the diet also reduce bone density </plain></SENT>
+<SENT sid="10" pm="."><plain><z:mp ids='MP_0000063'>Reduced bone density</z:mp> may lead to <z:hpo ids='HP_0000939'>osteoporosis</z:hpo>, which increases the risk of fracture, often affecting the vertebrae, hips and wrists </plain></SENT>
+<SENT sid="11" pm="."><plain>The most common direct cause of fracture, mainly among the elderly, involves falling or stumbling </plain></SENT>
+<SENT sid="12" pm="."><plain>Contributing factors here include diseases or medications that affect the sight, muscle strength, and balance </plain></SENT>
+<SENT sid="13" pm="."><plain><z:hpo ids='HP_0000939'>Osteoporosis</z:hpo> is one of many risk factors for fractures resulting from <z:hpo ids='HP_0002527'>falls</z:hpo> </plain></SENT>
+<SENT sid="14" pm="."><plain>Fracture is a large and growing health problem </plain></SENT>
+<SENT sid="15" pm="."><plain>Each year, approximately 60,000 people in Sweden suffer some type of fracture </plain></SENT>
+<SENT sid="16" pm="."><plain>With an increasing percentage of elderly people in the Swedish population, it is estimated that every second woman over 50 years of age will experience fracture at some time during their remaining life </plain></SENT>
+<SENT sid="17" pm="."><plain>The risk in men is lower </plain></SENT>
+<SENT sid="18" pm="."><plain>It is essential to prevent, as far as possible, the <z:hpo ids='HP_0003674'>onset</z:hpo> of <z:hpo ids='HP_0000939'>osteoporosis</z:hpo> and other risk factors for fracture </plain></SENT>
+<SENT sid="19" pm="."><plain>Preventive approaches include, increased physical activity during youth when people develop their bone mass, sufficient intake of calcium in the diet among the young and old alike, and smoking cessation (or preventing people from starting to smoke) </plain></SENT>
+<SENT sid="20" pm="."><plain>It is particularly important to treat <z:hpo ids='HP_0000939'>osteoporosis</z:hpo> effectively, or prevent <z:hpo ids='HP_0000939'>osteoporosis</z:hpo> from developing into a serious condition </plain></SENT>
+<SENT sid="21" pm="."><plain>This requires further research into strategies for treating <z:hpo ids='HP_0000939'>osteoporosis</z:hpo> </plain></SENT>
+<SENT sid="22" pm="."><plain>The various methods for measuring bone density represent an important component in such research </plain></SENT>
+<SENT sid="23" pm="."><plain>MEASURING BONE DENSITY: Bone density may be measured either to establish a diagnosis or to monitor changes, e.g. follow-up treatment for <z:hpo ids='HP_0000939'>osteoporosis</z:hpo> </plain></SENT>
+<SENT sid="24" pm="."><plain>Bone density can be estimated roughly by simply measuring height, weight, and age, but this approach has limited value for establishing the level of bone density in individuals </plain></SENT>
+<SENT sid="25" pm="."><plain>To a certain extent, x-ray examination can also be used to estimate the level of bone density </plain></SENT>
+<SENT sid="26" pm="."><plain>Special methods have been developed in recent decades for measuring bone density, and technologies for this purpose have become more widely available since the 1980s </plain></SENT>
+<SENT sid="27" pm="."><plain>The new methods for bone density measurement are based on either the energy/methodology used in ultrasound and magnetic resonance imaging (MRI), or on x-rays </plain></SENT>
+<SENT sid="28" pm="."><plain>Some methods are designed for measuring only the forearm, hip, lumbar spine, or heel bone (calcaneus), while others measure several sites in the body simultaneously </plain></SENT>
+<SENT sid="29" pm="."><plain>Most methods demonstrate good precision (i.e. repeated measurements yield the same results) </plain></SENT>
+<SENT sid="30" pm="."><plain>However, to establish the bone density level reliably, methods must also be highly accurate (i.e. the values obtained by measurement must coincide with the individual's actual bone density) </plain></SENT>
+<SENT sid="31" pm="."><plain>The accuracy of current technologies is substantially lower than their precision, so further research, technical development, and experience are required before the methods can be i </plain></SENT>
+</text></document>

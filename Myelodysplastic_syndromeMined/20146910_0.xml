@@ -1,0 +1,6 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Lenalidomide is the first drug to induce transfusion independence and cytogenetic remission in patients with <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e>) with deletion 5q and low or intermediate risk score </plain></SENT>
+<SENT sid="1" pm="."><plain>Transfusion independence can be obtained within five weeks </plain></SENT>
+<SENT sid="2" pm="."><plain>Three out of four patients also obtain a cytogenetic response to treatment </plain></SENT>
+<SENT sid="3" pm="."><plain>However, concern has arisen about the possibility of an increased risk of transformation to <z:hpo ids='HP_0011009'>acute</z:hpo> <z:mpath ids='MPATH_342'>myeloid leukaemia</z:mpath> </plain></SENT>
+<SENT sid="4" pm="."><plain>A multicenter, randomised, placebo-controlled study with long-term follow-up is needed </plain></SENT>
+</text></document>

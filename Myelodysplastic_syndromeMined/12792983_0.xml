@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Clinical studies have shown that <z:chebi fb="0" ids="2636">amifostine</z:chebi> (AMF) improves peripheral cytopenias in <z:hpo ids='HP_0002863'>myelodysplastic syndromes</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e>) </plain></SENT>
+<SENT sid="1" pm="."><plain>We studied the expression of Fas/FasL on CD34+ cells in low risk <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> and its change after AMF treatment </plain></SENT>
+<SENT sid="2" pm="."><plain>PATIENTS AND METHODS: Patients received AMF 400 mg/m2 3x/week for 3 weeks and 2 weeks off treatment </plain></SENT>
+<SENT sid="3" pm="."><plain>Peripheral blood counts and BM cytology were analysed before and after 2 courses </plain></SENT>
+<SENT sid="4" pm="."><plain>Quantification of CD34+ cells and CD34/CD95 and CD34/CD95L ones were performed by flow cytometry </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: Seventeen patients were treated </plain></SENT>
+<SENT sid="6" pm="."><plain>After 2 months, 8 patients showed a rise in neutrophil count </plain></SENT>
+<SENT sid="7" pm="."><plain><z:chebi fb="0" ids="35143">Hemoglobin</z:chebi> increased in 1 and thrombocytes in 2 patients </plain></SENT>
+<SENT sid="8" pm="."><plain>Before treatment, responding patients presented a significantly lower expression of Fas (median 53%) and FasL (median 26%) than non-responders (85% and 70%, respectively) </plain></SENT>
+<SENT sid="9" pm="."><plain>BM lymphocytes were significantly lower in responders (median 14.5% and 27.4%, respectively) </plain></SENT>
+<SENT sid="10" pm="."><plain>In responders CD34+ cells decreased after treatment </plain></SENT>
+<SENT sid="11" pm="."><plain>The change in neutrophil count after treatment presented an inverse correlation with the percentage of BM lymphocytes before treatment (r = 0.0-0.58; p = 0.02) </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSION: Response to AMF may be influenced by the intensity of the immune reaction in BM </plain></SENT>
+</text></document>

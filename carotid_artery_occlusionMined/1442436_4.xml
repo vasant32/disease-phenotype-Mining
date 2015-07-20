@@ -1,0 +1,6 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 35-year-old black woman had a 6-month history of <z:hpo ids='HP_0002315'>headaches</z:hpo> and a 1-month history of <z:e sem="disease" ids="C0271355" disease_type="Disease or Syndrome" abbrv="">abducens nerve palsy</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain><z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e> showed a mass in the sella and cavernous sinuses with encasement of the carotid artery </plain></SENT>
+<SENT sid="2" pm="."><plain>The mass enhanced intensely and homogeneously with Gd-<z:chebi fb="0" ids="35739">DTPA</z:chebi> </plain></SENT>
+<SENT sid="3" pm="."><plain>Arteriography revealed complete occlusion of the left internal carotid artery and severe stenosis of the C5 and C6 segments of the right internal carotid artery </plain></SENT>
+<SENT sid="4" pm="."><plain>Transsphenoidal biopsy of the mass led to the diagnosis of idiopathic cranial <z:e sem="disease" ids="C0030167" disease_type="Disease or Syndrome" abbrv="">pachymeningitis</z:e> </plain></SENT>
+</text></document>

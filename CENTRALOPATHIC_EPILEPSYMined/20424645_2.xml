@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Investigators performing genetic association studies grapple with how to measure strength of association evidence, choose sample size, and adjust for multiple testing </plain></SENT>
+<SENT sid="1" pm="."><plain>We apply the evidential paradigm (EP) to genetic association studies, highlighting its strengths </plain></SENT>
+<SENT sid="2" pm="."><plain>The EP uses likelihood ratios (LRs), as opposed to P-values or Bayes' factors, to measure strength of association evidence </plain></SENT>
+<SENT sid="3" pm="."><plain>We derive EP methodology to estimate sample size, adjust for multiple testing, and provide informative graphics for drawing inferences, as illustrated with a <z:e sem="disease" ids="C0376532" disease_type="Disease or Syndrome" abbrv="BECTS">Rolandic Epilepsy</z:e> (RE) fine-mapping study </plain></SENT>
+<SENT sid="4" pm="."><plain>We focus on controlling the probability of observing weak evidence for or against association (W) rather than type I errors (M) </plain></SENT>
+<SENT sid="5" pm="."><plain>For example, for LR&gt; or =32 representing strong evidence, at one locus with n=200 cases, n=200 controls, W=0.134, whereas M=0.005 </plain></SENT>
+<SENT sid="6" pm="."><plain>For n=300 cases and controls, W=0.039 and M=0.004 </plain></SENT>
+<SENT sid="7" pm="."><plain>These calculations are based on detecting an OR=1.5 </plain></SENT>
+<SENT sid="8" pm="."><plain>Despite the common misconception, one is not tied to this planning value for analysis; rather one calculates the likelihood at <z:hpo ids='HP_0000001'>all</z:hpo> possible values to assess evidence for association </plain></SENT>
+<SENT sid="9" pm="."><plain>We provide methodology to adjust for multiple tests across m loci, which adjusts M and W for m </plain></SENT>
+<SENT sid="10" pm="."><plain>We do so for (a) single-stage designs, (b) two-stage designs, and (c) simultaneously controlling family-wise error rate (FWER) and W </plain></SENT>
+<SENT sid="11" pm="."><plain>Method (c) chooses larger sample sizes than (a) or (b), whereas (b) has smaller bounds on the FWER than (a) </plain></SENT>
+<SENT sid="12" pm="."><plain>The EP, using our innovative graphical display, identifies important SNPs in elongator protein complex 4 (ELP4) associated with RE that may not have been identified using standard approaches </plain></SENT>
+</text></document>

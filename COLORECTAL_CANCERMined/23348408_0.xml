@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Patchouli alcohol (PA) is a <z:chebi fb="29" ids="37577">chemical compound</z:chebi> extracted from patchouli which belongs to the genus Pogostemon, herb of mint family </plain></SENT>
+<SENT sid="1" pm="."><plain>Recently, it has been reported that PA inhibits the production of <z:mp ids='MP_0002501'>inflammatory mediators</z:mp> </plain></SENT>
+<SENT sid="2" pm="."><plain>However, the biological mechanisms of PA for anti-inflammatory activities have not been studied </plain></SENT>
+<SENT sid="3" pm="."><plain>In this study, we investigated whether PA decreases the production of <z:mp ids='MP_0002501'>inflammatory mediators</z:mp> through downregulation of the NF-κB and ERK pathway </plain></SENT>
+<SENT sid="4" pm="."><plain>Our data indicated that PA inhibits the over-expression of iNOS and IL-6 in protein and <z:chebi fb="2" ids="33699">mRNA</z:chebi> levels in LPS-stimulated RAW264.7 and TNF-α stimulated HT-29 cells </plain></SENT>
+<SENT sid="5" pm="."><plain>PA inhibited IκB-α degradation and p65 nuclear translocation, and subsequently suppressed transcriptional activity of NF-κB in LPS-stimulated RAW264.7 and TNF-α-stimulated HT-29 cells </plain></SENT>
+<SENT sid="6" pm="."><plain>In addition, PA inhibited LPS- or TNF-α-stimulated ERK1/2 activation by decreasing phosphorylation of ERK1/2 </plain></SENT>
+<SENT sid="7" pm="."><plain>These findings suggest that PA shows anti-inflammatory activities through suppressing ERK-mediated NF-κB pathway in mouse macrophage and human <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> cells </plain></SENT>
+</text></document>

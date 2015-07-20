@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0005110'>Atrial fibrillation</z:hpo> (AF), the most common <z:hpo ids='HP_0011675'>cardiac arrhythmia</z:hpo> seen in general practice, can be promoted by conduction slowing </plain></SENT>
+<SENT sid="1" pm="."><plain>Cardiac impulse conduction depends on gap junction channels, which are composed of connexins (Cxs) </plain></SENT>
+<SENT sid="2" pm="."><plain>While atrial Cx40 and Cx43 are equally expressed, AF studies have primarily focused on Cx40 reductions </plain></SENT>
+<SENT sid="3" pm="."><plain>The G60S Cx43 mutant (Cx43(G60S/+)) mouse model of Oculodentodigital <z:mpath ids='MPATH_589'>dysplasia</z:mpath> has a 60% reduction in Cx43 in the atria </plain></SENT>
+<SENT sid="4" pm="."><plain>Cx43(G60S/+) mice were compared with Cx40-deficient (Cx40(-/-)) mice to determine the role of Cxs in atrial <z:hpo ids='HP_0001649'>tachycardia</z:hpo>/<z:mp ids='MP_0006109'>fibrillation</z:mp> (AT/F) </plain></SENT>
+<SENT sid="5" pm="."><plain>Intracardiac electrophysiological studies were done in 6-mo-old male C57BL/6 Cx43(G60S/+) mutant, littermate (Cx43(+/+)), Cx40(-/-), and C57BL/6 <z:mp ids='MP_0002169'>wild-type</z:mp> (WT) mice </plain></SENT>
+<SENT sid="6" pm="."><plain>AT/F induction used an extra stimulus during sinus rhythm, programmed electrical stimulation, or burst pacing (1-ms pulses, 50-Hz, 400-ms train) in the absence and presence of <z:chebi fb="0" ids="3385">carbachol</z:chebi> (CCh) </plain></SENT>
+<SENT sid="7" pm="."><plain>Atrial effective refractory periods did not differ between strains </plain></SENT>
+<SENT sid="8" pm="."><plain>Cx43(G60S/+) mice were more susceptible to induction of sustained AT/F (duration &gt;2 min, 9 of 12; maximum &gt;35 min) compared with Cx43(+/+) mice (3 of 11; χ(2) = 5.24; P = 0.02) </plain></SENT>
+<SENT sid="9" pm="."><plain>CCh enhanced sustained AT/F susceptibility in WT (from 1 of 12 without, to 7 of 10 with CCh; χ(2) = 8.98; P &lt; 0.01) but not in Cx40(-/-) mice (1 of 13 without vs. 2 of 9 with CCh; χ(2) = 0.95; P = NS) </plain></SENT>
+<SENT sid="10" pm="."><plain>The pattern of epicardial recordings during AT/F in Cx43(G60S/+) mice was left preceding right, with left atrial fractionated activation patterns consistent with clinical observations of AF </plain></SENT>
+<SENT sid="11" pm="."><plain>In conclusions, while Cx43(G60S/+) mice had severe AT/F, Cx40(-/-) mice were resistant to CCh-induced AT/F </plain></SENT>
+</text></document>

@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Beta(2)-<z:chebi fb="2" ids="17089">glycoprotein</z:chebi> I (beta(2)GPI) is an abundant plasma <z:chebi fb="0" ids="16247">phospholipid</z:chebi>-binding protein and an autoantigen in the <z:hpo ids='HP_0003613'>antiphospholipid antibody</z:hpo> syndrome </plain></SENT>
+<SENT sid="1" pm="."><plain>Binding of beta(2)GPI to endothelial cells targets them for activation by anti-beta(2)GPI antibodies, which circulate and are associated with <z:mp ids='MP_0005048'>thrombosis</z:mp> in patients with the <z:hpo ids='HP_0003613'>antiphospholipid antibody</z:hpo> syndrome </plain></SENT>
+<SENT sid="2" pm="."><plain>However, the binding of beta(2)GPI to endothelial cells has not been characterized and is assumed to result from association of beta(2)GPI with membrane <z:chebi fb="0" ids="16247">phospholipid</z:chebi> </plain></SENT>
+<SENT sid="3" pm="."><plain>Here, we characterize the binding of beta(2)GPI to endothelial cells and identify the beta(2)GPI binding site </plain></SENT>
+<SENT sid="4" pm="."><plain>(125)I-beta(2)GPI bound with high affinity (K(d) approximately 18 nm) to human umbilical vein endothelial cells (HUVECs) </plain></SENT>
+<SENT sid="5" pm="."><plain>Using affinity purification, we isolated beta(2)GPI-binding proteins of approximately 78 and approximately 36 kDa from HUVECs and EAHY.926 cells </plain></SENT>
+<SENT sid="6" pm="."><plain>Amino acid sequences of tryptic <z:chebi fb="7" ids="16670">peptides</z:chebi> from each of these were identical to sequences within annexin II </plain></SENT>
+<SENT sid="7" pm="."><plain>A role for annexin II in binding of beta(2)GPI to cells was confirmed by the observations that annexin II-transfected HEK 293 cells bound approximately 10-fold more (125)I-beta(2)GPI than control cells and that anti-annexin II antibodies inhibited the binding of (125)I-beta(2)GPI to HUVECs by approximately 90% </plain></SENT>
+<SENT sid="8" pm="."><plain>Finally, surface plasmon resonance studies revealed high affinity binding between annexin II and beta(2)GPI </plain></SENT>
+<SENT sid="9" pm="."><plain>These results demonstrate that annexin II mediates the binding of beta(2)GPI to endothelial cells </plain></SENT>
+</text></document>

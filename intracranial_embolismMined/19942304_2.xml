@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Coronary angiography (CAG) is an invasive diagnostic procedure, which could lead to procedure related complications </plain></SENT>
+<SENT sid="1" pm="."><plain>One of the well known post-procedural complications is cerebral <z:e sem="disease" ids="C0264978" disease_type="Disease or Syndrome" abbrv="">embolic infarction</z:e> with or without symptoms </plain></SENT>
+<SENT sid="2" pm="."><plain>Silent <z:e sem="disease" ids="C1262004" disease_type="Disease or Syndrome" abbrv="">embolic cerebral infarction</z:e> (SECI) has clinical significance because it can progress to a decline in cognitive function and increase the risk of <z:hpo ids='HP_0000726'>dementia</z:hpo> in the long term </plain></SENT>
+<SENT sid="3" pm="."><plain>The aim of this study was to detect the incidence and predictors of SECI after diagnostic CAG using diffusion-weighted magnetic resonance imaging (DW-MRI) </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS: A total of 197 patients with <z:hpo ids='HP_0001677'>coronary artery disease</z:hpo> who underwent DW-MRI for evaluation of intracranial vasculopathy before coronary artery bypass graft surgery were retrospectively enrolled in the present study </plain></SENT>
+<SENT sid="5" pm="."><plain>DW-MRI was performed within 48 h after diagnostic CAG </plain></SENT>
+<SENT sid="6" pm="."><plain>SECI was diagnosed as presence of focal bright high signal intensity in DW-MRI </plain></SENT>
+<SENT sid="7" pm="."><plain>Patients were divided into groups according to presence/absence of SECI (+ SECI vs. - SECI, respectively) </plain></SENT>
+<SENT sid="8" pm="."><plain>The clinical and angiographic characteristics were analyzed and independent predictors were evaluated </plain></SENT>
+<SENT sid="9" pm="."><plain>RESULTS: Of the 197 patients, SECI occurred in 20 patients (10.2%) after diagnostic CAG </plain></SENT>
+<SENT sid="10" pm="."><plain>Age, female gender, frequency of underlying <z:hpo ids='HP_0005110'>atrial fibrillation</z:hpo>, extent of <z:hpo ids='HP_0001677'>coronary disease</z:hpo>, and fluoroscopic time during diagnostic CAG were not different between the + SECI and - SECI groups </plain></SENT>
+<SENT sid="11" pm="."><plain>Left ventricular ejection fraction was significantly lower in the + SECI group than in the - SECI group (45.9 ± 8.5% vs. 51.4 ± 13.1%, p=0.014) and performance rate of internal mammary artery (IMA) angiography was significantly higher in the + SECI group compared with the - SECI group (85% vs. 37.2%, p&lt;0.001) </plain></SENT>
+<SENT sid="12" pm="."><plain>By multivariate analysis, performing IMA angiography was the only predictor of SECI (OR=14.642; 95% CI=3.201 to 66.980, p=0.001) </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSIONS: The incidence of SECI after diagnostic CAG was not infrequent </plain></SENT>
+<SENT sid="14" pm="."><plain>Diagnostic CAG with IMA angiography may increase the risk of SECI </plain></SENT>
+</text></document>

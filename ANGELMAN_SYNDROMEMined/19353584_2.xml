@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Congenital limb malformations are the second most common birth defects observed in infants </plain></SENT>
+<SENT sid="1" pm="."><plain><z:hpo ids='HP_0001171'>Split hand</z:hpo> foot malformation (SHFM), also known as central ray deficiency, <z:hpo ids='HP_0100257'>ectrodactyly</z:hpo> and cleft hand/foot, occurs isolated or in combination with other malformations </plain></SENT>
+<SENT sid="2" pm="."><plain>We report on a male patient with SHFM, <z:hpo ids='HP_0001636'>tetralogy of Fallot</z:hpo> and a clinical phenotype suggestive of <z:e sem="disease" ids="C0162635" disease_type="Disease or Syndrome" abbrv="">Angelman syndrome</z:e> </plain></SENT>
+<SENT sid="3" pm="."><plain>Using array based genome analysis (3K BACs and 500K SNPs), we identified a de novo deletion of chromosome 19p13.11, confirmed by Fluorescent In Situ Hybridization analysis </plain></SENT>
+<SENT sid="4" pm="."><plain>The deletion is 0.99 Mb in size and contains 28 genes </plain></SENT>
+<SENT sid="5" pm="."><plain>The proximal breakpoint of the deletion is in EPS15L1, which may be involved in vertebrate limb development </plain></SENT>
+<SENT sid="6" pm="."><plain>Subsequent screening of 21 syndromic and nonsyndromic SHFM patients (TP73L mutation negative) for rearrangements using Multiplex Ligation-dependent Probe Amplification did not detect other deletions or duplications in chromosome 19 </plain></SENT>
+<SENT sid="7" pm="."><plain>These findings suggest that our patient may have a new <z:hpo ids='HP_0001466'>contiguous gene syndrome</z:hpo> and indicates that SHFM is genetically more <z:hpo ids='HP_0001425'>heterogeneous</z:hpo> than currently known </plain></SENT>
+</text></document>

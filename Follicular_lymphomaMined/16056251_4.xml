@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The human homologue of the yeast DNA repair enzyme <z:chebi fb="0" ids="44605">8-oxoguanine</z:chebi> DNA glycosylase (hOGG1) repairs oxidatively damaged <z:chebi fb="0" ids="16750">guanosine</z:chebi> <z:chebi fb="9" ids="36976">nucleotides</z:chebi> in DNA </plain></SENT>
+<SENT sid="1" pm="."><plain>This enzyme is highly expressed in reactive germinal centers, where lymphoid cells are under <z:mp ids='MP_0003674'>oxidative stress</z:mp>, and has been thought to protect lymphocytes from mutation </plain></SENT>
+<SENT sid="2" pm="."><plain>As a first step to investigate the role of hOGG1 in <z:e sem="disease" ids="C0598766" disease_type="Neoplastic Process" abbrv="">lymphomagenesis</z:e>, we evaluated hOGG1 expression in follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>Immunohistochemistry was performed on formalin-fixed paraffin-embedded tissue of 28 follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cases (16 grade 1, seven grade 2, and five grade 3) to evaluate the expression of hOGG1 in neoplastic follicles </plain></SENT>
+<SENT sid="4" pm="."><plain>Reactive germinal centers of non-neoplastic tonsil and lymph node tissue were also examined </plain></SENT>
+<SENT sid="5" pm="."><plain>Fluorescent-in-situ hybridization (FISH) was performed using a DNA probe from BAC clone RP11-266J6 corresponding to 3p25, where the hOGG1 gene resides, to evaluate for the presence or absence of a deletion </plain></SENT>
+<SENT sid="6" pm="."><plain>In reactive germinal centers, the majority of centroblasts and centrocytes were positive for hOGG1 </plain></SENT>
+<SENT sid="7" pm="."><plain>In contrast, the majority (21 of 28 or 75%) of follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cases showed absent/minimal expression of hOGG1 </plain></SENT>
+<SENT sid="8" pm="."><plain>Only four of 28 (14%) follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cases revealed the same levels of hOGG1 expression as reactive germinal centers </plain></SENT>
+<SENT sid="9" pm="."><plain>There was no correlation between hOGG1 expression and histologic grade </plain></SENT>
+<SENT sid="10" pm="."><plain>None of the 16 cases evaluated by FISH showed a deletion of hOGG1 </plain></SENT>
+<SENT sid="11" pm="."><plain>Furthermore, absent/minimal hOGG1 expression was observed in four of six Bcl-2-negative follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cases </plain></SENT>
+<SENT sid="12" pm="."><plain>Our findings suggest that absent/minimal hOGG1 expression occurs in the majority of follicular <z:hpo ids='HP_0002665'>lymphomas</z:hpo> </plain></SENT>
+<SENT sid="13" pm="."><plain>The downregulation of hOGG1 does not appear to be due to a deletion of the hOGG1 locus </plain></SENT>
+<SENT sid="14" pm="."><plain>Additionally, finding absent/minimal hOGG1 expression in a subset of Bcl-2-negative follicular <z:hpo ids='HP_0002665'>lymphomas</z:hpo> suggests that hOGG1 may have utility in diagnosing Bcl-2-negative follicular <z:hpo ids='HP_0002665'>lymphomas</z:hpo> </plain></SENT>
+</text></document>

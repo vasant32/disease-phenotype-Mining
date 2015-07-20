@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Patients with type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> are at increased susceptibility to a <z:mp ids='MP_0003233'>prolonged QT interval</z:mp> </plain></SENT>
+<SENT sid="1" pm="."><plain>Furthermore, insulin secretagogues, drugs used to treat <z:mp ids='MP_0002055'>diabetes</z:mp>, may prolong QT interval and provoke <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>We evaluated whether secretagogues can affect QTc interval during cardiac stress test in 20 patients with type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> treated with secretagogues </plain></SENT>
+<SENT sid="3" pm="."><plain>ECG stress test was performed in <z:hpo ids='HP_0000001'>all</z:hpo> patients </plain></SENT>
+<SENT sid="4" pm="."><plain>QTc interval was calculated both before cardiac stress test (BCST) and at acme of cardiac stress test (ACST) </plain></SENT>
+<SENT sid="5" pm="."><plain>Diabetic patients treated with secretagogues showed longer QTc-ACST values than those treated with <z:chebi fb="0" ids="6801">metformin</z:chebi> only </plain></SENT>
+<SENT sid="6" pm="."><plain>QTc-ACST values resulted shorter than QTc-BCST values in control group </plain></SENT>
+<SENT sid="7" pm="."><plain>Diabetic patients treated with secretagogues showed QTc-ACST values significantly longer than QTc-BCST values </plain></SENT>
+<SENT sid="8" pm="."><plain>In our study, diabetic patients treated with secretagogues did not show the QTc physiologic decrease that is a protective against <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> </plain></SENT>
+<SENT sid="9" pm="."><plain>These results suggest to evaluate, in these patients, QT length, even during routine cardiac stress test </plain></SENT>
+</text></document>

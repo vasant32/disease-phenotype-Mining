@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>RFB4(dsFv)-PE38 is a recombinant immunotoxin in which the variable light domain (V(L)) is <z:chebi fb="0" ids="48343">disulfide</z:chebi> bonded via <z:chebi fb="0" ids="32460">cysteine residues</z:chebi> to the variable heavy domain (V(H)), which in turn is fused to PE38, a mutant form of Pseudomonas exotoxin A </plain></SENT>
+<SENT sid="1" pm="."><plain>RFB4 binds to CD22, which is a differentiation antigen expressed on the majority of B-cell <z:hpo ids='HP_0001909'>leukemias</z:hpo> and <z:hpo ids='HP_0002665'>lymphomas</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>To examine the potential efficacy of RFB4(dsFv)-PE38 when administered at a dose schedule appropriate for phase I testing, mice bearing CA46 human CD22+ Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> xenografts were treated on alternate days i.v. for 3 doses (QOD x 3) </plain></SENT>
+<SENT sid="3" pm="."><plain>Complete regressions were observed in 80% and 100% of mice treated with 200 and 275 microg/kg QOD x 3, respectively </plain></SENT>
+<SENT sid="4" pm="."><plain>The higher dose was 27% of the LD50 and 34% of the LD10 in mice </plain></SENT>
+<SENT sid="5" pm="."><plain>Because RFB4(dsFv)-PE38 is stable at 37 degrees C, it could also be given by continuous infusion using pumps placed in the peritoneal cavity; complete regressions also resulted from this mode of administration </plain></SENT>
+<SENT sid="6" pm="."><plain>To study toxicology, a pilot toxicology study of RFB4(dsFv)-PE38 was undertaken in cynomolgus monkeys, which like humans but unlike mice have CD22, which binds RFB4 </plain></SENT>
+<SENT sid="7" pm="."><plain>Doses of 100 and 500 microg/kg i.v </plain></SENT>
+<SENT sid="8" pm="."><plain>QOD x 3 were well tolerated, indicating that a dose that cured <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumors</z:e> in mice was tolerated by primates </plain></SENT>
+<SENT sid="9" pm="."><plain>Based on these preclinical results, RFB4(dsFv)-PE38 is being developed for the treatment of patients with CD22-positive <z:hpo ids='HP_0001909'>leukemias</z:hpo> and <z:hpo ids='HP_0002665'>lymphomas</z:hpo> </plain></SENT>
+</text></document>

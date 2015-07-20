@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A mathematical model of cerebral hemodynamics during vasospasm is presented </plain></SENT>
+<SENT sid="1" pm="."><plain>The model divides arterial hemodynamics into two cerebral territories: with and without spasm </plain></SENT>
+<SENT sid="2" pm="."><plain>It also includes collateral circulation between the two territories, cerebral venous hemodynamics, cerebrospinal fluid circulation, intracranial pressure (ICP) and the craniospinal storage capacity </plain></SENT>
+<SENT sid="3" pm="."><plain>Moreover, the pial artery circulation in both territories is affected by cerebral blood flow (CBF) autoregulation mechanisms </plain></SENT>
+<SENT sid="4" pm="."><plain>In this work, a numerical value to model parameters was given assuming that vasospasm affects only a single middle cerebral artery (<z:chebi fb="70" ids="34342">MCA</z:chebi>) </plain></SENT>
+<SENT sid="5" pm="."><plain>In a first stage, the model is used to simulate some clinical results reported in the literature, concerning the patterns of <z:chebi fb="70" ids="34342">MCA</z:chebi> velocity, CBF and pressure losses during vasospasm </plain></SENT>
+<SENT sid="6" pm="."><plain>The agreement with clinical data turns out fairly good </plain></SENT>
+<SENT sid="7" pm="."><plain>In a second stage, a sensitivity analysis on some model parameters is performed (severity of caliber reduction, longitudinal extension of the spasm, autoregulation gain, ICP, resistance of the collateral circulation, and mean systemic arterial pressure) to clarify their influence on hemodynamics in the spastic territory </plain></SENT>
+<SENT sid="8" pm="."><plain>The results suggest that the clinical impact of vasospasm depends on several concomitant factors, which should be simultaneously taken into account to reach a proper diagnosis </plain></SENT>
+<SENT sid="9" pm="."><plain>In particular, while a negative correlation between <z:chebi fb="70" ids="34342">MCA</z:chebi> velocity and cross sectional area can be found until CBF is well preserved, a positive correlation may occur when CBF starts to decrease significantly </plain></SENT>
+<SENT sid="10" pm="."><plain>This might induce false-negative results if vasospasm is assessed merely through velocity measurements performed by the transcranial Doppler technique </plain></SENT>
+</text></document>

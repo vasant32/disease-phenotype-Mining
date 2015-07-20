@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PURPOSE: To develop and compare an automated detection system for ischemic lesions in a neonatal model of bilateral carotid <z:mp ids='MP_0006134'>artery occlusion</z:mp> with <z:mp ids='MP_0005039'>hypoxia</z:mp> (BCAO-H) from T2 weighted MRI (T2WI) to the currently used "gold standard" of manual segmentation </plain></SENT>
+<SENT sid="1" pm="."><plain>MATERIALS AND METHODS: Forty-three P10 BCAO-H rat pups and 8 controls underwent T2WI at 1 day and 28 days </plain></SENT>
+<SENT sid="2" pm="."><plain>A computational imaging method, Hierarchical Region Splitting (HRS), was developed to automatically and rapidly detect and quantify 3D lesion and <z:mpath ids='MPATH_458'>normal</z:mpath> appearing brain matter (NABM) volumes </plain></SENT>
+<SENT sid="3" pm="."><plain>RESULTS: HRS quantified lesion and NABM volumes within 15 s in comparison to 3 h for its manual counterpart, with a high correlation for injury (r(2) = 0 </plain></SENT>
+<SENT sid="4" pm="."><plain>95; P = 8.6 × 10(-7) ) and NABM (r(2) = 0 </plain></SENT>
+<SENT sid="5" pm="."><plain>92; P = 1.4 × 10(-22) ) </plain></SENT>
+<SENT sid="6" pm="."><plain>Average lesion volumes for mild, moderate, and severe injuries were 3.85%, 28.85%, and 52.98% for HRS and 0.51%, 24.22%, and 48.74% for manual detection </plain></SENT>
+<SENT sid="7" pm="."><plain>Lesion volumes and locations were similar for both methods (sensitivity: 0.82, specificity: 0.86, and similarity: 1.47) </plain></SENT>
+<SENT sid="8" pm="."><plain>CONCLUSION: HRS is an accurate, objective, and rapid method to quantify injury evolution in neonatal hypoxic ischemic injury models </plain></SENT>
+</text></document>

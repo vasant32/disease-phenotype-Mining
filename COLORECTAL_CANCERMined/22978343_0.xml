@@ -1,0 +1,20 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PURPOSE: The anticancer drug 5-fluorouracile (5-FU) which is indicated for the treatment of a variety of solid <z:e sem="disease" ids="C0006826" disease_type="Neoplastic Process" abbrv="">malignancies</z:e> such as colorectal, breast, head and neck <z:hpo ids='HP_0002664'>neoplasms</z:hpo> is extensively biotransformed to 5 fluoro-5,6- dihydrouracil (5-FDHU) by the dihydropyrimidine deshydrogenase enzyme (DPD) </plain></SENT>
+<SENT sid="1" pm="."><plain><z:e sem="disease" ids="C0268132" disease_type="Disease or Syndrome" abbrv="">DPD deficiency</z:e> is recognized as an important risk factor, predisposing patient to undergo severe/lethal toxicities </plain></SENT>
+<SENT sid="2" pm="."><plain>To date, relationships between 5-FU, 5- FDHU and toxicity following i.v. bolus administration has not been studied using the population pharmacokinetics approach </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: Retrospective pharmacokinetic data of 5-FU and 5-FDHU from 127 colorectal <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> patients were used for the population pharmacokinetic analysis </plain></SENT>
+<SENT sid="4" pm="."><plain>Treatment schedule consisted of an adjuvant therapy with 5-FU plus leucovorin </plain></SENT>
+<SENT sid="5" pm="."><plain>5- FU and 5-FDHU complete plasma profiles recorded on day-1 of the first chemotherapy cycle were modeled simultaneously using NONMEM software </plain></SENT>
+<SENT sid="6" pm="."><plain>Gastro-intestinal adverse events graded according to the WHO criteria were recorded after the first cycle </plain></SENT>
+<SENT sid="7" pm="."><plain>A population logistic regression model was developed to identify predictive factors of these adverse events </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: A three-compartment pharmacokinetic mixture model best described 5-FU and 5-FDHU kinetics profiles </plain></SENT>
+<SENT sid="9" pm="."><plain>Linear and saturated elimination from the central compartment of 5-FU and a linear elimination from the 5-FDHU compartment were used </plain></SENT>
+<SENT sid="10" pm="."><plain>A bimodal distribution of the inter-compartmental clearance was observed allowing two subpopulation with high (17 L/h) and low values (3.35 L/h) </plain></SENT>
+<SENT sid="11" pm="."><plain>DPD-phenotype is suspected to explain this mixture </plain></SENT>
+<SENT sid="12" pm="."><plain>No covariates were introduced in the final model </plain></SENT>
+<SENT sid="13" pm="."><plain>Also, no relationship was found between maximal metabolism rate and DPD-phenotype </plain></SENT>
+<SENT sid="14" pm="."><plain>Predictive factors associated with occurrence of high grade gastro-intestinal adverse events were gender, dose and lean body mass suggesting serious cautions with the BSA-weighted dose for women </plain></SENT>
+<SENT sid="15" pm="."><plain>For the low-grade toxicities, 5-FU area under curve was predictive for woman and 5-FDHU area under curve for men </plain></SENT>
+<SENT sid="16" pm="."><plain>CONCLUSION: A population pharmacokinetic mixture model was developed to describe kinetic profiles of 5-FU and its major metabolite </plain></SENT>
+<SENT sid="17" pm="."><plain>This model has significant implications, to identify patients with potentially low DPD phenotype requiring earlier adjustment of the 5-FU dose </plain></SENT>
+<SENT sid="18" pm="."><plain>Also this analysis highlights the need for developing alternative dosing-scheme for women </plain></SENT>
+</text></document>

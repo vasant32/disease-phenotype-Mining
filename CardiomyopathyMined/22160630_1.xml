@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Up to 50% of patients do not respond to Cardiac Resynchronization Therapy (CRT) </plain></SENT>
+<SENT sid="1" pm="."><plain>Recent work has focused on quantifying mechanical dyssynchrony and left ventricular scar </plain></SENT>
+<SENT sid="2" pm="."><plain>Septal reverse-mismatch (R-MM) (reduced FDG uptake vs perfusion) has been observed in patients with <z:hpo ids='HP_0001638'>cardiomyopathy</z:hpo> and prolonged QRS duration </plain></SENT>
+<SENT sid="3" pm="."><plain>We hypothesized that a greater quantity of septal R-MM would indicate a greater potential for reversibility of the <z:hpo ids='HP_0001638'>cardiomyopathy</z:hpo>, when the dyssynchrony is improved with CRT </plain></SENT>
+<SENT sid="4" pm="."><plain>Therefore, this study's objective was to assess whether greater septal R-MM pattern predicts response to CRT </plain></SENT>
+<SENT sid="5" pm="."><plain>METHODS AND RESULTS: Forty-nine patients had pre-implant <z:chebi fb="9" ids="33322">Rubidium</z:chebi>-82 and <z:chebi fb="0" ids="49134">Fluorine-18-fluorodeoxyglucose</z:chebi> PET scanning </plain></SENT>
+<SENT sid="6" pm="."><plain>Total and regional left ventricular scar size and extent of R-MM were calculated </plain></SENT>
+<SENT sid="7" pm="."><plain>Response to CRT was defined as ≥10% improvement in left ventricular end-systolic volume or ≥5% absolute ejection fraction improvement </plain></SENT>
+<SENT sid="8" pm="."><plain>In the non-ischemic <z:hpo ids='HP_0001638'>cardiomyopathy</z:hpo> subset non-responders had significantly less septal R-MM than responders (13.1% compared to 27.1%, P = .012) </plain></SENT>
+<SENT sid="9" pm="."><plain>There were correlations between the extent of septal R-MM and the increase in ejection fraction (r = 0.692, P = .0004) and reduction in left ventricular end-systolic volume (r = -0.579, P = .004) </plain></SENT>
+<SENT sid="10" pm="."><plain>For each 5% absolute increase in extent of septal R-MM the odds ratio of being a responder was 2.17 (95% CI 1.15, 4.11, P = .017) </plain></SENT>
+<SENT sid="11" pm="."><plain>Extent of septal R-MM displayed high sensitivity and specificity (area under curve = 0.855, P = .017) to predict response </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: In patients with non-ischemic <z:hpo ids='HP_0001638'>cardiomyopathy</z:hpo>, greater extent of septal <z:chebi fb="105" ids="17234">glucose</z:chebi> metabolic R-MM pattern, predicted response to CRT </plain></SENT>
+<SENT sid="13" pm="."><plain>This parameter may be useful for identifying patients who benefit from CRT </plain></SENT>
+</text></document>

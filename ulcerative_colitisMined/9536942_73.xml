@@ -1,0 +1,19 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: <z:hpo ids='HP_0000939'>Osteoporosis</z:hpo> has been reported in adult patients with <z:e sem="disease" ids="C0021390" disease_type="Disease or Syndrome" abbrv="">inflammatory bowel disease</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>AIMS: To evaluate bone mineral density (BMD), nutritional status, and determinants of BMD in children with <z:e sem="disease" ids="C0021390" disease_type="Disease or Syndrome" abbrv="">inflammatory bowel disease</z:e> </plain></SENT>
+<SENT sid="2" pm="."><plain>PATIENTS: Fifty five patients (34 boys and 21 girls, age range 4-18) were studied; 22 had <z:hpo ids='HP_0100280'>Crohn's disease</z:hpo> and 33 <z:hpo ids='HP_0100279'>ulcerative colitis</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: Lumbar spine and total body BMD, and body composition were assessed by dual energy x ray absorptiometry (DXA) </plain></SENT>
+<SENT sid="4" pm="."><plain>Results were expressed as standard deviation scores (<z:chebi fb="26" ids="8984">SDS</z:chebi>) </plain></SENT>
+<SENT sid="5" pm="."><plain>Lean body mass was also assessed by bioelectrical impedance analysis (BIA) </plain></SENT>
+<SENT sid="6" pm="."><plain>Yearly measurements during two years were performed in 21 patients </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: The mean <z:chebi fb="26" ids="8984">SDS</z:chebi> of lumbar spine BMD and total body BMD were significantly lower than <z:mpath ids='MPATH_458'>normal</z:mpath> (-0.75 and -0.95, both p &lt; 0.001) </plain></SENT>
+<SENT sid="8" pm="."><plain>Height <z:chebi fb="26" ids="8984">SDS</z:chebi> and body mass index <z:chebi fb="26" ids="8984">SDS</z:chebi> were also decreased </plain></SENT>
+<SENT sid="9" pm="."><plain>The decrease in BMD <z:chebi fb="26" ids="8984">SDS</z:chebi> could not be explained by delay in bone maturation </plain></SENT>
+<SENT sid="10" pm="."><plain>The cumulative dose of <z:chebi fb="2" ids="8378">prednisolone</z:chebi> correlated negatively with lumbar spine BMD <z:chebi fb="26" ids="8984">SDS</z:chebi> (r = -0.32, p &lt; 0.02) </plain></SENT>
+<SENT sid="11" pm="."><plain>Body mass index <z:chebi fb="26" ids="8984">SDS</z:chebi> correlated positively with total body BMD <z:chebi fb="26" ids="8984">SDS</z:chebi> (r = 0.36, p &lt; 0.02) </plain></SENT>
+<SENT sid="12" pm="."><plain>Patients with <z:hpo ids='HP_0100280'>Crohn's disease</z:hpo> had significantly lower lumbar spine and total body BMD <z:chebi fb="26" ids="8984">SDS</z:chebi> than patients with <z:hpo ids='HP_0100279'>ulcerative colitis</z:hpo>, even after adjustment for cumulative dose of <z:chebi fb="2" ids="8378">prednisolone</z:chebi> </plain></SENT>
+<SENT sid="13" pm="."><plain>In the longitudinal data cumulative dose of <z:chebi fb="2" ids="8378">prednisolone</z:chebi> between the measurements correlated negatively with the change in lumbar spine and total body BMD <z:chebi fb="26" ids="8984">SDS</z:chebi> </plain></SENT>
+<SENT sid="14" pm="."><plain>Lean tissue mass measured by DXA had a strong correlation with lean body mass measured by BIA (r = 0.98) </plain></SENT>
+<SENT sid="15" pm="."><plain>CONCLUSIONS: Children with <z:e sem="disease" ids="C0021390" disease_type="Disease or Syndrome" abbrv="">inflammatory bowel disease</z:e> have a <z:mp ids='MP_0000063'>decreased BMD</z:mp> </plain></SENT>
+<SENT sid="16" pm="."><plain>Children with <z:hpo ids='HP_0100280'>Crohn's disease</z:hpo> have a higher risk of developing osteopaenia than children with <z:hpo ids='HP_0100279'>ulcerative colitis</z:hpo> </plain></SENT>
+<SENT sid="17" pm="."><plain><z:chebi fb="0" ids="50858">Corticosteroid</z:chebi> therapy and nutritional status are important determinants of BMD in these patients </plain></SENT>
+</text></document>

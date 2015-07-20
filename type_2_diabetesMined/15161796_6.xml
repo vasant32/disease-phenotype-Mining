@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: To evaluate the impact of <z:mp ids='MP_0002055'>diabetes</z:mp> status and race, in addition to other covariables, on the estimation of resting energy expenditure (REE) </plain></SENT>
+<SENT sid="1" pm="."><plain>RESEARCH DESIGN AND METHODS: Demographic, anthropometric, and clinical parameters were assessed in 166 adults of varying weights </plain></SENT>
+<SENT sid="2" pm="."><plain>Subjects were categorized by race (white versus black) and into three subgroups based on <z:chebi fb="105" ids="17234">glucose</z:chebi> tolerance (normoglycemia, <z:hpo ids='HP_0000833'>impaired glucose tolerance</z:hpo>, and type 2 <z:mp ids='MP_0002055'>diabetes</z:mp>), termed the <z:mp ids='MP_0002055'>diabetes</z:mp> status index (DSI) </plain></SENT>
+<SENT sid="3" pm="."><plain>REE was measured by indirect calorimetry </plain></SENT>
+<SENT sid="4" pm="."><plain>A multiple regression model was established for optimal prediction of REE based on covariables </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: An average decrease in REE of 135 kcal/day independent of <z:hpo ids='HP_0000001'>all</z:hpo> other variables was observed in blacks (P &lt; 0.001) </plain></SENT>
+<SENT sid="6" pm="."><plain>DSI was found to be a significant covariable (P = 0.002) in predicting REE, which was observed to be higher in diabetic women </plain></SENT>
+<SENT sid="7" pm="."><plain>Therefore, race and DSI entered the multiple regression equation to predict REE as significant independent variables, together with lean body mass (LBM) and age x BMI interaction (P &lt; 0.001) </plain></SENT>
+<SENT sid="8" pm="."><plain>Overall, REE prediction resulted in an R(2) of 0.79 and a root mean square error of 136 kcal/day </plain></SENT>
+<SENT sid="9" pm="."><plain>These values indicate that the resultant equations could offer advantages over other key published prediction equations </plain></SENT>
+<SENT sid="10" pm="."><plain>The equations are: 1) REE(female) = 803.8 + 0.3505 x age x (BMI - 34.524) - 135.0 x race + 15.866 x LBM + 50.90 x DSI; and 2) REE(male) = 909.4 + 0.3505 x age x (BMI -34.524) -135.0 x race + 15.866 x LBM -9.10 x DSI </plain></SENT>
+<SENT sid="11" pm="."><plain>The predictive value of the equations did not diminish substantially when fat-free mass estimated by skinfold calipers was substituted for dual-energy X-ray absorptiometry scan measurements of LBM </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: Race and <z:mp ids='MP_0002055'>diabetes</z:mp> status are important when predicting REE, coupled with LBM, age, BMI, and sex </plain></SENT>
+<SENT sid="13" pm="."><plain>Race and DSI have not been considered in equations commonly used to predict REE </plain></SENT>
+<SENT sid="14" pm="."><plain>Their inclusion could improve individualization of dietary prescriptions for type 2 diabetic subjects and <z:hpo ids='HP_0001425'>heterogeneous</z:hpo> populations </plain></SENT>
+</text></document>

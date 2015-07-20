@@ -1,0 +1,6 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0001915'>Aplastic anemia</z:hpo> (AA) is an <z:mpath ids='MPATH_194'>immune-mediated disease</z:mpath> </plain></SENT>
+<SENT sid="1" pm="."><plain>Although most patients are responsive to immunosuppressive therapy (IST) with a combination of anti-thymocyte globulin (ATG) and <z:chebi fb="0" ids="4031">cyclosporine</z:chebi> (CsA), some patients relapse or are refractory to IST </plain></SENT>
+<SENT sid="2" pm="."><plain><z:chebi fb="0" ids="9168">Sirolimus</z:chebi> (rapamysin) inhibits the serine-threonine kinase mammalian target of rapamysin (mTOR), and blocks CsA-resistant and calcium-independent pathways late in the progression of the T-cell cycle </plain></SENT>
+<SENT sid="3" pm="."><plain>We report two cases of AA which relapsed after CsA and ATG plus CsA, respectively </plain></SENT>
+<SENT sid="4" pm="."><plain>They achieved transfusion independence after retreatment with <z:chebi fb="0" ids="9168">sirolimus</z:chebi> in combination with a CsA </plain></SENT>
+</text></document>

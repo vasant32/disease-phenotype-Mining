@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: <z:hpo ids='HP_0005305'>Cerebral venous thrombosis</z:hpo> is a rare entity in pregnancy and the postpartum period, with an incidence of 1:10,000 to 1:25,000 </plain></SENT>
+<SENT sid="1" pm="."><plain>CASE: A 19-year-old woman, gravida 1, para 1, presented to the emergency department on postpartum day 7, having experienced <z:hpo ids='HP_0001250'>seizures</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain><z:e sem="disease" ids="C0341950,C0156669" disease_type="Disease or Syndrome" abbrv="">Severe preeclampsia</z:e> had been diagnosed during the antepartum period </plain></SENT>
+<SENT sid="3" pm="."><plain>The patient initially was diagnosed with postpartum <z:hpo ids='HP_0100601'>eclampsia</z:hpo> and started on <z:chebi fb="0" ids="32599">magnesium sulfate</z:chebi> for <z:hpo ids='HP_0001250'>seizure</z:hpo> prophylaxis </plain></SENT>
+<SENT sid="4" pm="."><plain>Magnetic resonance imaging later showed <z:hpo ids='HP_0005305'>cerebral venous thrombosis</z:hpo> of the left transverse sinus and right frontal and left frontoparietal cortical veins </plain></SENT>
+<SENT sid="5" pm="."><plain>CONCLUSION: <z:hpo ids='HP_0005305'>Cerebral venous thrombosis</z:hpo> and <z:hpo ids='HP_0100601'>eclampsia</z:hpo> may manifest in a similar manner </plain></SENT>
+<SENT sid="6" pm="."><plain>Physicians can optimize the care of patients presenting with <z:hpo ids='HP_0001250'>seizures</z:hpo> by considering etiologies rarer than <z:hpo ids='HP_0100601'>eclampsia</z:hpo> and pursuing tests that may distinguish them </plain></SENT>
+</text></document>

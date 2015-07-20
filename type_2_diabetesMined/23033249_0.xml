@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: To find clinically meaningful preoperative predictors of <z:mp ids='MP_0002055'>diabetes</z:mp> remission and conversely inadequate glycemic control after gastric bypass surgery </plain></SENT>
+<SENT sid="1" pm="."><plain>Predicting the improvement in glycemic control in those with type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> after bariatric surgery may help in patient selection </plain></SENT>
+<SENT sid="2" pm="."><plain>RESEARCH DESIGN AND METHODS: Preoperative details of 154 ethnic Chinese subjects with type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> were examined for their influence on glycemic outcomes at 1 year after gastric bypass </plain></SENT>
+<SENT sid="3" pm="."><plain>Remission was defined as HbA(1c) ≤6% </plain></SENT>
+<SENT sid="4" pm="."><plain>Analysis involved binary logistic regression to identify predictors and provide regression equations and receiver operating characteristic curves to determine clinically useful cutoff values </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: Remission was achieved in 107 subjects (69.5%) at 12 months </plain></SENT>
+<SENT sid="6" pm="."><plain><z:mp ids='MP_0002055'>Diabetes</z:mp> duration &lt;4 years, body mass &gt;35 kg/m(2), and fasting C-<z:chebi fb="7" ids="16670">peptide</z:chebi> concentration &gt;2.9 ng/mL provided three independent preoperative predictors and three clinically useful cutoffs </plain></SENT>
+<SENT sid="7" pm="."><plain>The regression equation classification plot derived from continuous data correctly assigned 84% of participants </plain></SENT>
+<SENT sid="8" pm="."><plain>A combination of two or three of these predictors allows a sensitivity of 82% and specificity of 87% for remission </plain></SENT>
+<SENT sid="9" pm="."><plain>Duration of <z:mp ids='MP_0002055'>diabetes</z:mp> (with different cutoff points) and C-<z:chebi fb="7" ids="16670">peptide</z:chebi> also predicted those cases in which HbA(1c) ≤7% was not attained </plain></SENT>
+<SENT sid="10" pm="."><plain>Percentage <z:hpo ids='HP_0001824'>weight loss</z:hpo> after surgery was also predictive of remission and of less satisfactory outcomes </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: The glycemic response to gastric bypass is related to BMI, duration of <z:mp ids='MP_0002055'>diabetes</z:mp>, fasting C-<z:chebi fb="7" ids="16670">peptide</z:chebi> (influenced by <z:hpo ids='HP_0000855'>insulin resistance</z:hpo> and residual β-cell function), and <z:hpo ids='HP_0001824'>weight loss</z:hpo> </plain></SENT>
+<SENT sid="12" pm="."><plain>These data support and refine previous findings in non-Asian populations </plain></SENT>
+<SENT sid="13" pm="."><plain>Specific ethnic and procedural regression equations and cutoff points may vary </plain></SENT>
+</text></document>

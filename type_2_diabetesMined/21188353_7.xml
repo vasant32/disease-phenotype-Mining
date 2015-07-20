@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIMS/HYPOTHESIS: Chronically elevated blood <z:chebi fb="105" ids="17234">glucose</z:chebi> (<z:e sem="disease" ids="C0020456" disease_type="Disease or Syndrome" abbrv="">hyperglycaemia</z:e>) is the primary indicator of type 2 <z:mp ids='MP_0002055'>diabetes</z:mp>, which has a prevalence that varies considerably by ethnicity in the USA, with African-Americans disproportionately affected </plain></SENT>
+<SENT sid="1" pm="."><plain>Genome-wide association studies (GWASs) have significantly enhanced our understanding of the genetic basis of <z:mp ids='MP_0002055'>diabetes</z:mp> and related traits, including fasting plasma <z:chebi fb="105" ids="17234">glucose</z:chebi> (FPG) </plain></SENT>
+<SENT sid="2" pm="."><plain>However, the majority of GWASs have been conducted in populations of European ancestry </plain></SENT>
+<SENT sid="3" pm="."><plain>Thus, it is important to conduct replication analyses in populations with non-European ancestry to identify shared loci associated with FPG across populations </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS: We used data collected from non-diabetic unrelated African-American individuals (n = 927) who participated in the Howard University Family Study to attempt to replicate previously published GWASs of FPG </plain></SENT>
+<SENT sid="5" pm="."><plain>Of the 29 single nucleotide polymorphisms (SNPs) previously reported, we directly tested 20 in this study </plain></SENT>
+<SENT sid="6" pm="."><plain>In addition to the direct test, we queried a 500 kb window centred on <z:hpo ids='HP_0000001'>all</z:hpo> 29 reported SNPs for local replication of additional markers in linkage disequilibrium (LD) </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: Using direct SNP and LD-based comparisons, we replicated multiple SNPs previously associated with FPG and strongly associated with type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> in populations with European ancestry </plain></SENT>
+<SENT sid="8" pm="."><plain>The replicated SNPs included those in or near TCF7L2, SLC30A8, G6PC2, MTNR1B, DGKB-TMEM195 and GCKR </plain></SENT>
+<SENT sid="9" pm="."><plain>We also replicated additional variants in LD with the reported SNPs in ZMAT4 and adjacent to IRS1 </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSIONS/INTERPRETATION: We identified multiple GWAS variants for FPG in our cohort of African-Americans </plain></SENT>
+<SENT sid="11" pm="."><plain>Using an LD-based strategy we also identified SNPs not previously reported, demonstrating the utility of using diverse populations for replication analysis </plain></SENT>
+</text></document>

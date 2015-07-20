@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND AIMS: Infliximab is an effective treatment for <z:hpo ids='HP_0100279'>ulcerative colitis</z:hpo> with over 60% of patients responding to treatment and up to 30% reaching remission </plain></SENT>
+<SENT sid="1" pm="."><plain>The mechanism of resistance to anti-<z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumour</z:e> <z:mp ids='MP_0001651'>necrosis</z:mp> factor alpha (anti-TNFalpha) is unknown </plain></SENT>
+<SENT sid="2" pm="."><plain>This study used colonic mucosal gene expression to provide a predictive response signature for infliximab treatment in <z:hpo ids='HP_0100279'>ulcerative colitis</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: Two cohorts of patients who received their first treatment with infliximab for refractory <z:hpo ids='HP_0100279'>ulcerative colitis</z:hpo> were studied </plain></SENT>
+<SENT sid="4" pm="."><plain>Response to infliximab was defined as endoscopic and histological healing </plain></SENT>
+<SENT sid="5" pm="."><plain>Total <z:chebi fb="40" ids="33697">RNA</z:chebi> from pre-treatment colonic mucosal biopsies was analysed with Affymetrix Human Genome U133 Plus 2.0 Arrays </plain></SENT>
+<SENT sid="6" pm="."><plain>Quantitative RT-PCR was used to confirm microarray data </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: For predicting response to infliximab treatment, pre-treatment colonic mucosal expression profiles were compared for responders and non-responders </plain></SENT>
+<SENT sid="8" pm="."><plain>Comparative analysis identified 179 differentially expressed probe sets in cohort A and 361 in cohort B with an overlap of 74 probe sets, representing 53 known genes, between both analyses </plain></SENT>
+<SENT sid="9" pm="."><plain>Comparative analysis of both cohorts combined, yielded 212 differentially expressed probe sets </plain></SENT>
+<SENT sid="10" pm="."><plain>The top five differentially expressed genes in a combined analysis of both cohorts were osteoprotegerin, stanniocalcin-1, <z:chebi fb="11" ids="26333">prostaglandin</z:chebi>-endoperoxide synthase 2, interleukin 13 receptor alpha 2 and interleukin 11 </plain></SENT>
+<SENT sid="11" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> proteins encoded by these genes are involved in the adaptive immune response </plain></SENT>
+<SENT sid="12" pm="."><plain>These markers separated responders from non-responders with 95% sensitivity and 85% specificity </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSION: Gene array studies of <z:hpo ids='HP_0100279'>ulcerative colitis</z:hpo> mucosal biopsies identified predictive panels of genes for (non-)response to infliximab </plain></SENT>
+<SENT sid="14" pm="."><plain>Further study of the pathways involved should allow a better understanding of the mechanisms of resistance to infliximab therapy in <z:hpo ids='HP_0100279'>ulcerative colitis</z:hpo> </plain></SENT>
+<SENT sid="15" pm="."><plain>ClinicalTrials.gov number, NCT00639821 </plain></SENT>
+</text></document>

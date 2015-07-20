@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 65-year-old man with <z:e sem="disease" ids="C0039445" disease_type="Disease or Syndrome" abbrv="">Rendu-Osler-Weber syndrome</z:e> was admitted to the department of brain surgery at our hospital because of left <z:hpo ids='HP_0002301'>hemiplegia</z:hpo> and a right cerebral mass seen on a computerized tomogram of the brain </plain></SENT>
+<SENT sid="1" pm="."><plain>A brain <z:mpath ids='MPATH_612'>abscess</z:mpath> was found during surgery </plain></SENT>
+<SENT sid="2" pm="."><plain>Then the patient had <z:hpo ids='HP_0002090'>pneumonia</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>He received antibiotics and recovered, but his PaO2 remained low </plain></SENT>
+<SENT sid="4" pm="."><plain>He was transferred to our department for evaluation of <z:mp ids='MP_0005039'>hypoxia</z:mp> </plain></SENT>
+<SENT sid="5" pm="."><plain>Thoracic computerized tomography showed a nodular lesion connected to a vascular shadow </plain></SENT>
+<SENT sid="6" pm="."><plain>Angiographic examination showed a pulmonary <z:hpo ids='HP_0004947'>arteriovenous fistula</z:hpo> and other <z:hpo ids='HP_0002597'>vascular abnormalities</z:hpo> </plain></SENT>
+<SENT sid="7" pm="."><plain>He was not dyspneic or <z:mp ids='MP_0001575'>cyanotic</z:mp>, but his <z:mp ids='MP_0005039'>hypoxia</z:mp>, low diffusing capacity, and brain <z:mpath ids='MPATH_612'>abscess</z:mpath> were thought to be caused by the pulmonary <z:hpo ids='HP_0004947'>arteriovenous fistula</z:hpo> </plain></SENT>
+<SENT sid="8" pm="."><plain>The <z:mpath ids='MPATH_70'>fistula</z:mpath> was embolized with coils via a percutaneous catheter, after which oxygenation and diffusing capacity improved </plain></SENT>
+</text></document>

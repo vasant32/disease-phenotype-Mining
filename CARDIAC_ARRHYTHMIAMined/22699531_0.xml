@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PURPOSE: LV mechanical dyssynchrony (LVMD) is a risk marker in narrow QRS <z:hpo ids='HP_0001638'>cardiomyopathy</z:hpo>, but its association with treatment outcome is not well defined </plain></SENT>
+<SENT sid="1" pm="."><plain>We determined the incremental prognostic value of LVMD in ischemic <z:hpo ids='HP_0001638'>cardiomyopathy</z:hpo>, and assessed its interaction with scar, myocardium in jeopardy and subsequent revascularization </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: Stress and rest (82)Rb gated PET were performed in 486 consecutive patients (66 ± 11 years of age, 82 % men, LV ejection fraction 26 ± 6 %) with ischemic <z:hpo ids='HP_0001638'>cardiomyopathy</z:hpo> and QRS &lt;120 ms </plain></SENT>
+<SENT sid="3" pm="."><plain>LVMD was determined as the standard deviation (SD) of the regional time to minimum volume on phase analysis of the gated PET scan </plain></SENT>
+<SENT sid="4" pm="."><plain>A propensity score was determined to adjust for nonrandomized referral after imaging to coronary artery bypass grafting (CABG) </plain></SENT>
+<SENT sid="5" pm="."><plain>In a Cox proportional hazards model used to determine the association between measures of LVMD and survival time, CABG was included as a time-dependent covariate and the use of an implantable cardiac defibrillator (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">ICD</z:e>) after imaging was modeled as a stratification factor </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: Over 1.9 ± 1.4 years, 96 patients (20 %) underwent CABG and 108 (22 %) died </plain></SENT>
+<SENT sid="7" pm="."><plain>LVMD was a predictor of mortality (HR 1.16 </plain></SENT>
+<SENT sid="8" pm="."><plain>95 % CI 1.03;1.30, per 10° increase in phase SD, p = 0.02) after adjusting for baseline covariates, prior <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">ICD</z:e> use, the use of postimaging CABG, and other imaging data </plain></SENT>
+<SENT sid="9" pm="."><plain>There was a significant interaction between phase SD and CABG </plain></SENT>
+<SENT sid="10" pm="."><plain>Nested Cox models showed that LVMD carried prognostic information incremental to clinical variables, ejection fraction and CABG </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSION: LVMD is an independent predictor of <z:hpo ids='HP_0000001'>all</z:hpo>-cause mortality in ischemic <z:hpo ids='HP_0001638'>cardiomyopathy</z:hpo>, and may identify patients with a differential survival benefit from CABG versus medical therapy </plain></SENT>
+</text></document>

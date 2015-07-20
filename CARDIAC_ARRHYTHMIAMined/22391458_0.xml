@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We analyze a recently published model of calcium handling in cardiac myocytes in order to find conditions for the presence of instabilities in the resting state of the model </plain></SENT>
+<SENT sid="1" pm="."><plain>Such instabilities can create calcium waves which in turn may be able to initiate <z:hpo ids='HP_0011675'>cardiac arrhythmias</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>The model was developed by Swietach, Spitzer and Vaughan-Jones in order to study the effect, on calcium waves, of varying <z:chebi fb="0" ids="8925">ryanodine</z:chebi> receptor (RyR)-permeability, sarco/endoplasmic reticulum calcium ATPase (SERCA) and calcium diffusion </plain></SENT>
+<SENT sid="3" pm="."><plain>We study the model using the extracellular calcium concentration c(e) and the maximal velocity of the SERCA-pump v(SERCA) as control parameters </plain></SENT>
+<SENT sid="4" pm="."><plain>In the (c(e),v(SERCA))-domain we derive an explicit function v∗=v∗(c(e)), and we claim that any resting state based on parameters that lie above the curve (i.e. any pair (c(e),v(SERCA)) such that with v(SERCA) &gt; v∗(c(e))) is unstable in the sense that small perturbations will grow and can eventually turn into a calcium wave </plain></SENT>
+<SENT sid="5" pm="."><plain>And conversely; any pair (c(e),v(SERCA)) below the curve is stable in the sense that small perturbations to the resting state will decay to rest </plain></SENT>
+<SENT sid="6" pm="."><plain>This claim is supported by analyzing the stability of the system in terms of computing the eigenmodes of the linearized model </plain></SENT>
+<SENT sid="7" pm="."><plain>Furthermore, the claim is supported by direct simulations based on the non-linear model </plain></SENT>
+<SENT sid="8" pm="."><plain>Since the curve separating stable from unstable states is given as an explicit function, we can show how stability depends on other parameters of the model </plain></SENT>
+</text></document>

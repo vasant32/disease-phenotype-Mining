@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Human SALL1 is a homologue of the Drosophila region-specific homeotic gene sal, and is also known as a causative gene for <z:e sem="disease" ids="C0265246,C1531578" disease_type="Disease or Syndrome;Congenital Abnormality" abbrv="">Townes-Brocks syndrome</z:e>, which is characterized by multi-organ malformations </plain></SENT>
+<SENT sid="1" pm="."><plain>We previously demonstrated that mouse Sall1 plays a crucial role in ureteric bud invasion during kidney development, and possibly in nephron progenitor cells in the metanephric mesenchyme </plain></SENT>
+<SENT sid="2" pm="."><plain>To gain insights into the Sall1 functions in the kidney and other tissues, we generated R26Sall1 mice, in which Rosa26 locus stop sequences flanked by two loxP sites were located upstream of the Sall1 cDNA </plain></SENT>
+<SENT sid="3" pm="."><plain>This allele allowed exogenous Sall1 expression in a Cre recombinase-dependent manner </plain></SENT>
+<SENT sid="4" pm="."><plain>R26Sall1 mice were first crossed with CAGCre mice, which expressed Cre recombinase ubiquitously during embryogenesis </plain></SENT>
+<SENT sid="5" pm="."><plain>Mice expressing Sall1 ubiquitously were smaller in size compared with mice of other genotypes </plain></SENT>
+<SENT sid="6" pm="."><plain>We then crossed R26Sall1 mice with Six2Cre mice expressing Cre recombinase in the metanephric mesenchyme during kidney development </plain></SENT>
+<SENT sid="7" pm="."><plain>However, no kidney defects were observed </plain></SENT>
+<SENT sid="8" pm="."><plain>Taken together, overexpression of Sall1 does not affect kidney development, but does lead to a <z:mp ids='MP_0001262'>reduced body weight</z:mp>, suggesting that the optimal dosage of Sall1 is required for <z:mpath ids='MPATH_458'>normal</z:mpath> mouse development </plain></SENT>
+</text></document>

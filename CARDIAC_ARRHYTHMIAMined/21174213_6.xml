@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Transgenic (TG) Ca(2+)/calmodulin-dependent protein kinase II (CaMKII) δ(C) mice develop systolic <z:hpo ids='HP_0001635'>heart failure</z:hpo> (HF) </plain></SENT>
+<SENT sid="1" pm="."><plain>CaMKII regulates intracellular Ca(2+) handling proteins as well as sarcolemmal <z:chebi fb="0" ids="29101">Na(+)</z:chebi> channels </plain></SENT>
+<SENT sid="2" pm="."><plain>We hypothesized that CaMKII also contributes to diastolic dysfunction and <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> via augmentation of the late <z:chebi fb="0" ids="29101">Na(+)</z:chebi> current (late I(Na)) in early HF (8-week-old TG mice) </plain></SENT>
+<SENT sid="3" pm="."><plain>Echocardiography revealed severe diastolic dysfunction in addition to decreased systolic ejection fraction </plain></SENT>
+<SENT sid="4" pm="."><plain>Premature arrhythmogenic contractions (PACs) in isolated isometrically <z:mp ids='MP_0005424'>twitching</z:mp> papillary muscles only occurred in TG preparations (5 vs. 0, P &lt; 0.05) which could be completely terminated when treated with the late I(Na) inhibitor ranolazine (Ran, 5 μmol/L) </plain></SENT>
+<SENT sid="5" pm="."><plain>Force-frequency relationships revealed significantly reduced twitch force amplitudes in TG papillary muscles </plain></SENT>
+<SENT sid="6" pm="."><plain>Most importantly, diastolic tension increased with raising frequencies to a greater extent in TG papillary muscles compared to WT specimen (at 10 Hz: 3.7 ± 0.4 vs. 2.5 ± 0.3 mN/mm²; P &lt; 0.05) </plain></SENT>
+<SENT sid="7" pm="."><plain>Addition of Ran improved diastolic dysfunction to 2.1 ± 0.2 mN/mm² (at 10 Hz; P &lt; 0.05) without negative inotropic effects </plain></SENT>
+<SENT sid="8" pm="."><plain>Mechanistically, the late I(Na) was markedly elevated in myocytes isolated from TG mice and could be completely reversed by Ran </plain></SENT>
+<SENT sid="9" pm="."><plain>In conclusion, our results show for the first time that TG CaMKIIδ(C) overexpression induces diastolic dysfunction and arrhythmogenic triggers possibly via an enhanced late I(Na) </plain></SENT>
+<SENT sid="10" pm="."><plain>Inhibition of elevated late I(Na) had beneficial effects on <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> as well as diastolic function in papillary muscles from CaMKIIδ(C) TG mice </plain></SENT>
+<SENT sid="11" pm="."><plain>Thus, late I(Na) inhibition appears to be a promising option for diastolic dysfunction and <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> in HF where CaMKII is found to be increased </plain></SENT>
+</text></document>

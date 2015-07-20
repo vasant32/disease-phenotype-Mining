@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The two ubiquitously expressed <z:chebi fb="0" ids="16393">sphingosine</z:chebi> kinases (SphK) 1 and 2 are key regulators of the <z:chebi fb="0" ids="26739">sphingolipid</z:chebi> signaling pathway </plain></SENT>
+<SENT sid="1" pm="."><plain>Despite the formation of an identical messenger, i.e. <z:chebi fb="0" ids="37550">sphingosine 1-phosphate</z:chebi> (S1P), they exert strikingly different functions </plain></SENT>
+<SENT sid="2" pm="."><plain>Particularly, SphK2 is necessary for the phosphorylation of the <z:chebi fb="0" ids="16393">sphingosine</z:chebi> analog fingolimod (FTY720), which is protective in rodent <z:hpo ids='HP_0001297'>stroke</z:hpo> models </plain></SENT>
+<SENT sid="3" pm="."><plain>Using gene deficient mice lacking either SphK1 or SphK2, we investigated the role of the two <z:chebi fb="23" ids="18059">lipid</z:chebi> kinases in experimental <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+<SENT sid="4" pm="."><plain>We performed 2h transient middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (tMCAO) and analyzed lesion size and neurological function after 24h </plain></SENT>
+<SENT sid="5" pm="."><plain>Treatment groups received 1mg/kg FTY720 </plain></SENT>
+<SENT sid="6" pm="."><plain>Neutrophil infiltration, microglia activation, <z:chebi fb="2" ids="33699">mRNA</z:chebi> and protein expression of SphK1, SphK2 and the S1P(1) receptor after tMCAO were studied </plain></SENT>
+<SENT sid="7" pm="."><plain>Genetic deletion of SphK2 but not SphK1 increased ischemic lesion size and worsened neurological function after tMCAO </plain></SENT>
+<SENT sid="8" pm="."><plain>The protective effect of FTY720 was conserved in SphK1(-/-) mice but not in SphK2(-/-) mice </plain></SENT>
+<SENT sid="9" pm="."><plain>This suggests that SphK2 activity is an important endogenous protective mechanism in <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> and corroborates that the protective effect of FTY720 is mediated via phospho-FTY720 </plain></SENT>
+</text></document>

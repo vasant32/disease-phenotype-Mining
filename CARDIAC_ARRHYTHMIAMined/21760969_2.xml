@@ -1,0 +1,22 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Elevated levels of <z:chebi fb="0" ids="17230">homocysteine</z:chebi> (<z:chebi fb="0" ids="17230">Hcy</z:chebi>) known as <z:e sem="disease" ids="C0598608" disease_type="Disease or Syndrome" abbrv="">hyperhomocysteinemia</z:e> (HHcy) is associated with <z:hpo ids='HP_0011675'>cardiac arrhythmia</z:hpo> and <z:hpo ids='HP_0001645'>sudden cardiac death</z:hpo> (SCD) </plain></SENT>
+<SENT sid="1" pm="."><plain><z:chebi fb="0" ids="17230">Hcy</z:chebi> increases iNOS, activates matrix metalloproteinase (MMP), disrupts connexin-43 and increases collagen/elastin ratio </plain></SENT>
+<SENT sid="2" pm="."><plain>The disruption of connexin-43 and accumulation of collagen (<z:mp ids='MP_0003045'>fibrosis</z:mp>) interupt cardiac conduction and attenuate NO transport from endothelium to myocyte (E-M) causing E-M uncoupling </plain></SENT>
+<SENT sid="3" pm="."><plain>We hypothesize that <z:chebi fb="0" ids="17230">Hcy</z:chebi> increases mtNOS, metalloproteinase activity, disrupts connexin-43, exacerbates endothelial-myocyte uncoupling, and induces <z:hpo ids='HP_0001635'>cardiac failure</z:hpo> by activating <z:chebi fb="0" ids="31882">NMDA</z:chebi>-R1 in structural <z:e sem="disease" ids="C0018799" disease_type="Disease or Syndrome" abbrv="">heart disease</z:e> </plain></SENT>
+<SENT sid="4" pm="."><plain><z:hpo ids='HP_0011010'>Chronic</z:hpo> volume overload <z:hpo ids='HP_0001635'>heart failure</z:hpo> was created by aorta-venacava (AV) <z:mpath ids='MPATH_70'>fistula</z:mpath> </plain></SENT>
+<SENT sid="5" pm="."><plain>HHcy was induced by adminstrering <z:chebi fb="0" ids="17230">Hcy</z:chebi> in drinking water </plain></SENT>
+<SENT sid="6" pm="."><plain><z:chebi fb="0" ids="31882">NMDA</z:chebi>-R1 was blocked by dizocilpine (MK-801) </plain></SENT>
+<SENT sid="7" pm="."><plain>EKG and M-mode Echocardiography was performed </plain></SENT>
+<SENT sid="8" pm="."><plain>The E-M coupling was determined in cardiac rings </plain></SENT>
+<SENT sid="9" pm="."><plain>LV mitochondria was isolated </plain></SENT>
+<SENT sid="10" pm="."><plain>Levels of <z:chebi fb="0" ids="31882">NMDA</z:chebi>-R1, peroxiredoxin, NOX4, and mtNOS were measured </plain></SENT>
+<SENT sid="11" pm="."><plain>The degradation of connexin-43, collagen and elastin was measured by Western blot analysis </plain></SENT>
+<SENT sid="12" pm="."><plain>Mouse cardiac endothelial cells were cultured with or without <z:chebi fb="0" ids="17230">Hcy</z:chebi> or MK-801 </plain></SENT>
+<SENT sid="13" pm="."><plain>The results suggest systolic and diastolic <z:hpo ids='HP_0001635'>heart failure</z:hpo> in HHcy and AVF mice </plain></SENT>
+<SENT sid="14" pm="."><plain>The levels of connexin, collagen degradation and MMP-9 were increased </plain></SENT>
+<SENT sid="15" pm="."><plain>The elastin was decreased in HHcy and AVF hearts </plain></SENT>
+<SENT sid="16" pm="."><plain>The <z:hpo ids='HP_0001427'>mitochondrial</z:hpo> NOX4 increased and peroxiredoxin was decreased </plain></SENT>
+<SENT sid="17" pm="."><plain>The mtNOS activity was synergistically increased in HHcy, AVF and HHcy+AVF hearts </plain></SENT>
+<SENT sid="18" pm="."><plain>The cardiac contraction and endothelial dependent relaxation was attenutated in HHcy and AVF hearts </plain></SENT>
+<SENT sid="19" pm="."><plain>Interestingly, the treatment with MK-801 mitigated the contractile dysfunction </plain></SENT>
+<SENT sid="20" pm="."><plain>These studies delineated the mechanism of <z:chebi fb="0" ids="17230">Hcy</z:chebi>-dependent endothelial-myocyte uncoupling in <z:hpo ids='HP_0011675'>cardiac arrhythmia</z:hpo> and failure, and have therapeutic ramifications for <z:hpo ids='HP_0001645'>sudden cardiac death</z:hpo> </plain></SENT>
+</text></document>

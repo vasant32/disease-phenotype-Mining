@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Antithymocyte globulin (ATG) is an effective treatment in patients with severe <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> (SAA) </plain></SENT>
+<SENT sid="1" pm="."><plain>Its mechanism of action remains unclear, although it has been assumed to be immunosuppressive </plain></SENT>
+<SENT sid="2" pm="."><plain>However, ATG has also been shown by several laboratories to be immunostimulatory </plain></SENT>
+<SENT sid="3" pm="."><plain>Recently, interleukin-1 (IL-1) production has been found to be decreased in <z:chebi fb="0" ids="16412">lipopolysaccharide</z:chebi>-stimulated peripheral blood monocytes obtained from SAA patients </plain></SENT>
+<SENT sid="4" pm="."><plain>We have investigated the ability of ATG to function as an immunostimulatory agent via the production of IL-1 and IL-6 by <z:mpath ids='MPATH_458'>normal</z:mpath> human monocytes in vitro </plain></SENT>
+<SENT sid="5" pm="."><plain>Supernatants from ATG-stimulated monocytes were assayed for biologically active and immunoreactive IL-1 and IL-6 </plain></SENT>
+<SENT sid="6" pm="."><plain>We have found that ATG, via its F(ab')2 fragment is a powerful inducer of IL-1 and IL-6 production </plain></SENT>
+<SENT sid="7" pm="."><plain>Furthermore, ATG induction of both cytokines from <z:mpath ids='MPATH_458'>normal</z:mpath> monocytes required de novo synthesis, as determined by <z:chebi fb="0" ids="37983">35S</z:chebi>-methionine incorporation </plain></SENT>
+<SENT sid="8" pm="."><plain>Because these two cytokines synergize with other cytokines at both the stem cell and progenitor levels, these stimulatory properties of ATG may be relevant to the treatment of SAA </plain></SENT>
+<SENT sid="9" pm="."><plain>This would favor the hypothesis of a bimodal mechanism for ATG as an inducer of hematopoietic growth factors and as an <z:chebi fb="1" ids="35705">immunosuppressive agent</z:chebi> </plain></SENT>
+</text></document>

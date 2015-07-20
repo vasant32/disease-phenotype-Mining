@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Ubiquitin-dependent protein degradation impacts many cellular processes.However, the regulation of ubiquitin-conjugating enzymes (UBCs) in <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> is unknown </plain></SENT>
+<SENT sid="1" pm="."><plain>We find that the human CDC34 UBC protein is expressed at a 3-4 fold higher level (P &lt; 0.001) in pediatric T cell than in <z:hpo ids='HP_0004812'>pre-B-cell acute lymphoblastic leukemia</z:hpo> (ALL) before treatment in two independent patient sets </plain></SENT>
+<SENT sid="2" pm="."><plain>The level of CDC34 <z:chebi fb="2" ids="33699">mRNA</z:chebi> was similar in both types of <z:hpo ids='HP_0001909'>leukemia</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>CDC34 expression levels in <z:mpath ids='MPATH_458'>normal</z:mpath> resting T cells, B cells and activated T lymphocytes was comparable with pre-B-cell ALL </plain></SENT>
+<SENT sid="4" pm="."><plain>CDC34 protein (but not <z:chebi fb="2" ids="33699">mRNA</z:chebi>) was also increased in T-cell ALL compared with pre-B-cell ALL cell lines </plain></SENT>
+<SENT sid="5" pm="."><plain>The difference in expression was not attributable to mutation or associated with altered CDC34 stability </plain></SENT>
+<SENT sid="6" pm="."><plain>Immunohistochemistry and cellular fractionation reveals a <z:hpo ids='HP_0001425'>heterogeneous</z:hpo> CDC34 expression pattern including cells containing primarily cytoplasmic or nuclear protein </plain></SENT>
+<SENT sid="7" pm="."><plain>Thus, a feature of pediatric T-cell ALL is posttranscriptional up-regulation and <z:hpo ids='HP_0001425'>heterogeneous</z:hpo> localization of the human CDC34 UBC </plain></SENT>
+</text></document>

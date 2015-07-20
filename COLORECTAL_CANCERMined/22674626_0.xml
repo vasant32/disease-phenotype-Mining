@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND OBJECTIVES: <z:chebi fb="47" ids="16027,28971">AMP</z:chebi>-activated protein kinase (AMPK) is a main regulator of energy metabolism through the inhibition of biosynthetic pathways and enhancement of ATP-generating pathways </plain></SENT>
+<SENT sid="1" pm="."><plain>However, targeting AMPK as anti-<z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> therapy remains controversial </plain></SENT>
+<SENT sid="2" pm="."><plain>In this study, we examined the effect of compound C, a small molecule inhibitor of AMPK, on the proliferation of several human <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> cell lines with diverse characteristics </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: Four human <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> cell lines (HCT116, DLD-1, SW480, and KM12C) were treated with compound C </plain></SENT>
+<SENT sid="4" pm="."><plain>Cell viability was determined by MTS assay </plain></SENT>
+<SENT sid="5" pm="."><plain>Cell cycle prolife was analyzed by flow cytometry </plain></SENT>
+<SENT sid="6" pm="."><plain>Acidic vesicular organelles were detected by <z:chebi fb="0" ids="51739">acridine orange</z:chebi> staining </plain></SENT>
+<SENT sid="7" pm="."><plain>Protein levels were measured by western blotting </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: Compound C inhibited the growth of four cell lines in a dose-dependent manner and caused G(2) /M arrest </plain></SENT>
+<SENT sid="9" pm="."><plain>Compound C increased sub-G(1) cell population and induced chromatin condensation and cleavage of PARP in HCT116 and KM12C cells, while it induced acidic vesicular formation and conversion of LC3-I to autophagosome-associated LC3-II in DLD-1 and SW480 cells </plain></SENT>
+<SENT sid="10" pm="."><plain>Survivin, an anti-apoptotic protein, was down-regulated in <z:hpo ids='HP_0000001'>all</z:hpo> cell lines treated with compound C </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: Compound C induces apoptotic or autophagic <z:hpo ids='HP_0011420'>death</z:hpo> in <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> cells and the preferred <z:hpo ids='HP_0011420'>death</z:hpo> mode is cell type-dependent </plain></SENT>
+</text></document>

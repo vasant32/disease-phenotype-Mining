@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIM: To analyze final height and hormonal function in long-term survivors of bone marrow transplantation (BMT) </plain></SENT>
+<SENT sid="1" pm="."><plain>PATIENTS: Group 1 consisted of 16 patients (10 boys) with a <z:e sem="disease" ids="C0376545" disease_type="Neoplastic Process" abbrv="">hematologic malignancy</z:e>, mostly <z:hpo ids='HP_0001909'>leukemia</z:hpo>, conditioned for BMT with total body irradiation (TBI), 7.5 to 12 Gy, and <z:chebi fb="0" ids="4027">cyclophosphamide</z:chebi> </plain></SENT>
+<SENT sid="2" pm="."><plain>Group 2 consisted of 14 patients (9 boys) with severe <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo>, conditioned with chemotherapy only </plain></SENT>
+<SENT sid="3" pm="."><plain>RESULTS: In group 1, patients achieved a reduced final height after BMT </plain></SENT>
+<SENT sid="4" pm="."><plain>The difference between the height standard deviation score (<z:chebi fb="26" ids="8984">SDS</z:chebi>) at BMT and the height <z:chebi fb="26" ids="8984">SDS</z:chebi> at final height was -1.96 (0.82) <z:chebi fb="26" ids="8984">SDS</z:chebi> in boys and -0.92 (0.71) <z:chebi fb="26" ids="8984">SDS</z:chebi> in girls (p = 0.0001, and p = 0.02 respectively) </plain></SENT>
+<SENT sid="5" pm="."><plain>Final height was also lower than target height (boys, p = 0.01; girls, p = 0.03) </plain></SENT>
+<SENT sid="6" pm="."><plain>Prepubertal growth in the first 3 years after BMT was <z:mpath ids='MPATH_458'>normal</z:mpath> but pubertal height gain was decreased </plain></SENT>
+<SENT sid="7" pm="."><plain>The patients in group 2 achieved <z:mpath ids='MPATH_458'>normal</z:mpath> height </plain></SENT>
+<SENT sid="8" pm="."><plain>Thyroid function and adrenal function were <z:mpath ids='MPATH_458'>normal</z:mpath> in <z:hpo ids='HP_0000001'>all</z:hpo> patients, and no <z:hpo ids='HP_0000824'>growth hormone deficiency</z:hpo> was detected </plain></SENT>
+<SENT sid="9" pm="."><plain>Serum follicle-stimulating hormone values after BMT were increased in <z:hpo ids='HP_0000001'>all</z:hpo> group 1 patients, with return to <z:mpath ids='MPATH_458'>normal</z:mpath> in two patients </plain></SENT>
+<SENT sid="10" pm="."><plain>Serum luteinizing hormone values were increased in <z:hpo ids='HP_0000001'>all</z:hpo> group 1 girls, with recovery in one girl </plain></SENT>
+<SENT sid="11" pm="."><plain><z:mpath ids='MPATH_458'>Normal</z:mpath> serum luteinizing hormone values and spontaneous puberty were found in <z:hpo ids='HP_0000001'>all</z:hpo> group 1 boys </plain></SENT>
+<SENT sid="12" pm="."><plain>In group 2, disturbances in gonadotropins were seen only in three boys and two girls </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSION: In patients treated in childhood with BMT after chemotherapy and TBI with 7.5 Gy or more, final height is compromised because of blunted growth in puberty </plain></SENT>
+<SENT sid="14" pm="."><plain>Patients who had not received TBI suffered no height loss </plain></SENT>
+<SENT sid="15" pm="."><plain>In the majority of patients, the combination of chemotherapy and TBI also resulted in irreversible disturbances of gonadal function </plain></SENT>
+</text></document>

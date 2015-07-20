@@ -1,0 +1,19 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:e sem="disease" ids="C0740380" disease_type="Disease or Syndrome" abbrv="">Varicella-zoster</z:e> virus (VZV) <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infection</z:e> of the central <z:mp ids='MP_0008912'>nervous</z:mp> system (<z:chebi fb="7" ids="29425,29426,29441,29447">CNS</z:chebi>) is rare after hematopoietic stem cell transplantation (SCT) </plain></SENT>
+<SENT sid="1" pm="."><plain>Here, we describe the first patient who developed VZV <z:hpo ids='HP_0002383'>encephalitis</z:hpo> after cord blood transplantation (CBT) </plain></SENT>
+<SENT sid="2" pm="."><plain>A 35-year-old man with <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo>-overt <z:hpo ids='HP_0001909'>leukemia</z:hpo> underwent CBT </plain></SENT>
+<SENT sid="3" pm="."><plain>On day +23, a neutrophil count consistently greater than 0.5 x 10(9)/L was achieved </plain></SENT>
+<SENT sid="4" pm="."><plain>On day +42, 1 mg/kg per day of <z:chebi fb="2" ids="8378">prednisolone</z:chebi> therapy was initiated for grade III <z:hpo ids='HP_0011009'>acute</z:hpo> <z:e sem="disease" ids="C0018133" disease_type="Disease or Syndrome" abbrv="GVH">graft-versus-host disease</z:e> (GVHD) </plain></SENT>
+<SENT sid="5" pm="."><plain>Then, the dose of <z:chebi fb="2" ids="8378">prednisolone</z:chebi> was slowly reduced </plain></SENT>
+<SENT sid="6" pm="."><plain>For exacerbation of <z:hpo ids='HP_0011010'>chronic</z:hpo> GVHD, the dose of <z:chebi fb="2" ids="8378">prednisolone</z:chebi> was again increased to 1 mg/kg per day on day +231 </plain></SENT>
+<SENT sid="7" pm="."><plain>On day +265, localized cutaneous <z:e sem="disease" ids="C0019360" disease_type="Disease or Syndrome" abbrv="ZONA">zoster</z:e> in the left thoracic region occurred, but soon resolved after <z:chebi fb="4" ids="2453">acyclovir</z:chebi> therapy </plain></SENT>
+<SENT sid="8" pm="."><plain>On day +309, he suddenly developed <z:hpo ids='HP_0000651'>diplopia</z:hpo> </plain></SENT>
+<SENT sid="9" pm="."><plain>Subsequently, right <z:hpo ids='HP_0010628'>facial palsy</z:hpo> and <z:hpo ids='HP_0000365'>hearing impairment</z:hpo> occurred </plain></SENT>
+<SENT sid="10" pm="."><plain>No <z:hpo ids='HP_0000988'>skin rash</z:hpo> was observed </plain></SENT>
+<SENT sid="11" pm="."><plain>Magnetic resonance imaging (MRI) scans revealed multifocal abnormal high-signal intensity in the <z:chebi fb="7" ids="29425,29426,29441,29447">CNS</z:chebi> </plain></SENT>
+<SENT sid="12" pm="."><plain>A high level of VZV DNA was detected in a cerebrospinal fluid specimen </plain></SENT>
+<SENT sid="13" pm="."><plain>He was diagnosed with VZV <z:hpo ids='HP_0002383'>encephalitis</z:hpo> </plain></SENT>
+<SENT sid="14" pm="."><plain><z:chebi fb="4" ids="2453">Acyclovir</z:chebi> was given intravenously for 40 days </plain></SENT>
+<SENT sid="15" pm="."><plain>Four months after the <z:hpo ids='HP_0003674'>onset</z:hpo>, the neurologic symptoms had incompletely resolved </plain></SENT>
+<SENT sid="16" pm="."><plain>MRI scans showed substantial resolution but with mild residual lesions </plain></SENT>
+<SENT sid="17" pm="."><plain>The present report indicates that VZV should be considered as a possible causative agent in patients who develop multifocal neurologic symptoms of the <z:chebi fb="7" ids="29425,29426,29441,29447">CNS</z:chebi> after SCT </plain></SENT>
+</text></document>

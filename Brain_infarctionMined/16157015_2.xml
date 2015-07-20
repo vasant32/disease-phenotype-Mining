@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVES: <z:mpath ids='MPATH_124'>Infarct</z:mpath> volume correlation using magnetic resonance imaging (MRI) and pathology specimens enables exact tissue localization of cerebral injury following experimental <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>We describe a protocol that enables co-registration of radiographic signal change and histologic <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> in a non-human primate model of <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: One male baboon underwent left middle cerebral artery territory occlusion/reperfusion </plain></SENT>
+<SENT sid="3" pm="."><plain>MRI [5 mm axial T2 weighted (T2W) slices] was carried out 9 days post-<z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> after which the animal was killed </plain></SENT>
+<SENT sid="4" pm="."><plain>Immediately post-mortem, the whole brain was perfused and fixed in <z:chebi fb="0" ids="31962">paraformaldehyde</z:chebi> and sliced into 5 mm axial sections that corresponded to those demonstrated on MRI </plain></SENT>
+<SENT sid="5" pm="."><plain>Slices (40 microm) were obtained from each section and were then stained using Luxol <z:chebi fb="1" ids="51686">hematoxylin</z:chebi> and eosin </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: The relative area of hyperintensity demonstrated on T2W MRI approximates, in size and location, the region of <z:mpath ids='MPATH_124'>infarct</z:mpath> on gross pathology </plain></SENT>
+<SENT sid="7" pm="."><plain>This was confirmed microscopically </plain></SENT>
+<SENT sid="8" pm="."><plain>DISCUSSION: With the use of advanced imaging modalities, this co-registration technique affords the capacity to differentiate ischemic core, penumbra, and uninjured cortex following experimental <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+<SENT sid="9" pm="."><plain>Such a precise delineation enables immunohistochemical analysis of a wide variety of substrates in each of the aforementioned regions </plain></SENT>
+</text></document>

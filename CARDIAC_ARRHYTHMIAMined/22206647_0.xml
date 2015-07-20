@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The sarco/endoplasmic reticulum (SER) Ca(2+) pool is refilled by the SER Ca(2+) pump (SERCA) using cytosolic Ca(2+) and/or extracellular Ca(2+) entering the cell </plain></SENT>
+<SENT sid="1" pm="."><plain>The effects of the SERCA pump inhibitor <z:chebi fb="0" ids="22450,38615">cyclopiazonic acid</z:chebi> (CPA) were studied in pig coronary artery smooth muscle using two protocols </plain></SENT>
+<SENT sid="2" pm="."><plain>In protocol A, the SERCA pump was inhibited by adding CPA to cells/tissues in Ca(2+)-containing solution, whereas in protocol B, CPA was added to cells/tissues in Ca(2+)-free solution, followed by reintroduction of extracellular Ca(2+) </plain></SENT>
+<SENT sid="3" pm="."><plain>Addition of CPA increased cytosolic Ca(2+) in cultured smooth muscle cells and elicited contraction in de-endothelialized coronary arteries in both protocols </plain></SENT>
+<SENT sid="4" pm="."><plain>Based on pharmacological experiments, the CPA-induced contraction of de-endothelialized arteries in protocol B resulted from store operated Ca(2+) entry (SOCE) </plain></SENT>
+<SENT sid="5" pm="."><plain>Reactive oxygen species such as <z:chebi fb="39" ids="44785">peroxides</z:chebi> are known to damage the SERCA pump in this tissue </plain></SENT>
+<SENT sid="6" pm="."><plain>Consistently, CPA-induced contractions were decreased in arteries pre-treated with <z:chebi fb="17" ids="16240">hydrogen peroxide</z:chebi> in protocol A </plain></SENT>
+<SENT sid="7" pm="."><plain>However, this pretreatment also decreased the force of contraction due to SOCE in protocol B, suggesting that it closed SOCE </plain></SENT>
+<SENT sid="8" pm="."><plain>We propose that the closure of SOCE triggered by exposure to reactive oxygen species may be a protective mechanism, so that Ca(2+) entry by this pathway is disallowed when SERCA is damaged in pathologies such as <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e>-reperfusion </plain></SENT>
+</text></document>

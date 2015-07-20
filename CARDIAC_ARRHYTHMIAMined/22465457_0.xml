@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: The sympathetic <z:mp ids='MP_0008912'>nervous</z:mp> system is thought to play a role in the genesis of ventricular tachyarrhythmias (VT) </plain></SENT>
+<SENT sid="1" pm="."><plain>Left and added right cardiac sympathectomy have been shown to reduce the burden of <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> in the setting of a VT storm </plain></SENT>
+<SENT sid="2" pm="."><plain>However, the contribution of the right stellate ganglion (RSG) and the left stellate ganglion (LSG) to the innervation of the anterior left ventricular (LV) wall is not well understood </plain></SENT>
+<SENT sid="3" pm="."><plain>OBJECTIVE: To evaluate the innervation of the anterior LV wall by the LSG and the RSG </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS: The heart and stellate ganglia were exposed via sternotomy in pigs with <z:mpath ids='MPATH_458'>normal</z:mpath> hearts (n = 8) </plain></SENT>
+<SENT sid="5" pm="."><plain>A 20-electrode catheter was placed on the anterior LV wall to record activation recovery interval (ARI), a surrogate measure of action potential duration </plain></SENT>
+<SENT sid="6" pm="."><plain>A microdialysis catheter was inserted in a similar location to sample interstitial <z:chebi fb="1" ids="18357,33569">norepinephrine</z:chebi> (NE) content </plain></SENT>
+<SENT sid="7" pm="."><plain>ARI and NE measurements were recorded at baseline and during LSG and RSG stimulation </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: LSG stimulation shortened ARI by 17.1% ± 10.5% (mean ± standard error), while RSG stimulation shortened ARI by 42.1% ± 15.7%, P = .04 (LSG vs RSG) </plain></SENT>
+<SENT sid="9" pm="."><plain>LSG stimulation increased interstitial NE levels by 200% ± 65%, while RSG stimulation increased the NE content by 260% ± 40% (P = .012) </plain></SENT>
+<SENT sid="10" pm="."><plain>LSG stimulation increased dispersion in ARI from 376.0 ± 83.7 ms(2) to 1242.5 ± 566 ms(2) (P = .03) and caused <z:hpo ids='HP_0001663'>ventricular fibrillation</z:hpo> in 2 pigs </plain></SENT>
+<SENT sid="11" pm="."><plain>During RSG stimulation, dispersion increased from 419 ± 65.8 to 474.8 ± 81 ms(2) (P = .4) </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: Both the LSG and the RSG provide significant innervation to the anterior LV wall as demonstrated by both ARI shortening and NE concentrations </plain></SENT>
+<SENT sid="13" pm="."><plain>LSG stimulation significantly increases ARI dispersion </plain></SENT>
+<SENT sid="14" pm="."><plain>This study provides mechanistic insight into the beneficial effects of left sympathectomy and the additional role of right sympathectomy in reducing <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> in patients with anterior myocardial scars and VT storm </plain></SENT>
+</text></document>

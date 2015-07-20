@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The <z:hpo ids='HP_0002204'>Pulmonary Embolism</z:hpo> Severity Index (PESI) has been shown to predict 30 and 90 day mortality after PE </plain></SENT>
+<SENT sid="1" pm="."><plain>However, whether the PESI predicts patients who will be free of clinically adverse outcomes during a typical hospitalisation is not known </plain></SENT>
+<SENT sid="2" pm="."><plain>Retrospective analysis of Emergency Department patients with PE from May 2006 to April 2008 </plain></SENT>
+<SENT sid="3" pm="."><plain>We compiled demographics, data to calculate the PESI and a composite outcome </plain></SENT>
+<SENT sid="4" pm="."><plain>Patients were considered to have a negative PESI if they were in category I or II (≤85 points) </plain></SENT>
+<SENT sid="5" pm="."><plain>Patients were considered to have the composite outcome if, within five days of diagnosis, they: A) had recurrent PE; B) developed a new cardiac dysrhythmia; C) required advanced cardiac life support; D) required respiratory support; E) required vasopressors; F) received thrombolysis; G) had major <z:mp ids='MP_0001914'>bleeding</z:mp>; H) returned to the ED; I) died </plain></SENT>
+<SENT sid="6" pm="."><plain>We enrolled 245 patients with PE </plain></SENT>
+<SENT sid="7" pm="."><plain>Of these, 115 (47%) were male, 204 (83%) were white </plain></SENT>
+<SENT sid="8" pm="."><plain>The mean age was 57 ± 17 years </plain></SENT>
+<SENT sid="9" pm="."><plain>The PESI identified 109 (44%) as low risk and 136 (56%) as high risk </plain></SENT>
+<SENT sid="10" pm="."><plain>Sixty-one (26%) patients had the outcome, of whom nine (14%) were characterised as low risk by the PESI </plain></SENT>
+<SENT sid="11" pm="."><plain>Test characteristics were: sensitivity 86% (95% confidence interval [CI]: 75%-93%), specificity 55% (95% CI: 47%-62%), NPV 63% (95% CI: 55%-70%), <z:chebi fb="0" ids="53261">PPV</z:chebi> 40% (95% CI: 31%-49%), LR(+) 1.9 (95% CI: 1.57-2.30) and LR(-) 0.26 (95% CI: 0.14-0.48) </plain></SENT>
+<SENT sid="12" pm="."><plain>Of the patients who had an adverse clinical event or required a hospital-based intervention within the first five days after PE diagnosis, 14% were categorised by the PESI as safe for discharge [corrected]  </plain></SENT>
+</text></document>

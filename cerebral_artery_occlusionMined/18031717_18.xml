@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Reperfusion injury is a complication of recanalization therapies after focal <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>The disruption of the blood-brain barrier (<z:chebi fb="2" ids="33602">BBB</z:chebi>) caused by up-regulated metalloproteinases (MMPs) can lead to <z:hpo ids='HP_0000969'>edema</z:hpo> and <z:mp ids='MP_0001914'>hemorrhage</z:mp> </plain></SENT>
+<SENT sid="2" pm="."><plain>Middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (MCAO=90 min) and reperfusion (R=24 h vs. 5 days) was induced in male Wistar rats </plain></SENT>
+<SENT sid="3" pm="."><plain>Rats were randomized in four groups: (1) control (C), (2) twice daily <z:chebi fb="1" ids="50694">minocycline</z:chebi> (30 mg/kg bodyweight) every day (M), (3) <z:hpo ids='HP_0002045'>hypothermia</z:hpo> (33 degrees C) for 4 h starting 60 min after occlusion (H), (4) combination of groups 2 and 3 (MH) </plain></SENT>
+<SENT sid="4" pm="."><plain>Serial MRI was performed regarding <z:mpath ids='MPATH_124'>infarct</z:mpath> evolution and <z:chebi fb="2" ids="33602">BBB</z:chebi> disruption, MMP-2 and MMP-9 were assessed by zymography of serum and ischemic brain tissue, and a functional neuroscore was done at 24 h and 5 days </plain></SENT>
+<SENT sid="5" pm="."><plain>M and H reduced both <z:mpath ids='MPATH_124'>infarct</z:mpath> sizes, volume and signal intensity of <z:chebi fb="2" ids="33602">BBB</z:chebi> breakdown and improved neuroscore at <z:hpo ids='HP_0000001'>all</z:hpo> points in time to the same extent </plain></SENT>
+<SENT sid="6" pm="."><plain>This was most likely due to inhibition of MMP-2 and MMP-9 </plain></SENT>
+<SENT sid="7" pm="."><plain>The presence of MMP-9 at 24 h or MMP-2 at 5 days in brain tissue correlated with <z:chebi fb="2" ids="33602">BBB</z:chebi> breakdown whereas serum MMP-2- and -9 showed no relationship with <z:chebi fb="2" ids="33602">BBB</z:chebi> breakdown </plain></SENT>
+<SENT sid="8" pm="."><plain>The combination MH had a small but not significantly additional effect over the single treatments </plain></SENT>
+<SENT sid="9" pm="."><plain><z:chebi fb="1" ids="50694">Minocycline</z:chebi> seems to be as neuroprotective as <z:hpo ids='HP_0002045'>hypothermia</z:hpo> in the <z:hpo ids='HP_0011009'>acute</z:hpo> and <z:hpo ids='HP_0011011'>subacute</z:hpo> phase after <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> </plain></SENT>
+<SENT sid="10" pm="."><plain>One essential mechanism is the inhibition of MMPs </plain></SENT>
+<SENT sid="11" pm="."><plain>The combination therapy is only slightly superior </plain></SENT>
+<SENT sid="12" pm="."><plain>The net effect of MMPs inhibition up to 5 days after focal <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> is still beneficial </plain></SENT>
+</text></document>

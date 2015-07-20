@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Purpose KRAS mutations are predictive of lack of response to monoclonal antibodies (mAb) against EGFR in <z:e sem="disease" ids="C0948380" disease_type="Neoplastic Process" abbrv="">metastatic colorectal cancer</z:e> (mCRC) </plain></SENT>
+<SENT sid="1" pm="."><plain>Most <z:mp ids='MP_0002169'>wild-type</z:mp> KRAS patients, however, are also resistant </plain></SENT>
+<SENT sid="2" pm="."><plain>Retrospective data suggest that EGFR silencing play a role in resistance to therapy </plain></SENT>
+<SENT sid="3" pm="."><plain>We conducted a study to evaluate the safety and efficacy of <z:chebi fb="0" ids="50131">decitabine</z:chebi> (a hypomethylating agent) in combination with panitumumab (mAb against EGFR) in mCRC patients </plain></SENT>
+<SENT sid="4" pm="."><plain>Experimental design 20 patients with <z:mp ids='MP_0002169'>wild-type</z:mp> KRAS mCRC were included in this phase I/II study </plain></SENT>
+<SENT sid="5" pm="."><plain>Patients were treated with <z:chebi fb="0" ids="50131">decitabine</z:chebi> at 45 mg/m(2) IV over 2 h on day 1 and 15 and panitumumab 6 mg/kg IV over 1 h on day 8 and 22 every 28 days </plain></SENT>
+<SENT sid="6" pm="."><plain>Blood samples were collected at baseline, day 8, 15 and 22 </plain></SENT>
+<SENT sid="7" pm="."><plain>Quantitative polymerase chain reaction was used to measure promoter-specific methylation in peripheral-blood cells (PBMCs) </plain></SENT>
+<SENT sid="8" pm="."><plain>Results The most common adverse events were grade 1-2 (<z:e sem="disease" ids="C0015230" disease_type="Disease or Syndrome" abbrv="">rash</z:e> and <z:hpo ids='HP_0002917'>hypomagnesemia</z:hpo>); 3 (16 %) patients had grade III-IV <z:hpo ids='HP_0001875'>neutropenia</z:hpo> including one patient with neutropenic <z:hpo ids='HP_0001945'>fever</z:hpo> </plain></SENT>
+<SENT sid="9" pm="."><plain>Two of 20 patients (10 %) had a partial response </plain></SENT>
+<SENT sid="10" pm="."><plain>Both had previously received cetuximab </plain></SENT>
+<SENT sid="11" pm="."><plain>Ten patients had stable disease (3 of them longer than 16 weeks) </plain></SENT>
+<SENT sid="12" pm="."><plain>Decreased methylation of the MAGE promoter was not evidenced in PBMCs </plain></SENT>
+<SENT sid="13" pm="."><plain>Conclusions The combination of <z:chebi fb="0" ids="50131">decitabine</z:chebi> and panitumumab was well tolerated and showed activity in <z:mp ids='MP_0002169'>wild-type</z:mp> KRAS mCRC patients previously treated with cetuximab </plain></SENT>
+<SENT sid="14" pm="."><plain>Target modulation in surrogate tissues was not achieved and <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> biopsies were not available </plain></SENT>
+<SENT sid="15" pm="."><plain>Future studies evaluating hypomethylating agents in combination with EGFR mAb in patients with mCRC are warranted </plain></SENT>
+</text></document>

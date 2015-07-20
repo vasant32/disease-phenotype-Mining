@@ -1,0 +1,6 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>An accurate, reproducible method for determining the <z:mpath ids='MPATH_124'>infarct</z:mpath> volumes of gray matter structures is presented for use with presently available image analysis systems </plain></SENT>
+<SENT sid="1" pm="."><plain>Areas of stained sections with optical densities above that of a threshold value are automatically recognized and measured </plain></SENT>
+<SENT sid="2" pm="."><plain>This eliminates the potential error and bias inherent in manually delineating infarcted regions </plain></SENT>
+<SENT sid="3" pm="."><plain>Moreover, the volume of surviving <z:mpath ids='MPATH_458'>normal</z:mpath> gray matter is determined rather than that of the <z:mpath ids='MPATH_124'>infarct</z:mpath> </plain></SENT>
+<SENT sid="4" pm="."><plain>This approach minimizes the error that is introduced by <z:hpo ids='HP_0000969'>edema</z:hpo>, which distorts and enlarges the infarcted tissue and surrounding white matter </plain></SENT>
+</text></document>

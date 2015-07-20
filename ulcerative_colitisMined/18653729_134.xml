@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: A novel T helper (Th) cell lineage, Th17, that exclusively produces the proinflammatory cytokine interleukin 17 (IL17) has been reported to play important roles in various <z:e sem="disease" ids="C1290884" disease_type="Disease or Syndrome" abbrv="">inflammatory diseases</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>IL23 is also focused upon for its potential to promote Th17 </plain></SENT>
+<SENT sid="2" pm="."><plain>Here, the roles of the IL23/IL17 axis in <z:e sem="disease" ids="C0021390" disease_type="Disease or Syndrome" abbrv="">inflammatory bowel diseases</z:e> such as <z:hpo ids='HP_0100279'>ulcerative colitis</z:hpo> (UC) and <z:hpo ids='HP_0100280'>Crohn's disease</z:hpo> (CD) were investigated </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: Mucosal samples were obtained from surgically resected specimens (controls, n = 12; UC, n = 17; CD, n = 22) </plain></SENT>
+<SENT sid="4" pm="."><plain>IL17 production by isolated peripheral blood (PB) and lamina propria (LP) CD4(+) cells was examined </plain></SENT>
+<SENT sid="5" pm="."><plain>Quantitative PCR amplification was performed to determine the <z:chebi fb="2" ids="33699">mRNA</z:chebi> expression levels of IL17, interferon gamma (IFNgamma), IL23 receptor (IL23R) and <z:chebi fb="2" ids="26536">retinoic acid</z:chebi>-related orphan receptor gamma (RORC) in LP CD4(+) cells, and IL12 family members, such as IL12p40, IL12p35 and IL23p19, in whole mucosal specimens </plain></SENT>
+<SENT sid="6" pm="."><plain>The effects of exogenous IL23 on IL17 production by LP CD4(+) cells were also examined </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: IL17 production was higher in LP CD4(+) cells than in PB </plain></SENT>
+<SENT sid="8" pm="."><plain>Significant IL17 <z:chebi fb="2" ids="33699">mRNA</z:chebi> upregulation in LP CD4(+) cells was found in UC, while IFNgamma was increased in CD </plain></SENT>
+<SENT sid="9" pm="."><plain>IL23R and RORC were upregulated in LP CD4(+) cells isolated from both UC and CD </plain></SENT>
+<SENT sid="10" pm="."><plain>IL17 production was significantly increased by IL23 in LP CD4(+) cells from UC but not CD </plain></SENT>
+<SENT sid="11" pm="."><plain>Upregulated IL23p19 <z:chebi fb="2" ids="33699">mRNA</z:chebi> expression was correlated with IL17 in UC and IFNgamma in CD </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: IL23 may play important roles in controlling the differential Th1/Th17 balance in both UC and CD, although Th17 cells may exist in both diseases </plain></SENT>
+</text></document>

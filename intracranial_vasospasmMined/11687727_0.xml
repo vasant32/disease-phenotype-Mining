@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: <z:hpo ids='HP_0002138'>Subarachnoid hemorrhage</z:hpo> (SAH) frequently leads to prolonged <z:e sem="disease" ids="C0265110" disease_type="Disease or Syndrome" abbrv="">cerebral vasospasm</z:e> resulting in vascular pathology due to endothelial cell <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> and neuronal <z:mp ids='MP_0005039'>hypoxia</z:mp> </plain></SENT>
+<SENT sid="1" pm="."><plain>Posthemorrhagic vasospasm can be counteracted by the administration of phosphoramidon, which blocks the endothelin converting enzyme (ECE) responsible for the conversion of big endothelin into a fully active ET1 <z:chebi fb="7" ids="16670">peptide</z:chebi> </plain></SENT>
+<SENT sid="2" pm="."><plain>The aim of the study was to determine the effect of <z:hpo ids='HP_0011010'>chronic</z:hpo> vasospasm after SAH on <z:mpath ids='MPATH_177'>angiogenesis</z:mpath> and the effect on this process of endothelin-1, the main causative factor in vasospasm </plain></SENT>
+<SENT sid="3" pm="."><plain>MATERIAL AND METHODS: Male Wistar rats were examined </plain></SENT>
+<SENT sid="4" pm="."><plain>Seven days after cannulation of the cisterna magna, blood was administered to induce SAH </plain></SENT>
+<SENT sid="5" pm="."><plain>The ECE inhibitor phosphoramidon was administered in a dose of 40 nmol in 50 microl of cerebrospinal fluid three times: 20 min before SAH, 60 min after SAH, and 24 hours after SAH </plain></SENT>
+<SENT sid="6" pm="."><plain>The brains were removed 48 hours later for histological evaluation </plain></SENT>
+<SENT sid="7" pm="."><plain>The vascular surface density was measured in cerebral hemisphere sections (at the level of the dorsal part of the hippocampus) and brainstem sections (1/2 of the pons) </plain></SENT>
+<SENT sid="8" pm="."><plain>CONCLUSION: <z:mp ids='MP_0005601'>Increased angiogenesis</z:mp> was observed in the cerebral hemispheres after SAH </plain></SENT>
+<SENT sid="9" pm="."><plain>The administration of phosphoramidon inhibits <z:mpath ids='MPATH_177'>angiogenesis</z:mpath> in cerebral hemispheres after SAH </plain></SENT>
+</text></document>

@@ -1,0 +1,22 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Asymptomatic <z:e sem="disease" ids="C0221505" disease_type="Disease or Syndrome" abbrv="">Cerebral Lesions</z:e> with Phased RF. Introduction: Left atrial catheter ablation of the pulmonary veins (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">PVs</z:e>) is an established option for patients with <z:hpo ids='HP_0005110'>atrial fibrillation</z:hpo> (AF) </plain></SENT>
+<SENT sid="1" pm="."><plain>Asymptomatic <z:e sem="disease" ids="C0007780" disease_type="Disease or Syndrome" abbrv="">cerebral emboli</z:e> (ACE) detected by diffusion weighted MRI (DW-MRI) following AF ablation has been reported at varying rates </plain></SENT>
+<SENT sid="2" pm="."><plain>This variability may be linked to procedural variables and demographic risk factors </plain></SENT>
+<SENT sid="3" pm="."><plain>Animal studies with the multielectrode pulmonary vein ablation catheter (PVAC) have identified potential sources of emboli, including air introduced during PVAC introduction, inadequate anticoagulation, and high current densities when the distal (E1) and proximal (E10) electrodes are in contact </plain></SENT>
+<SENT sid="4" pm="."><plain>We sought to evaluate the incidence, size, and number of DW-MRI findings with procedural modifications that potentially reduce the embolic load </plain></SENT>
+<SENT sid="5" pm="."><plain>Methods: Thirty-seven AF patients (59 ± 10 years, 73% male, <z:hpo ids='HP_0000001'>all</z:hpo> with paroxysmal AF, left atrial [LA] diameter 44 ± 7 mm, left ventricular ejection fraction 57 ± 7%) underwent MRI sequences preceding ablation, within 24 hours postablation, and at 4-6 weeks </plain></SENT>
+<SENT sid="6" pm="."><plain>During the procedure <z:hpo ids='HP_0000001'>all</z:hpo> patients were on uninterrupted <z:chebi fb="0" ids="50438">phenprocoumon</z:chebi>, an attempted activated clotting time (ACT) level &gt;300 seconds, had the PVAC introduced under saline, and antral ablation was started with a 2:1 bipolar/unipolar mode </plain></SENT>
+<SENT sid="7" pm="."><plain>Files from the ablation unit (GENius v14.4) were retrospectively analyzed to determine the relationship between E1 and E10 in close proximity and DW-MRI findings </plain></SENT>
+<SENT sid="8" pm="."><plain>Results: Post procedure, 10/37 patients (27%) were positive for new DWI <z:e sem="disease" ids="C0221505" disease_type="Disease or Syndrome" abbrv="">cerebral lesions</z:e> </plain></SENT>
+<SENT sid="9" pm="."><plain>Nine of 10 patients had a single lesion, and 1/10 patient had 2 lesions </plain></SENT>
+<SENT sid="10" pm="."><plain>Average lesion size was 3.1 ± 3.9 mm (2-14 mm) </plain></SENT>
+<SENT sid="11" pm="."><plain>One of 10 (10%) had lesions at MRI follow-up </plain></SENT>
+<SENT sid="12" pm="."><plain>No neurological symptoms were observed </plain></SENT>
+<SENT sid="13" pm="."><plain>Eighteen of 37 (49%) of procedures had evidence of E1/E10 interaction </plain></SENT>
+<SENT sid="14" pm="."><plain>In the subgroup of patients with and without E1 and E10 in close proximity, the DW-MRI rate was 8/18 (44%) and 2/19 (11%), respectively (P = 0.029) </plain></SENT>
+<SENT sid="15" pm="."><plain>Conclusions: The source of positive DW-MRI findings in LA ablation involves several factors </plain></SENT>
+<SENT sid="16" pm="."><plain>Controlling anticoagulation and careful sheath management helps to reduce the number and size of DW-MRI lesions </plain></SENT>
+<SENT sid="17" pm="."><plain>With the PVAC catheter, an ablation with the E1 and E10 in close proximity increases the risk of a DW-MRI finding </plain></SENT>
+<SENT sid="18" pm="."><plain>In the future, electrodes E1 and E10 should be kept apart to help reduce the incidence of <z:hpo ids='HP_0011009'>acute</z:hpo> ACE </plain></SENT>
+<SENT sid="19" pm="."><plain>(J Cardiovasc Electrophysiol, Vol. pp </plain></SENT>
+<SENT sid="20" pm="."><plain>1-8) </plain></SENT>
+</text></document>

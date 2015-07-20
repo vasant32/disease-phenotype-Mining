@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Four <z:chebi fb="7" ids="16670">peptides</z:chebi> were synthesized on the basis of amino acid sequences deduced from a highly spliced transcript encoded by the Bam W, Y, and H fragments of the Epstein-Barr virus (EBV) genome [Bodescot, M., Chambraud, J </plain></SENT>
+<SENT sid="1" pm="."><plain>B., Farrell, P </plain></SENT>
+<SENT sid="2" pm="."><plain>J. &amp; Perricaudet, M </plain></SENT>
+<SENT sid="3" pm="."><plain>(1984) EMBO J </plain></SENT>
+<SENT sid="4" pm="."><plain>3, 1913-1917] </plain></SENT>
+<SENT sid="5" pm="."><plain>Rabbit antisera against three of the four <z:chebi fb="7" ids="16670">peptides</z:chebi> identified a nuclear <z:chebi fb="1" ids="15841">polypeptide</z:chebi> that varied between 22 and 70 kDa in molecular size </plain></SENT>
+<SENT sid="6" pm="."><plain>Four of 20 EBV-positive human sera contained antibodies against this <z:chebi fb="1" ids="15841">polypeptide</z:chebi> </plain></SENT>
+<SENT sid="7" pm="."><plain>Since this is the fifth EBV-determined nuclear antigen (EBNA) discovered in growth-transformed cells, it is designated EBNA5 </plain></SENT>
+<SENT sid="8" pm="."><plain>The antigen was detected in virus nonproducer lines (less than 0.01% EBV early antigen expression) and is thus not dependent on the <z:mp ids='MP_0001799'>viral</z:mp> cycle </plain></SENT>
+<SENT sid="9" pm="."><plain>It was differentially expressed depending on the origin of the lines </plain></SENT>
+<SENT sid="10" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> 10 lymphoblastoid cell lines tested expressed EBNA5, but it could not be detected in 10 of 11 EBV-carrying Burkitt <z:hpo ids='HP_0002665'>lymphoma</z:hpo> lines </plain></SENT>
+<SENT sid="11" pm="."><plain><z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">Infection</z:e> of tonsillar lymphocytes with the B95-8 strain of EBV induced six EBNA5-specific <z:chebi fb="1" ids="15841">polypeptides</z:chebi> that varied between 41 and 70 kDa in molecular size with regular increments of 6 kDa </plain></SENT>
+<SENT sid="12" pm="."><plain>This may be due to the fact that the EBNA5 coding sequence includes the Bam W internal repeat </plain></SENT>
+<SENT sid="13" pm="."><plain>Parallel <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infection</z:e> of the EBV-negative Burkitt <z:hpo ids='HP_0002665'>lymphoma</z:hpo> line Ramos with the same <z:mp ids='MP_0001799'>viral</z:mp> substrain did not induce detectable levels of EBNA5, nor was this antigen present in permanently EBV-converted Ramos sublines </plain></SENT>
+<SENT sid="14" pm="."><plain>These findings imply that the expression of the <z:mp ids='MP_0001799'>viral</z:mp> genome varies among B cells having different phenotypes </plain></SENT>
+</text></document>

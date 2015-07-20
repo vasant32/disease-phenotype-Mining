@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Respiratory sinus <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> (RSA) has been widely used as a measure of the cardiac vagal control in response to stress </plain></SENT>
+<SENT sid="1" pm="."><plain>However, RSA seems not to be a generalized indicator because of its dependency on respiratory parameter and individual variations of RSA amplitude (A(RSA)) </plain></SENT>
+<SENT sid="2" pm="."><plain>We hypothesized that phase-lag variations between RSA and respiration may serve as a normalized index of the degree of <z:e sem="disease" ids="C0038443" disease_type="Mental or Behavioral Dysfunction" abbrv="">mental stress</z:e> </plain></SENT>
+<SENT sid="3" pm="."><plain>Twenty healthy volunteers performed mental arithmetic task (ART) after 5 min of resting control followed by 5 min of recovery </plain></SENT>
+<SENT sid="4" pm="."><plain>Breathing pattern, beat-to-beat R-R intervals, and blood pressure (BP) were determined using inductance plethysmography, electrocardiography, and a Finapres device, respectively </plain></SENT>
+<SENT sid="5" pm="."><plain>The analytic signals of breathing and RSA were obtained by Hilbert transform and the degree of phase synchronization (λ) was quantified </plain></SENT>
+<SENT sid="6" pm="."><plain>With the use of spectral analysis, heart rate variability (HRV) was estimated for the low-frequency (LF) and high-frequency (HF) bands </plain></SENT>
+<SENT sid="7" pm="."><plain>A steady-state 3-min resting period (REST), the first 3 min (ART1), and the last 3 min (ART2) of the ART period (ranged from 6- to 19 min) and the last 3 min of the recovery period (RCV) were analyzed separately </plain></SENT>
+<SENT sid="8" pm="."><plain>Heart rate, systolic BP, and breathing frequency (f(R)) increased and λ, A(RSA), and HF power decreased from REST to ART (P &lt; 0.01) </plain></SENT>
+<SENT sid="9" pm="."><plain>The λ was correlated with normalized A(RSA) and the HF power </plain></SENT>
+<SENT sid="10" pm="."><plain>The decrease in λ could not be explained solely by the increase in f(R) </plain></SENT>
+<SENT sid="11" pm="."><plain>We conclude that <z:e sem="disease" ids="C0038443" disease_type="Mental or Behavioral Dysfunction" abbrv="">mental stress</z:e> exerts an influence on RSA oscillations, inducing incoherent phase lag with respect to breathing, in addition to a decrease in RSA </plain></SENT>
+</text></document>

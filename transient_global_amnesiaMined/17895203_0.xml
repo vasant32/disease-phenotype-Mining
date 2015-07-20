@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 55-year-old woman sustained an <z:hpo ids='HP_0011009'>acute</z:hpo> <z:e sem="disease" ids="C0002622" disease_type="Mental or Behavioral Dysfunction" abbrv="">amnesia</z:e> that lasted for 8 days </plain></SENT>
+<SENT sid="1" pm="."><plain>The results of a cerebral magnetic resonance imaging scan and an electroencephalogram were <z:mpath ids='MPATH_458'>normal</z:mpath> </plain></SENT>
+<SENT sid="2" pm="."><plain>A Wechsler Memory Scale-Revised (WMS-R) test performed 6 days after the event showed global impairment in every domain, except for attention/concentration </plain></SENT>
+<SENT sid="3" pm="."><plain>A single <z:chebi fb="23" ids="30212">photon</z:chebi> emission computed tomography (SPECT) scan taken 8 days after the event showed hypoperfusion in the left temporal and frontal areas </plain></SENT>
+<SENT sid="4" pm="."><plain>The results of a follow-up SPECT scan on the 40th day after the episode were <z:mpath ids='MPATH_458'>normal</z:mpath> </plain></SENT>
+<SENT sid="5" pm="."><plain>A second WMS-R test showed some improvement on the 40th day after the event and considerable improvement on the 176th day </plain></SENT>
+<SENT sid="6" pm="."><plain>The clinical feature of the patient meets the criteria of <z:hpo ids='HP_0010534'>transient global amnesia</z:hpo> (<z:mp ids='MP_0004110'>TGA</z:mp>), except for her protracted course </plain></SENT>
+<SENT sid="7" pm="."><plain>It was not amnesic <z:hpo ids='HP_0001297'>stroke</z:hpo>, however, because of its reversibility and because there were no accompanying neurological signs </plain></SENT>
+<SENT sid="8" pm="."><plain>This case raises some implications of the pathogenesis of <z:mp ids='MP_0004110'>TGA</z:mp> and the clinical applicability of research criteria </plain></SENT>
+</text></document>

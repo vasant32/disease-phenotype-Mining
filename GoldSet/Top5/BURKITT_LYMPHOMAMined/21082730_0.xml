@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Epstein-Barr virus (EBV) is a human <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumour</z:e> virus which efficiently growth-transforms primary human B-lymphocytes in vitro </plain></SENT>
+<SENT sid="1" pm="."><plain>The <z:mp ids='MP_0001799'>viral</z:mp> nuclear antigen 2 (EBNA2) is essential for immortalisation of B-cells and stimulates <z:mp ids='MP_0001799'>viral</z:mp> and cellular gene expression through interaction with DNA-bound transcription factors </plain></SENT>
+<SENT sid="2" pm="."><plain>Like its cellular homologue Notch, it associates with the DNA-bound repressor RBPJκ (CSL/CBF1) thereby converting RBPJκ into the active state </plain></SENT>
+<SENT sid="3" pm="."><plain>For instance, both EBNA2 and Notch activate the cellular HES1 promoter </plain></SENT>
+<SENT sid="4" pm="."><plain>In EBV-transformed lymphocytes, the <z:chebi fb="40" ids="33697">RNA</z:chebi> of the NP9 protein encoded by human endogenous retrovirus HERV-K(HML-2) type1 is strongly up-regulated </plain></SENT>
+<SENT sid="5" pm="."><plain>The NP9 protein is detectable both in EBV-positive Raji cells, a Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cell line, and in IB4, an EBV-transformed human lymphoblastoid cell line </plain></SENT>
+<SENT sid="6" pm="."><plain>NP9 binds to LNX which forms a complex with the Notch regulator Numb </plain></SENT>
+<SENT sid="7" pm="."><plain>Therefore, the function of NP9 vis-à-vis Notch and EBNA2 was analysed </plain></SENT>
+<SENT sid="8" pm="."><plain>Here we show that NP9 binds to EBNA2 and negatively affects the EBNA2-mediated activation of the <z:mp ids='MP_0001799'>viral</z:mp> C- and LMP2A promoters </plain></SENT>
+<SENT sid="9" pm="."><plain>In contrast, NP9 did neither interfere in the activation of the HES1 promoter by Notch nor the induction of the <z:mp ids='MP_0001799'>viral</z:mp> LMP1 promoter by EBNA2 </plain></SENT>
+<SENT sid="10" pm="."><plain>In an electrophoretic mobility shift analysis, NP9 reduced the binding of EBNA2 to DNA-bound RBPJκ by about 50% </plain></SENT>
+<SENT sid="11" pm="."><plain>The down-regulation of EBNA2-activity by NP9 might represent a cellular defence mechanism against <z:mp ids='MP_0001799'>viral</z:mp> <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infection</z:e> or could, alternatively, represent an adaptation of the virus to prevent excessive <z:mp ids='MP_0001799'>viral</z:mp> protein production that might otherwise be harmful for the infected cell </plain></SENT>
+</text></document>

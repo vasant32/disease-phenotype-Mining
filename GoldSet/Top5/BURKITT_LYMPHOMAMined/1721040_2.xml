@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Using monoclonal antibodies (mAb) characterized at the last International Workshop on Human Leucocyte Antigens, we examined the expression of CDw75 antigens (beta-<z:chebi fb="0" ids="24163">galactoside</z:chebi> alpha 2,6-sialyltransferase) on <z:mpath ids='MPATH_458'>normal</z:mpath> peripheral blood cells and on cells from patients with B-cell <z:hpo ids='HP_0011010'>chronic</z:hpo> lymphocytic <z:mpath ids='MPATH_336'>leukaemia</z:mpath> (CLL) </plain></SENT>
+<SENT sid="1" pm="."><plain>The mAb used (HH2, EBU.65, EBU.141 and OKB4) detect different <z:chebi fb="0" ids="53000">epitopes</z:chebi> of CDw75 </plain></SENT>
+<SENT sid="2" pm="."><plain><z:mpath ids='MPATH_458'>Normal</z:mpath> peripheral blood B cells expressed high levels of CDw75 detectable with HH2, EBU.65 and EBU.141 but did not react with OKB4 </plain></SENT>
+<SENT sid="3" pm="."><plain>Cells from patients with <z:e sem="disease" ids="C0023434" disease_type="Neoplastic Process" abbrv="BCLL">B-cell CLL</z:e> closely resembled <z:mpath ids='MPATH_458'>normal</z:mpath> B cells </plain></SENT>
+<SENT sid="4" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> CDw75 <z:chebi fb="0" ids="53000">epitopes</z:chebi>, including OKB4, were strongly expressed on some Namalwa variant Burkitt <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cell lines </plain></SENT>
+<SENT sid="5" pm="."><plain>The OKB4 <z:chebi fb="0" ids="53000">epitope</z:chebi> was also present on red cells from <z:hpo ids='HP_0000001'>all</z:hpo> <z:mpath ids='MPATH_458'>normal</z:mpath> donors </plain></SENT>
+<SENT sid="6" pm="."><plain>The other CDw75 mAb were unreactive with red cells from some <z:mpath ids='MPATH_458'>normal</z:mpath> donors </plain></SENT>
+<SENT sid="7" pm="."><plain>The CDw75 <z:chebi fb="0" ids="53000">epitope</z:chebi> detected with EBU.65 was present on most CD4+ T cells and on a minority of CD8+ cells </plain></SENT>
+<SENT sid="8" pm="."><plain>HH2 and EBU.141 stained only small numbers of T lymphocytes </plain></SENT>
+<SENT sid="9" pm="."><plain>OKB4 did not react with T cells </plain></SENT>
+<SENT sid="10" pm="."><plain>EBU.65+, CD4+ T cells had low levels of expression of CD45R0, CD29, CD54 and CD58, and had high levels of CD45RA antigen </plain></SENT>
+<SENT sid="11" pm="."><plain>Phytohaemagglutinin (PHA) activation of cells led to the loss of EBU.65 binding </plain></SENT>
+<SENT sid="12" pm="."><plain>These results suggest that the CDw75 <z:chebi fb="0" ids="53000">epitope</z:chebi> recognized by the EBU.65 mAb is a marker of native T lymphocytes </plain></SENT>
+<SENT sid="13" pm="."><plain>On B CLL cells the <z:chebi fb="0" ids="53000">epitopes</z:chebi> detected with HH2, EBU.65 and EBU.141 were destroyed by treatment with neuraminidase </plain></SENT>
+<SENT sid="14" pm="."><plain>Treatment of B-CLL cells and red cells with neuraminidase increased the binding of OKB4, suggesting that this <z:chebi fb="0" ids="53000">epitope</z:chebi> is masked by <z:chebi fb="0" ids="26667">sialic acid</z:chebi> </plain></SENT>
+<SENT sid="15" pm="."><plain>The results suggest that CDw75 is a sialylated cell-surface antigen expressed in a number of tissue-specific isoforms </plain></SENT>
+</text></document>

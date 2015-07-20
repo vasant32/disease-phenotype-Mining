@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Barrett's <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> currently shows the highest increase in the incidence of <z:hpo ids='HP_0000001'>all</z:hpo> <z:mp ids='MP_0002018'>malignant tumors</z:mp> </plain></SENT>
+<SENT sid="1" pm="."><plain>Reliable molecular markers to identify Barrett's patients at risk are still missing </plain></SENT>
+<SENT sid="2" pm="."><plain>Our own results demonstrate that the expression of CD44v6 correlates with the development of <z:mpath ids='MPATH_589'>dysplasia</z:mpath> in colorectal <z:hpo ids='HP_0002664'>neoplasms</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>Therefore, we examined the expression of CD44 variants v5 and v6 in <z:mpath ids='MPATH_458'>normal</z:mpath> esophageal mucosa, non-dysplastic Barrett's mucosa, and Barrett's <z:mp ids='MP_0002038'>carcinoma</z:mp> </plain></SENT>
+<SENT sid="4" pm="."><plain><z:chebi fb="2" ids="33699">mRNA</z:chebi> from biopsy specimens of patients with <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> (n = 19) or Barrett's <z:mp ids='MP_0002038'>carcinoma</z:mp> (n = 15) and patients without <z:e sem="disease" ids="C0014852" disease_type="Disease or Syndrome" abbrv="">esophageal diseases</z:e> (controls; n = 9) were extracted and used as templates for cDNA synthesis </plain></SENT>
+<SENT sid="5" pm="."><plain>CD44 variants were detected by RT-PCR with primers hybridizing with CD44 sequences up- and downstream of variable exons </plain></SENT>
+<SENT sid="6" pm="."><plain>CD44v6 expression was found in 36 of 56 biopsy specimens (64%) of non-dysplastic Barrett's mucosa, in 100% of squamous epithelium, and in none of the gastric mucosa specimens </plain></SENT>
+<SENT sid="7" pm="."><plain>Eleven of 15 specimens (73%) of Barrett's <z:mp ids='MP_0002038'>carcinoma</z:mp> tested positive for v6 expression </plain></SENT>
+<SENT sid="8" pm="."><plain>The identification of v5 expression did not give additional information </plain></SENT>
+<SENT sid="9" pm="."><plain>There was no correlation between CD44v5 or -v6 expression and staging or grading of the <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumors</z:e> </plain></SENT>
+<SENT sid="10" pm="."><plain>Expression of CD44v5 and -v6 seems to be independent of the development of <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> in Barrett's mucosa </plain></SENT>
+</text></document>

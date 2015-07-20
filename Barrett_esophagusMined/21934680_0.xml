@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: <z:mpath ids='MPATH_589'>Dysplasia</z:mpath> is a marker of <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> risk in <z:e sem="disease" ids="C0004763" disease_type="Disease or Syndrome" abbrv="CELLO">Barrett's oesophagus</z:e> (BO), but this risk is variable and diagnosis is subject to inter-observer variability </plain></SENT>
+<SENT sid="1" pm="."><plain><z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">Cancer</z:e> risk in BO is increased when <z:mp ids='MP_0008866'>chromosomal instability</z:mp> is present </plain></SENT>
+<SENT sid="2" pm="."><plain>Nucleotyping (NT) is a new method that uses high-resolution digital images of nuclei to assess chromatin organisation both quantitatively and qualitatively </plain></SENT>
+<SENT sid="3" pm="."><plain>We aimed to evaluate NT as a marker of <z:mpath ids='MPATH_589'>dysplasia</z:mpath> in BO and compare with image cytometric DNA analysis (ICM) </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS: In <z:hpo ids='HP_0000001'>all</z:hpo>, 120 patients with BO were studied </plain></SENT>
+<SENT sid="5" pm="."><plain>The non-dysplastic group (n=60) had specialised <z:mpath ids='MPATH_167'>intestinal metaplasia</z:mpath> only on two consecutive endoscopies after 51 months median follow-up (IQR=25-120 months) </plain></SENT>
+<SENT sid="6" pm="."><plain>The dysplastic group (n=60) had high-grade <z:mpath ids='MPATH_589'>dysplasia</z:mpath> or <z:mp ids='MP_0002038'>carcinoma</z:mp> in situ </plain></SENT>
+<SENT sid="7" pm="."><plain>The two groups were then randomly assigned to a training set and a blinded test set in a 1:1 ratio </plain></SENT>
+<SENT sid="8" pm="."><plain>Image cytometric DNA analysis and NT was then carried out on Feulgen-stained nuclear monolayers </plain></SENT>
+<SENT sid="9" pm="."><plain>RESULTS: The best-fit model for NT gave a correct classification rate (CCR) for the training set of 83% </plain></SENT>
+<SENT sid="10" pm="."><plain>The test set was then analysed using the same textural features and yielded a CCR of 78% </plain></SENT>
+<SENT sid="11" pm="."><plain>Image cytometric DNA analysis alone yielded a CCR of 73% </plain></SENT>
+<SENT sid="12" pm="."><plain>The combination of ICM and NT yielded a CCR of 84% </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSION: Nucleotyping differentiates dysplastic and non-dysplastic BO, with a greater sensitivity than ICM </plain></SENT>
+<SENT sid="14" pm="."><plain>A combination score based on both techniques performed better than either test in isolation </plain></SENT>
+<SENT sid="15" pm="."><plain>These data demonstrate that NT/ICM on nuclear monolayers is a very promising single platform test of genomic instability, which may aid pathologists in the diagnosis of <z:mpath ids='MPATH_589'>dysplasia</z:mpath> and has potential as a biomarker in BO </plain></SENT>
+</text></document>

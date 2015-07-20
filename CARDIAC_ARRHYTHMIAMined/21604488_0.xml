@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>To solve the problem of <z:hpo ids='HP_0011675'>cardiac arrhythmias</z:hpo> classification, we proposed a novel algorithm based on the multi-feature fusion and support vector machines (SVM) </plain></SENT>
+<SENT sid="1" pm="."><plain>Kernel independent component analysis (KICA) was used to extract nonlinear features and wavelet transform (WT) was used to extract time-frequency features </plain></SENT>
+<SENT sid="2" pm="."><plain>Combining these features could include more information about the disease </plain></SENT>
+<SENT sid="3" pm="."><plain>We designed the classification model based on SVM combined with error correcting output codes (ECOC) </plain></SENT>
+<SENT sid="4" pm="."><plain>Receiver operating characteristic curve (ROC) and Area Under the ROC curve (AUC) value were used to assess the classification model </plain></SENT>
+<SENT sid="5" pm="."><plain>The value of AUC is 0.956 against <z:chebi fb="75" ids="27847,53620">MIT</z:chebi>-BIH <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> database </plain></SENT>
+<SENT sid="6" pm="."><plain>Experimental results showed effectiveness of the proposed method </plain></SENT>
+</text></document>

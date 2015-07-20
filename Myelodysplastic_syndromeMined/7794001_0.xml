@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 55-year-old female presented with sore throat and slight <z:hpo ids='HP_0001945'>fever</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>The patient was admitted to our hospital on December 13, 1993 </plain></SENT>
+<SENT sid="2" pm="."><plain>Full blood count showed <z:chebi fb="0" ids="35143">hemoglobin</z:chebi> 10.7 g/dl, white cell count 960/microliters (neutrophils 14%, lymphocytes 82%, blasts 2%) and platelets 13,000/microliters </plain></SENT>
+<SENT sid="3" pm="."><plain>Bone marrow examination showed hypocellularity with 4.5% of myeloblast positive for peroxidase </plain></SENT>
+<SENT sid="4" pm="."><plain>The bone marrow specimens on Dec </plain></SENT>
+<SENT sid="5" pm="."><plain>20 showed 15.5% of myeloblasts, some of which had Auer rods </plain></SENT>
+<SENT sid="6" pm="."><plain>These findings led to the diagnosis of <z:hpo ids='HP_0005505'>refractory anemia</z:hpo> with excess myeloblast in transformation (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">RAEB-T</z:e>) of French-American-British Cooperative Group </plain></SENT>
+<SENT sid="7" pm="."><plain>The patient was transfused and treated with <z:chebi fb="0" ids="28680">cytarabine</z:chebi> ocfosfate (SP-AC) (100 mg tid) and <z:chebi fb="1" ids="50667">6-mercaptopurine</z:chebi> (50 mg tid) for 14 days </plain></SENT>
+<SENT sid="8" pm="."><plain>During chemotherapy she complained of <z:hpo ids='HP_0002018'>nausea</z:hpo> and <z:hpo ids='HP_0002039'>anorexia</z:hpo>, but they were managed easily with medication </plain></SENT>
+<SENT sid="9" pm="."><plain>On Feb </plain></SENT>
+<SENT sid="10" pm="."><plain>7, 1994, forty-two days after the start of administration, peripheral blood and bone marrow aspirate were compatible with a complete remission </plain></SENT>
+<SENT sid="11" pm="."><plain>Although complete remission was sustained with courses of chemotherapy for 4 months, relapse occurred and the patient died of <z:mpath ids='MPATH_681'>septicemia</z:mpath> on August 29, 1994 after induction failure </plain></SENT>
+<SENT sid="12" pm="."><plain>Observation suggested that oral SPAC in combination with <z:chebi fb="1" ids="50667">6-mercaptopurine</z:chebi> had a good antileukemic effect on the <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo> </plain></SENT>
+<SENT sid="13" pm="."><plain>However, the duration response was short, and further improvement of the therapy is needed </plain></SENT>
+</text></document>

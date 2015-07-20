@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND AIMS: Chemokine receptors are key determinants of leucocyte trafficking </plain></SENT>
+<SENT sid="1" pm="."><plain>While the chemokine receptor CCR9 and its chemokine ligand CCL25 (TECK) mediate lymphocyte homing to the healthy small intestine, the chemokine receptors important for recruitment during <z:mp ids='MP_0001858'>intestinal inflammation</z:mp> are undefined </plain></SENT>
+<SENT sid="2" pm="."><plain>Animal studies have suggested potential roles for CCR2 and CCR5 in <z:e sem="disease" ids="C0021390" disease_type="Disease or Syndrome" abbrv="">inflammatory bowel disease</z:e> (IBD) </plain></SENT>
+<SENT sid="3" pm="."><plain>The aim of this study was to understand the role of CCR2 in human IBD </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS: Resections of ileum or colon were obtained from patients undergoing surgery for small bowel <z:hpo ids='HP_0100280'>Crohn's disease</z:hpo> (SBCD; n = 10), Crohn's <z:hpo ids='HP_0002583'>colitis</z:hpo> (n = 5), <z:hpo ids='HP_0100279'>ulcerative colitis</z:hpo> (n = 6), and non-IBD related conditions (control ileum n = 11; control colon n = 11) </plain></SENT>
+<SENT sid="5" pm="."><plain>Expression of CCR2 by lamina propria lymphocytes (LPLs) was determined by both flow cytometry and immunohistochemistry </plain></SENT>
+<SENT sid="6" pm="."><plain>As a functional correlate, chemotaxis assays using the CCR2 ligand, CCL2 (<z:chebi fb="17" ids="50099">MCP</z:chebi>-1), were performed </plain></SENT>
+<SENT sid="7" pm="."><plain>Expression of CCR2 by peripheral blood lymphocytes was determined by flow cytometry </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: There were greater than 30-fold more CCR2(+) LPLs in SBCD than in control ileum (29.3% (19.9-55.1) v 0.9% (0.4-11.5); p = 0.0007) </plain></SENT>
+<SENT sid="9" pm="."><plain>Specifically, CCR2(+)CD4(+) LPLs were increased (p = 0.002) whereas CCR2(+)CD8(+) LPLs were not </plain></SENT>
+<SENT sid="10" pm="."><plain>Increased expression included both memory (CD45RO(+); p = 0.005) and naïve (CD45RO(-); p = 0.01) CCR2(+) populations </plain></SENT>
+<SENT sid="11" pm="."><plain>The increase in CCR2(+) LPLs in SBCD was confirmed by both immunohistochemistry (p = 0.0002) and enhanced chemotactic responses to CCL2 </plain></SENT>
+<SENT sid="12" pm="."><plain>CCR2 expression was not increased in the peripheral blood of patients with SBCD, suggesting ongoing recruitment of the CCR2(+) population to the ileum </plain></SENT>
+<SENT sid="13" pm="."><plain>In contrast with SBCD, there was no significant increase in CCR2(+) LPLs in Crohn's <z:hpo ids='HP_0002583'>colitis</z:hpo> or <z:hpo ids='HP_0100279'>ulcerative colitis</z:hpo> samples </plain></SENT>
+<SENT sid="14" pm="."><plain>CONCLUSIONS: The chemokine receptor CCR2 appears to be an important contributor to accumulation of CD4(+) T lymphocytes in the ileum in small bowel <z:hpo ids='HP_0100280'>Crohn's disease</z:hpo> </plain></SENT>
+<SENT sid="15" pm="."><plain>Blockade of CCR2 may provide a novel therapeutic alternative </plain></SENT>
+</text></document>

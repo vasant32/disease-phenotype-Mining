@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Microsimulation models are important decision support tools for screening </plain></SENT>
+<SENT sid="1" pm="."><plain>However, their complexity makes them difficult to understand and limits realization of their full potential </plain></SENT>
+<SENT sid="2" pm="."><plain>Therefore, it is important to develop documentation that clarifies their structure and assumptions </plain></SENT>
+<SENT sid="3" pm="."><plain>The authors demonstrate this problem and explore a solution for natural history using 3 independently developed <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> screening models </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS: The authors first project effectiveness and cost-effectiveness of colonoscopy screening for the 3 models (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e>-SPIN, SimCRC, and MISCAN) </plain></SENT>
+<SENT sid="5" pm="."><plain>Next, they provide a conventional presentation of each model, including information on structure and parameter values </plain></SENT>
+<SENT sid="6" pm="."><plain>Finally, they report the simulated reduction in clinical <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> incidence following a one-time complete removal of <z:mpath ids='MPATH_270'>adenomas</z:mpath> and preclinical <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancers</z:e> for each model </plain></SENT>
+<SENT sid="7" pm="."><plain>They call this new measure the maximum clinical incidence reduction (MCLIR) </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: Projected effectiveness varies widely across models </plain></SENT>
+<SENT sid="9" pm="."><plain>For example, estimated mortality reduction for colonoscopy screening every 10 years from age 50 to 80 years, with surveillance in <z:mpath ids='MPATH_270'>adenoma</z:mpath> patients, ranges from 65% to 92% </plain></SENT>
+<SENT sid="10" pm="."><plain>Given only conventional information, it is difficult to explain these differences, largely because differences in structure make parameter values incomparable </plain></SENT>
+<SENT sid="11" pm="."><plain>In contrast, the MCLIR clearly shows the impact of model differences on the key feature of natural history, the dwell time of preclinical disease </plain></SENT>
+<SENT sid="12" pm="."><plain>Dwell times vary from 8 to 25 years across models and help explain differences in projected screening effectiveness </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSIONS: The authors propose a new measure, the MCLIR, which summarizes the implications for predicted screening effectiveness of differences in natural history assumptions </plain></SENT>
+<SENT sid="14" pm="."><plain>Including the MCLIR in the standard description of a screening model would improve the transparency of these models </plain></SENT>
+</text></document>

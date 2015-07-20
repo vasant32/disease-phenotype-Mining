@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Implantable cardioverter-defibrillator system efficacy is tested at implant by induction of <z:hpo ids='HP_0001663'>ventricular fibrillation</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">VF</z:e>) </plain></SENT>
+<SENT sid="1" pm="."><plain>Defibrillation safety margin can be assessed without <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">VF</z:e> induction using upper limit of vulnerability methods, but these methods have required manual determination of T-wave timing </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS AND RESULTS: To test the feasibility of an inductionless system of implant testing, a multicenter prospective study of an automated vulnerability safety margin system was conducted, which measured T-wave timing using an intracardiac electrogram during a ventricular pacing train </plain></SENT>
+<SENT sid="3" pm="."><plain>The system delivered up to 4 T-wave shocks of 18 J </plain></SENT>
+<SENT sid="4" pm="."><plain>Lack of <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">VF</z:e> induction by <z:hpo ids='HP_0000001'>all</z:hpo> 4 shocks was considered evidence of defibrillation adequacy </plain></SENT>
+<SENT sid="5" pm="."><plain>Patients subsequently underwent conventional defibrillation testing to meet a standard implant criterion </plain></SENT>
+<SENT sid="6" pm="."><plain>The 95% lower CI for defibrillation success at 25 J for noninduced patients was found using Bayesian statistics </plain></SENT>
+<SENT sid="7" pm="."><plain>Sixty patients were enrolled at 6 centers </plain></SENT>
+<SENT sid="8" pm="."><plain>Vulnerability testing and defibrillation success results were obtained from 54 patients </plain></SENT>
+<SENT sid="9" pm="."><plain>Vulnerability testing induced <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">VF</z:e> in 10 (19%) patients, of whom 2 required system revision </plain></SENT>
+<SENT sid="10" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> patients not induced by vulnerability testing were successfully defibrillated twice at ≤25 J </plain></SENT>
+<SENT sid="11" pm="."><plain>The Bayesian credible interval was 97% to 100% for the population success rate of defibrillation at 25 J for automated vulnerability safety margin noninduced patients </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: An automated system identified <z:hpo ids='HP_0000001'>all</z:hpo> patients who failed conventional safety margin testing, while inducing only 19% of patients </plain></SENT>
+<SENT sid="13" pm="."><plain>Although limited by sample size, this study suggests the feasibility of automated implant testing that substantially reduces the need for <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">VF</z:e> induction in patients receiving implantable cardioverter-defibrillators </plain></SENT>
+</text></document>

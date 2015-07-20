@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Photodynamic therapy (<z:chebi fb="7" ids="53228">PDT</z:chebi>) may be used to ablate high-grade <z:mpath ids='MPATH_589'>dysplasia</z:mpath>/early stage <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> (HGD/T1) in patients with <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain><z:chebi fb="7" ids="53228">PDT</z:chebi> may result in <z:hpo ids='HP_0002043'>esophageal stricture</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>This nonrandomized, unblinded, dose de-escalation study in consecutive patients was designed to determine the lowest light dose effective for ablation of HGD/T1 while reducing the incidence of stricture </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: A total of 113 patients received an injection of porfimer <z:chebi fb="199" ids="26708">sodium</z:chebi> (2 mg/kg) </plain></SENT>
+<SENT sid="4" pm="."><plain>Three days later, 630 nm light was delivered by using a 20-mm-diameter <z:chebi fb="7" ids="53228">PDT</z:chebi> balloon at doses of 115 J/cm (n=59), 105 J/cm (n=18), 95 J/cm (n=17), or 85 J/cm (n=19) </plain></SENT>
+<SENT sid="5" pm="."><plain>Treatment efficacy was determined by obtaining biopsy specimens of the treated area 3 months later </plain></SENT>
+<SENT sid="6" pm="."><plain>The incidence of stricture was determined by the need for <z:mp ids='MP_0004548'>esophageal dilation</z:mp> to treat <z:hpo ids='HP_0002015'>dysphagia</z:hpo> </plain></SENT>
+<SENT sid="7" pm="."><plain>A stricture was considered severe if 6 or more dilations were required </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: The incidence of severe stricture was related to the light dose </plain></SENT>
+<SENT sid="9" pm="."><plain>At 115 J/cm, 15.3% of patients developed severe strictures compared with 5.3% to 5.6% of those treated with the lower doses </plain></SENT>
+<SENT sid="10" pm="."><plain>At a light dose of 115 J/cm, 17.0% of patients had residual HGD/T1 </plain></SENT>
+<SENT sid="11" pm="."><plain>Light doses of 105 J/cm, 95 J/cm, and 85 J/cm resulted in residual HGD/T1 in 33.3%, 29.4%, and 31.6% of patients, respectively </plain></SENT>
+<SENT sid="12" pm="."><plain>None of the observations were statistically significant </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSIONS: Decreasing the light dose below 115 J/cm appeared to result in a reduced incidence rate of severe stricture but higher relative frequencies of residual HGD/T1 in <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> </plain></SENT>
+</text></document>

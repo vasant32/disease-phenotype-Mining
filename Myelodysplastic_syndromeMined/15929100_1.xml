@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>In a pilot study to reduce the duration of treatment and potential long-term toxicities, 39 patients with <z:hpo ids='HP_0004836'>acute promyelocytic leukemia</z:hpo> in remission received a single cycle of intensive consolidation therapy, followed by intermittent ATRA maintenance </plain></SENT>
+<SENT sid="1" pm="."><plain>Consolidation therapy required prolonged hospitalization and was associated with a high incidence of mucositis (43% grade II or greater) and documented <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infection</z:e> (45%) </plain></SENT>
+<SENT sid="2" pm="."><plain>No <z:hpo ids='HP_0011420'>deaths</z:hpo> occurred during consolidation </plain></SENT>
+<SENT sid="3" pm="."><plain>Seven patients have relapsed; <z:hpo ids='HP_0000001'>all</z:hpo> other patients are in molecular remission (median follow-up, 2.75 years) </plain></SENT>
+<SENT sid="4" pm="."><plain>Kaplan-Meier estimate of 3 year disease-free survival is 73% (95% confidence interval 55-91%) </plain></SENT>
+<SENT sid="5" pm="."><plain>The relapse rate (0.06 relapses/patient-year of follow-up) is well within the range of larger published series that administer more prolonged consolidation </plain></SENT>
+<SENT sid="6" pm="."><plain>One patient has developed secondary <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo> </plain></SENT>
+<SENT sid="7" pm="."><plain>These pilot data suggest that decreasing the total duration of consolidation chemotherapy did not compromise disease-free survival for APL patients induced with ATRA/<z:chebi fb="0" ids="48120">anthracycline</z:chebi> and given intermittent ATRA maintenance </plain></SENT>
+<SENT sid="8" pm="."><plain>However, the toxicity of the consolidation module and the development of secondary <z:hpo ids='HP_0002863'>myelodysplasia</z:hpo> despite decreased total therapy emphasize the need to further improve and refine curative therapy for APL </plain></SENT>
+</text></document>

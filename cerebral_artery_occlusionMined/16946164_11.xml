@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND PURPOSE: The relation between recovery of brain function and neurological status after clinical and experimental <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> is incompletely characterized </plain></SENT>
+<SENT sid="1" pm="."><plain>We assessed the evolution of ischemic injury, behavioral status, and brain activity at <z:hpo ids='HP_0011009'>acute</z:hpo> to <z:hpo ids='HP_0011010'>chronic</z:hpo> periods after transient middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (tMCAO) in rats </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: Male Sprague-Dawley rats were subjected to 20-minute tMCAO (n=10) or sham operation (n=10) </plain></SENT>
+<SENT sid="3" pm="."><plain>Sensorimotor behavioral testing and multimodal (diffusion, perfusion, T2, and functional) MRI, as well as postmortem <z:chebi fb="1" ids="51686">hematoxylin</z:chebi>-eosin staining, were performed before and up to 21 days after tMCAO </plain></SENT>
+<SENT sid="4" pm="."><plain>MRI and histological parameters were evaluated in 5 regions of interest within the sensorimotor network </plain></SENT>
+<SENT sid="5" pm="."><plain>Diffusion, perfusion, and T2 lesion volumes were calculated according to previously established viability thresholds </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: Diffusion and perfusion lesions were present during occlusion but disappeared completely and permanently within 30 minutes after reperfusion, with no T2 lesions seen </plain></SENT>
+<SENT sid="7" pm="."><plain>Functional MRI and behavioral deficits did not normalize until 1 and 21 days after tMCAO, respectively </plain></SENT>
+<SENT sid="8" pm="."><plain>Histology demonstrated selective neuronal cell <z:hpo ids='HP_0011420'>death</z:hpo> at 7 and 21 days after reperfusion </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSIONS: Twenty-minute tMCAO produced distinct changes on multimodal MRI, histology, and behavioral parameters acutely and chronically </plain></SENT>
+<SENT sid="10" pm="."><plain><z:mpath ids='MPATH_458'>Normal</z:mpath> findings on MRI after <z:e sem="disease" ids="C0022118" disease_type="Disease or Syndrome" abbrv="">transient ischemia</z:e> may not indicate <z:mpath ids='MPATH_458'>normal</z:mpath> tissue status, as behavioral and histological anomalies remain </plain></SENT>
+<SENT sid="11" pm="."><plain>Behavioral dysfunction persisting long after the recovery of MRI parameters may relate to the subtle neuronal damage seen on histology </plain></SENT>
+<SENT sid="12" pm="."><plain>Together, these results may help explain unremitting neurological deficits in <z:hpo ids='HP_0001297'>stroke</z:hpo> or <z:hpo ids='HP_0002326'>transient ischemic attack</z:hpo> patients with <z:mpath ids='MPATH_458'>normal</z:mpath> MRI findings </plain></SENT>
+</text></document>

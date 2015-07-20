@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVES: Computed tomography venography (CTV) has proven to be a reliable imaging method in the evaluation of <z:hpo ids='HP_0005305'>cerebral venous thrombosis</z:hpo> with good correlation to magnetic resonance (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e>) imaging and digital subtraction angiography (DSA) </plain></SENT>
+<SENT sid="1" pm="."><plain>It is fast and widely accessible, especially in the emergency setting </plain></SENT>
+<SENT sid="2" pm="."><plain>For better visualization of vascular structures bone is often removed from the images </plain></SENT>
+<SENT sid="3" pm="."><plain>The purpose of this study was to evaluate the quality of a fully automatic bone removal method, matched mask bone elimination (MMBE), and to assess the interobserver variability of the CTV technique </plain></SENT>
+<SENT sid="4" pm="."><plain>PATIENTS AND METHODS: Fifty patients with clinical suspicion of <z:hpo ids='HP_0005305'>cerebral venous thrombosis</z:hpo> underwent multislice CTV with MMBE post-processing </plain></SENT>
+<SENT sid="5" pm="."><plain>Axial source images and maximum intensity projections were retrospectively evaluated by two neuroradiologists for quality of bone removal and for the presence or absence of <z:mp ids='MP_0005048'>thrombosis</z:mp> in nine dural sinuses and five deep cerebral veins </plain></SENT>
+<SENT sid="6" pm="."><plain>A per sinus/vein and a per patient analysis (<z:mp ids='MP_0005048'>thrombosis</z:mp> in at least one sinus or vein) was performed and interobserver agreement was assessed </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: Both observers considered bone removal good in <z:hpo ids='HP_0000001'>all</z:hpo> patients (100%) </plain></SENT>
+<SENT sid="8" pm="."><plain>Interobserver agreement per patient was excellent (kappa=0.83), with a full agreement in 47 of 50 patients (94%) </plain></SENT>
+<SENT sid="9" pm="."><plain>The interobserver agreement per sinus or vein was good (kappa=0.76), with a full agreement in 679 of 700 sinuses or veins (97%) </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSION: CTV aided with MMBE is a robust technique for visualization of the intracranial venous circulation, removing bone effectively </plain></SENT>
+<SENT sid="11" pm="."><plain>CTV has high interobserver agreement for presence or absence of <z:hpo ids='HP_0005305'>cerebral venous thrombosis</z:hpo> </plain></SENT>
+</text></document>

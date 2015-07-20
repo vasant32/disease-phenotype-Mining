@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND &amp; AIMS: Gastrointestinal (GI) diseases account for substantial morbidity, mortality, and cost </plain></SENT>
+<SENT sid="1" pm="."><plain>Statistical analyses of the most recent data are necessary to guide GI research, education, and clinical practice </plain></SENT>
+<SENT sid="2" pm="."><plain>We estimate the burden of GI disease in the United States </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: We collected information on the epidemiology of GI diseases (including <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancers</z:e>) and symptoms, along with data on resource utilization, quality of life, impairments to work and activity, morbidity, and mortality </plain></SENT>
+<SENT sid="4" pm="."><plain>These data were obtained from the National Ambulatory Medical Care Survey; National Health and Wellness Survey; Nationwide Inpatient Sample; Surveillance, Epidemiology, and End Results Program; National Vital Statistics System; Thompson Reuters MarketScan; Medicare; Medicaid; and the Clinical Outcomes Research Initiative's National Endoscopic Database </plain></SENT>
+<SENT sid="5" pm="."><plain>We estimated endoscopic use and costs and examined trends in endoscopic procedure </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: <z:hpo ids='HP_0002027'>Abdominal pain</z:hpo> was the most common GI symptom that prompted a clinic visit (15.9 million visits) </plain></SENT>
+<SENT sid="7" pm="."><plain><z:hpo ids='HP_0002020'>Gastroesophageal reflux</z:hpo> was the most common GI diagnosis (8.9 million visits) </plain></SENT>
+<SENT sid="8" pm="."><plain>Hospitalizations and mortality from <z:e sem="disease" ids="C0343386" disease_type="Disease or Syndrome" abbrv="">Clostridium difficile infection</z:e> have doubled in the last 10 years </plain></SENT>
+<SENT sid="9" pm="."><plain><z:hpo ids='HP_0001735'>Acute pancreatitis</z:hpo> was the most common reason for hospitalization (274,119 discharges) </plain></SENT>
+<SENT sid="10" pm="."><plain><z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">Colorectal cancer</z:e> accounted for more than half of <z:hpo ids='HP_0000001'>all</z:hpo> GI <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancers</z:e> and was the leading cause of GI-related mortality (52,394 <z:hpo ids='HP_0011420'>deaths</z:hpo>) </plain></SENT>
+<SENT sid="11" pm="."><plain>There were 6.9 million upper, 11.5 million lower, and 228,000 biliary endoscopies performed in 2009 </plain></SENT>
+<SENT sid="12" pm="."><plain>The total cost for outpatient GI endoscopy examinations was $32.4 billion </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSIONS: GI diseases are a source of substantial morbidity, mortality, and cost in the United States </plain></SENT>
+</text></document>

@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>An automated algorithm to assess electrocardiogram (ECG) quality for both <z:mpath ids='MPATH_458'>normal</z:mpath> and abnormal rhythms is presented for false <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> alarm suppression of intensive care unit (ICU) monitors </plain></SENT>
+<SENT sid="1" pm="."><plain>A particular focus is given to the quality assessment of a wide variety of <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>Data from three databases were used: the Physionet Challenge 2011 dataset, the <z:chebi fb="75" ids="27847,53620">MIT</z:chebi>-BIH <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> database, and the MIMIC II database </plain></SENT>
+<SENT sid="3" pm="."><plain>The quality of more than 33000 single-lead 10s ECG segments were manually assessed and another 12000 bad quality single-lead ECG segments were generated using the Physionet Noise Stress Test Database </plain></SENT>
+<SENT sid="4" pm="."><plain>Signal quality indices (SQIs) were derived from the ECGs segments and used as the inputs to a support vector machine classifier with a Gaussian kernel </plain></SENT>
+<SENT sid="5" pm="."><plain>This classifier was trained to estimate the quality of an ECG segment </plain></SENT>
+<SENT sid="6" pm="."><plain>Classification accuracies of up to 99% on the training and test set were obtained for <z:mpath ids='MPATH_458'>normal</z:mpath> sinus rhythm and up to 95% for <z:hpo ids='HP_0011675'>arrhythmias</z:hpo>, although performance varied greatly depending on the type of rhythm </plain></SENT>
+<SENT sid="7" pm="."><plain>Additionally, the association between 4050 ICU alarms from the MIMIC II database and the signal quality, as evaluated by the classifier, was studied </plain></SENT>
+<SENT sid="8" pm="."><plain>Results suggest that the SQIs should be rhythm specific and that the classifier should be trained for each rhythm call independently </plain></SENT>
+<SENT sid="9" pm="."><plain>This would require a substantially increased set of labelled data in order to train an accurate algorithm </plain></SENT>
+</text></document>

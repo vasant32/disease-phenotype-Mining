@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: Second mitochondria-derived activator of caspase (Smac) is a recently identified, novel pro-apoptotic molecule, which is released from mitochondria into the cytosol during <z:mpath ids='MPATH_3'>apoptosis</z:mpath> </plain></SENT>
+<SENT sid="1" pm="."><plain>Smac promotes activation of caspases by neutralizing members of the inhibitor of <z:mpath ids='MPATH_3'>apoptosis</z:mpath> proteins (IAPs) family, such as <z:hpo ids='HP_0001417'>X-linked</z:hpo> inhibitor of <z:mpath ids='MPATH_3'>apoptosis</z:mpath> protein (XIAP) </plain></SENT>
+<SENT sid="2" pm="."><plain>The objective of the study was to examine the pro-apoptotic effect of human Smac gene on Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> Raji cells </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: The full length cDNA of human Smac gene was amplified by reverse transcription-PCR from total <z:chebi fb="40" ids="33697">RNA</z:chebi> of HEK-293 cells </plain></SENT>
+<SENT sid="4" pm="."><plain>The PCR product was ligated with linearized vector pGEM-T-easy supplied in the TA cloning kit and sequenced </plain></SENT>
+<SENT sid="5" pm="."><plain>The correct cDNA of full length Smac was subcloned into eukaryocytic expression vector pcDNA3.1/myc-his and transfected into human Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cell line Raji by lipofectamine-mediated transfection </plain></SENT>
+<SENT sid="6" pm="."><plain>The expression of full length Smac was determined by Western blot </plain></SENT>
+<SENT sid="7" pm="."><plain>Morphological observation was done with the laser scanning confocal microscope by double staining the Raji cells with Hoechest 33,258 and <z:chebi fb="0" ids="51240">propidium iodide</z:chebi> </plain></SENT>
+<SENT sid="8" pm="."><plain>Flow cytometry was used to evaluate <z:mpath ids='MPATH_3'>apoptosis</z:mpath> </plain></SENT>
+<SENT sid="9" pm="."><plain>Relative caspase-3 activity was determined by colorimetric assay </plain></SENT>
+<SENT sid="10" pm="."><plain>RESULTS: Recombinant eukaryocytic expression vector pcDNA3.1/Smac, which contained full length Smac, was successfully constructed </plain></SENT>
+<SENT sid="11" pm="."><plain>After pcDNA 3.1/Smac was transfected into human Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> Raji cell line for 24 hours, Raji cells showed apparent <z:mpath ids='MPATH_3'>apoptosis</z:mpath> with a percentage of (43.7 +/- 2.5)%, which was higher than that of non-transfected group and free vector-transfected group (P &lt; 0.05) </plain></SENT>
+<SENT sid="12" pm="."><plain>Compared with non-transfected group (0.136 +/- 0.036) and free vector-transfected group (0.138 +/- 0.026), the relative caspase-3 activity of Raji cells transfected by pcDNA3.1/Smac (0.936 +/- 0.041) was significantly enhanced (P &lt; 0.05) </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSION: Transfection and expression of human Smac gene could significantly induce <z:mpath ids='MPATH_3'>apoptosis</z:mpath> of human Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> Raji cells </plain></SENT>
+<SENT sid="14" pm="."><plain>The mechanism is associated with the increase of caspase-3 activity </plain></SENT>
+</text></document>

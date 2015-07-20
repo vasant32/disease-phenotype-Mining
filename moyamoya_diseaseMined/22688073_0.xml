@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 30-year-old female developed <z:e sem="disease" ids="C0026654" disease_type="Disease or Syndrome" abbrv="MYMY|MYMY1">moyamoya syndrome</z:e> after gamma knife surgery (GKS) for <z:hpo ids='HP_0002408'>cerebral arteriovenous malformation</z:hpo> (<z:mp ids='MP_0006093'>AVM</z:mp>), and was treated with bypass surgery </plain></SENT>
+<SENT sid="1" pm="."><plain>She suffered from flittering <z:hpo ids='HP_0000575'>scotoma</z:hpo>, right transient hemianopsia, and <z:hpo ids='HP_0002315'>headache</z:hpo> for 1 year </plain></SENT>
+<SENT sid="2" pm="."><plain>Cerebral angiography revealed a Spetzler-Martin grade III <z:mp ids='MP_0006093'>AVM</z:mp> located in the left occipital lobe </plain></SENT>
+<SENT sid="3" pm="."><plain>After staged embolization, GKS was performed with a minimum dose of 20 Gy to the periphery of the nidus at the 50% isodose level of the maximum target dose </plain></SENT>
+<SENT sid="4" pm="."><plain>Gradual nidus regression was achieved, and the clinical symptoms disappeared completely </plain></SENT>
+<SENT sid="5" pm="."><plain>However, at 30 months after GKS, the patient suffered <z:hpo ids='HP_0002326'>transient ischemic attack</z:hpo> </plain></SENT>
+<SENT sid="6" pm="."><plain>Cerebral angiography showed left middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> with <z:e sem="disease" ids="C0026654" disease_type="Disease or Syndrome" abbrv="MYMY|MYMY1">moyamoya</z:e> vessels </plain></SENT>
+<SENT sid="7" pm="."><plain>The patient underwent direct and indirect bypass surgery </plain></SENT>
+<SENT sid="8" pm="."><plain>After surgery, the patient was free from ischemic symptoms </plain></SENT>
+<SENT sid="9" pm="."><plain><z:hpo ids='HP_0011010'>Chronic</z:hpo> <z:mp ids='MP_0001845'>inflammation</z:mp> and long-term changes in expression of cytokines and growth factors after GKS may have triggered this case </plain></SENT>
+</text></document>

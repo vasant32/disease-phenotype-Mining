@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Immune mediated <z:e sem="disease" ids="C0011303" disease_type="Disease or Syndrome" abbrv="">demyelinating disease</z:e> (IMDD) after allogeneic hemopoietic stem cell transplant (HSCT) is rare and its etiology unclear </plain></SENT>
+<SENT sid="1" pm="."><plain>In this retrospective study, we identified patients who underwent HSCT between January 1992 and December 2010 and had IMDD post transplant </plain></SENT>
+<SENT sid="2" pm="."><plain>A total of 1,484 patients received HSCT and 7 (0.5 %) suffered from IMDD; five were men, and the median age was 54 years (range, 29-64 years) </plain></SENT>
+<SENT sid="3" pm="."><plain>HSCT treated <z:hpo ids='HP_0004808'>acute myeloid leukemia</z:hpo> (n = 5), <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo> (n = 1), and <z:e sem="disease" ids="C0024419" disease_type="Neoplastic Process" abbrv="">Waldenström macroglobulinemia</z:e> (n = 1) </plain></SENT>
+<SENT sid="4" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> received an HLA matched donor graft, related (6), unrelated (1); from the bone marrow (1), peripheral blood stem cell (6); and T-cell depleted, ex vivo (6) or in vivo (1) </plain></SENT>
+<SENT sid="5" pm="."><plain>The median time from transplant to neurologic symptoms was 120 days (range, 60-390 days) </plain></SENT>
+<SENT sid="6" pm="."><plain>Three had <z:hpo ids='HP_0011009'>acute</z:hpo> demyelinating <z:mp ids='MP_0006082'>encephalomyelitis</z:mp> (ADEM), three <z:hpo ids='HP_0011009'>acute</z:hpo> inflammatory demyelinating <z:e sem="disease" ids="C0032586" disease_type="Disease or Syndrome" abbrv="">polyradiculopathy</z:e> (AIDP) and one <z:e sem="disease" ids="C0259749" disease_type="Disease or Syndrome" abbrv="">autonomic neuropathy</z:e> </plain></SENT>
+<SENT sid="7" pm="."><plain>Four of six patients tested had hemopoietic mixed chimerism prior to neurologic symptoms and low CD4(+) T-cell counts, median 76 (15-500 cells/μL) </plain></SENT>
+<SENT sid="8" pm="."><plain>Two patients had simultaneous systemic <z:e sem="disease" ids="C0018133" disease_type="Disease or Syndrome" abbrv="GVH">graft versus host disease</z:e> (GVHD) </plain></SENT>
+<SENT sid="9" pm="."><plain>Two patients with ADEM had a spinal cord or brain biopsy which revealed <z:hpo ids='HP_0011096'>demyelination</z:hpo> </plain></SENT>
+<SENT sid="10" pm="."><plain>No patients had a <z:mp ids='MP_0001799'>viral</z:mp> etiology identified in the cerebrospinal fluid </plain></SENT>
+<SENT sid="11" pm="."><plain>Patients were treated with IV immunoglobulin, high dose steroids and/or rituximab </plain></SENT>
+<SENT sid="12" pm="."><plain>Five patients had a significant recovery </plain></SENT>
+<SENT sid="13" pm="."><plain>Response to immune modulators suggests an immune-based etiology </plain></SENT>
+<SENT sid="14" pm="."><plain>The incidence of de novo <z:hpo ids='HP_0002960'>autoimmune disease</z:hpo> after HSCT for <z:e sem="disease" ids="C0018939" disease_type="Disease or Syndrome" abbrv="">hematological diseases</z:e> is rare and may be difficult to differentiate from GVHD </plain></SENT>
+</text></document>

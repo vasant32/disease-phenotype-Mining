@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Patients with <z:hpo ids='HP_0000238'>hydrocephalus</z:hpo>, idiopathic intracranial <z:hpo ids='HP_0000822'>hypertension</z:hpo> and head injury frequently require monitoring of intracranial pressure (ICP) and may need repeated episodes of monitoring months or years apart </plain></SENT>
+<SENT sid="1" pm="."><plain>The gold standard for measurement of ICP remains the external ventricular catheter </plain></SENT>
+<SENT sid="2" pm="."><plain>This is a fluid-filled catheter transducer system that allows regular recalibration and correction of zero drift by its position relative to a fixed anatomical reference </plain></SENT>
+<SENT sid="3" pm="."><plain>It also allows drainage of cerebrospinal fluid (CSF), providing a means of lowering the ICP </plain></SENT>
+<SENT sid="4" pm="."><plain>Several catheter tip transducer systems are currently in clinical use, including using strain gauges or fiber-optical pressure sensing techniques </plain></SENT>
+<SENT sid="5" pm="."><plain>In these devices, zero drift and calibration cannot be checked in vivo </plain></SENT>
+<SENT sid="6" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> the ICP monitoring devices in current clinical use require a physical connection between the brain and the external environment </plain></SENT>
+<SENT sid="7" pm="."><plain>This is a source of <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infection</z:e> and limits the duration of monitoring </plain></SENT>
+<SENT sid="8" pm="."><plain>A number of telemetric monitoring devices, in which data is in some way transmitted transcutaneously, have been developed over the last twenty years, but significant technical problems have precluded their use in routine clinical practice </plain></SENT>
+<SENT sid="9" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> current ICP monitors are temporary percutaneous implanted devices </plain></SENT>
+<SENT sid="10" pm="."><plain>Placement of these devices carries significant morbidity, particularly <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infection</z:e> </plain></SENT>
+<SENT sid="11" pm="."><plain>Patients undergoing repeated monitoring require multiple surgical procedures </plain></SENT>
+<SENT sid="12" pm="."><plain>Apart from decreasing the risk of <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infection</z:e> in patients with severe head injury, the clinical value of an accurate telemetric ICP monitoring system which maintains its reliability over a long period of implantation is high </plain></SENT>
+</text></document>

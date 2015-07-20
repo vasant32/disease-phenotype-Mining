@@ -1,0 +1,22 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: We previously reported 57% 12-month event free survival (EFS) in Malawian children with stage I to III Burkitt <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">BL</z:e>) with an intermediate dose chemotherapy protocol lasting 77 days </plain></SENT>
+<SENT sid="1" pm="."><plain>This protocol was shortened to 42 days and evaluated in children with stage I to IV disease for EFS and toxicity </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: <z:hpo ids='HP_0000001'>All</z:hpo> Malawian children admitted to Queen Elizabeth Central Hospital, from 03/08/2000 to 12/03/2002 with confirmed <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">BL</z:e> were eligible </plain></SENT>
+<SENT sid="3" pm="."><plain>A fine needle aspirate, bone marrow aspirate, cerebrospinal fluid cytology, <z:chebi fb="34" ids="35143">haemoglobin</z:chebi> (Hb), white cell count (WCC), <z:e sem="disease" ids="C0024530" disease_type="Disease or Syndrome" abbrv="">malaria</z:e> smear, ELISA for HIV, and abdominal ultrasound were performed routinely </plain></SENT>
+<SENT sid="4" pm="."><plain>Murphy staging was used </plain></SENT>
+<SENT sid="5" pm="."><plain>The first dose of chemotherapy (COP1) consisted of 300 mg <z:chebi fb="0" ids="4027">cyclophosphamide</z:chebi> (CPM), 1 mg <z:chebi fb="0" ids="28445">vincristine</z:chebi>, and 60 mg <z:chebi fb="0" ids="8382">prednisone</z:chebi> given on day 1 and followed by COP2 on day 8 (only for patients with larger <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumour</z:e> volumes, stage III or IV disease) </plain></SENT>
+<SENT sid="6" pm="."><plain>The <z:chebi fb="0" ids="28445">vincristine</z:chebi> dose in COP2 was 2 mg </plain></SENT>
+<SENT sid="7" pm="."><plain>COMP1 and 2 given on days 22 and 36 consisted of 500 mg CPM, 2 mg <z:chebi fb="0" ids="28445">vincristine</z:chebi>, 60 mg <z:chebi fb="0" ids="8382">prednisone</z:chebi>, and 2 g <z:chebi fb="0" ids="44185">methotrexate</z:chebi> </plain></SENT>
+<SENT sid="8" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> doses were calculated per body surface area </plain></SENT>
+<SENT sid="9" pm="."><plain>Intrathecal <z:chebi fb="0" ids="44185">methotrexate</z:chebi> and <z:chebi fb="2" ids="17650">hydrocortisone</z:chebi> were given with COP1 and 2 </plain></SENT>
+<SENT sid="10" pm="."><plain>RESULTS: Forty-two patients, 30 boys and 12 girls median ages 6 and 7.5 years, respectively, had Murphy stage I(n5), II(n8), III(n21), and IV(n8) disease </plain></SENT>
+<SENT sid="11" pm="."><plain>The face was involved in 74%, abdomen in 55%, bone marrow in 14%, kidneys in 24%, and 12% had <z:hpo ids='HP_0010550'>paraplegia</z:hpo> </plain></SENT>
+<SENT sid="12" pm="."><plain>Fourteen children died during or shortly after completion of chemotherapy </plain></SENT>
+<SENT sid="13" pm="."><plain>Three of these were disease related </plain></SENT>
+<SENT sid="14" pm="."><plain>Twelve patients suffered a local relapse after 57-328 days, and one a <z:chebi fb="7" ids="29425,29426,29441,29447">CNS</z:chebi> relapse at 76 days </plain></SENT>
+<SENT sid="15" pm="."><plain>The projected EFS at 12 months is 50% in stage I, 50% in stage II, 24% in stage III, 25% in stage IV, and 33% for <z:hpo ids='HP_0000001'>all</z:hpo> patients </plain></SENT>
+<SENT sid="16" pm="."><plain>The cumulative mean dose of CPM was 62 mg/kg in survivors and 64 mg/kg in children who relapsed </plain></SENT>
+<SENT sid="17" pm="."><plain>One third of patients experienced significant marrow suppression, and <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infections</z:e> after COMP1 </plain></SENT>
+<SENT sid="18" pm="."><plain>CONCLUSIONS: Thirty-three percent of children are in first remission at 12 months </plain></SENT>
+<SENT sid="19" pm="."><plain>The morbidity and mortality of treatment was high </plain></SENT>
+<SENT sid="20" pm="."><plain>The high relapse rate in <z:hpo ids='HP_0000001'>all</z:hpo> stages may be due to the low cumulative dose of CPM </plain></SENT>
+</text></document>

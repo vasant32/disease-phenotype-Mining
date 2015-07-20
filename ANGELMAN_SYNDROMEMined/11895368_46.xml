@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:e sem="disease" ids="C0162635" disease_type="Disease or Syndrome" abbrv="">Angelman syndrome (AS)</z:e>, characterized by motor dysfunction, <z:hpo ids='HP_0001249'>mental retardation</z:hpo>, and <z:hpo ids='HP_0001250'>seizures</z:hpo>, is caused by several genetic etiologies involving chromosome 15q11-q13, including mutations of the UBE3A gene </plain></SENT>
+<SENT sid="1" pm="."><plain>UBE3A encodes UBE3A/E6-AP, a ubiquitin-protein ligase, and shows brain-specific imprinting, with brain expression predominantly from the maternal allele </plain></SENT>
+<SENT sid="2" pm="."><plain>Lack of a functional maternal allele of UBE3A causes AS </plain></SENT>
+<SENT sid="3" pm="."><plain>In order to understand the causal relationship between maternal UBE3A mutations and AS, we have constructed a mouse model with targeted inactivation of Ube3a </plain></SENT>
+<SENT sid="4" pm="."><plain>The inactive allele contains a lacZ reporter gene for analysis of brain-specific imprinting </plain></SENT>
+<SENT sid="5" pm="."><plain>Maternal, but not paternal, transmission of the targeted allele leads to beta-galactosidase activity in hippocampal and cerebellar neurons </plain></SENT>
+<SENT sid="6" pm="."><plain>Maternal <z:hpo ids='HP_0000005'>inheritance</z:hpo> of the Ube3a mutant allele also causes impaired performance in tests of motor function and spatial learning, as well as abnormal hippocampal EEG recordings </plain></SENT>
+<SENT sid="7" pm="."><plain>As predicted from the dependence of UBE3A-mediated ubiquitination of p53 on HPV E6 protein, our maternal-deficient mice show <z:mpath ids='MPATH_458'>normal</z:mpath> brain p53 levels </plain></SENT>
+</text></document>

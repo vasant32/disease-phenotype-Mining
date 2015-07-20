@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: L5, a circulating electronegative <z:chebi fb="15" ids="39026">LDL</z:chebi> identified in patients with <z:hpo ids='HP_0003124'>hypercholesterolemia</z:hpo> or type 2 <z:mp ids='MP_0002055'>diabetes</z:mp>, induces endothelial cell (EC) <z:mpath ids='MPATH_3'>apoptosis</z:mpath> by suppressing fibroblast growth factor (FGF)2 expression </plain></SENT>
+<SENT sid="1" pm="."><plain>FGF2 plays a pivotal role in endothelial regeneration and compensatory arteriogenesis </plain></SENT>
+<SENT sid="2" pm="."><plain>It is likely that vasculopathy and poor collateralization in <z:mp ids='MP_0002055'>diabetes</z:mp> is a result of FGF2 dysregulation </plain></SENT>
+<SENT sid="3" pm="."><plain>RESEARCH DESIGN AND METHODS: To investigate this mechanism, we isolated L5 from type 2 diabetic patients </plain></SENT>
+<SENT sid="4" pm="."><plain>In cultured bovine aortic ECs (BAECs), L5 inhibited FGF2 transcription and induced <z:mpath ids='MPATH_3'>apoptosis</z:mpath> </plain></SENT>
+<SENT sid="5" pm="."><plain>Because FGF2 stimulates the phosphatidylinositol 3-kinase (PI3K)-Akt pathway, we examined whether FGF2 transcription is regulated by Akt through a feedback mechanism </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: Diabetic L5 reduced FGF2 release to the medium but enhanced caspase-3 activity, with resultant <z:mpath ids='MPATH_3'>apoptosis</z:mpath> </plain></SENT>
+<SENT sid="7" pm="."><plain>Inhibition of PI3K with <z:chebi fb="0" ids="52289">wortmannin</z:chebi> or suppression of Akt activation with dominant-negative Akt inhibited FGF2 expression </plain></SENT>
+<SENT sid="8" pm="."><plain>Transfection of BAECs with FGF2 antisense cDNA depleted endogenous FGF2 protein </plain></SENT>
+<SENT sid="9" pm="."><plain>In these cells, not only was Akt phosphorylation inhibited, but FGF2 transcription was also critically impaired </plain></SENT>
+<SENT sid="10" pm="."><plain>In contrast, transfecting BAECs with FGF2 sense cDNA augmented Akt phosphorylation </plain></SENT>
+<SENT sid="11" pm="."><plain>Treatment with constitutively active Akt enhanced FGF2 expression </plain></SENT>
+<SENT sid="12" pm="."><plain>Augmentation of either FGF2 transcription or Akt phosphorylation rendered BAECs resistant to L5 </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSIONS: These findings suggest that FGF2 is the primary initiator of its own expression, which is autoregulated through a novel FGF2-PI3K-Akt loop </plain></SENT>
+<SENT sid="14" pm="."><plain>Thus, by disrupting FGF2 autoregulation in vascular ECs, L5 may impair reendothelialization and collateralization in <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+</text></document>

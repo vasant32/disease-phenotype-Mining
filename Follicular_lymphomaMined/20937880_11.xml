@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Surface Ig (sIg) of follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (FL) is vital for <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> cell survival </plain></SENT>
+<SENT sid="1" pm="."><plain>We found previously that the Ig in FL is unusual, because the variable region genes carry sequence motifs for N-glycan addition </plain></SENT>
+<SENT sid="2" pm="."><plain>These are introduced by <z:hpo ids='HP_0001428'>somatic mutation</z:hpo> and are <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> specific </plain></SENT>
+<SENT sid="3" pm="."><plain>Unexpectedly, added <z:chebi fb="0" ids="18154">glycans</z:chebi> terminate at high <z:chebi fb="0" ids="37684">mannose</z:chebi>, suggesting a potentially important interaction of FL cells with <z:chebi fb="0" ids="37684">mannose</z:chebi>-binding lectins of the innate immune system </plain></SENT>
+<SENT sid="4" pm="."><plain>We have now identified mannosylated IgM at the surface of primary <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cells </plain></SENT>
+<SENT sid="5" pm="."><plain>Recombinant lectin domains of the <z:chebi fb="0" ids="37684">mannose</z:chebi> receptor (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e>) or DC-SIGN bind mannosylated Igs in vitro and bind to FL cells, signaling sIgM-associated increases in intracellular Ca(2+) </plain></SENT>
+<SENT sid="6" pm="."><plain>Lectins also bind to <z:mpath ids='MPATH_458'>normal</z:mpath> B cells but fail to signal </plain></SENT>
+<SENT sid="7" pm="."><plain>In contrast, anti-Ig signaled similarly in both FL and <z:mpath ids='MPATH_458'>normal</z:mpath> B cells </plain></SENT>
+<SENT sid="8" pm="."><plain>Mannosylation patterns were mimicked by FL Ig-derived single-chain Fvs (scFv), providing probes for potential receptors </plain></SENT>
+<SENT sid="9" pm="."><plain>Mannosylated scFv bound specifically to the lectin domains of the <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e> and DC-SIGN and blocked signaling </plain></SENT>
+<SENT sid="10" pm="."><plain>Mannosylated scFv also bound to DC-SIGN on the surface of dendritic cells </plain></SENT>
+<SENT sid="11" pm="."><plain>This unique <z:hpo ids='HP_0002665'>lymphoma</z:hpo>-specific interaction of sIg with lectins of innate immunity reveals a potential route for microenvironmental support of <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> cells, mediated via the key B-cell receptor </plain></SENT>
+</text></document>

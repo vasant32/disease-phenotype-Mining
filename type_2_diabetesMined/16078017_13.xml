@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIMS/HYPOTHESIS: Present guidelines for the treatment of type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> recommend HbA1c values of less than 7% </plain></SENT>
+<SENT sid="1" pm="."><plain>As beta cell function worsens during progress of the disease, insulin therapy is often necessary to achieve this ambitious goal </plain></SENT>
+<SENT sid="2" pm="."><plain>However, due to peripheral <z:hpo ids='HP_0000855'>insulin resistance</z:hpo>, many patients need rather high insulin dosages </plain></SENT>
+<SENT sid="3" pm="."><plain>In the light of the extremely high cardiovascular risk of diabetic patients, it is important to determine whether high concentrations of insulin or its frequently used analogues are harmful to the cardiovascular system </plain></SENT>
+<SENT sid="4" pm="."><plain>We therefore investigated the modulatory effects of regular human insulin and its analogue glargine on proliferation and <z:mpath ids='MPATH_3'>apoptosis</z:mpath> of human coronary artery endothelial cells (HCAECs) and human coronary artery smooth muscle cells (HCASMCs) </plain></SENT>
+<SENT sid="5" pm="."><plain>METHODS: Cells were treated with regular human insulin or insulin glargine </plain></SENT>
+<SENT sid="6" pm="."><plain>Proliferation was determined by [3H]<z:chebi fb="0" ids="17748">thymidine</z:chebi> incorporation and by flow cytometric analysis of Ki-67 expression </plain></SENT>
+<SENT sid="7" pm="."><plain><z:mpath ids='MPATH_3'>Apoptosis</z:mpath> was assessed by flow cytometry (cell cycle analysis and annexin V staining) and determination of caspase-3 activity </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: HCAECs and HCASMCs treated with regular human insulin or insulin glargine did not show significant increases in DNA synthesis or Ki-67 expression </plain></SENT>
+<SENT sid="9" pm="."><plain>Administration of regular human insulin or insulin glargine did not modulate the extent of apoptotic events </plain></SENT>
+<SENT sid="10" pm="."><plain>No influence of insulin on lipoapoptotic vascular cell <z:hpo ids='HP_0011420'>death</z:hpo> could be detected </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS/INTERPRETATION: Taken together, neither regular human insulin nor insulin glargine influences growth and <z:mpath ids='MPATH_3'>apoptosis</z:mpath> of human coronary artery cells in vitro </plain></SENT>
+<SENT sid="12" pm="."><plain>Our data do not suggest that regular human insulin or insulin glargine promote <z:hpo ids='HP_0002621'>atherosclerosis</z:hpo> through mechanisms affecting the cellularity of human coronary arteries </plain></SENT>
+</text></document>

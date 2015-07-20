@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Reperfusion of intracranial arteries can be detected by transcranial Doppler (TCD) </plain></SENT>
+<SENT sid="1" pm="."><plain>The authors report microembolic signals (<z:chebi fb="28" ids="39005,39010">MES</z:chebi>) on TCD as a sign of clot dissolution and recanalization </plain></SENT>
+<SENT sid="2" pm="."><plain>Microembolic signals were detected during routine diagnostic TCD examination performed in the emergency room in patients eligible for thrombolytic therapy </plain></SENT>
+<SENT sid="3" pm="."><plain>Microembolic signals were found at the site of M1 middle cerebral artery (<z:chebi fb="70" ids="34342">MCA</z:chebi>) high-grade stenosis or near-occlusion </plain></SENT>
+<SENT sid="4" pm="."><plain>Transcranial Doppler was performed before, during, and after thrombolytic therapy </plain></SENT>
+<SENT sid="5" pm="."><plain>Of 16 consecutive patients, 3 (19%) had <z:chebi fb="28" ids="39005,39010">MES</z:chebi> on TCD </plain></SENT>
+<SENT sid="6" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> three patients had a severe <z:chebi fb="70" ids="34342">MCA</z:chebi> syndrome at 2 hours after <z:hpo ids='HP_0001297'>stroke</z:hpo> <z:hpo ids='HP_0003674'>onset</z:hpo> scored using the National Institutes of Health <z:hpo ids='HP_0001297'>Stroke</z:hpo> Scale (NIHSS) </plain></SENT>
+<SENT sid="7" pm="."><plain>In patient #1 (NIHSS 12), clusters of <z:chebi fb="28" ids="39005,39010">MES</z:chebi> were detected distal to a high-grade M1 <z:chebi fb="70" ids="34342">MCA</z:chebi> stenosis preceding spontaneous clinical recovery by 2 minutes </plain></SENT>
+<SENT sid="8" pm="."><plain>Because of subsequent fluctuating clinical deficit, intraarterial thrombolysis was given with complete recovery </plain></SENT>
+<SENT sid="9" pm="."><plain>In patient #2 (NIHSS 20), TCD detected an M1 <z:chebi fb="70" ids="34342">MCA</z:chebi> near-occlusion </plain></SENT>
+<SENT sid="10" pm="."><plain>At 1.5 hours after intravenous tissue plasminogen activator, TCD showed minimal <z:chebi fb="70" ids="34342">MCA</z:chebi> flow signals followed by <z:chebi fb="28" ids="39005,39010">MES</z:chebi>, increased velocities, and <z:mpath ids='MPATH_458'>normal</z:mpath> flow signals in just 2 minutes </plain></SENT>
+<SENT sid="11" pm="."><plain>She gradually recovered up to NIHSS 8 in 5 days </plain></SENT>
+<SENT sid="12" pm="."><plain>In patient #3 with NIHSS 22 and an M1 <z:chebi fb="70" ids="34342">MCA</z:chebi> near-occlusion, TCD detected <z:chebi fb="28" ids="39005,39010">MES</z:chebi> 15 minutes after <z:chebi fb="6" ids="15702,53394">TPA</z:chebi> bolus followed by <z:chebi fb="70" ids="34342">MCA</z:chebi> flow velocity improvement from 15 cm/sec to 30 cm/sec </plain></SENT>
+<SENT sid="13" pm="."><plain>The patient recovered completely by the end of tissue plasminogen activator infusion </plain></SENT>
+<SENT sid="14" pm="."><plain>The authors conclude that embolic signals detected by TCD at the site of arterial obstruction can indicate clot dissolution </plain></SENT>
+<SENT sid="15" pm="."><plain>Intracranial recanalization on TCD can be associated with <z:chebi fb="28" ids="39005,39010">MES</z:chebi> and changes in flow waveform, pulsatility, and velocity if insonation is performed at the site of arterial obstruction </plain></SENT>
+</text></document>

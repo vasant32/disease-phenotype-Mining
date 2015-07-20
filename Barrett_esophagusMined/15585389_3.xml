@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Keyhole limpet hemocyanin (KLH) is an immune stimulant derived from a circulating <z:chebi fb="2" ids="17089">glycoprotein</z:chebi> of the marine mollusk Megathura crenulata </plain></SENT>
+<SENT sid="1" pm="."><plain>We previously reported that KLH inhibited the growth of human Barrett's-associated esophageal <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> in vitro via apoptotic and nonapoptotic mechanisms </plain></SENT>
+<SENT sid="2" pm="."><plain>We hypothesize that KLH reduces the growth of Barrett's <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> cells by altering protein expression profiles </plain></SENT>
+<SENT sid="3" pm="."><plain>A cell line (SEG-1) derived from Barrett's-associated <z:mp ids='MP_0009308'>adenocarcinomas</z:mp> of the distal esophagus was selected </plain></SENT>
+<SENT sid="4" pm="."><plain>Cells were administered KLH (500 microg/ml) or vehicle </plain></SENT>
+<SENT sid="5" pm="."><plain>After 24 hours, cytosolic fractions were separated through two-dimensional gel electrophoresis </plain></SENT>
+<SENT sid="6" pm="."><plain>Statistical analysis was performed with Evolution Pro software to identify spots that were differentially expressed between the KLH and control groups </plain></SENT>
+<SENT sid="7" pm="."><plain>Proteins displaying a twofold or greater change in expression levels were selected for identification </plain></SENT>
+<SENT sid="8" pm="."><plain>In a total of 420 spots, 31 were differentially expressed between the KLH and control groups </plain></SENT>
+<SENT sid="9" pm="."><plain>In <z:hpo ids='HP_0000001'>all</z:hpo>, 12 were upregulated and 19 were downregulated </plain></SENT>
+<SENT sid="10" pm="."><plain>Of the 31, 17 were identified by matrix-assisted laser desorption/ionization time-of-flight mass spectrometry </plain></SENT>
+<SENT sid="11" pm="."><plain>Proteomic evaluation shows downregulation of proteins associated with metabolic processes (glycolysis, protein synthesis) </plain></SENT>
+<SENT sid="12" pm="."><plain>KLH also induced proteins indicative of <z:mp ids='MP_0003674'>oxidative stress</z:mp> (heat shock 70 family and <z:chebi fb="15" ids="17659">UDP</z:chebi>-<z:chebi fb="105" ids="17234">glucose</z:chebi> 6-dydrogenase) </plain></SENT>
+<SENT sid="13" pm="."><plain>Our results indicate that <z:mpath ids='MPATH_73'>growth arrest</z:mpath> by KLH is accompanied by a cellular stress response and attenuation of metabolic processes </plain></SENT>
+<SENT sid="14" pm="."><plain>The use of KLH as adjuvant or topical therapy for Barrett's <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> provides a promising development in the treatment of this disease </plain></SENT>
+</text></document>

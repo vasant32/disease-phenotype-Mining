@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Introducing new methodology often requires alteration to reference ranges and may cause inconvenience </plain></SENT>
+<SENT sid="1" pm="."><plain>Reagent suppliers may not have validated reference ranges quoted in their method sheets </plain></SENT>
+<SENT sid="2" pm="."><plain>When ratios of analytes are important, as for conjugated and unconjugated <z:chebi fb="0" ids="16990">bilirubin</z:chebi>, the combined changes can cause <z:hpo ids='HP_0001289'>confusion</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: The effect on <z:chebi fb="0" ids="16990">bilirubin</z:chebi> result interpretation following a change from Vitros (E950) dry slide technology to the Bayer ADVIA 1650 wet chemistry system was studied </plain></SENT>
+<SENT sid="4" pm="."><plain>RESULTS AND CONCLUSION: Over-estimation of conjugated <z:chebi fb="0" ids="16990">bilirubin</z:chebi> without an appropriate reference range can cause interpretative <z:hpo ids='HP_0001289'>confusion</z:hpo> </plain></SENT>
+<SENT sid="5" pm="."><plain>It is important to identify key patient groups likely to be affected by method changes well in advance </plain></SENT>
+<SENT sid="6" pm="."><plain>These need to be worked up in addition to reference range checks </plain></SENT>
+<SENT sid="7" pm="."><plain>It is unwise to rely on manufacturers for advice in this area </plain></SENT>
+<SENT sid="8" pm="."><plain>This report gives conjugated or direct <z:chebi fb="0" ids="16990">bilirubin</z:chebi> and total <z:chebi fb="0" ids="16990">bilirubin</z:chebi> values obtained using the above methods in nine patients with <z:e sem="disease" ids="C0017551" disease_type="Disease or Syndrome" abbrv="">Gilbert's syndrome</z:e> </plain></SENT>
+</text></document>

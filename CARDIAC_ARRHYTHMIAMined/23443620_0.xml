@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Background- Uninterrupted anticoagulation with <z:chebi fb="8" ids="10033">warfarin</z:chebi> during radiofrequency catheter ablation (RFA) of <z:hpo ids='HP_0005110'>atrial fibrillation</z:hpo> is associated with a lower risk of periprocedural complications than when <z:chebi fb="8" ids="10033">warfarin</z:chebi> is temporarily discontinued </plain></SENT>
+<SENT sid="1" pm="."><plain>However, the optimal international normalized ratio (INR) levels during RFA have not been defined </plain></SENT>
+<SENT sid="2" pm="."><plain>Methods and Results- In this retrospective analysis, RFA was performed in 1133 consecutive patients (mean age, 61±10 years) with paroxysmal (550) or persistent <z:hpo ids='HP_0005110'>atrial fibrillation</z:hpo> (583) </plain></SENT>
+<SENT sid="3" pm="."><plain>Patients were grouped based on the INR on the day of RFA </plain></SENT>
+<SENT sid="4" pm="."><plain>There was a quadratic relationship between the INR and <z:mp ids='MP_0001914'>bleeding</z:mp> and vascular complications (P&lt;0.001) </plain></SENT>
+<SENT sid="5" pm="."><plain>Complications were less prevalent when INR was ≥2.0 and ≤3.0 (5% [31/572]) than when INR was &lt;2.0 (10% [49/485]; P=0.004) and &gt;3.0 (12% [9/76]; P=0.03) </plain></SENT>
+<SENT sid="6" pm="."><plain>The prevalence of <z:e sem="disease" ids="C0007177" disease_type="Disease or Syndrome" abbrv="">pericardial tamponade</z:e> (1%) was similar at <z:hpo ids='HP_0000001'>all</z:hpo> INRs </plain></SENT>
+<SENT sid="7" pm="."><plain>From the quadratic model, the optimal range of INR was calculated as 2.1 to 2.5 </plain></SENT>
+<SENT sid="8" pm="."><plain>INRs&lt;2.0 and &gt;3.0 were associated with a &gt;2-fold increase in complications, with a further steep rise beyond an INR&gt;3.5 </plain></SENT>
+<SENT sid="9" pm="."><plain>Concomitant <z:chebi fb="0" ids="37941">clopidogrel</z:chebi> use was associated with a significant increase in complications at <z:hpo ids='HP_0000001'>all</z:hpo> INRs (odds ratio=3.1; ±95% confidence interval, 1.4-7.4) </plain></SENT>
+<SENT sid="10" pm="."><plain>Unfractionated <z:chebi fb="5" ids="28304">heparin</z:chebi> requirements to maintain a therapeutic activated clotting time during RFA was reduced by 50% in patients with an INR&gt;2.0 </plain></SENT>
+<SENT sid="11" pm="."><plain>Conclusions- The optimal INR range during uninterrupted periprocedural anticoagulation using <z:chebi fb="8" ids="10033">warfarin</z:chebi> is narrow </plain></SENT>
+<SENT sid="12" pm="."><plain>Therefore, INR levels should be carefully monitored in preparation for RFA of <z:hpo ids='HP_0005110'>atrial fibrillation</z:hpo> </plain></SENT>
+</text></document>

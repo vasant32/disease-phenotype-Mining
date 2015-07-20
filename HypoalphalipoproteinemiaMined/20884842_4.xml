@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We have identified a novel mutation in apoA-I (serine 36 to alanine; S36A) in a human subject with severe <z:e sem="disease" ids="C0473527" disease_type="Disease or Syndrome" abbrv="">hypoalphalipoproteinemia</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>The mutation is located in the N-terminal region of the protein, which has been implicated in several functions, including <z:chebi fb="23" ids="18059">lipid</z:chebi> binding and lecithin:cholesterol acyltransferase (LCAT) activity </plain></SENT>
+<SENT sid="2" pm="."><plain>In the present study, the S36A protein was produced recombinantly and characterized both structurally and functionally </plain></SENT>
+<SENT sid="3" pm="."><plain>While the helical content of the mutant protein was lower compared with <z:mp ids='MP_0002169'>wild-type</z:mp> (WT) apoA-I, it retained its helical character </plain></SENT>
+<SENT sid="4" pm="."><plain>The protein stability, measured as the resistance to <z:chebi fb="0" ids="42820">guanidine</z:chebi>-induced denaturation, decreased significantly </plain></SENT>
+<SENT sid="5" pm="."><plain>Interestingly, native gel electrophoresis, cross-linking, and sedimentation equilibrium analysis showed that the S36A mutant was primarily present as a monomer, notably different from the WT protein, which showed considerable oligomeric forms </plain></SENT>
+<SENT sid="6" pm="."><plain>Although the ability of S36A apoA-I to solubilize <z:chebi fb="0" ids="49183">phosphatidylcholine</z:chebi> vesicles and bind to <z:chebi fb="1" ids="6495">lipoprotein</z:chebi> surfaces was not altered, a significantly impaired LCAT activation compared with the WT protein was observed </plain></SENT>
+<SENT sid="7" pm="."><plain>These results implicate a region around S36 in apoA-I self-association, independent of the intact C terminus </plain></SENT>
+<SENT sid="8" pm="."><plain>Furthermore, the region around S36 in the N-terminus of human apoA-I is necessary for LCAT activation </plain></SENT>
+</text></document>

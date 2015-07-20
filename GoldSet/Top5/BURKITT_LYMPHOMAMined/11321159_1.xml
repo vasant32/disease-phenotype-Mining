@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Traditional electroporation devices use direct current electric fields to stimulate the uptake of oligonucleotides, plasmids, short <z:chebi fb="7" ids="16670">peptides</z:chebi>, and proteins into a variety of cell types </plain></SENT>
+<SENT sid="1" pm="."><plain>A variation of this widely used technique is now available which relies on radio frequency (RF) electrical pulses </plain></SENT>
+<SENT sid="2" pm="."><plain>This oscillating type of electrical field reportedly elicits greater uptake of plasmid DNA across the plasma membrane </plain></SENT>
+<SENT sid="3" pm="."><plain>We evaluated a protocol for RF electroporation of the a human embryonic kidney cell line and a Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">BL</z:e>) cell line for effeciency of transfection by RF electroporation </plain></SENT>
+<SENT sid="4" pm="."><plain>The plasmid EGFP, which codes for the widely used fusion protein, enhanced green fluorescent protein (EGFP), was used as a reporter of plasmid uptake after transfections </plain></SENT>
+<SENT sid="5" pm="."><plain>Transfection efficiency consistently increased approximately 30% from that typically obtained with conventional DC type electroporation and was accompanied by greater survivability of cells </plain></SENT>
+<SENT sid="6" pm="."><plain>Additionally, in some instances, percent transfection efficiency increased to over 70% </plain></SENT>
+<SENT sid="7" pm="."><plain>Thus, RF electroporation represents an improved methodology for transfection of human cell lines </plain></SENT>
+<SENT sid="8" pm="."><plain>Moreover, the RF protocol is simple to incorporate in laboratories already utilizing conventional electroporation devices and techniques </plain></SENT>
+</text></document>

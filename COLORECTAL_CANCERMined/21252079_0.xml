@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>When the true end points (T) are difficult or costly to measure, surrogate markers (S) are often collected in clinical trials to help predict the effect of the treatment (Z) </plain></SENT>
+<SENT sid="1" pm="."><plain>There is great interest in understanding the relationship among S, T, and Z </plain></SENT>
+<SENT sid="2" pm="."><plain>A principal stratification (PS) framework has been proposed by Frangakis and Rubin (2002) to study their causal associations </plain></SENT>
+<SENT sid="3" pm="."><plain>In this paper, we extend the framework to a multiple trial setting and propose a Bayesian hierarchical PS model to assess surrogacy </plain></SENT>
+<SENT sid="4" pm="."><plain>We apply the method to data from a large collection of <z:hpo ids='HP_0003003'>colon cancer</z:hpo> trials in which S and T are binary </plain></SENT>
+<SENT sid="5" pm="."><plain>We obtain the trial-specific causal measures among S, T, and Z, as well as their overall population-level counterparts that are invariant across trials </plain></SENT>
+<SENT sid="6" pm="."><plain>The method allows for information sharing across trials and reduces the nonidentifiability problem </plain></SENT>
+<SENT sid="7" pm="."><plain>We examine the frequentist properties of our model estimates and the impact of the monotonicity assumption using simulations </plain></SENT>
+<SENT sid="8" pm="."><plain>We also illustrate the challenges in evaluating surrogacy in the counterfactual framework that result from nonidentifiability </plain></SENT>
+</text></document>

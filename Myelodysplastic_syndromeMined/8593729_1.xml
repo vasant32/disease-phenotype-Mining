@@ -1,0 +1,4 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A patient presenting with cutaneous <z:hpo ids='HP_0002633'>vasculitis</z:hpo> was noted to be pancytopenic </plain></SENT>
+<SENT sid="1" pm="."><plain>Subsequent investigation showed a <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e>)--refractory <z:hpo ids='HP_0001903'>anaemia</z:hpo> with excess of blasts </plain></SENT>
+<SENT sid="2" pm="."><plain>Within 3 months her <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> progressed to <z:hpo ids='HP_0011009'>acute</z:hpo> <z:mpath ids='MPATH_342'>myeloid leukaemia</z:mpath> </plain></SENT>
+</text></document>

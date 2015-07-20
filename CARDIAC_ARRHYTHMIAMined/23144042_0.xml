@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0005110'>Atrial fibrillation</z:hpo> (AF) is the most frequent <z:hpo ids='HP_0011675'>cardiac arrhythmia</z:hpo> seen in clinical practice </plain></SENT>
+<SENT sid="1" pm="."><plain>Several therapeutical approaches have been developed to terminate the AF and the effects are evaluated by the reduction of the wavelet number after the treatments </plain></SENT>
+<SENT sid="2" pm="."><plain>Most of the previous studies focus on modeling and analysis the mechanism, and the characteristic of AF </plain></SENT>
+<SENT sid="3" pm="."><plain>But no one discusses about the prediction of the result after the drug treatment </plain></SENT>
+<SENT sid="4" pm="."><plain>This paper is the first study to predict whether the drug treatment for AF is active or not </plain></SENT>
+<SENT sid="5" pm="."><plain>In this paper, the linear autoregressive model with exogenous inputs (ARX) that models the system output-input relationship by solving linear regression equations with least squares method was developed and applied to estimate the effects of pharmacological therapy on AF </plain></SENT>
+<SENT sid="6" pm="."><plain>Recordings (224-site bipolar recordings) of plaque electrode arrays placed on the right and left atria of pigs with sustained AF induced by rapid atrial-pacing were used to train and test the ARX models </plain></SENT>
+<SENT sid="7" pm="."><plain>The cardiac mapping data from twelve pigs treated with intravenous administration of <z:chebi fb="0" ids="38070">antiarrhythmia drug</z:chebi>, propafenone (<z:chebi fb="6" ids="50459">PPF</z:chebi>) or dl-sotalol (STL), was evaluated </plain></SENT>
+<SENT sid="8" pm="."><plain>The recordings of cardiac activity before the drug treatment were input to the model and the model output reported the estimated wavelet number of atria after the drug treatment </plain></SENT>
+<SENT sid="9" pm="."><plain>The results show that the predicting accuracy rate corresponding to the <z:chebi fb="6" ids="50459">PPF</z:chebi> and STL treatment was 100% and 92%, respectively </plain></SENT>
+<SENT sid="10" pm="."><plain>It is expected that the developed ARX model can be further extended to assist the clinical staffs to choose the effective treatments for the AF patients in the future </plain></SENT>
+</text></document>

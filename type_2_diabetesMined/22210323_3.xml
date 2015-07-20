@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Fibroblast growth factor 21 (FGF21) mitigates many of the pathogenic features of type 2 <z:mp ids='MP_0002055'>diabetes</z:mp>, despite a short circulating half-life </plain></SENT>
+<SENT sid="1" pm="."><plain>PEGylation is a proven approach to prolonging the duration of action while enhancing biophysical solubility and stability </plain></SENT>
+<SENT sid="2" pm="."><plain>However, in the absence of a specific protein PEGylation site, chemical conjugation is inherently <z:hpo ids='HP_0001425'>heterogeneous</z:hpo> and commonly leads to dramatic loss in bioactivity </plain></SENT>
+<SENT sid="3" pm="."><plain>This work illustrates a novel means of specific PEGylation, producing FGF21 analogs with high specific activity and salutary biological activities </plain></SENT>
+<SENT sid="4" pm="."><plain>Using homology modeling and structure-based design, specific sites were chosen in human FGF21 for site-specific PEGylation to ensure that receptor binding regions were preserved </plain></SENT>
+<SENT sid="5" pm="."><plain>The in vitro activity of the PEGylated FGF21 ana-logs corresponded with the site of <z:chebi fb="77" ids="46793">PEG</z:chebi> placement within the binding model </plain></SENT>
+<SENT sid="6" pm="."><plain>Site-specific PEGylated analogs demonstrated dramatically increased circulating half-life and enhanced efficacy in db/db mice </plain></SENT>
+<SENT sid="7" pm="."><plain>Twice-weekly dosing of an optimal FGF21 analog reduced blood <z:chebi fb="105" ids="17234">glucose</z:chebi>, plasma <z:chebi fb="23" ids="18059">lipids</z:chebi>, liver <z:chebi fb="4" ids="17855">triglycerides</z:chebi>, and plasma glucagon and enhanced pancreatic insulin content, islet number, and <z:chebi fb="105" ids="17234">glucose</z:chebi>-dependent insulin secretion </plain></SENT>
+<SENT sid="8" pm="."><plain>Restoration of insulin sensitivity was demonstrated by the enhanced ability of insulin to induce Akt/protein kinase B phosphorylation in liver, muscle, and adipose tissues </plain></SENT>
+<SENT sid="9" pm="."><plain>PEGylation of human FGF21 at a specific and preferred site confers superior metabolic pharmacology </plain></SENT>
+</text></document>

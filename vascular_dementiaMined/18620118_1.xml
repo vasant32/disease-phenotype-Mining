@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>RATIONALE AND OBJECTIVES: The purpose of this study was to develop an automated method for detection of the hyperintense ischemic lesions related to subcortical vascular <z:hpo ids='HP_0000726'>dementia</z:hpo> based on conventional magnetic resonance images (T1-weighted, T2-weighted, and fluid-attenuated inversion-recovery images [FLAIR]) </plain></SENT>
+<SENT sid="1" pm="."><plain>MATERIALS AND METHODS: Our proposed method was based on subtraction between the T1-weighted image and the FLAIR image </plain></SENT>
+<SENT sid="2" pm="."><plain>First, a brain region was extracted by an automated thresholding technique based on a linear discriminant analysis for a pixel value histogram </plain></SENT>
+<SENT sid="3" pm="."><plain>Next, for enhancement of ischemic lesions, the T1-weighted image was subtracted from the fluid-attenuated inversion-recovery image </plain></SENT>
+<SENT sid="4" pm="."><plain>Ischemic lesion candidates were identified using a multiple gray-level thresholding technique and a feature-based region-growing technique on the subtraction image </plain></SENT>
+<SENT sid="5" pm="."><plain>Finally, an artificial neural network trained with 15 image features of the ischemic candidates was used to remove false-positives </plain></SENT>
+<SENT sid="6" pm="."><plain>We applied our method to nine patients with vascular <z:hpo ids='HP_0000726'>dementia</z:hpo> (age range, 64-94 years, mean age, 69.4 years; four males and five females), who were scanned on a 1.5-T magnetic resonance unit </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: Our method achieved a sensitivity of 90% with 4.0 false-positives per slice in detection of ischemic lesions </plain></SENT>
+<SENT sid="8" pm="."><plain>The overlap measure between ischemic lesion areas obtained by our method and a neuroradiologist was 60.7% on average </plain></SENT>
+<SENT sid="9" pm="."><plain>The ratio of ischemic lesion area to the whole brain area obtained by our method correlated with that determined by a neuroradiologist with a correlation coefficient of 0.911 </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSION: Our preliminary results suggest that the proposed method may have feasibility for evaluation of the ischemic lesion area ratio </plain></SENT>
+</text></document>

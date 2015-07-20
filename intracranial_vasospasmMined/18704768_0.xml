@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>To determine the performance of an artificial neural network in transcranial color-coded duplex sonography (TCCS) diagnosis of middle cerebral artery (<z:chebi fb="70" ids="34342">MCA</z:chebi>) spasm </plain></SENT>
+<SENT sid="1" pm="."><plain>TCCS was prospectively acquired within 2 h prior to routine cerebral angiography in 100 consecutive patients (54M:46F, median age 50 years) </plain></SENT>
+<SENT sid="2" pm="."><plain>Angiographic <z:chebi fb="70" ids="34342">MCA</z:chebi> vasospasm was classified as mild (&lt;25% of vessel caliber reduction), moderate (25-50%), or severe (&gt;50%) </plain></SENT>
+<SENT sid="3" pm="."><plain>A Learning Vector Quantization neural network classified <z:chebi fb="70" ids="34342">MCA</z:chebi> spasm based on TCCS peak-systolic, mean, and end-diastolic velocity data </plain></SENT>
+<SENT sid="4" pm="."><plain>During a four-class discrimination task, accurate classification by the network ranged from 64.9% to 72.3%, depending on the number of neurons in the Kohonen layer </plain></SENT>
+<SENT sid="5" pm="."><plain>Accurate classification of vasospasm ranged from 79.6% to 87.6%, with an accuracy of 84.7% to 92.1% for the detection of moderate-to-severe vasospasm </plain></SENT>
+<SENT sid="6" pm="."><plain>An artificial neural network may increase the accuracy of TCCS in diagnosis of <z:chebi fb="70" ids="34342">MCA</z:chebi> spasm </plain></SENT>
+</text></document>

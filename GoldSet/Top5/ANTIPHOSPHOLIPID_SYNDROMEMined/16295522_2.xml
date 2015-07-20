@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0003613'>Antiphospholipid antibodies</z:hpo> (aPL) generated in experimental animals cross-react with ATP </plain></SENT>
+<SENT sid="1" pm="."><plain>We therefore examined the possibility that aPL IgG from human subjects bind to ATP by affinity column and an enzyme linked immunosorbent assay (ELISA) </plain></SENT>
+<SENT sid="2" pm="."><plain>Sera with high levels of aPL IgG were collected from 12 patients with the <z:e sem="disease" ids="C0085278" disease_type="Disease or Syndrome" abbrv="">antiphospholipid syndrome</z:e> (APS) </plain></SENT>
+<SENT sid="3" pm="."><plain>IgG fractions from 10 of 12 APS patients contained aPL that could be affinity-bound to an ATP column and completely eluted with <z:chebi fb="1" ids="26710">NaCl</z:chebi> 0.5 M </plain></SENT>
+<SENT sid="4" pm="."><plain>A significant (&gt; 50%) inhibition of aPL IgG binding by ATP 5 mM was found in the majority </plain></SENT>
+<SENT sid="5" pm="."><plain>Similar inhibition was obtained with <z:chebi fb="13" ids="16761">ADP</z:chebi> but not with <z:chebi fb="47" ids="16027,28971">AMP</z:chebi> or cAMP </plain></SENT>
+<SENT sid="6" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> the affinity purified anti-ATP antibodies also bound beta2-<z:chebi fb="2" ids="17089">glycoprotein</z:chebi>-I (beta2-GPI, also known as <z:chebi fb="0" ids="39015">apolipoprotein</z:chebi> H) suggesting that, similar to most pathogenic aPL, their binding depends on this serum cofactor </plain></SENT>
+<SENT sid="7" pm="."><plain>We further investigated this possibility and found that the binding of beta2-GPI to the ATP column was similar to that of aPL IgG in that most was reversed by <z:chebi fb="1" ids="26710">NaCl</z:chebi> 0.5 M </plain></SENT>
+<SENT sid="8" pm="."><plain>Furthermore, addition of beta2-GPI to aPL IgG significantly increased the amount of aPL binding to an ATP column </plain></SENT>
+<SENT sid="9" pm="."><plain>We conclude that aPL IgG bind ATP, probably through beta32-GPI </plain></SENT>
+<SENT sid="10" pm="."><plain>This binding could interfere with the <z:mpath ids='MPATH_458'>normal</z:mpath> extracellular function of ATP and similar <z:chebi fb="65" ids="25512">neurotransmitters</z:chebi> </plain></SENT>
+</text></document>

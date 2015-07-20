@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Severe reactions to <z:chebi fb="0" ids="6775">mesalamine</z:chebi> products are rarely seen in pediatric patients </plain></SENT>
+<SENT sid="1" pm="."><plain>We report a case of a 12-year-old boy who had a severe cardiac reaction to a <z:chebi fb="0" ids="6775">mesalamine</z:chebi> product <z:chebi fb="0" ids="6775">Asacol</z:chebi> </plain></SENT>
+<SENT sid="2" pm="."><plain>Past medical history is significant for <z:hpo ids='HP_0100279'>ulcerative colitis</z:hpo> (UC) diagnosed at 9 years of age </plain></SENT>
+<SENT sid="3" pm="."><plain>Colonoscopy one week prior to admission revealed <z:e sem="disease" ids="C0868908" disease_type="Disease or Syndrome" abbrv="">pancolitis</z:e> </plain></SENT>
+<SENT sid="4" pm="."><plain>He was treated with <z:chebi fb="0" ids="6775">Asacol</z:chebi> 800 mg three times per day and <z:chebi fb="0" ids="8382">prednisone</z:chebi> 20 mg/d </plain></SENT>
+<SENT sid="5" pm="."><plain>He was subsequently admitted to the hospital for an exacerbation of his UC and started on intravenous solumedrol </plain></SENT>
+<SENT sid="6" pm="."><plain>He had improvement of his <z:hpo ids='HP_0002027'>abdominal pain</z:hpo> and <z:hpo ids='HP_0002014'>diarrhea</z:hpo> </plain></SENT>
+<SENT sid="7" pm="."><plain>The patient complained of new <z:hpo ids='HP_0003674'>onset</z:hpo> of <z:hpo ids='HP_0100749'>chest pain</z:hpo> upon initiating <z:chebi fb="0" ids="6775">Asacol</z:chebi> therapy </plain></SENT>
+<SENT sid="8" pm="."><plain>Electrocardiogram (ECG) revealed non-specific ST-T wave changes with T-wave inversion in the lateral leads </plain></SENT>
+<SENT sid="9" pm="."><plain>Echocardiogram (ECHO) revealed low-<z:mpath ids='MPATH_458'>normal</z:mpath> to mildly depressed left ventricular systolic function </plain></SENT>
+<SENT sid="10" pm="."><plain>The left main coronary artery and left anterior descending artery were mildly prominent measuring 5 mm and 4.7 mm, respectively </plain></SENT>
+<SENT sid="11" pm="."><plain>His <z:hpo ids='HP_0100749'>chest pain</z:hpo> completely resolved within 24-36 h of discontinuing <z:chebi fb="0" ids="6775">Asacol</z:chebi> </plain></SENT>
+<SENT sid="12" pm="."><plain>A repeat echocardiogram performed two days later revealed <z:mpath ids='MPATH_458'>normal</z:mpath> left ventricular function with <z:mpath ids='MPATH_458'>normal</z:mpath> coronary arteries (&lt; 3.5 mm) </plain></SENT>
+<SENT sid="13" pm="."><plain><z:hpo ids='HP_0003674'>Onset</z:hpo> of <z:hpo ids='HP_0100749'>chest pain</z:hpo> after <z:chebi fb="0" ids="6775">Asacol</z:chebi> and immediate improvement of <z:hpo ids='HP_0100749'>chest pain</z:hpo>, as well as improvement of echocardiogram and ECG findings after discontinuing <z:chebi fb="0" ids="6775">Asacol</z:chebi> suggests that our patient suffered from a rare <z:e sem="disease" ids="C0013182" disease_type="Disease or Syndrome" abbrv="">drug-hypersensitivity</z:e> reaction to <z:chebi fb="0" ids="6775">Asacol</z:chebi> </plain></SENT>
+</text></document>

@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Recently CT and <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e> imaging have demonstrated that <z:hpo ids='HP_0002181'>cerebral edema</z:hpo> is present in cases of <z:mpath ids='MPATH_115'>fat embolism</z:mpath> syndrome </plain></SENT>
+<SENT sid="1" pm="."><plain>To simulate this we have made a model of brain-<z:mpath ids='MPATH_115'>fat embolism</z:mpath> in rats under <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e> imaging </plain></SENT>
+<SENT sid="2" pm="."><plain>In 20 rats, we did intravenous injection of heparinized blood, 1.5 ml.kg-1 taken from femoral bone marrow cavity </plain></SENT>
+<SENT sid="3" pm="."><plain>Twenty four hours after the injection, we examined the <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e> images (1.5 tesla, spin-echo method) of brains and histologic findings of brains and lungs were obtained </plain></SENT>
+<SENT sid="4" pm="."><plain>In 5 of 20 rats, high signal intensity on T2-weighted images and low signal intensity on T1-weighted images were observed in the area of the unilateral cerebral cortex or hippocampus </plain></SENT>
+<SENT sid="5" pm="."><plain>These findings showed <z:hpo ids='HP_0000969'>edema</z:hpo> of the brains </plain></SENT>
+<SENT sid="6" pm="."><plain>They disappeared, however, one week later </plain></SENT>
+<SENT sid="7" pm="."><plain>Histologic examinations showed massive micro-<z:e sem="disease" ids="C0013928" disease_type="Disease or Syndrome" abbrv="">fat emboli</z:e> in capillaries of the deep cerebral cortex and substantia nigra, but no edematous findings of the brain were revealed in HE staining </plain></SENT>
+<SENT sid="8" pm="."><plain>In pulmonary arteries, we also found large <z:e sem="disease" ids="C0013928" disease_type="Disease or Syndrome" abbrv="">fat emboli</z:e> </plain></SENT>
+<SENT sid="9" pm="."><plain>We conclude that our model is a useful one for the study of brain <z:mpath ids='MPATH_115'>fat embolism</z:mpath> </plain></SENT>
+</text></document>

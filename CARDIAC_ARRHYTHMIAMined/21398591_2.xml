@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Mechanisms associated with right ventricular (RV) <z:hpo ids='HP_0000822'>hypertension</z:hpo> and <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> are less understood than those in the left ventricle (LV) </plain></SENT>
+<SENT sid="1" pm="."><plain>The aim of our study was to investigate whether and by what mechanisms a proarrhythmic substrate exists in a rat model of RV <z:hpo ids='HP_0000822'>hypertension</z:hpo> and <z:mpath ids='MPATH_159'>hypertrophy</z:mpath> </plain></SENT>
+<SENT sid="2" pm="."><plain>Rats were injected with <z:chebi fb="0" ids="6980">monocrotaline</z:chebi> (MCT; 60 mg/kg) to induce <z:hpo ids='HP_0002092'>pulmonary artery hypertension</z:hpo> or with saline (CON) </plain></SENT>
+<SENT sid="3" pm="."><plain>Myocardial levels of <z:chebi fb="2" ids="33699">mRNA</z:chebi> for genes expressing ion channels were measured by real-time RT-PCR </plain></SENT>
+<SENT sid="4" pm="."><plain>Monophasic action potential duration (MAPD) was recorded in isolated Langendorff-perfused hearts </plain></SENT>
+<SENT sid="5" pm="."><plain>MAPD restitution was measured, and <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> were induced by burst stimulation </plain></SENT>
+<SENT sid="6" pm="."><plain>Twenty-two to twenty-six days after treatment, MCT animals had RV <z:hpo ids='HP_0000822'>hypertension</z:hpo>, <z:mpath ids='MPATH_159'>hypertrophy</z:mpath>, and decreased ejection fractions compared with CON </plain></SENT>
+<SENT sid="7" pm="."><plain>A greater proportion of MCT hearts developed sustained <z:hpo ids='HP_0004756'>ventricular tachycardias</z:hpo>/<z:mp ids='MP_0006109'>fibrillation</z:mp> (0.83 MCT vs. 0.14 CON) </plain></SENT>
+<SENT sid="8" pm="."><plain>MAPD was prolonged in RV and less so in the LV of MCT hearts </plain></SENT>
+<SENT sid="9" pm="."><plain>There were decreased levels of <z:chebi fb="2" ids="33699">mRNA</z:chebi> for <z:chebi fb="0" ids="29103">K(+)</z:chebi> channels </plain></SENT>
+<SENT sid="10" pm="."><plain>Restitution curves of MCT RV were steeper than CON RV or either LV </plain></SENT>
+<SENT sid="11" pm="."><plain>Dispersion of MAPD was greater in MCT hearts and was dependent on stimulation frequency </plain></SENT>
+<SENT sid="12" pm="."><plain>Computer simulations based on ion channel gene expression closely predicted experimental changes in MAPD and restitution </plain></SENT>
+<SENT sid="13" pm="."><plain>We have identified a proarrhythmic substrate in the hearts of MCT-treated rats </plain></SENT>
+<SENT sid="14" pm="."><plain>We conclude that steeper RV electrical restitution and rate-dependant RV-LV action potential duration dispersion may be contributing mechanisms and be implicated in the generation of <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> associated with in RV <z:hpo ids='HP_0000822'>hypertension</z:hpo> and <z:mpath ids='MPATH_159'>hypertrophy</z:mpath> </plain></SENT>
+</text></document>

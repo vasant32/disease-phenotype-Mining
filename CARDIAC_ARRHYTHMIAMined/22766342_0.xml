@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVES: The aim of this study was to describe a new familial cardiac phenotype and to elucidate the electrophysiological mechanism responsible for the disease </plain></SENT>
+<SENT sid="1" pm="."><plain>BACKGROUND: Mutations in several genes encoding ion channels, especially SCN5A, have emerged as the basis for a variety of inherited <z:hpo ids='HP_0011675'>cardiac arrhythmias</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: Three unrelated families comprising 21 individuals affected by multifocal ectopic Purkinje-related premature contractions (MEPPC) characterized by narrow junctional and rare sinus beats competing with numerous <z:hpo ids='HP_0006682'>premature ventricular contractions</z:hpo> with right and/or <z:hpo ids='HP_0011713'>left bundle branch block</z:hpo> patterns were identified </plain></SENT>
+<SENT sid="3" pm="."><plain>RESULTS: <z:hpo ids='HP_0001644'>Dilated cardiomyopathy</z:hpo> was identified in 6 patients, atrial <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> were detected in 9 patients, and <z:hpo ids='HP_0001699'>sudden death</z:hpo> was reported in 5 individuals </plain></SENT>
+<SENT sid="4" pm="."><plain>Invasive electrophysiological studies demonstrated that premature ventricular complexes originated from the Purkinje tissue </plain></SENT>
+<SENT sid="5" pm="."><plain>Hydroquinidine treatment dramatically decreased the number of premature ventricular complexes </plain></SENT>
+<SENT sid="6" pm="."><plain>It normalized the contractile function in 2 patients </plain></SENT>
+<SENT sid="7" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> the affected subjects carried the c.665G&gt;A transition in the SCN5A gene </plain></SENT>
+<SENT sid="8" pm="."><plain>Patch-clamp studies of resulting p.Arg222Gln (R222Q) Nav1.5 revealed a net gain of function of the <z:chebi fb="199" ids="26708">sodium</z:chebi> channel, leading, in silico, to incomplete repolarization in Purkinje cells responsible for premature ventricular action potentials </plain></SENT>
+<SENT sid="9" pm="."><plain>In vitro and in silico studies recapitulated the normalization of the ventricular action potentials in the presence of <z:chebi fb="0" ids="28593">quinidine</z:chebi> </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSIONS: A new SCN5A-related cardiac syndrome, MEPPC, was identified </plain></SENT>
+<SENT sid="11" pm="."><plain>The SCN5A mutation leads to a gain of function of the <z:chebi fb="199" ids="26708">sodium</z:chebi> channel responsible for hyperexcitability of the fascicular-Purkinje system </plain></SENT>
+<SENT sid="12" pm="."><plain>The MEPPC syndrome is responsive to hydroquinidine </plain></SENT>
+</text></document>

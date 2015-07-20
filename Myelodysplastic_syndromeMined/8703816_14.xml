@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Acquired idiopathic sideroblastic <z:hpo ids='HP_0001903'>anaemia</z:hpo> (AISA) has been proposed to be a disorder of <z:hpo ids='HP_0001427'>mitochondrial</z:hpo> DNA (mtDNA) </plain></SENT>
+<SENT sid="1" pm="."><plain>The hallmark of <z:hpo ids='HP_0001427'>mitochondrial</z:hpo> <z:e sem="disease" ids="C0282193" disease_type="Disease or Syndrome" abbrv="">iron overload</z:e> may be attributable to a respiratory chain defeat leading to impaired reduction of ferric iron (<z:chebi fb="0" ids="29034">Fe3+</z:chebi>) to ferrous iron (Fe2+), which is essential to the last step of <z:hpo ids='HP_0001427'>mitochondrial</z:hpo> haem biosynthesis </plain></SENT>
+<SENT sid="2" pm="."><plain>In a 71-year-old patient we identified a point mutation in one of the two <z:hpo ids='HP_0001427'>mitochondrial</z:hpo> <z:chebi fb="1" ids="17843">transfer-RNAs</z:chebi> coding for leucine (tRNA(leu)(CUN)) </plain></SENT>
+<SENT sid="3" pm="."><plain>The mutation involves a G --&gt; A transition in the anticodon loop, immediately adjacent to the anticodon triplet (mtDNA position 12301) </plain></SENT>
+<SENT sid="4" pm="."><plain>The mutated <z:chebi fb="1" ids="16235">guanine</z:chebi> is highly conserved in a wide range of species </plain></SENT>
+<SENT sid="5" pm="."><plain>The mutation is heteroplasmic, i.e. there is a mixture of <z:mpath ids='MPATH_458'>normal</z:mpath> and mutated <z:hpo ids='HP_0001427'>mitochondrial</z:hpo> genomes (ratio c </plain></SENT>
+<SENT sid="6" pm="."><plain>50:50) </plain></SENT>
+<SENT sid="7" pm="."><plain>Heteroplasmy of mtDNA is not found in <z:mpath ids='MPATH_458'>normal</z:mpath> individuals, but is a typical feature of <z:hpo ids='HP_0001427'>mitochondrial</z:hpo> cytopathies </plain></SENT>
+<SENT sid="8" pm="."><plain>The point mutation was present in the patient's bone marrow and whole blood samples, in purified platelets, and in the granulocyte/erythrocyte pellet after mononuclear cell separation by density gradient centrifugation </plain></SENT>
+<SENT sid="9" pm="."><plain>The mutation was not found in T- and B-lymphocytes isolated by immunomagnetic bead separation </plain></SENT>
+<SENT sid="10" pm="."><plain>It was also absent from buccal mucosa cells and cultured skin fibroblasts </plain></SENT>
+<SENT sid="11" pm="."><plain>This pattern of involvement suggests that the mutation occurred in a self-renewing myeloid stem cell of the CFU-GEMM type </plain></SENT>
+</text></document>

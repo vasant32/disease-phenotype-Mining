@@ -1,0 +1,6 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We report a case of a giant <z:chebi fb="107" ids="46670,9119">serpentine</z:chebi> <z:hpo ids='HP_0002617'>aneurysm</z:hpo> (GSA) of the middle cerebral artery (<z:chebi fb="70" ids="34342">MCA</z:chebi>) that underwent complete spontaneous <z:mp ids='MP_0005048'>thrombosis</z:mp> after angiography </plain></SENT>
+<SENT sid="1" pm="."><plain>The patient was a 24-year-old man who had an <z:hpo ids='HP_0011009'>acute</z:hpo> <z:hpo ids='HP_0002315'>headache</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>CT and <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e> examinations revealed a large partially thrombosed <z:hpo ids='HP_0002617'>aneurysm</z:hpo> of the <z:chebi fb="70" ids="34342">MCA</z:chebi> with residual flow in the artery </plain></SENT>
+<SENT sid="3" pm="."><plain>Angiography demonstrated a GSA arising from the left <z:chebi fb="70" ids="34342">MCA</z:chebi> </plain></SENT>
+<SENT sid="4" pm="."><plain>Thirteen days later, a second angiography showed complete <z:mp ids='MP_0005048'>thrombosis</z:mp> of the <z:hpo ids='HP_0002617'>aneurysm</z:hpo> </plain></SENT>
+</text></document>

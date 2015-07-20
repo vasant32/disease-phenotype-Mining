@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A high salt diet is a known risk factor for <z:e sem="disease" ids="C0007222" disease_type="Disease or Syndrome" abbrv="CVD">cardiovascular diseases</z:e> that leads to <z:mp ids='MP_0001625'>cardiac hypertrophy</z:mp> and creates a substrate for <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> and <z:hpo ids='HP_0001699'>sudden death</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>However, <z:hpo ids='HP_0011009'>acute</z:hpo> arrhythmogenesis after infarction has not been studied </plain></SENT>
+<SENT sid="2" pm="."><plain>Male Wistar rats (21 days) received drinking water (MI) or 1% <z:chebi fb="1" ids="26710">NaCl</z:chebi> solution (MI-Salt-C) for 4 weeks </plain></SENT>
+<SENT sid="3" pm="."><plain>Water was given to another group for 4 weeks, and on the day before surgery, animals received a 1% <z:chebi fb="1" ids="26710">NaCl</z:chebi> solution (MI-Salt-A) </plain></SENT>
+<SENT sid="4" pm="."><plain>Non-invasive systolic blood pressure (SBP) was obtained before surgery </plain></SENT>
+<SENT sid="5" pm="."><plain><z:hpo ids='HP_0001658'>Myocardial infarction</z:hpo> (MI) was produced by permanent occlusion of the left coronary artery </plain></SENT>
+<SENT sid="6" pm="."><plain>Electrocardiogram was monitored during the first 30 min post-occlusion to evaluate <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> </plain></SENT>
+<SENT sid="7" pm="."><plain>Although SBP was not altered by salt intake (SHAM: 114±2, MI: 112±2, MI-Salt-C: 115±2, MI-Salt-A: 116±4 mm Hg), <z:hpo ids='HP_0001714'>ventricular hypertrophy</z:hpo> was observed in the animals receiving <z:hpo ids='HP_0011010'>chronic</z:hpo> salt diet (SHAM: 0.22±0.008, MI: 0.23±0.007, MI-Salt-C: 0.28±0.01; MI-Salt-A: 0.23±0.01 g/cm; P&lt;0.05) </plain></SENT>
+<SENT sid="8" pm="."><plain><z:mp ids='MP_0009732'>Ventricular premature beats</z:mp> increased in both salt-loaded groups compared to MI group (MI: 805±81, MI-Salt-C: 1145±98; MI-Salt-A: 1023±77; P&lt;0.05) </plain></SENT>
+<SENT sid="9" pm="."><plain>Atrioventricular blockade was only observed in animals subjected to high salt intake (MI-Salt-C: 38.9%; MI-Salt-A: 42.1%) </plain></SENT>
+<SENT sid="10" pm="."><plain>High salt intake was associated with increased post-<z:mpath ids='MPATH_124'>infarct</z:mpath> <z:hpo ids='HP_0011675'>arrhythmias</z:hpo>; however, this effect was unrelated to <z:hpo ids='HP_0001714'>ventricular hypertrophy</z:hpo> </plain></SENT>
+</text></document>

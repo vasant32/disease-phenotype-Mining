@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> (BE) consists of metaplastic epithelium of the esophagus, generally diagnosed by mucin histochemistry </plain></SENT>
+<SENT sid="1" pm="."><plain>We aimed to determine which mucins were expressed in BE, and to relate their expression to BE pathology </plain></SENT>
+<SENT sid="2" pm="."><plain>Archival biopsies of 4 patient groups were selected, based on standard histochemistry: BE without <z:mp ids='MP_0001845'>inflammation</z:mp>, BE with <z:mp ids='MP_0001845'>inflammation</z:mp>, ulcerating BE, and BE with <z:mpath ids='MPATH_589'>dysplasia</z:mpath> </plain></SENT>
+<SENT sid="3" pm="."><plain>Sections were stained by immunohistochemistry for secretory mucins (MUC2, MUC5AC, MUC5B, and MUC6), the proliferation marker Ki-67, and mucin-associated trefoil factor family (TFF) <z:chebi fb="7" ids="16670">peptides</z:chebi> (TFF1, TFF2, and TFF3) </plain></SENT>
+<SENT sid="4" pm="."><plain>MUC5AC and TFF2 were expressed at similar high levels in each clinical group </plain></SENT>
+<SENT sid="5" pm="."><plain><z:mpath ids='MPATH_167'>Intestinal metaplasia</z:mpath> (IM), detected both histochemically and by the intestinal mucin MUC2, was lowest in inflamed BE </plain></SENT>
+<SENT sid="6" pm="."><plain>The expression of the intestinal-type TFF3 did not differ among the groups </plain></SENT>
+<SENT sid="7" pm="."><plain>Ulcerating BE was distinguished by very low expression of MUC6 and MUC5B, but very high expression of TFF1 </plain></SENT>
+<SENT sid="8" pm="."><plain>Proliferation was not different among the groups </plain></SENT>
+<SENT sid="9" pm="."><plain>In the total group of BE patients, H. pylori <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infection</z:e> of the stomach correlated with decreased TFF2 expression in the BE epithelium </plain></SENT>
+<SENT sid="10" pm="."><plain>We conclude that BE is best characterized by the specific expression of the gastric-type markers, MUC5AC, MUC6, TFF1, and TFF2 </plain></SENT>
+<SENT sid="11" pm="."><plain>Ulcerating BE constitutes the most distinguished group with respect to mucin and TFF expression </plain></SENT>
+<SENT sid="12" pm="."><plain>Of the intestinal markers, MUC2 is very specific for IM in BE, whereas TFF3 is not a marker for IM </plain></SENT>
+<SENT sid="13" pm="."><plain>The low occurrence of IM in inflamed BE suggests that these patients may have the lowest risk of developing <z:mp ids='MP_0002038'>carcinoma</z:mp> </plain></SENT>
+</text></document>

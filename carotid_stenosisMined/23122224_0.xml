@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Plaque rupture is the most common cause of complications such as <z:hpo ids='HP_0001297'>stroke</z:hpo> and coronary <z:hpo ids='HP_0001635'>heart failure</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Recent histopathological evidence suggests that several plaque features, including a large <z:chebi fb="23" ids="18059">lipid</z:chebi> core and a thin fibrous cap, are associated with plaques most at risk for rupture </plain></SENT>
+<SENT sid="2" pm="."><plain>Acoustic Radiation Force Impulse (ARFI) imaging, a recently developed ultrasound-based elasticity imaging technique, shows promise for imaging these features noninvasively </plain></SENT>
+<SENT sid="3" pm="."><plain>Clinically, this could be used to distinguish vulnerable plaques, for which surgical intervention may be required, from those less prone to rupture </plain></SENT>
+<SENT sid="4" pm="."><plain>In this study, a parametric analysis using Finite Element Method (FEM) models was performed to simulate ARFI imaging of five different carotid artery plaques across a wide range of material properties </plain></SENT>
+<SENT sid="5" pm="."><plain>It was demonstrated that ARFI imaging could resolve the softer <z:chebi fb="23" ids="18059">lipid</z:chebi> pool from the surrounding, stiffer media and fibrous cap and was most dependent upon the stiffness of the <z:chebi fb="23" ids="18059">lipid</z:chebi> pool component </plain></SENT>
+<SENT sid="6" pm="."><plain>Stress concentrations due to an ARFI excitation were located in the media and fibrous cap components </plain></SENT>
+<SENT sid="7" pm="."><plain>In <z:hpo ids='HP_0000001'>all</z:hpo> cases, the maximum Von Mises stress was&lt;1.2kPa </plain></SENT>
+<SENT sid="8" pm="."><plain>In comparing these results with others investigating plaque rupture, it is concluded that while the mechanisms may be different, the Von Mises stresses imposed by ARFI imaging are orders of magnitude lower than the stresses associated with blood pressure </plain></SENT>
+</text></document>

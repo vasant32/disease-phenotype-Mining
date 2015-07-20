@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: To evaluate medication adherence, pharmacokinetics and exposure versus response relationships in patients with <z:hpo ids='HP_0002863'>myelodysplastic syndromes</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e>) </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: Ninety adult patients with <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> received oral topotecan (1.2 mg/m2) either once a day for 10 days or twice a day for 5 days every 21 days for up to six cycles </plain></SENT>
+<SENT sid="2" pm="."><plain>Dosing histories were collected using electronic monitoring devices fitted to medication vials </plain></SENT>
+<SENT sid="3" pm="."><plain>Topotecan plasma concentrations were measured, and exposure was determined by a sparse sampling approach and Bayesian estimation methods </plain></SENT>
+<SENT sid="4" pm="."><plain>Relationships between exposure and clinical response and toxicity were evaluated using logistic regression </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: Overall adherence was excellent with 90% of patients taking the prescribed number of doses in cycle 1 </plain></SENT>
+<SENT sid="6" pm="."><plain>Adherence did not differ between the two regimens </plain></SENT>
+<SENT sid="7" pm="."><plain>Topotecan pharmacokinetics were described using a one compartment open model with first order absorption and elimination </plain></SENT>
+<SENT sid="8" pm="."><plain>Pharmacokinetic parameter estimates did not differ between the once a day and twice a day dosing groups </plain></SENT>
+<SENT sid="9" pm="."><plain>While topotecan exposure was greater in the twice a day arm compared to the once a day arm due to drug accumulation, exposure did not correlate with clinical response </plain></SENT>
+<SENT sid="10" pm="."><plain>However, the probability of needing a platelet transfusion in the twice a day arm was significantly increased (by 35%) as a result of greater steady-state plasma topotecan concentrations </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: Adherence is high in patients with <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> receiving oral topotecan, whether the drug is prescribed once or twice daily </plain></SENT>
+<SENT sid="12" pm="."><plain>The optimal schedule cannot be determined from this study, as there was no evident relationship between any pharmacokinetic parameter and clinical response </plain></SENT>
+</text></document>

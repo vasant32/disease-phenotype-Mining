@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A procedure for the analysis of the methylation status of imprinted genes is described </plain></SENT>
+<SENT sid="1" pm="."><plain>The method offers a rapid and reliable alternative to conventional methods such as Southern blots and methylation-specific polymerase chain reaction (PCR) (i.e., allele-specific methylation-specific PCR) </plain></SENT>
+<SENT sid="2" pm="."><plain>The efficient resolution of the differentially methylated alleles is demonstrated for three human imprinted genes: SNRPN, LIT1 (alias KCNQ1OT1), and H19 </plain></SENT>
+<SENT sid="3" pm="."><plain><z:mp ids='MP_0003787'>Abnormal imprinting</z:mp> of SNRPN is associated with the Angelman/Prader-Willi syndromes, and that of LIT1 and H19 with the <z:e sem="disease" ids="C0004903" disease_type="Disease or Syndrome;Congenital Abnormality" abbrv="">Beckwith-Wiedemann syndrome</z:e> </plain></SENT>
+<SENT sid="4" pm="."><plain>The method is based on methylation-specific PCR followed by denaturing high-performance liquid chromatography (MSP/DHPLC) </plain></SENT>
+<SENT sid="5" pm="."><plain>Briefly, genomic DNA is initially subjected to an in vitro <z:chebi fb="0" ids="17137">bisulfite</z:chebi> treatment, whereby unmethylated <z:chebi fb="1" ids="16040">cytosines</z:chebi> are deaminated </plain></SENT>
+<SENT sid="6" pm="."><plain>Subsequent PCR amplifications, using primers specific for modified DNA, are aimed at DNA segments that show parent-of-origin-specific methylation </plain></SENT>
+<SENT sid="7" pm="."><plain>PCR conditions are chosen that allow an efficient amplification of both alleles </plain></SENT>
+<SENT sid="8" pm="."><plain>The PCR products representing the two alleles are identical in size; they differ, however, at a number of positions within the amplified DNA segment </plain></SENT>
+<SENT sid="9" pm="."><plain>The DHPLC analysis allows very efficient resolution of the two populations of PCR products, providing qualitative and quantitative results </plain></SENT>
+</text></document>

@@ -1,0 +1,4 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A patient with a brain <z:mpath ids='MPATH_124'>infarct</z:mpath> was found to have <z:hpo ids='HP_0011010'>chronic</z:hpo> <z:hpo ids='HP_0002204'>pulmonary embolism</z:hpo> associated with perfusion defects on blood flow imaging with N-<z:chebi fb="0" ids="30353">isopropyl</z:chebi>-p-[I-123]iodoamphetamine (I-123 IMP) </plain></SENT>
+<SENT sid="1" pm="."><plain>However, gradually increasing uptake of I-123 IMP was seen in later images, in areas distal to the <z:mpath ids='MPATH_110'>embolus</z:mpath> </plain></SENT>
+<SENT sid="2" pm="."><plain>The increased uptake to the embolized lung seemed to be through the systemic collateral circulation </plain></SENT>
+</text></document>

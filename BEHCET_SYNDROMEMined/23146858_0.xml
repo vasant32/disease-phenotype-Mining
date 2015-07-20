@@ -1,0 +1,7 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:e sem="disease" ids="C0004943" disease_type="Disease or Syndrome" abbrv="">Behcet's disease</z:e> is a multisystem inflammatory <z:e sem="disease" ids="C0042373" disease_type="Disease or Syndrome" abbrv="">vascular disorder</z:e> with a <z:hpo ids='HP_0011010'>chronic</z:hpo> course characterized by recurrent oral and <z:hpo ids='HP_0003249'>genital ulcers</z:hpo>, eye lesion, <z:hpo ids='HP_0001369'>arthritis</z:hpo> and <z:mp ids='MP_0001212'>skin lesions</z:mp> </plain></SENT>
+<SENT sid="1" pm="."><plain>It has a typically waxing and waning course </plain></SENT>
+<SENT sid="2" pm="."><plain>The cause and pathogenesis of the disease are unclear and specific treatment is not available </plain></SENT>
+<SENT sid="3" pm="."><plain>A 39 years old man presented with <z:e sem="disease" ids="C0015230" disease_type="Disease or Syndrome" abbrv="">rash</z:e>, ocular manifestation and left leg swelling </plain></SENT>
+<SENT sid="4" pm="."><plain>He was found to have <z:hpo ids='HP_0002625'>deep venous thrombosis</z:hpo> of left leg along with recurrent <z:hpo ids='HP_0005305'>cerebral venous thrombosis</z:hpo> </plain></SENT>
+<SENT sid="5" pm="."><plain>He was a known case of <z:e sem="disease" ids="C0004943" disease_type="Disease or Syndrome" abbrv="">Behcet's disease</z:e> since 3 years and had been on <z:chebi fb="2" ids="50249">anticoagulants</z:chebi> since then </plain></SENT>
+</text></document>

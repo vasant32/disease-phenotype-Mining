@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The CXC chemokine CXCL13, known as BCA-1 (B cell-attracting chemokine 1) or BLC (B-lymphocyte chemoattractant), has been identified as an efficacious attractant selective for B lymphocytes </plain></SENT>
+<SENT sid="1" pm="."><plain>The chemokine receptor BLR1 (Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> receptor 1)/CXCR5 expressed by <z:hpo ids='HP_0000001'>all</z:hpo> mature B cells has to date been identified as the only known receptor for BCA-1 </plain></SENT>
+<SENT sid="2" pm="."><plain>As the loss of the BLR1/CXCR5 receptor is sufficient to disrupt organization of follicles in spleen and Peyer's patches, BCA-1 may act as a B cell homing chemokine </plain></SENT>
+<SENT sid="3" pm="."><plain>Nonetheless, BCA-1 has not been tested against <z:hpo ids='HP_0000001'>all</z:hpo> known chemokine receptors </plain></SENT>
+<SENT sid="4" pm="."><plain>In this study, we report that human BCA-1 competes with radiolabeled interferon gamma (IFN-gamma) inducible protein 10 (IP-10) for binding to the human CXCR3 receptor expressed in Ba/F3 and 293EBNA cell lines </plain></SENT>
+<SENT sid="5" pm="."><plain>Furthermore, human BCA-1 is an efficacious attractant for human CXCR3 transfected cells; BCA-1-induced chemotaxis is inhibited by a monoclonal antibody against human CXCR3 </plain></SENT>
+<SENT sid="6" pm="."><plain>In these cells, as in human B lymphocytes expressing CXCR5, BCA-1 does not induce a calcium flux </plain></SENT>
+<SENT sid="7" pm="."><plain>Indeed, BCA-1 attenuates the calcium flux induced by IP-10 </plain></SENT>
+<SENT sid="8" pm="."><plain>In addition, human BCA-1 is an <z:chebi fb="4" ids="48705">agonist</z:chebi> in stimulating <z:chebi fb="0" ids="43000">GTP gamma S</z:chebi> binding </plain></SENT>
+<SENT sid="9" pm="."><plain>Together these data suggest that human BCA-1 is a specific and functional G-protein-linked chemotactic ligand for the human CXCR3 receptor </plain></SENT>
+<SENT sid="10" pm="."><plain>The biological significance of this new finding is supported by our recent observation that human BCA-1 induces chemotaxis of activated T cells and the BCA-1-induced chemotaxis is inhibited by a monoclonal antibody against human CXCR3 </plain></SENT>
+</text></document>

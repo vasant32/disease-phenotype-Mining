@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Growth and differentiation of hematopoietic progenitor cells is regulated by a complex network of stimulatory and inhibitory cytokines </plain></SENT>
+<SENT sid="1" pm="."><plain><z:hpo ids='HP_0005528'>Bone marrow failures</z:hpo> can be due to a decrease of stimulators or an increase of inhibitors </plain></SENT>
+<SENT sid="2" pm="."><plain>T cells produce both, hematopoiesis stimulating and inhibiting cytokines </plain></SENT>
+<SENT sid="3" pm="."><plain>Therefore, a role of T cells in regulating hematopoiesis can only be assumed if the gene expression of these antagonistic acting cytokines can be differentially induced in T cells </plain></SENT>
+<SENT sid="4" pm="."><plain>To establish a model of selective cytokine induction, we investigated the induction of IFN gamma as inhibitor and GM-CSF as stimulator of hematopoiesis in T cells </plain></SENT>
+<SENT sid="5" pm="."><plain>Our results showed that IFN gamma <z:chebi fb="2" ids="33699">mRNA</z:chebi> accumulates in T cells which have been pre-activated via the signal transduction unit CD3, but not in unstimulated T cells </plain></SENT>
+<SENT sid="6" pm="."><plain>This accumulation depends on the expression of the high affinity IL2 receptor which is including the IL2 receptor alpha-chain (IL2R alpha, CD25) </plain></SENT>
+<SENT sid="7" pm="."><plain>In a study on children with constitutional (CAA) versus acquired aplastic (EAA) <z:hpo ids='HP_0001903'>anemia</z:hpo>, we investigated the relevance of this model for the pathogenesis of <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> in childhood </plain></SENT>
+<SENT sid="8" pm="."><plain>We compared the following parameters: 1 </plain></SENT>
+<SENT sid="9" pm="."><plain>Incidence of hematopoietic progenitor cells and cloning efficiency, 2. activation status and IL2R alpha expression of bone marrow T cells, 3 </plain></SENT>
+<SENT sid="10" pm="."><plain>T cell cytokine expression profile </plain></SENT>
+<SENT sid="11" pm="."><plain>Our results show: 1 </plain></SENT>
+<SENT sid="12" pm="."><plain>The relative incidence of bone marrow progenitor cells is decreased in children with CAA and <z:mpath ids='MPATH_458'>normal</z:mpath> in children with EAA </plain></SENT>
+<SENT sid="13" pm="."><plain>2 </plain></SENT>
+<SENT sid="14" pm="."><plain>Clonogenic growth of hematopoietic progenitor cells is suppressed in children with EAA.(ABSTRACT TRUNCATED AT 250 WORDS) </plain></SENT>
+</text></document>

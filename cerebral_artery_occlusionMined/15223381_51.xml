@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>NeuN immunoreactivity is used as a specific marker for neurons </plain></SENT>
+<SENT sid="1" pm="."><plain>The number of NeuN-positive cells decreases under pathological conditions </plain></SENT>
+<SENT sid="2" pm="."><plain>This finding is usually considered as an evidence of <z:hpo ids='HP_0002529'>neuronal loss</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>However, decrease in NeuN labeling may also be caused by <z:mpath ids='MPATH_63'>depletion</z:mpath> of the protein or loss of its antigenicity </plain></SENT>
+<SENT sid="4" pm="."><plain>Hence, we have investigated the morphological features of neurons that lost NeuN immunoreactivity and the NeuN protein levels in mouse brain after <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> </plain></SENT>
+<SENT sid="5" pm="."><plain>The number of NeuN-labeled cells was decreased 6 h after a mild ischemic insult (30 min middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp>) in penumbral and core regions </plain></SENT>
+<SENT sid="6" pm="."><plain><z:chebi fb="1" ids="51686">Hematoxylin</z:chebi> and eosin (H&amp;E) staining of adjacent sections showed that neurons in the penumbra were not disintegrated but displayed early ischemic changes </plain></SENT>
+<SENT sid="7" pm="."><plain>The nuclear NeuN staining was dramatically reduced or lost in some neurons </plain></SENT>
+<SENT sid="8" pm="."><plain>However, Hoechst 33258 staining of the same sections revealed that these nuclei were preserved with an intact membrane </plain></SENT>
+<SENT sid="9" pm="."><plain>Labeling of neurons that had lost NeuN-positivity with antibodies against caspase-3-p20, which is constitutively not present but emerges in neurons after <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e>, disclosed that these neurons still preserved their integrity </plain></SENT>
+<SENT sid="10" pm="."><plain>Moreover, Western blots showed that NeuN protein levels were not decreased, suggesting that reduced NeuN antigenicity accounted for loss of immunoreactivity in this mild brain injury model </plain></SENT>
+<SENT sid="11" pm="."><plain>Supporting this idea, NeuN labeling was partially restored after antigenic retrieval </plain></SENT>
+<SENT sid="12" pm="."><plain>In conclusion, since NeuN immunoreactivity readily decreases after metabolic perturbations, reduced NeuN labeling should not be taken as an indicator of <z:hpo ids='HP_0002529'>neuronal loss</z:hpo> and, quantitative analysis based on NeuN-positivity should be used cautiously after central <z:mp ids='MP_0008912'>nervous</z:mp> system (<z:chebi fb="7" ids="29425,29426,29441,29447">CNS</z:chebi>) injury </plain></SENT>
+</text></document>

@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 67-year-old woman with <z:hpo ids='HP_0000819'>diabetes mellitus</z:hpo> was hospitalized due to a throbbing <z:hpo ids='HP_0002315'>headache</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>She appeared neurologically <z:mpath ids='MPATH_458'>normal</z:mpath>, except for meningeal irritation </plain></SENT>
+<SENT sid="2" pm="."><plain>The cerebrospinal fluid pressure was high </plain></SENT>
+<SENT sid="3" pm="."><plain>There was increased fluid protein without an increased cell count </plain></SENT>
+<SENT sid="4" pm="."><plain>Brain CT scan showed no abnormality, however, brain magnetic resonance angiography (MRA) showed complete right transverse sinus stasis and partial left transverse sinus stasis, indicating bilateral transverse sinus <z:mp ids='MP_0005048'>thrombosis</z:mp> </plain></SENT>
+<SENT sid="5" pm="."><plain>At this time thrombin anti-thrombin III complex (TAT) and prothrombin fragment F1+2 (PTF1+2) indicating hypercoagulation had increased </plain></SENT>
+<SENT sid="6" pm="."><plain>Urokinase, followed by aspirin and <z:chebi fb="0" ids="9589">ticlopidine hydrochloride</z:chebi> were administered </plain></SENT>
+<SENT sid="7" pm="."><plain>After diet therapy and transient insulin administration, her blood <z:chebi fb="105" ids="17234">glucose</z:chebi> levels improved </plain></SENT>
+<SENT sid="8" pm="."><plain>By the 22nd day, the <z:hpo ids='HP_0002315'>headache</z:hpo> had disappeared </plain></SENT>
+<SENT sid="9" pm="."><plain>Subsequently, brain MRA showed left transverse sinus blood flow recovery and complete right transverse sinus stasis, while carotid angiography showed recovered left transverse sinus but right transverse sinus defect </plain></SENT>
+<SENT sid="10" pm="."><plain>TAT and PTF1+2 levels improved concomitantly with better blood <z:chebi fb="105" ids="17234">glucose</z:chebi> control </plain></SENT>
+<SENT sid="11" pm="."><plain>We diagnosed this case as left transverse sinus <z:mp ids='MP_0005048'>thrombosis</z:mp> because of the <z:e sem="disease" ids="C0398623" disease_type="Disease or Syndrome" abbrv="">hypercoagulable state</z:e> resulting from <z:hpo ids='HP_0000819'>diabetes mellitus</z:hpo> accompanied by right transverse sinus <z:mpath ids='MPATH_58'>aplasia</z:mpath> </plain></SENT>
+</text></document>

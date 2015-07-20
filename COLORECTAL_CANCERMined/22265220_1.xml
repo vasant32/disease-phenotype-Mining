@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Colorectal surgery may lead to <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infections</z:e> because despite meticulous aseptic measures, extravasation of microorganisms from the colon lumen is unavoidable </plain></SENT>
+<SENT sid="1" pm="."><plain>STUDY DESIGN: A prospective, randomized study was performed between January 2010 and December 2010 </plain></SENT>
+<SENT sid="2" pm="."><plain>Patient inclusion criteria were a diagnosis of colorectal <z:hpo ids='HP_0002664'>neoplasms</z:hpo> and plans to undergo an elective curative operation </plain></SENT>
+<SENT sid="3" pm="."><plain>Patients were divided into 2 groups: Group 1 (intra-abdominal irrigation with <z:mpath ids='MPATH_458'>normal</z:mpath> saline) and Group 2 (intraperitoneal irrigation with a solution of 240 mg gentamicin and 600 mg <z:chebi fb="0" ids="3745">clindamycin</z:chebi>) </plain></SENT>
+<SENT sid="4" pm="."><plain>The occurrence of wound <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infections</z:e> and <z:e sem="disease" ids="C0243001" disease_type="Disease or Syndrome" abbrv="">intra-abdominal abscesses</z:e> were investigated </plain></SENT>
+<SENT sid="5" pm="."><plain>After the anastomosis, a microbiologic sample of the peritoneal surface was obtained (sample 1) </plain></SENT>
+<SENT sid="6" pm="."><plain>A second sample was collected after irrigation with <z:mpath ids='MPATH_458'>normal</z:mpath> saline (sample 2) </plain></SENT>
+<SENT sid="7" pm="."><plain>Finally, the peritoneal cavity was irrigated with a gentamicin-<z:chebi fb="0" ids="3745">clindamycin</z:chebi> solution and a third sample was obtained (sample 3) </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: There were 103 patients analyzed: 51 in Group 1 and 52 in Group 2 </plain></SENT>
+<SENT sid="9" pm="."><plain>There were no significant differences between the groups in age, sex, comorbidities, or type of colorectal surgery performed </plain></SENT>
+<SENT sid="10" pm="."><plain>Wound <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infection</z:e> rates were 14% in Group 1 and 4% in Group 2 (p = 0.009; odds ratio [OR] 4.94; 95% CI 1.27 to 19.19) </plain></SENT>
+<SENT sid="11" pm="."><plain>Intra-abdominal <z:mpath ids='MPATH_612'>abscess</z:mpath> rates were 6% in Group 1 and 0% in Group 2 (p = 0.014; OR 2.14; 95% CI 1.13 to 3.57) </plain></SENT>
+<SENT sid="12" pm="."><plain>The culture of sample 1 was positive in 68% of the cases, sample 2 was positive in 59%, and sample 3 in 4% </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSIONS: Antibiotic lavage of the peritoneum is associated with a lower incidence of <z:e sem="disease" ids="C0243001" disease_type="Disease or Syndrome" abbrv="">intra-abdominal abscesses</z:e> and wound <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infections</z:e> </plain></SENT>
+</text></document>

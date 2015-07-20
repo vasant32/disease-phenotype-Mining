@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We compared cerebral blood flow (CBF) parameters obtained by dynamic susceptibility contrast magnetic resonance imaging (DSC-MRI) with those obtained by flow-sensitive alternating inversion recovery (FAIR) in brain regions with different perfusion levels in rats with permanent middle cerebral artery (<z:chebi fb="70" ids="34342">MCA</z:chebi>) occlusion </plain></SENT>
+<SENT sid="1" pm="."><plain><z:chebi fb="70" ids="34342">MCA</z:chebi> occlusion was performed in 19 rats </plain></SENT>
+<SENT sid="2" pm="."><plain>T2-weighted MRI, FAIR and DSC-MRI were performed within 48 h after occlusion </plain></SENT>
+<SENT sid="3" pm="."><plain>CBF parameters were analyzed in regions of interest with either prolonged or less prolonged mean transit time (<z:chebi fb="0" ids="53233">MTT</z:chebi>) </plain></SENT>
+<SENT sid="4" pm="."><plain>Ratios of ipsi- vs contralateral CBF values were calculated and tested for correlation and differences between FAIR and DSC-MRI </plain></SENT>
+<SENT sid="5" pm="."><plain>FAIR-aCBF ratios correlated significantly with DSC-rCBF ratios </plain></SENT>
+<SENT sid="6" pm="."><plain>The mean FAIR-aCBF ratio was significantly lower than mean DSC-rCBF ratio in the area with prolonged <z:chebi fb="0" ids="53233">MTT</z:chebi> </plain></SENT>
+<SENT sid="7" pm="."><plain>In the area with less prolonged <z:chebi fb="0" ids="53233">MTT</z:chebi>, the mean FAIR-aCBF ratio and mean DSC-rCBF values did not differ significantly </plain></SENT>
+<SENT sid="8" pm="."><plain>We conclude that FAIR correlates with DSC-MRI if perfusion is preserved </plain></SENT>
+<SENT sid="9" pm="."><plain>FAIR provides lower CBF values than DSC-MRI if perfusion is reduced and <z:chebi fb="0" ids="53233">MTT</z:chebi> is prolonged </plain></SENT>
+<SENT sid="10" pm="."><plain>This probable underestimation of perfusion may be caused by transit delays </plain></SENT>
+<SENT sid="11" pm="."><plain>Care should be taken when quantifying CBF with FAIR and when comparing the results of FAIR- and DSC-MRI in areas with hypoperfusion </plain></SENT>
+</text></document>

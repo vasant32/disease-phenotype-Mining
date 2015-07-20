@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The in vitro efficacies of three new drugs--clofarabine (CLOF), nelarabine (NEL) and flavopiridol (FP) - were assessed in a panel of <z:hpo ids='HP_0011009'>acute</z:hpo> lymphoblastic <z:mpath ids='MPATH_336'>leukaemia</z:mpath> (ALL) cell lines </plain></SENT>
+<SENT sid="1" pm="."><plain>The 50% inhibitory concentration (IC50) for CLOF across <z:hpo ids='HP_0000001'>all</z:hpo> lines was 188-fold lower than that of NEL </plain></SENT>
+<SENT sid="2" pm="."><plain>B-lineage, but not T-lineage lines, were &gt;7-fold more sensitive to CLOF than <z:chebi fb="1" ids="16040">cytosine</z:chebi> <z:chebi fb="0" ids="22601">arabinoside</z:chebi> (ARAC) </plain></SENT>
+<SENT sid="3" pm="."><plain>NEL IC50 was 25-fold and 113-fold higher than ARAC in T- and B-lineage, respectively </plain></SENT>
+<SENT sid="4" pm="."><plain><z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">T-ALL</z:e> cells were eightfold more sensitive to NEL than B-lineage but there was considerable overlap </plain></SENT>
+<SENT sid="5" pm="."><plain>FP was more potent in vitro than <z:chebi fb="1" ids="24261">glucocorticoids</z:chebi> and <z:chebi fb="0" ids="35666">thiopurines</z:chebi> and at doses that recent phase I experience predicts will translate into clinical efficacy </plain></SENT>
+<SENT sid="6" pm="."><plain>Potential cross-resistance of CLOF, NEL and FP was observed with many front-line ALL therapeutics but not <z:chebi fb="0" ids="44185">methotrexate</z:chebi> or <z:chebi fb="0" ids="35666">thiopurines</z:chebi> </plain></SENT>
+<SENT sid="7" pm="."><plain><z:chebi fb="0" ids="44185">Methotrexate</z:chebi> sensitivity was inversely related to that of NEL and FP </plain></SENT>
+<SENT sid="8" pm="."><plain>Whilst NEL was particularly effective in <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">T-ALL</z:e>, a subset of patients with B-lineage ALL might also be sensitive </plain></SENT>
+<SENT sid="9" pm="."><plain>CLOF appeared to be marginally more effective in B-lineage than <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">T-ALL</z:e> and has a distinct resistance profile that may prove useful in combination with other compounds </plain></SENT>
+<SENT sid="10" pm="."><plain>FP should be widely effective in ALL if sufficient plasma levels can be achieved clinically </plain></SENT>
+</text></document>

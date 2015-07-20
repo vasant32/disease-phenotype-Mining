@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:e sem="disease" ids="C0282193" disease_type="Disease or Syndrome" abbrv="">Iron overload</z:e> due to regular transfusions of packed red cells can cause multiple organ damage </plain></SENT>
+<SENT sid="1" pm="."><plain>Iron chelation therapy (ICT) is important in patients with <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> (AA) who require blood transfusions as supportive management </plain></SENT>
+<SENT sid="2" pm="."><plain>With the introduction of the oral iron <z:chebi fb="0" ids="38161">chelator</z:chebi> <z:chebi fb="0" ids="49005">deferasirox</z:chebi>, ICT has become more widely available and feasible </plain></SENT>
+<SENT sid="3" pm="."><plain>We studied 4 adult AA patients who had transfusion-induced <z:e sem="disease" ids="C0282193" disease_type="Disease or Syndrome" abbrv="">iron overload</z:e> and showed hematological improvement after ICT with oral <z:chebi fb="0" ids="49005">deferasirox</z:chebi> </plain></SENT>
+<SENT sid="4" pm="."><plain>Following <z:chebi fb="0" ids="49005">deferasirox</z:chebi> treatment, <z:chebi fb="0" ids="35143">hemoglobin</z:chebi> increased and serum ferritin levels decreased, and the patients subsequently became transfusion independent </plain></SENT>
+<SENT sid="5" pm="."><plain>Our experience raises the possibility of the potential benefit of ICT on hematopoiesis </plain></SENT>
+<SENT sid="6" pm="."><plain>Further long-term studies in larger patient cohorts are needed to clarify the effect of the restoration of hematopoiesis after iron chelation therapy </plain></SENT>
+</text></document>

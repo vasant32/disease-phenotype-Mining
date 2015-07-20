@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>LMP2A is consistently detected in Hodgkin's <z:hpo ids='HP_0002665'>lymphoma</z:hpo>, nasopharyngeal <z:mp ids='MP_0002038'>carcinoma</z:mp> and has also been detected in Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Interestingly, LMP2A is detected in the absence of the transcriptional activator EBNA2, suggesting that an alternative mechanism is responsible for LMP2A expression </plain></SENT>
+<SENT sid="2" pm="."><plain>The intracellular domain of Notch (Notch-IC) and EBNA2 are functional homologs and recent microarray analysis indicates that LMP2A may constitutively activate the Notch pathway in vivo </plain></SENT>
+<SENT sid="3" pm="."><plain>Coupled with evidence that Notch-IC can bind to and activate the LMP2A promoter, we hypothesized that expression of LMP2A results in the constitutive activation of the Notch pathway to auto-regulate its promoter </plain></SENT>
+<SENT sid="4" pm="."><plain>Our data indicate that LMP2A constitutively activates the Notch pathway in B cells and epithelial cells </plain></SENT>
+<SENT sid="5" pm="."><plain>Expression of LMP2A alone is sufficient to activate its own expression and the amino-terminal signaling domain is required as LMP2B is unable to activate the LMP2A promoter </plain></SENT>
+<SENT sid="6" pm="."><plain>In addition, point mutations in tyrosines 31, 101 and 112 each results in a significant decrease in LMP2A promoter activation </plain></SENT>
+<SENT sid="7" pm="."><plain>Deletion of the RBP-Jkappa consensus sequences results in a significant decrease in promoter activity </plain></SENT>
+<SENT sid="8" pm="."><plain>The observation that LMP2A activates its own promoter suggests that LMP2A exploits the Notch pathway in order to control its own expression and may explain EBNA2-independent expression of LMP2A in EBV-associated <z:e sem="disease" ids="C0006826" disease_type="Neoplastic Process" abbrv="">malignancies</z:e> </plain></SENT>
+</text></document>

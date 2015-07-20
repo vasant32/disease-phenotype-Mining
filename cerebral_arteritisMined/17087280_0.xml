@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We reported a case of infective <z:hpo ids='HP_0100584'>endocarditis</z:hpo> (IE) complicated with <z:mp ids='MP_0001794'>bacterial</z:mp> <z:hpo ids='HP_0001287'>meningitis</z:hpo> and cerebral <z:mp ids='MP_0006135'>artery stenosis</z:mp> </plain></SENT>
+<SENT sid="1" pm="."><plain>A 22-year-old man was admitted to our hospital because of IE </plain></SENT>
+<SENT sid="2" pm="."><plain>Although <z:chebi fb="0" ids="18208">benzylpenicillin</z:chebi> administration was continued, he abruptly developed consciousness disturbance on the seventh day </plain></SENT>
+<SENT sid="3" pm="."><plain>His cerebrospinal fluid indicated <z:mp ids='MP_0001794'>bacterial</z:mp> <z:hpo ids='HP_0001287'>meningitis</z:hpo> </plain></SENT>
+<SENT sid="4" pm="."><plain>MRI with <z:chebi fb="0" ids="33375">gadolinium</z:chebi> (Gd) enhancement showed septic embolism in the left parietal lobe and bi-linear enhancement on the right middle cerebral artery (<z:chebi fb="70" ids="34342">MCA</z:chebi>) </plain></SENT>
+<SENT sid="5" pm="."><plain>MRA demonstrated narrowing of the <z:chebi fb="70" ids="34342">MCA</z:chebi> at the same site as the bi-linear Gd enhancement </plain></SENT>
+<SENT sid="6" pm="."><plain>We considered that these findings show narrowing of the <z:chebi fb="70" ids="34342">MCA</z:chebi> was due to cerebral <z:hpo ids='HP_0012089'>arteritis</z:hpo> </plain></SENT>
+<SENT sid="7" pm="."><plain>Intravenous administration of <z:chebi fb="1" ids="28971">ampicillin</z:chebi> and cefpirome gradually improved both IE and cerebral <z:mp ids='MP_0006135'>artery stenosis</z:mp> </plain></SENT>
+<SENT sid="8" pm="."><plain>We wish to emphasize that combination of MRI with Gd enhancement and MRA may be useful not only for diagnosis of cerebral <z:mp ids='MP_0006135'>artery stenosis</z:mp> but also for evaluation of treatment effect </plain></SENT>
+</text></document>

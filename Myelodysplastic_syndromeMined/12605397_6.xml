@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A male patient had a relapse of <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e>) 2 years after BMT from a female matched unrelated donor </plain></SENT>
+<SENT sid="1" pm="."><plain>Conventional cytogenetics, FISH, and short-tandem repeat chimerism analysis proved a relapse of donor origin </plain></SENT>
+<SENT sid="2" pm="."><plain>He underwent reduced-intensity BMT after a conditioning with fludarabine and <z:chebi fb="0" ids="28901">busulfan</z:chebi>, since he had impaired renal, liver, and pulmonary functions </plain></SENT>
+<SENT sid="3" pm="."><plain>Chimerism analysis on day 28 after the second BMT showed mixed chimerism of the first and the second donors, which later turned to full second-donor chimerism on day 60 </plain></SENT>
+<SENT sid="4" pm="."><plain>He developed grade II <z:hpo ids='HP_0011009'>acute</z:hpo> GVHD of the skin and cytomegalovirus reactivation, but both were improved with <z:chebi fb="0" ids="6888">methylprednisolone</z:chebi> and <z:chebi fb="0" ids="465284">ganciclovir</z:chebi>, respectively </plain></SENT>
+<SENT sid="5" pm="."><plain>He remains in complete remission 6 months after the second BMT </plain></SENT>
+<SENT sid="6" pm="."><plain>Reduced-intensity second BMT from an alternative donor appeared to be a tolerable treatment option for donor-derived <z:hpo ids='HP_0001909'>leukemia</z:hpo>/<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> after the first conventional transplantation </plain></SENT>
+</text></document>

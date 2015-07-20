@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: After allogeneic peripheral blood progenitor cell (PBPC) transplantation, a patient developed a severe <z:e sem="disease" ids="C0221123" disease_type="Disease or Syndrome" abbrv="">hemolytic transfusion reaction</z:e> due to passenger lymphocyte syndrome </plain></SENT>
+<SENT sid="1" pm="."><plain>CASE REPORT: A 50-year-old woman with secondary <z:hpo ids='HP_0004808'>acute myeloid leukemia</z:hpo> transforming from a <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo> received an ABO-compatible PBPC graft from her HLA-identical sister </plain></SENT>
+<SENT sid="2" pm="."><plain>For prophylaxis of GVHD, the patient was treated with <z:chebi fb="0" ids="4031">cyclosporine</z:chebi> and <z:chebi fb="0" ids="44185">methotrexate</z:chebi> </plain></SENT>
+<SENT sid="3" pm="."><plain>Eighteen days after the transplant, the patient experienced a severe <z:e sem="disease" ids="C0221123" disease_type="Disease or Syndrome" abbrv="">hemolytic transfusion reaction</z:e> due to an alloantibody (anti-Jk(a)) produced by donor lymphocytes </plain></SENT>
+<SENT sid="4" pm="."><plain>RESULTS: The patient was typed as group A, Jk(a+) before transplantation; the donor was typed as group A, Jk(a-) </plain></SENT>
+<SENT sid="5" pm="."><plain>On Day 18 after transplantation, the immunohematologic screening revealed a positive DAT (C3d 3+) and an alloanti-Jk(a) </plain></SENT>
+<SENT sid="6" pm="."><plain><z:mp ids='MP_0010163'>Hemolysis</z:mp> in the patient at that time was indicated by a drop in the Hb and an increase in the LDH level (maximum, 592 IU/L on Day 23) </plain></SENT>
+<SENT sid="7" pm="."><plain>CONCLUSION: The course of <z:mp ids='MP_0010163'>hemolysis</z:mp> and the time of appearance of an alloantibody in this patient meet the criteria for passenger lymphocyte syndrome </plain></SENT>
+<SENT sid="8" pm="."><plain>In most cases, this syndrome is triggered by ABO system antibodies </plain></SENT>
+<SENT sid="9" pm="."><plain>This is the first reported case of passenger lymphocyte syndrome after PBPC transplantation that was due to an alloantibody that did not belong to the ABO system </plain></SENT>
+</text></document>

@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Renal function, evaluated as glomerular filtration rate (GFR) and effective renal plasma flow (ERPF), was investigated in 187 pediatric patients who underwent allogeneic (n=169) or autologous bone marrow transplantation (BMT) </plain></SENT>
+<SENT sid="1" pm="."><plain>Allogeneic BMT patients were divided into three groups: <z:e sem="disease" ids="C0376545" disease_type="Neoplastic Process" abbrv="">hematological malignancies</z:e>, <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> and non-malignant diseases, whereas autologous patients constituted a fourth group </plain></SENT>
+<SENT sid="2" pm="."><plain>A total of 64% received total body irradiation (TBI) as conditioning therapy, and 50 healthy children served as controls </plain></SENT>
+<SENT sid="3" pm="."><plain>GFR and ERPF were <z:mpath ids='MPATH_458'>normal</z:mpath> before transplantation </plain></SENT>
+<SENT sid="4" pm="."><plain>After 1 year, both GFR and ERPF were significantly reduced </plain></SENT>
+<SENT sid="5" pm="."><plain>GFR had recovered slightly after 3 years and remained stable thereafter </plain></SENT>
+<SENT sid="6" pm="."><plain>Recovery in ERPF was not apparent </plain></SENT>
+<SENT sid="7" pm="."><plain><z:e sem="disease" ids="C0341697" disease_type="Disease or Syndrome" abbrv="">Renal impairment</z:e> was found in 41% of patients at 1 year, in 31% at 3 years and in 11% 7 years after BMT </plain></SENT>
+<SENT sid="8" pm="."><plain>Patients with <z:e sem="disease" ids="C0376545" disease_type="Neoplastic Process" abbrv="">hematological malignancies</z:e> had lower GFRs than patients with non-malignant diseases at <z:hpo ids='HP_0000001'>all</z:hpo> time points </plain></SENT>
+<SENT sid="9" pm="."><plain>The most important risk factor as regards <z:hpo ids='HP_0011010'>chronic</z:hpo> <z:e sem="disease" ids="C0341697" disease_type="Disease or Syndrome" abbrv="">renal impairment</z:e> was TBI </plain></SENT>
+<SENT sid="10" pm="."><plain>Type of donor, <z:chebi fb="0" ids="4027">cyclophosphamide</z:chebi> (CY), or <z:hpo ids='HP_0011009'>acute</z:hpo> <z:e sem="disease" ids="C0018133" disease_type="Disease or Syndrome" abbrv="GVH">graft-versus-host disease</z:e> (GVHD) did not seem to contribute to the development of <z:hpo ids='HP_0011010'>chronic</z:hpo> <z:e sem="disease" ids="C0341697" disease_type="Disease or Syndrome" abbrv="">renal impairment</z:e> </plain></SENT>
+<SENT sid="11" pm="."><plain>We suggest that tests of renal function should be included in long-term followup after BMT </plain></SENT>
+</text></document>

@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>INTRODUCTION: We have recently introduced the use of mammalian cardiac tissue slices for in vitro drug testing purposes </plain></SENT>
+<SENT sid="1" pm="."><plain>Here we show how this method can be applied for long-term studies in safety pharmacology </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: In freshly prepared cardiac slices from guinea-pig or rat ventricle, extracellular field potentials (FP) and intracellular action potentials (AP) were recorded in response to electrical stimulation using the 4-channel heart slice screening system 'Synchroslice' </plain></SENT>
+<SENT sid="3" pm="."><plain>To assess viability of the slices on consecutive days after preparation, drug effects on FP/AP parameters, like duration and latency, were monitored </plain></SENT>
+<SENT sid="4" pm="."><plain>RESULTS: In the presence of the <z:chebi fb="0" ids="50509">potassium channel blocker</z:chebi> E4031 (1 μM), FP and AP duration (FPD and APD) were significantly increased (FPD, 39.0%; APD, 28.1%) in guinea-pig ventricular slices </plain></SENT>
+<SENT sid="5" pm="."><plain>Similar changes were observed 24-28 h after slice preparation (FPD, 48.6%; APD, 25.4%) </plain></SENT>
+<SENT sid="6" pm="."><plain>Furthermore, AP duration was reduced in the presence of the <z:chebi fb="1" ids="38215">calcium channel blocker</z:chebi> <z:chebi fb="1" ids="7565">nifedipine</z:chebi> (10 μM) on the day of preparation (40.5%) and 24-28 h later (38.7%) </plain></SENT>
+<SENT sid="7" pm="."><plain>In contrast, in the presence of the <z:chebi fb="0" ids="50509">potassium channel blocker</z:chebi> <z:chebi fb="0" ids="34385">4-aminopyridine</z:chebi> (30 mM) AP duration was prolonged 4.95 and 4.19-fold, 2-8 h and 24-28 h after preparation, respectively </plain></SENT>
+<SENT sid="8" pm="."><plain>Finally, FP propagation was repeatedly slowed down by the gap junction blocker carbenoxolone (30 μM), as revealed from FP <z:hpo ids='HP_0003674'>onset</z:hpo> latency increases observed on three consecutive days (2-8 h after preparation, 93.0%; 24-28 h, 76.8%, 48-56 h, 61.7%) </plain></SENT>
+<SENT sid="9" pm="."><plain>DISCUSSION: Freshly isolated cardiac slices reproduced established physiological and pharmacological responses for more than 24 h after preparation </plain></SENT>
+<SENT sid="10" pm="."><plain>Thus, cardiac slices can be used for several days after preparation which makes them a robust model for electrophysiological studies </plain></SENT>
+<SENT sid="11" pm="."><plain>We propose that cardiac slices can become a versatile tool in heart research and risk assessment of drugs </plain></SENT>
+</text></document>

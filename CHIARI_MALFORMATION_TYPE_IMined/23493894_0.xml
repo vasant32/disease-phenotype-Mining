@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND PURPOSE:Quantification of PCF volume and the degree of PCF crowdedness were found beneficial for differential diagnosis of <z:e sem="disease" ids="C0393983" disease_type="Disease or Syndrome" abbrv="">tonsillar herniation</z:e> and prediction of surgical outcome in CMI </plain></SENT>
+<SENT sid="1" pm="."><plain>However, lack of automated methods limits the clinical use of PCF volumetry </plain></SENT>
+<SENT sid="2" pm="."><plain>An atlas-based method for automated PCF segmentation tailored for CMI is presented </plain></SENT>
+<SENT sid="3" pm="."><plain>The method performance is assessed in terms of accuracy and spatial overlap with manual segmentation </plain></SENT>
+<SENT sid="4" pm="."><plain>The degree of association between PCF volumes and the lengths of previously proposed linear landmarks is reported.MATERIALS AND METHODS:T1-weighted volumetric <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e> imaging data with 1-mm isotropic resolution obtained with the use of a 3T scanner from 14 patients with CMI and 3 healthy subjects were used for the study </plain></SENT>
+<SENT sid="5" pm="."><plain>Manually delineated PCF from 9 patients was used to establish a CMI-specific reference for an atlas-based automated PCF parcellation approach </plain></SENT>
+<SENT sid="6" pm="."><plain>Agreement between manual and automated segmentation of 5 different CMI datasets was verified by means of the t test </plain></SENT>
+<SENT sid="7" pm="."><plain>Measurement reproducibility was established through the use of 2 repeated scans from 3 healthy subjects </plain></SENT>
+<SENT sid="8" pm="."><plain>Degree of linear association between PCF volume and 6 linear landmarks was determined by means of Pearson correlation.RESULTS:PCF volumes measured by use of the automated method and with manual delineation were similar, 196.2 ± 8.7 mL versus 196.9 ± 11.0 mL, respectively </plain></SENT>
+<SENT sid="9" pm="."><plain>The mean relative difference of -0.3 ± 1.9% was not statistically significant </plain></SENT>
+<SENT sid="10" pm="."><plain>Low measurement variability, with a mean absolute percentage value of 0.6 ± 0.2%, was achieved </plain></SENT>
+<SENT sid="11" pm="."><plain>None of the PCF linear landmarks were significantly associated with PCF volume.CONCLUSIONS:PCF and tissue content volumes can be reliably measured in patients with CMI by use of an atlas-based automated segmentation method </plain></SENT>
+</text></document>

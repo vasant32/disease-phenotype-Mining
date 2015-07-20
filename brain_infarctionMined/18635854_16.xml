@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND PURPOSE: Lesion volume measured on MRI has been used as an objective surrogate marker for outcome in clinical trials </plain></SENT>
+<SENT sid="1" pm="."><plain>However, lesion volumes vary over time because of <z:hpo ids='HP_0000969'>edema</z:hpo> and tissue loss </plain></SENT>
+<SENT sid="2" pm="."><plain>This study aims to determine if lesion volumes measured at 30 and 90 days after ictus significantly differ </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: We performed a retrospective study of 18 patients who had <z:hpo ids='HP_0011009'>acute</z:hpo> (&lt;24 hours) DWI and follow-up fluid-attenuated inversion recovery imaging at 5, 30, and 90 days </plain></SENT>
+<SENT sid="4" pm="."><plain>Two expert readers segmented lesions and the mean volumes of both reads were used in <z:hpo ids='HP_0000001'>all</z:hpo> statistical analyses </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: Patient age was 65.8 (SD, 13.7) years and median NIHSS at baseline was 11.5 </plain></SENT>
+<SENT sid="6" pm="."><plain>Inter-rater variability for lesion volume measurements was 3.7 (5.8) mL </plain></SENT>
+<SENT sid="7" pm="."><plain><z:hpo ids='HP_0011009'>Acute</z:hpo> DWI volume was 19.3 (17.3) mL </plain></SENT>
+<SENT sid="8" pm="."><plain>Fluid-attenuated inversion recovery volumes for 5, 30, and 90 days were 34.3 (23.5), 18.6 (14.0), and 15.9 (13.8) mL, respectively </plain></SENT>
+<SENT sid="9" pm="."><plain>These volumes differed significantly (P&lt;0.001) </plain></SENT>
+<SENT sid="10" pm="."><plain>Linear regression revealed a strong correlation (r=0.96; P&lt;0.001) between lesion volumes at 30 and 90 days with a slope that did not vary significantly from 1.0 (P=0.448) </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: Lesions continue to evolve between 5 and 90 days, but by 30 days lesion volume approaches final <z:mpath ids='MPATH_124'>infarct</z:mpath> volume </plain></SENT>
+<SENT sid="12" pm="."><plain>While clinical response is the most meaningful outcome measure, our findings suggest that lesion volumes measured at 30 days may provide a sufficient approximation for final <z:mpath ids='MPATH_124'>infarct</z:mpath> volume for use in early phase clinical trials </plain></SENT>
+</text></document>

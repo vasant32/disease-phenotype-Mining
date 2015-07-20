@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Recent gene-expression data have suggested that host immune genetic signatures may predict outcomes in patients with follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>We evaluated the hypothesis that germ line common variation in candidate immune genes is associated with survival </plain></SENT>
+<SENT sid="2" pm="."><plain>Cox models were used to estimate hazard ratios (HR) and corresponding 95% confidence intervals for individual SNPs after accounting for age, clinical, and other demographic factors </plain></SENT>
+<SENT sid="3" pm="."><plain>The median age at diagnosis of the 278 patients was 57 years, and 59 (21%) of the patients died during follow-up, with a median follow-up of 59 months (range, 27-78 months) for surviving patients </plain></SENT>
+<SENT sid="4" pm="."><plain>SNPs in IL8 (rs4073; HR(TT)=2.14, 1.26-3.63), IL2 (rs2069762; HR(GT/TT) = 1.80, 1.06-3.05), IL12B (rs3212227; HR(AC/CC)=1.83, 1.06-3.06), and IL1RN (rs454078; HR(AA)=1.93, 1.11-3.34) were the most robust predictors of survival </plain></SENT>
+<SENT sid="5" pm="."><plain>A summary score of the number of deleterious genotypes from these genes was strongly associated with survival (P=.001) </plain></SENT>
+<SENT sid="6" pm="."><plain>A risk score that combined the 4 SNPs with the clinical and demographic factors was even more strongly associated with survival (P&lt;.001); the 5-year Kaplan-Meier survival estimates were 96% (93%-100%), 72% (62%-83%), and 58% (48%-72%) for groups at low, intermediate, and high risk, respectively </plain></SENT>
+<SENT sid="7" pm="."><plain>Common variation in host immune genes warrants further evaluation as a promising class of prognostic factors in follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo> </plain></SENT>
+</text></document>

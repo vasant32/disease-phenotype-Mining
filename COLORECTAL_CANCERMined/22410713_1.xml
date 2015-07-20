@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIM: Cholecystectomy has been suggested as a risk factor for <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>However, the association of cholecystectomy and the risk of colorectal <z:mpath ids='MPATH_270'>adenoma</z:mpath> (CRA) remains unclear </plain></SENT>
+<SENT sid="2" pm="."><plain>We conducted a meta-analysis of observational studies to explore this relationship </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: We identified studies by a literature search of MEDLINE and EMBASE through 30 September 2011, and by searching the reference lists of pertinent articles </plain></SENT>
+<SENT sid="4" pm="."><plain>Summary relative risks (SRRs) with their 95% confidence intervals (CIs) were calculated with a random-effects model </plain></SENT>
+<SENT sid="5" pm="."><plain>Between-study <z:hpo ids='HP_0001425'>heterogeneity</z:hpo> was assessed using Cochran's Q statistic and the I2 </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: A total of 10 studies (including 4061 CRA cases) were included in this meta-analysis </plain></SENT>
+<SENT sid="7" pm="."><plain>Analysis of these 10 studies found that no effect of cholecystectomy on the risk of CRAs was shown (SRR, 1.17; 95% CI: 0.93-1.48), with no significant <z:hpo ids='HP_0001425'>heterogeneity</z:hpo> among these studies (P <z:hpo ids='HP_0001425'>heterogeneity</z:hpo>=0.106, I2=37.9%) </plain></SENT>
+<SENT sid="8" pm="."><plain>This null association was seen in both men and women (men: SRR=1.00, 95% CI: 0.58-1.73; women: SRR=1.39, 95% CI: 0.95-2.04) </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSION: The results of this meta-analysis suggest that there is no positive association between previous cholecystectomy and the risk of CRA development in both men and women </plain></SENT>
+</text></document>

@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Prognosis remains poor after progression on first-line chemotherapy for colorectal <z:mp ids='MP_0009308'>adenocarcinoma</z:mp>, and inactivation of the EGFR pathway with monoclonal antibodies is an effective treatment strategy in selected patients with <z:e sem="disease" ids="C0027627" disease_type="Neoplastic Process" abbrv="mets">metastatic disease</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain><z:chebi fb="0" ids="49603">Lapatinib</z:chebi> is an oral EGFR and HER-2 dual <z:chebi fb="0" ids="38637">tyrosine kinase inhibitor</z:chebi> that has not shown significant activity in <z:e sem="disease" ids="C0948380" disease_type="Neoplastic Process" abbrv="">metastatic colorectal cancer</z:e> </plain></SENT>
+<SENT sid="2" pm="."><plain>However, <z:chebi fb="0" ids="49603">lapatinib</z:chebi> may act synergistically with <z:chebi fb="0" ids="31348">capecitabine</z:chebi> in anticancer effects </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: This was an open-label, non-randomized phase II study of <z:chebi fb="0" ids="49603">lapatinib</z:chebi> 1,250 mg orally daily and <z:chebi fb="0" ids="31348">capecitabine</z:chebi> 2,000 mg/m(2) by mouth split into twice-daily dosing for 14 days of a 21 days cycle </plain></SENT>
+<SENT sid="4" pm="."><plain>Inclusion criteria included metastatic or locally advanced <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> of the colon or rectum with progression by RECIST on or within six months of receiving a fluoridopyrimidine-, <z:chebi fb="0" ids="31941">oxaliplatin</z:chebi>- or irinotecan-containing regimen </plain></SENT>
+<SENT sid="5" pm="."><plain>Prior EGFR monoclonal antibody was permitted </plain></SENT>
+<SENT sid="6" pm="."><plain>K-ras testing was not routinely performed and was not a part of the study protocol </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: Twenty nine patients (16 M; 13 F) were enrolled in this study </plain></SENT>
+<SENT sid="8" pm="."><plain>There were no complete or partial responses </plain></SENT>
+<SENT sid="9" pm="."><plain>41.4% of patients achieved stable disease as a best response </plain></SENT>
+<SENT sid="10" pm="."><plain>Median overall survival was 6.8 months, with a 1-year survival rate of 22%, and median progression-free survival was 2.1 months </plain></SENT>
+<SENT sid="11" pm="."><plain>The combination produced few grade 3 and no grade 4 toxicities </plain></SENT>
+<SENT sid="12" pm="."><plain>No grade 3 toxicity occurred in more than 10% of patients </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSIONS: Although <z:chebi fb="0" ids="31348">capecitabine</z:chebi> and <z:chebi fb="0" ids="49603">lapatinib</z:chebi> is well tolerated, it is not an effective regimen in patients with refractory colorectal <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> </plain></SENT>
+</text></document>

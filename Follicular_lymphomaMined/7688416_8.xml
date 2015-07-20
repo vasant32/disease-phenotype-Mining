@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The development of B-cell memory is linked to the presence of germinal centres </plain></SENT>
+<SENT sid="1" pm="."><plain>This process is dependent on the presence of antigen, usually in the form of immune complexes with antibody, on the surface of the follicular dendritic cells (<z:chebi fb="17" ids="38848">FDCs</z:chebi>) that form a network in the germinal centre </plain></SENT>
+<SENT sid="2" pm="."><plain>The presence of immune complexes poses a constant danger of activating complement </plain></SENT>
+<SENT sid="3" pm="."><plain>Decay accelerating factor (DAF, CD55) and the membrane attack complex (MAC) inhibitor (CD59) are two cell proteins whose sole function is to protect cells from the action of complement, the former affecting the earlier components of the complement cascade, and the latter the terminal ones; both are bound to the cell surface via a <z:chebi fb="0" ids="24410">glycosylphosphatidylinositol</z:chebi> link </plain></SENT>
+<SENT sid="4" pm="."><plain>DAF but not CD59 could be demonstrated on <z:chebi fb="17" ids="38848">FDCs</z:chebi> </plain></SENT>
+<SENT sid="5" pm="."><plain>DAF is also present on the <z:chebi fb="17" ids="38848">FDCs</z:chebi> in follicular <z:hpo ids='HP_0002665'>lymphomas</z:hpo> despite the absence of complement (C3) in neoplastic follicles </plain></SENT>
+<SENT sid="6" pm="."><plain>This indicates that DAF is constitutive to <z:chebi fb="17" ids="38848">FDCs</z:chebi> but does not preclude the possibility that its expression is increased when immune complexes are deposited </plain></SENT>
+</text></document>

@@ -1,0 +1,5 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0012063'>Aneurysmal bone cysts</z:hpo> in the skull vault are reported in two patients 7 and 9 years old, who presented with <z:hpo ids='HP_0002013'>vomiting</z:hpo> and <z:hpo ids='HP_0002315'>headaches</z:hpo> caused by <z:e sem="disease" ids="C0151740" disease_type="Disease or Syndrome" abbrv="">raised intracranial pressure</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>CT showed the cystic lesion in the diploë, with predominantly inward expansion </plain></SENT>
+<SENT sid="2" pm="."><plain>Fluid-fluid levels were seen on both CT and MRI; the latter also showed <z:mp ids='MP_0001914'>bleeding</z:mp> within the <z:mpath ids='MPATH_62'>cyst</z:mpath> </plain></SENT>
+<SENT sid="3" pm="."><plain><z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e> angiography showed compression of the superior sagittal sinus in the second case </plain></SENT>
+</text></document>

@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND AIMS: Endoscopic therapies for <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> (BE) associated <z:mpath ids='MPATH_589'>dysplasia</z:mpath>, particularly radiofrequency ablation (RFA), are popular alternatives to surgery </plain></SENT>
+<SENT sid="1" pm="."><plain>The effect of such therapies on dysplastic stem/progenitor cells (SPC) is unknown </plain></SENT>
+<SENT sid="2" pm="."><plain>Recent studies suggest that AKT phosphorylation of β-Catenin occurs in SPCs and may be a marker of activated SPCs </plain></SENT>
+<SENT sid="3" pm="."><plain>We evaluate the effect of RFA in restoring AKT-mediated β-Catenin signaling in regenerative epithelium </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS: Biopsies were taken from squamous, non-dysplastic BE, dysplastic BE and esophageal <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> (EAC) </plain></SENT>
+<SENT sid="5" pm="."><plain>Also, post-RFA, biopsies of endoscopically <z:mpath ids='MPATH_458'>normal</z:mpath> appearing neosquamous epithelium were taken at 3, 6, and 12 months after successful RFA </plain></SENT>
+<SENT sid="6" pm="."><plain>Immunohistochemistry and Western blot analysis was performed for Pβ-Catenin(552) (Akt-mediated phosphorylation of β-Catenin), Ki-67 and p53 </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: There was no difference in Pβ-Catenin552 in squamous, <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">GERD</z:e>, small bowel and non-dysplastic BE </plain></SENT>
+<SENT sid="8" pm="."><plain>There was a fivefold increase in Pβ-Catenin(552) in <z:mpath ids='MPATH_589'>dysplasia</z:mpath> and EAC compared to non-dysplastic BE (P &lt; 0.05) </plain></SENT>
+<SENT sid="9" pm="."><plain>Also, there was a persistent threefold increase in Pβ-Catenin(552) in neosquamous epithelium 3 months after RFA compared to native squamous epithelium (P &lt; 0.05) that correlated with increased Ki-67 </plain></SENT>
+<SENT sid="10" pm="."><plain>Six months after RFA, Pβ-Catenin(552) and Ki-67 are similar to native squamous epithelium </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: Enhanced AKT-mediated β-Catenin activation is seen in BE-associated <z:e sem="disease" ids="C0596263" disease_type="Neoplastic Process" abbrv="">carcinogenesis</z:e> </plain></SENT>
+<SENT sid="12" pm="."><plain>Three months after RFA, squamous epithelial growth from SPC populations exhibited increased levels of Pβ-Catenin(552) </plain></SENT>
+<SENT sid="13" pm="."><plain>This epithelial response becomes quiescent at 6 months after RFA </plain></SENT>
+<SENT sid="14" pm="."><plain>These data suggest that elevated Pβ-Catenin(552) after RFA denotes a repair response in the neosquamous epithelium 3 months post-RFA </plain></SENT>
+</text></document>

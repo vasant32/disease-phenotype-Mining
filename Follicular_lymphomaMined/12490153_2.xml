@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:mpath ids='MPATH_458'>Normal</z:mpath> human B lymphocytes are sensitive to the growth-inhibitory action of transforming growth factor beta1 (TGFbeta1) whereas malignant B <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cells are mostly resistant to TGFbeta1 effects </plain></SENT>
+<SENT sid="1" pm="."><plain>We examined the phosphorylation status of <z:hpo ids='HP_0009919'>retinoblastoma</z:hpo> protein and the activity of G(1) cyclin-dependent kinases (cdk) in TGFbeta1-sensitive malignant follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cells during the TGFbeta1 treatment </plain></SENT>
+<SENT sid="2" pm="."><plain>The kinase activity of cdk2, cdk4, and cdk6 was significantly reduced and hypophosphorylation of pRb on serine 795 (S795) and threonine 373 (T373) was observed </plain></SENT>
+<SENT sid="3" pm="."><plain>We examined the composition of cdk complexes and the level of cdk inhibitors to explain the inhibitory action of TGFbeta1 toward cdk activity </plain></SENT>
+<SENT sid="4" pm="."><plain>Both cdk4 and cdk6 were notably dissociated from cyclin D cofactors, while cyclin E-cdk2 complexes remained coupled in TGFbeta1-treated cells </plain></SENT>
+<SENT sid="5" pm="."><plain>TGFbeta1-induced <z:mpath ids='MPATH_73'>growth arrest</z:mpath> was associated with notably increased binding of p21(WAF1) to cdk4 and cdk6 </plain></SENT>
+<SENT sid="6" pm="."><plain>No induction of cdk-inhibitor molecules of INK family was observed in TGFbeta1-treated DoHH2 cells </plain></SENT>
+<SENT sid="7" pm="."><plain>As shown, TGFbeta1-induced <z:mpath ids='MPATH_73'>growth arrest</z:mpath> of malignant B cells was associated with the activation of CIP/KIP family members of cdk inhibitors </plain></SENT>
+</text></document>

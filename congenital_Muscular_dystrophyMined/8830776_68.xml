@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Laminin (laminin-1; alpha 1-beta 1-gamma 1) is known to promote myoblast proliferation, fusion, and myotube formation </plain></SENT>
+<SENT sid="1" pm="."><plain>Merosin (laminin-2 and -4; alpha 2-beta 1/beta 2-gamma 1) is the predominant laminin variant in skeletal muscle basement membranes; genetic defects affecting its structure or expression are the causes of some types of <z:hpo ids='HP_0003741'>congenital muscular dystrophy</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>However, the precise nature of the functions of merosin in muscle remain unknown </plain></SENT>
+<SENT sid="3" pm="."><plain>We have developed an in vitro system that exploits human RD and mouse C2C12 myoblastic cell lines and their clonal variants to study the roles of merosin and laminin in myogenesis </plain></SENT>
+<SENT sid="4" pm="."><plain>In the parental cells, which fuse efficiently to multinucleated myotubes, merosin expression is upregulated as a function of differentiation while laminin expression is downregulated </plain></SENT>
+<SENT sid="5" pm="."><plain>Cells from fusion-deficient clones do not express either protein, but laminin or merosin added to the culture medium induced their fusion </plain></SENT>
+<SENT sid="6" pm="."><plain>Clonal variants which fuse, but form unstable myotubes, express laminin but not merosin </plain></SENT>
+<SENT sid="7" pm="."><plain>Exogenous merosin converted these myotubes to a stable phenotype, while laminin had no effect </plain></SENT>
+<SENT sid="8" pm="."><plain>Myotube instability was corrected most efficiently by transfection of the merosin-deficient cells with the merosin alpha 2 chain cDNA </plain></SENT>
+<SENT sid="9" pm="."><plain>Finally, merosin appears to promote myotube stability by preventing <z:mpath ids='MPATH_3'>apoptosis</z:mpath> </plain></SENT>
+<SENT sid="10" pm="."><plain>Hence, these studies identify novel biological functions for merosin in myoblast fusion and muscle cell survival; furthermore, these explain some of the pathogenic events observed in <z:hpo ids='HP_0003741'>congenital muscular dystrophy</z:hpo> caused by merosin deficiency and provide in vitro models to further investigate the molecular mechanisms of this disease </plain></SENT>
+</text></document>

@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Stimulation and proliferation of lymphocytes require activation of Ras </plain></SENT>
+<SENT sid="1" pm="."><plain>S-farnesylthiosalicylic acid (FTS) is a synthetic substance that detaches Ras from the inner cell membrane and induces its rapid degradation </plain></SENT>
+<SENT sid="2" pm="."><plain><z:hpo ids='HP_0003613'>Antiphospholipid antibodies</z:hpo> (aPL) are a <z:hpo ids='HP_0001425'>heterogeneous</z:hpo> group of antibodies detected in patients with <z:e sem="disease" ids="C0085278" disease_type="Disease or Syndrome" abbrv="">antiphospholipid syndrome</z:e> (APS), which is associated with <z:mp ids='MP_0005048'>thrombosis</z:mp>, pregnancy losses, and <z:hpo ids='HP_0001873'>thrombocytopenia</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>OBJECTIVE: To examine the effect of FTS treatment on aPL levels in a genetic autoimmune model (the MRL/lpr mice) and in an induced model of APS </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS: Female Balb/C mice immunized once with beta2-<z:chebi fb="2" ids="17089">glycoprotein</z:chebi> I (beta2-GPI) in complete Freund's adjuvant (CFA) and female MRL/lpr mice were treated intraperitoneally with either FTS (5 mg/Kg/day) or saline 3-5 times a week </plain></SENT>
+<SENT sid="5" pm="."><plain>aPL and anti-beta2-GPI antibodies were measured by ELISA </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: FTS treatment 3 times a week resulted in significant decreases of aPL and anti-beta2-GPI antibodies in both animal models </plain></SENT>
+<SENT sid="7" pm="."><plain>In contrast, more frequent treatment (5 times a week) had no significant effect on autantibody levels in both animal models </plain></SENT>
+<SENT sid="8" pm="."><plain>We further compared 2 protocols in the induced APS model, one for alternate day treatment and the other for daily treatment on the first 3 days each week, and found a decrease in autoantibody levels only in the alternate day protocol </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSIONS: Inhibition of Ras activation by FTS is effective in decreasing autoantibody levels in models of APS </plain></SENT>
+<SENT sid="10" pm="."><plain>The differential modulation of immune function by alternate day compared to daily treatment may provide better understanding of the role of Ras activation in this system </plain></SENT>
+</text></document>

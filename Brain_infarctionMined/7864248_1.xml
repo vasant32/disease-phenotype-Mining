@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>During <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo>, accumulation of the glycolytic end product <z:chebi fb="22" ids="28358">lactic acid</z:chebi> may contribute to <z:e sem="disease" ids="C0751955" disease_type="Disease or Syndrome" abbrv="">brain infarction</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>In vitro, <z:chebi fb="22" ids="28358">lactic acid</z:chebi> evokes a process of slowly evolving neuronal <z:hpo ids='HP_0011420'>death</z:hpo> characterized by a transient maintenance of cellular viability after initial injury </plain></SENT>
+<SENT sid="2" pm="."><plain>We examined effects of <z:chebi fb="22" ids="28358">lactic acid</z:chebi> on intracellular <z:chebi fb="0" ids="29108">Ca2+</z:chebi> (Cai2+) </plain></SENT>
+<SENT sid="3" pm="."><plain>Cultured neurons loaded with the fluorescent <z:chebi fb="0" ids="29108">Ca2+</z:chebi> indicator fura 2 showed a marked increase in Cai2+ to as high as 600 nM </plain></SENT>
+<SENT sid="4" pm="."><plain>This increase occurred after <z:chebi fb="22" ids="28358">lactic acid</z:chebi> exposure when intracellular pH had normalized </plain></SENT>
+<SENT sid="5" pm="."><plain>Membrane potential was unaltered during this period, indicating that the Cai2+ increment was not a result of membrane depolarization </plain></SENT>
+<SENT sid="6" pm="."><plain>Increase in <z:chebi fb="0" ids="29108">Ca2+</z:chebi> was prevented by incubating cultures in Ca(2+)-free solutions or exposing them to the L-type <z:chebi fb="0" ids="29108">Ca2+</z:chebi> channel <z:chebi fb="68" ids="48706">antagonist</z:chebi> nimodipine </plain></SENT>
+<SENT sid="7" pm="."><plain>Cai2+ returned to resting levels within 20 min and remained <z:mpath ids='MPATH_458'>normal</z:mpath> during the remainder of the 4-h observation period </plain></SENT>
+<SENT sid="8" pm="."><plain>Neuronal <z:chebi fb="0" ids="29108">Ca2+</z:chebi> homeostasis was disrupted after lethal exposure to <z:chebi fb="22" ids="28358">lactic acid</z:chebi>, in that subsequent exposure to 50 mM K+ failed to increase neuronal Cai2+ </plain></SENT>
+<SENT sid="9" pm="."><plain>Cai2+ increment was integrated over a 20-min period to obtain a measure of neuronal Cai2+ load </plain></SENT>
+<SENT sid="10" pm="."><plain>This "calcium integral" was found to correlate directly with severity of neuronal damage observed 24 h later </plain></SENT>
+<SENT sid="11" pm="."><plain>Thus the Cai2+ increase integrated over time closely reflected the likelihood of lethal neuronal injury after <z:chebi fb="22" ids="28358">lactic acid</z:chebi> exposure.(ABSTRACT TRUNCATED AT 250 WORDS) </plain></SENT>
+</text></document>

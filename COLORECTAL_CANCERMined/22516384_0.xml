@@ -1,0 +1,18 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PURPOSE: To develop and evaluate accurate and objective on-line patient setup based on a novel semiautomatic technique in which three-dimensional marker trajectories were estimated from two-dimensional cone-beam computed tomography (CBCT) projections </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS AND MATERIALS: Seven treatment courses of stereotactic body radiotherapy for <z:e sem="disease" ids="C0023903" disease_type="Neoplastic Process" abbrv="">liver tumors</z:e> were delivered in 21 fractions in total to 6 patients by a linear accelerator </plain></SENT>
+<SENT sid="2" pm="."><plain>Each patient had two to three gold markers implanted close to the <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumors</z:e> </plain></SENT>
+<SENT sid="3" pm="."><plain>Before treatment, a CBCT scan with approximately 675 two-dimensional projections was acquired during a full gantry rotation </plain></SENT>
+<SENT sid="4" pm="."><plain>The marker positions were segmented in each projection </plain></SENT>
+<SENT sid="5" pm="."><plain>From this, the three-dimensional marker trajectories were estimated using a probability based method </plain></SENT>
+<SENT sid="6" pm="."><plain>The required couch shifts for patient setup were calculated from the mean marker positions along the trajectories </plain></SENT>
+<SENT sid="7" pm="."><plain>A motion phantom moving with known <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> trajectories was used to examine the accuracy of the method </plain></SENT>
+<SENT sid="8" pm="."><plain>Trajectory-based setup was retrospectively used off-line for the first five treatment courses (15 fractions) and on-line for the last two treatment courses (6 fractions) </plain></SENT>
+<SENT sid="9" pm="."><plain>Automatic marker segmentation was compared with manual segmentation </plain></SENT>
+<SENT sid="10" pm="."><plain>The trajectory-based setup was compared with setup based on conventional CBCT guidance on the markers (first 15 fractions) </plain></SENT>
+<SENT sid="11" pm="."><plain>RESULTS: Phantom measurements showed that trajectory-based estimation of the mean marker position was accurate within 0.3 mm </plain></SENT>
+<SENT sid="12" pm="."><plain>The on-line trajectory-based patient setup was performed within approximately 5 minutes </plain></SENT>
+<SENT sid="13" pm="."><plain>The automatic marker segmentation agreed with manual segmentation within 0.36 ± 0.50 pixels (mean ± SD; pixel size, 0.26 mm in isocenter) </plain></SENT>
+<SENT sid="14" pm="."><plain>The accuracy of conventional volumetric CBCT guidance was compromised by motion smearing (≤21 mm) that induced an absolute three-dimensional setup error of 1.6 ± 0.9 mm (maximum, 3.2) relative to trajectory-based setup </plain></SENT>
+<SENT sid="15" pm="."><plain>CONCLUSIONS: The first on-line clinical use of trajectory estimation from CBCT projections for precise setup in stereotactic body radiotherapy was demonstrated </plain></SENT>
+<SENT sid="16" pm="."><plain>Uncertainty in the conventional CBCT-based setup procedure was eliminated with the new method </plain></SENT>
+</text></document>

@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Loss of <z:mp ids='MP_0003121'>genomic imprinting</z:mp> is involved in a number of developmental abnormalities and <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancers</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>ZAC is an imprinted gene expressed from the paternal allele of chromosome 6q24 within a region known to harbor a <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> suppressor gene for several types of <z:hpo ids='HP_0002664'>neoplasia</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>p57(KIP2) (CDKN1C) is a maternally expressed gene located on chromosome 11p15.5 which encodes a cyclin-dependent kinase inhibitor that may also act as a <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> suppressor gene </plain></SENT>
+<SENT sid="3" pm="."><plain>Mutations in ZAC and p57KIP2 have been implicated in <z:hpo ids='HP_0008255'>transient neonatal diabetes mellitus</z:hpo> (TNDB) and <z:e sem="disease" ids="C0004903" disease_type="Disease or Syndrome;Congenital Abnormality" abbrv="">Beckwith-Wiedemann syndrome</z:e>, respectively </plain></SENT>
+<SENT sid="4" pm="."><plain>Patients with these diseases share many characteristics </plain></SENT>
+<SENT sid="5" pm="."><plain>Here we show that mouse Zac1 and p57Kip2 have a strikingly similar expression pattern </plain></SENT>
+<SENT sid="6" pm="."><plain>ZAC, a sequence-specific DNA-binding protein, binds within the CpG island of LIT1 (KCNQ1OT1), a paternally expressed, anti-sense <z:chebi fb="40" ids="33697">RNA</z:chebi> thought to negatively regulate p57(KIP2) in cis </plain></SENT>
+<SENT sid="7" pm="."><plain>ZAC induces LIT1 transcription in a methylation-dependent manner </plain></SENT>
+<SENT sid="8" pm="."><plain>Our data suggest that ZAC may regulate p57(KIP2) through LIT1, forming part of a novel signaling pathway regulating cell growth </plain></SENT>
+<SENT sid="9" pm="."><plain>Mutations in ZAC may, therefore, contribute to <z:e sem="disease" ids="C0004903" disease_type="Disease or Syndrome;Congenital Abnormality" abbrv="">Beckwith-Wiedemann syndrome</z:e> </plain></SENT>
+<SENT sid="10" pm="."><plain>Furthermore, we find changes in DNA methylation at the LIT1 putative imprinting control region in two patients with TNDB </plain></SENT>
+</text></document>

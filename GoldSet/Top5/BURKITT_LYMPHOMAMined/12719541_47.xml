@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>MITF, TFE3, TFEB, and TFEC comprise a transcription factor family (MiT) that regulates key developmental pathways in several cell lineages </plain></SENT>
+<SENT sid="1" pm="."><plain>Like MYC, MiT members are basic helix-loop-helix-leucine zipper transcription factors </plain></SENT>
+<SENT sid="2" pm="."><plain>MiT members share virtually perfect homology in their DNA binding domains and bind a common DNA motif </plain></SENT>
+<SENT sid="3" pm="."><plain>Translocations of TFE3 occur in specific subsets of human <z:hpo ids='HP_0005584'>renal cell carcinomas</z:hpo> and in alveolar soft part <z:hpo ids='HP_0100242'>sarcomas</z:hpo> </plain></SENT>
+<SENT sid="4" pm="."><plain>Although multiple translocation partners are fused to TFE3, each translocation product retains TFE3's basic helix-loop-helix leucine zipper </plain></SENT>
+<SENT sid="5" pm="."><plain>We have identified the genes fused by the chromosomal translocation t(6;11)(p21.1;q13), characteristic of another subset of <z:hpo ids='HP_0009726'>renal neoplasms</z:hpo> </plain></SENT>
+<SENT sid="6" pm="."><plain>In two <z:e sem="disease" ids="C0677930" disease_type="Neoplastic Process" abbrv="">primary tumors</z:e> we found that Alpha, an intronless gene, rearranges with the first intron of TFEB, just upstream of TFEB's initiation ATG, preserving the entire TFEB coding sequence </plain></SENT>
+<SENT sid="7" pm="."><plain>Fluorescence in situ hybridization confirmed the involvement of both TFEB and Alpha in this translocation </plain></SENT>
+<SENT sid="8" pm="."><plain>Although the Alpha promoter drives expression of this fusion gene, the Alpha gene does not contribute to the ORF </plain></SENT>
+<SENT sid="9" pm="."><plain>Whereas TFE3 is typically fused to partner proteins in subsets of <z:hpo ids='HP_0009726'>renal tumors</z:hpo>, we found that <z:mp ids='MP_0002169'>wild-type</z:mp>, unfused TFE3 stimulates clonogenic growth in a cell-based assay, suggesting that dysregulated expression, rather than altered function of TFEB or TFE3 fusions, may confer neoplastic properties, a mechanism reminiscent of MYC activation by promoter substitution in Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> </plain></SENT>
+<SENT sid="10" pm="."><plain>Alpha-TFEB is thus identified as a fusion gene in a subset of pediatric <z:hpo ids='HP_0009726'>renal neoplasms</z:hpo> </plain></SENT>
+</text></document>

@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Data on readmission as well as the potential impact of length of stay (LOS) after colectomy for <z:hpo ids='HP_0003003'>colon cancer</z:hpo> remain poorly defined </plain></SENT>
+<SENT sid="1" pm="."><plain>The objective of the current study was to evaluate risk factors associated with readmission among a nationwide cohort of patients after colorectal surgery </plain></SENT>
+<SENT sid="2" pm="."><plain>STUDY DESIGN: We identified 149,622 unique individuals from the Surveillance, Epidemiology, and End Results-Medicare dataset with a diagnosis of primary <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> who underwent colectomy between 1986 and 2005 </plain></SENT>
+<SENT sid="3" pm="."><plain>In-hospital morbidity, mortality, LOS, and 30-day readmission were examined using univariate and multivariate logistic regression models </plain></SENT>
+<SENT sid="4" pm="."><plain>RESULTS: Primary surgical treatment consisted of right (37.4%), transverse (4.9%), left (10.5%), sigmoid (22.8%), abdominoperineal resection (7.3%), low anterior resection (5.6%), total colectomy (1.2%), or other/unspecified (10.3%) </plain></SENT>
+<SENT sid="5" pm="."><plain>Mean patient age was 76.5 years and more patients were female (52.9%) </plain></SENT>
+<SENT sid="6" pm="."><plain>The number of patients with multiple preoperative comorbidities increased over time (Charlson comorbidity score ≥3: 1986 to 1990, 52.5% vs 2001 to 2005, 63.1%; p &lt; 0.001) </plain></SENT>
+<SENT sid="7" pm="."><plain>Mean LOS was 11.7 days and morbidity and mortality were 36.5% and 4.2%, respectively </plain></SENT>
+<SENT sid="8" pm="."><plain>LOS decreased over time (1986 to 1990, 14.0 days; 1991 to 1995, 12.0 days; 1996 to 2000, 10.4 days; 2001 to 2005, 10.6 days; p &lt; 0.001) </plain></SENT>
+<SENT sid="9" pm="."><plain>In contrast, 30-day readmission rates increased (1986 to 1990, 10.2%; 1991 to 1995, 10.9%; 1996 to 2000, 12.4%; 2001 to 2005, 13.7%; p &lt; 0.001) </plain></SENT>
+<SENT sid="10" pm="."><plain>Factors associated with increased risk of readmission included LOS (odds ratio = 1.02), Charlson comorbidities ≥3 (odds ratio = 1.27), and postoperative complications (odds ratio = 1.17) (<z:hpo ids='HP_0000001'>all</z:hpo> p &lt; 0.01) </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: Readmission rates after colectomies have increased during the past 2 decades and mean LOS after this operation has declined </plain></SENT>
+<SENT sid="12" pm="."><plain>More research is needed to understand the balance and possible trade off between these hospital performance measures for <z:hpo ids='HP_0000001'>all</z:hpo> surgical procedures </plain></SENT>
+</text></document>

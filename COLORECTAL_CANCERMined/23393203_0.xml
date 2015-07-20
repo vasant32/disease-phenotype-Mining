@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIMS: Fourier transform infrared (FT-IR) imaging is increasingly being applied to biomedical specimens, but strong IR absorption by water complicates live cell imaging </plain></SENT>
+<SENT sid="1" pm="."><plain>This study investigates the viability of adherent epithelial cells maintained for short periods under mineral oils in order to facilitate live cell spectroscopy using FT-IR with subsequent imaging </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: The MGH-U1 urothelial or CaCo2 <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> cell lines were grown on plastic surfaces or mid-range infrared transparent windows </plain></SENT>
+<SENT sid="3" pm="."><plain>Medium in established cultures was replaced with paraffin mineral oil, or Fluorolube, for up to 2 h, and viability assessed by supravital staining </plain></SENT>
+<SENT sid="4" pm="."><plain>Drug handling characteristics were also assessed </plain></SENT>
+<SENT sid="5" pm="."><plain>Imaging of preparations was attempted by reflectance and transmission using a Varian FT-IR microscope </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: Cells covered by mineral oil remained viable for 2 h, with recovery into <z:mpath ids='MPATH_458'>normal</z:mpath> medium possible </plain></SENT>
+<SENT sid="7" pm="."><plain><z:chebi fb="0" ids="53233">MTT</z:chebi> ((3-(4,5-dimethylthlazol-2-yl)-2,5-diphenyl tetrazolium) conversion to crystalline formazan and differential patterns of drug uptake were maintained </plain></SENT>
+<SENT sid="8" pm="."><plain>The combination of a <z:chebi fb="1" ids="35437">calcium fluoride</z:chebi> substrate, Fluorolube oil, and transmission optics proved best for spectroscopy </plain></SENT>
+<SENT sid="9" pm="."><plain>Spectral features were used to obtain images of live cells </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSIONS: The viability of cells overlaid with IR transparent oils was assessed as part of a technique to optimise conditions for FT-IR imaging </plain></SENT>
+<SENT sid="11" pm="."><plain>Images of untreated cells were obtained using both reflectance and transmission </plain></SENT>
+<SENT sid="12" pm="."><plain>This represents an effective means of imaging live cells by IR spectroscopy, and also means that imaging is not necessarily a terminal event </plain></SENT>
+<SENT sid="13" pm="."><plain>It also increases options for producing images based on real-time biochemistry in a range of in vitro experimental and 'optical biopsy' contexts </plain></SENT>
+</text></document>

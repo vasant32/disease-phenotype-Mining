@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Human WNT10A and WNT6 were cloned and characterized </plain></SENT>
+<SENT sid="1" pm="."><plain>WNT10A encoded a 417-amino-acid <z:chebi fb="1" ids="15841">polypeptide</z:chebi> with WNT core domain, and WNT6 encoded a 365-amino-acid <z:chebi fb="1" ids="15841">polypeptide</z:chebi> with N-terminal signal <z:chebi fb="7" ids="16670">peptide</z:chebi>, WNT core domain, and RGD motif </plain></SENT>
+<SENT sid="2" pm="."><plain>WNT10A and WNT6 genes were clustered in the head-to-tail manner with an interval less than 7.0 kb in human chromosome 2q35 region </plain></SENT>
+<SENT sid="3" pm="."><plain>Among human WNT family, WNT10A was most homologous to WNT10B (59.2% amino-acid identity), and WNT6 was most homologous to WNT1 (47.4% amino-acid identity) </plain></SENT>
+<SENT sid="4" pm="."><plain>WNT10B and WNT1 genes were also clustered in human chromosome 12q13 region </plain></SENT>
+<SENT sid="5" pm="."><plain>Two WNT gene clusters in human chromosome 2q35 and 12q13 regions might be generated due to duplication of ancestral gene cluster </plain></SENT>
+<SENT sid="6" pm="."><plain>The 3.0- and 2.4-kb WNT10A <z:chebi fb="2" ids="33699">mRNAs</z:chebi> were expressed in fetal kidney, placenta, adult spleen and kidney </plain></SENT>
+<SENT sid="7" pm="."><plain>The 2.0-kb WNT6 <z:chebi fb="2" ids="33699">mRNA</z:chebi> was coexpressed with WNT10A in placenta and adult spleen </plain></SENT>
+<SENT sid="8" pm="."><plain>WNT10A and WNT6 were strongly coexpressed in SW480 (<z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e>) </plain></SENT>
+<SENT sid="9" pm="."><plain>In addition to SW480, WNT10A was strongly expressed in <z:e sem="disease" ids="C0019829" disease_type="Neoplastic Process" abbrv="hd">HL</z:e>-60 (promyelocytic <z:hpo ids='HP_0001909'>leukemia</z:hpo>) and Raji (Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo>), and WNT6 in HeLa S3 (<z:e sem="disease" ids="C0302592" disease_type="Neoplastic Process" abbrv="">cervical cancer</z:e>) </plain></SENT>
+<SENT sid="10" pm="."><plain>Overexpression WNT10A and WNT6 might play key roles in human <z:e sem="disease" ids="C0596263" disease_type="Neoplastic Process" abbrv="">carcinogenesis</z:e> through activation of WNT-beta-catenin-TCF signaling pathway, just like Wnt10b and Wnt1 </plain></SENT>
+</text></document>

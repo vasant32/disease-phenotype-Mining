@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The molecular mechanisms underlying radiation-induced defects in the bone marrow which may contribute to the development of radiation-induced hematopoietic disorders such as <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> and <z:hpo ids='HP_0001909'>leukemia</z:hpo> are not known </plain></SENT>
+<SENT sid="1" pm="."><plain>Persistent changes in gene expression were examined after exposure of cells of a murine bone marrow stromal cell line to ionizing radiation </plain></SENT>
+<SENT sid="2" pm="."><plain>Analysis of <z:chebi fb="2" ids="33699">mRNA</z:chebi> transcript levels by differential display led to the identification of a band, C122, which increased in abundance 1 week after exposure </plain></SENT>
+<SENT sid="3" pm="."><plain>Northern blot hybridization verified these results and revealed a 12-fold increase in abundance of this message for up to 3 weeks after irradiation in vitro </plain></SENT>
+<SENT sid="4" pm="."><plain>DNA sequence analysis identified clone C122 as murine serum amyloid A 3 (Saa3), a member of the Saa family of <z:hpo ids='HP_0011009'>acute</z:hpo>-phase or <z:mp ids='MP_0001845'>inflammatory response</z:mp> genes </plain></SENT>
+<SENT sid="5" pm="."><plain>Saa message levels were then examined in vivo in the bone marrow of mice exposed to total-body irradiation </plain></SENT>
+<SENT sid="6" pm="."><plain>Semi-quantitative reverse transcription-polymerase chain reaction revealed a 15-20-fold increase in Saa3 message levels in the bone marrow of irradiated mice from 3 days to 2 weeks after exposure </plain></SENT>
+<SENT sid="7" pm="."><plain>Saa3 message levels continued to be 2-3-fold above control for up to 28 weeks in vivo </plain></SENT>
+<SENT sid="8" pm="."><plain>Two additional members of the murine Saa gene family, Saa1 and Saa2, were also detected in irradiated bone marrow </plain></SENT>
+<SENT sid="9" pm="."><plain>The expression of SAA1 and SAA2 was also detected in irradiated cells of human bone marrow stromal cell lines in vitro </plain></SENT>
+<SENT sid="10" pm="."><plain>These results suggest that SAA genes are involved in the radiation response in the bone marrow, but their role in the recovery of the marrow after irradiation or in the development of radiation-induced hematopoietic disorders remains to be established </plain></SENT>
+<SENT sid="11" pm="."><plain>Additionally, the persistent radiation-induced increase in expression suggests the potential utility of using SAA3 transcript levels as a molecular marker of past radiation exposure </plain></SENT>
+</text></document>

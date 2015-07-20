@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND PURPOSE: A prespecified interaction analysis of the neutral Intravenous <z:chebi fb="131" ids="25107">Magnesium</z:chebi> Efficacy in <z:hpo ids='HP_0001297'>Stroke</z:hpo> (IMAGES) trial revealed significant benefit from <z:chebi fb="131" ids="25107">magnesium</z:chebi> (Mg) in patients with noncortical <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Post hoc analysis indicated that this effect was seen in lacunar clinical syndromes (LACS), interaction P=0.005 </plain></SENT>
+<SENT sid="2" pm="."><plain>We have now examined whether this interaction could be explained by confounding baseline factors </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: LACS was defined on the basis of neurological signs and did not include imaging </plain></SENT>
+<SENT sid="4" pm="."><plain>We investigated the interaction between baseline variables and Mg treatment on global outcome </plain></SENT>
+<SENT sid="5" pm="."><plain>We used logistic-regression models to test whether the Mg-LACS interaction remained significant after adjusting for stratification variables, sex, a novel <z:hpo ids='HP_0001297'>stroke</z:hpo> severity score, and baseline variables that had an interaction with treatment (P&lt;0.1) </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: The Mg (n=383) and placebo (n=382) groups of LACS patients were well matched on baseline factors </plain></SENT>
+<SENT sid="7" pm="."><plain>In addition to LACS, we found an interaction between beneficial Mg treatment effect and younger age (P=0.003), higher baseline diastolic blood pressure (P=0.02), higher mean blood pressure (P=0.02), and absence of <z:e sem="disease" ids="C0151744" disease_type="Disease or Syndrome" abbrv="IHD">ischemic heart disease</z:e> (P=0.07) </plain></SENT>
+<SENT sid="8" pm="."><plain>Even so, the adjusted Mg-LACS interaction remained significant (odds ratio [OR] 0.57; 95% CI, 0.39 to 0.83; P=0.003) </plain></SENT>
+<SENT sid="9" pm="."><plain>In the LACS subgroup, Mg improved Barthel Index &lt;95 (OR 0.73; 95% CI, 0.55 to 0.98), modified Rankin Scale &gt;1 (OR 0.67; 95% CI, 0.50 to 0.91), and global outcome (OR 0.70; 95% CI, 0.53 to 0.92) but not Barthel Index &lt;60 or mortality </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSIONS: The positive treatment effect of Mg in LACS cannot be ascribed to general issues of severity, time to treatment, blood pressure, or other baseline factors; equally, this finding may be due to chance </plain></SENT>
+<SENT sid="11" pm="."><plain>A large trial of Mg treatment in LACS appears justified </plain></SENT>
+</text></document>

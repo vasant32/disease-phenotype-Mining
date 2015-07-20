@@ -1,0 +1,6 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Recombinant tissue plasminogen activator (rt-PA) is currently the only approved agent for treating <z:hpo ids='HP_0011009'>acute</z:hpo> <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>However, rt-PA may cause fatal symptomatic <z:hpo ids='HP_0002170'>intracranial hemorrhage</z:hpo> and other adverse effects like <z:mp ids='MP_0001914'>bleeding</z:mp> complications and allergic reactions </plain></SENT>
+<SENT sid="2" pm="."><plain>Patients taking angiotensin-converting enzyme (ACE) inhibitors have increased risk of allergic reactions </plain></SENT>
+<SENT sid="3" pm="."><plain>This report is about a patient with a history of <z:chebi fb="2" ids="35457">ACE inhibitor</z:chebi> intake who experienced life-threatening <z:e sem="disease" ids="C0340865" disease_type="Disease or Syndrome" abbrv="">anaphylactoid shock</z:e> during rt-PA administration </plain></SENT>
+<SENT sid="4" pm="."><plain>The relationship between rt-PA and <z:chebi fb="2" ids="35457">ACE inhibitor</z:chebi> was also discussed </plain></SENT>
+</text></document>

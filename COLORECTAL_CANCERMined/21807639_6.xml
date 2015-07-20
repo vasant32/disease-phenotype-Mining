@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PURPOSE: Monoclonal antibodies against the epidermal growth factor receptor (EGFR), such as cetuximab, have led to significant clinical benefits for <z:e sem="disease" ids="C0948380" disease_type="Neoplastic Process" abbrv="">metastatic colorectal cancer</z:e> (mCRC) patients but have also increased treatment costs considerably </plain></SENT>
+<SENT sid="1" pm="."><plain>Recent evidence associates KRAS and BRAF mutations with resistance to EGFR antibodies </plain></SENT>
+<SENT sid="2" pm="."><plain>We assessed the cost-effectiveness of predictive testing for KRAS and BRAF mutations, prior to cetuximab treatment of chemorefractory mCRC patients </plain></SENT>
+<SENT sid="3" pm="."><plain>EXPERIMENTAL DESIGN: A life-long Markov simulation model was used to estimate direct medical costs (€) and clinical effectiveness [quality-adjusted life-years (QALY)] of the following strategies: KRAS testing, KRAS testing with subsequent BRAF testing of KRAS <z:mp ids='MP_0002169'>wild-types</z:mp> (KRAS/BRAF), cetuximab treatment without testing </plain></SENT>
+<SENT sid="4" pm="."><plain>Comparison was against no cetuximab treatment (reference strategy) </plain></SENT>
+<SENT sid="5" pm="."><plain>In the testing strategies, cetuximab treatment was initiated if no mutations were detected </plain></SENT>
+<SENT sid="6" pm="."><plain>Best supportive care was given to <z:hpo ids='HP_0000001'>all</z:hpo> patients </plain></SENT>
+<SENT sid="7" pm="."><plain>Survival times/utilities were derived from published randomized clinical trials </plain></SENT>
+<SENT sid="8" pm="."><plain>Costs were assessed from the perspective of the Swiss health system </plain></SENT>
+<SENT sid="9" pm="."><plain>RESULTS: Average remaining lifetime costs ranged from €3,983 (no cetuximab) to €38,662 (no testing) </plain></SENT>
+<SENT sid="10" pm="."><plain>Cetuximab treatment guided by KRAS/BRAF achieved gains of 0.491 QALYs compared with the reference strategy </plain></SENT>
+<SENT sid="11" pm="."><plain>The KRAS testing strategy achieved an additional gain of 0.002 QALYs compared with KRAS/BRAF </plain></SENT>
+<SENT sid="12" pm="."><plain>KRAS/BRAF testing was the most cost-effective approach when compared with the reference strategy (incremental cost-effectiveness ratio: €62,653/QALY) </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSION: New predictive tests for KRAS and BRAF status are currently being introduced in pathology </plain></SENT>
+<SENT sid="14" pm="."><plain>Despite substantial costs of predictive testing, it is economically favorable to identify patients with KRAS and BRAF <z:mp ids='MP_0002169'>wild-type</z:mp> status </plain></SENT>
+</text></document>

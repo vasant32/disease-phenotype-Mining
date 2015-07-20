@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIM: Cardiac dysfunction is a major limitation of <z:chebi fb="0" ids="48120">anthracycline</z:chebi> treatment in <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> patients </plain></SENT>
+<SENT sid="1" pm="."><plain>There are several useful serum markers in other types of <z:hpo ids='HP_0001638'>cardiomyopathy</z:hpo>, including N-terminal pro-brain-natriuretic <z:chebi fb="7" ids="16670">peptide</z:chebi> (NT-proBNP), troponin-T and <z:chebi fb="2" ids="16919">creatine</z:chebi> kinase MB isoform </plain></SENT>
+<SENT sid="2" pm="."><plain>We investigated the potential application of these serum biomarkers in <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> patients receiving treatment with <z:chebi fb="0" ids="48120">anthracycline</z:chebi> </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: We collected data from 52 female <z:hpo ids='HP_0003002'>breast cancer</z:hpo> patients receiving <z:chebi fb="0" ids="28748">doxorubicin</z:chebi> and <z:chebi fb="0" ids="4027">cyclophosphamide</z:chebi> every 3 weeks for four cycles </plain></SENT>
+<SENT sid="4" pm="."><plain>Cardiac function evaluations by echocardiography were done at baseline and at the end of the fourth cycle of chemotherapy </plain></SENT>
+<SENT sid="5" pm="."><plain>Patients' blood samples were serially measured for cardiac biomarkers </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: The mean cumulative dose of <z:chebi fb="0" ids="28748">doxorubicin</z:chebi> in this study was 237 mg/m(2)  </plain></SENT>
+<SENT sid="7" pm="."><plain>No symptomatic <z:hpo ids='HP_0001635'>heart failure</z:hpo> was detected during the study period </plain></SENT>
+<SENT sid="8" pm="."><plain>However, there were significant asymptomatic reductions of left ventricular ejection fraction (LVEF) from mean ± SD 70.7 ± 6% at baseline to 67.0 ± 5% (P &lt; 0.001) </plain></SENT>
+<SENT sid="9" pm="."><plain>By clinical toxicity criteria the LVEF decline was grade I in 18% and grade II in 4% </plain></SENT>
+<SENT sid="10" pm="."><plain>After one dose of chemotherapy, a significant rise of serum NT-proBNP occurred in patients who subsequently developed an LVEF reduction compared with patients with <z:mpath ids='MPATH_458'>normal</z:mpath> LVEF (P = 0.04) </plain></SENT>
+<SENT sid="11" pm="."><plain>A correlation analysis demonstrated that the reduction of fractional shortening was significantly associated with elevated NT-proBNP (r = -0.016, P = 0.014) </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSION: Asymptomatic reductions in cardiac function are common in <z:hpo ids='HP_0003002'>breast cancer</z:hpo> patients treated with <z:chebi fb="0" ids="28748">doxorubicin</z:chebi> </plain></SENT>
+<SENT sid="13" pm="."><plain>NT-proBNP may serve as a convenient serum biomarker for the early detection of cardiotoxicity induced by <z:chebi fb="0" ids="48120">anthracycline</z:chebi> </plain></SENT>
+</text></document>

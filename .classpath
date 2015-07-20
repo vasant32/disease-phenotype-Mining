@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre"/>
+	<classpathentry kind="lib" path="/home/drashtti/Desktop/whatizit/generated" sourcepath="/home/drashtti/Desktop/whatizit/generated/whatizitws"/>
+	<classpathentry kind="lib" path="/home/drashtti/Desktop/whatizit/jaxws-ri/lib/plugins/commonj.sdo.jar"/>
+	<classpathentry kind="lib" path="/home/drashtti/Desktop/whatizit/jaxws-ri/lib/plugins/eclipselink.jar"/>
+	<classpathentry kind="lib" path="/home/drashtti/Desktop/whatizit/jaxws-ri/lib/plugins/jaxws-eclipselink-plugin.jar"/>
+	<classpathentry kind="lib" path="/home/drashtti/Desktop/whatizit/jaxws-ri/lib/plugins/jaxws-eclipselink-plugin-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/drashtti/Desktop/whatizit/jaxws-ri/lib/plugins/sdo-eclipselink-plugin.jar"/>
+	<classpathentry kind="lib" path="/home/drashtti/Desktop/whatizit/jaxws-ri/lib/plugins/sdo-eclipselink-plugin-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/drashtti/Desktop/whatizit/jaxws-ri/lib/FastInfoset.jar"/>
+	<classpathentry kind="lib" path="/home/drashtti/Desktop/whatizit/jaxws-ri/lib/gmbal-api-only.jar"/>
+	<classpathentry kind="lib" path="/home/drashtti/Desktop/whatizit/jaxws-ri/lib/ha-api.jar"/>
+	<classpathentry kind="lib" path="/home/drashtti/Desktop/whatizit/jaxws-ri/lib/javax.annotation.jar"/>
+	<classpathentry kind="lib" path="/home/drashtti/Desktop/whatizit/jaxws-ri/lib/jaxb-api.jar"/>
+	<classpathentry kind="lib" path="/home/drashtti/Desktop/whatizit/jaxws-ri/lib/jaxb-impl.jar"/>
+	<classpathentry kind="lib" path="/home/drashtti/Desktop/whatizit/jaxws-ri/lib/jaxb-xjc.jar"/>
+	<classpathentry kind="lib" path="/home/drashtti/Desktop/whatizit/jaxws-ri/lib/jaxws-api.jar"/>
+	<classpathentry kind="lib" path="/home/drashtti/Desktop/whatizit/jaxws-ri/lib/jaxws-rt.jar"/>
+	<classpathentry kind="lib" path="/home/drashtti/Desktop/whatizit/jaxws-ri/lib/jaxws-rt-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/drashtti/Desktop/whatizit/jaxws-ri/lib/jaxws-tools.jar"/>
+	<classpathentry kind="lib" path="/home/drashtti/Desktop/whatizit/jaxws-ri/lib/jaxws-tools-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/drashtti/Desktop/whatizit/jaxws-ri/lib/jsr181-api.jar"/>
+	<classpathentry kind="lib" path="/home/drashtti/Desktop/whatizit/jaxws-ri/lib/mail.jar"/>
+	<classpathentry kind="lib" path="/home/drashtti/Desktop/whatizit/jaxws-ri/lib/management-api.jar"/>
+	<classpathentry kind="lib" path="/home/drashtti/Desktop/whatizit/jaxws-ri/lib/mimepull.jar"/>
+	<classpathentry kind="lib" path="/home/drashtti/Desktop/whatizit/jaxws-ri/lib/policy.jar"/>
+	<classpathentry kind="lib" path="/home/drashtti/Desktop/whatizit/jaxws-ri/lib/saaj-api.jar"/>
+	<classpathentry kind="lib" path="/home/drashtti/Desktop/whatizit/jaxws-ri/lib/saaj-impl.jar"/>
+	<classpathentry kind="lib" path="/home/drashtti/Desktop/whatizit/jaxws-ri/lib/stax2-api.jar"/>
+	<classpathentry kind="lib" path="/home/drashtti/Desktop/whatizit/jaxws-ri/lib/stax2-api-source.jar"/>
+	<classpathentry kind="lib" path="/home/drashtti/Desktop/whatizit/jaxws-ri/lib/stax-ex.jar"/>
+	<classpathentry kind="lib" path="/home/drashtti/Desktop/whatizit/jaxws-ri/lib/streambuffer.jar"/>
+	<classpathentry kind="lib" path="/home/drashtti/Desktop/whatizit/jaxws-ri/lib/woodstox-core-asl.jar"/>
+	<classpathentry kind="lib" path="/home/drashtti/Desktop/whatizit/jaxws-ri/lib/woodstox-core-asl-source.jar"/>
+	<classpathentry kind="lib" path="/home/drashtti/workspace/poi-3.8/poi-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="/home/drashtti/workspace/poi-3.8/poi-examples-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="/home/drashtti/workspace/poi-3.8/poi-excelant-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="/home/drashtti/workspace/poi-3.8/poi-ooxml-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="/home/drashtti/workspace/poi-3.8/poi-ooxml-schemas-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="/home/drashtti/workspace/poi-3.8/poi-scratchpad-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="/home/drashtti/wsclient"/>
+	<classpathentry kind="lib" path="/home/drashtti/Desktop/whatizit/whatizitws"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

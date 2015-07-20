@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PURPOSE: To assess safety and efficacy of folinic acid, <z:chebi fb="0" ids="46345">5-fluorouracil</z:chebi>, <z:chebi fb="0" ids="175901">gemcitabine</z:chebi> (FFG) and folinic acid, fluorouracil, <z:chebi fb="0" ids="31941">oxaliplatin</z:chebi> (FOLFOX4) regimens with added bevacizumab as first-line treatment in patients with advanced <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e>) </plain></SENT>
+<SENT sid="1" pm="."><plain>PATIENTS AND METHODS: Patients with Stage III unresectable or Stage IV <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> of the colon or rectum were randomly assigned to either FFG weekly for 6 weeks of an 8-week cycle or FOLFOX4 every 2 weeks </plain></SENT>
+<SENT sid="2" pm="."><plain>After FDA approval, bevacizumab 5 mg/kg was added every 2 weeks </plain></SENT>
+<SENT sid="3" pm="."><plain>Treatment continued until disease progression </plain></SENT>
+<SENT sid="4" pm="."><plain>Planned enrollment was 190 patients </plain></SENT>
+<SENT sid="5" pm="."><plain>Primary endpoint was overall response rate (ORR); secondary endpoints included evaluation of adverse events, time to progression (<z:chebi fb="1" ids="18284">TTP</z:chebi>), and overall survival (OS) </plain></SENT>
+<SENT sid="6" pm="."><plain>Disease Control Rate (DCR; % of patients with complete or partial responses or stable disease) was a post hoc analysis </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: The trial was stopped prematurely due to low enrollment </plain></SENT>
+<SENT sid="8" pm="."><plain>Of 84 enrolled patients (42 to each arm), 36 patients (18 in each arm) received bevacizumab </plain></SENT>
+<SENT sid="9" pm="."><plain>ORR was greater (P = .002) for FOLFOX4 (17/42; 40.5%) than for FFG (4/42; 9.5%); however, <z:chebi fb="1" ids="18284">TTP</z:chebi>, OS, and DCR results were not statistically different comparing FOLFOX4 and FFG </plain></SENT>
+<SENT sid="10" pm="."><plain><z:hpo ids='HP_0009830'>Peripheral neuropathy</z:hpo> was more frequent (P = &lt;.001) with FOLFOX4 (18/42; 42.9%) than with FFG (1/42; 2.4%) </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: FFG and FOLFOX4 were generally well tolerated </plain></SENT>
+<SENT sid="12" pm="."><plain>Based on ORR, FOLFOX4 was superior to FFG </plain></SENT>
+<SENT sid="13" pm="."><plain>However, differences in <z:chebi fb="1" ids="18284">TTP</z:chebi> and OS comparing regimens were inconclusive </plain></SENT>
+<SENT sid="14" pm="."><plain>General use of <z:chebi fb="0" ids="175901">gemcitabine</z:chebi> as a biomodulator of <z:chebi fb="0" ids="46345">5-fluorouracil</z:chebi> in <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e> cannot be recommended at this time and the regimen remains investigational </plain></SENT>
+</text></document>

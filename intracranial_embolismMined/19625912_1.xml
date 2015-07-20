@@ -1,0 +1,20 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: Approximately 25% of patients with carotid <z:mp ids='MP_0006135'>artery stenosis</z:mp> treated with carotid endarterectomy develop <z:e sem="disease" ids="C0338656" disease_type="Mental or Behavioral Dysfunction" abbrv="">cognitive dysfunction</z:e> (CD) between 1 day and 1 month after surgery compared with a control group </plain></SENT>
+<SENT sid="1" pm="."><plain>We hypothesized that patients with carotid <z:mp ids='MP_0006135'>artery stenosis</z:mp> treated with carotid artery stenting (CAS) performed under cerebral embolic protection also develop CD at similar time points compared with a control group </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: Twenty-four patients scheduled for elective CAS were enrolled in a prospective institutional review board-approved study to evaluate cognitive function with a battery of 6 neuropsychometric tests before, and 1 day and 1 month after, CAS </plain></SENT>
+<SENT sid="3" pm="."><plain>Test performance was compared with 23 patients undergoing coronary artery procedures (control group) </plain></SENT>
+<SENT sid="4" pm="."><plain>The mean and standard deviation of the difference scores in the control group were used to generate Z scores </plain></SENT>
+<SENT sid="5" pm="."><plain>We used a previously described point system to transform negative Z scores into injury points for each neuropsychometric test </plain></SENT>
+<SENT sid="6" pm="."><plain>Global performance is presented as average deficit score (sum of injury points divided by the number of completed tests) </plain></SENT>
+<SENT sid="7" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> patients underwent the procedures with mild sedation </plain></SENT>
+<SENT sid="8" pm="."><plain>Results were analyzed in 2 ways: group-rate and event-rate analysis </plain></SENT>
+<SENT sid="9" pm="."><plain>Outcome was dichotomized by defining moderate to severe CD as average deficit score at least 1.5 standard deviations worse than the control group </plain></SENT>
+<SENT sid="10" pm="."><plain>Fisher tests and multivariate logistic regression models were used to analyze group performance </plain></SENT>
+<SENT sid="11" pm="."><plain>RESULTS: Control patients tended to be younger and had a lower incidence of <z:hpo ids='HP_0001297'>stroke</z:hpo> or previous <z:hpo ids='HP_0002326'>transient ischemic attack</z:hpo> </plain></SENT>
+<SENT sid="12" pm="."><plain>One day after surgery, 41% of patients (10 of 24) treated with CAS developed moderate to severe CD (P = 0.0422) </plain></SENT>
+<SENT sid="13" pm="."><plain>Average deficit score was also significantly higher in the CAS group at 1 day (P = 0.0265) </plain></SENT>
+<SENT sid="14" pm="."><plain>These differences were independent of age and history of <z:hpo ids='HP_0001297'>stroke</z:hpo>/<z:hpo ids='HP_0002326'>transient ischemic attack</z:hpo> </plain></SENT>
+<SENT sid="15" pm="."><plain>Interestingly, we found that the absence of oral <z:chebi fb="0" ids="35664">statin</z:chebi> medication may increase the probability of CD </plain></SENT>
+<SENT sid="16" pm="."><plain>By 1 month, 9% of patients (1 of 11) treated with CAS presented with CD </plain></SENT>
+<SENT sid="17" pm="."><plain>Other patients were lost to follow-up </plain></SENT>
+<SENT sid="18" pm="."><plain>CONCLUSION: CAS is associated with a decline in cognitive performance that is at least moderate 1 day after surgery </plain></SENT>
+</text></document>

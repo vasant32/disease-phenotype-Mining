@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 71-year-old-man presented with <z:hpo ids='HP_0011010'>chronic</z:hpo> left-sided <z:hpo ids='HP_0009926'>epiphora</z:hpo> and a 5-day history of progressive left orbital swelling that had started with a "bump" on the left side of his nose </plain></SENT>
+<SENT sid="1" pm="."><plain>Orbital CT revealed left-sided preseptal and postseptal <z:mp ids='MP_0001845'>inflammation</z:mp>, along with marked thickening of the left superior ophthalmic vein </plain></SENT>
+<SENT sid="2" pm="."><plain>Orbital MRI with <z:chebi fb="0" ids="33375">gadolinium</z:chebi> enhancement and fat suppression revealed a low-intensity signal in the left superior ophthalmic vein, consistent with a superior ophthalmic vein <z:mp ids='MP_0005048'>thrombosis</z:mp> </plain></SENT>
+<SENT sid="3" pm="."><plain>There was no cavernous sinus involvement </plain></SENT>
+<SENT sid="4" pm="."><plain>A diagnosis was made of left-sided <z:e sem="disease" ids="C0010930" disease_type="Disease or Syndrome" abbrv="">dacryocystitis</z:e>-induced orbital <z:hpo ids='HP_0100658'>cellulitis</z:hpo> and superior ophthalmic vein <z:mp ids='MP_0005048'>thrombosis</z:mp> </plain></SENT>
+<SENT sid="5" pm="."><plain>Treatment consisted of intravenous <z:chebi fb="0" ids="28001">vancomycin</z:chebi>, followed by early dacryocystorhinostomy and postoperative intravenous <z:chebi fb="0" ids="41879">dexamethasone</z:chebi> </plain></SENT>
+<SENT sid="6" pm="."><plain>Anticoagulation was not used </plain></SENT>
+<SENT sid="7" pm="."><plain>Within 1 week after surgery, the orbital <z:mpath ids='MPATH_107'>congestion</z:mpath> had dramatically improved </plain></SENT>
+<SENT sid="8" pm="."><plain>Though rare, isolated superior ophthalmic vein <z:mp ids='MP_0005048'>thrombosis</z:mp> can be a harbinger of cavernous sinus <z:mp ids='MP_0005048'>thrombosis</z:mp>; therefore, early detection is the key to avoiding cavernous sinus <z:mp ids='MP_0005048'>thrombosis</z:mp> </plain></SENT>
+</text></document>

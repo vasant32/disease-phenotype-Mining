@@ -1,0 +1,30 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>INTRODUCTION: Oral Lactococcus lactis engineered to express the immunoregulatory cytokine IL-27 (LL-IL27) is therapeutically active in <z:hpo ids='HP_0011010'>chronic</z:hpo> murine <z:hpo ids='HP_0004387'>enterocolitis</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Here, efficacy in <z:hpo ids='HP_0100282'>acute colitis</z:hpo> was examined </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: 2 mg 2,4,6-<z:chebi fb="0" ids="48110">trinitrobenzene</z:chebi> <z:chebi fb="0" ids="29214">sulfonic acid</z:chebi> (<z:chebi fb="0" ids="53063,53506">TNBS</z:chebi>) was delivered intra-rectally in 45% <z:chebi fb="37" ids="16236,44730">ethanol</z:chebi> or 45% <z:chebi fb="37" ids="16236,44730">ethanol</z:chebi> alone into 6-8 week old male SJL mice </plain></SENT>
+<SENT sid="3" pm="."><plain>L. lactis control (LLC) or LL-IL-27 was delivered by oral gavage on 4 occasions, 24 h apart, commencing at <z:hpo ids='HP_0002583'>colitis</z:hpo> induction </plain></SENT>
+<SENT sid="4" pm="."><plain>Therapeutic effect was assessed clinically and histologically </plain></SENT>
+<SENT sid="5" pm="."><plain>Potential mechanisms of action were investigated </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: <z:chebi fb="0" ids="53063,53506">TNBS</z:chebi> induced an <z:hpo ids='HP_0011009'>acute</z:hpo> severe distal <z:hpo ids='HP_0002583'>colitis</z:hpo> </plain></SENT>
+<SENT sid="7" pm="."><plain>LL-IL-27 led to a significant reduction in disease activity index compared to LLC (4.9 vs. 8.7/12 on day 2 (p = 0.001); 3.6 vs. 7.7/12 on day 3 (p = 0.001), improved macroscopic <z:hpo ids='HP_0002583'>colitis</z:hpo> score (p &lt; 0.05), and reduction in serum CRP (p = 0.003, day 2) </plain></SENT>
+<SENT sid="8" pm="."><plain>Histological <z:hpo ids='HP_0002583'>colitis</z:hpo> score was reduced (p = 0.035) with significant improvement in mucosal ulceration (p = 0.008) </plain></SENT>
+<SENT sid="9" pm="."><plain><z:chebi fb="0" ids="53063,53506">TNBS</z:chebi> increased expression of distal colon Il6, Il1β, Tnf, and Il10, assessed by RT-PCR, with no differential effect seen with LL-IL-27 </plain></SENT>
+<SENT sid="10" pm="."><plain>However, LL-IL-27 led to a significant reduction in IL-6 (p = 0.002), IL-1β (p = 0.001) and TNF (p = 0.014) protein assessed by ELISA </plain></SENT>
+<SENT sid="11" pm="."><plain>A significant reduction in colonic mucosal myeloperoxidase(+) neutrophil infiltrate was seen in the LL-IL-27 group (p = 0.004), along with a significant decrease in the neutrophil chemoattractant CXCL2 (p &lt; 0.001) </plain></SENT>
+<SENT sid="12" pm="."><plain>LPS induced CXCL2 gene and protein expression in macrophages was not inhibited by recombinant IL-27 in vitro , suggesting an indirect mechanism in vivo  </plain></SENT>
+<SENT sid="13" pm="."><plain>Peri-ulceration distal colonic mucosa was isolated by laser capture microdissection and <z:chebi fb="40" ids="33697">RNA</z:chebi> applied to mouse Genome 430 2.0 Affymetrix microarray </plain></SENT>
+<SENT sid="14" pm="."><plain>Principal component analysis grouped mice by treatment </plain></SENT>
+<SENT sid="15" pm="."><plain>285 genes were differentially expressed (&gt;/&lt;1.5 fold change in expression plus p &lt; 0.05) in the LL-IL27 group, including a striking down-regulation of mucosal humoral response genes, (for example, probe sets for IgA heavy chain (-20.6 fold), Igκ chain var1 (-19.0 fold), Igλ chain CR2 (-4.8 fold)) </plain></SENT>
+<SENT sid="16" pm="."><plain>This was not explained by a reduction in CD45R/B220(+) B cell infiltrate (p = 0.02) </plain></SENT>
+<SENT sid="17" pm="."><plain>Up-regulated genes include those involved with anti-microbial defense (RegIIIb, Clec7A, ligp1) and innate immune response (cxcl10, cxcl9) </plain></SENT>
+<SENT sid="18" pm="."><plain>CONCLUSION: Intra-<z:chebi fb="2" ids="8069">luminal</z:chebi> IL-27 represents a potential therapy for human <z:e sem="disease" ids="C0021390" disease_type="Disease or Syndrome" abbrv="">inflammatory bowel disease</z:e> and <z:hpo ids='HP_0100282'>acute colitis</z:hpo> of differing aetiologies </plain></SENT>
+<SENT sid="19" pm="."><plain>DISCLOSURE OF INTEREST: M </plain></SENT>
+<SENT sid="20" pm="."><plain>McLean: None Declared, M </plain></SENT>
+<SENT sid="21" pm="."><plain>Hanson: None Declared, B </plain></SENT>
+<SENT sid="22" pm="."><plain>Gold: None Declared, Y </plain></SENT>
+<SENT sid="23" pm="."><plain>Golubeva: None Declared, M </plain></SENT>
+<SENT sid="24" pm="."><plain>Anver: None Declared, X </plain></SENT>
+<SENT sid="25" pm="."><plain>Wu: None Declared, D </plain></SENT>
+<SENT sid="26" pm="."><plain>Sun: None Declared, L </plain></SENT>
+<SENT sid="27" pm="."><plain>Steidler Employee of: ActoGenix, S </plain></SENT>
+<SENT sid="28" pm="."><plain>Durum: None Declared </plain></SENT>
+</text></document>

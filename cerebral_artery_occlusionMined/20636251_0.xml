@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: <z:hpo ids='HP_0003074'>Hyperglycemia</z:hpo> exacerbates focal ischemic brain damage supposedly through various mechanisms </plain></SENT>
+<SENT sid="1" pm="."><plain>One such mechanism is <z:mp ids='MP_0003674'>oxidative stress</z:mp> involving reactive oxygen and nitrogen species (RONS) production </plain></SENT>
+<SENT sid="2" pm="."><plain>Nitrones attenuate <z:mp ids='MP_0003674'>oxidative stress</z:mp> in various models of brain injury </plain></SENT>
+<SENT sid="3" pm="."><plain><z:chebi fb="199" ids="26708">Sodium</z:chebi> 2-sulfophenyl-N-<z:chebi fb="0" ids="30355">tert-butyl</z:chebi> nitrone (S-PBN) can be administered experimentally and has been shown to be neuroprotective in experimental brain trauma </plain></SENT>
+<SENT sid="4" pm="."><plain>AIMS OF THE STUDY: We hypothesized that S-PBN might be neuroprotective in hyperglycemic focal <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> </plain></SENT>
+<SENT sid="5" pm="."><plain>MATERIAL AND METHODS: Rats were made hyperglycemic by an intraperitoneal bolus injection of <z:chebi fb="105" ids="17234">glucose</z:chebi> (2 g/kg) and then subjected to 90 min transient middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (MCAO) </plain></SENT>
+<SENT sid="6" pm="."><plain>They were randomized to a therapeutic regime of S-PBN (156 mg/kg) or saline given intravenously </plain></SENT>
+<SENT sid="7" pm="."><plain>Neurological testing according to Bederson and tetrazolium red staining were performed after 1 day </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: S-PBN improved the neurological performance at day 1 both in Bederson score (1.3+/-0.8 versus 2.7+/-0.48) and on the inclined plane (74.5%+/-4.6 (S-PBN) versus 66%+/-8.3 (control), P&lt;0.05) but did not reduce the <z:mpath ids='MPATH_124'>infarct</z:mpath> size </plain></SENT>
+<SENT sid="9" pm="."><plain>Physiological data did not differ between groups </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSION: S-PBN may improve neurological performance at short-term survival (1 day) in the present model of hyperglycemic-ischemic brain injury in rats </plain></SENT>
+<SENT sid="11" pm="."><plain>This effect appeared not to be primarily related to reduced <z:mpath ids='MPATH_124'>infarct</z:mpath> size </plain></SENT>
+</text></document>

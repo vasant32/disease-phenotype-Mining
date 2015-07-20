@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A simplified assay to measure polymeric IgA-immune complexes in biological fluids is described </plain></SENT>
+<SENT sid="1" pm="."><plain>The assay is based upon the specific binding of a secretory component for polymeric IgA </plain></SENT>
+<SENT sid="2" pm="."><plain>In the first step, multimeric IgA (monomeric and polymeric) immune complexes are determined by the standard Raji cell assay </plain></SENT>
+<SENT sid="3" pm="."><plain>Secondly, labeled secretory component added to the assay is bound to polymeric IgA-immune complexes previously fixed to Raji cells, but not to monomeric IgA immune complexes </plain></SENT>
+<SENT sid="4" pm="."><plain>To avoid false positives due to possible complement-fixing IgM immune complexes, prior IgM immunoadsorption is performed </plain></SENT>
+<SENT sid="5" pm="."><plain>Using anti-IgM antiserum coupled to CNBr-activated <z:chebi fb="0" ids="2511">Sepharose</z:chebi> 4B this step is not time-consuming </plain></SENT>
+<SENT sid="6" pm="."><plain>Polymeric IgA has a low affinity constant and binds weakly to Raji cells, as Scatchard analysis of the data shows </plain></SENT>
+<SENT sid="7" pm="."><plain>Thus, polymeric IgA immune complexes do not bind to Raji cells directly through Fc receptors, but through complement breakdown products, as with IgG-immune complexes </plain></SENT>
+<SENT sid="8" pm="."><plain>Using this method, we have been successful in detecting specific polymeric-IgA immune complexes in patients with <z:hpo ids='HP_0000794'>IgA nephropathy</z:hpo> (<z:e sem="disease" ids="C0017661" disease_type="Disease or Syndrome" abbrv="IGAN|IGAN1">Berger's disease</z:e>) and <z:e sem="disease" ids="C0023896" disease_type="Disease or Syndrome" abbrv="">alcoholic liver disease</z:e>, as well as in <z:mpath ids='MPATH_458'>normal</z:mpath> subjects after meals of high protein content </plain></SENT>
+<SENT sid="9" pm="."><plain>This new, simple, rapid and reproducible assay might help to study the physiopathological role of polymeric IgA immune complexes in humans and animals </plain></SENT>
+</text></document>

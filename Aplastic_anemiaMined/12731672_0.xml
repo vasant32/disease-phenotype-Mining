@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 13-year-old boy was admitted to a local hospital because of <z:hpo ids='HP_0001876'>pancytopenia</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>A bone marrow <z:hpo ids='HP_0002835'>aspiration</z:hpo> and biopsy revealed severely <z:e sem="disease" ids="C0151773" disease_type="Disease or Syndrome" abbrv="">hypocellular marrow</z:e> with no obvious leukemic cells </plain></SENT>
+<SENT sid="2" pm="."><plain>The diagnosis was severe <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo>, and the patient was treated with antithymocyte globulin and <z:chebi fb="0" ids="4031">cyclosporin A</z:chebi> </plain></SENT>
+<SENT sid="3" pm="."><plain>A trilineage response was obtained, and the patient became transfusion-independent within 2 weeks </plain></SENT>
+<SENT sid="4" pm="."><plain>Two months later, the peripheral blood count normalized with an increased bone marrow cellularity </plain></SENT>
+<SENT sid="5" pm="."><plain>However, the patient was readmitted 5 months later for recurrence of the <z:hpo ids='HP_0001876'>pancytopenia</z:hpo> </plain></SENT>
+<SENT sid="6" pm="."><plain>A bone marrow <z:hpo ids='HP_0002835'>aspiration</z:hpo> revealed <z:e sem="disease" ids="C0151773" disease_type="Disease or Syndrome" abbrv="">hypocellular marrow</z:e> with morphologically blastoid cells </plain></SENT>
+<SENT sid="7" pm="."><plain>A surface marker study revealed the presence of a single clone that was positive for CD7, CD33, CD34, and HLA-DR </plain></SENT>
+<SENT sid="8" pm="."><plain>A diagnosis of hypoplastic <z:hpo ids='HP_0001909'>leukemia</z:hpo> was made on the basis of <z:mp ids='MP_0000002'>morphology</z:mp> and the surface marker studies </plain></SENT>
+<SENT sid="9" pm="."><plain>Retrospectively, the laboratory findings were the same as those seen at the <z:hpo ids='HP_0003674'>onset</z:hpo> of the disease </plain></SENT>
+<SENT sid="10" pm="."><plain>The patient did not respond to combination chemotherapy consisting of <z:chebi fb="0" ids="28445">vincristine</z:chebi>, <z:chebi fb="2" ids="8378">prednisolone</z:chebi>, <z:chebi fb="0" ids="4027">cyclophosphamide</z:chebi>, L-asparaginase, and <z:chebi fb="0" ids="28748">doxorubicin</z:chebi>, but administration of <z:chebi fb="0" ids="4911">etoposide</z:chebi> resulted in complete remission </plain></SENT>
+<SENT sid="11" pm="."><plain>An in vitro study revealed that &gt;95% of the leukemic cells of this patient could be lysed after an incubation with antithymocyte globulin and human AB serum or baby rabbit serum </plain></SENT>
+<SENT sid="12" pm="."><plain>These findings suggest the efficacy of antithymocyte globulin in treating certain hypoplastic <z:hpo ids='HP_0001909'>leukemias</z:hpo> </plain></SENT>
+</text></document>

@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The Doppler ultrasound technique is commonly used to detect emboli in the cerebral circulation </plain></SENT>
+<SENT sid="1" pm="."><plain>Here an automated feature extraction and emboli detection system is proposed based on the principal components analysis (<z:chebi fb="20" ids="36751">PCA</z:chebi>) and fuzzy sets </plain></SENT>
+<SENT sid="2" pm="."><plain>In the system, two features, R(ry) and k, are extracted by the <z:chebi fb="20" ids="36751">PCA</z:chebi> method </plain></SENT>
+<SENT sid="3" pm="."><plain>Meanwhile, MMR and sigma(f min) are obtained with the traditional temporal processing and spectrogram analysis, respectively </plain></SENT>
+<SENT sid="4" pm="."><plain><z:mpath ids='MPATH_458'>Normal</z:mpath> blood flow signals are firstly distinguished from abnormal signals by MMR </plain></SENT>
+<SENT sid="5" pm="."><plain>Then signals containing emboli and disturbance noises are further differentiated by other features based on fuzzy sets </plain></SENT>
+<SENT sid="6" pm="."><plain>From experiments with computer-simulated and clinical Doppler ultrasound signals, it is shown that features extracted from the <z:chebi fb="20" ids="36751">PCA</z:chebi> method achieve better classification performance than those of traditional methods </plain></SENT>
+<SENT sid="7" pm="."><plain>The fuzzy-based detection system not only obtains high classification accuracy but is more applicable in clinical diagnosis </plain></SENT>
+</text></document>

@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIMS: To compare the efficacy and safety of insulin lispro protamine suspension (ILPS) versus insulin glargine once daily in a basal-bolus regimen in type 2 <z:hpo ids='HP_0000819'>diabetes mellitus</z:hpo> (T2DM) patients </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: Three hundred eighty-three insulin-treated patients were randomized to either ILPS plus lispro or glargine plus lispro in this open-label 24-week European study </plain></SENT>
+<SENT sid="2" pm="."><plain>Insulin doses were titrated to predefined blood <z:chebi fb="105" ids="17234">glucose</z:chebi> (BG) targets </plain></SENT>
+<SENT sid="3" pm="."><plain>Non-inferiority of ILPS versus glargine was assessed by comparing the upper limit of the 95% confidence interval (CI) for the change of HbA1c from baseline to week 24 (adjusted for country and baseline HbA1c) with the non-inferiority margin of 0.4% </plain></SENT>
+<SENT sid="4" pm="."><plain>Secondary endpoints included HbA1c categories, BG profiles, insulin doses, <z:e sem="disease" ids="C0745153" disease_type="Disease or Syndrome" abbrv="">hypoglycaemic episodes</z:e>, adverse events and vital signs </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: Non-inferiority of ILPS versus glargine in the change of HbA1c from baseline was shown: least-square mean between-treatment difference (95% CI) was 0.1% (-0.11; 0.31) </plain></SENT>
+<SENT sid="6" pm="."><plain>Mean changes at week 24 were -1.05% (ILPS) and -1.20% (glargine) </plain></SENT>
+<SENT sid="7" pm="."><plain>HbA1c &lt;7.0% was achieved by 21.7 versus 29.4% of patients </plain></SENT>
+<SENT sid="8" pm="."><plain>Mean basal/mealtime insulin doses at week 24 were 29.6/36.2 IU/day (ILPS) versus 32.8/42.2 IU/day (glargine); the difference was not statistically significant for total dose (p = 0.7) </plain></SENT>
+<SENT sid="9" pm="."><plain>In both groups, 56.1/25.7% versus 63.6/19.3% of patients experienced any/nocturnal <z:e sem="disease" ids="C0020615" disease_type="Disease or Syndrome" abbrv="">hypoglycaemia</z:e> (p = 0.2 for both) </plain></SENT>
+<SENT sid="10" pm="."><plain>No relevant differences were noted in any other variables </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: A basal-bolus regimen with ILPS once daily resulted in non-inferior glycaemic control compared to a similar regimen with glargine, without statistically significant or clinically relevant differences in <z:e sem="disease" ids="C0020615" disease_type="Disease or Syndrome" abbrv="">hypoglycaemia</z:e> </plain></SENT>
+<SENT sid="12" pm="."><plain>ILPS-based regimens can be considered an alternative to basal-bolus regimens with glargine for T2DM patients </plain></SENT>
+</text></document>

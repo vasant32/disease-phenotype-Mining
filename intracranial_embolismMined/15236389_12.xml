@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Truncated singular value decomposition (TSVD) is an effective method for the deconvolution of dynamic contrast-enhanced MRI </plain></SENT>
+<SENT sid="1" pm="."><plain>Two robust methods for the selection of the truncation threshold on a pixel-by-pixel basis--generalized cross validation (GCV) and the L-curve criterion (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">LCC</z:e>)--were optimized and compared to paradigms in the literature </plain></SENT>
+<SENT sid="2" pm="."><plain>The methods lead to improvements in the estimate of the residue function and of its maximum and converge properly with SNR </plain></SENT>
+<SENT sid="3" pm="."><plain>The oscillations typically observed in the solution vanish entirely and perfusion is more accurately estimated at small mean transit times </plain></SENT>
+<SENT sid="4" pm="."><plain>This results in improved image contrast and increased sensitivity to perfusion abnormalities, at the cost of 1-2 min in calculation time and isolated instabilities in the image </plain></SENT>
+<SENT sid="5" pm="."><plain>It is argued that the latter problem may be resolved by optimization </plain></SENT>
+<SENT sid="6" pm="."><plain>Simulated results for GCV and <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">LCC</z:e> are equivalent in terms of performance, but GCV is faster </plain></SENT>
+</text></document>

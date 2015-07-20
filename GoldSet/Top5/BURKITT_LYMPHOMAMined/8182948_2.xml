@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The c-myc oncogene recently shown to act as a transcription factor, is involved in cellular proliferation </plain></SENT>
+<SENT sid="1" pm="."><plain>Deregulation of this gene can be one step in <z:e sem="disease" ids="C1608408" disease_type="Neoplastic Process" abbrv="">malignant transformation</z:e> </plain></SENT>
+<SENT sid="2" pm="."><plain>In Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">BL</z:e>) the c-myc gene is consistently involved in chromosomal translocations and the first exon of the gene has been found to be a frequent target of <z:hpo ids='HP_0001428'>somatic mutations</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>These mutations are believed to interfere with <z:mpath ids='MPATH_458'>normal</z:mpath> transcriptional regulation of the gene </plain></SENT>
+<SENT sid="4" pm="."><plain>We demonstrate a case of the rare prolymphocytic <z:hpo ids='HP_0001909'>leukemia</z:hpo> (<z:chebi fb="1" ids="53412">PLL</z:chebi>), a variant of <z:hpo ids='HP_0005550'>chronic lymphocytic leukemia</z:hpo> (CLL), that shows multiple Burkitt-like mutations in the first exon of c-myc and one nonconservative point mutation in the coding exon 2 </plain></SENT>
+<SENT sid="5" pm="."><plain>Cytogenetic analysis revealed involvement of both chromosomes 8 in chromosomal translocations </plain></SENT>
+<SENT sid="6" pm="."><plain>Both chromosomes 8 are broken at (q23), the c-myc gene locus </plain></SENT>
+<SENT sid="7" pm="."><plain>Since the patient's <z:hpo ids='HP_0001909'>leukemia</z:hpo> cells exhibited high expression levels of the mutated allele of the c-myc <z:chebi fb="2" ids="33699">mRNA</z:chebi>, the point mutations alone may have accounted for transcriptional deregulation </plain></SENT>
+</text></document>

@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:mpath ids='MPATH_3'>Apoptosis</z:mpath>, or programmed cell <z:hpo ids='HP_0011420'>death</z:hpo>, is a general mechanism for removal of unwanted cells from the immune system </plain></SENT>
+<SENT sid="1" pm="."><plain>It is characterized by chromatin condensation, a reduction in cell volume, and endonuclease cleavage of DNA into oligonucleosomal length fragments </plain></SENT>
+<SENT sid="2" pm="."><plain><z:mpath ids='MPATH_3'>Apoptosis</z:mpath> is also accompanied by a loss of membrane <z:chebi fb="0" ids="16247">phospholipid</z:chebi> asymmetry, resulting in the exposure of phosphatidylserine at the surface of the cell </plain></SENT>
+<SENT sid="3" pm="."><plain>Expression of phosphatidylserine at the cell surface plays an important role in the recognition and removal of apoptotic cells by macrophages </plain></SENT>
+<SENT sid="4" pm="."><plain>Here we describe a new method for the detection of apoptotic cells by flow cytometry, using the binding of <z:chebi fb="0" ids="37926">fluorescein isothiocyanate</z:chebi>-labeled annexin V to phosphatidylserine </plain></SENT>
+<SENT sid="5" pm="."><plain>When Burkitt <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cell lines and freshly isolated germinal center B cells are cultured under <z:mpath ids='MPATH_3'>apoptosis</z:mpath> inducing conditions, <z:hpo ids='HP_0000001'>all</z:hpo> cells showing chromatin condensation strongly stain with annexin V, whereas <z:mpath ids='MPATH_458'>normal</z:mpath> cells are annexin V negative </plain></SENT>
+<SENT sid="6" pm="."><plain>Moreover, DNA fragmentation is only found in the annexin V-positive cells </plain></SENT>
+<SENT sid="7" pm="."><plain>The nonvital dye <z:chebi fb="0" ids="4883">ethidium bromide</z:chebi> was found to stain a subpopulation of the annexin V-positive apoptotic cells, increasing with time </plain></SENT>
+<SENT sid="8" pm="."><plain>Our results indicate that the phase in <z:mpath ids='MPATH_3'>apoptosis</z:mpath> that is characterized by chromatin condensation coincides with phosphatidylserine exposure </plain></SENT>
+<SENT sid="9" pm="."><plain>Importantly, it precedes membrane damage that might lead to release from the cells of enzymes that are harmful to the surrounding tissues </plain></SENT>
+<SENT sid="10" pm="."><plain>Annexin V may prove important in further unravelling the regulation of <z:mpath ids='MPATH_3'>apoptosis</z:mpath> </plain></SENT>
+</text></document>

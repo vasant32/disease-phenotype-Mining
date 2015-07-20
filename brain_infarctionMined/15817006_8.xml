@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVES: To evaluate the association between <z:hpo ids='HP_0004929'>coronary atherosclerosis</z:hpo> and subclinical brain magnetic resonance imaging (MRI) abnormalities and between <z:hpo ids='HP_0004929'>coronary atherosclerosis</z:hpo> and abnormal cognitive function (<z:hpo ids='HP_0000726'>dementia</z:hpo>/mild <z:hpo ids='HP_0100543'>cognitive impairment</z:hpo>) </plain></SENT>
+<SENT sid="1" pm="."><plain>DESIGN: Cross-sectional </plain></SENT>
+<SENT sid="2" pm="."><plain>SETTING: The Cardiovascular Health Study (CHS), an epidemiological study of risk factors for <z:e sem="disease" ids="C0007222" disease_type="Disease or Syndrome" abbrv="CVD">cardiovascular disease</z:e> in older adults </plain></SENT>
+<SENT sid="3" pm="."><plain>PARTICIPANTS: Four hundred nine men and women, mean age 79, recruited from the Pittsburgh center of the CHS </plain></SENT>
+<SENT sid="4" pm="."><plain>MEASUREMENTS: <z:hpo ids='HP_0004929'>Coronary atherosclerosis</z:hpo> was defined according to the level of <z:hpo ids='HP_0001717'>coronary artery calcification</z:hpo> (CAC), as measured using electronic beam tomography </plain></SENT>
+<SENT sid="5" pm="."><plain>Subclinical brain MRI abnormalities included ventricular enlargement, white matter hyperintensities, and number of subcortical brain <z:mpath ids='MPATH_124'>infarcts</z:mpath> </plain></SENT>
+<SENT sid="6" pm="."><plain>Brain MRI and CAC measurements were performed between 1998 and 2000 at the Pittsburgh center of the CHS </plain></SENT>
+<SENT sid="7" pm="."><plain>Prevalence of brain MRI abnormalities and abnormal cognitive status were examined across quartiles of the CAC score, before and after controlling for age </plain></SENT>
+<SENT sid="8" pm="."><plain>Multivariate logistic regression models were used to assess whether CAC level was associated with abnormalities of brain MRI or abnormal cognitive status </plain></SENT>
+<SENT sid="9" pm="."><plain>RESULTS: Older adults with high CAC scores were more likely to have more-severe brain MRI abnormalities, including <z:e sem="disease" ids="C0751014" disease_type="Disease or Syndrome" abbrv="">subcortical infarction</z:e> and high white matter hyperintensities </plain></SENT>
+<SENT sid="10" pm="."><plain>The associations between CAC and ventricular enlargement showed a similar but not significant trend </plain></SENT>
+<SENT sid="11" pm="."><plain>The presence of any of the MRI abnormalities attenuated the association between CAC and abnormal cognitive status </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSION: Older adults with higher levels of CAC were more likely to have more-severe brain MRI abnormalities and abnormal cognitive status </plain></SENT>
+</text></document>

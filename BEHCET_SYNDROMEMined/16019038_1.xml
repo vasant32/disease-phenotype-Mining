@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:e sem="disease" ids="C0004943" disease_type="Disease or Syndrome" abbrv="">Behcet's disease</z:e> (BD) was originally described by Turkish dermatologist, Hulusi <z:e sem="disease" ids="C0004943" disease_type="Disease or Syndrome" abbrv="">Behcet</z:e> in 1937 </plain></SENT>
+<SENT sid="1" pm="."><plain>BD is an <z:e sem="disease" ids="C1290884" disease_type="Disease or Syndrome" abbrv="">inflammatory disorder</z:e> of unknown cause, characterized by recurrent oral aphthous <z:mpath ids='MPATH_579'>ulcers</z:mpath>, <z:hpo ids='HP_0003249'>genital ulcers</z:hpo>, <z:hpo ids='HP_0000554'>uveitis</z:hpo>, and <z:mp ids='MP_0001212'>skin lesions</z:mp> </plain></SENT>
+<SENT sid="2" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> these common manifestations are self-limiting except for ocular attacks </plain></SENT>
+<SENT sid="3" pm="."><plain>The aims of this study were to assess whether BD patients have more genotoxicity than healthy controls and whether <z:chebi fb="0" ids="23359">colchicine</z:chebi> (COL) treated BD patients are different from those not using COL in terms of genotoxicity </plain></SENT>
+<SENT sid="4" pm="."><plain>A few dozens of methods have been developed and used for the assessment of genotoxicity </plain></SENT>
+<SENT sid="5" pm="."><plain>The most popular method is based on single cell gel electrophoresis (COMET assay) in alkaline condition </plain></SENT>
+<SENT sid="6" pm="."><plain>After electrophoresis, captured images are subjected to digital image analysis to find the values for percent tail DNA from comet assay parameters consistent with genotoxicity </plain></SENT>
+<SENT sid="7" pm="."><plain>COMET assay was performed in isolated lymphocytes from 42 COL treated <z:e sem="disease" ids="C0004943" disease_type="Disease or Syndrome" abbrv="">Behcet's disease</z:e> patients, 9 BD patients not using COL, and 36 healthy controls </plain></SENT>
+<SENT sid="8" pm="."><plain>In the COL-BD patients and non-COL-BD patients, the mean age (range 14-56 years) and mean disease duration (range 0.5-24 years) did not differ between the two groups </plain></SENT>
+<SENT sid="9" pm="."><plain>We found statistical differences in percent tail DNA between BD and the healthy controls (13.38+/-9.58 versus 2.77+/-1.45, P&lt;0.0001) </plain></SENT>
+<SENT sid="10" pm="."><plain>No difference in percent tail DNA was observed between users and non-users of COL, whereas it was more different in inactive BD patients than active ones (19.75+/-10.49 versus 11.83+/-8.79, P&lt;0.05, respectively) </plain></SENT>
+<SENT sid="11" pm="."><plain>Genotoxicity, as assessed by COMET assay, is increased in BD patients </plain></SENT>
+<SENT sid="12" pm="."><plain>These results suggest that genotoxicity is associated with BD itself rather than COL use </plain></SENT>
+</text></document>

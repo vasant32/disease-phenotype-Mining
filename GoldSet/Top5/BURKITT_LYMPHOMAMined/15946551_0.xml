@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: To clone IgHV genes from childhood <z:e sem="disease" ids="C0023435" disease_type="Neoplastic Process" abbrv="">B-ALL</z:e> cells and identify CTL <z:chebi fb="0" ids="53000">epitopes</z:chebi> deduced from IgHV gene </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: Seven IgHV gene families were respectively amplified by PCR and directly sequenced for 37 childhood <z:e sem="disease" ids="C0023435" disease_type="Neoplastic Process" abbrv="">B-ALL</z:e> cases </plain></SENT>
+<SENT sid="2" pm="."><plain>Bioinformatics were applied for analyzing characteristics of sequences available and predicting HLA-A*0201 molecule-binding nonapeptides derived from IgHV </plain></SENT>
+<SENT sid="3" pm="."><plain>The predicted nonapeptide QLVQSGAEV was synthesized and its binding affinity to T2 cells determined </plain></SENT>
+<SENT sid="4" pm="."><plain>CD8+ T cells from a healthy HLA-A*0201+ donor peripheral blood were stimulated repeatedly with QLVQSGAEV-loaded antigen presenting cells </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: IgHV gene rearrangements were identified in 37 B-ALL </plain></SENT>
+<SENT sid="6" pm="."><plain>Forty IgHV gene sequences available preferentially utilized V(H)4-59 and V(H)4-34 gene segments </plain></SENT>
+<SENT sid="7" pm="."><plain>Increased frequency (15.4%) of D7-27 in <z:e sem="disease" ids="C0023435" disease_type="Neoplastic Process" abbrv="">B-ALL</z:e> IgHV was found compared to that reported for adult PBLs (P = 0.02); 20.0% DJ(H) junctions in <z:e sem="disease" ids="C0023435" disease_type="Neoplastic Process" abbrv="">B-ALL</z:e> lacked non-encoding <z:chebi fb="9" ids="36976">nucleotides</z:chebi>, a frequency higher than that reported for adult PBLs (P = 0.02) </plain></SENT>
+<SENT sid="8" pm="."><plain>17.5% <z:e sem="disease" ids="C0023435" disease_type="Neoplastic Process" abbrv="">B-ALL</z:e> IgHV contained &lt; 2% replacement mutations </plain></SENT>
+<SENT sid="9" pm="."><plain>Forty <z:e sem="disease" ids="C0023435" disease_type="Neoplastic Process" abbrv="">B-ALL</z:e> IgHV sequences acquired 12 high HLA-A*0201-binding nonapeptides, 10 (83.0%) <z:chebi fb="7" ids="16670">peptides</z:chebi> were located in frame region (FR)1 and 3 </plain></SENT>
+<SENT sid="10" pm="."><plain>The synthesized <z:chebi fb="7" ids="16670">peptide</z:chebi> QLVQSGAEV up-regulated HLA-A*0201 expression 1.63 fold on the surface of T2 cells </plain></SENT>
+<SENT sid="11" pm="."><plain>The frequency of QLVQSGAEV-specific CD8+ T cells in a healthy HLA-A*0201+ donor peripheral blood increased from 1.6% and 82.6% after two-round and 3-round stimulations, respectively </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSION: IgHV genes in childhood <z:e sem="disease" ids="C0023435" disease_type="Neoplastic Process" abbrv="">B-ALL</z:e> are of germline characteristics </plain></SENT>
+<SENT sid="13" pm="."><plain>Their heavy chain framework regions contain HLA-A*0201-binding nonapeptides </plain></SENT>
+<SENT sid="14" pm="."><plain>These <z:chebi fb="7" ids="16670">peptides</z:chebi> are capable of inducing specific CD8+ T cells to activate and proliferate </plain></SENT>
+</text></document>

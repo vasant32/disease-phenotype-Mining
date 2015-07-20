@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Recent case reports suggested a link between oral bisphosphonate use and <z:e sem="disease" ids="C0546837,C0014859" disease_type="Neoplastic Process" abbrv="">esophageal cancer</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>We therefore examined the association between these medications and the risk of esophageal <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> (EAC) in patients with <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> (BE) </plain></SENT>
+<SENT sid="2" pm="."><plain>DESIGN: This was a nested, matched case-control study </plain></SENT>
+<SENT sid="3" pm="."><plain>Cases with incident EAC at least 6 months following BE index date were matched by incidence density sampling to controls with BE without EAC </plain></SENT>
+<SENT sid="4" pm="."><plain>Patients with BE were found in the national Department of Veterans Affairs computerized databases, and each filled prescriptions for oral bisphosphonates between BE diagnosis and EAC diagnosis (or corresponding dates in controls) </plain></SENT>
+<SENT sid="5" pm="."><plain>Incidence density ratios were calculated using conditional logistic regression models </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: In a cohort of 11,823 patients with BE, we compared 116 cases and 696 controls </plain></SENT>
+<SENT sid="7" pm="."><plain>Most were men (97%) </plain></SENT>
+<SENT sid="8" pm="."><plain>Most cases and controls had at least one filled <z:chebi fb="0" ids="49200">proton pump inhibitor</z:chebi> (<z:chebi fb="4" ids="53266">PPI</z:chebi>) prescription (95 vs. 94%, P = 0.5) </plain></SENT>
+<SENT sid="9" pm="."><plain>Filled bisphosphonate prescriptions were very uncommon (1.7 vs. 1.9%) and were not associated with EAC; the incidence density ratio was 0.92 (95% CI, 0.21-4.15) </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSION: In patients with BE, oral bisphosphonates were not associated with an increased risk of EAC </plain></SENT>
+</text></document>

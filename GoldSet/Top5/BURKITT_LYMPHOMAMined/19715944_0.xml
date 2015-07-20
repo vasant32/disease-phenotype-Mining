@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Posttransplantation B-lymphoproliferative (PTBL) disease is a severe complication of organ transplantation, which requires reduction of immunosuppressive treatment </plain></SENT>
+<SENT sid="1" pm="."><plain>The use of the anti-CD20 monoclonal antibody, Rituximab, improves the survival of these patients </plain></SENT>
+<SENT sid="2" pm="."><plain>In this setting, maintenance immunosuppressive therapy may represent a challenge </plain></SENT>
+<SENT sid="3" pm="."><plain>The mammalian target of <z:chebi fb="0" ids="9168">rapamycin</z:chebi> (m-TOR) inhibitor <z:chebi fb="0" ids="9168">Rapamycin</z:chebi> has antiproliferative effects that makes it a safe, efficient option to avoid graft rejection and reduce the <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">malignancy</z:e> risk </plain></SENT>
+<SENT sid="4" pm="."><plain>We studied 6 renal recipients (4 men and 2 women) of overall mean age of 50.66 +/- 15.89 years who were diagnosed with <z:hpo ids='HP_0002665'>lymphoma</z:hpo> at a mean time of graft function of 137.0 +/- 68.00 months </plain></SENT>
+<SENT sid="5" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> of the patients were Epstein-Barr-negative </plain></SENT>
+<SENT sid="6" pm="."><plain>Four received a combination of Rituximab and <z:chebi fb="0" ids="4027">cyclophosphamide</z:chebi>, <z:chebi fb="0" ids="28748">doxorubicin</z:chebi>, <z:chebi fb="0" ids="28445">vincristine</z:chebi>, and <z:chebi fb="0" ids="8382">prednisone</z:chebi> (CHOP), and 2 received Rituximab only </plain></SENT>
+<SENT sid="7" pm="."><plain>In <z:hpo ids='HP_0000001'>all</z:hpo> cases complete remission persisted during follow-up of 21.83 +/- 8.34 months </plain></SENT>
+<SENT sid="8" pm="."><plain>The immunosuppressive treatment was switched to the m-TOR inhibitor <z:chebi fb="0" ids="9168">Rapamycin</z:chebi> at therapeutic trough blood levels of 5-8 ng/dL </plain></SENT>
+<SENT sid="9" pm="."><plain>The mean time of <z:chebi fb="0" ids="9168">Rapamycin</z:chebi> treatment was 15.5 +/- 8.96 months </plain></SENT>
+<SENT sid="10" pm="."><plain>Notably, we observed neither <z:hpo ids='HP_0011009'>acute</z:hpo> rejection nor relapse episodes </plain></SENT>
+<SENT sid="11" pm="."><plain>Renal function remained stable with no significant <z:hpo ids='HP_0000093'>proteinuria</z:hpo> </plain></SENT>
+<SENT sid="12" pm="."><plain>The serum <z:chebi fb="0" ids="16737">creatinine</z:chebi> level before switching to <z:chebi fb="0" ids="9168">Rapamycin</z:chebi> was 1.06 +/- 0.16 mg/dL and 0.9 +/- 0.14 mg/dL 12 months later </plain></SENT>
+<SENT sid="13" pm="."><plain>However, 1 patient had to stop <z:chebi fb="0" ids="9168">Rapamycin</z:chebi> treatment due to <z:e sem="disease" ids="C0032285" disease_type="Disease or Syndrome" abbrv="PNEUM">pneumonitis</z:e> </plain></SENT>
+<SENT sid="14" pm="."><plain>Our study suggests that <z:chebi fb="1" ids="35705">immunosuppressant</z:chebi> monotherapy with <z:chebi fb="0" ids="9168">Rapamycin</z:chebi> is safe and efficient for renal recipients who develop <z:hpo ids='HP_0002665'>lymphoma</z:hpo> because of its antitumor effects without nephrotoxicity </plain></SENT>
+</text></document>

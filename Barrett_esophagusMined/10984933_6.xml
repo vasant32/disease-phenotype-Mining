@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>It has previously been shown that it is possible to differentiate between squamous and columnar epithelia in rat and resected human tissues using an impedance probe to make in vitro measurements </plain></SENT>
+<SENT sid="1" pm="."><plain>This probe can be passed down an endoscope allowing measurements to be made in patients </plain></SENT>
+<SENT sid="2" pm="."><plain>However, the probe emerges parallel to the oesophageal wall, with little room to manoeuvre </plain></SENT>
+<SENT sid="3" pm="."><plain>The conditions of control required to give reliable readings have been investigated </plain></SENT>
+<SENT sid="4" pm="."><plain>The importance of pressure applied and the angle of approach to the oesophagus was assessed </plain></SENT>
+<SENT sid="5" pm="."><plain>Pressures in the range 26.6 Pa to 46.3 kPa and angles in the range 15-90 degrees were considered </plain></SENT>
+<SENT sid="6" pm="."><plain>In in vitro studies it was observed that it was possible to obtain consistent readings with pressures greater than 2.9 kPa and with angles greater than 15 degrees between the probe and the oesophagus </plain></SENT>
+<SENT sid="7" pm="."><plain>These conditions can be achieved in vivo, and readings obtained from twelve patients are shown (45 readings on <z:mpath ids='MPATH_458'>normal</z:mpath> squamous, 34 on <z:e sem="disease" ids="C0004763" disease_type="Disease or Syndrome" abbrv="CELLO">Barrett's oesophagus</z:e> and 22 on stomach) </plain></SENT>
+<SENT sid="8" pm="."><plain>At low frequencies (9.6-153.2 kHz), a Mann-Whitney test shows a significant difference (p &lt; 0.001) when comparing the means from squamous and columnar, and also when readings from Barrett's and <z:mpath ids='MPATH_458'>normal</z:mpath> gastric epithelia are compared (p &lt; 0.001) </plain></SENT>
+</text></document>

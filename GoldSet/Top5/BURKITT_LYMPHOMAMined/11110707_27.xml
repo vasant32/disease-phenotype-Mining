@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Recently, the derepressed expression of the catalytic subunit of telomerase, human telomerase reverse transcriptase (hTERT), the enzyme that elongates telomeres, has been implicated as an important step in the immortalization process </plain></SENT>
+<SENT sid="1" pm="."><plain>The exact regulation of hTERT expression, which is the rate-limiting factor for telomerase activity, is at present unclear </plain></SENT>
+<SENT sid="2" pm="."><plain>As transformed cells seem to be dependent on a constitutive telomerase activity, the availability of inhibitors would potentially be of great value in <z:chebi fb="0" ids="35610">antineoplastic</z:chebi> therapy </plain></SENT>
+<SENT sid="3" pm="."><plain>Interferons (IFNs) have been successfully used in the treatment of several forms of <z:e sem="disease" ids="C0006826" disease_type="Neoplastic Process" abbrv="">malignancies</z:e>, but the underlying molecular mechanisms responsible for the antitumor activity are poorly defined </plain></SENT>
+<SENT sid="4" pm="."><plain>In this study we have investigated the effects of IFNs on hTERT expression and telomerase activity </plain></SENT>
+<SENT sid="5" pm="."><plain>We found that IFN-alpha rapidly (commonly within 4 hours) and significantly down-regulates the expression of hTERT and telomerase activity in a number of human malignant hematopoietic cell lines, primary leukemic cells from patients with <z:hpo ids='HP_0002488'>acute leukemia</z:hpo> as well as T-lymphocytes from healthy donors </plain></SENT>
+<SENT sid="6" pm="."><plain>This effect of IFN-alpha did not seem to depend on IFN-alpha-mediated cell <z:mpath ids='MPATH_73'>growth arrest</z:mpath> or alterations in c-myc expression </plain></SENT>
+<SENT sid="7" pm="."><plain>The finding that IFN induces a repression of hTERT and a decrease in telomerase activity suggests a novel mechanism that may play a significant role in the antitumor action of IFN </plain></SENT>
+<SENT sid="8" pm="."><plain>(Blood </plain></SENT>
+<SENT sid="9" pm="."><plain>2000;96:4313-4318) </plain></SENT>
+</text></document>

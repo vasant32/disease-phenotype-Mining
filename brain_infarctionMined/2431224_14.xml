@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The Levine rat preparation, the gerbil <z:hpo ids='HP_0001297'>stroke</z:hpo> model, and appropriate control animals were used to determine if the 2,3,5-triphenyltetrazolium <z:chebi fb="76" ids="17996">chloride</z:chebi> (TTC) would selectively identify noninfarcted versus infarcted cerebral tissue </plain></SENT>
+<SENT sid="1" pm="."><plain>The TTC is frequently used to quantify infarcted myocardial tissue and has been shown to have great specificity, reproducibility, and efficacy </plain></SENT>
+<SENT sid="2" pm="."><plain>The TTC produces a red product upon reaction with the respiratory enzymes (dehydrogenases) present in non-infarcted tissues </plain></SENT>
+<SENT sid="3" pm="."><plain>Irreversibly damaged tissues, lacking dehydrogenases, do not form red reaction products </plain></SENT>
+<SENT sid="4" pm="."><plain>Six gerbil brains and seven rat brains were incubated with the TTC, and the unreacted areas were macroscopically identified </plain></SENT>
+<SENT sid="5" pm="."><plain>The brains were fixed and sectioned for routine <z:chebi fb="1" ids="51686">hematoxylin</z:chebi> and eosin staining to determine the specificity of the TTC </plain></SENT>
+<SENT sid="6" pm="."><plain>The TTC was found to react selectively only with non-infarcted cerebral tissue </plain></SENT>
+<SENT sid="7" pm="."><plain>The gross brain sections were evaluated by macroscopic morphometric analysis, and the unreacted area was always ipsilateral to ligation and correlated with histologic identification of <z:mpath ids='MPATH_124'>infarct</z:mpath> </plain></SENT>
+<SENT sid="8" pm="."><plain>The brains from neurologically intact animals demonstrated neither macroscopic nor histological evidence of infarction </plain></SENT>
+<SENT sid="9" pm="."><plain>This technique allows macroscopic quantification of <z:mpath ids='MPATH_124'>infarct</z:mpath> size by planimetry </plain></SENT>
+<SENT sid="10" pm="."><plain>The average area of <z:mpath ids='MPATH_124'>infarct</z:mpath> for the neurologically impaired rats was 34.7% and it was 31.4% for the impaired gerbils </plain></SENT>
+<SENT sid="11" pm="."><plain>The percentage of surface area of each infarcted slice was found to correlate with the severity of the neurologic deficit </plain></SENT>
+<SENT sid="12" pm="."><plain>We conclude that TTC staining is effective for macroscopically delineating cerebral <z:mpath ids='MPATH_124'>infarcts</z:mpath> in rats and gerbils, thus permitting quantification of <z:mpath ids='MPATH_124'>infarct</z:mpath> size </plain></SENT>
+</text></document>

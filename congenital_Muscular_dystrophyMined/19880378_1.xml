@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The complex of protein O-mannosyltransferase 1 (POMT1) and POMT2 catalyzes the initial step of O-mannosyl glycan biosynthesis </plain></SENT>
+<SENT sid="1" pm="."><plain>The mutations in either POMT1 or POMT2 can lead to Walker-Warburg syndrome, a <z:hpo ids='HP_0003741'>congenital muscular dystrophy</z:hpo> with <z:hpo ids='HP_0002269'>abnormal neuronal migration</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>Here, we used three algorithms for predicting transmembrane helices to construct the secondary structural models of human POMT1 and POMT2 </plain></SENT>
+<SENT sid="3" pm="."><plain>In these models, POMT1 and POMT2 have seven- and nine-transmembrane helices and contain four and five potential N-glycosylation sites, respectively </plain></SENT>
+<SENT sid="4" pm="."><plain>To determine whether these sites are actually glycosylated, we prepared mutant proteins that were defective in each site by site-directed mutagenesis </plain></SENT>
+<SENT sid="5" pm="."><plain>Three of the POMT1 sites and <z:hpo ids='HP_0000001'>all</z:hpo> of the POMT2 sites were found to be N-glycosylated, suggesting that these sites face the <z:chebi fb="2" ids="8069">luminal</z:chebi> side of the endoplasmic reticulum </plain></SENT>
+<SENT sid="6" pm="."><plain>Mutation of any single site did not significantly affect POMT activity, but mutations of <z:hpo ids='HP_0000001'>all</z:hpo> N-glycosylation sites of either POMT1 or POMT2 caused a loss of POMT activity </plain></SENT>
+<SENT sid="7" pm="."><plain>The loss of activity appeared to be due to the decreased hydrophilicity </plain></SENT>
+<SENT sid="8" pm="."><plain>These results suggest that the N-glycosylation of POMT1 and POMT2 is required for maintaining the conformation as well as the activity of the POMT1-POMT2 complex </plain></SENT>
+</text></document>

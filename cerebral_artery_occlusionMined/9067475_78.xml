@@ -1,0 +1,5 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Ischemic tolerance was induced in spontaneously hypertensive rats (SHR) by injection of a single dose of <z:chebi fb="0" ids="16412">lipopolysaccharide</z:chebi> (LPS) (0.9 mg/kg, i.v.) 1-7 days prior to permanent middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (MCAO) </plain></SENT>
+<SENT sid="1" pm="."><plain><z:mpath ids='MPATH_124'>Infarct</z:mpath> volume, evaluated 24 h after MCAO, was significantly reduced by LPS administration 2, 3 or 4 days prior to MCAO (22.8, 25.9 and 20.5%, respectively) </plain></SENT>
+<SENT sid="2" pm="."><plain>The beneficial effect of LPS pre-treatment was completely nullified by concurrent administration of TNFbp </plain></SENT>
+<SENT sid="3" pm="."><plain>On this basis, the tolerance to <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> induced by LPS is likely to be mediated by TNF-alpha </plain></SENT>
+</text></document>

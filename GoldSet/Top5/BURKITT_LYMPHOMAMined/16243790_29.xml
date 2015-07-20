@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PURPOSE: To characterize gene expression signatures in <z:hpo ids='HP_0011009'>acute</z:hpo> lymphocytic <z:hpo ids='HP_0001909'>leukemia</z:hpo> (ALL) cells associated with known genotypic abnormalities in adult patients </plain></SENT>
+<SENT sid="1" pm="."><plain>EXPERIMENTAL DESIGN: Gene expression profiles from 128 adult patients with newly diagnosed ALL were characterized using high-density oligonucleotide microarrays </plain></SENT>
+<SENT sid="2" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> patients were enrolled in the Italian GIMEMA multicenter clinical trial 0496 and samples had &gt;90% leukemic cells </plain></SENT>
+<SENT sid="3" pm="."><plain>Uniform phenotypic, cytogenetic, and molecular data were also available for <z:hpo ids='HP_0000001'>all</z:hpo> cases </plain></SENT>
+<SENT sid="4" pm="."><plain>RESULTS: T-lineage ALL was characterized by a homogeneous gene expression pattern, whereas several subgroups of B-lineage ALL were evident </plain></SENT>
+<SENT sid="5" pm="."><plain>Within B-lineage ALL, distinct signatures were associated with ALL1/AF4 and E2A/PBX1 gene rearrangements </plain></SENT>
+<SENT sid="6" pm="."><plain>Expression profiles associated with ALL1/AF4 and E2A/PBX1 are similar in adults and children </plain></SENT>
+<SENT sid="7" pm="."><plain>BCR/ABL+ gene expression pattern was more <z:hpo ids='HP_0001425'>heterogeneous</z:hpo> and was most similar to ALL without known molecular rearrangements </plain></SENT>
+<SENT sid="8" pm="."><plain>We also identified a set of 83 genes that were highly expressed in <z:hpo ids='HP_0001909'>leukemia</z:hpo> blasts from patients without known molecular abnormalities who subsequently relapsed following therapy </plain></SENT>
+<SENT sid="9" pm="."><plain>Supervised analysis of kinase genes revealed a high-level FLT3 expression in a subset of cases without molecular rearrangements </plain></SENT>
+<SENT sid="10" pm="."><plain>Two other kinases (PRKCB1 and DDR1) were highly expressed in cases without molecular rearrangements, as well as in BCR/ABL-positive ALL </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: Genomic signatures are associated with phenotypically and molecularly well defined subgroups of <z:e sem="disease" ids="C0751606" disease_type="Neoplastic Process" abbrv="">adult ALL</z:e> </plain></SENT>
+<SENT sid="12" pm="."><plain>Genomic profiling also identifies genes associated with poor outcome in cases without molecular aberrations and specific genes that may be new therapeutic targets in <z:e sem="disease" ids="C0751606" disease_type="Neoplastic Process" abbrv="">adult ALL</z:e> </plain></SENT>
+</text></document>

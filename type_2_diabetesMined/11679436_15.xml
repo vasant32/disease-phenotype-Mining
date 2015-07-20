@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Normoglycemic subjects with a strong family history of type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> are insulin resistant, but the mechanism of <z:hpo ids='HP_0000855'>insulin resistance</z:hpo> in skeletal muscle of such individuals is unknown </plain></SENT>
+<SENT sid="1" pm="."><plain>The present study was undertaken to determine whether abnormalities in insulin-signaling events are present in normoglycemic, nonobese subjects with a strong family history of type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="2" pm="."><plain>Hyperinsulinemic-euglycemic clamps with percutaneous muscle biopsies were performed in eight normoglycemic relatives of type 2 diabetic patients (FH(+)) and eight control subjects who had no family history of <z:mp ids='MP_0002055'>diabetes</z:mp> (FH(-)), with each group matched for age, sex, body composition, and ethnicity </plain></SENT>
+<SENT sid="3" pm="."><plain>The FH(+) group had decreased insulin-stimulated <z:chebi fb="105" ids="17234">glucose</z:chebi> disposal (6.64 +/- 0.52 vs. 8.45 +/- 0.54 mg </plain></SENT>
+<SENT sid="4" pm="."><plain>kg(-1) fat-free mass </plain></SENT>
+<SENT sid="5" pm="."><plain>min(-1); P &lt; 0.05 vs. FH(-)) </plain></SENT>
+<SENT sid="6" pm="."><plain>In skeletal muscle, the FH(+) and FH(-) groups had equivalent insulin stimulation of insulin receptor tyrosine phosphorylation </plain></SENT>
+<SENT sid="7" pm="."><plain>In contrast, the FH(+) group had decreased insulin stimulation of insulin receptor substrate (IRS)-1 tyrosine phosphorylation (0.522 +/- 0.077 vs. 1.328 +/- 0.115 density units; P &lt; 0.01) and association of PI 3-kinase activity with IRS-1 (0.299 +/- 0.053 vs. 0.466 +/- 0.098 activity units; P &lt; 0.05) </plain></SENT>
+<SENT sid="8" pm="."><plain>PI 3-kinase activity was correlated with the <z:chebi fb="105" ids="17234">glucose</z:chebi> disposal rate (r = 0.567, P = 0.02) </plain></SENT>
+<SENT sid="9" pm="."><plain>In five subjects with sufficient biopsy material for further study, phosphorylation of Akt was 0.266 +/- 0.061 vs. 0.404 +/- 0.078 density units (P &lt; 0.10) and <z:chebi fb="15" ids="28087">glycogen</z:chebi> synthase activity was 0.31 +/- 0.06 vs. 0.50 +/- 0.12 ng </plain></SENT>
+<SENT sid="10" pm="."><plain>min(-1) </plain></SENT>
+<SENT sid="11" pm="."><plain>mg(-1) (P &lt; 0.10) for FH(+) and FH(-) subjects, respectively </plain></SENT>
+<SENT sid="12" pm="."><plain>Therefore, despite <z:mpath ids='MPATH_458'>normal</z:mpath> insulin receptor phosphorylation, postreceptor signaling was reduced and was correlated with <z:chebi fb="105" ids="17234">glucose</z:chebi> disposal in muscle of individuals with a strong genetic background for type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+</text></document>

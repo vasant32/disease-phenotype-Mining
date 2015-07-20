@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The HSD17B10 gene is located on chromosome Xp11.2 and codes for a multifunctional protein called 17β-<z:chebi fb="0" ids="35350">hydroxysteroid</z:chebi> dehydrogenase type 10 (HSD10) </plain></SENT>
+<SENT sid="1" pm="."><plain>This protein catalyzes the 2-<z:chebi fb="36" ids="29309">methyl</z:chebi>-3-hydroxybutyryl-CoA dehydrogenation (MHBD) reaction in isoleucine metabolism and is an essential component of <z:hpo ids='HP_0001427'>mitochondrial</z:hpo> RNase P required for the processing of mtDNA transcripts </plain></SENT>
+<SENT sid="2" pm="."><plain>HSD10 is required for <z:mpath ids='MPATH_458'>normal</z:mpath> <z:hpo ids='HP_0001427'>mitochondrial</z:hpo> maintenance, and complete loss of HSD10 is incompatible with life </plain></SENT>
+<SENT sid="3" pm="."><plain>Mutations in the HSD17B10 gene have been reported in 19 families </plain></SENT>
+<SENT sid="4" pm="."><plain>The classical infantile form of what is best named HSD10 disease is characterized by a period of more or less <z:mpath ids='MPATH_458'>normal</z:mpath> development in the first 6-18 months of life </plain></SENT>
+<SENT sid="5" pm="."><plain>Some patients showed transient metabolic derangement in the neonatal period, with good clinical recovery but often persistent <z:chebi fb="4" ids="24996">lactate</z:chebi> elevation </plain></SENT>
+<SENT sid="6" pm="."><plain>Usually from age 6-18 months affected boys show a progressive <z:hpo ids='HP_0002180'>neurodegenerative disease</z:hpo> course in conjunction with <z:hpo ids='HP_0000488'>retinopathy</z:hpo> and <z:hpo ids='HP_0001638'>cardiomyopathy</z:hpo> leading to <z:hpo ids='HP_0011420'>death</z:hpo> at age 2-4 years or later </plain></SENT>
+<SENT sid="7" pm="."><plain>A more severe presentation in the neonatal period with little neurological development, severe progressive <z:hpo ids='HP_0001638'>cardiomyopathy</z:hpo>, and early <z:hpo ids='HP_0011420'>death</z:hpo>, is denoted neonatal form </plain></SENT>
+<SENT sid="8" pm="."><plain>Juvenile and atypical/asymptomatic forms of HSD10 disease have been recognized </plain></SENT>
+<SENT sid="9" pm="."><plain>Heterozygous females often show non-progressive <z:hpo ids='HP_0001263'>developmental delay</z:hpo> and <z:hpo ids='HP_0001249'>intellectual disability</z:hpo> but may also be clinically <z:mpath ids='MPATH_458'>normal</z:mpath> </plain></SENT>
+<SENT sid="10" pm="."><plain>The pathogenesis is poorly understood but is unrelated to MHBD function </plain></SENT>
+<SENT sid="11" pm="."><plain>Diagnosis is based on typical abnormalities in urinary organic acid analysis and molecular studies </plain></SENT>
+<SENT sid="12" pm="."><plain>The same de novo mutation p.R130C was found in over half of patient families; it is associated with the <z:e sem="disease" ids="C0277560" disease_type="Disease or Syndrome" abbrv="">infantile disease</z:e> form </plain></SENT>
+<SENT sid="13" pm="."><plain>There is no effective treatment </plain></SENT>
+</text></document>

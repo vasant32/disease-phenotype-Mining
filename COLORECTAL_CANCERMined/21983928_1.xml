@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: The purpose of this study was to analyze the detectability of colorectal <z:hpo ids='HP_0002664'>neoplasia</z:hpo> with <z:chebi fb="0" ids="36939">fluorine-18</z:chebi>-2-fluoro-2-deoxy-<z:chebi fb="0" ids="4167">D-glucose</z:chebi> <z:chebi fb="4" ids="30225">positron</z:chebi> emission tomography/computed tomography (FDG-PET/CT) </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: Data for a total of 492 patients who had undergone both PET/CT and colonoscopy were analyzed </plain></SENT>
+<SENT sid="2" pm="."><plain>After the findings of PET/CT and colonoscopy were determined independently, the results were compared in each of the six colonic sites examined in <z:hpo ids='HP_0000001'>all</z:hpo> patients </plain></SENT>
+<SENT sid="3" pm="."><plain>The efficacy of PET/CT was determined using colonoscopic examination as the gold standard </plain></SENT>
+<SENT sid="4" pm="."><plain>RESULTS: In <z:hpo ids='HP_0000001'>all</z:hpo>, 270 colorectal lesions 5 mm or more in size, including 70 pathologically confirmed malignant lesions, were found in 172 patients by colonoscopy </plain></SENT>
+<SENT sid="5" pm="."><plain>The sensitivity and specificity of PET/CT for detecting any of the colorectal lesions were 36 and 98%, respectively </plain></SENT>
+<SENT sid="6" pm="."><plain>For detecting lesions 11 mm or larger, the sensitivity was increased to 85%, with the specificity remaining consistent (97%) </plain></SENT>
+<SENT sid="7" pm="."><plain>Moreover, the sensitivity for <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumors</z:e> 21 mm or larger was 96% (48/50) </plain></SENT>
+<SENT sid="8" pm="."><plain><z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">Tumors</z:e> with malignant or high-grade pathology were likely to be positive with PET/CT </plain></SENT>
+<SENT sid="9" pm="."><plain>A size of 10 mm or smaller [odds ratio (OR) 44.14, 95% confidence interval (95% CI) 11.44-221.67] and flat <z:mp ids='MP_0000002'>morphology</z:mp> (OR 7.78, 95% CI 1.79-36.25) were significant factors that were associated with false-negative cases on PET/CT </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSION: The sensitivity of PET/CT for detecting colorectal lesions is acceptable, showing size- and pathology-dependence, suggesting, for the most part, that clinically relevant lesions are detectable with PET/CT </plain></SENT>
+<SENT sid="11" pm="."><plain>However, when considering PET/CT for screening purposes caution must be exercised because there are cases of false-negative results </plain></SENT>
+</text></document>

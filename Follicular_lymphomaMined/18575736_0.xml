@@ -1,0 +1,20 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Recently developed prognostic models for follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo> have proven useful in predicting overall survival (OS), but most have used data from multiple centers </plain></SENT>
+<SENT sid="1" pm="."><plain>Our goal was to look at prognostic factors within a single institution </plain></SENT>
+<SENT sid="2" pm="."><plain>We conducted a retrospective study on 77 newly diagnosed patients with follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo>, focussing on clinical characteristics, symptom duration before diagnosis, pathologic findings, including grade, laboratory data, imaging studies at initial presentation and management </plain></SENT>
+<SENT sid="3" pm="."><plain>The study population was 53% male </plain></SENT>
+<SENT sid="4" pm="."><plain>Ages ranged from 25 to 87 years (median 51) </plain></SENT>
+<SENT sid="5" pm="."><plain>By Ann Arbor classification 4% were stage I, 8% stage II, 18% stage III and 69% stage IV </plain></SENT>
+<SENT sid="6" pm="."><plain>Initial therapy was deferred in 39% </plain></SENT>
+<SENT sid="7" pm="."><plain>The remaining patients received stage-appropriate therapy </plain></SENT>
+<SENT sid="8" pm="."><plain>Survival was measured from time of diagnosis to <z:hpo ids='HP_0011420'>death</z:hpo> </plain></SENT>
+<SENT sid="9" pm="."><plain>Prognostic factors at initial diagnosis that were statistically significant in univariate log-rank comparisons of Kaplan-Meier survival curves were used to build a multi-variate proportional hazard regression model of OS </plain></SENT>
+<SENT sid="10" pm="."><plain>Median OS for these patients was 10.3 years </plain></SENT>
+<SENT sid="11" pm="."><plain>OS differed only with high (&gt;12 g/dl) versus low (&lt;12 g/dl) <z:chebi fb="0" ids="35143">hemoglobin</z:chebi> (p=0.001) and in younger (&lt;60 years) versus older (&gt;60 years) patients (p=0.05), as indicated by univariate log-rank tests </plain></SENT>
+<SENT sid="12" pm="."><plain>Both <z:chebi fb="0" ids="35143">hemoglobin</z:chebi> and age were also significant in a multivariate proportional hazards analysis </plain></SENT>
+<SENT sid="13" pm="."><plain>Low <z:chebi fb="0" ids="35143">hemoglobin</z:chebi> and increased age were independent predictors of lower OS with hazard ratios of 6.6 (95% CI, 2.2-20.1) and 3.7 (95% CI, 1.2-11.7), respectively </plain></SENT>
+<SENT sid="14" pm="."><plain>Median survival for older patients who also had <z:hpo ids='HP_0001903'>anemia</z:hpo> was only 3.1 years </plain></SENT>
+<SENT sid="15" pm="."><plain>A test for interaction between age and <z:chebi fb="0" ids="35143">hemoglobin</z:chebi> was negative (p=0.35) </plain></SENT>
+<SENT sid="16" pm="."><plain>The estimated hazard ratio for an older individual with low <z:chebi fb="0" ids="35143">hemoglobin</z:chebi> was 24.7 (95% CI, 4.0-153.3) </plain></SENT>
+<SENT sid="17" pm="."><plain>To assess the proportional hazards assumption we tested for an interaction between time and both age (p=0.92) and <z:chebi fb="0" ids="35143">hemoglobin</z:chebi> (p=0.66) and found no evidence against proportionality </plain></SENT>
+<SENT sid="18" pm="."><plain>A <z:chebi fb="0" ids="35143">hemoglobin</z:chebi> &lt;12 g/dl and age &gt;60 years at diagnosis are significant predictors of worse OS </plain></SENT>
+</text></document>

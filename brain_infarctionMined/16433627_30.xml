@@ -1,0 +1,21 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Umbilical cord blood (UCB) is a rich source of hematopoetic stem cells (<z:chebi fb="15" ids="50443">HSCs</z:chebi>) </plain></SENT>
+<SENT sid="1" pm="."><plain>We have isolated a novel cell line population of stem cells from human UCB that exhibit properties of self-renewal, but do not have cell-surface markers that are typically found on <z:chebi fb="15" ids="50443">HSCs</z:chebi> </plain></SENT>
+<SENT sid="2" pm="."><plain>Analysis of transcripts revealed that these cells express transcription factors Oct-4, Rex-1, and Sox-2 that are typically expressed by stem cells </plain></SENT>
+<SENT sid="3" pm="."><plain>We refer to these novel cells as nonhematopoietic umbilical cord blood stem cells (nh-UCBSCs) </plain></SENT>
+<SENT sid="4" pm="."><plain>Previous studies have shown that the intravenous infusion of UCBCs can ameliorate neurological deficits arising from ischemic brain injury </plain></SENT>
+<SENT sid="5" pm="."><plain>The identity of the cells that mediate this restorative effect, however, has yet to be determined </plain></SENT>
+<SENT sid="6" pm="."><plain>We postulate that nh-UCBSCs may be a source of the UCB cells that can mediate these effects </plain></SENT>
+<SENT sid="7" pm="."><plain>To test this hypothesis, we intravenously injected one million human nh-UCBSCs into rats 48 h after transient unilateral middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> </plain></SENT>
+<SENT sid="8" pm="."><plain>Animals in other experimental groups received either saline injections or injections of RN33b neural stem cells </plain></SENT>
+<SENT sid="9" pm="."><plain>Animals were tested for neurological function before the infusion of nh-UCBSCs and at various time periods afterwards using a battery of behavioral tests </plain></SENT>
+<SENT sid="10" pm="."><plain>In limb placement tests, animals treated with nh-UCBSCs exhibited mean scores that were significantly better than animals treated with RN33b neural stem cells or saline </plain></SENT>
+<SENT sid="11" pm="."><plain>Similarly, in stepping tests, nh-UCBSC-treated animals again exhibited significantly better performance than the other experimental groups of animals </plain></SENT>
+<SENT sid="12" pm="."><plain>Analysis of <z:mpath ids='MPATH_124'>infarct</z:mpath> volume revealed that ischemic animals treated with nh-UCBSCs exhibited a 50% reduction in lesion volume in comparison to saline-treated controls </plain></SENT>
+<SENT sid="13" pm="."><plain>Histological analysis of brain tissue further revealed the presence of cells that stained for human nuclei </plain></SENT>
+<SENT sid="14" pm="."><plain>Some human nuclei-positive cells were also co-labeled for NeuN, indicating that the transplanted cells expressed markers of a neuronal phenotype </plain></SENT>
+<SENT sid="15" pm="."><plain>Cells expressing the human nuclei marker within the brain, however, were rather scant, suggesting that the restorative effects of nh-UCBSCs may be mediated by mechanisms other than cell replacement </plain></SENT>
+<SENT sid="16" pm="."><plain>To test this hypothesis, nh-UCBSCs were directly transplanted into the brain parenchyma after ischemic brain injury </plain></SENT>
+<SENT sid="17" pm="."><plain>Sprouting of nerve fibers from the nondamaged hemisphere into the ischemically damaged side of the brain was assessed by anterograde tracing using biotinylated <z:chebi fb="0" ids="52071">dextran</z:chebi> <z:chebi fb="39" ids="32952">amine</z:chebi> (BDA) </plain></SENT>
+<SENT sid="18" pm="."><plain>Animals with nh-UCBSC transplants exhibited significantly greater densities of BDA-positive cells in the damaged side of the brain compared to animals with intraparenchymal saline injections </plain></SENT>
+<SENT sid="19" pm="."><plain>These results suggest that restorative effects observed with nh-UCBSC treatment following ischemic brain injury may be mediated by trophic actions that result in the reorganization of host nerve fiber connections within the injured brain </plain></SENT>
+</text></document>

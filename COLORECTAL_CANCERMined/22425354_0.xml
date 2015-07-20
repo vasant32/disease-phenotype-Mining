@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: There is an excess incidence of <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e>) and mortality from this disease in the health area of Leon </plain></SENT>
+<SENT sid="1" pm="."><plain>The aim of the present study was to determine trends in <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e> and its geographical distribution </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: Cases included in the Hospital Registry of <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">Tumors</z:e> of the Centro Asistencial Universitario de León from 1994-2008 and occurring in patients residing in the health area of Leon were studied </plain></SENT>
+<SENT sid="3" pm="."><plain>Time trends were evaluated with a Poisson regression model </plain></SENT>
+<SENT sid="4" pm="."><plain>To analyze geographical distribution, the smoothed relative risks (RR) of the municipalities adjusted by the Besag, York and Mollié model were calculated, and their subsequent probability of an RR&gt;1 (PP) was calculated using Bayesian methods </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: A total of 4,136 cases were included </plain></SENT>
+<SENT sid="6" pm="."><plain>Rates standardized to the European standard population ranged from 49.6 (1994-6) to 63.5 new cases per 100,000 inhabitants in men (2006-8) and from 29.6 to 33.8 in women </plain></SENT>
+<SENT sid="7" pm="."><plain>An annual 2% increase was found for <z:hpo ids='HP_0000001'>all</z:hpo> localizations, ranging from 1.8% in the rectum to 3.6% in the proximal colon </plain></SENT>
+<SENT sid="8" pm="."><plain>In <z:hpo ids='HP_0000001'>all</z:hpo> localizations, the increase was greater in men than in women </plain></SENT>
+<SENT sid="9" pm="."><plain>Several municipalities in the health area of Leon showed an excess risk </plain></SENT>
+<SENT sid="10" pm="."><plain>The geographical pattern observed was due especially to the distribution of <z:hpo ids='HP_0003003'>colon cancer</z:hpo> </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: The incidence rates observed were high and were increasing </plain></SENT>
+<SENT sid="12" pm="."><plain>Special attention should be paid to <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e> in the health area of Leon, mainly in the municipalities with excess risk </plain></SENT>
+</text></document>

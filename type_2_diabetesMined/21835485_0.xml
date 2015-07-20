@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: To estimate the prevalence and type 2 <z:mp ids='MP_0002055'>diabetes</z:mp>, and to develop a prognostic model for identifying individuals at high risk of undiagnosed type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="1" pm="."><plain>RESEARCH DESIGN AND METHODS: The study was designed as a cross-sectional investigation with 4314 participants of Thai background, aged between 15 and 85 years (mean age: 48) </plain></SENT>
+<SENT sid="2" pm="."><plain>Fasting plasma <z:chebi fb="105" ids="17234">glucose</z:chebi> was initially measured, and repeated if the first measurement was more than 126 mg/dl </plain></SENT>
+<SENT sid="3" pm="."><plain>Type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> was diagnosed using the World Health Organization's criteria </plain></SENT>
+<SENT sid="4" pm="."><plain>Logistic regression model was used to develop prognostic models for men and women separately </plain></SENT>
+<SENT sid="5" pm="."><plain>The prognostic performance of the model was assessed by the area under the receiver operating characteristic curve (AUC) and a nomogram was constructed from the logistic regression model </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: The overall prevalence of type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> was 7.4% (n = 125/1693) in men and 3.4% (n = 98/2621) in women </plain></SENT>
+<SENT sid="7" pm="."><plain>In either gender, the prevalence increased with age and body mass index (BMI) </plain></SENT>
+<SENT sid="8" pm="."><plain>Gender, age, BMI and systolic blood pressure (SBP) were independently associated with type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> risk </plain></SENT>
+<SENT sid="9" pm="."><plain>Based on the estimated parameters of model, a nomogram was constructed for predicting <z:mp ids='MP_0002055'>diabetes</z:mp> separated by gender </plain></SENT>
+<SENT sid="10" pm="."><plain>The AUC for the model with 3 factors was 0.75 </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: These data suggest that the combination of age, BMI and systolic blood pressure could help identify Thai individuals at high risk of undiagnosed <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+</text></document>

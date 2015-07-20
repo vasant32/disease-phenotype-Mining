@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Insufficient blood supply to the brain causes a <z:hpo ids='HP_0002326'>transient ischemic attack</z:hpo> (<z:hpo ids='HP_0002326'>TIA</z:hpo>) or a <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>One of the causes to insufficient blood supply is cerebral <z:mp ids='MP_0006135'>artery stenosis</z:mp> </plain></SENT>
+<SENT sid="2" pm="."><plain>In this study, the feasibility of bioimpedance for monitoring such stenosis was analyzed </plain></SENT>
+<SENT sid="3" pm="."><plain>Simulations were conducted on a realistic numerical model of the head, focusing on the left middle cerebral artery (LMCA) </plain></SENT>
+<SENT sid="4" pm="."><plain>Tissues were assumed to act as linear isotropic volume conductors, and the quasi-static approximation was applied </plain></SENT>
+<SENT sid="5" pm="."><plain>Electrical potentials were calculated by solving Poisson's equation, using the finite volume method (FVM) and the successive over relaxation (SOR) method </plain></SENT>
+<SENT sid="6" pm="."><plain>The best sensitivity found was 0.471 μV/% stenosis, using this electrode configuration: one injector near the left eye and the other injector near the right ear, one measurement position near the left eye and the other one in the right ear, keeping a distance of at least 2.5 cm between measurement and injection positions </plain></SENT>
+<SENT sid="7" pm="."><plain>The maximal sensitivity achieved in the numerical model under the applied assumptions supports the feasibility of bioimpedance technique for monitoring cerebral <z:mp ids='MP_0006135'>artery stenosis</z:mp> </plain></SENT>
+<SENT sid="8" pm="."><plain>However, according to sensitivity [1/m(4)] maps, calculated for the preferable electrode configurations, the measurements' specificity to the stenosis degree might be inadequate and should be further studied </plain></SENT>
+</text></document>

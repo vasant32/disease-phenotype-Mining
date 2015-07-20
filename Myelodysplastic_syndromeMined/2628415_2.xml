@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We reviewed 213 consecutive adult pancytopenic patients to determine the frequency of underlying pathology, to analyze our diagnostic procedure, and to determine the value of peripheral blood data for diagnosis </plain></SENT>
+<SENT sid="1" pm="."><plain><z:hpo ids='HP_0001876'>Pancytopenia</z:hpo> was defined as the association of <z:chebi fb="0" ids="35143">hemoglobin</z:chebi> level below 12 g/dl in males and 11.5 g/dl in females, <z:hpo ids='HP_0001882'>leukopenia</z:hpo> below 4 x 10(9)/L, and <z:hpo ids='HP_0001873'>thrombocytopenia</z:hpo> below 150 x 10(9)/L </plain></SENT>
+<SENT sid="2" pm="."><plain>The bone marrow aspirates were normo- or hypercellular in 140 cases (66%) </plain></SENT>
+<SENT sid="3" pm="."><plain>Bone marrow biopsies, performed in 93 cases, documented the presence of <z:hpo ids='HP_0011974'>myelofibrosis</z:hpo> in 67 cases </plain></SENT>
+<SENT sid="4" pm="."><plain><z:hpo ids='HP_0001915'>Aplastic anemia</z:hpo> was diagnosed in 10% of the cases </plain></SENT>
+<SENT sid="5" pm="."><plain>Malignant myeloid disorders (<z:hpo ids='HP_0004808'>acute myeloid leukemias</z:hpo>, <z:hpo ids='HP_0002863'>myelodysplastic syndromes</z:hpo>, <z:hpo ids='HP_0011009'>acute</z:hpo> myeloid disorders with <z:hpo ids='HP_0011974'>myelofibrosis</z:hpo>) represented 42% of the cases and various malignant lymphoid disorders 18% </plain></SENT>
+<SENT sid="6" pm="."><plain><z:e sem="disease" ids="C1510471" disease_type="Disease or Syndrome" abbrv="">Vitamin deficiencies</z:e> accounted for 7.5% and nonhematological pathology 10% of the cases </plain></SENT>
+<SENT sid="7" pm="."><plain>The bone marrow aspirate was sufficient for the diagnosis in 55% of the cases, and the trephine biopsy was necessary in 30% </plain></SENT>
+<SENT sid="8" pm="."><plain>In the remaining cases, other complementary tests were necessary to achieve final diagnosis </plain></SENT>
+<SENT sid="9" pm="."><plain>A discriminant analysis, focused on the hemogram data, showed that parameters obtained by analysis of blood smears were helpful for the diagnosis, especially the presence or absence of blast cells and/or of abnormal lymphoid cells </plain></SENT>
+</text></document>

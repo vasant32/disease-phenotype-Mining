@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Currently, endoscopic biopsy is the only method used to diagnose esophageal <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> </plain></SENT>
+<SENT sid="1" pm="."><plain>Using surface-enhanced laser desorption/ionization (SELDI) ProteinChip technology, we sought to identify a potentially diagnostic serum protein pattern that can serve as a reliable blood test for the diagnosis of esophageal <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> </plain></SENT>
+<SENT sid="2" pm="."><plain>In addition, we sought to identify potential biomarkers for esophageal <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: Whole serum was collected using standard techniques from subjects with a known diagnosis of esophageal <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> as well as from subjects without any known <z:e sem="disease" ids="C0014852" disease_type="Disease or Syndrome" abbrv="">esophageal disease</z:e> </plain></SENT>
+<SENT sid="4" pm="."><plain>The samples were spotted onto a hydrophobic (H50) and immobilized metal affinity (IMAC30) chip surface and allowed to incubate </plain></SENT>
+<SENT sid="5" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> samples were run in duplicate </plain></SENT>
+<SENT sid="6" pm="."><plain>After several washes, matrix was added and a mass range of 1500 to 30000 daltons was analyzed by SELDI-Time-of-Flight mass spectroscopy </plain></SENT>
+<SENT sid="7" pm="."><plain>Statistical analysis was performed using Biomarker Pattern Software (Bio-Rad Laboratories, Hercules, CA) </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: For the H50 analysis, 3 peaks were identified that correctly diagnosed 42 of 43 cancers and 10 of 11 <z:mpath ids='MPATH_458'>normals</z:mpath> </plain></SENT>
+<SENT sid="9" pm="."><plain>For the IMAC30, 4 peaks were identified that correctly diagnosed 50 of 50 cancers and 10 of 10 <z:mpath ids='MPATH_458'>normals</z:mpath> </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSIONS: Serum proteomic pattern shows great promise in the diagnosis of esophageal <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> </plain></SENT>
+<SENT sid="11" pm="."><plain>This technology may lead to the development of a noninvasive screening test as well as to the identification of potential novel biomarkers for esophageal <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> </plain></SENT>
+</text></document>

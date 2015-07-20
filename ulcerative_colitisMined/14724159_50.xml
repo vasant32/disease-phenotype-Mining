@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: <z:e sem="disease" ids="C0021390" disease_type="Disease or Syndrome" abbrv="">Inflammatory bowel disease</z:e> (IBD) is known to be associated with <z:mp ids='MP_0000063'>reduced bone density</z:mp> but the extent to which this results in an increased risk of fracture and the contribution of <z:chebi fb="0" ids="50858">corticosteroid</z:chebi> therapy are unclear </plain></SENT>
+<SENT sid="1" pm="."><plain>We have conducted a large cohort study to address these issues </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: We selected subjects within the General Practice Research Database (GPRD) with a diagnosis of IBD and up to five matched controls for each patient </plain></SENT>
+<SENT sid="3" pm="."><plain>We derived dates of recorded hip fractures and also information on smoking, use of <z:chebi fb="0" ids="50858">corticosteroids</z:chebi>, and a number of other drugs </plain></SENT>
+<SENT sid="4" pm="."><plain>We calculated the absolute risk of fracture and the relative risk as a hazard ratio corrected for available confounders by Cox regression </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: Seventy two hip fractures were recorded in 16 550 IBD cases and 223 in 82 917 controls </plain></SENT>
+<SENT sid="6" pm="."><plain>Cox modelling gave an unadjusted relative risk of hip fracture of 1.62 (95% confidence interval (CI) 1.24-2.11) for <z:hpo ids='HP_0000001'>all</z:hpo> IBD, 1.49 (1.04-2.15) for <z:hpo ids='HP_0100279'>ulcerative colitis</z:hpo> (UC) and 2.08 (1.36-3.18) for <z:hpo ids='HP_0100280'>Crohn's disease</z:hpo> (CD) </plain></SENT>
+<SENT sid="7" pm="."><plain>Multivariate modelling showed that both current and cumulative use of <z:chebi fb="0" ids="50858">corticosteroids</z:chebi> and use of <z:chebi fb="0" ids="35482">opioid analgesics</z:chebi> confounded this relationship </plain></SENT>
+<SENT sid="8" pm="."><plain>After adjusting for confounding, the relative risk was 1.41 (0.94-2.11) for UC and 1.68 (1.01-2.78) for CD </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSION: The risk of hip fracture is increased approximately 60% in IBD patients </plain></SENT>
+<SENT sid="10" pm="."><plain><z:chebi fb="0" ids="50858">Corticosteroid</z:chebi> use is a contributor to this, both in the long term as previously recognised and also in an <z:hpo ids='HP_0011009'>acute</z:hpo> reversible manner </plain></SENT>
+<SENT sid="11" pm="."><plain>The majority of hip fracture risk in IBD patients however cannot be attributed to steroid use </plain></SENT>
+</text></document>

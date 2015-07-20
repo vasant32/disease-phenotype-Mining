@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Bipolar voltage mapping has a role in defining endocardial-based scar in postinfarct patients undergoing VT catheter ablation </plain></SENT>
+<SENT sid="1" pm="."><plain>The utility of bipolar and unipolar voltages in characterizing scar has not been evaluated in patients with nonischemic <z:hpo ids='HP_0001638'>cardiomyopathy</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>OBJECTIVE: We sought to relate LV endocardial bipolar and unipolar voltages in these patients to scar transmurality (endocardial vs. nonendocardial) and composition (homogeneous core vs. <z:hpo ids='HP_0001425'>heterogeneous</z:hpo> gray) </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: Ten consecutive <z:hpo ids='HP_0001638'>cardiomyopathy</z:hpo> patients undergoing endocardial LV VT ablation were included (48±14yrs, LVEF 43±15%) </plain></SENT>
+<SENT sid="4" pm="."><plain>Preablation late <z:chebi fb="0" ids="33375">gadolinium</z:chebi>-enhanced MRI (LGE-MRI) was used to quantify core and gray scar using signal-intensity thresholding </plain></SENT>
+<SENT sid="5" pm="."><plain>Electroanatomic LV endocardial mapping provided bipolar and unipolar voltages </plain></SENT>
+<SENT sid="6" pm="."><plain>Electroanatomic maps and LGE-MRI were rigidly registered in order to relate voltage to scar (registration error 3.6±2.9mm) </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: Bipolar voltage was lower in endocardial core compared to no scar (p&lt;0.001) </plain></SENT>
+<SENT sid="8" pm="."><plain>Unipolar voltage was lower in endocardial core and nonendocardial core than no scar (p&lt;0.001) </plain></SENT>
+<SENT sid="9" pm="."><plain>Endocardial and nonendocardial gray scar had a similar effect to core in reducing bipolar and unipolar voltages (p&lt;0.001) </plain></SENT>
+<SENT sid="10" pm="."><plain>The mass of healthy myocardium, and endocardial core scar independently predicted bipolar and unipolar voltages using GEE modeling </plain></SENT>
+<SENT sid="11" pm="."><plain>With ROC analysis, bipolar voltage &gt;1.9 mV and unipolar voltage &lt;6.7 mV had a high negative predictive value (91%) for detecting nonendocardial scar from either endocardial scar or no scar </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: In patients with nonischemic <z:hpo ids='HP_0001638'>cardiomyopathy</z:hpo>, LV endocardial bipolar voltage is dependent on endocardial core and gray scar, while unipolar voltage is influenced by core and gray scar across the LV wall as defined by LGE-MRI </plain></SENT>
+</text></document>

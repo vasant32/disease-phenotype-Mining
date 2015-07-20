@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>KCNH2 encodes the Kv11.1 channel, which conducts the rapidly activating delayed rectifier <z:chebi fb="0" ids="29103">K(+)</z:chebi> current (I Kr) in the heart </plain></SENT>
+<SENT sid="1" pm="."><plain>KCNH2 mutations cause type 2 <z:hpo ids='HP_0001657'>long QT syndrome</z:hpo> (LQT2), which increases the risk for life-threatening <z:hpo ids='HP_0004308'>ventricular arrhythmias</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>LQT2 mutations are predicted to prolong the cardiac action potential (AP) by reducing I Kr during repolarization </plain></SENT>
+<SENT sid="3" pm="."><plain>Kv11.1 contains several conserved basic amino acids in the fourth transmembrane segment (S4) of the voltage sensor that are important for <z:mpath ids='MPATH_458'>normal</z:mpath> channel trafficking and gating </plain></SENT>
+<SENT sid="4" pm="."><plain>This study sought to determine the mechanism(s) by which LQT2 mutations at conserved <z:chebi fb="0" ids="32700">arginine residues</z:chebi> in S4 (R531Q, R531W or R534L) alter Kv11.1 function </plain></SENT>
+<SENT sid="5" pm="."><plain>Western blot analyses of HEK293 cells transiently expressing R531Q, R531W or R534L suggested that only R534L inhibited Kv11.1 trafficking </plain></SENT>
+<SENT sid="6" pm="."><plain>Voltage-clamping experiments showed that R531Q or R531W dramatically altered Kv11.1 current (I Kv11.1) activation, inactivation, recovery from inactivation and deactivation </plain></SENT>
+<SENT sid="7" pm="."><plain>Coexpression of <z:mp ids='MP_0002169'>wild type</z:mp> (to mimic the patients' genotypes) mostly corrected the changes in I Kv11.1 activation and inactivation, but deactivation kinetics were still faster </plain></SENT>
+<SENT sid="8" pm="."><plain>Computational simulations using a human ventricular AP model showed that accelerating deactivation rates was sufficient to prolong the AP, but these effects were minimal compared to simply reducing I Kr </plain></SENT>
+<SENT sid="9" pm="."><plain>These are the first data to demonstrate that coexpressing <z:mp ids='MP_0002169'>wild type</z:mp> can correct activation and inactivation dysfunction caused by mutations at a critical voltage-sensing residue in Kv11.1 </plain></SENT>
+<SENT sid="10" pm="."><plain>We conclude that some Kv11.1 mutations might accelerate deactivation to cause LQT2 but that the ventricular AP duration is much more sensitive to mutations that decrease I Kr </plain></SENT>
+<SENT sid="11" pm="."><plain>This likely explains why most LQT2 mutations are nonsense or trafficking-deficient </plain></SENT>
+</text></document>

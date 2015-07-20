@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Burkitt <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">BL</z:e>) is caused by translocation of the MYC gene to an immunoglobulin locus resulting in its constitutive expression depending on the activity of the immunoglobulin (Ig) enhancer elements </plain></SENT>
+<SENT sid="1" pm="."><plain>Treatment of <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">BL</z:e> cell lines with epigenetic modifiers is known to repress B-cell-specific genes and to up-regulate B-cell-inappropriate genes including the transcription repressor ID2 expression </plain></SENT>
+<SENT sid="2" pm="."><plain>We found that the DNA methyltransferase inhibitor <z:chebi fb="0" ids="50131">decitabine</z:chebi>/5-aza-2-deoxycytidine (5-aza-dC) represses the MYC oncogene on <z:chebi fb="40" ids="33697">RNA</z:chebi> and protein levels by inducing ID2 </plain></SENT>
+<SENT sid="3" pm="."><plain>Down-regulation of MYC was associated with repression of transcriptional activity of the Ig locus and with inhibition of proliferation </plain></SENT>
+<SENT sid="4" pm="."><plain>The induction of ID2 can be in part explained by activation of the transcription factor NF-κB </plain></SENT>
+<SENT sid="5" pm="."><plain>We conclude that up-regulation of ID2 contributes to anti-<z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumour</z:e> activity of 5-aza-dC via repression of Ig locus activity and consequently MYC expression </plain></SENT>
+<SENT sid="6" pm="."><plain>Copyright © 2013 Pathological Society of Great Britain and Ireland </plain></SENT>
+<SENT sid="7" pm="."><plain>Published by John Wiley &amp; Sons, Ltd </plain></SENT>
+</text></document>

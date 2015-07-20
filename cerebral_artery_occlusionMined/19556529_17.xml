@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND PURPOSE: Plasma levels of matrix metalloproteinase-9 (MMP-9) have been proposed to be a useful biomarker for assessing pathological events in brain </plain></SENT>
+<SENT sid="1" pm="."><plain>Here, we examined the temporal profiles of MMP-9 in blood and brain using a rat model of <z:hpo ids='HP_0011009'>acute</z:hpo> focal <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: Plasma and brain levels of MMP-2 and MMP-9 were quantified at 3, 6, 12, and 24 hours after permanent middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> in male Sprague-Dawley rats </plain></SENT>
+<SENT sid="3" pm="."><plain><z:mpath ids='MPATH_124'>Infarct</z:mpath> volumes at 24 hours were confirmed with 2,3,5-triphenyl-tetrazolium-<z:chebi fb="76" ids="17996">chloride</z:chebi> staining </plain></SENT>
+<SENT sid="4" pm="."><plain>RESULTS: In plasma, zymographic bands were detected between 70 and 95 kDa corresponding to pro-MMP-2, pro-MMP-9, and activated MMP-9 </plain></SENT>
+<SENT sid="5" pm="."><plain>A higher 135-kDa band was also seen that is likely to be NGAL-conjugated MMP-9 </plain></SENT>
+<SENT sid="6" pm="."><plain>After <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e>, there were no significant changes in pro-MMP-2, but plasma levels of pro-MMP-9 steadily increased over the course of 24 hours </plain></SENT>
+<SENT sid="7" pm="."><plain>Activated MMP-9 levels in plasma were significantly elevated only at 24 hours </plain></SENT>
+<SENT sid="8" pm="."><plain>Plasma NGAL-MMP-9 complexes showed a transient elevation between 3 to 6 hours, after which levels decreased back down to pre-ischemic baselines </plain></SENT>
+<SENT sid="9" pm="."><plain>In brain homogenates, pro-MMP-2, pro-MMP-9, and activated MMP-9 were seen but no NGAL-MMP-9 bands were detected </plain></SENT>
+<SENT sid="10" pm="."><plain>Compared to the contralateral hemisphere, MMP-2 and MMP-9 levels in ischemic brain progressively increased over the course of 24 hours </plain></SENT>
+<SENT sid="11" pm="."><plain>Overall levels of MMP-9 in plasma and brain were significantly correlated, especially at 24 hours </plain></SENT>
+<SENT sid="12" pm="."><plain>Plasma levels of pro-MMP-9 at 24 hours were correlated with final <z:mpath ids='MPATH_124'>infarct</z:mpath> volumes </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSIONS: Elevated plasma levels of MMP-9 appear to be correlated with brain levels within 24 hours of <z:hpo ids='HP_0011009'>acute</z:hpo> <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> in rats </plain></SENT>
+<SENT sid="14" pm="."><plain>Further investigation into clinical profiles of MMP-9 in <z:hpo ids='HP_0011009'>acute</z:hpo> <z:hpo ids='HP_0001297'>stroke</z:hpo> patients may be useful </plain></SENT>
+</text></document>

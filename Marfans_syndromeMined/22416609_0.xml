@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 12-year-old boy with <z:e sem="disease" ids="C0024796" disease_type="Disease or Syndrome" abbrv="MFS|MFS1">Marfan's syndrome</z:e> required a biventricular assist device (VAD) after an aortic root replacement </plain></SENT>
+<SENT sid="1" pm="."><plain>The patient developed <z:hpo ids='HP_0011009'>acute</z:hpo> <z:hpo ids='HP_0002098'>respiratory distress</z:hpo> syndrome and required escalating ventilator support </plain></SENT>
+<SENT sid="2" pm="."><plain>We hypothesized that the addition of a membrane oxygenator in series with the assist device would improve gas exchange and allow for a more lung-protective ventilator approach </plain></SENT>
+<SENT sid="3" pm="."><plain>A membrane oxygenator was placed in series with the right VAD resulting in a blood path of right atrium to VAD to oxygenator to pulmonary artery </plain></SENT>
+<SENT sid="4" pm="."><plain>Circuit function was gauged by monitoring flow and oxygenator pressures and periodic circuit inspections and oxygenator blood gases </plain></SENT>
+<SENT sid="5" pm="."><plain><z:chebi fb="5" ids="28304">Heparin</z:chebi> was titrated to maintain unfractionated antifactor Xa levels of .3-.7 IU/mL and partial thromboplastin time of 60-80 seconds </plain></SENT>
+<SENT sid="6" pm="."><plain>The initial sweep gas supplying the oxygenator was 5 L/min at an F1O2 of 1.0, which achieved a pH &gt; 7.40 and a PF ratio &gt; 250 </plain></SENT>
+<SENT sid="7" pm="."><plain>The pre- and post-oxygenator pressures were 55-60 mmHg and 45-50 mmHg, respectively, and the measured flow at the oxygenator outlet was 2.0-2.2 L/min </plain></SENT>
+<SENT sid="8" pm="."><plain>The patient was changed from high-frequency oscillatory ventilation to pressure-controlled synchronized intermittent ventilation with pH maintained at 7.35-7.40 and PF ratio &gt; 250 </plain></SENT>
+<SENT sid="9" pm="."><plain>Paralytics were discontinued and the patient's neurologic condition was deemed intact </plain></SENT>
+<SENT sid="10" pm="."><plain>The patient hemorrhaged after a sternal closure and required transfusions and antifibrinolytics that led to <z:e sem="disease" ids="C0302148,C0087086" disease_type="Disease or Syndrome;Acquired Abnormality" abbrv="">thrombus</z:e> in the membrane and membrane circuitry, which were replaced without incident </plain></SENT>
+<SENT sid="11" pm="."><plain>The patient's respiratory status remained stable; however, his overall condition worsened as a result of additional organ dysfunction and <z:mpath ids='MPATH_681'>septicemia</z:mpath>, and he did not survive </plain></SENT>
+<SENT sid="12" pm="."><plain>The addition of a membrane oxygenator to a VAD is feasible and supplements gas exchange permitting the use of more lung protective ventilation </plain></SENT>
+</text></document>

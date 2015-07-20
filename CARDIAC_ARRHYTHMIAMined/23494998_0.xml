@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Clinical decision support software (CDSS) solutions can automatically identify drug interactions and thereby aim to improve drug safety </plain></SENT>
+<SENT sid="1" pm="."><plain>However, data on the comparative performance of different CDSS to detect and appropriately classify interactions in real-life prescription datasets is limited </plain></SENT>
+<SENT sid="2" pm="."><plain>OBJECTIVE: The aim of this study was to compare the results from two different CDSS analysing the pharmacotherapy of a large population of psychiatric inpatients for drug interactions </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: We performed mass analyses of cross-sectional patient-level prescriptions from 84,625 psychiatric inpatients using two CDSS - MediQ and ID PHARMA CHECK(®) </plain></SENT>
+<SENT sid="4" pm="."><plain>Interactions with the highest risk ratings and the most frequent ratings were reclassified according to the Zurich Interaction System (ZHIAS), a multidimensional classification that incorporates the OpeRational ClassificAtion of Drug Interactions (ORCA) and served as a reference standard </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: MediQ reported 6,133 unique interacting combinations responsible for 270,617 alerts affecting 63,454 patients </plain></SENT>
+<SENT sid="6" pm="."><plain>ID PHARMA CHECK(®) issued 5,400 interactions and 157,489 alerts in 48,302 patients </plain></SENT>
+<SENT sid="7" pm="."><plain>Only 2,154 unique interactions were identified by both programmes, but overlap increased with higher risk rating </plain></SENT>
+<SENT sid="8" pm="."><plain>MediQ reported high-risk interactions in 2.5 % of <z:hpo ids='HP_0000001'>all</z:hpo> patients, compared with 5 % according to ID PHARMA CHECK(®) </plain></SENT>
+<SENT sid="9" pm="."><plain>The positive predictive value for unique major alerts to be (provisionally) contraindicated according to ORCA was higher for MediQ (0.63) than for either of the two ID PHARMA CHECK(®) components (0.42 for hospINDEX and 0.30 for ID MACS) </plain></SENT>
+<SENT sid="10" pm="."><plain>MediQ reported more interactions, and ID PHARMA CHECK(®) tended to classify interactions into a higher risk class, but overall both programmes identified a similar number of (provisionally) contraindicated interactions according to ORCA criteria </plain></SENT>
+<SENT sid="11" pm="."><plain>Both programmes identified <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> as the most frequent specific risk associated with interactions in psychiatric patients </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: CDSS can be used for mass-analysis of prescription data and thereby support quality management </plain></SENT>
+<SENT sid="13" pm="."><plain>However, in clinical practice CDSS impose an overwhelming alert burden on the prescriber, and prediction of clinical relevance remains a major challenge </plain></SENT>
+<SENT sid="14" pm="."><plain>Only a small subset of yet to be determined alerts appears suitable for automated display in clinical routine </plain></SENT>
+</text></document>

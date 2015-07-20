@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We report a case of <z:e sem="disease" ids="C0587044" disease_type="Disease or Syndrome" abbrv="">left ventricular thrombus</z:e> which caused <z:mpath ids='MPATH_118'>systemic embolism</z:mpath> during <z:chebi fb="8" ids="10033">warfarin</z:chebi> therapy </plain></SENT>
+<SENT sid="1" pm="."><plain>A 66-year-old man admitted to our hospital with intermittent <z:hpo ids='HP_0007185'>loss of consciousness</z:hpo> and incomplete palsy </plain></SENT>
+<SENT sid="2" pm="."><plain>The patient had a past history of <z:e sem="disease" ids="C0007785" disease_type="Disease or Syndrome" abbrv="">cerebral infarction</z:e>, <z:hpo ids='HP_0000822'>hypertension</z:hpo> and <z:hpo ids='HP_0000819'>diabetes mellitus</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>Electrocardiography showed <z:mp ids='MP_0010515'>abnormal Q waves</z:mp> at II, III, and aVF </plain></SENT>
+<SENT sid="4" pm="."><plain>Echocardiography showed a mobile protruding <z:e sem="disease" ids="C0302148,C0087086" disease_type="Disease or Syndrome;Acquired Abnormality" abbrv="">thrombus</z:e> at the left ventricular apex </plain></SENT>
+<SENT sid="5" pm="."><plain>Left ventricular cineangiography showed a filling defect at the left ventricle </plain></SENT>
+<SENT sid="6" pm="."><plain>Coronary angiography confirmed total occlusion of the right coronary artery and significant stenosis of the left coronary artery </plain></SENT>
+<SENT sid="7" pm="."><plain>After administration of <z:chebi fb="8" ids="10033">warfarin</z:chebi>, the patient suddenly fell down to the <z:e sem="disease" ids="C0009421" disease_type="Disease or Syndrome" abbrv="">comatose</z:e> state </plain></SENT>
+<SENT sid="8" pm="."><plain>His left arm became pale without pulsation </plain></SENT>
+<SENT sid="9" pm="."><plain>The <z:e sem="disease" ids="C0302148,C0087086" disease_type="Disease or Syndrome;Acquired Abnormality" abbrv="">thrombus</z:e> in the left ventricle disappeared by echocardiography and <z:mpath ids='MPATH_118'>systemic embolism</z:mpath> was suspected </plain></SENT>
+<SENT sid="10" pm="."><plain>Thromboembolectomy from his left arm was performed </plain></SENT>
+<SENT sid="11" pm="."><plain>Two weeks after the day brain computed tomography showed low density area at the posterior lobe of the cerebrum </plain></SENT>
+<SENT sid="12" pm="."><plain>Although the eyesight of the patient was lost, he could stand and walk with some help two months later </plain></SENT>
+<SENT sid="13" pm="."><plain>This is a rare case of <z:mpath ids='MPATH_118'>systemic embolism</z:mpath> during <z:chebi fb="8" ids="10033">warfarin</z:chebi> therapy due to <z:e sem="disease" ids="C0587044" disease_type="Disease or Syndrome" abbrv="">left ventricular thrombus</z:e> whose process was constantly observed by echocardiography </plain></SENT>
+</text></document>

@@ -1,0 +1,6 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 32 year old <z:mp ids='MP_0001261'>obese</z:mp>, diabetic and hypertensive woman presented with signs of increasing intracranial pressure: <z:hpo ids='HP_0000651'>diplopia</z:hpo>, partial lateralised Jacksonian <z:hpo ids='HP_0001250'>seizures</z:hpo> followed by alternating post-ictal <z:hpo ids='HP_0002301'>hemiplegia</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>She was also anaemic </plain></SENT>
+<SENT sid="2" pm="."><plain>Investigation revealed lead poisoning and <z:mp ids='MP_0005048'>thrombosis</z:mp> of the superior sagittal sinus </plain></SENT>
+<SENT sid="3" pm="."><plain>She recovered rapidly with <z:chebi fb="5" ids="28304">heparin</z:chebi> and calcium EDTA therapy, except for persistent <z:hpo ids='HP_0000648'>optic atrophy</z:hpo> due to the <z:e sem="disease" ids="C0030353" disease_type="Disease or Syndrome" abbrv="">papilloedema</z:e> </plain></SENT>
+<SENT sid="4" pm="."><plain>The authors discuss the relation of lead <z:hpo ids='HP_0001298'>encephalopathy</z:hpo> and dural sinus <z:mp ids='MP_0005048'>thrombosis</z:mp>, and the contribution of each condition to this patient's clinical symptoms </plain></SENT>
+</text></document>

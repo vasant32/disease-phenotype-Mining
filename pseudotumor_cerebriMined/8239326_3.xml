@@ -1,0 +1,7 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 16-year-old girl complained about a <z:hpo ids='HP_0002315'>headache</z:hpo> of one-month's duration, accompanied by vertical <z:hpo ids='HP_0000651'>diplopia</z:hpo> that had appeared ten days earlier </plain></SENT>
+<SENT sid="1" pm="."><plain>The girl reported receiving vitamin A and <z:chebi fb="1" ids="50694">minocycline</z:chebi> to treat <z:hpo ids='HP_0001061'>acne</z:hpo> vulgaris for the previous six weeks </plain></SENT>
+<SENT sid="2" pm="."><plain>An examination revealed bilateral optic disc <z:hpo ids='HP_0000969'>edema</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain><z:mpath ids='MPATH_458'>Normal</z:mpath> computed tomographic and magnetic resonance imaging examinations enabled a diagnosis of <z:e sem="disease" ids="C0033845" disease_type="Disease or Syndrome" abbrv="">pseudotumor cerebri</z:e> to be made </plain></SENT>
+<SENT sid="4" pm="."><plain>Soon after discontinuation of those medications, the <z:hpo ids='HP_0002315'>headaches</z:hpo> and <z:hpo ids='HP_0000651'>diplopia</z:hpo> diminished </plain></SENT>
+<SENT sid="5" pm="."><plain>We suggest a periodic ophthalmologic examination during systemic therapy with vitamin A combined with <z:chebi fb="1" ids="50694">minocycline</z:chebi> to detect the early occurrence of <z:e sem="disease" ids="C0033845" disease_type="Disease or Syndrome" abbrv="">pseudotumor cerebri</z:e> </plain></SENT>
+</text></document>

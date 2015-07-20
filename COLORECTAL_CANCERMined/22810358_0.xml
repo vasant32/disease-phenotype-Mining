@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Policy-makers have called for efforts to reduce overuse of <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> screening tests, including <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> screening (CRCS) </plain></SENT>
+<SENT sid="1" pm="."><plain>Overuse of CRCS tests other than colonoscopy has not been well documented </plain></SENT>
+<SENT sid="2" pm="."><plain>OBJECTIVE: To estimate levels and correlates of fecal occult blood test (FOBT) overuse in a national Veterans Health Administration (VHA) sample </plain></SENT>
+<SENT sid="3" pm="."><plain>DESIGN: Observational PARTICIPANTS: Participants included 1,844 CRCS-eligible patients who responded to a 2007 CRCS survey conducted in 24 VHA facilities and had one or more FOBTs between 2003 and 2009 </plain></SENT>
+<SENT sid="4" pm="."><plain>MAIN MEASURES: We combined survey data on race, education, and income with administrative data on region, age, gender, CRCS procedures, and outpatient visits to estimate overuse levels and variation </plain></SENT>
+<SENT sid="5" pm="."><plain>We coded FOBTs as overused if they were conducted &lt;10 months after prior FOBT, &lt;9.5 years after prior colonoscopy, or &lt;4.5 years after prior <z:chebi fb="8" ids="32594,32595">barium</z:chebi> enema </plain></SENT>
+<SENT sid="6" pm="."><plain>We used multinomial logistic regression models to examine variation in overuse by reason (sooner than recommended after prior FOBT; sooner than recommended after colonoscopy, <z:chebi fb="8" ids="32594,32595">barium</z:chebi> enema, or a combination of procedures), adjusting for clustering of procedures within patients, and patients within facilities </plain></SENT>
+<SENT sid="7" pm="."><plain>KEY RESULTS: Of 4,236 FOBTs received by participants, 885 (21 %) met overuse criteria, with 323 (8 %) sooner than recommended after FOBT, and 562 (13 %) sooner than recommended after other procedures </plain></SENT>
+<SENT sid="8" pm="."><plain>FOBT overuse varied across facilities (9-32 %, p&lt;0.0001) and region (12-23 %, p&lt; .0012) </plain></SENT>
+<SENT sid="9" pm="."><plain>FOBT overuse after prior FOBT declined between 2003 and 2009 (8 %-5 %, p= .0492), but overuse after other procedures increased (11-19 %, p= .0002) </plain></SENT>
+<SENT sid="10" pm="."><plain>FOBT overuse of both types increased with number of outpatient visits (OR 1.15, p&lt;0.001), but did not vary by patient demographics </plain></SENT>
+<SENT sid="11" pm="."><plain>More than 11 % of overused FOBTs were followed by colonoscopy within 12 months </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: Many FOBTs are performed sooner than recommended in the VHA </plain></SENT>
+<SENT sid="13" pm="."><plain>Variation in overuse by facility, region, and outpatient visits suggests addressing FOBT overuse will require system-level solutions </plain></SENT>
+</text></document>

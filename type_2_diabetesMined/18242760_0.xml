@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Both <z:hpo ids='HP_0002910'>elevated liver enzymes</z:hpo> and a family history of <z:hpo ids='HP_0000819'>diabetes mellitus</z:hpo> (FHDM) are independent risk factors for type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="1" pm="."><plain>This study evaluates the epidemiological association between <z:hpo ids='HP_0002910'>elevated liver enzymes</z:hpo> and FHDM </plain></SENT>
+<SENT sid="2" pm="."><plain>Subjects included 3512 women workers without <z:mp ids='MP_0002055'>diabetes</z:mp>, <z:hpo ids='HP_0012115'>hepatitis</z:hpo>, a smoking habit, or a history of alcohol intake </plain></SENT>
+<SENT sid="3" pm="."><plain>Blood samples and personal data were collected from <z:hpo ids='HP_0000001'>all</z:hpo> subjects </plain></SENT>
+<SENT sid="4" pm="."><plain>Subjects with FHDM had a higher mean body mass index (BMI: 23.9kg/m(2) vs. 23.4kg/m(2); p=0.003) </plain></SENT>
+<SENT sid="5" pm="."><plain>Laboratory testing also revealed higher mean fasting plasma <z:chebi fb="105" ids="17234">glucose</z:chebi> (FPG: 5.67mmol/L vs. 5.22mmol/L; p&lt;0.001), asparate aminotransferase (AST: 20.0IU/L vs. 19.2IU/L; p=0.049), alanine aminotransferase (ALT: 18.4IU/L vs. 16.7IU/L; p=0.004), gamma-glutamyltranspeptidase (GGT: 24.1IU/L vs. 20.5IU/L; p&lt;0.001), and <z:chebi fb="4" ids="17855">triglycerides</z:chebi> (TG: 1.09mmol/L vs. 1.00mmol/L; p=0.011) for FHDM subjects, when adjusted for age and BMI </plain></SENT>
+<SENT sid="6" pm="."><plain>Multiple linear regression analysis revealed that FHDM, age, BMI, FPG, and TG were correlated with GGT (p=0.004 for FHDM; p&lt;0.001 for age, BMI, FPG, and TG) </plain></SENT>
+<SENT sid="7" pm="."><plain><z:hpo ids='HP_0002910'>Elevated liver enzymes</z:hpo> were associated with FHDM </plain></SENT>
+<SENT sid="8" pm="."><plain>In particular, elevated GGT was related to FHDM, independent of the other variables </plain></SENT>
+<SENT sid="9" pm="."><plain><z:hpo ids='HP_0002910'>Elevated liver enzymes</z:hpo>, probably due to fat deposition in the liver, may play a role in increasing the risk of <z:mp ids='MP_0002055'>diabetes</z:mp> in individuals with FHDM </plain></SENT>
+</text></document>

@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Rationale: <z:hpo ids='HP_0006510'>Chronic obstructive pulmonary disease</z:hpo> (COPD) is an independent risk factor for <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> and the risk increases with severity of airflow limitation </plain></SENT>
+<SENT sid="1" pm="."><plain>Even though vulnerable carotid artery plaque components, such as intraplaque <z:mp ids='MP_0001914'>hemorrhage</z:mp> and <z:chebi fb="23" ids="18059">lipid</z:chebi> core, place persons at high risk for ischemic events, the plaque composition in patients with COPD has never been explored </plain></SENT>
+<SENT sid="2" pm="."><plain>Objectives: To investigate the prevalence of carotid wall thickening, the different carotid artery plaque components, and their relationship with severity of airflow limitation in elderly patients with COPD </plain></SENT>
+<SENT sid="3" pm="."><plain>Methods: This cross-sectional analysis was part of the Rotterdam Study, a prospective population-based cohort study performed in subjects aged 55 years and older </plain></SENT>
+<SENT sid="4" pm="."><plain>Diagnosis of COPD was confirmed by spirometry </plain></SENT>
+<SENT sid="5" pm="."><plain>Participants with carotid wall intima-media thickness greater than or equal to 2.5 mm on ultrasonography underwent high-resolution magnetic resonance imaging for characterization of carotid plaques </plain></SENT>
+<SENT sid="6" pm="."><plain>Data were analyzed using logistic regression </plain></SENT>
+<SENT sid="7" pm="."><plain>Measurements and Main Results: COPD cases (n = 253) had a twofold increased risk (odds ratio, 2.0; 95% confidence interval, 1.44-2.85; P &lt; 0.0001) of presentation with carotid wall thickening on ultrasonography compared with control subjects with a <z:mpath ids='MPATH_458'>normal</z:mpath> lung function (n = 920) </plain></SENT>
+<SENT sid="8" pm="."><plain>Moreover, the risk increased significantly with severity of airflow limitation </plain></SENT>
+<SENT sid="9" pm="."><plain>On magnetic resonance imaging, vulnerable <z:chebi fb="23" ids="18059">lipid</z:chebi> core plaques were more frequent in COPD cases than in control subjects (odds ratio, 2.1; 95% confidence interval, 1.25-3.69; P = 0.0058) </plain></SENT>
+<SENT sid="10" pm="."><plain>Conclusions: Carotid artery wall thickening is more prevalent in patients with COPD than in control subjects </plain></SENT>
+<SENT sid="11" pm="."><plain>In elderly subjects with carotid wall thickening, COPD is an independent predictor for the presence of a <z:chebi fb="23" ids="18059">lipid</z:chebi> core, and therefore of vulnerable plaques </plain></SENT>
+</text></document>

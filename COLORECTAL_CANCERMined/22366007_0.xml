@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: To construct a recombinant lentiviral vector that stably express hepatocyte nuclear factor 6 (HNF6) in <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> cell line and examine its effects on the invasive ability of SW620 cells </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: The lentiviral vector pLeno-DCE-HA-HNF6 was constructed and transfected into 293T cells </plain></SENT>
+<SENT sid="2" pm="."><plain>The supernatant containing the lentivirus particles was harvested to determine the virus titer </plain></SENT>
+<SENT sid="3" pm="."><plain>A stable cell line was established by infecting SW620 cells with the lentivirus particles, and the transfection efficiency was examined by fluorescence microscopy and flow cytometry </plain></SENT>
+<SENT sid="4" pm="."><plain>The invasion ability of the transfected SW620-HNF6 cells was assessed by wound healing and transwell assays </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: The recombinant lentiviral vector was correctly constructed and verified by sequencing </plain></SENT>
+<SENT sid="6" pm="."><plain>SW620-HNF6 cell line with stable HNF6 expression was established successfully, and the transfection efficiency reached 82.3% </plain></SENT>
+<SENT sid="7" pm="."><plain>Western blotting and quantitative PCR demonstrated significantly upregulated HNF6 expression in SW620-HNF6 cells, which showed obviously suppressed invasive ability in wound healing and transwell assays </plain></SENT>
+<SENT sid="8" pm="."><plain>CONCLUSION: We have successfully established a <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> cell line SW620-HNF6 stably expressing HNF6, which shows a lowered migration activity in vitro </plain></SENT>
+</text></document>

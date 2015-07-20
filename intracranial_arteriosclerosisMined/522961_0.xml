@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Regional cerebral blood flow (rCBF) was determined in man by <z:chebi fb="3" ids="49957">Xenon</z:chebi>-133 intravenous bolus injection technique </plain></SENT>
+<SENT sid="1" pm="."><plain>This method is of value especially for patients with <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>The measuring system constituted of a 16 channel cerebrograph (rCBF 1656, Meditronic, Denmark) and a minicomputer (AI Electronics, Japan) </plain></SENT>
+<SENT sid="3" pm="."><plain>Then, for an estimation of rCBF, two compartment analysis was applied in which a special computer program was used for this purpose </plain></SENT>
+<SENT sid="4" pm="."><plain>Amount of <z:chebi fb="3" ids="49957">Xenon</z:chebi>-133 in expired air was used for calculation, since we confirmed that <z:chebi fb="3" ids="49957">Xenon</z:chebi>-133 clearance in expired air was similar to that in arterial blood except for those patients with <z:hpo ids='HP_0006536'>obstructive lung disease</z:hpo> and so on </plain></SENT>
+<SENT sid="5" pm="."><plain>In <z:mpath ids='MPATH_458'>normal</z:mpath> adults, rCBF of the gray matter was 67 +/- 13 ml/100 g brain/min </plain></SENT>
+<SENT sid="6" pm="."><plain>(95% confidence limits) </plain></SENT>
+<SENT sid="7" pm="."><plain>Patients who had been <z:hpo ids='HP_0002326'>TIA</z:hpo> or <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">RIND</z:e>, revealed a decrease of rCBF of 33--49 ml/100 g brain/min. bilaterally, although they did not show any clinical signs at the time of measurement </plain></SENT>
+<SENT sid="8" pm="."><plain>Contrariwise, two cases of <z:e sem="disease" ids="C0026654" disease_type="Disease or Syndrome" abbrv="MYMY|MYMY1">Moya-moya disease</z:e> showed a <z:mpath ids='MPATH_458'>normal</z:mpath> value of rCBF at their silent periods </plain></SENT>
+</text></document>

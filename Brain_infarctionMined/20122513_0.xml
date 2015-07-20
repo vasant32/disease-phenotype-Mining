@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Computer-based analysis of textures in magnetic resonance images provides a higher sensitivity to textural changes that cannot be recognized by the naked human eye </plain></SENT>
+<SENT sid="1" pm="."><plain>Thus, there is a better potential for identifying pathophysiological processes at an earlier stage or of a different character than even a trained radiologist can find </plain></SENT>
+<SENT sid="2" pm="."><plain>In the present study, the potential of texture analysis for in vivo identification of the administering effect of an <z:chebi fb="0" ids="35472">anti-inflammatory drug</z:chebi> in cerebral <z:hpo ids='HP_0001297'>stroke</z:hpo> in rats was evaluated </plain></SENT>
+<SENT sid="3" pm="."><plain>Twenty-seven Wistar rats underwent middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> resulting in local ischemic brain <z:mpath ids='MPATH_124'>infarct</z:mpath> </plain></SENT>
+<SENT sid="4" pm="."><plain>One group of rats received alpha-melanocyte stimulating hormone (alpha-<z:chebi fb="6" ids="16768">MSH</z:chebi>) and a control group received saline only </plain></SENT>
+<SENT sid="5" pm="."><plain>T2-weighted images, apparent diffusion maps, and T2 maps were recorded by <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e> </plain></SENT>
+<SENT sid="6" pm="."><plain>Texture features were calculated in the T2-weighted images and correlated to the apparent diffusion coefficient (<z:chebi fb="49" ids="35181">ADC</z:chebi>) and the T2 values </plain></SENT>
+<SENT sid="7" pm="."><plain>From an array of tested texture features three independent features were tested further </plain></SENT>
+<SENT sid="8" pm="."><plain>Two of which were found to provide a significant discriminative classification between the control and the alpha-<z:chebi fb="6" ids="16768">MSH</z:chebi> groups </plain></SENT>
+<SENT sid="9" pm="."><plain>Furthermore, the same two texture features were significantly correlated to the <z:chebi fb="49" ids="35181">ADCs</z:chebi> </plain></SENT>
+<SENT sid="10" pm="."><plain>Thus, quantification of texture features can be helpful in detecting the effects of <z:hpo ids='HP_0001297'>stroke</z:hpo> therapy </plain></SENT>
+</text></document>

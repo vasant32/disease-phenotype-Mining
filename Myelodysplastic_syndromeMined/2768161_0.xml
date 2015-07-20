@@ -1,0 +1,7 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Thirty thrombocytopaenic patients of <z:hpo ids='HP_0011009'>acute</z:hpo> <z:mpath ids='MPATH_336'>leukaemias</z:mpath> and <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo> were transfused platelets collected from ABO-matched donors using Haemonetics V30 and V50 blood processors </plain></SENT>
+<SENT sid="1" pm="."><plain>Twenty-seven patients had <z:e sem="disease" ids="C0036690" disease_type="Disease or Syndrome" abbrv="">septicaemia</z:e> and/or <z:hpo ids='HP_0001744'>splenomegaly</z:hpo>; 2 patients had <z:hpo ids='HP_0005521'>disseminated intravascular coagulation</z:hpo> (<z:chebi fb="0" ids="53092">DIC</z:chebi>) </plain></SENT>
+<SENT sid="2" pm="."><plain>Pre-transfusion platelet count was 11.0 +/- 4.0 X 10(9)/L </plain></SENT>
+<SENT sid="3" pm="."><plain>The mean corrected count increments (CCI) 1 hour and 18 hours post-transfusion were 13.02 X 10(9)/L and 3.88 X 10(9)/L respectively, in the absence of <z:chebi fb="0" ids="53092">DIC</z:chebi> </plain></SENT>
+<SENT sid="4" pm="."><plain>Active <z:mp ids='MP_0001914'>bleeding</z:mp> stopped when platelet count was above 15.0 X 10(9)/L </plain></SENT>
+<SENT sid="5" pm="."><plain>There was no difference between the platelet yield from two blood processors </plain></SENT>
+</text></document>

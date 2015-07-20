@@ -1,0 +1,32 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:e sem="disease" ids="C0240066" disease_type="Disease or Syndrome" abbrv="">Iron-deficiency</z:e> <z:hpo ids='HP_0001903'>anaemia</z:hpo> (IDA) represents a major burden to public health worldwide </plain></SENT>
+<SENT sid="1" pm="."><plain>The therapeutic aim for patients with IDA is to return iron stores and <z:chebi fb="34" ids="35143">haemoglobin</z:chebi> (Hb) levels to within the <z:mpath ids='MPATH_458'>normal</z:mpath> range using supplemental iron therapy and erythropoiesis-stimulating agents </plain></SENT>
+<SENT sid="2" pm="."><plain>Oral and previous intravenous (i.v.) iron formulations have a number of disadvantages, including immunogenic reactions, <z:mp ids='MP_0003674'>oxidative stress</z:mp>, low dosages, long administration times and the requirement for a test dose </plain></SENT>
+<SENT sid="3" pm="."><plain>Ferric carboxymaltose (FCM, Ferinject) is a novel, next-generation i.v. iron formulation with the potential to overcome these limitations </plain></SENT>
+<SENT sid="4" pm="."><plain>In this single-centre, randomized, double-blind, placebo-controlled study, the pharmacokinetics (PK), pharmacodynamics (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">PD</z:e>), safety and tolerability of single, escalating doses of FCM were investigated </plain></SENT>
+<SENT sid="5" pm="."><plain>Four ascending doses were investigated in a total of 24 patients with mild IDA (defined as serum ferritin &lt; 20 microg/l and transferrin saturation [TfS] &lt; 16%): 100 mg iron as FCM given as an i.v. bolus injection, and 500, 800 and 1000 mg iron as FCM given as an i.v. infusion over 15 min </plain></SENT>
+<SENT sid="6" pm="."><plain>At each dose level six patients received FCM and two received placebo </plain></SENT>
+<SENT sid="7" pm="."><plain>The decision to escalate to the next dose was based on evaluation of safety and tolerability data from the previous dose </plain></SENT>
+<SENT sid="8" pm="."><plain>The maximum duration of the study was 5 weeks from screening to final assessment </plain></SENT>
+<SENT sid="9" pm="."><plain>Assessments were made of PK iron-status parameters up to 168 h post-dose </plain></SENT>
+<SENT sid="10" pm="."><plain>Safety assessments included incidence of adverse events (AEs), clinical laboratory parameters and vital signs </plain></SENT>
+<SENT sid="11" pm="."><plain>PK and <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">PD</z:e> parameters were analysed using descriptive statistics </plain></SENT>
+<SENT sid="12" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> analyses were performed on the safety population, which included <z:hpo ids='HP_0000001'>all</z:hpo> patients who received &gt; or = 1 dose of study medication </plain></SENT>
+<SENT sid="13" pm="."><plain>Seventy-seven patients were screened and, of these, 32 male and female patients with pre-study Hb between 9.2 and 11.9 g/dl and serum ferritin &lt; 20 microg/l were included in the study </plain></SENT>
+<SENT sid="14" pm="."><plain>Two patients had TfS &gt; 16% (19.2% and 17.2%); both patients were considered by the investigator to be eligible for inclusion </plain></SENT>
+<SENT sid="15" pm="."><plain>Compared with placebo, a rapid, dose-dependent increase in total serum iron was observed across <z:hpo ids='HP_0000001'>all</z:hpo> dose groups </plain></SENT>
+<SENT sid="16" pm="."><plain>Mean (standard deviation) maximum total serum iron levels ranged between 36.9 (4.4) and 317.9 (42.3) microg/ml in the 100 and 1000 mg groups </plain></SENT>
+<SENT sid="17" pm="."><plain>Concentration-time curves of total serum iron continuously declined for up to 24 and 72 h post-dose in the 100 and 500-1000 mg groups, respectively </plain></SENT>
+<SENT sid="18" pm="."><plain>Non-compartmental analysis of PK parameters was truncated at 24 h (100 mg) and 72 h (500-1000 mg doses) </plain></SENT>
+<SENT sid="19" pm="."><plain>A dose-dependent, but not dose-linear, increase in serum ferritin was seen in <z:hpo ids='HP_0000001'>all</z:hpo> treatment groups compared with placebo, with peak levels of a 23-210-fold increase above baseline occurring 48-120 h postdose </plain></SENT>
+<SENT sid="20" pm="."><plain>Iron-binding capacity was transiently almost fully utilized after doses of 500, 800 and 1000 mg (TfS &gt; 95%) </plain></SENT>
+<SENT sid="21" pm="."><plain>No meaningful changes in serum transferrin or serum transferrin receptor concentrations were observed during this study </plain></SENT>
+<SENT sid="22" pm="."><plain>The elimination pattern for FCM appeared to be mono-exponential; FCM was cleared from serum with a terminal halflife of approximately 7.4-12.1 h </plain></SENT>
+<SENT sid="23" pm="."><plain>The percentage of FCM excreted in urine was negligible (0.0005%) </plain></SENT>
+<SENT sid="24" pm="."><plain>FCM was well tolerated; a total of 19 AEs were reported by 8/32 patients (25%), of which three were considered by the investigator to be related to FCM: <z:hpo ids='HP_0002017'>nausea and vomiting</z:hpo> (one patient [100 mg]), and <z:hpo ids='HP_0002315'>headache</z:hpo> (one patient [1000 mg]) </plain></SENT>
+<SENT sid="25" pm="."><plain>The incidence of AEs did not increase with dose </plain></SENT>
+<SENT sid="26" pm="."><plain>No severe or serious AEs, or <z:hpo ids='HP_0011420'>deaths</z:hpo> occurred </plain></SENT>
+<SENT sid="27" pm="."><plain>FCM had no significant effect on laboratory safety parameters or vital signs </plain></SENT>
+<SENT sid="28" pm="."><plain>This study satisfactorily characterized the PK/<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">PD</z:e> parameters of single doses of 100, 500, 800 and 1000 mg iron as FCM </plain></SENT>
+<SENT sid="29" pm="."><plain>The majority of FCM was utilized or eliminated within 24 h of administration of a 100 mg dose and within 72 h of a 500-1000 mg dose </plain></SENT>
+<SENT sid="30" pm="."><plain>FCM was generally well tolerated across <z:hpo ids='HP_0000001'>all</z:hpo> doses in patients with mild IDA </plain></SENT>
+</text></document>

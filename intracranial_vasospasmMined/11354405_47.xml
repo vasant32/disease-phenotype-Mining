@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECT: <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">Ischemia</z:e> due to vasospasm is a feared complication in patients following aneurysmal <z:hpo ids='HP_0002138'>subarachnoid hemorrhage</z:hpo> (SAH) </plain></SENT>
+<SENT sid="1" pm="."><plain>Cerebral online microdialysis monitoring may detect the metabolic changes in the extracellular fluid associated with <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> </plain></SENT>
+<SENT sid="2" pm="."><plain>The aims of the present study were to correlate clinical course, microdialysis-recorded data, transcranial Doppler (TCD) ultrasonography findings, and angiographic findings in patients with SAH </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: In 60 patients a microdialysis catheter was inserted into the brain parenchyma that is most likely to be affected by vasospasm directly after <z:hpo ids='HP_0002617'>aneurysm</z:hpo> clipping </plain></SENT>
+<SENT sid="4" pm="."><plain>Hourly analyses of <z:chebi fb="105" ids="17234">glucose</z:chebi>, <z:chebi fb="1" ids="15361">pyruvate</z:chebi>, <z:chebi fb="4" ids="24996">lactate</z:chebi>, and <z:chebi fb="6" ids="14321,29987">glutamate</z:chebi> levels were performed using a bedside device </plain></SENT>
+<SENT sid="5" pm="."><plain>Blood-flow velocities were obtained using serial TCD measurements </plain></SENT>
+<SENT sid="6" pm="."><plain>Cerebral angiography was routinely performed on Day 7 after <z:hpo ids='HP_0002617'>aneurysm</z:hpo> clipping or earlier in cases of clinical deterioration (30 patients) </plain></SENT>
+<SENT sid="7" pm="."><plain>In <z:hpo ids='HP_0000001'>all</z:hpo> patients the results of microdialysis monitoring, TCD ultrasonography, and angiography were correlated </plain></SENT>
+<SENT sid="8" pm="."><plain>The mean duration of monitoring was 7.3+/-2.5 days </plain></SENT>
+<SENT sid="9" pm="."><plain>In patients with <z:hpo ids='HP_0011009'>acute</z:hpo> ischemic neurological deficits (18 patients) immediate microdialysis-recorded alterations were observed if the probe was placed close to the malperfused region </plain></SENT>
+<SENT sid="10" pm="."><plain>In 13 of 15 patients with symptomatic vasospasm (delayed ischemic neurological deficit [DIND]), the microdialysis-recorded values revealed secondary deterioration </plain></SENT>
+<SENT sid="11" pm="."><plain>In terms of confirming DIND, microdialysis had the highest specificity (0.89, 95% confidence interval [CI] 0.78-1) compared with TCD ultrasonography (0.63, 95% CI 0.46-0.8) and angiography (0.53, 95% CI 0.35-0.7) </plain></SENT>
+<SENT sid="12" pm="."><plain>For microdialysis, the positive likelihood ratio was 7.8, whereas this was significantly lower for TCD ultrasonography (1.7) and angiography (2.1) </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSIONS: Although angiography also demonstrates vessel narrowing in asymptomatic patients, online microdialysis reveals characteristic metabolic changes that occur during vasospasm </plain></SENT>
+<SENT sid="14" pm="."><plain>Thus, online microdialysis may be used to confirm the diagnosis of vasospasm </plain></SENT>
+</text></document>

@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The availability of genetically engineered mice allows the unraveling of the role of specific proteins in mechanisms of ischemic brain injury </plain></SENT>
+<SENT sid="1" pm="."><plain>Due to the high variability of their vascular <z:mp ids='MP_0000002'>anatomy</z:mp>, mouse models of global <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> are rather complex </plain></SENT>
+<SENT sid="2" pm="."><plain>In the present study, we describe a simple model of mouse forebrain <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> where the bilateral common carotid <z:mp ids='MP_0006134'>artery occlusion</z:mp> (BCCO) is combined with <z:chebi fb="0" ids="6015">isoflurane</z:chebi>-induced <z:hpo ids='HP_0002615'>hypotension</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>The forebrain <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> was induced by BCCO that was preceded by increase of the <z:chebi fb="0" ids="6015">isoflurane</z:chebi> level from 1.5% to 5% in the respiratory gases </plain></SENT>
+<SENT sid="4" pm="."><plain>This caused a decrease of the mean arterial blood pressure (MABP) to about 30mmHg and the cerebral blood flow dropped to 5% of the control after the BCCO </plain></SENT>
+<SENT sid="5" pm="."><plain>During the 10min ischemic period both MABP and CBF remained stable and the reperfusion was induced by reducing the <z:chebi fb="0" ids="6015">isoflurane</z:chebi> level to 0% followed by removal of the carotid clamps </plain></SENT>
+<SENT sid="6" pm="."><plain>Mice were allowed 1, 2, 3 or 5 days survival followed by histologic analysis </plain></SENT>
+<SENT sid="7" pm="."><plain>The number of CA1 uninjured neurons was assessed utilizing a stereological approach </plain></SENT>
+<SENT sid="8" pm="."><plain><z:hpo ids='HP_0002180'>Neurodegeneration</z:hpo> was observed at 2 days after the <z:hpo ids='HP_0003674'>onset</z:hpo> of reperfusion </plain></SENT>
+<SENT sid="9" pm="."><plain>At 3 days of recovery, about 40% of neurons survived and the cell <z:hpo ids='HP_0011420'>death</z:hpo> did not further increase at 5 days </plain></SENT>
+<SENT sid="10" pm="."><plain>Degenerative neurons were also detected in the striatum and sporadically in the cortex </plain></SENT>
+<SENT sid="11" pm="."><plain>This study demonstrates the feasibility of using the described model in mice that can be utilized to examine the effect of new neuroprotective compounds or use transgenic animals to test new hypothesis </plain></SENT>
+</text></document>

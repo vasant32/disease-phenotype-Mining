@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND PURPOSE: Transcranial Doppler ultrasound can be used to detect circulating <z:e sem="disease" ids="C0007780" disease_type="Disease or Syndrome" abbrv="">cerebral emboli</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>Recent studies have demonstrated that <z:mpath ids='MPATH_110'>embolus</z:mpath> size is significantly related to both the relative intensity increase and duration of an embolic signal </plain></SENT>
+<SENT sid="2" pm="."><plain>This may allow information about <z:mpath ids='MPATH_110'>embolus</z:mpath> size to be obtained by analysis of Doppler embolic signals </plain></SENT>
+<SENT sid="3" pm="."><plain>However, theoretically duration will be inversely related to velocity, and therefore velocity may need to be accounted for if information on <z:mpath ids='MPATH_110'>embolus</z:mpath> size is to be derived from the duration of Doppler embolic signals </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS: The relation between velocity and both relative intensity increase and duration of embolic signal was investigated in an in vitro flow model, a sheep carotid artery model, and in patients with prosthetic heart valves </plain></SENT>
+<SENT sid="5" pm="."><plain>The same standard transcranial Doppler ultrasound machine was used for <z:hpo ids='HP_0000001'>all</z:hpo> studies </plain></SENT>
+<SENT sid="6" pm="."><plain>Embolic signals resulting from 99 glass microspheres (size, 210 to 250 microns) were studied in the in vitro model, as were those from 64 glass microspheres (size, 105 to 150 microns) in the sheep model </plain></SENT>
+<SENT sid="7" pm="."><plain>Embolic signals recorded from the six middle cerebral arteries of three patients with prosthetic cardiac valves were also studied </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: There was a significant (P &lt; .001) inverse relation between velocity and duration of high-intensity signal (in vitro model, r = -.82; sheep model, r = -.43); the exact relations were described using best-fit equations </plain></SENT>
+<SENT sid="9" pm="."><plain>Correlation coefficients for this relation in patients varied between -.30 and -.55 </plain></SENT>
+<SENT sid="10" pm="."><plain>There was also an unexpected significant positive relation between velocity and intensity in the sheep model (r = .44, P &lt; .001) but not in the in vitro model (P &gt; .05) </plain></SENT>
+<SENT sid="11" pm="."><plain>This relation was also seen in some, but not <z:hpo ids='HP_0000001'>all</z:hpo>, patients </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: When the duration of embolic signals is used to provide information about the relative size of an <z:mpath ids='MPATH_110'>embolus</z:mpath>, the velocity of the embolic signal should be taken into account </plain></SENT>
+<SENT sid="13" pm="."><plain>A relation between velocity and relative intensity increase was found in the sheep model and in some patient recordings </plain></SENT>
+<SENT sid="14" pm="."><plain>It is suggested this relation may result from greater power being supplied to emboli traveling at higher velocities in the center of the vessel; this may occur under certain recording conditions </plain></SENT>
+</text></document>

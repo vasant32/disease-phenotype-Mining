@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0002863'>Myelodysplastic syndromes</z:hpo> have increased in frequency and incidence in the American population, but patient prognosis has not significantly improved over the last decade </plain></SENT>
+<SENT sid="1" pm="."><plain>Such improvements could be realized if biomarkers for accurate diagnosis and prognostic stratification were successfully identified </plain></SENT>
+<SENT sid="2" pm="."><plain>In this study, we propose a method that associates two state-of-the-art array technologies--single nucleotide polymor-phism(SNP) array and gene expression array--with gene motifs considered transcription factor-binding sites (TFBS) </plain></SENT>
+<SENT sid="3" pm="."><plain>We are particularly interested in SNP-containing motifs introduced by genetic variation and mutation as TFBS </plain></SENT>
+<SENT sid="4" pm="."><plain>The potential regulation of SNP-containing motifs affects only when certain mutations occur </plain></SENT>
+<SENT sid="5" pm="."><plain>These motifs can be identified from a group of co-expressed genes with copy number variation </plain></SENT>
+<SENT sid="6" pm="."><plain>Then, we used a sliding window to identify motif candidates near SNPs on gene sequences </plain></SENT>
+<SENT sid="7" pm="."><plain>The candidates were filtered by coarse thresholding and fine statistical testing </plain></SENT>
+<SENT sid="8" pm="."><plain>Using the regression-based LARS-EN algorithm and a level-wise sequence combination procedure, we identified 28 SNP-containing motifs as candidate TFBS </plain></SENT>
+<SENT sid="9" pm="."><plain>We confirmed 21 of the 28 motifs with ChIP-chip fragments in the TRANSFAC database </plain></SENT>
+<SENT sid="10" pm="."><plain>Another six motifs were validated by TRANSFAC via searching binding fragments on co-regulated genes </plain></SENT>
+<SENT sid="11" pm="."><plain>The identified motifs and their location genes can be considered potential biomarkers for <z:hpo ids='HP_0002863'>myelodysplastic syndromes</z:hpo> </plain></SENT>
+<SENT sid="12" pm="."><plain>Thus, our proposed method, a novel strategy for associating two data categories, is capable of integrating information from different sources to identify reliable candidate regulatory SNP-containing motifs introduced by genetic variation and mutation </plain></SENT>
+</text></document>

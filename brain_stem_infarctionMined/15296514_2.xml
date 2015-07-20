@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Fusobacterium necrophorum may cause a number of clinical syndromes, collectively known as <z:e sem="disease" ids="C0027537" disease_type="Disease or Syndrome" abbrv="">necrobacillosis</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain><z:hpo ids='HP_0001287'>Meningitis</z:hpo> is a significant cause of mortality, rarely reported in the adult population </plain></SENT>
+<SENT sid="2" pm="."><plain>CASE PRESENTATION: We report a fatal case of <z:hpo ids='HP_0001287'>meningitis</z:hpo>, caused by Fusobacterium necrophorum, secondary to <z:hpo ids='HP_0000388'>otitis media</z:hpo> in an alcoholic male </plain></SENT>
+<SENT sid="3" pm="."><plain>Diagnosis was delayed due to the typical slow growth of the organism </plain></SENT>
+<SENT sid="4" pm="."><plain>The clinical course was complicated by <z:hpo ids='HP_0002383'>encephalitis</z:hpo> and by <z:hpo ids='HP_0000238'>hydrocephalus</z:hpo> </plain></SENT>
+<SENT sid="5" pm="."><plain>The patient failed to respond to <z:chebi fb="1" ids="6909">metronidazole</z:chebi> and <z:chebi fb="93" ids="17334">penicillin</z:chebi> </plain></SENT>
+<SENT sid="6" pm="."><plain>The patient died on day 12 from <z:hpo ids='HP_0002516'>increased intracranial pressure</z:hpo> and <z:e sem="disease" ids="C0521542" disease_type="Disease or Syndrome" abbrv="">brain stem infarction</z:e> </plain></SENT>
+<SENT sid="7" pm="."><plain>CONCLUSIONS: This case emphasizes the need for a high index of clinical suspicion to make the diagnosis of Fusobacterium necrophorum <z:hpo ids='HP_0001287'>meningitis</z:hpo> </plain></SENT>
+<SENT sid="8" pm="."><plain>We recommend the use of appropriate anaerobic culture techniques and antimicrobial coverage for anaerobic organisms when the gram stain shows <z:mp ids='MP_0001795'>gram negative</z:mp> bacilli </plain></SENT>
+</text></document>

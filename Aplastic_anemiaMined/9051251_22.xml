@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0011010'>Chronic</z:hpo> <z:hpo ids='HP_0002091'>restrictive lung disease</z:hpo> in a 9-year-old boy with <z:mp ids='MP_0009563'>dyskeratosis</z:mp> congenita (DC) 7 years after allogeneic bone marrow transplantation (BMT) is described </plain></SENT>
+<SENT sid="1" pm="."><plain>When he was 1 year and 10 months old, severe <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> developed </plain></SENT>
+<SENT sid="2" pm="."><plain>He received a marrow transplant from his HLA serologically identical, but HLA-DP mismatched brother </plain></SENT>
+<SENT sid="3" pm="."><plain>He developed grade II <z:hpo ids='HP_0011009'>acute</z:hpo> <z:e sem="disease" ids="C0018133" disease_type="Disease or Syndrome" abbrv="GVH">graft-versus-host disease</z:e> (GVHD) and thereafter <z:hpo ids='HP_0011010'>chronic</z:hpo> GVHD of progressive type, and was treated with both <z:chebi fb="2" ids="8378">prednisolone</z:chebi> and <z:chebi fb="2" ids="2948">azathioprine</z:chebi> resulting in clinical improvement </plain></SENT>
+<SENT sid="4" pm="."><plain>Thereafter he complained of <z:hpo ids='HP_0002094'>dyspnea</z:hpo>, and bilateral noncircumscribed interstitial shadows on chest CT scan were present </plain></SENT>
+<SENT sid="5" pm="."><plain>His pulmonary function showed restrictive changes </plain></SENT>
+<SENT sid="6" pm="."><plain><z:chebi fb="2" ids="8378">Prednisolone</z:chebi> was not effective and he died of <z:hpo ids='HP_0002093'>respiratory failure</z:hpo> </plain></SENT>
+<SENT sid="7" pm="."><plain>Post-mortem examination confirmed interstitial <z:mp ids='MP_0003045'>fibrosis</z:mp>, <z:e sem="disease" ids="C1262091" disease_type="Disease or Syndrome" abbrv="">lymphocytic infiltration</z:e> of the bronchioles and alveoli with <z:chebi fb="2" ids="8069">luminal</z:chebi> <z:mp ids='MP_0003045'>fibrosis</z:mp> </plain></SENT>
+<SENT sid="8" pm="."><plain>There was no evidence of <z:hpo ids='HP_0011010'>chronic</z:hpo> GVHD in the skin and the liver </plain></SENT>
+<SENT sid="9" pm="."><plain>These findings raise the possibility that this pulmonary complication was associated with DC itself </plain></SENT>
+</text></document>

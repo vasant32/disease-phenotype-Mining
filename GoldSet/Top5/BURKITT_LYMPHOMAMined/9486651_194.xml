@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Secondary lymphoid organs (spleen, lymph nodes and Peyer's patches) are divided into compartments, such as B-cell zones (follicles) and T-cell zones, which provide specialized environments for specific steps of the immune response </plain></SENT>
+<SENT sid="1" pm="."><plain>Migration of lymphocyte subsets into these compartments is essential for <z:mpath ids='MPATH_458'>normal</z:mpath> immune function, yet the molecular cues guiding this cellular traffic are poorly defined </plain></SENT>
+<SENT sid="2" pm="."><plain>Chemokines constitute a family of chemotactic cytokines that have been shown to direct the migration of leukocytes during <z:mp ids='MP_0001845'>inflammation</z:mp> and which may be involved in the constitutive homing of lymphocytes into follicles and T-cell zones </plain></SENT>
+<SENT sid="3" pm="."><plain>Here we describe a novel chemokine, B-lymphocyte chemoattractant (BLC), that is strongly expressed in the follicles of Peyer's patches, the spleen and lymph nodes </plain></SENT>
+<SENT sid="4" pm="."><plain>BLC strongly attracts B lymphocytes while promoting migration of only small numbers of T cells and macrophages, and therefore is the first chemokine to be identified that is selective towards B cells </plain></SENT>
+<SENT sid="5" pm="."><plain>An orphan chemokine receptor, Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> receptor 1 (BLR-1), has been found to be required for B-cell migration into lymphoid follicles </plain></SENT>
+<SENT sid="6" pm="."><plain>We show that BLC stimulates calcium influx into, and chemotaxis of, cells transfected with BLR-1 </plain></SENT>
+<SENT sid="7" pm="."><plain>Our results indicate that BLC functions as a BLR-1 ligand and may guide B lymphocytes to follicles in secondary lymphoid organs </plain></SENT>
+</text></document>

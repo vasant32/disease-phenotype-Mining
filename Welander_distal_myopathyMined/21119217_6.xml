@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Dysferlin (DYSF) is a type II transmembrane protein implicated in surface membrane repair of muscle </plain></SENT>
+<SENT sid="1" pm="."><plain>Mutations in dysferlin lead to <z:hpo ids='HP_0006785'>Limb Girdle Muscular Dystrophy</z:hpo> 2B (LGMD2B), Miyoshi <z:hpo ids='HP_0003198'>Myopathy</z:hpo> (MM), and Distal <z:hpo ids='HP_0003198'>Myopathy</z:hpo> with Anterior Tibialis <z:hpo ids='HP_0003674'>onset</z:hpo> (DMAT) </plain></SENT>
+<SENT sid="2" pm="."><plain>The DYSF protein complex is not well understood, and only a few protein-binding partners have been identified thus far </plain></SENT>
+<SENT sid="3" pm="."><plain>To increase the set of interacting protein partners for DYSF we recovered a list of predicted interacting protein through a systems biology approach </plain></SENT>
+<SENT sid="4" pm="."><plain>The predictions are part of a "reverse-engineered" genome-wide human gene regulatory network obtained from experimental data by computational analysis </plain></SENT>
+<SENT sid="5" pm="."><plain>The reverse-engineering algorithm behind the analysis relates genes to each other based on changes in their expression patterns </plain></SENT>
+<SENT sid="6" pm="."><plain>DYSF and AHNAK were used to query the system and extract lists of potential interacting proteins </plain></SENT>
+<SENT sid="7" pm="."><plain>Among the 32 predictions the two genes share, we validated the physical interaction between DYSF protein with moesin (MSN) and polymerase I and transcript release factor (PTRF) in mouse heart lysate, thus identifying two novel Dysferlin-interacting proteins </plain></SENT>
+<SENT sid="8" pm="."><plain>Our strategy could be useful to clarify Dysferlin function in intracellular vesicles and its implication in muscle membrane resealing </plain></SENT>
+</text></document>

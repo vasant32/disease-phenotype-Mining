@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Diamond-Blackfan <z:hpo ids='HP_0001903'>anemia</z:hpo> (<z:chebi fb="28" ids="35299">DBA</z:chebi>) is an inherited form of pure red cell <z:mpath ids='MPATH_58'>aplasia</z:mpath> that usually presents in infancy or early childhood and is associated with <z:e sem="disease" ids="C1705254" disease_type="Disease or Syndrome" abbrv="">congenital malformations</z:e> in ∼30-50% of patients </plain></SENT>
+<SENT sid="1" pm="."><plain><z:chebi fb="28" ids="35299">DBA</z:chebi> has been associated with mutations in nine ribosomal protein (RP) genes in about 53% of patients </plain></SENT>
+<SENT sid="2" pm="."><plain>We completed a large-scale screen of 79 RP genes by sequencing 16 RP genes (RPL3, RPL7, RPL8, RPL10, RPL14, RPL17, RPL19, RPL23A, RPL26, RPL27, RPL35, RPL36A, RPL39, RPS4X, RPS4Y1, and RPS21) in 96 DBA probands </plain></SENT>
+<SENT sid="3" pm="."><plain>We identified a de novo two-nucleotide deletion in RPL26 in one proband associated with multiple severe physical abnormalities </plain></SENT>
+<SENT sid="4" pm="."><plain>This mutation gives rise to a remarkable ribosome biogenesis defect that affects maturation of both the small and the large subunits </plain></SENT>
+<SENT sid="5" pm="."><plain>We also found a deletion in RPL19 and missense mutations in RPL3 and RPL23A, which may be variants of unknown significance </plain></SENT>
+<SENT sid="6" pm="."><plain>Together with RPL5, RPL11, and RPS7, RPL26 is the fourth RP regulating p53 activity that is linked to <z:chebi fb="28" ids="35299">DBA</z:chebi> </plain></SENT>
+</text></document>

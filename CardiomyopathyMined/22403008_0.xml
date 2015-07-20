@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The E2F/Rb pathway regulates cardiac growth and development and holds great potential as a therapeutic target </plain></SENT>
+<SENT sid="1" pm="."><plain>The E2F6 repressor is a unique E2F member that acts independently of pocket proteins </plain></SENT>
+<SENT sid="2" pm="."><plain>Forced expression of E2F6 in mouse myocardium induced <z:hpo ids='HP_0001635'>heart failure</z:hpo> and mortality, with severity of symptoms correlating to E2F6 levels </plain></SENT>
+<SENT sid="3" pm="."><plain>Echocardiography demonstrated a 37% increase (P&lt;0.05) in left ventricular end-diastolic diameter and reduced ejection fraction (&lt;40%, P&lt;0.05) in young transgenic (Tg) mice </plain></SENT>
+<SENT sid="4" pm="."><plain>Microarray and qPCR analysis revealed a paradoxical increase in E2F-responsive genes, which regulate the cell cycle, without changes in cardiomyocyte cell number or size in Tg mice </plain></SENT>
+<SENT sid="5" pm="."><plain>Young adult Tg mice displayed a 75% (P&lt;0.01) decrease in gap junction protein connexin-43, resulting in <z:hpo ids='HP_0011675'>abnormal electrocardiogram</z:hpo> including a 24% (P&lt;0.05) increase in PR interval </plain></SENT>
+<SENT sid="6" pm="."><plain>Further, mir-206, which targets connexin-43, was up-regulated 10-fold (P&lt;0.05) in Tg myocardium </plain></SENT>
+<SENT sid="7" pm="."><plain>The <z:chebi fb="0" ids="52290">mitogen</z:chebi>-activated protein kinase pathway, which regulates the levels of miR-206 and connexin-43, was activated in Tg hearts </plain></SENT>
+<SENT sid="8" pm="."><plain>Thus, deregulated E2F6 levels evoked abnormal gene expression at transcriptional and post-transcriptional levels, leading to cardiac remodeling and <z:hpo ids='HP_0001644'>dilated cardiomyopathy</z:hpo> </plain></SENT>
+<SENT sid="9" pm="."><plain>The data highlight an unprecedented role for the strict regulation of the E2F pathway in <z:mpath ids='MPATH_458'>normal</z:mpath> postnatal cardiac function </plain></SENT>
+</text></document>

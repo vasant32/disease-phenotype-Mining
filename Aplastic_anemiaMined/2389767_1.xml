@@ -1,0 +1,5 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 15 year old girl with <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> developed a <z:chebi fb="5" ids="28304">heparin</z:chebi>-like <z:chebi fb="3" ids="50249">anticoagulant</z:chebi> during the course of <z:e sem="disease" ids="C0153252" disease_type="Disease or Syndrome" abbrv="">systemic candidiasis</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>This was initially detected in the laboratory by an elevation of the thrombin clotting time which corrected with toluidine blue but not by mixing with <z:mpath ids='MPATH_458'>normal</z:mpath> plasma </plain></SENT>
+<SENT sid="2" pm="."><plain>In vivo and in vitro the <z:chebi fb="3" ids="50249">anticoagulant</z:chebi> was remarkably resistant to neutralization by protamine <z:chebi fb="0" ids="16189">sulfate</z:chebi> </plain></SENT>
+<SENT sid="3" pm="."><plain>Nevertheless, its <z:chebi fb="5" ids="28304">heparin</z:chebi>-like nature was confirmed by its sensitivity to heparinase and its dependence on antithrombin III </plain></SENT>
+</text></document>

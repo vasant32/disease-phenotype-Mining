@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0005110'>Atrial fibrillation</z:hpo> (AF) is a prevalent condition particularly amongst the elderly, which contributes to both morbidity and mortality </plain></SENT>
+<SENT sid="1" pm="."><plain>The burden of disease has lead to significant increases in health care utilization and cost in recent years </plain></SENT>
+<SENT sid="2" pm="."><plain>Treatment of <z:hpo ids='HP_0005110'>Atrial fibrillation</z:hpo> consists of either a rate or rhythm control strategy </plain></SENT>
+<SENT sid="3" pm="."><plain>Rhythm control is achieved using medical management and/or catheter ablation </plain></SENT>
+<SENT sid="4" pm="."><plain>In spite of major strides in catheter ablation, this procedure remains a second line treatment of AF </plain></SENT>
+<SENT sid="5" pm="."><plain>Anti-arrhythmic medications represent the main treatment modality for the maintenance of sinus rhythm </plain></SENT>
+<SENT sid="6" pm="."><plain><z:chebi fb="0" ids="2663">Amiodarone</z:chebi> has been used for decades because of its efficacy and lack of pro-<z:hpo ids='HP_0011675'>arrhythmia</z:hpo> despite numerous extracardiac side effects </plain></SENT>
+<SENT sid="7" pm="."><plain>Novel agents such as <z:chebi fb="0" ids="50659">Dronedarone</z:chebi> were designed to emulate <z:chebi fb="0" ids="2663">Amiodarone</z:chebi> without the extra-cardiac side effects </plain></SENT>
+<SENT sid="8" pm="."><plain>Unfortunately recent trials have raised concerns for the safety of this medication in certain patients </plain></SENT>
+<SENT sid="9" pm="."><plain>Other agents such as Vernakalant and Ranolazine are in development that promise to be more atrial selective in their action, thereby potentially avoiding pro-<z:hpo ids='HP_0011675'>arrhythmia</z:hpo> and <z:hpo ids='HP_0001635'>heart failure</z:hpo> side effects </plain></SENT>
+<SENT sid="10" pm="."><plain>It remains to be seen however if one or more of these agents achieves the required high efficacy and safety threshold </plain></SENT>
+<SENT sid="11" pm="."><plain>This review summarizes the main anti-arrhythmic clinical trials, early phase trials involving novel agents and examines the conflicting data relating to <z:chebi fb="0" ids="50659">Dronedarone</z:chebi> </plain></SENT>
+</text></document>

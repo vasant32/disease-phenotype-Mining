@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Ghrelin is a GH-releasing <z:chebi fb="7" ids="16670">peptide</z:chebi> mainly excreted from the stomach </plain></SENT>
+<SENT sid="1" pm="."><plain>Ghrelin administration has been shown to inhibit cardiac sympathetic nerve activity (CSNA), reduce malignant <z:hpo ids='HP_0011675'>arrhythmia</z:hpo>, and improve prognosis after <z:hpo ids='HP_0011009'>acute</z:hpo> <z:hpo ids='HP_0001658'>myocardial infarction</z:hpo> (MI) </plain></SENT>
+<SENT sid="2" pm="."><plain>We therefore investigated the effects and potential mechanisms of the action of endogenous ghrelin on survival rate and CSNA after MI by using ghrelin-knockout (KO) mice </plain></SENT>
+<SENT sid="3" pm="."><plain>MI was induced by left coronary artery ligation in 46 KO mice and 41 <z:mp ids='MP_0002169'>wild-type</z:mp> mice </plain></SENT>
+<SENT sid="4" pm="."><plain>On the first day, malignant <z:hpo ids='HP_0011675'>arrhythmia</z:hpo>-induced mortality was observed within 30 min of the ligation and had an incidence of 2.4% in <z:mp ids='MP_0002169'>wild-type</z:mp> and 17.4% in KO mice (P &lt; 0.05) </plain></SENT>
+<SENT sid="5" pm="."><plain>We next evaluated CSNA by spectral analysis of heart rate variability </plain></SENT>
+<SENT sid="6" pm="."><plain>CSNA, represented by the low frequency/high frequency ratio, was higher in KO mice at baseline (2.18 ± 0.43 vs. 0.98 ± 0.09; P &lt; 0.05), and especially after MI (25.5 ± 11.8 vs. 1.4 ± 0.3; P &lt; 0.05), than in <z:mp ids='MP_0002169'>wild-type</z:mp> mice </plain></SENT>
+<SENT sid="7" pm="."><plain>Ghrelin (150 μg/kg, s.c.) 15 min before ligation suppressed the activation of CSNA and reduced mortality in KO mice </plain></SENT>
+<SENT sid="8" pm="."><plain>Further, this effect of ghrelin was inhibited by methylatropine <z:chebi fb="25" ids="15858">bromide</z:chebi> (1 mg/kg, i.p.) or by perineural treatment of both cervical vagal trunks with <z:chebi fb="8" ids="3374">capsaicin</z:chebi> (a specific afferent neurotoxin) </plain></SENT>
+<SENT sid="9" pm="."><plain>Our data demonstrated that both exogenous and endogenous ghrelin suppressed CSNA, prevented the incidence of malignant <z:hpo ids='HP_0011675'>arrhythmia</z:hpo>, and improved the prognosis after <z:hpo ids='HP_0011009'>acute</z:hpo> MI </plain></SENT>
+<SENT sid="10" pm="."><plain>These effects are likely to be via the vagal afferent nerves </plain></SENT>
+</text></document>

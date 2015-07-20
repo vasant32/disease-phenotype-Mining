@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Endoscopy guided probe-based optical biopsy is a new method for detecting sites for tissue biopsy and treatment </plain></SENT>
+<SENT sid="1" pm="."><plain>After detection, it can be useful to provide a visual aid in the endoscopic images to the endoscopist for example for guidance of forceps to the biopsy sites detected optically </plain></SENT>
+<SENT sid="2" pm="."><plain>A new method for re-localisation of these sites during the endoscopic examination is presented in this paper </plain></SENT>
+<SENT sid="3" pm="."><plain>It makes use of a sequence of endoscopic images, where the biopsy site location is known, in order to derive the same number of epipolar lines as images in the sequence projected onto a subsequent target image where the re-localised biopsy site needs to be computed </plain></SENT>
+<SENT sid="4" pm="."><plain>The location of the re-localised biopsy site is found by minimisation of the sum of squared distances to the epipolar lines </plain></SENT>
+<SENT sid="5" pm="."><plain>The method also determines analytically the uncertainty of the re-localised biopsy site </plain></SENT>
+<SENT sid="6" pm="."><plain>This provides the endoscopist with a confidence region around the re-localised biopsy site and a measure of the re-localisation precision </plain></SENT>
+<SENT sid="7" pm="."><plain>Simulations confirmed that the analytical uncertainty has the potential to be a good estimation of the experimental uncertainty </plain></SENT>
+<SENT sid="8" pm="."><plain>The method was tested on a physical phantom and on real data from four patients with eight sequences of images acquired during gastroscopy </plain></SENT>
+<SENT sid="9" pm="."><plain>The re-localisation precision and accuracy were estimated at 1 millimetre or better, which is sufficient for re-localisation of optical biopsy sites </plain></SENT>
+</text></document>

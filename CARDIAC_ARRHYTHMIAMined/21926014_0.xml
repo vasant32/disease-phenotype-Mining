@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>X-ray fluoroscopically guided cardiac electrophysiological procedures are routinely carried out for diagnosis and treatment of <z:hpo ids='HP_0011675'>cardiac arrhythmias</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>X-ray images have poor soft tissue contrast and, for this reason, overlay of static 3-D roadmaps derived from preprocedural volumetric data can be used to add anatomical information </plain></SENT>
+<SENT sid="2" pm="."><plain>However, the registration between the 3-D roadmap and the 2-D X-ray image can be compromised by patient respiratory motion </plain></SENT>
+<SENT sid="3" pm="."><plain>Three methods were designed and evaluated to correct for respiratory motion using features in the 2-D X-ray images </plain></SENT>
+<SENT sid="4" pm="."><plain>The first method is based on tracking either the diaphragm or the heart border using the image intensity in a region of interest </plain></SENT>
+<SENT sid="5" pm="."><plain>The second method detects the tracheal bifurcation using the generalized Hough transform and a 3-D model derived from 3-D preoperative volumetric data </plain></SENT>
+<SENT sid="6" pm="."><plain>The third method is based on tracking the coronary sinus (CS) catheter </plain></SENT>
+<SENT sid="7" pm="."><plain>This method uses blob detection to find <z:hpo ids='HP_0000001'>all</z:hpo> possible catheter electrodes in the X-ray image </plain></SENT>
+<SENT sid="8" pm="."><plain>A cost function is applied to select one CS catheter from <z:hpo ids='HP_0000001'>all</z:hpo> catheter-like objects </plain></SENT>
+<SENT sid="9" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> three methods were applied to X-ray images from 18 patients undergoing radiofrequency ablation for the treatment of <z:hpo ids='HP_0005110'>atrial fibrillation</z:hpo> </plain></SENT>
+<SENT sid="10" pm="."><plain>The 2-D target registration errors (TRE) at the pulmonary veins were calculated to validate the methods </plain></SENT>
+<SENT sid="11" pm="."><plain>A TRE of 1.6 mm ± 0.8 mm was achieved for the diaphragm tracking; 1.7 mm ± 0.9 mm for heart border tracking, 1.9 mm ± 1.0 mm for trachea tracking, and 1.8 mm ± 0.9 mm for CS catheter tracking </plain></SENT>
+<SENT sid="12" pm="."><plain>We present a comprehensive comparison between the techniques in terms of robustness, as computed by tracking errors, and accuracy, as computed by TRE using two independent approaches </plain></SENT>
+</text></document>

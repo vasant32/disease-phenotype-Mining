@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Protein O-mannosylation represents an evolutionarily conserved, essential posttranslational modification with immense impact on a variety of cellular processes </plain></SENT>
+<SENT sid="1" pm="."><plain>In humans, O-mannosylation defects result in Walker-Warburg syndrome, a severe recessive <z:hpo ids='HP_0003741'>congenital muscular dystrophy</z:hpo> associated with defects in neuronal migration that produce complex brain and eye abnormalities </plain></SENT>
+<SENT sid="2" pm="."><plain>In mouse and yeasts, loss of O-mannosylation causes <z:mp ids='MP_0010769'>lethality</z:mp> </plain></SENT>
+<SENT sid="3" pm="."><plain>Protein O-mannosyltransferases (PMTs) initiate the assembly of O-mannosyl <z:chebi fb="0" ids="18154">glycans</z:chebi> </plain></SENT>
+<SENT sid="4" pm="."><plain>The evolutionarily conserved PMT family is classified into PMT1, PMT2, and PMT4 subfamilies, which mannosylate distinct target proteins </plain></SENT>
+<SENT sid="5" pm="."><plain>In contrast to other types of glycosylation, signal sequences for O-mannosylation have not been identified to date </plain></SENT>
+<SENT sid="6" pm="."><plain>In the present study, we identified signals that determine PMT4-dependent O-mannosylation </plain></SENT>
+<SENT sid="7" pm="."><plain>Using specific model proteins, we demonstrate that in yeast Pmt4p mediates O-mannosylation of Ser/Thr-rich membrane-attached proteins </plain></SENT>
+<SENT sid="8" pm="."><plain>The nature of the membrane-anchoring sequence is nonrelevant, as long as it is flanked by a Ser/Thr-rich domain facing the endoplasmic reticulum lumen </plain></SENT>
+<SENT sid="9" pm="."><plain>Our work shows that, in contrast to several other types of glycosylation, PMT4 O-mannosylation signals are not just linear protein's primary structure sequences but rather are highly complex </plain></SENT>
+<SENT sid="10" pm="."><plain>Based on these findings, we performed in silico analyses of the Saccharomyces cerevisiae proteome and identified previously undescribed Pmt4p substrates </plain></SENT>
+<SENT sid="11" pm="."><plain>This tool for proteome-wide identification of O-mannosylated proteins is of general interest because several of these proteins are major players of a wide variety of cellular processes </plain></SENT>
+</text></document>

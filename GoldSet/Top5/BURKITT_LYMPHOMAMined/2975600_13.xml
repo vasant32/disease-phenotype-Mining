@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The human type I interferon (IFN) receptor was characterized by ligand blotting </plain></SENT>
+<SENT sid="1" pm="."><plain>In this method, plasmalemma proteins or detergent-lysed whole-cell extracts from human Burkitt <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cell lines were separated on <z:chebi fb="0" ids="53656">polyacrylamide</z:chebi> gels and subsequently transferred onto <z:chebi fb="0" ids="53325">nitrocellulose</z:chebi> sheets </plain></SENT>
+<SENT sid="2" pm="."><plain>Probing the blots with 3 x 10(-10) M 125I-labeled recombinant IFN-alpha A (125I-rIFN-alpha A) revealed an IFN-alpha-binding protein with an apparent molecular mass of 95 kDa (p95) </plain></SENT>
+<SENT sid="3" pm="."><plain>Performing the electrophoretic run under reducing conditions completely abrogated the signal on the blot, indicating that the type I IFN receptor contains a <z:chebi fb="0" ids="48343">disulfide</z:chebi> bond essential for IFN binding </plain></SENT>
+<SENT sid="4" pm="."><plain>Optimal binding of 125I-rIFN-alpha A occurred at pH 9 </plain></SENT>
+<SENT sid="5" pm="."><plain>The specificity of the binding reaction was established by simultaneously adding an excess of unlabeled IFN during incubation of the blots with 125I-rIFN-alpha A </plain></SENT>
+<SENT sid="6" pm="."><plain>The addition of either unlabeled IFN-alpha or IFN-beta, but not IFN-gamma, abolished the binding of 125I-rIFN-alpha A to p95 </plain></SENT>
+<SENT sid="7" pm="."><plain>125I-IFN-gamma at 1.25 x 10(-11) M bound to two proteins distinct from p95 with apparent molecular mass of 92 and 87 kDa, respectively </plain></SENT>
+<SENT sid="8" pm="."><plain>Saturability of 125I-rIFN-alpha A binding was demonstrated by probing a constant amount of membrane proteins with increasing amounts of 125I-rIFN-alpha A </plain></SENT>
+<SENT sid="9" pm="."><plain>Scatchard analysis of the binding data yielded an apparent Kd of 5.4 x 10(-10) M for the immobilized type I IFN receptor </plain></SENT>
+<SENT sid="10" pm="."><plain>The expression of p95 on IFN-alpha-resistant and -sensitive cells was indistinguishable </plain></SENT>
+<SENT sid="11" pm="."><plain>We conclude that p95 is the IFN-alpha/beta receptor and that two proteins (p92 and p87) can specifically bind IFN-gamma </plain></SENT>
+<SENT sid="12" pm="."><plain>These results indicate that ligand blotting is a versatile method for characterization of unmodified IFN receptors and IFN-receptor interaction and could also provide a new investigational approach for other cytokine receptor systems </plain></SENT>
+</text></document>

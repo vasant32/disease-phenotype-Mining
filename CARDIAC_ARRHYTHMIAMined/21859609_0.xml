@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The use of antiarrhythmic drugs is common to treat <z:hpo ids='HP_0011675'>heart rhythm disorders</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Computational modeling and simulation are promising tools that could be used to investigate the effects of specific drugs on cardiac electrophysiology </plain></SENT>
+<SENT sid="2" pm="."><plain>In this paper, we study the multiscale effects of <z:chebi fb="0" ids="4681">dofetilide</z:chebi>, a drug that blocks IKr, from cellular to organ level paying special attention to its effect on heart structures, in particular the specialized cardiac conduction system (CCS) </plain></SENT>
+<SENT sid="3" pm="."><plain>We include a model of the CCS in a patient-specific anatomical ventricular model and study the drug effects in simulations with and without a CCS </plain></SENT>
+<SENT sid="4" pm="."><plain>Results confirmed the expected effects of <z:chebi fb="0" ids="4681">dofetilide</z:chebi> at cellular level, increasing the action potential duration, and at organ level, prolonging the QT segment </plain></SENT>
+<SENT sid="5" pm="."><plain>Notable differences are shown between models with and without the CCS on action potential duration distributions </plain></SENT>
+<SENT sid="6" pm="."><plain>These techniques show the importance of heart <z:hpo ids='HP_0001425'>heterogeneity</z:hpo> and the global effects of the interaction of drugs with cardiac structures </plain></SENT>
+</text></document>

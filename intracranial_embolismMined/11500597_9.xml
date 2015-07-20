@@ -1,0 +1,18 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>RATIONALE AND OBJECTIVES: To evaluate the magnetic resonance imaging and electron microscopic findings of the hyperacute stage of cerebral <z:mpath ids='MPATH_115'>fat embolism</z:mpath> in cats and the time needed for the development of vasogenic <z:hpo ids='HP_0000969'>edema</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: Magnetic resonance imaging was performed at 30 minutes (group 1, n = 9) and at 30 minutes and 1, 2, 4, and 6 hours after embolization with <z:chebi fb="0" ids="53753">triolein</z:chebi> (group 2, n = 10) </plain></SENT>
+<SENT sid="2" pm="."><plain>As a control for group 2, the same acquisition was obtained after embolization with polyvinyl alcohol particles (group 3, n = 5) </plain></SENT>
+<SENT sid="3" pm="."><plain>Magnetic resonance images were analyzed qualitatively and quantitatively </plain></SENT>
+<SENT sid="4" pm="."><plain>Electron microscopic examination was done in <z:hpo ids='HP_0000001'>all</z:hpo> cats </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: In group 1, the lesions were iso- or slightly hyperintense on T2-weighted (T2W) and diffusion-weighted (DWIs) images, hypointense on the apparent diffusion coefficient (<z:chebi fb="49" ids="35181">ADC</z:chebi>) map image, and markedly enhanced on the <z:chebi fb="0" ids="33375">gadolinium</z:chebi>-enhanced T1-weighted images (Gd-T1WIs) </plain></SENT>
+<SENT sid="6" pm="."><plain>In group 2 at 30 minutes, the lesions were similar to those in group 1 </plain></SENT>
+<SENT sid="7" pm="."><plain>Thereafter, the lesions became more hyperintense on T2WIs and DWIs and more hypointense on the <z:chebi fb="49" ids="35181">ADC</z:chebi> map image </plain></SENT>
+<SENT sid="8" pm="."><plain>The lesions were enhanced on Gd-T1WIs at <z:hpo ids='HP_0000001'>all</z:hpo> acquisition times </plain></SENT>
+<SENT sid="9" pm="."><plain>In group 3, the lesions showed mild hyperintensity on T2WIs at 6 hours but hypointensity on the <z:chebi fb="49" ids="35181">ADC</z:chebi> map image from 30 minutes, with a tendency toward a greater decrease over time </plain></SENT>
+<SENT sid="10" pm="."><plain>The lesions were not enhanced on Gd-T1WIs at any time point </plain></SENT>
+<SENT sid="11" pm="."><plain>Electron microscopic findings revealed discontinuity of the capillary endothelial wall, perivascular and interstitial <z:hpo ids='HP_0000969'>edema</z:hpo>, and swelling of glial and neuronal cells in groups 1 and 2 </plain></SENT>
+<SENT sid="12" pm="."><plain>Cellular swelling and interstitial <z:hpo ids='HP_0000969'>edema</z:hpo> were more prominent in group 2 </plain></SENT>
+<SENT sid="13" pm="."><plain>In group 3, interstitial <z:hpo ids='HP_0000969'>edema</z:hpo> was seen; however, discontinuity of the endothelial wall was absent </plain></SENT>
+<SENT sid="14" pm="."><plain>CONCLUSIONS: The lesions were hyperintense on T2WIs and DWIs, hypointense on the <z:chebi fb="49" ids="35181">ADC</z:chebi> map image, and enhanced on Gd-T1WIs </plain></SENT>
+<SENT sid="15" pm="."><plain>On electron microscopy, the lesions showed cytotoxic and vasogenic <z:hpo ids='HP_0000969'>edema</z:hpo> with disruption of the blood-brain barrier </plain></SENT>
+<SENT sid="16" pm="."><plain>Vasogenic <z:hpo ids='HP_0000969'>edema</z:hpo> seems to develop within 30 minutes in cerebral <z:mpath ids='MPATH_115'>fat embolism</z:mpath> in cats </plain></SENT>
+</text></document>

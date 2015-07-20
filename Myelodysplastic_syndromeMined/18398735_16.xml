@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:chebi fb="0" ids="2038">Azacitidine</z:chebi> and <z:chebi fb="0" ids="50131">decitabine</z:chebi> are the two hypomethylating agents approved by the Food and Drug Administration for the treatment of patients with <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e>) </plain></SENT>
+<SENT sid="1" pm="."><plain>The efficacy of one agent post-failure of the other is unknown </plain></SENT>
+<SENT sid="2" pm="."><plain>Fourteen patients with <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> post-<z:chebi fb="0" ids="2038">azacitidine</z:chebi> failure/lack of response/intolerance were treated with <z:chebi fb="0" ids="50131">decitabine</z:chebi> </plain></SENT>
+<SENT sid="3" pm="."><plain>Overall three patients achieved a complete remission, and one patient had hematologic improvement, for an overall response rate of 28% </plain></SENT>
+<SENT sid="4" pm="."><plain>Of the responders, one stopped prior 5-<z:chebi fb="0" ids="2038">azacitidine</z:chebi> owing to disease progression, two for no response and one for severe <z:e sem="disease" ids="C1167791" disease_type="Disease or Syndrome" abbrv="">skin toxicity</z:e> </plain></SENT>
+<SENT sid="5" pm="."><plain>Grade 3-4 drug related side-effects were minimal </plain></SENT>
+<SENT sid="6" pm="."><plain>Global methylation studies in patient samples showed decrease of methylation after treatment with <z:chebi fb="0" ids="50131">decitabine</z:chebi> </plain></SENT>
+<SENT sid="7" pm="."><plain>As in our previous studies, there was no difference in hypomethylation between responders and nonresponders </plain></SENT>
+<SENT sid="8" pm="."><plain>We conclude that clinically significant responses with <z:chebi fb="0" ids="50131">decitabine</z:chebi> can be seen in patients post-<z:chebi fb="0" ids="2038">azacitidine</z:chebi> failure without significant toxicity </plain></SENT>
+</text></document>

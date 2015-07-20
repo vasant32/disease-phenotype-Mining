@@ -1,0 +1,18 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: Endothelial progenitor cells (EPCs) are decreased in number and function in type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="1" pm="."><plain>Mechanisms by which this dysfunction occurs are largely unknown </plain></SENT>
+<SENT sid="2" pm="."><plain>We tested the hypothesis that a <z:hpo ids='HP_0011010'>chronic</z:hpo> inflammatory environment leads to insulin signaling defects in EPCs and thereby reduces their survival </plain></SENT>
+<SENT sid="3" pm="."><plain>Modifying EPCs by a knockdown of nuclear factor-κB (NF-κB) can reverse the insulin signaling defects, improve EPC survival, and decrease neointimal <z:mpath ids='MPATH_134'>hyperplasia</z:mpath> in <z:chebi fb="3" ids="16646">Zucker</z:chebi> fatty rats postangioplasty </plain></SENT>
+<SENT sid="4" pm="."><plain>RESEARCH DESIGN AND METHODS: EPCs from <z:chebi fb="3" ids="16646">Zucker</z:chebi> fatty insulin-resistant rats were cultured and exposed to <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> <z:mp ids='MP_0001651'>necrosis</z:mp> factor-α (TNF-α) </plain></SENT>
+<SENT sid="5" pm="."><plain>Insulin signaling defects and <z:mpath ids='MPATH_3'>apoptosis</z:mpath> were measured in the presence and absence of an NF-κB inhibitor, BAY11 </plain></SENT>
+<SENT sid="6" pm="."><plain>Then, EPCs were modified by a knockdown of NF-κB (RelA) and exposed to TNF-α </plain></SENT>
+<SENT sid="7" pm="."><plain>For in vivo experiments, <z:chebi fb="3" ids="16646">Zucker</z:chebi> fatty rats were given modified EPCs post-carotid angioplasty </plain></SENT>
+<SENT sid="8" pm="."><plain>Tracking of EPCs was done at various time points, and neointimal <z:mpath ids='MPATH_134'>hyperplasia</z:mpath> was measured 3 weeks later </plain></SENT>
+<SENT sid="9" pm="."><plain>RESULTS: Insulin signaling as measured by the phosphorylated-to-total AKT ratio was reduced by 56% in EPCs exposed to TNF-α </plain></SENT>
+<SENT sid="10" pm="."><plain><z:mpath ids='MPATH_3'>Apoptosis</z:mpath> was increased by 71% </plain></SENT>
+<SENT sid="11" pm="."><plain>These defects were reversed by pretreatment with an NF-κB inhibitor, BAY11 </plain></SENT>
+<SENT sid="12" pm="."><plain>Modified EPCs exposed to TNF-α showed a lesser reduction (RelA 20%) in insulin-stimulated AKT phosphorylation versus a 55% reduction in unmodified EPCs </plain></SENT>
+<SENT sid="13" pm="."><plain><z:mpath ids='MPATH_3'>Apoptosis</z:mpath> was 41% decreased for RelA knockdown EPCs </plain></SENT>
+<SENT sid="14" pm="."><plain>Noeintimal <z:mpath ids='MPATH_134'>hyperplasia</z:mpath> postangioplasty was significantly less in rats receiving modified EPCs than in controls (intima-to-media ratio 0.58 vs. 1.62) </plain></SENT>
+<SENT sid="15" pm="."><plain>CONCLUSIONS: In conclusion, we have shown that insulin signaling and EPC survival is impaired in <z:chebi fb="3" ids="16646">Zucker</z:chebi> fatty insulin resistant rats </plain></SENT>
+<SENT sid="16" pm="."><plain>For the first time, we have shown that this defect can be significantly ameliorated by a knockdown of NF-κB and that these EPCs given to <z:chebi fb="3" ids="16646">Zucker</z:chebi> fatty rats decrease neointimal <z:mpath ids='MPATH_134'>hyperplasia</z:mpath> post-carotid angioplasty </plain></SENT>
+</text></document>

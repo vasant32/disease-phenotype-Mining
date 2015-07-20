@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Motion perimetry, a method of visual field testing that uses computer graphics to measure motion perception, quantitates a subject's ability to detect a coherent shift in position of dots in a defined circular area against a background of fixed dots </plain></SENT>
+<SENT sid="1" pm="."><plain>Motion size threshold is defined as the smallest detectable circular target in which dot motion is detected </plain></SENT>
+<SENT sid="2" pm="."><plain>Subjects respond by touching a computer monitor screen with a light pen, first when they see a target (reaction time) and a second time where motion targets are detected (localization) </plain></SENT>
+<SENT sid="3" pm="."><plain>Reaction time (msec) to the stimulus and localization error (number of pixels from target center) are then calculated and stored </plain></SENT>
+<SENT sid="4" pm="."><plain>We tested on eye in each of 20 idiopathic intracranial <z:hpo ids='HP_0000822'>hypertension</z:hpo> (IIH) patients and 40 age-matched <z:mpath ids='MPATH_458'>normal</z:mpath> subjects by conventional automated perimetry (Humphrey visual field analyzer, program 24-2) and motion perimetry </plain></SENT>
+<SENT sid="5" pm="."><plain>Pointwise probability plots of individual abnormal test points for size threshold responses were generated for the IIH patients based on the 95% confidence limits of the <z:mpath ids='MPATH_458'>normal</z:mpath> subject responses </plain></SENT>
+<SENT sid="6" pm="."><plain>An analysis of the subjects' visual field pairs (motion versus conventional automated perimetry) was performed based on these probability plots </plain></SENT>
+<SENT sid="7" pm="."><plain>The IIH patients had an elevated mean motion threshold (p &lt; 0.001) and reaction time (p &lt; 0.001) compared with the <z:mpath ids='MPATH_458'>normal</z:mpath> subjects </plain></SENT>
+<SENT sid="8" pm="."><plain>There were no significant differences for the localization errors </plain></SENT>
+<SENT sid="9" pm="."><plain>Based on the probability plot analysis, there was good correlation of the <z:hpo ids='HP_0001123'>visual field defects</z:hpo> between the two perimetry tests </plain></SENT>
+<SENT sid="10" pm="."><plain>In addition, motion perimetry identified nerve fiber bundle-shaped defects in nine patients in whom they were not detected with conventional automated perimetry </plain></SENT>
+</text></document>

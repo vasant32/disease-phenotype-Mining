@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The strong immunosurveillance of humans against EBV transformed immunoblasts, mediated by CD8+ cytotoxic T cells, is based on the recognition of <z:chebi fb="7" ids="16670">peptides</z:chebi> derived from eight of the nine growth transformation-associated proteins, the nuclear antigens EBNA2-6 and the membrane proteins LMP1, -2A and -2B </plain></SENT>
+<SENT sid="1" pm="."><plain>The ninth protein, EBNA1, required for maintenance of the <z:mp ids='MP_0001799'>viral</z:mp> episomes, and expressed in a <z:mp ids='MP_0005384'>cell phenotype</z:mp> independent manner, has not been found to generate a cytotoxic lymphocyte (CTL) response in humans </plain></SENT>
+<SENT sid="2" pm="."><plain>We tested whether EBNA1 has a similar immunologically privileged status in a species that has not encountered the virus in nature, the mouse </plain></SENT>
+<SENT sid="3" pm="."><plain>Non-immunogenic murine <z:mp ids='MP_0001883'>mammary carcinoma</z:mp> cells were transfected with the appropriate <z:mp ids='MP_0001799'>viral</z:mp> gene </plain></SENT>
+<SENT sid="4" pm="."><plain>Rejection responses were assayed in syngeneic mice following repeated immunisation with irradiated cells </plain></SENT>
+<SENT sid="5" pm="."><plain>Previously, we found that LMP1 expression in S6C, a murine <z:mp ids='MP_0001883'>mammary carcinoma</z:mp> of ACA (H-2f) origin, induces high rejectability, whereas corresponding EBNA1 transfectants remained non-immunogenic </plain></SENT>
+<SENT sid="6" pm="."><plain>In order to test whether this finding could be reproduced on another MHC class 1 background, we expressed LMP1 and EBNA1 in another non-immunogenic <z:mp ids='MP_0001883'>mammary carcinoma</z:mp>, SBfnHd of CBA (H-2k) origin </plain></SENT>
+<SENT sid="7" pm="."><plain>LMP1 but not EBNA1 transfectants were immunogenic in this system </plain></SENT>
+<SENT sid="8" pm="."><plain>In order to investigate whether other growth transformation-associated EBV proteins were immunogenic in the mouse, we also transfected the S6C cells with EBNA4, EBNA5, LMP2A and -2B </plain></SENT>
+<SENT sid="9" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> four proteins induced strong rejection reactions </plain></SENT>
+<SENT sid="10" pm="."><plain>These findings are fully consistent with corresponding findings in the human system </plain></SENT>
+<SENT sid="11" pm="."><plain>They also show that the immunologically privileged status of EBNA1 is not due to some peculiarity of the long-standing co-existence between EBV and the human species, nor to any specific features of the human MHC class I system </plain></SENT>
+<SENT sid="12" pm="."><plain>They are consistent with the suggestion that EBNA1 may not be properly processed and/or transported, due to specific features of the protein itself </plain></SENT>
+</text></document>

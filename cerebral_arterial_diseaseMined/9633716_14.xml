@@ -1,0 +1,18 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: We describe the clinical, molecular, genetic, MRI, and SPECT features of a German family with <z:hpo ids='HP_0000006'>autosomal dominant</z:hpo> <z:hpo ids='HP_0002076'>migraine</z:hpo> and <z:hpo ids='HP_0000726'>dementia</z:hpo>, mapping to the cerebral <z:hpo ids='HP_0000006'>autosomal dominant</z:hpo> <z:e sem="disease" ids="C0852949" disease_type="Disease or Syndrome" abbrv="">arteriopathy</z:e> with subcortical <z:mpath ids='MPATH_124'>infarcts</z:mpath> and <z:hpo ids='HP_0002352'>leukoencephalopathy</z:hpo> (CADASIL) locus </plain></SENT>
+<SENT sid="1" pm="."><plain>We studied the correlation of cerebral blood flow, MRI, and cognitive function </plain></SENT>
+<SENT sid="2" pm="."><plain>BACKGROUND: CADASIL is a small-vessel disease of the brain mapped to chromosome 19p13.1 </plain></SENT>
+<SENT sid="3" pm="."><plain>Mutations of the Notch3 gene cause this disorder </plain></SENT>
+<SENT sid="4" pm="."><plain>Most phenotypes are characterized by <z:hpo ids='HP_0002326'>transient ischemic attacks</z:hpo> (<z:hpo ids='HP_0002326'>TIAs</z:hpo>) and lacunar <z:hpo ids='HP_0001297'>strokes</z:hpo> leading to <z:hpo ids='HP_0000726'>dementia</z:hpo> </plain></SENT>
+<SENT sid="5" pm="."><plain><z:hpo ids='HP_0002076'>Migraine</z:hpo> is frequent </plain></SENT>
+<SENT sid="6" pm="."><plain>A single <z:chebi fb="23" ids="30212">photon</z:chebi> emission computed tomographic (SPECT) study of this disorder has not yet been published </plain></SENT>
+<SENT sid="7" pm="."><plain>METHODS: We studied 13 individuals clinically and performed neuroimaging studies with MRI and SPECT </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: Genetic analysis strongly supported linkage to the CADASIL locus, and the disease haplotype was found in six individuals </plain></SENT>
+<SENT sid="9" pm="."><plain>Analysis by single-strand confirmation polymorphism did not identify Notch3 mutations </plain></SENT>
+<SENT sid="10" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> affected individuals had MRI white matter hyperintensities and four individuals had additional basal ganglial signal abnormalities </plain></SENT>
+<SENT sid="11" pm="."><plain>Four affected individuals had <z:hpo ids='HP_0002076'>migraine</z:hpo>, two of whom had <z:hpo ids='HP_0003677'>slowly progressive</z:hpo> <z:hpo ids='HP_0000726'>dementia</z:hpo> </plain></SENT>
+<SENT sid="12" pm="."><plain><z:hpo ids='HP_0002326'>TIAs</z:hpo>, <z:hpo ids='HP_0001297'>stroke</z:hpo>, and focal neurologic signs were absent </plain></SENT>
+<SENT sid="13" pm="."><plain>Cerebral blood flow reduction in SPECT studies of affected individuals matched with MRI signal abnormalities </plain></SENT>
+<SENT sid="14" pm="."><plain><z:hpo ids='HP_0100543'>Cognitive impairment</z:hpo> was linked to signal abnormalities and hypoperfusion in the basal ganglia </plain></SENT>
+<SENT sid="15" pm="."><plain><z:e sem="disease" ids="C0860630" disease_type="Mental or Behavioral Dysfunction" abbrv="">Demented</z:e> patients had a pattern of frontal, temporal, and basal ganglial hypoperfusion </plain></SENT>
+<SENT sid="16" pm="."><plain>CONCLUSIONS: We describe a CADASIL phenotype that is characterized by the absence of focal neurologic symptoms and present the first SPECT study of this disorder </plain></SENT>
+</text></document>

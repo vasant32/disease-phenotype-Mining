@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The case of a 56-year-old man with recurrent retrosternal heartburn no longer relieved by antacids is discussed </plain></SENT>
+<SENT sid="1" pm="."><plain>Arguments for and against conducting endoscopy in this patient are presented </plain></SENT>
+<SENT sid="2" pm="."><plain>Initial therapy with a standard dose <z:chebi fb="0" ids="49200">proton pump inhibitor</z:chebi>, without endoscopy is the suggested treatment strategy </plain></SENT>
+<SENT sid="3" pm="."><plain>The main purpose of conducting an endoscopy in a patient with <z:hpo ids='HP_0011010'>chronic</z:hpo> <z:e sem="disease" ids="C0599290" disease_type="Disease or Syndrome" abbrv="">gastrointestinal reflux</z:e> is to detect the presence of <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> </plain></SENT>
+<SENT sid="4" pm="."><plain>However, data indicate that the presence of <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> is unrelated to symptoms and that it is not significantly associated with heartburn </plain></SENT>
+<SENT sid="5" pm="."><plain>Additionally, there is no certainty that survival is improved by the detection of <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> </plain></SENT>
+<SENT sid="6" pm="."><plain>Nonetheless, many clinical practice guidelines support conducting endoscopy in patients with <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">GERD</z:e> </plain></SENT>
+</text></document>

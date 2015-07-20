@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Human follicular B-cell <z:hpo ids='HP_0002665'>lymphoma</z:hpo> is associated with the t(14;18) chromosomal translocation that juxtaposes the Bcl2 proto-oncogene with the immunoglobulin heavy chain (Igh) locus, resulting in the deregulated expression of Bcl2 </plain></SENT>
+<SENT sid="1" pm="."><plain>Our previous studies have shown that the Igh 3' enhancers deregulate the Bcl2 expression in vitro </plain></SENT>
+<SENT sid="2" pm="."><plain>However, the effects of the Igh 3' enhancer elements on Bcl2 expression in vivo are not known </plain></SENT>
+<SENT sid="3" pm="."><plain>To investigate the role of the Igh 3' enhancers in Bcl2 deregulation, we used gene targeting to generate knock-in mice in which four DNase I-hypersensitive regions from the murine Igh 3' region were integrated 3' of the Bcl2 locus </plain></SENT>
+<SENT sid="4" pm="."><plain>Increased levels of Bcl2 <z:chebi fb="2" ids="33699">mRNA</z:chebi> and protein were observed in the B cells of Igh-3'E-bcl2 mice </plain></SENT>
+<SENT sid="5" pm="."><plain>B cells from Igh-3'E-bcl2 mice showed an extended survival in vitro compared with B cells from <z:mp ids='MP_0002169'>wild-type</z:mp> (Wt) mice </plain></SENT>
+<SENT sid="6" pm="."><plain>The Bcl2 promoter shift from P1 (the 5' promoter) to P2 (the 3' promoter) was observed in B cells from Igh-3'E-bcl2 mice, similar to human t(14;18) <z:hpo ids='HP_0002665'>lymphomas</z:hpo> </plain></SENT>
+<SENT sid="7" pm="."><plain>The IgH-3'E-bcl2 mice developed monoclonal B-cell follicular <z:hpo ids='HP_0002665'>lymphomas</z:hpo>, which were <z:hpo ids='HP_0003677'>slowly progressive</z:hpo> </plain></SENT>
+<SENT sid="8" pm="."><plain>These studies show that the Igh 3' enhancers have an important role in the deregulation of Bcl2 and B-cell <z:e sem="disease" ids="C0598766" disease_type="Neoplastic Process" abbrv="">lymphomagenesis</z:e> in vivo </plain></SENT>
+</text></document>

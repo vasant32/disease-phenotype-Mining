@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:chebi fb="0" ids="17698">Chloramphenicol</z:chebi> (CAP) is a broad spectrum antibiotic used in the treatment of human and <z:e sem="disease" ids="C0003047" disease_type="Disease or Syndrome" abbrv="">animal diseases</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>However, CAP can exhibit toxic effects in certain susceptible individuals, causing bone marrow <z:hpo ids='HP_0000716'>depression</z:hpo>, including fatal <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>As this condition is dose-independent, CAP has been banned for use in food-producing animals, including honeybees </plain></SENT>
+<SENT sid="3" pm="."><plain>In this study, a quick, simple and low-cost routine analytical method was developed for the screening and confirmation of <z:chebi fb="0" ids="17698">chloramphenicol</z:chebi> in honey by LC-MS/MS </plain></SENT>
+<SENT sid="4" pm="."><plain>Sample clean-up takes only two steps without SPE procedure and with recoveries &gt;97% </plain></SENT>
+<SENT sid="5" pm="."><plain>Honey samples were selected from several producers in Brazil and diluted in a small amount of water </plain></SENT>
+<SENT sid="6" pm="."><plain>After fortification and addition of d (s)-<z:chebi fb="0" ids="17698">chloramphenicol</z:chebi> as internal standard, the samples were extracted with <z:chebi fb="0" ids="27750">ethyl acetate</z:chebi> </plain></SENT>
+<SENT sid="7" pm="."><plain>Complete validation of the method was performed on the basis of EU decision 2002/657 </plain></SENT>
+<SENT sid="8" pm="."><plain>Within-laboratory CV reproducibility at the lowest concentration was &lt;10% </plain></SENT>
+<SENT sid="9" pm="."><plain>An evaluation of two different methods to calculate the decision limit and detection capability gave 0.08 µg kg(-1) for CCα and 0.12 µg kg(-1) for CCβ </plain></SENT>
+</text></document>

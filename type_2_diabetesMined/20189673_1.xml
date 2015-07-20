@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIM: To determine mutable risk factors for asymptomatic diastolic dysfunction in ethnic minority patients newly diagnosed with type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: We recruited consecutive adults with newly diagnosed <z:mp ids='MP_0002055'>diabetes</z:mp> who had no signs or symptoms or history of <z:e sem="disease" ids="C0018799" disease_type="Disease or Syndrome" abbrv="">heart disease</z:e> </plain></SENT>
+<SENT sid="2" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> patients received standardized evaluation including interview, physical examination, laboratory tests and echocardiogram with tissue Doppler studies </plain></SENT>
+<SENT sid="3" pm="."><plain>We used logistic regression models to identify mutable risk factors for diastolic dysfunction </plain></SENT>
+<SENT sid="4" pm="."><plain>RESULTS: Among 126 study subjects (52% women, age 45+/-10 years, BMI 33+/-7, 42% with <z:hpo ids='HP_0000822'>hypertension</z:hpo>, 100% ejection fraction &gt; or =50%), evidence of diastolic dysfunction was present in 64 (51%) </plain></SENT>
+<SENT sid="5" pm="."><plain>After controlling for age, heart rate and blood pressure, independent predictors of diastolic dysfunction included physical inactivity (OR: 2.3; 95% CI: 0.9-6.1; P=0.08) and <z:chebi fb="105" ids="17234">glucose</z:chebi> (OR: 4.9; 95% CI: 1.4-17.8; P=0.02) </plain></SENT>
+<SENT sid="6" pm="."><plain>Physical inactivity was associated with early diastolic dysfunction (impaired relaxation), whereas epicardial fat thickness and <z:chebi fb="105" ids="17234">glucose</z:chebi> levels were associated with late diastolic dysfunction (impaired compliance) </plain></SENT>
+<SENT sid="7" pm="."><plain>The hs-CRP and BNP levels were not associated with diastolic dysfunction </plain></SENT>
+<SENT sid="8" pm="."><plain>CONCLUSIONS: Asymptomatic diastolic dysfunction was prevalent among urban minority patients newly diagnosed with <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="9" pm="."><plain>Important differences exist among factors that affect early and late diastolic function that may have prognostic and therapeutic implications </plain></SENT>
+</text></document>

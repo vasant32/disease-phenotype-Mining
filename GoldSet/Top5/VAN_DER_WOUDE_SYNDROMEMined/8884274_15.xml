@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:e sem="disease" ids="C0175697" disease_type="Disease or Syndrome;Congenital Abnormality" abbrv="PIT|VWS">Van der Woude syndrome</z:e> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">VWS</z:e>) is the most frequent form of syndromic clefting </plain></SENT>
+<SENT sid="1" pm="."><plain>Linkage analysis has localized the gene between D1S245 and D1S414, an interval of 4.1 cM with the following order of loci: centromere-D1S245/D1S471-D1S491-D1S205-D1S414 -telomere </plain></SENT>
+<SENT sid="2" pm="."><plain>A microdeletion around D1S205 aided in narrowing the critical region to D1S491-D1S414 by heterozygosity testing </plain></SENT>
+<SENT sid="3" pm="."><plain>In this study, the location was refined by detection of a recombinant with D1S205 in a new family, indicating that <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">VWS</z:e> lies between D1S491 and D1S205, a 1.6-cM interval </plain></SENT>
+<SENT sid="4" pm="."><plain>A roughly 3.5-Mb YAC contig was built from D1S245 through D1S414, encompassing the interval D1S491-D1S205 in level 1 or level 2 paths </plain></SENT>
+<SENT sid="5" pm="."><plain>Clones were assembled by sequence tagged site (STS) content using the five polymorphic markers from above, four novel STSs identified from YAC ends, and a new STS derived from probe CRI-L461 (D1S70) </plain></SENT>
+<SENT sid="6" pm="."><plain>D1S70 was assigned to the critical region </plain></SENT>
+<SENT sid="7" pm="."><plain>One single YAC, yCEPH785B2, contains both flanking STSs (D1S491, D1S205) </plain></SENT>
+<SENT sid="8" pm="."><plain>STS content mapping suggests neither chimerism nor deletion of yCEPH785B2 but does suggest that the maximum size of the critical region is approximately 850 kb </plain></SENT>
+<SENT sid="9" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> STSs were tested for their presence on a somatic cell hybrid containing the microdeleted chromosome 1 as the sole human chromosome 1 component </plain></SENT>
+<SENT sid="10" pm="."><plain>Both the proximal and distal ends of the microdeletion mapped to the 850-kb YAC, yCEPH785B2 </plain></SENT>
+<SENT sid="11" pm="."><plain>Therefore, the microdeletion overlapped the critical region, confirming the genetic recombinant data </plain></SENT>
+</text></document>

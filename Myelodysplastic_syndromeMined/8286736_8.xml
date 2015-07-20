@@ -1,0 +1,20 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>In this phase I/II study, 9 patients with <z:hpo ids='HP_0002863'>myelodysplastic syndromes</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e>) were treated with interleukin-3 (IL-3) followed by granulocyte-macrophage colony-stimulating factor (GM-CSF) </plain></SENT>
+<SENT sid="1" pm="."><plain>Each treatment cycle was 28 days long and administered as follows: 1 microgram/kg/d IL-3 on days 1 through 7 and 3 micrograms/kg/d GM-CSF for days 8 through 21, followed by a 7-day rest period </plain></SENT>
+<SENT sid="2" pm="."><plain>IL-3 dose escalations were planned, but the dose of GM-CSF was fixed </plain></SENT>
+<SENT sid="3" pm="."><plain>Three patients had <z:hpo ids='HP_0005505'>refractory anemia</z:hpo>, 4 had <z:hpo ids='HP_0004828'>refractory anemia with ringed sideroblasts</z:hpo>, and 2 had <z:hpo ids='HP_0005505'>refractory anemia</z:hpo> with excess blasts </plain></SENT>
+<SENT sid="4" pm="."><plain>Six patients were dependent on red blood cell transfusions, 1 on platelet transfusions, and 2 on both </plain></SENT>
+<SENT sid="5" pm="."><plain>The absolute neutrophil count improved in 7 (77%) patients and the platelet count improved in 3 (33%) patients during therapy </plain></SENT>
+<SENT sid="6" pm="."><plain><z:chebi fb="0" ids="35143">Hemoglobin</z:chebi> levels were unchanged </plain></SENT>
+<SENT sid="7" pm="."><plain>A clinically relevant response was seen in only 1 patient with <z:hpo ids='HP_0001873'>thrombocytopenia</z:hpo>, and he received five cycles of therapy </plain></SENT>
+<SENT sid="8" pm="."><plain>The neutrophil count decreased in 2 patients and the platelet count decreased in 4 patients during treatment </plain></SENT>
+<SENT sid="9" pm="."><plain>The toxicity of the treatment was significant </plain></SENT>
+<SENT sid="10" pm="."><plain>In the first cohort of 3 patients, 1 patient developed <z:hpo ids='HP_0004755'>supraventricular tachycardia</z:hpo> and <z:hpo ids='HP_0001635'>congestive heart failure</z:hpo> </plain></SENT>
+<SENT sid="11" pm="."><plain>In the second group, 1 patient developed progressive <z:hpo ids='HP_0001913'>granulocytopenia</z:hpo> and died of <z:mp ids='MP_0001795'>gram-negative</z:mp> <z:mpath ids='MPATH_681'>septicemia</z:mpath> </plain></SENT>
+<SENT sid="12" pm="."><plain>Because of the disparate toxicity, 3 more patients were treated at the same dose level </plain></SENT>
+<SENT sid="13" pm="."><plain>One of these experienced a high <z:hpo ids='HP_0001945'>fever</z:hpo> and <z:hpo ids='HP_0002653'>bone pain</z:hpo> requiring hospitalization </plain></SENT>
+<SENT sid="14" pm="."><plain>Because of these adverse effects, the IL-3 dose was not escalated and <z:hpo ids='HP_0000001'>all</z:hpo> patients received 1 microgram/kg/d for 7 days </plain></SENT>
+<SENT sid="15" pm="."><plain>We believe that sequential therapy with IL-3 and GM-CSF at these dose levels causes unacceptable toxicity in patients with <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> </plain></SENT>
+<SENT sid="16" pm="."><plain>The major toxic events occurred during weeks 4 and 5 after starting treatment and may have been primarily caused by GM-CSF therapy </plain></SENT>
+<SENT sid="17" pm="."><plain>Although neutrophil counts improve in most patients, the effect on red blood cells and platelets is minimal </plain></SENT>
+<SENT sid="18" pm="."><plain>At present, this form of therapy remains problematic and appears to have a limited potential in the management of <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> </plain></SENT>
+</text></document>

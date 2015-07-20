@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: Aging increases the risk of developing <z:hpo ids='HP_0000833'>impaired glucose tolerance</z:hpo> (IGT) and type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="1" pm="."><plain>It has been proposed that increased reactive oxygen species (ROS) generation by dysfunctional mitochondria could play a role in the pathogenesis of these <z:mp ids='MP_0005266'>metabolic abnormalities</z:mp> </plain></SENT>
+<SENT sid="2" pm="."><plain>We examined whether aging per se (in subjects with <z:mpath ids='MPATH_458'>normal</z:mpath> <z:chebi fb="105" ids="17234">glucose</z:chebi> tolerance [NGT]) impairs <z:hpo ids='HP_0001427'>mitochondrial</z:hpo> function and how this relates to ROS generation, whether older subjects with IGT have a further worsening of <z:hpo ids='HP_0001427'>mitochondrial</z:hpo> function (lower ATP production and elevated ROS generation), and whether exercise reverses age-related changes in <z:hpo ids='HP_0001427'>mitochondrial</z:hpo> function </plain></SENT>
+<SENT sid="3" pm="."><plain>RESEARCH DESIGN AND METHODS: <z:hpo ids='HP_0001427'>Mitochondrial</z:hpo> ATP and ROS production were measured in muscle from younger individuals with NGT, older individuals with NGT, and older individuals with IGT </plain></SENT>
+<SENT sid="4" pm="."><plain>Measurements were performed before and after 16 weeks of aerobic exercise </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: ATP synthesis was lower in older subjects with NGT and older subjects with IGT versus younger subjects </plain></SENT>
+<SENT sid="6" pm="."><plain>Notably, mitochondria from older subjects (with NGT and IGT) displayed reduced ROS production versus the younger group </plain></SENT>
+<SENT sid="7" pm="."><plain>ATP and ROS production were similar between older groups </plain></SENT>
+<SENT sid="8" pm="."><plain>Exercise increased ATP synthesis in the three groups </plain></SENT>
+<SENT sid="9" pm="."><plain><z:hpo ids='HP_0001427'>Mitochondrial</z:hpo> ROS production also increased after training </plain></SENT>
+<SENT sid="10" pm="."><plain>Proteomic analysis revealed downregulation of several electron transport chain proteins with aging, and this was reversed by exercise </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: Old mitochondria from subjects with NGT and IGT display <z:hpo ids='HP_0001427'>mitochondrial</z:hpo> dysfunction as manifested by reduced ATP production but not with respect to increased ROS production </plain></SENT>
+<SENT sid="12" pm="."><plain>When adjusted to age, the development of IGT in elderly individuals does not involve changes in <z:hpo ids='HP_0001427'>mitochondrial</z:hpo> ATP and ROS production </plain></SENT>
+<SENT sid="13" pm="."><plain>Lastly, exercise reverses the <z:hpo ids='HP_0001427'>mitochondrial</z:hpo> phenotype (proteome and function) of old mitochondria </plain></SENT>
+</text></document>

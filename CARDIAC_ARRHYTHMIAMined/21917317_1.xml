@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: <z:hpo ids='HP_0002039'>Anorexia</z:hpo> nervosa (AN) carries the highest mortality of any <z:e sem="disease" ids="C0004936" disease_type="Mental or Behavioral Dysfunction" abbrv="">psychiatric disorder</z:e> largely attributable to <z:hpo ids='HP_0001645'>sudden cardiac death</z:hpo> and <z:e sem="disease" ids="C0812393,C0038661" disease_type="Mental or Behavioral Dysfunction;Injury or Poisoning" abbrv="">suicide</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>Controversy exists regarding the underlying mechanism of cardiac risk, whether QT prolongation is a consistent feature of the disorder and whether repolarization varies by disease severity </plain></SENT>
+<SENT sid="2" pm="."><plain>Some of the uncertainty may relate to a lack of standardized electrocardiography (ECG) </plain></SENT>
+<SENT sid="3" pm="."><plain>To date, studies have not utilized centrally adjudicated digital ECG, and most have relied on the Bazett formula for rate-correction, which is suboptimal at the extremes of heart rate often observed in AN </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS: We evaluated a hospitalized cohort of medically compromised, very-low-body mass index (BMI) AN patients </plain></SENT>
+<SENT sid="5" pm="."><plain>The QT interval was measured with high-precision calipers by a single, blinded electrophysiologist and rate corrected (QTc) using the Fridericia formula </plain></SENT>
+<SENT sid="6" pm="."><plain>Anatomically corrected left ventricular (LV) mass and resting energy expenditure (REE) were calculated as proxies for disease severity </plain></SENT>
+<SENT sid="7" pm="."><plain>Proportions exceeding categorical thresholds for QTc prolongation and correlations between admission QTc and disease severity were performed </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: Among 19 patients, mean BMI was 12.3 kg/m(2), and 95% were female </plain></SENT>
+<SENT sid="9" pm="."><plain>The majority (68%) of patients were receiving QT-prolonging drugs </plain></SENT>
+<SENT sid="10" pm="."><plain>Four patients (21%) had QTc prolongation </plain></SENT>
+<SENT sid="11" pm="."><plain>Two of these patients (10.5%) exceeded the 500 ms threshold for marked QTc-prolongation, though each had concomitant factors contributing to delayed repolarization </plain></SENT>
+<SENT sid="12" pm="."><plain>The QTc interval was not significantly correlated with LV mass, LV mass index, BMI or REE </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSIONS: Although delayed cardiac repolarization was observed among a medically compromised cohort of patients with <z:hpo ids='HP_0002039'>anorexia</z:hpo> nervosa, the QTc interval was not a reliable correlate of disease severity despite digital ECG adjudication and optimal rate correction </plain></SENT>
+</text></document>

@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>7-Ethyl-10-hydroxycamptothecin (SN38), the active metabolite of irinotecan, exerts a 100-fold to 1000-fold higher effect than irinotecan itself against several <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> cell lines </plain></SENT>
+<SENT sid="1" pm="."><plain>However, the water insolubility of SN38 has prevented its direct use as an antitumor drug in the clinic </plain></SENT>
+<SENT sid="2" pm="."><plain>To improve the water solubility and antitumor efficacy, SN38 was covalently attached to the only free sulfhydryl at cysteine-34 on the BSA site specifically through a <z:chebi fb="0" ids="29256">thiol</z:chebi>-binding linker to form a <z:chebi fb="0" ids="50266">prodrug</z:chebi> BSA-SN38 conjugate (BSA : SN38=1 : 1) </plain></SENT>
+<SENT sid="3" pm="."><plain>The water solubility of this conjugate was similar to albumin using the current method </plain></SENT>
+<SENT sid="4" pm="."><plain>Also, SN38 loading in this conjugate became controllable </plain></SENT>
+<SENT sid="5" pm="."><plain>Size-exclusion chromatography purification and UV characterization of the <z:chebi fb="26" ids="8984">SDS</z:chebi>-PAGE electrophoresis product were carried out </plain></SENT>
+<SENT sid="6" pm="."><plain>Then, an <z:chebi fb="0" ids="53233">MTT</z:chebi> assay was carried out to test the antitumor effect of this conjugate on five <z:hpo ids='HP_0003003'>colon cancer</z:hpo> cell lines in vitro </plain></SENT>
+<SENT sid="7" pm="."><plain>The 72 h IC50 values of the BSA-SN38 conjugate ranged from 1.5 to 6.1 μmol/l </plain></SENT>
+<SENT sid="8" pm="."><plain>A colorectal <z:e sem="disease" ids="C1332128" disease_type="Neoplastic Process" abbrv="">peritoneal carcinomatosis</z:e> model in mice was established to determine the intraperitoneal chemotherapy effect of the BSA-SN38 conjugate </plain></SENT>
+<SENT sid="9" pm="."><plain>The BSA-SN38 conjugate at an SN38 equivalent dose of 10 mg/kg/day was administrated every 4 days </plain></SENT>
+<SENT sid="10" pm="."><plain>Eighteen days after manipulation, the mice were euthanized and the <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumors</z:e> in the abdominal cavity were collected and weighed </plain></SENT>
+<SENT sid="11" pm="."><plain><z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">Tumors</z:e> in the BSA-SN38 conjugate treatment group (m=0.21 ± 0.15 g) were found to be significantly (P=5) lighter than those in the NS control group (m=4.74±0.73 g) </plain></SENT>
+<SENT sid="12" pm="."><plain>The results indicated that this water-soluble BSA-SN38 conjugate exerted a strong antitumor effect on colorectal <z:mp ids='MP_0002038'>carcinoma</z:mp> </plain></SENT>
+</text></document>

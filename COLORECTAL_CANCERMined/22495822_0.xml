@@ -1,0 +1,7 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The paper develops a class of priors that leads to equivalent posterior inference for odds ratio parameters based on prospective and retrospective models for categorical response data </plain></SENT>
+<SENT sid="1" pm="."><plain>The results are applicable to both unmatched and matched case-control studies </plain></SENT>
+<SENT sid="2" pm="."><plain>The results hold for a general class of link functions for categorical response </plain></SENT>
+<SENT sid="3" pm="."><plain>The proposed method can accommodate multiple and possibly ordered <z:mp ids='MP_0002054'>disease states</z:mp> </plain></SENT>
+<SENT sid="4" pm="."><plain>The results are applied to the analysis of discrete subtypes in an ongoing case-control study of <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> </plain></SENT>
+<SENT sid="5" pm="."><plain>A simulation study illustrates the need for carefully considering prior choices in Bayesian analysis of data collected under retrospective design </plain></SENT>
+</text></document>

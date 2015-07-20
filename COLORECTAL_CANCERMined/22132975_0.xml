@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:chebi fb="0" ids="17748">Thymidine</z:chebi> phosphorylase (TPase) is also known as the platelet-derived endothelial cell growth factor (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">PD</z:e>-ECGF) and plays a role in <z:mpath ids='MPATH_177'>angiogenesis</z:mpath> </plain></SENT>
+<SENT sid="1" pm="."><plain>Deoxyribose (dR; a downstream TPase-product) addition to endothelial cells may stimulate FAK and p70/S6k signaling, which can be inhibited by <z:chebi fb="0" ids="9168">rapamycin</z:chebi> </plain></SENT>
+<SENT sid="2" pm="."><plain><z:chebi fb="0" ids="9168">Rapamycin</z:chebi> is a specific mammalian target of the <z:chebi fb="0" ids="9168">rapamycin</z:chebi> (mTOR) inhibitor, a kinase that lies directly upstream of p70/S6k </plain></SENT>
+<SENT sid="3" pm="."><plain>This suggests a role for TPase in the mTOR/p70/S6k pathway </plain></SENT>
+<SENT sid="4" pm="."><plain>In order to study this in more detail, we exposed cells with and without TPase expression to dR and <z:chebi fb="0" ids="9168">rapamycin</z:chebi> and determined the effect on cell growth </plain></SENT>
+<SENT sid="5" pm="."><plain>We observed protection in cytotoxicity in Colo320 cells, but not Colo320 TP1 cells </plain></SENT>
+<SENT sid="6" pm="."><plain>This was in part mediated by activation of p70/S6k and inhibition of autophagy </plain></SENT>
+<SENT sid="7" pm="."><plain>Further studies are recommended to elucidate the mechanism behind the protective effect of dR </plain></SENT>
+</text></document>

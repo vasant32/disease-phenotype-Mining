@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND PURPOSE: <z:hpo ids='HP_0002902'>Hyponatremia</z:hpo> is common after aneurysmal <z:hpo ids='HP_0002138'>subarachnoid hemorrhage</z:hpo> (SAH) </plain></SENT>
+<SENT sid="1" pm="."><plain>It is caused by <z:mp ids='MP_0006316'>natriuresis</z:mp>, which induces osmotic <z:mp ids='MP_0001762'>diuresis</z:mp> and decreases blood volume, contributing to symptomatic <z:e sem="disease" ids="C0265110" disease_type="Disease or Syndrome" abbrv="">cerebral vasospasm</z:e> (SCV) </plain></SENT>
+<SENT sid="2" pm="."><plain>Hypervolemic therapy to prevent SCV will not be efficient under this condition </plain></SENT>
+<SENT sid="3" pm="."><plain>We conducted a randomized controlled trial to assess the efficacy of <z:chebi fb="2" ids="17650">hydrocortisone</z:chebi>, which promotes <z:chebi fb="199" ids="26708">sodium</z:chebi> retention in the kidneys </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS: Seventy-one SAH patients were randomly assigned after surgery to treatment with either a placebo (n=36) or 1200 mg/d of <z:chebi fb="2" ids="17650">hydrocortisone</z:chebi> (n=35) for 10 days and tapered thereafter </plain></SENT>
+<SENT sid="5" pm="."><plain>Both groups underwent hypervolemic therapy </plain></SENT>
+<SENT sid="6" pm="."><plain>The primary end point was the prevention of <z:hpo ids='HP_0002902'>hyponatremia</z:hpo> </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: <z:chebi fb="2" ids="17650">Hydrocortisone</z:chebi> prevented excess <z:chebi fb="199" ids="26708">sodium</z:chebi> excretion (P=0.04) and urine volume (P=0.04) </plain></SENT>
+<SENT sid="8" pm="."><plain><z:chebi fb="2" ids="17650">Hydrocortisone</z:chebi> maintained the targeted serum <z:chebi fb="199" ids="26708">sodium</z:chebi> level throughout the 14 days (P&lt;0.001), and achieved the management protocol with lower <z:chebi fb="199" ids="26708">sodium</z:chebi> and fluid (P=0.007) supplementation </plain></SENT>
+<SENT sid="9" pm="."><plain><z:chebi fb="2" ids="17650">Hydrocortisone</z:chebi> kept the <z:mpath ids='MPATH_458'>normal</z:mpath> plasma osmolarity (P&lt;0.001) </plain></SENT>
+<SENT sid="10" pm="."><plain>SCV occurred in 9 patients (25%) in the placebo group and in 5 (14%) in the <z:chebi fb="2" ids="17650">hydrocortisone</z:chebi> group </plain></SENT>
+<SENT sid="11" pm="."><plain>No significant difference in the overall outcome was observed between the 2 groups </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: <z:chebi fb="2" ids="17650">Hydrocortisone</z:chebi> overcame excess <z:mp ids='MP_0006316'>natriuresis</z:mp> and prevented <z:hpo ids='HP_0002902'>hyponatremia</z:hpo> </plain></SENT>
+<SENT sid="13" pm="."><plain>Although there was no difference in outcome, <z:chebi fb="2" ids="17650">hydrocortisone</z:chebi> supported efficient hypervolemic therapy </plain></SENT>
+</text></document>

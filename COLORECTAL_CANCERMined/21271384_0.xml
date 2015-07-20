@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: To examine the role of Polo-like kinase 1(PLK1) in the migration and invasiveness of human <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> cells </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: Nine <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> cell lines were cultured </plain></SENT>
+<SENT sid="2" pm="."><plain>Cell lines with the highest level of PLK1 expression was selected by PCR and Western blot </plain></SENT>
+<SENT sid="3" pm="."><plain>Three siRNA oligo segments targeting PLK1 were designed and selected cell lines transfected </plain></SENT>
+<SENT sid="4" pm="."><plain>Successful transfection was confirmed using real-time PCR and Western blot </plain></SENT>
+<SENT sid="5" pm="."><plain>Changes in migration and invasiveness of the selected cell line were evaluated by Transwell test </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">Colorectal cancer</z:e> cell line SW1116 was selected with the highest expression of PLK1 at both <z:chebi fb="2" ids="33699">mRNA</z:chebi> level and protein level </plain></SENT>
+<SENT sid="7" pm="."><plain>The expression of PLK1 in SW1116 was reduced by the three siRNA oligo segments to varying degrees, and the No.1 siRNA oligo segment was the most efficient </plain></SENT>
+<SENT sid="8" pm="."><plain>In migration test, the number of cells crossing through chambers in PLK1-siRNA group was 44 ± 14, which was lower than that in the negative control group (242 ± 40) and in blank control group(240 ± 38) </plain></SENT>
+<SENT sid="9" pm="."><plain>In invasion test, the number of cells crossing through chambers in PLK1-siRNA group was 62 ± 3, which was lower than that in negative control group (207 ± 12) and in blank control group (211 ± 15) </plain></SENT>
+<SENT sid="10" pm="."><plain>These differences were statistically significant(P&lt;0.01) </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSION: PLK1 silencing by siRNA may inhibit the migration and invasiveness of <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> cells, suggesting that PLK1 might play an important role in the infiltration and <z:e sem="disease" ids="C0027627" disease_type="Neoplastic Process" abbrv="mets">metastasis</z:e> of <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> </plain></SENT>
+</text></document>

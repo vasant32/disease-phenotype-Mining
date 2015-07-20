@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Uncertainty concerning the measurement error properties of self-reported diet has important implications for the reliability of nutritional epidemiology reports </plain></SENT>
+<SENT sid="1" pm="."><plain>Biomarkers based on the urinary recovery of expended nutrients can provide an objective measure of short-term nutrient consumption for certain nutrients and, when applied to a subset of a study cohort, can be used to calibrate corresponding self-report nutrient consumption assessments </plain></SENT>
+<SENT sid="2" pm="."><plain>A nonstandard measurement error model that makes provision for systematic error and subject-specific error, along with the usual independent random error, is needed for the self-report data </plain></SENT>
+<SENT sid="3" pm="."><plain>Three estimation procedures for hazard ratio (Cox model) parameters are extended for application to this more complex measurement error structure </plain></SENT>
+<SENT sid="4" pm="."><plain>These procedures are risk set regression calibration, conditional score, and nonparametric corrected score </plain></SENT>
+<SENT sid="5" pm="."><plain>An estimator for the cumulative baseline hazard function is also provided </plain></SENT>
+<SENT sid="6" pm="."><plain>The performance of each method is assessed in a simulation study </plain></SENT>
+<SENT sid="7" pm="."><plain>The methods are then applied to an example from the Women's Health Initiative Dietary Modification Trial </plain></SENT>
+</text></document>

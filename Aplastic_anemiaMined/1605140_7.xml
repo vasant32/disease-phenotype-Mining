@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PURPOSE: To evaluate a policy of immunosuppression with antithymocyte globulin (ATG) as primary therapy for adults with severe <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> (SAA) regardless of the availability of an HLA-identical bone marrow donor </plain></SENT>
+<SENT sid="1" pm="."><plain>PATIENTS AND METHODS: Thirty-one consecutive adults with SAA who satisfied the age criteria for allogeneic bone marrow transplantation (BMT) (age less than 51 years) were treated with ATG 20 mg/kg/day for 10 days along with high-dose <z:chebi fb="0" ids="50858">corticosteroids</z:chebi> </plain></SENT>
+<SENT sid="2" pm="."><plain>Patients with an HLA-identical donor received a transplant if they did not respond to ATG or if they developed life-threatening complications during or soon after ATG administration </plain></SENT>
+<SENT sid="3" pm="."><plain>Eight patients with no response to ATG were also treated with oral <z:chebi fb="0" ids="4031">cyclosporine</z:chebi> 12.5 mg/kg/day </plain></SENT>
+<SENT sid="4" pm="."><plain>RESULTS: Eleven patients had a complete and five a partial response to ATG; two patients improved with <z:chebi fb="0" ids="4031">cyclosporine</z:chebi> treatment, resulting in an overall response rate of 58% to immunosuppression </plain></SENT>
+<SENT sid="5" pm="."><plain>Nine of 14 patients with donors received a BMT: seven because they did not respond to ATG and two because of serious <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infections</z:e> </plain></SENT>
+<SENT sid="6" pm="."><plain>Seven grafts were obtained from related and two from unrelated donors </plain></SENT>
+<SENT sid="7" pm="."><plain>There was no significant difference in survival between those with and without a related HLA-identical donor (log-rank p value = 0.969) </plain></SENT>
+<SENT sid="8" pm="."><plain>At a median follow-up of 58 months, 26 of 31 are alive with an actuarial survival of 80% at 5 years </plain></SENT>
+<SENT sid="9" pm="."><plain>Two patients died of <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infection</z:e>, two died from complications of BMT, and one remains transfusion-dependent </plain></SENT>
+<SENT sid="10" pm="."><plain>One patient died of refractory <z:hpo ids='HP_0001909'>leukemia</z:hpo> at 30 months; one patient relapsed with <z:mpath ids='MPATH_133'>hypoplasia</z:mpath> 95 months after initial therapy with ATG </plain></SENT>
+<SENT sid="11" pm="."><plain>He showed a complete response to treatment with <z:chebi fb="0" ids="4031">cyclosporine</z:chebi> </plain></SENT>
+<SENT sid="12" pm="."><plain>No other late hematologic events have occurred </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSIONS: This treatment approach resulted in the restoration of hematopoiesis and independence from transfusion in 80% of patients with SAA entered into the study </plain></SENT>
+<SENT sid="14" pm="."><plain>The efficacy of allogeneic BMT in salvaging cases in which ATG failed does not appear to be compromised </plain></SENT>
+<SENT sid="15" pm="."><plain>Follow-up for the development of clonal <z:e sem="disease" ids="C1521860" disease_type="Disease or Syndrome" abbrv="">hematologic disorders</z:e> remains an important part of this treatment policy </plain></SENT>
+</text></document>

@@ -1,0 +1,20 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Perinatal asphyxia is an important cause of neonatal mortality and subsequent serious sequelae such as motor and <z:hpo ids='HP_0100543'>cognitive deficits</z:hpo> and <z:hpo ids='HP_0001250'>seizures</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>The ameliorative effect of erythropoietin (Epo) on experimental <z:e sem="disease" ids="C0752304" disease_type="Disease or Syndrome" abbrv="">hypoxic-ischemic brain injury</z:e> in neonatal rats has been recently reported </plain></SENT>
+<SENT sid="2" pm="."><plain>Recent studies also confirm the antiapoptotic effect of Epo in a variety of in vitro and in vivo neuronal injury models including <z:e sem="disease" ids="C0752304" disease_type="Disease or Syndrome" abbrv="">hypoxic-ischemic brain injury</z:e> </plain></SENT>
+<SENT sid="3" pm="."><plain>However, molecular mechanisms of Epo protection and antiapoptotic effect in this model are unclear </plain></SENT>
+<SENT sid="4" pm="."><plain>Epo may exert its antiapoptotic effect via the differential regulation of the expression of genes involved in the apoptotic process </plain></SENT>
+<SENT sid="5" pm="."><plain>OBJECTIVES: Thus, in the present study, we studied the effects of systemically administered Epo on antiapoptotic (bcl-2, bcl-XL), proapoptotic (bax and DP5) gene expression following <z:e sem="disease" ids="C0752304" disease_type="Disease or Syndrome" abbrv="">hypoxic-ischemic brain injury</z:e> in neonatal rats </plain></SENT>
+<SENT sid="6" pm="."><plain>METHODS: Seven- day-old Wistar rat pups were divided into three groups: control group (n=15), saline-treated group (n=17), and Epo-treated group (n=18) </plain></SENT>
+<SENT sid="7" pm="."><plain>Rat pups were subjected to left carotid <z:mp ids='MP_0006134'>artery occlusion</z:mp> followed by 2.5 h of hypoxic exposure </plain></SENT>
+<SENT sid="8" pm="."><plain>Epo-treated group received an intraperitoneal injection of recombinant human Epo at a dose of 1,000 units/kg, saline-treated group received an intraperitoneal injection of saline at the same volume of Epo </plain></SENT>
+<SENT sid="9" pm="."><plain>Forty-eight hours after <z:mp ids='MP_0005039'>hypoxia</z:mp>, 3 animals in each group were killed for histopathological evaluation </plain></SENT>
+<SENT sid="10" pm="."><plain>To detect DNA fragmentation in cell nuclei, terminal deoxynucleotidyl transferase-mediated <z:chebi fb="0" ids="17625">dUTP</z:chebi> nick end-labeling reaction was applied </plain></SENT>
+<SENT sid="11" pm="."><plain>Bcl-2 and bax protein expression were also analyzed with immunohistochemistry </plain></SENT>
+<SENT sid="12" pm="."><plain>For reverse transcriptase-polymerase chain reaction (RT-PCR) analysis, rats were sacrificed 4, 12, and 24 h after <z:mp ids='MP_0005039'>hypoxia</z:mp> </plain></SENT>
+<SENT sid="13" pm="."><plain>Bcl-2, bcl-XL, bax, and DP5 <z:chebi fb="2" ids="33699">mRNA</z:chebi> expression were analyzed by RT-PCR </plain></SENT>
+<SENT sid="14" pm="."><plain>RESULTS: Epo significantly prevented <z:mp ids='MP_0005039'>hypoxia</z:mp>-<z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e>-induced bax and DP5 <z:chebi fb="2" ids="33699">mRNA</z:chebi> upregulation in brain tissue </plain></SENT>
+<SENT sid="15" pm="."><plain>Epo did not show any effect on bcl-XL transcription altered by injury </plain></SENT>
+<SENT sid="16" pm="."><plain>However, Epo reversed injury-induced downregulation in bcl-2 transcription </plain></SENT>
+<SENT sid="17" pm="."><plain>Modulating effects of Epo on bcl-2 and bax protein expression were also revealed by immunohistochemistry </plain></SENT>
+<SENT sid="18" pm="."><plain>CONCLUSIONS: These results suggest that Epo exerts a neuroprotective effect against <z:e sem="disease" ids="C0752304" disease_type="Disease or Syndrome" abbrv="">hypoxic-ischemic brain injury</z:e>, at least partially, via the differential regulation of the expression of genes involved in apoptotic process </plain></SENT>
+</text></document>

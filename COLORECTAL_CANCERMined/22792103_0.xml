@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Background </plain></SENT>
+<SENT sid="1" pm="."><plain>The aim of the study was to assess the accuracy of the <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal-cancer</z:e> incidence estimated from administrative data </plain></SENT>
+<SENT sid="2" pm="."><plain>Methods </plain></SENT>
+<SENT sid="3" pm="."><plain>We selected potential incident <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal-cancer</z:e> cases in 2004-2005 French administrative data, using two alternative algorithms </plain></SENT>
+<SENT sid="4" pm="."><plain>The first was based only on diagnostic and procedure codes, whereas the second considered the past history of the patient </plain></SENT>
+<SENT sid="5" pm="."><plain>Results of both methods were assessed against two corresponding <z:e sem="disease" ids="C0796563" disease_type="Neoplastic Process" abbrv="">local cancer</z:e> registries, acting as "gold standards." We then constructed a multivariable regression model to estimate the corrected total number of incident <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal-cancer</z:e> cases from the whole national administrative database </plain></SENT>
+<SENT sid="6" pm="."><plain>Results </plain></SENT>
+<SENT sid="7" pm="."><plain>The first algorithm provided an estimated local incidence very close to that given by the regional registries (646 versus 645 incident cases) and had good sensitivity and positive predictive values (about 75% for both) </plain></SENT>
+<SENT sid="8" pm="."><plain>The second algorithm overestimated the incidence by about 50% and had a poor positive predictive value of about 60% </plain></SENT>
+<SENT sid="9" pm="."><plain>The estimation of national incidence obtained by the first algorithm differed from that observed in 14 registries by only 2.34% </plain></SENT>
+<SENT sid="10" pm="."><plain>Conclusion </plain></SENT>
+<SENT sid="11" pm="."><plain>This study shows the usefulness of administrative databases for countries with no national <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> registry and suggests a method for correcting the estimates provided by these data </plain></SENT>
+</text></document>

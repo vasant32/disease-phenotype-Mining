@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Aquaporin 7 (AQP7), the gateway protein controlling <z:chebi fb="3" ids="17754">glycerol</z:chebi> release, has recently emerged as a modulator of adipocyte metabolism </plain></SENT>
+<SENT sid="1" pm="."><plain>AQP7 knockout mice develop <z:hpo ids='HP_0001513'>obesity</z:hpo> and <z:hpo ids='HP_0003074'>hyperglycemia</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>The contribution of AQP7 to these abnormalities in humans is unknown </plain></SENT>
+<SENT sid="3" pm="."><plain>We examined whether common single nucleotide polymorphisms (SNPs) in the AQP7 gene modulate the risk of <z:hpo ids='HP_0001513'>obesity</z:hpo> and related abnormalities </plain></SENT>
+<SENT sid="4" pm="."><plain>Among several SNPs we identified, A-953G in the AQP7 promoter was associated with type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> in 977 (530 female/447 male) Caucasians: odds ratio for XG (i.e., AG+GG) versus AA individuals was 1.36 (95% CI 1.01-1.84), P = 0.04 </plain></SENT>
+<SENT sid="5" pm="."><plain>This finding was entirely due to the association among females (1.8 [1.2-2.6], P = 0.004), which was no longer significant when adjusted for BMI </plain></SENT>
+<SENT sid="6" pm="."><plain>In fact, BMI was higher in XG than in AA females (30.8 +/- 6.6 vs. 28.9 +/- 5.2, P = 0.002) </plain></SENT>
+<SENT sid="7" pm="."><plain>This association was confirmed in independent case-control study (n = 299 female subjects) for morbid <z:hpo ids='HP_0001513'>obesity</z:hpo> (1.66 [1.01-2.74], P = 0.04) </plain></SENT>
+<SENT sid="8" pm="."><plain>Luciferase and mobility shift assays showed that, compared with -953A, the -953G promoter had reduced transcriptional activity (P = 0.001) and impaired ability to bind CCAAT/enhancer binding protein (C/EBP)beta transcription factor (P = 0.01) </plain></SENT>
+<SENT sid="9" pm="."><plain>Finally, AQP7 expression in adipose tissue decreased from AA to AG to GG individuals (P = 0.036) </plain></SENT>
+<SENT sid="10" pm="."><plain>These data strongly suggest that AQP7 downregulation is pathogenic for <z:hpo ids='HP_0001513'>obesity</z:hpo> and/or type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+</text></document>

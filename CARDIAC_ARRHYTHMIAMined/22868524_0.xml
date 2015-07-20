@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0005110'>Atrial fibrillation</z:hpo> (AF) affects three to five million Americans and is associated with significant morbidity and mortality </plain></SENT>
+<SENT sid="1" pm="."><plain>Existing methods to diagnose this paroxysmal <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> are cumbersome and/or expensive </plain></SENT>
+<SENT sid="2" pm="."><plain>We hypothesized that an iPhone 4S can be used to detect AF based on its ability to record a pulsatile photoplethysmogram signal from a fingertip using the built-in camera lens </plain></SENT>
+<SENT sid="3" pm="."><plain>To investigate the capability of the iPhone 4S for AF detection, we first used two databases, the <z:chebi fb="75" ids="27847,53620">MIT</z:chebi>-BIH AF and <z:mpath ids='MPATH_458'>normal</z:mpath> sinus rhythm (NSR) to derive discriminatory threshold values between two rhythms </plain></SENT>
+<SENT sid="4" pm="."><plain>Both databases include RR time series originating from 250 Hz sampled ECG recordings </plain></SENT>
+<SENT sid="5" pm="."><plain>We rescaled the RR time series to 30 Hz so that the RR time series resolution is 1/30 (s) which is equivalent to the resolution from an iPhone 4S </plain></SENT>
+<SENT sid="6" pm="."><plain>We investigated three statistical methods consisting of the root mean square of successive differences (RMSSD), the Shannon entropy (ShE) and the sample entropy (SampE), which have been proved to be useful tools for AF assessment </plain></SENT>
+<SENT sid="7" pm="."><plain>Using 64-beat segments from the <z:chebi fb="75" ids="27847,53620">MIT</z:chebi>-BIH databases, we found the beat-to-beat accuracy value of 0.9405, 0.9300, and 0.9614 for RMSSD, ShE, and SampE, respectively </plain></SENT>
+<SENT sid="8" pm="."><plain>Using an iPhone 4S, we collected 2-min pulsatile time series from 25 prospectively recruited subjects with AF pre- and postelectrical cardioversion </plain></SENT>
+<SENT sid="9" pm="."><plain>Using derived threshold values of RMSSD, ShE and SampE from the <z:chebi fb="75" ids="27847,53620">MIT</z:chebi>-BIH databases, we found the beat-to-beat accuracy of 0.9844, 0.8494, and 0.9522, respectively </plain></SENT>
+<SENT sid="10" pm="."><plain>It should be recognized that for clinical applications, the most relevant objective is to detect the presence of AF in the data </plain></SENT>
+<SENT sid="11" pm="."><plain>Using this criterion, we achieved an accuracy of 100% for both the <z:chebi fb="75" ids="27847,53620">MIT</z:chebi>-BIH AF and iPhone 4S databases </plain></SENT>
+</text></document>

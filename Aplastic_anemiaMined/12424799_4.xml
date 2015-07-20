@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">Tumor</z:e> <z:mp ids='MP_0001651'>necrosis</z:mp> factor alpha (TNF-alpha) has come into recent focus as a proinflammatory cytokine derived from monocytes/macrophages </plain></SENT>
+<SENT sid="1" pm="."><plain>We developed a novel system (the SEK-5001 system) for measurement of ex vivo production of TNF-alpha stimulated by <z:chebi fb="0" ids="16412">lipopolysaccharide</z:chebi> (LPS) as a marker of immune function </plain></SENT>
+<SENT sid="2" pm="."><plain>In the present study, we evaluated the performance of this system as a diagnostic tool </plain></SENT>
+<SENT sid="3" pm="."><plain>Furthermore, we compared TNF-alpha levels with data from other immune function tests, including lymphocyte blast formation test and differential leukocyte counts </plain></SENT>
+<SENT sid="4" pm="."><plain>Incubation of whole blood with a stimulation of low-dose LPS (100 EU/mL blood) for 4 hr at 37 degrees C gave acceptable results </plain></SENT>
+<SENT sid="5" pm="."><plain>After incubation, plasma TNF-alpha levels were determined by enzyme-linked immunosorbent assay (ELISA) </plain></SENT>
+<SENT sid="6" pm="."><plain>The specificity, reproducibility, and recovery of the SEK-5001 system were excellent </plain></SENT>
+<SENT sid="7" pm="."><plain>No correlation between TNF-alpha levels and total leukocyte counts was found </plain></SENT>
+<SENT sid="8" pm="."><plain>Lymphocyte blast formation test and monocyte counts, however, were correlated with TNF-alpha levels in blood from patients with <z:e sem="disease" ids="C0848852,C0376545" disease_type="Neoplastic Process" abbrv="">hematological malignancy</z:e> and <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> before treatment </plain></SENT>
+<SENT sid="9" pm="."><plain>This assay system may potentially be clinically applicable to assess in vivo immune function </plain></SENT>
+</text></document>

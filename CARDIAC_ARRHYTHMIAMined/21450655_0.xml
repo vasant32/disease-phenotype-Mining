@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVES: To investigate the association between resting heart rate (RHR) and mortality and incident <z:e sem="disease" ids="C0010068" disease_type="Disease or Syndrome" abbrv="">coronary heart disease</z:e> (CHD) in the elderly </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: Data derived from the Three-City Study, a French multicentre prospective study including 9294 community-dwelling elderly subjects aged ≥65 years at baseline examination between 1999 and 2001 </plain></SENT>
+<SENT sid="2" pm="."><plain>The study population comprised 7147 participants (61% women) who were free of a pacemaker or any <z:hpo ids='HP_0011675'>cardiac arrhythmias</z:hpo> at baseline </plain></SENT>
+<SENT sid="3" pm="."><plain>RHR was measured twice at baseline in a seated position using an electronic tensiometer </plain></SENT>
+<SENT sid="4" pm="."><plain>Participants were then followed up bi-annually for vascular morbidity and mortality over 6 years </plain></SENT>
+<SENT sid="5" pm="."><plain>CHD events and cardiovascular <z:hpo ids='HP_0011420'>death</z:hpo> were adjudicated by an independent expert committee </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: After 6 years of follow-up, 615 subjects died including 17.9% from cardiovascular causes </plain></SENT>
+<SENT sid="7" pm="."><plain>Subjects from the top quintile of RHR (&gt;79 bpm) had respectively a 74% (95% CI, 1.3-2.3), a 87% (95% CI: 0.98-3.6, p = 0.06) and a 72% (95% CI, 1.3-2.3) increased risk of total, cardiovascular and non-cardiovascular mortality compared to those from the lowest quintile (&lt;62 bpm), after adjustment for <z:e sem="disease" ids="C0850624" disease_type="Disease or Syndrome" abbrv="">cardiovascular risk factors</z:e> and beta-blocker (BB) use in a Cox regression analysis </plain></SENT>
+<SENT sid="8" pm="."><plain>Associations with total mortality were consistent according to age, gender, BB use, <z:mp ids='MP_0002055'>diabetes</z:mp> and <z:hpo ids='HP_0000822'>hypertension</z:hpo> status (<z:hpo ids='HP_0000001'>all</z:hpo> p values for interaction &gt;0.10) </plain></SENT>
+<SENT sid="9" pm="."><plain>Conversely, RHR was not predictive of incident CHD (n = 228 events; top vs lowest quintile: HR: 1.0; 95% CI: 0.6-1.5) </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSIONS: RHR is an independent risk marker of mortality but not of incident CHD events in community-dwelling elderly </plain></SENT>
+<SENT sid="11" pm="."><plain>Its routine measurement may help identify those who are at increased risk of mortality in the short term </plain></SENT>
+</text></document>

@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIMS: To analyze and compare the value of different treatment methods for <z:hpo ids='HP_0011009'>acute</z:hpo> aneurysmal <z:hpo ids='HP_0002138'>subarachnoid hemorrhage</z:hpo> (aSAH)-related vasospasm </plain></SENT>
+<SENT sid="1" pm="."><plain>Cerebral hemodynamic variables' changes were evaluated by transcranial Doppler (TCD) in aSAH patients within 14 days after <z:hpo ids='HP_0003674'>onset</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: Thirty aSAH patients were enrolled in the study within 72 h after <z:hpo ids='HP_0003674'>onset</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>Baseline CT and TCD were used for assessment </plain></SENT>
+<SENT sid="4" pm="."><plain>Patients were divided into three groups according to SAH severity and patients' discretion: nonsurgical group, endovascular coiling, and neurosurgical clipping </plain></SENT>
+<SENT sid="5" pm="."><plain>TCD hemodynamic parameters were measured and Lindegaard index was calculated daily from <z:hpo ids='HP_0003674'>onset</z:hpo> to 14th day after SAH </plain></SENT>
+<SENT sid="6" pm="."><plain>The group mean cerebral blood velocity (MBFV) and Lindegaard index were compared using repeated measures analysis of variance (reANOVA) </plain></SENT>
+<SENT sid="7" pm="."><plain>Least Significant Difference (<z:chebi fb="162" ids="6605">LSD</z:chebi>) test was used for post hoc comparison </plain></SENT>
+<SENT sid="8" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> 30 patients were followed for 90 days after <z:hpo ids='HP_0003674'>onset</z:hpo> for outcome assessment </plain></SENT>
+<SENT sid="9" pm="."><plain>RESULTS: The values of MBFV and Lindegaard index of anterior cerebral artery (ACA)/middle cerebral artery (<z:chebi fb="70" ids="34342">MCA</z:chebi>) from high to low is nonsurgical group, clipping and coiling (ACA: P= 0.0001/P= 0.006; <z:chebi fb="70" ids="34342">MCA</z:chebi>: P= 0.243/P= 0.317) </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSIONS: These results indicate that both neurosurgical clipping and endovascular coiling management may relieve the severity of <z:e sem="disease" ids="C0265110" disease_type="Disease or Syndrome" abbrv="">cerebral vasospasm</z:e> in <z:hpo ids='HP_0011009'>acute</z:hpo> aSAH </plain></SENT>
+</text></document>

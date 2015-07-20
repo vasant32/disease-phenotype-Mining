@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Fc gamma receptor polymorphisms were linked to outcome in follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo> patients treated with single-agent rituximab, an anti-CD20 monoclonal antibody </plain></SENT>
+<SENT sid="1" pm="."><plain>In particular, 158F/F genotype of Fc gamma receptor 3A and 131R/R genotype of Fc gamma receptor 2A correlated with worse outcome compared to high-affinity 158V/V and 131H/H, respectively </plain></SENT>
+<SENT sid="2" pm="."><plain>We examined this association in the context of anti-CD20 monoclonal antibody combined with chemotherapy, as compared to chemotherapy alone, in follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo> patients treated on SWOG clinical trials </plain></SENT>
+<SENT sid="3" pm="."><plain>DESIGN AND METHODS: Tissue from 142 SWOG patients treated with chemotherapy alone (protocol S8809, n = 70) or combined chemotherapy and anti-CD20 monoclonal antibody (rituximab and <z:chebi fb="60" ids="24859">Iodine</z:chebi> I-131 tositumomab on protocols S9800 and S9911, n = 30 and 42, respectively) was analyzed </plain></SENT>
+<SENT sid="4" pm="."><plain>DNA was extracted and assayed for Fc gamma receptor 3A V158F and 2A R131H polymorphisms using a TaqMan SNP assay </plain></SENT>
+<SENT sid="5" pm="."><plain>Stratified Cox's regression was used to assess association with overall survival </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: For Fc gamma receptor 3A, there was an association with overall survival in the combination therapy trials but not in the chemotherapy-only trial </plain></SENT>
+<SENT sid="7" pm="."><plain>Having at least one Fc gamma receptor 3A V allele was associated with improved overall survival versus F/F (HR = 0.33, 95% CI, 0.11, 0.96, P = 0.042) </plain></SENT>
+<SENT sid="8" pm="."><plain>For overall survival, there was evidence of a statistical interaction between the use of mAb and the number of V alleles (0, 1, or 2) (P = 0.006) </plain></SENT>
+<SENT sid="9" pm="."><plain>There was no such association for Fc gamma receptor 2A </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSIONS: Fc gamma receptor 3A polymorphism status may be predictive of survival in follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo> patients receiving treatments containing an anti-CD20 antibody but not treatment with chemotherapy alone </plain></SENT>
+<SENT sid="11" pm="."><plain>Thus, Fc gamma receptor 3A polymorphisms may be important to consider in designing new follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo> trials and new anti-CD20 monoclonal antibodies </plain></SENT>
+<SENT sid="12" pm="."><plain>(Clinicaltrials.gov identifier: NCT00933127) </plain></SENT>
+</text></document>

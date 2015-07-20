@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PURPOSE: The phosphoprotein p53 is involved in transcriptional regulation and is detected in <z:e sem="disease" ids="C0376545" disease_type="Neoplastic Process" abbrv="">hematologic malignancies</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>In vitro incubation of <z:hpo ids='HP_0004808'>acute myelogenous leukemia</z:hpo> with OL(1)p53, a 20-mer phosphorothioate oligonucleotide complementary to p53 <z:chebi fb="2" ids="33699">mRNA</z:chebi>, results in leukemic cell <z:hpo ids='HP_0011420'>death</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>A phase I dose-escalating trial was conducted to determine the toxicity of OL(1)p53 following systemic administration to patients with <z:e sem="disease" ids="C0376545" disease_type="Neoplastic Process" abbrv="">hematologic malignancies</z:e> </plain></SENT>
+<SENT sid="3" pm="."><plain>PATIENTS AND METHODS: Sixteen patients with either refractory <z:hpo ids='HP_0004808'>acute myelogenous leukemia</z:hpo> (n = 6) or advanced <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo> (n = 10) participated in the trial </plain></SENT>
+<SENT sid="4" pm="."><plain>Patients were given OL(1)p53 at doses of 0.05 to 0.25 mg/kg/h for 10 days by continuous intravenous infusion </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: No specific toxicity was directly related to the administration of OL(1)p53 </plain></SENT>
+<SENT sid="6" pm="."><plain>One patient developed transient nonoliguric <z:hpo ids='HP_0000083'>renal failure</z:hpo> </plain></SENT>
+<SENT sid="7" pm="."><plain>One patient died of <z:chebi fb="0" ids="48120">anthracycline</z:chebi>-induced <z:hpo ids='HP_0001635'>cardiac failure</z:hpo> </plain></SENT>
+<SENT sid="8" pm="."><plain>Approximately 36% of the administered dose of OL(1)p53 was recovered intact in the urine </plain></SENT>
+<SENT sid="9" pm="."><plain>Plasma concentrations and area under the plasma concentration curves were linearly correlated with dose </plain></SENT>
+<SENT sid="10" pm="."><plain>Leukemic cell growth in vitro was inhibited as compared with pretreatment samples </plain></SENT>
+<SENT sid="11" pm="."><plain>There were no clinical complete responses </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSION: A phosphorothioate oligonucleotide, OL(1)p53, can be administered systemically without complications </plain></SENT>
+<SENT sid="13" pm="."><plain>This type of modified oligonucleotide can be administered without complete degradation, as it was recovered from the urine intact </plain></SENT>
+<SENT sid="14" pm="."><plain>This oligonucleotide may be useful in combination with currently available chemotherapy agents for the treatment of <z:e sem="disease" ids="C0006826" disease_type="Neoplastic Process" abbrv="">malignancies</z:e> </plain></SENT>
+</text></document>

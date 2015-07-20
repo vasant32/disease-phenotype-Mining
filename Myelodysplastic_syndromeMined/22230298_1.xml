@@ -1,0 +1,7 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:chebi fb="0" ids="2038">Azacitidine</z:chebi> and <z:chebi fb="0" ids="50131">decitabine</z:chebi> are DNA methyltransferase inhibitors used to treat <z:hpo ids='HP_0002863'>myelodysplastic syndromes</z:hpo> and <z:hpo ids='HP_0004808'>acute myeloid leukemias</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>To further characterize different mechanisms between these two agents, cellular extracts from leukemic cells untreated or treated with either drug were analyzed using 2D electrophoresis </plain></SENT>
+<SENT sid="2" pm="."><plain>Numerous differentially expressed proteins were identified with MALDI-TOF/TOF-MS </plain></SENT>
+<SENT sid="3" pm="."><plain>Cyclophilin A, Catalase, Nucleophosmin and PCNA were decreased exclusively by <z:chebi fb="0" ids="2038">azacitidine</z:chebi>, TCP1 and hnRNP A2/B1 by both drugs; alpha-Enolase and Peroxiredoxin-1 by <z:chebi fb="0" ids="50131">decitabine</z:chebi> </plain></SENT>
+<SENT sid="4" pm="."><plain>Interestingly, the expression of the proinflammatory protein Cyclophilin A, also suggested as marker of cell <z:mp ids='MP_0001651'>necrosis</z:mp>, was stimulated by <z:chebi fb="0" ids="50131">decitabine</z:chebi> </plain></SENT>
+<SENT sid="5" pm="."><plain>Finally, a comprehensive pathway analysis of data highlighted a relationship between the identified proteins and potential effectors </plain></SENT>
+</text></document>

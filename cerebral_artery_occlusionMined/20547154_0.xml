@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0001297'>Stroke</z:hpo> is a major cause of mortality and morbidity in the United States </plain></SENT>
+<SENT sid="1" pm="."><plain>The ideal therapeutic approach would minimize cell <z:hpo ids='HP_0011420'>death</z:hpo> and regenerate brain tissue </plain></SENT>
+<SENT sid="2" pm="."><plain>In order to investigate some questions that are related to such an approach, we have generated a mouse model in which we induce a <z:hpo ids='HP_0001297'>stroke</z:hpo> using the middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> method </plain></SENT>
+<SENT sid="3" pm="."><plain>After 2h occlusion followed by reperfusion, 99% of mice died within 8 days of <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+<SENT sid="4" pm="."><plain>Total bone marrow cell transplantation by intravenous injection revealed an optimal timing of cell transfer in two doses on days 1 (same day of surgery) and 2 after surgery </plain></SENT>
+<SENT sid="5" pm="."><plain>Moreover, intravenous injection of Sca1+ bone marrow cells (enriched in hematopoietic stem cells) showed a dose-response effect on survival </plain></SENT>
+<SENT sid="6" pm="."><plain>Surviving mice also had no signs of apparent <z:hpo ids='HP_0003470'>paralysis</z:hpo> or <z:mp ids='MP_0000746'>weakness</z:mp> </plain></SENT>
+<SENT sid="7" pm="."><plain>Tracking analysis using donor stem cells expressing LacZ revealed only few donor cells in the brain </plain></SENT>
+<SENT sid="8" pm="."><plain>We conclude that hematopoietic stem cell-rich Sca1+ bone marrow cell transplantation after <z:hpo ids='HP_0001297'>stroke</z:hpo> protects the brain of a sizeable portion of mice subjected to <z:hpo ids='HP_0001297'>stroke</z:hpo> and alleviate remarkably the resulting <z:e sem="disease" ids="C1301721" disease_type="Disease or Syndrome" abbrv="">neurological morbidity</z:e> in surviving mice </plain></SENT>
+</text></document>

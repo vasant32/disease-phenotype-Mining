@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The BRAF proto-oncogene is mutated in a subset of human <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumors</z:e>, including <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>A splicing variant lacking exons 14 and 15 (BRAF del E14/15) has been described recently </plain></SENT>
+<SENT sid="2" pm="."><plain>However, the frequency of the variant, the kinase activity of the protein isoform, its biological function, and which allele it is derived from remains unknown </plain></SENT>
+<SENT sid="3" pm="."><plain>BRAF <z:chebi fb="2" ids="33699">mRNA</z:chebi> from <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> cell lines and colonic epithelium was reversely transcribed, subcloned, and screened for alternative splicing </plain></SENT>
+<SENT sid="4" pm="."><plain>New transcript variants and allelic origin of alternatively spliced transcripts were analyzed by DNA sequencing </plain></SENT>
+<SENT sid="5" pm="."><plain>Kinase activity of the B-Raf isoforms was determined by Western blotting after transfections with expression constructs of the different BRAF variants </plain></SENT>
+<SENT sid="6" pm="."><plain>Four additional BRAF transcript variants resulting in C-terminal truncation of the gene product were found </plain></SENT>
+<SENT sid="7" pm="."><plain>Alternative splicing was found at frequencies from 4.7 to 16.7% in <z:mpath ids='MPATH_458'>normal</z:mpath> and neoplastic colorectal cells </plain></SENT>
+<SENT sid="8" pm="."><plain>Alternative transcripts were shown to be derived from both <z:mp ids='MP_0002169'>wild-type</z:mp> and V600E alleles </plain></SENT>
+<SENT sid="9" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> nonconsensus B-Raf protein variants were found to be kinase-dead and failed to coactivate full-length B-Raf </plain></SENT>
+<SENT sid="10" pm="."><plain>In conclusion, we present a highly sensitive method for the detection of aberrantly spliced transcripts </plain></SENT>
+<SENT sid="11" pm="."><plain>Alternative splicing of exons 14, 15, 15b, 16b and 16c occurs in a considerable fraction of BRAF <z:chebi fb="2" ids="33699">mRNA</z:chebi> in <z:mpath ids='MPATH_458'>normal</z:mpath> colon and <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> cells and is independent of the V600E mutational status of the parental allele </plain></SENT>
+<SENT sid="12" pm="."><plain>Splicing of nonfunctional transcripts affects overall cellular B-Raf activity and might represent a mechanism to decrease sensitivity to growth signals </plain></SENT>
+</text></document>

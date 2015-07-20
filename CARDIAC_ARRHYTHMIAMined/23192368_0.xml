@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Drug-induced ion channel trafficking disturbance can cause <z:hpo ids='HP_0011675'>cardiac arrhythmias</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>We showed that the antiprotozoic <z:chebi fb="4" ids="45081">pentamidine</z:chebi> decreased K(IR)2.x carried I(K1) current and that inhibiting protein degradation in the lysosome increased intracellular K(IR)2.1 levels </plain></SENT>
+<SENT sid="2" pm="."><plain>In this study, we aim to identify and then inhibit preceding steps in clathrin-mediated endocytosis of K(IR)2.1 to further restore <z:mpath ids='MPATH_458'>normal</z:mpath> levels of functional K(IR)2.1 channels </plain></SENT>
+<SENT sid="3" pm="."><plain>K(IR)2.1 trafficking in HEK293 cells was studied by live cell imaging, immunofluorescence microscopy, and Western blot following pharmacological intervention with dynasore (Dyn), <z:chebi fb="6" ids="3647">chlorpromazine</z:chebi> (<z:chebi fb="0" ids="3647">CPZ</z:chebi>), <z:chebi fb="0" ids="22689">bafilomycin A1</z:chebi> (Baf), or <z:chebi fb="3" ids="3638">chloroquine</z:chebi> (CQ) </plain></SENT>
+<SENT sid="4" pm="."><plain>K(IR)2.1 function was determined by patch-clamp electrophysiology </plain></SENT>
+<SENT sid="5" pm="."><plain>CQ induced lysosomal build-up of full length (3.8 ± 0.8-fold) and N-terminal cleaved K(IR)2.1 protein </plain></SENT>
+<SENT sid="6" pm="."><plain>Baf induced late endosomal build-up of full length protein only (6.1 ± 1.6-fold) </plain></SENT>
+<SENT sid="7" pm="."><plain><z:chebi fb="0" ids="3647">CPZ</z:chebi> and Dyn increased plasma membrane-localized channel and protein levels (2.6 ± 0.4- and 4.2 ± 1.1-fold, respectively) </plain></SENT>
+<SENT sid="8" pm="."><plain>Dyn increased I(K1) (at -60 mV) from 31 ± 6 to 55 ± 7 pA/pF (N = 9 and 13 respectively, p &lt; 0.05), while the <z:chebi fb="0" ids="3647">CPZ</z:chebi> effect on current density was not testable due to <z:hpo ids='HP_0011009'>acute</z:hpo> I(K1) block </plain></SENT>
+<SENT sid="9" pm="."><plain>Baf and CQ did not significantly enhance I(K1) densities </plain></SENT>
+<SENT sid="10" pm="."><plain><z:chebi fb="4" ids="45081">Pentamidine</z:chebi> (10 μM, 48 h) reduced K(IR)2.1 levels to 0.6 ± 0.1-fold, which could be rescued by Baf (3.2 ± 0.9), <z:chebi fb="0" ids="3647">CPZ</z:chebi> (1.2 ± 0.3), or Dyn (1.2 ± 0.3) </plain></SENT>
+<SENT sid="11" pm="."><plain>Taken together, the clathrin-mediated endocytosis pathway functions in K(IR)2.1 degradation </plain></SENT>
+<SENT sid="12" pm="."><plain><z:chebi fb="4" ids="45081">Pentamidine</z:chebi>-induced downregulation of K(IR)2.1 can be rescued at the level of the plasma membrane, implying that acquired trafficking defects can be rescued </plain></SENT>
+</text></document>

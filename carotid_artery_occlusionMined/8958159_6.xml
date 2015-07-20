@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Oxygen free radicals may be implicated in the pathogenesis of <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e>-reperfusion damage </plain></SENT>
+<SENT sid="1" pm="."><plain>It is known that 2-chloroadenosine (2-CADO) has neuromodulatory effects and prevents the neuronal damage seen in the period of postischemia reperfusion </plain></SENT>
+<SENT sid="2" pm="."><plain>However, direct effects of 2-CADO on <z:chebi fb="23" ids="18059">lipid</z:chebi> peroxidation have not been investigated previously </plain></SENT>
+<SENT sid="3" pm="."><plain>The attack on the cell membrane by free radicals leads to <z:chebi fb="23" ids="18059">lipid</z:chebi> peroxidation, which can be assayed by the malondialdehyde (<z:chebi fb="14" ids="32506">MDA</z:chebi>) level </plain></SENT>
+<SENT sid="4" pm="."><plain>The aim of this study was to determine the effect of 2-CADO therapy on <z:chebi fb="23" ids="18059">lipid</z:chebi> peroxidation in experimental forebrain <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> and postischemia reperfusion in Mongolian gerbils </plain></SENT>
+<SENT sid="5" pm="."><plain><z:hpo ids='HP_0002637'>Cerebral ischemia</z:hpo> was induced by a bilateral 30-mm occlusion of the common carotid arteries </plain></SENT>
+<SENT sid="6" pm="."><plain>2-Chloroadenosine (0.6 mg/kg, IV) was administered 5 min subsequent to <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> </plain></SENT>
+<SENT sid="7" pm="."><plain><z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">Ischemia</z:e> was followed by reperfusion for 30 min </plain></SENT>
+<SENT sid="8" pm="."><plain>The <z:chebi fb="14" ids="32506">MDA</z:chebi> level was measured by the <z:chebi fb="0" ids="33202">thiobarbituric acid</z:chebi> (TBA) test </plain></SENT>
+<SENT sid="9" pm="."><plain>Bilateral carotid <z:mp ids='MP_0006134'>artery occlusion</z:mp> for 30 min in gerbils resulted in no significant change in <z:chebi fb="14" ids="32506">MDA</z:chebi> level in the brain </plain></SENT>
+<SENT sid="10" pm="."><plain>The <z:chebi fb="14" ids="32506">MDA</z:chebi> level was higher in postischemia reperfusion than in the ischemic group </plain></SENT>
+<SENT sid="11" pm="."><plain>2-Chloroadenosine treatment did not change the <z:chebi fb="14" ids="32506">MDA</z:chebi> level in the ischemic period </plain></SENT>
+<SENT sid="12" pm="."><plain>However, the <z:chebi fb="14" ids="32506">MDA</z:chebi> level recovered significantly upon 2-CADO therapy during reperfusion following <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> </plain></SENT>
+<SENT sid="13" pm="."><plain>These results suggest that 2-CADO may offer some degree of protection against <z:mp ids='MP_0003674'>oxidative stress</z:mp> in <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo>-reperfusion damage </plain></SENT>
+</text></document>

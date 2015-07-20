@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIM: Dipeptidyl peptidase (DPP)-4 in responsible for incretin degradation and some observations suggest that DPP-4 activity is increased in type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> (T2D) </plain></SENT>
+<SENT sid="1" pm="."><plain>We aimed to assess the effect of T2D and <z:chebi fb="105" ids="17234">glucose</z:chebi> control on DPP-4 activity </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: In the first set (SET1) of patients, we compared plasma DPP-4 activity between 30 T2D and 20 age- and sex-matched non-diabetic subjects </plain></SENT>
+<SENT sid="3" pm="."><plain>In the second set (SET2), we measured serum DPP-4 activity in 42 T2D patients before and after a trial of <z:chebi fb="105" ids="17234">glucose</z:chebi> control achieved by add-on basal insulin therapy (NCT00699686) </plain></SENT>
+<SENT sid="4" pm="."><plain>Serum/plasma DPP-4 activity was determined using chromogenic and fluorigenic substrates, as well as several positive and negative controls </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: In SET1, plasma DPP-4 activity was significantly higher in T2D vs. controls (32.2 ± 1.2 U/l vs. 21.2 ± 1.1 U/l, p &lt; 10(-6)) </plain></SENT>
+<SENT sid="6" pm="."><plain>From a meta-analysis of the literature, we found that T2D is associated with a 33% increase in DPP-4 activity compared to controls </plain></SENT>
+<SENT sid="7" pm="."><plain>In SET2, serum DPP-4 activity was not lowered by intensified <z:chebi fb="105" ids="17234">glucose</z:chebi> control, despite an average <z:chebi fb="34" ids="35143">haemoglobin</z:chebi> A1c (HbA1c) reduction of 1.5% </plain></SENT>
+<SENT sid="8" pm="."><plain>In both sets of diabetic patients, the use of <z:chebi fb="0" ids="6801">metformin</z:chebi> was associated with a significantly lower DPP-4 activity, independently of age, sex, body mass index and HbA1c </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSION: DPP-4 activity is increased in T2D, but is not lowered by <z:chebi fb="105" ids="17234">glucose</z:chebi> control, suggesting that <z:e sem="disease" ids="C0020456" disease_type="Disease or Syndrome" abbrv="">hyperglycaemia</z:e> is not a direct determinant of DPP-4 activity </plain></SENT>
+<SENT sid="10" pm="."><plain>However, <z:chebi fb="0" ids="6801">metformin</z:chebi> may indirectly reduce DPP-4 activity </plain></SENT>
+</text></document>

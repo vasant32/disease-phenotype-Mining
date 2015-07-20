@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>(1) Patients with <z:hpo ids='HP_0100580'>endobrachyesophagus</z:hpo> (<z:e sem="disease" ids="C0004763" disease_type="Disease or Syndrome" abbrv="CELLO">Barrett's oesophagus</z:e>) and high-grade <z:mpath ids='MPATH_589'>dysplasia</z:mpath> are at high risk of developing <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> within 3 to 7 years </plain></SENT>
+<SENT sid="1" pm="."><plain>Esophagectomy carries a risk of major morbidity and mortality </plain></SENT>
+<SENT sid="2" pm="."><plain>Local treatments (photocoagulation and endoscopic mucosectomy) are currently under evaluation </plain></SENT>
+<SENT sid="3" pm="."><plain>(2) Marketing authorisation has been granted for a photodynamic treatment based on intravenous porfimer injection and laser illumination of the lesion </plain></SENT>
+<SENT sid="4" pm="."><plain>(3) In a randomised trial comparing porfimer photodynamic therapy plus <z:chebi fb="14" ids="7772">omeprazole</z:chebi> with <z:chebi fb="14" ids="7772">omeprazole</z:chebi> alone, 208 patients were monitored for at least 2 years </plain></SENT>
+<SENT sid="5" pm="."><plain>There was no difference in mortality between the groups </plain></SENT>
+<SENT sid="6" pm="."><plain>Thirteen percent of patients on combination treatment developed <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> (stage not specified), compared to 29% of patients treated with <z:chebi fb="14" ids="7772">omeprazole</z:chebi> alone (p = 0.006) </plain></SENT>
+<SENT sid="7" pm="."><plain>Nearly half the patients had symptoms of <z:e sem="disease" ids="C0031763" disease_type="Disease or Syndrome" abbrv="">photosensitization</z:e>, and 38% had oesophageal contraction requiring at least 1 dilation session </plain></SENT>
+<SENT sid="8" pm="."><plain>(4) In practice, despite some encouraging results, we do not know if photodynamic therapy based on porfimer reduces the long-term risk of recurrence, invasive <z:mp ids='MP_0002038'>carcinoma</z:mp>, or major surgery </plain></SENT>
+<SENT sid="9" pm="."><plain>However, there is a risk of serious adverse effects </plain></SENT>
+<SENT sid="10" pm="."><plain>Porfimer photodynamic therapy needs to be compared with other endoscopic interventions </plain></SENT>
+</text></document>

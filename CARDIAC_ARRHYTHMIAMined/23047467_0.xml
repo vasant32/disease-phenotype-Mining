@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Cloperastine is an <z:chebi fb="0" ids="51177">antitussive</z:chebi> drug, which can be received as an over-the-counter cold medicine </plain></SENT>
+<SENT sid="1" pm="."><plain>The chemical structure of cloperastine is quite similar to that of the <z:chebi fb="6" ids="37956">antihistamine</z:chebi> drug diphenhydramine, which is reported to inhibit hERG K⁺ channels and clinically induce <z:hpo ids='HP_0001657'>long QT syndrome</z:hpo> after overdose </plain></SENT>
+<SENT sid="2" pm="."><plain>To analyze its proarrhythmic potential, we compared effects of cloperastine and diphenhydramine on the hERG K⁺ channels expressed in HEK293 cells </plain></SENT>
+<SENT sid="3" pm="."><plain>We further assessed their effects on the <z:chebi fb="2" ids="5615">halothane</z:chebi>-anesthetized guinea-pig heart under the monitoring of monophasic action potential (MAP) of the ventricle </plain></SENT>
+<SENT sid="4" pm="."><plain>Cloperastine inhibited the hERG K⁺ currents in a concentration-dependent manner with an IC₅₀ value of 0.027 μM, whose potency was 100 times greater than that of diphenhydramine (IC₅₀; 2.7 μM) </plain></SENT>
+<SENT sid="5" pm="."><plain>In the anesthetized guinea pigs, cloperastine at a therapeutic dose of 1 mg/kg prolonged the QT interval and MAP duration without affecting PR interval or QRS width </plain></SENT>
+<SENT sid="6" pm="."><plain>Diphenhydramine at a therapeutic dose of 10 mg/kg prolonged the QT interval and MAP duration together with increase in PR interval and QRS width </plain></SENT>
+<SENT sid="7" pm="."><plain>The present results suggest that cloperastine may be categorized as a QT-prolonging drug that possibly induces <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> at overdoses like diphenhydramine does </plain></SENT>
+</text></document>

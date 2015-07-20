@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: There is growing evidence linking genetic variations to non-Hodgkin <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (NHL) etiology </plain></SENT>
+<SENT sid="1" pm="."><plain>To complement ongoing agnostic approaches for identifying susceptibility genes, we evaluated 488 candidate gene regions and their relation to risk for NHL and NHL subtypes </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: We genotyped 6,679 tag single nucleotide polymorphisms (SNPs) in 947 cases and 826 population-based controls from a multicenter U.S. case-control study </plain></SENT>
+<SENT sid="3" pm="."><plain>Gene-level summary of associations were obtained by computing the minimum P value ("minP test") on the basis of 10,000 permutations </plain></SENT>
+<SENT sid="4" pm="."><plain>We used logistic regression to evaluate the association between genotypes and haplotypes with NHL </plain></SENT>
+<SENT sid="5" pm="."><plain>For NHL subtypes, we conducted polytomous multivariate unconditional logistic regression (adjusted for sex, race, age) </plain></SENT>
+<SENT sid="6" pm="."><plain>We calculated P-trends under the codominant model for each SNP </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: Fourteen gene regions were associated with NHL (P &lt; 0.01) </plain></SENT>
+<SENT sid="8" pm="."><plain>The most significant SNP associated with NHL maps to the SYK gene (rs2991216, P-trend = 0.00005) </plain></SENT>
+<SENT sid="9" pm="."><plain>The three most significant gene regions were on chromosome 6p21.3 (RING1/RXRB; AIF1; BAT4) </plain></SENT>
+<SENT sid="10" pm="."><plain>Accordingly, SNPs in RING1/RXRB (rs2855429), AIF1 (rs2857597), and BAT4 (rs3115667) were associated with NHL (P-trends ≤ 0.0002) and both diffuse large B-cell and follicular <z:hpo ids='HP_0002665'>lymphomas</z:hpo> (P-trends &lt; 0.05) </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: Our results suggest potential importance for SYK on chromosome 9 with NHL etiology </plain></SENT>
+<SENT sid="12" pm="."><plain>Our results further implicate 6p21.3 gene variants, supporting the need for full characterization of this chromosomal region in relation to <z:e sem="disease" ids="C0598766" disease_type="Neoplastic Process" abbrv="">lymphomagenesis</z:e> </plain></SENT>
+<SENT sid="13" pm="."><plain>IMPACT: Gene variants on chromosome 9 may represent a new region of interesting for NHL etiology </plain></SENT>
+<SENT sid="14" pm="."><plain>The independence of the reported variants in 6p21.3 from implicated variants (TNF/HLA) supports the need to confirm causal variants in this region </plain></SENT>
+</text></document>

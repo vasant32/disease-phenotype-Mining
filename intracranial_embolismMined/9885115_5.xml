@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Left-ventricular assist device implantation (LVAD) is still associated with <z:hpo ids='HP_0001907'>thromboembolism</z:hpo> as the optimal anticoagulation is still unclear </plain></SENT>
+<SENT sid="1" pm="."><plain>We report on the effects of adding platelet inhibitors to our anticoagulation regimen in our Novacor LVAD program </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: Oral <z:chebi fb="0" ids="50427">platelet aggregation inhibitors</z:chebi> (aspirin 330 mg + <z:chebi fb="0" ids="4653">dipyridamole</z:chebi> 75 mg, three times per day) were added to the <z:chebi fb="5" ids="28304">heparin</z:chebi>/<z:chebi fb="0" ids="50438">phenprocoumon</z:chebi> treatment in 9 patients starting on postoperative day 3 to 7 (group A) </plain></SENT>
+<SENT sid="3" pm="."><plain>Of the previous 41 patients, the last 20 patients served as a control group (group B), to reduce any learning curve effect </plain></SENT>
+<SENT sid="4" pm="."><plain>RESULTS: The mean interval of mechanical support between the two groups was comparable (group A vs B: 148 +/- 127 vs 104 +/- 61 days, n.s.) </plain></SENT>
+<SENT sid="5" pm="."><plain>Accordingly, the cumulative support was much lower in group A (1051 days) as compared to group B (2091 days) </plain></SENT>
+<SENT sid="6" pm="."><plain>In group B, 10 patients (50%) developed clinically evident <z:hpo ids='HP_0001907'>thromboembolism</z:hpo> </plain></SENT>
+<SENT sid="7" pm="."><plain>The number of events ranged from 1 to 10 (mean 1.4 +/- 2.3), with a total of 32 </plain></SENT>
+<SENT sid="8" pm="."><plain>With addition of platelet inhibitors, the incidence of <z:e sem="disease" ids="C0007780" disease_type="Disease or Syndrome" abbrv="">cerebral embolism</z:e> dramatically dropped, as only one patient presented with <z:hpo ids='HP_0002326'>transient ischemic attacks</z:hpo> in group A (p &lt; 0.05) </plain></SENT>
+<SENT sid="9" pm="."><plain>Thoracic <z:mp ids='MP_0001914'>bleeding</z:mp> as defined by excessive drainage losses requiring redo thoracotomy did not increase (group A vs B: 22% vs 20%, n.s.) </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSION: Addition of platelet inhibitors to <z:chebi fb="5" ids="28304">heparin</z:chebi>/<z:chebi fb="0" ids="50438">phenprocoumon</z:chebi> effectively prevents <z:hpo ids='HP_0001907'>thromboembolism</z:hpo> </plain></SENT>
+<SENT sid="11" pm="."><plain>However, platelet inhibitors should be postponed until sufficient hemostasis is achieved, since too early administration is associated with an increased risk of <z:mp ids='MP_0001914'>bleeding</z:mp> </plain></SENT>
+</text></document>

@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIMS/HYPOTHESIS: The loss of beta cell function is a critical factor in the development of type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="1" pm="."><plain>Glucotoxicity plays a major role in the progressive deterioration of beta cell function and development of type 2 <z:hpo ids='HP_0000819'>diabetes mellitus</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>Here we demonstrate that microRNA (miR)-30a-5p is a key player in early-stage glucotoxicity-induced <z:hpo ids='HP_0006279'>beta cell dysfunction</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: We performed northern blots, RT-PCR and western blots in glucotoxicity-exposed primary rat islets and INS-1 cells </plain></SENT>
+<SENT sid="4" pm="."><plain>We also measured <z:chebi fb="105" ids="17234">glucose</z:chebi>-stimulated insulin secretion and insulin content </plain></SENT>
+<SENT sid="5" pm="."><plain>In vivo approaches were used to evaluate the role of miR-30a-5p in <z:hpo ids='HP_0006279'>beta cell dysfunction</z:hpo> </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: miR-30a-5p expression was increased in beta cells after exposure to glucotoxic conditions, and exogenous miR-30a-5p overexpression also induced <z:hpo ids='HP_0006279'>beta cell dysfunction</z:hpo> in vitro </plain></SENT>
+<SENT sid="7" pm="."><plain>miR-30a-5p directly suppressed expression of Beta2/NeuroD (also known as Neurod1) by binding to a specific binding site in its 3'-untranslated region </plain></SENT>
+<SENT sid="8" pm="."><plain>After restoration of Beta2/NeuroD expression by knockdown miR-30a-5p or transfection of the Beta2/NeuroD gene, <z:hpo ids='HP_0006279'>beta cell dysfunction</z:hpo>, including decreased insulin content, gene expression and <z:chebi fb="105" ids="17234">glucose</z:chebi>-stimulated insulin secretion, recovered </plain></SENT>
+<SENT sid="9" pm="."><plain><z:chebi fb="105" ids="17234">Glucose</z:chebi> tolerance and <z:hpo ids='HP_0006279'>beta cell dysfunction</z:hpo> improved on direct injection of Ad-si30a-5p into the pancreas of diabetic mice </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSIONS/INTERPRETATION: Our data demonstrate that miR-30a-5p-mediated direct suppression of Beta2/NeuroD gene expression is an important initiation step of glucotoxicity-induced <z:hpo ids='HP_0006279'>beta cell dysfunction</z:hpo> </plain></SENT>
+</text></document>

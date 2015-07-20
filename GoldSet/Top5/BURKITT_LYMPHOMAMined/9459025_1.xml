@@ -1,0 +1,6 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>(+)-Thiocolchicine (2b) was prepared from (+/-)-<z:chebi fb="0" ids="23359">colchicine</z:chebi> (1) in a five-step reaction sequence that included chromatographic separation of appropriate camphanylated diastereomers </plain></SENT>
+<SENT sid="1" pm="."><plain>Acid hydrolysis of the (+)-diastereomer, followed by acetylation, yielded the desired product 2b </plain></SENT>
+<SENT sid="2" pm="."><plain>(+)-Thiocolchicine has 15-fold lower inhibitory activity against tubulin polymerization than (-)-thiocolchicine, and is 29-fold less potent for inhibiting growth of human Burkitt <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cells </plain></SENT>
+<SENT sid="3" pm="."><plain>The enantiomer 2a, prepared from the (-)-camphanylated diastereomer, had potent activity in <z:hpo ids='HP_0000001'>all</z:hpo> assays comparable to that of (-)-thiocolchicine prepared by other methods </plain></SENT>
+<SENT sid="4" pm="."><plain>These results support the hypothesis that the proper configuration of <z:chebi fb="0" ids="23359">colchicine</z:chebi>-related compounds is an important requirement for their anti-tubulin action </plain></SENT>
+</text></document>

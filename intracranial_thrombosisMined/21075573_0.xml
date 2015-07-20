@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>RATIONALE: Magnetoencephalography (MEG) is useful to localize <z:e sem="disease" ids="C0014544" disease_type="Disease or Syndrome" abbrv="">epileptic</z:e> foci in <z:e sem="disease" ids="C0014544" disease_type="Disease or Syndrome" abbrv="">epilepsy</z:e> as MEG has higher spatio-temporal resolution than conventional diagnostic imaging studies; <z:chebi fb="4" ids="30225">positron</z:chebi> emission computed tomography, single <z:chebi fb="23" ids="30212">photon</z:chebi> emission computed tomography and magnetic resonance imaging (MRI) </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: We use 204-channel helmet-shaped MEG with a sampling rate of 600 Hz </plain></SENT>
+<SENT sid="2" pm="."><plain>A single dipole method calculates equivalent current dipoles to localize <z:e sem="disease" ids="C0014544" disease_type="Disease or Syndrome" abbrv="">epileptic</z:e> sources </plain></SENT>
+<SENT sid="3" pm="."><plain>The equivalent current dipoles are superimposed onto MRI as magnetic source imaging (MSI) </plain></SENT>
+<SENT sid="4" pm="."><plain>Ictal MEG data are analyzed using time-frequency analysis </plain></SENT>
+<SENT sid="5" pm="."><plain>The power spectrum density is calculated using short-time Fourier transform and superimposed onto MRI results </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: Clustered equivalent current dipoles represent epileptogenic zones in patients with <z:e sem="disease" ids="C0014547" disease_type="Disease or Syndrome" abbrv="">localization-related epilepsy</z:e> </plain></SENT>
+<SENT sid="7" pm="."><plain>The surgical plan is reliably developed from source localizations of dipoles and power spectrum of interictal spike discharges, and ictal frequency </plain></SENT>
+<SENT sid="8" pm="."><plain>CONCLUSION: MEG is indispensable in diagnosis and surgical resection for <z:e sem="disease" ids="C0014544" disease_type="Disease or Syndrome" abbrv="">epilepsy</z:e> to accurately localize the epileptogenic zone </plain></SENT>
+</text></document>

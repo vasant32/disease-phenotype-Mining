@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Cerebral arterial <z:mpath ids='MPATH_111'>air embolism</z:mpath> (CAAE) may cause neurologic injury during cardiac surgery </plain></SENT>
+<SENT sid="1" pm="."><plain>It is not known whether cardiopulmonary bypass (CPB) increases or decreases brain injury from CAAE compared with the <z:mpath ids='MPATH_458'>normal</z:mpath> circulation </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: A model of CAAE was produced by injection of 50 microl/kg air into the internal carotid artery of <z:chebi fb="0" ids="102216">methohexital</z:chebi>-anesthetized New Zealand white rabbits </plain></SENT>
+<SENT sid="3" pm="."><plain>Somatosensory-evoked potential (SSEP) amplitude was measured serially as a marker of neurologic recovery </plain></SENT>
+<SENT sid="4" pm="."><plain>In experiment A, saline rather than air was injected to control for surgical manipulation and time in CPB (n = 4) and nonheparinized non-CPB (n = 4) animals </plain></SENT>
+<SENT sid="5" pm="."><plain>In experiment B, 50 microl/kg air was injected in CPB (n = 11) and nonheparinized non-CPB (n = 11) animals </plain></SENT>
+<SENT sid="6" pm="."><plain>In experiment C, non-CPB animals (n = 6) were given <z:chebi fb="5" ids="28304">heparin</z:chebi> according to the same protocol as for CPB </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: In experiment A, SSEP latencies and amplitudes did not differ between CPB and non-CPB conditions </plain></SENT>
+<SENT sid="8" pm="."><plain>In experiment B, there was no SSEP recovery 5 min after CAAE in either CPB or non-CPB animals </plain></SENT>
+<SENT sid="9" pm="."><plain>Thereafter, SSEP recovery was less in CPB animals than in non-CPB animals at 30 min (9 +/- 12% vs. 29 +/- 20%; P = 0.009) and 60 min (18 +/- 15% vs. 39 +/- 22%; P = 0.030) after CAAE </plain></SENT>
+<SENT sid="10" pm="."><plain>Ninety-minute SSEP recovery did not differ between CPB and non-CPB groups (at 24 +/- 19% vs. 39 +/- 24%, respectively; P = 0.146) </plain></SENT>
+<SENT sid="11" pm="."><plain>In experiment C (heparinized non-CPB), SSEP recovery 5, 30, 60, and 90 min after CAAE was 67 +/- 48%, 72 +/- 47%, 80 +/- 35%, and 77 +/- 35%, respectively </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: Somatosensory-evoked potential recovery after CAAE is no better (and is probably worse) during CPB than during <z:mpath ids='MPATH_458'>normal</z:mpath> circulation </plain></SENT>
+<SENT sid="13" pm="."><plain>The adverse effect of CPB occurs despite heparinization, which, under non-CPB conditions, appears to be protective </plain></SENT>
+<SENT sid="14" pm="."><plain>Therapies in addition to <z:chebi fb="5" ids="28304">heparin</z:chebi> are needed during CPB to reduce neurologic injury from CAAE </plain></SENT>
+</text></document>

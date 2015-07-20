@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>It is widely known that IL-4 and IL-13 act on various kinds of cells, including B cells, resulting in enhancement of proliferation, class switching to IgE and expression of several surface proteins </plain></SENT>
+<SENT sid="1" pm="."><plain>These functions are important for the recognition of the various antigens in B cells and are known to be involved in the pathogenesis of allergic diseases </plain></SENT>
+<SENT sid="2" pm="."><plain>However, it has not been known whether IL-4/IL-13 is involved in the metabolism of various kinds of <z:chebi fb="0" ids="35703">xenobiotics</z:chebi> including 2,3,7,8-tetra-chlorodibenzo-p-<z:chebi fb="44" ids="28119">dioxin</z:chebi> (TCDD), and it remains undetermined whether TCDD, an environmental pollutant, influences IgE production in B cells, exaggerating allergic reactions </plain></SENT>
+<SENT sid="3" pm="."><plain>We identified IL-4- or IL-13-inducible genes in a human Burkitt <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cell line, DND-39, using microarray technology, in which the AHR gene was included </plain></SENT>
+<SENT sid="4" pm="."><plain>The AHR gene product, the aryl <z:chebi fb="59" ids="24632">hydrocarbon</z:chebi> receptor (AhR), was induced by IL-4 in both mouse and human B cells in a STAT6-dependent manner </plain></SENT>
+<SENT sid="5" pm="."><plain>IL-4 alone had the ability to translocate the induced AhR to the nuclei </plain></SENT>
+<SENT sid="6" pm="."><plain>TCDD, a ligand for AhR, rapidly degraded the induced AhR by the proteasomal pathway, although IL-4-activated AhR sustained its expression </plain></SENT>
+<SENT sid="7" pm="."><plain>AhR activated by IL-4 caused expression of a <z:chebi fb="0" ids="35703">xenobiotic</z:chebi>-metabolizing gene, CYP1A1, and TCDD synergistically acted on the induction of this gene by IL-4 </plain></SENT>
+<SENT sid="8" pm="."><plain>However, the induction of AhR had no effect on IgE synthesis or CD23 expression </plain></SENT>
+<SENT sid="9" pm="."><plain>These results indicate that the metabolism of <z:chebi fb="0" ids="35703">xenobiotics</z:chebi> would be a novel biological function of IL-4 and IL-13 in B cells, whereas TCDD is not involved in IgE synthesis in B cells </plain></SENT>
+</text></document>

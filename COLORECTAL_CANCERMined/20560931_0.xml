@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>With advances in modern medicine and clinical diagnosis, case-control data with characterization of finer subtypes of cases are often available </plain></SENT>
+<SENT sid="1" pm="."><plain>In matched case-control studies, missingness in exposure values often leads to deletion of entire stratum, and thus entails a significant loss in information </plain></SENT>
+<SENT sid="2" pm="."><plain>When subtypes of cases are treated as categorical outcomes, the data are further stratified and deletion of observations becomes even more expensive in terms of precision of the category-specific odds-ratio parameters, especially using the multinomial logit model </plain></SENT>
+<SENT sid="3" pm="."><plain>The stereotype regression model for categorical responses lies intermediate between the proportional odds and the multinomial or baseline category logit model </plain></SENT>
+<SENT sid="4" pm="."><plain>The use of this class of models has been limited as the structure of the model implies certain inferential challenges with nonidentifiability and nonlinearity in the parameters </plain></SENT>
+<SENT sid="5" pm="."><plain>We illustrate how to handle missing data in matched case-control studies with finer disease subclassification within the cases under a stereotype regression model </plain></SENT>
+<SENT sid="6" pm="."><plain>We present both Monte Carlo based full Bayesian approach and expectation/conditional maximization algorithm for the estimation of model parameters in the presence of a completely general missingness mechanism </plain></SENT>
+<SENT sid="7" pm="."><plain>We illustrate our methods by using data from an ongoing matched case-control study of <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> </plain></SENT>
+<SENT sid="8" pm="."><plain>Simulation results are presented under various missing data mechanisms and departures from modeling assumptions </plain></SENT>
+</text></document>

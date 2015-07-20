@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PURPOSE: The purpose was twofold: (1) to develop a comprehensive profile of patients discharged from an inpatient <z:hpo ids='HP_0002664'>oncology</z:hpo> rehabilitation unit and (2) to explore the relationships between patient characteristics and functional status </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: A retrospective review of electronic data from <z:hpo ids='HP_0000001'>all</z:hpo> patients discharged from <z:hpo ids='HP_0002664'>oncology</z:hpo> rehabilitation between November 1, 2008, and March 31, 2010, was conducted </plain></SENT>
+<SENT sid="2" pm="."><plain>Data elements included age, sex, primary language, living arrangements, <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> diagnosis, comorbidities, and admission and discharge Functional Independence Measure (FIM(™)) scores </plain></SENT>
+<SENT sid="3" pm="."><plain>Descriptive statistics were compiled for <z:hpo ids='HP_0000001'>all</z:hpo> data elements </plain></SENT>
+<SENT sid="4" pm="."><plain>General linear regression was conducted to determine the descriptors independently associated with FIM(™) discharge and FIM(™) change scores </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: There were 153 eligible records </plain></SENT>
+<SENT sid="6" pm="."><plain>The patients' age ranged from 38 to 97 years (M = 72.6, SD = 12.9); 59.5% were women, and 39.3% lived alone prior to hospitalization </plain></SENT>
+<SENT sid="7" pm="."><plain>The most common diagnoses were <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> (n = 45, 28.8%), <z:e sem="disease" ids="C0027627" disease_type="Neoplastic Process" abbrv="mets">metastatic disease</z:e> (n = 24, 15.7%), and <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> of the urinary organs (n = 14, 9.2%) </plain></SENT>
+<SENT sid="8" pm="."><plain>Service goals were met for 77.1% </plain></SENT>
+<SENT sid="9" pm="."><plain>Patients improved an average of 17.1 (SD = 8.8) points on the FIM(™) </plain></SENT>
+<SENT sid="10" pm="."><plain>Being older and having a diagnosis of brain or <z:e sem="disease" ids="C0153567" disease_type="Neoplastic Process" abbrv="">uterine cancer</z:e> were associated with lower FIM™ change scores </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: In this sample, the majority of patients were older women, and many lived alone </plain></SENT>
+<SENT sid="12" pm="."><plain>While the group as a whole made significant functional gains, those who were younger improved more </plain></SENT>
+<SENT sid="13" pm="."><plain>Having a diagnosis of uterine or <z:e sem="disease" ids="C0153633" disease_type="Neoplastic Process" abbrv="">brain cancer</z:e> was associated with lower functional change scores </plain></SENT>
+<SENT sid="14" pm="."><plain>This study was limited by a small sample size and the retrospective design; however, the results provide a foundation for future prospective research </plain></SENT>
+</text></document>

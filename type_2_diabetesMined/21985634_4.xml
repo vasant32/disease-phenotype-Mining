@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIMS: Empagliflozin is a selective <z:chebi fb="199" ids="26708">sodium</z:chebi> <z:chebi fb="105" ids="17234">glucose</z:chebi> cotransporter-2 (SGLT-2) inhibitor in clinical development for the treatment of type 2 <z:hpo ids='HP_0000819'>diabetes mellitus</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>This study assessed pharmacological properties of empagliflozin in vitro and pharmacokinetic properties in vivo and compared its potency and selectivity with other SGLT-2 inhibitors </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: [(14)C]-alpha-<z:chebi fb="36" ids="29309">methyl</z:chebi> glucopyranoside (AMG) uptake experiments were performed with stable cell lines over-expressing human (h) SGLT-1, 2 and 4 </plain></SENT>
+<SENT sid="3" pm="."><plain>Two new cell lines over-expressing hSGLT-5 and hSGLT-6 were established and [(14)C]-<z:chebi fb="0" ids="37684">mannose</z:chebi> and [(14)C]-<z:chebi fb="0" ids="17268">myo-inositol</z:chebi> uptake assays developed </plain></SENT>
+<SENT sid="4" pm="."><plain>Binding kinetics were analysed using a radioligand binding assay with [(3)H]-labelled empagliflozin and HEK293-hSGLT-2 cell membranes </plain></SENT>
+<SENT sid="5" pm="."><plain><z:hpo ids='HP_0011009'>Acute</z:hpo> in vivo assessment of pharmacokinetics was performed with normoglycaemic beagle dogs and <z:chebi fb="3" ids="16646">Zucker</z:chebi> diabetic fatty (ZDF) rats </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: Empagliflozin has an IC(50) of 3.1 nM for hSGLT-2 </plain></SENT>
+<SENT sid="7" pm="."><plain>Its binding to SGLT-2 is competitive with <z:chebi fb="105" ids="17234">glucose</z:chebi> (half-life approximately 1 h) </plain></SENT>
+<SENT sid="8" pm="."><plain>Compared with other SGLT-2 inhibitors, empagliflozin has a high degree of selectivity over SGLT-1, 4, 5 and 6 </plain></SENT>
+<SENT sid="9" pm="."><plain>Species differences in SGLT-1 selectivity were identified </plain></SENT>
+<SENT sid="10" pm="."><plain>Empagliflozin pharmacokinetics in ZDF rats were characterised by moderate total plasma clearance (CL) and bioavailability (BA), while in beagle dogs CL was low and BA was high </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: Empagliflozin is a potent and competitive SGLT-2 inhibitor with an excellent selectivity profile and the highest selectivity window of the tested SGLT-2 inhibitors over hSGLT-1 </plain></SENT>
+<SENT sid="12" pm="."><plain>Empagliflozin represents an innovative therapeutic approach to treat <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+</text></document>

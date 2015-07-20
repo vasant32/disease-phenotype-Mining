@@ -1,0 +1,6 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Two patients with <z:e sem="disease" ids="C0004903" disease_type="Disease or Syndrome;Congenital Abnormality" abbrv="">Wiedemann-Beckwith-Syndrome</z:e> and <z:hpo ids='HP_0001998'>neonatal hypoglycemia</z:hpo> are reported </plain></SENT>
+<SENT sid="1" pm="."><plain>The etiology for the impaired <z:chebi fb="105" ids="17234">glucose</z:chebi> metabolism has not been elucitated as yet </plain></SENT>
+<SENT sid="2" pm="."><plain>In some patients pancreatic islet-cell <z:mpath ids='MPATH_134'>hyperplasia</z:mpath> resulting in <z:hpo ids='HP_0000825'>hyperinsulinemic hypoglycemia</z:hpo> was suspected </plain></SENT>
+<SENT sid="3" pm="."><plain>Increased somatomedin activity was also proposed </plain></SENT>
+<SENT sid="4" pm="."><plain>We have measured somatomedin concentrations in both patients by bioassay and radioimmunoassay and found <z:mpath ids='MPATH_458'>normal</z:mpath> or slightly reduced plasma levels with both methods </plain></SENT>
+</text></document>

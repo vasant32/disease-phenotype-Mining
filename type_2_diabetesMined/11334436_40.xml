@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A major action of insulin is to regulate the transcription rate of specific genes </plain></SENT>
+<SENT sid="1" pm="."><plain>The expression of these genes is dramatically altered in type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="2" pm="."><plain>For example, the expression of two hepatic genes, <z:chebi fb="105" ids="17234">glucose</z:chebi>-6-phosphatase and PEPCK, is normally inhibited by insulin, but in type 2 <z:mp ids='MP_0002055'>diabetes</z:mp>, their expression is insensitive to insulin </plain></SENT>
+<SENT sid="3" pm="."><plain>An agent that mimics the effect of insulin on the expression of these genes would reduce gluconeogenesis and hepatic <z:chebi fb="105" ids="17234">glucose</z:chebi> output, even in the presence of <z:hpo ids='HP_0000855'>insulin resistance</z:hpo> </plain></SENT>
+<SENT sid="4" pm="."><plain>The repressive actions of insulin on these genes are dependent on phosphatidylinositol (PI) 3-kinase </plain></SENT>
+<SENT sid="5" pm="."><plain>However, the molecules that lie between this <z:chebi fb="23" ids="18059">lipid</z:chebi> kinase and the two gene promoters are unknown </plain></SENT>
+<SENT sid="6" pm="."><plain><z:chebi fb="15" ids="28087">Glycogen</z:chebi> synthase kinase-3 (GSK-3) is inhibited following activation of PI 3-kinase and protein kinase B </plain></SENT>
+<SENT sid="7" pm="."><plain>In <z:e sem="disease" ids="C0019204" disease_type="Neoplastic Process" abbrv="">hepatoma</z:e> cells, we find that selectively reducing GSK-3 activity strongly reduces the expression of both gluconeogenic genes </plain></SENT>
+<SENT sid="8" pm="."><plain>The effect is at the level of transcription and is observed with induced or basal gene expression </plain></SENT>
+<SENT sid="9" pm="."><plain>In addition, GSK-3 inhibition does not result in the subsequent activation of protein kinase B or inhibition of the transcription factor FKHR, which are candidate regulatory molecules for these promoters </plain></SENT>
+<SENT sid="10" pm="."><plain>Thus, GSK-3 activity is required for basal activity of each promoter </plain></SENT>
+<SENT sid="11" pm="."><plain>Inhibitors of GSK-3 should therefore reduce hepatic <z:chebi fb="105" ids="17234">glucose</z:chebi> output, as well as increase the synthesis of <z:chebi fb="15" ids="28087">glycogen</z:chebi> from <z:chebi fb="0" ids="37624">L-glucose</z:chebi> </plain></SENT>
+<SENT sid="12" pm="."><plain>These findings indicate that GSK-3 inhibitors may have greater therapeutic potential for lowering blood <z:chebi fb="105" ids="17234">glucose</z:chebi> levels and treating type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> than previously realized </plain></SENT>
+</text></document>

@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The occurrence of spikes during an electroencephalogram is a basic feature of <z:e sem="disease" ids="C0376532" disease_type="Disease or Syndrome" abbrv="BECTS">Benign Rolandic Epilepsy of Childhood</z:e> (BREC) </plain></SENT>
+<SENT sid="1" pm="."><plain>In this study we addressed the question of whether the interictal spike structure is different between "typical" and "atypical" BREC patients </plain></SENT>
+<SENT sid="2" pm="."><plain>Atypical BREC patients are characterized by having other <z:hpo ids='HP_0000707'>neurological abnormalities</z:hpo> in addition to the typical BREC symptoms </plain></SENT>
+<SENT sid="3" pm="."><plain>This question is of interest given the good prognosis associated with the typical form of BREC </plain></SENT>
+<SENT sid="4" pm="."><plain>We analyzed data from 12 typical and 12 atypical BREC patients using ten variables to describe spike <z:mp ids='MP_0000002'>morphology</z:mp> and topography </plain></SENT>
+<SENT sid="5" pm="."><plain>The non-parametric method of "classification and regression trees" (CART) was used to detect discriminating features and construct a classification rule </plain></SENT>
+<SENT sid="6" pm="."><plain>In this way the location and amplitude of the spike were found to provide satisfactory discrimination, suggesting that the two groups may be affected by different <z:e sem="disease" ids="C0014544" disease_type="Disease or Syndrome" abbrv="">epileptic</z:e> processes </plain></SENT>
+<SENT sid="7" pm="."><plain>The study showed the effectiveness of the CART methodology in dealing with the categorical and non-<z:mpath ids='MPATH_458'>normal</z:mpath> variables that can be obtained from EEG records </plain></SENT>
+<SENT sid="8" pm="."><plain>It illustrates a simple but logical approach to the analysis of potentially complex topographic data </plain></SENT>
+</text></document>

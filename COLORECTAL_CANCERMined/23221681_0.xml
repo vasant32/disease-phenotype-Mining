@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e>-node-<z:e sem="disease" ids="C0027627" disease_type="Neoplastic Process" abbrv="mets">metastasis</z:e> staging system has been the lynchpin of <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> diagnosis, treatment, and prognosis for many years </plain></SENT>
+<SENT sid="1" pm="."><plain>For meaningful clinical use, an orderly grouping of the T and N categories into a staging system needs to be defined, usually with respect to a time-to-event outcome </plain></SENT>
+<SENT sid="2" pm="."><plain>This can be reframed as a model selection problem with respect to features arranged on a partially ordered two-way grid, and a penalized regression method is proposed for selecting the optimal grouping </plain></SENT>
+<SENT sid="3" pm="."><plain>Instead of penalizing the L1-norm of the coefficients like lasso, in order to enforce the stage grouping, we place L1 constraints on the differences between neighboring coefficients </plain></SENT>
+<SENT sid="4" pm="."><plain>The underlying mechanism is the sparsity-enforcing property of the L1 penalty, which forces some estimated coefficients to be the same and hence leads to stage grouping </plain></SENT>
+<SENT sid="5" pm="."><plain>Partial ordering constraints is also required as both the T and N categories are ordinal </plain></SENT>
+<SENT sid="6" pm="."><plain>A series of optimal groupings with different numbers of stages can be obtained by varying the tuning parameter, which gives a tree-like structure offering a visual aid on how the groupings are progressively made </plain></SENT>
+<SENT sid="7" pm="."><plain>We hence call the proposed method the lasso tree </plain></SENT>
+<SENT sid="8" pm="."><plain>We illustrate the utility of our method by applying it to the staging of <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> using survival outcomes </plain></SENT>
+<SENT sid="9" pm="."><plain>Simulation studies are carried out to examine the finite sample performance of the selection procedure </plain></SENT>
+<SENT sid="10" pm="."><plain>We demonstrate that the lasso tree is able to give the right grouping with moderate sample size, is stable with regard to changes in the data, and is not affected by random censoring </plain></SENT>
+</text></document>

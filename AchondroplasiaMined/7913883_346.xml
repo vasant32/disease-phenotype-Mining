@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:e sem="disease" ids="C0001080" disease_type="Disease or Syndrome;Congenital Abnormality" abbrv="">Achondroplasia</z:e> (ACH) is the most common genetic form of <z:hpo ids='HP_0003510'>dwarfism</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>This disorder is inherited as an <z:hpo ids='HP_0000006'>autosomal dominant</z:hpo> trait, although the majority of cases are <z:hpo ids='HP_0003745'>sporadic</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>A gene for ACH was recently localized to 4p16.3 by linkage analyses </plain></SENT>
+<SENT sid="3" pm="."><plain>The ACH candidate region includes the gene encoding fibroblast growth factor receptor 3 (FGFR3), which was originally considered as a candidate for the <z:e sem="disease" ids="C0020179" disease_type="Disease or Syndrome" abbrv="HD">Huntington's disease</z:e> gene </plain></SENT>
+<SENT sid="4" pm="."><plain>DNA studies revealed point mutations in the FGFR3 gene in ACH heterozygotes and homozygotes </plain></SENT>
+<SENT sid="5" pm="."><plain>The mutation on 15 of the 16 ACH-affected chromosomes was the same, a G--&gt;A transition, at nucleotide 1138 of the cDNA </plain></SENT>
+<SENT sid="6" pm="."><plain>The mutation on the only ACH-affected chromosome 4 without the G--&gt;A transition at nucleotide 1138 had a G--&gt;C transversion at this same position </plain></SENT>
+<SENT sid="7" pm="."><plain>Both mutations result in the substitution of an <z:chebi fb="0" ids="32700">arginine residue</z:chebi> for a glycine at position 380 of the mature protein, which is in the transmembrane domain of FGFR3 </plain></SENT>
+</text></document>

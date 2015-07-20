@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: -Routine clinical use of novel free-breathing, motion-corrected, averaged late <z:chebi fb="0" ids="33375">gadolinium</z:chebi> enhancement (moco-LGE) cardiovascular magnetic resonance may have advantages over conventional breath held LGE (bh-LGE) especially in vulnerable patients </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS AND RESULTS: -In 390 consecutive patients, we collected bh-LGE and moco-LGE with identical image matrix parameters </plain></SENT>
+<SENT sid="2" pm="."><plain>In 41 patients, bh-LGE was abandoned due to image quality issues, including 10 with <z:hpo ids='HP_0001658'>myocardial infarction</z:hpo> (MI) </plain></SENT>
+<SENT sid="3" pm="."><plain>When both were acquired, MI detection was similar (McNemar test, p=0.4) with high agreement (kappa statistic 0.95) </plain></SENT>
+<SENT sid="4" pm="."><plain>With artifact-free bh-LGE images, pixelwise MI measures correlated highly (R(2)=0.96) without bias </plain></SENT>
+<SENT sid="5" pm="."><plain>Moco-LGE was faster, and image quality and diagnostic confidence were higher on blinded review (p&lt;0.001 for <z:hpo ids='HP_0000001'>all</z:hpo>) </plain></SENT>
+<SENT sid="6" pm="."><plain>Over a median of 1.2 years, 20 <z:hpo ids='HP_0001635'>heart failure</z:hpo> hospitalizations and 18 <z:hpo ids='HP_0011420'>deaths</z:hpo> occurred </plain></SENT>
+<SENT sid="7" pm="."><plain>For bh-LGE, but not moco-LGE, inferior image quality and bh-LGE non acquisition were linked to patient vulnerability confirmed by adverse outcomes (logrank p&lt;0.001) </plain></SENT>
+<SENT sid="8" pm="."><plain>Moco-LGE significantly stratified risk on the full cohort (logrank p&lt;0.001), but bh-LGE did not (logrank p=0.056) since a significant number of vulnerable patients did not receive bh-LGE (due to <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> or inability to breath hold) </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSIONS: -MI detection and quantification are similar between moco-LGE and bh-LGE when bh-LGE can be acquired well, but bh-LGE quality deteriorates with patient vulnerability </plain></SENT>
+<SENT sid="10" pm="."><plain>Acquisition time, image quality, diagnostic confidence and the number of successfully scanned patients are superior with moco-LGE which extends LGE-based risk stratification to include patients with vulnerability confirmed by outcomes </plain></SENT>
+<SENT sid="11" pm="."><plain>Moco-LGE may be suitable for routine clinical use </plain></SENT>
+</text></document>

@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Approximately 98% of Prader-Willi syndrome (PWS) and 80% of <z:e sem="disease" ids="C0162635" disease_type="Disease or Syndrome" abbrv="">Angelman syndrome (AS)</z:e> cases have deletions at a common region in chromosome 15q11-13, <z:mp ids='MP_0008867'>uniparental disomy</z:mp> for chromosomes 15 (UPD15), or mutations affecting gene expression in this region </plain></SENT>
+<SENT sid="1" pm="."><plain>The resulting clinical phenotype (PWS or AS) in each class of mutation depends upon the parent of origin </plain></SENT>
+<SENT sid="2" pm="."><plain>Both disorders are characterised at the molecular level by abnormal methylation of imprinted genes at 15q11-q13 including the small nuclear ribonucleoprotein N gene (SNRPN) </plain></SENT>
+<SENT sid="3" pm="."><plain>Current diagnostic strategies include high resolution cytogenetics, fluorescence in situ hybridisation (FISH), Southern blot hybridisation, or microsatellite typing </plain></SENT>
+<SENT sid="4" pm="."><plain>We have developed a novel and rapid diagnostic test for PWS and AS based on differential digestion of expressed (paternally imprinted) SNRPN sequences by the methylation sensitive endonuclease NotI or repressed (maternally imprinted) SNRPN sequences by the methylation requiring nuclease McrBC, followed by PCR amplification of the SNRPN promoter </plain></SENT>
+<SENT sid="5" pm="."><plain>We have evaluated this test by blinded analysis of 60 characterised DNA samples (20 PWS, 20 AS, and 20 unaffected controls) </plain></SENT>
+<SENT sid="6" pm="."><plain>SNRPN sequences could not be amplified from PWS patient DNA which had been digested with McrBC, nor from AS patient DNA which had been digested with NotI </plain></SENT>
+<SENT sid="7" pm="."><plain>We were able to make a correct diagnosis of PWS, AS, or unaffected in <z:hpo ids='HP_0000001'>all</z:hpo> 60 samples tested </plain></SENT>
+<SENT sid="8" pm="."><plain>This novel test is rapid and has a high specificity and sensitivity for deletion and UPD15 cases </plain></SENT>
+<SENT sid="9" pm="."><plain>These features make this new test suitable as the initial step in a molecular diagnostic strategy for PWS/AS </plain></SENT>
+</text></document>

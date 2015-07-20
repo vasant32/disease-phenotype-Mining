@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A new monoclonal antibody (mAb) of the IgG1 subclass, mAb 104, has been obtained after immunization of mice with the Burkitt <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cell line Jijoye </plain></SENT>
+<SENT sid="1" pm="."><plain>It only weakly binds to a small proportion of non-activated <z:mpath ids='MPATH_458'>normal</z:mpath> B cells and binds to a larger proportion of in vitro-activated <z:mpath ids='MPATH_458'>normal</z:mpath> B cells </plain></SENT>
+<SENT sid="2" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> tested Epstein-Barr virus (EBV)-transformed B-cell lines, Burkitt <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cell lines and freshly isolated follicular B-<z:hpo ids='HP_0002665'>lymphoma</z:hpo> cell preparations strongly bound mAb 104 </plain></SENT>
+<SENT sid="3" pm="."><plain>mAb 104 did not bind to peripheral monocytes or tested myelomonocytic cell lines, or to resting and activated <z:mpath ids='MPATH_458'>normal</z:mpath> T cells, T-cell lines and T-cell clones </plain></SENT>
+<SENT sid="4" pm="."><plain>However, the recognized antigen is expressed on HTLV-1-infected T-cell lines and HTLV-1-transformed T-cell clones </plain></SENT>
+<SENT sid="5" pm="."><plain>mAb 104 immunoprecipitates, from Jijoyce cell lysates, a single <z:chebi fb="1" ids="15841">polypeptide</z:chebi> with an apparent MW of 45,000-60,000 and an isoelectric point of 5.6 </plain></SENT>
+<SENT sid="6" pm="."><plain>Competition studies with the anti-B7 antibody (Freedman et al., 1987) demonstrated that mAb 104 and the anti-B7 block each others' binding </plain></SENT>
+<SENT sid="7" pm="."><plain>Furthermore, mAb 104 binds to transfected COS cells (Freedman et al., 1989) expressing the B7 antigen </plain></SENT>
+<SENT sid="8" pm="."><plain>Thus mAb 104 and and anti-B7 define the same antigen </plain></SENT>
+<SENT sid="9" pm="."><plain>The restricted distribution of the 104/B7 antigen to activated B cells and HTLV-1-transformed T cells may make it a useful marker for the study of pathological states linked to lymphocyte activation and for the functional study of B-cell subpopulations </plain></SENT>
+</text></document>

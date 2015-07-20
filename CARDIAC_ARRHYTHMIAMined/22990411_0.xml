@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The degree to which weather influences the occurrence of serious <z:hpo ids='HP_0011675'>cardiac arrhythmias</z:hpo> is not fully understood </plain></SENT>
+<SENT sid="1" pm="."><plain>To investigate, we studied the timing of activation of implanted cardiac defibrillators (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">ICDs</z:e>) in relation to daily outdoor temperatures using a fixed stratum case-crossover approach </plain></SENT>
+<SENT sid="2" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> patients attending <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">ICD</z:e> clinics in London between 1995 and 2003 were recruited onto the study </plain></SENT>
+<SENT sid="3" pm="."><plain>Temperature exposure for each <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">ICD</z:e> patient was determined by linking each patient's postcode of residence to their nearest temperature monitoring station in London and the South of England </plain></SENT>
+<SENT sid="4" pm="."><plain>There were 5,038 activations during the study period </plain></SENT>
+<SENT sid="5" pm="."><plain>Graphical inspection of <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">ICD</z:e> activation against temperature suggested increased risk at lower but not higher temperatures </plain></SENT>
+<SENT sid="6" pm="."><plain>For every 1 °C decrease in ambient temperature, risk of <z:hpo ids='HP_0004308'>ventricular arrhythmias</z:hpo> up to 7 days later increased by 1.2 % (95 % CI -0.6 %, 2.9 %) </plain></SENT>
+<SENT sid="7" pm="."><plain>In threshold models, risk of <z:hpo ids='HP_0004308'>ventricular arrhythmias</z:hpo> increased by 11.2 % (0.5 %, 23.1 %) for every 1° decrease in temperature below 2 °C </plain></SENT>
+<SENT sid="8" pm="."><plain>Patients over the age of 65 exhibited the highest risk </plain></SENT>
+<SENT sid="9" pm="."><plain>This large study suggests an inverse relationship between ambient outdoor temperature and risk of <z:hpo ids='HP_0004308'>ventricular arrhythmias</z:hpo> </plain></SENT>
+<SENT sid="10" pm="."><plain>The highest risk was found for patients over the age of 65 </plain></SENT>
+<SENT sid="11" pm="."><plain>This provides evidence about a mechanism for some cases of low-temperature cardiac <z:hpo ids='HP_0011420'>death</z:hpo>, and suggests a possible strategy for reducing risk among selected cardiac patients by encouraging behaviour modification to minimise cold exposure </plain></SENT>
+</text></document>

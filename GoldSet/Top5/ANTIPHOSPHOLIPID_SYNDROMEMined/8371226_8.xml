@@ -1,0 +1,6 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We observed 2 cases of <z:e sem="disease" ids="C0085278" disease_type="Disease or Syndrome" abbrv="">antiphospholipid syndrome</z:e> complicated with <z:hpo ids='HP_0001269'>hemiparesis</z:hpo> appearing after delivery </plain></SENT>
+<SENT sid="1" pm="."><plain>During pregnancy, both women were systematically treated with aspirin (100 mg/day) in addition to <z:chebi fb="0" ids="8382">prednisone</z:chebi> in the second case </plain></SENT>
+<SENT sid="2" pm="."><plain><z:e sem="disease" ids="C0007785" disease_type="Disease or Syndrome" abbrv="">Cerebral infarction</z:e> appeared a few hours after delivery and 8 days after discontinuation of aspirin </plain></SENT>
+<SENT sid="3" pm="."><plain>The close temporal relationship between discontinuation of aspirin and <z:hpo ids='HP_0001297'>stroke</z:hpo> occurring in early postpartum period suggests a causal link </plain></SENT>
+<SENT sid="4" pm="."><plain>If aspirin must be stopped for obstetrical reasons, we think that efficient anticoagulation should be started even if the presence of the <z:hpo ids='HP_0003613'>antiphospholipid antibodies</z:hpo> has been priorly asymptomatic </plain></SENT>
+</text></document>

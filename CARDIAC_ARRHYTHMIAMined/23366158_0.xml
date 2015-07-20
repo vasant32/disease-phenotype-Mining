@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>For therapies based on human induced pluripotent stem cell (hiPSC)-derived cardiomyocytes (CM) to be effective, <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> must be avoided </plain></SENT>
+<SENT sid="1" pm="."><plain>Towards achieving this goal, light-activated channelrhodopsin-2 (ChR2), a <z:chebi fb="36" ids="36916">cation</z:chebi> channel activated with 480 nm light, and a first generation halorhodopsin (NpHR1.0), an <z:chebi fb="5" ids="22563">anion</z:chebi> pump activated by 580 nm light, have been introduced into hiPSC </plain></SENT>
+<SENT sid="2" pm="."><plain>By using in vitro approaches, hiPSC-CM are able to be optogenetically activated and inhibited </plain></SENT>
+<SENT sid="3" pm="."><plain>ChR2 and NpHR1.0 are stably transduced into undifferentiated hiPSC via a lentiviral vector </plain></SENT>
+<SENT sid="4" pm="."><plain>Via directed differentiation, both <z:mp ids='MP_0002169'>wildtype</z:mp> hiPSC-CM (hiPSC(WT)-CM) and hiPSC(ChR2/NpHR)-CM are produced and subjected to both electrical and optical stimulation </plain></SENT>
+<SENT sid="5" pm="."><plain>Both hiPSC(WT)-CM and hiPSC(ChR2/NpHR)-CM respond to traditional electrical stimulation and produce similar contractility features but only hiPSC(ChR2/NpHR)-CM can be synchronized and inhibited by optical stimulation </plain></SENT>
+<SENT sid="6" pm="."><plain>Here it is shown that light sensitive proteins can enable in vitro optical control of hiPSC-CM </plain></SENT>
+<SENT sid="7" pm="."><plain>For future therapy, in vivo optical stimulation could allow precise and specific synchronization of implanted hiPSC-CM with patient cardiac rates and rhythms </plain></SENT>
+</text></document>

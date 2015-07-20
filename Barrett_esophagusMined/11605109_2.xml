@@ -1,0 +1,21 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> affects 5-10% of patients with <z:hpo ids='HP_0002020'>gastroesophageal reflux disease</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">GERD</z:e>) and is associated with a 40-fold increased risk of <z:e sem="disease" ids="C1608408" disease_type="Neoplastic Process" abbrv="">malignant transformation</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>Ablative therapies may lead to esophageal <z:mpath ids='MPATH_81'>perforation</z:mpath> or stricture formation if applied too liberally and residual glandular tissue and persistent <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> risk if utilized too sparingly </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: Ten pigs underwent gastrotomy </plain></SENT>
+<SENT sid="3" pm="."><plain>Mucosa below the gastroesophageal (GE) junction was elevated by saline injections, circumferentially incised, and secured to an orogastric tube </plain></SENT>
+<SENT sid="4" pm="."><plain>By traction, the distal esophageal mucosa was inverted 10 cm proximally, then returned to the gastric lumen </plain></SENT>
+<SENT sid="5" pm="."><plain>In group A (n = 4), the mucosa (5 cm) was resected and the remnant was allowed to retract </plain></SENT>
+<SENT sid="6" pm="."><plain>In group B (n = 4), the mucosa was simply sutured back into its native position </plain></SENT>
+<SENT sid="7" pm="."><plain>In group C (n = 2), the mucosa (5 cm) was resected and the proximal segment was advanced and sutured to the gastric mucosa </plain></SENT>
+<SENT sid="8" pm="."><plain>At 6 weeks, or sooner if stricture developed, the animals were killed </plain></SENT>
+<SENT sid="9" pm="."><plain>Stricture formation was determined by ex vivo <z:chebi fb="8" ids="32594,32595">barium</z:chebi> esophagram and gross assessment </plain></SENT>
+<SENT sid="10" pm="."><plain>The extent of <z:mp ids='MP_0003045'>fibrosis</z:mp> and epithelial healing were established histologically </plain></SENT>
+<SENT sid="11" pm="."><plain>RESULTS: Group A (mucosa resected) developed <z:hpo ids='HP_0001824'>weight loss</z:hpo> and <z:hpo ids='HP_0002039'>anorexia</z:hpo> within 4 weeks </plain></SENT>
+<SENT sid="12" pm="."><plain>Pathology revealed dense fibrotic stricture without reepithelialization </plain></SENT>
+<SENT sid="13" pm="."><plain>Group B (mucosa elevated/replaced) gained weight after the operation </plain></SENT>
+<SENT sid="14" pm="."><plain>Histology demonstrated mucosal healing without significant stricture or <z:mp ids='MP_0003045'>fibrosis</z:mp> </plain></SENT>
+<SENT sid="15" pm="."><plain>Group C (mucosa resected/advanced) also thrived postoperatively </plain></SENT>
+<SENT sid="16" pm="."><plain>Histology confirmed mucosal healing without evidence of retraction or dense stricture </plain></SENT>
+<SENT sid="17" pm="."><plain>CONCLUSIONS: Exposure of submucosal tissues causes <z:hpo ids='HP_0002043'>esophageal stricture</z:hpo> </plain></SENT>
+<SENT sid="18" pm="."><plain>Mucosal coverage minimizes submucosal <z:mp ids='MP_0003045'>fibrosis</z:mp> after injury </plain></SENT>
+<SENT sid="19" pm="."><plain>Mucosal resection and advancement allows healing without stricture and may have therapeutic potential for patients with <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> </plain></SENT>
+</text></document>

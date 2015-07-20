@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Postischemic temperature, which modulates brain injury, is commonly determined via a rectal temperature (Trec) probe </plain></SENT>
+<SENT sid="1" pm="."><plain>This procedure causes a stress-induced <z:hpo ids='HP_0001945'>fever</z:hpo> (SIF) in rodents that may aggravate injury or diminish the efficacy of a neuroprotectant </plain></SENT>
+<SENT sid="2" pm="."><plain>We continually measured core temperature (Tcore) via an implanted telemetry probe and made 16 Trec measurements over 4 days in sham and ischemic gerbils (5 min bilateral carotid <z:mp ids='MP_0006134'>artery occlusion</z:mp>) </plain></SENT>
+<SENT sid="3" pm="."><plain>Controls did not have Trec sampled, but Tcore was measured </plain></SENT>
+<SENT sid="4" pm="."><plain>Rectal temperature measurements predicted Tcore in sham and ischemic gerbils </plain></SENT>
+<SENT sid="5" pm="."><plain>The Trec measurements caused a SIF (1 degrees C peak) in shams that did not habituate, whereas the SIF was initially absent and then increased over days in ischemic gerbils </plain></SENT>
+<SENT sid="6" pm="."><plain>Ischemic groups had similar CA1 injury (approximately 32% remaining), presumably because Trec measurements only resulted in a significant SIF starting on day 2 postischemia, when cell <z:hpo ids='HP_0011420'>death</z:hpo> is less sensitive to <z:hpo ids='HP_0001945'>hyperthermia</z:hpo> </plain></SENT>
+<SENT sid="7" pm="."><plain>Caution is warranted with Trec measurements, since the resultant SIF occurs to different extents in <z:mpath ids='MPATH_458'>normal</z:mpath> and ischemic rodents </plain></SENT>
+<SENT sid="8" pm="."><plain>Furthermore, the SIF could vary according to many other factors, such as the type and severity of insult, the time and frequency of measurement, and drug treatment </plain></SENT>
+<SENT sid="9" pm="."><plain>Accordingly, postischemic Trec measurements should be replaced with telemetry probes </plain></SENT>
+</text></document>

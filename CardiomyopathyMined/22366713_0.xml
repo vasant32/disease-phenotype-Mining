@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Calcific <z:e sem="disease" ids="C1260873" disease_type="Disease or Syndrome" abbrv="">aortic valve disease</z:e> (CAVD) is a disorder related to progressive mineralization of valvular tissue that is a leading cause of <z:e sem="disease" ids="C0018799" disease_type="Disease or Syndrome" abbrv="">heart disease</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>Thus far, there is no medical treatment to prevent the mineralization of aortic valves </plain></SENT>
+<SENT sid="2" pm="."><plain>It is generally thought that pathologic mineralization is linked to <z:mpath ids='MPATH_3'>apoptosis</z:mpath> of vascular cells </plain></SENT>
+<SENT sid="3" pm="."><plain>However, the role of <z:mpath ids='MPATH_3'>apoptosis</z:mpath> during mineralization as well as the survival signals for valvular interstitial cells (VICs), the main cellular component of aortic valves, remains to be identified </plain></SENT>
+<SENT sid="4" pm="."><plain>Here, through several lines of evidence, we show that bioavailability of extracellular ATP is a signal which determines survival or <z:mpath ids='MPATH_3'>apoptosis</z:mpath> of VICs and, in doing so, plays a major role in the development of CAVD </plain></SENT>
+<SENT sid="5" pm="."><plain>Specifically, in CAVD and in VIC cultures undergoing mineralization, we found a high level of the ectonucleotidase ENPP1 </plain></SENT>
+<SENT sid="6" pm="."><plain>In addition, a genetic polymorphism in the intron 9 of the ENPP1 gene was associated with CAVD in a case-control cohort as well as with <z:chebi fb="2" ids="33699">mRNA</z:chebi> expression levels of ENPP1 in aortic valves </plain></SENT>
+<SENT sid="7" pm="."><plain>A high level of ENPP1 in CAVD promoted <z:mpath ids='MPATH_3'>apoptosis</z:mpath>-mediated mineralization of VICs by depleting the extracellular pool of ATP </plain></SENT>
+<SENT sid="8" pm="."><plain>We then documented that release of ATP by VICs promoted cell survival via the P2Y(2) receptor and the PI3K/Akt signaling pathway </plain></SENT>
+<SENT sid="9" pm="."><plain>Hence, our results show that level of ENPP1 modulates extracellular concentration of ATP, which is an important survival signal for VICs </plain></SENT>
+<SENT sid="10" pm="."><plain>These findings may help to develop novel pharmacological treatment for CAVD </plain></SENT>
+</text></document>

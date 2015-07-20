@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Herbs have been used to treat <z:hpo ids='HP_0001297'>stroke</z:hpo> and <z:hpo ids='HP_0001259'>coma</z:hpo> patient in traditional Korean medicine (TKM) </plain></SENT>
+<SENT sid="1" pm="."><plain>The novel decoction, Guhpoongchungsimhwan (GCH), was developed on the basis of clinical data and TKM theory </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: We examined the neuroprotective effect of GCH on <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>The middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (MCAO) model was used to produce <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> in Sprague-Dawley rats </plain></SENT>
+<SENT sid="4" pm="."><plain>Subjects were treated with GCH (50 or 200 mg/kg) or vehicle alone (controls) 0 and 2 hours after MCAO </plain></SENT>
+<SENT sid="5" pm="."><plain>The functional status was tested 24 hours after MCAO by neurological examination (clinical score) and by series of motor function tasks (foot placement and parallel bar crossing) </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: The <z:mpath ids='MPATH_124'>infarct</z:mpath> volume was determined by 2,3,5-triphenyltetrazolium <z:chebi fb="76" ids="17996">chloride</z:chebi> staining 24 hours after surgery, and the expression of cyclooxygenase-2 was determined by immunohistochemistry </plain></SENT>
+<SENT sid="7" pm="."><plain>The clinical score of the GCH-treated group (200 mg/kg) was significantly lower than that of the control group (p&lt;0.05), indicating fewer neurological deficits </plain></SENT>
+<SENT sid="8" pm="."><plain>The impairment of motor functions induced by MCAO was significantly reduced by the administration of GCH (p&lt;0.05) </plain></SENT>
+<SENT sid="9" pm="."><plain>The <z:mpath ids='MPATH_124'>infarct</z:mpath> volume was significantly smaller in the GCH-treated group (203.1 +/- 40.2 mm(3), p&lt;0.05), as compared to the control group (377.8 +/- 32.6 mm(3)) </plain></SENT>
+<SENT sid="10" pm="."><plain>The level of motor function in the GCH-treated group was associated with reduced <z:mpath ids='MPATH_124'>infarct</z:mpath> volume </plain></SENT>
+<SENT sid="11" pm="."><plain>In the analysis of immunohistochemistry, GCH treatment markedly inhibited the <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e>-induced expression of PTGS2 (<z:chebi fb="11" ids="26333">prostaglandin</z:chebi>-endoperoxidase synthase 2) or cyclooxygenase 2 (COX2), which plays an important role in ischemic neuronal cell <z:hpo ids='HP_0011420'>death</z:hpo> </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSION: The results showed that GCH reduced the <z:mpath ids='MPATH_124'>infarct</z:mpath> size and the functional deficits in MCAO rats </plain></SENT>
+</text></document>

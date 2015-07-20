@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The availability of reperfusion therapy for <z:hpo ids='HP_0011009'>acute</z:hpo> <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> patients has made the causes and significance of hemorrhagic transformation an area of intense interest and controversy </plain></SENT>
+<SENT sid="1" pm="."><plain>Ninety-two male Wistar rats underwent transient middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (MCAO) of between 1 and 6 h </plain></SENT>
+<SENT sid="2" pm="."><plain>Forty animals received 10 mg kg-1 of recombinant tissue plasminogen activator (rtPA), infused over 20 min, starting 5 min before reperfusion </plain></SENT>
+<SENT sid="3" pm="."><plain>At 18-24 h, the animals were sacrificed </plain></SENT>
+<SENT sid="4" pm="."><plain>The presence of hemorrhagic transformation (HT) on stained sections was recorded and total ischemic lesion area was quantified using image analysis software </plain></SENT>
+<SENT sid="5" pm="."><plain>Seventeen animals (11 with HT) were subjected to immunohistochemical analysis for detection of endothelial barrier antigen (EBA), quantified in three sections, in eight different fields per section </plain></SENT>
+<SENT sid="6" pm="."><plain>Chi-squared analysis and logistic regression were used to assess the contribution of rtPA and duration of occlusion to HT development </plain></SENT>
+<SENT sid="7" pm="."><plain>Nested, repeated measures analyses of variance were performed to assess the changes in EBA caused by <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> and associated with HT </plain></SENT>
+<SENT sid="8" pm="."><plain>Fifty-nine animals developed HT that was significantly associated with occlusion duration (p &lt; 0.0001) and ischemic lesion size (p = 0.0007) </plain></SENT>
+<SENT sid="9" pm="."><plain>The presence of rtPA accelerated HT development </plain></SENT>
+<SENT sid="10" pm="."><plain>Statistically significant side-to-side differences in the presence of EBA were found in the striatum (core of the <z:mpath ids='MPATH_124'>infarct</z:mpath>) of animals with HT (p &lt; 0.001) and without HT (p &lt; 0.001), but only in animals with durations of occlusion of 2 h or more </plain></SENT>
+<SENT sid="11" pm="."><plain>Duration of occlusion is an important predictor of HT in transient MCAO in the rat and is closely associated with EBA expression </plain></SENT>
+</text></document>

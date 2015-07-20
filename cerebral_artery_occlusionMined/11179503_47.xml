@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Focal <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> activates the nuclear protein poly(<z:chebi fb="13" ids="16761">ADP</z:chebi>-<z:chebi fb="1" ids="33942">ribose</z:chebi>) polymerase (PARP) by single DNA strand breaks which leads to energy <z:mpath ids='MPATH_63'>depletion</z:mpath> and cell <z:mp ids='MP_0001651'>necrosis</z:mp> </plain></SENT>
+<SENT sid="1" pm="."><plain>Deletion or inhibition of PARP protects against ischemic brain injury </plain></SENT>
+<SENT sid="2" pm="."><plain>Here we examined the neuroprotective effect of PJ34, a novel potent inhibitor of PARP in vitro and in vivo </plain></SENT>
+<SENT sid="3" pm="."><plain>Serum-free primary neuronal cultures derived from rat cortex (E15-17) and kept in culture for 10 days were exposed to oxygen <z:chebi fb="105" ids="17234">glucose</z:chebi> deprivation (OGD) in vitro </plain></SENT>
+<SENT sid="4" pm="."><plain>Neuronal injury was quantified by LDH release after 24 h </plain></SENT>
+<SENT sid="5" pm="."><plain>Pretreatment with 30-1000 nM PJ34 significantly protected from OGD-induced cell injury in a dose-dependent manner </plain></SENT>
+<SENT sid="6" pm="."><plain>For in vivo experiments SV/129 mice were treated with PJ34 (50 microg) by intraperitoneal injection 2 h before 1 h middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (MCAo) and again 6 h later </plain></SENT>
+<SENT sid="7" pm="."><plain>Twenty-three h after reperfusion ischemic injury was significantly decreased compared to vehicle-treated controls (<z:mpath ids='MPATH_124'>infarct</z:mpath> volume reduction of 40%, p&lt;0.05) </plain></SENT>
+<SENT sid="8" pm="."><plain>Similarly, in a rat model of MCAo (2 h occlusion followed by up to 22 h reperfusion), PJ34 administration (10 mg/kg i.v.) significantly reduced <z:mpath ids='MPATH_124'>infarct</z:mpath> size, and the effect of the drug was maintained even if it was given as late as 10 min prior to reperfusion time </plain></SENT>
+<SENT sid="9" pm="."><plain>PJ34 significantly protected in a 4 h, but not in a 24 h permanent occlusion model </plain></SENT>
+<SENT sid="10" pm="."><plain>In conclusion, PJ34, a novel, potent inhibitor of PARP exerts massive neuroprotective agents, with a significant therapeutic window of opportunity </plain></SENT>
+<SENT sid="11" pm="."><plain>The present work strengthens the concept that pharmacological PARP inhibition may be a suitable approach for the treatment of <z:hpo ids='HP_0011009'>acute</z:hpo> <z:hpo ids='HP_0001297'>stroke</z:hpo> in man </plain></SENT>
+</text></document>

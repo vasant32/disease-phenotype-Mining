@@ -1,0 +1,6 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We report a 31-year-old woman in her 4th month of pregnancy who presented with a sudden decrease in her right visual acuity </plain></SENT>
+<SENT sid="1" pm="."><plain>The right ocular fundus showed marked <z:chebi fb="46" ids="15035">retinal</z:chebi> <z:hpo ids='HP_0000969'>edema</z:hpo> and a cherry-red spot </plain></SENT>
+<SENT sid="2" pm="."><plain>A cranial computerized tomographic scan showed <z:e sem="disease" ids="C0007785" disease_type="Disease or Syndrome" abbrv="">cerebral infarction</z:e> </plain></SENT>
+<SENT sid="3" pm="."><plain>Cerebral angiography disclosed <z:e sem="disease" ids="C0026654" disease_type="Disease or Syndrome" abbrv="MYMY|MYMY1">moyamoya disease</z:e> </plain></SENT>
+<SENT sid="4" pm="."><plain><z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">Ischemia</z:e> of the ophthalmic artery due to constriction of the origin of the internal carotid artery and <z:hpo ids='HP_0100724'>hypercoagulability</z:hpo> due to pregnancy have presumably caused <z:hpo ids='HP_0000505'>visual impairment</z:hpo> in this patient </plain></SENT>
+</text></document>

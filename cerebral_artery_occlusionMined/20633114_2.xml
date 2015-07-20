@@ -1,0 +1,6 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:chebi fb="9" ids="46887">Acetyl</z:chebi>-L-<z:chebi fb="1" ids="16347,3424">carnitine</z:chebi> (ALCAR), an endogenous water soluble molecule, is synthesized in the brain and is involved in many aspects of neuronal activity, including metabolism and neuronal membrane formation and integrity </plain></SENT>
+<SENT sid="1" pm="."><plain>To determine ALCAR's neuroprotective effects, focal <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> was induced using four models of middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (MCAO) and treatment with 0-400 mg/kg ALCAR (i.p.) prior to MCAO </plain></SENT>
+<SENT sid="2" pm="."><plain>While <z:hpo ids='HP_0011009'>acute</z:hpo> doses were without effect, pretreatment with <z:hpo ids='HP_0011010'>chronic</z:hpo> ALCAR (400 mg/kg/day for five days) significantly reduced <z:mpath ids='MPATH_124'>infarct</z:mpath> size </plain></SENT>
+<SENT sid="3" pm="."><plain>Lower <z:hpo ids='HP_0011010'>chronic</z:hpo> ALCAR doses were not effective </plain></SENT>
+<SENT sid="4" pm="."><plain>Additionally, elevations in microdialysate <z:chebi fb="6" ids="14321,29987">glutamate</z:chebi> post-MCAO were attenuated by ALCAR treatment </plain></SENT>
+</text></document>

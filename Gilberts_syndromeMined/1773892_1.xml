@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>1 </plain></SENT>
+<SENT sid="1" pm="."><plain>Bolivian squirrel monkeys (BoSM), unlike Brazilian squirrel monkeys (BrSM), exhibit a marked fasting <z:hpo ids='HP_0002904'>hyperbilirubinemia</z:hpo> (FH) and serve as animal models for <z:e sem="disease" ids="C0017551" disease_type="Disease or Syndrome" abbrv="">Gilbert's syndrome</z:e> type I </plain></SENT>
+<SENT sid="2" pm="."><plain>2 </plain></SENT>
+<SENT sid="3" pm="."><plain>Compared to BrSM, BoSM possess a higher apparent UDPGAKm (0.51 vs 0.29 mM) and lower Vm (0.36 vs 0.48 nmol BR conjugated/min per mg microsomal protein) for hepatic <z:chebi fb="0" ids="16990">bilirubin</z:chebi> (BR) <z:chebi fb="15" ids="17659">UDP</z:chebi>-glucuronyl-transferase (BR UDPG-T) </plain></SENT>
+<SENT sid="4" pm="."><plain>3 </plain></SENT>
+<SENT sid="5" pm="."><plain>Lineweaver-Burk plots are linear and obey Michaelis-Menten kinetics when <z:chebi fb="15" ids="17659">UDP</z:chebi>-acetylglucosamine is used as activator and UDPGA substrate concentrations are within the physiologic range present in the liver during the fed and fasted state (0.10-0.71 mM); above these concentrations, there is a discontinuity of kinetic plots as noted in other species </plain></SENT>
+<SENT sid="6" pm="."><plain>4 </plain></SENT>
+<SENT sid="7" pm="."><plain>There is no effect of fasting on the Km of BR conjugation (i.e. sum of mono- and diglucuronides) in either monkey; however, fasting is associated with lower Vm values (15-20%) in each subspecies </plain></SENT>
+<SENT sid="8" pm="."><plain>5 </plain></SENT>
+<SENT sid="9" pm="."><plain>By calculating the potential BR flux (nmol BR conjugated/min per kg) using known hepatic UDPGA concentrations, liver weights and in vitro Km and Vm, a markedly lower BR flux is observed in BoSM (58.4 nmol/min per kg) than in BrSM (91.6 nmol/min per kg) </plain></SENT>
+<SENT sid="10" pm="."><plain>6 </plain></SENT>
+<SENT sid="11" pm="."><plain>Significantly higher apparent UDPGAKm and lower Vm of BR UDPG-T for conjugation of BR to BR monoglucuronide appears responsible in part for the four- to five-fold elevations in unconjugated BR in the liver and plasma in the fasted BoSM </plain></SENT>
+</text></document>

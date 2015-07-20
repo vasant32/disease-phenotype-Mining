@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>In this study we monitored mixed chimerism in 36 patients with various <z:e sem="disease" ids="C1521860" disease_type="Disease or Syndrome" abbrv="">hematologic disorders</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> of them underwent a classic conditioning regimen, 31 patients for related bone marrow transplantation (BMT) and 5 patients for unrelated BMT </plain></SENT>
+<SENT sid="2" pm="."><plain>DNA was isolated from peripheral blood, and samples were polymerase chain reaction (PCR) amplified for 5 short tandem repeat (STR) loci (TH01, VWA31, FES/FPS, F13A01, and SE33) and for one variable number of tandem repeats locus (D1S80) </plain></SENT>
+<SENT sid="3" pm="."><plain>Samples were run on a 6% <z:chebi fb="0" ids="53656">polyacrylamide</z:chebi> gel in an automated ALFexpress sequencer </plain></SENT>
+<SENT sid="4" pm="."><plain>In <z:hpo ids='HP_0000001'>all</z:hpo> 36 donor-recipient pairs we found differences for at least two STR loci </plain></SENT>
+<SENT sid="5" pm="."><plain>In most cases the difference was observed for SE33 and D1S80 loci </plain></SENT>
+<SENT sid="6" pm="."><plain>Mixed chimerism (MC) was detected in 18 patients: 4 with unrelated BMT and 14 with related sibling donors </plain></SENT>
+<SENT sid="7" pm="."><plain>In 11 patients MC was detected in the early period after BMT, but was soon followed by full donor chimerism (<z:chebi fb="17" ids="38848">FDC</z:chebi>) in peripheral blood </plain></SENT>
+<SENT sid="8" pm="."><plain>In 5 cases patients MC appearing after <z:chebi fb="17" ids="38848">FDC</z:chebi> was established, and was predictive for the relapse </plain></SENT>
+<SENT sid="9" pm="."><plain>One patient showed alternating MC and <z:chebi fb="17" ids="38848">FDC</z:chebi>, but at the end showed only recipient cells and graft rejection </plain></SENT>
+<SENT sid="10" pm="."><plain>In conclusion, the PCR-STR analysis is a highly informative, fast, and simple screening method for monitoring chimerism in a BMT program </plain></SENT>
+</text></document>

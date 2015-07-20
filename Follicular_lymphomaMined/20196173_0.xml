@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Combination immunochemotherapy is the most common approach for initial therapy of patients with advanced-stage follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo>, but no consensus exists as to the optimal selection or sequence of available regimens </plain></SENT>
+<SENT sid="1" pm="."><plain>We undertook this decision analysis to systematically evaluate the parameters affecting the choice of early therapy in patients with this disease </plain></SENT>
+<SENT sid="2" pm="."><plain>We designed a Markov model incorporating the three most commonly utilized regimens (RCVP, RCHOP, and RFlu) in combinations of first- and second-line therapies, with the endpoint of number of quality-adjusted life years (QALYs) until disease progression </plain></SENT>
+<SENT sid="3" pm="."><plain>Data sources included Phase II and Phase III trials and literature estimates of long-term toxicities and health state utilities </plain></SENT>
+<SENT sid="4" pm="."><plain>Meta-analytic methods were used to derive the values and ranges of regimen-related parameters </plain></SENT>
+<SENT sid="5" pm="."><plain>Based on our model, the strategy associated with the greatest number of expected quality-adjusted life years was treatment with RCHOP in first-line therapy followed by treatment with RFlu in second-line therapy (9.00 QALYs) </plain></SENT>
+<SENT sid="6" pm="."><plain>Strategies containing RCVP either in first- or second-line therapy resulted in the lowest number of QALYs (range 6.24-7.71) </plain></SENT>
+<SENT sid="7" pm="."><plain>Sensitivity analysis used to determine the relative contribution of each model parameter identified PFS after first-line therapy and not short-term QOL as the most important factor in prolonging overall quality-adjusted life years </plain></SENT>
+<SENT sid="8" pm="."><plain>Our results suggest that regimens associated with a longer PFS provide a greater number of total QALYs, despite their short-term toxicities </plain></SENT>
+<SENT sid="9" pm="."><plain>For patients without contraindications to any of these regimens, use of a more active regimen may maximize overall quality of life </plain></SENT>
+</text></document>

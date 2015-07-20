@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Catecholaminergic polymorphic <z:hpo ids='HP_0004756'>ventricular tachycardia</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CPVT</z:e>) is an arrhythmogenic disease for which electrophysiological studies (EPS) have shown to be of limited value </plain></SENT>
+<SENT sid="1" pm="."><plain>OBJECTIVE: This study presents a <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CPVT</z:e> family in which marked postpacing repolarization abnormalities during EPS were the only consistent phenotypic manifestation of <z:chebi fb="0" ids="8925">ryanodine</z:chebi> receptor (RyR2) mutation carriers </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: The study was prompted by the observation of transient marked QT prolongation preceding initiation of <z:hpo ids='HP_0001663'>ventricular fibrillation</z:hpo> during <z:hpo ids='HP_0005110'>atrial fibrillation</z:hpo> in a boy with a family history of <z:hpo ids='HP_0001645'>sudden cardiac death</z:hpo> (SCD) </plain></SENT>
+<SENT sid="3" pm="."><plain>Family members underwent exercise and pharmacologic electrocardiographic testing with <z:chebi fb="2" ids="28918">epinephrine</z:chebi>, <z:chebi fb="3" ids="16335">adenosine</z:chebi>, and flecainide </plain></SENT>
+<SENT sid="4" pm="."><plain>Noninvasive clinical test results were <z:mpath ids='MPATH_458'>normal</z:mpath> in 10 patients evaluated, except for both <z:chebi fb="2" ids="28918">epinephrine</z:chebi>- and exercise-induced <z:hpo ids='HP_0004308'>ventricular arrhythmias</z:hpo> in 1 </plain></SENT>
+<SENT sid="5" pm="."><plain>EPS included bursts of ventricular pacing and programmed ventricular extrastimulation reproducing short-long sequences </plain></SENT>
+<SENT sid="6" pm="."><plain>Genetic screening involved direct sequencing of genes involved in <z:hpo ids='HP_0001657'>long QT syndrome</z:hpo> as well as RyR2 </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: Six patients demonstrated a marked increase in QT interval only in the first beat after cessation of ventricular pacing and/or extrastimulation </plain></SENT>
+<SENT sid="8" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> 6 patients were found to have a heterozygous missense mutation (M4109R) in RyR2 </plain></SENT>
+<SENT sid="9" pm="."><plain>Two of them, presenting with aborted SCD, also had a second missense mutation (I406T- RyR2) </plain></SENT>
+<SENT sid="10" pm="."><plain>Four family members without RyR2 mutations did not display prominent postpacing QT changes </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSION: M4109R- RyR2 is associated with a high incidence of SCD </plain></SENT>
+<SENT sid="12" pm="."><plain>The contribution of I406T to the clinical phenotype is unclear </plain></SENT>
+<SENT sid="13" pm="."><plain>In contrast to exercise testing, marked postpacing repolarization changes in a single beat accurately predicted carriers of M4109R- RyR2 in this family </plain></SENT>
+</text></document>

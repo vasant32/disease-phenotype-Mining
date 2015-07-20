@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Model-based light scattering spectroscopy (LSS) seemed a promising technique for in-vivo diagnosis of <z:mpath ids='MPATH_589'>dysplasia</z:mpath> in multiple organs </plain></SENT>
+<SENT sid="1" pm="."><plain>In the studies, the residual spectrum, the difference between the observed and modeled diffuse reflectance spectra, was attributed to single elastic light scattering from epithelial nuclei, and diagnostic information due to nuclear changes was extracted from it </plain></SENT>
+<SENT sid="2" pm="."><plain>We show that this picture is incorrect </plain></SENT>
+<SENT sid="3" pm="."><plain>The actual single scattering signal arising from epithelial nuclei is much smaller than the previously computed residual spectrum, and does not have the wavelength dependence characteristic of Mie scattering </plain></SENT>
+<SENT sid="4" pm="."><plain>Rather, the residual spectrum largely arises from assuming a uniform <z:chebi fb="0" ids="35143">hemoglobin</z:chebi> distribution </plain></SENT>
+<SENT sid="5" pm="."><plain>In fact, <z:chebi fb="0" ids="35143">hemoglobin</z:chebi> is packaged in blood vessels, which alters the reflectance </plain></SENT>
+<SENT sid="6" pm="."><plain>When we include vessel packaging, which accounts for an inhomogeneous <z:chebi fb="0" ids="35143">hemoglobin</z:chebi> distribution, in the diffuse reflectance model, the reflectance is modeled more accurately, greatly reducing the amplitude of the residual spectrum </plain></SENT>
+<SENT sid="7" pm="."><plain>These findings are verified via numerical estimates based on light propagation and Mie theory, tissue phantom experiments, and analysis of published data measured from <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> </plain></SENT>
+<SENT sid="8" pm="."><plain>In future studies, vessel packaging should be included in the model of diffuse reflectance and use of model-based LSS should be discontinued </plain></SENT>
+</text></document>

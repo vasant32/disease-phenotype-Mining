@@ -1,0 +1,18 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Epithelial-mesenchymal transition (EMT) has recently been studied to elucidate mechanisms of the liver metastatic process </plain></SENT>
+<SENT sid="1" pm="."><plain>We investigated EMT in the process of <z:e sem="disease" ids="C0494165" disease_type="Neoplastic Process" abbrv="">liver metastasis</z:e> and the effects of chemotherapy on EMT cells as therapeutic strategy for colorectal <z:e sem="disease" ids="C0494165" disease_type="Neoplastic Process" abbrv="">liver metastasis</z:e> </plain></SENT>
+<SENT sid="2" pm="."><plain>We used the CT26 murine colorectal <z:mp ids='MP_0002038'>carcinoma</z:mp> cell line to create an in vivo mouse <z:e sem="disease" ids="C0494165" disease_type="Neoplastic Process" abbrv="">liver metastasis</z:e> model </plain></SENT>
+<SENT sid="3" pm="."><plain><z:e sem="disease" ids="C0023903" disease_type="Neoplastic Process" abbrv="">Liver tumors</z:e> were stained immuno-histochemically </plain></SENT>
+<SENT sid="4" pm="."><plain>Expression of proteins associated with TGF-β/Smad and hepatocyte growth factor (HGF)/c-Met pathways were investigated by western blotting </plain></SENT>
+<SENT sid="5" pm="."><plain>Cells with c-Met <z:chebi fb="2" ids="33699">mRNA</z:chebi> knockdown by siRNA techniques showed clearly reduced <z:e sem="disease" ids="C0494165" disease_type="Neoplastic Process" abbrv="">liver metastases</z:e> compared with regular cells at 21 days </plain></SENT>
+<SENT sid="6" pm="."><plain>TGF-β and HGF induced EMT expression, but signal transduction was quite different </plain></SENT>
+<SENT sid="7" pm="."><plain>TGF-β induced ERK, but not Akt phosphory-lation </plain></SENT>
+<SENT sid="8" pm="."><plain>HGF mediated both ERK and Akt phosphorylation </plain></SENT>
+<SENT sid="9" pm="."><plain>Akt inhibitor blocked Akt phosphorylation but did not affect TGF-β-induced activation of ERK, Snail and Slug </plain></SENT>
+<SENT sid="10" pm="."><plain>U-0126 did not reduce Snail activity by TGF-β at a concentration to block ERK phosphorylation </plain></SENT>
+<SENT sid="11" pm="."><plain>However, Akt inhibitor and U-0126 completely inhibited HGF-induced Slug activation </plain></SENT>
+<SENT sid="12" pm="."><plain>5-FU mediated cell <z:hpo ids='HP_0011420'>death</z:hpo> in the EMT process induced by TGF-β more effectively than HGF </plain></SENT>
+<SENT sid="13" pm="."><plain>ERK/Akt signaling, but not the Smad pathway, may be one of the main processes in HGF-induced EMT, despite the Smad pathway, but not ERK/Akt, being critical for TGF-β-induced EMT </plain></SENT>
+<SENT sid="14" pm="."><plain>The MAPK/Akt pathway is indispensable in HGF/c-Met signaling </plain></SENT>
+<SENT sid="15" pm="."><plain>The ERK/Akt pathway particularly may be critical in the HGF-induced EMT process </plain></SENT>
+<SENT sid="16" pm="."><plain>However, long-term use of chemotherapeutic agents may induce drug resistance and distant <z:e sem="disease" ids="C0027627" disease_type="Neoplastic Process" abbrv="mets">metastases</z:e> through EMT-related signaling pathway activation </plain></SENT>
+</text></document>

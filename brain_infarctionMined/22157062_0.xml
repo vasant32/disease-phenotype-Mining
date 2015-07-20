@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The aim of this paper is to introduce a novel semisupervised scheme for abnormality detection and segmentation in medical images </plain></SENT>
+<SENT sid="1" pm="."><plain>Semisupervised learning does not require pathology modeling and, thus, allows high degree of automation </plain></SENT>
+<SENT sid="2" pm="."><plain>In abnormality detection, a vector is characterized as anomalous if it does not comply with the probability distribution obtained from <z:mpath ids='MPATH_458'>normal</z:mpath> data </plain></SENT>
+<SENT sid="3" pm="."><plain>The estimation of the probability density function, however, is usually not feasible due to large data dimensionality </plain></SENT>
+<SENT sid="4" pm="."><plain>In order to overcome this challenge, we treat every image as a network of locally coherent image partitions (overlapping blocks) </plain></SENT>
+<SENT sid="5" pm="."><plain>We formulate and maximize a strictly concave likelihood function estimating abnormality for each partition and fuse the local estimates into a globally optimal estimate that satisfies the consistency constraints, based on a distributed estimation algorithm </plain></SENT>
+<SENT sid="6" pm="."><plain>The likelihood function consists of a model and a data term and is formulated as a quadratic programming problem </plain></SENT>
+<SENT sid="7" pm="."><plain>The method is applied for automatically segmenting brain pathologies, such as simulated <z:e sem="disease" ids="C0751955" disease_type="Disease or Syndrome" abbrv="">brain infarction</z:e> and <z:mpath ids='MPATH_589'>dysplasia</z:mpath>, as well as real lesions in <z:mp ids='MP_0002055'>diabetes</z:mp> patients </plain></SENT>
+<SENT sid="8" pm="."><plain>The assessment of the method using receiver operating characteristic analysis demonstrates improvement in image segmentation over two-group analysis performed with Statistical Parametric Mapping (SPM) </plain></SENT>
+</text></document>

@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVES: To evaluate a two-tier reflex guaiac-based faecal occult blood test (gFOBT)/faecal immunochemical test (FIT) algorithm in screening for <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>SETTING: Fourth screening round in NHS Tayside (Scotland) </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: gFOBT were sent to 50-74-year-olds </plain></SENT>
+<SENT sid="3" pm="."><plain>Participants with five or six windows positive were offered colonoscopy </plain></SENT>
+<SENT sid="4" pm="."><plain>Participants with one to four windows positive were sent a FIT and, if positive, were offered colonoscopy </plain></SENT>
+<SENT sid="5" pm="."><plain>Participants providing an untestable gFOBT were sent a FIT and, if positive, were offered colonoscopy </plain></SENT>
+<SENT sid="6" pm="."><plain>Outcomes following positive results, <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> stages and key performance indicators were assessed </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: Of 131,885 invited, 73,315 (55.6%) responded </plain></SENT>
+<SENT sid="8" pm="."><plain>There were 66,957 (91.3%) negative, 241 (0.3%) strong positive, 5230 (7.1%) weak positive and 887 (1.2%) untestable results </plain></SENT>
+<SENT sid="9" pm="."><plain>The 241 participants who had five or six windows positive had more <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancers</z:e> than those positive by other routes: only 3 of the 30 cancers (9.7%) were Dukes' A </plain></SENT>
+<SENT sid="10" pm="."><plain>Among the 983 positive results from the weak positive gFOBT then positive FIT route, there were fewer <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancers</z:e> and more <z:mpath ids='MPATH_458'>normal</z:mpath> colonoscopies, but more <z:mpath ids='MPATH_270'>adenomas</z:mpath> than in the group with a strong positive gFOBT </plain></SENT>
+<SENT sid="11" pm="."><plain>In those with an untestable gFOBT, 77 had a positive FIT result, with fewer true and more false positive results than in the other groups </plain></SENT>
+<SENT sid="12" pm="."><plain>Fewer males had <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> and stages were earlier than in females, but more had <z:mpath ids='MPATH_270'>adenoma</z:mpath> </plain></SENT>
+<SENT sid="13" pm="."><plain>The detection rate for <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> was 0.18% and the <z:chebi fb="0" ids="53261">PPV</z:chebi> for <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> and <z:hpo ids='HP_0000001'>all</z:hpo> <z:mpath ids='MPATH_270'>adenomas</z:mpath> was 41.3% </plain></SENT>
+<SENT sid="14" pm="."><plain>CONCLUSIONS: The algorithm and FIT following a weak positive gFOBT have advantages </plain></SENT>
+<SENT sid="15" pm="."><plain>FIT following an untestable gFOBT warrants review </plain></SENT>
+</text></document>

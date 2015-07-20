@@ -1,0 +1,18 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: <z:e sem="disease" ids="C0010340" disease_type="Disease or Syndrome" abbrv="">Critically ill</z:e> patients requiring emergent colectomy have significant mortality risk </plain></SENT>
+<SENT sid="1" pm="."><plain>OBJECTIVE: A national administrative database was used to compose a simple scoring scheme for predicting in-hospital mortality risk </plain></SENT>
+<SENT sid="2" pm="."><plain>DESIGN: The 2007 to 2009 Nationwide Inpatient Sample was queried to identify patients requiring nonelective colectomy </plain></SENT>
+<SENT sid="3" pm="."><plain>Multivariable binary logistic regression analysis was used to identify predictors that increased mortality </plain></SENT>
+<SENT sid="4" pm="."><plain>Each predictor was given a point value, based on the corresponding logit, the sum of which constituted a risk score </plain></SENT>
+<SENT sid="5" pm="."><plain>The scoring system was tested by using k-partitions cross-validation </plain></SENT>
+<SENT sid="6" pm="."><plain>SETTINGS: This study is based on database analysis </plain></SENT>
+<SENT sid="7" pm="."><plain>PATIENTS: A total of 338,348 cases were identified </plain></SENT>
+<SENT sid="8" pm="."><plain>Mean age was 64, and 53% of the patients were women </plain></SENT>
+<SENT sid="9" pm="."><plain>MAIN OUTCOME MEASURES: The primary outcomes measured were mortality and risk score development </plain></SENT>
+<SENT sid="10" pm="."><plain>RESULTS: The overall mortality risk was 9% </plain></SENT>
+<SENT sid="11" pm="."><plain>Regression analysis identified the following risk factors and assigned points: <z:hpo ids='HP_0001919'>acute renal failure</z:hpo> (6), hemodialysis (6), age &gt;65 (4), <z:hpo ids='HP_0004950'>peripheral vascular disease</z:hpo> (4), <z:hpo ids='HP_0001658'>myocardial infarction</z:hpo> (4), <z:hpo ids='HP_0006510'>chronic obstructive pulmonary disease</z:hpo> (2), <z:hpo ids='HP_0011675'>cardiac arrhythmia</z:hpo> (1), and <z:hpo ids='HP_0001635'>congestive heart failure</z:hpo> (1) </plain></SENT>
+<SENT sid="12" pm="."><plain>The maximum score observed was 26 (of a possible 28), which corresponded to 100% mortality </plain></SENT>
+<SENT sid="13" pm="."><plain>Receiver operator characteristic analysis showed an area under the curve of 0.81 </plain></SENT>
+<SENT sid="14" pm="."><plain>LIMITATIONS: This study was limited because of its retrospective nature, and because it used database data with variability in coding among participating institutions </plain></SENT>
+<SENT sid="15" pm="."><plain>CONCLUSIONS: With the use of a simple 8-variable scoring system, inpatient mortality estimates can be made for patients requiring emergent colectomy </plain></SENT>
+<SENT sid="16" pm="."><plain>When used judiciously, it can be used as a tool when counseling patients and family both before and after surgery </plain></SENT>
+</text></document>

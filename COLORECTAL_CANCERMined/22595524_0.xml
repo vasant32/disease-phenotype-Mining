@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The formation of <z:e sem="disease" ids="C0027627" disease_type="Neoplastic Process" abbrv="mets">metastasis</z:e> is one of the most critical problems in <z:hpo ids='HP_0002664'>oncology</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>The phosphatase of regenerating liver 3 (PRL-3) is a new target in <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e>, mediating metastatic behavior through a promigratory function </plain></SENT>
+<SENT sid="2" pm="."><plain>However, detailed explanations for this effect have remained elusive </plain></SENT>
+<SENT sid="3" pm="."><plain>Here we show that PRL-3 interacts with the <z:chebi fb="13" ids="16761">ADP</z:chebi>-ribosylation factor 1 (Arf1) </plain></SENT>
+<SENT sid="4" pm="."><plain>PRL-3 colocalizes with Arf1 in an endosomal compartment and associates with transmembrane proteins such as the transferrin receptor and α5 integrins </plain></SENT>
+<SENT sid="5" pm="."><plain>PRL-3 interacts with Arf1 through a distinct motif and regulates activation of Arf1 </plain></SENT>
+<SENT sid="6" pm="."><plain>PRL-3-mediated migration depends on expression and activation of Arf1 and is sensitive to treatment with <z:chebi fb="0" ids="48080">Brefeldin A</z:chebi> </plain></SENT>
+<SENT sid="7" pm="."><plain>We also demonstrate that PRL-3 modulates recycling of α5 integrins and that its phosphatase activity as well as <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">Arf</z:e> activation and compartmentalization with Arf1 are required for this effect </plain></SENT>
+<SENT sid="8" pm="."><plain>In summary our data identify a new function for PRL-3 and show that Arf1 is a new PRL-3-dependent mediator of enhanced migration of <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> cells through enhanced recycling of matrix receptors </plain></SENT>
+</text></document>

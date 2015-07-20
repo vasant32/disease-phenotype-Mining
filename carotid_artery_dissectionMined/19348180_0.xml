@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 23-year-old Japanese man with <z:hpo ids='HP_0001370'>rheumatoid arthritis</z:hpo> experienced attacks of the right hand <z:mp ids='MP_0000746'>weakness</z:mp> during the latest month </plain></SENT>
+<SENT sid="1" pm="."><plain><z:hpo ids='HP_0001889'>Megaloblastic anemia</z:hpo> was diagnosed and he was admitted in the department of hematology </plain></SENT>
+<SENT sid="2" pm="."><plain>Seven days after admission, he developed mild consciousness disturbance and <z:hpo ids='HP_0001269'>hemiparesis</z:hpo> on the right side </plain></SENT>
+<SENT sid="3" pm="."><plain>Brain MRI revealed the cortical watershed infarction in the left cerebral hemisphere </plain></SENT>
+<SENT sid="4" pm="."><plain>The cause of the infarction was diagnosed spontaneous dissection of the left internal carotid artery </plain></SENT>
+<SENT sid="5" pm="."><plain>We detected 11 microembolic signals (<z:chebi fb="28" ids="39005,39010">MES</z:chebi>) during 30 minutes' monitoring in the left middle cerebral artery using transcranial Doppler </plain></SENT>
+<SENT sid="6" pm="."><plain><z:chebi fb="28" ids="39005,39010">MES</z:chebi> decreased gradually with <z:chebi fb="3" ids="50249">anticoagulant</z:chebi> therapy </plain></SENT>
+<SENT sid="7" pm="."><plain>However, surgical therapy was performed to prevent progression of dissection or <z:e sem="disease" ids="C0155760" disease_type="Disease or Syndrome" abbrv="">arterial rupture</z:e> </plain></SENT>
+<SENT sid="8" pm="."><plain><z:chebi fb="28" ids="39005,39010">MES</z:chebi> detected on transcranial Doppler would be important to assess the risk of embolism and to discuss therapeutic strategy </plain></SENT>
+</text></document>

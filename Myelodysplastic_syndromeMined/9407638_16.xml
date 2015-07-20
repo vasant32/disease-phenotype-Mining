@@ -1,0 +1,21 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Red blood cells stored as concentrates or suspensions in additive solutions change rapidly their oxygen affinity mainly due to the loss of <z:chebi fb="0" ids="19324">2,3-diphosphoglycerate</z:chebi> (2,3-DPG) </plain></SENT>
+<SENT sid="1" pm="."><plain>When collected in CPD with half of the <z:mpath ids='MPATH_458'>normal</z:mpath> concentration of <z:chebi fb="2" ids="50744">citrate</z:chebi> and <z:chebi fb="14" ids="30769">citric acid</z:chebi> (0.5CPD) and stored in a new additive solution (Erythro-Sol), 2,3-DPG is better maintained </plain></SENT>
+<SENT sid="2" pm="."><plain>No studies of the oxygen affinity of red cells stored under these conditions have been published </plain></SENT>
+<SENT sid="3" pm="."><plain>In Erythro-Sol, red cells have a satisfactory in vivo recovery for 49 days but the conditions after 28 days, within which time most red cell units are transfused, have not been investigated </plain></SENT>
+<SENT sid="4" pm="."><plain>Of importance is also to be able to make platelet concentrates (PCs) from 0.5CPD blood </plain></SENT>
+<SENT sid="5" pm="."><plain>Little data are available concerning the clinical usefulness of platelets prepared from 0.5CPD buffy coats (BCs) </plain></SENT>
+<SENT sid="6" pm="."><plain>METHODS: Blood was collected in 0.5CPD, held at 20 degrees C for 3-4 h, then separated with the bottom-and-top technique into red cells, plasma and BC </plain></SENT>
+<SENT sid="7" pm="."><plain>In a storage experiment with 6 U the 2,3-DPG and P50 values were determined weekly and a number of in vitro parameters were tested on day 28 </plain></SENT>
+<SENT sid="8" pm="."><plain>In 6 donors the in vivo recovery and survival of red cells were determined using a single-<z:chebi fb="74" ids="28073">chromium</z:chebi> technique </plain></SENT>
+<SENT sid="9" pm="."><plain>Transfusions of 212 0.5CPD-Erythro-Sol red cell units were given to hematological patients under supervision </plain></SENT>
+<SENT sid="10" pm="."><plain>PCs derived from pools of 0.5CPD BCs suspended in PAS2 (T-Sol) were transfused to 20 thrombocytopenic patients and compared with CPD-BC-PCs suspended in PASI </plain></SENT>
+<SENT sid="11" pm="."><plain>Corrected count increments (CCI) were determined </plain></SENT>
+<SENT sid="12" pm="."><plain>RESULTS: The erythrocyte 2,3-DPG and P50 values were <z:mpath ids='MPATH_458'>normal</z:mpath> or slightly subnormal initially but increased to supernormal levels during the 1 week, and remained at these levels for a further 1-3 weeks; the 2,3-DPG was two thirds of <z:mpath ids='MPATH_458'>normal</z:mpath> after 28 days, the P50 was 3.72 +/- 0.28 kPa after 14 days and 2.84 +/- 0.41 after 28 days (mean +/- SD) </plain></SENT>
+<SENT sid="13" pm="."><plain>The P50 values corresponded closely (r2 = 0.903) to 2,3-DPG </plain></SENT>
+<SENT sid="14" pm="."><plain>The in vivo recovery of 4-week-stored red cells was 89.6 +/- 5.5% and the T50 was 32.2 +/- 2.0 days </plain></SENT>
+<SENT sid="15" pm="."><plain>No adverse effects were observed in the transfusions </plain></SENT>
+<SENT sid="16" pm="."><plain>The CCI values did not differ between test and control groups; in both, 3- to 5-day-stored PCs gave lower CCI than fresh (0-2 days) PCs </plain></SENT>
+<SENT sid="17" pm="."><plain>Patients with <z:hpo ids='HP_0004808'>acute myeloid leukemia</z:hpo> <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">AML</z:e> (n = 11) had significantly lower CCI values than patients with <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo>, <z:mp ids='MP_0009440'>myeloma</z:mp> and <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (n = 9; CCI 1 h: p = 0.001; CCI 24 h: p = 0.006) </plain></SENT>
+<SENT sid="18" pm="."><plain>CONCLUSIONS: Red cells stored in Erythro-Sol sustain a <z:mpath ids='MPATH_458'>normal</z:mpath> or slightly lowered oxygen affinity for 2-4 weeks, their viability is excellent, and they are well tolerated in clinical transfusions </plain></SENT>
+<SENT sid="19" pm="."><plain>Platelets prepared from 0.5CPD-BCs cause CCI, of the same magnitude as CPD-BCs </plain></SENT>
+</text></document>

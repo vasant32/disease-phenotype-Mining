@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PURPOSE: Cetuximab, an antibody targeting the epidermal growth factor receptor (EGFR), is active in <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e>) </plain></SENT>
+<SENT sid="1" pm="."><plain>However, response rates range from only 10% to 20% </plain></SENT>
+<SENT sid="2" pm="."><plain>Here, we investigate hepatocyte growth factor (HGF)-dependent mesenchymal-epithelial transition factor (MET) activation as a mediator of cetuximab resistance through signal diversification in <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e> cell lines </plain></SENT>
+<SENT sid="3" pm="."><plain>EXPERIMENTAL DESIGN: DiFi, GEO, and LIM1215 cells were treated with varying concentrations and combinations of EGF, HGF, cetuximab, and PHA-665752 (a highly specific MET kinase inhibitor) </plain></SENT>
+<SENT sid="4" pm="."><plain>Biological end points included proliferation, cell cycle arrest, and <z:mpath ids='MPATH_3'>apoptosis</z:mpath> </plain></SENT>
+<SENT sid="5" pm="."><plain>Proliferation was measured using WST-1 assays and synergy investigated via isobolograms </plain></SENT>
+<SENT sid="6" pm="."><plain>Expression and signaling were examined using immunoblotting </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: EGFR and MET are coexpressed in these <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e> cell lines, and dual receptor activation synergistically increased proliferation </plain></SENT>
+<SENT sid="8" pm="."><plain>Cetuximab inhibited cell growth by 60%-80% with an associated dephosphorylation of EGFR, MAPK, and/or AKT </plain></SENT>
+<SENT sid="9" pm="."><plain>Addition of HGF to cetuximab-treated cells phosphorylated MET, but not EGFR or ErbB3, restimulated the MAPK and AKT pathways, restored cell proliferation, and rescued cells from G1 arrest and <z:mpath ids='MPATH_3'>apoptosis</z:mpath> </plain></SENT>
+<SENT sid="10" pm="."><plain>Importantly, this effect could be abrogated by inhibiting MET activation with PHA-665752 or by downregulating MET expression with RNAi </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: HGF-induced MET activation is a novel mechanism of cetuximab resistance in <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e> </plain></SENT>
+<SENT sid="12" pm="."><plain>Inhibition of the HGF-MET pathway may improve response to EGFR inhibitors in <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e>, and combination therapy should be further investigated </plain></SENT>
+</text></document>

@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: To identify that immunoglobulin heavy chain framework regions-derived <z:chebi fb="7" ids="16670">peptides</z:chebi> function as cytotoxic T lymphocytes <z:chebi fb="0" ids="53000">epitopes</z:chebi> </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: Seven IgHV gene families were respectively amplified by PCR and directly sequenced for 108 <z:hpo ids='HP_0006721'>acute lymphoblastic leukemia</z:hpo> cases </plain></SENT>
+<SENT sid="2" pm="."><plain>Sequences available were translated into amino acid sequences </plain></SENT>
+<SENT sid="3" pm="."><plain>Bioinformatics were applied for analyzing recombination patterns and gene mutations of the IgHV genes </plain></SENT>
+<SENT sid="4" pm="."><plain>Softwares SYFPEITHI and BIMAS were used for predicting the T cell <z:chebi fb="0" ids="53000">epitopes</z:chebi> in the immunoglobulin heavy chain variable regions </plain></SENT>
+<SENT sid="5" pm="."><plain>To determine whether the predicted <z:chebi fb="7" ids="16670">peptides</z:chebi> have immunogenicity, a IgHV1 family nonapeptide QLVQSGAEV was synthesized as a representation and T2 binding assay of this <z:chebi fb="7" ids="16670">peptide</z:chebi> was performed, inducing proliferation of T cells from <z:mpath ids='MPATH_458'>normal</z:mpath> HLA-A * 0201 peripheral blood lymphocytes (PBLs) with QLVQSGAEV-loaded antigen presenting cells, and detecting the proliferating T cells by HLA-A * 0201/QLVQSGAEV tetramers </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: Complete IgHV gene rearrangements were identified in 66% cases </plain></SENT>
+<SENT sid="7" pm="."><plain>Among 40 B-ALL IgHV sequences available, 26 were predicted for antigenic nonapeptides that are likely to bind to HLA-A * 0201 molecule </plain></SENT>
+<SENT sid="8" pm="."><plain>Twelve <z:chebi fb="7" ids="16670">peptides</z:chebi> were acquired </plain></SENT>
+<SENT sid="9" pm="."><plain>Except one <z:chebi fb="7" ids="16670">peptide</z:chebi> derived from CDR3, 10 (83%) <z:chebi fb="7" ids="16670">peptides</z:chebi> were located in the immunoglobulin heavy chain framework regions </plain></SENT>
+<SENT sid="10" pm="."><plain>Moreover <z:e sem="disease" ids="C0023435" disease_type="Neoplastic Process" abbrv="">B-ALL</z:e> belonging to the same IgHV family shared 1 - 2 peptides </plain></SENT>
+<SENT sid="11" pm="."><plain>Synthesized <z:chebi fb="7" ids="16670">peptide</z:chebi> QLVQSGAEV up-regulated HLA-A * 0201 expression 1.63 times on T2 cell surface </plain></SENT>
+<SENT sid="12" pm="."><plain>PBLs from a <z:mpath ids='MPATH_458'>normal</z:mpath> HLA-A * 0201 donor were stimulated with QLVQSGAEV-loaded autologous PBMCs and T2, the CD8(+) tetramer(+) cells in gated lymphocyte population increased from 1.64% after the first stimulation to 82.57% after the third stimulation </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSION: Immunoglobulin heavy chain framework region genes encode IgHV family-specific <z:chebi fb="7" ids="16670">peptides</z:chebi> recognized by CTLs </plain></SENT>
+<SENT sid="14" pm="."><plain>Specific CTLs remain in human peripheral T cell repertoire </plain></SENT>
+<SENT sid="15" pm="."><plain>Immunoglobulin heavy chain framework-derived <z:chebi fb="7" ids="16670">peptides</z:chebi> function as T cell <z:chebi fb="0" ids="53000">epitopes</z:chebi> to induce the proliferation of specific CTLs </plain></SENT>
+</text></document>

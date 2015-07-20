@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: To establish the mouse model of Gly374Arg mutation in fibroblast growth factor receptor 3(Fgfr3) and to analyze the phenotype of the mutant mice </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: The double PCR was used to introduce Gly374Arg point mutation into mouse Fgfr3 </plain></SENT>
+<SENT sid="2" pm="."><plain>The electroporation of embryonic stem(ES) cells was carried out with targeting vector </plain></SENT>
+<SENT sid="3" pm="."><plain>The targeted ES cells were screened by Positive-Negative Selection of G418 and <z:chebi fb="0" ids="465284">Ganciclovir</z:chebi>, and Southern blot </plain></SENT>
+<SENT sid="4" pm="."><plain>The correct targeted ES cells were microinjected into blastula </plain></SENT>
+<SENT sid="5" pm="."><plain>Finally, mutant mice were obtained by crossing between EIIa-Cre transgenic mice and mice carrying recombined mutant Fgfr3 allele </plain></SENT>
+<SENT sid="6" pm="."><plain>The mice were genotyped by PCR, and phenotype was observed by skeleton staining, histology, etc </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: Fgfr3-Gly374Arg mutant mice exhibited small size, <z:mp ids='MP_0000592'>short tail</z:mp>, <z:hpo ids='HP_0000256'>macrocephaly</z:hpo> and had dome-shaped heads, the epiphyseal growth plates of mutant mice were narrower, and the hypertrophic chondrocyte zone was also obviously decreased </plain></SENT>
+<SENT sid="8" pm="."><plain>Meanwhile, the majority of female mice were <z:mp ids='MP_0001924'>infertile</z:mp>, and the uterus, ovary and mammal gland in mutant female mice were also smaller and underdeveloped </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSION: The model of Fgfr3-Gly374Arg mutation causing <z:e sem="disease" ids="C0001080" disease_type="Disease or Syndrome;Congenital Abnormality" abbrv="">achondroplasia</z:e> in mice has been established successfully </plain></SENT>
+</text></document>

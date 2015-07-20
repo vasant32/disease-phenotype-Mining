@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A totally automated analysis of felbamate was developed by using a robotized PrepStation for extraction, followed by automated liquid chromatographic (LC) analysis and data reduction </plain></SENT>
+<SENT sid="1" pm="."><plain>This is one of the newer direct-sample analysis approaches by LC </plain></SENT>
+<SENT sid="2" pm="."><plain>Felbamate was a previously approved <z:chebi fb="0" ids="35623">antiepileptic</z:chebi> agent used to treat <z:hpo ids='HP_0007359'>partial seizures</z:hpo> with and without generalization and to treat <z:e sem="disease" ids="C0238111" disease_type="Disease or Syndrome" abbrv="">Lennox-Gastaut syndrome</z:e> in pediatric patients </plain></SENT>
+<SENT sid="3" pm="."><plain>However, due to the reported incidences of <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo>, its clinical application was recently restricted to the treatment of the latter syndrome </plain></SENT>
+<SENT sid="4" pm="."><plain>The automated assay using Bench Supervisor, PrepStation, and LC, based on a previously developed manual method, used 200 microliters of serum standards, quality control, or patients' plasma </plain></SENT>
+<SENT sid="5" pm="."><plain>These were mixed with 600 microliters of internal standard (IS) W509 dissolved in <z:chebi fb="0" ids="38472">acetonitrile</z:chebi> for protein precipitation </plain></SENT>
+<SENT sid="6" pm="."><plain>After axial centrifugation and standing, aliquots of the clear supernatant were transferred and washed with <z:chebi fb="17" ids="29021">hexane</z:chebi> </plain></SENT>
+<SENT sid="7" pm="."><plain>Aliquots of the supernatant were transferred and injected into a high-performance liquid chromatograph (HPLC) </plain></SENT>
+<SENT sid="8" pm="."><plain>HPLC parameters included an mu Bondapak C-18 column, phosphate/<z:chebi fb="0" ids="38472">acetonitrile</z:chebi> (8:2) as mobile phase, and detection at 214 nm </plain></SENT>
+<SENT sid="9" pm="."><plain>Retention times were 2.9 and 4.2 min for felbamate and IS, respectively </plain></SENT>
+<SENT sid="10" pm="."><plain>Calibration was linear for concentrations from 10 to 200 mg/L with r &gt; 0.994 </plain></SENT>
+<SENT sid="11" pm="."><plain>Precision studies showed coefficients of variation ranging from 2.7% to 8.8% </plain></SENT>
+<SENT sid="12" pm="."><plain>Correlation with the manual method showed that r = 0.934, slope = 1.048, intercept = -2.642, and n = 21 </plain></SENT>
+<SENT sid="13" pm="."><plain><z:chebi fb="1" ids="8069">Phenobarbital</z:chebi> coeluted with the IS </plain></SENT>
+<SENT sid="14" pm="."><plain>This study demonstrated the feasibility of using a robotized, automated method for monitoring felbamate, readily extended to monitoring other <z:chebi fb="0" ids="35623">antiepileptic</z:chebi> drugs with minimal modification </plain></SENT>
+</text></document>

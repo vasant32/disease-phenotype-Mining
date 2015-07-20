@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIMS/HYPOTHESIS: IL-1beta is a candidate mediator of apoptotic beta cell destruction, a process that leads to type 1 <z:mp ids='MP_0002055'>diabetes</z:mp> and progression of type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="1" pm="."><plain>IL-1beta activates beta cell c-Jun N-terminal kinase (JNK), extracellular signal-regulated kinase (ERK) and p38, <z:hpo ids='HP_0000001'>all</z:hpo> of which are members of the <z:chebi fb="0" ids="52290">mitogen</z:chebi>-activated protein kinase (MAPK) family </plain></SENT>
+<SENT sid="2" pm="."><plain>Inhibition of JNK prevents IL-1beta-mediated beta cell destruction </plain></SENT>
+<SENT sid="3" pm="."><plain>In mouse embryo fibroblasts and 3DO T cells, overexpression of the gene encoding <z:mpath ids='MPATH_73'>growth arrest</z:mpath> and DNA-damage-inducible 45beta (Gadd45b) downregulates pro-apoptotic JNK signalling </plain></SENT>
+<SENT sid="4" pm="."><plain>The aim of this study was to investigate if Gadd45b prevents IL-1beta-induced beta cell MAPK signalling and <z:mpath ids='MPATH_3'>apoptosis</z:mpath> </plain></SENT>
+<SENT sid="5" pm="."><plain>MATERIALS: Rat <z:e sem="disease" ids="C0021670" disease_type="Neoplastic Process" abbrv="">insulinoma</z:e> INS-1E cells and mouse beta-TC3 cells stably expressing Gadd45b were generated </plain></SENT>
+<SENT sid="6" pm="."><plain>The effects of Gadd45b expression on signalling by JNK, ERK and p38 were assessed by Western blotting and kinase assays </plain></SENT>
+<SENT sid="7" pm="."><plain><z:mpath ids='MPATH_3'>Apoptosis</z:mpath> rate was measured by terminal deoxynucleotidyl-mediated <z:chebi fb="0" ids="17625">dUTP</z:chebi>-<z:chebi fb="1" ids="15956">biotin</z:chebi> nick end-labelling (TUNEL) and an ELISA designed to detect apoptotic nucleosomes </plain></SENT>
+<SENT sid="8" pm="."><plain>Expression of endogenous Gadd45b <z:chebi fb="2" ids="33699">mRNA</z:chebi> was measured by RT-PCR </plain></SENT>
+<SENT sid="9" pm="."><plain>RESULTS: In INS-1E and beta-TC3 cells, expression of Gadd45b inhibited IL-1beta-induced activation of JNK and ERK, but augmented IL-1beta-mediated p38 activity </plain></SENT>
+<SENT sid="10" pm="."><plain>IL-1beta-induced nitric <z:chebi fb="177" ids="25741,29356">oxide</z:chebi> production and decreases in insulin content and secretion were reduced by GADD45beta </plain></SENT>
+<SENT sid="11" pm="."><plain>IL-1beta-induced <z:mpath ids='MPATH_3'>apoptosis</z:mpath> was reduced by GADD45beta by up to 77% </plain></SENT>
+<SENT sid="12" pm="."><plain>Although IL-1beta stimulated the time-dependent induction of endogenous Gadd45b in INS-1E cells and rat islets, expression levels were lower in these cells than in IL-1beta-exposed NIH-3T3 and 3DO T cells </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSIONS/INTERPRETATION: Inadequate induction of Gadd45b, which encodes a novel beta cell JNK and ERK inhibitor, may in part explain the pro-apoptotic response of beta cells to IL-1beta </plain></SENT>
+</text></document>

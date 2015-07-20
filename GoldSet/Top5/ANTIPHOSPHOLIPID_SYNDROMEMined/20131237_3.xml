@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: To investigate the expression of protease-activated receptors (PARs), their potential regulation by anticardiolipin antibodies (aCL), and their association with the expression of other molecules relevant to <z:mp ids='MP_0005048'>thrombosis</z:mp> in monocytes obtained from 62 patients with <z:e sem="disease" ids="C0409980" disease_type="Disease or Syndrome" abbrv="">primary antiphospholipid syndrome</z:e> (APS) </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: Monocytes were isolated from peripheral blood mononuclear cells by magnetic <z:mpath ids='MPATH_63'>depletion</z:mpath> of nonmonocytes </plain></SENT>
+<SENT sid="2" pm="."><plain>Expression of tissue factor (TF) and PARs 1-4 genes was measured by quantitative real-time reverse transcription-polymerase chain reaction </plain></SENT>
+<SENT sid="3" pm="."><plain>Cell surface TF and PARs 1-4 expression was analyzed by flow cytometry </plain></SENT>
+<SENT sid="4" pm="."><plain>For in vitro studies, purified <z:mpath ids='MPATH_458'>normal</z:mpath> monocytes were incubated with purified APS patient IgG, <z:mpath ids='MPATH_458'>normal</z:mpath> human serum IgG, or <z:chebi fb="0" ids="16412">lipopolysaccharide</z:chebi>, in the presence or absence of specific monoclonal antibodies anti-PAR-1 (ATAP2) or anti-PAR-2 (SAM11) to test the effect of blocking the active site of PAR-1 or PAR-2 </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: Analysis of both <z:chebi fb="2" ids="33699">mRNA</z:chebi> and protein for the 4 PARs revealed significantly increased expression of PAR-2 as compared with the control groups </plain></SENT>
+<SENT sid="6" pm="."><plain>PAR-1 was significantly overexpressed in APS patients with <z:mp ids='MP_0005048'>thrombosis</z:mp> and in the control patients with <z:mp ids='MP_0005048'>thrombosis</z:mp> but without APS </plain></SENT>
+<SENT sid="7" pm="."><plain>PAR-3 expression was not significantly altered </plain></SENT>
+<SENT sid="8" pm="."><plain>PAR-4 expression was absent in <z:hpo ids='HP_0000001'>all</z:hpo> groups analyzed </plain></SENT>
+<SENT sid="9" pm="."><plain>In addition, we demonstrated a correlation between the levels of PAR-2 and the titers of IgG aCL, as well as parallel behavior of TF and PAR-2 expression </plain></SENT>
+<SENT sid="10" pm="."><plain>In vitro, IgG from APS patients significantly increased monocyte expression of PAR-1 and PAR-2 </plain></SENT>
+<SENT sid="11" pm="."><plain>Inhibition studies suggested that there was direct cross-talk between TF and PAR-2, such that inhibition of PAR-2 prevented the aCL-induced expression of TF </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSION: These results provide the first demonstration of increased expression of PARs in monocytes from patients with APS </plain></SENT>
+<SENT sid="13" pm="."><plain>Thus, PAR <z:chebi fb="68" ids="48706">antagonists</z:chebi> might have therapeutic potential as antithrombotic agents in APS </plain></SENT>
+</text></document>

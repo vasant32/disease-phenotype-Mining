@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We investigated the anti-vasospastic potential of fasudil's active metabolite, hydroxyfasudil, a Rho-kinase inhibitor, after <z:hpo ids='HP_0002138'>subarachnoid hemorrhage</z:hpo> (SAH) and also its effect on hemorheological abnormalities following <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain><z:hpo ids='HP_0011010'>Chronic</z:hpo> <z:e sem="disease" ids="C0265110" disease_type="Disease or Syndrome" abbrv="">cerebral vasospasm</z:e> was produced using a two-<z:mp ids='MP_0001914'>hemorrhage</z:mp> canine model </plain></SENT>
+<SENT sid="2" pm="."><plain>On day 7, angiographic vasospasm was observed in <z:hpo ids='HP_0000001'>all</z:hpo> animals, and intravenous administration of hydroxyfasudil (3 mg·kg(-1)·30 min(-1)) significantly reversed the vasospasm (predose diameter of the basilar artery, 57.9% ± 2.0% of the baseline before the injection of blood; postdose diameter, 64.5% ± 1.9%) </plain></SENT>
+<SENT sid="3" pm="."><plain>The viscosity of whole blood was significantly increased 24 h after 1 h middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> in rats </plain></SENT>
+<SENT sid="4" pm="."><plain>Hydroxyfasudil (3 and 10 mg/kg, i.p.) significantly decreased blood viscosity </plain></SENT>
+<SENT sid="5" pm="."><plain>The specificity of hydroxyfasudil was examined against a panel of 17 protein kinases using ELISA analysis </plain></SENT>
+<SENT sid="6" pm="."><plain>Hydroxyfasudil inhibited Rho-kinase α and β at a concentration of 10 µM by 97.6% and 97.7%, respectively </plain></SENT>
+<SENT sid="7" pm="."><plain>No other protein kinase was inhibited with 10 µM hydroxyfasudil by over 40% </plain></SENT>
+<SENT sid="8" pm="."><plain>The present results indicate hydroxyfasudil is a selective inhibitor of Rho-kinase </plain></SENT>
+<SENT sid="9" pm="."><plain>The results also suggest that hydroxyfasudil contributes to the potency of fasudil to prevent <z:e sem="disease" ids="C0265110" disease_type="Disease or Syndrome" abbrv="">cerebral vasospasm</z:e> and hyperviscosity and suggest the potential utility of hydroxyfasudil as a therapeutic agent for patients with SAH </plain></SENT>
+</text></document>

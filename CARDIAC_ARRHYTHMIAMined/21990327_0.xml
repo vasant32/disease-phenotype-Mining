@@ -1,0 +1,5 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>This paper proposes a method for the automatic classification of heartbeats in an ECG signal </plain></SENT>
+<SENT sid="1" pm="."><plain>Since this task has specific characteristics such as time dependences between observations and a strong class unbalance, a specific classifier is proposed and evaluated on real ECG signals from the <z:chebi fb="75" ids="27847,53620">MIT</z:chebi> <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> database </plain></SENT>
+<SENT sid="2" pm="."><plain>This classifier is a weighted variant of the conditional random fields classifier </plain></SENT>
+<SENT sid="3" pm="."><plain>Experiments show that the proposed method outperforms previously reported heartbeat classification methods, especially for the pathological heartbeats </plain></SENT>
+</text></document>

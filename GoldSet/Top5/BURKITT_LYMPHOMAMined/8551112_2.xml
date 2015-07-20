@@ -1,0 +1,6 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0001945'>Hyperthermia</z:hpo> (42 - 44 degrees C for 30 min to 1 h) can induce <z:mpath ids='MPATH_3'>apoptosis</z:mpath> in a variety of cell types and <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumour</z:e> cell lines </plain></SENT>
+<SENT sid="1" pm="."><plain>This process is usually, but not invariably unaffected by <z:chebi fb="40" ids="33697">RNA</z:chebi> and protein synthesis inhibition </plain></SENT>
+<SENT sid="2" pm="."><plain>C-fos expression has been implicated in the regulation of <z:mpath ids='MPATH_3'>apoptosis</z:mpath> occurring under diverse circumstances </plain></SENT>
+<SENT sid="3" pm="."><plain>By heating the Burkitt <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cell line, BM 13674, for 43 degrees C for 30 min, approximately 60% of cells underwent <z:mpath ids='MPATH_3'>apoptosis</z:mpath> within 6h of treatment </plain></SENT>
+<SENT sid="4" pm="."><plain>Co-ordinate with the massive induction of <z:mpath ids='MPATH_3'>apoptosis</z:mpath>, a 10-fold increase in the steady state c-fos <z:chebi fb="2" ids="33699">mRNA</z:chebi> expression occurred </plain></SENT>
+</text></document>

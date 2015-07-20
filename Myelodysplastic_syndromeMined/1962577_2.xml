@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:chebi fb="0" ids="29073">L-Ascorbic acid</z:chebi> (LAA) was shown to modulate the in vitro growth of colonies of human and mouse <z:mp ids='MP_0009440'>myeloma</z:mp> progenitor-stem cells through use of a unique cell-culture assay </plain></SENT>
+<SENT sid="1" pm="."><plain>LAA was also shown to modulate the in vitro growth of leukemic colony-forming cells (L-CFC) from bone marrow of patients with <z:hpo ids='HP_0004808'>acute myelocytic leukemia</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>LAA enhanced the growth of L-CFC in 35% of patients and suppressed the growth of L-CFC in 15% of patients </plain></SENT>
+<SENT sid="3" pm="."><plain>The minimum effective concentration was 0.03 mmol/L </plain></SENT>
+<SENT sid="4" pm="."><plain>The modulating effect is specific to LAA because other redox compounds are without effect </plain></SENT>
+<SENT sid="5" pm="."><plain>From the cell kinetic standpoint, the LAA effect is <z:chebi fb="0" ids="35610">cytostatic</z:chebi> rather than cytocidal </plain></SENT>
+<SENT sid="6" pm="."><plain>Similar LAA effects have prognostic value in patients with <z:hpo ids='HP_0002863'>myelodysplastic syndromes</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e>), with LAA-sensitive patients displaying shorter survival than LAA-insensitive patients </plain></SENT>
+<SENT sid="7" pm="."><plain><z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> appears to be the ideal disease for clinical trials involving in vivo LAA manipulation to control the disease process </plain></SENT>
+</text></document>

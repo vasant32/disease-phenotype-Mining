@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECT: To evaluate the efficacy of thymosin beta 4 (Tβ(4)) on <z:hpo ids='HP_0003074'>hyperglycemia</z:hpo> and insulin sensitivity in a mouse model of type 2 <z:hpo ids='HP_0000819'>diabetes mellitus</z:hpo> (T2DM) </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: KK mice were divided into the following groups: KK control group, with saline treatment; KK Tβ(4) group, with daily Tβ(4) 100ng/10g body weight intraperitoneal injection for 12 weeks </plain></SENT>
+<SENT sid="2" pm="."><plain>Non-diabetic C57BL mice were used as <z:mpath ids='MPATH_458'>normal</z:mpath> control </plain></SENT>
+<SENT sid="3" pm="."><plain>OGTT, plasma insulin, HbA1c, serum adiponectin, Tβ(4), cholesterol, and <z:chebi fb="0" ids="17855">triglyceride</z:chebi> were measured before and after Tβ(4) treatment </plain></SENT>
+<SENT sid="4" pm="."><plain>The phosphorylated AKT and total AKT protein levels of skeletal muscle from <z:hpo ids='HP_0000001'>all</z:hpo> groups were determined </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: After Tβ(4) treatment, repeat OGTT showed a significant decrease in <z:chebi fb="105" ids="17234">glucose</z:chebi> profiles in the KK Tβ(4) group compared with the KK control group </plain></SENT>
+<SENT sid="6" pm="."><plain>The KK-Tβ(4) group had reduced mean HbA1c and <z:chebi fb="0" ids="17855">triglyceride</z:chebi> levels, and increased adiponectin compared with KK control group </plain></SENT>
+<SENT sid="7" pm="."><plain>C57BL mice showed <z:mpath ids='MPATH_458'>normal</z:mpath> <z:chebi fb="105" ids="17234">glucose</z:chebi> homeostasis </plain></SENT>
+<SENT sid="8" pm="."><plain>The phosphorylated AKT levels of skeletal muscle were significantly increased in KK Tβ(4) group compared with KK control group after <z:chebi fb="105" ids="17234">glucose</z:chebi> stimulation </plain></SENT>
+<SENT sid="9" pm="."><plain>C57BL mice showed no changes in phosphorylated AKT levels after Tβ(4) treatment </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSIONS: Tβ(4) improved <z:hpo ids='HP_0000833'>glucose intolerance</z:hpo> and ameliorated <z:hpo ids='HP_0000855'>insulin resistance</z:hpo> in KK mouse </plain></SENT>
+<SENT sid="11" pm="."><plain>Tβ(4) may be a potential alternative insulin sensitizer for treatment of T2DM </plain></SENT>
+</text></document>

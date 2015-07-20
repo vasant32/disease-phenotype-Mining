@@ -1,0 +1,20 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVES: To develop a Modified <z:hpo ids='HP_0001342'>Intracerebral Hemorrhage</z:hpo> (MICH) score to determine optimal cut-offs for conservative treatment vs surgical intervention for basal ganglia <z:mp ids='MP_0001914'>hemorrhage</z:mp> and to predict outcomes </plain></SENT>
+<SENT sid="1" pm="."><plain>DESIGN: Prospective randomized trial </plain></SENT>
+<SENT sid="2" pm="."><plain>SETTING: A 1,720-bed medical center affiliated with a university </plain></SENT>
+<SENT sid="3" pm="."><plain>PATIENTS: In <z:hpo ids='HP_0000001'>all</z:hpo>, 226 patients with basal ganglia <z:mp ids='MP_0001914'>hemorrhage</z:mp> who presented at our hospital from 2001-2005 </plain></SENT>
+<SENT sid="4" pm="."><plain>INTERVENTIONS: Group A (n = 113) underwent endoscopic surgery; group B (n = 113) underwent conservative treatment </plain></SENT>
+<SENT sid="5" pm="."><plain>Score differences on the Glasgow Outcome Scale and 1-yr Barthel Index were analyzed by chi-square test and Student's t-tests </plain></SENT>
+<SENT sid="6" pm="."><plain>Cut-offs for MICH scoring were evaluated using receiver operating characteristic curves for calculating the Youden Index </plain></SENT>
+<SENT sid="7" pm="."><plain>The treatment odds ratio was analyzed by univariate, multivariate, and multiple logistic regressions </plain></SENT>
+<SENT sid="8" pm="."><plain>MEASUREMENTS AND MAIN RESULTS: The optimal cut-off point for mortality was a MICH score &gt; or = 3 in which the Youden Index is 0.66 (sensitivity, 76.3%; specificity, 89.8%; area under the receiver operating characteristic curve, 0.897) </plain></SENT>
+<SENT sid="9" pm="."><plain>The positive and negative predictive values were 81.8% and 86.3%, respectively </plain></SENT>
+<SENT sid="10" pm="."><plain>The treatment odds ratio for surgical treatment was 6.87 (95% confidence interval, 3.13-14.5) at MICH scores &gt; or = 3 </plain></SENT>
+<SENT sid="11" pm="."><plain>The best cut-off for good functional outcomes (Glasgow Outcome Scale &gt; or = 4 or Barthel index &gt; or = 55) was MICH &gt; or = 2 </plain></SENT>
+<SENT sid="12" pm="."><plain>Conservative treatment achieved a better mean Barthel Index at MICH = 0 or 1 than surgical treatment, p &lt; .01 </plain></SENT>
+<SENT sid="13" pm="."><plain>At MICH scores = 3 or 4, 6-month mortality for conservative treatment was higher than for surgical treatment, p &lt; .01 and p = .04, respectively </plain></SENT>
+<SENT sid="14" pm="."><plain>At MICH scores of 5, <z:hpo ids='HP_0000001'>all</z:hpo> patients died </plain></SENT>
+<SENT sid="15" pm="."><plain>CONCLUSIONS: MICH scoring provides a simple, reliable system for treatment decisions regarding basal ganglia <z:mp ids='MP_0001914'>hemorrhage</z:mp> and may accurately predict functional outcomes </plain></SENT>
+<SENT sid="16" pm="."><plain>Conservative treatment is recommended for basal ganglia <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">ICH</z:e> patients with low MICH scores (0, 1) to preserve neurologic function </plain></SENT>
+<SENT sid="17" pm="."><plain>Surgery is recommended for patients with a midlevel MICH score to obtain better functional outcomes (MICH = 2) and to reduce mortality (MICH = 3 or 4) </plain></SENT>
+<SENT sid="18" pm="."><plain>At MICH scores = 5, there are no indications for surgery </plain></SENT>
+</text></document>

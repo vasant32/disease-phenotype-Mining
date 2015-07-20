@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: <z:hpo ids='HP_0002863'>Myelodysplastic syndromes</z:hpo> are a diverse and common group of <z:hpo ids='HP_0011010'>chronic</z:hpo> <z:e sem="disease" ids="C0376545" disease_type="Neoplastic Process" abbrv="">hematologic cancers</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>The identification of new genetic lesions could facilitate new diagnostic and therapeutic strategies </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: We used massively parallel sequencing technology to identify somatically acquired point mutations across <z:hpo ids='HP_0000001'>all</z:hpo> protein-coding exons in the genome in 9 patients with low-grade <z:hpo ids='HP_0002863'>myelodysplasia</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>Targeted resequencing of the gene encoding <z:chebi fb="40" ids="33697">RNA</z:chebi> splicing factor 3B, subunit 1 (SF3B1), was also performed in a cohort of 2087 patients with myeloid or other <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancers</z:e> </plain></SENT>
+<SENT sid="4" pm="."><plain>RESULTS: We identified 64 point mutations in the 9 patients </plain></SENT>
+<SENT sid="5" pm="."><plain>Recurrent somatically acquired mutations were identified in SF3B1 </plain></SENT>
+<SENT sid="6" pm="."><plain>Follow-up revealed SF3B1 mutations in 72 of 354 patients (20%) with <z:hpo ids='HP_0002863'>myelodysplastic syndromes</z:hpo>, with particularly high frequency among patients whose disease was characterized by ring sideroblasts (53 of 82 [65%]) </plain></SENT>
+<SENT sid="7" pm="."><plain>The gene was also mutated in 1 to 5% of patients with a variety of other <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> types </plain></SENT>
+<SENT sid="8" pm="."><plain>The observed mutations were less deleterious than was expected on the basis of chance, suggesting that the mutated protein retains structural integrity with altered function </plain></SENT>
+<SENT sid="9" pm="."><plain>SF3B1 mutations were associated with down-regulation of key gene networks, including core <z:hpo ids='HP_0001427'>mitochondrial</z:hpo> pathways </plain></SENT>
+<SENT sid="10" pm="."><plain>Clinically, patients with SF3B1 mutations had fewer cytopenias and longer event-free survival than patients without SF3B1 mutations </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: Mutations in SF3B1 implicate abnormalities of <z:chebi fb="5" ids="33699">messenger RNA</z:chebi> splicing in the pathogenesis of <z:hpo ids='HP_0002863'>myelodysplastic syndromes</z:hpo> </plain></SENT>
+<SENT sid="12" pm="."><plain>(Funded by the Wellcome Trust and others.) </plain></SENT>
+</text></document>

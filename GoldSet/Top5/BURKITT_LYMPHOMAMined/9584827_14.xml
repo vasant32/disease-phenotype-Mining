@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>In vitro studies of human NK cell-mediated cytotoxicity and ADCC against porcine target cells were performed </plain></SENT>
+<SENT sid="1" pm="."><plain>Stimulation of human PBMC responder cells with either allogeneic or xenogeneic porcine cells led to a marked increase in NK cell reactivity </plain></SENT>
+<SENT sid="2" pm="."><plain>Maximum reactivity was reached following 3-6 days of in vitro culture </plain></SENT>
+<SENT sid="3" pm="."><plain>The sensitivity of target cells ranked as follows: K562 &gt; porcine PHA-induced lymphoblasts &gt; resting porcine PBMC </plain></SENT>
+<SENT sid="4" pm="."><plain>Limiting dilution analysis showed that allo- and xeno-stimulation in vitro led to differentiation of similar frequencies of effector NK cells </plain></SENT>
+<SENT sid="5" pm="."><plain>Split culture experiments showed that single NK effector cells were cytotoxic against both K562 and porcine lymphoblasts, demonstrating that individual NK cells lack species specificity </plain></SENT>
+<SENT sid="6" pm="."><plain>NK effector cell generation stimulated by xenogeneic cells was <z:chebi fb="0" ids="4031">cyclosporin A</z:chebi> (CsA) sensitive and dependent on the presence of autologous responder T lymphocytes, a dependence that was completely reconstituted by the sole addition of human IL-2 </plain></SENT>
+<SENT sid="7" pm="."><plain>Xenostimulation of enriched CD3+ cells also led to a preferential appearance of CD16+ or CD56+ lymphoblasts </plain></SENT>
+<SENT sid="8" pm="."><plain>Natural xenoreactive human anti-porcine antibodies are mainly of IgM and IgG2 subclasses, but antibodies in xenoimmunised patients reactive against porcine lymphocytes and fetal porcine islet cells were also of IgG1 and IgG3 subclasses </plain></SENT>
+<SENT sid="9" pm="."><plain>The same subclass distribution was found among antibodies specific for <z:chebi fb="125" ids="28260">gal</z:chebi>(alpha)1,3 gal <z:chebi fb="0" ids="53000">epitopes</z:chebi> as shown by tests performed with alpha1,3 galactosyltransferase-transfected Raji cells (human Burkitt <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cells) </plain></SENT>
+<SENT sid="10" pm="."><plain>Natural antibodies did not mediate ADCC, whereas <z:chebi fb="125" ids="28260">gal</z:chebi>(alpha)1,3 gal-specific antibodies in sera from xenoimmunised patients did </plain></SENT>
+<SENT sid="11" pm="."><plain>Fetal porcine islet cells were sensitive to human NK cell-mediated cytotoxicity and to ADCC mediated by xenoimmune sera </plain></SENT>
+</text></document>

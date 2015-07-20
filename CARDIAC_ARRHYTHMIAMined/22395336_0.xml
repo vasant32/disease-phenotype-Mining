@@ -1,0 +1,29 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0005110'>Atrial fibrillation</z:hpo> (AF) is the most common <z:hpo ids='HP_0011675'>cardiac arrhythmia</z:hpo>, affecting an estimated 6 million people in the United States (1) </plain></SENT>
+<SENT sid="1" pm="."><plain>Since AF affects primarily elderly people, its prevalence increases parallel with age </plain></SENT>
+<SENT sid="2" pm="."><plain>As such, it is expected that 15.9 million Americans will be affected by the year 2050 (2) </plain></SENT>
+<SENT sid="3" pm="."><plain><z:hpo ids='HP_0002140'>Ischemic stroke</z:hpo> occurs in 5% of non-anticoagulated AF patients each year </plain></SENT>
+<SENT sid="4" pm="."><plain>Current treatments for AF include rate control, rhythm control and prevention of <z:hpo ids='HP_0001297'>stroke</z:hpo> (3) </plain></SENT>
+<SENT sid="5" pm="."><plain>The American College of Cardiology, American Heart Association, and European Society of Cardiology currently recommended rate control as the first course of therapy for AF (3) </plain></SENT>
+<SENT sid="6" pm="."><plain>Rate control is achieved by administration of pharmacological agents, such as β-blockers, that lower the heart rate until it reaches a less symptomatic state (3) </plain></SENT>
+<SENT sid="7" pm="."><plain>Rhythm control aims to return the heart to its <z:mpath ids='MPATH_458'>normal</z:mpath> sinus rhythm and is typically achieved through administration of antiarrhythmic drugs such as <z:chebi fb="0" ids="2663">amiodarone</z:chebi>, electrical cardioversion or ablation therapy </plain></SENT>
+<SENT sid="8" pm="."><plain>Rhythm control methods, however, have not been demonstrated to be superior to rate-control methods (4-6) </plain></SENT>
+<SENT sid="9" pm="."><plain>In fact, certain antiarrhythmic drugs have been shown to be associated with higher hospitalization rates, serious adverse effects (3), or even increases in mortality in patients with structural heart defects (7) </plain></SENT>
+<SENT sid="10" pm="."><plain>Thus, treatment with antiarrhythmics is more often used when rate-control drugs are ineffective or contraindicated </plain></SENT>
+<SENT sid="11" pm="."><plain>Rate-control and antiarrhythmic agents relieve the symptoms of AF, including <z:hpo ids='HP_0001962'>palpitations</z:hpo>, <z:mp ids='MP_0001954'>shortness of breath</z:mp>, and <z:mp ids='MP_0002899'>fatigue</z:mp> (8), but don't reliably prevent <z:hpo ids='HP_0001907'>thromboembolic events</z:hpo> (6) </plain></SENT>
+<SENT sid="12" pm="."><plain>Treatment with the <z:chebi fb="3" ids="50249">anticoagulant</z:chebi> drug <z:chebi fb="8" ids="10033">warfarin</z:chebi> significantly reduces the rate of <z:hpo ids='HP_0001297'>stroke</z:hpo> or embolism (9,10) </plain></SENT>
+<SENT sid="13" pm="."><plain>However, because of problems associated with its use, fewer than 50% of patients are treated with it </plain></SENT>
+<SENT sid="14" pm="."><plain>The therapeutic dose is affected by drug, dietary, and metabolic interactions, and thus requires detailed monitoring </plain></SENT>
+<SENT sid="15" pm="."><plain>In addition, <z:chebi fb="8" ids="10033">warfarin</z:chebi> has the potential to cause severe, sometimes lethal, <z:mp ids='MP_0001914'>bleeding</z:mp> (2) </plain></SENT>
+<SENT sid="16" pm="."><plain>As an alternative, aspirin is commonly prescribed </plain></SENT>
+<SENT sid="17" pm="."><plain>While aspirin is typically well tolerated, it is far less effective at preventing <z:hpo ids='HP_0001297'>stroke</z:hpo> (10) </plain></SENT>
+<SENT sid="18" pm="."><plain>Other alternatives to <z:chebi fb="8" ids="10033">warfarin</z:chebi>, such as dabigatran (11) or rivaroxaban (12) demonstrate non-inferiority to <z:chebi fb="8" ids="10033">warfarin</z:chebi> with respect to <z:hpo ids='HP_0001907'>thromboembolic events</z:hpo> (in fact, dabigatran given as a high dose of 150 mg twice a day has shown superiority) </plain></SENT>
+<SENT sid="19" pm="."><plain>While these drugs have the advantage of eliminating dietary concerns and eliminating the need for regular blood monitoring, major <z:mp ids='MP_0001914'>bleeding</z:mp> and associated complications, while somewhat less so than with <z:chebi fb="8" ids="10033">warfarin</z:chebi>, remain an issue (13-15) </plain></SENT>
+<SENT sid="20" pm="."><plain>Since 90% of AF-associated <z:hpo ids='HP_0001297'>strokes</z:hpo> result from emboli that arise from the left atrial appendage (LAA) (2), one alternative approach to <z:chebi fb="8" ids="10033">warfarin</z:chebi> therapy has been to exclude the LAA using an implanted device to trap blood clots before they exit </plain></SENT>
+<SENT sid="21" pm="."><plain>Here, we demonstrate a procedure for implanting the WATCHMAN Left Atrial Appendage Closure Device </plain></SENT>
+<SENT sid="22" pm="."><plain>A transseptal cannula is inserted through the femoral vein, and under fluoroscopic guidance, inter-atrial septum is crossed </plain></SENT>
+<SENT sid="23" pm="."><plain>Once access to the left atrium has been achieved, a guidewire is placed in the upper pulmonary vein and the WATCHMAN Access Sheath and dilator are advanced over the wire into the left atrium </plain></SENT>
+<SENT sid="24" pm="."><plain>The guidewire is removed, and the access sheath is carefully advanced into the distal portion of the LAA over a pigtail catheter </plain></SENT>
+<SENT sid="25" pm="."><plain>The WATCHMAN Delivery System is prepped, inserted into the access sheath, and slowly advanced </plain></SENT>
+<SENT sid="26" pm="."><plain>The WATCHMAN device is then deployed into the LAA </plain></SENT>
+<SENT sid="27" pm="."><plain>The device release criteria are confirmed via fluoroscopy and transesophageal echocardiography (TEE) and the device is released </plain></SENT>
+</text></document>

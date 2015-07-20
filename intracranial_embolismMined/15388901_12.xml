@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND PURPOSE: Embolic events are a major cause for procedure-related <z:hpo ids='HP_0001297'>strokes</z:hpo> after carotid endarterectomy (CEA) </plain></SENT>
+<SENT sid="1" pm="."><plain>Transcranial Doppler sonography can reveal embolic events as microembolic signals (<z:chebi fb="28" ids="39005,39010">MES</z:chebi>) during CEA </plain></SENT>
+<SENT sid="2" pm="."><plain><z:chebi fb="28" ids="39005,39010">MES</z:chebi> during declamping and shunting are frequently detected </plain></SENT>
+<SENT sid="3" pm="."><plain><z:chebi fb="28" ids="39005,39010">MES</z:chebi> during shunting are rare and known to be correlated with the neurological outcome of the patient </plain></SENT>
+<SENT sid="4" pm="."><plain>In the present study, we analyzed the occurrence of <z:chebi fb="28" ids="39005,39010">MES</z:chebi> within different stages of CEA and whether <z:chebi fb="28" ids="39005,39010">MES</z:chebi> within those stages were correlated with <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo>, as detected by diffusion-weighted imaging (DWI), and <z:e sem="disease" ids="C0751955" disease_type="Disease or Syndrome" abbrv="">brain infarction</z:e>, as detected by contrast-enhanced MRI </plain></SENT>
+<SENT sid="5" pm="."><plain>METHODS: Thirty-three patients were monitored intraoperatively for <z:chebi fb="28" ids="39005,39010">MES</z:chebi> using transcranial Doppler sonography </plain></SENT>
+<SENT sid="6" pm="."><plain>DWI was performed within 24 hours before and after surgery </plain></SENT>
+<SENT sid="7" pm="."><plain>Positive postoperative DWI led to reexamination with contrast-enhanced T1-MRI 7 to 10 days after CEA for detection of <z:e sem="disease" ids="C0007785" disease_type="Disease or Syndrome" abbrv="">cerebral infarction</z:e> </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: <z:chebi fb="28" ids="39005,39010">MES</z:chebi> were detected in 32 of 33 patients </plain></SENT>
+<SENT sid="9" pm="."><plain>The highest number of <z:chebi fb="28" ids="39005,39010">MES</z:chebi> was found during shunting and declamping </plain></SENT>
+<SENT sid="10" pm="."><plain>A significant correlation was found between <z:chebi fb="28" ids="39005,39010">MES</z:chebi> and DWI-lesions during dissection </plain></SENT>
+<SENT sid="11" pm="."><plain>A significant correlation was found between <z:chebi fb="28" ids="39005,39010">MES</z:chebi> during dissection and shunting, and nonsignificant correlation was found between <z:chebi fb="28" ids="39005,39010">MES</z:chebi> and the occurrence of <z:e sem="disease" ids="C0007785" disease_type="Disease or Syndrome" abbrv="">cerebral infarction</z:e> </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: <z:chebi fb="28" ids="39005,39010">MES</z:chebi> could be regularly detected during CEA </plain></SENT>
+<SENT sid="13" pm="."><plain>Dissection and shunting seem to be the most vulnerable stages of the procedure </plain></SENT>
+</text></document>

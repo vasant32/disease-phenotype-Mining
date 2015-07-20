@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: To investigate the combination of S-1 and irinotecan (<z:chebi fb="9" ids="27656">CPT</z:chebi>-11) as an alternative to infusional <z:chebi fb="0" ids="46345">5-fluorouracil</z:chebi>/leucovorin plus <z:chebi fb="9" ids="27656">CPT</z:chebi>-11, we performed a phase I trial to determine the maximum tolerated dose, recommended dose (RD), and dose-limiting toxicities (DLTs) in patients with metastatic or <z:e sem="disease" ids="C0854750" disease_type="Neoplastic Process" abbrv="">recurrent colorectal cancer</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>PATIENTS AND METHODS: S-1 and <z:chebi fb="9" ids="27656">CPT</z:chebi>-11 doses were escalated using a standard 3 + 3 design </plain></SENT>
+<SENT sid="2" pm="."><plain>S-1 was administered orally at 70 mg/m(2) (levels 1-3) or 80 mg/m(2) (levels 4 and 5) for 14 consecutive days followed by 1-week rest </plain></SENT>
+<SENT sid="3" pm="."><plain><z:chebi fb="9" ids="27656">CPT</z:chebi>-11 was administered intravenously on day 1, at 175 mg/m(2) (level 1), 200 mg/m(2) (level 2), 225 mg/m(2) (levels 3 and 4), or 250 mg/m(2) (level 5) </plain></SENT>
+<SENT sid="4" pm="."><plain>Treatment was repeated every 3 weeks, unless disease progression or severe toxicities were observed </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: Twenty-three patients were treated </plain></SENT>
+<SENT sid="6" pm="."><plain>One patient at each of levels 2 and 4 developed a DLT, grade 3 <z:hpo ids='HP_0002595'>ileus</z:hpo>, and grade 3 <z:hpo ids='HP_0002014'>diarrhea</z:hpo>, respectively </plain></SENT>
+<SENT sid="7" pm="."><plain>At both levels, an additional three patients did not experience DLTs </plain></SENT>
+<SENT sid="8" pm="."><plain>At level 5, two of five patients experienced DLTs, including grade 3 enteritis and grade 4 <z:hpo ids='HP_0001875'>neutropenia</z:hpo> for more than 5 days </plain></SENT>
+<SENT sid="9" pm="."><plain>The RD was determined at level 4 (80 mg/m(2) S-1 and 225 mg/m(2) <z:chebi fb="9" ids="27656">CPT</z:chebi>-11) </plain></SENT>
+<SENT sid="10" pm="."><plain>An objective response was observed in 7 of 17 patients with <z:e sem="disease" ids="C1513041" disease_type="Disease or Syndrome" abbrv="">measurable disease</z:e>: 2 of 5 at level 2; 3 of 4 at level 4; and 2 of 4 at level 5 </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: The RDs of <z:chebi fb="9" ids="27656">CPT</z:chebi>-11 and S-1 were determined as 225 and 80 mg/m(2), respectively, and further phase II trials are warranted </plain></SENT>
+</text></document>

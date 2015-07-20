@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: The Ribosomal protein S19 gene locus (RPS19) has been linked to two kinds of red cell <z:mpath ids='MPATH_58'>aplasia</z:mpath>, Diamond-Blackfan <z:hpo ids='HP_0001903'>Anemia</z:hpo> (<z:chebi fb="28" ids="35299">DBA</z:chebi>) and <z:hpo ids='HP_0005510'>Transient Erythroblastopenia</z:hpo> in Childhood (TEC) </plain></SENT>
+<SENT sid="1" pm="."><plain>Mutations in RPS19 coding sequences have been found in 25% of <z:chebi fb="28" ids="35299">DBA</z:chebi> patients, but not in TEC patients </plain></SENT>
+<SENT sid="2" pm="."><plain>It has been suggested that non-coding RPS19 sequence variants contribute to the considerable clinical variability in red cell <z:mpath ids='MPATH_58'>aplasia</z:mpath> </plain></SENT>
+<SENT sid="3" pm="."><plain>We therefore aimed at identifying non-coding variations associated with <z:chebi fb="28" ids="35299">DBA</z:chebi> or TEC phenotypes </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODOLOGY/PRINCIPAL FINDINGS: We targeted a region of 19'980 bp encompassing the RPS19 gene in a cohort of 89 DBA and TEC patients for resequencing </plain></SENT>
+<SENT sid="5" pm="."><plain>We provide here a catalog of the considerable, previously unrecognized degree of variation in this region </plain></SENT>
+<SENT sid="6" pm="."><plain>We identified 73 variations (65 SNPs, 8 indels) that <z:hpo ids='HP_0000001'>all</z:hpo> are located outside of the RPS19 open reading frame, and of which 67.1% are classified as novel </plain></SENT>
+<SENT sid="7" pm="."><plain>We hypothesize that specific alleles in non-coding regions of RPS19 could alter the binding of regulatory proteins or transcription factors </plain></SENT>
+<SENT sid="8" pm="."><plain>Therefore, we carried out an extensive analysis to identify transcription factor binding sites (TFBS) </plain></SENT>
+<SENT sid="9" pm="."><plain>A series of putative interaction sites coincide with detected variants </plain></SENT>
+<SENT sid="10" pm="."><plain>Sixteen of the corresponding transcription factors are of particular interest, as they are housekeeping genes or show a direct link to hematopoiesis, <z:mp ids='MP_0002006'>tumorigenesis</z:mp> or <z:hpo ids='HP_0001909'>leukemia</z:hpo> (e.g. GATA-1/2, PU.1, MZF-1) </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: Specific alleles at predicted TFBSs may alter the expression of RPS19, modify an important interaction between transcription factors with overlapping TFBS or remove an important stimulus for hematopoiesis </plain></SENT>
+<SENT sid="12" pm="."><plain>We suggest that the detected interactions are of importance for hematopoiesis and could provide new insights into individual response to treatment </plain></SENT>
+</text></document>

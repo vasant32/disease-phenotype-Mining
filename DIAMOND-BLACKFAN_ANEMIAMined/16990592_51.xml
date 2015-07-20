@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Diamond-Blackfan <z:hpo ids='HP_0001903'>anemia</z:hpo> (<z:chebi fb="28" ids="35299">DBA</z:chebi>) typically presents with red blood cell <z:mpath ids='MPATH_58'>aplasia</z:mpath> that usually manifests in the first year of life </plain></SENT>
+<SENT sid="1" pm="."><plain>The only gene currently known to be mutated in <z:chebi fb="28" ids="35299">DBA</z:chebi> encodes ribosomal protein S19 (RPS19) </plain></SENT>
+<SENT sid="2" pm="."><plain>Previous studies have shown that the yeast RPS19 protein is required for a specific step in the maturation of 40S ribosomal subunits </plain></SENT>
+<SENT sid="3" pm="."><plain>Our objective here was to determine whether the human RPS19 protein functions at a similar step in 40S subunit maturation </plain></SENT>
+<SENT sid="4" pm="."><plain>Studies where RPS19 expression is reduced by siRNA in the hematopoietic cell line, TF-1, show that human RPS19 is also required for a specific step in the maturation of 40S ribosomal subunits </plain></SENT>
+<SENT sid="5" pm="."><plain>This maturation defect can be monitored by studying rRNA-processing intermediates along the ribosome synthesis pathway </plain></SENT>
+<SENT sid="6" pm="."><plain>Analysis of these intermediates in CD34- cells from the bone marrow of patients with <z:chebi fb="28" ids="35299">DBA</z:chebi> harboring mutations in RPS19 revealed a pre-rRNA-processing defect similar to that observed in TF-1 cells where RPS19 expression was reduced </plain></SENT>
+<SENT sid="7" pm="."><plain>This defect was observed to a lesser extent in CD34+ cells from patients with <z:chebi fb="28" ids="35299">DBA</z:chebi> who have mutations in RPS19 </plain></SENT>
+</text></document>

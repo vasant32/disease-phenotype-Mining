@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:chebi fb="3" ids="49957">Xenon</z:chebi> preconditioning induces tolerance to the consequences of an injurious stimulus such as <z:e sem="disease" ids="C0917798" disease_type="Disease or Syndrome" abbrv="">cerebral ischaemia</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>There have been surprisingly few studies investigating gender difference in the efficacy of pharmacological preconditioning, despite the known ability of <z:chebi fb="0" ids="23965">oestradiol</z:chebi> to exert neuroprotectant activity </plain></SENT>
+<SENT sid="2" pm="."><plain>We explored this paradigm using a mouse model of transient middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> </plain></SENT>
+<SENT sid="3" pm="."><plain>C57BL/6 mice both male and female received either 2 h of 70% <z:chebi fb="3" ids="49957">xenon</z:chebi> (preconditioning) or 70% nitrogen (control) balanced with oxygen </plain></SENT>
+<SENT sid="4" pm="."><plain>Twenty-four hours later animals underwent 1 h of middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> and then allowed to recover </plain></SENT>
+<SENT sid="5" pm="."><plain>After a further 24 h, functional neurological outcome and cerebral <z:mpath ids='MPATH_124'>infarct</z:mpath> size were evaluated </plain></SENT>
+<SENT sid="6" pm="."><plain>Western blotting was used to detect activity of signalling pathways involving <z:mp ids='MP_0005039'>hypoxia</z:mp>-inducible factor (HIF)-1alpha and phospho-Akt for the preconditioning effect </plain></SENT>
+<SENT sid="7" pm="."><plain>Both <z:chebi fb="3" ids="49957">xenon</z:chebi> preconditioned male and females showed improved functional outcome on focal deficit scales (P&lt;0.05) </plain></SENT>
+<SENT sid="8" pm="."><plain>Cerebral <z:mpath ids='MPATH_124'>infarct</z:mpath> volumes were significantly reduced in both <z:chebi fb="3" ids="49957">xenon</z:chebi> treated male and females (P&lt;0.01) </plain></SENT>
+<SENT sid="9" pm="."><plain>There was no significant difference between the male and female cohorts </plain></SENT>
+<SENT sid="10" pm="."><plain>HIF-1alpha and phospho-Akt were quantitatively upregulated in both sexes </plain></SENT>
+<SENT sid="11" pm="."><plain>Our data suggested that <z:chebi fb="3" ids="49957">xenon</z:chebi> preconditioning improved histological and neurological functional outcome in both gender in a <z:hpo ids='HP_0001297'>stroke</z:hpo> model of mice </plain></SENT>
+</text></document>

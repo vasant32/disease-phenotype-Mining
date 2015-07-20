@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVES: Octogenarians and even patients over 70 years old have unexplained poor outcomes with carotid angioplasty and stenting (CAS) </plain></SENT>
+<SENT sid="1" pm="."><plain>We sought to evaluate whether older patients may have compromised intracranial collaterals and cerebral reserve and be intolerant to otherwise clinically silent emboli generated during CAS </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: One thousand twenty-four cerebral blood flow (CBF) studies performed between 1991 and 2001 with stable <z:chebi fb="3" ids="49957">xenon</z:chebi> computed tomography scans (Xe/CT) were reviewed </plain></SENT>
+<SENT sid="3" pm="."><plain>CBF was measured before and after 1 gm intravenous <z:chebi fb="0" ids="27690">acetazolamide</z:chebi> (ACZ), a cerebral <z:chebi fb="1" ids="35620">vasodilator</z:chebi> </plain></SENT>
+<SENT sid="4" pm="."><plain>The <z:mpath ids='MPATH_458'>normal</z:mpath> response to ACZ is an increase in CBF </plain></SENT>
+<SENT sid="5" pm="."><plain>In areas of significant compromise of cerebral reserve (CR), CBF drops, representing a "steal" phenomenon </plain></SENT>
+<SENT sid="6" pm="."><plain>CBF changes were categorized as <z:mpath ids='MPATH_458'>normal</z:mpath> or abnormal and correlated with age, gender, cerebral symptoms, and with intracranial, carotid, or vertebral artery disease </plain></SENT>
+<SENT sid="7" pm="."><plain>Logistic regression was used to determine the effect of age on CR in the entire group and a subgroup of 179 patients with significant <z:hpo ids='HP_0100546'>carotid stenosis</z:hpo> of &gt;50% </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: Nine hundred sixteen studies were suitable for analysis </plain></SENT>
+<SENT sid="9" pm="."><plain>Carotid occlusion was predictive of decreased reserve (OR, 3.9; P = .03) regardless of age </plain></SENT>
+<SENT sid="10" pm="."><plain>There was also a trend toward lower reserve with severe <z:hpo ids='HP_0100546'>carotid stenosis</z:hpo> &gt;70% (OR, 3) and in women (OR, 1.8; P = .08) </plain></SENT>
+<SENT sid="11" pm="."><plain>Age &gt;or=70 had no effect on reserve in the overall <z:hpo ids='HP_0001425'>heterogeneous</z:hpo> population with and without <z:e sem="disease" ids="C0741975" disease_type="Disease or Syndrome" abbrv="">carotid disease</z:e> and neither did a history of <z:hpo ids='HP_0001297'>stroke</z:hpo>, carotid, or intracranial stenosis </plain></SENT>
+<SENT sid="12" pm="."><plain>However, in 179 patients with significant <z:hpo ids='HP_0100546'>carotid stenosis</z:hpo>, age &gt;or=70 was predictive of poor reserve (OR, 2.7; P = .03) and so was the presence of <z:hpo ids='HP_0004950'>peripheral vascular disease</z:hpo> (OR, 3.7; P = .03) </plain></SENT>
+<SENT sid="13" pm="."><plain>A trend toward decreased reserve was also seen in women (OR, 2.3; P = .08) </plain></SENT>
+<SENT sid="14" pm="."><plain>CONCLUSIONS: Age &gt;or=70 is associated with poor cerebral reserve in patients with significant <z:hpo ids='HP_0100546'>carotid stenosis</z:hpo> as measured by CBF response to an ACZ challenge </plain></SENT>
+<SENT sid="15" pm="."><plain>Thus, patients &gt;or=70 may be more sensitive to minor <z:e sem="disease" ids="C0007780" disease_type="Disease or Syndrome" abbrv="">cerebral emboli</z:e>, which may be one factor explaining their higher risk of <z:hpo ids='HP_0001297'>stroke</z:hpo> during CAS </plain></SENT>
+</text></document>

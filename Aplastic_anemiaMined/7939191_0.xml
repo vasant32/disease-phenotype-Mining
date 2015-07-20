@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0004836'>Acute promyelocytic leukemia</z:hpo> is a <z:e sem="disease" ids="C0678236" disease_type="Disease or Syndrome" abbrv="">rare disease</z:e> combining a specific cell type, a <z:hpo ids='HP_0001892'>bleeding diathesis</z:hpo> and a translocation t(15;17) </plain></SENT>
+<SENT sid="1" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> trans <z:chebi fb="2" ids="26536">retinoic acid</z:chebi> is able to induce a maturation of malignant cells, up to terminal differentiation </plain></SENT>
+<SENT sid="2" pm="."><plain>After 2 months of treatment a complete remission is obtained without any <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>The <z:hpo ids='HP_0001892'>bleeding diathesis</z:hpo> rapidly disappears </plain></SENT>
+<SENT sid="4" pm="."><plain>However relapses occur within few months due to the catabolism of <z:chebi fb="2" ids="26536">retinoic acid</z:chebi> induced by the treatment itself </plain></SENT>
+<SENT sid="5" pm="."><plain>A chemotherapy is generally proposed, in order to consolidate the complete remission </plain></SENT>
+<SENT sid="6" pm="."><plain>The combination of <z:chebi fb="2" ids="26536">retinoic acid</z:chebi> and chemotherapy has dramatically increased the probability of long term survival </plain></SENT>
+<SENT sid="7" pm="."><plain>The breakpoint of the translocation t(15;17) is located inside the <z:chebi fb="2" ids="26536">retinoic acid</z:chebi> receptor gene on chromosome 17 </plain></SENT>
+<SENT sid="8" pm="."><plain>A new product is made, due to the fusion of the truncated <z:chebi fb="2" ids="26536">retinoic acid</z:chebi> receptor and a gene on chromosome 15 </plain></SENT>
+<SENT sid="9" pm="."><plain>The hybrid product blocks the program normally performed by the <z:chebi fb="2" ids="26536">retinoic acid</z:chebi> receptor and consequently blocks the maturation of the granulocytes </plain></SENT>
+<SENT sid="10" pm="."><plain>Why pharmacological doses restore the impaired program is still an enigma </plain></SENT>
+</text></document>

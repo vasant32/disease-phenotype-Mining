@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Digoxin, an inhibitor of <z:chebi fb="1" ids="29101">Na+</z:chebi>/K+ ATPase, has been used in the treatment of heart-related diseases (such as <z:hpo ids='HP_0001635'>congestive heart failure</z:hpo> and atrial <z:hpo ids='HP_0011675'>arrhythmia</z:hpo>) for decades </plain></SENT>
+<SENT sid="1" pm="."><plain>Recently, it was reported that digoxin is also an effective HIF-1α inhibitor </plain></SENT>
+<SENT sid="2" pm="."><plain>We investigated whether digoxin could suppress <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> cell growth through HIF-1α in <z:e sem="disease" ids="C0007131" disease_type="Neoplastic Process" abbrv="NSCLC">non-small cell lung cancer</z:e> cells (A549 cells) under hypoxic conditions </plain></SENT>
+<SENT sid="3" pm="."><plain>An <z:chebi fb="0" ids="53233">MTT</z:chebi> assay was used to measure cell viability </plain></SENT>
+<SENT sid="4" pm="."><plain>RT-PCR and western blotting were performed to analyze the <z:chebi fb="2" ids="33699">mRNA</z:chebi> and protein expression of VEGF, NDRG1, and HIF-1α </plain></SENT>
+<SENT sid="5" pm="."><plain>HIF-1α nuclear translocation was then determined by EMSA </plain></SENT>
+<SENT sid="6" pm="."><plain>Digoxin was found to inhibit the proliferation of A549 cells under hypoxic conditions </plain></SENT>
+<SENT sid="7" pm="."><plain>Our results showed that <z:mp ids='MP_0005039'>hypoxia</z:mp> led to the upregulation of VEGF, NDRG1, and HIF-1α both at the <z:chebi fb="2" ids="33699">mRNA</z:chebi> and protein levels </plain></SENT>
+<SENT sid="8" pm="."><plain>We also found that the <z:mp ids='MP_0005039'>hypoxia</z:mp>-induced overexpression of VEGF, NDRG1, and HIF-1α was suppressed by digoxin in a concentration-dependent manner </plain></SENT>
+<SENT sid="9" pm="."><plain>As expected, our EMSA results demonstrated that under hypoxic conditions HIF-1α nuclear translocation was also markedly reduced by digoxin in a concentration-dependent manner </plain></SENT>
+<SENT sid="10" pm="."><plain>Our results suggest that digoxin downregulated <z:mp ids='MP_0005039'>hypoxia</z:mp>-induced overexpression of VEGF and NDRG1 at the transcriptional level probably through the inhibition of HIF-1α synthesis in A549 cells </plain></SENT>
+</text></document>

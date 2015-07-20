@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: This study demonstrates images obtained by (90)Y bremsstrahlung emission computed tomography (BECT), and characterizes the system performance of gamma cameras </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: (90)Y BECT images of phantoms were acquired using a gamma camera equipped with a medium energy general purpose parallel-hole collimator </plain></SENT>
+<SENT sid="2" pm="."><plain>Three energy window widths of 50% (57-94 keV) centered at 75 keV, 30% (102-138 keV) at 120 keV, and 50% (139-232 keV) at 185 keV were set on a (90)Y bremsstrahlung spectrum </plain></SENT>
+<SENT sid="3" pm="."><plain>The images obtained with three energy windows were reconstructed using filtered back projection (FBP) and ordered subsets expectation maximization (OSEM) methods </plain></SENT>
+<SENT sid="4" pm="."><plain>The images of the sum window were obtained by fusing the images of the 75, 120, and 185 keV windows </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: The OSEM method improved the full width at half maximum by 20% and the standard deviation by 9% compared with the FBP method </plain></SENT>
+<SENT sid="6" pm="."><plain>BECT displayed (90)Y biodistribution and quantified (90)Y activity </plain></SENT>
+<SENT sid="7" pm="."><plain>BECT images obtained with OSEM method using the 120 keV window showed the highest resolution and lowest uncertainty </plain></SENT>
+<SENT sid="8" pm="."><plain>The sum window showed the highest sensitivity, while its resolution was 10% inferior to that of the 120 keV window </plain></SENT>
+<SENT sid="9" pm="."><plain>One whole-body image can be taken over 100 min using the sum window </plain></SENT>
+<SENT sid="10" pm="."><plain>An absorber to cover the body surface reduced background by 30% </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: (90)Y BECT imaging can be used for patient assessment without modifying current treatment procedures </plain></SENT>
+</text></document>

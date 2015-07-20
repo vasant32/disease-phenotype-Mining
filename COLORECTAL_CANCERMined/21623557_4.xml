@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">Colorectal cancer</z:e> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e>) is a major cause of morbidity and mortality in France </plain></SENT>
+<SENT sid="1" pm="."><plain>Only scanty data on cost-effectiveness of <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e> screening in Europe are available, generating uncertainty over its efficiency </plain></SENT>
+<SENT sid="2" pm="."><plain>Although immunochemical fecal tests (FIT) and guaiac-based fecal occult blood tests (g-FOBT) have been shown to be cost-effective in France, cost-effectiveness of endoscopic screening has not yet been addressed </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: Cost-effectiveness of screening strategies using colonoscopy, flexible sigmoidoscopy, second-generation colon capsule endoscopy (CCE), FIT and g-FOBT were compared using a Markov model </plain></SENT>
+<SENT sid="4" pm="."><plain>A 40 % adherence rate was assumed for <z:hpo ids='HP_0000001'>all</z:hpo> strategies </plain></SENT>
+<SENT sid="5" pm="."><plain>Colonoscopy costs included anesthesiologist assistance </plain></SENT>
+<SENT sid="6" pm="."><plain>Incremental cost-effectiveness ratios (ICERs) were calculated </plain></SENT>
+<SENT sid="7" pm="."><plain>Probabilistic and value-of-information analyses were used to estimate the expected benefit of future research </plain></SENT>
+<SENT sid="8" pm="."><plain>A third-payer perspective was adopted </plain></SENT>
+<SENT sid="9" pm="."><plain>RESULTS: In the reference case analysis, FIT repeated every year was the most cost-effective strategy, with an ICER of €48165 per life-year gained vs. FIT every 2 years, which was the next most cost-effective strategy </plain></SENT>
+<SENT sid="10" pm="."><plain>Although CCE every 5 years was as effective as FIT 1-year, it was not a cost-effective alternative </plain></SENT>
+<SENT sid="11" pm="."><plain>Colonoscopy repeated every 10 years was substantially more costly, and slightly less effective than FIT 1-year </plain></SENT>
+<SENT sid="12" pm="."><plain>When projecting the model outputs onto the French population, the least (g-FOBT 2-years) and most (FIT 1-year) effective strategies reduced the absolute number of annual <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e> <z:hpo ids='HP_0011420'>deaths</z:hpo> from 16037 to 12916 and 11217, respectively, resulting in an annual additional cost of €26 million and €347 million, respectively </plain></SENT>
+<SENT sid="13" pm="."><plain>Probabilistic sensitivity analysis demonstrated that FIT 1-year was the optimal choice in 20% of the simulated scenarios, whereas sigmoidoscopy 5-years, colonoscopy, and FIT 2-years were the optimal choices in 40%, 26%, and 14%, respectively </plain></SENT>
+<SENT sid="14" pm="."><plain>CONCLUSIONS: A screening program based on FIT 1-year appeared to be the most cost-effective approach for <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e> screening in France </plain></SENT>
+<SENT sid="15" pm="."><plain>However, a substantial uncertainty over this choice is still present </plain></SENT>
+</text></document>

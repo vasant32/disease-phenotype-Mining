@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Ilmofosine, an <z:chebi fb="91" ids="25698">ether</z:chebi> <z:chebi fb="23" ids="18059">lipid</z:chebi> derivative of <z:chebi fb="0" ids="11230">lysophosphatidylcholine</z:chebi> has <z:chebi fb="0" ids="35610">antineoplastic</z:chebi> activity in vitro and in vivo </plain></SENT>
+<SENT sid="1" pm="."><plain>Maximum efficacy in preclinical models is associated with prolonged exposure to the drug </plain></SENT>
+<SENT sid="2" pm="."><plain>In a Phase I trial of a weekly 2 hour infusion schedule of ilmofosine, a syndrome of <z:hpo ids='HP_0001254'>lethargy</z:hpo>, diminished performance status, and mild <z:e sem="disease" ids="C0235378,C0348754" disease_type="Disease or Syndrome;Injury or Poisoning" abbrv="">hepatotoxicity</z:e> was dose-limiting at 550 mg/m2 </plain></SENT>
+<SENT sid="3" pm="."><plain>To avoid the higher drug concentrations associated with a brief infusion, a Phase I study of a weekly 24 hour infusional schedule was undertaken in an attempt to maximize dose-intensity </plain></SENT>
+<SENT sid="4" pm="."><plain>Doses were escalated from 550 to 800 mg/m2 </plain></SENT>
+<SENT sid="5" pm="."><plain>Toxicities included <z:hpo ids='HP_0002018'>nausea</z:hpo>, <z:hpo ids='HP_0002039'>anorexia</z:hpo>, <z:mp ids='MP_0002899'>fatigue</z:mp>, and minor elevations of liver function tests </plain></SENT>
+<SENT sid="6" pm="."><plain>The dose limiting toxicity at 800 mg/m2 was a syndrome of severe <z:hpo ids='HP_0002027'>abdominal pain</z:hpo> </plain></SENT>
+<SENT sid="7" pm="."><plain>No <z:hpo ids='HP_0001875'>neutropenia</z:hpo> or <z:hpo ids='HP_0001873'>thrombocytopenia</z:hpo> was observed except in one patient who was found to have a <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo>, thought not to be related to drug therapy </plain></SENT>
+<SENT sid="8" pm="."><plain>The more prolonged infusion schedule of ilmofosine did not result in a substantial increase in the tolerable dose </plain></SENT>
+</text></document>

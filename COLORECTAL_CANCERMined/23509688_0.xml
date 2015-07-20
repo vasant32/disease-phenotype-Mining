@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Purpose </plain></SENT>
+<SENT sid="1" pm="."><plain>DLC-1 is a <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> suppressor gene frequently silenced in human <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancers</z:e> </plain></SENT>
+<SENT sid="2" pm="."><plain>However, the pathogenicity of DLC-1 epigenetic silencing in the mucosa-<z:mpath ids='MPATH_270'>adenoma</z:mpath>-<z:mp ids='MP_0002038'>carcinoma</z:mp> transformation process of <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e>) has not been studied </plain></SENT>
+<SENT sid="3" pm="."><plain>Methods </plain></SENT>
+<SENT sid="4" pm="."><plain>Promoter methylation status of DLC-1 was evaluated in 4 human <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e> cell lines, 48 <z:mpath ids='MPATH_458'>normal</z:mpath> mucosa, 57 <z:mpath ids='MPATH_270'>adenomas</z:mpath>, and 80 CRC tissues with methylation-sensitive high-resolution melting analysis (MS-HRMA), while the <z:chebi fb="2" ids="33699">mRNA</z:chebi> expression was examined by qPCR </plain></SENT>
+<SENT sid="5" pm="."><plain>HRMA was utilized to detect the KRAS codon 12, 13 and BRAF V600Emutations </plain></SENT>
+<SENT sid="6" pm="."><plain>Results </plain></SENT>
+<SENT sid="7" pm="."><plain>Partial (1%-10%) and extensive (10%-100%) DLC-1 promoter methylations were observed in 10% and 0% of <z:mpath ids='MPATH_458'>normal</z:mpath> mucosa, 46% and 14% of <z:mpath ids='MPATH_270'>adenomas</z:mpath>, and 60% and 36% of <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRCs</z:e>, respectively </plain></SENT>
+<SENT sid="8" pm="."><plain>The promoter methylation of DLC-1 was related with the reduction of gene expression and the advanced Duke's stages (Stage C and D) </plain></SENT>
+<SENT sid="9" pm="."><plain>DLC-1 promoter methylation and KRAS mutations are common concurrent pathological alternations </plain></SENT>
+<SENT sid="10" pm="."><plain>Conclusions </plain></SENT>
+<SENT sid="11" pm="."><plain>Epigenetic alternation plays a key role in the transcriptional silencing of DLC-1 </plain></SENT>
+<SENT sid="12" pm="."><plain>It is also an independent risk factor related to the <z:e sem="disease" ids="C0596263" disease_type="Neoplastic Process" abbrv="">carcinogenesis</z:e> of <z:e sem="disease" ids="C0009404" disease_type="Neoplastic Process" abbrv="">colorectal tumors</z:e> and spans over its pathogenesis process </plain></SENT>
+<SENT sid="13" pm="."><plain>Therefore, DLC-1 promoter methylation quantitation may have a promising significance in the evaluation and management of <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e> patients </plain></SENT>
+</text></document>

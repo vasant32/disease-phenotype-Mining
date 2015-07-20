@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Thrombolysis (T) is limited by reperfusion-associated injury and the short therapeutic window after <z:hpo ids='HP_0001297'>stroke</z:hpo> <z:hpo ids='HP_0003674'>onset</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>The present study investigates whether <z:hpo ids='HP_0002045'>hypothermia</z:hpo> alone or in combination with thrombolysis has beneficial effects after experimental <z:hpo ids='HP_0001727'>thromboembolic stroke</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>Wistar rats (n = 60) were subjected to thromboembolic occlusion (TE) of the middle cerebral artery (<z:chebi fb="70" ids="34342">MCA</z:chebi>) </plain></SENT>
+<SENT sid="3" pm="."><plain>Thrombolysis (T) was performed with intravenous recombinant tissue-plasminogen activator (rt-PA) 1 h (early T) or 3 h (late T) after TE </plain></SENT>
+<SENT sid="4" pm="."><plain><z:hpo ids='HP_0002045'>Hypothermia</z:hpo> (Hy) was applied for 4 h at 33 degrees C started 1 h after TE </plain></SENT>
+<SENT sid="5" pm="."><plain>Experimental groups included control (C), early thrombolysis (ET), late thrombolysis (LT), <z:hpo ids='HP_0002045'>hypothermia</z:hpo> (Hy), early thrombolysis plus <z:hpo ids='HP_0002045'>hypothermia</z:hpo> (ET+Hy), and late thrombolysis plus <z:hpo ids='HP_0002045'>hypothermia</z:hpo> (LT+Hy) </plain></SENT>
+<SENT sid="6" pm="."><plain>Animals were investigated by MRI and silver <z:mpath ids='MPATH_124'>infarct</z:mpath> staining (SIS) to assess the cerebral <z:mpath ids='MPATH_124'>infarct</z:mpath> size </plain></SENT>
+<SENT sid="7" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> animals of group Hy survived, in contrast to 40% in group C (P &lt; 0.05) </plain></SENT>
+<SENT sid="8" pm="."><plain>ET+HY and LT+Hy showed a trend towards better survival as compared to ET and LT alone </plain></SENT>
+<SENT sid="9" pm="."><plain>PWI parameters were not significantly different between ET versus ET+HY and LT versus LT+Hy, but rt-PA administration led to improved cerebral perfusion in MRI </plain></SENT>
+<SENT sid="10" pm="."><plain>Significant differences in <z:mpath ids='MPATH_124'>infarct</z:mpath> volumes (T2/SIS) were found after 24 h in <z:hpo ids='HP_0000001'>all</z:hpo> treatment groups versus the control group (P &lt; 0.05) </plain></SENT>
+<SENT sid="11" pm="."><plain>The lesion volume calculated from T2 was significantly smaller in ET (16% +/- 5%), ET+Hy (10 +/- 4%), and LT+Hy (20% +/- 9%) after 5.5 h (10.8% +/- 4.8%) versus C (42% +/- 15%), (P &lt; 0.05) </plain></SENT>
+<SENT sid="12" pm="."><plain>These data indicate that <z:hpo ids='HP_0002045'>hypothermia</z:hpo> improves survival and decreases <z:mpath ids='MPATH_124'>infarct</z:mpath> volume </plain></SENT>
+<SENT sid="13" pm="."><plain>However, there were no significant differences between the use of rt-PA alone or in combination with <z:hpo ids='HP_0002045'>hypothermia</z:hpo> </plain></SENT>
+<SENT sid="14" pm="."><plain>Further studies are needed to confirm these effects, also several days after <z:hpo ids='HP_0001297'>stroke</z:hpo> <z:hpo ids='HP_0003674'>onset</z:hpo> </plain></SENT>
+</text></document>

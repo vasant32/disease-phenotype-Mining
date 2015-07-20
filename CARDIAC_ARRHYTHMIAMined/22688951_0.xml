@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PURPOSE: <z:hpo ids='HP_0100598'>Pulmonary edema</z:hpo> (PE) is associated with <z:mpath ids='MPATH_106'>fluid accumulation</z:mpath> in the lungs </plain></SENT>
+<SENT sid="1" pm="."><plain>Device-based impedance measurements have been used to detect <z:e sem="disease" ids="C0546817" disease_type="Disease or Syndrome" abbrv="">fluid overload</z:e> prior to hospitalization </plain></SENT>
+<SENT sid="2" pm="."><plain>However, studies have reported a high false positive rate (FPR) </plain></SENT>
+<SENT sid="3" pm="."><plain>The objective of this study was to develop and test a new multivector impedance-based algorithm that reliably tracks PE clinical events </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS: We enrolled patients with implanted CRT-Ds in 23 US centers within 2 weeks of device implant </plain></SENT>
+<SENT sid="5" pm="."><plain>Six-vector impedance data was collected automatically by the CRT-Ds every 30 min during emergency department visits/hospitalizations and every 2 h at <z:hpo ids='HP_0000001'>all</z:hpo> other times </plain></SENT>
+<SENT sid="6" pm="."><plain>Detection algorithms for cardiac resynchronization therapy defibrillator (CRT-D) and implantable cardiac defibrillator (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">ICD</z:e>) devices were developed using those impedance vectors that would be available in corresponding devices and retrospectively evaluated </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: There were 75 patients (69 % male), mean age 66 ± 12 years, with a LVEF of 23 ± 6 % and QRS of 149 ± 25 ms </plain></SENT>
+<SENT sid="8" pm="."><plain>Twenty-one major clinical events occurred over 8.2 ± 2.6 months of follow-up time </plain></SENT>
+<SENT sid="9" pm="."><plain>CRT-D vector combinations resulted in a sensitivity of 71.4 % (95 % confidence interval 47.8-88.7) and a FPR of 0.56 (0.30-0.94) false positives per patient-year (FPs/pt-yr); <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">ICD</z:e> vector combinations resulted in a sensitivity of 61.9 % (38.4-81.9) and a FPR of 0.63 (0.36-0.90) FPs/pt-yr </plain></SENT>
+<SENT sid="10" pm="."><plain>In comparison, the single-vector RVCoil-Can implementation of this algorithm resulted in a sensitivity of 57.1 % (34.0-78.2) and a FPR of 0.74 (0.44-1.12) FPs/pt-yr </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: This multivector impedance algorithm was effective in tracking PE clinical events in this patient population </plain></SENT>
+<SENT sid="12" pm="."><plain>Additional studies are needed to prospectively evaluate the performance of this algorithm in a larger population </plain></SENT>
+</text></document>

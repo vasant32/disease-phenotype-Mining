@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>β(2)-<z:chebi fb="2" ids="17089">Glycoprotein</z:chebi> I (β(2)GPI) is an abundant plasma protein that binds to the surface of cells and particles expressing negatively charged <z:chebi fb="23" ids="18059">lipids</z:chebi>, but its physiological role remains unknown </plain></SENT>
+<SENT sid="1" pm="."><plain>Antibodies to β(2)GPI are found in patients with anti-<z:chebi fb="0" ids="16247">phospholipid</z:chebi> syndrome, a systemic <z:hpo ids='HP_0002960'>autoimmune disease</z:hpo> associated with vascular <z:mp ids='MP_0005048'>thrombosis</z:mp> and pregnancy morbidity </plain></SENT>
+<SENT sid="2" pm="."><plain>Although it has been suggested that anti-β(2)GPI antibodies activate endothelial cells and monocytes by signaling through TLR4, it is unclear how anti-β(2)GPI antibodies and/or β(2)GPI interact with TLR4 </plain></SENT>
+<SENT sid="3" pm="."><plain>A number of mammalian proteins (termed "endogenous Toll-like receptor (TLR) ligands") have been reported to bind to TLR4, but, in most cases, subsequent studies have shown that LPS interaction with these proteins is responsible for TLR activation </plain></SENT>
+<SENT sid="4" pm="."><plain>We hypothesized that, like other endogenous TLR ligands, β(2)GPI interacts specifically with LPS and that this interaction is responsible for apparent TLR4 activation by β(2)GPI </plain></SENT>
+<SENT sid="5" pm="."><plain>Here, we show that both LPS and TLR4 are required for β(2)GPI to bind to and activate macrophages </plain></SENT>
+<SENT sid="6" pm="."><plain>Untreated β(2)GPI stimulated TNF-α production in TLR4-sufficient (but not TLR4-deficient) macrophages </plain></SENT>
+<SENT sid="7" pm="."><plain>In contrast, neither polymyxin B-treated nor delipidated β(2)GPI stimulated TNF-α production </plain></SENT>
+<SENT sid="8" pm="."><plain>Furthermore, β(2)GPI bound to LPS in a specific and dose-dependent manner </plain></SENT>
+<SENT sid="9" pm="."><plain>Finally, untreated β(2)GPI bound to the surface of TLR4-sufficient (but not TLR4-deficient) macrophages </plain></SENT>
+<SENT sid="10" pm="."><plain>Polymyxin B treatment of β(2)GPI abolished macrophage binding </plain></SENT>
+<SENT sid="11" pm="."><plain>Our findings suggest a potential new biological activity for β(2)GPI as a protein that interacts specifically with LPS and point to the need to evaluate newly discovered endogenous TLR ligands for potential interactions with LPS </plain></SENT>
+</text></document>

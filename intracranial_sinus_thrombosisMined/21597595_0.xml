@@ -1,0 +1,6 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 69-year-old woman with new persistent right temporal <z:hpo ids='HP_0002315'>headache</z:hpo> and high ESR was diagnosed with temporal <z:hpo ids='HP_0012089'>arteritis</z:hpo> in primary care </plain></SENT>
+<SENT sid="1" pm="."><plain>She was started on steroids, but developed a right <z:e sem="disease" ids="C0271355" disease_type="Disease or Syndrome" abbrv="">6th nerve palsy</z:e> with continuing <z:hpo ids='HP_0002315'>headache</z:hpo> and raised inflammatory markers </plain></SENT>
+<SENT sid="2" pm="."><plain>Investigation revealed a sphenoid sinus <z:mpath ids='MPATH_612'>abscess</z:mpath> with intracranial extension and extensive cerebral venous sinus <z:mp ids='MP_0005048'>thrombosis</z:mp> </plain></SENT>
+<SENT sid="3" pm="."><plain>The <z:mpath ids='MPATH_612'>abscess</z:mpath> was drained endoscopically and she was treated with antibiotics and anticoagulation </plain></SENT>
+<SENT sid="4" pm="."><plain>Over the course of two months she made a complete recovery </plain></SENT>
+</text></document>

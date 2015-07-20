@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Patients with <z:hpo ids='HP_0005110'>atrial fibrillation</z:hpo> have a 5% risk per year for <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>The aim of antithrombotic therapy is to prevent arterial <z:hpo ids='HP_0001907'>thromboembolic events</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>As anticoagulation increases the frequency of <z:mp ids='MP_0001914'>bleeding</z:mp>, the risk and benefits of this therapy have to be assessed for each patient </plain></SENT>
+<SENT sid="3" pm="."><plain>PATIENTS AT RISK: The patients can be classified as low risk (&lt; 2% <z:hpo ids='HP_0001297'>stroke</z:hpo>/year), medium risk (2-6% <z:hpo ids='HP_0001297'>stroke</z:hpo>/year), and high-risk patients (&gt; 6% <z:hpo ids='HP_0001297'>stroke</z:hpo>/year) </plain></SENT>
+<SENT sid="4" pm="."><plain>Parameters for the risk stratification are the patient age and cardiac as well as non-<z:e sem="disease" ids="C0018799" disease_type="Disease or Syndrome" abbrv="">cardiac diseases</z:e> </plain></SENT>
+<SENT sid="5" pm="."><plain>PREVENTION: Patients with a low risk need no anticoagulation or can take aspirin </plain></SENT>
+<SENT sid="6" pm="."><plain>Patients with a high risk should receive oral anticoagulation with an INR range from 2.0 to 3.0 </plain></SENT>
+<SENT sid="7" pm="."><plain>Newer guidelines recommend also for patients with intermediate level of <z:hpo ids='HP_0001297'>stroke</z:hpo> risk instead of aspirin the prescription of oral anticoagulation </plain></SENT>
+<SENT sid="8" pm="."><plain>Patients with a medium risk can interrupt the oral anticoagulation before surgery or invasive diagnostic procedures for 1 week, patients with a high risk should receive <z:chebi fb="5" ids="28304">heparin</z:chebi> </plain></SENT>
+<SENT sid="9" pm="."><plain>3-4 weeks before and after cardioversion the standard therapy is oral anticoagulation </plain></SENT>
+</text></document>

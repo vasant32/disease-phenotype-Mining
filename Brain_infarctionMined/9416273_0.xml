@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND PURPOSE: There is a complex system of evolving physiochemical processes in the ischemic brain </plain></SENT>
+<SENT sid="1" pm="."><plain>The evaluation of this chain of processes is a major challenge of recent <z:hpo ids='HP_0001297'>stroke</z:hpo> studies </plain></SENT>
+<SENT sid="2" pm="."><plain>Two magnetic resonance imaging techniques: diffusion-weighted (DW) and magnetization transfer contrast (MTC) imaging were introduced in experimental studies and were shown to have sensitivity for different stages of brain <z:mpath ids='MPATH_124'>infarct</z:mpath> </plain></SENT>
+<SENT sid="3" pm="."><plain>MATERIALS AND METHODS: We used a reproducible middle cerebral artery (<z:chebi fb="70" ids="34342">MCA</z:chebi>) occlusion model in rat to examine <z:mpath ids='MPATH_124'>infarcts</z:mpath> of different time courses </plain></SENT>
+<SENT sid="4" pm="."><plain>Magnetic resonance T2-weighted (T2) </plain></SENT>
+<SENT sid="5" pm="."><plain>DW, and MTC imaging were performed 3 h, 1 d, 3 d, 5 d, 2 w, 3 w, and 4 w after <z:chebi fb="70" ids="34342">MCA</z:chebi> occlusion </plain></SENT>
+<SENT sid="6" pm="."><plain><z:chebi fb="1" ids="51686">Haematoxylin</z:chebi>/eosin (HE) stained sections, which revealed sub regions within <z:mpath ids='MPATH_124'>infarct</z:mpath> lesions, were compared to T2, DW, diffusion-mapping and MTC-mapping images </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: On DW images 3 hours post occlusion lesions were detected as an area with high signal intensity, while T2 imaging does not raise significant contrast of the lesion at this early stage </plain></SENT>
+<SENT sid="8" pm="."><plain>Three sub regions of the lesion having different <z:chebi fb="49" ids="35181">ADCs</z:chebi>, are discernible on diffusion-mapping images from 1 day to 7 days </plain></SENT>
+<SENT sid="9" pm="."><plain>The decrease of MTC effect was measured within the <z:mpath ids='MPATH_124'>infarct</z:mpath> lesion from core to marginal zone, from 7 days to 4 weeks </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSIONS: Diffusion-mapping imaging may help to examine <z:e sem="disease" ids="C0751955" disease_type="Disease or Syndrome" abbrv="">brain infarction</z:e> from 3 hours to 5 days </plain></SENT>
+<SENT sid="11" pm="."><plain>MTC imaging recognizes <z:mpath ids='MPATH_124'>infarcts</z:mpath> 7 days after the <z:hpo ids='HP_0003674'>onset</z:hpo> </plain></SENT>
+<SENT sid="12" pm="."><plain>Following this stage, MTC-mapping images may provide a quantitative method to assess <z:mpath ids='MPATH_124'>infarct</z:mpath> size </plain></SENT>
+</text></document>

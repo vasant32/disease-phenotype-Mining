@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Glial-neuronal interactions have been implicated in both <z:mpath ids='MPATH_458'>normal</z:mpath> information processing and neuroprotection </plain></SENT>
+<SENT sid="1" pm="."><plain>One pathway of cellular interactions involves gap junctional intercellular communication (GJIC) </plain></SENT>
+<SENT sid="2" pm="."><plain>In astrocytes, gap junctions are composed primarily of the channel protein connexin43 (Cx43) and provide a substrate for formation of a functional syncytium implicated in the spatial buffering capacity of astrocytes </plain></SENT>
+<SENT sid="3" pm="."><plain>To study the function of gap junctions in the brain, we used heterozygous Cx43 null mice, which exhibit reduced Cx43 expression </plain></SENT>
+<SENT sid="4" pm="."><plain>Western blot analysis showed a reduction in the level of Cx43 protein and GJIC in astrocytes cultured from heterozygote mice </plain></SENT>
+<SENT sid="5" pm="."><plain>The level of Cx43 is reduced in the adult heterozygote cerebrum to 40% of that present in the <z:mp ids='MP_0002169'>wild-type</z:mp> </plain></SENT>
+<SENT sid="6" pm="."><plain>To assess the effect of reduced Cx43 and GJIC on neuroprotection, we examined brain <z:mpath ids='MPATH_124'>infarct</z:mpath> volume in <z:mp ids='MP_0002169'>wild-type</z:mp> and heterozygote mice after focal <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> </plain></SENT>
+<SENT sid="7" pm="."><plain>In our model of focal <z:hpo ids='HP_0001297'>stroke</z:hpo>, the middle cerebral artery was occluded at two points, above and below the rhinal fissure </plain></SENT>
+<SENT sid="8" pm="."><plain>Four days after surgery, mice were killed, the brains were sectioned and analyzed </plain></SENT>
+<SENT sid="9" pm="."><plain>Cx43 heterozygous null mice exhibited a significantly larger <z:mpath ids='MPATH_124'>infarct</z:mpath> volume compared with <z:mp ids='MP_0002169'>wild-type</z:mp> (14.4 +/- 1.4 mm(3) vs. 7.7 +/- 0.82 mm(3), P &lt; 0.002) </plain></SENT>
+<SENT sid="10" pm="."><plain>These results suggest that augmentation of GJIC in astrocytes may contribute to neuroprotection after ischemic injury </plain></SENT>
+</text></document>

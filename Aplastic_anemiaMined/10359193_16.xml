@@ -1,0 +1,21 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Liver transplantation (LT) remains a high-risk operation, especially during the first months after LT when technical complications and preexisting illness exert their influence on survival </plain></SENT>
+<SENT sid="1" pm="."><plain>However, there are late <z:hpo ids='HP_0011420'>deaths</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>The authors have reviewed their experience to identify factors impacting on long-term survival </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: A total of 150 patients who had undergone liver transplantation over an 11-year period were reviewed </plain></SENT>
+<SENT sid="4" pm="."><plain>Thirty-three patients died after LT (22%) </plain></SENT>
+<SENT sid="5" pm="."><plain>Of these, 18 of 33 (55%) died in the first 3 postoperative months </plain></SENT>
+<SENT sid="6" pm="."><plain>One hundred thirty-two patients survived beyond 3 months, and 15 patients (11%) suffered late <z:hpo ids='HP_0011420'>deaths</z:hpo> </plain></SENT>
+<SENT sid="7" pm="."><plain>This review concentrates on the latter group </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: The primary cause of <z:hpo ids='HP_0011420'>death</z:hpo> was <z:hpo ids='HP_0100806'>sepsis</z:hpo> in 11 of 15 (73%) </plain></SENT>
+<SENT sid="9" pm="."><plain>In two, <z:hpo ids='HP_0100806'>sepsis</z:hpo> complicated retransplantation in chronically debilitated patients </plain></SENT>
+<SENT sid="10" pm="."><plain>Two additional patients had late-presenting postoperative complications (bile leak or <z:mpath ids='MPATH_612'>abscess</z:mpath>, <z:hpo ids='HP_0005214'>intestinal obstruction</z:hpo> with <z:mpath ids='MPATH_81'>perforation</z:mpath>) </plain></SENT>
+<SENT sid="11" pm="."><plain>In two cases, pneumocystis carinii <z:hpo ids='HP_0002090'>pneumonia</z:hpo> occurred; noncompliance or unplanned discontinuation of prophylaxis was directly responsible </plain></SENT>
+<SENT sid="12" pm="."><plain>Multiple organ system failure from presumed immunoincompetence developed in four patients; one had undergone bone marrow transplantation for <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> (AA) after <z:hpo ids='HP_0004448'>fulminant hepatic failure</z:hpo> (<z:chebi fb="0" ids="30480">FHF</z:chebi>) </plain></SENT>
+<SENT sid="13" pm="."><plain><z:e sem="disease" ids="C0024314" disease_type="Neoplastic Process" abbrv="">Lymphoproliferative disease</z:e> (LPD) was the cause of <z:hpo ids='HP_0011420'>death</z:hpo> in 3 of 15 cases (20%) </plain></SENT>
+<SENT sid="14" pm="."><plain>In only three cases was the cause of <z:hpo ids='HP_0011420'>death</z:hpo> related to the patient's <z:e sem="disease" ids="C0277554" disease_type="Disease or Syndrome" abbrv="">primary disease</z:e> (<z:hpo ids='HP_0011010'>chronic</z:hpo> <z:hpo ids='HP_0012115'>hepatitis</z:hpo>, <z:e sem="disease" ids="C0205710" disease_type="Disease or Syndrome" abbrv="PNDC">Alper's syndrome</z:e> or <z:hpo ids='HP_0001250'>seizures</z:hpo>, and AA with <z:chebi fb="0" ids="30480">FHF</z:chebi>) </plain></SENT>
+<SENT sid="15" pm="."><plain>Pretransplant diagnosis, and UNOS status at the time of LT did not influence the long-term survival </plain></SENT>
+<SENT sid="16" pm="."><plain>CONCLUSIONS: Long-term survival in patients who have undergone LT was compromised by immunosuppressive complications and <z:hpo ids='HP_0100806'>sepsis</z:hpo> </plain></SENT>
+<SENT sid="17" pm="."><plain>Early mortality factors, such as UNOS status, age at LT, primary diagnosis, and technical complications do not predict late <z:hpo ids='HP_0011420'>deaths</z:hpo> </plain></SENT>
+<SENT sid="18" pm="."><plain>In children who adhere to their medical regimen and have good initial allograft function, late <z:e sem="disease" ids="C0392618" disease_type="Disease or Syndrome" abbrv="">postoperative infection</z:e>, especially with Ebstein-Barr virus, accounts for most of the late mortality </plain></SENT>
+<SENT sid="19" pm="."><plain>Improved and decreased immunosuppression may further improve these long-term results </plain></SENT>
+</text></document>

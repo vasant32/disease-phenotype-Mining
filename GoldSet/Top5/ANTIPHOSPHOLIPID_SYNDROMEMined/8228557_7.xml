@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>High positive anticardiolipin antibody tests have been associated with <z:hpo ids='HP_0004419'>recurrent thrombosis</z:hpo> and pregnancy loss </plain></SENT>
+<SENT sid="1" pm="."><plain>Although these antibodies were believed to bind negatively charged <z:chebi fb="1" ids="16247">phospholipids</z:chebi>, recent reports have suggested that a serum protein, beta 2-<z:chebi fb="2" ids="17089">glycoprotein</z:chebi> I (beta 2-GPI), may be the true antigen for these antibodies </plain></SENT>
+<SENT sid="2" pm="."><plain>To resolve this issue, we compared binding of 75 anticardiolipin-positive and 71 anticardiolipin-negative serum samples from patients with <z:e sem="disease" ids="C0035435" disease_type="Disease or Syndrome" abbrv="">rheumatic diseases</z:e> to beta 2-GPI by using an enzyme-linked immunosorbent assay (ELISA) </plain></SENT>
+<SENT sid="3" pm="."><plain>Serum samples from 30 healthy blood donors and 10 laboratory personnel were used as <z:mpath ids='MPATH_458'>normal</z:mpath> controls </plain></SENT>
+<SENT sid="4" pm="."><plain>We found no difference in binding between the three groups of serum samples </plain></SENT>
+<SENT sid="5" pm="."><plain>In addition, when binding to beta 2-GPI coated plates was compared with binding to ELISA plates without beta 2-GPI (blank), no difference was observed </plain></SENT>
+<SENT sid="6" pm="."><plain>Finally, binding of anticardiolipin-positive serum samples to plates coated with <z:chebi fb="0" ids="28494">cardiolipin</z:chebi>-beta 2-GPI mixture varied directly with the <z:chebi fb="0" ids="28494">cardiolipin</z:chebi> concentrations </plain></SENT>
+<SENT sid="7" pm="."><plain>Based on these findings, we conclude that anticardiolipin-positive serum samples do not bind beta 2-GPI </plain></SENT>
+</text></document>

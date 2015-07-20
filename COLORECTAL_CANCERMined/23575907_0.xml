@@ -1,0 +1,19 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Isolated hepatic perfusion (IHP) with melphalan is an established approach for patients with unresectable metastatic liver lesions </plain></SENT>
+<SENT sid="1" pm="."><plain>This study determined the safety and maximum tolerated dose (MTD) of 5-FU with <z:chebi fb="0" ids="31941">oxaliplatin</z:chebi> via IHP </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: Standard 3 × 3 Phase I design </plain></SENT>
+<SENT sid="3" pm="."><plain>Subjects with unresectable isolated <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e> <z:e sem="disease" ids="C0494165" disease_type="Neoplastic Process" abbrv="">liver metastases</z:e> scheduled for HAI pump were eligible </plain></SENT>
+<SENT sid="4" pm="."><plain>IHP used fixed-dose <z:chebi fb="0" ids="31941">oxaliplatin</z:chebi> with escalating 5-FU doses </plain></SENT>
+<SENT sid="5" pm="."><plain>Toxicity (CTCAE v 4.0) and response (RECIST), progression-free survival, and overall survival (OS) were assessed </plain></SENT>
+<SENT sid="6" pm="."><plain>Systemic and IHP plasma PK of 5-FU, anabolites, and <z:chebi fb="240" ids="33364,33400">platinum</z:chebi> were determined </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: <z:hpo ids='HP_0000001'>All</z:hpo> 12 patients had received ≥1 line of pre-IHP chemotherapy </plain></SENT>
+<SENT sid="8" pm="."><plain>There were 4 grade 3 serious adverse events (33.3 %) and 1 grade 4 event (8.3 %) </plain></SENT>
+<SENT sid="9" pm="."><plain>Also, 2 dose-limiting toxicities occurred at DL2 at 300 mg/m(2), resulting in expansion of DL1 at 200 mg/m(2) 5-FU, the eventual MTD </plain></SENT>
+<SENT sid="10" pm="."><plain>At 6-month follow-up, 9 patients (82 %) demonstrated partial response, while 2 (18 %) exhibited stable disease </plain></SENT>
+<SENT sid="11" pm="."><plain>Also, 64 % of patients demonstrated a &gt;50 % decrease in CEA </plain></SENT>
+<SENT sid="12" pm="."><plain>The 1- and 2-year OS probabilities were 90.9 and 71.6 %, respectively, with median follow-up of 24 months </plain></SENT>
+<SENT sid="13" pm="."><plain>IHP exposures (AUC0-60 min) were 10.9 ± 4.5 μgPt h/mL, 49.3 ± 30.7 μg h/mL 5-FU (DL1), and 70.5 ± 35.5 μg h/mL 5-FU (DL2) </plain></SENT>
+<SENT sid="14" pm="."><plain>Systemic exposure (AUC0-inf) relative to IHP exposure was negligible for both <z:chebi fb="240" ids="33364,33400">platinum</z:chebi> (1.1 ± 1.5 %) and 5-FU (0.09 ± 0.10 %) </plain></SENT>
+<SENT sid="15" pm="."><plain>CONCLUSIONS: The MTD for IHP was 200 mg/m(2) 5-FU with 40 mg/m(2) <z:chebi fb="0" ids="31941">oxaliplatin</z:chebi> </plain></SENT>
+<SENT sid="16" pm="."><plain>Systemic exposure to the agents was minimal during IHP </plain></SENT>
+<SENT sid="17" pm="."><plain>The response and survival observed warrants assessment in a larger phase II trial </plain></SENT>
+</text></document>

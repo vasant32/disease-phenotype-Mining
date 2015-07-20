@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Epstein-Barr virus (EBV) infects more than 90% of the human population and has a potential oncogenic nature </plain></SENT>
+<SENT sid="1" pm="."><plain><z:chebi fb="0" ids="46024">Trichostatin A</z:chebi> (TSA) has potent antitumor activity, but its exact mechanism on EBV-infected cells is unclear </plain></SENT>
+<SENT sid="2" pm="."><plain>This study examined the effects of TSA on proliferation and <z:mpath ids='MPATH_3'>apoptosis</z:mpath> of the Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cell line, Akata </plain></SENT>
+<SENT sid="3" pm="."><plain>TSA treatment inhibited cell growth and induced cytotoxicity in both the EBV-negative and -positive Akata cells </plain></SENT>
+<SENT sid="4" pm="."><plain>TSA sensitively induced <z:mpath ids='MPATH_3'>apoptosis</z:mpath> in both cells, as demonstrated by the increased number of positively stained cells in the TUNEL assay, the migration of many cells to sub-G1 phase by flow cytometric analysis, and the formation of DNA ladders </plain></SENT>
+<SENT sid="5" pm="."><plain>This suggests that EBV has no effect on the sensitivity to TSA </plain></SENT>
+<SENT sid="6" pm="."><plain>Western blot analysis showed that the cleavage of PARP and Bid and the activation of caspases are closely related to the TSA-induced <z:mpath ids='MPATH_3'>apoptosis</z:mpath> of the cells </plain></SENT>
+<SENT sid="7" pm="."><plain>The reduction in <z:hpo ids='HP_0001427'>mitochondrial</z:hpo> transition potential and the release of <z:mpath ids='MPATH_3'>apoptosis</z:mpath>-inducing factor from mitochondria to cytosol was also observed after the TSA treatment, but was suppressed by treating the cells with a cathepsin B inhibitor </plain></SENT>
+<SENT sid="8" pm="."><plain>Overall, these findings suggest that besides the caspase-dependent pathway, <z:hpo ids='HP_0001427'>mitochondrial</z:hpo> events are also associated with the TSA-induced <z:mpath ids='MPATH_3'>apoptosis</z:mpath> of Akata cells </plain></SENT>
+</text></document>

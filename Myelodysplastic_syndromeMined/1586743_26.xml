@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Translocation (6;9)(p23;q34) is a cytogenetic aberration that can be found in specific subtypes of both <z:hpo ids='HP_0004808'>acute myeloid leukemia</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">AML</z:e>) and <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e>) </plain></SENT>
+<SENT sid="1" pm="."><plain>This translocation is associated with an unfavourable prognosis </plain></SENT>
+<SENT sid="2" pm="."><plain>Recently, the genes involved in the t(6;9) were isolated and characterized </plain></SENT>
+<SENT sid="3" pm="."><plain>Breakpoints in both the dek gene on chromosome 6 and the can gene on chromosome 9 appear to occur in defined regions, which allows us to diagnose this type of <z:hpo ids='HP_0001909'>leukemia</z:hpo> at the molecular level </plain></SENT>
+<SENT sid="4" pm="."><plain>Moreover, because of the translocation a chimeric dek-can <z:chebi fb="2" ids="33699">mRNA</z:chebi> is formed which, as we show here, is an additional target for diagnosis via cDNA-preparation and the polymerase chain reaction (PCR) </plain></SENT>
+<SENT sid="5" pm="."><plain>We studied 17 patients whose blood cells and/or bone marrow cells showed a t(6;9) with karyotypic analysis </plain></SENT>
+<SENT sid="6" pm="."><plain>Fourteen patients suffered from <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">AML</z:e>, one patient had a <z:hpo ids='HP_0005505'>refractory anemia</z:hpo> with excess of blasts in transformation (RAEBt), one patient had an <z:hpo ids='HP_0011009'>acute</z:hpo> <z:hpo ids='HP_0011974'>myelofibrosis</z:hpo> (AMF), and one patient a <z:hpo ids='HP_0011010'>chronic</z:hpo> myeloid <z:hpo ids='HP_0001909'>leukemia</z:hpo> (<z:mp ids='MP_0005481'>CML</z:mp>) </plain></SENT>
+<SENT sid="7" pm="."><plain>In nine cases studies at the DNA and <z:chebi fb="40" ids="33697">RNA</z:chebi> levels were possible while in seven cases only the DNA could be analyzed </plain></SENT>
+<SENT sid="8" pm="."><plain>In one case only <z:chebi fb="40" ids="33697">RNA</z:chebi> was available </plain></SENT>
+<SENT sid="9" pm="."><plain>Conventional Southern blot analysis showed the presence of rearrangements of both the dek gene and the can gene </plain></SENT>
+<SENT sid="10" pm="."><plain>In both genes, breakpoints cluster in one intron in the patients investigated </plain></SENT>
+<SENT sid="11" pm="."><plain>The presence of a consistent chimeric dek-can product after cDNA preparation followed by the PCR was demonstrated </plain></SENT>
+<SENT sid="12" pm="."><plain>We conclude from our data that the t(6;9) is found in <z:hpo ids='HP_0005547'>myeloproliferative disorders</z:hpo> with typical clinical characteristics </plain></SENT>
+<SENT sid="13" pm="."><plain>This translocation results in highly consistent abnormalities at the molecular level </plain></SENT>
+</text></document>

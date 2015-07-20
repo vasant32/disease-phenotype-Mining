@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIMS: We undertook this analysis to assess the relationship between delayed left ventricular activation time (LVAT), assessed prior to cardiac resynchronization therapy (CRT), with the long-term clinical outcomes in CRT recipients </plain></SENT>
+<SENT sid="1" pm="."><plain>We also sought to determine if baseline LVAT had similar predictive value in patients who were versus were not chronically paced prior to CRT </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS AND RESULTS: Baseline pre-implant electrocardiograms (ECGs) of 219 consecutive patients undergoing CRT were analysed </plain></SENT>
+<SENT sid="3" pm="."><plain>Of these, 68 (31%) were chronically right ventricular (RV)-paced pre-CRT </plain></SENT>
+<SENT sid="4" pm="."><plain>Maximum LVAT was measured as QRS-duration minus time from QRS <z:hpo ids='HP_0003674'>onset</z:hpo> to the first notch in the QRS </plain></SENT>
+<SENT sid="5" pm="."><plain>Cox models were used to assess the association between LVAT and clinical outcome (<z:hpo ids='HP_0011420'>death</z:hpo> or cardiac transplant) </plain></SENT>
+<SENT sid="6" pm="."><plain>Over a median follow-up of 56 months, 92 patients (42%) died and 10 (5%) underwent cardiac transplant </plain></SENT>
+<SENT sid="7" pm="."><plain>In the non-RV-paced group an independent linear relationship between LVAT and outcome [hazard ratio (HR) 0.67 per 50 ms increase in LVAT; 95% confidence interval (CI) 0.46-0.99] was observed </plain></SENT>
+<SENT sid="8" pm="."><plain>An LVAT ≥ 125 ms was associated with a markedly lower risk of outcome (adjusted HR 0.51; 95% CI 0.30-0.86) in these patients </plain></SENT>
+<SENT sid="9" pm="."><plain>Despite a similar incidence of <z:hpo ids='HP_0011420'>death</z:hpo> or cardiac transplantation in the RV-paced group vs. the non-paced one, no significant association between LVAT and outcome was observed in the RV-paced group </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSION: Baseline LVAT, a simple ECG measure, independently predicts long-term outcome with CRT in non-RV paced patients </plain></SENT>
+<SENT sid="11" pm="."><plain>However, prolonged LVAT is not associated with an altered prognosis in patients chronically RV paced prior to CRT </plain></SENT>
+</text></document>

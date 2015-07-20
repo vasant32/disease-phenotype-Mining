@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:chebi fb="6" ids="14321,29987">Glutamate</z:chebi>-induced excitotoxicity has been implicated in the etiology of <z:hpo ids='HP_0001297'>stroke</z:hpo>, <z:e sem="disease" ids="C0014544" disease_type="Disease or Syndrome" abbrv="">epilepsy</z:e>, and <z:hpo ids='HP_0002180'>neurodegenerative diseases</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain><z:chebi fb="0" ids="31882">NMDA</z:chebi> receptors (NMDARs) play a pivotal role in excitotoxic injury; however, clinical trials testing NMDAR <z:chebi fb="68" ids="48706">antagonists</z:chebi> as neuroprotectants have been discouraging </plain></SENT>
+<SENT sid="2" pm="."><plain>The development of novel neuroprotectant molecules is being vigorously pursued </plain></SENT>
+<SENT sid="3" pm="."><plain>Here, we report that downstream regulatory element <z:chebi fb="68" ids="48706">antagonist</z:chebi> modulator (DREAM) significantly inhibits surface expression of NMDARs and NMDAR-mediated current </plain></SENT>
+<SENT sid="4" pm="."><plain>Overexpression of DREAM showed neuroprotection against excitotoxic neuronal injury, whereas knockdown of DREAM enhanced <z:chebi fb="0" ids="31882">NMDA</z:chebi>-induced toxicity </plain></SENT>
+<SENT sid="5" pm="."><plain>DREAM could directly bind to the C0 domain of the NR1 subunit </plain></SENT>
+<SENT sid="6" pm="."><plain>Although DREAM contains multiple binding sites for the NR1 subunit, residues 21-40 of the N terminus are the main binding site for the NR1 subunit </plain></SENT>
+<SENT sid="7" pm="."><plain>Thus, 21-40 residues might relieve the autoinhibition conferred by residues 1-50 and derepress the DREAM core domain by a competitive mechanism </plain></SENT>
+<SENT sid="8" pm="."><plain>Intriguingly, the cell-permeable TAT-21-40 peptide, constructed according to the critical binding site of DREAM to the NR1 subunit, inhibits NMDAR-mediated currents in primary cultured hippocampal neurons and has a neuroprotective effect on in vitro neuronal excitotoxic injury and in vivo ischemic brain damage </plain></SENT>
+<SENT sid="9" pm="."><plain>Moreover, both pretreatment and posttreatment of TAT-21-40 is effective against excitotoxicity </plain></SENT>
+<SENT sid="10" pm="."><plain>In summary, this work reveals a novel, negative regulator of NMDARs and provides an attractive candidate for the treatment of excitotoxicity-related disease </plain></SENT>
+</text></document>

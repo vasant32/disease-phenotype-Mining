@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Quantitative EEG (QEEG) effects of therapeutic doses of carbamazepine (CBZ), oxcarbazepine (OXC), valproate (VA) and lamotrigine (LA) monotherapy were investigated in patients with beginning <z:e sem="disease" ids="C0014544" disease_type="Disease or Syndrome" abbrv="">epilepsy</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>Baseline waking EEG (EEG1) was recorded in the untreated state, the second EEG (EEG2) was done after 8 weeks of reaching the therapeutic dose </plain></SENT>
+<SENT sid="2" pm="."><plain>Left occipital data were used for analysis </plain></SENT>
+<SENT sid="3" pm="."><plain>QEEG target parameters were absolute band-power (delta: AD, theta: AT, alpha: AA, beta: AB), and alpha mean frequency (AMF) </plain></SENT>
+<SENT sid="4" pm="."><plain>Group effects (untreated versus treated condition in the CBZ, VA, OXC, LA groups) were computed for each target parameter </plain></SENT>
+<SENT sid="5" pm="."><plain>One group with <z:e sem="disease" ids="C0376532" disease_type="Disease or Syndrome" abbrv="BECTS">benign rolandic epilepsy</z:e> remained untreated for clinical reasons and served to estimate the QEEG test-retest differences </plain></SENT>
+<SENT sid="6" pm="."><plain>In addition, the individual QEEG response to each drug was calculated as (EEG2-EEG1) </plain></SENT>
+<SENT sid="7" pm="."><plain>Results: statistically significant (p&lt;0.05) group differences indicated the QEEG domain systematically affected by the drugs </plain></SENT>
+<SENT sid="8" pm="."><plain>CBZ caused AT increase and AMF decrease </plain></SENT>
+<SENT sid="9" pm="."><plain>OXC caused AMF decrease </plain></SENT>
+<SENT sid="10" pm="."><plain>VA and LA did not decrease AMF (LA even increased it), but reduced broad-band power </plain></SENT>
+<SENT sid="11" pm="."><plain>Individual power and AMF changes showed considerable variability in each group. &gt;0.5 Hz AMF decrease (that was reported to predict <z:hpo ids='HP_0100543'>cognitive impairment</z:hpo> in prior studies) occurred in 10/41 patients in the CBZ group but never in the OXC, VA, LA groups </plain></SENT>
+<SENT sid="12" pm="."><plain>The results may be utilized in planning further studies addressing the relationship between <z:chebi fb="0" ids="35623">antiepileptic</z:chebi> drugs and their <z:chebi fb="7" ids="29425,29426,29441,29447">CNS</z:chebi> effects </plain></SENT>
+<SENT sid="13" pm="."><plain>In addition, the relationship of AED-related <z:hpo ids='HP_0100543'>cognitive impairment</z:hpo> and AMF changes was discussed </plain></SENT>
+</text></document>

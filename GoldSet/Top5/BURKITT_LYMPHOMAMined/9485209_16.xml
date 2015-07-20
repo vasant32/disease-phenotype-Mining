@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:mpath ids='MPATH_3'>Apoptosis</z:mpath> (programmed cell <z:hpo ids='HP_0011420'>death</z:hpo>) is instrumental in the process of controlling lymphocyte growth and selection </plain></SENT>
+<SENT sid="1" pm="."><plain>Negative selection, mediated by surface IgM (sIgM) signaling after encountering self antigen, eliminates autoreactive B cells </plain></SENT>
+<SENT sid="2" pm="."><plain>To identify proteins which are potentially involved in anti-IgM-mediated <z:mpath ids='MPATH_3'>apoptosis</z:mpath>, we used an anti-IgM-sensitive subclone of the human Burkitt <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cell line BL60 </plain></SENT>
+<SENT sid="3" pm="."><plain>After anti-IgM treatment and separation of <z:mpath ids='MPATH_3'>apoptosis</z:mpath>-committed cells, we performed high resolution two-dimensional gel electrophoresis (2-DE) </plain></SENT>
+<SENT sid="4" pm="."><plain>Comparison of the 2-DE protein patterns from apoptotic and non-apoptotic cells showed differences in approximately 80 spots </plain></SENT>
+<SENT sid="5" pm="."><plain>Subsequent analysis of these proteins was performed by mass spectrometry and Edman microsequencing </plain></SENT>
+<SENT sid="6" pm="."><plain>We report that one of these spots which disappears after sIgM cross-linking turned out to be D4-GDI </plain></SENT>
+<SENT sid="7" pm="."><plain>D4-GDI is an abundant hematopoietic cell GDP dissociation inhibitor for the Ras-related Rho family GTPase </plain></SENT>
+<SENT sid="8" pm="."><plain>D4-GDI was rapidly truncated to a 23-kDa fragment in BL60 cells </plain></SENT>
+<SENT sid="9" pm="."><plain>By using a Rho-GDI-specific antiserum, which cross-reacts with D4-GDI, we observed the <z:hpo ids='HP_0003674'>onset</z:hpo> of cleavage after 8 h of stimulation with anti-IgM </plain></SENT>
+<SENT sid="10" pm="."><plain>Cleavage and <z:mpath ids='MPATH_3'>apoptosis</z:mpath> could be completely inhibited by z-DEVD-fmk, a selective irreversible inhibitor of CPP32 (caspase-3), whereas ac-YVAD-cmk, an inhibitor for interleukin-1beta-converting enzyme-like proteases, did not block cleavage of D4-GDI or <z:mpath ids='MPATH_3'>apoptosis</z:mpath> </plain></SENT>
+<SENT sid="11" pm="."><plain>Our results revealed the functional importance of caspases and a new target protein in the process of anti-IgM-mediated <z:mpath ids='MPATH_3'>apoptosis</z:mpath> </plain></SENT>
+</text></document>

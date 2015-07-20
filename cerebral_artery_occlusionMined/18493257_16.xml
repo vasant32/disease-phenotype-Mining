@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0001297'>Stroke</z:hpo> induced by middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> leads to transiently increased progenitor proliferation in the subventricular zone (SVZ) and long-lasting striatal neurogenesis in adult rodents </plain></SENT>
+<SENT sid="1" pm="."><plain><z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">Tumor</z:e> <z:mp ids='MP_0001651'>necrosis</z:mp> factor-alpha (TNF-alpha) is upregulated in <z:hpo ids='HP_0001297'>stroke</z:hpo>-damaged brain </plain></SENT>
+<SENT sid="2" pm="."><plain>Whether TNF-alpha and its receptors influence SVZ progenitor proliferation after <z:hpo ids='HP_0001297'>stroke</z:hpo> is unclear </plain></SENT>
+<SENT sid="3" pm="."><plain>Here we show that the increased proliferation 1 week after <z:hpo ids='HP_0001297'>stroke</z:hpo> occurred concomitantly with elevated microglia numbers and TNF-alpha and TNF receptor-1 (TNF-R1) gene expression in the SVZ of <z:mp ids='MP_0002169'>wild-type</z:mp> mice </plain></SENT>
+<SENT sid="4" pm="."><plain>TNF receptor-1 was expressed on sorted SVZ progenitor cells from nestin-green fluorescent protein reporter mice </plain></SENT>
+<SENT sid="5" pm="."><plain>In animals lacking TNF-R1, <z:hpo ids='HP_0001297'>stroke</z:hpo>-induced SVZ cell proliferation and neuroblast formation were enhanced </plain></SENT>
+<SENT sid="6" pm="."><plain>In contrast, deletion of TNF-R1 did not alter basal or <z:hpo ids='HP_0002133'>status epilepticus</z:hpo>-stimulated cell proliferation in SVZ </plain></SENT>
+<SENT sid="7" pm="."><plain>Addition of TNF-alpha reduced the size and numbers of SVZ neurospheres through a TNF-R1-dependent mechanism without affecting cell survival </plain></SENT>
+<SENT sid="8" pm="."><plain>Our results provide the first evidence that TNF-R1 is a negative regulator of <z:hpo ids='HP_0001297'>stroke</z:hpo>-induced SVZ progenitor proliferation </plain></SENT>
+<SENT sid="9" pm="."><plain>Blockade of TNF-R1 signaling might be a novel strategy to promote the proliferative response in SVZ after <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+</text></document>

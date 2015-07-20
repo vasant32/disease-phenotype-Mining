@@ -1,0 +1,20 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Diverse stimuli reactivate the Epstein-Barr virus (EBV) lytic cycle in Burkitt <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">BL</z:e>) cells </plain></SENT>
+<SENT sid="1" pm="."><plain>In HH514-16 BL cells, two <z:chebi fb="0" ids="15358">histone</z:chebi> deacetylase (HDAC) inhibitors, <z:chebi fb="199" ids="26708">sodium</z:chebi> <z:chebi fb="0" ids="17968">butyrate</z:chebi> (NaB) and <z:chebi fb="0" ids="46024">trichostatin A</z:chebi> (TSA), and the DNA methyltransferase inhibitor azacytidine (AzaCdR) promote lytic reactivation </plain></SENT>
+<SENT sid="2" pm="."><plain><z:chebi fb="0" ids="39867">Valproic acid</z:chebi> (VPA), which, like NaB, belongs to the <z:chebi fb="0" ids="26666">short-chain fatty acid</z:chebi> class of HDAC inhibitors, fails to induce the EBV lytic cycle in these cells </plain></SENT>
+<SENT sid="3" pm="."><plain>Nonetheless, VPA behaves as an HDAC inhibitor; it causes hyperacetylation of <z:chebi fb="0" ids="15358">histone</z:chebi> H3 (J </plain></SENT>
+<SENT sid="4" pm="."><plain>K </plain></SENT>
+<SENT sid="5" pm="."><plain>Countryman, L </plain></SENT>
+<SENT sid="6" pm="."><plain>Gradoville, and G </plain></SENT>
+<SENT sid="7" pm="."><plain>Miller, J </plain></SENT>
+<SENT sid="8" pm="."><plain>Virol </plain></SENT>
+<SENT sid="9" pm="."><plain>82:4706-4719, 2008) </plain></SENT>
+<SENT sid="10" pm="."><plain>Here we show that VPA blocked the induction of EBV early lytic proteins ZEBRA and EA-D in response to NaB, TSA, or AzaCdR </plain></SENT>
+<SENT sid="11" pm="."><plain>The block in lytic activation occurred prior to the accumulation of BZLF1 transcripts </plain></SENT>
+<SENT sid="12" pm="."><plain>Reactivation of EBV in Akata cells, in response to anti-IgG, and in Raji cells, in response to <z:chebi fb="0" ids="25456">tetradecanoyl</z:chebi> <z:chebi fb="0" ids="8116">phorbol</z:chebi> <z:chebi fb="49" ids="30089,47622">acetate</z:chebi> (<z:chebi fb="6" ids="15702,53394">TPA</z:chebi>), was also inhibited by VPA </plain></SENT>
+<SENT sid="13" pm="."><plain>MS-275 and apicidin, representing two additional classes of HDAC inhibitors, and suberoylanilide <z:chebi fb="0" ids="24650">hydroxamic acid</z:chebi> (SAHA) reactivated EBV in HH514-16 cells; this activity was also inhibited by VPA </plain></SENT>
+<SENT sid="14" pm="."><plain>Although VPA potently blocked the expression of <z:mp ids='MP_0001799'>viral</z:mp> lytic-cycle transcripts, it did not generally block the transcription of cellular genes and was not toxic </plain></SENT>
+<SENT sid="15" pm="."><plain>The levels and kinetics of specific cellular transcripts, such as Stat3, Frmd6, Mad1, Sepp1, c-fos, c-jun, and egr1, which were activated by NaB and TSA, were similar in HH514-16 cells treated with VPA </plain></SENT>
+<SENT sid="16" pm="."><plain>When combined with NaB or TSA, VPA did not inhibit the activation of these cellular genes </plain></SENT>
+<SENT sid="17" pm="."><plain>Changes in cellular gene expression in response to VPA, NaB, or TSA were globally similar as assessed by human genome arrays; however, VPA selectively stimulated the expression of some cellular genes, such as MEF2D, YY1, and ZEB1, that could repress the EBV lytic cycle </plain></SENT>
+<SENT sid="18" pm="."><plain>We describe a novel example of functional antagonism between HDAC inhibitors </plain></SENT>
+</text></document>

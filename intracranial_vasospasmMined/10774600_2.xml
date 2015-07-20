@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Olprinone is a promising new drug used for treating <z:e sem="disease" ids="C0265110" disease_type="Disease or Syndrome" abbrv="">cerebral vasospasm</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>To clarify the effects of olprinone on systemic and cerebral circulation in patients with <z:hpo ids='HP_0002138'>subarachnoid hemorrhage</z:hpo>, hemodynamic and oxygenation parameters were evaluated as 12 such patients underwent surgery </plain></SENT>
+<SENT sid="2" pm="."><plain>After <z:hpo ids='HP_0002617'>aneurysm</z:hpo> clipping and confirmation of hemostasis, olprinone was administrated at a dose of 10 microg/kg over 5 minutes followed by 0.2 microg/kg/min for 25 minutes </plain></SENT>
+<SENT sid="3" pm="."><plain>Variables before and after administration were compared by paired t tests </plain></SENT>
+<SENT sid="4" pm="."><plain>Heart rate and cardiac index increased while no significant changes occurred in oxygen saturation of mixed venous blood, or oxygen extraction ratio </plain></SENT>
+<SENT sid="5" pm="."><plain>Cortical blood flow increased and cerebral vascular resistance decreased significantly, but oxygen saturation in the jugular bulb, arterio-jugular difference of oxygen content, and <z:chebi fb="4" ids="24996">lactate</z:chebi> oxygen index did not change significantly </plain></SENT>
+<SENT sid="6" pm="."><plain>In conclusion, olprinone <z:mp ids='MP_0003394'>increased cardiac output</z:mp> and cortical blood flow in patients with <z:hpo ids='HP_0002138'>subarachnoid hemorrhage</z:hpo>, but the balance between oxygen supply and consumption systemically and in the brain did not change </plain></SENT>
+<SENT sid="7" pm="."><plain>This observation suggests the possibility that olprinone increases cerebral metabolism </plain></SENT>
+</text></document>

@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Activation of T cells was shown to up-regulate the Fas ligand (FasL) which binds to the CD95 (<z:chebi fb="16" ids="53704">APO</z:chebi>-1/Fas) antigen and mediates activation-induced cell <z:hpo ids='HP_0011420'>death</z:hpo> (AICD) of activated T cells and T <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cells </plain></SENT>
+<SENT sid="1" pm="."><plain>A recent report showed that mouse B cells express the FasL upon activation with <z:chebi fb="0" ids="16412">lipopolysaccharide</z:chebi> (LPS) </plain></SENT>
+<SENT sid="2" pm="."><plain>We therefore asked whether activation of human B cells induces expression of FasL and whether AICD is mediated, as in T cells, through autocrine production of the FasL </plain></SENT>
+<SENT sid="3" pm="."><plain>We used human tonsillar B cells and Burkitt <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cell lines which were activated by CD40 ligand, surface (s)IgM cross-linking, or LPS </plain></SENT>
+<SENT sid="4" pm="."><plain>Northern and Western blot analysis failed to detect FasL during B cell activation or AICD of both <z:mpath ids='MPATH_458'>normal</z:mpath> and malignant B cells </plain></SENT>
+<SENT sid="5" pm="."><plain>Low-level expression of FasL was detected by reverse transcriptase-polymerase chain reaction </plain></SENT>
+<SENT sid="6" pm="."><plain>Functional experiments, however, showed that FasL is not functionally expressed upon activation </plain></SENT>
+<SENT sid="7" pm="."><plain>IgM-mediated AICD in the tonsillar or Burkitt <z:hpo ids='HP_0002665'>lymphoma</z:hpo> B cells could not be inhibited by FasL blocking </plain></SENT>
+<SENT sid="8" pm="."><plain>Thus, our data show that, in contrast to T cells, activation of <z:mpath ids='MPATH_458'>normal</z:mpath> or malignant human B cells does not lead to functional FasL expression </plain></SENT>
+</text></document>

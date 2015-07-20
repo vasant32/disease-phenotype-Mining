@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Maps of "time to peak" (<z:chebi fb="1" ids="18284">TTP</z:chebi>) and "percentage of baseline at peak" (PBP) were compared with maps of conventional brain perfusion parameters, namely, mean transit time (<z:chebi fb="0" ids="53233">MTT</z:chebi>) and relative cerebral blood volume (rCBV) </plain></SENT>
+<SENT sid="1" pm="."><plain>We performed <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e> perfusion studies in 11 patients </plain></SENT>
+<SENT sid="2" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> of them had occlusion or high-grade stenosis of the unilateral carotid artery </plain></SENT>
+<SENT sid="3" pm="."><plain>Three areas of old <z:mpath ids='MPATH_124'>infarct</z:mpath>, 4 areas of new <z:mpath ids='MPATH_124'>infarct</z:mpath>, and 10 areas of brain without <z:mpath ids='MPATH_124'>infarct</z:mpath> were evaluated specifically </plain></SENT>
+<SENT sid="4" pm="."><plain>In <z:hpo ids='HP_0000001'>all</z:hpo> these cases, the <z:chebi fb="1" ids="18284">TTP</z:chebi> maps appeared similar to the <z:chebi fb="0" ids="53233">MTT</z:chebi> maps </plain></SENT>
+<SENT sid="5" pm="."><plain>They showed increases, <z:mpath ids='MPATH_458'>normal</z:mpath> values, or decreases at the same time in <z:hpo ids='HP_0000001'>all</z:hpo> areas evaluated </plain></SENT>
+<SENT sid="6" pm="."><plain>Most areas of abnormally decreased CBV had increased signal in PBP maps </plain></SENT>
+<SENT sid="7" pm="."><plain>In conclusion, the <z:chebi fb="1" ids="18284">TTP</z:chebi> map provided the same qualitative information as <z:chebi fb="0" ids="53233">MTT</z:chebi> </plain></SENT>
+<SENT sid="8" pm="."><plain>PBP seemed correlated inversely to CBV and was less sensitive in demonstrating abnormality </plain></SENT>
+</text></document>

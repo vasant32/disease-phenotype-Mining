@@ -1,0 +1,18 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Thirty-eight patients who met the diagnostic criteria for severe <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> underwent allogeneic hematopoietic stem cell transplantation (HSCT) </plain></SENT>
+<SENT sid="1" pm="."><plain>The median patient age was 20 years (range, 14-36 years) </plain></SENT>
+<SENT sid="2" pm="."><plain>Twenty-four patients were treatment-naïve, 11 had failed one or more previous courses of immunosuppressive therapy, and 3 had failed a previous HSCT </plain></SENT>
+<SENT sid="3" pm="."><plain>The conditioning regimen included fludarabine 30 mg/m(2)/day for 3 days (days -9, -8, and -7) and <z:chebi fb="0" ids="4027">cyclophosphamide</z:chebi> 50 mg/kg/day for 4 days (days -5, -4, -3, and -2) </plain></SENT>
+<SENT sid="4" pm="."><plain><z:e sem="disease" ids="C0018133" disease_type="Disease or Syndrome" abbrv="GVH">Graft-versus-host disease</z:e> (GVHD) prophylaxis consisted of <z:chebi fb="0" ids="4031">cyclosporine</z:chebi> and short-course <z:chebi fb="0" ids="44185">methotrexate</z:chebi> </plain></SENT>
+<SENT sid="5" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> patients underwent transplantation with unmanipulated bone marrow as the stem cell source </plain></SENT>
+<SENT sid="6" pm="."><plain>The median total nucleated cell (TNC) dose was 2.43 × 10(8)/kg (range, 0.60-6.7 × 10(8)/ kg) </plain></SENT>
+<SENT sid="7" pm="."><plain>The conditioning regimen was well tolerated, with minimal treatment-related mortality </plain></SENT>
+<SENT sid="8" pm="."><plain>Engraftment was observed in <z:hpo ids='HP_0000001'>all</z:hpo> patients after transplantation; the median time to engraftment of neutrophils and platelets was 18 and 23 days, respectively </plain></SENT>
+<SENT sid="9" pm="."><plain>Twenty-five of the 27 patients with available chimeric studies at day 180 maintained donor chimerism </plain></SENT>
+<SENT sid="10" pm="."><plain><z:hpo ids='HP_0011009'>Acute</z:hpo> GVHD grade ≥II was diagnosed in 4 patients (11%) </plain></SENT>
+<SENT sid="11" pm="."><plain>Extensive <z:hpo ids='HP_0011010'>chronic</z:hpo> GVHD was observed in 8 patients (25%) who survived beyond day +100, at a median observation time of 43 months </plain></SENT>
+<SENT sid="12" pm="."><plain>Graft rejection with relapse of aplais was observed in one patient </plain></SENT>
+<SENT sid="13" pm="."><plain>The overall survival (OS) for the whole group was 79% </plain></SENT>
+<SENT sid="14" pm="."><plain>A trend toward improved OS was observed in the treatment-naïve patients (83% vs 71%), but this was statistically insignificant (P = .384) </plain></SENT>
+<SENT sid="15" pm="."><plain>The fludarabine-based conditioning regimen used in this study with relatively young cohort of patients was well tolerated, with a low rate of rejection and treatment outcomes comparable to those seen in other, more intense and potentially more toxic conditioning regimens </plain></SENT>
+<SENT sid="16" pm="."><plain>Our results await validation in a larger study, optimally in a randomized controlled manner </plain></SENT>
+</text></document>

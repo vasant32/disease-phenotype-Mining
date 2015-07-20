@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We report a patient with <z:hpo ids='HP_0002863'>myelodysplasia</z:hpo> and bone marrow <z:mp ids='MP_0003045'>fibrosis</z:mp> </plain></SENT>
+<SENT sid="1" pm="."><plain>We managed him with regular blood transfusion for a period of 16 months </plain></SENT>
+<SENT sid="2" pm="."><plain>A modest dose of <z:chebi fb="0" ids="17823">calcitriol</z:chebi> (1,25-dihydroxycholecalciferol) 0.75 microg daily for 12 weeks resulted in a gradual but complete response in his <z:chebi fb="34" ids="35143">haemoglobin</z:chebi> level </plain></SENT>
+<SENT sid="3" pm="."><plain>There were significant bone marrow changes in that the <z:mp ids='MP_0003045'>fibrosis</z:mp> has completely disappeared although the marrow cytology remained dysplastic </plain></SENT>
+<SENT sid="4" pm="."><plain>The <z:mpath ids='MPATH_458'>normal</z:mpath> <z:chebi fb="34" ids="35143">haemoglobin</z:chebi> level persists despite an intensive venesection programme aimed at reducing <z:e sem="disease" ids="C0282193" disease_type="Disease or Syndrome" abbrv="">iron overload</z:e> </plain></SENT>
+<SENT sid="5" pm="."><plain>We conclude that <z:chebi fb="0" ids="17823">calcitriol</z:chebi> should be given for at least 12 weeks in patients with <z:hpo ids='HP_0002863'>myelodysplasia</z:hpo> especially if there is a fibrotic element in the bone marrow </plain></SENT>
+<SENT sid="6" pm="."><plain>The role of venesection in maintaining remission is a speculative </plain></SENT>
+</text></document>

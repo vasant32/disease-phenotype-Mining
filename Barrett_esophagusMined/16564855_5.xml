@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: It has been suggested that <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> (BE) is associated with an increased risk of developing colorectal <z:hpo ids='HP_0002664'>neoplasia</z:hpo>, but this has not been reported consistently </plain></SENT>
+<SENT sid="1" pm="."><plain>AIM: To study whether BE is associated with an increased risk of colorectal <z:hpo ids='HP_0002664'>neoplasia</z:hpo>, and if it is, whether it is dependent on use of <z:chebi fb="0" ids="49200">proton-pump inhibitors</z:chebi> (<z:chebi fb="4" ids="53266">PPIs</z:chebi>) or aspirin and <z:chebi fb="2" ids="35475">nonsteroidal anti-inflammatory drugs</z:chebi> (<z:chebi fb="1" ids="35475">NSAIDs</z:chebi>) </plain></SENT>
+<SENT sid="2" pm="."><plain>DESIGN: Case-control study </plain></SENT>
+<SENT sid="3" pm="."><plain>SETTING: Endoscopic database of the Palo Alto Veterans Affairs Health Care System </plain></SENT>
+<SENT sid="4" pm="."><plain>POPULATION: 268 veterans with BE were matched with 268 controls without BE </plain></SENT>
+<SENT sid="5" pm="."><plain>INTERVENTION: Controls had undergone upper GI endoscopy within 14 days of the corresponding case </plain></SENT>
+<SENT sid="6" pm="."><plain>Colonoscopy was performed within 6 months in cases and controls </plain></SENT>
+<SENT sid="7" pm="."><plain>MAIN OUTCOME MEASURE: Development of colorectal <z:hpo ids='HP_0002664'>neoplasia</z:hpo> </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: Colorectal <z:hpo ids='HP_0002664'>neoplasia</z:hpo> was present in 162 of 268 (60%) BE patients and in 105 of 268 (40%) controls (p &lt; 0.001) </plain></SENT>
+<SENT sid="9" pm="."><plain>The presence of BE (odds ratio [OR] 2.02: 95% CI [1.35, 3.04]), but also increasing age (OR 1.24 per decade: 95% CI [1.04, 1.48]) and alcohol use (OR 1.70: 95% CI [1.16, 2.50]) were associated with an increased risk of colorectal <z:hpo ids='HP_0002664'>neoplasia</z:hpo> in multivariable logistic regression analysis, whereas <z:chebi fb="4" ids="53266">PPIs</z:chebi> (OR 0.99: 95% CI [0.66, 1.48]) and aspirin/<z:chebi fb="1" ids="35475">NSAIDs</z:chebi> (OR 0.90: 95% CI [0.61, 1.33]) had no meaningful effect </plain></SENT>
+<SENT sid="10" pm="."><plain>LIMITATIONS: This was a retrospective study in mostly male veterans </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: Veterans with BE are at an increased risk of developing colorectal <z:hpo ids='HP_0002664'>neoplasia</z:hpo> </plain></SENT>
+<SENT sid="12" pm="."><plain>This association is independent from the use of <z:chebi fb="4" ids="53266">PPIs</z:chebi> or aspirin/<z:chebi fb="1" ids="35475">NSAIDs</z:chebi> </plain></SENT>
+</text></document>

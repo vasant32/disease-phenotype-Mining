@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:chebi fb="15" ids="17659">UDP</z:chebi>-glucuronosyltransferase (UGT) enzymes are responsible for the glucuronidation and detoxification of many endogenous or exogenous <z:chebi fb="0" ids="35703">xenobiotics</z:chebi> </plain></SENT>
+<SENT sid="1" pm="."><plain><z:e sem="disease" ids="C0017551" disease_type="Disease or Syndrome" abbrv="">Gilbert's syndrome</z:e> (GS) and <z:e sem="disease" ids="C0010324" disease_type="Disease or Syndrome" abbrv="">Crigler Najjar syndrome</z:e> type 2 (<z:chebi fb="7" ids="29425,29426,29441,29447">CNS</z:chebi>-II) are characterized by <z:hpo ids='HP_0008282'>unconjugated hyperbilirubinemia</z:hpo> due to reduced enzymatic activity of UGT1A1 </plain></SENT>
+<SENT sid="2" pm="."><plain>Recent studies have demonstrated the frequent co-existence of UGT1A1 *28 (-53 [TA]6&gt;7) with other polymorphisms of UGT1A6 and UGT1A7 </plain></SENT>
+<SENT sid="3" pm="."><plain>This finding suggests the occurrence of linkage disequilibrium (LD) among UGT1A1, UGT1A6 and UGT1A7 polymorphisms </plain></SENT>
+<SENT sid="4" pm="."><plain>UGT1A1 *6 (211G&gt;A, G71R) and UGT1A1 *28 are common in Asian populations </plain></SENT>
+<SENT sid="5" pm="."><plain>In the present study, we investigated the LD of UGT1A1 *6 and UGT1A1 *28 in relation to UGT1A6 and UGT1A7 polymorphisms </plain></SENT>
+<SENT sid="6" pm="."><plain>Exon 1 of UGT1A1, UGT1A6 and UGT1A7 was sequenced using genomic DNA isolated from peripheral leukocytes of 390 Japanese subjects </plain></SENT>
+<SENT sid="7" pm="."><plain>LD and haplotypes were analyzed using SNPAlyze ver </plain></SENT>
+<SENT sid="8" pm="."><plain>5.0 software </plain></SENT>
+<SENT sid="9" pm="."><plain>UGT1A1 *6 had a strong LD in relation to UGT1A6 variants including 541A&gt;G and 552A&gt;C (D'=0.846-0.848, r(2)=0.413-0.438) and UGT1A7 variants including 387T&gt;G, 391C&gt;A, 392G&gt;A and 622T&gt;C (D'=0.667-0.858, r(2)=0.207-0.413) </plain></SENT>
+<SENT sid="10" pm="."><plain>UGT1A1 *28 had a lower degree of LD than UGT1A1 *6 in relation to these variants (D'=0.245-0.401, r(2)=0.025-0.063) </plain></SENT>
+<SENT sid="11" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> the haplotypes with G71R lacked -53[TA]6&gt;7 </plain></SENT>
+<SENT sid="12" pm="."><plain>The present study showed for the first time that the LD of UGT1A1 *6 in relation to UGT1A6 and 1A7 polymorphisms is far stronger than UGT1A1 *28 </plain></SENT>
+<SENT sid="13" pm="."><plain>The UGT1A1 *6 allele appears to be independent of the UGT1A1 *28 allele </plain></SENT>
+<SENT sid="14" pm="."><plain>Although patients with GS and <z:chebi fb="7" ids="29425,29426,29441,29447">CNS</z:chebi>-II are believed to have good prognosis, a subgroup of GS or <z:chebi fb="7" ids="29425,29426,29441,29447">CNS</z:chebi>-II patients with the UGT1A1 *6 polymorphism might be at risk of abnormal drug metabolism and of developing malignant disease </plain></SENT>
+</text></document>

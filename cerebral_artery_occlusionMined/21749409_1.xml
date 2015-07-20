@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A delipid extracorporeal <z:chebi fb="1" ids="6495">lipoprotein</z:chebi> filter (DELP) system has been used to treat patients with <z:hpo ids='HP_0001297'>stroke</z:hpo> and has shown favorable prognosis </plain></SENT>
+<SENT sid="1" pm="."><plain>However, the mechanism for the neuronal functional recovery remains unclear </plain></SENT>
+<SENT sid="2" pm="."><plain>This study aimed to investigate the neuronal histological assessment, and the levels of C-reactive protein (CRP), <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> <z:mp ids='MP_0001651'>necrosis</z:mp> factor alpha (TNF-α), and oxidized <z:chebi fb="2" ids="39026">low-density lipoprotein</z:chebi> (oxLDL) after <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> following DELP treatment </plain></SENT>
+<SENT sid="3" pm="."><plain>Hyperlipidemic rabbits underwent middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> </plain></SENT>
+<SENT sid="4" pm="."><plain>After 30 min, the animals received an extracorporeal apheresis treatment with a DELP filter </plain></SENT>
+<SENT sid="5" pm="."><plain>Total cholesterol (TC), <z:chebi fb="0" ids="17855">triglyceride</z:chebi>, and <z:chebi fb="2" ids="39026">low-density lipoprotein</z:chebi> (<z:chebi fb="15" ids="39026">LDL</z:chebi>) of the plasma were measured </plain></SENT>
+<SENT sid="6" pm="."><plain>The levels of CRP, TNF-α, and oxLDL in brain tissue were also measured by enzyme-linked immunosorbent assay </plain></SENT>
+<SENT sid="7" pm="."><plain><z:chebi fb="1" ids="51686">Hematoxylin</z:chebi> and eosin staining, <z:chebi fb="0" ids="52815">cresyl violet</z:chebi> staining, neuron-specific enolase (NSE) and glial fibrillary acidic protein immunohistochemistry, and terminal deoxynucleotidyl transferase-mediated <z:chebi fb="0" ids="17625">dUTP</z:chebi> nick end labeling (TUNEL) assay were performed </plain></SENT>
+<SENT sid="8" pm="."><plain>DELP apheresis reduced TC and <z:chebi fb="15" ids="39026">LDL</z:chebi> by &gt;30% </plain></SENT>
+<SENT sid="9" pm="."><plain>The number of neurons at day 7 (P &lt; 0.01) and the integrated optical density of NSE at day 1 (P &lt; 0.05) and day 7 (P &lt; 0.01) were significantly increased in the DELP group </plain></SENT>
+<SENT sid="10" pm="."><plain>TUNEL-positive cells were significantly decreased (P &lt; 0.05) </plain></SENT>
+<SENT sid="11" pm="."><plain>Astrocytes were moderately activated, and this activation persisted up to 7 days </plain></SENT>
+<SENT sid="12" pm="."><plain><z:hpo ids='HP_0002171'>Gliosis</z:hpo> was not found in the DELP group </plain></SENT>
+<SENT sid="13" pm="."><plain>After treatment, the level of CRP declined at day 1 (P &lt; 0.05); TNF-α and oxLDL declined at day 7 (P &lt; 0.05) </plain></SENT>
+<SENT sid="14" pm="."><plain>DELP apheresis <z:mp ids='MP_0003204'>decreased neuronal apoptosis</z:mp>, reduced inflammatory markers and <z:mp ids='MP_0003674'>oxidative stress</z:mp> in <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo>, and improved neuronal survival </plain></SENT>
+</text></document>

@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 48-year-old female received serial combination chemotherapy including L-asparaginase (L-ASP) for <z:hpo ids='HP_0006721'>acute lymphoblastic leukemia</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>After administration of L-ASP, the prothrombin time and activated partial thromboplastin time were prolonged, while fibrinogen and antithrombin III levels markedly decreased, so she was given fresh frozen plasma (FFP) </plain></SENT>
+<SENT sid="2" pm="."><plain>But subsequently, she developed <z:e sem="disease" ids="C0007785" disease_type="Disease or Syndrome" abbrv="">cerebral infarction</z:e> in the left parietal region and further hemorrhagic infarction in the right parietal region, and died </plain></SENT>
+<SENT sid="3" pm="."><plain>Autopsy revealed superior sagittal sinus <z:mp ids='MP_0005048'>thrombosis</z:mp> and bilateral <z:e sem="disease" ids="C0007785" disease_type="Disease or Syndrome" abbrv="">cerebral infarction</z:e>, but no obvious <z:e sem="disease" ids="C0302148,C0087086" disease_type="Disease or Syndrome;Acquired Abnormality" abbrv="">thrombus</z:e> in other organs </plain></SENT>
+<SENT sid="4" pm="."><plain><z:hpo ids='HP_0003256'>Coagulopathy</z:hpo> following L-ASP therapy is well-known </plain></SENT>
+<SENT sid="5" pm="."><plain>In this case, the coagulation studies at the first attack showed that the plasma protein levels of coagulation and fibrinolysis factors decreased in spite of administration of FFP </plain></SENT>
+<SENT sid="6" pm="."><plain>Fibrin-fibrinogen degradation products (FDP) slightly increased </plain></SENT>
+<SENT sid="7" pm="."><plain>However there were no significant abnormalities in the platelet count, nor soluble fibrin monomer, which suggested no evidence of <z:hpo ids='HP_0005521'>disseminated intravascular coagulation</z:hpo> </plain></SENT>
+<SENT sid="8" pm="."><plain>Thus, these findings suggest that L-ASP might be associated with the pathogenesis of <z:mp ids='MP_0005048'>thrombosis</z:mp> in this case </plain></SENT>
+</text></document>

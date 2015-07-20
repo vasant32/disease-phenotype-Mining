@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 31-year-old woman with <z:e sem="disease" ids="C0026654" disease_type="Disease or Syndrome" abbrv="MYMY|MYMY1">moyamoya disease</z:e> presented with <z:hpo ids='HP_0002072'>choreiform movements</z:hpo> persisting for 4.5 years </plain></SENT>
+<SENT sid="1" pm="."><plain>Magnetic resonance imaging showed a fine vascular plexus in the base of the brain but no parenchymal brain damage </plain></SENT>
+<SENT sid="2" pm="."><plain>Cerebral angiography revealed intracranial <z:hpo ids='HP_0002597'>vascular abnormalities</z:hpo> compatible with <z:e sem="disease" ids="C0026654" disease_type="Disease or Syndrome" abbrv="MYMY|MYMY1">moyamoya disease</z:e> </plain></SENT>
+<SENT sid="3" pm="."><plain>Single <z:chebi fb="23" ids="30212">photon</z:chebi> emission computed tomography with N-<z:chebi fb="0" ids="30353">isopropyl</z:chebi>-p-(123)I-iodoamphetamine showed definite reduction of the regional cerebral blood flow (rCBF) in the bilateral striata and frontotemporoparietal cortex </plain></SENT>
+<SENT sid="4" pm="."><plain>rCBF study with <z:chebi fb="0" ids="27690">acetazolamide</z:chebi> administration indicated marked decrease of rCBF reserve in those regions </plain></SENT>
+<SENT sid="5" pm="."><plain>She underwent indirect bypass surgery (encephalo-duro-arterio-myo-synangiosis) under a diagnosis of <z:e sem="disease" ids="C0026654" disease_type="Disease or Syndrome" abbrv="MYMY|MYMY1">moyamoya disease</z:e> </plain></SENT>
+<SENT sid="6" pm="."><plain>The choreic <z:hpo ids='HP_0004305'>involuntary movements</z:hpo> disappeared shortly after surgery </plain></SENT>
+<SENT sid="7" pm="."><plain>Postoperative angiography showed neovascularization in the extracranial to intracranial direction, associated with dramatic increase in rCBF in the involved regions </plain></SENT>
+</text></document>

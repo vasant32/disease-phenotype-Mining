@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> (BE) is a precursor lesion of esophageal <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> </plain></SENT>
+<SENT sid="1" pm="."><plain>Besides <z:hpo ids='HP_0002020'>gastroesophageal reflux</z:hpo>, possible risk factors for BE include overweight, cigarette smoking, and alcohol consumption </plain></SENT>
+<SENT sid="2" pm="."><plain>Our objective was to study these associations by using prospective data </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: The prospective Netherlands Cohort Study, initiated in 1986, consists of 120,852 men and women, aged 55 to 69 years at baseline </plain></SENT>
+<SENT sid="4" pm="."><plain>At baseline, <z:hpo ids='HP_0000001'>all</z:hpo> subjects completed a questionnaire on dietary habits and lifestyle </plain></SENT>
+<SENT sid="5" pm="."><plain>After 16.3 years of follow-up, 370 BE cases with specialized <z:mpath ids='MPATH_167'>intestinal metaplasia</z:mpath> and 3,866 subcohort members were available for case-cohort analysis </plain></SENT>
+<SENT sid="6" pm="."><plain>Cox proportional hazards models were used to calculate incidence rate ratios (RR) and 95% CIs </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: Body mass index (BMI) at baseline was associated with risk of BE in women [multivariable adjusted RR per 1 kg/m(2), 1.07 (1.03-1.11)] but not in men [RR per 1 kg/m(2), 0.99 (0.93-1.05)] </plain></SENT>
+<SENT sid="8" pm="."><plain>The association in women was not specifically due to abdominal overweight </plain></SENT>
+<SENT sid="9" pm="."><plain>Former cigarette smokers were at increased risk of BE (RR = 1.33, 95% CI: 1.00-1.77), but current smokers were not </plain></SENT>
+<SENT sid="10" pm="."><plain>Smoking duration showed a positive association with BE risk (P(trend) = 0.03) </plain></SENT>
+<SENT sid="11" pm="."><plain>For alcohol consumption, the RR per 10 g <z:chebi fb="37" ids="16236,44730">ethanol</z:chebi>/d was 0.95 (0.87-1.03) </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: <z:mp ids='MP_0006087'>Increased BMI</z:mp> was a risk factor for BE in women but not in men </plain></SENT>
+<SENT sid="13" pm="."><plain>Several aspects of cigarette smoking were positively associated with BE risk </plain></SENT>
+<SENT sid="14" pm="."><plain>Alcohol consumption was not associated with an increased risk of BE </plain></SENT>
+<SENT sid="15" pm="."><plain>IMPACT: Future research should focus on risk factors both for development and for progression of BE to esophageal <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> </plain></SENT>
+</text></document>

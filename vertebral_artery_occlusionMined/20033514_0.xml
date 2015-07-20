@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: The aim of this work is to establish a computational pipeline for the simulation of blood flow in vasculatures and apply this pipeline to endovascular interventional scenarios, e.g. angioplasty in vertebral arteries </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: A patient-specific supra-aortal vasculature is digitized from a 3D CT angiography image </plain></SENT>
+<SENT sid="2" pm="."><plain>By coupling a reduced formulation of the governing Navier-Stokes equations with a wall constitutive equation we are able to solve the transient flow in elastic vessels </plain></SENT>
+<SENT sid="3" pm="."><plain>By further incorporating a bifurcation model the blood flow across vascular branches can be evaluated, thus flow in a large vasculature can be modeled </plain></SENT>
+<SENT sid="4" pm="."><plain><z:e sem="disease" ids="C0042373" disease_type="Disease or Syndrome" abbrv="">Vascular diseases</z:e> are simulated by modifying the arterial tree configurations, e.g. the effective diameters, schematic connectivity, etc </plain></SENT>
+<SENT sid="5" pm="."><plain>Occlusion in an artery is simulated by removing that artery from the arterial tree </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: It takes about 2 min per cardiac cycle to compute blood flow in an arterial tree consisting of 38 vessels and 18 bifurcations on a laptop PC </plain></SENT>
+<SENT sid="7" pm="."><plain>The simulation results show that blood supply in the posterior region is compensated from the contralateral vertebral artery and the anterior cerebral arteries if one of the vertebral arteries is occluded </plain></SENT>
+<SENT sid="8" pm="."><plain>CONCLUSION: The computational pipeline is computationally efficient and can capture main flow patterns at any point in the arterial tree </plain></SENT>
+<SENT sid="9" pm="."><plain>With further improvement it can serve as a powerful tool for the haemodynamic analysis in patient-specific vascular structures </plain></SENT>
+</text></document>

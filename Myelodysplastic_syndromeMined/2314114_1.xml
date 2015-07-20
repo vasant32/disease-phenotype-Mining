@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>This study examines the effect of <z:chebi fb="1" ids="16040">cytosine</z:chebi> <z:chebi fb="0" ids="22601">arabinoside</z:chebi> (Ara-C) on CFU-GM progenitor cells grown in <z:chebi fb="0" ids="53448">methylcellulose</z:chebi> culture from <z:mpath ids='MPATH_458'>normal</z:mpath> and myelodysplastic subjects and patients with <z:hpo ids='HP_0011009'>acute</z:hpo> non-lymphoblastic <z:mpath ids='MPATH_336'>leukaemia</z:mpath> </plain></SENT>
+<SENT sid="1" pm="."><plain>Light density marrow cells were incubated during culture with Ara-C concentrations ranging from 10(-4) M to 10(-12) M </plain></SENT>
+<SENT sid="2" pm="."><plain>After counting, colonies were cytospun and cells within the colonies examined for alkaline phosphatase positivity and expression of HLA-DR antigen, as indices of differentiation </plain></SENT>
+<SENT sid="3" pm="."><plain>Monocytes/macrophages were also enumerated in colonies using the monoclonal antibody CD14 </plain></SENT>
+<SENT sid="4" pm="."><plain>In <z:hpo ids='HP_0000001'>all</z:hpo> subjects, 10(-4) M to 10(-6) M Ara-C caused significant reduction in CFU-GM colony formation compared with control (no Ara-C) </plain></SENT>
+<SENT sid="5" pm="."><plain>In no instance did colony numbers increase </plain></SENT>
+<SENT sid="6" pm="."><plain>Ara-C across the dose curve had no effect on myeloid differentiation markers in any of the groups studied </plain></SENT>
+<SENT sid="7" pm="."><plain>Similarly, percentages of CD14 positive cells in colonies were not altered by exposure to Ara-C </plain></SENT>
+<SENT sid="8" pm="."><plain>Using this clonogenic model, these data suggest that Ara-C does not induce differentiation of CFU-GM stem cells in <z:mpath ids='MPATH_458'>normal</z:mpath> subjects or patients with <z:hpo ids='HP_0002863'>myelodysplasia</z:hpo>/<z:hpo ids='HP_0011009'>acute</z:hpo> non lymphoblastic <z:hpo ids='HP_0001909'>leukemia</z:hpo> </plain></SENT>
+</text></document>

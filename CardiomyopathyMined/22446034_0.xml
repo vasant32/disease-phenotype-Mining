@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: Our aim was to determine if silent <z:hpo ids='HP_0001658'>myocardial infarction</z:hpo> (MI) is more common in women with type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> than in men </plain></SENT>
+<SENT sid="1" pm="."><plain>Our secondary aim was to examine the relationships between silent MI and risk factors for <z:e sem="disease" ids="C0007222" disease_type="Disease or Syndrome" abbrv="CVD">cardiovascular disease</z:e> </plain></SENT>
+<SENT sid="2" pm="."><plain>RESEARCH DESIGN AND METHODS: The Action to Control Cardiovascular Risk in <z:mp ids='MP_0002055'>Diabetes</z:mp> (ACCORD) database was used to determine if women had more silent MI on baseline electrocardiograms (ECGs) than did men with a similar unremarkable cardiovascular history </plain></SENT>
+<SENT sid="3" pm="."><plain>MI was diagnosed using ECG analysis according to the Minnesota code </plain></SENT>
+<SENT sid="4" pm="."><plain>Multivariable logistic regression analysis was used to compare demographic and clinical associations </plain></SENT>
+<SENT sid="5" pm="."><plain>Interactive effects of risk factors by gender were tested using a forward selection algorithm </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: Men were found to have a higher prevalence of silent MI on baseline ECGs than women (6% vs 4%, P = .001) </plain></SENT>
+<SENT sid="7" pm="."><plain>Women had lower odds of silent MI than men after adjusting for other risk factors (OR = 0.80, P = .04) </plain></SENT>
+<SENT sid="8" pm="."><plain>Race and ethnicity were significantly associated with silent MI (P = .02), with Asians having the highest and African Americans and Hispanics having lower odds relative to whites </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSIONS: Our main findings provide no evidence that silent MI, as detected by the Minnesota code, was more common in women than in men in the ACCORD cohort </plain></SENT>
+<SENT sid="10" pm="."><plain>If, as in the general population, the women in ACCORD are found to have a higher <z:e sem="disease" ids="C0018799" disease_type="Disease or Syndrome" abbrv="">heart disease</z:e> mortality rate than the men, it seems unlikely that failure to recognize clinically silent <z:e sem="disease" ids="C0018799" disease_type="Disease or Syndrome" abbrv="">heart disease</z:e> in the years before study enrollment could be a major cause </plain></SENT>
+</text></document>

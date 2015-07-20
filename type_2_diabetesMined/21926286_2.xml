@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE To evaluate the performance of the <z:hpo ids='HP_0011010'>Chronic</z:hpo> <z:e sem="disease" ids="C0022658" disease_type="Disease or Syndrome" abbrv="">Kidney Disease</z:e> Epidemiology Collaboration (CKD-EPI) equation to estimate glomerular filtration rate (GFR) in type 2 diabetic patients with GFR &gt;60 mL/min/1.73 m(2) </plain></SENT>
+<SENT sid="1" pm="."><plain>RESEARCH DESIGN AND METHODS This was a cross-sectional study including 105 type 2 diabetic patients </plain></SENT>
+<SENT sid="2" pm="."><plain>GFR was measured by (51)Cr-EDTA method and estimated by the MDRD and CKD-EPI equations </plain></SENT>
+<SENT sid="3" pm="."><plain>Serum <z:chebi fb="0" ids="16737">creatinine</z:chebi> was measured by the traceable Jaffe method </plain></SENT>
+<SENT sid="4" pm="."><plain>Bland-Altman plots were used </plain></SENT>
+<SENT sid="5" pm="."><plain>Bias, accuracy (P30), and precision were evaluated </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS The mean age of patients was 57 ± 8 years; 53 (50%) were men and 90 (86%) were white </plain></SENT>
+<SENT sid="7" pm="."><plain>Forty-six (44%) patients had <z:mp ids='MP_0002959'>microalbuminuria</z:mp>, and 14 (13%) had macroalbuminuria </plain></SENT>
+<SENT sid="8" pm="."><plain>(51)Cr-EDTA GFR was 103 ± 23, CKD-EPI GFR was 83 ± 15, and MDRD-GFR was 78 ± 17 mL/min/1.73 m² (P &lt; 0.001) </plain></SENT>
+<SENT sid="9" pm="."><plain>Accuracy (95% CI) was 67% (58-74) for CKD-EPI and 64% (56-75) for MDRD </plain></SENT>
+<SENT sid="10" pm="."><plain>Precision was 21 and 22, respectively </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS The CKD-EPI and MDRD equations pronouncedly underestimated GFR in type 2 diabetic patients </plain></SENT>
+</text></document>

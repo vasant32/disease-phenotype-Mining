@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>In colorectal <z:mp ids='MP_0002038'>carcinoma</z:mp>, KRAS (alias Ki-ras) and BRAF mutations have emerged as predictors of resistance to anti-epidermal growth factor receptor antibody treatment and worse patient outcome, respectively </plain></SENT>
+<SENT sid="1" pm="."><plain>In this study, we aimed to establish a high-throughput deep-sequencing workflow according to 454 pyrosequencing technology to cope with the increasing demand for sequence information at medical institutions </plain></SENT>
+<SENT sid="2" pm="."><plain>A cohort of 81 patients with known KRAS mutation status detected by Sanger sequencing was chosen for deep-sequencing </plain></SENT>
+<SENT sid="3" pm="."><plain>The workflow allowed us to analyze seven amplicons (one BRAF, two KRAS, and four TP53 exons) of nine patients in parallel in one deep-sequencing run </plain></SENT>
+<SENT sid="4" pm="."><plain>Target amplification and variant calling showed reproducible results with input DNA derived from FFPE tissue that ranged from 0.4 to 50 ng with the use of different targets and multiplex identifiers </plain></SENT>
+<SENT sid="5" pm="."><plain>Equimolar pooling of each amplicon in a deep-sequencing run was necessary to counterbalance differences in patient tissue quality </plain></SENT>
+<SENT sid="6" pm="."><plain>Five BRAF and 49 TP53 mutations with functional consequences were detected </plain></SENT>
+<SENT sid="7" pm="."><plain>The lowest mutation frequency detected in a patient <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> population was 5% in TP53 exon 5 </plain></SENT>
+<SENT sid="8" pm="."><plain>This low-frequency mutation was successfully verified in a second PCR and deep-sequencing run </plain></SENT>
+<SENT sid="9" pm="."><plain>In summary, our workflow allows us to process 315 targets a week and provides the quality, flexibility, and speed needed to be integrated as standard procedure for mutational analysis in diagnostics </plain></SENT>
+</text></document>

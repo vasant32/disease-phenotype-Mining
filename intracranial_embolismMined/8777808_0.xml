@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:chebi fb="0" ids="32301">Warfarin potassium</z:chebi> (<z:chebi fb="8" ids="10033">warfarin</z:chebi>) is one of <z:chebi fb="2" ids="50249">anticoagulants</z:chebi> </plain></SENT>
+<SENT sid="1" pm="."><plain>Its <z:chebi fb="3" ids="50249">anticoagulant</z:chebi> effect is induced by inhibiting <z:chebi fb="6" ids="28384">vitamin K</z:chebi> in a complex manner </plain></SENT>
+<SENT sid="2" pm="."><plain>It is used effectively and safely in preventing <z:e sem="disease" ids="C0007780" disease_type="Disease or Syndrome" abbrv="">cerebral embolism</z:e> of cardiac origin, provided that thrombotest (TT) values is maintained from 10 to 20% </plain></SENT>
+<SENT sid="3" pm="."><plain>A 75-year-old man with <z:hpo ids='HP_0005110'>atrial fibrillation</z:hpo> and <z:hpo ids='HP_0001638'>cardiomyopathy</z:hpo> had <z:e sem="disease" ids="C0007780" disease_type="Disease or Syndrome" abbrv="">cerebral embolism</z:e> in the territory of the right middle cerebral artery </plain></SENT>
+<SENT sid="4" pm="."><plain><z:chebi fb="8" ids="10033">Warfarin</z:chebi> therapy was started to prevent the recurrence of embolic <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+<SENT sid="5" pm="."><plain>TT values had been well controlled until intake of chlorella, but they rose above the therapeutic limit after its intake </plain></SENT>
+<SENT sid="6" pm="."><plain>There was no evidence of discontinuing <z:chebi fb="8" ids="10033">warfarin</z:chebi>, or taking drugs containing <z:chebi fb="6" ids="28384">vitamin K</z:chebi> or Natto </plain></SENT>
+<SENT sid="7" pm="."><plain>Chlorella is one of <z:chebi fb="6" ids="28384">vitamin K</z:chebi>-rich foods </plain></SENT>
+<SENT sid="8" pm="."><plain>Thus, it may inhibit the <z:chebi fb="3" ids="50249">anticoagulant</z:chebi> effect of <z:chebi fb="8" ids="10033">warfarin</z:chebi> </plain></SENT>
+</text></document>

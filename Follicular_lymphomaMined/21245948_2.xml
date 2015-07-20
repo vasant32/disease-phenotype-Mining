@@ -1,0 +1,18 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Despite decades of intensive research, NHL (non-Hodgkin <z:hpo ids='HP_0002665'>lymphoma</z:hpo>) still remains poorly understood and is largely incurable </plain></SENT>
+<SENT sid="1" pm="."><plain>Recent molecular studies suggest that genomic variants measured with SNPs (single nucleotide polymorphisms) in genes may have additional predictive power for NHL prognosis beyond clinical risk factors </plain></SENT>
+<SENT sid="2" pm="."><plain>We analyzed a genetic association study </plain></SENT>
+<SENT sid="3" pm="."><plain>The prognostic cohort consisted of 346 patients, among whom 138 had <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">DLBCL</z:e> (diffuse large B-cell <z:hpo ids='HP_0002665'>lymphoma</z:hpo>) and 101 had FL ( follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo>) </plain></SENT>
+<SENT sid="4" pm="."><plain>For <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">DLBCL</z:e>, we analyzed 1229 SNPs which represented 122 KEGG pathways </plain></SENT>
+<SENT sid="5" pm="."><plain>For FL, we analyzed 1228 SNPs which represented 122 KEGG pathways </plain></SENT>
+<SENT sid="6" pm="."><plain>Unlike in existing studies, we targeted at identifying pathways with significant additional predictive power beyond clinical factors </plain></SENT>
+<SENT sid="7" pm="."><plain>In addition, we accounted for the joint effects of multiple SNPs within pathways, whereas some existing studies drew pathway-level conclusions based on separate analysis of individual SNPs </plain></SENT>
+<SENT sid="8" pm="."><plain>For <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">DLBCL</z:e>, we identified four pathways, which, combined with the clinical factors, had medians of the prediction logrank statistics as 2.535, 2.220, 2.094, 2.453, and 2.512, respectively </plain></SENT>
+<SENT sid="9" pm="."><plain>As a comparison, the clinical factors had a median of the prediction logrank statistics around 0.552 </plain></SENT>
+<SENT sid="10" pm="."><plain>For FL, we identified two pathways, which, combined with the clinical factors, had medians of the prediction logrank statistics as 4.320 and 3.532, respectively </plain></SENT>
+<SENT sid="11" pm="."><plain>As a comparison, the clinical factors had a median of the prediction logrank statistics around 1.212 </plain></SENT>
+<SENT sid="12" pm="."><plain>For NHL overall, we identified three pathways, which, combined with the clinical factors, had medians of the prediction logrank statistics as 5.722, 5.314, and 5.441, respective </plain></SENT>
+<SENT sid="13" pm="."><plain>As a comparison, the clinical factors had a median of the prediction logrank statistics around 4.411 </plain></SENT>
+<SENT sid="14" pm="."><plain>The identified pathways have sound biological bases </plain></SENT>
+<SENT sid="15" pm="."><plain>In addition, they are different from those identified using existing approaches </plain></SENT>
+<SENT sid="16" pm="."><plain>They may provide further insights into the biological mechanisms underlying the prognosis of NHL </plain></SENT>
+</text></document>

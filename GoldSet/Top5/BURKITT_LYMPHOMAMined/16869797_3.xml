@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 45-year-old man was admitted with <z:hpo ids='HP_0001945'>fever</z:hpo> and elevated pancreas enzymes 6 months after simultaneous pancreas-kidney transplantation (SPKT) </plain></SENT>
+<SENT sid="1" pm="."><plain>Function of the allografts was <z:mpath ids='MPATH_458'>normal</z:mpath> </plain></SENT>
+<SENT sid="2" pm="."><plain><z:mp ids='MP_0001794'>Bacterial</z:mp> and <z:e sem="disease" ids="C0026946" disease_type="Disease or Syndrome" abbrv="">fungal infections</z:e> were excluded, while Epstein-Barr virus (EBV)-polymerase chain reaction (PCR) was positive </plain></SENT>
+<SENT sid="3" pm="."><plain>However, screening for EBV-associated <z:hpo ids='HP_0002665'>lymphoma</z:hpo> was negative </plain></SENT>
+<SENT sid="4" pm="."><plain><z:e sem="disease" ids="C0149678" disease_type="Disease or Syndrome" abbrv="">EBV infection</z:e> did not respond to antiviral therapy </plain></SENT>
+<SENT sid="5" pm="."><plain>After an <z:chebi fb="0" ids="49134">18F-Fluorodeoxyglucose</z:chebi> <z:chebi fb="4" ids="30225">positron</z:chebi> emission tomography positive signal and an abnormal computed tomography scan of the pancreas transplant, a biopsy revealed a diffuse large monomorphic B-cell <z:hpo ids='HP_0002665'>lymphoma</z:hpo>, which was confined to the grafted organ </plain></SENT>
+<SENT sid="6" pm="."><plain>Its origin was assigned to the donor by microsatellite analysis </plain></SENT>
+<SENT sid="7" pm="."><plain>Reduction of immunosuppression and immunotherapy with rituximab was unsuccessful </plain></SENT>
+<SENT sid="8" pm="."><plain>After 10 weeks, the patient developed an <z:hpo ids='HP_0011009'>acute</z:hpo> <z:hpo ids='HP_0005575'>hemolytic uremic syndrome</z:hpo> which required explantation of the allografts </plain></SENT>
+<SENT sid="9" pm="."><plain>Subsequent to the intervention, <z:hpo ids='HP_0001945'>fever</z:hpo> disappeared, EBV DNA became undetectable and <z:hpo ids='HP_0002665'>lymphoma</z:hpo> screening remained negative </plain></SENT>
+<SENT sid="10" pm="."><plain>In posttransplant <z:hpo ids='HP_0005523'>lymphoproliferative disorder</z:hpo> of donor origin after SPKT, transplantectomy may be a curative therapy </plain></SENT>
+</text></document>

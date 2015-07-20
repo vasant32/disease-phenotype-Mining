@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PURPOSE: The effect of advanced age per se versus severity of <z:hpo ids='HP_0011010'>chronic</z:hpo> and <z:hpo ids='HP_0011009'>acute</z:hpo> diseases on the short- and long-term survival of older patients admitted to the intensive care unit (ICU) remains unclear </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: Intensive care unit admissions to the surgical ICU and medical ICU of patients older than 65 years were analyzed </plain></SENT>
+<SENT sid="2" pm="."><plain>Patients were divided into three age groups: 65-74, 75-84, and 85 and above </plain></SENT>
+<SENT sid="3" pm="."><plain>The primary endpoints were 28-day and 1-year mortality </plain></SENT>
+<SENT sid="4" pm="."><plain>RESULTS: The analysis focused on 7,265 patients above the age of 65, representing 45.7 % of the total ICU population </plain></SENT>
+<SENT sid="5" pm="."><plain>From the first to third age group there was increased prevalence of <z:hpo ids='HP_0001635'>heart failure</z:hpo> (25.9-40.3 %), <z:hpo ids='HP_0011675'>cardiac arrhythmia</z:hpo> (24.6-43.5 %), and <z:hpo ids='HP_0001654'>valvular heart disease</z:hpo> (7.5-15.8 %) </plain></SENT>
+<SENT sid="6" pm="."><plain>There was reduced prevalence of <z:mp ids='MP_0002055'>diabetes</z:mp> complications (7.5-2.4 %), <z:e sem="disease" ids="C0085762" disease_type="Mental or Behavioral Dysfunction" abbrv="aca">alcohol abuse</z:e> (4.1-0.6 %), <z:hpo ids='HP_0006510'>chronic obstructive pulmonary disease</z:hpo> (COPD) (24.4-17.4 %), and <z:hpo ids='HP_0001399'>liver failure</z:hpo> (5.0-1.0 %) </plain></SENT>
+<SENT sid="7" pm="."><plain>Logistic regression analysis adjusted for gender, sequential organ failure assessment, do not resuscitate, and Elixhauser score found that patients from the second and third age group had odds ratios of 1.38 [95 % confidence interval (CI) 1.19-1.59] and 1.53 (95 % CI 1.29-1.81) for 28-day mortality as compared with the first age group </plain></SENT>
+<SENT sid="8" pm="."><plain>Cox regression analysis for 1-year mortality in <z:hpo ids='HP_0000001'>all</z:hpo> populations and in 28-day survivors showed the same trend </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSIONS: The proportion of elderly patients from the total ICU population is high </plain></SENT>
+<SENT sid="10" pm="."><plain>With advancing age, the proportion of various preexisting comorbidities and the primary reason for ICU admission change </plain></SENT>
+<SENT sid="11" pm="."><plain>Advanced age should be regarded as a significant independent risk factor for mortality, especially for ICU patients older than 75 </plain></SENT>
+</text></document>

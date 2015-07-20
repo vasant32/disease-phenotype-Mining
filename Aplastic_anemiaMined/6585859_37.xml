@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Seven children underwent magnetic resonance imaging (MRI) of the bone marrow: results showed that it is technically feasible to obtain good <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e> images of marrow in children </plain></SENT>
+<SENT sid="1" pm="."><plain><z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e> has detected abnormality in the bone marrow of a child who had metastatic <z:hpo ids='HP_0003006'>neuroblastoma</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>The extent of abnormality in the femur correlated well with findings of a bone marrow isotope scan </plain></SENT>
+<SENT sid="3" pm="."><plain>In one child who had idiopathic <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo>, diseased marrow could not be distinguished from <z:mpath ids='MPATH_458'>normal</z:mpath> marrow on <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e> images </plain></SENT>
+<SENT sid="4" pm="."><plain>MRI identified abnormality of the marrow in <z:hpo ids='HP_0002669'>osteogenic sarcoma</z:hpo>, and demonstrated change in response to chemotherapy </plain></SENT>
+<SENT sid="5" pm="."><plain>It displayed marrow spread of <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> as well as CT </plain></SENT>
+<SENT sid="6" pm="."><plain>MRI showed marrow abnormality in four children who had <z:hpo ids='HP_0001909'>leukemia</z:hpo> </plain></SENT>
+</text></document>

@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">Ischemia</z:e>/reperfusion (I/R) injury is associated with systemic <z:mp ids='MP_0001845'>inflammatory response</z:mp> </plain></SENT>
+<SENT sid="1" pm="."><plain>Macrophage migration inhibitory factor (MIF) has been implicated in many inflammatory processes </plain></SENT>
+<SENT sid="2" pm="."><plain>Tanshinone IIA (TSA) is one of the active ingredients in danshen, which derived from the dried root or rhizome of Salviae miltiorrhizae Bge </plain></SENT>
+<SENT sid="3" pm="."><plain>Recent studies have demonstrated that TSA has protective effects against focal cerebral I/R injury </plain></SENT>
+<SENT sid="4" pm="."><plain>However, little is known about the underlying mechanisms </plain></SENT>
+<SENT sid="5" pm="."><plain>Here we put forward the hypothesis that TSA acts through inhibition of MIF expression during focal cerebral I/R injury in rats </plain></SENT>
+<SENT sid="6" pm="."><plain>METHODOLOGY/PRINCIPAL FINDINGS: Rats were subjected to middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (MCAO) for 2 hours </plain></SENT>
+<SENT sid="7" pm="."><plain>This was followed by reperfusion </plain></SENT>
+<SENT sid="8" pm="."><plain>We measured neurological deficits, brain water content, and <z:mpath ids='MPATH_124'>infarct</z:mpath> volume, and found that neurological dysfunction, <z:hpo ids='HP_0002181'>brain edema</z:hpo>, and <z:e sem="disease" ids="C0751955" disease_type="Disease or Syndrome" abbrv="">brain infarction</z:e> were significantly attenuated by TSA 6 hours after reperfusion </plain></SENT>
+<SENT sid="9" pm="."><plain>We also measured myeloperoxidase (MPO) activity at 6 and 24 hours, and found that neutrophil infiltration was significantly higher in the vehicle+I/R group than in the TSA+I/R group </plain></SENT>
+<SENT sid="10" pm="."><plain>ELISA demonstrated that TSA could inhibit MIF expression and the release of TNF-α and IL-6 induced by I/R injury </plain></SENT>
+<SENT sid="11" pm="."><plain>Western blot analysis and immunofluorescence staining showed that MIF expression was significantly lower in the TSA+I/R group than in the vehicle+I/R group </plain></SENT>
+<SENT sid="12" pm="."><plain>MIF was found almost <z:hpo ids='HP_0000001'>all</z:hpo> located in neurons and hardly any located in astrocytes in the cerebral cortex </plain></SENT>
+<SENT sid="13" pm="."><plain>Western blot analysis and EMSA demonstrated that NF-κB expression and activity were significantly increased in the vehicle+I/R group </plain></SENT>
+<SENT sid="14" pm="."><plain>However, these changes were attenuated by TSA </plain></SENT>
+<SENT sid="15" pm="."><plain>CONCLUSION/SIGNIFICANCE: Our results suggest that TSA helps alleviate the proinflammatory responses associated with I/R-induced injury and that this neuroprotective effect may occur through down-regulation of MIF expression in neurons </plain></SENT>
+</text></document>

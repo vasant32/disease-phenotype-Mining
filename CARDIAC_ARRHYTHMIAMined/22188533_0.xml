@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: <z:hpo ids='HP_0005110'>Atrial fibrillation</z:hpo> (AF) is a common <z:hpo ids='HP_0011675'>cardiac arrhythmia</z:hpo> characterized by disorganized cardiac electrical activity </plain></SENT>
+<SENT sid="1" pm="."><plain>Defibrillation electrode placement has been shown to affect the amount of energy and number of shocks required to defibrillate </plain></SENT>
+<SENT sid="2" pm="."><plain>The objective of this study was to investigate the relationship between esophageal electric fields (EEFs) and atrial defibrillation thresholds (ADFTs) to determine the feasibility of using EEFs during a low-strength shock to predict patient-specific defibrillation electrode placements </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: AF was induced and defibrillated according to a Bayesian four-shock protocol for 12-electrode placements in six pigs </plain></SENT>
+<SENT sid="4" pm="."><plain>EEFs were measured during each of the four shocks of the protocol and during a 1-J shock for each electrode placement </plain></SENT>
+<SENT sid="5" pm="."><plain>Squared EEFs (EEF(2) s) during <z:hpo ids='HP_0000001'>all</z:hpo> shocks were compared to the ADFTs using a linear regression </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: There was a negative relationship between EEF(2) s during the 1-J shocks and ADFTs, with median R(2) values of 0.863 and 0.840 for anterior-anterior (AA) and anterior-posterior (AP) electrode placements, respectively </plain></SENT>
+<SENT sid="7" pm="."><plain>There was a strong, positive relationship between applied energy and EEF(2) s, with median R(2) values of at least 0.866 for <z:hpo ids='HP_0000001'>all</z:hpo> animals </plain></SENT>
+<SENT sid="8" pm="."><plain>The placement with the highest EEF(2) resulted in the lowest ADFT for both AA and AP placements in four of six pigs </plain></SENT>
+<SENT sid="9" pm="."><plain>In the other two animals, this held for one electrode set but not both </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSIONS: There was a strong negative relationship between EEF(2) s during 1-J shocks and ADFTs for both AA and AP electrode placements </plain></SENT>
+<SENT sid="11" pm="."><plain>These preliminary results suggest that using EEF(2) s to predict patient-specific electrode placements is feasible </plain></SENT>
+</text></document>

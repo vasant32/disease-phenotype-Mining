@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND PURPOSE: Vascular effects of <z:e sem="disease" ids="C0038443" disease_type="Mental or Behavioral Dysfunction" abbrv="">mental stress</z:e> are only partially understood </plain></SENT>
+<SENT sid="1" pm="."><plain>Therefore, we studied effects of <z:hpo ids='HP_0011010'>chronic</z:hpo> stress and heart rate (HR) on endothelial function and <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: 129S6/SvEv mice were randomized to the I(f)-channel inhibitor ivabradine (10 mg/kg per day) or vehicle and underwent a <z:hpo ids='HP_0011010'>chronic</z:hpo> stress protocol for 28 days </plain></SENT>
+<SENT sid="3" pm="."><plain>RESULTS: Stress increased HR from 514 ± 10 bpm to 570 ± 14 bpm, this was prevented by ivabradine (485 ± 7 bpm) </plain></SENT>
+<SENT sid="4" pm="."><plain>Endothelium-dependent relaxation of aortic rings was impaired in mice exposed to stress </plain></SENT>
+<SENT sid="5" pm="."><plain>HR reduction restored endothelial function to the level of naive controls </plain></SENT>
+<SENT sid="6" pm="."><plain>Vascular <z:chebi fb="23" ids="18059">lipid</z:chebi> <z:chebi fb="0" ids="35923,35924">hydroperoxides</z:chebi> were increased to 333% ± 24% and vascular <z:chebi fb="1" ids="16474">NADPH</z:chebi> oxidase activity was upregulated to 223 ± 38% in stressed mice, which was prevented by ivabradine </plain></SENT>
+<SENT sid="7" pm="."><plain>Stress reduced aortic endothelial nitric <z:chebi fb="177" ids="25741,29356">oxide</z:chebi> synthase <z:chebi fb="2" ids="33699">mRNA</z:chebi> expression to 84% ± 3% and increased AT1 receptor <z:chebi fb="2" ids="33699">mRNA</z:chebi> to 168% ± 18% </plain></SENT>
+<SENT sid="8" pm="."><plain>Both effects were attenuated by HR reduction </plain></SENT>
+<SENT sid="9" pm="."><plain>In brain tissue, stress resulted in an upregulation of <z:chebi fb="23" ids="18059">lipid</z:chebi> <z:chebi fb="0" ids="35923,35924">hydroperoxides</z:chebi> to 140% ± 11%, which was attenuated by HR reduction </plain></SENT>
+<SENT sid="10" pm="."><plain>Ivabradine increased brain capillary density in naive and in stressed mice </plain></SENT>
+<SENT sid="11" pm="."><plain>Mice exposed to <z:hpo ids='HP_0011010'>chronic</z:hpo> stress before induction of <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> by transient middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> exhibited increased lesion size (33.7 ± 2.3 mm3 versus 23.9 ± 2.4 mm3) </plain></SENT>
+<SENT sid="12" pm="."><plain>HR reduction led to a marked reduction of the <z:mpath ids='MPATH_124'>infarct</z:mpath> volume to 12.9 ± 3.3 mm3 </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSIONS: <z:hpo ids='HP_0011010'>Chronic</z:hpo> stress impairs endothelial function and aggravates ischemic brain injury </plain></SENT>
+<SENT sid="14" pm="."><plain>HR reduction protects from <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> via improvement of endothelial function and reduction of <z:mp ids='MP_0003674'>oxidative stress</z:mp> </plain></SENT>
+<SENT sid="15" pm="."><plain>These results identify heart rate as a mediator of vascular effects induced by <z:hpo ids='HP_0011010'>chronic</z:hpo> stress </plain></SENT>
+</text></document>

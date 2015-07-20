@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Pancreatic β-cell dysfunction is central to the pathogenesis of type 2 <z:mp ids='MP_0002055'>diabetes</z:mp>, and the loss of functional β-cell mass in type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> is at least in part secondary to increased β-cell <z:mpath ids='MPATH_3'>apoptosis</z:mpath> </plain></SENT>
+<SENT sid="1" pm="."><plain>Accumulating evidence suggests that endoplasmic reticulum (ER) stress is present in β-cells in type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="2" pm="."><plain>Free fatty acids (FFAs) cause ER stress and are putative mediators of β-cell dysfunction and <z:hpo ids='HP_0011420'>death</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>In this review, we discuss the molecular mechanisms underlying ER stress induced by saturated and unsaturated FFAs </plain></SENT>
+<SENT sid="4" pm="."><plain><z:chebi fb="0" ids="30823">Oleate</z:chebi> and <z:chebi fb="2" ids="29889">palmitate</z:chebi> trigger ER stress through ER Ca(2+) <z:mpath ids='MPATH_63'>depletion</z:mpath> and build-up of unfolded proteins in the secretory pathway </plain></SENT>
+<SENT sid="5" pm="."><plain>Saturated and unsaturated FFAs elicit a differential signal transduction in the three branches of the ER stress response, resulting in different survival/<z:mpath ids='MPATH_3'>apoptosis</z:mpath> outcomes </plain></SENT>
+<SENT sid="6" pm="."><plain>The protection of β-cells against FFAs through the interference with ER stress signalling has opened novel therapeutic perspectives for type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="7" pm="."><plain>Chemical chaperones, salubrinal and glucagon-like <z:chebi fb="7" ids="16670">peptide</z:chebi>-1 (GLP-1) analogues have been used to protect β-cells from lipotoxic ER stress </plain></SENT>
+<SENT sid="8" pm="."><plain>Importantly, the pro- and antiapoptotic effects of these compounds are cell and context dependent </plain></SENT>
+</text></document>

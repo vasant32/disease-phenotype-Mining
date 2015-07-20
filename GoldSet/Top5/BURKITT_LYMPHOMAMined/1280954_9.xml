@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Granulocyte-colony stimulating factor (G-CSF) is a haemopoietic growth factor produced by mesenchymal cells but not T lymphocytes after stimulation with specific cytokines or <z:chebi fb="0" ids="52290">mitogens</z:chebi> </plain></SENT>
+<SENT sid="1" pm="."><plain>A 330 bp promoter fragment of the human G-CSF gene induced reporter gene expression in human embryonic lung fibroblasts in response to <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> <z:mp ids='MP_0001651'>necrosis</z:mp> factor-alpha (TNF-alpha) or interleukin-1 beta (IL-1 beta) </plain></SENT>
+<SENT sid="2" pm="."><plain>The same promoter fragment was not active in Jurkat T cells nor did it respond to <z:chebi fb="0" ids="37532">phorbol ester</z:chebi> in either cell type </plain></SENT>
+<SENT sid="3" pm="."><plain>At least three distinct elements, the CK-1 sequence, a decanucleotide present in haemopoietic growth factor genes, an NF-IL-6 consensus sequence and a consensus octamer sequence, were essential in the G-CSF promoter for TNF-alpha and IL-1 beta response </plain></SENT>
+<SENT sid="4" pm="."><plain>Mutation of any of these sequences abolished promoter function </plain></SENT>
+<SENT sid="5" pm="."><plain>In contrast, mutation of two other consensus protein binding sequences, i.e. a Pu-1 site and a CK-2-like sequence, did not eliminate promoter function </plain></SENT>
+<SENT sid="6" pm="."><plain>Both the CK-1 and octamer sequences acted independently as TNF-alpha and IL-1 beta responsive elements upstream of a heterologous promoter </plain></SENT>
+<SENT sid="7" pm="."><plain>The response of the octamer sequence and the 330 bp promoter but not the CK-1 sequence was greater with IL-1 beta than TNF-alpha reflecting a similar response of the endogenous gene </plain></SENT>
+</text></document>

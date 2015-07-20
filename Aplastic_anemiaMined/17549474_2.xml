@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:mpath ids='MPATH_3'>Apoptosis</z:mpath> plays an important role in the injury to stem and progenitor compartments associated with aberrant interferon-gamma (IFN-gamma) in <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> (AA), which is characterized by the loss of stem cells; however, its molecular mechanism is poorly understood </plain></SENT>
+<SENT sid="1" pm="."><plain>In this study, we have addressed the mechanism of the apoptotic function of IFN-gamma against hematopoietic stem and/or progenitors </plain></SENT>
+<SENT sid="2" pm="."><plain>Although granulocyte colony-stimulating factor (G-CSF) augmented survival and proliferative and differentiating activity in 32D cells, mouse multipotent progenitor cells, these effects were abolished by IFN-gamma and were susceptible to <z:mpath ids='MPATH_3'>apoptosis</z:mpath> with IFN-gamma </plain></SENT>
+<SENT sid="3" pm="."><plain>IFN-gamma attenuated Akt phosphorylated by G-CSF in a dose- and time-dependent manner </plain></SENT>
+<SENT sid="4" pm="."><plain><z:chebi fb="0" ids="52289">Wortmannin</z:chebi>, a specific inhibitor of phosphatidylinositol 3-kinase (PI3K), enhanced the inhibitory effect on Akt phosphorylated by G-CSF in collaboration with IFN-gamma, suggesting that the activity of IFN-gamma might converge on the PI3K pathway </plain></SENT>
+<SENT sid="5" pm="."><plain>We examined the expression of Bcl-2-associated <z:hpo ids='HP_0011420'>death</z:hpo> (Bad), which works downstream of Akt </plain></SENT>
+<SENT sid="6" pm="."><plain>IFN-gamma increased the Bad protein reduced by G-CSF </plain></SENT>
+<SENT sid="7" pm="."><plain>IFN-gamma induced <z:mpath ids='MPATH_3'>apoptosis</z:mpath> in 32D cells through the caspase pathway </plain></SENT>
+<SENT sid="8" pm="."><plain>Taken together, these results suggest that IFN-gamma could exert inhibitory action on stem cells and/or progenitors by interference with the PI3K/Akt signaling pathway </plain></SENT>
+<SENT sid="9" pm="."><plain>Our findings may contribute to understanding the decreased number of stem cells characteristic of AA </plain></SENT>
+</text></document>

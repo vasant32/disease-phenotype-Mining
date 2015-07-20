@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Calsequestrin (Casq2) is a low affinity Ca(2+)-binding protein located in sarcoplasmic reticulum (SR) of cardiac myocytes </plain></SENT>
+<SENT sid="1" pm="."><plain>Casq2 acts as a Ca(2+) buffer regulating free Ca(2+) concentration in the SR lumen and plays a significant role in the regulation of Ca(2+) release from this intracellular organelle </plain></SENT>
+<SENT sid="2" pm="."><plain>In addition, there is experimental evidence supporting the hypothesis that Casq2 also modulates the activity of the cardiac Ca(2+) release channels, <z:chebi fb="0" ids="8925">ryanodine</z:chebi> receptors (RyR2) </plain></SENT>
+<SENT sid="3" pm="."><plain>In this study, Casq2 knockout mice (Casq2-/-) were used as a model to evaluate the effects of the Casq2 on the cytosolic and intra-SR Ca(2+) dynamics, and the electrical activity in the ventricular epicardial layer of intact beating hearts </plain></SENT>
+<SENT sid="4" pm="."><plain>Casq2-/- mice have accelerated intra-SR Ca(2+) refilling kinetics (76 ± 22 vs. 136.5 ± 15 ms) and a reduced refractoriness of Ca(2+) release (182 ± 32 ms Casq2+/+ and 111 ± 22 ms Casq2-/- ) </plain></SENT>
+<SENT sid="5" pm="."><plain>In addition, mice display reduced Ca(2+) alternans (67% decline in the amplitude of Ca(2+) alternans at 7 Hz, 21oC) and less T-wave alternans at the electrocardiographic level </plain></SENT>
+<SENT sid="6" pm="."><plain>The results presented in this paper support the idea of Casq2 acting both as a buffer and a direct regulator of the Ca(2+) release process </plain></SENT>
+<SENT sid="7" pm="."><plain>Finally, we propose that alterations in Ca(2+) release refractoriness shown here could explain the relationship between Casq2 function and an increase in the risk for <z:hpo ids='HP_0004308'>ventricular arrhythmias</z:hpo> </plain></SENT>
+</text></document>

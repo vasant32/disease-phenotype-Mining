@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We present a case of Burkitt's disease with bone (thoracic wall, femur) and lymph node involvement </plain></SENT>
+<SENT sid="1" pm="."><plain>The patient had symptoms of <z:hpo ids='HP_0001945'>fever</z:hpo> with thoracic wall and femur pain </plain></SENT>
+<SENT sid="2" pm="."><plain>Lymph node involvement was detected by clinical exploration </plain></SENT>
+<SENT sid="3" pm="."><plain>A chest X-ray showed <z:hpo ids='HP_0000772'>rib abnormalities</z:hpo> </plain></SENT>
+<SENT sid="4" pm="."><plain>99mTc-DPD scan showed thoracic wall (one rib) and femur involvement </plain></SENT>
+<SENT sid="5" pm="."><plain>67Gallium SPECT and CT were performed at diagnosis </plain></SENT>
+<SENT sid="6" pm="."><plain>67Gallium SPECT showed thoracic wall (one rib more) and abdominal lymph node involvement that was not detected by planar images </plain></SENT>
+<SENT sid="7" pm="."><plain>A CT scan did not show <z:e sem="disease" ids="C0027627" disease_type="Neoplastic Process" abbrv="mets">metastatic disease</z:e> in mediastinal and abdominal lymph node chains but did show it in one rib and femur </plain></SENT>
+<SENT sid="8" pm="."><plain>After 6 chemotherapy sessions a new 67gallium scan and CT scan were performed </plain></SENT>
+<SENT sid="9" pm="."><plain>67Gallium SPECT showed involvement in the thoracic wall (one rib) that was not detected in planar images </plain></SENT>
+<SENT sid="10" pm="."><plain>The CT scan was considered <z:mpath ids='MPATH_458'>normal</z:mpath> </plain></SENT>
+</text></document>

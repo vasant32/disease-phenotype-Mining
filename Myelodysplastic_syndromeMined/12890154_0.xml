@@ -1,0 +1,7 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We describe a patient who presented with aplastic <z:hpo ids='HP_0001903'>anaemia</z:hpo> associated with the Philadelphia (Ph1) chromosome during immunosuppressive therapy and who subsequently developed <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e>) with <z:mp ids='MP_0004026'>monosomy</z:mp> 7 </plain></SENT>
+<SENT sid="1" pm="."><plain>Initially the patient had hypocellular fatty marrow without leukaemic blasts or dysplastic features </plain></SENT>
+<SENT sid="2" pm="."><plain>Chromosome analysis showed 46, XY, t(9;22)(q34;q11) during immunosuppressive therapy, but no leukaemic transformation was detected </plain></SENT>
+<SENT sid="3" pm="."><plain>The patient showed gradual haematologic improvement and became transfusion independent </plain></SENT>
+<SENT sid="4" pm="."><plain>Thereafter, bone marrow <z:mpath ids='MPATH_589'>dysplasia</z:mpath> with <z:mp ids='MP_0004026'>monosomy</z:mp> 7 progressed following transfusion independence </plain></SENT>
+<SENT sid="5" pm="."><plain>These findings indicate that multiple cytogenetic evolutions occur in aplastic <z:hpo ids='HP_0001903'>anaemia</z:hpo> during immunosuppressive therapy, and that Ph1 chromosome may play a role in bone marrow suppression rather than development of <z:mpath ids='MPATH_336'>leukaemia</z:mpath> </plain></SENT>
+</text></document>

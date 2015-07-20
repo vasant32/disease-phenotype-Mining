@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We have performed bone marrow transplants on four children with severe <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> who lacked an human leukocyte antigen (HLA)-identical sibling donor </plain></SENT>
+<SENT sid="1" pm="."><plain>Patients were prepared with <z:chebi fb="0" ids="4027">cyclophosphamide</z:chebi> and 600 cGy fractionated total body irradiation, and then received marrow from a parent donor mismatched for one (two patients), two (one patient), or three (one patient) HLA antigens </plain></SENT>
+<SENT sid="2" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> four patients engrafted </plain></SENT>
+<SENT sid="3" pm="."><plain>One died early of <z:hpo ids='HP_0011009'>acute</z:hpo> <z:e sem="disease" ids="C0018133" disease_type="Disease or Syndrome" abbrv="GVH">graft-versus-host disease</z:e> </plain></SENT>
+<SENT sid="4" pm="."><plain>The three others showed sustained complete hematopoietic reconstitution </plain></SENT>
+<SENT sid="5" pm="."><plain>Two are alive and hematologically <z:mpath ids='MPATH_458'>normal</z:mpath> 43-87 months after transplant </plain></SENT>
+<SENT sid="6" pm="."><plain>Both have had <z:hpo ids='HP_0011009'>acute</z:hpo> and <z:hpo ids='HP_0011010'>chronic</z:hpo> <z:e sem="disease" ids="C0018133" disease_type="Disease or Syndrome" abbrv="GVH">graft-versus-host disease</z:e> (CGVHD), and one of the two remains on immunosuppressive drugs </plain></SENT>
+<SENT sid="7" pm="."><plain>The fourth died at 48 months after transplant of CGVHD </plain></SENT>
+<SENT sid="8" pm="."><plain>The previous experience with HLA-incompatible marrow transplants is reviewed, and the rationale for this preparative regimen is discussed </plain></SENT>
+<SENT sid="9" pm="."><plain><z:chebi fb="0" ids="4027">Cyclophosphamide</z:chebi> and 600 cGy fractionated total body irradiation is an effective preparative regimen for children with severe <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> receiving transplants from HLA-nonidentical parental donors, allowing engraftment and full hematologic reconstitution </plain></SENT>
+</text></document>

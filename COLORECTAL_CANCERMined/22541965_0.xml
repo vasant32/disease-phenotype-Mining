@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PURPOSE: Radiation-induced gastric <z:mp ids='MP_0001914'>bleeding</z:mp> has been poorly understood </plain></SENT>
+<SENT sid="1" pm="."><plain>In this study, we described dosimetric predictors for gastric <z:mp ids='MP_0001914'>bleeding</z:mp> after fractionated radiation therapy </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS AND MATERIALS: The records of 139 sequential patients treated with 3-dimensional conformal radiation therapy (3D-CRT) for intrahepatic <z:e sem="disease" ids="C0006826" disease_type="Neoplastic Process" abbrv="">malignancies</z:e> were reviewed </plain></SENT>
+<SENT sid="3" pm="."><plain>Median follow-up was 7.4 months </plain></SENT>
+<SENT sid="4" pm="."><plain>The parameters of a Lyman <z:mpath ids='MPATH_458'>normal</z:mpath> tissue complication probability (NTCP) model for the occurrence of ≥grade 3 gastric bleed, adjusted for <z:hpo ids='HP_0001394'>cirrhosis</z:hpo>, were fitted to the data </plain></SENT>
+<SENT sid="5" pm="."><plain>The principle of maximum likelihood was used to estimate parameters for NTCP models </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: Sixteen of 116 evaluable patients (14%) developed gastric bleeds at a median time of 4.0 months (mean, 6.5 months; range, 2.1-28.3 months) following completion of RT </plain></SENT>
+<SENT sid="7" pm="."><plain>The median and mean maximum doses to the stomach were 61 and 63 Gy (range, 46-86 Gy), respectively, after biocorrection of each part of the 3D dose distributions to equivalent 2-Gy daily fractions </plain></SENT>
+<SENT sid="8" pm="."><plain>The Lyman NTCP model with parameters adjusted for <z:hpo ids='HP_0001394'>cirrhosis</z:hpo> predicted gastric bleed </plain></SENT>
+<SENT sid="9" pm="."><plain>Best-fit Lyman NTCP model parameters were n=0.10 and m=0.21 and with TD₅₀ (<z:mpath ids='MPATH_458'>normal</z:mpath>) = 56 Gy and TD₅₀ (<z:hpo ids='HP_0001394'>cirrhosis</z:hpo>) = 22 Gy </plain></SENT>
+<SENT sid="10" pm="."><plain>The low n value is consistent with the importance of maximum dose; a lower TD₅₀ value for the <z:hpo ids='HP_0001394'>cirrhosis</z:hpo> patients points out their greater sensitivity </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: This study demonstrates that the Lyman NTCP model has utility for predicting gastric <z:mp ids='MP_0001914'>bleeding</z:mp> and that the presence of <z:hpo ids='HP_0001394'>cirrhosis</z:hpo> greatly increases this risk </plain></SENT>
+<SENT sid="12" pm="."><plain>These findings should facilitate the design of future clinical trials involving high-dose upper abdominal radiation </plain></SENT>
+</text></document>

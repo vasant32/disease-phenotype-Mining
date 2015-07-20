@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Small formed elements and gas bubbles in flowing blood, called microemboli, can be detected using Doppler ultrasound </plain></SENT>
+<SENT sid="1" pm="."><plain>In this application, a pulsed constant-frequency ultrasound signal insonates a volume of blood in the middle cerebral artery, and microemboli moving through its sample volume produce a Doppler-shifted transient reflection </plain></SENT>
+<SENT sid="2" pm="."><plain>Current detection methods include searching for these transients in a short-time Fourier transform (STFT) of the reflected signal </plain></SENT>
+<SENT sid="3" pm="."><plain>However, since the <z:mpath ids='MPATH_110'>embolus</z:mpath> transit time through the Doppler sample volume is inversely proportional to the <z:mpath ids='MPATH_110'>embolus</z:mpath> velocity (Doppler-shift frequency), a matched-filter detector should in principle use a wavelet transform, rather than a short-time Fourier transform, for optimal results </plain></SENT>
+<SENT sid="4" pm="."><plain>Closer examination of the Doppler shift signals usually shows a chirping behavior apparently due to acceleration or deceleration of the emboli during their transit through the Doppler sample volume </plain></SENT>
+<SENT sid="5" pm="."><plain>These variations imply that a linear wavelet detector is not optimal </plain></SENT>
+<SENT sid="6" pm="."><plain>We apply linear and quadratic time-frequency and time-scale detectors to a set of noise-corrupted <z:mpath ids='MPATH_110'>embolus</z:mpath> data </plain></SENT>
+<SENT sid="7" pm="."><plain>Our results show improvements of about 1 dB using the time-scale detectors versus an STFT-based detector signifying that <z:mpath ids='MPATH_110'>embolus</z:mpath> detection is best approached as a time-scale problem </plain></SENT>
+<SENT sid="8" pm="."><plain>A time-scale-chirp detector is also applied and is found to have the overall best performance by about 0.5-0.7 dB while coming fairly close (about 0.75 dB) to a theoretical upper bound </plain></SENT>
+</text></document>

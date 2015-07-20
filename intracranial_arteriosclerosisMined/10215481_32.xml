@@ -1,0 +1,7 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Quantitative measurements of the blood vessel wall area may provide useful information of atherosclerotic plaque burden, progression and/or regression </plain></SENT>
+<SENT sid="1" pm="."><plain>Magnetic resonance imaging is a promising technique for identifying both <z:chebi fb="2" ids="8069">luminal</z:chebi> and outer wall boundaries of the human blood vessels </plain></SENT>
+<SENT sid="2" pm="."><plain>Currently these boundaries are primarily defined manually, a process viewed as labor intensive and subject to significant operator bias </plain></SENT>
+<SENT sid="3" pm="."><plain>Fully automated post-processing techniques used for identifying the lumen and wall boundaries, on the other hand, are also problematic due to the complexity of signal features in the vicinity of the blood vessels </plain></SENT>
+<SENT sid="4" pm="."><plain>The goals of this study were to develop a robust, automated closed contour edge detection algorithm, apply this algorithm to high resolution human carotid artery images, and assess its accuracy, and reproducibility </plain></SENT>
+<SENT sid="5" pm="."><plain>Our algorithm has proven to be sensitive to various contrast situations and is reasonably accurate and highly reproducible </plain></SENT>
+</text></document>

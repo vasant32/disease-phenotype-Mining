@@ -1,0 +1,7 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We present a 30-year-old man admitted with generalized cutaneous lesions, <z:hpo ids='HP_0001945'>fever</z:hpo> and cough </plain></SENT>
+<SENT sid="1" pm="."><plain>Examination of skin biopsies of a papular lesion revealed dense neutrophilic infiltration of the upper dermis, so these lesions were diagnosed as <z:e sem="disease" ids="C1142272" disease_type="Disease or Syndrome" abbrv="">neutrophilic dermatosis</z:e> </plain></SENT>
+<SENT sid="2" pm="."><plain>Peripheral blood examination and bone marrow findings confirmed the diagnosis of <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo> with excess blasts </plain></SENT>
+<SENT sid="3" pm="."><plain>The cutaneous lesions improved after administration of <z:chebi fb="0" ids="50858">corticosteroid</z:chebi> and follow-up bone marrow examination revealed a normocellular marrow </plain></SENT>
+<SENT sid="4" pm="."><plain>One year later he referred with <z:hpo ids='HP_0004808'>acute myelogenous leukemia</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">AML</z:e>-M0) </plain></SENT>
+<SENT sid="5" pm="."><plain>Unfortunately, he did not respond to treatment and died a few months later due to disease progression </plain></SENT>
+</text></document>

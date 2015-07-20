@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: We provide new information about how the risk of adverse events following colonoscopy varies by age and indication (screening vs. follow-up performed to evaluate a positive result from another screening modality) </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: We constructed a retrospective cohort comprised of 43,456 individuals aged 40-85 years enrolled in a large integrated healthcare organization in Washington State who underwent outpatient colonoscopy between 1994 and 2009 </plain></SENT>
+<SENT sid="2" pm="."><plain>We calculated rates of serious adverse events (<z:mpath ids='MPATH_81'>perforation</z:mpath>, <z:mp ids='MP_0001914'>hemorrhage</z:mp>, and <z:hpo ids='HP_0011009'>acute</z:hpo> <z:e sem="disease" ids="C0012813" disease_type="Disease or Syndrome" abbrv="">diverticulitis</z:e>) in the 30 days following colonoscopy and compared rates using log-binomial regression models </plain></SENT>
+<SENT sid="3" pm="."><plain>RESULTS: We observed 4.7 serious adverse events per 1,000 screening colonoscopies and 6.8 per 1,000 follow-up colonoscopies </plain></SENT>
+<SENT sid="4" pm="."><plain>Polypectomy increased the rate of serious adverse events (relative rate [RR], 2.64; 95% confidence interval [CI], 1.97-3.56) </plain></SENT>
+<SENT sid="5" pm="."><plain>Older age was associated with increased risk of serious adverse events, after adjusting for polypectomy, gender, and indication </plain></SENT>
+<SENT sid="6" pm="."><plain>Compared to individuals aged 50-64 years, risk was elevated for those aged 65-74 (RR, 1.93; 95% CI, 1.40-2.65) and 75-85 (RR, 3.21; 95% CI 2.14-4.86) </plain></SENT>
+<SENT sid="7" pm="."><plain>We observed similar age effects in individuals with and without significant comorbid conditions </plain></SENT>
+<SENT sid="8" pm="."><plain>CONCLUSIONS: The risks of serious adverse events following colonoscopy performed as part of screening are low but increase with age and are more likely after polypectomy </plain></SENT>
+</text></document>

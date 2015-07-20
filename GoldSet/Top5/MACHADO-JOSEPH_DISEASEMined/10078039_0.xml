@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:mp ids='MP_0000947'>Convulsive</z:mp> <z:hpo ids='HP_0001250'>seizure</z:hpo> with unconciousness is an adverse effect of new <z:chebi fb="1" ids="23765">quinolone</z:chebi> antibiotics including fleroxacin </plain></SENT>
+<SENT sid="1" pm="."><plain>A block of <z:chebi fb="3" ids="16865">GABA</z:chebi> receptor in <z:chebi fb="7" ids="29425,29426,29441,29447">CNS</z:chebi> has been reported as pathomechanism </plain></SENT>
+<SENT sid="2" pm="."><plain>A 48-year-old female patient with <z:e sem="disease" ids="C0024408" disease_type="Disease or Syndrome" abbrv="MJD|SCA3">Machado-Joseph disease</z:e> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MJD</z:e>) had <z:hpo ids='HP_0001298'>encephalopathy</z:hpo> induced by fleroxacin </plain></SENT>
+<SENT sid="3" pm="."><plain>She revealed unconsciousness after the administration of fleroxacin (200mg/day) for three days </plain></SENT>
+<SENT sid="4" pm="."><plain>Electroencephrogram (EEG) showed diffuse slow waves </plain></SENT>
+<SENT sid="5" pm="."><plain>The administration was discontinued and her consciousness became clear after a day </plain></SENT>
+<SENT sid="6" pm="."><plain>The abnormal findings on EEG disappeared gradually </plain></SENT>
+<SENT sid="7" pm="."><plain>The concentrations of fleroxacin were within <z:mpath ids='MPATH_458'>normal</z:mpath> limits in serum and cerebrospinal fluid </plain></SENT>
+<SENT sid="8" pm="."><plain>The patient with <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MJD</z:e> might have a tendency to develop <z:hpo ids='HP_0001298'>encephalopathy</z:hpo> by fleroxacin, because the <z:chebi fb="3" ids="16865">GABA</z:chebi>-ergic <z:mp ids='MP_0008912'>nervous</z:mp> system could be involved in <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MJD</z:e> </plain></SENT>
+</text></document>

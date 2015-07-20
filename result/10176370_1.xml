@@ -1,0 +1,3 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:e sem="disease" ids="C0024796" disease_type="Disease or Syndrome" abbrv="MFS|MFS1">Marfan's syndrome</z:e> is one of several genetic <z:e sem="disease" ids="C0009782" disease_type="Disease or Syndrome" abbrv="">connective tissue disorders</z:e> that manifest <z:hpo ids='HP_0001626'>cardiovascular abnormalities</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain><z:hpo ids='HP_0004763'>Paroxysmal supraventricular tachycardia</z:hpo> is not one of these manifestations </plain></SENT>
+</text></document>

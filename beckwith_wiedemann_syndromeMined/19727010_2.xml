@@ -1,0 +1,18 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>From 1990 to 2004, there were 23 consecutive patients with <z:hpo ids='HP_0002884'>hepatoblastoma</z:hpo> treated at Mackay Memorial Hospital in Taipei, Taiwan </plain></SENT>
+<SENT sid="1" pm="."><plain>There were 7 patients of stage I, 3 of stage II, 13 of stage III, and none had stage IV disease </plain></SENT>
+<SENT sid="2" pm="."><plain>Two siblings had congenital <z:hpo ids='HP_0002884'>hepatoblastoma</z:hpo> and both survived </plain></SENT>
+<SENT sid="3" pm="."><plain>Two patients were <z:e sem="disease" ids="C0728731" disease_type="Disease or Syndrome" abbrv="">prematurity</z:e> </plain></SENT>
+<SENT sid="4" pm="."><plain><z:e sem="disease" ids="C0004903" disease_type="Disease or Syndrome;Congenital Abnormality" abbrv="">Beckwith-Wiedemann syndrome</z:e>, <z:e sem="disease" ids="C0271528" disease_type="Disease or Syndrome" abbrv="">isosexual precocity</z:e>, <z:hpo ids='HP_0011010'>chronic</z:hpo> B <z:hpo ids='HP_0012115'>hepatitis</z:hpo> presented in 1 patient each </plain></SENT>
+<SENT sid="5" pm="."><plain>In addition to surgery, we used <z:chebi fb="2" ids="27899">cisplatin</z:chebi> 90 mg/m/d on day 1 and <z:chebi fb="0" ids="47898">epirubicin</z:chebi> 25 mg/m/d for days 1 to 3 as first-line chemotherapy </plain></SENT>
+<SENT sid="6" pm="."><plain>Each course was repeated every 3 weeks </plain></SENT>
+<SENT sid="7" pm="."><plain><z:chebi fb="0" ids="47898">Epirubicin</z:chebi> was chosen because of its lower cardiotoxicity </plain></SENT>
+<SENT sid="8" pm="."><plain><z:chebi fb="2" ids="31355">Carboplatin</z:chebi>/<z:chebi fb="0" ids="4911">etoposide</z:chebi> and <z:chebi fb="0" ids="28445">vincristine</z:chebi>/<z:chebi fb="0" ids="4027">cyclophosphamide</z:chebi>/<z:chebi fb="0" ids="46345">5-fluorouracil</z:chebi> were the second-line chemotherapy for considering cumulative toxicity of first-line chemotherapy </plain></SENT>
+<SENT sid="9" pm="."><plain>If initial total excision was feasible, postoperative chemotherapy of 4 to 6 courses were given </plain></SENT>
+<SENT sid="10" pm="."><plain>Three patients died of progressive disease, <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infection</z:e>, and relapse 1 each </plain></SENT>
+<SENT sid="11" pm="."><plain>The median duration of follow-up for 20 survived patients was 94 months </plain></SENT>
+<SENT sid="12" pm="."><plain>The 5-year event-free and overall survival rates were 73.9%+/-9.2% (SE) and 87%+/-7.0%, respectively </plain></SENT>
+<SENT sid="13" pm="."><plain><z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">Tumor</z:e> recurred in 5 patients </plain></SENT>
+<SENT sid="14" pm="."><plain>The commonest toxicity was febrile <z:hpo ids='HP_0001875'>neutropenia</z:hpo> </plain></SENT>
+<SENT sid="15" pm="."><plain>There was no cardiotoxicity event </plain></SENT>
+<SENT sid="16" pm="."><plain>In conclusion, with sequential combination of surgery and chemotherapy, the treatment results for <z:hpo ids='HP_0002884'>hepatoblastoma</z:hpo> were satisfactory as compared with other groups </plain></SENT>
+</text></document>

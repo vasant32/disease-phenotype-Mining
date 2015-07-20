@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Interferon alpha (IFN-alpha) is a regulatory secretory protein with distinctive biological effects such as antiproliferative actions against many <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> cell lines, including human Burkitt <z:hpo ids='HP_0002665'>lymphoma</z:hpo> Daudi cells </plain></SENT>
+<SENT sid="1" pm="."><plain>The mechanism underlying growth inhibition by IFN-alpha is not well established </plain></SENT>
+<SENT sid="2" pm="."><plain>The growth of many mammalian cell types is also regulated by <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> suppressor <z:hpo ids='HP_0009919'>retinoblastoma</z:hpo> (RB) gene product, the RB protein </plain></SENT>
+<SENT sid="3" pm="."><plain>In the studies presented here, we explored the possible involvement of RB protein in the growth inhibitory action of IFN-alpha in the Daudi cell model system </plain></SENT>
+<SENT sid="4" pm="."><plain>We observed that IFN-alpha induces a 3- to 10-fold increased expression of RB protein in growth-sensitive Daudi cells but not in the growth-resistant variant of Daudi cells </plain></SENT>
+<SENT sid="5" pm="."><plain>IFN-alpha-mediated induction of RB protein was an early event that preceded the period of growth inhibition of Daudi cells </plain></SENT>
+<SENT sid="6" pm="."><plain>IFN-alpha-induced RB protein predominantly exists as the underphosphorylated form </plain></SENT>
+<SENT sid="7" pm="."><plain>Addition of antibody against IFN-alpha to Daudi cells resulted in the inhibition of constitutive expression of RB protein and stimulation of [3H]<z:chebi fb="0" ids="17748">thymidine</z:chebi> incorporation </plain></SENT>
+<SENT sid="8" pm="."><plain>These results demonstrate that the induction of RB protein expression in IFN-alpha-treated Daudi cells could constitute an important mechanism of IFN-alpha-mediated growth regulation </plain></SENT>
+</text></document>

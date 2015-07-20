@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND PURPOSE: We sought to determine the cerebroprotective potential of NAP, a synthetic octapeptide related to vasoactive intestinal <z:chebi fb="7" ids="16670">peptide</z:chebi> </plain></SENT>
+<SENT sid="1" pm="."><plain>Activity-dependent neuroprotective protein mediates some of the protective effects of vasoactive intestinal <z:chebi fb="7" ids="16670">peptide</z:chebi> </plain></SENT>
+<SENT sid="2" pm="."><plain>The neuroprotective NAP sequence is derived from activity-dependent neuroprotective protein </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: Spontaneously hypertensive rats underwent permanent middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> by craniotomy and electrocoagulation </plain></SENT>
+<SENT sid="4" pm="."><plain>After dose-response and time-course experiments, the animals were injected with NAP (3 microg/kg) or vehicle intravenously 1 hour after <z:hpo ids='HP_0001297'>stroke</z:hpo> <z:hpo ids='HP_0003674'>onset</z:hpo> </plain></SENT>
+<SENT sid="5" pm="."><plain>Another group of rats was injected with the D-amino acid isomer of NAP (D-NAP) and served as a negative control </plain></SENT>
+<SENT sid="6" pm="."><plain>Rats were examined for motor and behavioral deficits 24 hours to 30 days later, and <z:mpath ids='MPATH_124'>infarct</z:mpath> volumes were determined </plain></SENT>
+<SENT sid="7" pm="."><plain>The effect of NAP administration on apoptotic <z:hpo ids='HP_0011420'>death</z:hpo> was determined by terminal deoxynucleotidyl transferase-mediated <z:chebi fb="0" ids="17625">dUTP</z:chebi> nick end labeling (TUNEL) and caspase-3 stainings </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: NAP significantly reduced motor disability and <z:mpath ids='MPATH_124'>infarct</z:mpath> volumes compared with vehicle or D-NAP when tested at 24 hours after <z:hpo ids='HP_0001297'>stroke</z:hpo> <z:hpo ids='HP_0003674'>onset</z:hpo> (9.67+/-1.4% versus 17.04+/-1.18% and 19.19+/-1.9% of hemispheric volume, respectively; P&lt;0.05) </plain></SENT>
+<SENT sid="9" pm="."><plain>NAP given 4 but not 6 hours after permanent middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> still conferred significant neuroprotection (<z:mpath ids='MPATH_124'>infarct</z:mpath> volume 10.9+/-3.9% of hemispheric volume; P&lt;0.05 versus vehicle) </plain></SENT>
+<SENT sid="10" pm="."><plain>Long-term studies demonstrated that <z:mpath ids='MPATH_124'>infarct</z:mpath> volumes and disability scores remained significantly lower after 30 days in NAP-treated animals </plain></SENT>
+<SENT sid="11" pm="."><plain>NAP significantly reduced the number of apoptotic cells </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: Our results indicate that the durable cerebroprotection by NAP involves antiapoptotic mechanisms </plain></SENT>
+</text></document>

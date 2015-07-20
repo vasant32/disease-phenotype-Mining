@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:mpath ids='MPATH_458'>Normal</z:mpath> lymphoid cells contain <z:chebi fb="1" ids="24261">glucocorticoid</z:chebi> receptor </plain></SENT>
+<SENT sid="1" pm="."><plain>A variety of stimuli that activate these cells also induce increases in receptor concentration </plain></SENT>
+<SENT sid="2" pm="."><plain>Similar <z:chebi fb="1" ids="24261">glucocorticoid</z:chebi> receptors can be detected in lymphoid cells from patients with <z:hpo ids='HP_0006721'>acute lymphoblastic leukemia</z:hpo> (ALL) </plain></SENT>
+<SENT sid="3" pm="."><plain>Absence of the <z:chebi fb="1" ids="24261">glucocorticoid</z:chebi> receptor (usually found in treated patients) predicts lack of <z:chebi fb="1" ids="24261">glucocorticoid</z:chebi> responsiveness </plain></SENT>
+<SENT sid="4" pm="."><plain>Furthermore, in our hands, <z:chebi fb="1" ids="24261">glucocorticoid</z:chebi> receptor levels correlate with the duration of complete remission in ALL (though not in other forms of <z:hpo ids='HP_0001909'>leukemia</z:hpo>) </plain></SENT>
+<SENT sid="5" pm="."><plain>This association is independent of cell type, age, sex, or initial leukocyte count </plain></SENT>
+<SENT sid="6" pm="."><plain>The level of receptor shows a negative correlation with increasing <z:hpo ids='HP_0000718'>aggressiveness</z:hpo> of the <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> (null-cell <z:hpo ids='HP_0001909'>leukemia</z:hpo> greater than T-cell <z:hpo ids='HP_0001909'>leukemia</z:hpo> greater than Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo>) </plain></SENT>
+</text></document>

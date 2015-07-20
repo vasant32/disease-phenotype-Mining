@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Beclin-1 has a central role in the regulation of autophagy </plain></SENT>
+<SENT sid="1" pm="."><plain><z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> (BE) is associated with a significantly increased risk for the development of esophageal <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> (EAC) </plain></SENT>
+<SENT sid="2" pm="."><plain>In the current study, we evaluated the role of Beclin-1 and autophagy in the EAC </plain></SENT>
+<SENT sid="3" pm="."><plain>Biopsies obtained from patients with BE and EAC, tissues from a rat model of BE and EAC, and esophageal cell lines were evaluated for the expression of Beclin-1 by immunohistochemistry, immunoblotting, or RT-PCR </plain></SENT>
+<SENT sid="4" pm="."><plain>Since reflux of <z:chebi fb="1" ids="3098">bile acids</z:chebi> is important in EAC, we also evaluated the effect of exposure to <z:chebi fb="0" ids="28834">deoxycholic acid</z:chebi> (DCA) on autophagy and Beclin-1 expression </plain></SENT>
+<SENT sid="5" pm="."><plain>Beclin-1 expression was high in squamous epithelium and nondysplastic BE, whereas its expression was low in dysplastic BE and EAC </plain></SENT>
+<SENT sid="6" pm="."><plain>The same pattern of expression was observed in rat tissues and in esophageal cell lines </plain></SENT>
+<SENT sid="7" pm="."><plain><z:mpath ids='MPATH_458'>Normal</z:mpath> esophageal epithelium and HET-1A cells (derived from <z:mpath ids='MPATH_458'>normal</z:mpath> squamous epithelium) show high levels of Beclin-1, but lower levels of Beclin-1 were found in BE and EAC cell lines (CP-A, CP-C, and OE33) </plain></SENT>
+<SENT sid="8" pm="."><plain><z:hpo ids='HP_0011009'>Acute</z:hpo> exposure to DCA led to increased Beclin-1 expression and increased autophagy as evaluated by electron microscopy and counting percentage of GFP-LC3-positive BE cells with punctate pattern </plain></SENT>
+<SENT sid="9" pm="."><plain>In contrast, <z:hpo ids='HP_0011010'>chronic</z:hpo> exposure to DCA did not result in the alteration of Beclin-1 levels or autophagy </plain></SENT>
+<SENT sid="10" pm="."><plain>In summary, these data suggest that autophagy is initially activated in response to <z:chebi fb="1" ids="3098">bile acids</z:chebi>, but <z:hpo ids='HP_0011010'>chronic</z:hpo> exposure to <z:chebi fb="1" ids="3098">bile acids</z:chebi> leads to decreased Beclin-1 expression and autophagy resistance </plain></SENT>
+</text></document>

@@ -1,0 +1,30 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Nonmyeloablative allogeneic peripheral blood progenitor cell transplantation with low-dose total body irradiation (TBI; 200 cGy) plus fludarabine followed by <z:chebi fb="0" ids="4031">cyclosporine</z:chebi> and <z:chebi fb="0" ids="168396">mycophenolate</z:chebi> mofetil results in modest graft rejection rates </plain></SENT>
+<SENT sid="1" pm="."><plain><z:hpo ids='HP_0011009'>Acute</z:hpo> and <z:hpo ids='HP_0011010'>chronic</z:hpo> <z:e sem="disease" ids="C0018133" disease_type="Disease or Syndrome" abbrv="GVH">graft-versus-host diseases</z:e> (GVHD) are also seen and may not differ substantially from those that occur after fully ablative transplantation </plain></SENT>
+<SENT sid="2" pm="."><plain>Adding antithymocyte globulin (ATG) to pretransplant conditioning produces substantial immunosuppression </plain></SENT>
+<SENT sid="3" pm="."><plain>Because of its persistence in the circulation, ATG can achieve in vivo T-cell <z:mpath ids='MPATH_63'>depletion</z:mpath> </plain></SENT>
+<SENT sid="4" pm="."><plain>Twenty-five patients who were not eligible for conventional fully ablative allogeneic stem cell transplantation by virtue of age or comorbidities underwent nonmyeloablative allogeneic transplantation with ATG 15 mg/kg/d days -4 to -1, TBI 200 cGy on a single fraction on day -5, and fludarabine 30 mg/m(2)/d on days -4 to -2 </plain></SENT>
+<SENT sid="5" pm="."><plain>Oral <z:chebi fb="0" ids="168396">mycophenolate</z:chebi> mofetil 15 mg/kg every 12 hours and <z:chebi fb="0" ids="4031">cyclosporine</z:chebi> 6 mg/kg every 12 hours were started on day -5 </plain></SENT>
+<SENT sid="6" pm="."><plain>Grafts were unmanipulated peripheral blood progenitor cells mobilized with filgrastim 10 microg/kg/d and collected on day 5 </plain></SENT>
+<SENT sid="7" pm="."><plain>The median age of the recipients was 57 years (range, 30-67 years); diagnoses were non-Hodgkin <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (n = 11), <z:hpo ids='HP_0004808'>acute myeloid leukemia</z:hpo> (n = 6), <z:hpo ids='HP_0006775'>multiple myeloma</z:hpo> (n = 3), <z:hpo ids='HP_0006721'>acute lymphoblastic leukemia</z:hpo> (n = 2), severe <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> (n = 1), <z:hpo ids='HP_0004818'>paroxysmal nocturnal hemoglobinuria</z:hpo> (n = 1), and <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo> (n = 1) </plain></SENT>
+<SENT sid="8" pm="."><plain>The median CD34(+) and CD3(+) contents of the grafts were 7.6 x 10(6)/kg and 1.6 x 10(8)/kg, respectively </plain></SENT>
+<SENT sid="9" pm="."><plain>Five patients received voluntary unrelated donor grafts </plain></SENT>
+<SENT sid="10" pm="."><plain>Three patients, 2 with voluntary unrelated donor grafts and 1 with a sib donor, received a 1 antigen-mismatched graft </plain></SENT>
+<SENT sid="11" pm="."><plain>The rest were fully matched </plain></SENT>
+<SENT sid="12" pm="."><plain>Twenty-two of 25 patients were evaluable for chimerism </plain></SENT>
+<SENT sid="13" pm="."><plain>Sixteen had &gt;/=95% donor chimerism </plain></SENT>
+<SENT sid="14" pm="."><plain>Four patients displayed 80% to 90% donor chimerism, 1 displayed 78%, and 1 displayed 64% </plain></SENT>
+<SENT sid="15" pm="."><plain>Eleven patients relapsed with their original disease </plain></SENT>
+<SENT sid="16" pm="."><plain>One patient rejected the graft at 180 days </plain></SENT>
+<SENT sid="17" pm="."><plain>The median hospital stay was 27 days </plain></SENT>
+<SENT sid="18" pm="."><plain>Complications included GVHD in 6 patients (3 patients had grade I or II GVHD of skin and liver, and 3 patients had grade III or IV GVHD of liver and gut) </plain></SENT>
+<SENT sid="19" pm="."><plain>Two of the patients with GVHD had mismatched grafts </plain></SENT>
+<SENT sid="20" pm="."><plain>Transplant-related toxicity was seen in 4 patients and <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infection</z:e> in 5 patients </plain></SENT>
+<SENT sid="21" pm="."><plain>The median length of follow-up was 162 days (range, 17-854 days) </plain></SENT>
+<SENT sid="22" pm="."><plain>Complete remissions were seen in 10 patients </plain></SENT>
+<SENT sid="23" pm="."><plain>Four patients remained in complete response (CR) at 280 to 595 days </plain></SENT>
+<SENT sid="24" pm="."><plain>One patient relapsed with non-Hodgkin <z:hpo ids='HP_0002665'>lymphoma</z:hpo> after a CR of 728 days </plain></SENT>
+<SENT sid="25" pm="."><plain>Of the 25 patients, 16 died (6 of <z:e sem="disease" ids="C0277556" disease_type="Disease or Syndrome" abbrv="">relapsed disease</z:e>, 4 of GVHD, 3 of <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infection</z:e>, and 3 of transplant-related toxicity) and 9 are alive (6 with CR-2 of them after donor leukocyte infusion-and 3 with <z:e sem="disease" ids="C0277556" disease_type="Disease or Syndrome" abbrv="">relapsed disease</z:e>) </plain></SENT>
+<SENT sid="26" pm="."><plain>The addition of ATG to low-dose TBI and fludarabine nonmyeloablative conditioning was well tolerated and resulted in &gt;80% donor engraftment in this small cohort </plain></SENT>
+<SENT sid="27" pm="."><plain>As in other series of truly nonmyeloablative transplantation, a high rate of relapse was observed </plain></SENT>
+<SENT sid="28" pm="."><plain>Donor engraftment may be facilitated by the addition of ATG to low-dose TBI and fludarabine conditioning </plain></SENT>
+</text></document>

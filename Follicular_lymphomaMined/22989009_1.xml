@@ -1,0 +1,18 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: <z:hpo ids='HP_0002665'>Lymphomas</z:hpo> frequently retain <z:mp ids='MP_0002169'>wild-type</z:mp> (wt) p53 function but overexpress HDM2, thereby compromising p53 activity </plain></SENT>
+<SENT sid="1" pm="."><plain>Therefore, <z:hpo ids='HP_0002665'>lymphoma</z:hpo> is a suitable model for studying the therapeutic value of disrupting the HDM2-p53 interaction by small-molecule inhibitors (SMIs) </plain></SENT>
+<SENT sid="2" pm="."><plain>HDM2 have been developed and are under various stages of preclinical and clinical investigation </plain></SENT>
+<SENT sid="3" pm="."><plain>Previously, we examined the anti-<z:hpo ids='HP_0002665'>lymphoma</z:hpo> activity of MI-319, the laboratory grade of a new class of HDM2 SMI, the spiro-<z:chebi fb="0" ids="31697,38459">oxindole</z:chebi>, in follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo> </plain></SENT>
+<SENT sid="4" pm="."><plain>Since then, MI-219, the clinical grade has become readily available </plain></SENT>
+<SENT sid="5" pm="."><plain>This study further examines the preclinical effects and mechanisms of MI-219 in a panel of human <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cell lines as well as a cohort of patient-derived B-lymphocytes for its potential clinical use </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: Preclinical assessment of MI-219 was evaluated by means of an in vitro and ex vivo approach and compared to <z:chebi fb="0" ids="46742">Nutlin-3</z:chebi>, the gold standard </plain></SENT>
+<SENT sid="7" pm="."><plain>Characterization of p53 activity and stability were assessed by quantitative PCR, Western blot, and immunoprecipitation </plain></SENT>
+<SENT sid="8" pm="."><plain>Biological outcome was measured using Trypan blue exclusion assay, Annexin V/PI, PARP and caspase-3 cleavage </plain></SENT>
+<SENT sid="9" pm="."><plain>Surprisingly, the overall biological effects of <z:chebi fb="0" ids="46742">Nutlin-3</z:chebi> were more delayed (48 h) while MI-219 triggered an earlier response (12-24 h), predominantly in the form of apoptotic cell <z:hpo ids='HP_0011420'>death</z:hpo> </plain></SENT>
+<SENT sid="10" pm="."><plain>Using a cell free autoubiquitination assay, neither agent interfered with HDM2 E3 ligase function </plain></SENT>
+<SENT sid="11" pm="."><plain>MI-219 was more effective in upregulating wt-p53 stabilization compared to <z:chebi fb="0" ids="46742">Nutlin-3</z:chebi> </plain></SENT>
+<SENT sid="12" pm="."><plain>MI-219, but not <z:chebi fb="0" ids="46742">Nutlin-3</z:chebi>, enhanced the autoubiquitination and degradation of HDM2 </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSIONS: Our data reveals unexpected differences between MI-219 and the well-studied <z:chebi fb="0" ids="46742">Nutlin-3</z:chebi> in <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cell lines and patient samples </plain></SENT>
+<SENT sid="14" pm="."><plain>We suggest a novel mechanism for MI-219 that alters the functional activity of HDM2 through enhanced autoubiquitination and degradation </plain></SENT>
+<SENT sid="15" pm="."><plain>Additionally, this mechanism appears to correspond to biological outcome </plain></SENT>
+<SENT sid="16" pm="."><plain>Our results provide evidence that different classes of HDM2 SMIs elicit molecular events that extend beyond HDM2-p53 dissociation which may be of biological and potentially therapeutic importance </plain></SENT>
+</text></document>

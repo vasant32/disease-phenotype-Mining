@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Photodynamic therapy (<z:chebi fb="7" ids="53228">PDT</z:chebi>) has been used to palliate advanced, obstructing, or <z:mp ids='MP_0001914'>bleeding</z:mp> <z:e sem="disease" ids="C0546837,C0014859" disease_type="Neoplastic Process" abbrv="">esophageal cancers</z:e> (ECs) and Barrett's high-grade <z:mpath ids='MPATH_589'>dysplasia</z:mpath> (HGD) </plain></SENT>
+<SENT sid="1" pm="."><plain>Few investigators, though, have described using <z:chebi fb="7" ids="53228">PDT</z:chebi> to cure either disease </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: We performed a retrospective review from 1997-2005 of 50 patients with HGD or EC </plain></SENT>
+<SENT sid="3" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> patients refused surgical resection or were physiologically unfit </plain></SENT>
+<SENT sid="4" pm="."><plain>They were instead treated using <z:chebi fb="7" ids="53228">PDT</z:chebi> with curative intent </plain></SENT>
+<SENT sid="5" pm="."><plain>Clinical follow-up, long-term survival, complications, and recurrence were evaluated </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: Thirteen patients (26%) had Barrett's HGD, 6 (12%) had small, intramural <z:mp ids='MP_0002038'>carcinomas</z:mp>, 16 (32%) had T1 N0 <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumors</z:e>, 14 (28%) had T2 N0 <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumors</z:e>, and 1 (2%) had a small, polypoid T3 lesion </plain></SENT>
+<SENT sid="7" pm="."><plain>The mean length of follow-up was 28.1 months </plain></SENT>
+<SENT sid="8" pm="."><plain>Sixteen patients (32%) are alive without recurrence, 15 (30%) are living with residual or <z:e sem="disease" ids="C0277556" disease_type="Disease or Syndrome" abbrv="">recurrent disease</z:e> and have received additional <z:chebi fb="7" ids="53228">PDT</z:chebi>, and the remainder (38%) died of recurrent EC or other causes and had known recurrence </plain></SENT>
+<SENT sid="9" pm="."><plain>Sixteen (32%) patients received adjuvant chemotherapy, radiation, or both </plain></SENT>
+<SENT sid="10" pm="."><plain><z:hpo ids='HP_0002043'>Esophageal stricture</z:hpo> occurred in 21 (42%) patients </plain></SENT>
+<SENT sid="11" pm="."><plain>There was no procedure-related mortality </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: <z:chebi fb="7" ids="53228">PDT</z:chebi> may represent a reasonable alternate to esophagectomy for high-risk patients with HGD or superficial <z:e sem="disease" ids="C0546837,C0014859" disease_type="Neoplastic Process" abbrv="">esophageal cancer</z:e> </plain></SENT>
+<SENT sid="13" pm="."><plain>Due to superior survival and local control, we still favor esophagectomy for patients without physiologic impairment </plain></SENT>
+<SENT sid="14" pm="."><plain>However, <z:chebi fb="7" ids="53228">PDT</z:chebi> appears to potentially cure approximately one-third of superficial <z:e sem="disease" ids="C0546837,C0014859" disease_type="Neoplastic Process" abbrv="">esophageal cancers</z:e> and provide local control of high-grade <z:mpath ids='MPATH_589'>dysplasia</z:mpath> in a similar subset of patients </plain></SENT>
+</text></document>

@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: <z:e sem="disease" ids="C0265110" disease_type="Disease or Syndrome" abbrv="">Cerebral vasospasm</z:e> is a significant cause of morbidity in patients after aneurysmal <z:hpo ids='HP_0002138'>subarachnoid hemorrhage</z:hpo> (aSAH) </plain></SENT>
+<SENT sid="1" pm="."><plain>There are few effective treatments </plain></SENT>
+<SENT sid="2" pm="."><plain>The search for new treatments has focused predominantly on dilating cerebral blood vessels </plain></SENT>
+<SENT sid="3" pm="."><plain>Growing evidence supports a role for <z:mp ids='MP_0001845'>inflammation</z:mp> in its pathogenesis but no potential target for intervention has emerged </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS: CSF and clinical information from patients with aSAH were collected </plain></SENT>
+<SENT sid="5" pm="."><plain>Additionally, tyrosine modifications by stable isotope dilution HPLC with online tandem mass spectrometry were quantified in CSF samples </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: We report an association between neutrophil accumulation in the cerebrospinal fluid of patients with aSAH and the development of vasospasm </plain></SENT>
+<SENT sid="7" pm="."><plain>In particular, CSF neutrophil content of &gt;62% on the third day after aSAH is an independent predictor of the later development of vasospasm (OR 6.8, 95% CI 2.0-23.3, P = 0.002) </plain></SENT>
+<SENT sid="8" pm="."><plain>Further, activity of myeloperoxidase and <z:chebi fb="1" ids="16474">NADPH</z:chebi> oxidase is elevated in aSAH suggesting a role for modification of CSF proteins by reactive oxidant species </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSIONS: Neutrophil percentage is an independent predictor of vasospasm in aSAH patients, days prior to its <z:hpo ids='HP_0003674'>onset</z:hpo> suggesting a role of neutrophils in vasospasm </plain></SENT>
+<SENT sid="10" pm="."><plain>The activity of neutrophil enzymes is also increased suggesting a mechanism for blood vessel damage </plain></SENT>
+<SENT sid="11" pm="."><plain><z:mp ids='MP_0001845'>Inflammation</z:mp> mediated by neutrophils is a potential target for therapies in vasospasm </plain></SENT>
+<SENT sid="12" pm="."><plain>More study is necessary to determine the mechanism by which neutrophils damage cerebral blood vessels </plain></SENT>
+</text></document>

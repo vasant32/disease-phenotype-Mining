@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Glial cell line-derived neurotrophic factor (GDNF) and hepatocyte growth factor (HGF) are strong neurotrophic factors, which function as antiapoptotic factors </plain></SENT>
+<SENT sid="1" pm="."><plain>However, the neuroprotective effect of GDNF and HGF in ameliorating ischemic brain injury via an antiautophagic effect has not been examined </plain></SENT>
+<SENT sid="2" pm="."><plain>Therefore, we investigated GDNF and HGF for changes of <z:mpath ids='MPATH_124'>infarct</z:mpath> size and antiapoptotic and antiautophagic effects after transient middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (tMCAO) in rats </plain></SENT>
+<SENT sid="3" pm="."><plain>For the estimation of ischemic brain injury, the <z:mpath ids='MPATH_124'>infarct</z:mpath> size was calculated at 24 hr after tMCAO by HE staining </plain></SENT>
+<SENT sid="4" pm="."><plain>Terminal deoxynucleotidyl transferase-mediated <z:chebi fb="0" ids="17625">dUTP</z:chebi>-<z:chebi fb="1" ids="15956">biotin</z:chebi> in situ nick end labeling (TUNEL) was performed for evaluating the antiapoptotic effect </plain></SENT>
+<SENT sid="5" pm="."><plain>Western blot analysis of microtubule-associated protein 1 light chain 3 (LC3) and immunofluorescence analysis of LC3 and phosphorylated mTOR/Ser(2448) (p-mTOR) were performed for evaluating the antiautophagic effect </plain></SENT>
+<SENT sid="6" pm="."><plain>GDNF and HGF significantly reduced <z:mpath ids='MPATH_124'>infarct</z:mpath> size after <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> </plain></SENT>
+<SENT sid="7" pm="."><plain>The amounts of LC3-I plus LC3-II (relative to beta-tubulin) were significantly increased after tMCAO, and GDNF and HGF significantly decreased them </plain></SENT>
+<SENT sid="8" pm="."><plain>GDNF and HGF significantly increased p-mTOR-positive cells </plain></SENT>
+<SENT sid="9" pm="."><plain>GDNF and HGF significantly decreased the numbers of TUNEL-, LC3-, and LC3/TUNEL double-positive cells </plain></SENT>
+<SENT sid="10" pm="."><plain>LC3/TUNEL double-positive cells accounted for about 34.3% of LC3 plus TUNEL-positive cells </plain></SENT>
+<SENT sid="11" pm="."><plain>This study suggests that the protective effects of GDNF and HGF were greatly associated with not only the antiapoptotic but also the antiautophagic effects; maybe two types of cell <z:hpo ids='HP_0011420'>death</z:hpo> can occur in the same cell at the same time, and GDNF and HGF are capable of ameliorating these two pathways </plain></SENT>
+</text></document>

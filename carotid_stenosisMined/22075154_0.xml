@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: To test plasma levels of <z:chebi fb="1" ids="6495">lipoprotein</z:chebi>-associated phospholipase A2 (Lp-PLA2) in patients with high-grade <z:hpo ids='HP_0100546'>carotid stenosis</z:hpo> according to plaque histology </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: This cross-sectional single-centre study included patients with ≥70% North American Symptomatic Carotid Endarterectomy Trial (NASCET) <z:hpo ids='HP_0100546'>carotid stenosis</z:hpo>, who were treated surgically </plain></SENT>
+<SENT sid="2" pm="."><plain>Serum Lp-PLA2 and high-sensitivity C-reactive protein (hs-CRP) were determined on the day of surgery </plain></SENT>
+<SENT sid="3" pm="."><plain>Histopathological analysis classified carotid plaque as stable or unstable, according to <z:chebi fb="30" ids="27777">AHA</z:chebi> classification </plain></SENT>
+<SENT sid="4" pm="."><plain>RESULTS: Of the 42 patients (mean age 70.4 ± 10.5 years; 67% men), neurological symptoms were present in 16 (38%) </plain></SENT>
+<SENT sid="5" pm="."><plain>Unstable plaques were found in 23 (55%) </plain></SENT>
+<SENT sid="6" pm="."><plain>Median plasma level of Lp-PLA2 was significantly higher in patients with unstable plaque compared to those with stable plaque (222.4 (174.9-437.5) interquartile range (IQR) 63.5 vs. 211.1 (174.9-270.6) IQR 37.2 ng ml(-1); p = 0.02) </plain></SENT>
+<SENT sid="7" pm="."><plain>Moreover, median Lp-PLA2 level were higher in asymptomatic patients with unstable plaque (226.8 ng ml(-1) (174.9-437.5) IQR 76.8) vs. stable plaque (206.9 ng ml(-1) (174.9-270.6) IQR 33.7; p = 0.16) </plain></SENT>
+<SENT sid="8" pm="."><plain>Logistic regression showed that only the neurological symptoms (OR = 30.9 (3.7-244.6); p &lt; 0.001) and the plasma Lp-PLA2 level (OR = 1.7 (1.1-12.3); p = 0.03) were independently associated with unstable carotid plaque as defined by histology </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSIONS: This study showed that circulating Lp-PLA2 was increased in patients with high-grade <z:hpo ids='HP_0100546'>carotid stenosis</z:hpo> and unstable plaque </plain></SENT>
+<SENT sid="10" pm="."><plain>Lp-PLA2 may be a relevant biomarker to guide for invasive therapy in asymptomatic patients with <z:e sem="disease" ids="C0007273" disease_type="Disease or Syndrome" abbrv="">carotid artery disease</z:e> </plain></SENT>
+</text></document>

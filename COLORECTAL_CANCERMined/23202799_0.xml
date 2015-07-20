@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIM: To construct a lentivirus-based inhibitor with specific secondary structure that could exert long-term suppression on microRNA-338-3p (miR-338-3p), thus elucidating its molecular function in colorectal <z:mp ids='MP_0002038'>carcinoma</z:mp> cells </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: The miR-338-3p inhibitor sequence was synthesized and inserted into pLV-THM plasmid </plain></SENT>
+<SENT sid="2" pm="."><plain>HEK-293T cells were co-transfected with the lentiviral vectors pLV-THM-miR-338-3p-inhibitor, psPAX2, and pMD2.G </plain></SENT>
+<SENT sid="3" pm="."><plain>The supernatant containing the lentivirus particles was harvested to determine the <z:mp ids='MP_0001799'>viral</z:mp> titer, and then used to infect colorectal <z:mp ids='MP_0002038'>carcinoma</z:mp>-derived SW-620 cells </plain></SENT>
+<SENT sid="4" pm="."><plain>eGFP(+) cells were sorted using flow cytometry </plain></SENT>
+<SENT sid="5" pm="."><plain>The expression of miR-338-3p in SW-620 cells was determined with real-time RT-PCR, and the expression of the smoothened (SMO) protein was detected using Western blot analysis </plain></SENT>
+<SENT sid="6" pm="."><plain>The migration ability of the transfected SW-620 cells was assessed with transwell assay </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: Restriction endonuclease analysis and DNA sequencing demonstrated that the lentiviral vector pLV-THM-miR-338-3p-inhibitor was successfully constructed </plain></SENT>
+<SENT sid="8" pm="."><plain>The expression of miR-338-3p in SW-620 cells was significantly decreased by <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infection</z:e> with the lentivirus pLV-THM-miR-338-3p-inhibitor </plain></SENT>
+<SENT sid="9" pm="."><plain>Moreover, the down-regulated expression of miR-338-3p caused up-regulated expression of the SMO protein in SW-620 cells, which showed significantly enhanced migration in transwell assay </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSION: The construction of the lentiviral vector pLV-THM-miR-338-3p-inhibitor with specific secondary structure provides a basis for further studies the molecular function of miR-338-3p in colorectal <z:mp ids='MP_0002038'>carcinoma</z:mp> </plain></SENT>
+<SENT sid="11" pm="."><plain>miR-338-3p may suppress SMO gene expression and thereby inhibit colorectal <z:mp ids='MP_0002038'>carcinoma</z:mp> migration </plain></SENT>
+</text></document>

@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0005110'>Atrial fibrillation</z:hpo> (AF) is the most commonly diagnosed <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> in clinical practice </plain></SENT>
+<SENT sid="1" pm="."><plain>However, the mechanisms responsible for its induction and maintenance still are not fully understood </plain></SENT>
+<SENT sid="2" pm="."><plain>To this respect, analysis of the electrical activity organization within the atria could play an important role in their proper interpretation </plain></SENT>
+<SENT sid="3" pm="."><plain>Although many algorithms to quantify AF organization from invasive electrograms can be found in the literature, a reduced number of indirect estimators from the standard ECG have been proposed to date </plain></SENT>
+<SENT sid="4" pm="."><plain>Furthermore, these surface methods can only yield a global AF organization assessment, blurring the possible information that each individual fibrillatory (f) wave may provide </plain></SENT>
+<SENT sid="5" pm="."><plain>To this respect, the present manuscript proposes a novel method for direct and short-time AF organization estimation from single-lead surface ECG recordings </plain></SENT>
+<SENT sid="6" pm="."><plain>Through the computation of morphological variations among f waves, the temporal <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> organization is estimated </plain></SENT>
+<SENT sid="7" pm="."><plain>The f waves are individually extracted and delineated from the atrial activity signal, making use of a dynamic time warping approach </plain></SENT>
+<SENT sid="8" pm="."><plain>The proposed algorithm was tested on real AF surface recordings in order to discriminate atrial signals with different organization degrees, obtaining a diagnostic accuracy higher than 88% </plain></SENT>
+<SENT sid="9" pm="."><plain>In addition, its performance was validated by comparison with two temporal organization measures from invasive unipolar electrograms of both atria, providing statistically significant linear correlations between invasive and non-invasive estimates </plain></SENT>
+<SENT sid="10" pm="."><plain>As a consequence, new standpoints are opened through this work in the non-invasive analysis of AF, where the individualized study of each f wave could assess short-time AF organization, would improve the understanding of AF mechanisms and become useful for its clinical treatment </plain></SENT>
+</text></document>

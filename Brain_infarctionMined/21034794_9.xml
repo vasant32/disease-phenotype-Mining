@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:mp ids='MP_0001845'>Inflammation</z:mp> plays a vital role in the pathogenesis of <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Brain-derived neurotrophic factor (BDNF) may protect brain tissues from ischemic injury </plain></SENT>
+<SENT sid="2" pm="."><plain>In this study, we investigated whether intranasal BDNF exerted neuroprotection against ischemic insult by modulating the local <z:mp ids='MP_0001845'>inflammation</z:mp> in rats with <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>Rats were subjected to temporary occlusion of the right middle cerebral artery (120 min) and intranasal BDNF or vehicle was adminstrated 2 h after reperfusion </plain></SENT>
+<SENT sid="4" pm="."><plain><z:mpath ids='MPATH_124'>Infarct</z:mpath> volume and neuron injury were measured using triphenyltetrazolium <z:chebi fb="76" ids="17996">chloride</z:chebi>, Nissl staining and TUNEL assay, respectively </plain></SENT>
+<SENT sid="5" pm="."><plain>Microglia were detected by immunohistofluorescence </plain></SENT>
+<SENT sid="6" pm="."><plain><z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">Tumor</z:e> <z:mp ids='MP_0001651'>necrosis</z:mp> factor-α, interleukin10 and <z:chebi fb="2" ids="33699">mRNAs</z:chebi> were evaluated by enzyme-linked immunosorbent assay and real-time quantitative polymerase chain reaction </plain></SENT>
+<SENT sid="7" pm="."><plain>DNA-binding activity of nuclear factor-kappa B was measured by electrophoretic mobility shift assay </plain></SENT>
+<SENT sid="8" pm="."><plain>BDNF level in brain tissues was markedly raised following intranasal administration </plain></SENT>
+<SENT sid="9" pm="."><plain>There were more Nissl positive and less TUNEL positive neurons in BDNF group than in control group while intranasal BDNF did not reduce the <z:mpath ids='MPATH_124'>infarct</z:mpath> volume significantly (n=6, 0.27±0.04 vs. 0.24±0.05, P&gt;0.05) </plain></SENT>
+<SENT sid="10" pm="."><plain>BDNF increased the number of activated microglia (OX-42 positive) and phagocytotic microglia (ED1 positive) </plain></SENT>
+<SENT sid="11" pm="."><plain>BDNF suppressed <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> <z:mp ids='MP_0001651'>necrosis</z:mp> factor-α and <z:chebi fb="2" ids="33699">mRNA</z:chebi> expression while increasing the interleukin10 and <z:chebi fb="2" ids="33699">mRNA</z:chebi> expression </plain></SENT>
+<SENT sid="12" pm="."><plain>BDNF also increased DNA-binding activity of nuclear factor-kappa B (n=6, 49.78±1.23 vs. 52.89±1.64, P&lt;0.05) </plain></SENT>
+<SENT sid="13" pm="."><plain>Our data suggest intranasal BDNF might protect the brain against ischemic insult by modulating local <z:mp ids='MP_0001845'>inflammation</z:mp> via regulation of the levels of cellular, cytokine and transcription factor in the experimental <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+</text></document>

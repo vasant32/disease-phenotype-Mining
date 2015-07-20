@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo>, with <z:hpo ids='HP_0002020'>gastroesophageal reflux disease</z:hpo> and <z:hpo ids='HP_0001513'>obesity</z:hpo> as risk factors, predisposes to esophageal <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> (EAC) </plain></SENT>
+<SENT sid="1" pm="."><plain>Recently a British Genome Wide Association Study identified two <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> susceptibility loci mapping within the Major Histocompatibility Complex (MHC; rs9257809) and closely to the Forkhead-F1 (FOXF1; rs9936833) coding gene </plain></SENT>
+<SENT sid="2" pm="."><plain>An interesting issue is whether polymorphisms associated with <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo>, are also implicated in <z:hpo ids='HP_0011459'>esophageal carcinoma</z:hpo> (EC), and more specifically EAC genesis </plain></SENT>
+<SENT sid="3" pm="."><plain>Assessing the individual genetic susceptibility can help identify high risk patients more prone to benefit from surveillance programs </plain></SENT>
+<SENT sid="4" pm="."><plain>Our hypothesis: Barrett associated MHC and FOXF1 variants modify EC risk in Caucasians </plain></SENT>
+<SENT sid="5" pm="."><plain>In a Dutch case-control study, 431 patients with EC and 605 healthy controls were included </plain></SENT>
+<SENT sid="6" pm="."><plain>Polymorphisms at chromosomes 6p21 (MHC) and 16q24 (FOXF1) were determined by means of real-time polymerase chain reaction (RT-PCR) </plain></SENT>
+<SENT sid="7" pm="."><plain>Logistic regression analysis was used to calculate odds ratios with 95% confidence intervals </plain></SENT>
+<SENT sid="8" pm="."><plain>The FOXF1 rs9936833 variant C allele was associated with an increased EAC susceptibility; OR, [95%CI]; 1.21, [0.99 - 1.47] </plain></SENT>
+<SENT sid="9" pm="."><plain>A sex-stratified analysis revealed a similar association in males; 1.24 [1.00 - 1.55] </plain></SENT>
+<SENT sid="10" pm="."><plain>The variant MHC rs9257809 G allele as well as the MHC heterozygous AG genotype significantly increased <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">ESCC</z:e> risk; 1.76 [1.16 - 2.66] and 1.74 [1.08 - 2.80], respectively </plain></SENT>
+<SENT sid="11" pm="."><plain>Sex-stratification showed that the variant G allele was especially present in female patients; 2.32 [1.04 - 5.20] </plain></SENT>
+<SENT sid="12" pm="."><plain>In conclusion, this study provides evidence that MHC rs9257809 and FOXF1 rs9936833 variants, associated with <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo>, also increase <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">ESCC</z:e> and EAC susceptibility in Caucasians. © 2013 Wiley Periodicals, Inc </plain></SENT>
+</text></document>

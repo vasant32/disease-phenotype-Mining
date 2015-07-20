@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND &amp; AIMS: <z:hpo ids='HP_0002020'>Gastroesophageal reflux</z:hpo> is common in infants during their first year of life, especially in those born preterm or <z:hpo ids='HP_0001518'>small for gestational age</z:hpo> (SGA) </plain></SENT>
+<SENT sid="1" pm="."><plain>We assessed whether being born preterm or SGA increased the risk of developing <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> (BE) in adulthood </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: We performed a population-based case-control study of patients with BE (cases) that were diagnosed at 2 Swedish hospitals from January 1, 1986 through December 31, 2005 </plain></SENT>
+<SENT sid="3" pm="."><plain>We identified the birth hospital of the cases; data on perinatal characteristics such as gestational age at birth and birth weight were collected from original birth records </plain></SENT>
+<SENT sid="4" pm="."><plain>We also obtained and collected information on the 3 singleton live births, of the same sex, born after each case at the same maternity ward (controls) </plain></SENT>
+<SENT sid="5" pm="."><plain>In total, we analyzed data from 331 cases and 852 matched controls </plain></SENT>
+<SENT sid="6" pm="."><plain>We used conditional logistic regression to determine odds ratios (ORs), determined 95% confidence intervals (CIs), and adjusted for potential confounding factors </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: Compared with infants born with a <z:mpath ids='MPATH_458'>normal</z:mpath> birth weight (3000-3999 g), infants with <z:hpo ids='HP_0001518'>low birth weight</z:hpo> (&lt;2500 g) were at increased risk of BE (adjusted OR, 8.22; 95% CI, 2.83-23.88) </plain></SENT>
+<SENT sid="8" pm="."><plain>This was mainly due to an effect of SGA rather than preterm birth </plain></SENT>
+<SENT sid="9" pm="."><plain>Specifically, compared with infants with <z:mpath ids='MPATH_458'>normal</z:mpath> birth weight for gestational age (25th-75th percentiles), the odds of BE among very SGA infants (&lt;3rd percentile) was nearly tripled (adjusted OR, 2.95; 95% CI, 1.35-6.44) </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSIONS: On the basis of a population-based study of patients with BE in Sweden, infants born SGA have a 3-fold increase in risk for developing BE as adults, compared with infants of <z:mpath ids='MPATH_458'>normal</z:mpath> birth weight for gestational age </plain></SENT>
+</text></document>

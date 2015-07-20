@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Hyperbaric (HBO) and normobaric (NBO) oxygen therapy have been shown to be neuroprotective in focal <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>In previous comparative studies, NBO appeared to be less effective than HBO </plain></SENT>
+<SENT sid="2" pm="."><plain>However, the experimental protocols did not account for important advantages of NBO in the clinical setting such as earlier initiation and prolonged administration </plain></SENT>
+<SENT sid="3" pm="."><plain>Therefore, we compared the effects of early prolonged NBO to delayed HBO on <z:mpath ids='MPATH_124'>infarct</z:mpath> size and functional outcome </plain></SENT>
+<SENT sid="4" pm="."><plain>We also examined whether combining NBO and HBO is of additional benefit </plain></SENT>
+<SENT sid="5" pm="."><plain>Wistar rats underwent filament-induced middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (MCAO) for 150 min </plain></SENT>
+<SENT sid="6" pm="."><plain>Animals breathed either air, 100% <z:chebi fb="0" ids="15379">O(2)</z:chebi> at ambient pressure (NBO; initiated 30 min after MCAO) 100% <z:chebi fb="0" ids="15379">O(2)</z:chebi> at 3 atm absolute (HBO; initiated 90 min after MCAO), or a sequence of NBO and HBO </plain></SENT>
+<SENT sid="7" pm="."><plain><z:mpath ids='MPATH_124'>Infarct</z:mpath> volumes and neurological outcome (Garcia score) were examined 7d after MCAO </plain></SENT>
+<SENT sid="8" pm="."><plain>HBO (174+/-65 mm(3)) significantly reduced mean <z:mpath ids='MPATH_124'>infarct</z:mpath> volume by 31% compared to air (251+/-59 mm(3)) and by 23% compared to NBO treated animals (225+/-63 mm(3)) </plain></SENT>
+<SENT sid="9" pm="."><plain>In contrast, NBO failed to decrease <z:mpath ids='MPATH_124'>infarct</z:mpath> volume significantly </plain></SENT>
+<SENT sid="10" pm="."><plain>Treatment with NBO+HBO (185+/-101 mm(3)) added no additional benefit to HBO alone </plain></SENT>
+<SENT sid="11" pm="."><plain>Neurological deficit was significantly smaller in HBO treated animals (Garcia score: 13.3+/-1.2) than in animals treated with air (12.1+/-1.4), but did not differ significantly from NBO (12.4+/-0.9) and NBO+HBO (12.8+/-1.1) </plain></SENT>
+<SENT sid="12" pm="."><plain>In conclusion, HBO is a more effective therapy than NBO in transient experimental <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> even when accounting for delayed treatment-<z:hpo ids='HP_0003674'>onset</z:hpo> of HBO </plain></SENT>
+<SENT sid="13" pm="."><plain>The combination of NBO and HBO results in no additional benefit </plain></SENT>
+</text></document>

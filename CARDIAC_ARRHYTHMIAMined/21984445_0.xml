@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Background- The specialized cardiac conduction system (CCS) expresses a unique complement of ion channels that confer a specific electrophysiological profile </plain></SENT>
+<SENT sid="1" pm="."><plain>ATP-sensitive <z:chebi fb="120" ids="26216">potassium</z:chebi> (K(ATP)) channels in these myocytes have not been systemically investigated </plain></SENT>
+<SENT sid="2" pm="."><plain>Methods and Results- We recorded K(ATP) channels in isolated CCS myocytes using Cntn2-EGFP reporter mice </plain></SENT>
+<SENT sid="3" pm="."><plain>The CCS K(ATP) channels were less sensitive to inhibitory cytosolic ATP compared with ventricular channels and more strongly activated by MgADP </plain></SENT>
+<SENT sid="4" pm="."><plain>They also had a smaller slope conductance </plain></SENT>
+<SENT sid="5" pm="."><plain>The 2 types of channels had similar intraburst open and closed times, but the CCS K(ATP) channel had a prolonged interburst closed time </plain></SENT>
+<SENT sid="6" pm="."><plain>CCS K(ATP) channels were strongly activated by <z:chebi fb="0" ids="4495">diazoxide</z:chebi> and less by levcromakalim, whereas the ventricular K(ATP) channel had a reverse pharmacological profile </plain></SENT>
+<SENT sid="7" pm="."><plain>CCS myocytes express elevated levels of Kir6.1 but reduced Kir6.2 and SUR2A <z:chebi fb="2" ids="33699">mRNA</z:chebi> compared with ventricular myocytes (SUR1 expression was negligible) </plain></SENT>
+<SENT sid="8" pm="."><plain>SUR2B <z:chebi fb="2" ids="33699">mRNA</z:chebi> expression was higher in CCS myocytes relative to SUR2A </plain></SENT>
+<SENT sid="9" pm="."><plain>Canine Purkinje fibers expressed higher levels of Kir6.1 and SUR2B protein relative to the ventricle </plain></SENT>
+<SENT sid="10" pm="."><plain>Numeric simulation predicts a high sensitivity of the Purkinje action potential to changes in ATP:<z:chebi fb="13" ids="16761">ADP</z:chebi> ratio </plain></SENT>
+<SENT sid="11" pm="."><plain>Cardiac conduction time was prolonged by low-flow <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> in isolated, perfused mouse hearts, which was prevented by <z:chebi fb="0" ids="5441">glibenclamide</z:chebi> </plain></SENT>
+<SENT sid="12" pm="."><plain>Conclusions- These data imply a differential electrophysiological response (and possible contribution to <z:hpo ids='HP_0011675'>arrhythmias</z:hpo>) of the ventricular CCS to K(ATP) channel opening during periods of <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> </plain></SENT>
+</text></document>

@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: The efficacy of cardiac resynchronization therapy (CRT) is associated with the amount of CRT pacing delivered </plain></SENT>
+<SENT sid="1" pm="."><plain>The specific causes of CRT pacing loss and their relative frequencies remain poorly defined </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS AND RESULTS: CRT patients who transmitted device data from 2006 to 2011 were screened for inclusion </plain></SENT>
+<SENT sid="3" pm="."><plain>Device diagnostics were analyzed using an automated algorithm to categorize CRT loss into 10 different causes </plain></SENT>
+<SENT sid="4" pm="."><plain>The algorithm was validated against manual adjudications using a portion of the entire cohort </plain></SENT>
+<SENT sid="5" pm="."><plain>There were 80 768 patients analyzed with a median time of 594 (interquartile range, 294-1003) days from implant to time of analysis </plain></SENT>
+<SENT sid="6" pm="."><plain>In this cohort, 40.7% of patients had &lt;98% pacing, and 11.5% of patients had &lt;90% pacing </plain></SENT>
+<SENT sid="7" pm="."><plain>For patients with &lt;98% pacing, device diagnostics explained 55.8% of pacing loss: 30.6% atrial <z:hpo ids='HP_0001649'>tachycardia</z:hpo>/<z:hpo ids='HP_0005110'>atrial fibrillation</z:hpo>; 16.6% <z:hpo ids='HP_0006682'>premature ventricular contractions</z:hpo>; and 8.6% captured as episodes with at least 10 consecutive beats of CRT loss (ventricular sensing episodes) </plain></SENT>
+<SENT sid="8" pm="."><plain>Inappropriately programmed sensed and paced atrioventricular (AV) intervals (SAV/PAV) accounted for 34.5% of <z:hpo ids='HP_0000001'>all</z:hpo> ventricular sensing episodes </plain></SENT>
+<SENT sid="9" pm="."><plain>As the severity of CRT loss increased, the contribution of atrial <z:hpo ids='HP_0001649'>tachycardia</z:hpo>/<z:hpo ids='HP_0005110'>atrial fibrillation</z:hpo> and SAV/PAV to the loss increased </plain></SENT>
+<SENT sid="10" pm="."><plain>Atrial <z:hpo ids='HP_0001649'>tachycardia</z:hpo>/<z:hpo ids='HP_0005110'>atrial fibrillation</z:hpo> accounted for &gt;50% and <z:hpo ids='HP_0006682'>premature ventricular contractions</z:hpo> accounted for &lt;10% of CRT loss in those with &lt;90% CRT pacing </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: CRT pacing &lt;98% was observed in 40.7% of patients </plain></SENT>
+<SENT sid="12" pm="."><plain>Among those with suboptimal pacing, atrial <z:hpo ids='HP_0001649'>tachycardia</z:hpo>/<z:hpo ids='HP_0005110'>atrial fibrillation</z:hpo> was the most common reason for CRT pacing loss </plain></SENT>
+<SENT sid="13" pm="."><plain>Inappropriately programmed SAV/PAV intervals was the most common reason for episodes of sustained loss of CRT pacing </plain></SENT>
+<SENT sid="14" pm="."><plain>This information can help in defining more effective treatments to improve CRT delivery </plain></SENT>
+</text></document>

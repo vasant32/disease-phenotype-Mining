@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND/AIMS: To examine whether brevity can be combined with precision in measuring global cognitive ability in patients with cerebrovascular disease (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CVD</z:e>) or vascular <z:hpo ids='HP_0000726'>dementia</z:hpo> (VaD) </plain></SENT>
+<SENT sid="1" pm="."><plain>Longer tests (e.g. the CAMCOG) are precise but inefficient, whereas brief tests (e.g. the MMSE) are efficient but imprecise </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: A simulated computerized adaptive testing (CAT) algorithm using existing CAMCOG data from 284 patients with <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CVD</z:e> of whom 55 were diagnosed with VaD </plain></SENT>
+<SENT sid="3" pm="."><plain>CAT was used to estimate each individual patient's total score on a large precise test (the CAMCOG) </plain></SENT>
+<SENT sid="4" pm="."><plain>CAT repeatedly selected only items of appropriate difficulty, depending on whether the previous item was (in)correctly responded to </plain></SENT>
+<SENT sid="5" pm="."><plain>CAT estimates were compared with total scores on the whole CAMCOG </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: Even though there was an average test reduction of more than 40%, CAT estimates were in very high agreement with the whole test results (intraclass correlation &gt;0.97) and had similar accuracy for the diagnosis of <z:hpo ids='HP_0000726'>dementia</z:hpo> (area under the curve = 0.94) </plain></SENT>
+<SENT sid="7" pm="."><plain>CONCLUSION: CAT combines efficiency with precision in the measurement of global cognitive ability in <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CVD</z:e> patients </plain></SENT>
+</text></document>

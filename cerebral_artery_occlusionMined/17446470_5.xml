@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We hypothesize that stimulation of <z:chebi fb="1" ids="29101">Na+</z:chebi>-K+-<z:chebi fb="0" ids="30120">Cl+</z:chebi> cotransporter (NKCC1) causes <z:chebi fb="1" ids="29101">Na+</z:chebi> overload that may lead to reversal of <z:chebi fb="1" ids="29101">Na+</z:chebi>-<z:chebi fb="0" ids="29108">Ca2+</z:chebi> exchanger isoform 1 (NCX1) and ischemic neuronal damage </plain></SENT>
+<SENT sid="1" pm="."><plain>NCX1 protein expression and <z:chebi fb="0" ids="29108">Ca2+</z:chebi> influx via reversal of NCX were decreased by approximately 70% in NCX1+/- neurons </plain></SENT>
+<SENT sid="2" pm="."><plain>Compared to NCX1+/+ neurons, NCX1+/- neurons exhibited significantly less cell <z:hpo ids='HP_0011420'>death</z:hpo> (approximately 30%) after 3 h oxygen and <z:chebi fb="105" ids="17234">glucose</z:chebi> deprivation (OGD) and 21 h reoxygenation </plain></SENT>
+<SENT sid="3" pm="."><plain>Additional neuroprotection was found in NCX1+/- neurons treated with NCX inhibitor KB-R7943 </plain></SENT>
+<SENT sid="4" pm="."><plain>Moreover, expression of NCX1 protein was approximately 40% lower in NCX1+/- brains than in NCX1+/+ brains </plain></SENT>
+<SENT sid="5" pm="."><plain>However, there was no significant reduction in <z:e sem="disease" ids="C0007785" disease_type="Disease or Syndrome" abbrv="">cerebral infarction</z:e> in NCX1+/- mice following middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (MCAO) </plain></SENT>
+<SENT sid="6" pm="."><plain>These data suggest that moderate reduction of NCX1 protein may be not enough to exert protection </plain></SENT>
+<SENT sid="7" pm="."><plain>We used small <z:chebi fb="40" ids="33697">RNA</z:chebi>-interference (siRNA) approach to further elucidate the role of NCX1 in ischemic cell damage </plain></SENT>
+<SENT sid="8" pm="."><plain>Efficacy of anti-NCX1 siRNA was tested in astrocytes and approximately 50% knockdown of NCX1 protein expression was achieved after 24-72 h transfection </plain></SENT>
+<SENT sid="9" pm="."><plain>Reduction in NCX1 protein expression was also found in brains of NCX1+/- mice after the siRNA injection </plain></SENT>
+<SENT sid="10" pm="."><plain>NCX1+/- mice treated with siRNA showed approximately 20% less MCAO-induced infarction, compared to NCX1+/- mice </plain></SENT>
+<SENT sid="11" pm="."><plain>Approximately 50% neuroprotection was detected in NKCC1+/-/NCX1+/- mice following MCAO </plain></SENT>
+<SENT sid="12" pm="."><plain>In conclusion, these data suggest that NCX1 plays an important role in <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e>/reperfusion-induced neuronal injury </plain></SENT>
+</text></document>

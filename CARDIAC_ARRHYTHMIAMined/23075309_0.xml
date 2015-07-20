@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The analysis of ECG signal, especially the QRS complex as the most characteristic wave in ECG, is a widely accepted approach to study and to classify cardiac dysfunctions </plain></SENT>
+<SENT sid="1" pm="."><plain>In this paper, first wavelet coefficients calculated for QRS complex are taken as features </plain></SENT>
+<SENT sid="2" pm="."><plain>Next, factor analysis procedures without rotation and with orthogonal rotation (varimax, equimax and quartimax) are used for feature reduction </plain></SENT>
+<SENT sid="3" pm="."><plain>The procedure uses the 'Principal Component Method' to estimate component loadings </plain></SENT>
+<SENT sid="4" pm="."><plain>Further, classification has been done with a LDA classifier </plain></SENT>
+<SENT sid="5" pm="."><plain>The <z:chebi fb="75" ids="27847,53620">MIT</z:chebi>-BIH <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> database is used and five types of beats (<z:mpath ids='MPATH_458'>normal</z:mpath>, <z:mp ids='MP_0010018'>PVC</z:mp>, paced, <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">LBBB</z:e> and <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">RBBB</z:e>) are considered for analysis </plain></SENT>
+<SENT sid="6" pm="."><plain>Accuracy, sensitivity and positive predictivity are performance parameters used for comparing performance of feature reduction techniques </plain></SENT>
+<SENT sid="7" pm="."><plain>Results demonstrate that the equimax rotation method yields maximum average accuracy of 99.056% for unknown data sets among other used methods </plain></SENT>
+</text></document>

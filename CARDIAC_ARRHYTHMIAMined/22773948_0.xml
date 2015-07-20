@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:e sem="disease" ids="C1142166" disease_type="Disease or Syndrome" abbrv="SUNDS">Brugada syndrome</z:e> (BrS) is associated with <z:hpo ids='HP_0004756'>ventricular tachycardia</z:hpo> originating particularly in the right ventricle (RV) </plain></SENT>
+<SENT sid="1" pm="."><plain>We explore electrophysiological features predisposing to such arrhythmic tendency and their possible RV localization in a heterozygotic Scn5a+/- murine model </plain></SENT>
+<SENT sid="2" pm="."><plain>Na(v)1.5 mRNA and protein expression were lower in Scn5a+/- than <z:mp ids='MP_0002169'>wild-type</z:mp> (WT), with a further reduction in the RV compared with the left ventricle (LV) </plain></SENT>
+<SENT sid="3" pm="."><plain>RVs showed higher expression levels of K(v)4.2, K(v)4.3 and KChIP2 in both Scn5a+/- and WT </plain></SENT>
+<SENT sid="4" pm="."><plain>Action potential upstroke velocity and maximum <z:chebi fb="0" ids="29101">Na(+)</z:chebi> current (I(Na)) density were correspondingly decreased in Scn5a+/-, with a further reduction in the RV </plain></SENT>
+<SENT sid="5" pm="."><plain>The voltage dependence of inactivation was shifted to more negative values in Scn5a+/- </plain></SENT>
+<SENT sid="6" pm="."><plain>These findings are predictive of a localized depolarization abnormality leading to slowed conduction </plain></SENT>
+<SENT sid="7" pm="."><plain>Persistent <z:chebi fb="0" ids="29101">Na(+)</z:chebi> current (I(pNa)) density was decreased in a similar pattern to I(Na) </plain></SENT>
+<SENT sid="8" pm="."><plain>RV transient outward current (I(to)) density was greater than LV in both WT and Scn5a+/-, and had larger time constants of inactivation </plain></SENT>
+<SENT sid="9" pm="."><plain>These findings were also consistent with the observation that AP durations were smallest in the RV of Scn5a+/-, fulfilling predictions of an increased <z:hpo ids='HP_0001425'>heterogeneity</z:hpo> of repolarization as an additional possible electrophysiological mechanism for arrhythmogenesis in BrS </plain></SENT>
+</text></document>

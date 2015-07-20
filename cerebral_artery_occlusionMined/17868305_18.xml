@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The protective effect of pituitary adenylate cyclase-activating <z:chebi fb="1" ids="15841">polypeptide</z:chebi> (PACAP) in <z:hpo ids='HP_0001297'>stroke</z:hpo> models is poorly understood </plain></SENT>
+<SENT sid="1" pm="."><plain>We studied patterns of PACAP, vasoactive intestinal <z:chebi fb="7" ids="16670">peptide</z:chebi>, and the PACAP-selective receptor PAC1 after middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> and neuroprotection by PACAP in cortical cultures exposed to oxygen/<z:chebi fb="105" ids="17234">glucose</z:chebi> deprivation (OGD) </plain></SENT>
+<SENT sid="2" pm="."><plain>Within hours, focal <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> caused a massive, <z:chebi fb="0" ids="31882">NMDA</z:chebi> receptor (NMDAR)-dependent up-regulation of PACAP in cortical pyramidal cells </plain></SENT>
+<SENT sid="3" pm="."><plain>PACAP expression dropped below the control level after 2 days and was normalized after 4 days </plain></SENT>
+<SENT sid="4" pm="."><plain>Vasoactive intestinal <z:chebi fb="7" ids="16670">peptide</z:chebi> expression was regulated oppositely to that of PACAP </plain></SENT>
+<SENT sid="5" pm="."><plain>PAC1 <z:chebi fb="2" ids="33699">mRNA</z:chebi> showed ubiquitous expression in neurons and astrocytes with minor changes after <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> </plain></SENT>
+<SENT sid="6" pm="."><plain>In cultured cortical neurons PACAP27 strongly activated Erk1/2 at low and p38 MAP kinase at higher nanomolar concentrations via PAC1 </plain></SENT>
+<SENT sid="7" pm="."><plain>In astrocyte cultures, effects of PACAP27 on Erk1/2 and p38 were weak </plain></SENT>
+<SENT sid="8" pm="."><plain>During OGD, neurons showed severely reduced Erk1/2 activity and dephosphorylation of Erk1/2-regulated Ser112 of pro-apoptotic Bad </plain></SENT>
+<SENT sid="9" pm="."><plain>PACAP27 stimulation counteracted Erk1/2 inactivation and Bad dephosphorylation during short-term OGD but was ineffective after expanded OGD </plain></SENT>
+<SENT sid="10" pm="."><plain>Consistently, PACAP27 caused MEK-dependent neuroprotection during mild but not severe hypoxic/ischemic stress </plain></SENT>
+<SENT sid="11" pm="."><plain>While PACAP27 protected neurons at 1-5 nmol/L, full PAC1 activation by 100 nmol/L PACAP exaggerated hypoxic/ischemic damage </plain></SENT>
+<SENT sid="12" pm="."><plain>PACAP27 stimulation of astrocytes increased the production of Akt-activating factors and conferred ischemic tolerance to neurons </plain></SENT>
+<SENT sid="13" pm="."><plain>Thus, <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e>-induced PACAP may act via neuronal and astroglial PAC1 </plain></SENT>
+<SENT sid="14" pm="."><plain>PACAP confers protection to ischemic neurons by maintaining Erk1/2 signaling via neuronal PAC1 and by increasing neuroprotective factor production via astroglial PAC1 </plain></SENT>
+</text></document>

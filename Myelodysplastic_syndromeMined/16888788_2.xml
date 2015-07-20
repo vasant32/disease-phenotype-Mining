@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0002863'>Myelodysplastic syndrome</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e>) with <z:hpo ids='HP_0012133'>erythroid hypoplasia</z:hpo>, a rare form of <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e>, has not yet been clearly defined </plain></SENT>
+<SENT sid="1" pm="."><plain>We report here a 20-year-old woman with severe transfusion-dependent <z:hpo ids='HP_0001903'>anemia</z:hpo> and <z:hpo ids='HP_0001896'>reticulocytopenia</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>White blood cells and platelet counts were <z:mpath ids='MPATH_458'>normal</z:mpath> </plain></SENT>
+<SENT sid="3" pm="."><plain>Bone marrow examination showed a low percentage of erythroid precursors (6%) and a marked dyserythropoiesis and dysmegakaryopoiesis </plain></SENT>
+<SENT sid="4" pm="."><plain>A diagnosis of <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> (<z:hpo ids='HP_0005505'>refractory anemia</z:hpo> according to the FAB classification) with <z:hpo ids='HP_0012133'>erythroid hypoplasia</z:hpo> was made </plain></SENT>
+<SENT sid="5" pm="."><plain>Cytogenetic analysis of the bone marrow and peripheral blood revealed a 46,XX,t(3;14)(p21.1;q24.1) translocation, which was confirmed by fluorescence in situ hybridization analysis </plain></SENT>
+<SENT sid="6" pm="."><plain>This translocation was detected in the apparently healthy younger brother, father, and aunt (father's sister) of the patient </plain></SENT>
+<SENT sid="7" pm="."><plain>Clonality of T cells in the patient was not confirmed by the polymerase chain reaction and heteroduplex temperature-gradient gel electrophoresis </plain></SENT>
+<SENT sid="8" pm="."><plain>IgM serology for B19 parvovirus was negative </plain></SENT>
+<SENT sid="9" pm="."><plain>Other conditions known to be associated with <z:hpo ids='HP_0012133'>erythroid hypoplasia</z:hpo>, such as <z:hpo ids='HP_0100522'>thymoma</z:hpo>, were not present </plain></SENT>
+<SENT sid="10" pm="."><plain>The patient failed to respond to immunosuppressive therapy (antithymocyte globulin and <z:chebi fb="0" ids="4031">cyclosporin A</z:chebi>) </plain></SENT>
+<SENT sid="11" pm="."><plain>Administration of recombinant human erythropoietin improved her <z:hpo ids='HP_0001903'>anemia</z:hpo> </plain></SENT>
+<SENT sid="12" pm="."><plain>To our knowledge, this balanced translocation, namely t(3;14)(p21.1;q24.1), which is present both in the patient with <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> with <z:hpo ids='HP_0012133'>erythroid hypoplasia</z:hpo> and in the healthy members of the family, has not been defined previously </plain></SENT>
+</text></document>

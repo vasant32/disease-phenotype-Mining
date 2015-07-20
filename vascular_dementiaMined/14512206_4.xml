@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Several studies have linked geriatric <z:hpo ids='HP_0000716'>depression</z:hpo> with cerebrovascular disease </plain></SENT>
+<SENT sid="1" pm="."><plain>The <z:chebi fb="0" ids="39015">apolipoprotein</z:chebi> E gene (APOE) epsilon 4 allele has been associated with a variety of late-life neuropsychiatric disorders, including <z:e sem="disease" ids="C0002395" disease_type="Disease or Syndrome" abbrv="SDAT">Alzheimer's disease</z:e>, vascular <z:hpo ids='HP_0000726'>dementia</z:hpo>, and <z:hpo ids='HP_0000716'>depression</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: The sample consisted of 145 elderly depressive individuals and 100 nondepressed elderly control subjects </plain></SENT>
+<SENT sid="3" pm="."><plain>After a standardized clinical assessment, <z:hpo ids='HP_0000001'>all</z:hpo> subjects underwent a magnetic resonance imaging brain scan </plain></SENT>
+<SENT sid="4" pm="."><plain>Volumes of subcortical white and gray matter lesions were determined using a semi-automated method </plain></SENT>
+<SENT sid="5" pm="."><plain><z:chebi fb="0" ids="39015">Apolipoprotein</z:chebi> E genotype was determined on blood sample using a standard protocol </plain></SENT>
+<SENT sid="6" pm="."><plain>A series of linear regression models were developed to assess the relationships between APOE genotype and white and gray matter lesion volumes </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: Older age, lower Mini-Mental State Examination score, and having any APOE epsilon 4 allele were each correlated with gray-matter lesion volume in depressed patients </plain></SENT>
+<SENT sid="8" pm="."><plain><z:chebi fb="0" ids="39015">Apolipoprotein</z:chebi> E genotype was not associated with any lesion volume among control subjects </plain></SENT>
+<SENT sid="9" pm="."><plain>In a subsequent linear regression model, gray matter lesion volume was associated with older age, having at least one APOE epsilon 4 allele, and white matter lesion volume among depressed patients </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSIONS: These results are consistent with previous reports linking cerebrovascular disease and APOE genotype </plain></SENT>
+<SENT sid="11" pm="."><plain>Further studies are needed to replicate this finding in elderly depressive individuals and to explain the relationship between the APOE locus and development of central <z:mp ids='MP_0008912'>nervous</z:mp> system vascular pathology </plain></SENT>
+</text></document>

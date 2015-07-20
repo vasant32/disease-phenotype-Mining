@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The ECAT was designed and developed as a <z:chebi fb="4" ids="30225">positron</z:chebi> imaging system capable of providing high contrast, high resolution, quantitative images in two-dimensional (2-D) and tomographic formats </plain></SENT>
+<SENT sid="1" pm="."><plain>The flexibility in its variety of imaging problems </plain></SENT>
+<SENT sid="2" pm="."><plain>High (HR), medium (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e>), and low (LR) tomographic resolutions are 0.95 +/- 0.1, 1.3 +/- 0.1, and 1.7 +/- 0.1 cm FWHM; high, medium, and low resolutions in 2-D images are 0.85 +/- 0.1, 1.3 +/- 0.1 and 1.7 +/- 0.1, depending on resolution mode employed </plain></SENT>
+<SENT sid="3" pm="."><plain>ECT system efficiency is 30,100, 15,900, and 9,200 c/sec/muCi/cc with a 20-cm diameter phantom at LR, <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e>, and HR </plain></SENT>
+<SENT sid="4" pm="."><plain>Because of the geometric, detector, electronic and shielding design of the system, count-rate capability and linearity are high, with minimum detection of scattered radiation and random coincidence </plain></SENT>
+<SENT sid="5" pm="."><plain>Measured error agrees well with theoretical statistical predictions down to a level of 1.4% standard deviation </plain></SENT>
+<SENT sid="6" pm="."><plain>The redundant sampling scheme of this system significantly reduces errors caused by motion and detector instability </plain></SENT>
+<SENT sid="7" pm="."><plain>Scan times are variable from 10 sec to several min/slice and multiple levels are automatically performed by computer control of patient bed </plain></SENT>
+<SENT sid="8" pm="."><plain>A variety of human studies illustrate image quality, resolution, and efficiency of both ECT and 2-D imaging mode </plain></SENT>
+<SENT sid="9" pm="."><plain>Examples of the noninvasive study method have been made possible through development of ECT </plain></SENT>
+</text></document>

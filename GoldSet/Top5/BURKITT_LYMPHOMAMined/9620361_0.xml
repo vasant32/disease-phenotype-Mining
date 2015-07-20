@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A number of novel genes activated by type I interferons (IFNs) were identified by differential display </plain></SENT>
+<SENT sid="1" pm="."><plain>Of five induced genes examined, four were of unknown function </plain></SENT>
+<SENT sid="2" pm="."><plain>However, one gene sequence was identical to the human <z:chebi fb="0" ids="16610">spermidine</z:chebi>/<z:chebi fb="0" ids="15746">spermine</z:chebi> N1-acetyltransferase, the rate-limiting enzyme in <z:chebi fb="0" ids="51349">polyamine</z:chebi> catabolism </plain></SENT>
+<SENT sid="3" pm="."><plain>This enzyme was induced by type I IFNs in a series of hematopoietic cell lines, including Daudi, <z:e sem="disease" ids="C0019829" disease_type="Neoplastic Process" abbrv="hd">HL</z:e>-60, HPBMa, and Wil-2 </plain></SENT>
+<SENT sid="4" pm="."><plain>No induction above constitutive levels occurred in a cell line of epithelial (ME180) or liver (HepG2) origin following treatment with type I IFN </plain></SENT>
+<SENT sid="5" pm="."><plain><z:chebi fb="0" ids="16610">Spermidine</z:chebi>/<z:chebi fb="0" ids="15746">spermine</z:chebi> N1-acetyltransferase was not induced by IFN-gamma in Daudi or ME180 cells </plain></SENT>
+<SENT sid="6" pm="."><plain>That induction occurred not only at the level of transcription but also at the enzyme level was confirmed by direct enzyme assays </plain></SENT>
+<SENT sid="7" pm="."><plain>As the levels of <z:chebi fb="0" ids="51349">polyamines</z:chebi> are related to cell viability, we propose that induction of this enzyme by IFN may be directly related to the anti-proliferative response to type I IFNs </plain></SENT>
+</text></document>

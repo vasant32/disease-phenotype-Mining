@@ -1,0 +1,24 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>INTRODUCTION: <z:hpo ids='HP_0000939'>Osteoporosis</z:hpo> is one of the under diagnosed and undertreated conditions worldwide </plain></SENT>
+<SENT sid="1" pm="."><plain>It is estimated that 1 in 3 women and 1 in 5 men in Ireland are diagnosed with it above the age of 50 years and will be likely to become more common with the increased life expectancy </plain></SENT>
+<SENT sid="2" pm="."><plain>In our study, we aimed to assess the rate of screening with DEXA scans for this condition in a prospective IBD cohort and to evaluate the results </plain></SENT>
+<SENT sid="3" pm="."><plain>We also studied possible factors that may influence DEXA rates </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS: As part of two decades follow up study of a multi-centre Irish IBD prospective cohort from the early 1990's that was part of European Collaborative Study on IBD (EC-IBD), patients were traced and interviewed </plain></SENT>
+<SENT sid="5" pm="."><plain>There were 126 IBD patients from the Greater Dublin area who consented and completed the study questionnaire, following Ethical committees' approvals </plain></SENT>
+<SENT sid="6" pm="."><plain>In this questionnaire we evaluated DEXA frequency and possible factors that may influence it; including patient diagnosis, age, gender, family history of IBD, courses of steroids, social class, total years of education, attending gastroenterologist or a surgeon, years of loss to follow up (LTFU) and membership to the national IBD patient support group (Irish Society of Crohn's <z:hpo ids='HP_0002583'>Colitis</z:hpo> ISCC) </plain></SENT>
+<SENT sid="7" pm="."><plain>Results were analysed with logistic regression and forward stepwise analysis using R program 3.0.1 software, taking p value &lt;0.05 to be statistically significant </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: Of the total 126 patients only 58 (46.03%) patients had DEXA scans performed </plain></SENT>
+<SENT sid="9" pm="."><plain>Of those 67.44% had CD and 33.73% had UC </plain></SENT>
+<SENT sid="10" pm="."><plain>When evaluating DEXA results <z:hpo ids='HP_0000939'>osteoporosis</z:hpo> was diagnosed in 26.67 and 21.43% of CD and UC patients respectively </plain></SENT>
+<SENT sid="11" pm="."><plain><z:hpo ids='HP_0000938'>Osteopenia</z:hpo> was diagnosed in 43.33% CD and 42.86% of UC patients </plain></SENT>
+<SENT sid="12" pm="."><plain>About 30% of remaining scanned patients had <z:mpath ids='MPATH_458'>normal</z:mpath> DEXA </plain></SENT>
+<SENT sid="13" pm="."><plain>Logistic regression analysis showed that patients with positive family history of IBD and longer years of education were more likely to have had a scan with P = 0.024 and 0.049 respectively </plain></SENT>
+<SENT sid="14" pm="."><plain>Other possible risk factors didn't reach statistical significance </plain></SENT>
+<SENT sid="15" pm="."><plain>Patients who were less compliant and LTFU were less likely to get DEXA with p = 0.045 in CD and p = 0.0336 in UC group </plain></SENT>
+<SENT sid="16" pm="."><plain>CONCLUSION: <z:hpo ids='HP_0000939'>Osteoporosis</z:hpo> is an increasingly recognised condition and recently has been considered as one of the extra intestinal manifestations of IBD </plain></SENT>
+<SENT sid="17" pm="."><plain>Patient and doctor awareness is paramount to screening and diagnosis </plain></SENT>
+<SENT sid="18" pm="."><plain>Our study showed that CD patients were more likely to have DEXA scans during their disease course </plain></SENT>
+<SENT sid="19" pm="."><plain>The rate of <z:hpo ids='HP_0000939'>osteoporosis</z:hpo> was higher in CD patients, despite their fewer numbers when compared to UC group </plain></SENT>
+<SENT sid="20" pm="."><plain>Over 40% of IBD patients had <z:hpo ids='HP_0000938'>osteopenia</z:hpo> </plain></SENT>
+<SENT sid="21" pm="."><plain>Early detection and appropriate management will help to reduce fracture risk, improve patient quality of life in a cost effective manner </plain></SENT>
+<SENT sid="22" pm="."><plain>DISCLOSURE OF INTEREST: None Declared </plain></SENT>
+</text></document>

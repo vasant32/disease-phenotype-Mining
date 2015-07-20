@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 41-year-old Asian-Indian male presented with recurrent episodes of <z:hpo ids='HP_0000952'>jaundice</z:hpo> over the past six months </plain></SENT>
+<SENT sid="1" pm="."><plain>Physical examination was <z:mpath ids='MPATH_458'>normal</z:mpath>, barring mild <z:mp ids='MP_0000611'>icterus</z:mp> </plain></SENT>
+<SENT sid="2" pm="."><plain>Laboratory parameters revealed indirect <z:hpo ids='HP_0002904'>hyperbilirubinemia</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>Further evaluation yielded a diagnosis of severe nutritional <z:hpo ids='HP_0100502'>vitamin B12 deficiency</z:hpo> </plain></SENT>
+<SENT sid="4" pm="."><plain>Indirect <z:hpo ids='HP_0002904'>hyperbilirubinemia</z:hpo> was ascribed to <z:hpo ids='HP_0010972'>ineffective erythropoiesis</z:hpo> </plain></SENT>
+<SENT sid="5" pm="."><plain>Underlying <z:e sem="disease" ids="C0017551" disease_type="Disease or Syndrome" abbrv="">Gilbert's syndrome</z:e> was ruled out by provocative testing with <z:chebi fb="23" ids="18059">lipid</z:chebi>-restricted diet </plain></SENT>
+<SENT sid="6" pm="."><plain>Presentation of severe <z:hpo ids='HP_0100502'>vitamin B12 deficiency</z:hpo> with isolated <z:hpo ids='HP_0002904'>hyperbilirubinemia</z:hpo> without concomitant major haematologic or neurologic dysfunction is unusual and potentially underdiagnosed </plain></SENT>
+<SENT sid="7" pm="."><plain>Awareness of this possibility can permit early diagnosis of <z:hpo ids='HP_0100502'>vitamin B12 deficiency</z:hpo> and forestall development of severe haematologic and neurologic sequelae </plain></SENT>
+</text></document>

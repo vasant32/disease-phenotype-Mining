@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: Three-dimensional time-of-flight magnetic resonance angiography (3D TOF MRA) has been wildly used in the diagnosis of intracranial artery diseases, but it only shows the arterial lumen and does not delineate the vessel wall </plain></SENT>
+<SENT sid="1" pm="."><plain>The aim of this study was to assess whether high resolution cross sectional magnetic resonance imaging (HRMRI) could compensate the limitation of 3D TOF MRA in the atherosclerotic disease of middle cerebral artery (<z:chebi fb="70" ids="34342">MCA</z:chebi>) </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: Fourty-eight suspected patients with atherosclerotic stenosis of <z:chebi fb="70" ids="34342">MCA</z:chebi> underwent 3D TOF MRA and HRMRI with a 3T scanner </plain></SENT>
+<SENT sid="3" pm="."><plain>The HRMRI was performed in 49 MCAs perpendicular to the M1 segment with T2-weighted imaging </plain></SENT>
+<SENT sid="4" pm="."><plain>Findings of HRMRI were compared with that of 3D MRA </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: HRMRI displayed the artery wall clearly, and showed 37 abnormalities, including 20 plaques and 17 wall thickening </plain></SENT>
+<SENT sid="6" pm="."><plain>The inter-observer reproducibility was moderate for wall abnormalities with k=0.75 (95% CI 0.59-0.91), and excellent for plaques with k=0.91 (95% CI 0.80-1.03) </plain></SENT>
+<SENT sid="7" pm="."><plain>3D TOF MRA showed 34 stenoses at the M1 segment </plain></SENT>
+<SENT sid="8" pm="."><plain>Five <z:mpath ids='MPATH_458'>normal</z:mpath> <z:chebi fb="70" ids="34342">MCAs</z:chebi> on 3D TOF MRA had abnormal wall (3 plaques and 2 wall-thickening) on HRMRI </plain></SENT>
+<SENT sid="9" pm="."><plain>Two stenoses on 3D TOF MRA showed <z:mpath ids='MPATH_458'>normal</z:mpath> wall structure on HRMRI, indicating a possible negative remodeling phenomenon </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSIONS: High-resolution <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e> imaging can clearly depict the wall structure of middle cerebral arteries </plain></SENT>
+<SENT sid="11" pm="."><plain>As a complementary method, HRMRI may compensate the limitation of 3D TOF MRA and help to detect <z:mp ids='MP_0005338'>atherosclerotic lesions</z:mp> not visualized by MRA </plain></SENT>
+</text></document>

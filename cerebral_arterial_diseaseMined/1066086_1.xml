@@ -1,0 +1,4 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A child with <z:hpo ids='HP_0011009'>acute</z:hpo> lymphoblastic <z:mpath ids='MPATH_336'>leukaemia</z:mpath> complicated by prolonged gastrointestinal and <z:e sem="disease" ids="C0852361" disease_type="Disease or Syndrome" abbrv="">skin haemorrhages</z:e> due to profound <z:hpo ids='HP_0001873'>thrombocytopenia</z:hpo> finally died of thrombotic occlusions of major cerebral arteries due to <z:e sem="disease" ids="C0026718" disease_type="Disease or Syndrome" abbrv="">mucormycosis</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>Biopsy of any suspect lesion is needed urgently before prolonged therapy with <z:chebi fb="1" ids="2682">amphotericin B</z:chebi> is started </plain></SENT>
+<SENT sid="2" pm="."><plain>So far there have been no cures in childhood </plain></SENT>
+</text></document>

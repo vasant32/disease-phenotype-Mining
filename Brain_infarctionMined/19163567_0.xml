@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The detection of asymptomatic lacunar <z:mpath ids='MPATH_124'>infarcts</z:mpath> on magnetic resonance (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e>) images is important because their presence indicates an increased risk of severe <z:e sem="disease" ids="C0007785" disease_type="Disease or Syndrome" abbrv="">cerebral infarction</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>However, accurate identification of lacunar <z:mpath ids='MPATH_124'>infarcts</z:mpath> on <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e> images is often hard for radiologists because of the difficulty in distinguishing lacunar <z:mpath ids='MPATH_124'>infarcts</z:mpath> and enlarged Virchow-Robin spaces </plain></SENT>
+<SENT sid="2" pm="."><plain>Therefore, we developed a computer-aided diagnosis (CAD) scheme for the classification of lacunar <z:mpath ids='MPATH_124'>infarcts</z:mpath> and enlarged Virchow-Robin spaces </plain></SENT>
+<SENT sid="3" pm="."><plain>Our database consisted of T1- and T2- weighted images obtained from 109 patients </plain></SENT>
+<SENT sid="4" pm="."><plain>The locations of lacunar <z:mpath ids='MPATH_124'>infarcts</z:mpath> and enlarged Virchow-Robin spaces were determined by an experienced neuroradiologist </plain></SENT>
+<SENT sid="5" pm="."><plain>It included 89 lacunar <z:mpath ids='MPATH_124'>infarcts</z:mpath> and 20 enlarged Virchow-Robin spaces </plain></SENT>
+<SENT sid="6" pm="."><plain>We first enhanced the lesions in T2-weighted image by using the white top-hat transformation </plain></SENT>
+<SENT sid="7" pm="."><plain>A gray-level thresholding was then applied to the enhanced image for the segmentation of lesions </plain></SENT>
+<SENT sid="8" pm="."><plain>From the segmented lesions, we determined image features, such as size, shape, location, and signal intensities in T1- and T2- weighted images </plain></SENT>
+<SENT sid="9" pm="."><plain>A neural network was then employed for distinguishing between lacunar <z:mpath ids='MPATH_124'>infarcts</z:mpath> and enlarged Virchow-Robin spaces </plain></SENT>
+<SENT sid="10" pm="."><plain>Our computerized method was evaluated by using a leave-one-out method </plain></SENT>
+<SENT sid="11" pm="."><plain>The result indicated that the area under the ROC curve was 0.945 </plain></SENT>
+<SENT sid="12" pm="."><plain>Therefore, our CAD scheme would be useful in assisting radiologists for diagnosis of silent <z:e sem="disease" ids="C0007785" disease_type="Disease or Syndrome" abbrv="">cerebral infarctions</z:e> in <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e> images </plain></SENT>
+</text></document>

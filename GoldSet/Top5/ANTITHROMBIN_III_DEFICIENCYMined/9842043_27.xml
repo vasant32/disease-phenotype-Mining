@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: Resistance to activated protein C (APC) has been identified as a risk factor for <z:e sem="disease" ids="C0087086" disease_type="Disease or Syndrome" abbrv="">thrombotic disease</z:e> in adults </plain></SENT>
+<SENT sid="1" pm="."><plain>In over 90% of cases, the basis for the APC resistance is a mutation in the coagulation factor V gene (factor V Leiden) that renders the protein more resistant to inactivation by APC </plain></SENT>
+<SENT sid="2" pm="."><plain>We sought to determine the prevalence of the factor V Leiden (FVL) mutation in neonates and children who had experienced an arterial or venous thromboembolic event </plain></SENT>
+<SENT sid="3" pm="."><plain>Study design: We retrospectively analyzed the clinical records of 33 neonates and 52 children with <z:hpo ids='HP_0001907'>thromboembolic disease</z:hpo> </plain></SENT>
+<SENT sid="4" pm="."><plain>Screening for the FVL mutation was performed by DNA analysis, allowing for identification of patients as <z:mpath ids='MPATH_458'>normal</z:mpath>, heterozygous, or homozygous </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: Of the 85 patients studied, 12 (14.1%) were heterozygous for FVL; none were homozygous </plain></SENT>
+<SENT sid="6" pm="."><plain>Of the 47 patients who had arterial central <z:mp ids='MP_0008912'>nervous</z:mp> system events, 8 (17%) were positive for the FVL mutation, including 6 of 22 (27%) neonates </plain></SENT>
+<SENT sid="7" pm="."><plain>Of those patients who had a <z:hpo ids='HP_0004936'>venous thrombosis</z:hpo>, 4 of 32 (12.5%) were FVL positive </plain></SENT>
+<SENT sid="8" pm="."><plain>None of the 85 patients had <z:hpo ids='HP_0005543'>protein C deficiency</z:hpo>, 3.5% had <z:e sem="disease" ids="C0242666" disease_type="Disease or Syndrome" abbrv="">protein S deficiency</z:e>, 1.2% had <z:hpo ids='HP_0001976'>antithrombin III deficiency</z:hpo>, and 16.5% had anti-<z:chebi fb="0" ids="16247">phospholipid</z:chebi> antibodies </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSION: These data suggest that the FVL mutation plays a role in the development of arterial and venous thrombotic events in neonates and children </plain></SENT>
+</text></document>

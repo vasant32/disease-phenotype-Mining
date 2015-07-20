@@ -1,0 +1,4 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A patient with <z:e sem="disease" ids="C0024796" disease_type="Disease or Syndrome" abbrv="MFS|MFS1">Marfan syndrome</z:e> and Schoenlein-Henoch <z:hpo ids='HP_0000979'>purpura</z:hpo> is reported </plain></SENT>
+<SENT sid="1" pm="."><plain>The diagnosis has been possible only by clinical criteria because no laboratory test is available to support the clinical impressions </plain></SENT>
+<SENT sid="2" pm="."><plain>Possible initial diagnostic <z:hpo ids='HP_0001289'>confusion</z:hpo> with other <z:e sem="disease" ids="C0034150" disease_type="Disease or Syndrome" abbrv="">purpuric disorders</z:e> is discussed </plain></SENT>
+</text></document>

@@ -1,0 +1,18 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND PURPOSE: Small vessel disease is the major cause of white matter injury in patients with vascular <z:hpo ids='HP_0100543'>cognitive impairment</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Matrix metalloproteinase (MMP)-mediated <z:mp ids='MP_0001845'>inflammation</z:mp> may be involved in the white matter damage with oligodendrocyte (Ol) <z:hpo ids='HP_0011420'>death</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>Therefore, we used spontaneously hypertensive <z:hpo ids='HP_0001297'>stroke</z:hpo>-prone rats to study the role of neuroinflammation in white matter damage </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: Permanent unilateral carotid <z:mp ids='MP_0006134'>artery occlusion</z:mp> was performed at 12 weeks of age in spontaneously hypertensive <z:hpo ids='HP_0001297'>stroke</z:hpo>-prone rats </plain></SENT>
+<SENT sid="4" pm="."><plain>Following surgery, rats were placed on a Japanese permissive diet and received 1% <z:chebi fb="1" ids="26710">NaCl</z:chebi> in drinking water </plain></SENT>
+<SENT sid="5" pm="."><plain>MRI, histology, biochemistry, and ELISA characterized white matter lesions, and <z:hpo ids='HP_0100543'>cognitive impairment</z:hpo> was tested by <z:mp ids='MP_0001465'>Morris water maze</z:mp> </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: White matter damage was observed 4 to 5 weeks following permanent unilateral carotid <z:mp ids='MP_0006134'>artery occlusion</z:mp>/Japanese permissive diet </plain></SENT>
+<SENT sid="7" pm="."><plain>Immunoblotting showed marked reduction in myelin basic protein and upregulation of immature Ols </plain></SENT>
+<SENT sid="8" pm="."><plain>Mature Ols underwent caspase-3-mediated <z:mpath ids='MPATH_3'>apoptosis</z:mpath> </plain></SENT>
+<SENT sid="9" pm="."><plain><z:mp ids='MP_0001465'>Morris water maze</z:mp> showed <z:hpo ids='HP_0100543'>cognitive impairment</z:hpo> </plain></SENT>
+<SENT sid="10" pm="."><plain>Abnormally appearing vessels were observed and surrounded by inflammatory-like cells </plain></SENT>
+<SENT sid="11" pm="."><plain>IgG extravasation and <z:mp ids='MP_0001914'>hemorrhage</z:mp>, indicating blood-brain barrier (<z:chebi fb="2" ids="33602">BBB</z:chebi>) disruption, was closely associated with MMP-9 expression </plain></SENT>
+<SENT sid="12" pm="."><plain>Lesions in white matter showed reactive <z:hpo ids='HP_0002446'>astrocytosis</z:hpo> and activated microglia that expressed <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> <z:mp ids='MP_0001651'>necrosis</z:mp> factor-α </plain></SENT>
+<SENT sid="13" pm="."><plain>MMP-3 and MMP-9 were significantly increased, and MMP-2 was reduced in both astrocytes and Ol </plain></SENT>
+<SENT sid="14" pm="."><plain>CONCLUSIONS: We found <z:mpath ids='MPATH_3'>apoptosis</z:mpath> of mature Ols with an increase in immature Ols </plain></SENT>
+<SENT sid="15" pm="."><plain>Increased MMP-3, MMP-9, and <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> <z:mp ids='MP_0001651'>necrosis</z:mp> factor-α were associated with myelin breakdown and <z:chebi fb="2" ids="33602">BBB</z:chebi> disruption </plain></SENT>
+<SENT sid="16" pm="."><plain>Neuroinflammation is an important factor in white matter damage and Ol <z:hpo ids='HP_0011420'>death</z:hpo>, and studies using this new model can be performed to assess agents to block <z:mp ids='MP_0001845'>inflammation</z:mp> </plain></SENT>
+</text></document>

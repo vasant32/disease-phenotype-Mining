@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The Jarvik-7 total artificial heart (TAH) has now been implanted in seven patients, with four (57%) suffering cerebral embolic events </plain></SENT>
+<SENT sid="1" pm="."><plain>Functional recovery in two patients was impaired by subsequent <z:hpo ids='HP_0002170'>intracranial hemorrhage</z:hpo> from <z:chebi fb="3" ids="50249">anticoagulant</z:chebi> therapy </plain></SENT>
+<SENT sid="2" pm="."><plain>The findings of a Jarvik-7 TAH explanted following a cerebral <z:mpath ids='MPATH_110'>embolus</z:mpath> are reported here </plain></SENT>
+<SENT sid="3" pm="."><plain>Thrombotic deposition was seen in the inner crevice formed between the two components of the aortic quick connector </plain></SENT>
+<SENT sid="4" pm="."><plain>In addition, deposition was seen around <z:hpo ids='HP_0000001'>all</z:hpo> four valves in the crevice formed between the valve ring and the plastic valve housing </plain></SENT>
+<SENT sid="5" pm="."><plain>On the atrioventricular valves, the deposition in this crevice was most severe on the outflow surface adjacent to the minor flow orifice </plain></SENT>
+<SENT sid="6" pm="."><plain>On the pulmonic valve, deposition was seen around the entire circumference of both the inflow and the outflow crevices </plain></SENT>
+<SENT sid="7" pm="."><plain>No <z:e sem="disease" ids="C0087086" disease_type="Disease or Syndrome" abbrv="">thrombi</z:e> were seen on the diaphragm, the diaphragm-housing junction, or the housing of the left ventricle </plain></SENT>
+<SENT sid="8" pm="."><plain><z:hpo ids='HP_0100724'>Hypercoagulability</z:hpo> of the patient's blood gradually developed during implant, reaching a maximum on the evening before the clinical <z:mpath ids='MPATH_110'>embolus</z:mpath> </plain></SENT>
+<SENT sid="9" pm="."><plain>Increasing resistance to <z:chebi fb="5" ids="28304">heparin</z:chebi> was also demonstrated by in vitro testing </plain></SENT>
+</text></document>

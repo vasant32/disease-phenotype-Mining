@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIMS: <z:hpo ids='HP_0011009'>acute</z:hpo> <z:e sem="disease" ids="C0151744" disease_type="Disease or Syndrome" abbrv="IHD">myocardial ischaemia</z:e> induces a decrease in resting membrane potential [which leads to reduction of action potential (AP) V(max)] and intracellular acidification (which closes gap junctions) </plain></SENT>
+<SENT sid="1" pm="."><plain>Both contribute to conduction slowing </plain></SENT>
+<SENT sid="2" pm="."><plain>We hypothesized that ventricular expression of the skeletal muscle <z:chebi fb="0" ids="29101">Na(+)</z:chebi> channel, Nav1.4 (which activates fully at low membrane potentials), or connexin32 (Cx32, which is less pH-sensitive than connexin43) would support conduction and be antiarrhythmic </plain></SENT>
+<SENT sid="3" pm="."><plain>We tested this hypothesis in a murine model of <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischaemia</z:e> and reperfusion <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS AND RESULTS: empty adenovirus (Sham) or adenoviral constructs expressing either SkM1 (gene encoding Nav1.4) or Cx32 genes were injected into the left ventricular wall </plain></SENT>
+<SENT sid="5" pm="."><plain>Four days later, <z:hpo ids='HP_0004756'>ventricular tachycardia</z:hpo> (VT) occurred during reperfusion following a 5 min <z:e sem="disease" ids="C0151814" disease_type="Disease or Syndrome" abbrv="">coronary occlusion</z:e> </plain></SENT>
+<SENT sid="6" pm="."><plain>In Nav1.4- and Cx32-expressing mice, VT incidence and duration were lower than in Sham (P &lt; 0.05) </plain></SENT>
+<SENT sid="7" pm="."><plain>In vitro multisite microelectrode mapping was performed in the superfused right ventricular wall </plain></SENT>
+<SENT sid="8" pm="."><plain>To simulate ischaemic conditions, [<z:chebi fb="0" ids="29103">K(+)</z:chebi>] in solution was increased to 10 mmol/L and/or pH was decreased to 6.0 </plain></SENT>
+<SENT sid="9" pm="."><plain>Western blots revealed Cx32 and Nav1.4 expression in both ventricles </plain></SENT>
+<SENT sid="10" pm="."><plain>Nav1.<z:chebi fb="1" ids="34385">4 APs</z:chebi> showed higher V(max) and conduction velocity (CV) than Shams at <z:mpath ids='MPATH_458'>normal</z:mpath> and elevated [<z:chebi fb="0" ids="29103">K(+)</z:chebi>] </plain></SENT>
+<SENT sid="11" pm="."><plain>Exposure of tissue to acid solution reduced intracellular pH to 6.4 </plain></SENT>
+<SENT sid="12" pm="."><plain>There was no difference in CV between Sham and Cx32 groups in control solution </plain></SENT>
+<SENT sid="13" pm="."><plain>Acid solution slowed CV in Sham (P &lt; 0.05) but not in Cx32 </plain></SENT>
+<SENT sid="14" pm="."><plain>CONCLUSION: Nav1.4 or Cx32 expression preserved <z:mpath ids='MPATH_458'>normal</z:mpath> conduction in murine hearts and decreased the incidence of reperfusion VT </plain></SENT>
+</text></document>

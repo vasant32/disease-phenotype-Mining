@@ -1,0 +1,7 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 38-year-old Japanese man with severe <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> had <z:e sem="disease" ids="C0276653" disease_type="Disease or Syndrome" abbrv="">invasive pulmonary aspergillosis</z:e> as a complication </plain></SENT>
+<SENT sid="1" pm="."><plain>He was treated with <z:chebi fb="1" ids="2682">amphotericin B</z:chebi> for six weeks, but the <z:e sem="disease" ids="C0004030" disease_type="Disease or Syndrome" abbrv="">aspergillosis</z:e> did not improve </plain></SENT>
+<SENT sid="2" pm="."><plain>Then he experienced a fatal <z:hpo ids='HP_0001658'>myocardial infarction</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>An autopsy revealed <z:e sem="disease" ids="C0004032" disease_type="Disease or Syndrome" abbrv="">disseminated aspergillosis</z:e> involving <z:hpo ids='HP_0001701'>pericarditis</z:hpo> and Aspergillus embolization to the coronary arteries </plain></SENT>
+<SENT sid="4" pm="."><plain>This led to the <z:hpo ids='HP_0011009'>acute</z:hpo> <z:hpo ids='HP_0001658'>myocardial infarction</z:hpo> </plain></SENT>
+<SENT sid="5" pm="."><plain>Cardiac <z:e sem="disease" ids="C0004030" disease_type="Disease or Syndrome" abbrv="">aspergillosis</z:e> is rare, but should be included within the differential diagnosis when <z:hpo ids='HP_0100749'>chest pain</z:hpo> of unknown origin occurs in an immunosuppressed patient </plain></SENT>
+</text></document>

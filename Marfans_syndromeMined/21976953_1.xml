@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PURPOSE: To identify the mutation in the fibrillin-1 gene (FBN1) in a Chinese family with <z:e sem="disease" ids="C0024796" disease_type="Disease or Syndrome" abbrv="MFS|MFS1">Marfan syndrome</z:e> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MFS</z:e>) </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: Patients and family members were given complete physical, ophthalmic, and cardiovascular examinations </plain></SENT>
+<SENT sid="2" pm="."><plain>Genomic DNA was extracted from leukocytes of venous blood of six individuals in the family and 170 healthy Chinese individuals </plain></SENT>
+<SENT sid="3" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> of the 65 coding exons and their flanking intronic boundaries of FBN1 were amplified in the proband by polymerase chain reaction and followed by direct sequencing </plain></SENT>
+<SENT sid="4" pm="."><plain>The mutation identified in the proband was screened in the other family members and the 170 healthy Chinese individuals by direct sequencing </plain></SENT>
+<SENT sid="5" pm="."><plain>Protein conservation analysis was performed in six species using an online ClustalW tool </plain></SENT>
+<SENT sid="6" pm="."><plain>Protein structure was modeled based on the Protein data bank and mutated in DeepView v4.0.1 to predict the functional consequences of the mutation </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: A novel heterozygous c.3703T&gt;C change in exon 29 of FBN1 was detected in the proband, which resulted in the substitution of serine by proline at codon 1235 (p.S1235P) </plain></SENT>
+<SENT sid="8" pm="."><plain>This mutation was also present in two family members but absent in the other, unaffected family members and the 170 healthy Chinese individuals </plain></SENT>
+<SENT sid="9" pm="."><plain>The mutant residue located in the calcium binding epidermal growth factor-like#15 domain is highly conserved among mammalian species and could probably induce conformation change of the domain </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSIONS: We indentified a novel p.S1235P mutation in FBN1, which is the causative mutation for <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MFS</z:e> in this family </plain></SENT>
+<SENT sid="11" pm="."><plain>Our result expands the mutation spectrum of FBN1 and contributes to the study of the molecular pathogenesis of <z:e sem="disease" ids="C0024796" disease_type="Disease or Syndrome" abbrv="MFS|MFS1">Marfan syndrome</z:e> </plain></SENT>
+</text></document>

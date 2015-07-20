@@ -1,0 +1,7 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 40-year-old man was admitted with <z:hpo ids='HP_0011009'>acute onset</z:hpo> of <z:hpo ids='HP_0001350'>slurred speech</z:hpo> and right <z:hpo ids='HP_0001269'>hemiparesis</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain><z:e sem="disease" ids="C0007785" disease_type="Disease or Syndrome" abbrv="">Cerebral infarction</z:e> was diagnosed from magnetic resonance (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e>) images </plain></SENT>
+<SENT sid="2" pm="."><plain>Chest X-ray incidentally revealed a posterior <z:e sem="disease" ids="C0025063" disease_type="Neoplastic Process" abbrv="">mediastinal tumour</z:e>, which proved to be <z:mpath ids='MPATH_317'>seminoma</z:mpath> on CT-guided biopsy </plain></SENT>
+<SENT sid="3" pm="."><plain>The patient then received chemotherapy </plain></SENT>
+<SENT sid="4" pm="."><plain>Five months later, right upper <z:hpo ids='HP_0003690'>limb weakness</z:hpo> and <z:hpo ids='HP_0001350'>slurred speech</z:hpo> occurred again </plain></SENT>
+<SENT sid="5" pm="."><plain>Brain <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e> images revealed two metastatic lesions in the prior <z:mpath ids='MPATH_124'>infarct</z:mpath> areas, which on histology proved to be metastatic <z:mpath ids='MPATH_317'>seminoma</z:mpath> </plain></SENT>
+</text></document>

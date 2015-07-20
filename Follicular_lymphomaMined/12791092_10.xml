@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>In the periphery, B cells differentiate in germinal centres (GCs) of secondary lymphoid organs </plain></SENT>
+<SENT sid="1" pm="."><plain>Isolated GC cells die quickly in vitro by <z:mpath ids='MPATH_3'>apoptosis</z:mpath> </plain></SENT>
+<SENT sid="2" pm="."><plain>Therefore, cell lines originating from follicular <z:hpo ids='HP_0002665'>lymphomas</z:hpo>, which are the malignant counterparts of GC B cells, would provide a stable in vitro model to study the immunobiology of GC B cells </plain></SENT>
+<SENT sid="3" pm="."><plain>We have established three novel human follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cell lines that were characterized with special reference to immunophenotypic features, response to B-cell receptor (BCR) triggering, response to cytokines and cytokine <z:chebi fb="2" ids="33699">mRNA</z:chebi> expression </plain></SENT>
+<SENT sid="4" pm="."><plain>One of the cell lines, HF-1A3, has a phenotype of a centrocyte </plain></SENT>
+<SENT sid="5" pm="."><plain>It expresses surface immunoglobulin G (sIgG) and dies by <z:mpath ids='MPATH_3'>apoptosis</z:mpath> following BCR cross-linking </plain></SENT>
+<SENT sid="6" pm="."><plain>Co-stimulation with interleukin-6 (IL-6), IL-15 or interferon-gamma (IFN-gamma) rescues HF-1A3 cells from BCR-induced <z:mpath ids='MPATH_3'>apoptosis</z:mpath> </plain></SENT>
+<SENT sid="7" pm="."><plain>The second cell line, HF-28, also represents phenotypically an IgG+ centrocyte </plain></SENT>
+<SENT sid="8" pm="."><plain>Ligation of its BCR leads to the cell-cycle arrest at G1 instead of <z:mpath ids='MPATH_3'>apoptosis</z:mpath> </plain></SENT>
+<SENT sid="9" pm="."><plain>HF-28 cells express both CD45RA and RO isoforms, which is unusual in B lymphocytes apart from plasma cells, thus suggesting a transition to plasma <z:mp ids='MP_0005384'>cell phenotype</z:mp> </plain></SENT>
+<SENT sid="10" pm="."><plain>The third cell line, HF-4.9, which phenotypically represents an sIgM+ centroblast, responds by proliferation to BCR cross-linking </plain></SENT>
+<SENT sid="11" pm="."><plain>These cell lines offer a unique in vitro model to study antigenic selection and cytokine-mediated growth regulation of human GC B cells </plain></SENT>
+</text></document>

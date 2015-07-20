@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIMS: <z:hpo ids='HP_0001639'>Hypertrophic cardiomyopathy</z:hpo> (HCM) is usually associated with electrocardiographic (ECG) abnormalities </plain></SENT>
+<SENT sid="1" pm="."><plain>QT interval and its dispersion can be clinical markers of electrophysiological instability and <z:hpo ids='HP_0004308'>ventricular arrhythmias</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>We aimed to clarify the relation of QT variables to mechanical dyssynchrony and myocardial function in HCM </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS AND RESULTS: The study population comprised 82 HCM patients, 28 healthy subjects as control </plain></SENT>
+<SENT sid="4" pm="."><plain>We assessed regional deformation indexes using vector velocity imaging in 12 myocardial segments </plain></SENT>
+<SENT sid="5" pm="."><plain>Peak systolic strain (ε(sys)), strain rate (SR(sys)), and post-systolic strain (<z:chebi fb="17" ids="53277">PSS</z:chebi>) were measured </plain></SENT>
+<SENT sid="6" pm="."><plain>Contraction time (CT) was measured from regional strain curves for each segment, as the time from the beginning of the Q-wave to the time-to-peak ε(sys) (TPS), mechanical dyssynchrony was estimated as TPS-SD </plain></SENT>
+<SENT sid="7" pm="."><plain>From 12-lead surface ECG, QT interval, QT dispersion, and its corrected values were measured </plain></SENT>
+<SENT sid="8" pm="."><plain>According to QT(c) (QT(c) ≥ 440 or &lt;440 ms), patients were categorized into two groups: long QT and <z:mpath ids='MPATH_458'>normal</z:mpath> QT HCM </plain></SENT>
+<SENT sid="9" pm="."><plain>In the long QT group, QT(cd) and CT in <z:hpo ids='HP_0000001'>all</z:hpo> left ventricular (LV) segments were significantly prolonged; ε(sys) and SR(sys) were markedly attenuated compared with the other two groups (P&lt;0.001) </plain></SENT>
+<SENT sid="10" pm="."><plain>LV dyssynchrony was significantly greater (P&lt;0.001) and <z:chebi fb="17" ids="53277">PSS</z:chebi> was more frequent in long QT HCM compared with the other two groups (P&lt;0.001) </plain></SENT>
+<SENT sid="11" pm="."><plain>TPS-SD was correlated positively with QT(c) (r=0.38, P&lt;0.01) and QT(cd) (r=0.45, P&lt;0.001) </plain></SENT>
+<SENT sid="12" pm="."><plain>QT(c) ≥ 440 ms identified LV mechanical dyssynchrony with 70% sensitivity, 100% specificity, and positive predictive value </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSION: QT interval prolongation on surface ECG shows significant association with mechanical dyssynchrony and LV dysfunction in HCM </plain></SENT>
+<SENT sid="14" pm="."><plain>This may add pathophysiological insight into understanding ECG changes in such <z:e sem="disease" ids="C0878544" disease_type="Disease or Syndrome" abbrv="">myocardial disease</z:e> </plain></SENT>
+</text></document>

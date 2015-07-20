@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Exercise preconditioning induces neuroprotection after <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>We investigated the beneficial role of heat shock protein-70 (<z:chebi fb="24" ids="50430">HSP</z:chebi>-70) and phosphorylated extracellular-signal-regulated-kinase 1/2 (pERK 1/2), as they pertain to reducing <z:mpath ids='MPATH_3'>apoptosis</z:mpath> and their influence on Bcl-x(L), Bax, and <z:mpath ids='MPATH_3'>apoptosis</z:mpath>-inducing factor (AIF) in rats subjected to <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> and reperfusion </plain></SENT>
+<SENT sid="2" pm="."><plain>Adult male Sprague-Dawley rats were subjected to 30 min of exercise on a treadmill for 1, 2, or 3 weeks </plain></SENT>
+<SENT sid="3" pm="."><plain><z:hpo ids='HP_0001297'>Stroke</z:hpo> was induced by a 2-h middle cerebral artery (<z:chebi fb="70" ids="34342">MCA</z:chebi>) occlusion using an intraluminal filament </plain></SENT>
+<SENT sid="4" pm="."><plain>Protein levels of <z:chebi fb="24" ids="50430">HSP</z:chebi>-70, pERK 1/2, Bcl-x(L), Bax, and AIF were analyzed using Western blot </plain></SENT>
+<SENT sid="5" pm="."><plain>Neuroprotection was based on levels of <z:mpath ids='MPATH_3'>apoptosis</z:mpath> (TUNEL) and <z:mpath ids='MPATH_124'>infarct</z:mpath> volume (Nissl staining) </plain></SENT>
+<SENT sid="6" pm="."><plain>Immunocytochemistry was used for cellular expression of <z:chebi fb="24" ids="50430">HSP</z:chebi>-70 and pERK 1/2 </plain></SENT>
+<SENT sid="7" pm="."><plain>Significant (P&lt;0.05) up-regulation of <z:chebi fb="24" ids="50430">HSP</z:chebi>-70 and pERK 1/2 after 3 weeks of exercise coincided with significant (P&lt;0.05) reduction in neuronal <z:mpath ids='MPATH_3'>apoptosis</z:mpath> and brain <z:mpath ids='MPATH_124'>infarct</z:mpath> volume </plain></SENT>
+<SENT sid="8" pm="."><plain>Inhibition of either one of these two factors showed a significant (P&lt;0.05) reversal in the neuroprotection </plain></SENT>
+<SENT sid="9" pm="."><plain>Bax and AIF were down-regulated, while levels of Bcl-x(L) were up-regulated in response to <z:hpo ids='HP_0001297'>stroke</z:hpo> after exercise </plain></SENT>
+<SENT sid="10" pm="."><plain>Inhibiting <z:chebi fb="24" ids="50430">HSP</z:chebi>-70 or pERK 1/2 reversed this resultant increase or decrease </plain></SENT>
+<SENT sid="11" pm="."><plain>Our results indicate that exercise diminishes neuronal injury in <z:hpo ids='HP_0001297'>stroke</z:hpo> by up-regulating <z:chebi fb="24" ids="50430">HSP</z:chebi>-70 and ERK 1/2 </plain></SENT>
+</text></document>

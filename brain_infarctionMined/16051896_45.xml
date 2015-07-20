@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND PURPOSE: Thrombolytic therapy with tissue plasminogen activator (tPA) in <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> is limited by increased risks of <z:hpo ids='HP_0001342'>cerebral hemorrhage</z:hpo> and brain injury </plain></SENT>
+<SENT sid="1" pm="."><plain>In part, these phenomena may be related to neurovascular proteolysis mediated by matrix metalloproteinases (MMPs) </plain></SENT>
+<SENT sid="2" pm="."><plain>Here, we used a combination of pharmacological and genetic approaches to show that tPA promotes MMP-9 levels in <z:hpo ids='HP_0001297'>stroke</z:hpo> in vivo </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: In the first experiment, spontaneously hypertensive rats were subjected to 3 hours of transient focal <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> </plain></SENT>
+<SENT sid="4" pm="."><plain>The effects of tPA (10 mg/kg IV) on ischemic brain MMP-9 levels were assessed by zymography </plain></SENT>
+<SENT sid="5" pm="."><plain>In the second experiment, <z:mp ids='MP_0002169'>wild-type</z:mp> (WT) and tPA knockout mice were subjected to 2 hours of transient focal <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo>, and MMP-9 levels and <z:hpo ids='HP_0002181'>brain edema</z:hpo> during reperfusion were assessed </plain></SENT>
+<SENT sid="6" pm="."><plain>Phenotype rescue was performed by administering tPA to the tPA knockout mice </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: In the first experiment, exogenous tPA did not change <z:mpath ids='MPATH_124'>infarct</z:mpath> size but amplified MMP-9 levels in ischemic rat brain at 24 hours </plain></SENT>
+<SENT sid="8" pm="."><plain>Coinfusion of the plasmin inhibitor <z:chebi fb="0" ids="48669">tranexamic acid</z:chebi> (300 mg/kg) did not ameliorate this effect, suggesting that it was independent of plasmin </plain></SENT>
+<SENT sid="9" pm="."><plain>In the second experiment, ischemic MMP-9 levels, <z:mpath ids='MPATH_124'>infarct</z:mpath> size, and <z:hpo ids='HP_0002181'>brain edema</z:hpo> in tPA knockouts were significantly lower than WT mice </plain></SENT>
+<SENT sid="10" pm="."><plain>Administration of exogenous tPA (10 mg/kg IV) did not alter infarction but reinstated the ischemic MMP-9 response back up to WT levels and correspondingly worsened <z:hpo ids='HP_0000969'>edema</z:hpo> </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: These data demonstrate that tPA upregulates brain MMP-9 levels in <z:hpo ids='HP_0001297'>stroke</z:hpo> in vivo, and suggest that combination therapies targeting MMPs may improve tPA therapy </plain></SENT>
+</text></document>

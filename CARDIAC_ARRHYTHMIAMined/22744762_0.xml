@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Electrophysiological properties of implanted mesenchymal stem cells (MSCs) in infarcted hearts remain unclear, and their proarrhythmic effect is still controversial </plain></SENT>
+<SENT sid="1" pm="."><plain>The intent of this study was to investigate electrophysiological properties and proarrhythmic effects of MSCs in infarcted hearts </plain></SENT>
+<SENT sid="2" pm="."><plain>Rats were randomly divided into a <z:hpo ids='HP_0001658'>myocardial infarction</z:hpo> (MI) group, a MI-DMEM group (received DMEM medium injection) and MI-MSCs group (received MSCs injection) </plain></SENT>
+<SENT sid="3" pm="."><plain>Survival analysis showed that the majority of engrafted MSCs died at day 9 after transplantation </plain></SENT>
+<SENT sid="4" pm="."><plain>Engrafted MSCs expressed cardiac markers (MYH, cTnI, Cx43), cardiac ion channel genes (Kv1.4, Kv4.2 and Kir2.1) and <z:chebi fb="120" ids="26216">potassium</z:chebi> currents (I (to), I (K1) and I (KDR)), but did not express Nav1.5, Cav1.2, <z:chebi fb="0" ids="29101">Na(+)</z:chebi> current and Ca(2+) current during their survival </plain></SENT>
+<SENT sid="5" pm="."><plain>When induced by Ca(2+), implanted MSCs exhibited no contraction ability after being isolated from the heart </plain></SENT>
+<SENT sid="6" pm="."><plain>Following 8-week electrocardiography monitoring, the cumulative occurrence of <z:hpo ids='HP_0004308'>ventricular arrhythmias</z:hpo> (VAs) was not different among the three groups </plain></SENT>
+<SENT sid="7" pm="."><plain>However, the prolonged QRS duration in infarcted rats without VAs was significantly decreased in the MI-MSCs group compared with the other two groups </plain></SENT>
+<SENT sid="8" pm="."><plain>The inducibility of VAs in the MI-MSCs group was much lower than that in the MI and MI-DMEM groups (41.20 vs. 86.67 % and 92.86 %; P &lt; 0.0125) </plain></SENT>
+<SENT sid="9" pm="."><plain>The ventricular effective refractory period in MI-MSCs group was prolonged in comparison with that in the MI and MI-DMEM groups (56.0 ± 8.8 vs. 47.7 ± 8.8 ms and 45.7 ± 6.2 ms; P &lt; 0.01) </plain></SENT>
+<SENT sid="10" pm="."><plain>These results demonstrate that MSCs do not acquire the electrophysiological properties of mature cardiomyocytes during the survival period in the infarcted hearts </plain></SENT>
+<SENT sid="11" pm="."><plain>However, they can alleviate the electrical vulnerability and do not promote <z:hpo ids='HP_0004308'>ventricular arrhythmias</z:hpo> </plain></SENT>
+</text></document>

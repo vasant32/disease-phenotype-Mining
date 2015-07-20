@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: The mechanisms underlying the relationship between particulate matter (PM) air pollution and <z:e sem="disease" ids="C0018799" disease_type="Disease or Syndrome" abbrv="">cardiac disease</z:e> are not fully understood </plain></SENT>
+<SENT sid="1" pm="."><plain>OBJECTIVES: We examined the effects and time course of exposure to fine PM [aerodynamic diameter ≤ 2.5 μm (PM(2.5))] on <z:hpo ids='HP_0011675'>cardiac arrhythmia</z:hpo> in 105 middle-age community-dwelling healthy nonsmokers in central Pennsylvania </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: The 24-hr beat-to-beat electrocardiography data were obtained using a high-resolution Holter system </plain></SENT>
+<SENT sid="3" pm="."><plain>After visually identifying and removing artifacts, we summarized the total number of <z:hpo ids='HP_0006682'>premature ventricular contractions</z:hpo> (<z:mp ids='MP_0010018'>PVCs</z:mp>) and <z:e sem="disease" ids="C0033036" disease_type="Disease or Syndrome" abbrv="">premature atrial contractions</z:e> (PACs) for each 30-min segment </plain></SENT>
+<SENT sid="4" pm="."><plain>A personal PM(2.5) nephelometer was used to measure individual-level real-time PM(2.5) exposures for 24 hr </plain></SENT>
+<SENT sid="5" pm="."><plain>We averaged these data to obtain 30-min average time-specific PM(2.5) exposures </plain></SENT>
+<SENT sid="6" pm="."><plain>Distributed lag models under the framework of negative binomial regression and generalized estimating equations were used to estimate the rate ratio between 10-μg/m³ increases in average PM(2.5) over 30-min intervals and ectopy counts </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: The mean ± SD age of participants was 56 ± 8 years, with 40% male and 73% non-Hispanic white </plain></SENT>
+<SENT sid="8" pm="."><plain>The 30-min mean ± SD for PM(2.5) exposure was 13 ± 22 μg/m³, and PAC and <z:mp ids='MP_0010018'>PVC</z:mp> counts were 0.92 ± 4.94 and 1.22 ± 7.18 </plain></SENT>
+<SENT sid="9" pm="."><plain>Increases of 10 μg/m³ in average PM(2.5) concentrations during the same 30 min or the previous 30 min were associated with 8% and 3% increases in average <z:mp ids='MP_0010018'>PVC</z:mp> counts, respectively </plain></SENT>
+<SENT sid="10" pm="."><plain>PM(2.5) was not significantly associated with PAC count </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSION: PM(2.5) exposure within approximately 60 min was associated with increased <z:mp ids='MP_0010018'>PVC</z:mp> counts in healthy individuals </plain></SENT>
+</text></document>

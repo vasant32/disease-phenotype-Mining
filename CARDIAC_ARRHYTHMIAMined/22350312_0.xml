@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A number of technologies are available for minimally-invasive cardiac output measurement in patients during surgery but remain little used </plain></SENT>
+<SENT sid="1" pm="."><plain>A system has been developed based on <z:chebi fb="0" ids="16526">CO(2)</z:chebi> elimination (VCO(2)) by the lungs for use in ventilated patients, which can be fully integrated into a modern anesthesia/monitoring platform, and provides semi-automated, continuous breath-by-breath cardiac output monitoring </plain></SENT>
+<SENT sid="2" pm="."><plain>A prototype measurement system was constructed to measure VCO(2) and end-tidal <z:chebi fb="0" ids="16526">CO(2)</z:chebi> concentration with each breath </plain></SENT>
+<SENT sid="3" pm="."><plain>A baseline measurement of non-shunt cardiac output was made during a brief change in ventilator rate, according to the differential <z:chebi fb="0" ids="16526">CO(2)</z:chebi> Fick approach </plain></SENT>
+<SENT sid="4" pm="."><plain>Continuous breath-by-breath monitoring of cardiac output was then performed from measurement of VCO(2), using a derivation of the Fick equation applied to pulmonary <z:chebi fb="0" ids="16526">CO(2)</z:chebi> elimination </plain></SENT>
+<SENT sid="5" pm="."><plain>Automated recalibration was done periodically and data was processed and cardiac output displayed in real time </plain></SENT>
+<SENT sid="6" pm="."><plain>Measurements were compared with simultaneous measurements by bolus thermodilution in 77 patients undergoing cardiac surgery or liver transplantation </plain></SENT>
+<SENT sid="7" pm="."><plain>Overall mean bias [sd] for agreement in cardiac output measurement was -0.1 [1.2] L/min, percentage error +44.2%, r = 0.92 </plain></SENT>
+<SENT sid="8" pm="."><plain>Concordance in measurement of changes of at least 15% in cardiac output was 80% </plain></SENT>
+<SENT sid="9" pm="."><plain>The method followed sudden changes in cardiac output due to arrythmias and run onto cardiopulmonary bypass in real time </plain></SENT>
+<SENT sid="10" pm="."><plain>The accuracy and precision were comparable to other clinical techniques </plain></SENT>
+<SENT sid="11" pm="."><plain>The method is relatively seamless and largely automated and has potential for continuous, cardiac output monitoring in ventilated patients during anesthesia and critical care </plain></SENT>
+</text></document>

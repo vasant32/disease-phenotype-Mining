@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The Epstein-Barr virus (EBV) BamHI Q promoter (Qp) is the only promoter used for the transcription of Epstein-Barr virus nuclear antigen 1 (EBNA-1) <z:chebi fb="2" ids="33699">mRNA</z:chebi> in cells in the most restricted (type I) <z:e sem="disease" ids="C0872054" disease_type="Disease or Syndrome" abbrv="">latent infection</z:e> state </plain></SENT>
+<SENT sid="1" pm="."><plain>However, Qp is inactive in type III latency </plain></SENT>
+<SENT sid="2" pm="."><plain>With the use of the yeast one-hybrid system, a new cellular gene has been identified that encodes proteins which bind to sequence in Qp </plain></SENT>
+<SENT sid="3" pm="."><plain>The deduced amino acid sequence of the gene has significant homology to the interferon regulatory factors (IRFs) </plain></SENT>
+<SENT sid="4" pm="."><plain>This new gene and products including two splicing variants are designated IRF-7A, IRF-7B, and IRF-7C </plain></SENT>
+<SENT sid="5" pm="."><plain>The expression of IRF-7 is predominantly in spleen, thymus, and peripheral blood leukocytes (PBL) </plain></SENT>
+<SENT sid="6" pm="."><plain>IRF-7 proteins were identified in primary PBL with specific antiserum against IRF-7B protein </plain></SENT>
+<SENT sid="7" pm="."><plain>IRF-7s can bind to interferon-stimulated response element (ISRE) sequence and repress transcriptional activation by both interferon and IRF-1 </plain></SENT>
+<SENT sid="8" pm="."><plain>Additionally, a functional <z:mp ids='MP_0001799'>viral</z:mp> ISRE sequence, 5'-GCGAAAACGAAAGT-3', has been identified in Qp </plain></SENT>
+<SENT sid="9" pm="."><plain>Finally, the expression of IRF-7 is consistently high in type III latency cells and almost undetectable in type I latency, corresponding to the activity of endogenous Qp in these latency states and the ability of the IRF-7 proteins to repress Qp-reporter constructs </plain></SENT>
+<SENT sid="10" pm="."><plain>The identification of a functional <z:mp ids='MP_0001799'>viral</z:mp> ISRE and association of IRF-7 with type III latency may be relevant to the mechanism of regulation of Qp </plain></SENT>
+</text></document>

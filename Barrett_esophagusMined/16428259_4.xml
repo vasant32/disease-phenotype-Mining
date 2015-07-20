@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The case-control design is frequently used to study the discriminatory accuracy of a screening or diagnostic biomarker </plain></SENT>
+<SENT sid="1" pm="."><plain>Yet, the appropriate ratio in which to sample cases and controls has never been determined </plain></SENT>
+<SENT sid="2" pm="."><plain>It is common for researchers to sample equal numbers of cases and controls, a strategy that can be optimal for studies of association </plain></SENT>
+<SENT sid="3" pm="."><plain>However, considerations are quite different when the biomarker is to be used for classification </plain></SENT>
+<SENT sid="4" pm="."><plain>In this paper, we provide an expression for the optimal case-control ratio, when the accuracy of the biomarker is quantified by the receiver operating characteristic (ROC) curve </plain></SENT>
+<SENT sid="5" pm="."><plain>We show how it can be integrated with choosing the overall sample size to yield an efficient study design with specified power and type-I error </plain></SENT>
+<SENT sid="6" pm="."><plain>We also derive the optimal case-control ratios for estimating the area under the ROC curve and the area under part of the ROC curve </plain></SENT>
+<SENT sid="7" pm="."><plain>Our methods are applied to a study of a new marker for <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> in patients with <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> </plain></SENT>
+</text></document>

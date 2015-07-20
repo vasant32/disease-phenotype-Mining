@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Proto-oncogene c-Myc dysregulation is commonly found in aggressive <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumors</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>Dysregulation is central to <z:e sem="disease" ids="C0598766" disease_type="Neoplastic Process" abbrv="">lymphomagenesis</z:e> in Burkitt <z:hpo ids='HP_0002665'>lymphoma</z:hpo> and other non-Hodgkin's <z:hpo ids='HP_0002665'>lymphomas</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>This suggests targeting c-Myc as a treatment for myc-associated <z:e sem="disease" ids="C0006826" disease_type="Neoplastic Process" abbrv="">malignancies</z:e> </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: Microarrays showed c-Myc dysregulation in a B-lymphoblastoid line, TIB-215 </plain></SENT>
+<SENT sid="4" pm="."><plain>This was confirmed by real-time reverse transcriptase-polymerase chain reaction (RT-PCR) and extended to 3 additional Burkitt <z:hpo ids='HP_0002665'>lymphoma</z:hpo> lines </plain></SENT>
+<SENT sid="5" pm="."><plain>Growth effects of a c-Myc inhibitor, compound 10058-F4, were determined in these 4 lines using <z:chebi fb="0" ids="53233">3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide</z:chebi> analyses and direct cell counts </plain></SENT>
+<SENT sid="6" pm="."><plain>Drug effects on c-Myc gene expression levels were measured using minor groove binding-TaqMan real-time reverse transcriptase-polymerase chain reaction </plain></SENT>
+<SENT sid="7" pm="."><plain>Drug specificity was analyzed in rat c-Myc knockout (-/-) and Myc-transfected cells </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: c-Myc dysregulation was shown to be cell-cycle independent without rapid decay of c-Myc <z:chebi fb="2" ids="33699">mRNA</z:chebi> levels in <z:hpo ids='HP_0000001'>all</z:hpo> 4 lines </plain></SENT>
+<SENT sid="9" pm="."><plain>Using a c-Myc inhibitor, we found that growth inhibition was time- and dose-dependent </plain></SENT>
+<SENT sid="10" pm="."><plain>This inhibition caused unexpected downregulation (&gt; or =65%) of c-Myc <z:chebi fb="2" ids="33699">mRNAs</z:chebi> </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: The inhibition of c-Myc decreased growth in aggressive <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cells </plain></SENT>
+<SENT sid="12" pm="."><plain>This mechanism included c-Myc <z:chebi fb="2" ids="33699">mRNA</z:chebi> downregulation and dissociation of c-Myc/Max protein heterodimer </plain></SENT>
+<SENT sid="13" pm="."><plain>These results support targeting c-Myc in <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumors</z:e> with high morbidity and mortality </plain></SENT>
+</text></document>

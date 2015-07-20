@@ -1,0 +1,19 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Patients with follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo> can have long survival times, but disease progression typically occurs 3-5 years after initial treatment </plain></SENT>
+<SENT sid="1" pm="."><plain>We assessed the potential benefit of 2 years of rituximab maintenance after first-line treatment in patients with follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo> receiving a rituximab plus chemotherapy regimen </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: The randomised, open-label PRIMA study was undertaken in 223 centres in 25 countries </plain></SENT>
+<SENT sid="3" pm="."><plain>1217 patients with previously untreated follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo> needing systemic therapy received one of three non-randomised immunochemotherapy induction regimens used in routine practice </plain></SENT>
+<SENT sid="4" pm="."><plain>1019 patients achieving a complete or partial response were then randomly assigned to receive 2 years of rituximab maintenance therapy (375 mg/m(2) every 8 weeks) or observation </plain></SENT>
+<SENT sid="5" pm="."><plain>Treatment was assigned equally by centralised block randomisation, stratified by induction regimen, response, region, and centre </plain></SENT>
+<SENT sid="6" pm="."><plain>Neither the participants nor those giving the interventions, assessing outcomes, and analysing data were masked to group assignments </plain></SENT>
+<SENT sid="7" pm="."><plain>The primary endpoint was progression-free survival (PFS) </plain></SENT>
+<SENT sid="8" pm="."><plain>Analysis was by intention to treat </plain></SENT>
+<SENT sid="9" pm="."><plain>This trial is registered with ClinicalTrials.gov, number NCT00140582 </plain></SENT>
+<SENT sid="10" pm="."><plain>FINDINGS: 505 patients were assigned to rituximab maintenance and 513 to observation (one patient died during randomisation) </plain></SENT>
+<SENT sid="11" pm="."><plain>With a median follow-up of 36 months (IQR 30-42), PFS was 74·9% (95% CI 70·9-78·9) in the rituximab maintenance group (130 patients progressed) and 57·6% (53·2-62·0) in the observation group (218 progressed; hazard ratio [HR] 0·55, 95% CI 0·44-0·68, p&lt;0·0001) </plain></SENT>
+<SENT sid="12" pm="."><plain>2 years after randomisation, 361 patients (71·5%) in the rituximab maintenance group were in complete or unconfirmed complete response versus 268 (52·2%) in the observation group (p=0·0001) </plain></SENT>
+<SENT sid="13" pm="."><plain>Overall survival did not differ significantly between groups (HR 0·87, 95% CI 0·51-1·47) </plain></SENT>
+<SENT sid="14" pm="."><plain>Grade 3 and 4 adverse events were recorded in 121 patients (24%) in the rituximab maintenance group and 84 (17%) in the observation group (risk ratio 1·46, 95% CI 1·14-1·87; p=0·0026) </plain></SENT>
+<SENT sid="15" pm="."><plain><z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">Infections</z:e> (grades 2-4) were the most common adverse event, occurring in 197 (39%) and 123 (24%) patients, respectively (risk ratio 1·62, 95% CI 1·35-1·96; p&lt;0·0001) </plain></SENT>
+<SENT sid="16" pm="."><plain>INTERPRETATION: 2 years of rituximab maintenance therapy after immunochemotherapy as first-line treatment for follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo> significantly improves PFS </plain></SENT>
+<SENT sid="17" pm="."><plain>FUNDING: <z:chebi fb="98" ids="24433">Groupe</z:chebi> d'Etude des Lymphomes de l'Adulte (GELA) and F Hoffmann-La Roche </plain></SENT>
+</text></document>

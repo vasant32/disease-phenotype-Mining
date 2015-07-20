@@ -1,0 +1,7 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 70-year-old man with operated <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> relapsed with a solitary lung <z:e sem="disease" ids="C0027627" disease_type="Neoplastic Process" abbrv="mets">metastasis</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>Dual time-point PET/CT performed at 60' (standard images) and after 2 hours (delayed images) showed focal uptake in the lung nodule </plain></SENT>
+<SENT sid="2" pm="."><plain>A second uptake in the liver dome was also visualized only in the delayed images </plain></SENT>
+<SENT sid="3" pm="."><plain>Radiofrequency of the lung <z:e sem="disease" ids="C0027627" disease_type="Neoplastic Process" abbrv="mets">metastasis</z:e> was performed by CT-fluoroscopy guide </plain></SENT>
+<SENT sid="4" pm="."><plain>A PET/CT 1 month after radiofrequency showed significant reduction of activity in the delayed images, and the uptake at 3 months was virtually <z:mpath ids='MPATH_458'>normal</z:mpath> </plain></SENT>
+<SENT sid="5" pm="."><plain>A fine-needle biopsy of the liver lesion confirmed the final diagnosis of <z:e sem="disease" ids="C0027627" disease_type="Neoplastic Process" abbrv="mets">metastasis</z:e> from <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> </plain></SENT>
+</text></document>

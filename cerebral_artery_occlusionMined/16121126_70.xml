@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Clinical experimental <z:hpo ids='HP_0001297'>stroke</z:hpo> induces injurious local <z:mp ids='MP_0001847'>brain inflammation</z:mp> </plain></SENT>
+<SENT sid="1" pm="."><plain>However, effects on the peripheral immune system have not been well characterized </plain></SENT>
+<SENT sid="2" pm="."><plain>We quantified <z:chebi fb="2" ids="33699">mRNA</z:chebi> and protein levels for cytokines, chemokines, and chemokine receptors (CCR) in brain, spinal cord, peripheral lymphoid organs (spleen, lymph node, blood, and cultured mononuclear cells from these sources), and blood plasma after reversible middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (MCAO) or sham treatment in male C57BL/6 mice </plain></SENT>
+<SENT sid="3" pm="."><plain>Middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> induced a complex, but organ specific, pattern of inflammatory factors in the periphery </plain></SENT>
+<SENT sid="4" pm="."><plain>At both 6 and 22 h after MCAO, activated spleen cells from <z:hpo ids='HP_0001297'>stroke</z:hpo>-injured mice secreted significantly enhanced levels of TNF-alpha, IFN-gamma, IL-6, <z:chebi fb="17" ids="50099">MCP</z:chebi>-1, and IL-2 </plain></SENT>
+<SENT sid="5" pm="."><plain>Unstimulated splenocytes expressed increased chemokines and CCR, including MIP-2 and CCR2, CCR7 and CCR8 at 6 h; and MIP-2, IP-10, and CCR1 and CCR2 at 22 h </plain></SENT>
+<SENT sid="6" pm="."><plain>Also at 22 h, T cells from blood and lymph nodes secreted increased levels of inflammatory cytokines after activation </plain></SENT>
+<SENT sid="7" pm="."><plain>As expected, there were striking proinflammatory changes in postischemic brain </plain></SENT>
+<SENT sid="8" pm="."><plain>In contrast, spinal cord displayed suppression of <z:hpo ids='HP_0000001'>all</z:hpo> mediators, suggesting a compensatory response to intracranial events </plain></SENT>
+<SENT sid="9" pm="."><plain>These data show for the first time that focal <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> results in dynamic and widespread activation of inflammatory cytokines, chemokines, and CCR in the peripheral immune system </plain></SENT>
+</text></document>

@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:mp ids='MP_0003674'>Oxidative stress</z:mp> is a major source of injury from <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> and reperfusion </plain></SENT>
+<SENT sid="1" pm="."><plain>We hypothesized that a catalytic <z:chebi fb="11" ids="22586">antioxidant</z:chebi> AEOL 10150 [<z:chebi fb="70" ids="18291,35154">manganese</z:chebi> (III) meso-tetrakis (di-N-ethylimidazole) <z:chebi fb="2" ids="8337">porphyrin</z:chebi>] would attenuate changes in brain gene expression in a mouse model of transient middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (MCAO) </plain></SENT>
+<SENT sid="2" pm="."><plain>C57BL/6J mice were subjected to either sham surgery or 60 min of right MCAO </plain></SENT>
+<SENT sid="3" pm="."><plain>AEOL 10150 or phosphate-buffered saline was given intravenously 5 min after <z:hpo ids='HP_0003674'>onset</z:hpo> of reperfusion (n = 6 per group) </plain></SENT>
+<SENT sid="4" pm="."><plain>Six hours later, parenchyma within the <z:chebi fb="70" ids="34342">MCA</z:chebi> distribution was harvested </plain></SENT>
+<SENT sid="5" pm="."><plain><z:chebi fb="40" ids="33697">RNA</z:chebi> from the six brains in each group was pooled and <z:chebi fb="2" ids="33699">mRNA</z:chebi> expression determined using an Affymetrix murine MG_U74A v </plain></SENT>
+<SENT sid="6" pm="."><plain>2.0 expression microarray </plain></SENT>
+<SENT sid="7" pm="."><plain>Each experiment was performed three times </plain></SENT>
+<SENT sid="8" pm="."><plain>The largest changes in expression occurred in stress response and inflammatory genes such as heat shock protein, interleukin-6, and macrophage inflammatory protein-2 </plain></SENT>
+<SENT sid="9" pm="."><plain>Treatment with AEOL 10150 attenuated only the increase in expression of inflammatory genes </plain></SENT>
+<SENT sid="10" pm="."><plain>This suggests that AEOL 10150 protects brain by attenuating the immune response to <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> and reperfusion </plain></SENT>
+</text></document>

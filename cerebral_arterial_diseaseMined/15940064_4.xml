@@ -1,0 +1,18 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PURPOSE: The purpose of this study was to evaluate the spatial resolution and accuracy of three-dimensional (3D) distance measurements performed with 3D angiography using various phantoms </plain></SENT>
+<SENT sid="1" pm="."><plain>MATERIALS AND METHODS: With a 3D angiography system, digital images with a 512 x 512 matrix were obtained with the C-arm sweep, which rotates at a speed of 30 degrees/second </plain></SENT>
+<SENT sid="2" pm="."><plain>A 3D comb phantom was designed to assess spatial resolution and artifacts at 3D angiography and consisted of six combs with different pitches: 0.5 mm, 0.6 mm, 0.7 mm, 0.8 mm, 0.9 mm, and 1.0 mm </plain></SENT>
+<SENT sid="3" pm="."><plain>Frame rate, field of view (FOV) size, reconstruction matrix, and direction of the phantom were changed </plain></SENT>
+<SENT sid="4" pm="."><plain>In order to investigate the accuracy of 3D distance measurements, <z:hpo ids='HP_0002617'>aneurysm</z:hpo> phantoms and stenosis phantoms were used </plain></SENT>
+<SENT sid="5" pm="."><plain><z:hpo ids='HP_0002617'>Aneurysm</z:hpo> phantoms simulated intracranial saccular <z:hpo ids='HP_0002617'>aneurysms</z:hpo> and parent arteries; 2-mm- or 4-mm-inner-diameter cylinder and five different spheres (diameter: 10, 7, 5, 3, 2 mm) were used </plain></SENT>
+<SENT sid="6" pm="."><plain>Stenosis phantoms were designed to simulate intracranial steno-occlusive diseases; the nonpulsatile phantoms were made of four cylinders (diameter: 3.0, 3.6, 4.0, 5.0 mm) that had areas of 50% and 75% stenosis </plain></SENT>
+<SENT sid="7" pm="."><plain>The dimensions of the spheres and cylinders were measured on magnified multiplanar reconstruction (MPR) images </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: The pitch of the 0.5 mm comb phantom was identified clearly on 3D images reconstructed with a frame rate of 30 frame/sec and 512(3) reconstruction mode </plain></SENT>
+<SENT sid="9" pm="."><plain>In any reconstruction matrixes and any angles of the phantom, the resolution and artifacts worsened when frame rates were decreased </plain></SENT>
+<SENT sid="10" pm="."><plain>With regard to the angle of the phantom to the axis of rotational angiography, spatial resolution and artifacts worsened with increase in angle </plain></SENT>
+<SENT sid="11" pm="."><plain>Spatial resolution and artifacts were better with a FOV of 7 x 7 inch than with one of 9 x 9 inch </plain></SENT>
+<SENT sid="12" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> spheres on the <z:hpo ids='HP_0002617'>aneurysm</z:hpo> phantom were clearly demonstrated at any angle; measurement error of sphere size was 0.3 mm or less for 512(3) reconstruction </plain></SENT>
+<SENT sid="13" pm="."><plain>In 512(3) reconstruction, the error of percent stenosis was 3% or less except for a cylinder diameter of 3.0 mm and 5% for a cylinder diameter of 3.0 mm </plain></SENT>
+<SENT sid="14" pm="."><plain>CONCLUSION: Spatial resolution of the reconstructed 3D images in this system was 0.5 mm or less </plain></SENT>
+<SENT sid="15" pm="."><plain>Measurement error of sphere size was 0.3 mm or less when 512(3) reconstruction was used </plain></SENT>
+<SENT sid="16" pm="."><plain>When using proper imaging parameters and postprocessing methods, measurements of <z:hpo ids='HP_0002617'>aneurysm</z:hpo> size and percent stenosis on the reconstructed 3D angiograms were substantially reliable </plain></SENT>
+</text></document>

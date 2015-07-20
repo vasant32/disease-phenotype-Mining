@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Interleukin-10 (IL-10) is a powerful suppressor of cellular immune responses, with a postulated role in <z:mp ids='MP_0001847'>brain inflammation</z:mp> </plain></SENT>
+<SENT sid="1" pm="."><plain>First, we have evaluated the role of this cytokine in ischaemic brain damage using IL-10 knockout (IL-10-/-) mice </plain></SENT>
+<SENT sid="2" pm="."><plain>The middle cerebral artery (<z:chebi fb="70" ids="34342">MCA</z:chebi>) was occluded in either IL-10-/- or <z:mp ids='MP_0002169'>wild-type</z:mp> animals of corresponding strain (C57Bl/6) and age </plain></SENT>
+<SENT sid="3" pm="."><plain><z:mpath ids='MPATH_124'>Infarct</z:mpath> volume was assessed 24 h later in serial brain sections </plain></SENT>
+<SENT sid="4" pm="."><plain>Brain <z:mpath ids='MPATH_124'>infarct</z:mpath> produced by <z:chebi fb="70" ids="34342">MCA</z:chebi> occlusion was 30% larger in the IL-10-/- than in <z:mp ids='MP_0002169'>wild-type</z:mp> mice (21 </plain></SENT>
+<SENT sid="5" pm="."><plain>8 +/- 1.2 vs. 16.9 +/- 1.0 mm3, respectively; P &lt; 0.01; Student's t-test) </plain></SENT>
+<SENT sid="6" pm="."><plain>To further characterize these findings, studies were extended to in vitro models </plain></SENT>
+<SENT sid="7" pm="."><plain>Primary neuronal cortical cultures derived from IL-10-/- animals were more susceptible to both excitotoxicity and combined oxygen-<z:chebi fb="105" ids="17234">glucose</z:chebi> deprivation compared with cell cultures from <z:mp ids='MP_0002169'>wild-type</z:mp> mice </plain></SENT>
+<SENT sid="8" pm="."><plain>Moreover, when added to the culture medium, recombinant murine IL-10 (0.1-100 ng/mL) exerted a concentration-dependent prevention of neuronal damage induced by excitotoxicity in both cortical and cerebellar granule cell cultures taken from either strain </plain></SENT>
+<SENT sid="9" pm="."><plain>The accordance of in vivo and in vitro data allows us to suggest a potential neuroprotective role of IL-10 against <z:e sem="disease" ids="C0917798" disease_type="Disease or Syndrome" abbrv="">cerebral ischaemia</z:e> when administered exogenously or made available from endogenous sources </plain></SENT>
+</text></document>

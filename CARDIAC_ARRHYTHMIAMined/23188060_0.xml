@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The inward rectifier K⁺ channel Kir2.1 contributes to the maintenance of the resting cell membrane potential in excitable cells </plain></SENT>
+<SENT sid="1" pm="."><plain>Loss of function mutations of KCNJ2 encoding Kir2.1 result in <z:e sem="disease" ids="C1563715" disease_type="Disease or Syndrome" abbrv="">Andersen-Tawil syndrome</z:e>, a disorder characterized by <z:hpo ids='HP_0003768'>periodic paralysis</z:hpo>, <z:hpo ids='HP_0011675'>cardiac arrhythmia</z:hpo>, and dysmorphic features </plain></SENT>
+<SENT sid="2" pm="."><plain>The ubiquitously expressed protein kinase B (PKB/Akt) activates the <z:chebi fb="0" ids="26034">phosphatidylinositol-3-phosphate</z:chebi>-5-kinase PIKfyve, which in turn regulates a variety of carriers and channels </plain></SENT>
+<SENT sid="3" pm="."><plain>The present study explored whether PKB/PIKfve contributes to the regulation of Kir2.1 </plain></SENT>
+<SENT sid="4" pm="."><plain>To this end, cRNA encoding Kir2.1 was injected into Xenopus oocytes with and without additional injection of cRNA encoding <z:mp ids='MP_0002169'>wild type</z:mp> PKB (PKB), constitutively active (T308D,S473D)PKB or inactive (T308A,S473A)PKB </plain></SENT>
+<SENT sid="5" pm="."><plain>Kir2.1 activity was determined by two-electrode voltage-clamp </plain></SENT>
+<SENT sid="6" pm="."><plain>As a result, PKB and (T308D,S473D)PKB, but not (T308A,S473A)PKB, significantly increased Kir2.1-mediated currents </plain></SENT>
+<SENT sid="7" pm="."><plain>The effect of PKB was mimicked by coexpression of PIKfyve but not of (S318A)Pikfyve lacking the PKB phosphorylation site </plain></SENT>
+<SENT sid="8" pm="."><plain>The decay of Kir2.1-mediated currents after inhibition of channel insertion into the cell membrane by <z:chebi fb="0" ids="48080">brefeldin A</z:chebi> (5 μM) was similar in oocytes expressing Kir2.1 + PKB or Kir2.1 + PIKfyve to those expressing Kir2.1 alone, suggesting that PKB and PIKfyve influence channel insertion into rather than channel retrieval from the cell membrane </plain></SENT>
+<SENT sid="9" pm="."><plain>In conclusion, PKB and PIKfyve are novel regulators of Kir2.1 </plain></SENT>
+</text></document>

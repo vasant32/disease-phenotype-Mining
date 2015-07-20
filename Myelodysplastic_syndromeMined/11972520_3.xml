@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A novel human <z:mpath ids='MPATH_336'>leukaemia</z:mpath> cell line, designated TMD7, was established from blast cells of a patient with de novo <z:hpo ids='HP_0011009'>acute</z:hpo> myeloblastic <z:mpath ids='MPATH_336'>leukaemia</z:mpath> with trilineage <z:hpo ids='HP_0002863'>myelodysplasia</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">AML</z:e>/TLD) </plain></SENT>
+<SENT sid="1" pm="."><plain>As seen in the original blast cells, TMD7 cells expressed CD7, CD13, CD33 and CD34 and showed an abnormal karyotype containing -5, -7, -8, der(16)t(10;16)(q22;q13) </plain></SENT>
+<SENT sid="2" pm="."><plain>The cells proliferated without added growth factors </plain></SENT>
+<SENT sid="3" pm="."><plain>Growth was stimulated with the addition of granulocyte colony-stimulating factor (G-CSF), granulocyte-macrophage CSF (GM-CSF) and interleukin 3 </plain></SENT>
+<SENT sid="4" pm="."><plain>Differentiation was not observed with the addition of various cytokines </plain></SENT>
+<SENT sid="5" pm="."><plain>As a cell line derived from <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">AML</z:e>/TLD has not been reported, TMD7 will be a useful tool as a model of <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">AML</z:e>/TLD cells </plain></SENT>
+<SENT sid="6" pm="."><plain>Recently, it was reported that the Notch system has crucial roles to regulate the self-renewal and differentiation of haematopoietic stem cells </plain></SENT>
+<SENT sid="7" pm="."><plain>We found that TMD7 cells expressed Notch-1 and Notch-2 mRNA </plain></SENT>
+<SENT sid="8" pm="."><plain>The exposure to recombinant Delta-1 protein, which was one of the Notch ligands, significantly stimulated the growth of TMD7 cells </plain></SENT>
+<SENT sid="9" pm="."><plain>This is the first human cell line which was shown to proliferate in response to Delta-1, without artificially expressed Notch protein </plain></SENT>
+<SENT sid="10" pm="."><plain>Therefore, TMD7 will also be a useful tool to study the mechanism of the Notch-Notch ligand interaction </plain></SENT>
+</text></document>

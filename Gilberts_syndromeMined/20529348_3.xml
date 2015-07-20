@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: <z:e sem="disease" ids="C0017551" disease_type="Disease or Syndrome" abbrv="">Gilbert syndrome</z:e> is caused by defects in <z:chebi fb="0" ids="16990">bilirubin</z:chebi> <z:chebi fb="15" ids="17659">UDP</z:chebi>-glucuronosyltransferase (UGT1A1) </plain></SENT>
+<SENT sid="1" pm="."><plain>The most common variation believed to be involved is A(TA)7TAA </plain></SENT>
+<SENT sid="2" pm="."><plain>Although several polymorphisms have been found to link with A(TA)7TAA, the combined effect of regulatory polymorphisms in the development of <z:e sem="disease" ids="C0017551" disease_type="Disease or Syndrome" abbrv="">Gilbert syndrome</z:e> remains unclear </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: In an analysis of 15 patients and 60 <z:mpath ids='MPATH_458'>normal</z:mpath> subjects, we detected 14 polymorphisms and nine haplotypes in the regulatory region </plain></SENT>
+<SENT sid="4" pm="."><plain>We classified the 4-kbp regulatory region of the patients into: the TATA box including A(TA)7TAA; a <z:chebi fb="1" ids="8069">phenobarbital</z:chebi> responsive enhancer module including c.-3275T&gt;G; and a region including other ten linked polymorphisms </plain></SENT>
+<SENT sid="5" pm="."><plain>The effect on transcription of these polymorphisms was studied </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: <z:hpo ids='HP_0000001'>All</z:hpo> haplotypes with A(TA)7TAA had c.-3275T&gt;G and additional polymorphisms </plain></SENT>
+<SENT sid="7" pm="."><plain>In an in-vitro expression study of the 4-kbp regulatory region, A(TA)7TAA alone did not significantly reduce transcription </plain></SENT>
+<SENT sid="8" pm="."><plain>In contrast, c.-3275T&gt;G reduced transcription to 69% of that of <z:mp ids='MP_0002169'>wild type</z:mp>, and the linked polymorphisms reduced transcription to 88% of <z:mp ids='MP_0002169'>wild type</z:mp> </plain></SENT>
+<SENT sid="9" pm="."><plain>Transcription of the typical regulatory region of the patients was 56% of <z:mp ids='MP_0002169'>wild type</z:mp> </plain></SENT>
+<SENT sid="10" pm="."><plain>Co-expression of constitutive <z:chebi fb="0" ids="35509">androstane</z:chebi> receptor (CAR) increased the transcription of <z:mp ids='MP_0002169'>wild type</z:mp> by a factor of 4.3 </plain></SENT>
+<SENT sid="11" pm="."><plain>Each polymorphism by itself did not reduce transcription to the level of the patients, however, even in the presence of CAR </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: These results imply that co-operation of A(TA)7TAA, c.-3275T&gt;G and the linked polymorphisms is necessary in causing <z:e sem="disease" ids="C0017551" disease_type="Disease or Syndrome" abbrv="">Gilbert syndrome</z:e> </plain></SENT>
+</text></document>

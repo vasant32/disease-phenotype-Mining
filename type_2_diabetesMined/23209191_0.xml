@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> is a strong risk factor for <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Linagliptin is a dipeptidyl peptidase-4 (DPP-4) inhibitor in clinical use against type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="2" pm="."><plain>The aim of this study was to determine the potential antistroke efficacy of linagliptin in type 2 diabetic mice </plain></SENT>
+<SENT sid="3" pm="."><plain>To understand whether efficacy was mediated by glycemia regulation, a comparison with the <z:chebi fb="0" ids="26831">sulfonylurea</z:chebi> <z:chebi fb="0" ids="5383">glimepiride</z:chebi> was done </plain></SENT>
+<SENT sid="4" pm="."><plain>To determine whether linagliptin-mediated efficacy was dependent on a diabetic background, experiments in nondiabetic mice were performed </plain></SENT>
+<SENT sid="5" pm="."><plain>Type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> was induced by feeding the mice a high-fat diet for 32 weeks </plain></SENT>
+<SENT sid="6" pm="."><plain>Mice were treated with linagliptin/<z:chebi fb="0" ids="5383">glimepiride</z:chebi> for 7 weeks </plain></SENT>
+<SENT sid="7" pm="."><plain><z:hpo ids='HP_0001297'>Stroke</z:hpo> was induced at 4 weeks into the treatment by transient middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> </plain></SENT>
+<SENT sid="8" pm="."><plain>Blood DPP-4 activity, glucagon-like <z:chebi fb="7" ids="16670">peptide</z:chebi>-1 (GLP-1) levels, <z:chebi fb="105" ids="17234">glucose</z:chebi>, body weight, and food intake were assessed throughout the experiments </plain></SENT>
+<SENT sid="9" pm="."><plain>Ischemic brain damage was measured by determining <z:hpo ids='HP_0001297'>stroke</z:hpo> volume and by stereologic quantifications of surviving neurons in the striatum/cortex </plain></SENT>
+<SENT sid="10" pm="."><plain>We show pronounced antistroke efficacy of linagliptin in type 2 diabetic and <z:mpath ids='MPATH_458'>normal</z:mpath> mice, whereas <z:chebi fb="0" ids="5383">glimepiride</z:chebi> proved efficacious against <z:hpo ids='HP_0001297'>stroke</z:hpo> in <z:mpath ids='MPATH_458'>normal</z:mpath> mice only </plain></SENT>
+<SENT sid="11" pm="."><plain>These results indicate a linagliptin-mediated neuroprotection that is <z:chebi fb="105" ids="17234">glucose</z:chebi>-independent and likely involves GLP-1 </plain></SENT>
+<SENT sid="12" pm="."><plain>The findings may provide an impetus for the development of DPP-4 inhibitors for the prevention and treatment of <z:hpo ids='HP_0001297'>stroke</z:hpo> in diabetic patients </plain></SENT>
+</text></document>

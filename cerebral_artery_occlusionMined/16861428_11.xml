@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Postischemic administration of the sigma-1 agonists reduces ischemic brain injury; however, the mechanism is unclear </plain></SENT>
+<SENT sid="1" pm="."><plain>We hypothesized that the sigma-1 agonist (+)isoform of pentazocine (P(+)) reduces damage in part by ameliorating cell <z:hpo ids='HP_0011420'>death</z:hpo> mediated via inducible nitric <z:chebi fb="177" ids="25741,29356">oxide</z:chebi> synthase (iNOS) and that the (-)isoform (P(-)) lacks this effect </plain></SENT>
+<SENT sid="2" pm="."><plain>We compared treatment with P(+) with or without the iNOS inhibitor <z:chebi fb="0" ids="40618">aminoguanidine</z:chebi> (AG) and also the effects of P(+) in iNOS deficient (iNOSKO) mice </plain></SENT>
+<SENT sid="3" pm="."><plain>A possible mechanism of neuroprotection is inhibition of iNOS expression </plain></SENT>
+<SENT sid="4" pm="."><plain>Male C57/Bl6 mice were subjected to transient middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (90 min) and drugs were administered with reperfusion: 1) P(+) with AG (P+/AG), 2) P(+), 3) P(-), 4) AG, or 5) placebo </plain></SENT>
+<SENT sid="5" pm="."><plain>iNOSKOs were treated with either P(+) or placebo </plain></SENT>
+<SENT sid="6" pm="."><plain>Infarction (triphenyltetrazolium <z:chebi fb="76" ids="17996">chloride</z:chebi> histology, 72 h) was reduced by P(+) treatment in striatum by 44% and in neocortex by 23% versus placebo (P &lt; 0.05), a reduction comparable to AG effect </plain></SENT>
+<SENT sid="7" pm="."><plain>P(-) did not attenuate brain injury </plain></SENT>
+<SENT sid="8" pm="."><plain>There was no difference in P(+)/AG treatment compared with showed the same level of neuroprotection as P(+) alone </plain></SENT>
+<SENT sid="9" pm="."><plain>P(+) also did not provide further neuroprotection for iNOSKOs </plain></SENT>
+<SENT sid="10" pm="."><plain>We conclude that postischemic administration of P(+) reduces <z:mpath ids='MPATH_124'>infarct</z:mpath> volume in mice </plain></SENT>
+<SENT sid="11" pm="."><plain>Because AG provides no additional benefit to P(+) treatment and iNOSKOs do not benefit from P(+), we speculate that P(+) acts by suppressing cell <z:hpo ids='HP_0011420'>death</z:hpo> resulting from iNOS toxicity </plain></SENT>
+</text></document>

@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: During many neurovascular procedures temporary occlusion of cerebral arteries is inevitable </plain></SENT>
+<SENT sid="1" pm="."><plain>Neuroprotective drugs may reduce the risk of <z:e sem="disease" ids="C0007785" disease_type="Disease or Syndrome" abbrv="">cerebral infarction</z:e> in this situation </plain></SENT>
+<SENT sid="2" pm="."><plain>Increasing evidence indicates neuroprotective properties of <z:chebi fb="131" ids="25107">magnesium</z:chebi> in <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>Previous experimental studies on the neuroprotective efficacy of <z:chebi fb="131" ids="25107">magnesium</z:chebi>-treatment in transient focal <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> provide widely differing results using different <z:chebi fb="131" ids="25107">magnesium</z:chebi> doses and treatment-regimens </plain></SENT>
+<SENT sid="4" pm="."><plain>The present study was conducted to find the maximum protective dose of intravenous <z:chebi fb="3" ids="32599">magnesium sulphate</z:chebi> in a rat model of transient focal <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> </plain></SENT>
+<SENT sid="5" pm="."><plain>METHODS: 45 male Sprague-Dawley rats were subjected to 90 minutes of middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (MCAO) by an intraluminal thread </plain></SENT>
+<SENT sid="6" pm="."><plain>Animals were randomly assigned to one of 4 treatment arms: (1) vehicle (2) MgSO(4) 1x0.75 mmol/kg (3) MgSO(4) 2x1 mmol/kg (4) MgSO(4) 1 mmol/kg+0.5 mmol/kg/h </plain></SENT>
+<SENT sid="7" pm="."><plain>Local cortical blood flow (LCBF) was continuously measured by laser-Doppler flowmetry </plain></SENT>
+<SENT sid="8" pm="."><plain>Functional deficits were quantified daily, <z:mpath ids='MPATH_124'>infarct</z:mpath> volumes were assessed histologically after 7 days </plain></SENT>
+<SENT sid="9" pm="."><plain>RESULTS: <z:chebi fb="131" ids="25107">Magnesium</z:chebi> serum levels below 3 mmol/l were well tolerated by the animals </plain></SENT>
+<SENT sid="10" pm="."><plain>Above 3 mmol/l cardiodepressive effects limited neuroprotection </plain></SENT>
+<SENT sid="11" pm="."><plain>Total <z:mpath ids='MPATH_124'>infarct</z:mpath> volumes in groups 3 and 4 were significantly reduced by 32% and 42%, respectively, compared to controls </plain></SENT>
+<SENT sid="12" pm="."><plain>Postoperative neurological recovery was significantly improved in <z:chebi fb="131" ids="25107">magnesium</z:chebi>-treated groups </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSION: Continuous <z:chebi fb="131" ids="25107">magnesium</z:chebi>-administration with stable serum concentrations between 2 and 3 mmol/l offered the best protection and was well tolerated </plain></SENT>
+<SENT sid="14" pm="."><plain>Serum concentrations above 3 mmol/l should not be exceeded </plain></SENT>
+<SENT sid="15" pm="."><plain>An elevation of <z:chebi fb="131" ids="25107">magnesium</z:chebi> serum levels could be useful for brain tissue protection during procedures which are prone to the risk of temporary vessel occlusion </plain></SENT>
+</text></document>

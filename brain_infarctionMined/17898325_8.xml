@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: Risk factors for subclinical brain <z:mpath ids='MPATH_124'>infarcts</z:mpath> (SBI) have not been well studied, especially in Hispanic and black populations who may be at higher risk for <z:e sem="disease" ids="C0042373" disease_type="Disease or Syndrome" abbrv="">vascular disease</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>We examined the prevalence and determinants of SBI in a multiethnic community cohort </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: The Northern Manhattan Study (NOMAS) includes 892 <z:hpo ids='HP_0001297'>stroke</z:hpo>-free participants who underwent brain MRI </plain></SENT>
+<SENT sid="3" pm="."><plain>Baseline demographic and vascular risk factor data were collected </plain></SENT>
+<SENT sid="4" pm="."><plain>The presence of SBI was determined from the size, location, and imaging characteristics of the lesion based on fluid attenuated inversion recovery (FLAIR) T1 and T2, and proton density MRI sequences </plain></SENT>
+<SENT sid="5" pm="."><plain>We calculated the prevalence of SBI and cross-sectional associations with sociodemographic and vascular risk factors, using logistic regression to adjust for relevant covariates </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: Among 892 subjects (mean age 71.3 years), 158 (17.7%) had SBI (13.5% had 1 lesion, 4.3% had &gt;1 lesion) </plain></SENT>
+<SENT sid="7" pm="."><plain>Of the total 216 <z:mpath ids='MPATH_124'>infarcts</z:mpath>, most were small (&lt;1 cm, 82.4%) and subcortical (82.9%) </plain></SENT>
+<SENT sid="8" pm="."><plain>SBI prevalence increased with age (&lt;65: 9.7%; 65 to 75: 16.4%; &gt;75: 26.1%), was increased among men (21.3% vs 15.2% in women), and was increased among blacks (24.0% vs 18.1% in whites and 15.8% in Hispanics) </plain></SENT>
+<SENT sid="9" pm="."><plain>The presence of SBI was independently associated with older age (per year: OR 1.06, 95% CI 1.04 to 1.09), male sex (OR 1.79, 95% CI 1.22 to 2.61), and <z:hpo ids='HP_0000822'>hypertension</z:hpo> (OR 2.08, 95% CI 1.35 to 3.22) adjusting for age, sex, race-ethnicity, and vascular risk factors </plain></SENT>
+<SENT sid="10" pm="."><plain>A significant interaction (p = 0.002) between race and age was observed such that younger black subjects had greater odds of having SBI </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: SBI were detected in nearly 18% of subjects in a multiethnic community-based cohort </plain></SENT>
+<SENT sid="12" pm="."><plain>Age, male sex, and <z:hpo ids='HP_0000822'>hypertension</z:hpo> were independently associated with SBI </plain></SENT>
+<SENT sid="13" pm="."><plain>Subclinical cerebral <z:mpath ids='MPATH_124'>infarcts</z:mpath> are more prevalent than symptomatic <z:mpath ids='MPATH_124'>infarcts</z:mpath> and may increase the true public health burden of <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+</text></document>

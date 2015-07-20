@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Recent clinical trials have shown that galantamine is efficacious in the treatment of mild to moderate Alzheimer's and vascular <z:hpo ids='HP_0000726'>dementia</z:hpo>, and memantine in severe stages of these diseases </plain></SENT>
+<SENT sid="1" pm="."><plain>Hence, the hypothesis that these two drugs might exert different degrees of neuroprotection has been tested </plain></SENT>
+<SENT sid="2" pm="."><plain>Rat hippocampal slices were subjected to oxygen and <z:chebi fb="105" ids="17234">glucose</z:chebi> deprivation (OGD) and to a re-oxygenation period </plain></SENT>
+<SENT sid="3" pm="."><plain>Neuronal damage was monitored using the <z:chebi fb="4" ids="24996">lactate</z:chebi> dehydrogenase (LDH) released into the Krebs-bicarbonate medium as an indicator </plain></SENT>
+<SENT sid="4" pm="."><plain>Galantamine, a mild acetylcholinesterase (AChE) blocker and nicotinic receptor modulator, given 30 min before and during OGD plus re-oxygenation (1, 2 and 3 h) significantly reduced LDH release by around 50% </plain></SENT>
+<SENT sid="5" pm="."><plain>Galantamine 5 microM reduced LDH release significantly during the re-oxygenation period while at 15 microM it afforded significant reduction of LDH release both during OGD and re-oxygenation </plain></SENT>
+<SENT sid="6" pm="."><plain>Memantine, a reversible blocker of <z:chebi fb="0" ids="31882">NMDA</z:chebi> receptors, at 10 microM only significantly reduced (40%) LDH release after 3 h re-oxygenation </plain></SENT>
+<SENT sid="7" pm="."><plain>The classical <z:chebi fb="0" ids="31882">NMDA</z:chebi> blocker MK-801 reduced LDH released around 40% at 1 microM at <z:hpo ids='HP_0000001'>all</z:hpo> re-oxygenation times studied </plain></SENT>
+<SENT sid="8" pm="."><plain>These data indicate that galantamine has a neuroprotective window against <z:mp ids='MP_0002316'>anoxia</z:mp> wider than memantine </plain></SENT>
+<SENT sid="9" pm="."><plain>Whether these differences can be clinically relevant remain to be studied in appropriate clinical trials </plain></SENT>
+</text></document>

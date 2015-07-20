@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: The individual difference of <z:e sem="disease" ids="C0265110" disease_type="Disease or Syndrome" abbrv="">cerebral vasospasm</z:e> (CVS) degree after <z:hpo ids='HP_0002138'>subarachnoid hemorrhage</z:hpo> (SAH) is common in clinic observation </plain></SENT>
+<SENT sid="1" pm="."><plain>Numerous studies have found that early CVS after SAH is associated with derangements in <z:chebi fb="2" ids="33567">catecholamine</z:chebi> (CA) metabolism </plain></SENT>
+<SENT sid="2" pm="."><plain><z:chebi fb="5" ids="18135">Catechol</z:chebi>-O-methyltransferase (COMT) is a key rate-limiting enzyme in the degradation of CA </plain></SENT>
+<SENT sid="3" pm="."><plain>In this study, we investigate the correlation between COMT gene polymorphism of patients and early CVS after SAH </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS: One hundred and sixty-seven patients with spontaneous SAH in early stage were selected in this study </plain></SENT>
+<SENT sid="5" pm="."><plain>COMT genotyping was performed by means of polymerase chain reaction-restriction fragment length polymorphism (PCR-RFLP) </plain></SENT>
+<SENT sid="6" pm="."><plain>The degree of CVS was identified by TCD </plain></SENT>
+<SENT sid="7" pm="."><plain>Hunt-Hess classification was used to evaluate the severity of the patients' condition </plain></SENT>
+<SENT sid="8" pm="."><plain>The <z:mp ids='MP_0001914'>bleeding</z:mp> amount was evaluated by means of Fisher classification of head CT. χ2 test (SPSS13.0 software) and logistic regression were adopted to analyze the correlation of COMT gene polymorphism and other clinical data of patients with early CVS after SAH </plain></SENT>
+<SENT sid="9" pm="."><plain>RESULTS: The distribution of each allele matched Hardy-Weinberg law and research samples were heredity equilibrium population </plain></SENT>
+<SENT sid="10" pm="."><plain>Early CVS incidence of patients with COMT-A allele was much higher than those with COMT-G allele (P&lt;0.01) </plain></SENT>
+<SENT sid="11" pm="."><plain>Early CVS incidence of patients with COMT A/A genotype was obviously higher than those with COMT G/G genotype (P&lt;0.05) </plain></SENT>
+<SENT sid="12" pm="."><plain>Univariate logistic regression demonstrated that COMT-A allele, A/A genotype and Grade 3-5 of Hunt-Hess classification were <z:hpo ids='HP_0000001'>all</z:hpo> associated with early CVS </plain></SENT>
+<SENT sid="13" pm="."><plain>After adjustment of general information, further multivariate logistic regression demonstrated that COMT-A allele, A/A genotype were risk factors of early CVS after SAH </plain></SENT>
+<SENT sid="14" pm="."><plain>CONCLUSION: COMT-A allele, A/A genotype were risk factors of early CVS after SAH </plain></SENT>
+</text></document>

@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We studied 58 childhood B-lineage <z:hpo ids='HP_0006721'>acute lymphoblastic leukemia</z:hpo> (<z:e sem="disease" ids="C0023435" disease_type="Neoplastic Process" abbrv="">B-ALL</z:e>) in Brazilian sample patients at the time of diagnosis to investigate the prevalence of the cryptic t(12;21)(p13;q22) </plain></SENT>
+<SENT sid="1" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> bone marrow specimens were G-band karyotyped, and commercial dual-color DNA probes were used to search for fusion signals in nuclei </plain></SENT>
+<SENT sid="2" pm="."><plain>The karyotype analysis showed hyperdiploidy as the most frequent abnormality </plain></SENT>
+<SENT sid="3" pm="."><plain>The frequency of patients with <z:chebi fb="18" ids="30182">TEL</z:chebi>/AML1 gene fusion was 19% (11 out of 58 cases) </plain></SENT>
+<SENT sid="4" pm="."><plain>Six of the positive samples had <z:mpath ids='MPATH_458'>normal</z:mpath> karyotypes </plain></SENT>
+<SENT sid="5" pm="."><plain>Deletion of the <z:mp ids='MP_0002169'>wild-type</z:mp> <z:chebi fb="18" ids="30182">TEL</z:chebi> allele was observed in 27.3% of <z:chebi fb="18" ids="30182">TEL</z:chebi>/AML1 fusion-positive cases, but it was also identified in 4.2% of the negative cases </plain></SENT>
+<SENT sid="6" pm="."><plain>Three cases presented two fusion signals, indicating possible duplication of the der(21) </plain></SENT>
+<SENT sid="7" pm="."><plain>The mean age of the patients with <z:chebi fb="18" ids="30182">TEL</z:chebi>/AML1 fusion was 4.8 years and the mean amount of peripheral leukocytes was 44,270 x 10(6)/L </plain></SENT>
+<SENT sid="8" pm="."><plain>The higher frequency of females with <z:e sem="disease" ids="C0023435" disease_type="Neoplastic Process" abbrv="">B-ALL</z:e> (33/58 cases) observed in our sample was probably due to the selection mode of the study cases </plain></SENT>
+<SENT sid="9" pm="."><plain>The prevalence of <z:chebi fb="18" ids="30182">TEL</z:chebi>/AML1 fusion in Brazilian children in our study is similar to that found in other populations </plain></SENT>
+</text></document>

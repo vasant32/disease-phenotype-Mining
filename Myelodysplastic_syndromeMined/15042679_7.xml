@@ -1,0 +1,18 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: OSI-211 is a low-clearance, unilamellar liposomal formulation of a water-soluble <z:chebi fb="0" ids="27656">camptothecin</z:chebi> analogue, lurtotecan </plain></SENT>
+<SENT sid="1" pm="."><plain>OSI-211 has significant activity in severe combined immunodeficient mouse models of human <z:hpo ids='HP_0001909'>leukemia</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: This study was conducted to define the dose-limiting toxicities (DLT) and pharmacokinetics of OSI-211 in patients with refractory myeloid <z:hpo ids='HP_0001909'>leukemias</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>Patients with refractory <z:hpo ids='HP_0004808'>acute myeloid leukemia</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">AML</z:e>), <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e>), or <z:hpo ids='HP_0005506'>chronic myelogenous leukemia</z:hpo> in <z:e sem="disease" ids="C0005699" disease_type="Neoplastic Process" abbrv="">blastic phase</z:e> (<z:mp ids='MP_0005481'>CML</z:mp>-BP) were eligible </plain></SENT>
+<SENT sid="4" pm="."><plain>OSI-211 was given as an intravenous infusion over 30 minutes daily for 3 days </plain></SENT>
+<SENT sid="5" pm="."><plain>The starting dose was 1.5 mg/m2 per day (4.5 mg/m2 per course) </plain></SENT>
+<SENT sid="6" pm="."><plain>The dose was escalated by 50% until Grade 2 toxicity was observed and then by 30-35% until the DLT was defined </plain></SENT>
+<SENT sid="7" pm="."><plain>Serial plasma and urine samples were collected, and drug levels were determined by high-performance liquid chromatography with fluorescence detection </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: Twenty patients (18 patients [90%] with <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">AML</z:e>, and 1 patient each [5%] with <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> and <z:mp ids='MP_0005481'>CML</z:mp>-BP) were treated </plain></SENT>
+<SENT sid="9" pm="."><plain>Mucositis and <z:hpo ids='HP_0002014'>diarrhea</z:hpo> were considered to be the DLTs </plain></SENT>
+<SENT sid="10" pm="."><plain>The maximum tolerated dose was 3.7 mg/m2 per day </plain></SENT>
+<SENT sid="11" pm="."><plain>Fourteen of 18 evaluable patients (78%) with <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">AML</z:e> or <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> achieved transient bone marrow <z:mpath ids='MPATH_58'>aplasia</z:mpath> </plain></SENT>
+<SENT sid="12" pm="."><plain>The mean systemic clearance of lurtotecan in plasma was 0.946 +/- 1.53 L/hour/m2 </plain></SENT>
+<SENT sid="13" pm="."><plain>Urinary recovery of lurtotecan was 6.66% +/- 5.26% (range, 1.05-18.4%) </plain></SENT>
+<SENT sid="14" pm="."><plain>CONCLUSIONS: Liposomal encapsulation of lurtotecan altered its metabolism significantly </plain></SENT>
+<SENT sid="15" pm="."><plain>There was no evident correlation between exposure, as measured by plasma pharmacokinetics of lurtotecan, and clinical response or toxicities </plain></SENT>
+<SENT sid="16" pm="."><plain>OSI-211 merits further study in <z:e sem="disease" ids="C0376545" disease_type="Neoplastic Process" abbrv="">hematologic malignancies</z:e> </plain></SENT>
+</text></document>

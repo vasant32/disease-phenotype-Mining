@@ -1,0 +1,19 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Radiofrequency ablation (RFA) is safe and effective for eradicating <z:hpo ids='HP_0002664'>neoplasia</z:hpo> in <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>OBJECTIVE: To evaluate RFA for eradicating early esophageal squamous cell <z:hpo ids='HP_0002664'>neoplasia</z:hpo> (ESCN) defined as moderate-grade squamous intraepithelial <z:hpo ids='HP_0002664'>neoplasia</z:hpo> (MGIN) and high-grade squamous intraepithelial <z:hpo ids='HP_0002664'>neoplasia</z:hpo> (HGIN) and early flat-type esophageal <z:hpo ids='HP_0002860'>squamous cell carcinoma</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">ESCC</z:e>) </plain></SENT>
+<SENT sid="2" pm="."><plain>DESIGN: Prospective cohort study </plain></SENT>
+<SENT sid="3" pm="."><plain>SETTING: Tertiary referral center </plain></SENT>
+<SENT sid="4" pm="."><plain>PATIENTS: Esophageal unstained lesions (USLs) were identified using Lugol's chromoendoscopy </plain></SENT>
+<SENT sid="5" pm="."><plain>Inclusion criteria were at least 1 flat (type 0-IIb) USL 3 cm or larger, USL-bearing esophagus 12 cm or less, and a consensus diagnosis of MGIN, HGIN, or <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">ESCC</z:e> by 2 expert GI pathologists </plain></SENT>
+<SENT sid="6" pm="."><plain>Exclusion criteria were previous endoscopic resection or ablation, stricture, or any nonflat mucosa </plain></SENT>
+<SENT sid="7" pm="."><plain>INTERVENTIONS: Circumferential RFA creating a continuous treatment area (TA) including <z:hpo ids='HP_0000001'>all</z:hpo> USLs </plain></SENT>
+<SENT sid="8" pm="."><plain>At 3-month intervals thereafter, chromoendoscopy with biopsies followed by focal RFA of USLs, if present </plain></SENT>
+<SENT sid="9" pm="."><plain>MAIN OUTCOME MEASUREMENTS: Complete response (CR) at 12 months defined as absence of MGIN, HGIN, or <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">ESCC</z:e> in the TA, CR after 1 RFA session, <z:e sem="disease" ids="C0178874" disease_type="Neoplastic Process" abbrv="">neoplastic progression</z:e> from baseline, and adverse events </plain></SENT>
+<SENT sid="10" pm="."><plain>RESULTS: Twenty-nine patients (14 male, mean age 60.3 years) with MGIN (n = 18), HGIN (n = 10), or <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">ESCC</z:e> (n = 1) participated </plain></SENT>
+<SENT sid="11" pm="."><plain>Mean USL length was 6.2 cm (TA 8.2 cm) </plain></SENT>
+<SENT sid="12" pm="."><plain>At 3 months after 1 RFA session, 86% of patients (25/29) had a CR </plain></SENT>
+<SENT sid="13" pm="."><plain>At 12 months, 97% of patients (28/29) had a CR </plain></SENT>
+<SENT sid="14" pm="."><plain>There was no <z:e sem="disease" ids="C0178874" disease_type="Neoplastic Process" abbrv="">neoplastic progression</z:e> </plain></SENT>
+<SENT sid="15" pm="."><plain>There were 4 strictures, <z:hpo ids='HP_0000001'>all</z:hpo> dilated to resolution </plain></SENT>
+<SENT sid="16" pm="."><plain>LIMITATIONS: Single-center study with limited number of patients </plain></SENT>
+<SENT sid="17" pm="."><plain>CONCLUSIONS: In patients with early ESCN (MGIN, HGIN, flat-type <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">ESCC</z:e>), RFA was associated with a high rate of histological complete response (97% of patients), no <z:e sem="disease" ids="C0178874" disease_type="Neoplastic Process" abbrv="">neoplastic progression</z:e>, and an acceptable adverse event profile </plain></SENT>
+</text></document>

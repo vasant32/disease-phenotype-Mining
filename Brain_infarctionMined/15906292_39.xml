@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>This study was designed to determine whether formalin fixation alters diffusion parameters in the infarcted brain </plain></SENT>
+<SENT sid="1" pm="."><plain>Diffusion tensor images were obtained from anesthetized mice 1 hr after middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> and repeated after formalin fixation of brains </plain></SENT>
+<SENT sid="2" pm="."><plain>In live animals, there was a significant decrease in the trace of the diffusion tensor (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">Tr</z:e>(D)) in infarcted cortex and external capsule compared with contralateral brain areas, with no change in relative anisotropy (RA) </plain></SENT>
+<SENT sid="3" pm="."><plain>After formalin fixation, <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">Tr</z:e>(D) was reduced 30-80% </plain></SENT>
+<SENT sid="4" pm="."><plain>However, the <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">Tr</z:e>(D) differential present in vivo between injured and healthy tissues was lost, with <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">Tr</z:e>(D) reduced to similar values in <z:hpo ids='HP_0000001'>all</z:hpo> tissues except for the edge of the cortical infarction, where it was lower than in surrounding tissues </plain></SENT>
+<SENT sid="5" pm="."><plain>RA values were unchanged after fixation </plain></SENT>
+<SENT sid="6" pm="."><plain>This study supports the preservation of diffusion anisotropy for both healthy and injured white matter in fixed mouse brain </plain></SENT>
+<SENT sid="7" pm="."><plain>However, the sensitivity of water diffusion in detecting tissue injury in vivo is not preserved in fixed tissues </plain></SENT>
+</text></document>

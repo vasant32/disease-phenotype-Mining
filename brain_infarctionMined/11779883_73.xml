@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND PURPOSE: Silent brain <z:mpath ids='MPATH_124'>infarcts</z:mpath> are commonly seen on magnetic resonance imaging (MRI) both in patients with a first <z:hpo ids='HP_0001297'>stroke</z:hpo> and in healthy elderly persons </plain></SENT>
+<SENT sid="1" pm="."><plain>These <z:mpath ids='MPATH_124'>infarcts</z:mpath> seem associated with an increased risk of <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>It is unclear whether risk factors for silent <z:mpath ids='MPATH_124'>infarcts</z:mpath> differ from those for symptomatic <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>We investigated the prevalence of, and <z:e sem="disease" ids="C0850624" disease_type="Disease or Syndrome" abbrv="">cardiovascular risk factors</z:e> for, silent brain <z:mpath ids='MPATH_124'>infarcts</z:mpath> </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS: The Rotterdam Scan Study is a population-based cohort study among 1077 participants 60 to 90 years of age </plain></SENT>
+<SENT sid="5" pm="."><plain>Participants underwent cerebral MRI </plain></SENT>
+<SENT sid="6" pm="."><plain>We assessed <z:e sem="disease" ids="C0850624" disease_type="Disease or Syndrome" abbrv="">cardiovascular risk factors</z:e> by interview and physical examination </plain></SENT>
+<SENT sid="7" pm="."><plain>Associations between risk factors and presence of <z:mpath ids='MPATH_124'>infarcts</z:mpath> were analyzed by logistic regression and adjusted for age, sex, and relevant confounders </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: For 259 participants (24%) 1 or more <z:mpath ids='MPATH_124'>infarcts</z:mpath> on MRI were seen; 217 persons had only silent and 42 had symptomatic <z:mpath ids='MPATH_124'>infarcts</z:mpath> </plain></SENT>
+<SENT sid="9" pm="."><plain>The prevalence odds ratio (OR) of both silent and symptomatic <z:mpath ids='MPATH_124'>infarcts</z:mpath> increased with age by 8% per year (95% CI, 1.06 to 1.10 and 1.04 to 1.13, respectively) </plain></SENT>
+<SENT sid="10" pm="."><plain>Silent <z:mpath ids='MPATH_124'>infarcts</z:mpath> were more frequent in women (age-adjusted OR, 1.4; 95% CI, 1.0 to 1.8) </plain></SENT>
+<SENT sid="11" pm="."><plain><z:hpo ids='HP_0000822'>Hypertension</z:hpo> was associated with silent <z:mpath ids='MPATH_124'>infarcts</z:mpath> (age- and sex-adjusted OR, 2.4; 95% CI, 1.7 to 3.3), but <z:hpo ids='HP_0000819'>diabetes mellitus</z:hpo> and smoking were not </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: Silent brain <z:mpath ids='MPATH_124'>infarcts</z:mpath> are 5 times as prevalent as symptomatic brain <z:mpath ids='MPATH_124'>infarcts</z:mpath> in the general population </plain></SENT>
+<SENT sid="13" pm="."><plain>Their prevalence increases with age and seems higher in women </plain></SENT>
+<SENT sid="14" pm="."><plain><z:hpo ids='HP_0000822'>Hypertension</z:hpo> is associated with silent <z:mpath ids='MPATH_124'>infarcts</z:mpath>, but other <z:e sem="disease" ids="C0850624" disease_type="Disease or Syndrome" abbrv="">cardiovascular risk factors</z:e> are not </plain></SENT>
+</text></document>

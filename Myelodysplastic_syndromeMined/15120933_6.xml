@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0004808'>Acute myeloid leukemia</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">AML</z:e>) in the elderly is a serious problem characterized by poor response to therapy and short survival </plain></SENT>
+<SENT sid="1" pm="."><plain>To improve response to therapy, a timed sequential therapy (TST) approach was designed utilizing topotecan, <z:chebi fb="1" ids="16040">cytosine</z:chebi> <z:chebi fb="0" ids="22601">arabinoside</z:chebi> (ara-C) and <z:chebi fb="0" ids="50729">mitoxantrone</z:chebi> based on multiple studies suggesting that topotecan and <z:chebi fb="0" ids="50729">mitoxantrone</z:chebi> are effective in older patients </plain></SENT>
+<SENT sid="2" pm="."><plain>Thirty-two adults, &gt;or=60-year-old (median age 69) were included </plain></SENT>
+<SENT sid="3" pm="."><plain>None had favorable cytogenetics and 44% had and antecedent <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e>) or 2 degrees <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">AML</z:e> </plain></SENT>
+<SENT sid="4" pm="."><plain>Fifty-nine percent achieved a complete response (CR) </plain></SENT>
+<SENT sid="5" pm="."><plain>Median overall survival (OS) was 6.5 months (95% confidence interval (CI): 3.1-12.0 months; range, 15 days to 25.3 months) </plain></SENT>
+<SENT sid="6" pm="."><plain>Disease-free survival (DFS) for the 19 patients achieving a CR was 7.7 months (95% CI: 6.1-13.7 months; range, 2.9-25.3 months) </plain></SENT>
+<SENT sid="7" pm="."><plain>There were no differences in OS or DFS between cytogenetic or disease etiology groups </plain></SENT>
+<SENT sid="8" pm="."><plain>Although TST was well tolerated, long-term results in this group of patients are not satisfactory and new approaches are needed </plain></SENT>
+</text></document>

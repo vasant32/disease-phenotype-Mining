@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Deletion of the 9p21 chromosomal region is frequently found in childhood <z:hpo ids='HP_0006721'>acute lymphoblastic leukemia</z:hpo> (ALL) </plain></SENT>
+<SENT sid="1" pm="."><plain>The target of these deletions is CDKN2A, a gene encoding both p16(INK4a) and p14(ARF) </plain></SENT>
+<SENT sid="2" pm="."><plain>However, contiguous genes such as CDKN2B, encoding p15(INK4b), or MTAP, encoding methylthioadenosine phosphorylase, can be included in the deletions </plain></SENT>
+<SENT sid="3" pm="."><plain>Gene dosage by use of real-time PCR has recently been proposed as a promising technical option for the diagnosis of deletions </plain></SENT>
+<SENT sid="4" pm="."><plain>However, its reliability and its capacity to detect mono-allelic deletions in <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> samples are controversial </plain></SENT>
+<SENT sid="5" pm="."><plain>To evaluate the frequency and extent of deletions in 284 children with ALL, we devised a real-time PCR assay for CDKN2A, CDKN2B exons 1beta and 3, and MTAP gene dosage and validated it by comparison with loss-of-heterozygosity analysis </plain></SENT>
+<SENT sid="6" pm="."><plain>We show that, if several controls and adjustments are performed, real-time PCR can provide a reliable test for mono- and bi-allelic deletions in ALL </plain></SENT>
+<SENT sid="7" pm="."><plain>We propose a strategy that overcomes the major caveats of such a dosage in <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> samples: <z:mp ids='MP_0004024'>aneuploidy</z:mp> and contamination by <z:mpath ids='MPATH_458'>normal</z:mpath> cells </plain></SENT>
+<SENT sid="8" pm="."><plain>By use of this assay, we found bi-allelic deletions in 58 and 17% of T- and B-lineage ALL, respectively </plain></SENT>
+<SENT sid="9" pm="."><plain>Mono-allelic deletion was observed in about 15% of cases, stressing the importance of their detection in ALL </plain></SENT>
+<SENT sid="10" pm="."><plain>CDKN2B and/or MTAP co-deletions were highly variable in both T- and B-lineage ALL, making ALL with 9p21 a rather <z:hpo ids='HP_0001425'>heterogeneous</z:hpo> group </plain></SENT>
+<SENT sid="11" pm="."><plain>Because proteins encoded by these genes might influence the response to treatment, the prognosis of 9p21-deleted ALL could vary according to the extent of the deletion </plain></SENT>
+</text></document>

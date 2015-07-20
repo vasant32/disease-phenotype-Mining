@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PURPOSE: Voltage-based device-tracking (VDT) systems are commonly used for tracking invasive devices in electrophysiological <z:hpo ids='HP_0011675'>cardiac-arrhythmia</z:hpo> therapy </plain></SENT>
+<SENT sid="1" pm="."><plain>During electrophysiological procedures, electro-anatomic mapping workstations provide guidance by integrating VDT location and intracardiac electrocardiogram information with X-ray, computerized tomography, ultrasound, and <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e> images </plain></SENT>
+<SENT sid="2" pm="."><plain><z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e> assists navigation, mapping, and radiofrequency ablation </plain></SENT>
+<SENT sid="3" pm="."><plain>Multimodality interventions require multiple patient transfers between an MRI and the X-ray/ultrasound electrophysiological suite, increasing the likelihood of patient-motion and image misregistration </plain></SENT>
+<SENT sid="4" pm="."><plain>An MRI-compatible VDT system may increase efficiency, as there is currently no single method to track devices both inside and outside the MRI scanner </plain></SENT>
+<SENT sid="5" pm="."><plain>METHODS: An MRI-compatible VDT system was constructed by modifying a commercial system </plain></SENT>
+<SENT sid="6" pm="."><plain>Hardware was added to reduce MRI gradient-ramp and radiofrequency unblanking pulse interference </plain></SENT>
+<SENT sid="7" pm="."><plain>VDT patches and cables were modified to reduce heating </plain></SENT>
+<SENT sid="8" pm="."><plain>Five swine cardiac VDT electro-anatomic mapping interventions were performed, navigating inside and thereafter outside the MRI </plain></SENT>
+<SENT sid="9" pm="."><plain>RESULTS: Three-catheter VDT interventions were performed at &gt;12 frames per second both inside and outside the MRI scanner with &lt;3 mm error </plain></SENT>
+<SENT sid="10" pm="."><plain>Catheters were followed on VDT- and MRI-derived maps </plain></SENT>
+<SENT sid="11" pm="."><plain>Simultaneous VDT and imaging was possible in repetition time &gt;32 ms sequences with &lt;0.5 mm errors, and &lt;5% MRI signal-to-noise ratio (SNR) loss </plain></SENT>
+<SENT sid="12" pm="."><plain>At shorter repetition times, only intracardiac electrocardiogram was reliable </plain></SENT>
+<SENT sid="13" pm="."><plain>Radiofrequency heating was &lt;1.5°C </plain></SENT>
+<SENT sid="14" pm="."><plain>CONCLUSION: An MRI-compatible VDT system is feasible </plain></SENT>
+<SENT sid="15" pm="."><plain>Magn Reson Med, 2013. © 2013 Wiley Periodicals, Inc </plain></SENT>
+</text></document>

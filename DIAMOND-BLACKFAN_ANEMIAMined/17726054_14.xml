@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Diamond-Blackfan <z:hpo ids='HP_0001903'>anemia</z:hpo> (<z:chebi fb="28" ids="35299">DBA</z:chebi>) is a rare <z:e sem="disease" ids="C0242354" disease_type="Disease or Syndrome" abbrv="">congenital disease</z:e> linked to mutations in the ribosomal protein genes rps19, rps24 and rps17 </plain></SENT>
+<SENT sid="1" pm="."><plain>It belongs to the emerging class of ribosomal disorders </plain></SENT>
+<SENT sid="2" pm="."><plain>To understand the impact of <z:chebi fb="28" ids="35299">DBA</z:chebi> mutations on RPS19 function, we have solved the crystal structure of RPS19 from Pyrococcus abyssi </plain></SENT>
+<SENT sid="3" pm="."><plain>The protein forms a five alpha-helix bundle organized around a central amphipathic alpha-helix, which corresponds to the <z:chebi fb="28" ids="35299">DBA</z:chebi> mutation hot spot </plain></SENT>
+<SENT sid="4" pm="."><plain>From the structure, we classify <z:chebi fb="28" ids="35299">DBA</z:chebi> mutations relative to their respective impact on protein folding (class I) or on surface properties (class II) </plain></SENT>
+<SENT sid="5" pm="."><plain>Class II mutations cluster into two conserved basic patches </plain></SENT>
+<SENT sid="6" pm="."><plain>In vivo analysis in yeast demonstrates an essential role for class II residues in the incorporation into pre-40S ribosomal particles </plain></SENT>
+<SENT sid="7" pm="."><plain>This data indicate that missense mutations in <z:chebi fb="28" ids="35299">DBA</z:chebi> primarily affect the capacity of the protein to be incorporated into pre-ribosomes, thus blocking maturation of the pre-40S particles </plain></SENT>
+</text></document>

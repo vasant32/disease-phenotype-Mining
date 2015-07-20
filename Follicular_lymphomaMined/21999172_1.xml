@@ -1,0 +1,19 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>WHAT IS ALREADY KNOWN ABOUT THIS SUBJECT: The concentration-effect relationship of rituximab in follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (FL) was previously described using pharmacokinetic-pharmacodynamic (PK-<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">PD</z:e>) modelling </plain></SENT>
+<SENT sid="1" pm="."><plain>The influence of genetic polymorphism of FCGR3A on rituximab efficacy in FL patients was included in this PK-<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">PD</z:e> model </plain></SENT>
+<SENT sid="2" pm="."><plain>Previous studies suggest that increasing the dose of rituximab and/or the number of infusions may lead to a better clinical response in FL </plain></SENT>
+<SENT sid="3" pm="."><plain>WHAT THIS STUDY ADDS: The previously validated PK-<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">PD</z:e> model can be used to design an optimized rituximab dose regimen in FL patients </plain></SENT>
+<SENT sid="4" pm="."><plain>Clinical trial simulation shows the potential clinical benefits of changes in rituximab dose </plain></SENT>
+<SENT sid="5" pm="."><plain>Optimization of the rituximab dose regimen cannot compensate for the lower response of FCGR3A-158F carriers compared with that of FCGR3A-158VV patients </plain></SENT>
+<SENT sid="6" pm="."><plain>AIMS Rituximab has dramatically improved the survival of patients with non-Hodgkin's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (NHL) </plain></SENT>
+<SENT sid="7" pm="."><plain>However, studies have suggested that the dose regimen currently used (i.e. 375 mg m(-2) ) could be optimized </plain></SENT>
+<SENT sid="8" pm="."><plain>The aims of this study were to quantify the benefits of the new dose regimen for rituximab in follicular NHL (FL) patients using a previously validated PK-<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">PD</z:e> model and to design clinical trials investigating optimization of rituximab dosage </plain></SENT>
+<SENT sid="9" pm="."><plain>METHODS: A PK-<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">PD</z:e> model was used to predict progression-free survival (PFS) of FL patients treated by rituximab alone in asymptomatic FL, and those treated by rituximab combined with chemotherapy (R-CHOP) in relapsed/resistant FL </plain></SENT>
+<SENT sid="10" pm="."><plain>This model accounts for the influence of a polymorphism in FCGR3A, the gene encoding the FcγRIIIa receptor, on clinical efficacy </plain></SENT>
+<SENT sid="11" pm="."><plain>Several induction and maintenance dose regimens using rituximab alone or in combination with conventional chemotherapy (CHOP) were tested </plain></SENT>
+<SENT sid="12" pm="."><plain>The benefits of rituximab dose adjustment for F carriers were investigated </plain></SENT>
+<SENT sid="13" pm="."><plain>The numbers of subjects required for the design of two-armed clinical trials were calculated using model-predicted PFS at a power of 80% </plain></SENT>
+<SENT sid="14" pm="."><plain>RESULTS: The model predicted a potential benefit of 1500 mg m(-2) maintenance doses of rituximab for both rituximab monotherapy and R-CHOP </plain></SENT>
+<SENT sid="15" pm="."><plain>The model shows that the PFS of FCGR3A-F carriers remains lower than that of homozygous FCGR3A-VV patients, even with markedly increased rituximab doses </plain></SENT>
+<SENT sid="16" pm="."><plain>CONCLUSION: Our results suggest a benefit of increasing doses of rituximab in FL, both during induction and maintenance </plain></SENT>
+<SENT sid="17" pm="."><plain>These results need to be confirmed in controlled clinical trials </plain></SENT>
+</text></document>

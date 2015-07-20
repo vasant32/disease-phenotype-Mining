@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The 70-kDa heat shock protein (Hsp70) is involved in protecting the brain from a variety of insults including <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Although the mechanism has been largely considered to be because of its chaperone functions, recent work indicates that Hsp70 also modulates <z:mp ids='MP_0001845'>inflammatory responses</z:mp> </plain></SENT>
+<SENT sid="2" pm="."><plain>To explore how and whether Hsp70 regulate immune responses in <z:e sem="disease" ids="C0007786" disease_type="Disease or Syndrome" abbrv="">brain ischemia</z:e>, mice overexpressing Hsp70 (Hsp Tg) were subjected to 2 h middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp>, followed by 24 h reperfusion </plain></SENT>
+<SENT sid="3" pm="."><plain>Parallel experiments were performed using a <z:mp ids='MP_0001847'>brain inflammation</z:mp> model </plain></SENT>
+<SENT sid="4" pm="."><plain>Hsp Tg microglia cocultured with astrocytes were used to evaluate the direct effects of Hsp70 on cytotoxicity of microglia </plain></SENT>
+<SENT sid="5" pm="."><plain>Compared with <z:mp ids='MP_0002169'>wild-type</z:mp> (Wt) littermates, Hsp Tg mice showed decreased <z:mpath ids='MPATH_124'>infarct</z:mpath> size and improved neurological deficits </plain></SENT>
+<SENT sid="6" pm="."><plain>The number of activated microglia/macrophages were also reduced in ischemic brains of Hsp Tg mice </plain></SENT>
+<SENT sid="7" pm="."><plain>Similar observations were made in a model of <z:mp ids='MP_0001847'>brain inflammation</z:mp> that does not result in brain cell <z:hpo ids='HP_0011420'>death</z:hpo> </plain></SENT>
+<SENT sid="8" pm="."><plain>Overexpression of Hsp70 in microglia completely prevented microglia-induced cytotoxicity to astrocytes </plain></SENT>
+<SENT sid="9" pm="."><plain>Activation of the inflammatory transcription factor, nuclear factor-kappaB (NF-kappaB) was inhibited significantly in Hsp Tg mice and microglia </plain></SENT>
+<SENT sid="10" pm="."><plain>This was associated with decreased phosphorylation of NF-kappaB inhibitor protein, IkappaBalpha, and decreased expression of several NFkappaB-regulated genes </plain></SENT>
+<SENT sid="11" pm="."><plain>Co-immunoprecipitation studies revealed an interaction of Hsp70 with NF-kappaB and IkappaBalpha, but not with IkappaB kinase, IKKgamma, suggesting that Hsp70 binds to the NF-kappaB:IkappaB complex preventing IkappaB phosphorylation by IKK </plain></SENT>
+<SENT sid="12" pm="."><plain>The findings of the present work establish an anti-inflammatory role for Hsp70 in the context of <z:e sem="disease" ids="C0007786" disease_type="Disease or Syndrome" abbrv="">brain ischemia</z:e> as a novel mechanism of protection </plain></SENT>
+</text></document>

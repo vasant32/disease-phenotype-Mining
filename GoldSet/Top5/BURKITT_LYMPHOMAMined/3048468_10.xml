@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>B-<z:hpo ids='HP_0002665'>lymphoma</z:hpo> cells were purged from human bone marrow by incubating the cell suspension with a cocktail of three different pan-B cell mouse IgG1 monoclonal antibodies, and then with immunobeads charged with sheep anti-mouse antibody, followed by magnetic separation </plain></SENT>
+<SENT sid="1" pm="."><plain>The primary antibodies used, HD37 (CD19), HD6 (CD22), and HH1 (CD37), bind to a very high percentage of the cells in non-Hodgkin's <z:hpo ids='HP_0002665'>lymphomas</z:hpo> of poor prognosis </plain></SENT>
+<SENT sid="2" pm="."><plain>The secondary antibody is directed against the Fc portion of the IgG antibodies </plain></SENT>
+<SENT sid="3" pm="."><plain>In model experiments Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cells (Rael) were admixed to mononuclear bone marrow cells in the ratio 1/9 </plain></SENT>
+<SENT sid="4" pm="."><plain>With a ratio of immunobeads/total antibody-binding B cells of 50/1 in a first treatment cycle and repeating the procedure with the same number of beads in a second cycle, a <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> cell <z:mpath ids='MPATH_63'>depletion</z:mpath> of more than 5 logs was achieved, as judged by a clonogenic assay </plain></SENT>
+<SENT sid="5" pm="."><plain>The concomitant reduction of CFU-GM and CFU-GEMM was about 20% </plain></SENT>
+<SENT sid="6" pm="."><plain>The purging procedure has been scaled up to clinical use </plain></SENT>
+<SENT sid="7" pm="."><plain>Equipment suitable for purging patients' marrow specimens, employing standard transfusion facilities, is described </plain></SENT>
+<SENT sid="8" pm="."><plain>With this equipment the efficacy of <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> cell removal was the same as in the model experiments, and the whole magnetic separation could be completed in 2 hours </plain></SENT>
+</text></document>

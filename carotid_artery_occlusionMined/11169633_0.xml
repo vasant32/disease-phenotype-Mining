@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Electrochemical conditions were optimized to allow the metal tube used for the shaft of commercial microdialysis (MD) probes to be coated with gold </plain></SENT>
+<SENT sid="1" pm="."><plain>In in vitro tests with phosphate-buffered Ringer's solution using double differential pulse amperometry (DDPA), the gold-coated shafts were capable of specifically measuring the reduction of oxygen and the oxidation of <z:chebi fb="6" ids="22652,29073">ascorbic acid</z:chebi> in the presence of high concentrations of potentially interfering endogenous substances </plain></SENT>
+<SENT sid="2" pm="."><plain>By using fixed-potential amperometry (FPA), the gold-plated shaft also measured oxygen with minimal interference from high concentrations of potentially interfering endogenous substances </plain></SENT>
+<SENT sid="3" pm="."><plain>Concentric design MD probes were constructed that used a metal shaft (O.D = 0.4 mm), <z:chebi fb="0" ids="46729">fused silica</z:chebi> inlet and outlet tubes, and a 1.5 mm dialyzing membrane (O.D = 0.2 mm) </plain></SENT>
+<SENT sid="4" pm="."><plain>A 0.5-0.7 mm gold collar was electroplated onto the metal shaft approximately 0.5 mm above the dialyzing membrane </plain></SENT>
+<SENT sid="5" pm="."><plain>The nongold outer surface of the MD probe was coated with an insulating polymer </plain></SENT>
+<SENT sid="6" pm="."><plain>In vivo tests demonstrated that DDPA was not suitable for use with this gold microdialyzing electrode (GMDE) </plain></SENT>
+<SENT sid="7" pm="."><plain>However, brain oxygen levels were satisfactorily measured using FPA </plain></SENT>
+<SENT sid="8" pm="."><plain>In <z:chebi fb="5" ids="17967">urethane</z:chebi>-anesthetized rats, the reduction current to oxygen in the striatum was increased by brief (1 min) inhalation of O2 or <z:chebi fb="97" ids="29325">CO2</z:chebi> and decreased by inhalation of N2 </plain></SENT>
+<SENT sid="9" pm="."><plain>Transient application of noxious stimuli (foot pinch) increased cerebral O2, whereas bilateral carotid <z:mp ids='MP_0006134'>artery occlusion</z:mp> and <z:hpo ids='HP_0011420'>death</z:hpo> decreased striatal O2 </plain></SENT>
+<SENT sid="10" pm="."><plain>The responses of the GMDE were indistinguishable from the reduction current simultaneously measured from a conventional carbon fiber electrode implanted adjacent to the gold-plated area of the MD shaft </plain></SENT>
+<SENT sid="11" pm="."><plain>Basal levels of striatal <z:chebi fb="0" ids="15379">O(2)</z:chebi> were 20 +/- 5 microM (n = 4) for the GMDE and 30 +/- 11 microM (n = 3) for the carbon fiber </plain></SENT>
+<SENT sid="12" pm="."><plain>The GMDE was robust and could be used for at least three animals </plain></SENT>
+<SENT sid="13" pm="."><plain>This technique can be used to provide information about the oxygen status of the tissue adjacent to the dialyzing membrane without the need for implantation of an additional electrode </plain></SENT>
+</text></document>

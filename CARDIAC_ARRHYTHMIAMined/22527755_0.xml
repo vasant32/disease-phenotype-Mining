@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Electrical desynchronization in cardiac resynchronization therapy (CRT) occurs when sinus P waves are continually locked in the postventricular atrial refractory period (PVARP) </plain></SENT>
+<SENT sid="1" pm="."><plain>This process is characterized by sequences of a P wave as an atrial event in the PVARP followed by a conducted and sensed ventricular event </plain></SENT>
+<SENT sid="2" pm="."><plain>Such sequences are more common in patients with a <z:mp ids='MP_0003896'>prolonged PR interval</z:mp>, often initiated by premature ventricular complexes (<z:mp ids='MP_0010018'>PVC</z:mp>) and terminated by <z:mp ids='MP_0010018'>PVCs</z:mp> or slowing of the sinus rate </plain></SENT>
+<SENT sid="3" pm="."><plain>Specific algorithms automatically identify a recurring pattern of P wave locking in the PVARP, whereupon they shorten the PVARP temporarily until atrial tracking is restored with the programmed sensed AV interval </plain></SENT>
+<SENT sid="4" pm="."><plain>The Biotronik family of Lumax CRT devices use an AV control window which is not an algorithm that "unlocks" P waves trapped in the PVARP </plain></SENT>
+<SENT sid="5" pm="."><plain>Rather, it prevents P waves from becoming trapped in the PVARP </plain></SENT>
+<SENT sid="6" pm="."><plain>A ventricular sensed event occurring within the AV control interval does not start a PVARP so that P wave locking cannot occur when the AV conduction time is shorter than the AV control interval </plain></SENT>
+</text></document>

@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:chebi fb="0" ids="32599">Magnesium sulfate</z:chebi> therapy, standard in preventing <z:hpo ids='HP_0001250'>seizures</z:hpo> in <z:e sem="disease" ids="C0032914" disease_type="Disease or Syndrome" abbrv="PEE|PREG1|PEE1">preeclampsia</z:e>, is under active investigation as a neuroprotective agent </plain></SENT>
+<SENT sid="1" pm="."><plain>The authors studied the effect of <z:chebi fb="131" ids="25107">magnesium</z:chebi> as a cerebral <z:chebi fb="1" ids="35620">vasodilator</z:chebi> by measuring the cerebral blood flow velocity (CBFV) response to a 5g intravenous bolus of <z:chebi fb="0" ids="32599">MgSO4</z:chebi> compared with a saline placebo after <z:hpo ids='HP_0002138'>subarachnoid hemorrhage</z:hpo> (SAH) </plain></SENT>
+<SENT sid="2" pm="."><plain>Transcranial Doppler ultrasonography of the middle cerebral artery (<z:chebi fb="70" ids="34342">MCA</z:chebi>) was measured after each infusion </plain></SENT>
+<SENT sid="3" pm="."><plain>Patients were studied up to three times after SAH at prescribed time intervals </plain></SENT>
+<SENT sid="4" pm="."><plain>Fourteen patients (11 women, 3 men; mean age 58 years) underwent 29 studies </plain></SENT>
+<SENT sid="5" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> patients underwent hypertensive, hypervolemic therapy </plain></SENT>
+<SENT sid="6" pm="."><plain>Four patients developed <z:e sem="disease" ids="C0265110" disease_type="Disease or Syndrome" abbrv="">cerebral vasospasm</z:e> </plain></SENT>
+<SENT sid="7" pm="."><plain>Doubling serum <z:chebi fb="131" ids="25107">magnesium</z:chebi> levels did not affect <z:chebi fb="70" ids="34342">MCA</z:chebi> CBFV but slightly lowered mean arterial blood pressure and systemic vascular resistance </plain></SENT>
+<SENT sid="8" pm="."><plain>Intravenous <z:chebi fb="131" ids="25107">magnesium</z:chebi> bolus did not reduce elevated CBFV in the subset of SAH patients with clinical vasospasm </plain></SENT>
+<SENT sid="9" pm="."><plain>The role of <z:chebi fb="0" ids="32599">magnesium sulfate</z:chebi> as a cerebral <z:chebi fb="1" ids="35620">vasodilator</z:chebi> in patients with SAH requires further study </plain></SENT>
+</text></document>

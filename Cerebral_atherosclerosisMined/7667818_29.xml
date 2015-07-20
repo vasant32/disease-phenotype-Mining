@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We investigated the vessel status of coronary and peripheral arteries and those arteries supplying the brain in 929 consecutive male patients admitted to a coronary rehabilitation unit </plain></SENT>
+<SENT sid="1" pm="."><plain>The severity of <z:hpo ids='HP_0004929'>coronary atherosclerosis</z:hpo> was scored using coronary angiography </plain></SENT>
+<SENT sid="2" pm="."><plain>Changes in extracranial brain vessels and manifest cerebrovascular disease (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CVD</z:e>) were determined by B-mode ultrasound and Doppler examination </plain></SENT>
+<SENT sid="3" pm="."><plain><z:hpo ids='HP_0004950'>Peripheral arterial disease</z:hpo> (PAD) was diagnosed using base-line and stress oscillography </plain></SENT>
+<SENT sid="4" pm="."><plain>We assessed variables of coagulation, fibrinolysis, and the <z:hpo ids='HP_0011009'>acute</z:hpo> phase response </plain></SENT>
+<SENT sid="5" pm="."><plain>There was a significant increase in plasma fibrinogen, plasminogen, d-dimer and C-reactive protein (CRP) with increasing severity of <z:e sem="disease" ids="C0010068" disease_type="Disease or Syndrome" abbrv="">coronary heart disease</z:e> </plain></SENT>
+<SENT sid="6" pm="."><plain>Compared to men with unaffected arteries, men with 3 diseased coronary arteries had 58% greater d-dimer concentrations </plain></SENT>
+<SENT sid="7" pm="."><plain>Patients with <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CVD</z:e> and PAD, respectively, also had significantly higher fibrinogen, d-dimer and CRP concentrations </plain></SENT>
+<SENT sid="8" pm="."><plain>We did not find an association between plasminogen activator inhibitor activity and the severity of <z:hpo ids='HP_0004929'>coronary atherosclerosis</z:hpo> </plain></SENT>
+<SENT sid="9" pm="."><plain>In conclusion, plasma fibrinogen, d-dimer and CRP concentrations were significantly related to <z:hpo ids='HP_0002621'>atherosclerosis</z:hpo> in the coronary, peripheral and extracranial brain arteries </plain></SENT>
+</text></document>

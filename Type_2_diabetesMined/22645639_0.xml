@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIM: To estimate the level of serum <z:chebi fb="1" ids="6495">lipoprotein</z:chebi> (a) [Lp (a)] in type 2 <z:hpo ids='HP_0000819'>diabetes mellitus</z:hpo> patients and to determine the relationship between Lp(a) in type 2 <z:hpo ids='HP_0000819'>diabetes mellitus</z:hpo> patients and micro-vascular complications </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: A cross sectional study was performed that enrolled 144 subjects with type 2 <z:hpo ids='HP_0000819'>diabetes mellitus</z:hpo> above the age of 25 years attending outpatient clinic of Government Medical College, Kozhikode </plain></SENT>
+<SENT sid="2" pm="."><plain>Lp(a) levels were measured quantitatively in venous samples using Turbidimetric Immunoassay in <z:hpo ids='HP_0000001'>all</z:hpo> subjects </plain></SENT>
+<SENT sid="3" pm="."><plain>Each patient was evaluated for micro vascular complications, namely diabetic <z:hpo ids='HP_0000488'>retinopathy</z:hpo>, <z:hpo ids='HP_0000112'>nephropathy</z:hpo> and <z:e sem="disease" ids="C0442874" disease_type="Disease or Syndrome" abbrv="">neuropathy</z:e> </plain></SENT>
+<SENT sid="4" pm="."><plain>The relationship between Lp(a) levels and the micro vascular complications was assessed by univariate analysis </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: Mean age of cases was 53.93 ± 10.74 years with a male to female ratio of 1.3:1 </plain></SENT>
+<SENT sid="6" pm="."><plain>Mean duration of <z:mp ids='MP_0002055'>diabetes</z:mp> was 9.53 ± 7.3 years </plain></SENT>
+<SENT sid="7" pm="."><plain>Abnormal Lp(a) levels (≥ 30 mg/dL) were observed in 38 (26.4%) diabetic subjects </plain></SENT>
+<SENT sid="8" pm="."><plain>Seventy-eight (54.16%) cases had diabetic <z:hpo ids='HP_0000112'>nephropathy</z:hpo> and significantly higher Lp(a) levels were found among these cases [Median 28.2 mg/dL (Interquartile range; IQR 24.4-33.5) vs 19.3 mg/dL (IQR 14.7-23.5); P &lt; 0.05] </plain></SENT>
+<SENT sid="9" pm="."><plain><z:hpo ids='HP_0000488'>Retinopathy</z:hpo> was present among 66 (45.13%) cases and <z:hpo ids='HP_0009830'>peripheral neuropathy</z:hpo> was detected among 54 (37.5%) cases </plain></SENT>
+<SENT sid="10" pm="."><plain>However, Lp(a) levels were not significantly different among those with or without <z:hpo ids='HP_0000488'>retinopathy</z:hpo> and <z:e sem="disease" ids="C0442874" disease_type="Disease or Syndrome" abbrv="">neuropathy</z:e> </plain></SENT>
+<SENT sid="11" pm="."><plain>Positive correlation was found between higher Lp(a) levels and duration of <z:mp ids='MP_0002055'>diabetes</z:mp> (r = 0.165, P &lt; 0.05) but not with HbA1c values (r = - 0.083) </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSION: Abnormal Lp(a) levels were found among 26.4% of diabetic subjects </plain></SENT>
+<SENT sid="13" pm="."><plain>Patients with diabetic <z:hpo ids='HP_0000112'>nephropathy</z:hpo> had higher Lp(a) levels </plain></SENT>
+<SENT sid="14" pm="."><plain>No association was found between Lp(a) levels and diabetic <z:hpo ids='HP_0000488'>retinopathy</z:hpo> or <z:e sem="disease" ids="C0442874" disease_type="Disease or Syndrome" abbrv="">neuropathy</z:e> </plain></SENT>
+<SENT sid="15" pm="."><plain>Longer duration of <z:mp ids='MP_0002055'>diabetes</z:mp> correlated with higher Lp(a) levels </plain></SENT>
+</text></document>

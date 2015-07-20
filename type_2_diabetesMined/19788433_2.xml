@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIM: Randomized, open, single-centre, two-way crossover study comparing the pharmacokinetic (PK) and pharmacodynamic (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">PD</z:e>) properties of subcutaneous (sc) regular human insulin (Actrapid) and oral insulin in a capsule form (Capsulin) </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: Sixteen persons (12 males) with type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> on oral hypoglycaemic agents (OHAs) participated </plain></SENT>
+<SENT sid="2" pm="."><plain>Mean (s.d.) age 60.2 (5.5) years, BMI 28.3 (3.4) kg/m(2), <z:chebi fb="34" ids="35143">haemoglobin</z:chebi> A(1c) (HbA(1c)) 7.4% (1.1) </plain></SENT>
+<SENT sid="3" pm="."><plain>Two 6-h isoglycaemic <z:chebi fb="105" ids="17234">glucose</z:chebi> clamp studies were conducted 11 days apart </plain></SENT>
+<SENT sid="4" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> subjects received in random order 12U sc Actrapid on one clamp study day and either 150U or 300U Capsulin (Cap) on the other day </plain></SENT>
+<SENT sid="5" pm="."><plain><z:chebi fb="105" ids="17234">Glucose</z:chebi> infusion rates (GIRs), plasma insulin and C-<z:chebi fb="7" ids="16670">peptide</z:chebi> concentrations were determined throughout each 6-h isoglycaemic clamp </plain></SENT>
+<SENT sid="6" pm="."><plain>Between the clamp study days, <z:hpo ids='HP_0000001'>all</z:hpo> patients received 150U Capsulin twice daily, dropping <z:hpo ids='HP_0000001'>all</z:hpo> their standard OHAs apart from <z:chebi fb="0" ids="6801">metformin</z:chebi> </plain></SENT>
+<SENT sid="7" pm="."><plain>Self-monitored blood <z:chebi fb="105" ids="17234">glucose</z:chebi> (SMBG) levels were taken four times a day between the clamp study days </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: Administration of either Actrapid or Capsulin (150 and 300U) increased GIRs reaching a maximum values at approximately 280-330 min </plain></SENT>
+<SENT sid="9" pm="."><plain>Overall values for maximum GIR values were higher for Actrapid than either dose of Capsulin (p &lt; 0.05) </plain></SENT>
+<SENT sid="10" pm="."><plain>The significantly greater systemic insulin concentrations following Actrapid were reflected in the AUC(0-6 h) (910 +/- 270 vs. 472 +/- 245 pmol h/L; 950 +/- 446 vs. 433 +/- 218 pmol h/L; both p &lt; 0.05 for Actrapid vs. 150U Capsulin and 300U Capsulin respectively) </plain></SENT>
+<SENT sid="11" pm="."><plain>No difference was observed between 150U and 300U Capsulin </plain></SENT>
+<SENT sid="12" pm="."><plain>During the repeat-dosing period, good safety and tolerability were observed with Capsulin, and SMBG levels remained stable </plain></SENT>
+<SENT sid="13" pm="."><plain>At the poststudy visit, significant <z:hpo ids='HP_0002527'>falls</z:hpo> in HbA(1c), weight and <z:chebi fb="4" ids="17855">triglycerides</z:chebi> were observed </plain></SENT>
+<SENT sid="14" pm="."><plain>CONCLUSIONS: Administration of the oral insulin Capsulin preparation demonstrated a significant hypoglycaemic action over a period of 6 h associated with only a small increase in circulating plasma insulin concentrations </plain></SENT>
+</text></document>

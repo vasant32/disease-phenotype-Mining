@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We sought to determine whether reactive oxygen species (ROS) derived from cyclooxygenase-2 (COX-2) are involved in ischemic brain injury </plain></SENT>
+<SENT sid="1" pm="."><plain>Focal <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> was induced by transient middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> in C57BL/6 mice </plain></SENT>
+<SENT sid="2" pm="."><plain>The time course of neocortical ROS production was assessed in vivo using hydroethidine as a marker </plain></SENT>
+<SENT sid="3" pm="."><plain>The same brain sections were used for <z:mpath ids='MPATH_124'>infarct</z:mpath> volume measurements </plain></SENT>
+<SENT sid="4" pm="."><plain>Transient middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> led to a biphasic increase in ROS production with peaks 2 and 72 h after reperfusion </plain></SENT>
+<SENT sid="5" pm="."><plain>The COX-2 inhibitor NS398 (10 mg/kg) attenuated the production of COX-2-derived <z:chebi fb="11" ids="26333">prostaglandin</z:chebi> E(2) and reduced brain injury, but did not affect ROS production at 2 and 72 h </plain></SENT>
+<SENT sid="6" pm="."><plain>Similarly, ROS production was not reduced in COX-2-null mice </plain></SENT>
+<SENT sid="7" pm="."><plain>In contrast, ROS production and brain injury were reduced in mice lacking the nox2 subunit of the <z:chebi fb="1" ids="18421">superoxide</z:chebi>-producing enzyme <z:chebi fb="0" ids="25523">nicotinamide adenine dinucleotide phosphate</z:chebi> (reduced form) oxidase </plain></SENT>
+<SENT sid="8" pm="."><plain>The data suggest that COX-2 is not a major source of oxygen radicals after <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> and raise the possibility that other COX-2 reaction products, including <z:chebi fb="0" ids="26347">prostanoids</z:chebi> or nonoxygen-based radicals, mediate the COX-2-dependent component of the injury </plain></SENT>
+</text></document>

@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We aimed to evaluate the efficacy and safety of allogeneic hematopoietic stem cell transplantation with targeted oral <z:chebi fb="0" ids="28901">busulfan</z:chebi> (BU) and <z:chebi fb="0" ids="4027">cyclophosphamide</z:chebi> (CY) in a phase II study </plain></SENT>
+<SENT sid="1" pm="."><plain><z:chebi fb="0" ids="28901">Busulfan</z:chebi> (1.0 mg/kg) was given initially in six doses </plain></SENT>
+<SENT sid="2" pm="."><plain>Based on the estimated concentration at steady state after the first dose of BU, subsequent (7th-16th) doses were adjusted to obtain a targeted overall concentration at steady state of 700-900 ng/mL </plain></SENT>
+<SENT sid="3" pm="."><plain>The primary endpoint was 1-year overall survival (OS) </plain></SENT>
+<SENT sid="4" pm="."><plain>Fifty patients were registered and 46 (median age, 53 years; range, 18-62 years) received planned transplant, including 24 with <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">AML</z:e>, 16 with <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo>, and six with <z:mp ids='MP_0005481'>CML</z:mp> </plain></SENT>
+<SENT sid="5" pm="."><plain>Fourteen patients were categorized as standard risk </plain></SENT>
+<SENT sid="6" pm="."><plain>Nineteen patients received transplant from human leukocyte antigen-identical siblings, 27 from unrelated donors </plain></SENT>
+<SENT sid="7" pm="."><plain>The BU dose required reduction in 32 patients and escalation in six patients </plain></SENT>
+<SENT sid="8" pm="."><plain>One-year OS was 65% (95% confidence interval, 50-77%) </plain></SENT>
+<SENT sid="9" pm="."><plain>Cumulative incidence of hepatic <z:e sem="disease" ids="C0019156" disease_type="Disease or Syndrome" abbrv="">sinusoidal obstruction syndrome</z:e> was 11% </plain></SENT>
+<SENT sid="10" pm="."><plain>One-year transplant-related mortality was 18% </plain></SENT>
+<SENT sid="11" pm="."><plain>Both OS and transplant-related mortality were favorable in this study, including patients of older age and with high risk diseases </plain></SENT>
+<SENT sid="12" pm="."><plain>Individual dose adjustment based on BU pharmacokinetics was feasible and effective in the current phase II study </plain></SENT>
+<SENT sid="13" pm="."><plain>This trial is registered in the University Hospital Medical Information Network Clinical Trial Registry System (UMIN-CTR, ID:C000000156) </plain></SENT>
+</text></document>

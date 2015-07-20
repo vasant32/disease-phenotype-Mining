@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND AIMS: The relative weight of various etiologies of <z:hpo ids='HP_0000726'>dementia</z:hpo> and mild <z:hpo ids='HP_0100543'>cognitive impairment</z:hpo> (MCI) as predictors of intra-hospital, short- and long-term mortality in very old acutely ill patients suffering from multiple comorbid conditions remains unclear </plain></SENT>
+<SENT sid="1" pm="."><plain>We investigated intra-hospital, 1- and 5-year mortality risk associated with <z:hpo ids='HP_0000726'>dementia</z:hpo> and its various etiologies in a very old population after discharge from <z:hpo ids='HP_0011009'>acute</z:hpo> care </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: Prospective cohort study of 444 patients (mean age 85 years; 74% female) discharged from the <z:hpo ids='HP_0011009'>acute</z:hpo> geriatric unit of Geneva University Hospital </plain></SENT>
+<SENT sid="3" pm="."><plain>On admission, each subject underwent standardized evaluation of cognitive and comorbid conditions </plain></SENT>
+<SENT sid="4" pm="."><plain>Patients were followed yearly by the same team </plain></SENT>
+<SENT sid="5" pm="."><plain>Predictive variables were age, sex, cognitive diagnosis, <z:hpo ids='HP_0000726'>dementia</z:hpo> etiology and severity </plain></SENT>
+<SENT sid="6" pm="."><plain>Survival during hospitalization, at 1- and 5-year follow-ups was the outcome of interest evaluated with Cox proportional hazard models </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: Two hundred and six patients were cognitively <z:mpath ids='MPATH_458'>normal</z:mpath>, 48 had MCI, and 190 had <z:hpo ids='HP_0000726'>dementia</z:hpo>: of these, there were 75 cases of <z:e sem="disease" ids="C0002395" disease_type="Disease or Syndrome" abbrv="SDAT">Alzheimer's disease</z:e> (AD), 20 of vascular <z:hpo ids='HP_0000726'>dementia</z:hpo> (VaD), 82 of mixed <z:hpo ids='HP_0000726'>dementia</z:hpo> (MD) and 13 of other types of <z:hpo ids='HP_0000726'>dementia</z:hpo> </plain></SENT>
+<SENT sid="8" pm="."><plain>The groups compared were statistically similar in age, sex, education level and comorbidity score </plain></SENT>
+<SENT sid="9" pm="."><plain>After 5 years of follow-up, 60% of the patients had died </plain></SENT>
+<SENT sid="10" pm="."><plain>Regarding intra-hospital mortality, none of the predictive variables was associated with mortality </plain></SENT>
+<SENT sid="11" pm="."><plain>MCI, AD and MD were not predictive of short- or long-term mortality </plain></SENT>
+<SENT sid="12" pm="."><plain>Features significantly associated with reduced survival at 1 and 5 years were being older, male, and having vascular or severe <z:hpo ids='HP_0000726'>dementia</z:hpo> </plain></SENT>
+<SENT sid="13" pm="."><plain>When <z:hpo ids='HP_0000001'>all</z:hpo> the variables were added in the multiple model, the <z:hpo ids='HP_0000726'>dementia</z:hpo> effect completely disappeared </plain></SENT>
+<SENT sid="14" pm="."><plain>CONCLUSIONS: <z:hpo ids='HP_0000726'>Dementia</z:hpo> (<z:hpo ids='HP_0000001'>all</z:hpo> etiologies) is not predictive of mortality </plain></SENT>
+<SENT sid="15" pm="."><plain>The observed VaD effect is probably linked to cardiovascular risk comorbidities: <z:hpo ids='HP_0000822'>hypertension</z:hpo>, <z:hpo ids='HP_0001297'>stroke</z:hpo> and <z:hpo ids='HP_0003077'>hyperlipidemia</z:hpo> </plain></SENT>
+</text></document>

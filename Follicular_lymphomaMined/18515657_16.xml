@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (FL) is a B-cell <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">malignancy</z:e> characterized by the t(14;18) translocation </plain></SENT>
+<SENT sid="1" pm="."><plain>Although sensitive to treatment, the disease remains incurable and the reason why <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> cells invariably evade treatment, leading to clinical relapse, is still unknown </plain></SENT>
+<SENT sid="2" pm="."><plain>Here, we tracked the clonal history of <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> cells by studying mutations introduced by activation-induced <z:chebi fb="0" ids="17562">cytidine</z:chebi> deaminase on the switch mu region of the der(14)t(14;18) during the early phase of the class-switch recombination (CSR) process </plain></SENT>
+<SENT sid="3" pm="."><plain>We observed frequent intraclonal variations, suggesting that CSR often remains active after the acquisition of the fully transformed phenotype </plain></SENT>
+<SENT sid="4" pm="."><plain>However, mutations only rarely accumulated over time, but instead showed complex evolutionary scenarios and 2 different progression pathways </plain></SENT>
+<SENT sid="5" pm="."><plain>The first pathway was a direct and rapid evolution from the dominant clone </plain></SENT>
+<SENT sid="6" pm="."><plain>The second was indirect, arising from earlier subclones usually after years of remission </plain></SENT>
+<SENT sid="7" pm="."><plain>A better understanding of these mechanisms might influence the future choice of treatment strategies </plain></SENT>
+</text></document>

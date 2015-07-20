@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0005110'>Atrial fibrillation</z:hpo> (AF) is one of the most common <z:hpo ids='HP_0011675'>cardiac arrhythmia</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Electrical properties of the atrial myocardium may be related to the appearance of this type of <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>However ectopic beats, occurring normally in healthy people, disturb cardiac rhythm </plain></SENT>
+<SENT sid="3" pm="."><plain>Those beats arise from fiber outside the region of SA node </plain></SENT>
+<SENT sid="4" pm="."><plain>With this work we aim at highlighting differences in the atrial activity between healthy subjects, healthy subjects presenting many ectopic events and patients with AF </plain></SENT>
+<SENT sid="5" pm="."><plain>The X-Y-Z leads of vectorcardiography recordings are considered </plain></SENT>
+<SENT sid="6" pm="."><plain>Wavelet-based parameters are extracted from a window which represents atrial activity originated from SA node and compared between signals of the three groups </plain></SENT>
+<SENT sid="7" pm="."><plain>Results show differences potentially related to the conduction system of the atrium between healthy people and people with AF, as well as between healthy people and people with ectopic events </plain></SENT>
+<SENT sid="8" pm="."><plain>No difference was found from the analysis of SA node beats between people with AF and healthy with ectopic events </plain></SENT>
+</text></document>

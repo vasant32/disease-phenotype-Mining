@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>In <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo>, the necrotic core is surrounded by a zone of <z:mp ids='MP_0001845'>inflammation</z:mp>, in which delayed cell <z:hpo ids='HP_0011420'>death</z:hpo> aggravates the initial insult </plain></SENT>
+<SENT sid="1" pm="."><plain>Here, we provide evidence that the receptor for advanced glycation end products (RAGE) functions as a sensor of necrotic cell <z:hpo ids='HP_0011420'>death</z:hpo> and contributes to <z:mp ids='MP_0001845'>inflammation</z:mp> and ischemic brain damage </plain></SENT>
+<SENT sid="2" pm="."><plain>The RAGE ligand high mobility group box 1 (HMGB1) was elevated in serum of <z:hpo ids='HP_0001297'>stroke</z:hpo> patients and was released from ischemic brain tissue in a mouse model of <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>A neutralizing anti-HMGB1 antibody and HMGB1 box A, an <z:chebi fb="68" ids="48706">antagonist</z:chebi> of HMGB1 at the receptor RAGE, ameliorated ischemic brain damage </plain></SENT>
+<SENT sid="4" pm="."><plain>Interestingly, genetic RAGE deficiency and the decoy receptor soluble RAGE reduced the <z:mpath ids='MPATH_124'>infarct</z:mpath> size </plain></SENT>
+<SENT sid="5" pm="."><plain>In vitro, expression of RAGE in (micro)glial cells mediated the toxic effect of HMGB1 </plain></SENT>
+<SENT sid="6" pm="."><plain>Addition of macrophages to neural cultures further enhanced the toxic effect of HMGB1 </plain></SENT>
+<SENT sid="7" pm="."><plain>To test whether immigrant macrophages in the ischemic brain mediate the RAGE effect, we generated chimeric mice by transplanting RAGE(-/-) bone marrow to <z:mp ids='MP_0002169'>wild-type</z:mp> mice </plain></SENT>
+<SENT sid="8" pm="."><plain>RAGE deficiency in bone marrow-derived cells significantly reduced the <z:mpath ids='MPATH_124'>infarct</z:mpath> size </plain></SENT>
+<SENT sid="9" pm="."><plain>Thus, HMGB1-RAGE signaling links <z:mp ids='MP_0001651'>necrosis</z:mp> with macrophage activation and may provide a target for anti-inflammatory therapy in <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+</text></document>

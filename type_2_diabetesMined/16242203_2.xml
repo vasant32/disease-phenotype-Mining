@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND/AIMS: Non-alcoholic <z:hpo ids='HP_0001397'>fatty liver</z:hpo> disease (NAFLD) is an increasingly recognized condition that includes a spectrum of clinicopathologic conditions ranging from steatotosis to <z:hpo ids='HP_0001394'>cirrhosis</z:hpo> and <z:hpo ids='HP_0001399'>liver failure</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>NAFLD is usually associated with features of the <z:e sem="disease" ids="C0948265" disease_type="Disease or Syndrome" abbrv="">metabolic syndrome</z:e> </plain></SENT>
+<SENT sid="2" pm="."><plain>No established therapies can be offered to patients with NAFLD </plain></SENT>
+<SENT sid="3" pm="."><plain>An appropriate animal model of NAFLD would be of help in understanding the mechanisms of the disease and in testing novel therapeutic modalities </plain></SENT>
+<SENT sid="4" pm="."><plain>Available animal models, such as ob/ob and db/db mice, are unsatisfactory since they show only partial resemblance to human NAFLD </plain></SENT>
+<SENT sid="5" pm="."><plain>Psammomys obesus (sand rat) is a well-established model of type-2 <z:mp ids='MP_0002055'>diabetes</z:mp> and <z:hpo ids='HP_0001513'>obesity</z:hpo>, which shares most metabolic parameters of the human <z:e sem="disease" ids="C0948265" disease_type="Disease or Syndrome" abbrv="">metabolic syndrome</z:e> </plain></SENT>
+<SENT sid="6" pm="."><plain>In the present study, we hypothesized that P. obesus will also show features of non-alcoholic <z:hpo ids='HP_0001397'>fatty liver</z:hpo> disease </plain></SENT>
+<SENT sid="7" pm="."><plain>METHODS: Experimental and control animals were fed <z:mpath ids='MPATH_458'>normal</z:mpath> rat chow or either chow to which fiber (30% wheat straw) was added for 6-18 weeks </plain></SENT>
+<SENT sid="8" pm="."><plain>Body weight and capillary <z:chebi fb="105" ids="17234">glucose</z:chebi> were measured regularly </plain></SENT>
+<SENT sid="9" pm="."><plain>At sacrifice blood samples, liver and epididymal fat were obtained </plain></SENT>
+<SENT sid="10" pm="."><plain>Histology of the liver was blindly determined by a pathologist </plain></SENT>
+<SENT sid="11" pm="."><plain>RESULTS: The experimental group showed <z:hpo ids='HP_0004324'>increased body weight</z:hpo>, liver and abdominal fat pad mass, raised plasma <z:chebi fb="105" ids="17234">glucose</z:chebi>, insulin and <z:chebi fb="23" ids="18059">lipids</z:chebi> </plain></SENT>
+<SENT sid="12" pm="."><plain>Also, alanine-aminotransferase (189+/-76 IU versus 86+/-26 IU; p&lt;0.0001) was significantly higher in the experimental than the control group </plain></SENT>
+<SENT sid="13" pm="."><plain>Microscopic examination of liver tissue demonstrated marked macrovesicular fat infiltration in the experimental group while it was histologicaly <z:mpath ids='MPATH_458'>normal</z:mpath> in the control animals (liver fat score 1.7+/-1.0 and 0.2+/-0.4; p&lt;0.0001, respectively) </plain></SENT>
+<SENT sid="14" pm="."><plain>CONCLUSIONS: Fed a calorie-rich diet P. obesus develops a syndrome, which shares metabolic, laboratory and histopathologic characteristics compatible with human NAFLD </plain></SENT>
+</text></document>

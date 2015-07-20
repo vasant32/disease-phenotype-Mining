@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The objective of this study is to identify and characterize the genetic variants related to the glomerular filtration rate (GFR) linkage on 2q37 </plain></SENT>
+<SENT sid="1" pm="."><plain>Of the positional candidate genes, we selected IRS1 and resequenced its 2-kb promoter region and exons for sequence variants in 32 subjects </plain></SENT>
+<SENT sid="2" pm="."><plain>A total of 11 single nucleotide polymorphisms (SNPs) were identified </plain></SENT>
+<SENT sid="3" pm="."><plain>To comprehensively cover the 59-kb-long intron-1, eight additional tagging SNPs were selected from the HapMap </plain></SENT>
+<SENT sid="4" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> the 19 SNPs were genotyped by TaqMan Assay in the entire data set (N = 670; 39 families) </plain></SENT>
+<SENT sid="5" pm="."><plain>Association analyses between the SNPs and GFR and type 2 <z:mp ids='MP_0002055'>diabetes</z:mp>-related traits were performed using the measured genotype approach </plain></SENT>
+<SENT sid="6" pm="."><plain>Of the SNPs examined for association, only the Gly(972)Arg variant of IRS1 exhibited a significant association with GFR (P = 0.0006) and serum <z:chebi fb="4" ids="17855">triglycerides</z:chebi> levels (P = 0.003), after accounting for trait-specific covariate effects </plain></SENT>
+<SENT sid="7" pm="."><plain>Carriers of Arg972 had significantly <z:mp ids='MP_0005528'>decreased GFR</z:mp> values </plain></SENT>
+<SENT sid="8" pm="."><plain>Gly(972)Arg contributed to 26% of the linkage signal on 2q </plain></SENT>
+<SENT sid="9" pm="."><plain>Expression of IRS1 mutant Arg972 in human mesangial cells significantly reduced the insulin-stimulated phosphorylation of IRS1 and Akt kinase </plain></SENT>
+<SENT sid="10" pm="."><plain>Taken together, the data provide the first evidence that genetic variation in IRS1 may influence variation in GFR probably through impaired insulin receptor signaling </plain></SENT>
+</text></document>

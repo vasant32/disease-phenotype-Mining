@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: To derive a clinical decision rule to identify adult emergency department (ED) patients with traumatic intracranial haemorrhage (tICH) who are at low risk for requiring critical care resources during hospitalization </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: This is a retrospective cohort study of patients (≥ 18 years) with tICH presenting to the ED </plain></SENT>
+<SENT sid="2" pm="."><plain>The need for intensive care unit (ICU) admission was defined as the presence of a critical care intervention including: intubation, neurosurgical intervention, blood product transfusion, vasopressor or inotrope administration, invasive monitoring for <z:e sem="disease" ids="C0948268" disease_type="Disease or Syndrome" abbrv="">haemodynamic instability</z:e>, emergent treatment for <z:hpo ids='HP_0011675'>arrhythmia</z:hpo>, therapeutic angiography, and cardiopulmonary resuscitation </plain></SENT>
+<SENT sid="3" pm="."><plain>The decision rule was derived using binary recursive partitioning </plain></SENT>
+<SENT sid="4" pm="."><plain>RESULTS: A total of 432 patients were identified (median age 48 years) of which 174 patients (40%) had a critical care intervention </plain></SENT>
+<SENT sid="5" pm="."><plain>We performed binary recursive partitioning with Classification and Regression Trees (CART) software to develop the clinical decision rule </plain></SENT>
+<SENT sid="6" pm="."><plain>Patients with a <z:mpath ids='MPATH_458'>normal</z:mpath> mental status (Glasgow <z:hpo ids='HP_0001259'>Coma</z:hpo> Score=15), isolated head injury, and age&lt;65 were considered low risk for a critical care intervention </plain></SENT>
+<SENT sid="7" pm="."><plain>The derived rule had a sensitivity of 98% (95% confidence interval [CI] 94-99), a specificity of 50% (95% CI 44-56), a positive predictive value of 57% (95% CI 51-62), and a negative predictive value of 97% (95% CI 93-99) </plain></SENT>
+<SENT sid="8" pm="."><plain>The area under the curve for the decision rule was 0.74 (95% CI 0.70-0.77) </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSIONS: This clinical decision rule identifies low risk adult ED patients with tICH who do not need ICU admission </plain></SENT>
+<SENT sid="10" pm="."><plain>Further validation and refinement of these findings would allow for more appropriate ICU resource utilisation </plain></SENT>
+</text></document>

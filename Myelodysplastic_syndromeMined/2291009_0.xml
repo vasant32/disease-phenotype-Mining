@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The nosography of the dyserythropoietic syndromes remains poorly defined in the field of clinical hematology </plain></SENT>
+<SENT sid="1" pm="."><plain>The prominent pathophysiologic feature lies in the "<z:hpo ids='HP_0010972'>ineffective erythropoiesis</z:hpo>" as expressed by bone marrow <z:hpo ids='HP_0012132'>erythroid hyperplasia</z:hpo> with <z:mpath ids='MPATH_589'>dysplasia</z:mpath> accompanied by a <z:mpath ids='MPATH_458'>normal</z:mpath> or only slightly <z:hpo ids='HP_0001923'>increased reticulocyte count</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>Both erythrokinetics and ferrokinetics are impaired, as shown by either slight reduction of the red cell survival or marked increased rate of serum iron transport together with reduced cellular iron utilization </plain></SENT>
+<SENT sid="3" pm="."><plain>The dyserythropoietic syndromes can be classified as acquired, secondary or congenital </plain></SENT>
+<SENT sid="4" pm="."><plain>The acquired ones, especially the sideroblastic forms, belonging to the <z:hpo ids='HP_0002863'>myelodysplastic syndromes</z:hpo>, are typical of the elderly whereas the congenital are of childhood </plain></SENT>
+<SENT sid="5" pm="."><plain>Their treatment is still a matter of controversy </plain></SENT>
+<SENT sid="6" pm="."><plain>However, the employment of <z:chebi fb="9" ids="27470">folic acid</z:chebi>, Vit </plain></SENT>
+<SENT sid="7" pm="."><plain><z:chebi fb="13" ids="33611">B12</z:chebi>, <z:chebi fb="5" ids="16709">pyridoxine</z:chebi> and <z:chebi fb="5" ids="50113">androgens</z:chebi> can be useful in selected cases </plain></SENT>
+<SENT sid="8" pm="."><plain>In case of severe <z:hpo ids='HP_0001903'>anemia</z:hpo>, blood transfusion are required in association with iron chelating agents </plain></SENT>
+<SENT sid="9" pm="."><plain>However, some biological molecules, such as erythropoietin, interleukins 3 and 4, hemopoietic growth factors (especially GM-CSF), could represent future prospects of treatment </plain></SENT>
+</text></document>

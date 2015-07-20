@@ -1,0 +1,19 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Approximately one-fourth of patients who could benefit from bone marrow transplantation (BMT) are served by a genotypically identical sibling donor </plain></SENT>
+<SENT sid="1" pm="."><plain>When patients do not have an HLA-matched donor, alternative marrow sources should be explored </plain></SENT>
+<SENT sid="2" pm="."><plain>The way to allow survival in some patients is to perform two- or three loci HLA mismatched BMT </plain></SENT>
+<SENT sid="3" pm="."><plain>Preliminary results with BMT in partially-matched, related donors performed at Veterans General Hospital-Taipei are reported </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS: Between 1985 and 1994, a total of 121 patients were enrolled in this study </plain></SENT>
+<SENT sid="5" pm="."><plain>Ten patients received BMT with HLA partially-matched, related donor, including 2 <z:hpo ids='HP_0011009'>acute</z:hpo> nonlymphocytic <z:hpo ids='HP_0001909'>leukemia</z:hpo> (ANLL), 5 <z:hpo ids='HP_0011010'>chronic</z:hpo> myelocytic <z:hpo ids='HP_0001909'>leukemia</z:hpo> (<z:mp ids='MP_0005481'>CML</z:mp>) and 3 severe <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> (SAA) </plain></SENT>
+<SENT sid="6" pm="."><plain>Three and four hematologically malignant patients received <z:chebi fb="0" ids="4027">cyclophosphamide</z:chebi> (Cy) + radiotherapy (RT) and Cy + <z:chebi fb="0" ids="28901">Busulfan</z:chebi>(Bu) preconditioning regimens, respectively; three SAA patients received standard Cy + RT regimen </plain></SENT>
+<SENT sid="7" pm="."><plain>Additional prophylaxis against <z:e sem="disease" ids="C0018133" disease_type="Disease or Syndrome" abbrv="GVH">graft-versus-host disease</z:e> (GVHD) consisted of <z:chebi fb="0" ids="44185">methotrexate</z:chebi> (MTX) and <z:chebi fb="0" ids="4031">cyclosporin-A</z:chebi> (CSA) </plain></SENT>
+<SENT sid="8" pm="."><plain>The median follow up was 36 months </plain></SENT>
+<SENT sid="9" pm="."><plain>Seven were 2-loci disparate and 3 were 3-loci </plain></SENT>
+<SENT sid="10" pm="."><plain>RESULTS: Engraftment developed with a mean of 20.9 days after transplant </plain></SENT>
+<SENT sid="11" pm="."><plain>Nonengraftment rate was 1/10 (10%), delayed graft failure 2/10(20%) and venoocculsive disease (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">VOD</z:e>) 1/10(10%) </plain></SENT>
+<SENT sid="12" pm="."><plain>The percentage of patients who developed grade II to IV <z:hpo ids='HP_0011009'>acute</z:hpo> GVHD was low (13.6% of those mismatched at 0 locus, 31.6% mismatched at 1 loci and 14.3% at &gt; or = 2 loci. p = 0.181) </plain></SENT>
+<SENT sid="13" pm="."><plain>Extensive <z:hpo ids='HP_0011010'>chronic</z:hpo> GVHD occurred in 16.7% (34.1% of those mismatched at 0 locus, 41.2% mismatched at 1 loci and 16.7% at 2 loci. p = 0.492) </plain></SENT>
+<SENT sid="14" pm="."><plain>There were five <z:hpo ids='HP_0011420'>deaths</z:hpo> </plain></SENT>
+<SENT sid="15" pm="."><plain>The other 5 still survived at 36 months of follow-up </plain></SENT>
+<SENT sid="16" pm="."><plain>Log-rank analysis revealed no statistical significance between those mismatched at &gt; or = 2 vs at 1 (p = 0.146) but the difference between those mismatched at &gt; or = 2 and at 0 (p = 0.0359) was statistically significant </plain></SENT>
+<SENT sid="17" pm="."><plain>CONCLUSIONS: When patients requiring BMT without an HLA identical sibling donor, an alternative transplant from haploidentical family members remains a viable option, especially when a patient has <z:mp ids='MP_0005481'>CML</z:mp>, SAA or other <z:e sem="disease" ids="C1335724" disease_type="Neoplastic Process" abbrv="">refractory hematologic malignancies</z:e> </plain></SENT>
+</text></document>

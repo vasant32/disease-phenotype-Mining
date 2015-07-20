@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: To compare medical expenditures of patients receiving old and new <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e>) regimens </plain></SENT>
+<SENT sid="1" pm="."><plain>STUDY DESIGN: Using claims data, we identified 2 cohorts of privately insured patients diagnosed with <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e>: first, those diagnosed before new treatment introduction (January 1, 2002, to December 31, 2002), and second, those diagnosed after new treatment introduction (June 1, 2004, to May 31, 2005) </plain></SENT>
+<SENT sid="2" pm="."><plain><z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e> diagnosis was identified using International Classification of Diseases-9 codes 153.xx, 154.xx, and 159.0 </plain></SENT>
+<SENT sid="3" pm="."><plain>First- and second-line chemotherapy regimens were identified </plain></SENT>
+<SENT sid="4" pm="."><plain>Treatments and expenditures were then observed for up to 2 years after initial diagnosis </plain></SENT>
+<SENT sid="5" pm="."><plain>METHODS: We estimated multivariate models to measure changes in cost with changes in treatment regimen </plain></SENT>
+<SENT sid="6" pm="."><plain>Approval dates of new regimens were used as natural experiments </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: New regimens, such as fluorouracil, leucovorin, and <z:chebi fb="0" ids="31941">oxaliplatin</z:chebi> (FOLFOX), have rapidly replaced the most prevalent preperiod product (ie, fluorouracil/leucovorin) </plain></SENT>
+<SENT sid="8" pm="."><plain>Changes in treatment have caused large increases in total expenditure, primarily through increases in chemotherapy prices </plain></SENT>
+<SENT sid="9" pm="."><plain>FOLFOX alone has increased total average cost by 14% </plain></SENT>
+<SENT sid="10" pm="."><plain>New treatments have not substituted for other medical services; rather, they have indirectly raised costs through nonstandard regimen use and increases in second-line treatment use </plain></SENT>
+<SENT sid="11" pm="."><plain>We found no evidence that expenditure effects were driven by changes in follow-up duration </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSION: New <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e> treatments have increased both regimen choice and expenditures </plain></SENT>
+<SENT sid="13" pm="."><plain>New regimens have primarily increased expenditures through direct treatment costs; we observed no offsetting expenditure reductions </plain></SENT>
+</text></document>

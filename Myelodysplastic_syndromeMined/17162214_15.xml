@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>One hundred thirty-eight patients with <z:e sem="disease" ids="C0376545" disease_type="Neoplastic Process" abbrv="">hematologic malignancies</z:e> received myeloablative T cell-depleted peripheral blood stem cell transplant (PBSCT) from an HLA-identical sibling donor </plain></SENT>
+<SENT sid="1" pm="."><plain>The T cell dose was adjusted to 0.2-1 x 10(5) CD3(+) cells/kg </plain></SENT>
+<SENT sid="2" pm="."><plain>The CD34 dose was 2.7-16 x 10(6)/kg </plain></SENT>
+<SENT sid="3" pm="."><plain>Patients with <z:hpo ids='HP_0011009'>acute</z:hpo> <z:e sem="disease" ids="C0018133" disease_type="Disease or Syndrome" abbrv="GVH">graft-versus-host disease</z:e> (GVHD) grade &lt;2 received 1 or 2 donor lymphocyte infusions of 10(7) CD3(+) cells/kg between days 45 and 100 </plain></SENT>
+<SENT sid="4" pm="."><plain>Patients were designated according to relapse probability as standard or high relapse risk (77 and 61, respectively) </plain></SENT>
+<SENT sid="5" pm="."><plain>Overall survival (OS), relapse-free survival, relapse, and transplant-related mortality (TRM) were 58%, 46%, 40%, and 20%, respectively, after a median follow-up of 4 years </plain></SENT>
+<SENT sid="6" pm="."><plain>Fifty-three (39%) and 21 (15%) patients developed grade 2-4 and 3-4 <z:hpo ids='HP_0011009'>acute</z:hpo> GVHD </plain></SENT>
+<SENT sid="7" pm="."><plain>Forty-two (36%) had limited and 29 (25%) had extensive <z:hpo ids='HP_0011010'>chronic</z:hpo> GVHD </plain></SENT>
+<SENT sid="8" pm="."><plain>In multivariate analysis, disease risk was an independent factor for OS and relapse, day-30 lymphocyte count for OS and TRM, and <z:hpo ids='HP_0011010'>chronic</z:hpo> GVHD for OS and relapse </plain></SENT>
+<SENT sid="9" pm="."><plain>PBSCT with early T cell add back leads to comparable rates of <z:hpo ids='HP_0011010'>chronic</z:hpo> GVHD compared with T cell-replete PBSCT </plain></SENT>
+<SENT sid="10" pm="."><plain>However, this <z:hpo ids='HP_0011010'>chronic</z:hpo> GVHD after T cell add back is associated with less mortality and retains a protective effect in terms of relapse, at least in the standard-risk patients </plain></SENT>
+</text></document>

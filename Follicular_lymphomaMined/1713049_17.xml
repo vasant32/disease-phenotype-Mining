@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Thirty-four patients with previously treated, advanced, low grade NHL were treated with Fludarabine, a deamination-resistant analogue of <z:chebi fb="3" ids="16335">adenosine</z:chebi> <z:chebi fb="0" ids="22601">arabinoside</z:chebi>, at a dose of 25 mg m-2 intravenously, daily for 5 days (median number of cycles = 3, range 1-10) </plain></SENT>
+<SENT sid="1" pm="."><plain>Complete remission (CR) was achieved in six and partial remission (PR) in a further seven </plain></SENT>
+<SENT sid="2" pm="."><plain>Overall, responses were seen in 11/23 patients (48%) with follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo> and in 2/11 (18%) with low grade, diffuse NHL </plain></SENT>
+<SENT sid="3" pm="."><plain>Fifteen patients with previously treated CLL and one patient with prolymphocytic <z:mpath ids='MPATH_336'>leukaemia</z:mpath> (<z:chebi fb="1" ids="53412">PLL</z:chebi>) were also treated as above (median no. of cycles = 3, range 1-6) </plain></SENT>
+<SENT sid="4" pm="."><plain>A partial response was seen in three of the 11 evaluable patients with CLL and CR was achieved in the patient with <z:chebi fb="1" ids="53412">PLL</z:chebi> </plain></SENT>
+<SENT sid="5" pm="."><plain>There were four <z:hpo ids='HP_0011420'>deaths</z:hpo> due to <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infection</z:e> and 19 further episodes requiring admission to hospital </plain></SENT>
+<SENT sid="6" pm="."><plain>No other significant toxicity was reported in a total of 164 cycles of Fludarabine </plain></SENT>
+<SENT sid="7" pm="."><plain>This agent is active in advanced low grade lymphoid <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">malignancy</z:e> </plain></SENT>
+<SENT sid="8" pm="."><plain>Further studies are required to assess its role in newly diagnosed patients </plain></SENT>
+</text></document>

@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PURPOSE: To determine if 100% oxygen <z:chebi fb="0" ids="27140">(O2)</z:chebi> inhalation induces ischemic tolerance to focal <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> and if the effect is induced via O2 free radical formation </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: Experiment 1: 36 rats were randomly assigned to four groups (n = 9 each): Group A, control rats inhaled air for 24 hr; Groups B, C and D animals inhaled 100% O2 for six hours, 12 hr and 24 hr respectively </plain></SENT>
+<SENT sid="2" pm="."><plain>Experiment 2: 32 rats were randomly assigned to four groups (n = 8 each): Groups E and F rats received <z:mpath ids='MPATH_458'>normal</z:mpath> saline (5 mL.kg(-1) intraperitoneally) and then inhaled air (Group E) or 100% O2 (Group F) for 24 hr; Groups G and H animals received 10% dimethylthiourea (500 mg.kg(-1) intraperitoneally) and then inhaled 100% O2 (Group G) or air (Group H) for 24 hr </plain></SENT>
+<SENT sid="3" pm="."><plain>Twenty-four hours after the treatments, the right middle cerebral artery was occluded in <z:hpo ids='HP_0000001'>all</z:hpo> rats for 120 min </plain></SENT>
+<SENT sid="4" pm="."><plain>The neurologic deficit scores (NDS) and brain <z:mpath ids='MPATH_124'>infarct</z:mpath> volumes were evaluated at 24 hr after reperfusion </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: Experiment 1: the <z:mpath ids='MPATH_124'>infarct</z:mpath> volume and NDS of Group D were smaller than in controls (P = 0.004 and 0.042 respectively) </plain></SENT>
+<SENT sid="6" pm="."><plain>The <z:mpath ids='MPATH_124'>infarct</z:mpath> volume was reduced by 47% in Group D </plain></SENT>
+<SENT sid="7" pm="."><plain>There was no statistical difference among Groups A, B and C </plain></SENT>
+<SENT sid="8" pm="."><plain>Experiment 2: the <z:mpath ids='MPATH_124'>infarct</z:mpath> volume and NDS in Group F were less than in controls (Group E; P = 0.001 and 0.036 respectively) </plain></SENT>
+<SENT sid="9" pm="."><plain>The <z:mpath ids='MPATH_124'>infarct</z:mpath> volume was reduced by 60% in Group F </plain></SENT>
+<SENT sid="10" pm="."><plain>There was no difference among Groups E, G and H </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSION: Our study demonstrates that preconditioning with 100% O2 for 24 hr can induce ischemic tolerance via formation of O2 free radicals in transient focal <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> in rats </plain></SENT>
+</text></document>

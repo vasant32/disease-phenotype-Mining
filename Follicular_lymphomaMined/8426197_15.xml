@@ -1,0 +1,18 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PURPOSE: Our purpose was to describe the treatment outcome of patients with follicular large-cell <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (FLCL) and to identify prognostic factors that affect the treatment outcome </plain></SENT>
+<SENT sid="1" pm="."><plain>PATIENTS AND METHODS: Between 1980 and 1991, 107 newly diagnosed, previously untreated patients with FLCL were prospectively treated using treatment plans of the Nebraska <z:hpo ids='HP_0002665'>Lymphoma</z:hpo> Study Group (NLSG) </plain></SENT>
+<SENT sid="2" pm="."><plain>Most stage I/II patients received two to three cycles of one of four closely related six-drug combination chemotherapy regimens (<z:chebi fb="0" ids="4027">cyclophosphamide</z:chebi>, <z:chebi fb="0" ids="28748">doxorubicin</z:chebi> or <z:chebi fb="0" ids="50729">mitoxantrone</z:chebi>, and procarbazine, plus <z:chebi fb="0" ids="3139">bleomycin</z:chebi>, <z:chebi fb="0" ids="28445">vincristine</z:chebi>, and <z:chebi fb="0" ids="8382">prednisone</z:chebi> or <z:chebi fb="0" ids="41879">dexamethasone</z:chebi> [CAP/BOP I-IV]) plus involved-field radiotherapy; 10 patients received involved-field irradiation only </plain></SENT>
+<SENT sid="3" pm="."><plain>Stage III/IV patients received six to eight cycles of CAP/BOP </plain></SENT>
+<SENT sid="4" pm="."><plain>RESULTS: Forty-four percent of patients had stage I/II disease </plain></SENT>
+<SENT sid="5" pm="."><plain>Stage I/II patients were older and more often female than stage III/IV patients </plain></SENT>
+<SENT sid="6" pm="."><plain>Cytogenetic studies were available on 35 patients: seven were <z:mpath ids='MPATH_458'>normal</z:mpath>; the most common abnormality was a translocation involving 14q32 </plain></SENT>
+<SENT sid="7" pm="."><plain>Abnormalities of 1p or 1q were also common, often secondary to a 14q32 abnormality </plain></SENT>
+<SENT sid="8" pm="."><plain>The median follow-up of surviving patients is 2 years </plain></SENT>
+<SENT sid="9" pm="."><plain>The complete response rates observed were stage I/II, 88%; stage III/IV, 49% </plain></SENT>
+<SENT sid="10" pm="."><plain>Complete response rates were affected by both age and <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> bulk </plain></SENT>
+<SENT sid="11" pm="."><plain>Failure-free survival (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">FFS</z:e>; time to first occurrence of progression, relapse after response, or <z:hpo ids='HP_0011420'>death</z:hpo> from any cause) at 3 years was estimated to be 61% for stage I/II patients and 34% for stage III/IV patients </plain></SENT>
+<SENT sid="12" pm="."><plain>Survival at 3 years was estimated to be 76% and 61%, respectively </plain></SENT>
+<SENT sid="13" pm="."><plain><z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">FFS</z:e> of stage III/IV patients was poorer for stage IV patients and those with composite <z:hpo ids='HP_0002665'>lymphomas</z:hpo> </plain></SENT>
+<SENT sid="14" pm="."><plain>Significantly poorer survival was only seen in patients older than 70 years of age </plain></SENT>
+<SENT sid="15" pm="."><plain>CONCLUSION: A proportion of stage I/II FLCL patients may obtain long-term disease control with combination chemotherapy plus radiotherapy </plain></SENT>
+<SENT sid="16" pm="."><plain>Results for patients with stage III/IV FLCL are similar to those seen for other follicular <z:hpo ids='HP_0002665'>lymphomas</z:hpo> </plain></SENT>
+</text></document>

@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: <z:e sem="disease" ids="C0004763" disease_type="Disease or Syndrome" abbrv="CELLO">Barrett's oesophagus</z:e> (BE) is a metaplastic condition of the distal oesophagus which predisposes to oesophageal <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> (EAC) </plain></SENT>
+<SENT sid="1" pm="."><plain>It has been suggested that microRNAs (miRNAs) are involved in the process of development of BE and EAC; however, few functional miRNA data are available </plain></SENT>
+<SENT sid="2" pm="."><plain>The aim of the study was to perform a tissue-specific miRNA profile and, based on this, to examine the function of miRNA-145 in the oesophagus </plain></SENT>
+<SENT sid="3" pm="."><plain>DESIGN: miRNA expression profiling using microarray analysis in EAC, BE and <z:mpath ids='MPATH_458'>normal</z:mpath> squamous epithelium of the oesophagus (SQ) was performed and validated using real-time PCR in samples from 15 patients and in situ hybridisation in samples from 10 patients </plain></SENT>
+<SENT sid="4" pm="."><plain>The proliferative effect of miRNA-145 precursor transfection in the SQ (HET-1A) and BE cell line (BAR-T) was measured </plain></SENT>
+<SENT sid="5" pm="."><plain>Downstream targets of miRNA-145 were determined by analysing <z:chebi fb="2" ids="33699">mRNA</z:chebi> and protein expression from miRNA-145 transfected cells </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: Three unique miRNA expression profiles were found in tissue from EAC, BE and SQ, which showed that miRNA-145 was upregulated in BE compared with EAC and SQ </plain></SENT>
+<SENT sid="7" pm="."><plain>Overexpression of miRNA-145 in HET-1A and BAR-T cells <z:mp ids='MP_0000352'>reduced cell proliferation</z:mp> and inhibited GATA6, BMP4 and SOX9 <z:chebi fb="2" ids="33699">mRNA</z:chebi> expression </plain></SENT>
+<SENT sid="8" pm="."><plain>Furthermore, altered BMP4 signalling was observed in vitro on miRNA-145 overexpression </plain></SENT>
+<SENT sid="9" pm="."><plain>These effects were blocked when cells were co-transfected with a miRNA-145 specific inhibitor </plain></SENT>
+<SENT sid="10" pm="."><plain>Additionally, BMP4 incubation of HET-1A cells altered miRNA-145 and GATA6 expression over time </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSION: These results imply that miRNA-145 indirectly targets BMP4 via GATA6 and is potentially involved in the development of BE </plain></SENT>
+</text></document>

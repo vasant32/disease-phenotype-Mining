@@ -1,0 +1,22 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Recent identification of mutations in the beta-myosin heavy chain gene (MYH7), a major responsible gene for HCM, has provided the opportunity to characterize genotype-phenotype correlation in HCM families </plain></SENT>
+<SENT sid="1" pm="."><plain>In this study we analysed the phenotypic expression of two beta-myosin heavy chain (beta MHC) mutations in three unrelated HCM families </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: Living individuals from three unrelated HCM families (Families 1, 2, and 3) were screened by history, physical examination, electrocardiography, and two-dimensional echocardiography </plain></SENT>
+<SENT sid="3" pm="."><plain>Blood was collected from <z:hpo ids='HP_0000001'>all</z:hpo> individuals for DNA extraction </plain></SENT>
+<SENT sid="4" pm="."><plain>Polymerase chain reaction (PCR), restriction endonuclease digestion and chemical cleavage were utilized for detection of mutations </plain></SENT>
+<SENT sid="5" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> mutations were confirmed by sequence analysis </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: Identification of mutations: A missense mutation in exon 13 of the beta MHC gene (Arg403 Gln) was detected in HCM patients from Families 1 and 2 </plain></SENT>
+<SENT sid="7" pm="."><plain>PCR amplification of the exon 13 DNA, followed by Ddel digestion of the PCR product and gel electrophoresis, showed two fragments of 84 and 70 bp in <z:mpath ids='MPATH_458'>normal</z:mpath> individuals and four fragments of 84, 70, 52 and 32 bp in HCM patients </plain></SENT>
+<SENT sid="8" pm="."><plain>Sequence analysis showed substitution of an <z:chebi fb="1" ids="16708">adenine</z:chebi> for <z:chebi fb="1" ids="16235">guanine</z:chebi> at coding position 1208 </plain></SENT>
+<SENT sid="9" pm="."><plain>In Family 3, a missense mutation in exon 16 of the beta MHC gene (Val606 Met) was detected in HCM patients </plain></SENT>
+<SENT sid="10" pm="."><plain>Chemical cleavage of the PCR products showed an uncleaved product of 337 bp in the <z:mpath ids='MPATH_458'>normal</z:mpath> individuals, while in the affected individuals, in addition to the uncleaved product, a 90 bp cleaved product was also detected, indicating the presence of a mismatch in one allele </plain></SENT>
+<SENT sid="11" pm="."><plain>Sequence analysis showed substitution of an <z:chebi fb="1" ids="16708">adenine</z:chebi> for <z:chebi fb="1" ids="16235">guanine</z:chebi> in coding position 1817 </plain></SENT>
+<SENT sid="12" pm="."><plain>CLINICAL CHARACTERISTICS: Seven members of Family 1 had HCM, of whom five are alive </plain></SENT>
+<SENT sid="13" pm="."><plain>One patient died from <z:hpo ids='HP_0001645'>sudden cardiac death</z:hpo> (SCD) and another from recurrent <z:e sem="disease" ids="C0007780" disease_type="Disease or Syndrome" abbrv="">cerebral emboli</z:e> </plain></SENT>
+<SENT sid="14" pm="."><plain>In Family 2, 15 individuals had HCM of whom nine have died, seven from SCD </plain></SENT>
+<SENT sid="15" pm="."><plain>The mean age at the time of SCD was 33 years </plain></SENT>
+<SENT sid="16" pm="."><plain>The third family is comprised of 11 affected individuals and one obligate carrier, of whom one patient died at age 17 from progressive <z:hpo ids='HP_0001635'>heart failure</z:hpo> </plain></SENT>
+<SENT sid="17" pm="."><plain>Two additional individuals in this family have also succumbed to SCD to age 60 </plain></SENT>
+<SENT sid="18" pm="."><plain>A variety of clinical and echocardiographic manifestations of HCM were present in each family </plain></SENT>
+<SENT sid="19" pm="."><plain>Logrank test of Kaplan-Meier survival curves indicates that Arg403 Gln mutation was associated with a poor prognosis in HCM families as compared to Val606 Met (P = 0.034) </plain></SENT>
+<SENT sid="20" pm="."><plain>CONCLUSIONS: beta MHC mutations despite showing variable clinical and echocardiographic manifestations of HCM are predictors of survival in HCM families </plain></SENT>
+</text></document>

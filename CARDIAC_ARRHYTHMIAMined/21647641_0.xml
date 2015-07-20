@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PURPOSE: This study aims to evaluate a method to detect heart rate variability (HRV) changes using short ECG segments during ablation for <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: HRV was averaged from sequentially shorter time windows from 5-min ECG recordings in 15 healthy volunteers </plain></SENT>
+<SENT sid="2" pm="."><plain>The 40-s window was identified as the shortest duration that yielded reproducible values in high frequency (HF) and low frequency (LF) HRV </plain></SENT>
+<SENT sid="3" pm="."><plain>This method was validated in patients undergoing tilt table testing to see if the expected modulation in HRV that occurs prior to <z:hpo ids='HP_0001279'>syncope</z:hpo> could be detected from multiple 40-s recordings </plain></SENT>
+<SENT sid="4" pm="."><plain>Lastly, this method was used to assess HRV changes in 75 patients undergoing ablation for <z:hpo ids='HP_0005110'>atrial fibrillation</z:hpo> (AF) and other <z:hpo ids='HP_0011675'>arrhythmias</z:hpo>, to see if autonomic modulation as a result of ablation could be detected </plain></SENT>
+<SENT sid="5" pm="."><plain>A further 14 patients had stepwise HRV measurements at different stages of the AF ablation procedure to determine whether intra-procedural HRV changes could be detected </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: HRV, averaged from multiple 40-s recordings, demonstrated the expected increase immediately preceding <z:hpo ids='HP_0001279'>syncope</z:hpo> compared with baseline (LF: 341 ± 311-1,536 ± 1,368 ms(2), p&lt; 0.05; HF: 342 ± 339-1,628 ± 1,755 ms(2), p &lt; 0.05) </plain></SENT>
+<SENT sid="7" pm="."><plain>AF ablation, particularly following right pulmonary vein circumferential ablation, produced immediately detectable reductions in LF (153 ± 251-50 + 116 ms(2), p &lt; 0.001) and HF (86 ± 195-33 ± 83 ms(2), p &lt; 0.001) without any change in RR interval (877 ± 191-843 ± 220 ms, p = 0.261) </plain></SENT>
+<SENT sid="8" pm="."><plain>Ablation for <z:hpo ids='HP_0004749'>atrial flutter</z:hpo> did not change the mean RR interval, LF or HF HRV </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSION: Averaging multiple 40-s windows give valid HF and LF HRV measurements that enable detection of intra-procedural changes </plain></SENT>
+<SENT sid="10" pm="."><plain>Left atrial ablation around the right-sided pulmonary veins is unique in producing reductions in HRV </plain></SENT>
+<SENT sid="11" pm="."><plain>This method has the potential for use as an endpoint marker for adjunctive autonomic ablation procedures </plain></SENT>
+</text></document>

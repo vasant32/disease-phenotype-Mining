@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Although apoptotic pathways play important roles in ischemic neuronal injury, exact mechanism of apoptotic enzyme cascade has not been fully studied </plain></SENT>
+<SENT sid="1" pm="."><plain>Immunohistochemical stainings for <z:chebi fb="1" ids="18070">cytochrome c</z:chebi> and caspase-3, and histochemical staining for a terminal deoxynucleotidyl-transferase (TdT)-mediated <z:chebi fb="0" ids="17625">dUTP</z:chebi>-<z:chebi fb="1" ids="15956">biotin</z:chebi> nick end-labeling method (TUNEL) were examined in a rat model of permanent middle cerebral artery (<z:chebi fb="70" ids="34342">MCA</z:chebi>) occlusion </plain></SENT>
+<SENT sid="2" pm="."><plain><z:chebi fb="1" ids="18070">Cytochrome c</z:chebi> was strongly induced in neurons of the ischemic penumbra from 3 h after <z:chebi fb="70" ids="34342">MCA</z:chebi> occlusion, and caspase-3 began to be induced in the same area from 3 h with a peak at 8 h </plain></SENT>
+<SENT sid="3" pm="."><plain>Neuronal cells in <z:chebi fb="70" ids="34342">MCA</z:chebi> area became TUNEL positive at delayed time, reaching a peak at 24 h </plain></SENT>
+<SENT sid="4" pm="."><plain>Thus, the peak of induction of <z:chebi fb="1" ids="18070">cytochrome c</z:chebi> preceded that of caspase-3, and these two peaks were also precedence of the peak of DNA-fragmentation </plain></SENT>
+<SENT sid="5" pm="."><plain>Western blot analysis showed cytosolic expression of <z:chebi fb="1" ids="18070">cytochrome c</z:chebi> from mitochondria </plain></SENT>
+<SENT sid="6" pm="."><plain>This study demonstrated 1 </plain></SENT>
+<SENT sid="7" pm="."><plain>Rapid release of <z:chebi fb="1" ids="18070">cytochrome c</z:chebi> from mitochondria to the cytosol, mainly in neurons of the cortex at 3 h after <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> </plain></SENT>
+<SENT sid="8" pm="."><plain>2 </plain></SENT>
+<SENT sid="9" pm="."><plain>Subsequent peaks of caspase-3 and TUNEL in this order </plain></SENT>
+<SENT sid="10" pm="."><plain>These temporal profiles suggest a serial cascadic activation of apoptotic pathways in neuronal <z:hpo ids='HP_0011420'>death</z:hpo> after permanent <z:chebi fb="70" ids="34342">MCA</z:chebi> occlusion of rats </plain></SENT>
+</text></document>

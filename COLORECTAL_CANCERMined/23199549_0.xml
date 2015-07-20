@@ -1,0 +1,18 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Little information exists on Kras mutations and p53 overexpression in <z:mpath ids='MPATH_303'>pseudomyxoma peritonei</z:mpath> (<z:chebi fb="5" ids="38786">PMP</z:chebi>) </plain></SENT>
+<SENT sid="1" pm="."><plain>These genetic alterations are associated with poorer prognoses in <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> </plain></SENT>
+<SENT sid="2" pm="."><plain>We postulated that these mutations might be more frequent in high-grade (HG) <z:chebi fb="5" ids="38786">PMP</z:chebi> (peritoneal mucinous <z:e sem="disease" ids="C0205699" disease_type="Neoplastic Process" abbrv="">carcinomatosis</z:e>) versus low-grade (LG) <z:chebi fb="5" ids="38786">PMP</z:chebi> (disseminated peritoneal adenomucinosis/peritoneal mucinous <z:e sem="disease" ids="C0205699" disease_type="Neoplastic Process" abbrv="">carcinomatosis</z:e>), for which survival differences are well documented </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: We collected data retrospectively on patients with <z:chebi fb="5" ids="38786">PMP</z:chebi> of appendiceal origin tested for Kras mutation (commercial assay) and p53 overexpression (immunohistochemistry) </plain></SENT>
+<SENT sid="4" pm="."><plain>We used Fisher's exact test, chi-square test, and Kaplan-Meier survival curves for analysis </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: Of 64 cases with Kras mutations, 25 were classified as LG and 39 as HG <z:chebi fb="5" ids="38786">PMP</z:chebi> </plain></SENT>
+<SENT sid="6" pm="."><plain>Median age at diagnosis was 53 ± 11.5 y </plain></SENT>
+<SENT sid="7" pm="."><plain>We detected Kras mutations in 37 of 64 patients (57.8%) </plain></SENT>
+<SENT sid="8" pm="."><plain>In LG <z:chebi fb="5" ids="38786">PMP</z:chebi>, 15 of 25 (60%) were Kras mutant versus 22 of 39 (56.4%) in HG <z:chebi fb="5" ids="38786">PMP</z:chebi> (P=0.80) </plain></SENT>
+<SENT sid="9" pm="."><plain>Nearly 89% of mutations were seen in codon 12 </plain></SENT>
+<SENT sid="10" pm="."><plain>We noted overexpression of p53 in 44.3% (86 of 194) of patients overall, which was significantly different between LG <z:chebi fb="5" ids="38786">PMP</z:chebi> and HG <z:chebi fb="5" ids="38786">PMP</z:chebi>: 35.5% (37 of 104) versus 54.4% (49 of 90), respectively (P=0.009) </plain></SENT>
+<SENT sid="11" pm="."><plain>Kras mutations did not affect prognosis </plain></SENT>
+<SENT sid="12" pm="."><plain>Overexpression of p53 was associated with a worse outcome </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSIONS: Kras mutation and p53 overexpression rates are comparable to those of colorectal <z:mpath ids='MPATH_270'>adenomas</z:mpath> and mucinous <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> </plain></SENT>
+<SENT sid="14" pm="."><plain>Codon 12 mutations may be associated with mucin production </plain></SENT>
+<SENT sid="15" pm="."><plain>Kras mutation status is not prognostic for overall survival </plain></SENT>
+<SENT sid="16" pm="."><plain>Overexpression of p53 was significantly correlated with female sex, higher-grade disease, and worse survival </plain></SENT>
+</text></document>

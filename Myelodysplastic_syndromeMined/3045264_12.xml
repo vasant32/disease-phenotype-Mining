@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Two hundred fifty-seven eligible patients with stage I, IIA "high risk" <z:mp ids='MP_0003579'>ovarian carcinoma</z:mp> and IIB, IIIO (disease confined to pelvis), were randomized to either total abdominal radiotherapy (arm A) 2,250 rad in 20 fractions (107 patients), melphalan (arm B) 8 mg/m2/d X 4 every 4 weeks X 18 courses (106 patients), or intraperitoneal chromic phosphate (arm C) 10 to 20 mCi (44 patients) </plain></SENT>
+<SENT sid="1" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> patients were initially treated with pelvic radiotherapy; arm A, 2,250 rad in ten fractions; and arms B and C, 4,500 rad in 20 fractions </plain></SENT>
+<SENT sid="2" pm="."><plain>Entry to arm C was discontinued early because of toxicity </plain></SENT>
+<SENT sid="3" pm="."><plain>In a multifactor analysis using proportional hazards models, no significant difference in survival was observed although there was a marginally significant difference in disease-free survival (P = .015) with arm B being superior to arm A </plain></SENT>
+<SENT sid="4" pm="."><plain>Stage (P less than .0001), grade (P less than .0001), and histology (P less than .008) were predictors of survival in the multifactor analysis </plain></SENT>
+<SENT sid="5" pm="."><plain>Performance status, age, and <z:e sem="disease" ids="C0543478" disease_type="Neoplastic Process" abbrv="">residual disease</z:e> were significant predictors in the single factor analysis but were not predictive when correction was made for the effects of stage, grade, and histology </plain></SENT>
+<SENT sid="6" pm="."><plain>Five-year survival rates are 62% for arm A, 61% for arm B, and 66% for arm C </plain></SENT>
+<SENT sid="7" pm="."><plain>Median duration of follow-up is 8 years </plain></SENT>
+<SENT sid="8" pm="."><plain>Long-term complications of radiotherapy were seen in 19 patients on arm A, 11 on arm B, and 11 on arm C </plain></SENT>
+<SENT sid="9" pm="."><plain>Four patients who had received melphalan developed either a <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo> or <z:hpo ids='HP_0002488'>acute leukemia</z:hpo> </plain></SENT>
+<SENT sid="10" pm="."><plain>Violations in covering the whole abdominal target volume were correlated with survival </plain></SENT>
+</text></document>

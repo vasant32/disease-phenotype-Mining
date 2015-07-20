@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The antigen receptor on B lymphocytes is composed of membrane immunoglobulin sheathed by an alpha/beta heterodimer </plain></SENT>
+<SENT sid="1" pm="."><plain>This structure is in several respects analogous to the antigen receptor on T cells except that, in the case of the T cell but not the B cell receptor, several receptor-associated proteins have been described which may modulate the effects of antigen interaction (e.g. CD4, CD8, CD2 and CD5) </plain></SENT>
+<SENT sid="2" pm="."><plain>To screen for specific associations with the B cell antigen receptor that might be of only low stoichiometry, we have exploited the sensitivity of in vitro kinase assays </plain></SENT>
+<SENT sid="3" pm="."><plain>We show that the B cell antigen receptor associates with CD22 </plain></SENT>
+<SENT sid="4" pm="."><plain>The association is specific and stable, but Western blotting reveals it to be of low stoichiometry (0.2 to 2% of membrane immunoglobulin is CD22 associated) </plain></SENT>
+<SENT sid="5" pm="."><plain>The CD22/antigen receptor association was demonstrated with multiple isotypes (IgM, IgD and IgG) and was evident both in Burkitt <z:hpo ids='HP_0002665'>lymphoma</z:hpo> lines and in tonsil cells </plain></SENT>
+<SENT sid="6" pm="."><plain>Whilst the significance of the association is unknown, it is notable that CD22 is a B cell-specific <z:e sem="disease" ids="C0001511" disease_type="Disease or Syndrome;Acquired Abnormality" abbrv="">adhesion</z:e> molecule which we find contains within its cytoplasmic domain a sequence bearing high homology to the "Reth motif" implicated in signal transduction </plain></SENT>
+<SENT sid="7" pm="."><plain>Indeed, CD22 becomes tyrosine phosphorylated less than one minute after antigen-receptor cross-linking </plain></SENT>
+<SENT sid="8" pm="."><plain>Thus, it is tempting to speculate that interactions involving CD22 assist in the antigen-mediated triggering of B cell activation </plain></SENT>
+</text></document>

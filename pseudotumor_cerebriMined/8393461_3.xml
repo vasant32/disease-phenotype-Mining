@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 16-year-old girl developed <z:hpo ids='HP_0002315'>headaches</z:hpo> and bilateral <z:hpo ids='HP_0001085'>papilledema</z:hpo> while taking <z:chebi fb="1" ids="50694">minocycline</z:chebi> for <z:hpo ids='HP_0001061'>acne</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>The initial neuro-ophthalmologic evaluation was <z:mpath ids='MPATH_458'>normal</z:mpath> except for <z:e sem="disease" ids="C0152192" disease_type="Disease or Syndrome" abbrv="">enlarged blind spots</z:e> OU </plain></SENT>
+<SENT sid="2" pm="."><plain>An MRI scan demonstrated subtle abnormalities </plain></SENT>
+<SENT sid="3" pm="."><plain>A lumbar puncture was entirely <z:mpath ids='MPATH_458'>normal</z:mpath> except for an increased opening pressure </plain></SENT>
+<SENT sid="4" pm="."><plain>A tentative diagnosis of <z:e sem="disease" ids="C0033845" disease_type="Disease or Syndrome" abbrv="">pseudotumor cerebri</z:e> was made and the patient was treated with <z:chebi fb="0" ids="27690,31163">Diamox</z:chebi> </plain></SENT>
+<SENT sid="5" pm="."><plain>A second MRI was unchanged, and a lumbar puncture performed while the patient was taking <z:chebi fb="0" ids="27690,31163">Diamox</z:chebi> was entirely <z:mpath ids='MPATH_458'>normal</z:mpath> </plain></SENT>
+<SENT sid="6" pm="."><plain>The patient subsequently lost vision in both eyes, and a third MRI now revealed a supracellar enhancing mass </plain></SENT>
+<SENT sid="7" pm="."><plain>Biopsy and subtotal resection of the mass showed it to be a <z:hpo ids='HP_0100843'>glioblastoma</z:hpo> multiforme </plain></SENT>
+<SENT sid="8" pm="."><plain>This case emphasizes pitfalls in the diagnosis of <z:e sem="disease" ids="C0033845" disease_type="Disease or Syndrome" abbrv="">pseudotumor cerebri</z:e> </plain></SENT>
+<SENT sid="9" pm="."><plain>Careful follow-up and a high index of suspicion in <z:e sem="disease" ids="C0033845" disease_type="Disease or Syndrome" abbrv="">pseudotumor cerebri syndromes</z:e> are essential </plain></SENT>
+</text></document>

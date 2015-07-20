@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Loss of a whole chromosome 5, or a del(5q), is a recurring abnormality in malignant myeloid diseases </plain></SENT>
+<SENT sid="1" pm="."><plain>By cytogenetic and molecular analyses, we delineated previously a 1- to 1.5-Mb region that is deleted in <z:hpo ids='HP_0000001'>all</z:hpo> patients with a del(5q) </plain></SENT>
+<SENT sid="2" pm="."><plain>In our efforts to identify a <z:e sem="disease" ids="C0027022" disease_type="Neoplastic Process" abbrv="MPD">myeloid tumor</z:e> suppressor gene within the commonly deleted segment (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CDS</z:e>), we have cloned and characterized the genes encoding three putative nuclear proteins, each of which contains a bipartite nuclear localization signal (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">NLS</z:e>) </plain></SENT>
+<SENT sid="3" pm="."><plain>In addition, C5ORF5 contains a putative rhoGAP domain at the N-terminus, C5ORF6 has a proline-rich sequence near the N-terminus, and C5ORF7 has a zinc-finger domain that partially overlaps the <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">NLS</z:e> </plain></SENT>
+<SENT sid="4" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> three genes are ubiquitously expressed and encode novel proteins </plain></SENT>
+<SENT sid="5" pm="."><plain>The C5ORF5 cDNA is 5.47 kb encoding a protein of 915 amino acids (aa) with a predicted molecular mass of approximately 105 kDa </plain></SENT>
+<SENT sid="6" pm="."><plain>C5ORF5 has 23 exons spanning over 27 kb </plain></SENT>
+<SENT sid="7" pm="."><plain>The C5ORF6 transcript is 4.1 kb encoding a protein of 392 aa with a predicted molecular mass of approximately 43 kDa </plain></SENT>
+<SENT sid="8" pm="."><plain>C5ORF6 has 5 exons and spans approximately 11 kb </plain></SENT>
+<SENT sid="9" pm="."><plain>The C5ORF7 cDNA is 6.3 kb and encodes a protein of 1417 aa with a predicted molecular mass of approximately 155 kDa </plain></SENT>
+<SENT sid="10" pm="."><plain>C5ORF7 has 24 exons spanning approximately 64 kb </plain></SENT>
+<SENT sid="11" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> three genes were localized to the distal half of the <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CDS</z:e> between D5S1983 and D5S500 </plain></SENT>
+<SENT sid="12" pm="."><plain>We evaluated each as a candidate <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> suppressor gene by the analysis of myeloid <z:hpo ids='HP_0001909'>leukemia</z:hpo> cells from patients with -5/del(5q), but no inactivating mutations were identified </plain></SENT>
+</text></document>

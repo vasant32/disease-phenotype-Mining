@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0001876'>Pancytopenia</z:hpo> is a rare complication of the thionamide therapy reported secondary to <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo>, the bone marrow being invariably hypocellular </plain></SENT>
+<SENT sid="1" pm="."><plain>We present a case of a 16-year-old female with <z:e sem="disease" ids="C0018213" disease_type="Disease or Syndrome" abbrv="">Graves' disease</z:e> who presented with massive bone marrow <z:e sem="disease" ids="C0085663" disease_type="Disease or Syndrome" abbrv="">plasmocytosis</z:e> mimicking <z:hpo ids='HP_0006775'>multiple myeloma</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>The patient had already been on <z:chebi fb="0" ids="50673">methimazole</z:chebi> for a month when she was admitted to the Pediatric Unit with the diagnosis of <z:hpo ids='HP_0100806'>sepsis</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>CBC revealed <z:hpo ids='HP_0001876'>pancytopenia</z:hpo> </plain></SENT>
+<SENT sid="4" pm="."><plain>Bone marrow <z:hpo ids='HP_0002835'>aspirations</z:hpo> showed hypocellular-normocellular bone marrow, 98% of plasma cells </plain></SENT>
+<SENT sid="5" pm="."><plain>At that time, MMI was discontinued and the patient was started on broad-spectrum antibiotics, <z:chebi fb="0" ids="41879">dexamethasone</z:chebi>, and G-CSF </plain></SENT>
+<SENT sid="6" pm="."><plain>Bone marrow <z:hpo ids='HP_0002835'>aspiration</z:hpo> day +4 still showed hypo-normocellular marrow, with remaining 6% plasma cells </plain></SENT>
+<SENT sid="7" pm="."><plain><z:mp ids='MP_0009440'>Myeloma</z:mp> screen was negative; ANC &gt;1,000 at day +7, platelets &gt;50,000 at day +24 </plain></SENT>
+<SENT sid="8" pm="."><plain>Twenty-four months after patient's discharge, her clinical condition, CBC, and bone marrow remained <z:mpath ids='MPATH_458'>normal</z:mpath> </plain></SENT>
+<SENT sid="9" pm="."><plain>To our knowledge this is the first report of <z:hpo ids='HP_0001876'>pancytopenia</z:hpo> due to MMI, where the usual <z:mpath ids='MPATH_133'>hypoplasia</z:mpath> found is replaced by massive <z:e sem="disease" ids="C0085663" disease_type="Disease or Syndrome" abbrv="">plasmocytosis</z:e> </plain></SENT>
+</text></document>

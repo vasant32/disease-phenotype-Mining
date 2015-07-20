@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: <z:hpo ids='HP_0001685'>Myocardial fibrosis</z:hpo> is a hallmark of <z:hpo ids='HP_0001639'>hypertrophic cardiomyopathy</z:hpo> (HCM) and a risk factor for <z:hpo ids='HP_0004308'>ventricular arrhythmia</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain><z:mp ids='MP_0003045'>Fibrosis</z:mp> can be reflected in circulating matrix remodeling protein concentrations </plain></SENT>
+<SENT sid="2" pm="."><plain>We explored differences in circulating markers of extracellular matrix turnover between young HCM patients with versus without history of serious <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS AND RESULTS: Using multiplexed and single ELISA, matrix metalloproteinases (MMPs) 1, 2, 3, and 9; tissue inhibitor of metalloproteinases (TIMPs) 1, 2, and 4; and collagen I carboxyterminal <z:chebi fb="7" ids="16670">peptide</z:chebi> (CICP) were measured in plasma from 45 young HCM patients (80% male patients; median age, 17 years [interquartile range, 15-20]) </plain></SENT>
+<SENT sid="4" pm="."><plain>Participants were grouped into serious <z:hpo ids='HP_0004308'>ventricular arrhythmia</z:hpo> history (VA) versus no <z:hpo ids='HP_0004308'>ventricular arrhythmia</z:hpo> history (NoVA) </plain></SENT>
+<SENT sid="5" pm="."><plain>Differences in MMPs between groups were examined nonparametrically </plain></SENT>
+<SENT sid="6" pm="."><plain>Relationships between MMPs and <z:hpo ids='HP_0004308'>ventricular arrhythmia</z:hpo> were assessed with linear regression, adjusted for interventricular septal thickness, family history of <z:hpo ids='HP_0001699'>sudden death</z:hpo>, abnormal exercise blood pressure, and implantable cardioverter-defibrillator (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">ICD</z:e>) </plain></SENT>
+<SENT sid="7" pm="."><plain>In post hoc sensitivity analysis, age was substituted for <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">ICD</z:e> </plain></SENT>
+<SENT sid="8" pm="."><plain>The 14 VA patients were older than 31 NoVA patients (median, 19 versus 17 years; P=0.03) </plain></SENT>
+<SENT sid="9" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> 14 VA and 12 NoVA patients had an <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">ICD</z:e> </plain></SENT>
+<SENT sid="10" pm="."><plain>MMP3 concentration was significantly higher in the VA group (VA median, 12.9 μg/mL [interquartile range, 5.7-16.7 μg/mL] versus NoVA, 5.8 μg/mL [interquartile range, 3.7-10.0 μg/mL]; P=0.01) </plain></SENT>
+<SENT sid="11" pm="."><plain>On multivariable analysis, VA was independently associated with increasing MMP3 (standardized β, 0.37; P=0.01) </plain></SENT>
+<SENT sid="12" pm="."><plain>Post hoc adjustment for age attenuated this association </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSIONS: Circulating MMP3 may be a marker of <z:hpo ids='HP_0004308'>ventricular arrhythmia</z:hpo> in adolescent patients with HCM </plain></SENT>
+<SENT sid="14" pm="."><plain>Because of our role as pediatric providers, we cannot exclude age-related confounding </plain></SENT>
+</text></document>

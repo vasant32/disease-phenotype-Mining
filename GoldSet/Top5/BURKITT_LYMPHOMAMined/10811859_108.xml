@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The Epstein-Barr virus (EBV)-encoded nuclear antigen EBNA1 is critical for the persistence of the <z:mp ids='MP_0001799'>viral</z:mp> episome in replicating EBV-transformed human B cells </plain></SENT>
+<SENT sid="1" pm="."><plain>Therefore, <z:hpo ids='HP_0000001'>all</z:hpo> EBV-induced <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumors</z:e> express this foreign antigen </plain></SENT>
+<SENT sid="2" pm="."><plain>However, EBNA1 is invisible to CD8(+) cytotoxic T lymphocytes because its Gly/Ala repeat domain prevents proteasome-dependent processing for presentation on major histocompatibility complex (MHC) class I </plain></SENT>
+<SENT sid="3" pm="."><plain>We now describe that CD4(+) T cells from healthy adults are primed to EBNA1 </plain></SENT>
+<SENT sid="4" pm="."><plain>In fact, among latent EBV antigens that stimulate CD4(+) T cells, EBNA1 is preferentially recognized </plain></SENT>
+<SENT sid="5" pm="."><plain>We present evidence that the CD4(+) response may provide a protective role, including interferon gamma secretion and direct cytolysis after encounter of transformed B lymphocyte cell lines (B-LCLs) </plain></SENT>
+<SENT sid="6" pm="."><plain>Dendritic cells (DCs) process EBNA1 from purified protein and from MHC class II-mismatched, EBNA1-expressing cells including B-LCLs </plain></SENT>
+<SENT sid="7" pm="."><plain>In contrast, B-LCLs and Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> lines likely present EBNA1 after endogenous processing, as their capacity to cross-present from exogenous sources is weak or undetectable </plain></SENT>
+<SENT sid="8" pm="."><plain>By limiting dilution, there is a tight correlation between the capacity of CD4(+) T cell lines to recognize autologous B-LCL-expressing EBNA1 and DCs that have captured EBNA1 </plain></SENT>
+<SENT sid="9" pm="."><plain>Therefore, CD4(+) T cells can respond to the EBNA1 protein that is crucial for EBV persistence </plain></SENT>
+<SENT sid="10" pm="."><plain>We suggest that this immune response is initiated in vivo by DCs that present EBV-infected B cells, and that EBNA1-specific CD4(+) T cell immunity be enhanced to prevent and treat EBV-associated <z:e sem="disease" ids="C0006826" disease_type="Neoplastic Process" abbrv="">malignancies</z:e> </plain></SENT>
+</text></document>

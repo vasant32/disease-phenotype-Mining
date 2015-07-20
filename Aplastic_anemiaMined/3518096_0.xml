@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>In Essen 121 bone marrow transplantations were carried out </plain></SENT>
+<SENT sid="1" pm="."><plain>The indications were severe <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> (n = 18), <z:hpo ids='HP_0002488'>acute leukemia</z:hpo> in relapse (n = 20), <z:hpo ids='HP_0002488'>acute leukemia</z:hpo> in remission (n = 46) or <z:hpo ids='HP_0011010'>chronic</z:hpo> myeloid <z:hpo ids='HP_0001909'>leukemia</z:hpo> (n = 37) </plain></SENT>
+<SENT sid="2" pm="."><plain>The conditioning regimen consisted of <z:chebi fb="0" ids="4027">cyclophosphamide</z:chebi> or the combination of <z:chebi fb="0" ids="4027">cyclophosphamide</z:chebi> and total body irradiation </plain></SENT>
+<SENT sid="3" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> patients were treated under strict gnotobiotic care </plain></SENT>
+<SENT sid="4" pm="."><plain>To mitigate the risk of <z:e sem="disease" ids="C0010823" disease_type="Disease or Syndrome" abbrv="">CMV infections</z:e> intravenous CMV-hyperimmunoglobulin and CMV-negative blood products have been applied routinely since two years </plain></SENT>
+<SENT sid="5" pm="."><plain>MTX was used as prophylaxis against <z:e sem="disease" ids="C0018133" disease_type="Disease or Syndrome" abbrv="GVH">GVH-disease</z:e> </plain></SENT>
+<SENT sid="6" pm="."><plain>In case of severe <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> 13 patients (72%) are still alive with a median observation time of 24 months </plain></SENT>
+<SENT sid="7" pm="."><plain>In the prognostically unfavourable group of <z:hpo ids='HP_0002488'>acute leukemia</z:hpo> in relapse only one patient showed long term survival </plain></SENT>
+<SENT sid="8" pm="."><plain>In this patient leukemic relapse occurred six years after transplantation </plain></SENT>
+<SENT sid="9" pm="."><plain>The survival rate of <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">AML</z:e> patients grafted during the first remission is 55% (15/27) with a median observation time of 40 months </plain></SENT>
+<SENT sid="10" pm="."><plain>For patients grafted in first or consecutive remission of ALL the survival rate is 42% (5/12) with a maximal observation time of 29 months </plain></SENT>
+<SENT sid="11" pm="."><plain>Out of 37 patients grafted because of <z:mp ids='MP_0005481'>CML</z:mp>, eight were in an advanced stage of the disease </plain></SENT>
+<SENT sid="12" pm="."><plain>13 patients are still alive, the maximal observation time is 37 months </plain></SENT>
+<SENT sid="13" pm="."><plain>The overall incidence of GVHD in patients at risk was 28% in <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo>, 26% in <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">AML</z:e>, 9% in ALL and 63% in <z:mp ids='MP_0005481'>CML</z:mp> </plain></SENT>
+<SENT sid="14" pm="."><plain>In <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> no patient developed an interstitial <z:hpo ids='HP_0002090'>pneumonia</z:hpo> </plain></SENT>
+<SENT sid="15" pm="."><plain>In <z:hpo ids='HP_0001909'>leukemia</z:hpo> the risk of fatal interstitial <z:hpo ids='HP_0002090'>pneumonia</z:hpo> was 34% </plain></SENT>
+</text></document>

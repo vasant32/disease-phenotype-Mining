@@ -1,0 +1,18 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECT: The authors describe the process of <z:e sem="disease" ids="C0302148,C0087086" disease_type="Disease or Syndrome;Acquired Abnormality" abbrv="">thrombus</z:e> organization in the swine surgical <z:hpo ids='HP_0002617'>aneurysm</z:hpo> model </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: Lateral carotid artery <z:hpo ids='HP_0002617'>aneurysms</z:hpo> with immediately induced <z:mp ids='MP_0005048'>thrombosis</z:mp> were created in 31 swine for a time-course study </plain></SENT>
+<SENT sid="2" pm="."><plain><z:hpo ids='HP_0002617'>Aneurysms</z:hpo> were evaluated at 1, 3, 7, 14, 30, and 90 days after they were created </plain></SENT>
+<SENT sid="3" pm="."><plain>Histological analyses included quantitative immunohistochemical studies and evaluation of collagen deposition </plain></SENT>
+<SENT sid="4" pm="."><plain>Complementary DNA microarray analysis was performed for gene expression profiling </plain></SENT>
+<SENT sid="5" pm="."><plain>The lists of up- and downregulated genes were cross-matched with lists of genes known to be associated with cytokines or the extracellular matrix </plain></SENT>
+<SENT sid="6" pm="."><plain>The expression of selected genes was quantified using real-time polymerase chain reaction </plain></SENT>
+<SENT sid="7" pm="."><plain>Functional clustering was performed with the Expression Analysis Systematic Explorer (EASE) bioinformatics package </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: Histological analysis demonstrated leukocyte and macrophage infiltration in the <z:e sem="disease" ids="C0302148,C0087086" disease_type="Disease or Syndrome;Acquired Abnormality" abbrv="">thrombus</z:e> at Day 3, myofibroblast infiltration at Days 7 to 14, and progressive collagen deposition and contraction thereafter </plain></SENT>
+<SENT sid="9" pm="."><plain>Tissue organization occurred in a centripetal fashion </plain></SENT>
+<SENT sid="10" pm="."><plain>A previously undescribed reticular network of connective tissue was observed at the periphery of the <z:hpo ids='HP_0002617'>aneurysm</z:hpo> at Day 3 </plain></SENT>
+<SENT sid="11" pm="."><plain>Macrophages appeared critical to this <z:e sem="disease" ids="C0302148,C0087086" disease_type="Disease or Syndrome;Acquired Abnormality" abbrv="">thrombus</z:e> organization </plain></SENT>
+<SENT sid="12" pm="."><plain>A total of 1109 genes were significantly changed from reference time zero during the time course: CXCL14, which produces a monocyte-specific chemokine, was upregulated over 100-fold throughout the time course; IGF1 was upregulated fourfold at Day 7, whereas IGFBP2 was downregulated approximately 50% at Days 7 and 14 </plain></SENT>
+<SENT sid="13" pm="."><plain>Osteopontin (SPP1) upregulation increased from 30-fold at Day 30 to 45-fold at Day 14 </plain></SENT>
+<SENT sid="14" pm="."><plain>The EASE analysis yielded eight functional classes of gene expression </plain></SENT>
+<SENT sid="15" pm="."><plain>CONCLUSIONS: This investigation provides a detailed histological and molecular analysis of <z:e sem="disease" ids="C0302148,C0087086" disease_type="Disease or Syndrome;Acquired Abnormality" abbrv="">thrombus</z:e> organization in the swine <z:hpo ids='HP_0002617'>aneurysm</z:hpo> model </plain></SENT>
+<SENT sid="16" pm="."><plain>The companion study will describe the effect of embolic bioabsorbable polymers on this process </plain></SENT>
+</text></document>

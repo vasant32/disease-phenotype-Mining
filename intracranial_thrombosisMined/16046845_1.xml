@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Focal <z:hpo ids='HP_0001297'>stroke</z:hpo> during the perinatal and neonatal period is a significant cause of cognitive and behavioral deficits </plain></SENT>
+<SENT sid="1" pm="."><plain>Currently, the number of models available to study neonatal brain injury is limited and many are technically difficult to induce in neonatal rodents </plain></SENT>
+<SENT sid="2" pm="."><plain>We demonstrate a reproducible method to induce a focal ischemic injury in the cerebral cortex of neonatal mice that utilizes the principle of photothrombosis </plain></SENT>
+<SENT sid="3" pm="."><plain>Postnatal day 7 pups were anesthetized and systemically administered <z:chebi fb="0" ids="52261">rose bengal</z:chebi> (50 mg/kg) </plain></SENT>
+<SENT sid="4" pm="."><plain>Permanent focal <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> was induced in the medial frontal cortex and somatosensory cortex by irradiating surface blood vessels with a laser (532 nm) </plain></SENT>
+<SENT sid="5" pm="."><plain>By placing a mask having an aperture of defined shape and size on the skull surface, we were able to reliably and reproducibly induce <z:mpath ids='MPATH_124'>infarcts</z:mpath> in discretely defined cortical regions </plain></SENT>
+<SENT sid="6" pm="."><plain>Further, we demonstrate explicit control of <z:mpath ids='MPATH_124'>infarct</z:mpath> volume by modifying the duration of laser exposure </plain></SENT>
+<SENT sid="7" pm="."><plain>This tool will provide a means for researchers to safely, easily and noninvasively induce reproducible ischemic lesions in specified regions of the neonatal cortex </plain></SENT>
+</text></document>

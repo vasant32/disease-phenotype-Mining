@@ -1,0 +1,30 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PURPOSE: <z:hpo ids='HP_0011675'>Cardiac arrhythmias</z:hpo> and respiratory disturbances have been proposed as likely causes for sudden unexpected <z:hpo ids='HP_0011420'>death</z:hpo> in <z:e sem="disease" ids="C0014544" disease_type="Disease or Syndrome" abbrv="">epilepsy</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>Oxygen desaturation occurs in one-third of patients with <z:e sem="disease" ids="C0014547" disease_type="Disease or Syndrome" abbrv="">localization-related epilepsy</z:e> (LRE) undergoing inpatient video-electroencephalography (EEG) telemetry (VET) as part of their presurgical workup </plain></SENT>
+<SENT sid="2" pm="."><plain>Ictal-related oxygen desaturation is accompanied by <z:mp ids='MP_0002318'>hypercapnia</z:mp> </plain></SENT>
+<SENT sid="3" pm="."><plain>Both abnormal lengthening and shortening of the corrected QT interval (QTc) on electrocardiography (ECG) have been reported with <z:hpo ids='HP_0001250'>seizures</z:hpo> </plain></SENT>
+<SENT sid="4" pm="."><plain>QTc abnormalities are associated with increased risk of <z:hpo ids='HP_0001645'>sudden cardiac death</z:hpo> </plain></SENT>
+<SENT sid="5" pm="."><plain>We hypothesized that there may be an association between ictal hypoxemia and cardiac repolarization abnormalities </plain></SENT>
+<SENT sid="6" pm="."><plain>METHODS: VET data from patients with refractory LRE were analyzed </plain></SENT>
+<SENT sid="7" pm="."><plain>Consecutive patients having at least one <z:hpo ids='HP_0001250'>seizure</z:hpo> with accompanying oxygen desaturation below 90% and artifact-free ECG data were selected </plain></SENT>
+<SENT sid="8" pm="."><plain>ECG during the 1 min prior to <z:hpo ids='HP_0001250'>seizure</z:hpo> <z:hpo ids='HP_0003674'>onset</z:hpo> (PRE) and during the ictal/postictal period with accompanying oxygen desaturation below 90% (DESAT) was analyzed </plain></SENT>
+<SENT sid="9" pm="."><plain>Consecutive QT and RR intervals were measured </plain></SENT>
+<SENT sid="10" pm="."><plain>In the same patients, DESAT <z:hpo ids='HP_0001250'>seizures</z:hpo> were compared with <z:hpo ids='HP_0001250'>seizures</z:hpo> without accompanying oxygen desaturation below 90% (NODESAT) </plain></SENT>
+<SENT sid="11" pm="."><plain>For NODESAT <z:hpo ids='HP_0001250'>seizures</z:hpo>, QT and RR intervals for 2 min after <z:hpo ids='HP_0001250'>seizure</z:hpo> <z:hpo ids='HP_0003674'>onset</z:hpo> were measured </plain></SENT>
+<SENT sid="12" pm="."><plain>KEY FINDINGS: Thirty-seven DESAT <z:hpo ids='HP_0001250'>seizures</z:hpo> were analyzed in 17 patients with <z:e sem="disease" ids="C0014547" disease_type="Disease or Syndrome" abbrv="">localization-related epilepsy</z:e> </plain></SENT>
+<SENT sid="13" pm="."><plain>A total of 2,448 QT and RR intervals were analyzed during PRE </plain></SENT>
+<SENT sid="14" pm="."><plain>During DESAT, 1,554 QT and RR intervals were analyzed </plain></SENT>
+<SENT sid="15" pm="."><plain>Twelve of the 17 patients had at least one NODESAT <z:hpo ids='HP_0001250'>seizure</z:hpo> </plain></SENT>
+<SENT sid="16" pm="."><plain>A total of 19 NODESAT <z:hpo ids='HP_0001250'>seizures</z:hpo> were analyzed, including 1,558 QT and RR intervals during PRE and 3,408 QT and RR intervals during NODESAT </plain></SENT>
+<SENT sid="17" pm="."><plain>The odds ratio for an abnormally prolonged (&gt;457 ms) QTcH (Hodges correction method) during DESAT relative to PRE was 10.64 (p &lt; 0.0001) </plain></SENT>
+<SENT sid="18" pm="."><plain>The odds ratio for an abnormally shortened (&lt;372 ms) QTcH during DESAT relative to PRE was 1.65 (p &lt; 0.0001) </plain></SENT>
+<SENT sid="19" pm="."><plain><z:hpo ids='HP_0001250'>Seizure</z:hpo>-related shortening and prolongation of QTc during DESAT were also observed when Fridericia correction of the QT was applied </plain></SENT>
+<SENT sid="20" pm="."><plain>During DESAT <z:hpo ids='HP_0001250'>seizures</z:hpo>, the mean range of QT values (QTr) (61.14 ms) was significantly different from that during PRE (44.43 ms) (p = 0.01) </plain></SENT>
+<SENT sid="21" pm="."><plain>There was a significant association between DESAT QTr and oxygen saturation nadir (p = 0.025) and between DESAT QTr and duration of oxygen desaturation (p &lt; 0.0001) </plain></SENT>
+<SENT sid="22" pm="."><plain>Both QTcH prolongation and shortening also occurred with NODESAT <z:hpo ids='HP_0001250'>seizures</z:hpo> </plain></SENT>
+<SENT sid="23" pm="."><plain>A <z:hpo ids='HP_0001250'>seizure</z:hpo>-associated prolonged QTcH was more likely during DESAT than NODESAT, with an odds ratio of 4.30 (p &lt; 0.0001) </plain></SENT>
+<SENT sid="24" pm="."><plain>A <z:hpo ids='HP_0001250'>seizure</z:hpo>-associated shortened QTcH was more likely during DESAT than NODESAT with an odds ratio of 2.13 (p &lt; 0.0001) </plain></SENT>
+<SENT sid="25" pm="."><plain>SIGNIFICANCE: We have shown that the likelihood of abnormal QTcH prolongation is increased 4.3-fold with <z:hpo ids='HP_0001250'>seizures</z:hpo> that are associated with oxygen desaturation when compared with <z:hpo ids='HP_0001250'>seizures</z:hpo> that are not accompanied with oxygen desaturation </plain></SENT>
+<SENT sid="26" pm="."><plain>The likelihood of abnormally shortened QTcH increases with <z:hpo ids='HP_0001250'>seizures</z:hpo> that are accompanied by oxygen desaturation with an odds ratio of 2.13 compared with that in <z:hpo ids='HP_0001250'>seizures</z:hpo> without desaturations </plain></SENT>
+<SENT sid="27" pm="."><plain>There is a significant association between the depth and duration of oxygen desaturation and QTr increase </plain></SENT>
+<SENT sid="28" pm="."><plain>These findings may be related to the pathophysiology of <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">SUDEP</z:e> </plain></SENT>
+</text></document>

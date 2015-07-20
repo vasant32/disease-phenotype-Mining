@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Diabetic <z:hpo ids='HP_0001638'>cardiomyopathy</z:hpo> is characterized, in part, by calcium handling imbalances associated with ventricular dysfunction </plain></SENT>
+<SENT sid="1" pm="."><plain>The cardiac <z:chebi fb="0" ids="29101">Na(+)</z:chebi>/Ca(2+) exchanger 1 (NCX1) has been implicated as a compensatory mechanism in response to reduced contractility in the heart; however, its role in diabetic <z:hpo ids='HP_0001638'>cardiomyopathy</z:hpo> remains unknown </plain></SENT>
+<SENT sid="2" pm="."><plain>We aimed to fully characterize the Akita(ins2) murine model of type 1 <z:mp ids='MP_0002055'>diabetes</z:mp> through assessing cardiac function and NCX1 regulation </plain></SENT>
+<SENT sid="3" pm="."><plain>The CXCL12/CXCR4 chemokine axis is well described in its cardioprotective effects via progenitor cell recruitment postacute <z:hpo ids='HP_0001658'>myocardial infarction</z:hpo>; however, it also functions in regulating calcium dependent processes in the cardiac myocyte </plain></SENT>
+<SENT sid="4" pm="."><plain>We therefore investigated the potential impact of CXCR4 in diabetic <z:hpo ids='HP_0001638'>cardiomyopathy</z:hpo> </plain></SENT>
+<SENT sid="5" pm="."><plain>Cardiac performance in the Akita(ins2) mouse was monitored using echocardiography and in vivo pressure-volume analysis </plain></SENT>
+<SENT sid="6" pm="."><plain>The Akita(ins2) mouse is protected against ventricular systolic failure evident at both 5 and 12 mo of age </plain></SENT>
+<SENT sid="7" pm="."><plain>However, the preserved contractility was associated with a decreased sarco(endo)plasmic reticulum Ca(2+)-ATPase (SERCA2a)/phospholamban ratio and increased NCX1 content </plain></SENT>
+<SENT sid="8" pm="."><plain>Direct myocardial injection of adenovirus encoding anti-sense NCX1 significantly decreased NCX1 expression and induced systolic failure in the Akita(ins2) mouse </plain></SENT>
+<SENT sid="9" pm="."><plain>CXCL12 and CXCR4 were both upregulated in the Akita(ins2) heart, along with an increase in IκB-α and NF-κB p65 phosphorylation </plain></SENT>
+<SENT sid="10" pm="."><plain>We demonstrated that CXCR4 activation upregulates NCX1 expression through a NF-κB-dependent signaling pathway in the cardiac myocyte </plain></SENT>
+<SENT sid="11" pm="."><plain>In conclusion, the Akita(ins2) type 1 diabetic model is protected against systolic failure due to increased NCX1 expression </plain></SENT>
+<SENT sid="12" pm="."><plain>In addition, our studies reveal a novel role of CXCR4 in the diabetic heart by regulating NCX1 expression via a NF-κB-dependent mechanism </plain></SENT>
+</text></document>

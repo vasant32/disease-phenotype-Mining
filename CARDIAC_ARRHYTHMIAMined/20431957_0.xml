@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: Recently, radiosurgical treatment of <z:hpo ids='HP_0011675'>cardiac arrhythmia</z:hpo>, especially <z:hpo ids='HP_0005110'>atrial fibrillation</z:hpo>, has been proposed </plain></SENT>
+<SENT sid="1" pm="."><plain>Using the CyberKnife, focussed radiation will be used to create ablation lines on the beating heart to block unwanted electrical activity </plain></SENT>
+<SENT sid="2" pm="."><plain>Since this procedure requires high accuracy, the inevitable latency of the system (i.e., the robotic manipulator following the motion of the heart) has to be compensated for </plain></SENT>
+<SENT sid="3" pm="."><plain>MATERIALS AND METHODS: We examine the applicability of prediction algorithms developed for respiratory motion prediction to the prediction of pulsatory motion </plain></SENT>
+<SENT sid="4" pm="."><plain>We evaluated the MULIN, nLMS, wLMS, SVRpred and EKF algorithms </plain></SENT>
+<SENT sid="5" pm="."><plain>The test data used has been recorded using external infrared position sensors, 3D ultrasound and the NavX catheter systems </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: With this data, we have shown that the error from latency can be reduced by at least 10 and as much as 75% (44% average), depending on the type of signal </plain></SENT>
+<SENT sid="7" pm="."><plain>It has also been shown that, although the SVRpred algorithm was successful in most cases, it was outperformed by the simple nLMS algorithm, the EKF or the wLMS algorithm in a number of cases </plain></SENT>
+<SENT sid="8" pm="."><plain>CONCLUSION: We have shown that prediction of cardiac motion is possible and that the algorithms known from respiratory motion prediction are applicable </plain></SENT>
+<SENT sid="9" pm="."><plain>Since pulsation is more regular than respiration, more research will have to be done to improve frequency-tracking algorithms, like the EKF method, which performed better than expected from their behaviour on respiratory motion traces </plain></SENT>
+</text></document>

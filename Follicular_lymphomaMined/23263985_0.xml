@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The t(14;18) chromosomal translocation typically involves breakage at the bcl-2 major breakpoint region (MBR) to cause human follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>A theory to explain the striking propensity of the MBR breaks at three CpG clusters within the 175-bp MBR region invoked activation-induced deaminase (AID) </plain></SENT>
+<SENT sid="2" pm="."><plain>In a test of that theory, we used here minichromosomal substrates in human pre-B cell lines </plain></SENT>
+<SENT sid="3" pm="."><plain>Consistent with the essential elements of the theory, we found that the MBR breakage process is indeed highly dependent on DNA methylation at the CpG sites and highly dependent on the AID enzyme to create lesions at peak locations within the MBR </plain></SENT>
+<SENT sid="4" pm="."><plain>Interestingly, breakage of the phosphodiester bonds at the AID-initiated MBR lesions is RAG dependent, but, unexpectedly, most are also dependent on Artemis </plain></SENT>
+<SENT sid="5" pm="."><plain>We found that Artemis is capable of nicking small heteroduplex structures and is even able to nick single-base mismatches </plain></SENT>
+<SENT sid="6" pm="."><plain>This raises the possibility that activated Artemis, derived from the unjoined D to J(H) DNA ends at the IgH locus on chromosome 14, nicks AID-generated TG mismatches at <z:chebi fb="36" ids="29309">methyl</z:chebi> CpG sites, and this would explain why the breaks at the chromosome 18 MBR occur within the same time window as those on chromosome 14 </plain></SENT>
+</text></document>

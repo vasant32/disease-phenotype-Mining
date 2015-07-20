@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 9 yr old spayed female golden retriever was evaluated for <z:hpo ids='HP_0002039'>anorexia</z:hpo> and suspected gastric <z:mpath ids='MPATH_66'>dilatation</z:mpath> </plain></SENT>
+<SENT sid="1" pm="."><plain>Subsequent evaluation the following day determined the dog to have <z:hpo ids='HP_0001698'>pericardial effusion</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>Muffled heart sounds and jugular pulses were noted on <z:e sem="disease" ids="C0034065,C0031809" disease_type="Health Care Activity;Disease or Syndrome" abbrv="">physical exam</z:e>, and the dog was diagnosed with pleural and <z:hpo ids='HP_0001698'>pericardial effusion</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>A sinus rhythm with a rate of 142 beats/min was documented on a surface electrocardiogram (EKG) </plain></SENT>
+<SENT sid="4" pm="."><plain>Following pericardiocentesis, the heart rate increased to 260 beats/min, the rhythm became irregular, and the systemic blood pressure decreased </plain></SENT>
+<SENT sid="5" pm="."><plain><z:hpo ids='HP_0005110'>Atrial fibrillation</z:hpo> (AF) was confirmed by EKG </plain></SENT>
+<SENT sid="6" pm="."><plain><z:chebi fb="0" ids="8428">Procainamide</z:chebi> was administered IV over 15 min, resulting in successful conversion of AF to sinus rhythm and clinical improvement </plain></SENT>
+<SENT sid="7" pm="."><plain><z:chebi fb="0" ids="8428">Procainamide</z:chebi> is one of several antiarrhythmic medications that are used for the conversion of <z:hpo ids='HP_0011009'>acute</z:hpo> AF in humans; however, its utility and efficacy in dogs in the setting of AF has not previously been reported </plain></SENT>
+<SENT sid="8" pm="."><plain>This case highlights a unique complication of performing a pericardiocentesis that requires immediate treatment and describes a potential treatment option for the conversion of <z:hpo ids='HP_0011009'>acute</z:hpo> AF in dogs </plain></SENT>
+</text></document>

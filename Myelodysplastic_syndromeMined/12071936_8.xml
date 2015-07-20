@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: Antithymocyte and antilymphocyte globulin (ATG/ALG) have a therapeutic effect in about 30% of patients with <z:hpo ids='HP_0002863'>myelodysplastic syndromes</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e>) </plain></SENT>
+<SENT sid="1" pm="."><plain>We were interested to know whether responding patients achieve clonal or polyclonal remissions </plain></SENT>
+<SENT sid="2" pm="."><plain>PATIENTS: Ten women with low-risk <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> received either ALG or ATG </plain></SENT>
+<SENT sid="3" pm="."><plain>Before treatment and 3, 6, and 12 months later, X-chromosome inactivation patterns of peripheral blood T lymphocytes were compared with those of peripheral blood granulocytes or bone marrow cells, using the human <z:chebi fb="3" ids="50113">androgen</z:chebi> receptor gene assay and the phosphoglycerate kinase-1 assay </plain></SENT>
+<SENT sid="4" pm="."><plain>RESULTS: Six women did not respond to therapy </plain></SENT>
+<SENT sid="5" pm="."><plain>Prior to treatment, four of them had a monoclonal, one had an oligoclonal, and one had a skewed X-chromosome inactivation pattern (XCIP) </plain></SENT>
+<SENT sid="6" pm="."><plain>Four patients responded to ATG/ALG </plain></SENT>
+<SENT sid="7" pm="."><plain>Three of them were informative in our X-inactivation assays, and showed a non-clonal XCIP which did not change significantly after treatment with ATG/ALG </plain></SENT>
+<SENT sid="8" pm="."><plain>CONCLUSION: A non-clonal XCIP in the bone marrow was associated with a response to ATG/ALG </plain></SENT>
+<SENT sid="9" pm="."><plain>Non-clonal XCIPs do not necessarily imply that there is no pathological clone </plain></SENT>
+<SENT sid="10" pm="."><plain>By definition, they just indicate that there is no evidence of a clone contributing more than 50% of cells in a sample </plain></SENT>
+<SENT sid="11" pm="."><plain>Non-clonal XCIPs may therefore be attributable to incomplete clonal expansion </plain></SENT>
+<SENT sid="12" pm="."><plain>This, in turn, might be explained by a vigorous immune attack against the <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> clone, which simultaneously causes collateral damage in the remaining <z:mpath ids='MPATH_458'>normal</z:mpath> haemopoiesis </plain></SENT>
+<SENT sid="13" pm="."><plain>In such patients, ATG/ALG may improve <z:mpath ids='MPATH_458'>normal</z:mpath> haemopoiesis by relieving the immunological pressure on the innocent bystanders </plain></SENT>
+</text></document>

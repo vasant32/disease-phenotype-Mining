@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:e sem="disease" ids="C0021390" disease_type="Disease or Syndrome" abbrv="">Inflammatory bowel disease</z:e> (IBD) includes two similar yet distinct conditions called <z:hpo ids='HP_0100279'>ulcerative colitis</z:hpo> (UC) and <z:hpo ids='HP_0100280'>Crohn's disease</z:hpo> (CD) </plain></SENT>
+<SENT sid="1" pm="."><plain>These diseases affect the digestive system and cause the <z:mp ids='MP_0001845'>inflammation</z:mp> of intestinal tissue, form sores and bleed easily </plain></SENT>
+<SENT sid="2" pm="."><plain>Most children with IBD are diagnosed in late childhood and adolescence </plain></SENT>
+<SENT sid="3" pm="."><plain>However, both UC and CD have been reported as early as in infancy </plain></SENT>
+<SENT sid="4" pm="."><plain>Most information pertaining to the epidemiology of IBD is based upon adult studies </plain></SENT>
+<SENT sid="5" pm="."><plain>Symptoms include <z:hpo ids='HP_0002027'>abdominal pain</z:hpo>, cramping, <z:mp ids='MP_0002899'>fatigue</z:mp> and <z:hpo ids='HP_0002014'>diarrhea</z:hpo> </plain></SENT>
+<SENT sid="6" pm="."><plain>Genetic factors play a significant role in determining IBD susceptibility </plain></SENT>
+<SENT sid="7" pm="."><plain>Epidemiological data support a genetic contribution to the pathogenesis of IBD </plain></SENT>
+<SENT sid="8" pm="."><plain>Recently, numerous new genes have been identified as being involved in the genetic susceptibility to IBD: TNF-308A, CARD15 (NOD2), MIF-173, N-acetyltransferase 2 (NAT2), NKG2D (natural killer cell 2D), STAT6 (signal transducer and activator of transcription 6), CTLA-4 (cytotoxic T lymphocyte antigen-4), <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MICA</z:e>-MICB (major histocompatibility complex A and B), HLA-DRB1, HLA class-II, IL-18, IL-4, <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MICA</z:e>-A5, CD14, TLR4, Fas-670, p53 and NF-kappaB </plain></SENT>
+<SENT sid="9" pm="."><plain>The characterization of these novel genes has the potential to identify therapeutic agents and aid clinical assessment of phenotype and prognosis in patients with IBD (UC and CD) </plain></SENT>
+</text></document>

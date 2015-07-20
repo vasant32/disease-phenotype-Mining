@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Painful granulomatous lesions appeared on the face of a 36-year-old man with <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Skin biopsy revealed <z:hpo ids='HP_0011010'>chronic</z:hpo> inflammatory granuloma </plain></SENT>
+<SENT sid="2" pm="."><plain><z:mp ids='MP_0001794'>Bacterial</z:mp> cultures of the lesions and blood indicated the same unknown <z:mp ids='MP_0001795'>Gram-negative</z:mp> rod bacterium </plain></SENT>
+<SENT sid="3" pm="."><plain>The <z:chebi fb="4" ids="26833">16S</z:chebi> <z:chebi fb="0" ids="18111">ribosomal RNA</z:chebi> sequence of the unknown bacterium yielded Phenylobacterium </plain></SENT>
+<SENT sid="4" pm="."><plain>Thus, we diagnosed cutaneous <z:e sem="disease" ids="C0277521,C0600076" disease_type="Pathologic Function;Neoplastic Process" abbrv="">infectious granuloma</z:e> caused by Phenylobacterium and <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo>/refractory cytopenia with multi-lineage <z:mpath ids='MPATH_589'>dysplasia</z:mpath> </plain></SENT>
+<SENT sid="5" pm="."><plain>After treatment with combined <z:chebi fb="0" ids="33282">antibacterials</z:chebi> that were selected based on the tests for drug sensitivity, the lesions disappeared with only scars remaining and without any signs of relapse after 1 year </plain></SENT>
+<SENT sid="6" pm="."><plain>This is the first case report of cutaneous <z:e sem="disease" ids="C0277521,C0600076" disease_type="Pathologic Function;Neoplastic Process" abbrv="">infectious granuloma</z:e> caused by Phenylobacterium </plain></SENT>
+</text></document>

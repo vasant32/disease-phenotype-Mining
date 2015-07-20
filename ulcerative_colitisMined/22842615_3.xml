@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: Anti-neutrophil cytoplasmic antibodies and anti-Saccharomyces cerevisiae <z:chebi fb="1" ids="28808">mannan</z:chebi> antibodies (ASCAs) have been detected in the serum of patients with <z:hpo ids='HP_0100279'>ulcerative colitis</z:hpo> (UC) and <z:hpo ids='HP_0100280'>Crohn's disease</z:hpo> (CD) and their unaffected family members </plain></SENT>
+<SENT sid="1" pm="."><plain>The aim of this study was to establish the value of serological markers as predictors of UC and CD </plain></SENT>
+<SENT sid="2" pm="."><plain>DESIGN: Individuals who developed CD or UC were identified from the European Prospective Investigation into <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">Cancer</z:e> and Nutrition (EPIC) study </plain></SENT>
+<SENT sid="3" pm="."><plain>At recruitment, none of the participants had a diagnosis of CD or UC </plain></SENT>
+<SENT sid="4" pm="."><plain>For each incident case, two controls were randomly selected matched for centre, date of birth, sex, date of recruitment and time of follow-up </plain></SENT>
+<SENT sid="5" pm="."><plain>Serum of cases and controls obtained at recruitment were analysed for ASCA IgG, ASCA IgA, perinuclear anti-neutrophil cytoplasmic antibody (pANCA), antibodies against Escherichia coli outer membrane porin C (OmpC) and flagellin CBir1 </plain></SENT>
+<SENT sid="6" pm="."><plain>Conditional logistic regression was used to determine risk of CD and UC </plain></SENT>
+<SENT sid="7" pm="."><plain>Receiver operating characteristic curves were constructed to test accuracy </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: A total of 77 individuals were diagnosed with CD and 167 with UC after a mean follow-up of 4.5 (SD 3.2) and 4.4 (SD 3.1) years following blood collection, respectively </plain></SENT>
+<SENT sid="9" pm="."><plain>Combinations of pANCA, ASCA, anti-CBir1 and anti-OmpC were most accurate in predicting incident CD and UC (area under curve 0.679 and 0.657, respectively) </plain></SENT>
+<SENT sid="10" pm="."><plain>The predictive value of the combination of markers increased when time to diagnosis of CD or UC decreased </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSION: A panel of serological markers is able to predict development of CD and UC in individuals from a low-risk population </plain></SENT>
+</text></document>

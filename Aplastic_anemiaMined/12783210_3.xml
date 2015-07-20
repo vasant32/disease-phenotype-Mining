@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Antithymocyte globulin (ATG) is the treatment of choice for those <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> patients who are not suitable for bone marrow transplantation (BMT) </plain></SENT>
+<SENT sid="1" pm="."><plain>ATG is also used for the treatment of rejections in organ transplantation and as a conditioning regimen in BMT </plain></SENT>
+<SENT sid="2" pm="."><plain>Despite the proven efficacy of ATG in these areas, its mechanism of action is not known </plain></SENT>
+<SENT sid="3" pm="."><plain>Profound T-cell <z:hpo ids='HP_0001888'>lymphopenia</z:hpo> observed in vivo with ATG treatment is supposed to contribute to its therapeutic effect </plain></SENT>
+<SENT sid="4" pm="."><plain>We have previously shown that <z:mpath ids='MPATH_3'>apoptosis</z:mpath> is one of the mechanisms responsible for ATG-induced <z:hpo ids='HP_0001888'>lymphopenia</z:hpo> </plain></SENT>
+<SENT sid="5" pm="."><plain>Our next objective was to investigate the effect of ATG on modulation of Fas and TNF pathways, the two main pathways of T-cell <z:mpath ids='MPATH_3'>apoptosis</z:mpath> </plain></SENT>
+<SENT sid="6" pm="."><plain>Maximum surface expression of Fas on T cells was observed after 24 h at an ATG dose of 100 microg/ml; at this dose 88% of cells expressed Fas as compared to 26% of untreated cells </plain></SENT>
+<SENT sid="7" pm="."><plain>Surface expression of FasL was found to peak after 24 h at an ATG dose of 1000 microg/ml when 34% of cells were positive for FasL as compared to 1.5% of untreated T cells </plain></SENT>
+<SENT sid="8" pm="."><plain><z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">Tumor</z:e> <z:mp ids='MP_0001651'>necrosis</z:mp> factor (TNF)-alpha production was found to be maximum after 6 h at 1000 microg/ml dose (20%) as measured by intracellular cytokine staining of T cells </plain></SENT>
+<SENT sid="9" pm="."><plain>TNF-alpha production was also measured by enzyme-linked immunosorbent assay (ELISA) in the supernatant of lymphocytes treated with ATG for 6 h </plain></SENT>
+<SENT sid="10" pm="."><plain>A dose-dependent increase in TNF-alpha production was found in these supernatants with a plateau being achieved at an ATG dose of 1000 micro g/ml </plain></SENT>
+<SENT sid="11" pm="."><plain>We conclude that ATG-induced <z:mpath ids='MPATH_3'>apoptosis</z:mpath> in T cells involves both Fas and TNF pathways and TNF-alpha is produced much earlier than Fas and FasL expression </plain></SENT>
+</text></document>

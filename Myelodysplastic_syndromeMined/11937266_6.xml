@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: The human insulin-like growth factor 2 (IGF2) gene was thought to be imprinted and expressed only from the paternal allele in <z:mpath ids='MPATH_458'>normal</z:mpath> tissue </plain></SENT>
+<SENT sid="1" pm="."><plain>MATERIALS AND METHODS: Initially, we analyzed the imprinting status of IGF2 in bone marrow cells from 49 patients with <z:hpo ids='HP_0002863'>myelodysplastic syndromes</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e>) utilizing the Apa I polymorphism of IGF2 </plain></SENT>
+<SENT sid="2" pm="."><plain>Thirteen bone marrow and 14 peripheral blood samples from <z:mpath ids='MPATH_458'>normal</z:mpath> individuals served as controls </plain></SENT>
+<SENT sid="3" pm="."><plain>We utilized <z:mpath ids='MPATH_458'>normal</z:mpath> peripheral blood T lymphocytes to examine the relationship between <z:mp ids='MP_0003121'>genomic imprinting</z:mp> and cell proliferation </plain></SENT>
+<SENT sid="4" pm="."><plain>Expression of IGF2 was quantified by real-time PCR and proliferation of T cells was measured by 3H-<z:chebi fb="0" ids="17748">thymidine</z:chebi> incorporation </plain></SENT>
+<SENT sid="5" pm="."><plain>Furthermore, methylation status of the imprinting controlling region (ICR) was analyzed by subcloning and sequencing of genomic DNA after <z:chebi fb="0" ids="26709">sodium bisulfite</z:chebi> modification </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: Among 24 patients who were heterozygous for IGF2, loss of imprinting (LOI) occurred in 22 cases (92%) </plain></SENT>
+<SENT sid="7" pm="."><plain>Surprisingly, LOI of IGF2 occurred in the <z:mpath ids='MPATH_458'>normal</z:mpath> bone marrow cells, but the <z:mpath ids='MPATH_458'>normal</z:mpath> peripheral blood cells showed retention of imprinting (ROI) </plain></SENT>
+<SENT sid="8" pm="."><plain>Unstimulated <z:mpath ids='MPATH_458'>normal</z:mpath> T cells showed ROI </plain></SENT>
+<SENT sid="9" pm="."><plain>After 24 hours of exposure to PHA, these cells changed their IGF2 imprinting status from ROI to LOI </plain></SENT>
+<SENT sid="10" pm="."><plain>Concomitantly, their IGF2 <z:chebi fb="40" ids="33697">RNA</z:chebi> levels increased up to sixfold and their proliferation increased 10- to 20-fold </plain></SENT>
+<SENT sid="11" pm="."><plain>In contrast, <z:mpath ids='MPATH_458'>normal</z:mpath> T cells not stimulated with PHA did not develop LOI of IGF2, had negligible levels of IGF2 <z:chebi fb="40" ids="33697">RNA</z:chebi>, and did not increase their proliferation </plain></SENT>
+<SENT sid="12" pm="."><plain>In unstimulated T cells, the CpG islands of the ICR were completely methylated on one allele and nearly completely unmethylated on the other allele </plain></SENT>
+<SENT sid="13" pm="."><plain>After PHA stimulation, the CpG islands at the ICR became completely methylated on both alleles </plain></SENT>
+<SENT sid="14" pm="."><plain>CONCLUSION: LOI of IGF2 is strongly associated with cell proliferation and is not limited to <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> cells </plain></SENT>
+</text></document>

@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIMS: <z:hpo ids='HP_0005110'>Atrial fibrillation</z:hpo> (AF) is the most common sustained <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain><z:mp ids='MP_0001264'>Increased body size</z:mp> has been associated with AF, but the relationship is not well understood </plain></SENT>
+<SENT sid="2" pm="."><plain>In this study, we examined the effect of <z:mp ids='MP_0001254'>increased height</z:mp> on the risk of AF and explore potential mediators and implications for clinical practice </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS AND RESULTS: We examined data from 5860 individuals taking part in the Cardiovascular Health Study, a cohort study of older US adults followed for a median of 13.6 (women) and 10.3 years (men) </plain></SENT>
+<SENT sid="4" pm="."><plain>Multivariate linear models and age-stratified Cox proportional hazards and risk models were used, with focus on the effect of height on both prevalent and incident AF </plain></SENT>
+<SENT sid="5" pm="."><plain>Among 684 (22.6%) and 568 (27.1%) incident cases in women and men, respectively, greater height was significantly associated with AF risk [hazard ratio (HR)(women) per 10 cm 1.32, confidence interval (CI) 1.16-1.50, P &lt; 0.0001; HR(men) per 10 cm 1.26, CI 1.11-1.44, P &lt; 0.0001] </plain></SENT>
+<SENT sid="6" pm="."><plain>The association was such that the incremental risk from sex was completely attenuated by the inclusion of height (for men, HR 1.48, CI 1.32-1.65, without height, and HR 0.94, CI 0.85-1.20, with height included) </plain></SENT>
+<SENT sid="7" pm="."><plain>Inclusion of height in the Framingham model for incident AF improved discrimination </plain></SENT>
+<SENT sid="8" pm="."><plain>In sequential models, however, we found minimal attenuation of the risk estimates for AF with adjustment for left ventricular (LV) mass and left atrial (LA) dimension </plain></SENT>
+<SENT sid="9" pm="."><plain>The associations of LA and LV size measurements with AF risk were weakened when indexed to height </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSION: Independent from sex, <z:mp ids='MP_0001254'>increased height</z:mp> is significantly associated with the risk of AF </plain></SENT>
+</text></document>

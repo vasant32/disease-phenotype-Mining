@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PURPOSE: Differential diagnosis between <z:hpo ids='HP_0011009'>acute</z:hpo> optic disc <z:hpo ids='HP_0000969'>edema</z:hpo> (ODE) and optic disc pseudoedema (PODE) may be a clinical challenge even for well-trained ophthalmologists </plain></SENT>
+<SENT sid="1" pm="."><plain>Funduscopy remains the first-line investigation </plain></SENT>
+<SENT sid="2" pm="."><plain>The aim of this study was to assess the accuracy, sensitivity, and specificity of funduscopy in differentiating ODE from PODE </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: This was an observational, cross-sectional, two-center study of subjects referred for presumed <z:hpo ids='HP_0011009'>acute</z:hpo> ODE </plain></SENT>
+<SENT sid="4" pm="."><plain>During funduscopy, each observer completed a form concerning the presence/absence of the 10 conventional signs of ODE </plain></SENT>
+<SENT sid="5" pm="."><plain>Seventy-four patients with ODE and 48 subjects with PODE were included in the analysis </plain></SENT>
+<SENT sid="6" pm="."><plain>Accuracy, sensitivity, and specificity from <z:hpo ids='HP_0000001'>all</z:hpo> possible combinations of signs were calculated by support vector machine (SVM) analysis </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: As a single sign, the swelling of the peripapillary <z:chebi fb="46" ids="15035">retinal</z:chebi> nerve fiber layer had the highest accuracy (0.92; 95% confidence interval [CI], 0.82-0.97) </plain></SENT>
+<SENT sid="8" pm="."><plain>Little variation was observed when more than fours signs were present </plain></SENT>
+<SENT sid="9" pm="."><plain>The best four-sign combinations were SWELLING, HEMORRHAGES, papilla ELEVATION, and CONGESTION of peripapillary vessels (accuracy, 0.93; 95% CI, 0.83-0.98; sensitivity, 0.95; specificity, 0.89) </plain></SENT>
+<SENT sid="10" pm="."><plain>The presence of <z:chebi fb="46" ids="15035">retinal</z:chebi> or choroidal folds appeared to be a pathognomonic sign of true ODE (100% sensitivity) but had a low rate of presentation (23%) </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: The presence of at least four ophthalmoscopic signs (with the sign "swelling" included) gives the highest accuracy </plain></SENT>
+<SENT sid="12" pm="."><plain>Furthermore, peripapillary <z:chebi fb="46" ids="15035">retinal</z:chebi> folds seem to be related exclusively to ODE because they were never observed in our PODE group </plain></SENT>
+<SENT sid="13" pm="."><plain>These data may be useful for clinicians when evaluating patients referred for presumed optic disc <z:hpo ids='HP_0000969'>edema</z:hpo> in the <z:hpo ids='HP_0011009'>acute</z:hpo> phase </plain></SENT>
+</text></document>

@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Photodynamic therapy (<z:chebi fb="7" ids="53228">PDT</z:chebi>) is FDA-approved for use in patients with <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> using porfimer <z:chebi fb="199" ids="26708">sodium</z:chebi> (2 mg per kg) and a recommended light dose of 130 J cm(-1) for high grade <z:mpath ids='MPATH_589'>dysplasia</z:mpath> </plain></SENT>
+<SENT sid="1" pm="."><plain>Despite uniform drug and light doses, the clinical outcome of <z:chebi fb="7" ids="53228">PDT</z:chebi> is variable </plain></SENT>
+<SENT sid="2" pm="."><plain>A significant number of <z:chebi fb="7" ids="53228">PDT</z:chebi> cases result in <z:hpo ids='HP_0002043'>esophageal strictures</z:hpo>, a side effect related to excessive energy absorption </plain></SENT>
+<SENT sid="3" pm="."><plain>The purpose of this project was to model <z:hpo ids='HP_0002043'>esophageal stricture</z:hpo> formation with a Monte Carlo simulation </plain></SENT>
+<SENT sid="4" pm="."><plain>An original multilayer Monte Carlo computer simulation was developed for esophageal <z:chebi fb="7" ids="53228">PDT</z:chebi> </plain></SENT>
+<SENT sid="5" pm="."><plain>Optical absorption and scattering coefficients were derived for mucosal and muscle layers of <z:mpath ids='MPATH_458'>normal</z:mpath> porcine esophagus </plain></SENT>
+<SENT sid="6" pm="."><plain>Porfimer <z:chebi fb="199" ids="26708">sodium</z:chebi> was added to each layer by increasing the absorption coefficient by the appropriate amount </plain></SENT>
+<SENT sid="7" pm="."><plain>A threshold-absorbed light dose was assumed to be required for stricture formation and ablation </plain></SENT>
+<SENT sid="8" pm="."><plain>The simulation predicted irreversible damage to the mucosa with a 160 J cm(-1) light dose and damage to the muscle layer with an additional 160 J cm(-1) light dose for a tissue porfimer <z:chebi fb="199" ids="26708">sodium</z:chebi> content of 3.5 mg kg(-1) </plain></SENT>
+<SENT sid="9" pm="."><plain>The simulation accurately modeled photodynamic stricture formation in <z:mpath ids='MPATH_458'>normal</z:mpath> pig in vivo esophageal tissue </plain></SENT>
+<SENT sid="10" pm="."><plain>This preliminary work suggests that the absorbed light threshold for stricture formation may be between 2 and 4 J per gram of tissue </plain></SENT>
+</text></document>

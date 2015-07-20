@@ -1,0 +1,19 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Purpose: To compare four known pharmacokinetic models for their ability to describe dynamic contrast material-enhanced magnetic resonance (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e>) imaging of carotid atherosclerotic plaques, to determine reproducibility, and to validate the results with histologic findings </plain></SENT>
+<SENT sid="1" pm="."><plain>Materials and Methods: The study was approved by the institutional medical ethics committee </plain></SENT>
+<SENT sid="2" pm="."><plain>Written informed consent was obtained from <z:hpo ids='HP_0000001'>all</z:hpo> patients </plain></SENT>
+<SENT sid="3" pm="."><plain>Forty-five patients with 30%-99% <z:hpo ids='HP_0100546'>carotid stenosis</z:hpo> underwent dynamic contrast-enhanced <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e> imaging </plain></SENT>
+<SENT sid="4" pm="."><plain>Plaque enhancement was measured at 16 time points at approximately 25-second image intervals by using a <z:chebi fb="0" ids="33375">gadolinium</z:chebi>-based contrast material </plain></SENT>
+<SENT sid="5" pm="."><plain>Pharmacokinetic parameters (volume transfer constant, K(trans); extracellular extravascular volume fraction, v(e); and blood plasma fraction, v(p)) were determined by fitting a two-compartment model to plaque and blood <z:chebi fb="0" ids="33375">gadolinium</z:chebi> concentration curves </plain></SENT>
+<SENT sid="6" pm="."><plain>The relative fit errors and parameter uncertainties were determined to find the most suitable model </plain></SENT>
+<SENT sid="7" pm="."><plain>Sixteen patients underwent imaging twice to determine reproducibility </plain></SENT>
+<SENT sid="8" pm="."><plain>Carotid endarterectomy specimens from 16 patients who were scheduled for surgery were collected for histologic validation </plain></SENT>
+<SENT sid="9" pm="."><plain>Parameter uncertainties were compared with the Wilcoxon signed rank test </plain></SENT>
+<SENT sid="10" pm="."><plain>Reproducibility was assessed by using the coefficient of variation </plain></SENT>
+<SENT sid="11" pm="."><plain>Correlation with histologic findings was evaluated with the Pearson correlation coefficient </plain></SENT>
+<SENT sid="12" pm="."><plain>Results: The mean relative fit uncertainty (±standard error) for K(trans) was 10% ± 1 with the Patlak model, which was significantly lower than that with the Tofts (20% ± 1), extended Tofts (33% ± 3), and extended graphical (29% ± 3) models (P &lt; .001) </plain></SENT>
+<SENT sid="13" pm="."><plain>The relative uncertainty for v(p) was 20% ± 2 with the Patlak model and was significantly higher with the extended Tofts (46% ± 9) and extended graphical (35% ± 5) models (P &lt; .001) </plain></SENT>
+<SENT sid="14" pm="."><plain>The reproducibility (coefficient of variation) for the Patlak model was 16% for K(trans) and 26% for v(p) </plain></SENT>
+<SENT sid="15" pm="."><plain>Significant positive correlations were found between K(trans) and the endothelial microvessel content determined on histologic slices (Pearson ρ = 0.72, P = .005) </plain></SENT>
+<SENT sid="16" pm="."><plain>Conclusion: The Patlak model is most suited for describing carotid plaque enhancement </plain></SENT>
+<SENT sid="17" pm="."><plain>Correlation with histologic findings validated K(trans) as an indicator of plaque microvasculature, and the reproducibility of K(trans) was good. © RSNA, 2012 </plain></SENT>
+</text></document>

@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0005110'>Atrial fibrillation</z:hpo> (AF) is the most common <z:hpo ids='HP_0005115'>supraventricular arrhythmia</z:hpo> in clinical practice, thus, being the subject of intensive research both in medicine and engineering </plain></SENT>
+<SENT sid="1" pm="."><plain>Wavelet Entropy (WE) is a measure of the disorder degree of a specific phenomena in both time and frequency domains, allowing to reveal underlying dynamical processes out of sight for other methods </plain></SENT>
+<SENT sid="2" pm="."><plain>The present work introduces two different WE applications to the electrocardiogram (ECG) of patients in AF </plain></SENT>
+<SENT sid="3" pm="."><plain>The first application predicts the spontaneous termination of paroxysmal AF (PAF), whereas the second one deals with the electrical cardioversion (ECV) outcome in persistent AF patients </plain></SENT>
+<SENT sid="4" pm="."><plain>In both applications, WE was used with the objective of assessing the atrial fibrillatory (f) waves organization </plain></SENT>
+<SENT sid="5" pm="."><plain>Structural changes into the f waves reflect the atrial activity organization variation, and this fact can be used to predict AF progression </plain></SENT>
+<SENT sid="6" pm="."><plain>To this respect, results in the prediction of PAF termination regarding sensitivity, specificity, and accuracy were 95.38%, 91.67%, and 93.60%, respectively </plain></SENT>
+<SENT sid="7" pm="."><plain>On the other hand, for ECV outcome prediction, 85.24% sensitivity, 81.82% specificity, and 84.05% accuracy were obtained </plain></SENT>
+<SENT sid="8" pm="."><plain>These results turn WE as the highest single predictor of spontaneous PAF termination and ECV outcome, thus being a promising tool to characterize non-invasive AF signals </plain></SENT>
+</text></document>

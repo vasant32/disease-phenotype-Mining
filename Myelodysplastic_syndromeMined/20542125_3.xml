@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A retrospective analysis was performed of 118 patients with <z:e sem="disease" ids="C0376545" disease_type="Neoplastic Process" abbrv="">hematologic malignancies</z:e> who received donor lymphocyte infusions (DLIs) after allogeneic stem cell transplantation (ASCT) </plain></SENT>
+<SENT sid="1" pm="."><plain>Treatment was either given because of hematologic relapse (n = 44), molecular/cytogenetic relapse (n = 52), or other causes (n = 22) </plain></SENT>
+<SENT sid="2" pm="."><plain>Molecular relapse was in most cases based on <z:hpo ids='HP_0001909'>leukemia</z:hpo> lineage-specific chimerism analysis </plain></SENT>
+<SENT sid="3" pm="."><plain>Patients with <z:hpo ids='HP_0002488'>acute leukemia</z:hpo> and <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo> showed a 3-year survival of 42% if DLI treatment was given because of molecular relapse, compared to 16% in hematologic relapse (P &lt; .006) </plain></SENT>
+<SENT sid="4" pm="."><plain>In multivariate analysis, there was a correlation between response to DLI and nonhematologic relapse (risk ratio [RR] 3.36, P = .001), <z:hpo ids='HP_0011010'>chronic</z:hpo> <z:e sem="disease" ids="C0018133" disease_type="Disease or Syndrome" abbrv="GVH">graft-versus-host disease</z:e> (cGVHD) (RR = 1.51, P = .005), and late relapse (RR = 2.06, P = .017) </plain></SENT>
+<SENT sid="5" pm="."><plain>The overall incidences of <z:hpo ids='HP_0011009'>acute</z:hpo> GVHD (aGVHD) grades I-II and grades III-IV aGVHD were 33% and 8.5%, respectively </plain></SENT>
+<SENT sid="6" pm="."><plain>Probability of cGVHD was 33% </plain></SENT>
+<SENT sid="7" pm="."><plain>The development of aGVHD or cGVHD did not significantly influence the response of DLI in patients with molecular/cytogenetic relapse </plain></SENT>
+<SENT sid="8" pm="."><plain>However, the development of cGVHD was significantly associated with a better response in patients with hematologic relapse because only 4 of 29 patients without cGVHD responded compared to 7 of 12 with cGVHD (P = .007) </plain></SENT>
+<SENT sid="9" pm="."><plain>The development of cGVHD increased significantly if DLI was given &gt;12 months after ASCT (46% versus 27%, P = .04) </plain></SENT>
+<SENT sid="10" pm="."><plain>In contrast, time between ASCT and start of DLI treatment had no significant influence on the risk of developing aGVHD </plain></SENT>
+<SENT sid="11" pm="."><plain>To conclude, monitoring of <z:hpo ids='HP_0001909'>leukemia</z:hpo> lineage-specific chimerism is of utmost importance for DLI response after ASCT </plain></SENT>
+</text></document>

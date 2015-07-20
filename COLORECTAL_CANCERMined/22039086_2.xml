@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: In an ageing population, a greater proportion of geriatric patients will be considered for systemic chemotherapy </plain></SENT>
+<SENT sid="1" pm="."><plain><z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">Colorectal cancer</z:e> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e>) is a common <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">malignancy</z:e> and will be a major health issue in geriatrics </plain></SENT>
+<SENT sid="2" pm="."><plain>We used the MAX population to investigate whether age affected the improved outcome found in <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e> when bevacizumab is added to <z:chebi fb="0" ids="31348">capecitabine</z:chebi> chemotherapy </plain></SENT>
+<SENT sid="3" pm="."><plain>PATIENTS AND METHODS: MAX, a three arm study of <z:chebi fb="0" ids="31348">Capecitabine</z:chebi> (C) versus CBevacizumab (CB) versus CBMitomycin C (CBM), found an improvement in progression-free survival (PFS), with addition of B [+/- <z:chebi fb="0" ids="27504">mitomycin C</z:chebi> (<z:chebi fb="172" ids="27504">MMC</z:chebi>)] to C </plain></SENT>
+<SENT sid="4" pm="."><plain>This analysis assesses the effect of adding B (+/- <z:chebi fb="172" ids="27504">MMC</z:chebi>) to C on PFS, overall survival (OS), response rate (RR), toxicity and dose intensity in geriatric patients (age ≥ 75 years) </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: Ninety-nine patients (21%) were aged 75-86 years </plain></SENT>
+<SENT sid="6" pm="."><plain>Baseline characteristics were well balanced </plain></SENT>
+<SENT sid="7" pm="."><plain>Eighty-eight per cent commenced C at the lower optional dose of 2000 mg/m(2)/day; days 1-14, q21 (61% for &lt;75 years) and 88% were Eastern Cooperative <z:hpo ids='HP_0002664'>Oncology</z:hpo> Group 0-1 </plain></SENT>
+<SENT sid="8" pm="."><plain>Co-morbidities were as expected in this population </plain></SENT>
+<SENT sid="9" pm="."><plain>The addition of B significantly improved PFS in geriatric patients(C 5.8 months versus CB 8.8 months, Hazard ratio (HR) 0.65 and C versus CBM 10.4 months HR 0.38) </plain></SENT>
+<SENT sid="10" pm="."><plain>The interaction test for OS, RR and PFS revealed no impact of age </plain></SENT>
+<SENT sid="11" pm="."><plain>Dose intensity was maintained &gt;90% in <z:hpo ids='HP_0000001'>all</z:hpo> patients </plain></SENT>
+<SENT sid="12" pm="."><plain>There were no major differences in toxicity patterns between age cohorts </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSIONS: Addition of B to C significantly improved PFS in this geriatric population, with similar benefits to those aged &lt;75 years </plain></SENT>
+<SENT sid="14" pm="."><plain>Treatment was well tolerated with no signal of increased toxicity (including <z:hpo ids='HP_0001907'>thromboembolism</z:hpo>) when compared with those aged &lt;75 years </plain></SENT>
+</text></document>

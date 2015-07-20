@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The new method presented in this study was directly based on the consideration that ophthalmic arterial Doppler signals are chaotic signals </plain></SENT>
+<SENT sid="1" pm="."><plain>This consideration was tested successfully using the nonlinear dynamics tools, like the computation of Lyapunov exponents </plain></SENT>
+<SENT sid="2" pm="."><plain>Multilayer perceptron neural network (MLPNN) architecture was formulated and used as a basis for determining variabilities such as stenosis, ocular <z:e sem="disease" ids="C0004943" disease_type="Disease or Syndrome" abbrv="">Behcet disease</z:e>, and <z:hpo ids='HP_0000554'>uveitis</z:hpo> disease in the physical state of ophthalmic arterial Doppler signals </plain></SENT>
+<SENT sid="3" pm="."><plain>The computed Lyapunov exponents of the ophthalmic arterial Doppler signals were used as inputs of the MLPNN </plain></SENT>
+<SENT sid="4" pm="."><plain>Receiver operating characteristic (ROC) curve was used to assess the performance of the detection process </plain></SENT>
+<SENT sid="5" pm="."><plain>The ophthalmic arterial Doppler signals were classified with the accuracy varying from 93.75% to 97.06% </plain></SENT>
+<SENT sid="6" pm="."><plain>The results confirmed that the proposed MLPNN trained with Levenberg-Marquardt algorithm has potential in detecting stenosis, <z:e sem="disease" ids="C0004943" disease_type="Disease or Syndrome" abbrv="">Behcet disease</z:e> and <z:hpo ids='HP_0000554'>uveitis</z:hpo> disease in ophthalmic arteries </plain></SENT>
+</text></document>

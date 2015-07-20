@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIM: To evaluate the protective effects of ilomastat, an exogenous matrix metalloproteinase (MMP) inhibitor, on <z:chebi fb="0" ids="53063">trinitrobenzenesulfonic acid</z:chebi> (<z:chebi fb="7" ids="48113">TNB</z:chebi>)-induced <z:hpo ids='HP_0100279'>ulcerative colitis</z:hpo> (UC) in rats </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: Male SD rats were randomly divided into model group, <z:chebi fb="0" ids="51087">protective groups</z:chebi> A and B, and <z:mpath ids='MPATH_458'>normal</z:mpath> control group </plain></SENT>
+<SENT sid="2" pm="."><plain>Rats in the model group received only intra-colonic <z:chebi fb="7" ids="48113">TNB</z:chebi> </plain></SENT>
+<SENT sid="3" pm="."><plain>Rats in the <z:chebi fb="0" ids="51087">protective groups</z:chebi> A and B received intra-peritoneal ilomastat of 10 mg/kg and 20 mg/kg, respectively, beside <z:chebi fb="7" ids="48113">TNB</z:chebi> </plain></SENT>
+<SENT sid="4" pm="."><plain>Rats in the <z:mpath ids='MPATH_458'>normal</z:mpath> control group received only intra-colonic <z:mpath ids='MPATH_458'>normal</z:mpath> saline </plain></SENT>
+<SENT sid="5" pm="."><plain>After 3 wk, segments of colon were obtained </plain></SENT>
+<SENT sid="6" pm="."><plain>RT-PCR and immunohistochemistry were used to examine the expression of MMP-1 and TIMP-1 </plain></SENT>
+<SENT sid="7" pm="."><plain><z:chebi fb="1" ids="51686">Hematoxylin</z:chebi>-eosin (HE) staining was used for pathological study </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: The model of UC was successfully induced in rats </plain></SENT>
+<SENT sid="9" pm="."><plain><z:mp ids='MP_0001845'>Inflammation</z:mp> of colonic mucosa greatly improved in <z:chebi fb="0" ids="51087">protective groups</z:chebi> A and B </plain></SENT>
+<SENT sid="10" pm="."><plain>Expression of MMP-1 and TIMP-1 in the model group, <z:chebi fb="0" ids="51087">protective groups</z:chebi> A and B was significantly higher than that in the <z:mpath ids='MPATH_458'>normal</z:mpath> control group (P &lt; 0.0001) with MMP-1 expression increased more significantly than TIMP-1 expression </plain></SENT>
+<SENT sid="11" pm="."><plain>Expression of MMP-1 in <z:chebi fb="0" ids="51087">protective groups</z:chebi> A and B was significantly lower than that in the model group (P &lt; 0.0001)  </plain></SENT>
+<SENT sid="12" pm="."><plain>Expression of MMP-1 in <z:chebi fb="0" ids="51087">protective group</z:chebi> B was significantly lower than that in <z:chebi fb="0" ids="51087">protective group</z:chebi> A (P &lt; 0.0001) </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSION: Ilomastat improves <z:chebi fb="7" ids="48113">TNB</z:chebi>-induced UC in rats by inhibiting the MMP-1 activity </plain></SENT>
+</text></document>

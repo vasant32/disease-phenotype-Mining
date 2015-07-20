@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Prader-Willi syndrome (PWS) and <z:e sem="disease" ids="C0162635" disease_type="Disease or Syndrome" abbrv="">Angelman syndrome (AS)</z:e> are caused by deficiency of imprinted gene expression from paternal or maternal chromosome 15q11-q13, respectively </plain></SENT>
+<SENT sid="1" pm="."><plain><z:mp ids='MP_0003121'>Genomic imprinting</z:mp> of the PWS/AS domain is regulated through a bipartite cis-acting imprinting center (PWS-IC/AS-IC) within and upstream of the SNRPN promoter </plain></SENT>
+<SENT sid="2" pm="."><plain>Here, we show that two Rb-binding protein-related genes, Rbbp1/Arid4a and Rbbp1l1/Arid4b, are involved in the regulation of imprinting of the IC </plain></SENT>
+<SENT sid="3" pm="."><plain>We recovered these two genes from gene trap mutagenesis selecting for altered expression of an Snrpn-EGFP fusion gene strategy </plain></SENT>
+<SENT sid="4" pm="."><plain>RBBP1/ARID4A is an Rb-binding protein </plain></SENT>
+<SENT sid="5" pm="."><plain>RBBP1/ARID4A interacts with RBBP1L1/ARID4B and with the Snrpn promoter, implying that both are part of a protein complex </plain></SENT>
+<SENT sid="6" pm="."><plain>To further elucidate their roles on regulation of imprinting, we deleted the Rbbp1/Arid4a and Rbbp1l1/Arid4b genes in mice </plain></SENT>
+<SENT sid="7" pm="."><plain>Combined homozygous deficiency for Rbbp1/Arid4a and heterozygous deficiency for Rbbp1l1/Arid4b altered epigenetic modifications at the PWS-IC with reduced trimethylation of <z:chebi fb="0" ids="15358">histone</z:chebi> H4K20 and H3K9 and reduced DNA methylation, changing the maternal allele toward a more paternal epigenotype </plain></SENT>
+<SENT sid="8" pm="."><plain>Importantly, mutations of Rbbp1/Arid4a, Rbbp1l1/Arid4b, or Rb suppressed an AS imprinting defect caused by a mutation at the AS-IC </plain></SENT>
+<SENT sid="9" pm="."><plain>These data identify Rbbp1/Arid4a and Rbbp1l1/Arid4b as new members of epigenetic complexes regulating <z:mp ids='MP_0003121'>genomic imprinting</z:mp> at the PWS/AS domain </plain></SENT>
+</text></document>

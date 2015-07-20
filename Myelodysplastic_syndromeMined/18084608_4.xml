@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Interferon regulatory factor-1 (IRF-1) is a candidate transcription factor for the regulation of the Toll-like receptor-4 (TLR-4) gene </plain></SENT>
+<SENT sid="1" pm="."><plain>Using a small interfering <z:chebi fb="40" ids="33697">RNA</z:chebi>-based (siRNA) process to silence IRF-1 gene expression in the leukemic monocytic cell line <z:chebi fb="0" ids="46941">THP</z:chebi>-1, we investigated whether such a modulation would alter TLR-4 expression and activation status in these cells </plain></SENT>
+<SENT sid="2" pm="."><plain>The siIRF-1 cells expressed elevated levels of TLR-4 mRNA and protein compared to controls by 90% and 77%, respectively </plain></SENT>
+<SENT sid="3" pm="."><plain>ICAM.1 protein expression and <z:mpath ids='MPATH_3'>apoptosis</z:mpath> levels were increased by 8.35- and 4.25-fold, respectively </plain></SENT>
+<SENT sid="4" pm="."><plain>The siIRF-1 cells overexpressed Bax <z:chebi fb="2" ids="33699">mRNA</z:chebi> compared to controls </plain></SENT>
+<SENT sid="5" pm="."><plain>Proteomic analysis revealed upmodulation of the Annexin-II protein in siIRF-1 THP-1 cells </plain></SENT>
+<SENT sid="6" pm="."><plain><z:hpo ids='HP_0002863'>Myelodysplastic syndrome</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e>) patients with an absence of full-length IRF-1 mRNA also overexpressed Annexin-II </plain></SENT>
+<SENT sid="7" pm="."><plain>It is plausible that this overexpression may lead to the activation of TLR-4 contributing to the <z:mp ids='MP_0006042'>increased apoptosis</z:mp> characterizing <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> </plain></SENT>
+</text></document>

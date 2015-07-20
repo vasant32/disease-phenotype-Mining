@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0005110'>Atrial fibrillation</z:hpo> (AF) is the most common <z:hpo ids='HP_0011675'>cardiac arrhythmia</z:hpo> and increases the risk of <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Predicting the <z:hpo ids='HP_0003674'>onset</z:hpo> of paroxysmal AF (PAF), based on noninvasive techniques, is clinically important and can be invaluable in order to avoid useless therapeutic intervention and to minimize risks for the patients </plain></SENT>
+<SENT sid="2" pm="."><plain>In this paper, we propose an effective PAF predictor which is based on the analysis of the RR-interval signal </plain></SENT>
+<SENT sid="3" pm="."><plain>This method consists of three steps: preprocessing, feature extraction and classification </plain></SENT>
+<SENT sid="4" pm="."><plain>In the first step, the QRS complexes are detected from the electrocardiogram (ECG) signal and then the RR-interval signal is extracted </plain></SENT>
+<SENT sid="5" pm="."><plain>In the next step, the recurrence plot (RP) of the RR-interval signal is obtained and five statistically significant features are extracted to characterize the basic patterns of the RP </plain></SENT>
+<SENT sid="6" pm="."><plain>These features consist of the recurrence rate, length of longest diagonal segments (L(max )), average length of the diagonal lines (L(mean)), entropy, and trapping time </plain></SENT>
+<SENT sid="7" pm="."><plain>Recurrence quantification analysis can reveal subtle aspects of dynamics not easily appreciated by other methods and exhibits characteristic patterns which are caused by the typical dynamical behavior </plain></SENT>
+<SENT sid="8" pm="."><plain>In the final step, a support vector machine (SVM)-based classifier is used for PAF prediction </plain></SENT>
+<SENT sid="9" pm="."><plain>The performance of the proposed method in prediction of PAF episodes was evaluated using the <z:hpo ids='HP_0005110'>Atrial Fibrillation</z:hpo> Prediction Database (AFPDB) which consists of both 30 min ECG recordings that end just prior to the <z:hpo ids='HP_0003674'>onset</z:hpo> of PAF and segments at least 45 min distant from any PAF events </plain></SENT>
+<SENT sid="10" pm="."><plain>The obtained sensitivity, specificity, positive predictivity and negative predictivity were 97%, 100%, 100%, and 96%, respectively </plain></SENT>
+<SENT sid="11" pm="."><plain>The proposed methodology presents better results than other existing approaches </plain></SENT>
+</text></document>

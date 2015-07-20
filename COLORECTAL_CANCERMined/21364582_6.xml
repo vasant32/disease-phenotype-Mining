@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Desmocollin 3 (DSC3), a member of the cadherin superfamily and integral component of desmosomes, is involved in <z:e sem="disease" ids="C0596263" disease_type="Neoplastic Process" abbrv="">carcinogenesis</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>However, the role of DSC3 in <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e>) has not yet been established </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: Desmocollin 3 expression in <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e> cell lines was analysed by RT-PCR and western blotting </plain></SENT>
+<SENT sid="3" pm="."><plain>Methylation status of DSC3 was examined by demethylation tests, methylation-specific PCR, and <z:chebi fb="0" ids="17137">bisulphite</z:chebi> sequencing (BS) </plain></SENT>
+<SENT sid="4" pm="."><plain>The regulatory role of p53 was investigated by transfection </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: Desmocollin 3 was downregulated in <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e> cells at <z:chebi fb="2" ids="33699">mRNA</z:chebi> and protein levels </plain></SENT>
+<SENT sid="6" pm="."><plain>Desmocollin 3 expression was restored in five out of seven cell lines after <z:chebi fb="0" ids="50131">5-aza-2'-deoxycytidine</z:chebi> (DAC) treatment </plain></SENT>
+<SENT sid="7" pm="."><plain>A <z:hpo ids='HP_0001425'>heterogeneous</z:hpo> methylation pattern was detected by BS in promoter region and exon 1 of DSC3 </plain></SENT>
+<SENT sid="8" pm="."><plain>Methylation of DSC3 genomic sequences was found in 41% (41 out of 99) of primary <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e>, being associated with poor prognosis (P=0.002) </plain></SENT>
+<SENT sid="9" pm="."><plain>Transfection of p53 alone or in combination of DAC increased the DSC3 expression </plain></SENT>
+<SENT sid="10" pm="."><plain>Similarly, treatment with p53 inducer adriamycin alone or in combination with DAC enhanced DSC3 expression </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: DNA methylation contributes to downregulation of DSC3 in <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e> cell lines </plain></SENT>
+<SENT sid="12" pm="."><plain>Methylation status of DSC3 DNA is a prognostic marker for <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e> </plain></SENT>
+<SENT sid="13" pm="."><plain>P53 appears to have an important role in regulating DSC3 expression </plain></SENT>
+</text></document>

@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Inadvertent ventilator triggering can occur for various reasons </plain></SENT>
+<SENT sid="1" pm="."><plain>Leaks in the ventilator circuit, endotracheal tube leaks, tracheal cuff leaks, cardiac oscillations, water condensate causing oscillations in the circuit tubing, ventilator expiratory valve integrity, and overly sensitive triggering mechanism settings may precipitate this phenomena </plain></SENT>
+<SENT sid="2" pm="."><plain>We present a case of inadvertent ventilator triggering caused by electrical stimulation of the diaphragm from surgically placed pacing wires post cardiothoracic surgery </plain></SENT>
+<SENT sid="3" pm="."><plain>A 47-year-old woman underwent surgical placement of a left (LVAD) and right (RVAD) ventricular assist device for severe end stage <z:hpo ids='HP_0001638'>cardiomyopathy</z:hpo>, as a bridge to cardiac transplantation </plain></SENT>
+<SENT sid="4" pm="."><plain>The patient was observed to have inadvertent ventilator triggering while deeply sedated postoperatively </plain></SENT>
+<SENT sid="5" pm="."><plain>The ventilator set respiratory rate was 16 breaths/min, with patient respiratory rate of 30 breaths/min while deeply sedated </plain></SENT>
+<SENT sid="6" pm="."><plain>Upon assessment of ventilator waveforms and arterial blood gas revealing a profound <z:hpo ids='HP_0001950'>respiratory alkalosis</z:hpo>, the pressure/time waveform demonstrated a -2 cm <z:chebi fb="0" ids="15377">H(2)O</z:chebi> decrease in pressure prior to each cycled breath </plain></SENT>
+<SENT sid="7" pm="."><plain>The ventilator was subsequently changed from flow trigger sensitivity of 3 L/min to pressure trigger sensitivity of -3 cm <z:chebi fb="0" ids="15377">H(2)O</z:chebi> to eliminate the autotriggering </plain></SENT>
+<SENT sid="8" pm="."><plain>Later in the patient's ICU stay, inadvertent ventilator triggering was again observed </plain></SENT>
+<SENT sid="9" pm="."><plain>Further adjustment of the pressure trigger sensitivity to -3 cm <z:chebi fb="0" ids="15377">H(2)O</z:chebi> eliminated the autotriggering </plain></SENT>
+<SENT sid="10" pm="."><plain>Clinical assessment found the pacing wires were responsible for stimulating the patient's diaphragm, therefore causing airway pressure decreases and premature breath delivery </plain></SENT>
+<SENT sid="11" pm="."><plain>Once the electrical amplitude of the pacemaker was decreased, the inadvertent ventilator triggering resolved and <z:mpath ids='MPATH_458'>normal</z:mpath> trigger sensitivity and pH was restored </plain></SENT>
+</text></document>

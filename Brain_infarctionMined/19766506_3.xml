@@ -1,0 +1,18 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: Permanent mild-to-severe brain injury with neurologic sequelae remains a significant source of postoperative morbidity in cardiovascular surgery </plain></SENT>
+<SENT sid="1" pm="."><plain>There is increasing evidence that erythropoietin confers neuroprotective effects in various conditions of neuronal damage, such as <z:mp ids='MP_0005039'>hypoxia</z:mp> and <z:e sem="disease" ids="C0917798" disease_type="Disease or Syndrome" abbrv="">cerebral ischaemia</z:e> </plain></SENT>
+<SENT sid="2" pm="."><plain>Using a surviving porcine model, this study evaluates whether systemic treatment with erythropoietin induces brain protection in deep hypothermic <z:e sem="disease" ids="C0444720" disease_type="Disease or Syndrome" abbrv="">circulatory arrest</z:e> (DHCA) </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: Sixteen pigs (42+/-3 kg) randomly assigned into two groups (n=8) were subjected to 60 min of DHCA at an intracerebral temperature of 20 degrees C </plain></SENT>
+<SENT sid="4" pm="."><plain>The animals of the erythropietin group were treated perioperatively with 500 IU kg(-1) of recombinant human erythropoietin on 3 consecutive days beginning the day before surgery </plain></SENT>
+<SENT sid="5" pm="."><plain>Intracerebral monitoring was performed by subcortical microdialysis, brain tissue oxygenation, measurement of brain temperature and intracranial pressure </plain></SENT>
+<SENT sid="6" pm="."><plain>Neurologic recovery was evaluated daily </plain></SENT>
+<SENT sid="7" pm="."><plain>Perioperative S100 beta protein serum level was determined </plain></SENT>
+<SENT sid="8" pm="."><plain>The brains were harvested on the postoperative day 6 after perfusion fixation </plain></SENT>
+<SENT sid="9" pm="."><plain>Multiple brain regions were investigated histologically for hypoxic-ischaemic damage </plain></SENT>
+<SENT sid="10" pm="."><plain>RESULTS: The subcortical brain microdialysis detected significant increase of <z:chebi fb="3" ids="17754">glycerol</z:chebi> and <z:chebi fb="4" ids="24996">lactate</z:chebi> concentrations in both groups (P=0.0001) with considerably higher concentrations in the brain of control animals (P=0.011) </plain></SENT>
+<SENT sid="11" pm="."><plain>There were no significant differences in neurological outcome (P=0.15) </plain></SENT>
+<SENT sid="12" pm="."><plain>Erythropoietin-treated animals tended to a more complete and rapid neurological recovery </plain></SENT>
+<SENT sid="13" pm="."><plain>By contrast, none of the animals in the control group achieved complete neurological recovery </plain></SENT>
+<SENT sid="14" pm="."><plain>S100 beta protein as a putative marker of cerebral injury tended to be higher in the control group </plain></SENT>
+<SENT sid="15" pm="."><plain><z:e sem="disease" ids="C0751955" disease_type="Disease or Syndrome" abbrv="">Brain infarction</z:e> was detectable in <z:hpo ids='HP_0000001'>all</z:hpo> control animals but only in two erythropoietin-treated animals </plain></SENT>
+<SENT sid="16" pm="."><plain>CONCLUSION: These results suggest some beneficial neuroprotective effects of erythropoietin in this model of global brain <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischaemia</z:e> induced by 1h of hypothermic <z:e sem="disease" ids="C0444720" disease_type="Disease or Syndrome" abbrv="">circulatory arrest</z:e> </plain></SENT>
+</text></document>

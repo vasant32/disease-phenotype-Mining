@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We report on the modulation of respiratory sinus <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> in rats with central pattern generator (CPG) hardware made of silicon neurons </plain></SENT>
+<SENT sid="1" pm="."><plain>The neurons are made to compete through mutually inhibitory synapses to provide timed electrical oscillations that stimulate the peripheral end of vagus nerve at specific points of the respiratory cycle: the inspiratory phase (φ(1)), the early expiratory phase (φ(2)) and the late expiratory phase (φ(3)) </plain></SENT>
+<SENT sid="2" pm="."><plain>In this way the CPG hardware mimics the neuron populations in the brainstem which through connections with cardiac vagal motoneurones control respiratory sinus <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> (RSA) </plain></SENT>
+<SENT sid="3" pm="."><plain>Here, we time the output of the CPG hardware from the phrenic nerve activity recorded from rats while monitoring heart rate changes evoked by vagal nerve stimulation (derived from ECG) controlled by the CPG </plain></SENT>
+<SENT sid="4" pm="."><plain>This neuroelectric stimulation has the effect of reducing the heart rate and increasing the arterial pressure </plain></SENT>
+<SENT sid="5" pm="."><plain>The artificially induced RSA strongly depends on the timing of pulses within the breathing cycle </plain></SENT>
+<SENT sid="6" pm="."><plain>It is strongest when the vagus nerve is stimulated during the inspiratory phase (φ(1)) or the early expiratory phase (φ(2)) in which case the heart rate slows by 50% of the <z:mpath ids='MPATH_458'>normal</z:mpath> rate </plain></SENT>
+<SENT sid="7" pm="."><plain>Heart rate modulation is less when the same exact stimulus is applied during the late expiratory phase (φ(3)) </plain></SENT>
+<SENT sid="8" pm="."><plain>These trials show that neurostimulation by CPG hardware can augment respiratory sinus <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> </plain></SENT>
+<SENT sid="9" pm="."><plain>The CPG hardware technology opens a new line of therapeutic possibilities for prosthetic devices that restore RSA in patients where respiratory-cardiac coupling has been lost </plain></SENT>
+</text></document>

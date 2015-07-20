@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVES: <z:chebi fb="1" ids="3098">Bile acids</z:chebi> and acid are implicated in the development of <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Evidence suggests that <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> <z:mpath ids='MPATH_167'>intestinal metaplasia</z:mpath> may occur via induction of caudal homeobox gene 2 (CDX2) </plain></SENT>
+<SENT sid="2" pm="."><plain>We hypothesized that induction of CDX2 by <z:chebi fb="1" ids="3098">bile acids</z:chebi> may be due to ligand-dependent transactivation of epidermal growth factor receptor (EGFR) </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: Human mucosal epithelial cells (SEG-1) were treated for 0 to 24 h with up to 300 microM <z:chebi fb="0" ids="28834">deoxycholic acid</z:chebi> (DCA) at pH 7 or 5 with or without (w/wo) antibodies against EGFR ligand-binding site (Mab528, 3-5 mug/ml) </plain></SENT>
+<SENT sid="4" pm="."><plain>Treatment with 100 ng/ml EGF served as control </plain></SENT>
+<SENT sid="5" pm="."><plain>CDX2 <z:chebi fb="2" ids="33699">mRNA</z:chebi> expression was determined by real-time polymerase chain reaction </plain></SENT>
+<SENT sid="6" pm="."><plain>EGFR activation was analyzed by Westerns of phosphorylated EGFR tyrosines </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: Acid (pH 5) increased the induction of CDX2 <z:chebi fb="2" ids="33699">mRNA</z:chebi> expression caused by DCA </plain></SENT>
+<SENT sid="8" pm="."><plain>CDX2 <z:chebi fb="2" ids="33699">mRNA</z:chebi> induction was markedly reduced by EGFR blockade with Mab528 </plain></SENT>
+<SENT sid="9" pm="."><plain>Each treatment (pH 5, DCA or pH 5 plus DCA) activated the EGFR on <z:hpo ids='HP_0000001'>all</z:hpo> tyrosines tested but in different time courses </plain></SENT>
+<SENT sid="10" pm="."><plain>Phosphorylation by DCA was inhibited by Mab528 </plain></SENT>
+<SENT sid="11" pm="."><plain>Activation of EGFR by DCA at pH 5 resulted in EGFR degradation, while that by DCA alone did not </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSION: Thus, CDX2 induction by DCA w/wo acid occurs through ligand-dependent transactivation of the EGFR </plain></SENT>
+<SENT sid="13" pm="."><plain>The variations in EGFR degradation pattern with DCA or DCA at pH 5 indicate differential transactivation pathways </plain></SENT>
+<SENT sid="14" pm="."><plain>The molecular pathogenesis of <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> may occur via bile-stimulated cell signaling through the EGFR </plain></SENT>
+</text></document>

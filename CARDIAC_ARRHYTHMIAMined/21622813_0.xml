@@ -1,0 +1,21 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: The electrically remodeled canine heart after <z:hpo ids='HP_0011010'>chronic</z:hpo> <z:mp ids='MP_0010519'>AV block</z:mp> (CAVB) has a high susceptibility for drug-induced <z:hpo ids='HP_0001664'>torsade de pointes</z:hpo> (TdP) <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Although focal mechanisms have been considered for initiation, there is still controversy about whether reentry is the dominant mechanism for perpetuation of TdP </plain></SENT>
+<SENT sid="2" pm="."><plain>In this animal model with known nonuniform prolongation of repolarization, the mechanism of perpetuation of TdP <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> was explored </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS AND RESULTS: Seventeen TdP-sensitive CAVB and 10 sinus rhythm (SR) dogs were studied </plain></SENT>
+<SENT sid="4" pm="."><plain>In 6 animals, 66 needle electrodes were evenly distributed transmurally to record 240 unipolar local electrograms simultaneously </plain></SENT>
+<SENT sid="5" pm="."><plain>Activation times and activation recovery intervals were determined before and during ibutilide-induced TdP </plain></SENT>
+<SENT sid="6" pm="."><plain>In 12 CAVB and 9 SR dogs, left ventricular (LV) and right ventricular (RV) epicardial electrograms were recorded with a 208-point multiterminal grid electrode allowing conduction velocity (CV) and ventricular effective refractory period (VERP) measurements </plain></SENT>
+<SENT sid="7" pm="."><plain>Biopsy specimens were processed for connexin43 (Cx43) expression and collagen content </plain></SENT>
+<SENT sid="8" pm="."><plain>Ventricular myocytes were isolated to determine <z:chebi fb="199" ids="26708">sodium</z:chebi> current (I(Na)) density and cell dimensions </plain></SENT>
+<SENT sid="9" pm="."><plain>Computer simulations were used to assess the effects of changes therein </plain></SENT>
+<SENT sid="10" pm="."><plain>In CAVB, VERP and ARI were increased, whereas CV was unaltered in LV </plain></SENT>
+<SENT sid="11" pm="."><plain>Transversal but not longitudinal CV was increased in RV </plain></SENT>
+<SENT sid="12" pm="."><plain>I(Na) was reduced by 37% in LV but unaltered in RV </plain></SENT>
+<SENT sid="13" pm="."><plain>LV and RV cell size were increased, but collagen and Cx43 content remained unchanged </plain></SENT>
+<SENT sid="14" pm="."><plain>Simulations showed increase in CV of RV as a consequence of <z:mp ids='MP_0000354'>increased cell size</z:mp> at <z:mpath ids='MPATH_458'>normal</z:mpath> I(Na) </plain></SENT>
+<SENT sid="15" pm="."><plain>Ibutilide increased ARI, ERP, and maximal transmural dispersion of ERP (45 ± 25 to 120 ± 65 ms; P &lt; 0.05) </plain></SENT>
+<SENT sid="16" pm="."><plain>Twenty-eight of 47 episodes of self-terminating TdP (43 ± 72 beats) were analyzed </plain></SENT>
+<SENT sid="17" pm="."><plain>The majority (&gt; 90%) of beats were focal; reentry was observed only occasionally </plain></SENT>
+<SENT sid="18" pm="."><plain>CONCLUSIONS: Focal activity is the dominant mechanism involved in perpetuation of ibutilide-induced TdP in CAVB dogs based on detailed 3D mapping </plain></SENT>
+<SENT sid="19" pm="."><plain>This conclusion is in line with unaltered conduction and documented increase in VERP </plain></SENT>
+</text></document>

@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We have developed a bioassay for human IL-4 based upon its ability to upregulate CD23 (low affinity IgE receptor) expression </plain></SENT>
+<SENT sid="1" pm="."><plain>Ramos, a B lymphocyte line derived from a Burkitt <z:hpo ids='HP_0002665'>lymphoma</z:hpo>, was repetitively subcloned yielding a clone, Ramos.G6.C10, which is several fold more sensitive to this effect of IL-4 </plain></SENT>
+<SENT sid="2" pm="."><plain>In microtiter plates cells were cultured for 48 h in the presence of dilutions of recombinant human IL-4 or samples, and then stained with murine anti-human CD23 and goat anti-mouse IgG-<z:chebi fb="0" ids="37926">FITC</z:chebi> </plain></SENT>
+<SENT sid="3" pm="."><plain>IL-4 induced an eight-fold increase (60 channel shift) in fluorescence intensity as measured by flow cytometry </plain></SENT>
+<SENT sid="4" pm="."><plain>Significant effects were observed at an IL-4 concentration of 50-100 pg/ml and increased with concentrations up to 800 pg/ml </plain></SENT>
+<SENT sid="5" pm="."><plain>Inter- and intra-assay coefficients of variation were 10% and 11% respectively </plain></SENT>
+<SENT sid="6" pm="."><plain>The bioassay showed good specificity for IL-4; however, <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> <z:mp ids='MP_0001651'>necrosis</z:mp> factors alpha and beta, at optimal concentrations, gave readings barely at the threshold of detection </plain></SENT>
+</text></document>

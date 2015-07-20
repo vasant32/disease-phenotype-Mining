@@ -1,0 +1,5 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 65-year-old white female without <z:e sem="disease" ids="C0024138,C0024141,C0024131,C0409974" disease_type="Disease or Syndrome" abbrv="">lupus</z:e> developed concurrent <z:hpo ids='HP_0001873'>thrombocytopenia</z:hpo> and disturbed arterial circulation to the brain and lower leg (a minor <z:hpo ids='HP_0001297'>stroke</z:hpo> and lower leg <z:hpo ids='HP_0100758'>gangrene</z:hpo>, necessitating <z:mpath ids='MPATH_686'>amputation</z:mpath>) </plain></SENT>
+<SENT sid="1" pm="."><plain>Laboratory studies disclosed high levels of anticardiolipin antibodies </plain></SENT>
+<SENT sid="2" pm="."><plain><z:chebi fb="3" ids="50249">Anticoagulant</z:chebi> treatment restored circulation in the remaining leg and also normalized platelet levels </plain></SENT>
+<SENT sid="3" pm="."><plain>This case emphasizes the importance of searching for anticardiolipin antibodies in unexplained thrombotic events </plain></SENT>
+</text></document>

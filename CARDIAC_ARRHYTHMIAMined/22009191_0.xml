@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIM: To determine the frequency of occurrence, risk factors, clinical spectrum and drugs associated with adverse drug reactions (ADRs) occurring in the coronary care unit (CCU) of a tertiary care hospital </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: This was a retrospective cohort study based on evaluation of the medical records of consecutive patients admitted to the CCU between January 2008 and December 2008 </plain></SENT>
+<SENT sid="2" pm="."><plain>Each prescription was monitored for ADRs, and each ADR was assessed for causality, severity, predictability and preventability by two physicians using relevant scales </plain></SENT>
+<SENT sid="3" pm="."><plain>The chi-square test and independent t test were used to compare the ADR and non-ADR groups </plain></SENT>
+<SENT sid="4" pm="."><plain>Multiple binary logistic regression was used to identify risk factors for developing ADRs in the CCU </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: Of 595 patients, 152 (25.5%) developed ADRs, of which 45% were potentially preventable </plain></SENT>
+<SENT sid="6" pm="."><plain>Severe ADRs constituted 28.6% of the total ADRs </plain></SENT>
+<SENT sid="7" pm="."><plain>Patients who developed an ADR had a longer duration of stay in the hospital (2.8 extra days) (p &lt; 0.05) </plain></SENT>
+<SENT sid="8" pm="."><plain><z:hpo ids='HP_0002900'>Hypokalemia</z:hpo>/<z:hpo ids='HP_0002153'>hyperkalemia</z:hpo> (22%), <z:mp ids='MP_0001914'>bleeding</z:mp> (11%) and <z:hpo ids='HP_0011675'>cardiac arrhythmias</z:hpo> (11%) were the commonest ADRs </plain></SENT>
+<SENT sid="9" pm="."><plain>The highest rates of ADRs were seen with streptokinase (59.4%) </plain></SENT>
+<SENT sid="10" pm="."><plain>The predictors for developing an ADR in the CCU included <z:hpo ids='HP_0000082'>renal dysfunction</z:hpo> [odds ratio (OR) 1.66, 95% confidence interval (CI) 1.007-2.72], <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> (OR 1.74, 95% CI 1.052-2.87) and polypharmacy with more than ten drugs (OR 11.3, 95% CI 1.45-87.44) </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSION: A high frequency of ADR occurrence was identified, with many of the ADRs being potentially preventable </plain></SENT>
+<SENT sid="12" pm="."><plain>Patients with <z:hpo ids='HP_0000082'>renal dysfunction</z:hpo> or <z:hpo ids='HP_0011675'>cardiac arrhythmias</z:hpo> and those receiving polypharmacy were at an increased risk for developing an ADR in the CCU </plain></SENT>
+</text></document>

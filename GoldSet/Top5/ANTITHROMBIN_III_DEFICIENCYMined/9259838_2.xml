@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A prospective, randomized, controlled trial to examine the effects of antithrombin supplementation on mortality, coagulation and renal function has been carried out on 132 intensive care patients </plain></SENT>
+<SENT sid="1" pm="."><plain>Antithrombin activity was measured in <z:hpo ids='HP_0000001'>all</z:hpo> patients on admission to the intensive care unit (ICU) </plain></SENT>
+<SENT sid="2" pm="."><plain>Patients with an antithrombin activity of less than 70% were randomized to either receive antithrombin replacement or to act as controls </plain></SENT>
+<SENT sid="3" pm="."><plain>Antithrombin activity was maintained above 70% in the treated patients throughout their stay on ICU </plain></SENT>
+<SENT sid="4" pm="."><plain>Ninety-three patients had an antithrombin activity of less than 70% and 35 received replacement therapy </plain></SENT>
+<SENT sid="5" pm="."><plain>Patients with antithrombin activity below 70% remained on the ICU significantly longer and had a significantly higher mortality rate than patients with antithrombin activity above 70% </plain></SENT>
+<SENT sid="6" pm="."><plain>Antithrombin supplementation neither reduced mortality nor shortened the intensive care stay </plain></SENT>
+<SENT sid="7" pm="."><plain>Fifty patients with reduced antithrombin activity remained on the ICU for at least 4 days, 25 received antithrombin and 25 acted as controls; coagulation parameters and renal function have been monitored in these patients </plain></SENT>
+<SENT sid="8" pm="."><plain>Fibrinogen concentration and platelet count were unaffected by antithrombin replacement </plain></SENT>
+<SENT sid="9" pm="."><plain>Antithrombin supplementation did not appear to reduce the incidence of <z:hpo ids='HP_0000082'>impaired renal function</z:hpo> in <z:hpo ids='HP_0100806'>sepsis</z:hpo>, trauma and postoperative patients </plain></SENT>
+<SENT sid="10" pm="."><plain>The <z:chebi fb="0" ids="16737">creatinine</z:chebi> clearance fell below 20 ml/min in eight patients in the no-treatment arm while by comparison only three patients in the treatment arm developed <z:hpo ids='HP_0000082'>impaired renal function</z:hpo> </plain></SENT>
+<SENT sid="11" pm="."><plain>Our study does not demonstrate a clear role for the use of antithrombin supplementation in intensive care, however the finding that antithrombin reduced <z:e sem="disease" ids="C0341697" disease_type="Disease or Syndrome" abbrv="">renal impairment</z:e> is encouraging and a larger study to confirm this finding is at present underway </plain></SENT>
+</text></document>

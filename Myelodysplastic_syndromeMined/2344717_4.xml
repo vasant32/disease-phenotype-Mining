@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The prognostic value of cytological features was assessed in 132 patients with de novo <z:hpo ids='HP_0011009'>acute</z:hpo> <z:mpath ids='MPATH_342'>myeloid leukaemia</z:mpath> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">AML</z:e>) treated by <z:chebi fb="0" ids="48120">anthracycline</z:chebi>-<z:chebi fb="1" ids="16040">cytosine</z:chebi>-<z:chebi fb="0" ids="22601">arabinoside</z:chebi> combination chemotherapy </plain></SENT>
+<SENT sid="1" pm="."><plain>Of these patients, 98 (75%) achieved complete remission (CR) </plain></SENT>
+<SENT sid="2" pm="."><plain>A significantly lower CR rate was seen in patients with trilineage <z:e sem="disease" ids="C0026986" disease_type="Neoplastic Process" abbrv="MDS">dysmyelopoiesis</z:e> (TDMP) (P = 0.003), but not in patients with dyserythropoiesis and/or dysgranulopoiesis without abnormal megakaryocytes </plain></SENT>
+<SENT sid="3" pm="."><plain>Other unfavourable factors were age greater than 50 years (P = 0.042), leucocyte count greater than 100 x 10(9)/l (P = 0.006), M5 FAB subtype (P = 0.013), presence of complex cytogenetic rearrangement or abnormalities of chromosome 5 and/or 7 (P = 0.001) </plain></SENT>
+<SENT sid="4" pm="."><plain>Bone marrow <z:hpo ids='HP_0001880'>eosinophilia</z:hpo> greater than 3% was significantly associated with a higher CR rate (P = 0.04) </plain></SENT>
+<SENT sid="5" pm="."><plain>In a multivariate analysis, a low CR rate was best predicted by the presence of a complex karyotype or abnormalities of chromosome 5 and/or 7 (P = 0.0001) and by the TDMP (P = 0.0036) </plain></SENT>
+<SENT sid="6" pm="."><plain>Median actuarial disease-free survival (DFS) was 24 months </plain></SENT>
+<SENT sid="7" pm="."><plain>Actuarial DFS was significantly shorter in patients with TDMP (P = 0.0001) and an elevated leucocyte count (P = 0.02) </plain></SENT>
+<SENT sid="8" pm="."><plain>Age, FAB subtype and karyotype had no significant incidence on DFS </plain></SENT>
+<SENT sid="9" pm="."><plain>Presence of TDMP appears to be an important prognostic factor in de novo <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">AML</z:e> </plain></SENT>
+<SENT sid="10" pm="."><plain>This could be used as one of the guidelines to therapy </plain></SENT>
+</text></document>

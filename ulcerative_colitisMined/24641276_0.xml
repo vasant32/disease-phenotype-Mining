@@ -1,0 +1,19 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: In recent years, the gut microbiota has been found to provide an important link to the development of <z:e sem="disease" ids="C0021390" disease_type="Disease or Syndrome" abbrv="">inflammatory bowel diseases</z:e> (IBD) like <z:hpo ids='HP_0100279'>ulcerative colitis</z:hpo> (UC) </plain></SENT>
+<SENT sid="1" pm="."><plain>Accordingly, inter-individual variation in the gut microbial community may be linked to inter-individual variation in the risk of IBD or other diseases </plain></SENT>
+<SENT sid="2" pm="."><plain>Further, the Terminal Restriction Fragment Length Polymorphism (T-RFLP) is a molecular biology technique for profiling <z:mp ids='MP_0001794'>bacterial</z:mp> species in faecal samples </plain></SENT>
+<SENT sid="3" pm="."><plain>This study was to evaluate a biomarker based on intestinal microbiota </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS: The study subjects were 69 patients with UC together with 80 relatives as controls </plain></SENT>
+<SENT sid="5" pm="."><plain>Twenty-three patients had active UC (group I) and 46 had quiescent UC (group II) </plain></SENT>
+<SENT sid="6" pm="."><plain>The later included 17 patients with mild <z:mp ids='MP_0001845'>inflammation</z:mp> in the large intestine (group IIa), 29 without <z:mp ids='MP_0001845'>inflammation</z:mp> (group IIb) </plain></SENT>
+<SENT sid="7" pm="."><plain>The patients' relatives were consanguineous (group III, n = 47), and non-consanguineous (group IV, n = 33) </plain></SENT>
+<SENT sid="8" pm="."><plain>Faecal samples were obtained from <z:hpo ids='HP_0000001'>all</z:hpo> subjects for the investigation of intestinal microbiota by applying the T-RFLP method </plain></SENT>
+<SENT sid="9" pm="."><plain>The Discriminant analysis of operational-taxonomic-unit (OTU) on T-RFLP fingerprints was performed </plain></SENT>
+<SENT sid="10" pm="."><plain>The Canonical Discriminant Function Coefficient (Df) for each OTU was calculated </plain></SENT>
+<SENT sid="11" pm="."><plain>The individual OTUs were multiplied by the Df value, and the sum was termed the Discriminant Score (Ds) </plain></SENT>
+<SENT sid="12" pm="."><plain>RESULTS: The Ds decreased thus: group I &gt; group IIa &gt; group IIb &gt; group III &gt; group IV </plain></SENT>
+<SENT sid="13" pm="."><plain>Significant difference was calculated for group I vs group IV (P &lt; 0.01), group I vs group IIb (P &lt; 0.05), group I vs group III (P &lt; 0.01), group IIa vs IV (P &lt; 0.01), group IIb vs group IV (P &lt; 0.01), group III vs group IV (P &lt; 0.01), indicating a strong association between gut microbial species and the development of UC </plain></SENT>
+<SENT sid="14" pm="."><plain>CONCLUSIONS: In this study, the Ds related to UC, or otherwise absence of UC in the five groups </plain></SENT>
+<SENT sid="15" pm="."><plain>Potentially, Ds may become a clinically relevant biomarker of disease activity in UC </plain></SENT>
+<SENT sid="16" pm="."><plain>To our knowledge, this is the first application of the Ds to the study of microbiota in UC patients, consanguineous and non-consanguineous relatives </plain></SENT>
+<SENT sid="17" pm="."><plain>TRIAL REGISTRATION: Clinical trial No: UMIN 000004123 </plain></SENT>
+</text></document>

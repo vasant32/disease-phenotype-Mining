@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Excessive adverse events were encountered in a Phase I/II study of <z:chebi fb="0" ids="4027">cyclophosphamide</z:chebi> (CY) dose deescalation in a fludarabine-based conditioning regimen for bone marrow transplantation from unrelated donors in patients with severe <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> patients received fixed doses of antithymocyte globulin, fludarabine, and low-dose total body irradiation </plain></SENT>
+<SENT sid="2" pm="."><plain>The starting CY dose was 150 mg/kg, with deescalation to 100 mg/kg, 50 mg/kg, or 0 mg/kg </plain></SENT>
+<SENT sid="3" pm="."><plain>CY dose level 0 mg/kg was closed due to graft failure in 3 of 3 patients </plain></SENT>
+<SENT sid="4" pm="."><plain>CY dose level 150 mg/kg was closed due to excessive organ toxicity (n = 6) or <z:mp ids='MP_0001799'>viral</z:mp> <z:hpo ids='HP_0002090'>pneumonia</z:hpo> (n = 1), resulting in the <z:hpo ids='HP_0011420'>death</z:hpo> of 7 of 14 patients </plain></SENT>
+<SENT sid="5" pm="."><plain>CY dose levels 50 and 100 mg/kg remain open </plain></SENT>
+<SENT sid="6" pm="."><plain>Thus, CY at doses of 150 mg/kg in combination with total body irradiation (2 Gy), fludarabine (120 mg/m(2)), and antithymocyte globulin was associated with excessive organ toxicity </plain></SENT>
+</text></document>

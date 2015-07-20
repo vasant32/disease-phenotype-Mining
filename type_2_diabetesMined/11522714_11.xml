@@ -1,0 +1,21 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: The ACE insertion/deletion (I/D) polymorphism has been identified as a genetic risk factor for <z:e sem="disease" ids="C0010068" disease_type="Disease or Syndrome" abbrv="">coronary heart disease</z:e> (CHD) </plain></SENT>
+<SENT sid="1" pm="."><plain>The deletion (D) allele of the ACE gene may be associated with higher insulin sensitivity </plain></SENT>
+<SENT sid="2" pm="."><plain>Individuals who are homozygous for the DD allele have higher ACE levels and possibly more <z:chebi fb="0" ids="2719,48432">angiotensin II</z:chebi>, which, when infused exogenously, causes an increase in insulin sensitivity </plain></SENT>
+<SENT sid="3" pm="."><plain>The purpose of this study was to investigate the association of the I/D polymorphism of the ACE gene with insulin sensitivity and CHD risk factors </plain></SENT>
+<SENT sid="4" pm="."><plain>RESEARCH DESIGN AND METHODS: The study included 66 women (ages 57 +/- 1 years) who were overweight or <z:mp ids='MP_0001261'>obese</z:mp> (means +/- <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">SEM</z:e>, BMI = 33 +/- 1 kg/m(2)) and sedentary (VO(2max) = 19.6 +/- 0.4 ml </plain></SENT>
+<SENT sid="5" pm="."><plain>kg(-1) </plain></SENT>
+<SENT sid="6" pm="."><plain>min(1)) </plain></SENT>
+<SENT sid="7" pm="."><plain>Total body fat mass and percent fat were determined by dual-energy X-ray absorptiometry, and abdominal fat was by computed tomography </plain></SENT>
+<SENT sid="8" pm="."><plain>Insulin sensitivity was measured during the last 30 min of 3-h hyperinsulinemic-euglycemic clamps (40 mU </plain></SENT>
+<SENT sid="9" pm="."><plain>m(-2) </plain></SENT>
+<SENT sid="10" pm="."><plain>min(-1)) </plain></SENT>
+<SENT sid="11" pm="."><plain>Comparisons were made among women with the II (n = 9), ID (n = 36), and DD (n = 21) genotypes </plain></SENT>
+<SENT sid="12" pm="."><plain>RESULTS: Age, percent body fat, waist-to-hip ratio, visceral and subcutaneous abdominal fat areas, plasma <z:chebi fb="23" ids="18059">lipid</z:chebi> levels, and systolic and diastolic blood pressures did not differ by ACE genotype </plain></SENT>
+<SENT sid="13" pm="."><plain>Fasting <z:chebi fb="105" ids="17234">glucose</z:chebi> and 2-h <z:chebi fb="105" ids="17234">glucose</z:chebi> levels were similar among genotypes, but fasting plasma insulin levels were lower in DD women than in ID women (P &lt; 0.05) </plain></SENT>
+<SENT sid="14" pm="."><plain><z:chebi fb="105" ids="17234">Glucose</z:chebi> utilization was higher in women with the DD genotype than in women with the II genotype (53.1 +/- 3.9 vs. 36.0 +/- 3.8 micromol </plain></SENT>
+<SENT sid="15" pm="."><plain>kg(-1) FFM </plain></SENT>
+<SENT sid="16" pm="."><plain>min(-1), P = 0.01) and was higher in ID women than in II women (48.5 +/- 2.5 micromol </plain></SENT>
+<SENT sid="17" pm="."><plain>kg(-1) FFM </plain></SENT>
+<SENT sid="18" pm="."><plain>min(-1), P = 0.04) </plain></SENT>
+<SENT sid="19" pm="."><plain>CONCLUSIONS: These data suggest that the I/D polymorphism is not associated with risk factors for CHD in overweight sedentary women; however, women who are homozygous for the D allele of the ACE gene are more insulin sensitive, whereas women who are homozygous for the I allele of the ACE gene have greater <z:hpo ids='HP_0000855'>insulin resistance</z:hpo> and potential risk for type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+</text></document>

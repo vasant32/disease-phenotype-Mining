@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>DNA topoisomerase II (topo II) is an essential nuclear enzyme and is the target for <z:chebi fb="0" ids="4911">etoposide</z:chebi>, which is used in the therapy of childhood <z:hpo ids='HP_0011009'>acute</z:hpo> lymphoblastic <z:mpath ids='MPATH_336'>leukaemia</z:mpath> (ALL) </plain></SENT>
+<SENT sid="1" pm="."><plain>Topo II exists as two isoforms referred to as topo IIalpha and topo IIbeta </plain></SENT>
+<SENT sid="2" pm="."><plain>To determine whether cellular levels of topo IIalpha and beta are an important factor in determining drug sensitivity/resistance requires accurate, precise measurements of the two isoforms </plain></SENT>
+<SENT sid="3" pm="."><plain>We have developed a quantitative Western blotting method to accurately measure the absolute amounts of human topo IIalpha and beta, using recombinant human topo IIalpha and beta as standards </plain></SENT>
+<SENT sid="4" pm="."><plain>This quantitative method has been used to assess the efficiency of several commonly used topo II extraction protocols </plain></SENT>
+<SENT sid="5" pm="."><plain>The extractable amount of topo IIalpha and beta was found to be salt-dependent </plain></SENT>
+<SENT sid="6" pm="."><plain>However extraction using the optimal salt concentration was found to be as efficient as extraction with DNase I/Rnase A digestion and <z:chebi fb="26" ids="8984">SDS</z:chebi> solubilisation </plain></SENT>
+<SENT sid="7" pm="."><plain>Using the optimum extraction procedure and the quantitative immunoblotting method, topo IIalpha and beta was quantified in cell lines, peripheral blood lymphocytes and in lymphoblasts from children with newly diagnosed ALL </plain></SENT>
+</text></document>

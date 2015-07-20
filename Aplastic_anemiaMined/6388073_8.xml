@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The influence of assay method on steady-state <z:chebi fb="0" ids="4031">cyclosporine</z:chebi> (CsA) pharmacokinetics was studied in 18 patients with <z:hpo ids='HP_0001909'>leukemia</z:hpo> or <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> undergoing allogeneic marrow transplantation who received i.v </plain></SENT>
+<SENT sid="1" pm="."><plain>CsA for prophylaxis or treatment of <z:e sem="disease" ids="C0018133" disease_type="Disease or Syndrome" abbrv="GVH">graft-versus-host disease</z:e> </plain></SENT>
+<SENT sid="2" pm="."><plain>Since CsA is extensively metabolized and subject to biliary elimination, CsA courses were divided according to the presence (serum <z:chebi fb="0" ids="16990">bilirubin</z:chebi> greater than 2.0 mg/dl) or absence (serum <z:chebi fb="0" ids="16990">bilirubin</z:chebi> less than or equal to 1.2 mg/dl) of hepatic dysfunction </plain></SENT>
+<SENT sid="3" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> patients had <z:mpath ids='MPATH_458'>normal</z:mpath> renal function </plain></SENT>
+<SENT sid="4" pm="."><plain>Serum CsA concentrations were measured concurrently by radioimmunoassay (RIA) and high-performance liquid chromatography (HPLC) </plain></SENT>
+<SENT sid="5" pm="."><plain>Serum concentration-time data were analyzed by standard nonlinear regression methods </plain></SENT>
+<SENT sid="6" pm="."><plain>Systemic clearance (<z:chebi fb="193" ids="17996">Cls</z:chebi>) calculated from HPLC results was higher than that derived from RIA results, regardless of hepatic function (P less than 0.05) </plain></SENT>
+<SENT sid="7" pm="."><plain>These data indicate that results obtained by RIA overestimate CSP concentrations, presumably because of the presence of crossreactive CSP metabolites </plain></SENT>
+<SENT sid="8" pm="."><plain>These differences can significantly affect derived pharmacokinetic parameters </plain></SENT>
+<SENT sid="9" pm="."><plain>Therefore, clinicians who make dosage recommendations based on pharmacokinetic parameters should consider the effect of assay method </plain></SENT>
+</text></document>

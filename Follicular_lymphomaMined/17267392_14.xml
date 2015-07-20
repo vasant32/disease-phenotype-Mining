@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The observation of repeated events for subjects in cohort studies could be terminated by loss to follow-up, end of study, or a major failure event such as <z:hpo ids='HP_0011420'>death</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>In this context, the major failure event could be correlated with recurrent events, and the usual assumption of noninformative censoring of the recurrent event process by <z:hpo ids='HP_0011420'>death</z:hpo>, required by most statistical analyses, can be violated </plain></SENT>
+<SENT sid="2" pm="."><plain>Recently, joint modeling for 2 survival processes has received considerable attention because it makes it possible to study the joint evolution over time of 2 processes and gives unbiased and efficient parameters </plain></SENT>
+<SENT sid="3" pm="."><plain>The most commonly used estimation procedure in the joint models for survival events is the expectation maximization algorithm </plain></SENT>
+<SENT sid="4" pm="."><plain>We show how maximum penalized likelihood estimation can be applied to nonparametric estimation of the continuous hazard functions in a general joint frailty model with right censoring and delayed entry </plain></SENT>
+<SENT sid="5" pm="."><plain>The simulation study demonstrates that this semiparametric approach yields satisfactory results in this complex setting </plain></SENT>
+<SENT sid="6" pm="."><plain>As an illustration, such an approach is applied to a prospective cohort with recurrent events of follicular <z:hpo ids='HP_0002665'>lymphomas</z:hpo>, jointly modeled with <z:hpo ids='HP_0011420'>death</z:hpo> </plain></SENT>
+</text></document>

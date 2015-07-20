@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Thrombolytic agents may be useful in the treatment of <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> caused by <z:hpo ids='HP_0004420'>arterial thrombosis</z:hpo> or embolic occlusion </plain></SENT>
+<SENT sid="1" pm="."><plain>A trial of intravenous human tissue-type plasminogen activator (rt-PA) was carried out in seven male Sprague-Dawley rats subjected to embolic <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo>, with eight control animals </plain></SENT>
+<SENT sid="2" pm="."><plain>One-hour-old autogenous blood clot was injected into the internal carotid artery </plain></SENT>
+<SENT sid="3" pm="."><plain>A 30-minute infusion of 10 micrograms/kg/minute of rt-PA or saline followed </plain></SENT>
+<SENT sid="4" pm="."><plain>Areas of <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> at two hours post-embolization were assessed by digital image processing of serial <z:chebi fb="0" ids="43448">iodo</z:chebi>-14C-<z:chebi fb="0" ids="31225">antipyrine</z:chebi> autoradiographic images </plain></SENT>
+<SENT sid="5" pm="."><plain>The volumes of "no-flow" (NF) and "low-flow" (LF) regions were calculated </plain></SENT>
+<SENT sid="6" pm="."><plain>One animal in each group suffered no detectable <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e>; the remainder had well-defined regions of middle and posterior cerebral artery <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> </plain></SENT>
+<SENT sid="7" pm="."><plain>No animal sustained a hemorrhagic lesion </plain></SENT>
+<SENT sid="8" pm="."><plain>Treatment produced no noticeable effect on the patency of cervical vessels </plain></SENT>
+<SENT sid="9" pm="."><plain>Total NF and LF volumes were less for the treated group but did not reach statistical significance by t-test </plain></SENT>
+<SENT sid="10" pm="."><plain>In middle cerebral distribution sections, however, LF volume was significantly less (p less than 0.05) for treated animals (150 vs. 191 mm3), primarily due to a more significant decrease in LF volume in the anterior-middle cerebral overlap zone (47 vs. 90 mm3; p less than 0.025) </plain></SENT>
+<SENT sid="11" pm="."><plain>Fibrinogen levels were not altered by drug treatment (p greater than 0.30) </plain></SENT>
+</text></document>

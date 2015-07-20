@@ -1,0 +1,6 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0005110'>Atrial fibrillation</z:hpo> is a common <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> in clinical practice </plain></SENT>
+<SENT sid="1" pm="."><plain>It is associated with high morbidity and mortality due to its thromboembolic potential, which makes thromboembolic prevention particularly important </plain></SENT>
+<SENT sid="2" pm="."><plain><z:chebi fb="8" ids="10033">Warfarin</z:chebi> has been the first-line therapy for this purpose, but it has various limitations and is often contraindicated or underutilized </plain></SENT>
+<SENT sid="3" pm="."><plain>The fact that <z:e sem="disease" ids="C0087086" disease_type="Disease or Syndrome" abbrv="">thrombi</z:e> are frequently located in the left atrial appendage in <z:hpo ids='HP_0005110'>atrial fibrillation</z:hpo> led to the development of percutaneous closure for thromboembolic prevention </plain></SENT>
+<SENT sid="4" pm="."><plain>This article examines the current evidence on percutaneous closure of the left atrial appendage by reviewing the results of the numerous clinical trials on the technique </plain></SENT>
+</text></document>

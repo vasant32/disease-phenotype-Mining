@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: <z:chebi fb="46" ids="15035">Retinal</z:chebi> S-antigen (S-Ag) is a most characterized autoantigen of autoimmune <z:hpo ids='HP_0000554'>uveitis</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>The recognized immunodominant <z:chebi fb="0" ids="53000">epitope</z:chebi> of human S-Ag in patients with <z:hpo ids='HP_0000554'>uveitis</z:hpo> has not been identified </plain></SENT>
+<SENT sid="2" pm="."><plain>In this study, we selected certain patients with active <z:hpo ids='HP_0000554'>uveitis</z:hpo> to map the Th1 cell <z:chebi fb="0" ids="53000">epitope</z:chebi> spectrum of human S-Ag in <z:e sem="disease" ids="C0004943" disease_type="Disease or Syndrome" abbrv="">Behcet's disease</z:e>(BD) </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: Blood samples were taken from eight active BD patients who showed an immune response to 40 mixed overlapping <z:chebi fb="7" ids="16670">peptides</z:chebi> spanning the entire sequence of human S-Ag </plain></SENT>
+<SENT sid="4" pm="."><plain>Peripheral blood mononuclear cells were isolated and stimulated with single S-Ag <z:chebi fb="7" ids="16670">peptide</z:chebi> at 5 microg/ml or 20 microg/ml </plain></SENT>
+<SENT sid="5" pm="."><plain>Single-cell immune responses were measured by IFN-gamma ELIspot assay </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: BD patients heterogeneously responded to the S-Ag <z:chebi fb="7" ids="16670">peptides</z:chebi> at two concentrations </plain></SENT>
+<SENT sid="7" pm="."><plain>In general, the responses to 5 microg/ml <z:chebi fb="7" ids="16670">peptides</z:chebi> were slightly stronger than those to 20 microg/ml <z:chebi fb="7" ids="16670">peptides</z:chebi>, while the maximum SFC frequency to single <z:chebi fb="7" ids="16670">peptide</z:chebi> at the two concentrations was similar </plain></SENT>
+<SENT sid="8" pm="."><plain>Several <z:chebi fb="7" ids="16670">peptides</z:chebi> including P31, P35 and P40 induced a prominent response, with the frequency of S-Ag specific cells being about 0.007% </plain></SENT>
+<SENT sid="9" pm="."><plain>Significant reactivity pattern shift was noted in patients with different disease courses </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSIONS: Certain active BD patients have S-Ag specific Th1 cells with a low frequency </plain></SENT>
+<SENT sid="11" pm="."><plain>The S-Ag <z:chebi fb="0" ids="53000">epitope</z:chebi> specificity between patients is highly <z:hpo ids='HP_0001425'>heterogeneous</z:hpo>, and varies with the <z:hpo ids='HP_0000554'>uveitis</z:hpo> course </plain></SENT>
+</text></document>

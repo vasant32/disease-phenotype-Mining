@@ -1,0 +1,22 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PURPOSE: Analysis of the value of the perfusion parameter mean transit time (<z:chebi fb="0" ids="53233">MTT</z:chebi>) for the diagnosis of <z:e sem="disease" ids="C0265110" disease_type="Disease or Syndrome" abbrv="">cerebral vasospasm</z:e> after <z:hpo ids='HP_0002138'>Subarachnoid Hemorrhage</z:hpo> (SAH) </plain></SENT>
+<SENT sid="1" pm="."><plain>Comparison with other perfusion parameters </plain></SENT>
+<SENT sid="2" pm="."><plain>An <z:chebi fb="0" ids="53233">MTT</z:chebi> threshold indicating the necessity of conventional angiography will be defined </plain></SENT>
+<SENT sid="3" pm="."><plain>MATERIALS AND METHODS: We analyzed the CT Perfusion (<z:chebi fb="22" ids="17677">CTP</z:chebi>) of 20 patients suffering from SAH (Fisher grading 3 and 4) </plain></SENT>
+<SENT sid="4" pm="."><plain>In each patient a baseline examination was performed the day after treatment of the ruptured <z:hpo ids='HP_0002617'>aneurysm</z:hpo> </plain></SENT>
+<SENT sid="5" pm="."><plain>Follow-up was indicated for the occurrence of clinical symptoms, pathologic Doppler values or the first day after endovascular therapy </plain></SENT>
+<SENT sid="6" pm="."><plain>The cortical mean transit time (<z:chebi fb="0" ids="53233">MTT</z:chebi>), T (max,) cerebral blood flow (CBF) and cerebral blood volume (CBV) were calculated </plain></SENT>
+<SENT sid="7" pm="."><plain>A vasospasm score resulting from the Doppler values and clinical neurological symptoms was compared to <z:chebi fb="0" ids="53233">MTT</z:chebi> in the follow-up </plain></SENT>
+<SENT sid="8" pm="."><plain>The outcome after discharge from the intensive care unit was compared to the maximum <z:chebi fb="0" ids="53233">MTT</z:chebi> </plain></SENT>
+<SENT sid="9" pm="."><plain>RESULTS: 18 patients were able to be evaluated </plain></SENT>
+<SENT sid="10" pm="."><plain>We found parallelism between the time course of <z:chebi fb="0" ids="53233">MTT</z:chebi> and clinical symptoms in 14 of 18 patients </plain></SENT>
+<SENT sid="11" pm="."><plain>In 4 of 18 patients no relationship between <z:chebi fb="0" ids="53233">MTT</z:chebi> and clinical symptoms was found </plain></SENT>
+<SENT sid="12" pm="."><plain>There is a good correlation between the clinical outcome at the time of discharge and the <z:chebi fb="0" ids="53233">MTT</z:chebi> </plain></SENT>
+<SENT sid="13" pm="."><plain>Clinical symptoms occurred if the <z:chebi fb="0" ids="53233">MTT</z:chebi> was between 3.2 and 4.0 s </plain></SENT>
+<SENT sid="14" pm="."><plain>An <z:chebi fb="0" ids="53233">MTT</z:chebi> above 4.0 s resulted in a bad clinical outcome </plain></SENT>
+<SENT sid="15" pm="."><plain>9 of 18 patients showed angiographic criteria for endovascular treatment </plain></SENT>
+<SENT sid="16" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> those patients showed an <z:chebi fb="0" ids="53233">MTT</z:chebi> of more than 3.2 s at the time of angiography </plain></SENT>
+<SENT sid="17" pm="."><plain>CONCLUSION: The analysis of the cortical perfusion parameter <z:chebi fb="0" ids="53233">MTT</z:chebi> is suitable for revealing clinically relevant global and regional vasospasm </plain></SENT>
+<SENT sid="18" pm="."><plain>A risk potential prediction is possible </plain></SENT>
+<SENT sid="19" pm="."><plain>An <z:chebi fb="0" ids="53233">MTT</z:chebi> of 3.2 s indicates a conventional angiography (DSA) </plain></SENT>
+<SENT sid="20" pm="."><plain>This should be verified using a larger number of patients </plain></SENT>
+</text></document>

@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0002902'>Hyponatremia</z:hpo> is a common complication in patients with aneurysmal <z:hpo ids='HP_0002138'>subarachnoid hemorrhage</z:hpo> (SAH) </plain></SENT>
+<SENT sid="1" pm="."><plain>Such patient demonstrates excessive <z:mp ids='MP_0006316'>natriuresis</z:mp> and an increased risk of symptomatic <z:e sem="disease" ids="C0265110" disease_type="Disease or Syndrome" abbrv="">cerebral vasospasm</z:e> </plain></SENT>
+<SENT sid="2" pm="."><plain>However, the precise mechanisms underlying SAH induced <z:hpo ids='HP_0002902'>hyponatremia</z:hpo> remain unclear </plain></SENT>
+<SENT sid="3" pm="."><plain>In the present study, in order to establish an experimental model of <z:hpo ids='HP_0002902'>hyponatremia</z:hpo> following SAH, we induced SAH in rats, and evaluated the serum <z:chebi fb="199" ids="26708">sodium</z:chebi> (Na) levels, Na excretion and physiological parameters </plain></SENT>
+<SENT sid="4" pm="."><plain>Twenty-four male Wistar rats were used </plain></SENT>
+<SENT sid="5" pm="."><plain>SAH was induced by an endovascular puncture method </plain></SENT>
+<SENT sid="6" pm="."><plain>The mean arterial pressure (MAP), intracranial pressure (ICP), and cerebral blood flow (CBF) were monitored continuously </plain></SENT>
+<SENT sid="7" pm="."><plain>The urine was collected cumulatively for 12 hours after SAH, and the urine Na concentration was determined with a spectrophotometer </plain></SENT>
+<SENT sid="8" pm="."><plain>The serum Na levels were measured at 12 hrs, 2 and 4 days following the SAH induction </plain></SENT>
+<SENT sid="9" pm="."><plain>The mean (+/- standard deviation) baseline ICP was 3.5 +/- 2.6 mmHg, and increased to 67.4 +/- 17.6 mmHg immediately following induction of SAH </plain></SENT>
+<SENT sid="10" pm="."><plain>CBF decreased rapidly, and then gradually recovered to 70-80% of baseline </plain></SENT>
+<SENT sid="11" pm="."><plain>The urine volume and total Na excretion were significantly increased in comparison to those of the sham (P &lt; 0.05) </plain></SENT>
+<SENT sid="12" pm="."><plain>The serum Na level was significantly decreased at 4 days following SAH (P &lt; 0.05) </plain></SENT>
+<SENT sid="13" pm="."><plain>The present results demonstrated for the first time that rats with SAH exhibited excessive <z:mp ids='MP_0006316'>natriuresis</z:mp> </plain></SENT>
+<SENT sid="14" pm="."><plain>The endovascular puncture model is suitable for investigating <z:hpo ids='HP_0002902'>hyponatremia</z:hpo> that occurs concomitantly with <z:mp ids='MP_0006316'>natriuresis</z:mp> and <z:mp ids='MP_0001762'>diuresis</z:mp> after SAH </plain></SENT>
+</text></document>

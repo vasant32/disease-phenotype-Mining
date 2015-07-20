@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>In <z:hpo ids='HP_0002664'>oncology</z:hpo> 2-deoxy-2-[(18)F]fluoro-<z:chebi fb="0" ids="4167">D-glucose</z:chebi> ([(18)F]-FDG), a <z:chebi fb="105" ids="17234">glucose</z:chebi> analogue, is the most used <z:chebi fb="4" ids="30225">positron</z:chebi> emission tomography (PET) tracer </plain></SENT>
+<SENT sid="1" pm="."><plain>There are however some limitations due to low metabolic activity or high surrounding physiological uptake in several <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumors</z:e> or regions </plain></SENT>
+<SENT sid="2" pm="."><plain>Investigating new tracers or methods is expensive and elaborative when animal experiments or phase I clinical trials are used </plain></SENT>
+<SENT sid="3" pm="."><plain>In vitro experiments can overcome these limitations </plain></SENT>
+<SENT sid="4" pm="."><plain>We analyzed the influence of incubation time, cell medium conditions, administered activity, and cell density on [(18)F]-FDG uptake in six different cell cultures </plain></SENT>
+<SENT sid="5" pm="."><plain><z:chebi fb="105" ids="17234">Glucose</z:chebi> transporter 1 (GLUT1)- and hexokinase 2 (HK2)-expression at high and low cell density was analyzed using immunocytochemistry </plain></SENT>
+<SENT sid="6" pm="."><plain>FDG-uptake increases over time and absence of <z:chebi fb="105" ids="17234">glucose</z:chebi> in the incubation medium increases uptake </plain></SENT>
+<SENT sid="7" pm="."><plain>By increasing the administered activity, uptake per protein also increases and tracer uptake per protein is lower at higher cell densities </plain></SENT>
+<SENT sid="8" pm="."><plain>Immunocytochemical analysis reveals a lower expression of both GLUT1 and HK2 at higher cell concentrations </plain></SENT>
+<SENT sid="9" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> investigated parameters influenced FDG uptake and therefore we can conclude it is of utmost importance to keep administered activity, incubation medium, and time constant and to correct uptake when cell density changes due to environmental conditions, such as therapy </plain></SENT>
+</text></document>

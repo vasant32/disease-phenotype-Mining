@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND PURPOSE: Andrographolide is a <z:chebi fb="0" ids="23849">diterpenoid</z:chebi> <z:chebi fb="0" ids="25000">lactone</z:chebi> isolated from a traditional medicinal herb, Andrographis paniculata </plain></SENT>
+<SENT sid="1" pm="."><plain>It possesses potent anti-inflammatory activity </plain></SENT>
+<SENT sid="2" pm="."><plain>The present study examined potential therapeutic effects of andrographolide on <z:e sem="disease" ids="C0917798" disease_type="Disease or Syndrome" abbrv="">cerebral ischaemia</z:e> using a rat model with permanent middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (pMCAO) </plain></SENT>
+<SENT sid="3" pm="."><plain>EXPERIMENTAL APPROACH: The <z:chebi fb="70" ids="34342">MCA</z:chebi> in rats was permanently occluded (by cautery), and 24 h later neurological effects were assessed with behavioural scores </plain></SENT>
+<SENT sid="4" pm="."><plain><z:mpath ids='MPATH_124'>Infarct</z:mpath> volume and microglial activation were determined histologically </plain></SENT>
+<SENT sid="5" pm="."><plain>The p65 form of the transcription factor, nuclear factor-κB (NF-κB), was measured by Western blot, and cytokines by immunoassay of brain extracts </plain></SENT>
+<SENT sid="6" pm="."><plain>KEY RESULTS: Andrographolide, given i.p </plain></SENT>
+<SENT sid="7" pm="."><plain>1 h after pMCAO, reduced <z:mpath ids='MPATH_124'>infarct</z:mpath> volume with a maximum reduction of approximately 50% obtained at 0.1 mg·kg(-1) </plain></SENT>
+<SENT sid="8" pm="."><plain>Neurological deficits were also reduced by andrographolide, reflecting a correlation between <z:mpath ids='MPATH_124'>infarct</z:mpath> volume and neurological deficits </plain></SENT>
+<SENT sid="9" pm="."><plain>pMCAO was found to induce activation of microglia and elevate <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumour</z:e> <z:mp ids='MP_0001651'>necrosis</z:mp> factor (TNF)-α, interleukin (IL)-1β and <z:chebi fb="11" ids="26333">prostaglandin</z:chebi> (PG)E(2) in the ischaemic brain areas </plain></SENT>
+<SENT sid="10" pm="."><plain>Andrographolide (0.1 mg·kg(-1)) significantly attenuated or abolished these effects </plain></SENT>
+<SENT sid="11" pm="."><plain>In addition, andrographolide suppressed the translocation of p65 from cytosol to nucleus, indicating reduced NF-κB activation </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS AND IMPLICATIONS: Andrographolide exhibited neuroprotective effects, with accompanying suppression of NF-κB and microglial activation, and reduction in the production of cytokines including TNF-α and IL-1β, and pro-inflammatory factors such as <z:chebi fb="0" ids="26338">PGE</z:chebi>(2) </plain></SENT>
+<SENT sid="13" pm="."><plain>Our findings suggest that andrographolide may have therapeutic value in the treatment of <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+</text></document>

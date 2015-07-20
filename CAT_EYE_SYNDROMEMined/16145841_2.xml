@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:e sem="disease" ids="C0265493" disease_type="Disease or Syndrome" abbrv="CES">Cat eye syndrome</z:e> is a rare developmental defect associated with duplication of chromosome 22q11 </plain></SENT>
+<SENT sid="1" pm="."><plain>The patients demonstrate specific abnormalities of heart, kidney, and eye </plain></SENT>
+<SENT sid="2" pm="."><plain>Here we attempted to produce a model for this defect by expressing CECR1 <z:chebi fb="3" ids="16335">adenosine</z:chebi> deaminase, a gene duplicated in <z:e sem="disease" ids="C0265493" disease_type="Disease or Syndrome" abbrv="CES">cat eye syndrome</z:e> patients, in mice </plain></SENT>
+<SENT sid="3" pm="."><plain>The transgenic mice expressed CECR1 under the control of either beta-actin promoter for ubiquitous expression or myosin heavy chain for heart-specific expression </plain></SENT>
+<SENT sid="4" pm="."><plain>The transgenics expressing CECR1 in the heart demonstrated high rate of embryonic and <z:mp ids='MP_0002058'>neonatal lethality</z:mp> </plain></SENT>
+<SENT sid="5" pm="."><plain>The mice from <z:hpo ids='HP_0000001'>all</z:hpo> the lines examined showed enlargement of the heart </plain></SENT>
+<SENT sid="6" pm="."><plain><z:hpo ids='HP_0000077'>Abnormalities of the kidney</z:hpo> and eye were also detected in mice expressing CECR1 under control of the actin promoter </plain></SENT>
+</text></document>

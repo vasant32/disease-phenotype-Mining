@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We studied brain retroperfusion in nine adult baboons </plain></SENT>
+<SENT sid="1" pm="."><plain>Experiments in four baboons determined techniques and the safety of retroperfusion, and experiments in three baboons determined the ability of retroperfusion to reverse <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>Two baboons died before retroperfusion </plain></SENT>
+<SENT sid="3" pm="."><plain>Arterial blood was continuously circulated by an external pumping system from one femoral artery into the intracranial sinuses through specially designed balloon-tipped catheters placed percutaneously into the sigmoid sinuses bilaterally </plain></SENT>
+<SENT sid="4" pm="."><plain>The balloons intermittently occluded the sinuses </plain></SENT>
+<SENT sid="5" pm="."><plain><z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">Ischemia</z:e> was produced by occluding the left middle cerebral artery </plain></SENT>
+<SENT sid="6" pm="."><plain>Standard and computed electroencephalography with topographic mapping monitored the <z:hpo ids='HP_0003674'>onset</z:hpo> and reversal of <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> </plain></SENT>
+<SENT sid="7" pm="."><plain>Retroperfusion rate exceeded 50 ml/min with a mean intrasinus pressure increase of 27 (0-149) mm Hg in <z:hpo ids='HP_0000001'>all</z:hpo> seven experiments </plain></SENT>
+<SENT sid="8" pm="."><plain>Venograms demonstrated complete or partial filling of the superior sagittal sinus in each experiment </plain></SENT>
+<SENT sid="9" pm="."><plain>Four experiments without <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> established maximal balloon occlusion cycles, retroperfusion rates, and sinus pressure changes </plain></SENT>
+<SENT sid="10" pm="."><plain>These four baboons were neurologically <z:mpath ids='MPATH_458'>normal</z:mpath> after retroperfusion; two had <z:mpath ids='MPATH_458'>normal</z:mpath> magnetic resonance imaging scans </plain></SENT>
+<SENT sid="11" pm="."><plain>Ischemic changes, detected by electroencephalography following middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp>, were reversed with retroperfusion in <z:hpo ids='HP_0000001'>all</z:hpo> three <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> experiments </plain></SENT>
+<SENT sid="12" pm="."><plain>Autopsies in the seven baboons demonstrated no parenchymal <z:mp ids='MP_0001914'>hemorrhage</z:mp> or <z:hpo ids='HP_0000969'>edema</z:hpo> </plain></SENT>
+<SENT sid="13" pm="."><plain>Our results suggest that further investigation of retroperfusion, and possibly retroinfusion of agents for cerebral protection, is warranted </plain></SENT>
+</text></document>

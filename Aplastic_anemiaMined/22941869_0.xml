@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Comparing disease prevalence in two groups is an important topic in medical research, and prevalence rates are obtained by classifying subjects according to whether they have the disease </plain></SENT>
+<SENT sid="1" pm="."><plain>Both high-cost infallible gold-standard classifiers or low-cost fallible classifiers can be used to classify subjects </plain></SENT>
+<SENT sid="2" pm="."><plain>However, statistical analysis that is based on data sets with misclassifications leads to biased results </plain></SENT>
+<SENT sid="3" pm="."><plain>As a compromise between the two classification approaches, partially validated sets are often used in which <z:hpo ids='HP_0000001'>all</z:hpo> individuals are classified by fallible classifiers, and some of the individuals are validated by the accurate gold-standard classifiers </plain></SENT>
+<SENT sid="4" pm="."><plain>In this article, we develop several reliable test procedures and approximate sample size formulas for disease prevalence studies based on the difference between two disease prevalence rates with two independent partially validated series </plain></SENT>
+<SENT sid="5" pm="."><plain>Empirical studies show that (i) the Score test produces close-to-nominal level and is preferred in practice; and (ii) the sample size formula based on the Score test is also fairly accurate in terms of the empirical power and type I error rate, and is hence recommended </plain></SENT>
+<SENT sid="6" pm="."><plain>A real example from an <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> study is used to illustrate the proposed methodologies </plain></SENT>
+</text></document>

@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The diagnosis of <z:e sem="disease" ids="C0265110" disease_type="Disease or Syndrome" abbrv="">cerebral vasospasm</z:e> (CVS) following <z:hpo ids='HP_0002138'>subarachnoid hemorrhage</z:hpo> (SAH) is still challenging </plain></SENT>
+<SENT sid="1" pm="."><plain>We evaluate the accuracy of time of flight <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e> angiography (TOF-MRA) to assess the arterial diameters of the circle of Willis in SAH patients with suspected CVS </plain></SENT>
+<SENT sid="2" pm="."><plain><z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e> examinations (1.5 Tesla) including 3D TOF-MRA with maximum intensity projections (MIP) and digital subtraction angiography (DSA) were performed within 24 h in 21 patients with <z:hpo ids='HP_0011009'>acute</z:hpo> aneurysmal SAH and suspicion of CVS </plain></SENT>
+<SENT sid="3" pm="."><plain>Arterial diameters of the circle of Willis including the distal internal carotid artery (ICA) were measured as ratios to the extradural ICA in standard projections </plain></SENT>
+<SENT sid="4" pm="."><plain>The diagnosis of CVS was established by comparing the <z:chebi fb="2" ids="8069">luminal</z:chebi> size of baseline and follow-up DSA </plain></SENT>
+<SENT sid="5" pm="."><plain>The correlation between the arterial ratios measured on MIP angiograms and on follow-up DSA was assessed with Pearson's linear regression analysis </plain></SENT>
+<SENT sid="6" pm="."><plain>Arterial ratios on MIP angiograms were categorized as correct, overestimated, and underestimated compared to the ratios on follow-up DSA </plain></SENT>
+<SENT sid="7" pm="."><plain>Pearson's correlation coefficient between the ratios of MIP angiograms and DSA was r = 0.5799 and the regression coefficient was b = 0.4775 </plain></SENT>
+<SENT sid="8" pm="."><plain>Highest correlation was found for the category of severe CVS (r = 0.8201) </plain></SENT>
+<SENT sid="9" pm="."><plain>Of <z:hpo ids='HP_0000001'>all</z:hpo> MIP angiograms, 34.9% showed consistent results compared to the DSA, while 44.2% of MIP images overestimated the vascular narrowing </plain></SENT>
+<SENT sid="10" pm="."><plain>Standard MIP angiograms from TOF-MRA are not accurate to assess vascular narrowing in patients with suspected CVS after aneurysmal SAH </plain></SENT>
+<SENT sid="11" pm="."><plain>The multifocal arterial stenoses in CVS may induce severe changes in blood flow dynamics, which compromise the diagnostic accuracy of the TOF-MRA </plain></SENT>
+</text></document>

@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: The concept of classification of clinical data can be utilized in the development of an effective diagnosis system by taking the advantage of computational intelligence </plain></SENT>
+<SENT sid="1" pm="."><plain><z:mp ids='MP_0002055'>Diabetes</z:mp> disease diagnosis via proper interpretation of the <z:mp ids='MP_0002055'>diabetes</z:mp> data is an important problem in neural networks </plain></SENT>
+<SENT sid="2" pm="."><plain>Unfortunately, although several classification studies have been carried out with significant performance, many of the current methods often fail to reach out to patients </plain></SENT>
+<SENT sid="3" pm="."><plain>Graphical user interface-enabled tools need to be developed through which medical practitioners can simply enter the health profiles of their patients and receive an instant <z:mp ids='MP_0002055'>diabetes</z:mp> prediction with an acceptable degree of confidence </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS: In this study, the neural network approach was used for a dataset of 768 persons from a Pima Indian population living near Phoenix, AZ </plain></SENT>
+<SENT sid="5" pm="."><plain>A neural network mixture of experts model was trained with these data using the expectation-minimization algorithm </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: The mixture of experts method was used to train the algorithm with 97% accuracy </plain></SENT>
+<SENT sid="7" pm="."><plain>A graphical user interface was developed that would work in conjunction with the trained network to provide the output in a presentable format </plain></SENT>
+<SENT sid="8" pm="."><plain>CONCLUSIONS: This study provides a machine-implementable approach that can be used by physicians and patients to minimize the extent of error in diagnosis </plain></SENT>
+<SENT sid="9" pm="."><plain>The authors are hopeful that replication of results of this study in other populations may lead to improved diagnosis </plain></SENT>
+<SENT sid="10" pm="."><plain>Physicians can simply enter the health profile of patients and get the diagnosis for <z:mp ids='MP_0002055'>diabetes</z:mp> type 2 </plain></SENT>
+</text></document>

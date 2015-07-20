@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIMS/HYPOTHESIS: The aims of this study were to assess the clinical significance of introducing HbA(1c) into a risk score for <z:mp ids='MP_0002055'>diabetes</z:mp> and to develop a scoring system to predict the 5 year incidence of <z:mp ids='MP_0002055'>diabetes</z:mp> in Japanese individuals </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: The study included 7,654 non-diabetic individuals aged 40-75 years </plain></SENT>
+<SENT sid="2" pm="."><plain>Incident <z:mp ids='MP_0002055'>diabetes</z:mp> was defined as fasting plasma <z:chebi fb="105" ids="17234">glucose</z:chebi> (FPG) ≥7.0 mmol/l, HbA(1c) ≥6.5% (48 mmol/mol) or self-reported clinician-diagnosed <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="3" pm="."><plain>We constructed a risk score using non-laboratory assessments (NLA) and evaluated improvements in risk prediction by adding elevated FPG, elevated HbA(1c) or both to NLA </plain></SENT>
+<SENT sid="4" pm="."><plain>RESULTS: The discriminative ability of the NLA score (age, sex, family history of <z:mp ids='MP_0002055'>diabetes</z:mp>, current smoking and BMI) was 0.708 </plain></SENT>
+<SENT sid="5" pm="."><plain>The difference in discrimination between the NLA + FPG and NLA + HbA(1c) scores was non-significant (0.836 vs 0.837; p = 0.898) </plain></SENT>
+<SENT sid="6" pm="."><plain>A risk score including family history of <z:mp ids='MP_0002055'>diabetes</z:mp>, smoking, <z:hpo ids='HP_0001513'>obesity</z:hpo> and both FPG and HbA(1c) had the highest discrimination (0.887, 95% CI 0.871, 0.903) </plain></SENT>
+<SENT sid="7" pm="."><plain>At an optimal cut-off point, sensitivity and specificity were high at 83.7% and 79.0%, respectively </plain></SENT>
+<SENT sid="8" pm="."><plain>After initial screening using NLA scores, subsequent information on either FPG or HbA(1c) resulted in a net reclassification improvement of 42.7% or 52.3%, respectively (p &lt; 0.0001) </plain></SENT>
+<SENT sid="9" pm="."><plain>When both were available, net reclassification improvement and integrated discrimination improvement were further improved at 56.7% (95% CI 47.3%, 66.1%) and 10.9% (9.7%, 12.1%), respectively </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSIONS/INTERPRETATION: Information on HbA(1c) or FPG levels after initial screening by NLA can precisely refine <z:mp ids='MP_0002055'>diabetes</z:mp> risk reclassification </plain></SENT>
+</text></document>

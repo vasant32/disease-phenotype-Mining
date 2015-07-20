@@ -1,0 +1,18 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: To evaluate the first results of laparoscopic splenectomy for haematological diseases and the learning curve </plain></SENT>
+<SENT sid="1" pm="."><plain>DESIGN: Retrospective </plain></SENT>
+<SENT sid="2" pm="."><plain>PATIENTS AND METHODS: Data of <z:hpo ids='HP_0000001'>all</z:hpo> patients who underwent a laparoscopic splenectomy in October 1994-July 1998 in the University Hospital Rotterdam, Department of surgery, the Netherlands, were collected from electronic databases </plain></SENT>
+<SENT sid="3" pm="."><plain>Data on postoperative complications were collected from medical records </plain></SENT>
+<SENT sid="4" pm="."><plain>Patients with <z:hpo ids='HP_0001744'>splenomegaly</z:hpo> (&gt; 15 cm) were not eligible for the procedure </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: 28 patients were eligible for a laparoscopic splenectomy </plain></SENT>
+<SENT sid="6" pm="."><plain>The male:female ratio was 1:4 </plain></SENT>
+<SENT sid="7" pm="."><plain>The mean age was 35 years </plain></SENT>
+<SENT sid="8" pm="."><plain>The indications for surgery were <z:hpo ids='HP_0001973'>idiopathic thrombocytopenic purpura</z:hpo> (<z:chebi fb="0" ids="16039">ITP</z:chebi>; n = 24), <z:e sem="disease" ids="C0017551" disease_type="Disease or Syndrome" abbrv="">Gilbert syndrome</z:e> (n = 1), <z:hpo ids='HP_0004444'>spherocytosis</z:hpo> (n = 1), <z:e sem="disease" ids="C0039730" disease_type="Disease or Syndrome" abbrv="">thalassaemia</z:e> (n = 1) and <z:hpo ids='HP_0001878'>haemolytic anaemia</z:hpo> with <z:chebi fb="0" ids="16039">ITP</z:chebi> (n = 1) </plain></SENT>
+<SENT sid="9" pm="."><plain>Conversion to an open procedure was necessary in 5 of 28 laparoscopic splenectomies (18%) </plain></SENT>
+<SENT sid="10" pm="."><plain>The median operating time was 172 minutes </plain></SENT>
+<SENT sid="11" pm="."><plain>Complications occurred in four patients: <z:hpo ids='HP_0002090'>pneumonia</z:hpo> (n = 2), <z:mp ids='MP_0001914'>bleeding</z:mp> (n = 1) and <z:e sem="disease" ids="C0149801" disease_type="Disease or Syndrome" abbrv="">urosepsis</z:e> (n = 1) </plain></SENT>
+<SENT sid="12" pm="."><plain>The median hospital stay was 5 days (range: 1-18) </plain></SENT>
+<SENT sid="13" pm="."><plain>The first 14 laparoscopic splenectomies differed from the following 14 by a higher conversion rate (p = 0.01), a longer operation time (p = 0.002) and a longer hospital stay (p = 0.004) </plain></SENT>
+<SENT sid="14" pm="."><plain>In 23 out of 25 patients with <z:chebi fb="0" ids="16039">ITP</z:chebi> the thrombocyte count became <z:mpath ids='MPATH_458'>normal</z:mpath> </plain></SENT>
+<SENT sid="15" pm="."><plain>CONCLUSION: Laparoscopic splenectomy is associated with a learning curve, with a high incidence of conversion in the early procedures </plain></SENT>
+<SENT sid="16" pm="."><plain>It appears to be a safe and effective operation </plain></SENT>
+</text></document>

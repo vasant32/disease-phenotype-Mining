@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:e sem="disease" ids="C0014858" disease_type="Disease or Syndrome" abbrv="">Esophageal dysmotility</z:e> is common in patients with <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Previously we have reported deterioration of esophageal motility after photodynamic therapy (<z:chebi fb="7" ids="53228">PDT</z:chebi>) in a <z:hpo ids='HP_0001425'>heterogeneous</z:hpo> group of patients with <z:hpo ids='HP_0011459'>esophageal carcinoma</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>This prospective study in consecutive patients describes changes in motility noted after endoscopic ablation </plain></SENT>
+<SENT sid="3" pm="."><plain>Forty-seven patients referred to our institution for endoscopic ablation for Barrett's high grade <z:mpath ids='MPATH_589'>dysplasia</z:mpath> or mucosal <z:mp ids='MP_0002038'>carcinoma</z:mp> between August 2001 and May 2003 were prospectively evaluated with esophageal manometry before and after porfimer <z:chebi fb="199" ids="26708">sodium</z:chebi> <z:chebi fb="7" ids="53228">PDT</z:chebi> </plain></SENT>
+<SENT sid="4" pm="."><plain>Six patients did not complete the study </plain></SENT>
+<SENT sid="5" pm="."><plain>Manometry results were classified as <z:mpath ids='MPATH_458'>normal</z:mpath>, <z:e sem="disease" ids="C0014863" disease_type="Disease or Syndrome" abbrv="">diffuse esophageal spasm</z:e>, ineffective esophageal motility, or aperistalsis </plain></SENT>
+<SENT sid="6" pm="."><plain>Abnormal esophageal motility was found in 14 of 47 (30%) patients at study entry ([<z:e sem="disease" ids="C0014863" disease_type="Disease or Syndrome" abbrv="">diffuse esophageal spasm</z:e>] DES-3, [ineffective esophageal motility] IEM-7, Aperistalsis-4) </plain></SENT>
+<SENT sid="7" pm="."><plain>After <z:chebi fb="7" ids="53228">PDT</z:chebi>, 11 of 41 patients with paired studies experienced a change in manometric diagnosis </plain></SENT>
+<SENT sid="8" pm="."><plain>Three patients had an improvement in motility, seven a worsening and one changed diagnosis, but did not particularly worsen or improve </plain></SENT>
+<SENT sid="9" pm="."><plain>No patient developed new aperistalsis </plain></SENT>
+<SENT sid="10" pm="."><plain>Therefore, abnormal motility was present in 19 of 41 (46%) patients after <z:chebi fb="7" ids="53228">PDT</z:chebi> (DES-2, IEM-14, Aperistalsis-3) </plain></SENT>
+<SENT sid="11" pm="."><plain>There was a statistically significant (P = 0.016) relationship with longer segment <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> and deterioration of function </plain></SENT>
+<SENT sid="12" pm="."><plain>Baseline abnormalities in motility can occur in patients with Barrett's high-grade <z:mpath ids='MPATH_589'>dysplasia</z:mpath> or mucosal <z:mp ids='MP_0002038'>carcinoma</z:mp> </plain></SENT>
+<SENT sid="13" pm="."><plain>Changes in esophageal function also may occur following photodynamic therapy, but usually are not clinically significant </plain></SENT>
+<SENT sid="14" pm="."><plain>Worsening in function was more likely to occur in patients with longer segment <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> </plain></SENT>
+</text></document>

@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Reelin (Reln) is a protein involved in migration of newborn neurons during development </plain></SENT>
+<SENT sid="1" pm="."><plain>Reln mutations produce the reeler phenotype in mice, which is characterized by a defect in brain lamination, and <z:hpo ids='HP_0000007'>autosomal recessive</z:hpo> <z:hpo ids='HP_0001339'>lissencephaly</z:hpo> in humans </plain></SENT>
+<SENT sid="2" pm="."><plain>Reln expression persists in adult brain, but little is known about its function </plain></SENT>
+<SENT sid="3" pm="."><plain>We used reeler mice to investigate the effects of Reln deficiency on neurogenesis and the response to injury in the adult brain </plain></SENT>
+<SENT sid="4" pm="."><plain>Newborn neurons were decreased in number in the dentate gyrus and rostral migratory stream of reeler, compared to <z:mp ids='MP_0002169'>wild-type</z:mp>, mice </plain></SENT>
+<SENT sid="5" pm="."><plain>This was due, at least in part, to impaired cell migration </plain></SENT>
+<SENT sid="6" pm="."><plain>In addition, reeler mice showed <z:mp ids='MP_0003076'>increased susceptibility to ischemic brain injury</z:mp> </plain></SENT>
+<SENT sid="7" pm="."><plain>Cerebral <z:mpath ids='MPATH_124'>infarcts</z:mpath> from middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> were larger in reeler than in <z:mp ids='MP_0002169'>wild-type</z:mp> mice, and associated neurobehavioral abnormalities were more severe </plain></SENT>
+<SENT sid="8" pm="."><plain>The brains of reeler mice also showed larger excitotoxic lesions after the intracerebral injection of <z:chebi fb="0" ids="31882">N-methyl-D-aspartate</z:chebi> </plain></SENT>
+<SENT sid="9" pm="."><plain>Finally, despite the fact that reeler mice had larger cerebral <z:mpath ids='MPATH_124'>infarcts</z:mpath>, the <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e>-induced enhancement of neurogenesis observed in <z:mp ids='MP_0002169'>wild-type</z:mp> mice was attenuated </plain></SENT>
+<SENT sid="10" pm="."><plain>These findings suggest that, in addition to its neurodevelopmental effects, Reln deficiency continues to influence neurogenesis and ischemic neuronal injury in the adult brain </plain></SENT>
+</text></document>

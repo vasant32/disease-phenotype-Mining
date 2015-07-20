@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>In this work, cardio-ventilatory coupling (CVC) refers to the statistical relationship between the <z:hpo ids='HP_0003674'>onset</z:hpo> of either inspiration (I) or expiration (E) and the timing of heartbeats (R-waves) before and after these respiratory events </plain></SENT>
+<SENT sid="1" pm="."><plain>CVC was assessed in healthy, young (&lt;45 yr), resting, supine subjects (n = 19) </plain></SENT>
+<SENT sid="2" pm="."><plain>Four intervals were analyzed: time from I-<z:hpo ids='HP_0003674'>onset</z:hpo> to both the prior R-wave (R-to-I) and the following R-wave (I-to-R), as well as time from E-<z:hpo ids='HP_0003674'>onset</z:hpo> to both the prior R-wave (R-to-E) and following R-wave (E-to-R) </plain></SENT>
+<SENT sid="3" pm="."><plain>The degree of coupling was quantified in terms of transformed relative Shannon entropy (tRSE), and χ(2) tests based on histograms of interval times from 200 breaths </plain></SENT>
+<SENT sid="4" pm="."><plain>Subjects were studied twice, from 5 to 27 days apart, and the test-retest reliability of CVC measures was computed </plain></SENT>
+<SENT sid="5" pm="."><plain>Several factors pointed to the relative importance of the R-to-I interval compared with other intervals </plain></SENT>
+<SENT sid="6" pm="."><plain>Coupling was significantly stronger for the R-to-I interval, coupling reliability was largest for the R-to-I interval, and only tRSE for the R-to-I interval was correlated with height, weight, and body surface area </plain></SENT>
+<SENT sid="7" pm="."><plain>The high test-retest reliability for CVC in the R-to-I interval provides support for the hypothesis that CVC strength is a subject trait </plain></SENT>
+<SENT sid="8" pm="."><plain>Across subjects, a peak ~138 ms prior to I-<z:hpo ids='HP_0003674'>onset</z:hpo> was characteristic of CVC in the R-to-I interval, although individual subjects also had earlier peaks (longer R-to-I intervals) </plain></SENT>
+<SENT sid="9" pm="."><plain>CVC for the R-to-I interval was unrelated to two separate measures of respiratory sinus <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> (RSA), suggesting that these two forms of coupling (CVC and RSA) are independent </plain></SENT>
+</text></document>

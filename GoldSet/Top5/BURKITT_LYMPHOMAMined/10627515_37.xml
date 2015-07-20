@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">Infection</z:e> by Epstein-Barr virus (EBV) generates several types of latency with different profiles of gene expression but with expression of Epstein-Barr nuclear antigen 1 (EBNA-1) in common </plain></SENT>
+<SENT sid="1" pm="."><plain>The BamHI Q promoter (Qp) is used for the transcription of EBNA-1 mRNA in type I latency, which is an <z:e sem="disease" ids="C0149678" disease_type="Disease or Syndrome" abbrv="">EBV infection</z:e> state exemplified by Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">BL</z:e>) </plain></SENT>
+<SENT sid="2" pm="."><plain>However, Qp is inactive in type III latency, and other promoters (C/Wp) are used for transcription of EBNA-1, which raises the question of how usage of these promoters is governed </plain></SENT>
+<SENT sid="3" pm="."><plain>Interferon (IFN) regulatory factor 7 (IRF-7) was identified first as a negative regulator of Qp </plain></SENT>
+<SENT sid="4" pm="."><plain>Expression of IRF-7 is associated with EBV type III latency, where Qp is inactive, but not with type I latency, raising the possibility that a <z:mp ids='MP_0001799'>viral</z:mp> gene product(s) expressed in type III latency might induce IRF-7 and repress Qp </plain></SENT>
+<SENT sid="5" pm="."><plain>Here, detailed analysis of the expression of IRF-7 revealed that it is associated with the expression of EBV latent membrane protein 1 (LMP-1) and that LMP-1 stimulates the expression of IRF-7 in type III latency in which Qp is inactive </plain></SENT>
+<SENT sid="6" pm="."><plain>In contrast, LMP-1 is not expressed in type I latency cells in which Qp is active </plain></SENT>
+<SENT sid="7" pm="."><plain>LMP-1 represses the constitutive activity of Qp reporter constructs </plain></SENT>
+<SENT sid="8" pm="."><plain>Mutational analysis of Qp reporter constructs revealed that the Qp IFN-stimulated response element (ISRE) is essential for the repression by LMP-1 </plain></SENT>
+<SENT sid="9" pm="."><plain>Furthermore, LMP-1 reduced EBNA-1 mRNA derived from Qp only in type I cells in which IRF-7 could be induced </plain></SENT>
+<SENT sid="10" pm="."><plain>Finally, IFN-alpha, but not IFN-gamma, repressed endogenous Qp activity, which is consistent with the ability of IFN-alpha to induce IRF-7 </plain></SENT>
+<SENT sid="11" pm="."><plain>Thus, IRF-7 may mediate repression of Qp by LMP-1 </plain></SENT>
+<SENT sid="12" pm="."><plain>The induction of IRF-7 by LMP-1 may be relevant to the silencing of Qp in EBV type III latency </plain></SENT>
+</text></document>

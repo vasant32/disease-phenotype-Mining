@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>It is well known that various <z:hpo ids='HP_0011675'>cardiac arrhythmias</z:hpo> are initiated by an ill-timed excitation that originates from a focal region of the heart </plain></SENT>
+<SENT sid="1" pm="."><plain>However, up to now, it is not known what governs the timing, location, and <z:mp ids='MP_0000002'>morphology</z:mp> of these focal excitations </plain></SENT>
+<SENT sid="2" pm="."><plain>Recent studies have shown that these excitations can be caused by abnormalities in the calcium (Ca) cycling system </plain></SENT>
+<SENT sid="3" pm="."><plain>However, the cause-and-effect relationships linking subcellular Ca dynamics and focal activity in cardiac tissue is not completely understood </plain></SENT>
+<SENT sid="4" pm="."><plain>In this article, we present a minimal model of Ca-mediated focal excitations in cardiac tissue </plain></SENT>
+<SENT sid="5" pm="."><plain>This model accounts for the stochastic nature of spontaneous Ca release on a one-dimensional cable of cardiac cells </plain></SENT>
+<SENT sid="6" pm="."><plain>Using this model, we show that the timing of focal excitations is equivalent to a first passage time problem in a spatially extended system </plain></SENT>
+<SENT sid="7" pm="."><plain>In particular, we find that for a short cable the mean first passage time increases exponentially with the number of cells in tissue, and is critically dependent on the ratio of inward to outward currents near the threshold for an action potential </plain></SENT>
+<SENT sid="8" pm="."><plain>For long cables excitations occurs due to ectopic foci that occur on a length scale determined by the minimum length of tissue that can induce an action potential </plain></SENT>
+<SENT sid="9" pm="."><plain>Furthermore, we find that for long cables the mean first passage time decreases as a power law in the number cells </plain></SENT>
+<SENT sid="10" pm="."><plain>These results provide precise criteria for the occurrence of focal excitations in cardiac tissue, and will serve as a guide to determine the propensity of Ca-mediated triggered <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> in the heart </plain></SENT>
+</text></document>

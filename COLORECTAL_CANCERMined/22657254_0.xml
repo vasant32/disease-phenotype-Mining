@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Bevacizumab has been extensively investigated in combination with various standard chemotherapies in the treatment of <z:e sem="disease" ids="C0948380" disease_type="Neoplastic Process" abbrv="">metastatic colorectal cancer</z:e> (mCRC) </plain></SENT>
+<SENT sid="1" pm="."><plain>However, a comparison to irinotecan + infusional <z:chebi fb="0" ids="46345">5-fluorouracil</z:chebi>/leucovorin (FOLFIRI) is lacking </plain></SENT>
+<SENT sid="2" pm="."><plain>OBJECTIVE: To explore clinical effectiveness and cost-effectiveness of adding bevacizumab to a regimen of FOLFIRI for the first-line treatment of mCRC in the Republic of Korea by conducting an indirect treatment comparison </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: A health-economic model was developed to investigate the possible health outcomes (life-years gained [<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">LYG</z:e>]), direct costs, and incremental cost-effectiveness ratio (ICER) of adding bevacizumab to a FOLFIRI regimen </plain></SENT>
+<SENT sid="4" pm="."><plain>Data on progression-free and overall survival were derived from randomized clinical trials and were used in the indirect treatment comparison </plain></SENT>
+<SENT sid="5" pm="."><plain>The annual discount rate for costs and outcomes was 5% </plain></SENT>
+<SENT sid="6" pm="."><plain>A lifetime horizon of 8 years was used </plain></SENT>
+<SENT sid="7" pm="."><plain>Sensitivity analyses were carried out on <z:hpo ids='HP_0000001'>all</z:hpo> pivotal model assumptions </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: Incremental mean overall survival among patients treated with bevacizumab + FOLFIRI varied between 8.6 and 15.7 months compared with patients treated with FOLFIRI alone </plain></SENT>
+<SENT sid="9" pm="."><plain>The deterministic base-case result was 1.177 LYG </plain></SENT>
+<SENT sid="10" pm="."><plain>The discounted ICERs ranged from μ31.8 to μ39.5 million/LYG, with the base-case result being μ34.5 million/LYG </plain></SENT>
+<SENT sid="11" pm="."><plain>Treatment effect had the most impact on the outcomes in this model </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: Although there is no formal threshold for ICER per <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">LYG</z:e> in Korea, funding may be considered for bevacizumab + FOLFIRI, particularly if the severity and end-of-life nature of mCRC is taken into account </plain></SENT>
+</text></document>

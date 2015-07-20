@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Both the Tpeak-Tend interval (Tp-e) and the Tp-e/QT ratio have been linked to increased risk for <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Patient Tp-e/QT ratios were investigated prior to primary percutaneous coronary intervention (pPCI) in patients with ST-segment elevation <z:hpo ids='HP_0001658'>myocardial infarction</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">STEMI</z:e>) </plain></SENT>
+<SENT sid="2" pm="."><plain>HYPOTHESIS: Tp-e/QT ratio maybe associated with the prognosis in patients with ST-segment elevation </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: A total of 338 patients (N = 338) with <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">STEMI</z:e> treated by pPCI were included </plain></SENT>
+<SENT sid="4" pm="."><plain>The Tp-e and Tp-e/QT ratio were determined using electrocardiograms in the subjects exhibiting ST-segment elevation </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: The Tp-e/QT ratio was correlated with both short- and long-term outcomes </plain></SENT>
+<SENT sid="6" pm="."><plain>Analysis of the receiver operating characteristic curve demonstrated that the optimal cutoff value for outcome prediction was a Tp-e/QT ratio of 0.29 </plain></SENT>
+<SENT sid="7" pm="."><plain>Of the 388 patients enrolled, 115 (34.0%) exhibited a Tp-e/QT ratio ≥ 0.29 </plain></SENT>
+<SENT sid="8" pm="."><plain>Patients with a Tp-e/QT ratio ≥ 0.29 showed elevated rates of both in-hospital <z:hpo ids='HP_0011420'>death</z:hpo> (21.9% vs 2.3%; P &lt; 0.001) and main adverse cardiac events (MACE) (48.1% vs 15.3%; P &lt; 0.005) </plain></SENT>
+<SENT sid="9" pm="."><plain>After discharge, Tp-e/QT ratios ≥ 0.29 remained an independent predictor of <z:hpo ids='HP_0000001'>all</z:hpo>-cause <z:hpo ids='HP_0011420'>death</z:hpo> (35.5% vs 5.2%, P &lt; 0.001) and cardiac <z:hpo ids='HP_0011420'>death</z:hpo> (32.3% vs 2.6%, P &lt; 0.001) </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSIONS: The Tp-e/QT ratio may serve as a prognostic predictor of adverse outcomes after successful pPCI treatment in <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">STEMI</z:e> patients </plain></SENT>
+</text></document>

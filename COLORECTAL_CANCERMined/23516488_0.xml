@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Whether UGT1A1*28 genotype is associated with clinical outcomes of irinotecan (IRI)-based chemotherapy in <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">Colorectal cancer</z:e> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e>) is an important gap in existing knowledge to inform clinical utility </plain></SENT>
+<SENT sid="1" pm="."><plain>Published data on the association between UGT1A1*28 gene polymorphisms and clinical outcomes of IRI-based chemotherapy in <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e> were inconsistent </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODOLOGYPRINCIPAL FINDINGS: Literature retrieval, trials selection and assessment, data collection, and statistical analysis were performed according to the PRISMA guidelines </plain></SENT>
+<SENT sid="3" pm="."><plain>Primary outcomes included therapeutic response (TR), progression-free survival (PFS) and overall survival (OS) </plain></SENT>
+<SENT sid="4" pm="."><plain>We calculated odds ratios (OR) and hazard ratios (HR) with 95% confidence intervals (CI) </plain></SENT>
+<SENT sid="5" pm="."><plain>Twelve clinical trials were included </plain></SENT>
+<SENT sid="6" pm="."><plain>No statistical <z:hpo ids='HP_0001425'>heterogeneity</z:hpo> was detected in analyses of <z:hpo ids='HP_0000001'>all</z:hpo> studies and for each subgroup </plain></SENT>
+<SENT sid="7" pm="."><plain>Differences in TR, PFS and OS for any genotype comparison, UGT1A1*28/*28 versus (vs) UGT1A1*1/*1 (homozygous model), UGT1A1*1/*28 vs UGT1A1*1/*1 (heterozygous model), and UGT1A1*28/*28 vs <z:hpo ids='HP_0000001'>all</z:hpo> others (recessive model, only for TR) were not statistically significant </plain></SENT>
+<SENT sid="8" pm="."><plain>IRI dose also did not impact upon TR and PFS differences between UGT1A1 genotype groups </plain></SENT>
+<SENT sid="9" pm="."><plain>A statistically significant increase in the hazard of <z:hpo ids='HP_0011420'>death</z:hpo> was found in Low IRI subgroup of the homozygous model (HR = 1.48, 95% CI = 1.06-2.07; P = 0.02) </plain></SENT>
+<SENT sid="10" pm="."><plain>The UGT1A1*28 allele was associated with a trend of increase in the hazard of <z:hpo ids='HP_0011420'>death</z:hpo> in two models (homozygous model: HR = 1.22, 95% CI = 0.99-1.51; heterozygous model: HR = 1.13, 95% CI = 0.96-1.32) </plain></SENT>
+<SENT sid="11" pm="."><plain>These latter findings were driven primarily by one single large study (Shulman et al </plain></SENT>
+<SENT sid="12" pm="."><plain>2011) </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSIONSSIGNIFICANCE: UGT1A1*28 polymorphism cannot be considered as a reliable predictor of TR and PFS in <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e> patients treated with IRI-based chemotherapy </plain></SENT>
+<SENT sid="14" pm="."><plain>The OS relationship with UGT1A1*28 in the patients with lower-dose IRI chemotherapy requires further validation </plain></SENT>
+</text></document>

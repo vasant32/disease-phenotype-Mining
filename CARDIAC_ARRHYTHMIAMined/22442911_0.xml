@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Aortic valve replacement has some major adverse outcomes </plain></SENT>
+<SENT sid="1" pm="."><plain>For these, the predictors need identification </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: This was a retrospective file study of 1000 consecutive patients who underwent AVR for degenerative <z:e sem="disease" ids="C1260873" disease_type="Disease or Syndrome" abbrv="">aortic valve disease</z:e> </plain></SENT>
+<SENT sid="3" pm="."><plain>Twenty-five preoperative and 5 peroperative factors were screened by a univariate Fisher-exact analysis </plain></SENT>
+<SENT sid="4" pm="."><plain>The predictors were identified in a second step by logistic regression multivariate analysis </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: Five hundred thirty patients were male </plain></SENT>
+<SENT sid="6" pm="."><plain>The mean age was 75 (71-77) years and 610 also underwent CABG </plain></SENT>
+<SENT sid="7" pm="."><plain>For hospital mortality, need for urgent aortic valve replacement (p &lt; 0.001) was the dominant predictor </plain></SENT>
+<SENT sid="8" pm="."><plain>Need for digitalis (p = 0.002) and age &gt; 80 (p = 0.005) followed </plain></SENT>
+<SENT sid="9" pm="."><plain>For postoperative <z:hpo ids='HP_0001635'>congestive heart failure</z:hpo>, need for urgent aortic valve replacement was also dominant (p &lt;0.001) </plain></SENT>
+<SENT sid="10" pm="."><plain><z:hpo ids='HP_0005110'>Atrial fibrillation</z:hpo> (p = 0.001,) and ejection fraction &lt; 50% (p = 0.055) were less important </plain></SENT>
+<SENT sid="11" pm="."><plain>For <z:hpo ids='HP_0004308'>ventricular arrhythmia</z:hpo>, previous infarction (p = 0.025) and ejection fraction &lt; 50% (p = 0.032) were identified </plain></SENT>
+<SENT sid="12" pm="."><plain>For <z:mp ids='MP_0001914'>bleeding</z:mp>, concomitant CABG (p = 0.046) and <z:hpo ids='HP_0006510'>chronic obstructive pulmonary disease</z:hpo> were identified </plain></SENT>
+<SENT sid="13" pm="."><plain>For <z:hpo ids='HP_0001907'>thromboembolic events</z:hpo> only an ejection fraction &lt; 50% (p = 0.027) was identified </plain></SENT>
+<SENT sid="14" pm="."><plain>CONCLUSIONS: Need for urgent aortic valve replacement is the dominant predictor for postoperative mortality and <z:hpo ids='HP_0001635'>congestive heart failure</z:hpo> </plain></SENT>
+<SENT sid="15" pm="."><plain>Once a degenerative <z:e sem="disease" ids="C1260873" disease_type="Disease or Syndrome" abbrv="">aortic valve disease</z:e> becomes symptomatic, prompt referral could prevent the development for need for urgent surgery, with <z:hpo ids='HP_0000001'>all</z:hpo> its adverse postoperative consequences </plain></SENT>
+</text></document>

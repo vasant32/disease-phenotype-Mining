@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The effects of <z:chebi fb="131" ids="25107">magnesium</z:chebi>, an endogenous inhibitor of calcium entry into neurons, upon ischemic brain damage were investigated using a well-characterized model of focal <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> in rats </plain></SENT>
+<SENT sid="1" pm="."><plain><z:mpath ids='MPATH_124'>Infarct</z:mpath> volumes were determined by 2,3,5-triphenyltetrazolium <z:chebi fb="76" ids="17996">chloride</z:chebi> transcardiac perfusion 48 h after middle cerebral artery (<z:chebi fb="70" ids="34342">MCA</z:chebi>) occlusion </plain></SENT>
+<SENT sid="2" pm="."><plain>The area of ischemic damage was quantified by image analysis in coronal sections taken every 0.5 mm </plain></SENT>
+<SENT sid="3" pm="."><plain><z:chebi fb="0" ids="6636">MgCl2</z:chebi> (1 mmol/kg) was injected intraperitoneally just after <z:chebi fb="70" ids="34342">MCA</z:chebi> occlusion and again 1 h later </plain></SENT>
+<SENT sid="4" pm="."><plain>Posttreatment with <z:chebi fb="0" ids="6636">MgCl2</z:chebi> (16 control and 16 treated rats) significantly reduced the cortical <z:mpath ids='MPATH_124'>infarct</z:mpath> volume </plain></SENT>
+<SENT sid="5" pm="."><plain>Compensation for the hyperglycemic effect of <z:chebi fb="0" ids="6636">MgCl2</z:chebi> with insulin (17 rats) further reduced the <z:mpath ids='MPATH_124'>infarct</z:mpath> volume in the neocortex </plain></SENT>
+<SENT sid="6" pm="."><plain>No systemic effects of either treatment could account for the observed neuroprotection </plain></SENT>
+</text></document>

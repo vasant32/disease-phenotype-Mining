@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND AIMS: In <z:e sem="disease" ids="C0242379" disease_type="Neoplastic Process" abbrv="">lung cancer</z:e>, many factors have prognostic significance, including <z:hpo ids='HP_0001894'>thrombocytosis</z:hpo>, which is frequently observed </plain></SENT>
+<SENT sid="1" pm="."><plain>Associations between vascular events, which are the outcomes of paraneoplastic symptoms, and mortality and morbidity has been evaluated in many studies </plain></SENT>
+<SENT sid="2" pm="."><plain>The aim of the present study was to evaluate the relationship between <z:hpo ids='HP_0001894'>thrombocytosis</z:hpo> and vascular events </plain></SENT>
+<SENT sid="3" pm="."><plain>MATERIALS AND METHODS: In total, 281 patients, who were histopathologically diagnosed with <z:e sem="disease" ids="C0242379" disease_type="Neoplastic Process" abbrv="">lung cancer</z:e> between March 2007 and August 2009, were evaluated retrospectively </plain></SENT>
+<SENT sid="4" pm="."><plain>Data analysis was performed using the Statistical Package for the Social Sciences (SPSS) software (ver </plain></SENT>
+<SENT sid="5" pm="."><plain>11.5 for Windows) </plain></SENT>
+<SENT sid="6" pm="."><plain>Analysis of the distribution of constant variance for normality was assessed using the Shapiro-Wilk test </plain></SENT>
+<SENT sid="7" pm="."><plain>Nominal variables were evaluated using Pearson's chi-squared or Fisher's exact chi-squared tests </plain></SENT>
+<SENT sid="8" pm="."><plain>Significant correlations between continuous variables were investigated using Spearman's correlation test </plain></SENT>
+<SENT sid="9" pm="."><plain>RESULTS: Of the 281 patients, 234 (83.3%) were males and 47 (16.7%) were females, with a median age of 60.6 (31-83 years) </plain></SENT>
+<SENT sid="10" pm="."><plain>Histopathologically, 40 (14.2%) were diagnosed with <z:e sem="disease" ids="C0149925" disease_type="Neoplastic Process" abbrv="SCLC">small-cell lung cancer</z:e> and 241 (85.8%) with <z:e sem="disease" ids="C0007131" disease_type="Neoplastic Process" abbrv="NSCLC">non-small cell lung cancer</z:e> </plain></SENT>
+<SENT sid="11" pm="."><plain>In total, 17 (6.04%) vascular events were identified: 11 (64.7%) <z:e sem="disease" ids="C0149871" disease_type="Disease or Syndrome" abbrv="">deep vein thromboses</z:e>, three (17.6%) pulmonary <z:hpo ids='HP_0001907'>thromboembolisms</z:hpo>, one (5.9%) cerebral <z:hpo ids='HP_0004420'>arterial thrombosis</z:hpo>, and one (5.9%) vena cava superior <z:mp ids='MP_0005048'>thrombosis</z:mp> </plain></SENT>
+<SENT sid="12" pm="."><plain><z:hpo ids='HP_0001894'>Thrombocytosis</z:hpo> was not determined during <z:mp ids='MP_0005048'>thrombosis</z:mp>, but during subsequent visits </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSIONS: <z:hpo ids='HP_0001894'>Thrombocytosis</z:hpo> is frequently observed in patients with <z:e sem="disease" ids="C0242379" disease_type="Neoplastic Process" abbrv="">lung cancer</z:e> </plain></SENT>
+<SENT sid="14" pm="."><plain>Further prospective studies are required to evaluate the need for prophylactic <z:chebi fb="2" ids="50249">anticoagulants</z:chebi> in these patients </plain></SENT>
+<SENT sid="15" pm="."><plain>The association between vascular events and survival, the next step of the present study, will be evaluated prospectively </plain></SENT>
+</text></document>

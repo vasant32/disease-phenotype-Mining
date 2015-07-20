@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Antibody-dependent cellular cytotoxicity (ADCC), an important defense against <z:mp ids='MP_0001799'>viral</z:mp> <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infections</z:e>, is generally measured in <z:chebi fb="0" ids="50076">51Cr</z:chebi>-release assays </plain></SENT>
+<SENT sid="1" pm="."><plain>However, the effect of ADCC on <z:mp ids='MP_0001799'>viral</z:mp> burden is more relevant in vivo </plain></SENT>
+<SENT sid="2" pm="."><plain>An assay was developed to determine the impact of antibody and cytotoxic cells on reducing the amount of <z:e sem="disease" ids="C0025007" disease_type="Disease or Syndrome" abbrv="">measles</z:e> virus cultured from infected cells </plain></SENT>
+<SENT sid="3" pm="."><plain>Although the components of this assay are the same as those involved in ADCC, the endpoint is a reduction in virus infectivity rather than cytotoxicity </plain></SENT>
+<SENT sid="4" pm="."><plain>The immune function measured in the assay has therefore been termed antibody-dependent cell-mediated immunity (ADCMI) </plain></SENT>
+<SENT sid="5" pm="."><plain><z:e sem="disease" ids="C0025007" disease_type="Disease or Syndrome" abbrv="">Measles</z:e> virus-infected Raji cells and blood mononuclear cells served as target and effector cells, respectively </plain></SENT>
+<SENT sid="6" pm="."><plain>Effector cells were incubated with antibody-labeled or unlabeled target cells for 24 h, and virus infectivity determined </plain></SENT>
+<SENT sid="7" pm="."><plain>Adding effector cells to unlabeled target cells reduced virus titer by 81.8% </plain></SENT>
+<SENT sid="8" pm="."><plain>Labeling target cells with <z:e sem="disease" ids="C0025007" disease_type="Disease or Syndrome" abbrv="">measles</z:e>-seronegative serum had little further effect </plain></SENT>
+<SENT sid="9" pm="."><plain>However, labeling target cells with <z:e sem="disease" ids="C0025007" disease_type="Disease or Syndrome" abbrv="">measles</z:e>-seropositive serum reduced infectivity an additional 96.5% </plain></SENT>
+<SENT sid="10" pm="."><plain>By allowing serum to remain in the supernatant fluid after labeling target cells, neutralizing and cell-mediated antibody functions were simultaneously measured </plain></SENT>
+<SENT sid="11" pm="."><plain>Finally, arming cytokine-activated effector cells with <z:e sem="disease" ids="C0025007" disease_type="Disease or Syndrome" abbrv="">measles</z:e>-seropositive serum also reduced virus infectivity </plain></SENT>
+<SENT sid="12" pm="."><plain>This novel assay provides an important tool for evaluating the anti-<z:mp ids='MP_0001799'>viral</z:mp> effects mediated by antibody and effector cells </plain></SENT>
+</text></document>

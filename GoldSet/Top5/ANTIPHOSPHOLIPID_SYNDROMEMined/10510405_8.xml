@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We have isolated five monoclonal IgG anti-beta 2-<z:chebi fb="2" ids="17089">glycoprotein</z:chebi>-1 (anti-beta 2G-1) and anti-prothrombin Fab from a patient with autoantibodies to oxidized <z:chebi fb="2" ids="39026">low-density lipoproteins</z:chebi> by phage display method </plain></SENT>
+<SENT sid="1" pm="."><plain>Analysis of their binding specificity revealed that <z:hpo ids='HP_0000001'>all</z:hpo> three beta 2GP-1-enriched mAbs (B14, B22, B27) reacted with beta 2GP-1 while both prothrombin-isolated mAbs (P11 and P13) reacted with prothrombin </plain></SENT>
+<SENT sid="2" pm="."><plain>Intriguingly, mAb P11 reacted with beta 2GP-1 and prothrombin and showed comparable binding affinity to both Ags, with Kd values of 1.6 x 10-6 M for beta 2GP-1 vs 3.2 x 10-6 M for prothrombin </plain></SENT>
+<SENT sid="3" pm="."><plain>This clone may thus, define a hitherto unknown shared <z:chebi fb="0" ids="53000">epitope</z:chebi> between beta 2GP-1 and prothrombin </plain></SENT>
+<SENT sid="4" pm="."><plain>Sequence analysis of <z:hpo ids='HP_0000001'>all</z:hpo> five clones showed significant mutations of the expressed genes </plain></SENT>
+<SENT sid="5" pm="."><plain>One rearranged V-D-J segment was repeatedly employed by three clones (mAbs B22, B27, and P13) </plain></SENT>
+<SENT sid="6" pm="."><plain>However, <z:hpo ids='HP_0000001'>all</z:hpo> three clones used different L chains </plain></SENT>
+<SENT sid="7" pm="."><plain>Of note, the pairing of VH6-D-J with the L5-Vk1 L chain in mAb P13 resulted in the loss of binding to beta 2GP-1 and specific reactivity to prothrombin </plain></SENT>
+<SENT sid="8" pm="."><plain>Together, these data suggest that while the VH6-D-J chain may be important in the binding to beta 2GP-1, pairing with certain L chains may influence this binding </plain></SENT>
+<SENT sid="9" pm="."><plain>These data are the first human IgG anti-beta 2GP-1 and anti-prothrombin sequences reported; both represent the major subsets of antiphospholipid Abs present in <z:e sem="disease" ids="C0085278" disease_type="Disease or Syndrome" abbrv="">antiphospholipid syndrome</z:e> patients </plain></SENT>
+</text></document>

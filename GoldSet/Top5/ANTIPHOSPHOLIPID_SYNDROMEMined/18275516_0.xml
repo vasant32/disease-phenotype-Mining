@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PROBLEM: It is well known that treatment with aspirin plus <z:chebi fb="5" ids="28304">heparin</z:chebi> is effective for patients with <z:e sem="disease" ids="C0085278" disease_type="Disease or Syndrome" abbrv="">antiphospholipid syndrome</z:e> (APS) to prevent pregnancy loss </plain></SENT>
+<SENT sid="1" pm="."><plain>However, it is unclear if occasional <z:hpo ids='HP_0003613'>antiphospholipid antibodies</z:hpo> (aPL) are a risk factor and whether patients with aPL at one time point but not diagnosed as APS should be treated </plain></SENT>
+<SENT sid="2" pm="."><plain>METHOD OF STUDY: We therefore studied whether aspirin alone is effective in patients with occasional aPL who did not meet the criteria for APS </plain></SENT>
+<SENT sid="3" pm="."><plain>We compared live birth rates between 52 patients with occasional aPL treated with aspirin and 672 unexplained patients with no medication </plain></SENT>
+<SENT sid="4" pm="."><plain>Patients in both group had a history of two or three pregnancy losses </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: In <z:hpo ids='HP_0000001'>all</z:hpo>, 44 of 52 patients (84.6%) with occasional aPL could experience live birth when treated with aspirin alone </plain></SENT>
+<SENT sid="6" pm="."><plain>509 of 672 patients (75.7%) with unexplained pregnancy losses could have babies </plain></SENT>
+<SENT sid="7" pm="."><plain>When <z:e sem="disease" ids="C0000786" disease_type="Disease or Syndrome" abbrv="">miscarriage</z:e> cases caused by an abnormal embryonic karyotype were excluded, the success rates were 95.7% (44/46) and 81.2% (509/621), respectively </plain></SENT>
+<SENT sid="8" pm="."><plain>The live birth rate in patients with occasional aPL treated with aspirin was significantly higher than that in unexplained patients with no medication (P=0.008) </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSION: We therefore conclude that aspirin is also useful in patients with occasional aPL but not APS </plain></SENT>
+</text></document>

@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Mex+ human <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cell lines contain O6-methylguanine-DNA methyltransferase, a DNA repair enzyme that undergoes <z:e sem="disease" ids="C0812393,C0038661" disease_type="Mental or Behavioral Dysfunction;Injury or Poisoning" abbrv="">suicide</z:e> inactivation on interaction with its substrate </plain></SENT>
+<SENT sid="1" pm="."><plain>The cells are therefore competent to remove the alkylation lesion O6-methylguanine from their DNA </plain></SENT>
+<SENT sid="2" pm="."><plain>However, several repair-deficient <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cell lines (Mex-) are also known </plain></SENT>
+<SENT sid="3" pm="."><plain>It is shown here that Mex+ cells can be converted temporarily to a Mex- phenotype by growth in nontoxic concentrations of free O6-methylguanine </plain></SENT>
+<SENT sid="4" pm="."><plain>The <z:mpath ids='MPATH_63'>depletion</z:mpath> of methyltransferase activity is not a result of O6-methylguanine incorporation into DNA and subsequent demethylation by the enzyme </plain></SENT>
+<SENT sid="5" pm="."><plain>It is proposed that O6-methylguanine is mistakenly incorporated into tRNA molecules by means of a post-transcriptional <z:chebi fb="0" ids="26565">ribosyl</z:chebi> transfer reaction </plain></SENT>
+<SENT sid="6" pm="."><plain>The demethylation of such bases in tRNA has been demonstrated by using <z:mp ids='MP_0001794'>bacterial</z:mp> and human DNA repair enzymes </plain></SENT>
+<SENT sid="7" pm="."><plain>The existence of such a subversive repair of a methylated base in tRNA raises the possibility of competition between DNA and <z:chebi fb="40" ids="33697">RNA</z:chebi> for cellular DNA repair enzymes </plain></SENT>
+<SENT sid="8" pm="."><plain>Furthermore, it is proposed that the known aberrant methylation of tRNA in certain transformed cells, together with subversive tRNA repair, could account for the Mex- phenotype </plain></SENT>
+</text></document>

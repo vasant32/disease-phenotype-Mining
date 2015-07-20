@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Tissue factor (TF) initiates coagulation, regulates hemostasis, and plays a critical role in mediating <z:hpo ids='HP_0004420'>arterial thrombosis</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>TF is up-regulated in vascular smooth muscle cells (VSMCs) in <z:hpo ids='HP_0002621'>atherosclerosis</z:hpo> and arterial injury </plain></SENT>
+<SENT sid="2" pm="."><plain>To examine the biologic role of VSMC-derived TF, we crossed TF(flox/flox) mice with SM22alphaCre(+/-) mice </plain></SENT>
+<SENT sid="3" pm="."><plain>TF <z:chebi fb="2" ids="33699">mRNA</z:chebi> and activity were decreased in the aortic media of TF-deficient mice by 96% and 94.8%, respectively </plain></SENT>
+<SENT sid="4" pm="."><plain>There were no differences in TF activity measured in plasma or concentrated microparticles </plain></SENT>
+<SENT sid="5" pm="."><plain>TF-deficient mice were generated with the expected frequency, showed no evidence of <z:mp ids='MP_0001914'>bleeding</z:mp> or increased mortality, and had similar activated partial thromboplastin and tail vein <z:mp ids='MP_0001914'>bleeding</z:mp> times </plain></SENT>
+<SENT sid="6" pm="."><plain><z:e sem="disease" ids="C0302148,C0087086" disease_type="Disease or Syndrome;Acquired Abnormality" abbrv="">Thrombus</z:e>-mediated flow reduction in response to <z:chebi fb="2" ids="30808">ferric chloride</z:chebi> injury of the carotid arteries was significantly attenuated in VSMC-specific TF-deficient </plain></SENT>
+<SENT sid="7" pm="."><plain>Stable occlusion was seen in 11 of 12 <z:mp ids='MP_0002169'>wild-type</z:mp> mice, but in only 6 of 16 VSMC-specific TF-deficient mice (P = .001) </plain></SENT>
+<SENT sid="8" pm="."><plain>These data suggest that VSMC-derived TF is critical in a macrovascular model of <z:hpo ids='HP_0004420'>arterial thrombosis</z:hpo> </plain></SENT>
+<SENT sid="9" pm="."><plain>This mouse model should be valuable in determining the contribution of VSMC-derived TF in other TF-mediated phenomena, such as restenosis </plain></SENT>
+</text></document>

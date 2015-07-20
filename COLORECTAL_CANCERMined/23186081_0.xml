@@ -1,0 +1,19 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">Colorectal cancer</z:e> is the second most common type of solid organ <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> in New Zealand behind <z:hpo ids='HP_0012125'>prostate cancer</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Even with treatment, distant disease may develop in the liver and lungs </plain></SENT>
+<SENT sid="2" pm="."><plain>Surgical resection of isolated liver and/or lung <z:e sem="disease" ids="C0027627" disease_type="Neoplastic Process" abbrv="mets">metastasis</z:e> is now commonly considered, but survival outcomes from the latter are not well described </plain></SENT>
+<SENT sid="3" pm="."><plain>This study aims to review the 5-year survival and prognostic factors of patients who have resection for lung <z:e sem="disease" ids="C0027627" disease_type="Neoplastic Process" abbrv="mets">metastasis</z:e> of colorectal origin </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS: A retrospective audit of surgical resection for lung <z:e sem="disease" ids="C0027627" disease_type="Neoplastic Process" abbrv="mets">metastasis</z:e> performed by thoracic departments of several tertiary referral centres within New Zealand was performed </plain></SENT>
+<SENT sid="5" pm="."><plain>The study period was between 1997 and 2011 </plain></SENT>
+<SENT sid="6" pm="."><plain>Patients were identified through operative logs, audit databases, clinical case mix codes and pathology databases </plain></SENT>
+<SENT sid="7" pm="."><plain>Patient demographics, preoperative and post-operative variables were recorded </plain></SENT>
+<SENT sid="8" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> patients were followed up for survival analysis </plain></SENT>
+<SENT sid="9" pm="."><plain>Mann-Whitney and chi-square tests were performed for data analysis </plain></SENT>
+<SENT sid="10" pm="."><plain>A P-value of less than 0.05 was significant </plain></SENT>
+<SENT sid="11" pm="."><plain>RESULTS: There were 106 (59 male) patients </plain></SENT>
+<SENT sid="12" pm="."><plain>Median age was 64 (inter-quartile range (IQR) 57-73) years </plain></SENT>
+<SENT sid="13" pm="."><plain>Median follow-up period was 30 (IQR 16-46) months </plain></SENT>
+<SENT sid="14" pm="."><plain>The 5-year overall and <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e>-specific survival was 40% and 43%, respectively </plain></SENT>
+<SENT sid="15" pm="."><plain>The only good prognostic factor for survival after lung resection was a long disease-free interval (P = 0.04) between surgery for the colorectal primary and lung <z:e sem="disease" ids="C0027627" disease_type="Neoplastic Process" abbrv="mets">metastasis</z:e> </plain></SENT>
+<SENT sid="16" pm="."><plain>CONCLUSION: Lung resection for isolated colorectal <z:e sem="disease" ids="C0027627" disease_type="Neoplastic Process" abbrv="mets">metastases</z:e> provides a reasonable 5-year survival </plain></SENT>
+<SENT sid="17" pm="."><plain>Outcomes from lung resection for colorectal <z:e sem="disease" ids="C0027627" disease_type="Neoplastic Process" abbrv="mets">metastases</z:e> in New Zealand are comparable to that from international series </plain></SENT>
+</text></document>

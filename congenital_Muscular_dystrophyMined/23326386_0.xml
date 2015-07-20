@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The <z:hpo ids='HP_0003741'>congenital muscular dystrophies</z:hpo> (CMDs) comprise a <z:hpo ids='HP_0001425'>heterogeneous</z:hpo> group of heritable <z:e sem="disease" ids="C0026848" disease_type="Disease or Syndrome" abbrv="">muscle disorders</z:e> with often difficult to interpret muscle pathology, making them challenging to diagnose </plain></SENT>
+<SENT sid="1" pm="."><plain>Serial Sanger sequencing of suspected CMD genes, while the current molecular diagnostic method of choice, can be slow and expensive </plain></SENT>
+<SENT sid="2" pm="."><plain>A comprehensive panel test for simultaneous screening of mutations in <z:hpo ids='HP_0000001'>all</z:hpo> known CMD-associated genes would be a more effective diagnostic strategy </plain></SENT>
+<SENT sid="3" pm="."><plain>Thus, the CMDs are a model disorder group for development and validation of next-generation sequencing (NGS) strategies for diagnostic and clinical care applications </plain></SENT>
+<SENT sid="4" pm="."><plain>Using a highly multiplexed PCR-based target enrichment method (RainDance) in conjunction with NGS, we performed mutation detection in <z:hpo ids='HP_0000001'>all</z:hpo> CMD genes of 26 samples and compared the results with Sanger sequencing </plain></SENT>
+<SENT sid="5" pm="."><plain>The RainDance NGS panel showed great consistency in coverage depth, on-target efficiency, versatility of mutation detection, and genotype concordance with Sanger sequencing, demonstrating the test's appropriateness for clinical use </plain></SENT>
+<SENT sid="6" pm="."><plain>Compared to single tests, a higher diagnostic yield was observed by panel implementation </plain></SENT>
+<SENT sid="7" pm="."><plain>The panel's limitation is the amplification failure of select gene-specific exons which require Sanger sequencing for test completion </plain></SENT>
+<SENT sid="8" pm="."><plain>Successful validation and application of the CMD NGS panel to improve the diagnostic yield in a clinical laboratory was shown </plain></SENT>
+</text></document>

@@ -1,0 +1,6 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A patient with severe <z:e sem="disease" ids="C0684275" disease_type="Disease or Syndrome" abbrv="">haemophilia</z:e> A underwent orthotopic liver transplantation because of changes correlated to end-stage liver <z:hpo ids='HP_0001394'>cirrhosis</z:hpo> due to <z:hpo ids='HP_0012115'>hepatitis</z:hpo> B, C and D <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infection</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>Replacement therapy was carried out for 4 days and the clinical course was uneventful </plain></SENT>
+<SENT sid="2" pm="."><plain>At the time of reporting the patient has a <z:mpath ids='MPATH_458'>normal</z:mpath> working life </plain></SENT>
+<SENT sid="3" pm="."><plain>FVIII plasma concentration is <z:mpath ids='MPATH_458'>normal</z:mpath> </plain></SENT>
+<SENT sid="4" pm="."><plain>The indirect <z:e sem="disease" ids="C0020433" disease_type="Disease or Syndrome" abbrv="">hyperbilirubinaemia</z:e> may be related to the Gilbert's anomaly of the donor </plain></SENT>
+</text></document>

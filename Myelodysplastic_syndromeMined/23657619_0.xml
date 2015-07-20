@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The <z:hpo ids='HP_0002863'>myelodysplastic syndromes</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e>) are clonal disorders of hematopoietic stem cells </plain></SENT>
+<SENT sid="1" pm="."><plain>The transformation rate to <z:hpo ids='HP_0004808'>acute myeloid leukemia</z:hpo> reaches 30-40 % </plain></SENT>
+<SENT sid="2" pm="."><plain>In early phases of the disease, the clonal cells have a growth advantage but suffer from premature <z:mpath ids='MPATH_3'>apoptosis</z:mpath>, which explains the paradox of a cellular bone marrow coupled to peripheral blood cytopenias </plain></SENT>
+<SENT sid="3" pm="."><plain>At later stages, additional genetic aberrations accumulate and lead to proliferation with leukemic transformation </plain></SENT>
+<SENT sid="4" pm="."><plain>Patients with early <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> benefit from supportive therapy or growth factors </plain></SENT>
+<SENT sid="5" pm="."><plain>Sometimes, immunological or immunomodulatory treatments can suppress the malignant clone and strengthen <z:mpath ids='MPATH_458'>normal</z:mpath> hematopoiesis for sustained periods </plain></SENT>
+<SENT sid="6" pm="."><plain>Patients with advanced <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> are usually treated with cytotoxic therapy followed by allogeneic stem cell transplantation or with epigenetic therapy to initiate differentiation and slow down proliferation </plain></SENT>
+</text></document>

@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PURPOSE: Oxidative DNA damage is one of the mechanisms associated to initial colorectal <z:e sem="disease" ids="C0596263" disease_type="Neoplastic Process" abbrv="">carcinogenesis</z:e>, but how it interacts with β-catenin, an adherence protein related to <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> evolution, is not clear </plain></SENT>
+<SENT sid="1" pm="."><plain>This study investigates the relationship between oxidative DNA damage and β-catenin expression in <z:mpath ids='MPATH_458'>normal</z:mpath> mucosa and <z:e sem="disease" ids="C0009375" disease_type="Neoplastic Process" abbrv="">colon tumor</z:e> tissue (<z:mpath ids='MPATH_270'>adenoma</z:mpath> and <z:mp ids='MP_0009308'>adenocarcinoma</z:mp>) in colorectal <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> evolution </plain></SENT>
+<SENT sid="2" pm="."><plain>METHOD: One hundred and 13 samples were studied </plain></SENT>
+<SENT sid="3" pm="."><plain><z:chebi fb="1" ids="51686">Hematoxylin</z:chebi>-eosin determined histological grade. β-Catenin expression was analyzed by immunohistochemistry </plain></SENT>
+<SENT sid="4" pm="."><plain>The oxidative DNA damage was evaluated using comet assay technique </plain></SENT>
+<SENT sid="5" pm="."><plain>The coefficient for rejection of the nullity hypothesis was taken to 5 % </plain></SENT>
+<SENT sid="6" pm="."><plain>Kruskal-Wallis, Spearman test, and partial correlation were used to analyze the data </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: There was oxidative DNA damage increase in <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> evolution (p &lt; 0.01) </plain></SENT>
+<SENT sid="8" pm="."><plain>Histological grade was correlated with oxidative DNA damage (p &lt; 0.01) </plain></SENT>
+<SENT sid="9" pm="."><plain>There were differences in β-catenin expression among <z:mpath ids='MPATH_458'>normal</z:mpath>, <z:mpath ids='MPATH_270'>adenoma</z:mpath>, and <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> tissue with progressive increase of β-catenin expression (p &lt; 0.00) </plain></SENT>
+<SENT sid="10" pm="."><plain>Histological grade was correlated to β-catenin expression (p &lt; 0.00) </plain></SENT>
+<SENT sid="11" pm="."><plain>There was a relationship (p &lt; 0.00) between β-catenin and histological grade while controlling for the effect of oxidative DNA damage </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSION: The findings of this study make it possible to establish a relationship between oxidative DNA damage and β-catenin expression in <z:mpath ids='MPATH_458'>normal</z:mpath> mucosa and <z:e sem="disease" ids="C0009404" disease_type="Neoplastic Process" abbrv="">colorectal tumor</z:e> tissue </plain></SENT>
+<SENT sid="13" pm="."><plain>Additionally, they show a causal relationship between variations of β-catenin in different tissues analyzed while controlling for the effect of oxidative DNA damage </plain></SENT>
+</text></document>

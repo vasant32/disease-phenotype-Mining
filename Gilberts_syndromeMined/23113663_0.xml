@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Abstract <z:hpo ids='HP_0008282'>Unconjugated hyperbilirubinemia</z:hpo> resulting from therapy with <z:chebi fb="0" ids="37924">atazanavir</z:chebi> is physiologically related to <z:hpo ids='HP_0002904'>hyperbilirubinemia</z:hpo> in <z:e sem="disease" ids="C0017551" disease_type="Disease or Syndrome" abbrv="">Gilbert's syndrome</z:e> (GS) </plain></SENT>
+<SENT sid="1" pm="."><plain>In patients with GS, changes in diet have a significant impact on <z:e sem="disease" ids="C0020433" disease_type="Disease or Syndrome" abbrv="">bilirubinemia</z:e> </plain></SENT>
+<SENT sid="2" pm="."><plain>Our aim was to investigate whether changes in diet affect the level of serum <z:chebi fb="0" ids="16990">bilirubin</z:chebi> in patients receiving <z:chebi fb="0" ids="37924">atazanavir</z:chebi> </plain></SENT>
+<SENT sid="3" pm="."><plain>Thirty patients on stable therapy with ritonavir-boosted <z:chebi fb="0" ids="37924">atazanavir</z:chebi> without evidence of GS were enrolled </plain></SENT>
+<SENT sid="4" pm="."><plain><z:mp ids='MP_0010163'>Hemolysis</z:mp> and <z:hpo ids='HP_0011010'>chronic</z:hpo> <z:hpo ids='HP_0012115'>hepatitis</z:hpo> were excluded </plain></SENT>
+<SENT sid="5" pm="."><plain>After a baseline period of <z:mpath ids='MPATH_458'>normal</z:mpath> intake of calories, the patients were randomized to follow a 24-h 400-calorie diet (fasting), then a 48-h period of <z:mpath ids='MPATH_458'>normal</z:mpath> calorie intake and, afterward, a 24-h period of a high-calorie diet, or the same interventions in inverse order </plain></SENT>
+<SENT sid="6" pm="."><plain>Serum <z:chebi fb="0" ids="16990">bilirubin</z:chebi> concentrations were measured before and after each intervention </plain></SENT>
+<SENT sid="7" pm="."><plain>A high adherence to the recommended diet was observed </plain></SENT>
+<SENT sid="8" pm="."><plain>The mean unconjugated <z:chebi fb="0" ids="16990">bilirubin</z:chebi> concentration before the high-calorie diet was 2.79±1.53 mg/dl and after such intervention it was 2.70±1.40 mg/dl </plain></SENT>
+<SENT sid="9" pm="."><plain>The mean difference between preintervention and postintervention was -0.08±0.69 mg/dl (p=NS) </plain></SENT>
+<SENT sid="10" pm="."><plain>The mean unconjugated <z:chebi fb="0" ids="16990">bilirubin</z:chebi> concentration before the fasting diet was 2.31±1.23 mg/dl and it was 3.84±1.90 mg/dl after </plain></SENT>
+<SENT sid="11" pm="."><plain>The mean difference between prefasting and postfasting was 1.53±1.17 mg/dl (p=0.001) </plain></SENT>
+<SENT sid="12" pm="."><plain>According to these results, short periods of fasting seem to increase the unconjugated <z:chebi fb="0" ids="16990">bilirubin</z:chebi> concentration in patients on <z:chebi fb="0" ids="37924">atazanavir</z:chebi> </plain></SENT>
+<SENT sid="13" pm="."><plain>A high-calorie diet did not have any impact in <z:chebi fb="0" ids="16990">bilirubin</z:chebi> probably because most patients follow similar diets in their everyday life </plain></SENT>
+</text></document>

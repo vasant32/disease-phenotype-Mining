@@ -1,0 +1,7 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Motivated from a <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> study, we propose a class of frailty semi-competing risks survival models to account for the dependence between disease progression time, survival time, and treatment switching </plain></SENT>
+<SENT sid="1" pm="."><plain>Properties of the proposed models are examined and an efficient Gibbs sampling algorithm using the collapsed Gibbs technique is developed </plain></SENT>
+<SENT sid="2" pm="."><plain>A Bayesian procedure for assessing the treatment effect is also proposed </plain></SENT>
+<SENT sid="3" pm="."><plain>The deviance information criterion (<z:chebi fb="0" ids="53092">DIC</z:chebi>) with an appropriate deviance function and Logarithm of the pseudomarginal likelihood (LPML) are constructed for model comparison </plain></SENT>
+<SENT sid="4" pm="."><plain>A simulation study is conducted to examine the empirical performance of <z:chebi fb="0" ids="53092">DIC</z:chebi> and LPML and as well as the posterior estimates </plain></SENT>
+<SENT sid="5" pm="."><plain>The proposed method is further applied to analyze data from a <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> study </plain></SENT>
+</text></document>

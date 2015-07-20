@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Recent reports suggest angiotensin receptor blockers (ARBs) and some antiarrhythmic agents affect atrial remodeling in <z:hpo ids='HP_0005110'>atrial fibrillation</z:hpo> (AF) </plain></SENT>
+<SENT sid="1" pm="."><plain>We evaluated the effect of combination therapy with <z:chebi fb="0" ids="48416">olmesartan</z:chebi> (Olm) and <z:chebi fb="0" ids="3061">bepridil</z:chebi> (Bep) in a canine model of AF </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS AND RESULTS: An atrial stimulation device was implanted in 10 dogs undergoing 6-week pacing at 400 bpm </plain></SENT>
+<SENT sid="3" pm="."><plain>They were divided into Olm (2 mg/kg/day) (n=5) and Olm+Bep (Olm, 2 mg/kg/day; Bep, 10 mg/kg/day) groups (n=5) </plain></SENT>
+<SENT sid="4" pm="."><plain>Atrial effective refractory period (AERP), conduction velocity (CV), and AF inducibility were evaluated weekly, and hemodynamics, atrial histology, and <z:chebi fb="2" ids="33699">mRNA</z:chebi> expression and protein expression of ion-channel and gap junction-related molecules at 6 weeks </plain></SENT>
+<SENT sid="5" pm="."><plain>Data were compared between groups and with non-pacing control and pacing-control groups from our previous report </plain></SENT>
+<SENT sid="6" pm="."><plain>The pacing-control group exhibited shortened AERP, decreased CV, increased AF inducibility and tissue <z:mp ids='MP_0003045'>fibrosis</z:mp>, and down-regulated L-type Ca(2+) channel (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">LCC</z:e>), SCN5A, Kv4.3 and connexin43 (Cx43) </plain></SENT>
+<SENT sid="7" pm="."><plain>By comparison, the Olm group exhibited suppression of the decrease in CV and of the increase in AF inducibility, but no change in AERP shortening </plain></SENT>
+<SENT sid="8" pm="."><plain>The Olm+Bep group exhibited suppression of AERP shortening as well as the greatest decrease in AF inducibility </plain></SENT>
+<SENT sid="9" pm="."><plain>Histologically, tissue <z:mp ids='MP_0003045'>fibrosis</z:mp> was suppressed in Olm and Olm+Bep groups </plain></SENT>
+<SENT sid="10" pm="."><plain>Down-regulation of Cx43 was partly suppressed in the Olm group while that of <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">LCC</z:e>, SCN5A, and Cx43 was suppressed in the Olm+Bep group </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSION: Olm and Bep in combination suppressed AF inducibility more strongly than Olm alone, and may be more useful in the suppression of AF </plain></SENT>
+</text></document>

@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Monoclonal antibodies (MAbs) were developed against immunodominant HHV-6 (GS isolate) late and early proteins </plain></SENT>
+<SENT sid="1" pm="."><plain>The major late protein was identified as a probable <z:chebi fb="2" ids="17089">glycoprotein</z:chebi> with a molecular weight of approximately 110 kDa (gp 110) </plain></SENT>
+<SENT sid="2" pm="."><plain>Immunoblotting of the early antigen yielded proteins of 41 and 38 kDa (p41/38) </plain></SENT>
+<SENT sid="3" pm="."><plain>The MAb to the early protein reacted with cells infected with 14 different HHV-6 isolates </plain></SENT>
+<SENT sid="4" pm="."><plain>In contrast, the MAb against the late protein reacted with only 10 of these isolates, indicating that there was strain variation in this <z:chebi fb="2" ids="17089">glycoprotein</z:chebi> </plain></SENT>
+<SENT sid="5" pm="."><plain>The percentage of antibody-positive sera reactive with gp110 in the ELISA ranged from 56% to 96% among the different serum donor categories </plain></SENT>
+<SENT sid="6" pm="."><plain>In contrast, only 10-30% of the sera were positive for antibodies to p41/38 with the exception of sera from patients with African Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (ABL) and <z:e sem="disease" ids="C0019829" disease_type="Neoplastic Process" abbrv="hd">Hodgkin's disease</z:e> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">HD</z:e>) </plain></SENT>
+<SENT sid="7" pm="."><plain>These antibody patterns denote the presence of active HHV-6 replication in patients with ABL and <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">HD</z:e> </plain></SENT>
+</text></document>

@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We previously demonstrated that pharmacological inhibition of <z:chebi fb="0" ids="29101">Na(+)</z:chebi>-<z:chebi fb="0" ids="29103">K(+)</z:chebi>-<z:chebi fb="193" ids="17996">Cl-</z:chebi> cotransporter isoform 1 (NKCC1) is neuroprotective in in vivo and in vitro ischemic models </plain></SENT>
+<SENT sid="1" pm="."><plain>In this study, we investigated whether genetic ablation of NKCC1 provides neuroprotection after <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> </plain></SENT>
+<SENT sid="2" pm="."><plain>Focal <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> was induced by 2 hours occlusion of the left middle cerebral artery (MCAO) followed by 10 or 24 hours reperfusion </plain></SENT>
+<SENT sid="3" pm="."><plain>Two hours MCAO and ten or twenty-four hours reperfusion caused infarction (approximately 85 mm3) in NKCC1 <z:mp ids='MP_0002169'>wild-type</z:mp> (NKCC1(+/+)) mice </plain></SENT>
+<SENT sid="4" pm="."><plain>Infarction volume in NKCC1(-/-) mice was reduced by approximately 30% to 46% </plain></SENT>
+<SENT sid="5" pm="."><plain>Heterozygous mutant (NKCC1(+/-)) mice showed approximately 28% reduction in infarction (P&gt;0.05) </plain></SENT>
+<SENT sid="6" pm="."><plain>Two hours MCAO and twenty-four hours reperfusion led to a significant increase in <z:hpo ids='HP_0002181'>brain edema</z:hpo> in NKCC1(+/+) mice </plain></SENT>
+<SENT sid="7" pm="."><plain>In contrast, NKCC1(+/-) and NKCC1(-/-) mice exhibited approximately 50% less <z:hpo ids='HP_0000969'>edema</z:hpo> (P&lt;0.05) </plain></SENT>
+<SENT sid="8" pm="."><plain>Moreover, white matter damage was assessed by immunostaining of amyloid precursor protein (APP) </plain></SENT>
+<SENT sid="9" pm="."><plain>An increase in APP was detected in NKCC1(+/+) mice after 2 hours MCAO and 10 hours reperfusion </plain></SENT>
+<SENT sid="10" pm="."><plain>However, NKCC1(-/-) mice exhibited significantly less APP accumulation (P&lt;0.05) </plain></SENT>
+<SENT sid="11" pm="."><plain>Oxygen-<z:chebi fb="105" ids="17234">glucose</z:chebi> deprivation (OGD) induced approximately 67% cell <z:hpo ids='HP_0011420'>death</z:hpo> and a fourfold increase in <z:chebi fb="1" ids="29101">Na+</z:chebi> accumulation in cultured NKCC1(+/+) cortical neurons </plain></SENT>
+<SENT sid="12" pm="."><plain>OGD-mediated cell <z:hpo ids='HP_0011420'>death</z:hpo> and <z:chebi fb="1" ids="29101">Na+</z:chebi> influx were significantly reduced in NKCC1(-/-) neurons (P&lt;0.05) </plain></SENT>
+<SENT sid="13" pm="."><plain>In addition, inhibition of NKCC1 by bumetanide resulted in similar protection in NKCC1(+/+) neurons and astrocytes (P&lt;0.05) </plain></SENT>
+<SENT sid="14" pm="."><plain>These results imply that stimulation of NKCC1 activity is important in ischemic neuronal damage </plain></SENT>
+</text></document>

@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Leukaemic cells show a low clonogenic activity and a <z:hpo ids='HP_0001425'>heterogeneous</z:hpo> proliferative response to growth factors </plain></SENT>
+<SENT sid="1" pm="."><plain>We investigated whether this could be due to an altered expression of growth factor receptors on the leukaemic precursors </plain></SENT>
+<SENT sid="2" pm="."><plain>Receptors for G-CSF, stem cell factor (SCF), IL-3, IL-6 and IL-7 were detected on CD34+ cells in <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">AML</z:e> and B-lineage ALL with monoclonal antibodies and flow cytometry </plain></SENT>
+<SENT sid="3" pm="."><plain>The expression was compared with that on myeloid and B-lymphoid CD34+ cells in <z:mpath ids='MPATH_458'>normal</z:mpath> bone marrow </plain></SENT>
+<SENT sid="4" pm="."><plain>Leukaemic CD34+ cells expressed the same receptors as their <z:mpath ids='MPATH_458'>normal</z:mpath> counterparts </plain></SENT>
+<SENT sid="5" pm="."><plain><z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">AML</z:e> and B-lineage ALL could be distinguished by the growth factor receptor profile of their CD34+ cells </plain></SENT>
+<SENT sid="6" pm="."><plain>SCFR, G-CSFR and IL-6Ralpha were found in <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">AML</z:e>, IL-7R in B-lineage ALL and IL-3Ralpha in both </plain></SENT>
+<SENT sid="7" pm="."><plain>IL-3Ralpha was upregulated in <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">AML</z:e> and B-lineage ALL CD34+ cells, while samples with low or high expression were present for the other receptors </plain></SENT>
+<SENT sid="8" pm="."><plain>This variable expression could correlate with the <z:hpo ids='HP_0001425'>heterogeneous</z:hpo> response of leukaemic cells to growth factors </plain></SENT>
+<SENT sid="9" pm="."><plain>Functional studies on isolated CD34+ cells are needed to investigate this further </plain></SENT>
+</text></document>

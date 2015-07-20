@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The embryonic ventricular and subventricular zones (VZ/SVZ) contain the neuronal stem and progenitor cells and undergo rapid proliferation </plain></SENT>
+<SENT sid="1" pm="."><plain>The intermediate zone (IZ) contains nonreplicating, differentiated cells </plain></SENT>
+<SENT sid="2" pm="."><plain>The VZ/SVZ is hypersensitive to radiation-induced <z:mpath ids='MPATH_3'>apoptosis</z:mpath> </plain></SENT>
+<SENT sid="3" pm="."><plain>Ablation of DNA non-homologous end-joining (NHEJ) proteins, XRCC4 or DNA ligase IV (LigIV), confers <z:hpo ids='HP_0001251'>ataxia</z:hpo> <z:hpo ids='HP_0001009'>telangiectasia</z:hpo> mutated (ATM)-dependent <z:mpath ids='MPATH_3'>apoptosis</z:mpath> predominantly in the IZ </plain></SENT>
+<SENT sid="4" pm="."><plain>We examine the mechanistic basis underlying these distinct sensitivities using a viable LigIV (Lig4(Y288C)) mouse, which permits an examination of the DNA damage responses in the embryonic and adult brain </plain></SENT>
+<SENT sid="5" pm="."><plain>Via combined analysis of DNA breakage, <z:mpath ids='MPATH_3'>apoptosis</z:mpath>, and cell-cycle checkpoint control in tissues, we show that <z:mpath ids='MPATH_3'>apoptosis</z:mpath> in the VZ/SVZ and IZ is activated by low numbers of DNA double-strand breaks (DSBs) </plain></SENT>
+<SENT sid="6" pm="."><plain>Unexpectedly, high sensitivity in the VZ/SVZ arises from sensitive activation of ATM-dependent <z:mpath ids='MPATH_3'>apoptosis</z:mpath> plus an ATM-independent process </plain></SENT>
+<SENT sid="7" pm="."><plain>In contrast, the IZ appears to be hypersensitive to persistent DSBs </plain></SENT>
+<SENT sid="8" pm="."><plain>NHEJ functions efficiently in both compartments </plain></SENT>
+<SENT sid="9" pm="."><plain>The VZ/SVZ and IZ regions incur high endogenous DNA breakage, which correlates with VZ proliferation </plain></SENT>
+<SENT sid="10" pm="."><plain>We demonstrate a functional G(2)/M checkpoint in VZ/SVZ cells and show that it is not activated by low numbers of DSBs, allowing damaged VZ/SVZ cells to transit into the IZ </plain></SENT>
+<SENT sid="11" pm="."><plain>We propose a novel model in which <z:hpo ids='HP_0000252'>microcephaly</z:hpo> in LIG4 syndrome arises from sensitive apoptotic induction from persisting DSBs in the IZ, which arise from high endogenous breakage in the VZ/SVZ and transit of damaged cells to the IZ </plain></SENT>
+<SENT sid="12" pm="."><plain>The VZ/SVZ, in contrast, is highly sensitive to <z:hpo ids='HP_0011009'>acute</z:hpo> radiation-induced DSB formation </plain></SENT>
+</text></document>

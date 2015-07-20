@@ -1,0 +1,6 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 6-month-old patient with <z:e sem="disease" ids="C0001193" disease_type="Disease or Syndrome;Congenital Abnormality" abbrv="">Apert syndrome</z:e> underwent <z:hpo ids='HP_0000486'>strabismus</z:hpo> surgery for a hypertropic eye </plain></SENT>
+<SENT sid="1" pm="."><plain>At surgery, the patient was found to have <z:mpath ids='MPATH_57'>agenesis</z:mpath> of <z:hpo ids='HP_0000001'>all</z:hpo> four cyclovertical muscles in <z:mp ids='MP_0005163'>one eye</z:mp> </plain></SENT>
+<SENT sid="2" pm="."><plain>Further investigation by computed tomography demonstrated absence of <z:hpo ids='HP_0000001'>all</z:hpo> four cyclovertical muscles in the fellow eye as well </plain></SENT>
+<SENT sid="3" pm="."><plain>A transposition procedure corrected the <z:hpo ids='HP_0000486'>strabismus</z:hpo> </plain></SENT>
+<SENT sid="4" pm="."><plain>While isolated aberrant or missing extraocular muscles are well documented in patients with craniofacial syndromes, bilateral absence of <z:hpo ids='HP_0000001'>all</z:hpo> four cyclovertical muscles, as demonstrated in this patient, poses unique treatment challenges </plain></SENT>
+</text></document>

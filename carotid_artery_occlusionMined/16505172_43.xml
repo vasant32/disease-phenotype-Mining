@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Thrombin is the most potent <z:chebi fb="4" ids="48705">agonist</z:chebi> of platelets and plays a critical role in the development of <z:hpo ids='HP_0004420'>arterial thrombosis</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Human platelets express dual thrombin receptors, protease-activated receptor (PAR) 1 and PAR4; however, there are no therapeutic strategies that effectively target both receptors </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS AND RESULTS: Platelet aggregation studies demonstrated that PAR4 activity is markedly enhanced by thrombin-PAR1 interactions </plain></SENT>
+<SENT sid="3" pm="."><plain>A combination of bivalirudin (hirulog) plus a novel PAR4 pepducin <z:chebi fb="68" ids="48706">antagonist</z:chebi>, P4pal-i1, effectively inhibited aggregation of human platelets to even high concentrations of thrombin and prevented occlusion of carotid arteries in guinea pigs </plain></SENT>
+<SENT sid="4" pm="."><plain>Likewise, combined inhibition of PAR1 and PAR4 with small-molecule <z:chebi fb="68" ids="48706">antagonists</z:chebi> and pepducins was effective against carotid <z:mp ids='MP_0006134'>artery occlusion</z:mp> </plain></SENT>
+<SENT sid="5" pm="."><plain>Coimmunoprecipitation and fluorescence resonance energy transfer studies revealed that PAR1 and PAR4 associate as a heterodimeric complex in human platelets and fibroblasts </plain></SENT>
+<SENT sid="6" pm="."><plain>PAR1-PAR4 cofactoring was shown by acceleration of thrombin cleavage and signaling of PAR4 on coexpression with PAR1 </plain></SENT>
+<SENT sid="7" pm="."><plain>CONCLUSIONS: We show that PAR1 and PAR4 form a stable heterodimer that enables thrombin to act as a bivalent functional <z:chebi fb="4" ids="48705">agonist</z:chebi> </plain></SENT>
+<SENT sid="8" pm="."><plain>These studies suggest that targeting the PAR1-PAR4 complex may present a novel therapeutic opportunity to prevent <z:hpo ids='HP_0004420'>arterial thrombosis</z:hpo> </plain></SENT>
+</text></document>

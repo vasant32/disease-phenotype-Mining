@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0003613'>Antiphospholipid antibodies</z:hpo> are <z:hpo ids='HP_0001425'>heterogeneous</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>A subset of these antibodies is associated with arterial and <z:hpo ids='HP_0004936'>venous thrombosis</z:hpo> and recurrent pregnancy loss </plain></SENT>
+<SENT sid="2" pm="."><plain>This subset is best diagnosed by the <z:e sem="disease" ids="C0024138,C0024141,C0024131,C0409974" disease_type="Disease or Syndrome" abbrv="">lupus</z:e> <z:chebi fb="3" ids="50249">anticoagulant</z:chebi> and solid-phase anticardiolipin tests </plain></SENT>
+<SENT sid="3" pm="."><plain>Solid-phase anticardiolipin tests use an enzyme-linked immunosorbent assay employing <z:chebi fb="0" ids="28494">cardiolipin</z:chebi> or other negatively charged <z:chebi fb="1" ids="16247">phospholipids</z:chebi> as the antigen </plain></SENT>
+<SENT sid="4" pm="."><plain>Patients with <z:hpo ids='HP_0003613'>antiphospholipid antibodies</z:hpo> who have experienced thrombotic disorders often have an IgG isotype, persistent at high levels for prolonged periods </plain></SENT>
+<SENT sid="5" pm="."><plain>The anticardiolipin test has been standardized so that antibody isotype and level can be determined reproducibly </plain></SENT>
+<SENT sid="6" pm="."><plain>Standardized serological tests to measure <z:hpo ids='HP_0003613'>antiphospholipid antibodies</z:hpo> will enable uniform identification of patients at risk for <z:mp ids='MP_0005048'>thrombosis</z:mp> and will help elucidate the origin and mechanisms of action of these antibodies </plain></SENT>
+</text></document>

@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The author investigated the possible role of acid sphingomyelinase (ASM) gene (SMPD1) in the regulation of growth, in connection with an experiment of nature </plain></SENT>
+<SENT sid="1" pm="."><plain>The association of a decreased ASM activity and an <z:hpo ids='HP_0001548'>overgrowth</z:hpo> disorder, <z:e sem="disease" ids="C0004903" disease_type="Disease or Syndrome;Congenital Abnormality" abbrv="">Beckwith-Wiedemann Syndrome</z:e> (BWS) with <z:hpo ids='HP_0001528'>hemihypertrophy</z:hpo> has been described at a 23 months old boy in a recent case report (Réthy et al, in this issue) </plain></SENT>
+<SENT sid="2" pm="."><plain>ASM catalyses the production of <z:chebi fb="7" ids="17761">ceramide</z:chebi>, a key molecule of <z:mpath ids='MPATH_3'>apoptosis</z:mpath>, from <z:chebi fb="0" ids="17636">sphingomyelin</z:chebi> </plain></SENT>
+<SENT sid="3" pm="."><plain>Based on these data it is suggested that the ASM gene (SMPD1) can suppress/counterbalance the anti-apoptotic effects of BWSrelated growth-promoters, like IGF-II, under <z:mpath ids='MPATH_458'>normal</z:mpath> circumstances </plain></SENT>
+<SENT sid="4" pm="."><plain>Recent literary data support this view </plain></SENT>
+<SENT sid="5" pm="."><plain>ASM deficient lymphoblasts derived from patients with <z:e sem="disease" ids="C0028064" disease_type="Disease or Syndrome" abbrv="">Niemann-Pick disease</z:e> (NPD) fail to undergo <z:mpath ids='MPATH_3'>apoptosis</z:mpath> in response to external signals and Fas cross-linking </plain></SENT>
+<SENT sid="6" pm="."><plain>BWS-related genes are considered to be regulated by <z:mp ids='MP_0003121'>genomic imprinting</z:mp> </plain></SENT>
+<SENT sid="7" pm="."><plain>Therefore the author compared some characteristics of both SMPD1 and imprinted genes </plain></SENT>
+<SENT sid="8" pm="."><plain>The analyzed features of SMPD1 gene (few and small introns, Alu 1 repeat element, CC-rich regulatory region, alternative splicing) are characteristic to imprinted genes </plain></SENT>
+<SENT sid="9" pm="."><plain><z:hpo ids='HP_0001528'>Hemihypertrophy</z:hpo>, mentioned in the referred BWS-case, is distinctive to the involvement of the maternal allele of the second BWS chromosomal region (BWSCR2) at 11p15.3 </plain></SENT>
+<SENT sid="10" pm="."><plain>The SMPDI gene has been localized just distal to the B05 breakpoint of BWSCR2 </plain></SENT>
+<SENT sid="11" pm="."><plain>Furthermore, in BWS-associated <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumors</z:e>, the loss of heterozygosity (LOH) found on 11p15 was always maternal </plain></SENT>
+<SENT sid="12" pm="."><plain>Thus, in the case referred to with ASM deficiency the maternal allele has certainly been effected </plain></SENT>
+<SENT sid="13" pm="."><plain>These conclusions are in accordance with the 'cluster-model of imprinting' as well as with the conflict theory of imprinting </plain></SENT>
+<SENT sid="14" pm="."><plain>Taken together, the above mentioned clinical and experimental data suggest that SMPD1, most likely at 11p15.4, is an imprinted, maternally expressed, BWS- and <z:mpath ids='MPATH_3'>apoptosis</z:mpath>-related growth suppressor gene </plain></SENT>
+<SENT sid="15" pm="."><plain>Further studies are necessary to prove this hypothesis </plain></SENT>
+</text></document>

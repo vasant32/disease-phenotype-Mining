@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 58-year-old female with <z:hpo ids='HP_0002725'>systemic lupus erythematosus</z:hpo> (SLE) and anti-<z:chebi fb="0" ids="16247">phospholipid</z:chebi> syndrome (APS) was referred and admitted to our hospital because of <z:hpo ids='HP_0001945'>fever</z:hpo> and <z:hpo ids='HP_0001876'>pancytopenia</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>She had been taking small dose of <z:chebi fb="2" ids="8378">prednisolone</z:chebi> and azathiprine since 2003 with stable SLE and APS </plain></SENT>
+<SENT sid="2" pm="."><plain>Two weeks before the admission, she developed <z:hpo ids='HP_0001945'>fever</z:hpo> and <z:e sem="disease" ids="C0009443" disease_type="Disease or Syndrome" abbrv="">common cold</z:e>-like symptoms and was admitted to a hospital </plain></SENT>
+<SENT sid="3" pm="."><plain>Antibiotics were ineffective and <z:hpo ids='HP_0001873'>thrombocytopenia</z:hpo> manifested </plain></SENT>
+<SENT sid="4" pm="."><plain>Under a diagnosis of progressive SLE, bolus <z:chebi fb="0" ids="6888">methylprednisolone</z:chebi> was administrated </plain></SENT>
+<SENT sid="5" pm="."><plain>However, she became pancytopenic and was transferred to our hospital </plain></SENT>
+<SENT sid="6" pm="."><plain>A bone marrow aspirate showed the <z:e sem="disease" ids="C0876991" disease_type="Disease or Syndrome" abbrv="">hemophagocytosis</z:e> and chest CT scanning revealed interstitial <z:hpo ids='HP_0002090'>pneumonia</z:hpo> </plain></SENT>
+<SENT sid="7" pm="."><plain>Cytomegalovirus (CMV) antigenemia test gave a positive result </plain></SENT>
+<SENT sid="8" pm="."><plain>A diagnosis of CMV-induced <z:mpath ids='MPATH_654'>hemophagocytic syndrome</z:mpath> (<z:chebi fb="0" ids="32413">HPS</z:chebi>) and CMV <z:hpo ids='HP_0002090'>pneumonia</z:hpo> was made </plain></SENT>
+<SENT sid="9" pm="."><plain><z:chebi fb="1" ids="465284">Gancyclovir</z:chebi> resolved the <z:hpo ids='HP_0001876'>pancytopenia</z:hpo>, <z:hpo ids='HP_0002090'>pneumonia</z:hpo>, and <z:hpo ids='HP_0001945'>fever</z:hpo> </plain></SENT>
+<SENT sid="10" pm="."><plain>There have been only 3 reported cases of CMV-related <z:chebi fb="0" ids="32413">HPS</z:chebi> in <z:e sem="disease" ids="C0748408,C0009326" disease_type="Disease or Syndrome" abbrv="">collagen disease</z:e> </plain></SENT>
+</text></document>

@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: <z:hpo ids='HP_0002140'>Ischemic stroke</z:hpo> is mainly caused by embolism </plain></SENT>
+<SENT sid="1" pm="."><plain>Vascular emboli can be solid or gaseous and can be non-invasively registered by transcranial Doppler ultrasound as microembolic signals (MESs) </plain></SENT>
+<SENT sid="2" pm="."><plain>The existing methods are limited as they do not distinguish between cases in which a single <z:mpath ids='MPATH_110'>embolus</z:mpath> is present and those in which multiple emboli -- perhaps a mix of those gaseous and solid in nature -- are present </plain></SENT>
+<SENT sid="3" pm="."><plain>In a previous in vitro study, we have developed a wavelet-based algorithm to detect multiple emboli </plain></SENT>
+<SENT sid="4" pm="."><plain>We proceed with this technique to investigate whether it could prove useful in patients </plain></SENT>
+<SENT sid="5" pm="."><plain>METHOD: MESs were collected during emboli monitoring from patients undergoing carotid artery stenting and from patients having middle cerebral <z:mp ids='MP_0006135'>artery stenosis</z:mp>, and continuous wavelet transform was used to detect multiple emboli </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: From 17 MESs recorded from middle cerebral <z:mp ids='MP_0006135'>artery stenosis</z:mp> patients, we found no multiple <z:chebi fb="28" ids="39005,39010">MES</z:chebi> </plain></SENT>
+<SENT sid="7" pm="."><plain>From 306 MESs recorded from carotid stenting, we found 31 multiple MESs </plain></SENT>
+<SENT sid="8" pm="."><plain>CONCLUSION: Multiple emboli were detected and quantified in patients using continuous wavelet transform </plain></SENT>
+<SENT sid="9" pm="."><plain>These were difficult to observe using conventional analysis techniques </plain></SENT>
+</text></document>

@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIMS/HYPOTHESIS: Genetic mapping has identified over 20 loci contributing to genetic risk of type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="1" pm="."><plain>The next step is to identify the genes and mechanisms regulating the contributions of genetic risk to disease </plain></SENT>
+<SENT sid="2" pm="."><plain>The goal of this study was to evaluate the effect of age, height, weight and risk alleles on expression of candidate genes in <z:mp ids='MP_0002055'>diabetes</z:mp>-associated regions in three relevant human tissues </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: We measured transcript abundance for WFS1, KCNJ11, TCF2 (also known as HNF1B), PPARG, HHEX, IDE, CDKAL1, CDKN2A, CDKN2B, IGF2BP2, SLC30A8 and TCF7L2 by quantitative RT-PCR in human pancreas (n = 50), colon (n = 195) and liver (n = 50) </plain></SENT>
+<SENT sid="4" pm="."><plain>Tissue samples were genotyped for single nucleotide polymorphisms (SNPs) associated with type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="5" pm="."><plain>The effects of age, height, weight, tissue and SNP on <z:chebi fb="40" ids="33697">RNA</z:chebi> expression were tested by linear modelling </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: Expression of <z:hpo ids='HP_0000001'>all</z:hpo> genes exhibited tissue bias </plain></SENT>
+<SENT sid="7" pm="."><plain>Immunohistochemistry confirmed the findings for HHEX, IDE and SLC30A8, which showed strongest tissue-specific <z:chebi fb="2" ids="33699">mRNA</z:chebi> expression bias </plain></SENT>
+<SENT sid="8" pm="."><plain>Neither age, height nor weight were associated with gene expression </plain></SENT>
+<SENT sid="9" pm="."><plain>We found no evidence that type 2 <z:mp ids='MP_0002055'>diabetes</z:mp>-associated SNPs affect neighbouring gene expression (cis-expression quantitative trait loci) in colon, pancreas and liver </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSIONS/INTERPRETATION: This study provides new evidence that tissue-type, but not age, height, weight or SNPs in or near candidate genes associated with increased risk of type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> are strong contributors to differential gene expression in the genes and tissues examined </plain></SENT>
+</text></document>

@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVES: Individual immunoglobulins expressed by B-cell <z:hpo ids='HP_0002665'>lymphomas</z:hpo> represent <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e>-specific antigens ('idiotypes') </plain></SENT>
+<SENT sid="1" pm="."><plain>Immunization with idiotype in follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo> patients may induce specific immune responses, sustained progression-free survival, and disappearance of <z:e sem="disease" ids="C0242596" disease_type="Neoplastic Process" abbrv="MRD">minimal residual disease</z:e> </plain></SENT>
+<SENT sid="2" pm="."><plain>Manufacturing of idiotype vaccines has mostly relied on heterohybridomas established from viable <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cells </plain></SENT>
+<SENT sid="3" pm="."><plain>This paper describes the feasibility of production of <z:chebi fb="10" ids="17345">GMP</z:chebi>-grade idiotype vaccines as recombinant Fab fragments in Escherichia coli </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS: IgH and IgL transcripts were analyzed by anchored PCR from 106 <z:hpo ids='HP_0002665'>lymphoma</z:hpo> and nine control biopsies </plain></SENT>
+<SENT sid="5" pm="."><plain><z:hpo ids='HP_0002665'>Lymphoma</z:hpo>-derived V segments were inserted into prokaryotic expression plasmids </plain></SENT>
+<SENT sid="6" pm="."><plain>Recombinant idiotype Fab fragments were expressed in E. coli in a fermentation system </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: Idiotype IgH and IgL transcripts were identified in 95% of 106 <z:hpo ids='HP_0002665'>lymphoma</z:hpo> biopsies according to stringent clonality criteria </plain></SENT>
+<SENT sid="8" pm="."><plain>Large-scale idiotype expression was successful in 69 of 78 cases (89%) and yielded a median of 17 mg (range: 1.2-250 mg) recombinant Fab protein </plain></SENT>
+<SENT sid="9" pm="."><plain>After affinity chromatography, median vaccine purity was 99% heterodimeric Fab protein (range: 72-100%) </plain></SENT>
+<SENT sid="10" pm="."><plain><z:mp ids='MP_0001794'>Bacterial</z:mp> protein contamination was detectable in one vaccine only </plain></SENT>
+<SENT sid="11" pm="."><plain>Fab proteins with IgL lambda chains had a tendency for inferior yield and lesser purity than kappa-type Fabs </plain></SENT>
+<SENT sid="12" pm="."><plain>Among other structural idiotype features (isotype, V family usage, somatic hypermutation pattern, novel glycosylation sites, CDR III net charge), no consistent influences on Fab yield or purity were detected </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSIONS: Anchored PCR cloning and subsequent protein expression in E. coli provides a reliable technological basis for clinical idiotype vaccination trials </plain></SENT>
+</text></document>

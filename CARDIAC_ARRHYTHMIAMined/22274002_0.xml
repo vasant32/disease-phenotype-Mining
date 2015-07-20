@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The analysis of the P-wave on surface ECG is widely used to assess the risk of atrial <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>In order to provide reliable results, the automatic analysis of the P-wave must be precise and reliable and must take into account technical aspects, one of those being the resolution of the acquisition system </plain></SENT>
+<SENT sid="2" pm="."><plain>The aim of this note is to investigate the effects of the amplitude resolution of ECG acquisition systems on the P-wave analysis </plain></SENT>
+<SENT sid="3" pm="."><plain>Starting from ECG recorded by an acquisition system with a less significant bit (LSB) of 31 nV (24 bit on an input range of 524 mVpp), we reproduced an ECG signal as acquired by systems with lower resolution (16, 15, 14, 13 and 12 bit) </plain></SENT>
+<SENT sid="4" pm="."><plain>We found that, when the LSB is of the order of 128 µV (12 bit), a single P-wave is not recognizable on ECG </plain></SENT>
+<SENT sid="5" pm="."><plain>However, when averaging is applied, a P-wave template can be extracted, apparently suitable for the P-wave analysis </plain></SENT>
+<SENT sid="6" pm="."><plain>Results obtained in terms of P-wave duration and <z:mp ids='MP_0000002'>morphology</z:mp> revealed that the analysis of ECG at lowest resolutions (from 12 to 14 bit, LSB higher than 30 µV) could lead to misleading results </plain></SENT>
+<SENT sid="7" pm="."><plain>However, the resolution used nowadays in modern electrocardiographs (15 and 16 bit, LSB &lt;10 µV) is sufficient for the reliable analysis of the P-wave </plain></SENT>
+</text></document>

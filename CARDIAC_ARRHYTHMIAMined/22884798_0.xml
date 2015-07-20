@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>MicroRNAs (miRNAs) play a pivotal role during embryonic development and are required for proper organogenesis, including hematopoiesis </plain></SENT>
+<SENT sid="1" pm="."><plain>Recent studies suggest that, in the early mesoderm, there is an interaction between the hematopoietic and cardiac lineages </plain></SENT>
+<SENT sid="2" pm="."><plain>However, whether miRNAs can affect other lineages remains unknown </plain></SENT>
+<SENT sid="3" pm="."><plain>Therefore, we investigated whether hematopoietic miR-142-3p modulated the mesoderm formation </plain></SENT>
+<SENT sid="4" pm="."><plain>We report that knockdown (KD) of miR-142-3p, a hematopoietic-specific miRNA, in zebrafish resulted in loss of hematopoiesis during embryonic development </plain></SENT>
+<SENT sid="5" pm="."><plain>Intriguingly, we observed abnormal cardiac phenotypes and insufficiency of somitegenesis in KD-morphants </plain></SENT>
+<SENT sid="6" pm="."><plain>In the early developmental stage, a tiny heart, contractile dysfunction in the ventricle, <z:hpo ids='HP_0011675'>cardiac arrhythmia</z:hpo> (e.g. a 2:1 ratio of atrial:ventricular beating), and <z:hpo ids='HP_0001662'>bradycardia</z:hpo> were consistently observed </plain></SENT>
+<SENT sid="7" pm="."><plain>Histological examination revealed severe <z:mpath ids='MPATH_133'>hypoplasia</z:mpath> of the ventricle and disrupted muscle alignment </plain></SENT>
+<SENT sid="8" pm="."><plain>To determine the mechanism, we performed DNA microarray analysis </plain></SENT>
+<SENT sid="9" pm="."><plain>The results revealed that the expression of several mesodermal genes essential for the formation of cardiac and somatic mesoderm, such as no tail, T-box gene 16, mesoderm posterior a, <z:mp ids='MP_0005163'>one eye</z:mp> pinhead, and rho-associated, coiled-coil containing protein kinase (Rock2a), were increased in miR-142-3p KD-morphants </plain></SENT>
+<SENT sid="10" pm="."><plain>The luciferase reporter assay revealed that miR-142-3p repressed luciferase activity on the Rock2a 3'-UTR </plain></SENT>
+<SENT sid="11" pm="."><plain>The findings of the present study indicate that miR-142-3p plays a critical role in hematopoiesis, cardiogenesis, and somitegenesis in the early stage of mesoderm formation via regulation of Rock2a </plain></SENT>
+</text></document>

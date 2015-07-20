@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0001915'>Aplastic anemia</z:hpo> is a <z:hpo ids='HP_0005528'>bone marrow failure</z:hpo> disorder characterized by <z:hpo ids='HP_0001876'>pancytopenia</z:hpo> and a <z:e sem="disease" ids="C0151773" disease_type="Disease or Syndrome" abbrv="">hypocellular marrow</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain><z:chebi fb="56" ids="16716">Benzene</z:chebi> is one of the etiologic agents capable of inducing the disease </plain></SENT>
+<SENT sid="2" pm="."><plain>With modest to severe <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo>, one previously untreated patient and 13 patients who had failed immunosuppressive therapy were studied </plain></SENT>
+<SENT sid="3" pm="."><plain>Peripheral blood mononuclear cells from patients were expanded in vitro with a combination of cytokines and a calcium-mobilizing agents for 2 days, and the activated cells were infused intravenously once a week </plain></SENT>
+<SENT sid="4" pm="."><plain>In some cases, we used allogenic leukocytes instead of autologous cultured lymphocytes </plain></SENT>
+<SENT sid="5" pm="."><plain>After 6-35 weeks of the treatment, <z:hpo ids='HP_0000001'>all</z:hpo> patients had multilineage responses to this therapy and achieved complete disease remission, defined as <z:mpath ids='MPATH_458'>normal</z:mpath> blood count, independence from transfusion, and <z:mpath ids='MPATH_458'>normal</z:mpath> bone marrow histology </plain></SENT>
+<SENT sid="6" pm="."><plain>The therapy was safe and well tolerated with minimal side effects </plain></SENT>
+<SENT sid="7" pm="."><plain>The cultured cells produced interleukin-1 and induced immune responses in vivo </plain></SENT>
+<SENT sid="8" pm="."><plain>Serum interleukin-2 and interferon- gamma were detected following cell infusion </plain></SENT>
+<SENT sid="9" pm="."><plain>Finally, patients had sustained responses to the therapy and no relapse was found up to 18 months after cellular therapy </plain></SENT>
+</text></document>

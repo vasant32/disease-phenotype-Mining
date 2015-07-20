@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:e sem="disease" ids="C0856169" disease_type="Disease or Syndrome" abbrv="">Endothelial dysfunction</z:e> is regarded as an early stage of <z:hpo ids='HP_0002621'>atherosclerosis</z:hpo>, and plays a role in the development of atherosclerotic diseases </plain></SENT>
+<SENT sid="1" pm="."><plain><z:hpo ids='HP_0000855'>Insulin resistance</z:hpo> is related to the atherosclerotic process </plain></SENT>
+<SENT sid="2" pm="."><plain>In this study, we examined the association between endothelial function and <z:hpo ids='HP_0000855'>insulin resistance</z:hpo> in 48 subjects with type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="3" pm="."><plain>In addition, the effects of <z:chebi fb="0" ids="8228">pioglitazone</z:chebi> treatment on endothelial function and <z:hpo ids='HP_0000855'>insulin resistance</z:hpo> were investigated in a subgroup of subjects </plain></SENT>
+<SENT sid="4" pm="."><plain>Endothelial function of the brachial artery was non-invasively assessed using ultrasound technique </plain></SENT>
+<SENT sid="5" pm="."><plain>We measured flow-mediated endothelium-dependent vasodilation (FMD) and <z:chebi fb="2" ids="24364">glyceryl</z:chebi> trinitrate-induced endothelium-independent vasodilation (GTN) </plain></SENT>
+<SENT sid="6" pm="."><plain>Insulin sensitivity was measured by the steady-state plasma <z:chebi fb="105" ids="17234">glucose</z:chebi> (SSPG) method </plain></SENT>
+<SENT sid="7" pm="."><plain>High SSPG levels indicate <z:hpo ids='HP_0000855'>insulin resistance</z:hpo> </plain></SENT>
+<SENT sid="8" pm="."><plain>There was a significant inverse correlation (r=-0.462, p&lt;0.001) between SSPG and FMD </plain></SENT>
+<SENT sid="9" pm="."><plain>Systolic blood pressure was inversely correlated with FMD (r=-0.360, p&lt;0.013) </plain></SENT>
+<SENT sid="10" pm="."><plain>By multiple regression analysis, <z:hpo ids='HP_0000855'>insulin resistance</z:hpo> was the sole predictor of FMD </plain></SENT>
+<SENT sid="11" pm="."><plain>The effects of <z:hpo ids='HP_0011010'>chronic</z:hpo> treatment with <z:chebi fb="0" ids="8228">pioglitazone</z:chebi> were assessed in 10 subjects with type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="12" pm="."><plain>The increase in FMD significantly correlated with the decrease in SSPG </plain></SENT>
+<SENT sid="13" pm="."><plain>There is a significant association between vascular <z:e sem="disease" ids="C0856169" disease_type="Disease or Syndrome" abbrv="">endothelial dysfunction</z:e> and <z:hpo ids='HP_0000855'>insulin resistance</z:hpo> in type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="14" pm="."><plain>This result was supported by the effects of the insulin sensitizer, <z:chebi fb="0" ids="8228">pioglitazone</z:chebi> </plain></SENT>
+</text></document>

@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:chebi fb="5" ids="28304">Heparin</z:chebi> cofactor II (HCII) is a plasma protein that inhibits thrombin rapidly in the presence of <z:chebi fb="0" ids="18376">dermatan sulfate</z:chebi>, <z:chebi fb="0" ids="24500">heparan</z:chebi> <z:chebi fb="0" ids="16189">sulfate</z:chebi>, or <z:chebi fb="5" ids="28304">heparin</z:chebi> </plain></SENT>
+<SENT sid="1" pm="."><plain>HCII has been proposed to regulate coagulation or to participate in processes such as <z:mp ids='MP_0001845'>inflammation</z:mp>, <z:hpo ids='HP_0002621'>atherosclerosis</z:hpo>, and wound repair </plain></SENT>
+<SENT sid="2" pm="."><plain>To investigate the physiologic function of HCII, about 2 kb of the mouse HCII gene, encoding the N-terminal half of the protein, was deleted by homologous recombination in embryonic stem cells </plain></SENT>
+<SENT sid="3" pm="."><plain>Crosses of F1 HCII(+/-) animals produced HCII(-/-) offspring at the expected mendelian frequency </plain></SENT>
+<SENT sid="4" pm="."><plain>Biochemical assays confirmed the absence of <z:chebi fb="0" ids="18376">dermatan sulfate</z:chebi>-dependent thrombin inhibition in the plasma of HCII(-/-) animals </plain></SENT>
+<SENT sid="5" pm="."><plain>Crosses of HCII(-/-) animals produced litters similar in size to those obtained from heterozygous matings </plain></SENT>
+<SENT sid="6" pm="."><plain>At 1 year of age, HCII-deficient animals were grossly indistinguishable from their <z:mp ids='MP_0002169'>wild-type</z:mp> littermates in weight and survival, and they did not appear to have spontaneous <z:mp ids='MP_0005048'>thrombosis</z:mp> or other morphologic abnormalities </plain></SENT>
+<SENT sid="7" pm="."><plain>In comparison with <z:mp ids='MP_0002169'>wild-type</z:mp> animals, however, they demonstrated a significantly shorter time to thrombotic occlusion of the carotid artery after photochemically induced endothelial cell injury </plain></SENT>
+<SENT sid="8" pm="."><plain>This abnormality was corrected by infusion of purified HCII but not ovalbumin </plain></SENT>
+<SENT sid="9" pm="."><plain>These observations suggest that HCII might inhibit <z:mp ids='MP_0005048'>thrombosis</z:mp> in the arterial circulation </plain></SENT>
+</text></document>

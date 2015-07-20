@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>In a retrospective study we determined the factors that influence the outcome of patients requiring intensive care (IC) for the complications of the treatment of <z:e sem="disease" ids="C0376545" disease_type="Neoplastic Process" abbrv="">haematological malignancies</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> consecutive patients suffering from <z:e sem="disease" ids="C0376545" disease_type="Neoplastic Process" abbrv="">haematological malignancy</z:e> admitted to the IC unit of the University Hospital Nijmegen over a 4 year period (1986-1989) were studied; 39 patients (21 female, 18 male) with a median age of 41 year (range 18-71) </plain></SENT>
+<SENT sid="2" pm="."><plain>Various clinical variables were assessed at admission and related to the outcome of IC treatment in terms of <z:hpo ids='HP_0011420'>death</z:hpo> or survival </plain></SENT>
+<SENT sid="3" pm="."><plain>Previously, 33 patients had undergone chemotherapy </plain></SENT>
+<SENT sid="4" pm="."><plain>Eight (21%) survived </plain></SENT>
+<SENT sid="5" pm="."><plain>One of a subgroup of 13 bone marrow transplantation patients survived </plain></SENT>
+<SENT sid="6" pm="."><plain>Hypoxaemic <z:hpo ids='HP_0002093'>respiratory failure</z:hpo> requiring mechanical ventilation was the most frequent reason for admission (20 patients of whom four recovered) </plain></SENT>
+<SENT sid="7" pm="."><plain>The second most frequent reason was combination of <z:hpo ids='HP_0002093'>respiratory failure</z:hpo> and septic shock (eight patients, none recovered) </plain></SENT>
+<SENT sid="8" pm="."><plain>Three out of five patients admitted with septic shock survived </plain></SENT>
+<SENT sid="9" pm="."><plain>The need for mechanical ventilation had the highest predictive power for a poor prognosis (p = 0.002) </plain></SENT>
+<SENT sid="10" pm="."><plain>Mortality increased with increasing APACHE II score (p = 0.03) </plain></SENT>
+<SENT sid="11" pm="."><plain>When more than four major organ systems were affected (seven patients), mortality was 100% </plain></SENT>
+<SENT sid="12" pm="."><plain><z:hpo ids='HP_0001913'>Granulocytopenia</z:hpo> (leucocyte count less than 1 x 10(9)/l) at admission turned out to be of no prognostic significance, but absence of leucocyte recovery was a prognostically bad sign (p = 0.05) </plain></SENT>
+<SENT sid="13" pm="."><plain>A considerable number of patients (20) suffered from a non-<z:mp ids='MP_0001794'>bacterial</z:mp> (opportunistic) <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infection</z:e>, carrying a high mortality (only two patients survived: one with candida, one with a <z:e sem="disease" ids="C0010823" disease_type="Disease or Syndrome" abbrv="">cytomegalovirus infection</z:e>).(ABSTRACT TRUNCATED AT 250 WORDS) </plain></SENT>
+</text></document>

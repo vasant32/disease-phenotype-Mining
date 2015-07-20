@@ -1,0 +1,32 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Coordination of respiratory care with protection of the brain is critical in neurosurgical intensive care </plain></SENT>
+<SENT sid="1" pm="."><plain>Therefore, in addition to <z:hpo ids='HP_0002883'>hyperventilation</z:hpo>, adequate sedation and muscle relaxation are applied to mitigate the difficulties with control of intracranial pressure (ICP) during routine tracheobronchial suctioning (<z:chebi fb="2" ids="127105">TBS</z:chebi>) </plain></SENT>
+<SENT sid="2" pm="."><plain>Although <z:chebi fb="6" ids="35717">hypnotics</z:chebi> have been shown to be effective in mitigating increases in ICP in response to endotracheal suctioning in paralyzed patients, brisk bucking and coughing with further increases in ICP may occur without muscle relaxation </plain></SENT>
+<SENT sid="3" pm="."><plain>Long-term neuromuscular (nm) <z:hpo ids='HP_0003470'>paralysis</z:hpo> may be undesirable in neurosurgical critical care because clinical evaluation with early detection of neurological deterioration will be impossible in the paralyzed patient </plain></SENT>
+<SENT sid="4" pm="."><plain>Therefore, the effects of <z:chebi fb="2" ids="127105">TBS</z:chebi> without and after nm blockade with an intermediate-acting nondepolarizing <z:chebi fb="4" ids="51371">muscle relaxant</z:chebi> on ICP were studied </plain></SENT>
+<SENT sid="5" pm="."><plain>PATIENTS AND METHODS </plain></SENT>
+<SENT sid="6" pm="."><plain>Nine patients with moderate increases in mean ICP of 19.2 +/- 8 mmHg due to head injuries and spontaneous <z:hpo ids='HP_0002138'>subarachnoid hemorrhage</z:hpo> were investigated </plain></SENT>
+<SENT sid="7" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> patients were on-line sedated with midazolam and sufentanil and controlled ventilation was adjusted to maintain a paCO2 of 30 +/- 2 mmHg </plain></SENT>
+<SENT sid="8" pm="."><plain>Respiratory and hemodynamic parameters and ICP (epidural probe) were continuously monitored and recorded on an integrated data bank </plain></SENT>
+<SENT sid="9" pm="."><plain>After a bolus dose of <z:chebi fb="3" ids="44915">propofol</z:chebi>, routine <z:chebi fb="2" ids="127105">TBS</z:chebi> was performed without the use of <z:chebi fb="2" ids="51371">muscle relaxants</z:chebi> </plain></SENT>
+<SENT sid="10" pm="."><plain>Before the next <z:chebi fb="2" ids="127105">TBS</z:chebi>, nm monitoring was initiated and train-of-four (TOF) stimulation was imposed at the ulnar nerve using supramaximal pulses </plain></SENT>
+<SENT sid="11" pm="."><plain>The response of the adductor pollicis muscle was recorded by accelerometry </plain></SENT>
+<SENT sid="12" pm="."><plain>After supramaximal stimulation had been achieved, a bolus dose of 2 times the ED95 of <z:chebi fb="0" ids="9939">vecuronium</z:chebi> (0.12 mg/kg) was given </plain></SENT>
+<SENT sid="13" pm="."><plain>Depth of nm blockade was quantified by the posttetanic count (PTC) </plain></SENT>
+<SENT sid="14" pm="."><plain>ICP and CPP were measured before, during, and after <z:chebi fb="2" ids="127105">TBS</z:chebi> </plain></SENT>
+<SENT sid="15" pm="."><plain>Diaphragmatic movement, bucking, and coughing were registered by visual observation and graded as absent, slight, moderate, or severe </plain></SENT>
+<SENT sid="16" pm="."><plain>STATISTICS </plain></SENT>
+<SENT sid="17" pm="."><plain>Student's t-test and the Wilcoxon test for paired data (P less than 0.05; values as mean +/- SD) were used </plain></SENT>
+<SENT sid="18" pm="."><plain>RESULTS </plain></SENT>
+<SENT sid="19" pm="."><plain>(see Table and Figure) </plain></SENT>
+<SENT sid="20" pm="."><plain>Despite adequate sedation, moderate to severe diaphragmatic movements in response to carinal stimulation with significant increases in ICP (18.2 +/-7 to 24 +/- 8 mmHg) an d subsequent decreases in cerebral perfusion pressure (CPP) (68.9 +/- 2 to 62.4 +/- 8 mmHg) could be observed without muscle relaxation </plain></SENT>
+<SENT sid="21" pm="."><plain>After a bolus of <z:chebi fb="0" ids="9939">vecuronium</z:chebi>, profound nm <z:hpo ids='HP_0003470'>paralysis</z:hpo> quantified by a PTC of 5 was observed after an <z:hpo ids='HP_0003674'>onset</z:hpo> time of 4.2 +/- 1 min </plain></SENT>
+<SENT sid="22" pm="."><plain>ICP (20.2 +/- 8 vs. 20.1 +/- 8 mmHg) and CPP (64.0 +/- 13 vs. 64.8 +/- 13 mmHg) remained unchanged </plain></SENT>
+<SENT sid="23" pm="."><plain>Slight diaphragmatic movements could be elicited in only two patients during <z:chebi fb="2" ids="127105">TBS</z:chebi> </plain></SENT>
+<SENT sid="24" pm="."><plain>DISCUSSION </plain></SENT>
+<SENT sid="25" pm="."><plain><z:chebi fb="2" ids="127105">TBS</z:chebi> is a potent trigger of diaphragmatic movement, bucking, and coughing by reflex activation of the phrenic nerve </plain></SENT>
+<SENT sid="26" pm="."><plain>A major determinant of the magnitude of ICP increase during <z:chebi fb="2" ids="127105">TBS</z:chebi> is the transmission of the cough-induced increase in intrathoracic pressure to the cerebral venous system </plain></SENT>
+<SENT sid="27" pm="."><plain><z:chebi fb="0" ids="9939">Vecuronium</z:chebi> was utilized for nm blockade because of its proven lack of cerebral and cardiovascular side effects, its relatively short <z:hpo ids='HP_0003674'>onset</z:hpo>, and its intermediate duration of action </plain></SENT>
+<SENT sid="28" pm="."><plain>Despite the postulated faster <z:hpo ids='HP_0003674'>onset</z:hpo> of nm blockade in the diaphragm, suppression of thumb-twitch response to TOF stimulation does not necessarily predict absence of diaphragmatic movement elicited by excessive tracheal stimulation </plain></SENT>
+<SENT sid="29" pm="."><plain>As demonstrated, intense nm blockade quantified by a PTC of 5 is necessary to rule out any bucking and coughing, i.e., to ensure total <z:hpo ids='HP_0006597'>diaphragmatic paralysis</z:hpo> in response to tracheal stimulation </plain></SENT>
+<SENT sid="30" pm="."><plain>On-line neurological evaluation, one of the essentials in the approach to the neurosurgical patient, will not be prevented by the intermittent bolus regime utilized in this study </plain></SENT>
+</text></document>

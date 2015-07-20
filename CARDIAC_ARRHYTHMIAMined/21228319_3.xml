@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The <z:chebi fb="120" ids="26216">potassium</z:chebi> channel K(V)7.1 is expressed in the heart where it contributes to the repolarization of the cardiac action potential </plain></SENT>
+<SENT sid="1" pm="."><plain>In addition, K(V)7.1 is expressed in epithelial tissues where it plays a role in salt and water transport </plain></SENT>
+<SENT sid="2" pm="."><plain>Mutations in the kcnq1 gene can lead to <z:hpo ids='HP_0001657'>long QT syndrome</z:hpo> and <z:hpo ids='HP_0000365'>deafness</z:hpo>, and several mutations have been described as trafficking mutations </plain></SENT>
+<SENT sid="3" pm="."><plain>To learn more about the basic mechanisms that regulate K(V)7.1 surface expression, we have investigated the trafficking of K(V)7.1 during the polarization process of the epithelial cell line Madin-Darby Canine Kidney (MDCK) using a modified version of the classical calcium switch </plain></SENT>
+<SENT sid="4" pm="."><plain>We discovered that K(V)7.1 exhibits a very dynamic localization pattern during the calcium switch </plain></SENT>
+<SENT sid="5" pm="."><plain>When MDCK cells are kept in low calcium medium, K(V)7.1 is mainly observed at the plasma membrane </plain></SENT>
+<SENT sid="6" pm="."><plain>During the first hours of the switch, K(V)7.1 is removed from the plasma membrane and an intracellular accumulation in the endoplasmic reticulum (ER) is observed </plain></SENT>
+<SENT sid="7" pm="."><plain>The channel is retained in the ER until the establishment of the lateral membranes at which point K(V)7.1 is released from the ER and moves to the plasma membrane </plain></SENT>
+<SENT sid="8" pm="."><plain>Our data furthermore suggest that while the removal of K(V)7.1 from the cell surface and its accumulation in the ER could involve activation of protein kinase C, the subsequent release of K(V)7.1 from the ER depends on <z:chebi fb="0" ids="16749">phosphoinositide</z:chebi> 3-kinase (PI3K) activation </plain></SENT>
+<SENT sid="9" pm="."><plain>In conclusion, our results demonstrate that K(V)7.1 surface expression is regulated by signaling mechanisms involved in epithelial cell polarization in particular signaling cascades involving protein kinase C and PI3K </plain></SENT>
+</text></document>

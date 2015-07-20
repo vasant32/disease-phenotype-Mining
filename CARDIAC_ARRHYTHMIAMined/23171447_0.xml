@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: <z:hpo ids='HP_0005110'>Atrial fibrillation</z:hpo> (AF) is the most common sustained <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> observed in clinical practice </plain></SENT>
+<SENT sid="1" pm="."><plain>Electrical cardioversion (EC) is commonly used to restore and maintain sinus rhythm but it is characterized by high rate of recurrences </plain></SENT>
+<SENT sid="2" pm="."><plain>Several trials analyzed the effects of <z:chebi fb="0" ids="35664">statins</z:chebi> to reduce the recurrences in AF with contradictory results </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: We performed a meta-analysis of the interventional trials with <z:chebi fb="0" ids="35664">statins</z:chebi> in patients with persistent AF to evaluate recurrences after EC </plain></SENT>
+<SENT sid="4" pm="."><plain>Only randomized controlled trials were included in the analysis </plain></SENT>
+<SENT sid="5" pm="."><plain>Data sources included: Medline, ISI Web of Science, SCOPUS and Cochrane database (up to June 2012) </plain></SENT>
+<SENT sid="6" pm="."><plain>Data extraction was performed by three authors </plain></SENT>
+<SENT sid="7" pm="."><plain>Study-specific odds ratios (ORs) were combined using fixed-effects model </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: Six studies with 515 patients were included in the analysis </plain></SENT>
+<SENT sid="9" pm="."><plain><z:chebi fb="0" ids="35664">Statins</z:chebi> used in the selected trials were: <z:chebi fb="0" ids="39548">atorvastatin</z:chebi> (at dosages ranging from 10 to 80 mg/day), pravastatin (40 mg/day) and <z:chebi fb="0" ids="38545">rosuvastatin</z:chebi> (20 mg/day) </plain></SENT>
+<SENT sid="10" pm="."><plain>AF recurrence after EC occurred in 108/258 (41.8%) of patients treated with <z:chebi fb="0" ids="35664">statins</z:chebi> and in 132/257 (51.3%) patients not on treatment with <z:chebi fb="0" ids="35664">statins</z:chebi> </plain></SENT>
+<SENT sid="11" pm="."><plain>Compared with control, recurrences were significantly reduced with <z:chebi fb="0" ids="35664">statin</z:chebi> treatment (O.R.: 0.662; 95% C.I., 0.45-0.96; p=0.03); <z:chebi fb="0" ids="35664">statin</z:chebi> treatment was associated with an absolute risk reduction of 0.095 and a number needed to treat of 11 </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: This review suggests that <z:chebi fb="0" ids="35664">statin</z:chebi> therapy was significantly associated with a decreased risk of recurrence in patients with persistent AF after EC </plain></SENT>
+</text></document>

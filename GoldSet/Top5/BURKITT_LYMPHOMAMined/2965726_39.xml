@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The effect of rIL-4 on the expression of low affinity receptor for the Fc part of IgE (Fc epsilon R2/CD23) and class II MHC antigens on Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">BL</z:e>) cell lines was investigated </plain></SENT>
+<SENT sid="1" pm="."><plain>Some of the <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">BL</z:e> lines contained low percentages of CD23 and HLA-DQ-positive cells, but virtually <z:hpo ids='HP_0000001'>all</z:hpo> cells expressed HLA-DR </plain></SENT>
+<SENT sid="2" pm="."><plain>IL-4 induced CD23 and class II MHC Ag expression on 7 of 9 BL </plain></SENT>
+<SENT sid="3" pm="."><plain>Optimal CD23 and class II MHC expression was observed after 48-72 h of incubation </plain></SENT>
+<SENT sid="4" pm="."><plain>Induction of CD23 and class II MHC Ag in the <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">BL</z:e> cell line BL2 by IL-4 was confirmed at the specific <z:chebi fb="2" ids="33699">mRNA</z:chebi> level </plain></SENT>
+<SENT sid="5" pm="."><plain>Significant activation of HLA-DQ <z:chebi fb="2" ids="33699">mRNA</z:chebi> was obtained after 6 h of incubation with IL-4 and gradually increased during prolonged incubation </plain></SENT>
+<SENT sid="6" pm="."><plain>Maximal induction of <z:chebi fb="2" ids="33699">mRNA</z:chebi> transcription occurred after 48 to 72 h </plain></SENT>
+<SENT sid="7" pm="."><plain>Optimal induction of HLA-DR and CD23 transcription in BL2 was also observed after 48 to 72 h </plain></SENT>
+<SENT sid="8" pm="."><plain>The induction of CD23 and class II MHC Ag seems to be specific for IL-4, because rIL-1, rIL-2, rIFN-gamma, recombinant granulocyte-macrophage-CSF, and a commercial source of low m.w </plain></SENT>
+<SENT sid="9" pm="."><plain>B cell growth factor were ineffective </plain></SENT>
+<SENT sid="10" pm="."><plain>In addition, the expression of class I MHC Ag, the transferrin receptor, CD38, CD25, CD10, CD20, and CD21 were not affected by IL-4 </plain></SENT>
+<SENT sid="11" pm="."><plain>Interestingly, IFN-gamma and <z:chebi fb="0" ids="15551">PGE2</z:chebi> suppressed the IL-4-induced membrane expression of CD23 and class II MHC Ag in a dose-dependent way </plain></SENT>
+<SENT sid="12" pm="."><plain>IFN-gamma also blocked IL-4-induced CD23 <z:chebi fb="2" ids="33699">mRNA</z:chebi> transcription in BL2 completely, whereas <z:chebi fb="0" ids="15551">PGE2</z:chebi> (10(-7) M) was partially inhibitory </plain></SENT>
+<SENT sid="13" pm="."><plain>The induction of CD23 and class II MHC Ag by IL-4 required intact protein synthesis as shown by its inhibition by <z:chebi fb="0" ids="27641">cycloheximide</z:chebi> </plain></SENT>
+<SENT sid="14" pm="."><plain>These results indicate that the induction of CD23 and class II MHC Ag by IL-4 is regulated in a coordinated way </plain></SENT>
+</text></document>

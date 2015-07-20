@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Yearly changes of intractable disease patients receiving financial aid for treatment were observed for 24 intractable disease patients from 1983 to 1987 </plain></SENT>
+<SENT sid="1" pm="."><plain>The results obtained were as follows </plain></SENT>
+<SENT sid="2" pm="."><plain>1 </plain></SENT>
+<SENT sid="3" pm="."><plain>The number of intractable disease patients receiving financial aid for treatment increased from 1983 to 1987 for 23 of the diseases </plain></SENT>
+<SENT sid="4" pm="."><plain>Only the number of <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">SMON</z:e> patients did not increase </plain></SENT>
+<SENT sid="5" pm="."><plain>2 </plain></SENT>
+<SENT sid="6" pm="."><plain>Medical care expenditures for these patients also increased since 1983 </plain></SENT>
+<SENT sid="7" pm="."><plain>Greater increases for in-patients than for out-patients were seen for Huntington's <z:hpo ids='HP_0002072'>chorea</z:hpo> and <z:e sem="disease" ids="C0004943" disease_type="Disease or Syndrome" abbrv="">Behcet's disease</z:e>, while larger increases were seen for out-patients with <z:e sem="disease" ids="C0030567" disease_type="Disease or Syndrome" abbrv="PD">Parkinson's disease</z:e>, <z:hpo ids='HP_0100324'>Scleroderma</z:hpo>.<z:e sem="disease" ids="C0011633" disease_type="Disease or Syndrome" abbrv="">dermatomyositis</z:e>.primary multiple <z:hpo ids='HP_0100614'>myositis</z:hpo>, <z:e sem="disease" ids="C0040021" disease_type="Disease or Syndrome" abbrv="">Buerger's disease</z:e>, and others </plain></SENT>
+<SENT sid="8" pm="."><plain>3 </plain></SENT>
+<SENT sid="9" pm="."><plain>The proportion of national health insurance holders among intractable disease patients was 42.1% as compared with 34.7% among total national patients </plain></SENT>
+<SENT sid="10" pm="."><plain>The proportion was especially higher for Huntington's <z:hpo ids='HP_0002072'>chorea</z:hpo> (64.6%), <z:e sem="disease" ids="C0030567" disease_type="Disease or Syndrome" abbrv="PD">Parkinson's disease</z:e> (64.1%) and <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">SMON</z:e> (59.4%) patients </plain></SENT>
+</text></document>

@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIMS: While successful termination by pacing of organized atrial <z:hpo ids='HP_0001649'>tachycardias</z:hpo> has been observed in patients, single site rapid pacing has not yet led to conclusive results for the termination of <z:hpo ids='HP_0005110'>atrial fibrillation</z:hpo> (AF) </plain></SENT>
+<SENT sid="1" pm="."><plain>The purpose of this study was to evaluate a novel atrial septal pacing algorithm for the termination of AF in a biophysical model of the human atria </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS AND RESULTS: Sustained AF was generated in a model based on human magnetic resonance images and membrane kinetics </plain></SENT>
+<SENT sid="3" pm="."><plain>Rapid pacing was applied from the septal area following a dual-stage scheme: (i) rapid pacing for 10-30 s at pacing intervals 62-70% of AF cycle length (AFCL), (ii) slow pacing for 1.5 s at 180% AFCL, initiated by a single stimulus at 130% AFCL </plain></SENT>
+<SENT sid="4" pm="."><plain><z:hpo ids='HP_0005110'>Atrial fibrillation</z:hpo> termination success rates were computed </plain></SENT>
+<SENT sid="5" pm="."><plain>A mean success rate for AF termination of 10.2% was obtained for rapid septal pacing only </plain></SENT>
+<SENT sid="6" pm="."><plain>The addition of the slow pacing phase increased this rate to 20.2% </plain></SENT>
+<SENT sid="7" pm="."><plain>At an optimal pacing cycle length (64% AFCL) up to 29% of AF termination was observed </plain></SENT>
+<SENT sid="8" pm="."><plain>CONCLUSION: The proposed septal pacing algorithm could suppress AF reentries in a more robust way than classical single site rapid pacing </plain></SENT>
+<SENT sid="9" pm="."><plain>Experimental studies are now needed to determine whether similar termination mechanisms and rates can be observed in animals or humans, and in which types of AF this pacing strategy might be most effective </plain></SENT>
+</text></document>

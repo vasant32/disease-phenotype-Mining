@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Esophageal capsule endoscopy (ECE) is a novel technique that offers noninvasive evaluation of esophageal pathology in <z:hpo ids='HP_0002020'>gastroesophageal reflux disease</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">GERD</z:e>) patients </plain></SENT>
+<SENT sid="1" pm="."><plain>OBJECTIVE: To assess the diagnostic accuracy of ECE for <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> (BE), erosive <z:hpo ids='HP_0100633'>esophagitis</z:hpo>, and <z:hpo ids='HP_0002036'>hiatal hernia</z:hpo> and to assess the safety profile of ECE </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: Patients with <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">GERD</z:e> symptoms and those undergoing BE surveillance were prospectively enrolled </plain></SENT>
+<SENT sid="3" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> patients underwent ECE followed by standard upper endoscopy </plain></SENT>
+<SENT sid="4" pm="."><plain>ECE findings were interpreted by examiners blinded to endoscopy results </plain></SENT>
+<SENT sid="5" pm="."><plain>The gold standard was the findings at endoscopy and ECE results were compared with those at endoscopy </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: One hundred patients were enrolled of which 94 completed the study </plain></SENT>
+<SENT sid="7" pm="."><plain>At upper endoscopy, BE was suspected in 53 (mean length 3.1 cm) and confirmed in 45 patients </plain></SENT>
+<SENT sid="8" pm="."><plain>Erosive <z:hpo ids='HP_0100633'>esophagitis</z:hpo> and <z:hpo ids='HP_0002036'>hiatal hernia</z:hpo> were identified in 18 and 70 patients, respectively </plain></SENT>
+<SENT sid="9" pm="."><plain>The sensitivity, specificity, positive predictive value (<z:chebi fb="0" ids="53261">PPV</z:chebi>), and negative predictive value (NPV) of ECE for BE in <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">GERD</z:e> patients were 67%, 87%, 60%, and 90%, respectively </plain></SENT>
+<SENT sid="10" pm="."><plain>The sensitivity, specificity, <z:chebi fb="0" ids="53261">PPV</z:chebi>, and NPV of ECE for BE patients undergoing surveillance were 79%, 78%, 94%, and 44%, respectively </plain></SENT>
+<SENT sid="11" pm="."><plain>The sensitivity, specificity, <z:chebi fb="0" ids="53261">PPV</z:chebi>, and NPV for erosive <z:hpo ids='HP_0100633'>esophagitis</z:hpo> were 50%, 90%, 56%, and 88% and for <z:hpo ids='HP_0002036'>hiatal hernia</z:hpo> were 54%, 67%, 83%, and 33%, respectively </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: Current diagnostic rates of ECE for BE are not yet accurate enough for application in clinical practice </plain></SENT>
+<SENT sid="13" pm="."><plain>An improvement in technology and learning curve assessments are required, until then standard upper endoscopy remains the gold standard </plain></SENT>
+</text></document>

@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Low-socioeconomic status (SES) is associated with a higher <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e>) incidence and mortality </plain></SENT>
+<SENT sid="1" pm="."><plain>Screening with colonoscopy, the most commonly used test in the US, has been shown to reduce the risk of <z:hpo ids='HP_0011420'>death</z:hpo> from <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e> </plain></SENT>
+<SENT sid="2" pm="."><plain>This study examined if, among insured persons receiving care in integrated healthcare delivery systems, differences exist in colonoscopy use according to neighborhood SES </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: We assembled a retrospective cohort of 100,566 men and women, 50-74 years old, who had been enrolled in one of three US health plans for ≥1 year on January 1, 2000 </plain></SENT>
+<SENT sid="4" pm="."><plain>Subjects were followed until the date of first colonoscopy, date of disenrollment from the health plan, or December 31, 2007, whichever occurred first </plain></SENT>
+<SENT sid="5" pm="."><plain>We obtained data on colonoscopy use from administrative records </plain></SENT>
+<SENT sid="6" pm="."><plain>We defined screening colonoscopy as an examination that was not preceded by <z:e sem="disease" ids="C0947761" disease_type="Disease or Syndrome" abbrv="">gastrointestinal conditions</z:e> in the prior 6-month period </plain></SENT>
+<SENT sid="7" pm="."><plain>Neighborhood SES was measured using the percentage of households in each subject's census-tract with an income below 1999 federal poverty levels based on 2000 US census data </plain></SENT>
+<SENT sid="8" pm="."><plain>Analyses, adjusted for demographics and comorbidity index, were performed using Weibull regression models </plain></SENT>
+<SENT sid="9" pm="."><plain>RESULTS: The average age of the cohort was 60 years and 52.7% were female </plain></SENT>
+<SENT sid="10" pm="."><plain>During 449,738 person-years of follow-up, fewer subjects in the lowest SES quartile (Q1) compared to the highest quartile (Q4) had any colonoscopy (26.7% vs. 37.1%) or a screening colonoscopy (7.6% vs. 13.3%) </plain></SENT>
+<SENT sid="11" pm="."><plain>In regression analyses, compared to Q4, subjects in Q1 were 16% (adjusted HR = 0.84, 95% CI: 0.80-0.88) less likely to undergo any colonoscopy and 30%(adjusted HR = 0.70, CI: 0.65-0.75) less likely to undergo a screening colonoscopy </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSION: People in lower-SES neighborhoods are less likely to undergo a colonoscopy, even among insured subjects receiving care in integrated healthcare systems </plain></SENT>
+<SENT sid="13" pm="."><plain>Removing health insurance barriers alone is unlikely to eliminate disparities in colonoscopy use </plain></SENT>
+</text></document>

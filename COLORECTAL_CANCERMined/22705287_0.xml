@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Computer-aided detection (CAD) systems have been shown to improve the diagnostic performance of CT colonography (CTC) in the detection of premalignant colorectal <z:mpath ids='MPATH_491'>polyps</z:mpath> </plain></SENT>
+<SENT sid="1" pm="."><plain>Despite the improvement, the overall system is not optimal </plain></SENT>
+<SENT sid="2" pm="."><plain>CAD annotations on true lesions are incorrectly dismissed, and false positives are misinterpreted as true <z:mpath ids='MPATH_491'>polyps</z:mpath> </plain></SENT>
+<SENT sid="3" pm="."><plain>Here, we conduct an observer performance study utilizing distributed human intelligence in the form of anonymous knowledge workers (KWs) to investigate human performance in classifying <z:mpath ids='MPATH_491'>polyp</z:mpath> candidates under different presentation strategies </plain></SENT>
+<SENT sid="4" pm="."><plain>We evaluated 600 <z:mpath ids='MPATH_491'>polyp</z:mpath> candidates from 50 patients, each case having at least one <z:mpath ids='MPATH_491'>polyp</z:mpath> ≥6 mm, from a large database of CTC studies </plain></SENT>
+<SENT sid="5" pm="."><plain>Each <z:mpath ids='MPATH_491'>polyp</z:mpath> candidate was labeled independently as a true or false <z:mpath ids='MPATH_491'>polyp</z:mpath> by 20 KWs and an expert radiologist </plain></SENT>
+<SENT sid="6" pm="."><plain>We asked each labeler to determine whether the candidate was a true <z:mpath ids='MPATH_491'>polyp</z:mpath> after looking at a single 3D-rendered image of the candidate and after watching a video fly-around of the candidate </plain></SENT>
+<SENT sid="7" pm="."><plain>We found that distributed human intelligence improved significantly when presented with the additional information in the video fly-around </plain></SENT>
+<SENT sid="8" pm="."><plain>We noted that performance degraded with increasing interpretation time and increasing difficulty, but distributed human intelligence performed better than our CAD classifier for "easy" and "moderate" <z:mpath ids='MPATH_491'>polyp</z:mpath> candidates </plain></SENT>
+<SENT sid="9" pm="."><plain>Further, we observed numerous parallels between the expert radiologist and the KWs </plain></SENT>
+<SENT sid="10" pm="."><plain>Both showed similar improvement in classification moving from single-image to video interpretation </plain></SENT>
+<SENT sid="11" pm="."><plain>Additionally, difficulty estimates obtained from the KWs using an expectation maximization algorithm correlated well with the difficulty rating assigned by the expert radiologist </plain></SENT>
+<SENT sid="12" pm="."><plain>Our results suggest that distributed human intelligence is a powerful tool that will aid in the development of CAD for CTC </plain></SENT>
+</text></document>

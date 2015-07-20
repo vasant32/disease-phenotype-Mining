@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Heart function measured by electrocardiograms (ECG) is crucial for patient care </plain></SENT>
+<SENT sid="1" pm="."><plain>ECG generated waveforms are used to find patterns of irregularities in cardiac cycles in patients </plain></SENT>
+<SENT sid="2" pm="."><plain>In many cases, irregularities evolve over an extended period of time that requires continuous monitoring </plain></SENT>
+<SENT sid="3" pm="."><plain>However, this requires wireless ECG recording devices </plain></SENT>
+<SENT sid="4" pm="."><plain>These devices consist of an enclosed system that includes electrodes, processing circuitry, and a wireless communication block imposing constraints on area, power, bandwidth, and resolution </plain></SENT>
+<SENT sid="5" pm="."><plain>In order to provide continuous monitoring of cardiac functions for real-time diagnostics, we propose a methodology that combines compression and analysis of heartbeats </plain></SENT>
+<SENT sid="6" pm="."><plain>The signal encoding scheme is the time-based integrate and fire sampler </plain></SENT>
+<SENT sid="7" pm="."><plain>The diagnostics can be performed directly on the samples avoiding reconstruction required by the competing finite rate of innovation and compressed sensing </plain></SENT>
+<SENT sid="8" pm="."><plain>As an added benefit, our scheme provides an efficient hardware implementation and a compressed representation for the ECG recordings, while still preserving discriminative features </plain></SENT>
+<SENT sid="9" pm="."><plain>We demonstrate the performance of our approach through a heartbeat classification application consisting of <z:mpath ids='MPATH_458'>normal</z:mpath> and <z:hpo ids='HP_0011675'>irregular heartbeats</z:hpo> known as <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> </plain></SENT>
+<SENT sid="10" pm="."><plain>Our approach that uses simple features extracted from ECG signals is comparable to results in the published literature </plain></SENT>
+</text></document>

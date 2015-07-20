@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The FAS/FASL system, comprising membrane-bound (mFAS and mFASL) and soluble forms (sFAS and sFASL), has been related to <z:mpath ids='MPATH_3'>apoptosis</z:mpath> driven by chemotherapy administration </plain></SENT>
+<SENT sid="1" pm="."><plain>In vitro experiments show chemotherapy upregulating membrane-bound forms, leading to an increase of receptor availability (at 24-72 h) and favoring <z:mpath ids='MPATH_3'>apoptosis</z:mpath> </plain></SENT>
+<SENT sid="2" pm="."><plain>The regulatory effect of chemotherapy on sFAS in patients has never been explored prospectively in advanced <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> (ACRC) </plain></SENT>
+<SENT sid="3" pm="."><plain>We performed a pharmacodynamic study to address sFAS/sFASL variation </plain></SENT>
+<SENT sid="4" pm="."><plain>A prospective phase II translational multicenter study was designed to evaluate progression-free rate (PFR) in patients with ACRC treated with irinotecan and cetuximab in third-line therapy </plain></SENT>
+<SENT sid="5" pm="."><plain>The effect of sFAS was studied in vitro in <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> cell lines </plain></SENT>
+<SENT sid="6" pm="."><plain>Our results showed that statistically significant changes were observed in sFAS at 24-72 h compared to baseline levels in the pharmacodynamic study </plain></SENT>
+<SENT sid="7" pm="."><plain>Of the 93 patients enrolled in the prospective study in third-line therapy with cetuximab-irinotecan, 85 were evaluated for sFAS/sFASL changes at 48 h </plain></SENT>
+<SENT sid="8" pm="."><plain>There was no difference in PFR at 4 months between patients with sFAS and sFASL changes </plain></SENT>
+<SENT sid="9" pm="."><plain>In vitro analysis showed that although LoVo cell lines were sensitive to <z:chebi fb="0" ids="31941">oxaliplatin</z:chebi> and fluorouracil due to modulation of sFAS and FAS, HT29 lines were not </plain></SENT>
+<SENT sid="10" pm="."><plain>In summary, chemotherapy regulates FAS soluble fractions in vitro and in vivo, but does not predict PFR in ACRC patients undergoing third-line therapy with the combination of cetuximab and irinotecan </plain></SENT>
+</text></document>

@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Calcified carotid plaques are thought to be less likely to be symptomatic than non-calcified plaques </plain></SENT>
+<SENT sid="1" pm="."><plain>We present a patient with an unusual <z:e sem="disease" ids="C0007780" disease_type="Disease or Syndrome" abbrv="">cerebral embolism</z:e> that appeared as very high density on CT and was ascertained to derive from a calcified plaque </plain></SENT>
+<SENT sid="2" pm="."><plain>This 46-year-old male was admitted within 1 hr of sudden <z:hpo ids='HP_0002381'>aphasia</z:hpo> <z:hpo ids='HP_0003674'>onset</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>The admission CT scan showed multiple high-intensity lesions that appeared like calcification </plain></SENT>
+<SENT sid="4" pm="."><plain>They were high intensity on MRI FLAIR images </plain></SENT>
+<SENT sid="5" pm="."><plain>MRA showed occlusion of the posterior trunk of the middle cerebral artery </plain></SENT>
+<SENT sid="6" pm="."><plain>As we considered <z:e sem="disease" ids="C0007780" disease_type="Disease or Syndrome" abbrv="">cerebral embolism</z:e>, the patient received <z:chebi fb="5" ids="28304">heparin</z:chebi> followed by <z:chebi fb="8" ids="10033">warfarin</z:chebi> </plain></SENT>
+<SENT sid="7" pm="."><plain>Routine MRA and DSA detected no abnormality, however, a carotid echogram showed a hyperechoic plaque at the left carotid bifurcation </plain></SENT>
+<SENT sid="8" pm="."><plain>As the NASCET method indicated 6.5% <z:e sem="disease" ids="C0007282" disease_type="Disease or Syndrome" abbrv="">stenosis, carotid</z:e> endarterectomy was not indicated </plain></SENT>
+<SENT sid="9" pm="."><plain>However, the <z:e sem="disease" ids="C0302148,C0087086" disease_type="Disease or Syndrome;Acquired Abnormality" abbrv="">thrombus</z:e> at the bifurcation gradually enlarged despite adequate medical treatment (PT-INR 2.2 - 2.7) and we decided to surgically remove the calcified plaque, thought to be the <z:mpath ids='MPATH_110'>embolus</z:mpath> source </plain></SENT>
+<SENT sid="10" pm="."><plain>We removed the plaque content through a defect in the plaque membrane </plain></SENT>
+<SENT sid="11" pm="."><plain>Intraoperatively we found that the rapidly enlarging lesion was the plaque content rather than a <z:e sem="disease" ids="C0302148,C0087086" disease_type="Disease or Syndrome;Acquired Abnormality" abbrv="">thrombus</z:e> </plain></SENT>
+<SENT sid="12" pm="."><plain>Pathologically, calcification was more dominant than <z:hpo ids='HP_0002621'>atherosclerosis</z:hpo> </plain></SENT>
+<SENT sid="13" pm="."><plain>His postoperative course was good and he required only aspirin </plain></SENT>
+<SENT sid="14" pm="."><plain>This case was peculiar in that the calcification mimicked a hyperdensity <z:mpath ids='MPATH_110'>embolus</z:mpath> and that the lesion derived from a calcified plaque which is usually stable </plain></SENT>
+<SENT sid="15" pm="."><plain>Repeat carotid ultrasonography is easy and useful when routine investigation fails to reveal the embolic source </plain></SENT>
+</text></document>

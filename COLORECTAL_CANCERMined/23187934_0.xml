@@ -1,0 +1,20 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Colorectal <z:mp ids='MP_0002038'>carcinoma</z:mp> is, through to its high rate of <z:e sem="disease" ids="C0494165" disease_type="Neoplastic Process" abbrv="">liver metastasis</z:e> (mCRC), the second most cause of <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> <z:hpo ids='HP_0011420'>death</z:hpo> worldwide </plain></SENT>
+<SENT sid="1" pm="."><plain><z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">Tumor</z:e> resection represents the only potential cure </plain></SENT>
+<SENT sid="2" pm="."><plain>In cases of unresectable disease systemic chemotherapy (sCHT) remains the therapy of choice </plain></SENT>
+<SENT sid="3" pm="."><plain>Modern sCHT regimens including biological agents can induce <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> response that leads to curative surgery of initially unresectable mCRC </plain></SENT>
+<SENT sid="4" pm="."><plain>However, liver-directed therapy via hepatic arterial infusion (HAI) may produce higher response rates than sCHT </plain></SENT>
+<SENT sid="5" pm="."><plain>Herein we studied whether a HAI of cetuximab (CE) plus bevacizumab (BE) with or without <z:chebi fb="0" ids="31941">oxaliplatin</z:chebi> (OX) can inhibit <z:e sem="disease" ids="C0598934" disease_type="Neoplastic Process" abbrv="">tumor growth</z:e> in a rat model </plain></SENT>
+<SENT sid="6" pm="."><plain>WAG/Rij rats underwent subcapsular <z:mpath ids='MPATH_352'>hepatic tumor</z:mpath> implantation </plain></SENT>
+<SENT sid="7" pm="."><plain>After 10 days animals received either HAI or sCHT of CE plus BE, OX or <z:hpo ids='HP_0000001'>all</z:hpo> three drugs </plain></SENT>
+<SENT sid="8" pm="."><plain>Saline-treated animals served as controls </plain></SENT>
+<SENT sid="9" pm="."><plain><z:e sem="disease" ids="C0598934" disease_type="Neoplastic Process" abbrv="">Tumor growth</z:e> was estimated at day 10 and 13 </plain></SENT>
+<SENT sid="10" pm="."><plain>On day 13 liver and <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> tissue was studied histologically and immunohistochemically </plain></SENT>
+<SENT sid="11" pm="."><plain>In controls the <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumors</z:e> grew about 50 % </plain></SENT>
+<SENT sid="12" pm="."><plain>OX alone was not capable of inhibiting <z:e sem="disease" ids="C0598934" disease_type="Neoplastic Process" abbrv="">tumor growth</z:e> </plain></SENT>
+<SENT sid="13" pm="."><plain>In contrast, CE plus BE given as HAI significantly reduced <z:e sem="disease" ids="C0598934" disease_type="Neoplastic Process" abbrv="">tumor growth</z:e> compared to sCHT (p &lt; 0.05) </plain></SENT>
+<SENT sid="14" pm="."><plain>HAI of CE plus BE combined with OX yielded an even more pronounced inhibition of <z:e sem="disease" ids="C0598934" disease_type="Neoplastic Process" abbrv="">tumor growth</z:e> </plain></SENT>
+<SENT sid="15" pm="."><plain>Immunohistochemistry revealed a decreased <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> cell proliferation and <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> vascularization </plain></SENT>
+<SENT sid="16" pm="."><plain>The present study demonstrates that HAI of CE plus BE is effective to inhibit <z:e sem="disease" ids="C0598934" disease_type="Neoplastic Process" abbrv="">tumor growth</z:e> </plain></SENT>
+<SENT sid="17" pm="."><plain>This effect is even more pronounced in combination with OX </plain></SENT>
+<SENT sid="18" pm="."><plain>Systemic application of these agents cannot achieve comparable effects </plain></SENT>
+</text></document>

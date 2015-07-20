@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>INTRODUCTION: Afebrile <z:hpo ids='HP_0001875'>neutropenia</z:hpo> with an absolute neutrophil count (ANC) of zero in a nonimmunocompromised individual is unusual </plain></SENT>
+<SENT sid="1" pm="."><plain>Outlined is a case of <z:mp ids='MP_0000334'>agranulocytosis</z:mp> likely due to levamisole laced cocaine </plain></SENT>
+<SENT sid="2" pm="."><plain>Given recent publications in the news media and medical journals, this is a pertinent issue for primary care providers </plain></SENT>
+<SENT sid="3" pm="."><plain>CASE: A 57-year-old female presented with painful bowel movements and difficulty eating </plain></SENT>
+<SENT sid="4" pm="."><plain>Physical examination revealed two exquisitely tender ulcerated lesions on her lower lip and anus </plain></SENT>
+<SENT sid="5" pm="."><plain>Laboratory data revealed an ANC of 0 and urine drug screen positive for cocaine </plain></SENT>
+<SENT sid="6" pm="."><plain>She was prophylaxed with <z:chebi fb="4" ids="2453">acyclovir</z:chebi>, diflucan, and ciprofloxacin, and was started on granulocyte colony stimulating factor for four days </plain></SENT>
+<SENT sid="7" pm="."><plain>Her ANC normalized, but the cause of her severe <z:hpo ids='HP_0001875'>neutropenia</z:hpo> remained unclear </plain></SENT>
+<SENT sid="8" pm="."><plain>DISCUSSION: Levamisole is a veterinary antihelminthic used for treatment of <z:hpo ids='HP_0001370'>rheumatoid arthritis</z:hpo> and <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> in humans </plain></SENT>
+<SENT sid="9" pm="."><plain>88% of regional cocaine samples are testing positive for levamisole, which is thought to potentiate cocaine's effects but can also cause <z:mp ids='MP_0000334'>agranulocytosis</z:mp> </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSIONS: Our patient did not fit the clinical picture for <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">malignancy</z:e>, <z:mp ids='MP_0001799'>viral</z:mp> <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infection</z:e>, or bone marrow pathology </plain></SENT>
+<SENT sid="11" pm="."><plain>Given the high rate of levamisole adulterated cocaine and an otherwise negative work-up, this is the most likely explanation for her <z:mp ids='MP_0000334'>agranulocytosis</z:mp> </plain></SENT>
+</text></document>

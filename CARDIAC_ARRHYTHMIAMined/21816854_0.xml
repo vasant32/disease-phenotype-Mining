@@ -1,0 +1,19 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIMS: <z:hpo ids='HP_0000859'>Hyperaldosteronism</z:hpo> is associated with an increased prevalence of <z:hpo ids='HP_0005110'>atrial fibrillation</z:hpo> (AF) </plain></SENT>
+<SENT sid="1" pm="."><plain>However, it is unclear whether this is the consequence of altered haemodynamics or a direct <z:chebi fb="0" ids="27584,30834">aldosterone</z:chebi> effect </plain></SENT>
+<SENT sid="2" pm="."><plain>It was the aim of the study to demonstrate load-independent effects of <z:chebi fb="0" ids="27584,30834">aldosterone</z:chebi> on atrial structure and electrophysiology </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: Osmotic mini-pumps delivering 1.5 µg/h <z:chebi fb="0" ids="27584,30834">aldosterone</z:chebi> were implanted subcutaneously in rats (Aldo) </plain></SENT>
+<SENT sid="4" pm="."><plain>Rats without <z:chebi fb="0" ids="27584,30834">aldosterone</z:chebi> treatment served as controls </plain></SENT>
+<SENT sid="5" pm="."><plain>After 8 weeks, surface electrocardiogram, the inducibility of AF, and atrial pressures were recorded in vivo </plain></SENT>
+<SENT sid="6" pm="."><plain>In isolated working hearts, left ventricular function was measured, and conduction in the right atrium (RA) and the left atrium (LA) was mapped epicardially </plain></SENT>
+<SENT sid="7" pm="."><plain>The atrial effective refractory period (AERP) was determined </plain></SENT>
+<SENT sid="8" pm="."><plain>Atrial tissue was analysed histologically </plain></SENT>
+<SENT sid="9" pm="."><plain>RESULTS: Neither systolic nor diastolic ventricular function nor atrial pressures were altered in Aldo rats </plain></SENT>
+<SENT sid="10" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> Aldo (11/11) showed inducible atrial <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> vs. two of nine controls (P = 0.03) </plain></SENT>
+<SENT sid="11" pm="."><plain>In Aldo, the P-wave duration and the total RA activation time were longer </plain></SENT>
+<SENT sid="12" pm="."><plain>Prolongation of local conduction times occurred more often in Aldo, whereas the AERP did not differ between both groups </plain></SENT>
+<SENT sid="13" pm="."><plain>In Aldo, atrial fibroblasts and interstitial collagen were increased, active matrix metalloproteinase 13 was reduced, and atrial myocytes were hypertrophied </plain></SENT>
+<SENT sid="14" pm="."><plain>The connexin 43 content was unaltered </plain></SENT>
+<SENT sid="15" pm="."><plain>CONCLUSIONS: <z:chebi fb="0" ids="27584,30834">Aldosterone</z:chebi> causes a substrate for atrial <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> characterized by atrial <z:mp ids='MP_0003045'>fibrosis</z:mp>, myocyte <z:mpath ids='MPATH_159'>hypertrophy</z:mpath>, and conduction disturbances </plain></SENT>
+<SENT sid="16" pm="."><plain>The described model imputes atrial proarrhythmia directly to <z:chebi fb="0" ids="27584,30834">aldosterone</z:chebi>, since ventricular haemodynamics appeared unaltered in this model </plain></SENT>
+<SENT sid="17" pm="."><plain>This mechanism may have therapeutical impact for primary and secondary prevention of AF </plain></SENT>
+</text></document>

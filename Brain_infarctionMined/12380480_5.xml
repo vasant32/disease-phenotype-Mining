@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND PURPOSE: The purpose of this study was to reevaluate the usefulness of relative maximum signal drop (rMSD), as compared to relative cerebral blood volume (rCBV) and cerebral blood flow (rCBF), in dynamic susceptibility contrast magnetic resonance imaging (MRI) </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: Twenty-five patients (11 with cerebral <z:hpo ids='HP_0009733'>gliomas</z:hpo> and 14 with <z:mpath ids='MPATH_124'>infarcts</z:mpath> of middle cerebral arterial territories) were included </plain></SENT>
+<SENT sid="2" pm="."><plain>The rMSD values were measured from 83 regions of interest and compared with measurements from corresponding rCBV and rCBF maps </plain></SENT>
+<SENT sid="3" pm="."><plain>RESULTS: In <z:hpo ids='HP_0001297'>stroke</z:hpo> patients, rMSD correlated strongly with rCBF (r = 0.96) but only fairly with rCBV (r = 0.69) </plain></SENT>
+<SENT sid="4" pm="."><plain>The absence of an association between rMSD and rCBV was evident in regions of increased contrast bolus dispersion </plain></SENT>
+<SENT sid="5" pm="."><plain>In <z:hpo ids='HP_0009733'>glioma</z:hpo> patients, the correlation of rMSD with rCBF (r = 0.85) was similar to that of rMSD with rCBV (r = 0.80) </plain></SENT>
+<SENT sid="6" pm="."><plain>The interparameter associations were well predicted by computer simulations </plain></SENT>
+<SENT sid="7" pm="."><plain>CONCLUSIONS: The authors conclude that rMSD is as useful as rCBF under a variety of pathophysiological conditions, whereas in conditions with <z:mpath ids='MPATH_458'>normal</z:mpath> mean transit time, such as <z:mp ids='MP_0009277'>brain tumors</z:mp>, rMSD provides equivalent blood volume information to rCBV </plain></SENT>
+<SENT sid="8" pm="."><plain>The simplicity of rMSD maps could lead to the increased use of perfusion-weighted MRI </plain></SENT>
+</text></document>

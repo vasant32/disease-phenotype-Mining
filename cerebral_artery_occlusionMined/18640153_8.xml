@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The mouse model of intraluminal suture middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (MCAO) is still associated with several issues, such as variability of infarction volume and survival </plain></SENT>
+<SENT sid="1" pm="."><plain>Thus, the method is far from standardization </plain></SENT>
+<SENT sid="2" pm="."><plain>The effect of blood flow in the pterygopalatine artery (PPA) in the mouse MCAO model remains obscure </plain></SENT>
+<SENT sid="3" pm="."><plain>While producing mouse MCAO models using commercially available <z:chebi fb="144" ids="48140">silicone</z:chebi>-coated monofilaments, we temporarily occluded the common carotid artery (CCA) or PPA to determine whether cerebral blood flow (CBF) values, <z:mpath ids='MPATH_124'>infarct</z:mpath> size and the stability of the model would be affected </plain></SENT>
+<SENT sid="4" pm="."><plain>Forty male C57BL/6 mice were divided into 3 groups: MCAO with blocked CCA blood flow (MCAO-C; n=12), MCAO with blocked PPA blood flow (MCAO-P; n=16) and MCAO without either CCA or PPA blood flow blockage (MCAO-U; n=12) </plain></SENT>
+<SENT sid="5" pm="."><plain>We found that the CBF values were significantly higher during occlusion in the MCAO-U than in the other two groups (p&lt;0.001) </plain></SENT>
+<SENT sid="6" pm="."><plain>We stained whole brains from each group at 24h after reperfusion with 2% 2,3,5-triphenyltetrazolium <z:chebi fb="76" ids="17996">chloride</z:chebi> </plain></SENT>
+<SENT sid="7" pm="."><plain>Although mean <z:mpath ids='MPATH_124'>infarct</z:mpath> volume did not obviously differ between the MCAO-U and other two groups, <z:mpath ids='MPATH_124'>infarct</z:mpath> volumes varied significantly more within the MCAO-U, than in the other two groups (p&lt;0.05) </plain></SENT>
+<SENT sid="8" pm="."><plain>We concluded that collateral circulation from the PPA to the brain significantly influences the MCAO model, and cannot be ignored </plain></SENT>
+<SENT sid="9" pm="."><plain>An approximately consistent mouse MCAO model can be generated using commercially available <z:chebi fb="144" ids="48140">silicone</z:chebi>-coated sutures while blocking PPA blood flow during occlusion </plain></SENT>
+</text></document>

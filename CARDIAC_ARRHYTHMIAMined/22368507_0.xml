@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0005110'>Atrial fibrillation</z:hpo> (AF) is the most common type of <z:hpo ids='HP_0011675'>arrhythmia</z:hpo>, and is characterized by a disordered contractile activity of the atria (top chambers of the heart) </plain></SENT>
+<SENT sid="1" pm="."><plain>A popular treatment for AF is radiofrequency (RF) ablation </plain></SENT>
+<SENT sid="2" pm="."><plain>In about 2.4% of cardiac RF ablation procedures, the catheter is accidently pushed through the heart wall due to the application of excessive force </plain></SENT>
+<SENT sid="3" pm="."><plain>Despite the various capabilities of currently available technology, there has yet to be any data establishing how cardiac <z:mpath ids='MPATH_81'>perforation</z:mpath> can be reliably predicted </plain></SENT>
+<SENT sid="4" pm="."><plain>Thus, two new FBG based sensor prototypes were developed to monitor contact levels and predict <z:mpath ids='MPATH_81'>perforation</z:mpath> </plain></SENT>
+<SENT sid="5" pm="."><plain>Two live sheep were utilized during the study </plain></SENT>
+<SENT sid="6" pm="."><plain>It was observed during operation that peaks appeared in rhythm with the heart rate whenever firm contact was made between the sensor and the endocardial wall </plain></SENT>
+<SENT sid="7" pm="."><plain>The magnitude of these peaks varied with pressure applied by the operator </plain></SENT>
+<SENT sid="8" pm="."><plain>Lastly, transmural <z:mpath ids='MPATH_81'>perforation</z:mpath> of the left atrial wall was characterized by a visible loading phase and a rapid signal drop-off correlating to <z:mpath ids='MPATH_81'>perforation</z:mpath> </plain></SENT>
+<SENT sid="9" pm="."><plain>A possible pre-<z:mpath ids='MPATH_81'>perforation</z:mpath> signal was observed for the <z:chebi fb="48" ids="30721">epoxy</z:chebi>-based sensor in the form of a slight signal reversal (12-26% of loading phase magnitude) prior to <z:mpath ids='MPATH_81'>perforation</z:mpath> (occurring over 8 s) </plain></SENT>
+</text></document>

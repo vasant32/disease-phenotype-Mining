@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>INTRODUCTION: Acid, a principal component of refluxate, may contribute to the <z:e sem="disease" ids="C0178874" disease_type="Neoplastic Process" abbrv="">neoplastic progression</z:e> of <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Brief acid exposure in vivo and in vitro has been shown to increase cell proliferation </plain></SENT>
+<SENT sid="2" pm="."><plain>The mechanisms underlying the hyperproliferative response are not well elucidated but may include alterations in <z:chebi fb="0" ids="29101">Na(+)</z:chebi>-H+ exchanger activity and MAPK signaling pathways </plain></SENT>
+<SENT sid="3" pm="."><plain>OBJECTIVE: To ascertain the effects of pulsatile acid exposure on gene expression in a Barrett's <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> cell line (SEG-1) </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS: SEG-1 cells were exposed to either acidified DMEM at pH 3.5 (0.1 M <z:chebi fb="63" ids="17883">hydrochloric acid</z:chebi>) or pH 7.4 (control) for 20 min followed by neutralization of the medium </plain></SENT>
+<SENT sid="5" pm="."><plain>Total <z:chebi fb="40" ids="33697">RNA</z:chebi> was extracted before acid exposure and over a 10-h time course (0.5, 2, 4, 6, 8, and 10 hours) and hybridized to Affymetrix human U133A oligonucleotide arrays </plain></SENT>
+<SENT sid="6" pm="."><plain>Data were analyzed using the Affymetrix statistical expression algorithms </plain></SENT>
+<SENT sid="7" pm="."><plain>Only alterations in gene expression that were &gt; or = 2 and &lt; or = -2 fold were studied further and a subset was further investigated by reverse transcription polymerase chain reaction (RT-PCR) and densitometry </plain></SENT>
+<SENT sid="8" pm="."><plain><z:mpath ids='MPATH_3'>Apoptosis</z:mpath> was assayed in SEG-1 cells by western blot for cleaved caspase 3 and an <z:mpath ids='MPATH_3'>apoptosis</z:mpath> ELISA assay </plain></SENT>
+<SENT sid="9" pm="."><plain>RESULTS: Changes in expression were identified for 138 genes </plain></SENT>
+<SENT sid="10" pm="."><plain>Analysis of gene function identified immediate downregulation of genes associated with <z:mpath ids='MPATH_3'>apoptosis</z:mpath> and early upregulation of genes associated with proliferation </plain></SENT>
+<SENT sid="11" pm="."><plain>The gene expression profiles suggest that MAPK pathways may be involved and suppression of <z:mpath ids='MPATH_3'>apoptosis</z:mpath> may occur via p53-dependent mechanisms </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: Microarray analysis of gene expression changes in a Barrett's <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> cell line has identified cellular pathways that may be disrupted following acid exposure </plain></SENT>
+</text></document>

@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: <z:e sem="disease" ids="C0024408" disease_type="Disease or Syndrome" abbrv="MJD|SCA3">Machado-Joseph disease</z:e> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MJD</z:e>)/Spinocerebellar <z:hpo ids='HP_0001251'>ataxia</z:hpo> type 3 (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">SCA3</z:e>) is an <z:hpo ids='HP_0000006'>autosomal dominant</z:hpo> <z:e sem="disease" ids="C0524851" disease_type="Disease or Syndrome" abbrv="">neurodegenerative disorder</z:e> caused by an expansion of polyglutamine tract near the C-terminus of the MJD1 gene product, ataxin-3 </plain></SENT>
+<SENT sid="1" pm="."><plain>The precise mechanism of the <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MJD</z:e>/<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">SCA3</z:e> pathogenesis remains unclear </plain></SENT>
+<SENT sid="2" pm="."><plain>A growing body of evidence demonstrates that phosphorylation plays an important role in the pathogenesis of many <z:hpo ids='HP_0002180'>neurodegenerative diseases</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>However, few kinases are known to phosphorylate ataxin-3 </plain></SENT>
+<SENT sid="4" pm="."><plain>The present study is to explore whether ataxin-3 is a substrate of casein kinase 2 (CK2) </plain></SENT>
+<SENT sid="5" pm="."><plain>METHODS: The interaction between ataxin-3 and CK2 was identified by <z:chebi fb="0" ids="16856">glutathione</z:chebi> S-transferase (GST) pull-down assay and co-immunoprecipition assay </plain></SENT>
+<SENT sid="6" pm="."><plain>The phosphorylation of ataxin-3 by CK2 was measured by in vitro phosphorylation assays </plain></SENT>
+<SENT sid="7" pm="."><plain>Results (1) Both <z:mp ids='MP_0002169'>wild type</z:mp> and expanded ataxin-3 interacted with CK2alpha and CK2beta in vitro </plain></SENT>
+<SENT sid="8" pm="."><plain>(2) In 293 cells, both <z:mp ids='MP_0002169'>wild type</z:mp> and expanded ataxin-3 interacted with CK2beta, but not CK2alpha </plain></SENT>
+<SENT sid="9" pm="."><plain>(3) CK2 phosphorylated <z:mp ids='MP_0002169'>wild type</z:mp> and expanded ataxin-3 </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSION: Ataxin-3 is a substrate of protein kinase CK2 </plain></SENT>
+</text></document>

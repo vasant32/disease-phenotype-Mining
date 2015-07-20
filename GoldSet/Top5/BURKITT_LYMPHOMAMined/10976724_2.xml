@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Promoter methylation represents an important mechanism for silencing gene expression in higher eukaryotes </plain></SENT>
+<SENT sid="1" pm="."><plain>To study methylation of the promoter of the <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> suppressor p16INK4a, a fast and simple method was developed that, in contrast to previous studies, relies on the positive display of methylated sites (PDM) </plain></SENT>
+<SENT sid="2" pm="."><plain>The method is based on <z:chebi fb="0" ids="17137">bisulfite</z:chebi> treatment of DNA, polymerase chain reaction (PCR)-amplification of the modified DNA and restriction digest of de novo created restriction sites to positively display DNA methylation in a background of unmethylated DNA </plain></SENT>
+<SENT sid="3" pm="."><plain>Since methylated as well as unmethylated DNA is amplified, information on the proportion of both is provided </plain></SENT>
+<SENT sid="4" pm="."><plain>Using this approach, 33 ductal invasive <z:mp ids='MP_0002038'>carcinomas</z:mp>, 4 <z:mpath ids='MPATH_458'>normal</z:mpath> mammary tissues, and 4 cell lines were analyzed for methylation </plain></SENT>
+<SENT sid="5" pm="."><plain>Methylation in the p16INK4a promoter was detected in 1 of 33 <z:mp ids='MP_0002038'>carcinomas</z:mp> (3%) and in 0 of 4 <z:mpath ids='MPATH_458'>normal</z:mpath> tissues </plain></SENT>
+<SENT sid="6" pm="."><plain>The conclusion is that PDM provides a useful tool in determining the degree and pattern of promoter methylation and is suitable to screen large series of tissue samples </plain></SENT>
+</text></document>

@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The purpose of this study was to improve erythropoiesis in patients with <z:hpo ids='HP_0001903'>anemia</z:hpo> due to <z:hpo ids='HP_0002863'>myelodysplastic syndromes</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e>) </plain></SENT>
+<SENT sid="1" pm="."><plain>We treated 13 patients first with recombinant human granulocyte-macrophage colony-stimulating factor (rhGM-CSF) for 6 weeks, then with recombinant human erythropoietin (rhEpo) and rhGM-CSF for the next 12 weeks </plain></SENT>
+<SENT sid="2" pm="."><plain>Five patients had <z:hpo ids='HP_0005505'>refractory anemia</z:hpo> (RA), 3 <z:hpo ids='HP_0004828'>refractory anemia with ringed sideroblasts</z:hpo> (<z:mp ids='MP_0011356'>RAS</z:mp>), and 5 <z:hpo ids='HP_0005505'>refractory anemia</z:hpo> with excess of blasts (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">RAEB</z:e>) </plain></SENT>
+<SENT sid="3" pm="."><plain>Ten patients were transfusion-dependent at the time of inclusion </plain></SENT>
+<SENT sid="4" pm="."><plain>Eleven patients completed this phase II study </plain></SENT>
+<SENT sid="5" pm="."><plain>Five responded with an increase in <z:chebi fb="0" ids="35143">hemoglobin</z:chebi> level (3 patients) or a reduction in transfusion requirement (2 patients) </plain></SENT>
+<SENT sid="6" pm="."><plain>We registered no response in the remaining 6 patients during treatment </plain></SENT>
+<SENT sid="7" pm="."><plain>Patients responding to combined treatment had relatively low concentrations of plasma Epo and plasma ferritin before treatment with rhEpo and a <z:mpath ids='MPATH_458'>normal</z:mpath> karyotype throughout the study </plain></SENT>
+<SENT sid="8" pm="."><plain>Long-term bone marrow cultures did not predict the response </plain></SENT>
+<SENT sid="9" pm="."><plain>Still, responders seemed to have a higher number of colony-forming progenitors than nonresponders </plain></SENT>
+<SENT sid="10" pm="."><plain>In conclusion, combined therapy with rhGM-CSF and rhEpo may stimulate hematopoiesis and correct or improve <z:hpo ids='HP_0001903'>anemia</z:hpo> in some patients with <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> </plain></SENT>
+</text></document>

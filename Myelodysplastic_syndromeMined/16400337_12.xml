@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A population pharmacokinetic analysis was performed in 30 patients who received an intravenous <z:chebi fb="0" ids="28901">busulfan</z:chebi> and <z:chebi fb="0" ids="4027">cyclophosphamide</z:chebi> regimen before hematopoietic stem cell transplantation </plain></SENT>
+<SENT sid="1" pm="."><plain>Each patient received 0.8 mg/kg as a 2 h infusion every 6 h for 16 doses </plain></SENT>
+<SENT sid="2" pm="."><plain>A total of 690 concentration measurements were analyzed using the nonlinear mixed effect model (NONMEM) program </plain></SENT>
+<SENT sid="3" pm="."><plain>A one-compartment model with an additive error model as an intraindividual variability including an interoccasion variability (IOV) in clearance (CL) was sufficient to describe the concentration-time profile of <z:chebi fb="0" ids="28901">busulfan</z:chebi> </plain></SENT>
+<SENT sid="4" pm="."><plain>Actual body weight (ABW) was found to be the determinant for CL and the volume of distribution (V) according to NONMEM analysis </plain></SENT>
+<SENT sid="5" pm="."><plain>In this limited study, the age (range 7-53 years old; median, 30 years old) had no significant effect on <z:chebi fb="0" ids="28901">busulfan</z:chebi> pharmacokinetics </plain></SENT>
+<SENT sid="6" pm="."><plain>For a patient weighting 60 kg, the typical CL and V were estimated to be 8.87 l/h and 33.8 l, respectively </plain></SENT>
+<SENT sid="7" pm="."><plain>The interindividual variability of CL and V were 13.6 and 6.3%, respectively </plain></SENT>
+<SENT sid="8" pm="."><plain>The IOV (6.6%) in CL was estimated to be less than the intraindividual variability </plain></SENT>
+<SENT sid="9" pm="."><plain>These results indicate high interpatient and intrapatient consistency of <z:chebi fb="0" ids="28901">busulfan</z:chebi> pharmacokinetics after intravenous administration, which may eliminate the requirement for pharmacokinetic monitoring </plain></SENT>
+</text></document>

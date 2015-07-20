@@ -1,0 +1,19 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>CONTEXT: Mesenchymal stem cells (MSCs) are under evaluation as a therapy for ischemic <z:hpo ids='HP_0001638'>cardiomyopathy</z:hpo> (ICM) </plain></SENT>
+<SENT sid="1" pm="."><plain>Both autologous and allogeneic MSC therapies are possible; however, their safety and efficacy have not been compared </plain></SENT>
+<SENT sid="2" pm="."><plain>OBJECTIVE: To test whether allogeneic MSCs are as safe and effective as autologous MSCs in patients with left ventricular (LV) dysfunction due to ICM </plain></SENT>
+<SENT sid="3" pm="."><plain>DESIGN, SETTING, AND PATIENTS: A phase 1/2 randomized comparison (POSEIDON study) in a US tertiary-care referral hospital of allogeneic and autologous MSCs in 30 patients with LV dysfunction due to ICM between April 2, 2010, and September 14, 2011, with 13-month follow-up </plain></SENT>
+<SENT sid="4" pm="."><plain>INTERVENTION: Twenty million, 100 million, or 200 million cells (5 patients in each cell type per dose level) were delivered by transendocardial stem cell injection into 10 LV sites </plain></SENT>
+<SENT sid="5" pm="."><plain>MAIN OUTCOME MEASURES: Thirty-day postcatheterization incidence of predefined treatment-emergent serious adverse events (SAEs) </plain></SENT>
+<SENT sid="6" pm="."><plain>Efficacy assessments included 6-minute walk test, exercise peak <z:chebi fb="1" ids="30047">VO2</z:chebi>, Minnesota Living with <z:hpo ids='HP_0001635'>Heart Failure</z:hpo> Questionnaire (MLHFQ), New York Heart Association class, LV volumes, ejection fraction (EF), early enhancement defect (EED; <z:mpath ids='MPATH_124'>infarct</z:mpath> size), and sphericity index </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: Within 30 days, 1 patient in each group (treatment-emergent SAE rate, 6.7%) was hospitalized for <z:hpo ids='HP_0001635'>heart failure</z:hpo>, less than the prespecified stopping event rate of 25% </plain></SENT>
+<SENT sid="8" pm="."><plain>The 1-year incidence of SAEs was 33.3% (n = 5) in the allogeneic group and 53.3% (n = 8) in the autologous group (P = .46) </plain></SENT>
+<SENT sid="9" pm="."><plain>At 1 year, there were no <z:hpo ids='HP_0004308'>ventricular arrhythmia</z:hpo> SAEs observed among allogeneic recipients compared with 4 patients (26.7%) in the autologous group (P = .10) </plain></SENT>
+<SENT sid="10" pm="."><plain>Relative to baseline, autologous but not allogeneic MSC therapy was associated with an improvement in the 6-minute walk test and the MLHFQ score, but neither improved exercise <z:chebi fb="1" ids="30047">VO2</z:chebi> max </plain></SENT>
+<SENT sid="11" pm="."><plain>Allogeneic and autologous MSCs reduced mean EED by −33.21% (95% CI, −43.61% to −22.81%; P &lt; .001) and sphericity index but did not increase EF </plain></SENT>
+<SENT sid="12" pm="."><plain>Allogeneic MSCs reduced LV end-diastolic volumes </plain></SENT>
+<SENT sid="13" pm="."><plain>Low-dose concentration MSCs (20 million cells) produced greatest reductions in LV volumes and increased EF </plain></SENT>
+<SENT sid="14" pm="."><plain>Allogeneic MSCs did not stimulate significant donor-specific alloimmune reactions </plain></SENT>
+<SENT sid="15" pm="."><plain>CONCLUSIONS: In this early-stage study of patients with ICM, transendocardial injection of allogeneic and autologous MSCs without a placebo control were both associated with low rates of treatment-emergent SAEs, including immunologic reactions </plain></SENT>
+<SENT sid="16" pm="."><plain>In aggregate, MSC injection favorably affected patient functional capacity, quality of life, and ventricular remodeling </plain></SENT>
+<SENT sid="17" pm="."><plain>TRIAL REGISTRATION: clinicaltrials.gov Identifier: NCT01087996 </plain></SENT>
+</text></document>

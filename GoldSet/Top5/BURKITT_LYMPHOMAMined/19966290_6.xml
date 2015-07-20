@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Chromosome translocations between Ig (Ig) and non-Ig genes are frequently associated with B-cell <z:hpo ids='HP_0002665'>lymphomas</z:hpo> in humans and mice </plain></SENT>
+<SENT sid="1" pm="."><plain>The best characterized of these is c-myc/IgH translocation, which is associated with Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>These translocations are caused by activation-induced <z:chebi fb="0" ids="17562">cytidine</z:chebi> deaminase (AID), which produces double-strand DNA breaks in both genes </plain></SENT>
+<SENT sid="3" pm="."><plain>c-myc/IgH translocations are rare events, in part because ATM, p53, and p19 actively suppress them </plain></SENT>
+<SENT sid="4" pm="."><plain>To further define the mechanism of protection against the accumulation of cells that bear c-myc/IgH translocation, we assayed B cells from mice that carry mutations in cell-cycle and <z:mpath ids='MPATH_3'>apoptosis</z:mpath> regulator proteins that act downstream of p53 </plain></SENT>
+<SENT sid="5" pm="."><plain>We find that PUMA, <z:chebi fb="3" ids="33173">Bim</z:chebi>, and PKCdelta are required for protection against c-myc/IgH translocation, whereas Bcl-XL and BAFF enhance c-myc/IgH translocation </plain></SENT>
+<SENT sid="6" pm="."><plain>Whether these effects are general or specific to c-myc/IgH translocation and whether AID produces dsDNA breaks in genes other than c-myc and Ig is not known </plain></SENT>
+<SENT sid="7" pm="."><plain>To examine these questions, we developed an assay for translocation between IgH and Igbeta, both of which are somatically mutated by AID </plain></SENT>
+<SENT sid="8" pm="."><plain>Igbeta/IgH, like c-myc/IgH translocations, are AID-dependent, and AID is responsible for lesions on IgH and the non-IgH translocation partners </plain></SENT>
+<SENT sid="9" pm="."><plain>However, ATM, p53, and p19 do not protect against Igbeta/IgH translocations </plain></SENT>
+<SENT sid="10" pm="."><plain>Instead, B cells are protected against Igbeta/IgH translocations by a BAFF- and PKCdelta-dependent pathway </plain></SENT>
+<SENT sid="11" pm="."><plain>We conclude that AID-induced double-strand breaks in non-Ig genes other than c-myc lead to their translocation, and that at least two nonoverlapping pathways protect against translocations in primary B cells </plain></SENT>
+</text></document>

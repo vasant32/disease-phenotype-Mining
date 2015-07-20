@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Implantable cardioverter defibrillator (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">ICD</z:e>) is a life-saving therapy for patients at risk of <z:hpo ids='HP_0004308'>ventricular arrhythmias</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Due to its high cost, its cost-effectiveness is highly dependent on its longevity, which is currently only based upon the manufacturer's predicted device life span </plain></SENT>
+<SENT sid="2" pm="."><plain>AIM: We sought to assess the <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">ICDs</z:e>' longevity and the factors influencing it, and to compare the observed (real life) to the expected (manufacturer's prediction) life span at a device level </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: We retrospectively identified <z:hpo ids='HP_0000001'>all</z:hpo> patients who underwent an <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">ICD</z:e> implantation in a tertiary care medical center </plain></SENT>
+<SENT sid="4" pm="."><plain>For each device, an expected longevity was assigned based on the manufacturer/model, pacing percentage, and number of shocks per year </plain></SENT>
+<SENT sid="5" pm="."><plain>We defined device failure if the observed survival was shorter than 80 % of the expected </plain></SENT>
+<SENT sid="6" pm="."><plain>Only devices with follow-up time that exceeded the expected longevity were included </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: Of the 275 devices in the cohort, 79 (29 %) failed </plain></SENT>
+<SENT sid="8" pm="."><plain>Median device longevity was 5 years and varied markedly between manufacturers (4.3, 4.8, 5.1, and 6.3 years for Biotronik, St </plain></SENT>
+<SENT sid="9" pm="."><plain>Jude Medical, Boston Scientific, and Medtronic, respectively) </plain></SENT>
+<SENT sid="10" pm="."><plain>There were significant differences among the manufacturers in device failure rates: 48, 17, 22, and 14 % for Biotronik, St </plain></SENT>
+<SENT sid="11" pm="."><plain>Jude Medical, Boston Scientific, and Medtronic, respectively) </plain></SENT>
+<SENT sid="12" pm="."><plain>In multivariate analysis, manufacturer, earlier year of implantation, <z:hpo ids='HP_0001635'>congestive heart failure</z:hpo> and <z:hpo ids='HP_0003774'>chronic renal failure</z:hpo> significantly predicted device failure </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSIONS: In conclusion, there is a significant device failure rate among <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">ICDs</z:e>, with variability among manufacturers, impacting both patients and the medical economic systems </plain></SENT>
+</text></document>

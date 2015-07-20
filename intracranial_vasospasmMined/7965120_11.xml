@@ -1,0 +1,18 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The roles of <z:chebi fb="0" ids="35143">hemoglobin</z:chebi> (Hb) in the pathogenesis of <z:e sem="disease" ids="C0265110" disease_type="Disease or Syndrome" abbrv="">cerebral vasospasm</z:e> remain a matter of discussion </plain></SENT>
+<SENT sid="1" pm="."><plain><z:chebi fb="0" ids="35143">Hemoglobin</z:chebi> is known to be released from extravasated red blood cells in a variety of pathological conditions, including <z:hpo ids='HP_0002138'>subarachnoid hemorrhage</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>These conditions are often accompanied by infiltration of inflammatory cells and an associated release of multiple cytokines </plain></SENT>
+<SENT sid="3" pm="."><plain>Certain of these cytokines, including interleukin-1 beta (IL-1 beta), are capable of increasing nitric <z:chebi fb="177" ids="25741,29356">oxide</z:chebi> (NO) production via the inducible form of nitric <z:chebi fb="177" ids="25741,29356">oxide</z:chebi> synthase (NOS), and excessive NO production under these conditions may contribute to cellular dysfunction </plain></SENT>
+<SENT sid="4" pm="."><plain>This study further examines these questions by investigating the effects of Hb on the induction of NOS by IL-1 beta </plain></SENT>
+<SENT sid="5" pm="."><plain>The effects of Hb on IL-1 beta-induced NO production were examined in cultured smooth-muscle cells of rat aorta (RA-SMC's) </plain></SENT>
+<SENT sid="6" pm="."><plain>Production of NO was estimated from the accumulation of <z:chebi fb="95" ids="16301">nitrite</z:chebi>, an oxidative product of NO, in the culture medium </plain></SENT>
+<SENT sid="7" pm="."><plain>The synthesis of NO was induced by IL-1 beta in a concentration-dependent manner </plain></SENT>
+<SENT sid="8" pm="."><plain>This activation of NO production was inhibited by: 1) a general inhibitor of NOS (N omega-<z:chebi fb="13" ids="29785">nitro</z:chebi>-<z:chebi fb="0" ids="16467,29952">L-arginine</z:chebi>); 2) a <z:chebi fb="0" ids="48001">protein synthesis inhibitor</z:chebi> (<z:chebi fb="0" ids="27641">cycloheximide</z:chebi>); and 3) two selective inhibitors of the inducible form of NOS (<z:chebi fb="2" ids="17650">hydrocortisone</z:chebi> and <z:chebi fb="0" ids="40618">aminoguanidine</z:chebi>) </plain></SENT>
+<SENT sid="9" pm="."><plain>These results suggest that IL-1 beta promotes the expression of the inducible form of NOS in RA-SMC's </plain></SENT>
+<SENT sid="10" pm="."><plain>The effects of Hb on NO production were tested by adding purified human Hb to the culture medium of the cells in both the presence and absence of IL-1 beta </plain></SENT>
+<SENT sid="11" pm="."><plain><z:chebi fb="95" ids="16301">Nitrite</z:chebi> accumulation was slightly but significantly increased by Hb in the absence of IL-1 beta </plain></SENT>
+<SENT sid="12" pm="."><plain>In contrast, Hb markedly augmented <z:chebi fb="95" ids="16301">nitrite</z:chebi> accumulation induced by IL-1 beta </plain></SENT>
+<SENT sid="13" pm="."><plain>This augmentation persisted even after the removal of Hb from the culture medium </plain></SENT>
+<SENT sid="14" pm="."><plain>The number of cells was not affected by Hb or IL-1 beta </plain></SENT>
+<SENT sid="15" pm="."><plain>The findings demonstrate that Hb can modify cytokine-induced production of NO in RA-SMC's by increasing the inducible form of NOS </plain></SENT>
+<SENT sid="16" pm="."><plain>These observations suggest that Hb can also modify the action of inflammatory cells by facilitating NO production in target cells </plain></SENT>
+</text></document>

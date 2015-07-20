@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Aim </plain></SENT>
+<SENT sid="1" pm="."><plain>To observe the disease activity index (DAI) and the colonic mucosa damage index (CMDI), detect the colonic mucosal expression of PPARγ, NF-κB, and TNF-α in rats with <z:hpo ids='HP_0100279'>ulcerative colitis</z:hpo> (UC), and to investigate the protective role of <z:chebi fb="0" ids="50122">rosiglitazone</z:chebi> in UC </plain></SENT>
+<SENT sid="2" pm="."><plain>Methods </plain></SENT>
+<SENT sid="3" pm="."><plain>Sprague-Dawley (SD) rats were divided into three groups: a control group, a <z:chebi fb="0" ids="50122">rosiglitazone</z:chebi> treatment group, and a UC model group </plain></SENT>
+<SENT sid="4" pm="."><plain>Rats were sacrificed on days 7, 14, 21, or 35 following administration of treatment after enema and DAI, CMDI and colonic expression of PPARγ, NF-κB, and TNF-α were assessed </plain></SENT>
+<SENT sid="5" pm="."><plain>Results </plain></SENT>
+<SENT sid="6" pm="."><plain>In the UC model group, DAI, CDMI and the colonic expression of NF-κB and TNF-α increased significantly compared to the control group at <z:hpo ids='HP_0000001'>all</z:hpo> timepoints, but PPARγ decreased significantly </plain></SENT>
+<SENT sid="7" pm="."><plain>Furthermore, in the <z:chebi fb="0" ids="50122">rosiglitazone</z:chebi> treatment group, DAI and CMDI decreased significantly on the 14-day, 21-day, and 35-day timepoints compared to the UC model group; the colonic expression of NF-κB and TNF-α decreased compared to UC model group at <z:hpo ids='HP_0000001'>all</z:hpo> timepoints, but the PPARγ expression increased significantly </plain></SENT>
+<SENT sid="8" pm="."><plain>Conclusions </plain></SENT>
+<SENT sid="9" pm="."><plain><z:chebi fb="0" ids="50122">Rosiglitazone</z:chebi> can alleviate colonic mucosal <z:mp ids='MP_0001845'>inflammation</z:mp> and have the protective role on UC by upregulating PPARγ expression and downregulating NF-κB and TNF-α expression </plain></SENT>
+</text></document>

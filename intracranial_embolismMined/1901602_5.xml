@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A patient harboring a <z:hpo ids='HP_0002408'>cerebral arteriovenous malformation</z:hpo> (<z:mp ids='MP_0006093'>AVM</z:mp>) underwent angiography in an attempt to embolize the <z:mp ids='MP_0006093'>AVM</z:mp> </plain></SENT>
+<SENT sid="1" pm="."><plain>During catheterization (and prior to embolization) he became hemiplegic and aphasic </plain></SENT>
+<SENT sid="2" pm="."><plain>Angiography revealed a complete middle cerebral artery (<z:chebi fb="70" ids="34342">MCA</z:chebi>) occlusion by an <z:mpath ids='MPATH_110'>embolus</z:mpath> </plain></SENT>
+<SENT sid="3" pm="."><plain>The patient was treated with recombinant tissue plasminogen activator (t-PA), a thrombolytic agent </plain></SENT>
+<SENT sid="4" pm="."><plain>Restoration of <z:chebi fb="70" ids="34342">MCA</z:chebi> flow was achieved, and the patient recovered </plain></SENT>
+<SENT sid="5" pm="."><plain>Immediately after <z:chebi fb="70" ids="34342">MCA</z:chebi> <z:mpath ids='MPATH_110'>embolus</z:mpath>, t-PA infusion may lead to thrombolysis and neurological recovery </plain></SENT>
+<SENT sid="6" pm="."><plain>The decision-making process as well as the risks associated with the use of t-PA are discussed </plain></SENT>
+</text></document>

@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Guidelines largely based on closed-tip catheters recommend activated clotting times (ACTs) &gt;300 to 350 seconds during <z:hpo ids='HP_0005110'>atrial fibrillation</z:hpo> (AF) ablation to prevent <z:e sem="disease" ids="C0302148,C0087086" disease_type="Disease or Syndrome;Acquired Abnormality" abbrv="">thrombus</z:e> and char formation </plain></SENT>
+<SENT sid="1" pm="."><plain>Open irrigated tip catheters (OITC) may decrease complications and permit lower ACTs </plain></SENT>
+<SENT sid="2" pm="."><plain>This study evaluated factors contributing to vascular and hemorrhagic complications during AF ablation with emphasis on catheter type, anticoagulation level, procedural and clinical variables, and gender </plain></SENT>
+<SENT sid="3" pm="."><plain>In 1,122 AF ablations we examined catheter used, ACT level, gender, and complications </plain></SENT>
+<SENT sid="4" pm="."><plain>Target ACTs initially were &gt;300 seconds and were decreased to 225 seconds for the OITC </plain></SENT>
+<SENT sid="5" pm="."><plain>Average ACT ranges were created: &lt;250, 250 to 299, 300 to 350, and &gt;350 seconds </plain></SENT>
+<SENT sid="6" pm="."><plain>Average ACT was &lt;250 seconds in 557 ablations (complication rate 1.62%) </plain></SENT>
+<SENT sid="7" pm="."><plain>Cochran-Armitage analysis showed that complications increased linearly as ACT increased and peaked at 5.55% for ablations with ACTs &gt;350 seconds (p = 0.038) </plain></SENT>
+<SENT sid="8" pm="."><plain>Women were older (66 ± 10 vs 60 ± 10 years, p &lt;0.001) and had more paroxysmal AF (43% vs 28%, p = 0.007) and more <z:hpo ids='HP_0000822'>hypertension</z:hpo> (50% vs 40%, p = 0.013) </plain></SENT>
+<SENT sid="9" pm="."><plain>Women received less <z:chebi fb="5" ids="28304">heparin</z:chebi> but were over-represented in higher ACT ranges (p &lt;0.0001) consistent with a pharmacokinetic gender difference </plain></SENT>
+<SENT sid="10" pm="."><plain>There was no difference in vascular or hemorrhagic complications between men and women (2.3% vs 2.9%, p = 0.668) </plain></SENT>
+<SENT sid="11" pm="."><plain>Multivariate logistic regression showed that only use of the OITC was associated with lower complication rates (p = 0.024) </plain></SENT>
+<SENT sid="12" pm="."><plain>In conclusion, AF ablation with the OITC is safe with a target ACT of 225 seconds </plain></SENT>
+</text></document>

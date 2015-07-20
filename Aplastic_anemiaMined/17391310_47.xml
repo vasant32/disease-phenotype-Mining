@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: <z:hpo ids='HP_0002863'>Myelodysplastic syndromes</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e>) and <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> (AA) are the most common <z:hpo ids='HP_0001903'>anemias</z:hpo> that require transfusion therapy in Japan </plain></SENT>
+<SENT sid="1" pm="."><plain>This retrospective survey investigated relationships between <z:e sem="disease" ids="C0282193" disease_type="Disease or Syndrome" abbrv="">iron overload</z:e>, chelation practices, and morbidity/mortality in patients with these diseases </plain></SENT>
+<SENT sid="2" pm="."><plain>METHOD: Medical histories of transfusion-dependent patients were assessed at transfusion <z:hpo ids='HP_0003674'>onset</z:hpo>, chelation <z:hpo ids='HP_0003674'>onset</z:hpo>, and study end </plain></SENT>
+<SENT sid="3" pm="."><plain>RESULTS: Data were collected from 292 patients with <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e>, AA, pure red cell <z:mpath ids='MPATH_58'>aplasia</z:mpath>, <z:hpo ids='HP_0011974'>myelofibrosis</z:hpo>, and other conditions </plain></SENT>
+<SENT sid="4" pm="."><plain>Patients received a mean of 61.5 red blood cell units during the previous year </plain></SENT>
+<SENT sid="5" pm="."><plain>Fewer than half (43%) of patients had previously received <z:chebi fb="0" ids="4356">deferoxamine</z:chebi> (<z:chebi fb="0" ids="4356">DFO</z:chebi>) therapy </plain></SENT>
+<SENT sid="6" pm="."><plain>Only 8.6% received daily/continuous <z:chebi fb="0" ids="4356">DFO</z:chebi> </plain></SENT>
+<SENT sid="7" pm="."><plain>In <z:hpo ids='HP_0000001'>all</z:hpo>, 75 <z:hpo ids='HP_0011420'>deaths</z:hpo> were reported, with cardiac and <z:hpo ids='HP_0001399'>liver failure</z:hpo> noted in 24.0 and 6.7% of cases </plain></SENT>
+<SENT sid="8" pm="."><plain>Of these, 97% had ferritin levels &gt;1000 ng/mL </plain></SENT>
+<SENT sid="9" pm="."><plain>Abnormal cardiac and liver function was observed in 21.9% (14/64) and 84.6% (11/13) of <z:hpo ids='HP_0000001'>all</z:hpo> patients assessed </plain></SENT>
+<SENT sid="10" pm="."><plain>Effective chelation with <z:chebi fb="0" ids="4356">DFO</z:chebi> resulted in improved serum ferritin, liver enzymes, and fasting blood sugar </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: Mortality is higher in heavily iron-overloaded patients, with liver and cardiac dysfunction being the primary cause </plain></SENT>
+<SENT sid="12" pm="."><plain>Daily/continuous chelation therapy was effective at reducing iron burden and improving organ function </plain></SENT>
+<SENT sid="13" pm="."><plain>Chelation therapy should be initiated once serum ferritin levels exceed 1000 ng/mL </plain></SENT>
+</text></document>

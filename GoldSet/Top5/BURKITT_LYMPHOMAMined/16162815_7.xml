@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Biosynthesis of <z:chebi fb="0" ids="24410">glycosylphosphatidylinositol</z:chebi> (GPI) is initiated by an unusually complex GPI-N-acetylglucosaminyltransferase (GPI-GnT) consisting of at least six proteins </plain></SENT>
+<SENT sid="1" pm="."><plain>Here, we report that human GPI-GnT requires another component, termed PIG-Y, a 71 amino acid protein with two transmembrane domains </plain></SENT>
+<SENT sid="2" pm="."><plain>The Burkitt <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cell line Daudi, severely defective in the surface expression of GPI-anchored proteins, was a null mutant of PIG-Y </plain></SENT>
+<SENT sid="3" pm="."><plain>A complex of six components was formed without PIG-Y </plain></SENT>
+<SENT sid="4" pm="."><plain>PIG-Y appeared to be directly associated with PIG-A, implying that PIG-Y is the key molecule that regulates GPI-GnT activity by binding directly to the catalytic subunit PIG-A </plain></SENT>
+<SENT sid="5" pm="."><plain>PIG-Y is probably homologous to yeast Eri1p, a component of GPI-GnT </plain></SENT>
+<SENT sid="6" pm="."><plain>We did not obtain evidence for a functional linkage between GPI-GnT and ras GTPases in mammalian cells as has been reported for yeast cells </plain></SENT>
+<SENT sid="7" pm="."><plain>A single transcript encoded PIG-Y and, to its 5' side, another protein PreY that has homologues in a wide range of organisms and is characterized by a conserved domain termed DUF343 </plain></SENT>
+<SENT sid="8" pm="."><plain>These two proteins are translated from one <z:chebi fb="2" ids="33699">mRNA</z:chebi> by leaky scanning of the PreY initiation site </plain></SENT>
+</text></document>

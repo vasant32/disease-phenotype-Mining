@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Duchenne <z:hpo ids='HP_0003560'>muscular dystrophy</z:hpo> (DMD) is a fatal <z:e sem="disease" ids="C0019247" disease_type="Disease or Syndrome" abbrv="">genetic disease</z:e> caused by the absence of the sarcolemmal protein dystrophin </plain></SENT>
+<SENT sid="1" pm="."><plain><z:hpo ids='HP_0001644'>Dilated cardiomyopathy</z:hpo> leading to <z:hpo ids='HP_0001635'>heart failure</z:hpo> is a significant source of morbidity and mortality in DMD </plain></SENT>
+<SENT sid="2" pm="."><plain>We recently demonstrated amelioration of DMD <z:e sem="disease" ids="C0018799" disease_type="Disease or Syndrome" abbrv="">heart disease</z:e> in 16 to 20-m-old dystrophin-null mdx mice using adeno-associated virus (AAV) mediated micro-dystrophin gene therapy </plain></SENT>
+<SENT sid="3" pm="."><plain>DMD patients show severe <z:e sem="disease" ids="C0018799" disease_type="Disease or Syndrome" abbrv="">heart disease</z:e> near the end of their life expectancy </plain></SENT>
+<SENT sid="4" pm="."><plain>Similarly, mdx mice exhibit profoundly worsening <z:e sem="disease" ids="C0018799" disease_type="Disease or Syndrome" abbrv="">heart disease</z:e> when they reach beyond 21 months of age </plain></SENT>
+<SENT sid="5" pm="."><plain>To more rigorously test micro-dystrophin therapy, we treated mdx mice that were between 21.2 and 22.7-m-old (average, 22.1 ± 0.2 months; N=8) </plain></SENT>
+<SENT sid="6" pm="."><plain>The ∆R4-23/∆C micro-dystrophin gene was packaged in the cardiotropic AAV-9 virus </plain></SENT>
+<SENT sid="7" pm="."><plain>5×10(12) <z:mp ids='MP_0001799'>viral</z:mp> genome particles/mouse were delivered to mdx mice via the tail vein </plain></SENT>
+<SENT sid="8" pm="."><plain>AAV transduction, <z:hpo ids='HP_0001685'>myocardial fibrosis</z:hpo> and heart function were examined 1.7 ± 0.2 months after gene therapy </plain></SENT>
+<SENT sid="9" pm="."><plain>Efficient micro-dystrophin expression was observed in the myocardium of treated mice </plain></SENT>
+<SENT sid="10" pm="."><plain>Despite the robust dystrophin expression, <z:hpo ids='HP_0001685'>myocardial fibrosis</z:hpo> was not mitigated </plain></SENT>
+<SENT sid="11" pm="."><plain>Most hemodynamic parameters were not improved either </plain></SENT>
+<SENT sid="12" pm="."><plain>However, <z:hpo ids='HP_0011675'>ECG abnormalities</z:hpo> were partially corrected </plain></SENT>
+<SENT sid="13" pm="."><plain>Importantly, treated mice became more resistant to dobutamine-induced cardiac <z:hpo ids='HP_0011420'>death</z:hpo> </plain></SENT>
+<SENT sid="14" pm="."><plain>In summary, we have revealed for the first time the potential benefits and limitations of AAV micro-dystrophin therapy in end-stage Duchenne <z:hpo ids='HP_0001644'>dilated cardiomyopathy</z:hpo> </plain></SENT>
+<SENT sid="15" pm="."><plain>Our findings have important implications for the use of AAV gene therapy in <z:hpo ids='HP_0001644'>dilated cardiomyopathy</z:hpo> and <z:hpo ids='HP_0001635'>heart failure</z:hpo> </plain></SENT>
+</text></document>

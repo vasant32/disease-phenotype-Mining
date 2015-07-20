@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: The USPSTF recommends beginning <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> screening at age 50 </plain></SENT>
+<SENT sid="1" pm="."><plain>A recent study showed prevalence of colorectal <z:mpath ids='MPATH_270'>adenomas</z:mpath> among individuals aged 40-49 was similar to that among those aged 50-59 </plain></SENT>
+<SENT sid="2" pm="."><plain>AIM: To assess the prevalence of colorectal <z:hpo ids='HP_0002664'>neoplasia</z:hpo>, detected during colonoscopy, by age among average-risk patients </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: Nine-hundred and ninety-four colonoscopies were analyzed (247 ages 40-49, 747 ages 50-59) </plain></SENT>
+<SENT sid="4" pm="."><plain>We included consecutive patients of ages 40-59 undergoing their first colonoscopy </plain></SENT>
+<SENT sid="5" pm="."><plain>Colonoscopies that did not reach the cecum and patients at increased risk of <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> were excluded </plain></SENT>
+<SENT sid="6" pm="."><plain>The primary endpoint was the prevalence of colorectal <z:hpo ids='HP_0002664'>neoplasia</z:hpo> by age </plain></SENT>
+<SENT sid="7" pm="."><plain>Secondary endpoints included the prevalence of colorectal <z:hpo ids='HP_0002664'>neoplasia</z:hpo> by gender, ethnicity, and BMI </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: The prevalence of colorectal <z:hpo ids='HP_0002664'>neoplasia</z:hpo> was 12.1% in patients aged 40-49 and 22.6% in those aged 50-59 </plain></SENT>
+<SENT sid="9" pm="."><plain>Compared with individuals aged 40-49 there was a significantly greater prevalence of <z:mpath ids='MPATH_270'>adenomas</z:mpath> (chi-squared = 12.72, P = 0.0004) and of advanced <z:mpath ids='MPATH_270'>adenomas</z:mpath> or <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> (chi-squared = 5.73, P = 0.01) in individuals aged 50-59 </plain></SENT>
+<SENT sid="10" pm="."><plain>After adjusting for gender, race, and BMI the effect of age remained significant (OR 0.5, 95% CI 0.33-0.76) </plain></SENT>
+<SENT sid="11" pm="."><plain>Higher BMI was associated with increased risk of colorectal <z:hpo ids='HP_0002664'>neoplasia</z:hpo> (OR 1.03, 95% CI 1.00-1.06) </plain></SENT>
+<SENT sid="12" pm="."><plain>The number that had to be screened to detect one advanced lesion in the 40-49 age group was 49 compared with 20 in those aged 50-59 </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSION: Individuals aged 40-49 have a lower but measurable risk of colorectal <z:hpo ids='HP_0002664'>neoplasia</z:hpo> compared with those aged 50-59 </plain></SENT>
+<SENT sid="14" pm="."><plain>Although there may be population subgroups for which screening below the age of 50 may be indicated, our results do not support lowering the age threshold for colonoscopy in the general population </plain></SENT>
+</text></document>

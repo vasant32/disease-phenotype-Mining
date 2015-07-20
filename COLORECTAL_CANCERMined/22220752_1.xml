@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Cerebellin precursor protein (Cbln1) is essential for synapse integrity in cerebellum through assembly into complexes that bridge pre-synaptic β-neurexins (Nrxn) to post-synaptic GluRδ2 </plain></SENT>
+<SENT sid="1" pm="."><plain>However, GluRδ2 is largely cerebellum-specific, yet Cbln1 and its little studied family members, Cbln2 and Cbln4, are expressed throughout brain </plain></SENT>
+<SENT sid="2" pm="."><plain>Therefore, we investigated whether additional proteins mediate Cbln family actions </plain></SENT>
+<SENT sid="3" pm="."><plain>Whereas Cbln1 and Cbln2 bound to GluRδ2 and Nrxns1-3, Cbln4 bound weakly or not at <z:hpo ids='HP_0000001'>all</z:hpo>, suggesting it has distinct binding partners </plain></SENT>
+<SENT sid="4" pm="."><plain>In a candidate receptor-screening assay, Cbln4 (but not Cbln1 or Cbln2) bound selectively to the netrin receptor, (deleted in <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> (<z:chebi fb="8" ids="53090">DCC</z:chebi>) in a netrin-displaceable fashion </plain></SENT>
+<SENT sid="5" pm="."><plain>To determine whether Cbln4 had a netrin-like function, Cbln4-null mice were generated </plain></SENT>
+<SENT sid="6" pm="."><plain>Cbln4-null mice did not phenocopy netrin-null mice </plain></SENT>
+<SENT sid="7" pm="."><plain>Cbln1 and Cbln4 were likely co-localized in neurons thought to be responsible for synaptic changes in striatum of Cbln1-null mice </plain></SENT>
+<SENT sid="8" pm="."><plain>Furthermore, complexes containing Cbln1 and Cbln4 had greatly reduced affinity to <z:chebi fb="8" ids="53090">DCC</z:chebi> but increased affinity to Nrxns, suggesting a functional interaction </plain></SENT>
+<SENT sid="9" pm="."><plain>However, Cbln4-null mice lacked the striatal synaptic changes seen in Cbln null mice </plain></SENT>
+<SENT sid="10" pm="."><plain>Thus, Cbln family members interact with multiple receptors/signaling pathways in a subunit composition-dependent manner and have independent functions with Cbln4 potentially involved in the less well-characterized role of netrin/<z:chebi fb="8" ids="53090">DCC</z:chebi> in adult brain </plain></SENT>
+</text></document>

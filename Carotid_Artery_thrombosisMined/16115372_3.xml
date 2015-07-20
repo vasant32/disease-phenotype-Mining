@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIM: To study the effect of honokiol on <z:hpo ids='HP_0004420'>arterial thrombosis</z:hpo> and endothelial cells </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: Rabbit platelet aggregation was performed with Borns turbid method </plain></SENT>
+<SENT sid="2" pm="."><plain><z:mp ids='MP_0005048'>Thrombosis</z:mp> was produced by the endothelial injury stimulated with electric current </plain></SENT>
+<SENT sid="3" pm="."><plain>Rat aortic endothelial cells (RAEC) were cultured and cell viability was assessed using the <z:chebi fb="0" ids="53233">MTT</z:chebi> assay </plain></SENT>
+<SENT sid="4" pm="."><plain>Nitric <z:chebi fb="177" ids="25741,29356">oxide</z:chebi> (NO) concentrations in serum-free media of RAEC were determined using the kinetic <z:chebi fb="113" ids="22977">cadmium</z:chebi>-reduction method </plain></SENT>
+<SENT sid="5" pm="."><plain>The stable metabolite prostacyclin was measured in serum-free media of RAEC by radioimmunoassay </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: Honokiol (37.6-376 micromol/L) decreased rabbit platelet aggregation in vitro in a concentration-dependent manner, while intravenously injection of honokiol (0.12-12 microg/kg) significantly inhibited rabbit platelet aggregation induced by collagen ex vivo </plain></SENT>
+<SENT sid="7" pm="."><plain>In the electrical current-stimulated carotid <z:mp ids='MP_0005048'>thrombosis</z:mp> model in rats, honokiol (5-50 microg/kg, iv) prolonged the <z:e sem="disease" ids="C0302148,C0087086" disease_type="Disease or Syndrome;Acquired Abnormality" abbrv="">thrombus</z:e> occlusion time in a does-dependent manner </plain></SENT>
+<SENT sid="8" pm="."><plain>In vitro honokiol (0.376-37.6 micromol/L) effectively protected cultured RAEC against oxidized <z:chebi fb="2" ids="39026">low density lipoprotein</z:chebi> (ox-<z:chebi fb="15" ids="39026">LDL</z:chebi>) injury, and significantly increased 6-keto-<z:chebi fb="0" ids="28852">PGF1alpha</z:chebi> (the stable metabolite of prostacyclin) in serum-free media of RAEC </plain></SENT>
+<SENT sid="9" pm="."><plain>Honokiol also increased NO level in RAEC serum-free medium at a lower concentration range (0.0376-0.376 micromol/L), but honokiol 3.76 micromol/L decreased NO level </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSION: Honokiol is a potent <z:hpo ids='HP_0004420'>arterial thrombosis</z:hpo> inhibitor </plain></SENT>
+<SENT sid="11" pm="."><plain>Endothelial cell protection and the stimulation of prostacyclin release may be its main anti-<z:mp ids='MP_0005048'>thrombosis</z:mp> mechanism </plain></SENT>
+<SENT sid="12" pm="."><plain>Stimulation of NO release in endothelial cells may play a role, but it is not a key factor </plain></SENT>
+</text></document>

@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Ectopic gastric mucosa (EGM) is considered to be a congenital condition </plain></SENT>
+<SENT sid="1" pm="."><plain>Rare cases of <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> have been described </plain></SENT>
+<SENT sid="2" pm="."><plain>There are no data justifying regular biopsies or follow-up </plain></SENT>
+<SENT sid="3" pm="."><plain>Cyclooxygenase-2 (COX-2) is a protein involved in <z:e sem="disease" ids="C0017185" disease_type="Neoplastic Process" abbrv="">gastrointestinal tumor</z:e> development by inhibiting <z:mpath ids='MPATH_3'>apoptosis</z:mpath> and regulating <z:mpath ids='MPATH_177'>angiogenesis</z:mpath> </plain></SENT>
+<SENT sid="4" pm="."><plain>The aim of this prospective study was to evaluate COX-2 expression in EGM and compare it with <z:mpath ids='MPATH_458'>normal</z:mpath> tissue and <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> </plain></SENT>
+<SENT sid="5" pm="."><plain>We evaluated 1327 patients </plain></SENT>
+<SENT sid="6" pm="."><plain>Biopsies were taken from the inlet patch for histological evaluation and from the gastric antrum to assess <z:hpo ids='HP_0005202'>Helicobacter pylori infection</z:hpo> </plain></SENT>
+<SENT sid="7" pm="."><plain>Biopsies taken from <z:mpath ids='MPATH_458'>normal</z:mpath> esophageal, gastric antrum and body mucosa and <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> were retrieved from a tissue bank </plain></SENT>
+<SENT sid="8" pm="."><plain>EGM biopsies were evaluated with respect to type of epithelium, presence of H. pylori, and <z:mp ids='MP_0001845'>inflammation</z:mp> </plain></SENT>
+<SENT sid="9" pm="."><plain>COX-2 was detected by immunohistochemistry using the avidin-<z:chebi fb="1" ids="15956">biotin</z:chebi> complex </plain></SENT>
+<SENT sid="10" pm="."><plain>EGM islets were found in 14 patients (1.1%) </plain></SENT>
+<SENT sid="11" pm="."><plain>Histological examination revealed fundic type epithelium in 58.3% of cases, H. pylori was present in 50% and <z:hpo ids='HP_0011010'>chronic</z:hpo> <z:mp ids='MP_0001845'>inflammation</z:mp> in 66.7% </plain></SENT>
+<SENT sid="12" pm="."><plain>Expression of COX-2 was negative in <z:mpath ids='MPATH_458'>normal</z:mpath> distal esophagus, <z:mpath ids='MPATH_458'>normal</z:mpath> gastric antrum and <z:mpath ids='MPATH_458'>normal</z:mpath> gastric body specimens (10 each) </plain></SENT>
+<SENT sid="13" pm="."><plain>In contrast, EGM presented over-expression of COX-2 in 41.7% of cases and <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> in 90% of cases (P = 0.04 and 0.03, respectively) </plain></SENT>
+<SENT sid="14" pm="."><plain>COX-2 immunoexpression in EGM was not related to gender, age, epithelium type, presence of <z:mp ids='MP_0001845'>inflammation</z:mp> or <z:mpath ids='MPATH_167'>intestinal metaplasia</z:mpath>, H. pylori <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infection</z:e>, or any endoscopic finding </plain></SENT>
+<SENT sid="15" pm="."><plain>Our results demonstrate up-regulation of COX-2 in EGM, suggesting a possible malignant potential of this so-called harmless mucosa </plain></SENT>
+</text></document>

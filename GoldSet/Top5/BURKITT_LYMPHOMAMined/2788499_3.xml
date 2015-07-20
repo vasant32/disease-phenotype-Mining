@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Interleukin 2 (IL-2) regulates immune responses by inducing proliferation and differentiation of T-cells into cytotoxic cells, inducing lymphokine activated killer activity and enhancing antibody dependent cellular cytotoxicity (ADCC) </plain></SENT>
+<SENT sid="1" pm="."><plain>Lym-1, a monoclonal antibody, recognizes a membrane antigen present on the surface of B-<z:hpo ids='HP_0002665'>lymphoma</z:hpo> cells and can be used for ADCC </plain></SENT>
+<SENT sid="2" pm="."><plain>We therefore used Raji (human Burkitt <z:hpo ids='HP_0002665'>lymphoma</z:hpo>) cells to study the efficacy of combination therapy with IL-2, lymphokine activated killer activity, and Lym-1 </plain></SENT>
+<SENT sid="3" pm="."><plain>In vitro ADCC assays using Lym-1 showed that preincubation of peripheral blood lymphocytes with IL-2 had a synergistic antitumor effect </plain></SENT>
+<SENT sid="4" pm="."><plain>The maximum synergism was achieved when peripheral blood lymphocytes were incubated with IL-2 for 3 days as compared to 1 or 2 days, with the optimal concentration of IL-2 being 1000 units/ml </plain></SENT>
+<SENT sid="5" pm="."><plain>This effect was specific for Lym-1 as demonstrated by experiments using an irrelevant (antimelanoma) monoclonal antibody or an irrelevant target cell (A375) </plain></SENT>
+<SENT sid="6" pm="."><plain>The ADCC was blocked by an anti-Fe receptor antibody (3G8) </plain></SENT>
+<SENT sid="7" pm="."><plain>In vivo experiments performed by growing Raji <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumors</z:e> in <z:mp ids='MP_0003815'>nude</z:mp> mice also demonstrated the increase in ADCC and the synergism between IL-2 and Lym-1 in terms of decreased <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> size and growth </plain></SENT>
+<SENT sid="8" pm="."><plain>The mechanism of this synergy is probably from activation of cells mediating ADCC </plain></SENT>
+<SENT sid="9" pm="."><plain>This raises the possibility that treatment of patients with low doses of IL-2 in combination with Lym-1 may enhance immune responses and thereby antitumor activity </plain></SENT>
+</text></document>

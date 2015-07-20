@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Fukuyama-type <z:hpo ids='HP_0003741'>congenital muscular dystrophy</z:hpo> (FCMD), a relatively common <z:hpo ids='HP_0000007'>autosomal recessive</z:hpo> disorder in Japan, is characterized by severe <z:hpo ids='HP_0003741'>congenital muscular dystrophy</z:hpo> in combination with cortical dysgenesis (<z:hpo ids='HP_0002126'>polymicrogyria</z:hpo>) </plain></SENT>
+<SENT sid="1" pm="."><plain>The gene responsible for FCMD encodes a novel protein, fukutin, which is likely to be an extracellular protein </plain></SENT>
+<SENT sid="2" pm="."><plain>Pathological study of brain tissue from FCMD fetuses revealed frequent breaks in the glia limitans and basement membrane complex </plain></SENT>
+<SENT sid="3" pm="."><plain>Disruption of the basal lamina in FCMD muscle was also seen </plain></SENT>
+<SENT sid="4" pm="."><plain>Thus, structural alteration of the basal lamina appears to play a key role in the pathophysiology of FCMD </plain></SENT>
+<SENT sid="5" pm="."><plain>To investigate the role of fukutin in brain anomalies, we examined fukutin <z:chebi fb="2" ids="33699">mRNA</z:chebi> expression in the human brain </plain></SENT>
+<SENT sid="6" pm="."><plain>Northern blot and RT-PCR analysis revealed that the fukutin gene is expressed at similar levels in fetal and adult brain, whereas its expression is much reduced in FCMD brains </plain></SENT>
+<SENT sid="7" pm="."><plain>Tissue in situ hybridization analysis revealed fukutin <z:chebi fb="2" ids="33699">mRNA</z:chebi> expression in the migrating neurons, including Cajar-Retzius cells and adult cortical neurons, as well as in hippocampal pyramidal cells and cerebellar Purkinje cells </plain></SENT>
+<SENT sid="8" pm="."><plain>However, we observed no expression in the glia limitans, the subpial astrocytes (which contribute to basement membrane formation) or other glial cells </plain></SENT>
+<SENT sid="9" pm="."><plain>In the FCMD brain, neurons in regions with no <z:mpath ids='MPATH_589'>dysplasia</z:mpath> showed fair expression, whereas transcripts were nearly undetectable in the overmigrated dysplastic region </plain></SENT>
+<SENT sid="10" pm="."><plain>These observations suggest that fukutin function may influence neuronal migration itself rather than formation of the basement membrane </plain></SENT>
+<SENT sid="11" pm="."><plain>Furthermore, differences in <z:chebi fb="2" ids="33699">mRNA</z:chebi> levels among neurons in early developmental stages may partially differentiate <z:mpath ids='MPATH_458'>normal</z:mpath> and abnormal regions </plain></SENT>
+</text></document>

@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We evaluated the diagnostic utility of flow cytometry immunophenotyping in bone marrow aspirates and peripheral blood, in the assessment of mature B-cell non-Hodgkin <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (MBNHL) </plain></SENT>
+<SENT sid="1" pm="."><plain>We analyzed 356 cases of MBNHL received for immunophenotyping over a 4 year period </plain></SENT>
+<SENT sid="2" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> cases were reviewed, correlated with biopsy specimen (lymph node and splenectomy) </plain></SENT>
+<SENT sid="3" pm="."><plain>Discrepant cases were re-evaluated </plain></SENT>
+<SENT sid="4" pm="."><plain>Common subtypes included <z:hpo ids='HP_0005550'>chronic lymphocytic leukemia</z:hpo> (CLL) (243 cases, 68.5%), follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (30 cases, 8.5%), mantle cell <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (20 cases, 5.5%), splenic marginal zone <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (18 cases, 5%), hairy cell <z:hpo ids='HP_0001909'>leukemia</z:hpo> (18 cases, 5%) </plain></SENT>
+<SENT sid="5" pm="."><plain>CD5+/CD23+ had a high positive predictive value (<z:chebi fb="0" ids="53261">PPV</z:chebi>) for diagnosing CLL whereas CD5+/CD23- had a high negative predictive value (NPV) for diagnosing mantle-cell <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MCL</z:e>) </plain></SENT>
+<SENT sid="6" pm="."><plain>Limited panel of 9 antibodies mainly CD19, CD5, CD23, CD10, FMC7, kappa, lambda, CD3 and CD20 help diagnose more than 92% of cases of MBNHL </plain></SENT>
+<SENT sid="7" pm="."><plain>Minimal diagnostic panels become important in countries with limited resources </plain></SENT>
+</text></document>

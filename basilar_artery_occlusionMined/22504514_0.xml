@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A male with <z:hpo ids='HP_0005110'>atrial fibrillation</z:hpo> for 30 years underwent embolectomy in his right leg at age 78 years </plain></SENT>
+<SENT sid="1" pm="."><plain>Postoperatively, he received enoxaparin 60 mg/twice a day (bid), and on day 5, <z:chebi fb="0" ids="50438">phenprocoumon</z:chebi> was started </plain></SENT>
+<SENT sid="2" pm="."><plain>The patient's son, a general practitioner, changed <z:chebi fb="0" ids="50438">phenprocoumon</z:chebi> to dabigatran 110 mg/bid on day 8 </plain></SENT>
+<SENT sid="3" pm="."><plain>Pain in his left calf induced readmission after 5 days </plain></SENT>
+<SENT sid="4" pm="."><plain>International normalized ratio was 2.5 and D-dimer was 20 μg/mL </plain></SENT>
+<SENT sid="5" pm="."><plain>Dabigatran was stopped and dalteparin 5000 International Units/bid and 40 μg <z:chebi fb="0" ids="15544">alprostadil</z:chebi> infusions were started </plain></SENT>
+<SENT sid="6" pm="."><plain>After 8 hours, he became <z:e sem="disease" ids="C0009421" disease_type="Disease or Syndrome" abbrv="">comatose</z:e> due to basilar <z:mp ids='MP_0006134'>artery occlusion</z:mp> and eventually died </plain></SENT>
+<SENT sid="7" pm="."><plain>This tragic case raises the issue of postoperative use of dabigatran, a recently introduced thrombin inhibitor </plain></SENT>
+</text></document>

@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: To explore the efficiency and toxicity of non-myeloablative stem cell transplantation (NAST) for <z:e sem="disease" ids="C0018939" disease_type="Disease or Syndrome" abbrv="">hematological disease</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: Seventeen patients, including 3 <z:hpo ids='HP_0004808'>acute myeloid leukemia</z:hpo>, 6 <z:hpo ids='HP_0005506'>chronic myelogenous leukemia</z:hpo>, 4 severe <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo>, 2 non-Hodgkin's <z:hpo ids='HP_0002665'>lymphoma</z:hpo>, 1 <z:hpo ids='HP_0006775'>multiple myeloma</z:hpo> and 1 <z:hpo ids='HP_0002863'>myelodysplastic syndromes</z:hpo> received NAST from HLA-identical sibling donors </plain></SENT>
+<SENT sid="2" pm="."><plain>Peripheral blood stem cells were mobilized by G-CSF 300 microg/12 hours x 5 d </plain></SENT>
+<SENT sid="3" pm="."><plain>(2.15 -10.01) x 10(6) CD(34)(+) cells/kg were transplanted </plain></SENT>
+<SENT sid="4" pm="."><plain>A non-myeloablative conditioning regimen included fludarabine 30 mg.m(-2).d(-1) x 6 d;<z:chebi fb="0" ids="28901">busulfan</z:chebi> 4 mg.kg(-1).d(-1) x 2 d or <z:chebi fb="0" ids="4027">cyclophosphamide</z:chebi> 50 mg.kg(-1).d(-1) x 2 d and antilymphocytic globulin 12 approximately 15 mg.kg(-1).d(-1) x 4 d </plain></SENT>
+<SENT sid="5" pm="."><plain><z:chebi fb="0" ids="4031">Cyclosporin A</z:chebi> was used to prevent <z:e sem="disease" ids="C0018133" disease_type="Disease or Syndrome" abbrv="GVH">graft versus host disease</z:e> (GVHD) alone and no G-CSF was administered after NAST </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULT: Hematopoiesis reconstitution resumed on day 8 to day 19 (average of day 13) </plain></SENT>
+<SENT sid="7" pm="."><plain>Severe mucositis was absent </plain></SENT>
+<SENT sid="8" pm="."><plain><z:e sem="disease" ids="C0019156" disease_type="Disease or Syndrome" abbrv="">Hepatic venoocclusive disease</z:e> did not occur </plain></SENT>
+<SENT sid="9" pm="."><plain>Infectious complications were rare </plain></SENT>
+<SENT sid="10" pm="."><plain><z:hpo ids='HP_0011009'>Acute</z:hpo> and <z:hpo ids='HP_0011010'>chronic</z:hpo> GVHD each occurred in 5 patients </plain></SENT>
+<SENT sid="11" pm="."><plain>Idiopathic <z:hpo ids='HP_0002090'>pneumonia</z:hpo> was developed in 5 patients </plain></SENT>
+<SENT sid="12" pm="."><plain>In the follow-up duration of 120 to 425 days, 16 of the 17 cases had a stable mixed or complete chimerical states </plain></SENT>
+<SENT sid="13" pm="."><plain>Fourteen of 17 patients are alive </plain></SENT>
+<SENT sid="14" pm="."><plain>CONCLUSION: NAST is an effective therapy in the treatment of <z:e sem="disease" ids="C0018939" disease_type="Disease or Syndrome" abbrv="">hematological diseases</z:e> with less complications, less blood transfusion and lower cost </plain></SENT>
+</text></document>

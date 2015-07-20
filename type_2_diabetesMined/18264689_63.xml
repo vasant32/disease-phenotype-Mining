@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIMS/HYPOTHESIS: Variation within six novel genetic loci has been reported to confer risk of type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> and may be associated with <z:hpo ids='HP_0006279'>beta cell dysfunction</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>We investigated whether these polymorphisms are also associated with impaired proinsulin to insulin conversion </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: We genotyped 1,065 German participants for single nucleotide polymorphisms rs7903146 in TCF7L2, rs7754840 in CDKAL1, rs7923837 and rs1111875 in HHEX, rs13266634 in SLC30A8, rs10811661 in CDKN2A/B and rs4402960 in IGF2BP2 </plain></SENT>
+<SENT sid="3" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> participants underwent an OGTT </plain></SENT>
+<SENT sid="4" pm="."><plain>Insulin, proinsulin and C-<z:chebi fb="7" ids="16670">peptide</z:chebi> concentrations were measured at 0, 30, 60, 90 and 120 min during the OGTT </plain></SENT>
+<SENT sid="5" pm="."><plain>Insulin secretion was estimated from C-<z:chebi fb="7" ids="16670">peptide</z:chebi> or insulin levels during the OGTT using validated indices </plain></SENT>
+<SENT sid="6" pm="."><plain>We used the ratio proinsulin/insulin during the OGTT as indicator of proinsulin conversion </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: In our cohort, we confirmed the significant association of variants in TCF7L2, CDKAL1 and HHEX with <z:mp ids='MP_0003059'>reduced insulin secretion</z:mp> during the OGTT (p&lt;0.05 for <z:hpo ids='HP_0000001'>all</z:hpo>) </plain></SENT>
+<SENT sid="8" pm="."><plain>Variation in SLC30A8, CDKN2A/B and IGF2BP2 was not associated with insulin secretion </plain></SENT>
+<SENT sid="9" pm="."><plain>The risk alleles of the variants in TCF7L2, CDKAL1 and SLC30A8 reduced proinsulin to insulin conversion (p&lt;0.05 for <z:hpo ids='HP_0000001'>all</z:hpo>), whereas the risk alleles in HHEX, CDKN2A/B and IGF2BP2 were not associated with reduced proinsulin to insulin conversion (p&gt;0.6) </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSIONS/INTERPRETATION: <z:mp ids='MP_0002055'>Diabetes</z:mp>-associated variants in TCF7L2 and CDKAL1 impair insulin secretion and conversion of proinsulin to insulin </plain></SENT>
+<SENT sid="11" pm="."><plain>However, both aspects of beta cell function are not necessarily linked, as <z:e sem="disease" ids="C0948379" disease_type="Disease or Syndrome" abbrv="">impaired insulin secretion</z:e> is specifically present in variants of HHEX and impaired proinsulin conversion is specifically present in a variant of SLC30A8 </plain></SENT>
+</text></document>

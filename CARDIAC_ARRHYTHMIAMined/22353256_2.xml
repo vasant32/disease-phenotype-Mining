@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Human embryonic stem cell-derived cardiomyocytes (hESC-CM) have been proposed as a new model for safety pharmacology </plain></SENT>
+<SENT sid="1" pm="."><plain>So far, a thorough description of their basic electrophysiology and extensive testing, and mechanistic explanations, of their overall pro-arrhythmic ability is lacking </plain></SENT>
+<SENT sid="2" pm="."><plain>Under standardized conditions, we have evaluated the sensitivity of hESC-CM to proarrhythmic provocations by blockade of hERG and other channels </plain></SENT>
+<SENT sid="3" pm="."><plain>Using voltage patch clamp, some ion current densities (pA/pF) in hESC-CM were comparable to adult CM: I(Kr) (-12.5 ± 6.9), I(Ks) (0.65 ± 0.12), I(Na,peak) (-72 ± 21), I(Na,late) (-1.10 ± 0.36), and I(Ca,L) (-4.3 ± 0.6) </plain></SENT>
+<SENT sid="4" pm="."><plain>I(f) density was larger (-10 ± 1.1) and I(K1) not existent or very small (-2.67 ± 0.3) </plain></SENT>
+<SENT sid="5" pm="."><plain>The low I(K1) density was corroborated by low KCNJ2 <z:chebi fb="2" ids="33699">mRNA</z:chebi> levels </plain></SENT>
+<SENT sid="6" pm="."><plain>Effects of pro-arrhythmic compounds on action potential (AP) parameters and provocation of early afterdepolarizations (EADs) revealed that Chromanol293B (100 μmol/l) and Bay K8644 (1 μmol/l) both significantly prolonged APD(90) </plain></SENT>
+<SENT sid="7" pm="."><plain>ATX-II (&lt;1 ��mol/l ) and BaCl(2) (10 μmol/l ) had no effect on APD </plain></SENT>
+<SENT sid="8" pm="."><plain>The only compound that triggered EADs was hERG blocker Cisapride </plain></SENT>
+<SENT sid="9" pm="."><plain>Computer simulations and AP clamp showed that the immature AP of hESC-CM prevents proper functioning of I(Na)-channels, and result in lower peak/maximal currents of several other channels, compared to the adult situation </plain></SENT>
+<SENT sid="10" pm="."><plain>Lack of functional I(K1) channels and shifted I(Na) channel activation cause a rather immature electrophysiological phenotype in hESC-CM, and thereby limits the potential of this model to respond accurately to pro-arrhythmic triggers other than hERG block </plain></SENT>
+<SENT sid="11" pm="."><plain>Maturation of the electrical phenotype is a prerequiste for future implementation of the model in arrhythmogenic safety testing </plain></SENT>
+</text></document>

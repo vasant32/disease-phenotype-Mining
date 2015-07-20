@@ -1,0 +1,7 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0002904'>Hyperbilirubinemia</z:hpo> may be of several etiologies in the individual patient </plain></SENT>
+<SENT sid="1" pm="."><plain>An 18-year-old man presented with extreme <z:hpo ids='HP_0002904'>hyperbilirubinemia</z:hpo> (direct <z:chebi fb="0" ids="16990">bilirubin</z:chebi> 23.0 mg/dl, total <z:chebi fb="0" ids="16990">bilirubin</z:chebi> 60.0 mg/dl), <z:hpo ids='HP_0001433'>hepatosplenomegaly</z:hpo>, and <z:hpo ids='HP_0001903'>anemia</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>Hematologic studies prelaparotomy documented the presence of hereditary <z:hpo ids='HP_0004444'>spherocytosis</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>Intraoperative liver biopsy revealed moderately reduced levels of glucuronyl transferase activity (<z:e sem="disease" ids="C0017551" disease_type="Disease or Syndrome" abbrv="">Gilbert's syndrome</z:e>) </plain></SENT>
+<SENT sid="4" pm="."><plain>Common <z:mp ids='MP_0000610'>bile duct obstruction</z:mp> secondary to <z:e sem="disease" ids="C0701818" disease_type="Disease or Syndrome" abbrv="">choledocholithiasis</z:e> was found, and a cholecystectomy and splenectomy were performed </plain></SENT>
+<SENT sid="5" pm="."><plain>This case stresses the potential <z:hpo ids='HP_0001289'>confusion</z:hpo> among several diseases which may present with <z:hpo ids='HP_0002904'>hyperbilirubinemia</z:hpo> </plain></SENT>
+</text></document>

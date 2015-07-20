@@ -1,0 +1,5 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We present a novel Bayesian framework for non-rigid motion correction and pharmacokinetic parameter estimation in dceMRI sequences which incorporates a physiological image formation model into the similarity measure used for motion correction </plain></SENT>
+<SENT sid="1" pm="."><plain>The similarity measure is based on the maximization of the joint posterior probability of the transformations which need to be applied to each image in the dataset to bring <z:hpo ids='HP_0000001'>all</z:hpo> images into alignment, and the physiological parameters which best explain the data </plain></SENT>
+<SENT sid="2" pm="."><plain>The deformation framework used to deform each image is based on the diffeomorphic logDemons algorithm </plain></SENT>
+<SENT sid="3" pm="."><plain>We then use this method to co-register images from simulated and real dceMRI datasets and show that the method leads to an improvement in the estimation of physiological parameters as well as improved alignment of the images </plain></SENT>
+</text></document>

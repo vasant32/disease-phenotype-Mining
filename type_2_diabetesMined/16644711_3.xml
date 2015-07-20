@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Diminished insulin sensitivity is a characteristic feature of type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="1" pm="."><plain>Inhibition of insulin action, resulting in reduced skeletal muscle <z:chebi fb="105" ids="17234">glucose</z:chebi> uptake, is mediated in part through stimulation of RhoA activity </plain></SENT>
+<SENT sid="2" pm="."><plain>One regulator of RhoA activity is <z:hpo ids='HP_0001909'>leukemia</z:hpo>-associated Rho <z:chebi fb="1" ids="16235">guanine</z:chebi> nucleotide exchange factor (LARG) </plain></SENT>
+<SENT sid="3" pm="."><plain>The LARG gene maps to a region on chromosome 11q23-24 that shows genetic linkage to BMI and type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> in Pima Indians </plain></SENT>
+<SENT sid="4" pm="."><plain>Because of its role in RhoA activation, the LARG gene was analyzed as a positional candidate gene for this linkage </plain></SENT>
+<SENT sid="5" pm="."><plain>Sequencing of the LARG gene and genotyping of variants identified several polymorphisms that were associated with in vivo rates of insulin-mediated <z:chebi fb="105" ids="17234">glucose</z:chebi> uptake, at both physiological and maximally stimulating insulin concentrations, among 322 nondiabetic Pima Indians who had undergone a hyperinsulinemic-euglycemic clamp </plain></SENT>
+<SENT sid="6" pm="."><plain>The strongest association with rate of <z:chebi fb="105" ids="17234">glucose</z:chebi> uptake was found with a Tyr1306Cys polymorphism (P &lt; 0.0001, adjusted for age, sex, percent body fat, and nuclear family membership) </plain></SENT>
+<SENT sid="7" pm="."><plain>In transient transfection studies in NIH3T3 cells, the LARG(Cys1306) protein had reduced activity compared with LARG(Tyr1306) protein (P &lt; 0.05) </plain></SENT>
+<SENT sid="8" pm="."><plain>We propose that the Tyr1306Cys substitution in LARG, through its differential activation of RhoA, increases insulin sensitivity in nondiabetic Pima Indians </plain></SENT>
+</text></document>

@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The human 11p15.5 region contains several maternally and paternally imprinted genes </plain></SENT>
+<SENT sid="1" pm="."><plain>Dysregulation of imprinting of some of these genes occurs in the <z:e sem="disease" ids="C0004903" disease_type="Disease or Syndrome;Congenital Abnormality" abbrv="">Beckwith-Wiedemann syndrome</z:e> and several <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumors</z:e> </plain></SENT>
+<SENT sid="2" pm="."><plain>Imprinting in this region is controlled by two imprinting control regions (ICR) </plain></SENT>
+<SENT sid="3" pm="."><plain>ICR1 acts as an insulator that regulates the reciprocal imprinting of the IGF2 and H19 genes </plain></SENT>
+<SENT sid="4" pm="."><plain>A differentially methylated region in <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">ICR2</z:e> regulates the expression of a long transcript called KCNQ1OT1 </plain></SENT>
+<SENT sid="5" pm="."><plain>This paternally expressed transcript negatively regulates several paternally imprinted genes around <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">ICR2</z:e> </plain></SENT>
+<SENT sid="6" pm="."><plain>Biallelic expression of the KCNQ1OT1 transcript is the primary molecular defect in over 50% of cases of <z:e sem="disease" ids="C0004903" disease_type="Disease or Syndrome;Congenital Abnormality" abbrv="">Beckwith-Wiedemann syndrome</z:e> </plain></SENT>
+<SENT sid="7" pm="."><plain>To understand the role of KCNQ1OT1 in regulating <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">ICR2</z:e> we characterized its promoter </plain></SENT>
+<SENT sid="8" pm="."><plain>The critical promoter is approximately 300 bp and it is surrounded by inhibitory elements within the CpG island </plain></SENT>
+<SENT sid="9" pm="."><plain>The promoter activity is strongly inhibited by <z:chebi fb="1" ids="16040">cytosine</z:chebi> methylation in keeping with the finding that the inactive maternal promoter is methylated in vivo </plain></SENT>
+<SENT sid="10" pm="."><plain>We have identified the transcription start sites and four CCAAT boxes upstream of the 5'-most start site </plain></SENT>
+<SENT sid="11" pm="."><plain>Mutation of the CCAAT boxes produced impairment of promoter activity </plain></SENT>
+<SENT sid="12" pm="."><plain>Transfection and gel mobility shift experiments suggest that binding of the factor NF-Y to the CCAAT boxes is important for promoter activity </plain></SENT>
+</text></document>

@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Immunotherapeutic strategies become more and more important for <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> treatment </plain></SENT>
+<SENT sid="1" pm="."><plain>Therapeutic monoclonal antibodies (mAbs) like Panitumumab binding and blocking the EGF-receptor are in routine clinical use for the treatment of colorectal <z:mp ids='MP_0002038'>carcinoma</z:mp> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e>) </plain></SENT>
+<SENT sid="2" pm="."><plain>Also, <z:mp ids='MP_0001794'>bacterial</z:mp> therapy proved beneficial for experimental treatment of different <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> entities </plain></SENT>
+<SENT sid="3" pm="."><plain>The latter has been attributed to an activation of the immune system </plain></SENT>
+<SENT sid="4" pm="."><plain>Here, we describe a combination of both immunotherapeutic approaches in order to develop a novel targeted therapy for <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e> </plain></SENT>
+<SENT sid="5" pm="."><plain>The therapeutic mAbs Trastuzumab and Panitumumab were conjugated to heat-inactivated bacteria expressing protein A or protein G </plain></SENT>
+<SENT sid="6" pm="."><plain>The potential of the conjugates was tested in comparison to the single components both in vitro and in vivo using a panel of patient-derived <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e> cell lines </plain></SENT>
+<SENT sid="7" pm="."><plain>Antitumoral effects observed in vitro were strictly dependent on the presence of bacteria </plain></SENT>
+<SENT sid="8" pm="."><plain>Generally, effects could be enhanced by the addition of human lymphocytes </plain></SENT>
+<SENT sid="9" pm="."><plain>Detailed analysis of effector cells in autologous and allogeneic long-term stimulated lymphocyte cultures revealed the predominance of NK-cell-like cytolytic effectors </plain></SENT>
+<SENT sid="10" pm="."><plain>Reactivity was observed both against <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e> target cells but also against the NK cell target K562 </plain></SENT>
+<SENT sid="11" pm="."><plain>Similarly, in a subsequent in vivo study we observed substantial <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> <z:hpo ids='HP_0001510'>growth delay</z:hpo> accompanied by an increase in circulating NK cells </plain></SENT>
+<SENT sid="12" pm="."><plain>Contrary to this, the monotherapy with mAb alone caused only marginal effects and the treatment with bacteria was comparable to the mock-treated control </plain></SENT>
+<SENT sid="13" pm="."><plain>These data demonstrate successful targeting of <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e> by bacteria/mAb conjugates </plain></SENT>
+<SENT sid="14" pm="."><plain>This novel concept may be interesting for future clinical approaches </plain></SENT>
+<SENT sid="15" pm="."><plain>Additionally, it illustrates the effectiveness of NK cells for <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> immunotherapy </plain></SENT>
+</text></document>

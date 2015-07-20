@@ -1,0 +1,6 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Patients with <z:e sem="disease" ids="C0004903" disease_type="Disease or Syndrome;Congenital Abnormality" abbrv="">Wiedemann-Beckwith syndrome</z:e> (WBS, MIM 130650), a congenital <z:hpo ids='HP_0001548'>overgrowth</z:hpo> syndrome, have a known increased <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> risk especially for embryonic <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumors</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>WBS belongs to the "imprinting" syndromes caused by overexpression of IGF2 and/or loss of CDKN1C on chromosome 11p15.5 </plain></SENT>
+<SENT sid="2" pm="."><plain>A 13-year-old boy with WBS developed a spitzoid <z:hpo ids='HP_0002861'>malignant melanoma</z:hpo> (Clark level V, Breslow index 4.8 mm) on the right cheek </plain></SENT>
+<SENT sid="3" pm="."><plain>Genetic analyses of the patient's blood showed hypermethylation at the H19 locus on chromosome 11p </plain></SENT>
+<SENT sid="4" pm="."><plain>The (epi)genetic changes of the WBS locus might have played a role in the pathogenesis of <z:hpo ids='HP_0002861'>melanoma</z:hpo> development </plain></SENT>
+</text></document>

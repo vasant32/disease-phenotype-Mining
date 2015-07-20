@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A method for automatic lineage assignment of <z:hpo ids='HP_0002488'>acute leukemias</z:hpo> was developed </plain></SENT>
+<SENT sid="1" pm="."><plain>Input are eight list mode data files acquired with a FACScan flow cytometer </plain></SENT>
+<SENT sid="2" pm="."><plain>For each cell, four parameters are measured: forward light scatter, orthogonal light scatter, <z:chebi fb="0" ids="31624">fluorescein</z:chebi> fluorescence, and phycoerythrin fluorescence </plain></SENT>
+<SENT sid="3" pm="."><plain>Eight data files are acquired in the following sequence: unstained, isotype controls, CD10/CD19, CD20/CD5, CD3/CD22, CD7/CD33, HLADR/CD13, and CD34/CD38 </plain></SENT>
+<SENT sid="4" pm="."><plain>First, each of the data files 3 to 8 are clustered independently employing an algorithm based on nearest neighbors </plain></SENT>
+<SENT sid="5" pm="."><plain>Next, the clusters are associated across the data files to form cell populations, using the assumption of light scatter invariance across tubes for each population </plain></SENT>
+<SENT sid="6" pm="."><plain>The mean positions of each cell population are fed into a decision tree </plain></SENT>
+<SENT sid="7" pm="."><plain>The decision tree first identifies <z:mpath ids='MPATH_458'>normal</z:mpath> cell populations, i.e., monocytes, neutrophils, eosinophils, basophils, NK cells, T-lymphocytes, and B-lymphocytes </plain></SENT>
+<SENT sid="8" pm="."><plain>After elimination of the <z:mpath ids='MPATH_458'>normal</z:mpath> cell populations from the data space, the residual cell populations are classified as B-lineage ALL, T-lineage ALL, <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">AML</z:e>, <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">AUL</z:e>, B-CLL, or unknown </plain></SENT>
+<SENT sid="9" pm="."><plain>The effectiveness of this novel approach is shown with case studies of B-lymphoid, T-lymphoid, and Myeloid <z:hpo ids='HP_0002488'>acute leukemias</z:hpo> </plain></SENT>
+</text></document>

@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Current protocols to determine optimal nulling time in late enhancement imaging using adult techniques may not apply to children </plain></SENT>
+<SENT sid="1" pm="."><plain>OBJECTIVE: To determine the optimal nulling time in anesthetised children, with the hypothesis that this occurs earlier than in adults </plain></SENT>
+<SENT sid="2" pm="."><plain>MATERIALS AND METHODS: Sedated cardiac MRI was performed in 12 children (median age: 12 months, range: 1-60 months) </plain></SENT>
+<SENT sid="3" pm="."><plain>After <z:chebi fb="0" ids="33375">gadolinium</z:chebi> administration, scout images at 2, 3, 4 and 10 min and phase sensitive inversion recovery (PSIR) images from 5 to 10 min were obtained </plain></SENT>
+<SENT sid="4" pm="."><plain>Signal-to-noise ratio (SNR) and inversion time (TI) were determined </plain></SENT>
+<SENT sid="5" pm="."><plain>Quality of nulling was assessed according to a grading score by three observers </plain></SENT>
+<SENT sid="6" pm="."><plain>Data was analysed using linear regression, Kruskal-Wallis and quadratic-weighted kappa statistics </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: One child with a <z:hpo ids='HP_0001638'>cardiomyopathy</z:hpo> had late enhancement </plain></SENT>
+<SENT sid="8" pm="."><plain>Good agreement in nulling occurred for scout images at 2 (κ = 0.69) and 3 (κ = 0.66) min and moderate agreement at 4 min (κ = 0.57) </plain></SENT>
+<SENT sid="9" pm="."><plain>Agreement of PSIR images was moderate at 7 min (κ = 0.44) and poor-fair at other times </plain></SENT>
+<SENT sid="10" pm="."><plain>There were significant correlations between TI and scout time (r = 0.61, P &lt; 0.0001), and SNR and kappa (r = 0.22, P = 0.017) </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSION: Scout images at 2-4 min can be used to determine the TI with little variability </plain></SENT>
+<SENT sid="12" pm="."><plain>Image quality for PSIR images was highest at 7 min and SNR optimal at 7-9 min </plain></SENT>
+<SENT sid="13" pm="."><plain>TI increases with time and should be adjusted frequently during imaging </plain></SENT>
+<SENT sid="14" pm="."><plain>Thus, nulling times in children differ from nulling times in adults when using standard adult techniques </plain></SENT>
+</text></document>

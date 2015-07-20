@@ -1,0 +1,6 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 67 year old man with <z:hpo ids='HP_0002863'>myelodysplasia</z:hpo> was admitted as an emergency with a six week history of <z:hpo ids='HP_0002573'>rectal bleeding</z:hpo> and diarrhoea </plain></SENT>
+<SENT sid="1" pm="."><plain><z:chebi fb="8" ids="32594,32595">Barium</z:chebi> enema showed an irregular polypoid filling defect in the lateral wall of the proximal rectum near the rectosigmoid junction </plain></SENT>
+<SENT sid="2" pm="."><plain>Histology showed this to be a granulocytic <z:hpo ids='HP_0100242'>sarcoma</z:hpo> (extramedullary <z:mpath ids='MPATH_338'>granulocytic leukaemia</z:mpath>; <z:e sem="disease" ids="C0152276" disease_type="Neoplastic Process" abbrv="">chloroma</z:e>) infiltrating the bowel </plain></SENT>
+<SENT sid="3" pm="."><plain>A low index of suspicion of this lesion results in an incorrect diagnosis in many such cases </plain></SENT>
+<SENT sid="4" pm="."><plain>A chloroacetate esterase immunoperoxidase stain will confirm the granulocytic nature of the <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumour</z:e> cells </plain></SENT>
+</text></document>

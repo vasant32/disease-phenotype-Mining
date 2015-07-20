@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIMS AND BACKGROUND: Patients treated for <z:e sem="disease" ids="C0019829" disease_type="Neoplastic Process" abbrv="hd">Hodgkin's disease</z:e> with chemotherapy or with the association of chemotherapy and radiotherapy have an increased risk of secondary <z:hpo ids='HP_0001909'>leukemia</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>The aim of this study was to evaluate the leukemogenic risk due to these treatment modalities </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: We performed a case-control study on a population of 1410 patients treated for <z:e sem="disease" ids="C0019829" disease_type="Neoplastic Process" abbrv="hd">Hodgkin's disease</z:e> from 1970 to 1990 in our Institute </plain></SENT>
+<SENT sid="3" pm="."><plain>Among these patients, we identified 25 cases of secondary <z:hpo ids='HP_0001909'>leukemia</z:hpo> and 3 cases of <z:hpo ids='HP_0002863'>myelodysplasia</z:hpo>, <z:hpo ids='HP_0000001'>all</z:hpo> occurring more than one year after the diagnosis of <z:e sem="disease" ids="C0019829" disease_type="Neoplastic Process" abbrv="hd">Hodgkin's disease</z:e> </plain></SENT>
+<SENT sid="4" pm="."><plain>Three cases occurred among the patients treated with radiotherapy alone </plain></SENT>
+<SENT sid="5" pm="."><plain>When we analyzed the risk in relation to the type of treatment (radiotherapy, chemotherapy, or both), the comparisons were relative to patients treated with radiotherapy alone </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: We found that chemotherapy alone is associated with a fivefold increased risk (odds ratio = 5.4) compared with radiotherapy alone </plain></SENT>
+<SENT sid="7" pm="."><plain>When both treatments are used, the risk is not further increased (odds ratio = 4.4) </plain></SENT>
+<SENT sid="8" pm="."><plain>Patients receiving more than 6 courses of chemotherapy have an excess risk (relative risk = 2.5) compared with those treated with 6 courses or less </plain></SENT>
+<SENT sid="9" pm="."><plain>No increased risk was observed after splenectomy </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSIONS: This study confirms an increased incidence of secondary <z:hpo ids='HP_0001909'>leukemia</z:hpo> occurring in patients treated for <z:e sem="disease" ids="C0019829" disease_type="Neoplastic Process" abbrv="hd">Hodgkin's disease</z:e> </plain></SENT>
+<SENT sid="11" pm="."><plain>The increased risk seems to be correlated with the number of courses of <z:chebi fb="0" ids="22333">alkylating agent</z:chebi> therapy, whereas it is unaffected by the addition of radiotherapy </plain></SENT>
+</text></document>

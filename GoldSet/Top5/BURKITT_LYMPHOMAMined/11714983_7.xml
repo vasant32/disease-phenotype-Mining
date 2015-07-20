@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Epstein-Barr virus (EBV) transforms primary B cells in vitro </plain></SENT>
+<SENT sid="1" pm="."><plain>Established cell lines adopt a lymphoblastoid phenotype (LCL) </plain></SENT>
+<SENT sid="2" pm="."><plain>In contrast, EBV-positive Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">BL</z:e>) cells, in which the proto-oncogene c-myc is constitutively activated, do not express a lymphoblastoid phenotype in vivo </plain></SENT>
+<SENT sid="3" pm="."><plain>The two different phenotypes are paralleled by two distinct programmes of EBV latent gene expression termed latency type I in <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">BL</z:e> cells and type III in LCL </plain></SENT>
+<SENT sid="4" pm="."><plain>Human B cell lines were established from a conditional LCL (EREB2-5) by overexpression of c-myc and inactivation of EBV nuclear protein 2 (EBNA2) </plain></SENT>
+<SENT sid="5" pm="."><plain>These cells (A1 and P493-6) adopted a <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">BL</z:e> phenotype in the absence of EBNA2 </plain></SENT>
+<SENT sid="6" pm="."><plain>However, the EBV latency I promoter Qp was not activated </plain></SENT>
+<SENT sid="7" pm="."><plain>Instead, the latency III promoter Cp remained active </plain></SENT>
+<SENT sid="8" pm="."><plain>These data suggest that the induction of a <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">BL</z:e> phenotype by overexpression of c-myc in an LCL is not necessarily paralleled by an EBV latency III-to-I switch </plain></SENT>
+</text></document>

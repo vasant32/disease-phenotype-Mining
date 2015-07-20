@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Beta2-<z:chebi fb="2" ids="17089">glycoprotein</z:chebi> I (beta2GPI) is a <z:chebi fb="2" ids="17089">glycoprotein</z:chebi> of unknown physiological function </plain></SENT>
+<SENT sid="1" pm="."><plain>It is the main target antigen for <z:hpo ids='HP_0003613'>antiphospholipid antibodies</z:hpo> in patients with <z:e sem="disease" ids="C0085278" disease_type="Disease or Syndrome" abbrv="">antiphospholipid syndrome</z:e> (APS) </plain></SENT>
+<SENT sid="2" pm="."><plain>beta2GPI binds with high affinity to the atherogenic <z:chebi fb="1" ids="6495">lipoprotein</z:chebi> Lp(a) which shares structural homology with plasminogen, a key molecule in the fibrinolytic system </plain></SENT>
+<SENT sid="3" pm="."><plain>Impaired fibrinolysis has been described in APS </plain></SENT>
+<SENT sid="4" pm="."><plain>The present work reports the interaction between beta2GPI and Glu-Plasminogen which may explain the recently described proteolytic effect of plasmin on beta2GPI </plain></SENT>
+<SENT sid="5" pm="."><plain>In the process of Glu-Plasminogen activation, we found an increase in plasmin generation both at fibrin and cellular surface level as a function of the concentration of beta2GPI added, suggesting an important role as a cofactor in the trimolecular complex beta2GPI-Plasminogen-tPA </plain></SENT>
+<SENT sid="6" pm="."><plain>This phenomenon represents a novel regulatory step both in the positive feedback mechanism for extrinsic fibrinolysis and in antithrombotic regulation </plain></SENT>
+<SENT sid="7" pm="."><plain>IgG anti-beta2GPI antibodies recognized the beta2GPI at the endothelial surface inducing its activation with an increase of ICAM-I and a decrease in the expression of thrombomodulin favoring a pro-thrombotic state in the vascular endothelium </plain></SENT>
+<SENT sid="8" pm="."><plain>The interference in the plasmin conversion by anti-beta2GPI antibodies could generate <z:mp ids='MP_0005048'>thrombosis</z:mp> as observed in APS </plain></SENT>
+</text></document>

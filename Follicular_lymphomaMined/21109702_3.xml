@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIMS: Follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo> is the second most common type of non-Hodgkin's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> worldwide </plain></SENT>
+<SENT sid="1" pm="."><plain>The majority of patients diagnosed as having follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo> have an indolent form of the disease, but a subset of patients have <z:e sem="disease" ids="C0001807" disease_type="Mental or Behavioral Dysfunction" abbrv="">aggressive disease</z:e> with a shorter survival interval </plain></SENT>
+<SENT sid="2" pm="."><plain>Optimal treatment stratification requires a distinction between these two groups, though there are presently few prognostic biomarkers available </plain></SENT>
+<SENT sid="3" pm="."><plain>The transcription factor YY1 has been shown to play an important role in <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> biology </plain></SENT>
+<SENT sid="4" pm="."><plain>The authors have previously reported a correlation of Yin Yang 1 (YY1) <z:chebi fb="2" ids="33699">mRNA</z:chebi> levels with survival in FL </plain></SENT>
+<SENT sid="5" pm="."><plain>This study aimed to validate these findings at the protein level </plain></SENT>
+<SENT sid="6" pm="."><plain>METHODS: Quantification of YY1 protein was carried out on 26 FL biopsy samples using <z:chebi fb="0" ids="50853">quantum dot</z:chebi> labelled immunohistochemistry </plain></SENT>
+<SENT sid="7" pm="."><plain>Ki-67 percentage, grade, YY1 protein levels and T cell and macrophage markers were used in a multivariable analysis for survival in 26 cases of FL </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: Expression levels of YY1 protein were significantly increased in patients alive in comparison with those dead after follow-up (p ≤ 0.025) </plain></SENT>
+<SENT sid="9" pm="."><plain>Kaplan-Meier analysis showed association of higher expression levels of YY1 with longer survival (p ≤ 0.01) (hazard ratio 3.33, 95% CI 1.26 to 8.85) </plain></SENT>
+<SENT sid="10" pm="."><plain>The multivariable analysis identified YY1 protein level as the strongest predictor of outcome (p ≤ 0.018), with none of the other markers being significantly associated with outcome </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSION: These results support the prognostic utility of YY1 in FL, indicating potential as a clinical biomarker </plain></SENT>
+</text></document>

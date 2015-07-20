@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIM: To develop a straightforward risk score for type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">DM2</z:e>) screening to use in clinical practice </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: A sample of 6237 adult inhabitants of the Canary Islands (Spain) was randomly divided into two subgroups: one yielded data used to develop the instrument, and the other yielded data used for validation testing </plain></SENT>
+<SENT sid="2" pm="."><plain>Performance of the instrument was compared in persons with clinically diagnosed <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">DM2</z:e> and undiagnosed <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="3" pm="."><plain>The risk score, calculated by multivariate logistic regression, included the potential risk variables that yielded the highest odds ratio in the univariate analysis </plain></SENT>
+<SENT sid="4" pm="."><plain>A cut-off point for screening purposes was established at a 99% negative predictive value </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: In men, variables included in the risk score were age, waist/height ratio, familial antecedents of <z:mp ids='MP_0002055'>diabetes</z:mp>, and systolic blood pressure (ROC curve 0.837, 95% CI: 0.803-0.871) </plain></SENT>
+<SENT sid="6" pm="."><plain>In women, the risk score contained the same variables plus <z:hpo ids='HP_0009800'>gestational diabetes</z:hpo> history (ROC curve 0.874, 95% CI: 0.847-0901) </plain></SENT>
+<SENT sid="7" pm="."><plain>Excluding systolic blood pressure from the score had no significant effect on the area under the curve </plain></SENT>
+<SENT sid="8" pm="."><plain>This instrument resulted valid only for people aged less than 55 years </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSIONS: This simple risk score for <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">DM2</z:e> would be easy to apply in clinical practice </plain></SENT>
+</text></document>

@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: <z:hpo ids='HP_0011915'>Cardiovascular calcification</z:hpo> is an independent predictor of morbidity and mortality and increases with age </plain></SENT>
+<SENT sid="1" pm="."><plain>Animal models are frequently used to investigate the underlying pathophysiology </plain></SENT>
+<SENT sid="2" pm="."><plain>Only scarce data regarding the effect of aging on calcifications in these animal models are available </plain></SENT>
+<SENT sid="3" pm="."><plain>The aim of this study is to investigate the occurrence of <z:hpo ids='HP_0011915'>cardiovascular calcifications</z:hpo> in <z:mpath ids='MPATH_458'>normal</z:mpath>, aging rats </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS: A mixed inbred/outbred population of 44 male Lewis/Wistar rats was studied </plain></SENT>
+<SENT sid="5" pm="."><plain>Group 1 of three-month-old rats, group 2 twelve-month-old, group 3 twenty-four-month-old and group 4 thirty-month-old rats </plain></SENT>
+<SENT sid="6" pm="."><plain>Calibrated integrated backscatter (cIB) values and blood parameters (<z:chebi fb="0" ids="16737">creatinine</z:chebi>, parathyroid hormone (PTH)) were measured, followed by ex-vivo micro-CT and histology as reference methods </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: <z:hpo ids='HP_0011915'>Cardiovascular calcifications</z:hpo> developed with age, as demonstrated by significantly increasing cIB values of the aortic valve and myocardium </plain></SENT>
+<SENT sid="8" pm="."><plain>This was confirmed by a significant increase in the calcified volume on ex-vivo micro-CT and in the histological calcium score </plain></SENT>
+<SENT sid="9" pm="."><plain>There was also a significantly higher level of <z:chebi fb="0" ids="16737">creatinine</z:chebi> and PTH with age </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSIONS: As in humans, <z:hpo ids='HP_0011915'>cardiovascular calcifications</z:hpo> progressively increase with age in the <z:mpath ids='MPATH_458'>normal</z:mpath> rat </plain></SENT>
+<SENT sid="11" pm="."><plain>Therefore the aging rat model could be used for studying calcifying <z:e sem="disease" ids="C0007222" disease_type="Disease or Syndrome" abbrv="CVD">cardiovascular disease</z:e> </plain></SENT>
+<SENT sid="12" pm="."><plain>cIB might have a value in future studies for the early detection of subclinical calcifications in humans </plain></SENT>
+</text></document>

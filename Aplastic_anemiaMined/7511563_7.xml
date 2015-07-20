@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Patients with <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> were tested for natural killer (NK) activity, and the roles of granulocytes and granulocyte colony-stimulating factor (G-CSF) in the regulation of cytotoxicity were evaluated </plain></SENT>
+<SENT sid="1" pm="."><plain>Blood lymphocytes showed low or no NK activity against K562 targets </plain></SENT>
+<SENT sid="2" pm="."><plain>The <z:hpo ids='HP_0000716'>depression</z:hpo> of NK activity was more frequently recorded for patients who were not in remission and those who received G-CSF administration </plain></SENT>
+<SENT sid="3" pm="."><plain>Granulocytes of <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> patients with impaired NK activity suppressed the lytic activity of NK cells </plain></SENT>
+<SENT sid="4" pm="."><plain>By contrast, granulocytes from <z:mpath ids='MPATH_458'>normal</z:mpath> controls and <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> patients with <z:mpath ids='MPATH_458'>normal</z:mpath> NK activity had no suppressive activity </plain></SENT>
+<SENT sid="5" pm="."><plain>There was a good correlation between NK activity of lymphocytes and suppressive activity of granulocytes </plain></SENT>
+<SENT sid="6" pm="."><plain>Blocking of direct contact of suppressor and effector cells by cell chambers abolished suppression of cytotoxicity </plain></SENT>
+<SENT sid="7" pm="."><plain>NK suppression by granulocytes was resistant to treatment with catalase or <z:chebi fb="1" ids="18421">superoxide</z:chebi> dismutase </plain></SENT>
+<SENT sid="8" pm="."><plain>In vitro stimulation with G-CSF of granulocytes that naturally had no suppressive activity resulted in development of suppressive function, whereas granulocytes with natural suppressive activity were not further stimulated in vitro by G-CSF to express augmented activity </plain></SENT>
+<SENT sid="9" pm="."><plain>These results suggest that the presence of suppressor granulocytes in the blood could be one cause of the impaired NK activity in patients with <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> </plain></SENT>
+</text></document>

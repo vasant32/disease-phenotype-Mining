@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The control of immune responses by sex hormones is well documented but the effect of sex hormones on lymphoid cell subsets is poorly understood </plain></SENT>
+<SENT sid="1" pm="."><plain>We have investigated the expression of receptors for <z:chebi fb="5" ids="50113">androgens</z:chebi> (AR), <z:chebi fb="1" ids="23965">estradiol</z:chebi> (ER) and <z:chebi fb="28" ids="17026">progesterone</z:chebi> (PR) by human cell lines of the B lymphocyte lineage and by murine <z:mp ids='MP_0009440'>myeloma</z:mp> or hybridomas </plain></SENT>
+<SENT sid="2" pm="."><plain>AR, ER and PR were determined by cytosol and nuclear binding assays </plain></SENT>
+<SENT sid="3" pm="."><plain>Eleven human lymphoblastoid cell lines obtained by in vitro <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infection</z:e> of blood or tonsil B cells with Epstein-Barr Virus (EBV) B95, did not express AR or ER </plain></SENT>
+<SENT sid="4" pm="."><plain>Similarly, 10 Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cell lines were AR, ER and PR negative with the exception of the pre-B RAJI cells which bear AR </plain></SENT>
+<SENT sid="5" pm="."><plain>Among 13 cell lines derived from patients with <z:hpo ids='HP_0006775'>multiple myeloma</z:hpo> none expressed AR but five were found to bear ER (20-164 fmol/mg DNA or 5-10 fmol/mg protein) </plain></SENT>
+<SENT sid="6" pm="."><plain>Four of the latter group also bear PR (86-450 fmol/mg DNA) </plain></SENT>
+<SENT sid="7" pm="."><plain>Two mouse hybridomas out of seven tested were ER and PR positive </plain></SENT>
+<SENT sid="8" pm="."><plain>The MOPC 315 <z:mp ids='MP_0009440'>myeloma</z:mp> expressed ER but not PR </plain></SENT>
+<SENT sid="9" pm="."><plain>The possible functional role of these <z:chebi fb="25" ids="50112">sex hormone</z:chebi> binding sites in cell proliferation and immunoglobulin secretion deserves further investigation </plain></SENT>
+</text></document>

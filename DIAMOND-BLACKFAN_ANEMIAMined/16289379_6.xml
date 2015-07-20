@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The gene encoding ribosomal protein S19 (RPS19) is mutated in approximately 25% of patients with Diamond-Blackfan <z:hpo ids='HP_0001903'>anemia</z:hpo> (<z:chebi fb="28" ids="35299">DBA</z:chebi>), which is a rare congenital <z:e sem="disease" ids="C0877221" disease_type="Disease or Syndrome" abbrv="">erythroblastopenia</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain><z:chebi fb="28" ids="35299">DBA</z:chebi> patients have a variety of clinical characteristics, and the role of the RPS19 gene in the pathogenesis of the disease is presently unknown </plain></SENT>
+<SENT sid="2" pm="."><plain>To investigate a possible role for RPS19 in erythropoiesis, we looked for proteins associated with mouse RPS19 using a yeast two-hybrid system and identified a novel protein, which we named S19 binding protein (S19BP) </plain></SENT>
+<SENT sid="3" pm="."><plain>The deduced amino acid sequence of S19BP derived from cDNA defines a calculated mass of 15,849 and an isoelectric point of 11.3 </plain></SENT>
+<SENT sid="4" pm="."><plain>No known functional motifs were found in S19BP except a short <z:chebi fb="0" ids="53411">polylysine</z:chebi> tract embedded in a putative nucleolar localization signal </plain></SENT>
+<SENT sid="5" pm="."><plain>Immunolocalization experiments revealed that S19BP was highly concentrated in nucleoli after 6 h of transfection in Cos-7 cells </plain></SENT>
+<SENT sid="6" pm="."><plain>S19BP was expressed ubiquitously at a basal level but a significantly high level of expression was observed in some tissues </plain></SENT>
+</text></document>

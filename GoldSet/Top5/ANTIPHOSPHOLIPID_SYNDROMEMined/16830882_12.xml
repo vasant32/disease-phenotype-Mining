@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Antiphospholipid (aPL) antibodies bind to beta2glycoprotein I (beta2GPI) and cause endothelial cell (EC) activation and <z:mp ids='MP_0005048'>thrombosis</z:mp> in mice </plain></SENT>
+<SENT sid="1" pm="."><plain>beta2GPI binds to EC through its Vth domain and induces their activation </plain></SENT>
+<SENT sid="2" pm="."><plain>TIFI is a 20 amino acid synthetic <z:chebi fb="7" ids="16670">peptide</z:chebi> that shares similarity with the Vth domain of beta2GPI </plain></SENT>
+<SENT sid="3" pm="."><plain>Our objectives were to examine the ability of TIFI to affect aPL-mediated <z:mp ids='MP_0005048'>thrombosis</z:mp> in mice and the interactions of TIFI, beta2GPI with <z:chebi fb="0" ids="16247">phospholipid</z:chebi> surfaces and target cells </plain></SENT>
+<SENT sid="4" pm="."><plain>CD1 mice were injected with IgG from a patient with <z:e sem="disease" ids="C0085278" disease_type="Disease or Syndrome" abbrv="">antiphospholipid syndrome</z:e> (IgG-APS) or with control IgG-NHS and with either TIFI or with control <z:chebi fb="7" ids="16670">peptide</z:chebi> (VITT) </plain></SENT>
+<SENT sid="5" pm="."><plain>Size of induced <z:e sem="disease" ids="C0087086" disease_type="Disease or Syndrome" abbrv="">thrombi</z:e> was determined </plain></SENT>
+<SENT sid="6" pm="."><plain>Inhibition and competition studies were done using aPL antibodies, <z:chebi fb="0" ids="28494">cardiolipin</z:chebi> (CL) liposomes in the presence of varying amounts of TIFI and beta2GPI </plain></SENT>
+<SENT sid="7" pm="."><plain>Binding of fluorescinated beta2GPI to human ECs and to murine macrophages in the presence or absence of TIFI, was also examined </plain></SENT>
+<SENT sid="8" pm="."><plain>TIFI significantly decreased <z:e sem="disease" ids="C0302148,C0087086" disease_type="Disease or Syndrome;Acquired Abnormality" abbrv="">thrombus</z:e> size in mice injected with IgG-APS </plain></SENT>
+<SENT sid="9" pm="."><plain>TIFI reverted the beta2GPI-dependent binding of aPL antibodies to CL liposomes in a dose-dependent fashion </plain></SENT>
+<SENT sid="10" pm="."><plain>This effect was abrogated by addition of beta2GPI, suggesting that TIFI displaces the binding of beta2GPI to <z:chebi fb="1" ids="16247">phospholipids</z:chebi> </plain></SENT>
+<SENT sid="11" pm="."><plain>TIFI inhibited the binding of fluorescinated beta2GPI to human EC and to murine macrophages </plain></SENT>
+<SENT sid="12" pm="."><plain>The data indicate that TIFI abrogates thrombogenic properties of aPL in mice by competing with beta2GPI and preventing its binding to target cells </plain></SENT>
+<SENT sid="13" pm="."><plain>This may be important in designing new modalities for the treatment of <z:mp ids='MP_0005048'>thrombosis</z:mp> in APS </plain></SENT>
+</text></document>

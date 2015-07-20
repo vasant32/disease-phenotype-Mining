@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A-76-year-old woman consulted for open biopsy for a pulmonary mass </plain></SENT>
+<SENT sid="1" pm="."><plain>Thoracoscopic wedge resection was performed </plain></SENT>
+<SENT sid="2" pm="."><plain>The lesion was histologically diagnosed as nonspecific <z:mp ids='MP_0001845'>inflammation</z:mp> </plain></SENT>
+<SENT sid="3" pm="."><plain>On the first postoperative day (POD1), the patient lost consciousness transiently </plain></SENT>
+<SENT sid="4" pm="."><plain>Eleven hours after the first <z:hpo ids='HP_0001297'>stroke</z:hpo>, the patient experienced a second <z:hpo ids='HP_0001297'>stroke</z:hpo> together with <z:mp ids='MP_0005039'>hypoxia</z:mp> </plain></SENT>
+<SENT sid="5" pm="."><plain>Pulmonary perfusion scan on POD2 showed multiple perfusion defects, and the patient was diagnosed with <z:hpo ids='HP_0002204'>pulmonary embolism</z:hpo> (PE) </plain></SENT>
+<SENT sid="6" pm="."><plain>Thrombolitic therapy was started </plain></SENT>
+<SENT sid="7" pm="."><plain>Neurological symptoms didn't improve, and cerebral angiography on POD3 showed delayed perfusion in superficial veins </plain></SENT>
+<SENT sid="8" pm="."><plain>The patient was diagnosed with <z:hpo ids='HP_0005305'>cerebral venous thrombosis</z:hpo> (CVT) </plain></SENT>
+<SENT sid="9" pm="."><plain>Thrombolytic and <z:chebi fb="3" ids="50249">anticoagulant</z:chebi> therapy had been continued, and the patient was found to have <z:e sem="disease" ids="C0472369" disease_type="Disease or Syndrome" abbrv="">hemorrhagic cerebral infarction</z:e> on POD11 </plain></SENT>
+<SENT sid="10" pm="."><plain>After persistent therapy, the patient was discharged on POD120 </plain></SENT>
+<SENT sid="11" pm="."><plain>Although both PE and CVT are rare complications after thoracic surgery, we must consider these complications in patients undergoing thoracic operations including thoracoscopic surgery </plain></SENT>
+</text></document>

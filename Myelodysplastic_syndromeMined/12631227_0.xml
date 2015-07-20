@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Most patients with advanced or recurrent uterine <z:hpo ids='HP_0100242'>sarcoma</z:hpo> experience disease progression and ultimately die </plain></SENT>
+<SENT sid="1" pm="."><plain>We present a case of uterine <z:hpo ids='HP_0100242'>sarcoma</z:hpo> with lung <z:e sem="disease" ids="C0027627" disease_type="Neoplastic Process" abbrv="mets">metastasis</z:e> treated with systemic chemotherapy and with no evidence of disease for more than 5 years </plain></SENT>
+<SENT sid="2" pm="."><plain>A 77-year-old woman underwent total abdominal hysterectomy with bilateral salpingo-oophorectomy for <z:mpath ids='MPATH_256'>carcinosarcoma</z:mpath> of the uterus followed by external pelvic radiotherapy </plain></SENT>
+<SENT sid="3" pm="."><plain>Ten months later, the <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> recurred in the apex of the vagina and was treated with brachytherapy </plain></SENT>
+<SENT sid="4" pm="."><plain>After 6 months of remission, she presented with <z:e sem="disease" ids="C0153676" disease_type="Neoplastic Process" abbrv="">pulmonary metastasis</z:e> </plain></SENT>
+<SENT sid="5" pm="."><plain>After four cycles of systemic chemotherapy with <z:chebi fb="2" ids="27899">cisplatin</z:chebi> and ifosfamide, the pulmonary nodules completely disappeared </plain></SENT>
+<SENT sid="6" pm="."><plain>Currently she is still in complete remission after more than 5 years, but unfortunately she has developed <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo> </plain></SENT>
+<SENT sid="7" pm="."><plain>This is the first reported case in the literature of cured metastatic uterine <z:mpath ids='MPATH_256'>carcinosarcoma</z:mpath> to lungs, with long-term survival of 5 years </plain></SENT>
+</text></document>

@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We describe the successful treatment of <z:hpo ids='HP_0000999'>pyoderma</z:hpo> gangrenosum (PG) that developed in a patient with <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e>) </plain></SENT>
+<SENT sid="1" pm="."><plain>A 63-year-old Japanese man with <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> was admitted to our hospital because of a large <z:hpo ids='HP_0200042'>skin ulcer</z:hpo> on his neck in November 2001 </plain></SENT>
+<SENT sid="2" pm="."><plain>The initial diagnosis was infectious <z:hpo ids='HP_0000964'>dermatitis</z:hpo>, and antimicrobial therapy was performed, using <z:chebi fb="0" ids="471744,51799">imipenem</z:chebi>/cilastatin, isepamicin, and <z:chebi fb="1" ids="2682">amphotericin B</z:chebi> </plain></SENT>
+<SENT sid="3" pm="."><plain>However, this therapy was not effective, and the lesion worsened </plain></SENT>
+<SENT sid="4" pm="."><plain>Cultures of blood, throat swab, and <z:mpath ids='MPATH_579'>ulcer</z:mpath> pus yielded no microorganisms </plain></SENT>
+<SENT sid="5" pm="."><plain>A biopsy of the skin lesion revealed a severe infiltration of neutrophils in the dermis, without any evidence of <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infection</z:e> </plain></SENT>
+<SENT sid="6" pm="."><plain>The lesion was finally diagnosed as PG, and systemic administration of <z:chebi fb="0" ids="36699">corticosteroid hormone</z:chebi> was started in December 2001 </plain></SENT>
+<SENT sid="7" pm="."><plain>The patient was initially pulsed with 1 g <z:chebi fb="0" ids="6888">methylprednisolone</z:chebi> daily for 3 days </plain></SENT>
+<SENT sid="8" pm="."><plain>The dose was immediately reduced, and the treatment was maintained with 30 mg <z:chebi fb="2" ids="8378">prednisolone</z:chebi> daily </plain></SENT>
+<SENT sid="9" pm="."><plain>The skin lesion responded markedly to the therapy, and C-reactive protein became negative </plain></SENT>
+<SENT sid="10" pm="."><plain>The patient was discharged in February 2002 because the lesion was almost cured </plain></SENT>
+<SENT sid="11" pm="."><plain><z:chebi fb="2" ids="8378">Prednisolone</z:chebi> administration was tapered after 6-month maintenance therapy </plain></SENT>
+<SENT sid="12" pm="."><plain>No recurrence of PG was seen, although his <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> transformed into <z:hpo ids='HP_0001909'>leukemia</z:hpo> in April 2003 </plain></SENT>
+<SENT sid="13" pm="."><plain>Only 31 cases of <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> developing PG have been reported in the past 20 years in Japan </plain></SENT>
+<SENT sid="14" pm="."><plain>This report describes one such rare patient who was successfully treated with the use of high-dose pulse <z:chebi fb="0" ids="6888">methylprednisolone</z:chebi> and long-term maintenance therapy </plain></SENT>
+</text></document>

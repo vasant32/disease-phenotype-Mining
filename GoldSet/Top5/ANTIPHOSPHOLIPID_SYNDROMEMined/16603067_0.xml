@@ -1,0 +1,28 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: In 1983, Graham Hughes described a condition of <z:e sem="disease" ids="C0085278" disease_type="Disease or Syndrome" abbrv="">Antiphospholipid Syndrome</z:e> in which there was a danger of <z:mp ids='MP_0005048'>thrombosis</z:mp> </plain></SENT>
+<SENT sid="1" pm="."><plain>The condition is readily detectable by blood tests and, once diagnosed; the risk of further <z:mp ids='MP_0005048'>thrombosis</z:mp> can be significantly reduced by anticoagulation treatments </plain></SENT>
+<SENT sid="2" pm="."><plain>Affected groups of patients can be distinguished by a specific blood test - the detection of <z:hpo ids='HP_0003613'>antiphospholipid antibody</z:hpo> (Ref-1) </plain></SENT>
+<SENT sid="3" pm="."><plain>Patients with <z:e sem="disease" ids="C0796280" disease_type="Disease or Syndrome" abbrv="">Hughes syndrome</z:e> have hypercoaguable state with a markedly increased risk of both arterial and <z:hpo ids='HP_0004936'>venous thrombosis</z:hpo> and there is temporal persistence of antibody positivity </plain></SENT>
+<SENT sid="4" pm="."><plain>CASE PRESENTATION: A 44-year-old woman was admitted under the <z:hpo ids='HP_0011009'>acute</z:hpo> surgical "take" with left sided <z:hpo ids='HP_0002027'>abdominal pain</z:hpo> radiating to her back </plain></SENT>
+<SENT sid="5" pm="."><plain>She had a history of <z:e sem="disease" ids="C0342135" disease_type="Disease or Syndrome" abbrv="">borderline thyrotoxicosis</z:e> in the early 1990s </plain></SENT>
+<SENT sid="6" pm="."><plain>She was on <z:chebi fb="0" ids="50777">etonogestrel</z:chebi>-releasing implants for contraception and there was no history of previous <z:hpo ids='HP_0002625'>deep venous thrombosis</z:hpo> </plain></SENT>
+<SENT sid="7" pm="."><plain>She was very tender, locally, over the left side of the abdomen </plain></SENT>
+<SENT sid="8" pm="."><plain>Investigations showed <z:chebi fb="34" ids="35143">haemoglobin</z:chebi> of 13.2 g/dl, white cell count of 19.9 10*9/L, and platelets 214 10*9/L with <z:mp ids='MP_0000219'>neutrophilia</z:mp> </plain></SENT>
+<SENT sid="9" pm="."><plain>Amylase and renal function tests were found to be <z:mpath ids='MPATH_458'>normal</z:mpath> </plain></SENT>
+<SENT sid="10" pm="."><plain>Liver function tests were deranged with Gamma GT 244 u/l (twice <z:mpath ids='MPATH_458'>normal</z:mpath>) </plain></SENT>
+<SENT sid="11" pm="."><plain>An abdominal Ultrasound Scan suggested a possible <z:e sem="disease" ids="C0037998" disease_type="Disease or Syndrome" abbrv="">splenic infarction</z:e>, which was confirmed by a CT scan of her abdomen </plain></SENT>
+<SENT sid="12" pm="."><plain>Tests were carried out to investigate the possibility of a post thrombotic state </plain></SENT>
+<SENT sid="13" pm="."><plain>Coagulation risk factors for <z:mp ids='MP_0005048'>thrombosis</z:mp> were within the <z:mpath ids='MPATH_458'>normal</z:mpath> limits; Protein S 67 %(60-140), Protein C 103 % (72-146), Antithrombin 3 110 %(80-120) and Activated P C Resistance was 1.9(2.0-4.3) </plain></SENT>
+<SENT sid="14" pm="."><plain>The Hams test was negative but the Anticardiolipin antibody test was positive </plain></SENT>
+<SENT sid="15" pm="."><plain>IgM level was 52 (<z:mpath ids='MPATH_458'>normal</z:mpath> is up to 10) and IgG was 18.8 (<z:mpath ids='MPATH_458'>normal</z:mpath> is up to 10) </plain></SENT>
+<SENT sid="16" pm="."><plain>She also had border line APC Sensitivity 1.9 (2 to 4.3) </plain></SENT>
+<SENT sid="17" pm="."><plain>Kaolin time 49 sec (70-120) Ktmix 64 sec (70-120), thyroid function test revealed TSH 0.32 micro/L, fT4 20.2 pmol/L (10-25) </plain></SENT>
+<SENT sid="18" pm="."><plain>Subsequent determination of Anticardiolipin antibody was negative </plain></SENT>
+<SENT sid="19" pm="."><plain>Her symptoms were settled with the use of simple <z:mp ids='MP_0004270'>analgesia</z:mp> and she was discharged home with long-term anticoagulation medication </plain></SENT>
+<SENT sid="20" pm="."><plain>The INR target for long-term anticoagulation was aimed at &gt;3 </plain></SENT>
+<SENT sid="21" pm="."><plain>CONCLUSION: This case presented to us as an <z:hpo ids='HP_0011009'>acute</z:hpo> <z:hpo ids='HP_0002027'>abdominal pain</z:hpo> </plain></SENT>
+<SENT sid="22" pm="."><plain>Subsequent investigations revealed the presence of <z:e sem="disease" ids="C0037998" disease_type="Disease or Syndrome" abbrv="">splenic infarction</z:e> </plain></SENT>
+<SENT sid="23" pm="."><plain>Coagulation risk factors for <z:mp ids='MP_0005048'>thrombosis</z:mp> proved negative </plain></SENT>
+<SENT sid="24" pm="."><plain>Haematological investigations revealed the presence of anticardiolipin antibodies at the first instance but subsequent determinations were negative </plain></SENT>
+<SENT sid="25" pm="."><plain>Hence, it mimicked <z:e sem="disease" ids="C0796280" disease_type="Disease or Syndrome" abbrv="">Hughes syndrome</z:e> initially but the criteria for temporal persistence of anticardiolipin antibody was not fulfilled </plain></SENT>
+<SENT sid="26" pm="."><plain>Unusual surgical presentation of a thrombotic abnormality as <z:hpo ids='HP_0002027'>abdominal pain</z:hpo> due to <z:e sem="disease" ids="C0037998" disease_type="Disease or Syndrome" abbrv="">splenic infarction</z:e> </plain></SENT>
+</text></document>

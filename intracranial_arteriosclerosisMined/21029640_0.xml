@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: To evaluate the effect of lesion length on in-stent restenosis (ISR) after intracranial stenting </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: Between March 2004 and September 2009, 65 patients with symptomatic intracranial <z:hpo ids='HP_0100545'>arterial stenosis</z:hpo> were successfully implanted with single bare metal balloon-mounted stent </plain></SENT>
+<SENT sid="2" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> received a conventional angiographic follow-up </plain></SENT>
+<SENT sid="3" pm="."><plain>The patients were divided into three groups according to lesion length: short lesions (&lt; 5 mm), medium lesions (5-10 mm) and long lesions (&gt; 10 mm) </plain></SENT>
+<SENT sid="4" pm="."><plain>ISR was defined as &gt; 50% stenosis within stent or absolute <z:chebi fb="2" ids="8069">luminal</z:chebi> loss &gt; 20% </plain></SENT>
+<SENT sid="5" pm="."><plain>The influence of different lesion lengths on ISR was evaluated </plain></SENT>
+<SENT sid="6" pm="."><plain>Furthermore, the independent predictive factors for ISR were selected </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: There were short lesions (n = 28), medium lesions (n = 29) and long lesions (n = 8) </plain></SENT>
+<SENT sid="8" pm="."><plain>The median interval of angiographic follow-up was 7 months with a range of 5-30 months </plain></SENT>
+<SENT sid="9" pm="."><plain>Of 65 patients, 19 (29.2%) had ISR </plain></SENT>
+<SENT sid="10" pm="."><plain>The ISR rates were 14.3%, 37.9% and 50% in short lesions, medium lesions and long lesions respectively (P = 0.045) </plain></SENT>
+<SENT sid="11" pm="."><plain>Multivariate Cox regression analysis showed that lesion length (HR = 1.210; 95%CI = 1.011-1.446; P = 0.037) and <z:mp ids='MP_0002055'>diabetes</z:mp> (HR = 2.630; 95%CI = 1.032-6.705; P = 0.043) were associated with ISR </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSION: Lesion length and <z:mp ids='MP_0002055'>diabetes</z:mp> are two independent predictors for ISR after intracranial stenting </plain></SENT>
+</text></document>

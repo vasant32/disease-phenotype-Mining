@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Activation-induced <z:chebi fb="0" ids="17562">cytidine</z:chebi> deaminase (AID) plays a key role in the induction of somatic hypermutation and class switching at the immunoglobulin loci of B lymphocytes </plain></SENT>
+<SENT sid="1" pm="."><plain>AID overexpression can induce a mutator phenotype in lymphoid and nonlymphoid cell lines, suggesting that AID by itself is sufficient to trigger hypermutation and class switching </plain></SENT>
+<SENT sid="2" pm="."><plain>AID expression in vivo is considered to be restricted to germinal center B lymphocytes, yet AID expression is also seen in many B cell <z:hpo ids='HP_0002665'>lymphomas</z:hpo>, hinting at a potential role for the development of these <z:e sem="disease" ids="C0006826" disease_type="Neoplastic Process" abbrv="">malignancies</z:e> </plain></SENT>
+<SENT sid="3" pm="."><plain>We used a GFP-based reversion assay to efficiently evaluate the activation of mutator phenotypes </plain></SENT>
+<SENT sid="4" pm="."><plain>As expected, AID overexpression in the human Burkitt <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cell line BL70 caused hypermutation </plain></SENT>
+<SENT sid="5" pm="."><plain>Surprisingly, AID overexpression in the human pre-B cell line Nalm-6 failed to induce a detectable mutator phenotype, indicating that Nalm-6 cells are probably lacking an essential factor(s) to confer AID-induced mutagenesis </plain></SENT>
+<SENT sid="6" pm="."><plain>This finding supports the concept that AID overexpression by itself must not automatically lead to the <z:hpo ids='HP_0003674'>onset</z:hpo> of a mutator phenotype </plain></SENT>
+<SENT sid="7" pm="."><plain>In addition, treating Nalm-6 transfectants with <z:chebi fb="0" ids="17748">thymidine</z:chebi>, a potential mutagenic drug, caused profound mutation rates on the GFP transgene </plain></SENT>
+<SENT sid="8" pm="."><plain>Thus, the GFP-based mutation assay might prove a powerful tool to study protein- and chemical-induced mutator phenotypes in cell lines </plain></SENT>
+</text></document>

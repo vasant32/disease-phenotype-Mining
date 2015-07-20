@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo> patients display <z:hpo ids='HP_0001425'>heterogeneous</z:hpo> overall survival and variable risk of transformation </plain></SENT>
+<SENT sid="1" pm="."><plain>Recent studies have highlighted the role of the microenvironment </plain></SENT>
+<SENT sid="2" pm="."><plain>The contribution of microvessel density to follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo> survival remains controversial </plain></SENT>
+<SENT sid="3" pm="."><plain>We used a quantitative <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> mapping approach to determine whether the degree of vascularization correlated with outcome in a uniformly treated cohort </plain></SENT>
+<SENT sid="4" pm="."><plain>Whole-tissue sections of diagnostic biopsies from 84 cases were stained for CD34 and <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e>-to-vessel-distance that encompassed 90% of the <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> (TVD(90)) was determined using image analysis </plain></SENT>
+<SENT sid="5" pm="."><plain>Twenty-one cases with lower TVD(90) showed inferior overall survival (P=0.0001) and high risk of transformation (P=0.01) </plain></SENT>
+<SENT sid="6" pm="."><plain>These cases significantly correlated with increased <z:hpo ids='HP_0002665'>Lymphoma</z:hpo>-Associated Macrophages (χ(2)=0.025) </plain></SENT>
+<SENT sid="7" pm="."><plain>In multivariate analysis macrophages content, IPI and TVD(90) were independent predictors of overall survival (P=0.05, P=0.001 and P=0.01, respectively) and IPI and TVD(90) predicted risk of transformation (P=0.008 and P=0.08, respectively) </plain></SENT>
+<SENT sid="8" pm="."><plain><z:mp ids='MP_0005601'>Increased angiogenesis</z:mp> is an independent marker of inferior survival and may promote transformation </plain></SENT>
+</text></document>

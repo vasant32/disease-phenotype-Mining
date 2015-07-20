@@ -1,0 +1,6 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 36-year-old housewife, previously diagnosed with <z:e sem="disease" ids="C0242342" disease_type="Disease or Syndrome" abbrv="">Sheehan's syndrome</z:e> on <z:chebi fb="1" ids="24261">glucocorticoid</z:chebi> and <z:chebi fb="4" ids="30660">thyroxine</z:chebi> replacement therapy, presented with unprovoked <z:hpo ids='HP_0001953'>diabetic ketoacidosis</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain><z:hpo ids='HP_0001993'>Ketoacidosis</z:hpo> was corrected with intravenous fluids and insulin therapy </plain></SENT>
+<SENT sid="2" pm="."><plain>Further evaluation was suggestive of type 2 <z:hpo ids='HP_0000819'>diabetes mellitus</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>On follow-up, she experienced repeated episodes of <z:e sem="disease" ids="C0020615" disease_type="Disease or Syndrome" abbrv="">hypoglycaemia</z:e> and insulin was tapered and stopped </plain></SENT>
+<SENT sid="4" pm="."><plain>Adequate glycaemic control was maintained with <z:chebi fb="0" ids="6801">metformin</z:chebi> monotherapy </plain></SENT>
+</text></document>

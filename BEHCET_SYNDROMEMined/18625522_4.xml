@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We report that B cell-activating factor of the <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> <z:mp ids='MP_0001651'>necrosis</z:mp> factor family (BAFF) is expressed in central <z:mp ids='MP_0008912'>nervous</z:mp> system (<z:chebi fb="7" ids="29425,29426,29441,29447">CNS</z:chebi>) of neuro-<z:chebi fb="6" ids="22696">Beh</z:chebi>çet's disease (NBD) </plain></SENT>
+<SENT sid="1" pm="."><plain>This study investigated BAFF and BAFF-R (BAFF receptor) in NBD, compared to multiple <z:mp ids='MP_0000612'>sclerosis</z:mp> (MS) and to non inflammatory <z:e sem="disease" ids="C0027765" disease_type="Disease or Syndrome" abbrv="">neurological diseases</z:e> (NIND) </plain></SENT>
+<SENT sid="2" pm="."><plain>Cerebrospinal fluid (CSF) was used to determine the level of BAFF <z:chebi fb="5" ids="33699">messenger RNA</z:chebi> (<z:chebi fb="2" ids="33699">mRNA</z:chebi>) and the level of BAFF-R <z:chebi fb="2" ids="33699">mRNA</z:chebi> in unfractionated cells </plain></SENT>
+<SENT sid="3" pm="."><plain>A sandwich ELISA was used to quantify soluble BAFF protein levels in serum and in CSF </plain></SENT>
+<SENT sid="4" pm="."><plain>BAFF and BAFF-R expression in CSF were increased in NBD and MS patients compared to NIND patients </plain></SENT>
+<SENT sid="5" pm="."><plain><z:chebi fb="40" ids="33697">RNA</z:chebi> levels of BAFF and BAFF-R were significantly correlated in NBD and MS patients </plain></SENT>
+<SENT sid="6" pm="."><plain>Serum sBAFF levels were increased in NBD and MS patients, but did not correlate with BAFF expression in CSF </plain></SENT>
+<SENT sid="7" pm="."><plain><z:chebi fb="7" ids="29425,29426,29441,29447">CNS</z:chebi>-produced BAFF may support inflammatory cell survival in NBD </plain></SENT>
+</text></document>

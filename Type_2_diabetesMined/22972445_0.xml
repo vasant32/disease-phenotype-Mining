@@ -1,0 +1,18 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: The incidence of <z:mp ids='MP_0002055'>diabetes</z:mp> is increasing rapidly across the globe </plain></SENT>
+<SENT sid="1" pm="."><plain>India has the highest proportion of diabetic patients, earning it the doubtful distinction of the '<z:mp ids='MP_0002055'>diabetes</z:mp> capital of the world' </plain></SENT>
+<SENT sid="2" pm="."><plain>Early detection of <z:mp ids='MP_0002055'>diabetes</z:mp> could help to prevent or postpone its <z:hpo ids='HP_0003674'>onset</z:hpo> by taking appropriate preventive measures, including the initiation of lifestyle changes </plain></SENT>
+<SENT sid="3" pm="."><plain>To date, early identification of <z:e sem="disease" ids="C0362046" disease_type="Disease or Syndrome" abbrv="">prediabetes</z:e> or type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> has proven problematic, such that there is an urgent requirement for tools enabling easy, quick, and accurate diagnosis </plain></SENT>
+<SENT sid="4" pm="."><plain>AIM: To develop an easy, quick, and precise tool for diagnosing early <z:mp ids='MP_0002055'>diabetes</z:mp> based on machine learning algorithms </plain></SENT>
+<SENT sid="5" pm="."><plain>METHODS: The dataset used in this study was based on the health profiles of diabetic and non-diabetic patients from hospitals in India </plain></SENT>
+<SENT sid="6" pm="."><plain>A novel machine learning algorithm, termed "mixture of expert", was used for the determination of a patient's diabetic state </plain></SENT>
+<SENT sid="7" pm="."><plain>Out of a total of 1415 subjects, 1104 were used to train the mixture of expert system </plain></SENT>
+<SENT sid="8" pm="."><plain>The remaining 311 data sets were reserved for validation of the algorithm </plain></SENT>
+<SENT sid="9" pm="."><plain>Mixture of expert was implemented in matlab to train the data for the development of the model </plain></SENT>
+<SENT sid="10" pm="."><plain>The model with the minimum mean square error was selected and used for the validation of the results </plain></SENT>
+<SENT sid="11" pm="."><plain>RESULTS: Different combinations and numbers of hidden nodes and expectation maximization (EM) iterations were used to optimize the accuracy of the algorithm </plain></SENT>
+<SENT sid="12" pm="."><plain>The overall best accuracy of 99.36% was achieved with an iteration of 150 and 20 hidden nodes </plain></SENT>
+<SENT sid="13" pm="."><plain>Sensitivity, specificity, and total classification accuracy were calculated as 99.5%, 99.07%, and 99.36%, respectively </plain></SENT>
+<SENT sid="14" pm="."><plain>Furthermore, a graphical user interface was developed in java script such that the user can readily enter the variables and easily use the algorithm as a tool </plain></SENT>
+<SENT sid="15" pm="."><plain>CONCLUSIONS: This study describes a highly precise machine learning prediction tool for identifying <z:e sem="disease" ids="C0362046" disease_type="Disease or Syndrome" abbrv="">prediabetic</z:e>, diabetic, and non-diabetic individuals with high accuracy </plain></SENT>
+<SENT sid="16" pm="."><plain>The tool could be used for large scale screening in hopsitals or <z:mp ids='MP_0002055'>diabetes</z:mp> prevention programs </plain></SENT>
+</text></document>

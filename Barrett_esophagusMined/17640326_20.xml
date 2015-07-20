@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVES: Although EMR has been used for elimination of <z:hpo ids='HP_0002664'>neoplasia</z:hpo> in BE, the significance of positive <z:mp ids='MP_0002038'>carcinoma</z:mp> margins and depth of invasion on endoscopic resection pathology has not been assessed using a valid standard </plain></SENT>
+<SENT sid="1" pm="."><plain>The aim of this study was to assess the accuracy of <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> staging by EMR using esophagectomy as the standard </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: Medical records of patients, who underwent endoscopic resection for <z:hpo ids='HP_0011459'>esophageal carcinoma</z:hpo> or high-grade <z:mpath ids='MPATH_589'>dysplasia</z:mpath> in BE followed by esophagectomy, were reviewed </plain></SENT>
+<SENT sid="3" pm="."><plain>Data were abstracted from a prospectively maintained EMR database </plain></SENT>
+<SENT sid="4" pm="."><plain>Endosonography and endoscopic resection were performed by a single experienced endoscopist </plain></SENT>
+<SENT sid="5" pm="."><plain>Two experienced GI pathologists interpreted <z:hpo ids='HP_0000001'>all</z:hpo> histological results </plain></SENT>
+<SENT sid="6" pm="."><plain>Standard statistical tests were used to compare continuous and categorical variables </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: Twenty-five patients were included in the study </plain></SENT>
+<SENT sid="8" pm="."><plain>Three patients had mucosal <z:mp ids='MP_0002038'>carcinoma</z:mp> and 16 had submucosal <z:mp ids='MP_0002038'>carcinoma</z:mp> following endoscopic resection </plain></SENT>
+<SENT sid="9" pm="."><plain>Surgical pathology staging was consistent with preoperative EMR staging in <z:hpo ids='HP_0000001'>all</z:hpo> patients </plain></SENT>
+<SENT sid="10" pm="."><plain>No patient with negative mucosal resection margins had <z:e sem="disease" ids="C0543478" disease_type="Neoplastic Process" abbrv="">residual tumor</z:e> at the resection site at esophagectomy </plain></SENT>
+<SENT sid="11" pm="."><plain>In patients with submucosal <z:mp ids='MP_0002038'>carcinoma</z:mp>, 8 had residual <z:mp ids='MP_0002038'>carcinoma</z:mp> at the EMR site at surgery and 5 patients had metastatic <z:hpo ids='HP_0002716'>lymphadenopathy</z:hpo> </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">Tumor</z:e> staging using EMR pathology is accurate when compared with surgical pathology following esophagectomy </plain></SENT>
+<SENT sid="13" pm="."><plain>Negative margins on EMR pathology correlate with absence of <z:e sem="disease" ids="C0543478" disease_type="Neoplastic Process" abbrv="">residual disease</z:e> at the EMR site at esophagectomy </plain></SENT>
+<SENT sid="14" pm="."><plain>Submucosal <z:mp ids='MP_0002038'>carcinoma</z:mp> on EMR specimens was associated with a high prevalence of <z:e sem="disease" ids="C0543478" disease_type="Neoplastic Process" abbrv="">residual disease</z:e> at surgery (50%) and metastatic <z:hpo ids='HP_0002716'>lymphadenopathy</z:hpo> (31%) </plain></SENT>
+</text></document>

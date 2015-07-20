@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0006721'>Acute lymphoblastic leukemia</z:hpo> is the most common <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">malignancy</z:e> in childhood </plain></SENT>
+<SENT sid="1" pm="."><plain>High-resolution allelotyping performed in our laboratory showed new chromosomal sites of nonrandom deletions </plain></SENT>
+<SENT sid="2" pm="."><plain>We have focused our work on 8q12 deletions, which we have found in about 4% of patients (eight of 205 informative cases) </plain></SENT>
+<SENT sid="3" pm="."><plain>These deletions were of small size (less than 1 Mb) in <z:hpo ids='HP_0000001'>all</z:hpo> but one patient, and the deleted region common to <z:hpo ids='HP_0000001'>all</z:hpo> patients was delineated between two microsatellite markers (D8S1113 and D8S1763) </plain></SENT>
+<SENT sid="4" pm="."><plain>This region was sequenced entirely from two overlapping <z:mp ids='MP_0001794'>bacterial</z:mp> artificial chromosomes </plain></SENT>
+<SENT sid="5" pm="."><plain>The common deleted region (120 kb) had a low GC content (37%), was composed more than 50% of LINE sequences, and contained only two candidate genes </plain></SENT>
+<SENT sid="6" pm="."><plain>The centromeric deletion borders were clustered within an interval of 33 kb between two microsatellite markers </plain></SENT>
+<SENT sid="7" pm="."><plain>This interval contains the first exon of an HMG-1-related gene (KIAA0808) and a putative gene, DL8q12, predicted to encode a protein with 231 amino acid residues with no homolog in protein databases </plain></SENT>
+<SENT sid="8" pm="."><plain>Analysis of the available <z:chebi fb="2" ids="33699">mRNA</z:chebi> from lymphoblastic cells of two patients with 8q12 deletions using common polymorphisms in the 3' UTR of KIAA0808 showed monoallelic expression of this gene </plain></SENT>
+<SENT sid="9" pm="."><plain>Identification of a biallelic polymorphism in the first exon of DL8q12 showed that this gene was deleted in two of four informative cases </plain></SENT>
+<SENT sid="10" pm="."><plain>Sequencing of the exons of both genes from <z:hpo ids='HP_0000001'>all</z:hpo> patients with 8q12 deletions did not show any mutation, which suggests that neither of these genes behaves as a classic <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> suppressor gene </plain></SENT>
+</text></document>

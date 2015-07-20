@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Stem cell antigen-1 (Sca-1) has been used to identify cardiac stem cells in the mouse heart </plain></SENT>
+<SENT sid="1" pm="."><plain>To investigate the function of Sca-1 in aging and during the cardiac adaptation to stress, we used Sca-1-deficient mice </plain></SENT>
+<SENT sid="2" pm="."><plain>These mice developed <z:hpo ids='HP_0001644'>dilated cardiomyopathy</z:hpo> [end-diastolic left ventricular diameter at 18 wk of age: <z:mp ids='MP_0002169'>wild-type</z:mp> (WT) mice, 4.2 mm ± 0.3; Sca-1-knockout (Sca-1-KO) mice, 4.6 mm ± 0.1; ejection fraction: WT mice, 51.1 ± 2.7%; Sca-1-KO mice, 42.9 ± 2.7%] </plain></SENT>
+<SENT sid="3" pm="."><plain>Furthermore, the hearts of mice lacking Sca-1 demonstrated exacerbated susceptibility to pressure overload [ejection fraction after transaortic constriction (<z:chebi fb="44" ids="53498">TAC</z:chebi>): WT mice, 43.5 ± 3.2%; Sca-1-KO mice, 30.8% ± 4.0] and <z:mp ids='MP_0006042'>increased apoptosis</z:mp>, as shown by the 2.5-fold increase in TUNEL(+) cells in Sca-1-deficient hearts under stress </plain></SENT>
+<SENT sid="4" pm="."><plain>Sca-1 deficiency affected primarily the nonmyocyte cell fraction </plain></SENT>
+<SENT sid="5" pm="."><plain>Indeed, the number of Nkx2.5(+) nonmyocyte cells, which represent a population of cardiac precursor cells (CPCs), was 2-fold smaller in Sca-1 deficient neonatal hearts </plain></SENT>
+<SENT sid="6" pm="."><plain>In vitro, the ability of CPCs to differentiate into cardiomyocytes was not affected by Sca-1 deletion </plain></SENT>
+<SENT sid="7" pm="."><plain>In contrast, these cells demonstrated unrestricted differentiation into cardiomyocytes </plain></SENT>
+<SENT sid="8" pm="."><plain>Interestingly, proliferation of cardiac nonmyocyte cells in response to stress, as judged by BrdU incorporation, was higher in mice lacking Sca-1 (percentages of BrdU(+) cells in the heart after <z:chebi fb="44" ids="53498">TAC</z:chebi>: WT mice, 4.4 ± 2.1%; Sca-1-KO mice, 19.3 ± 4.2%) </plain></SENT>
+<SENT sid="9" pm="."><plain>These data demonstrate the crucial role of Sca-1 in the maintenance of cardiac integrity and suggest that Sca-1 restrains spontaneous differentiation in the precursor population </plain></SENT>
+<SENT sid="10" pm="."><plain>The absence of Sca-1 results in uncontrolled precursor recruitment, exhaustion of the precursor pool, and cardiac dysfunction </plain></SENT>
+</text></document>

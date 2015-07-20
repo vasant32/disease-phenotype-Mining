@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We describe a two-stage preparation of chemically engineered Ab constructs, employing as modules Fab'gamma from mAb or rAb, and Fc from human <z:mpath ids='MPATH_458'>normal</z:mpath> IgG1 </plain></SENT>
+<SENT sid="1" pm="."><plain>A multivalent, optionally multispecific F(ab')(n) core is formed in stage one, and one or more Fc modules added in stage two </plain></SENT>
+<SENT sid="2" pm="."><plain>Examples include bispecific Fab(2)Fc(2) (for simplicity, primes and Greek letters are omitted from names of final constructs) and trivalent Fab(3)Fc(2), which are designed to kill neoplastic cells </plain></SENT>
+<SENT sid="3" pm="."><plain>An essential element in the construction is the availability of the Fab' in two reduced forms, Fab'(-sulfhydryl (SH))(5) and Fab'-SH </plain></SENT>
+<SENT sid="4" pm="."><plain>The first is obtained by full reduction of the interchain <z:chebi fb="0" ids="48343">disulfide</z:chebi> bonds (SS) in the F(ab')(2) fragment of IgG </plain></SENT>
+<SENT sid="5" pm="."><plain>Fab'-SH is obtained by <z:chebi fb="0" ids="48343">disulfide</z:chebi>-interchange reactions on Fab'(-SH)(5), whereby the gamma-light SS is reconstituted, an unusual intrachain SS forms in the gamma-chain hinge, and one hinge SH remains </plain></SENT>
+<SENT sid="6" pm="."><plain>F(ab')(2) and F(ab')(3) cores are built using partially reduced modules, being given intermodular thioether links that resist reduction </plain></SENT>
+<SENT sid="7" pm="."><plain>These cores are then fully reduced, making available SH groups for addition of the Fcgamma modules </plain></SENT>
+<SENT sid="8" pm="."><plain>In the final constructs, <z:hpo ids='HP_0000001'>all</z:hpo> intermodular links embody tandem thioether bonds arising at hinge-region cysteines </plain></SENT>
+<SENT sid="9" pm="."><plain>Cytotoxic activities of representative constructs, and some enhancements deriving from multiple modules, are assessed </plain></SENT>
+<SENT sid="10" pm="."><plain>In guinea pigs, catabolism of Fab(2)Fc(2) yielded a t(1/2) similar to that of human IgG1, although the serum Fab(2)Fc(2) revealed some proteolytic breakdown not shown by the IgG1 </plain></SENT>
+<SENT sid="11" pm="."><plain>Immunotherapy of a guinea-pig <z:hpo ids='HP_0001909'>leukemia</z:hpo> confirmed the ability of these constructs to kill target cells in vivo </plain></SENT>
+</text></document>

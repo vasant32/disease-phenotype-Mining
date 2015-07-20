@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The aim of the present study was to evaluate the fine specificity of anticardiolipin (aCL) antibodies detectable in the sera of patients with <z:e sem="disease" ids="C0019693" disease_type="Disease or Syndrome" abbrv="">HIV infection</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>aCL are generally associated with thrombotic events in <z:hpo ids='HP_0002960'>autoimmune diseases</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>A solid phase ELISA which discriminates between aCL binding to <z:chebi fb="1" ids="16247">phospholipids</z:chebi> and aCL binding to <z:chebi fb="0" ids="16247">phospholipid</z:chebi>/beta 2-<z:chebi fb="2" ids="17089">glycoprotein</z:chebi> I (cofactor) complex was employed </plain></SENT>
+<SENT sid="3" pm="."><plain>Thirty-nine HIV and 20 aCL positive <z:hpo ids='HP_0002725'>systemic lupus erythematosus</z:hpo> (SLE) sera were examined </plain></SENT>
+<SENT sid="4" pm="."><plain>In HIV sera, reduced binding to <z:chebi fb="0" ids="16247">phospholipid</z:chebi> was seen if cofactor was added </plain></SENT>
+<SENT sid="5" pm="."><plain>On the contrary, in SLE-sera the cofactor improved aCL binding </plain></SENT>
+<SENT sid="6" pm="."><plain>No thrombotic events were recorded in HIV infected subjects presenting with aCL </plain></SENT>
+<SENT sid="7" pm="."><plain>Thus, aCL in <z:e sem="disease" ids="C0019693" disease_type="Disease or Syndrome" abbrv="">HIV infection</z:e> and in SLE appear to have different specificities </plain></SENT>
+<SENT sid="8" pm="."><plain>In <z:e sem="disease" ids="C0019693" disease_type="Disease or Syndrome" abbrv="">HIV infection</z:e> the true <z:chebi fb="0" ids="53000">epitope</z:chebi> of aCL is likely to be on the <z:chebi fb="0" ids="16247">phospholipid</z:chebi> component only, whereas in SLE aCL seem directed against the cofactor/CL complex </plain></SENT>
+<SENT sid="9" pm="."><plain>Considering the <z:chebi fb="3" ids="50249">anticoagulant</z:chebi> role of beta 2-<z:chebi fb="2" ids="17089">glycoprotein</z:chebi> I, this observation might account for the lack of <z:mp ids='MP_0005048'>thrombosis</z:mp> in HIV patients with "true" aCL </plain></SENT>
+</text></document>

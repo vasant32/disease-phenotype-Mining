@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Cardiopulmonary arrest refers to cessation of clinically detectable cardiac activity </plain></SENT>
+<SENT sid="1" pm="."><plain>In children, it usually results from progression of shock, <z:hpo ids='HP_0002093'>respiratory failure</z:hpo> or cardiac dysrhythmia </plain></SENT>
+<SENT sid="2" pm="."><plain>Early recognition and timely interventions in above group of patients is the key to prevent progression to <z:hpo ids='HP_0001695'>cardiac arrest</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>The goal of resuscitation is to urgently re-establish oxygenation of vital organs by attention to Airway, Breathing and Circulation </plain></SENT>
+<SENT sid="4" pm="."><plain>Measures to restore airway patency include positioning, suctioning, continuous positive airway pressure, relieving a foreign-body <z:e sem="disease" ids="C0001883" disease_type="Disease or Syndrome" abbrv="">airway obstruction</z:e> and, endotracheal intubation, tracheotomy or laryngeal mask airway </plain></SENT>
+<SENT sid="5" pm="."><plain>Breathing is supported with <z:chebi fb="0" ids="15379">O(2)</z:chebi> and if needed, bag-mask ventilation, or endotracheal intubation and ventilation </plain></SENT>
+<SENT sid="6" pm="."><plain>Patients with absent or feeble central pulse are given cardiac compressions (CPR) at a rate of 100/ min synchronized with ventilation </plain></SENT>
+<SENT sid="7" pm="."><plain>In sudden witnessed collapse, immediate defibrillation is warranted, followed by CPR and administration of drugs </plain></SENT>
+<SENT sid="8" pm="."><plain>In unwitnessed collapse, CPR is performed for five cycles or 2 min before defibrillation </plain></SENT>
+<SENT sid="9" pm="."><plain>In patients with shock, a venous or an intraosseous access is rapidly established to administer 20 ml/kg saline bolus </plain></SENT>
+<SENT sid="10" pm="."><plain><z:hpo ids='HP_0004755'>Supraventricular tachycardia</z:hpo> is treated with vagal maneuvers and <z:chebi fb="3" ids="16335">adenosine</z:chebi>, if the patient is stable and with synchronized cardioversion, if unstable </plain></SENT>
+<SENT sid="11" pm="."><plain><z:hpo ids='HP_0004756'>Ventricular tachycardia</z:hpo> is treated with <z:chebi fb="0" ids="2663">amiodarone</z:chebi> or <z:chebi fb="0" ids="6456">lidocaine</z:chebi>, if stable, and cardioversion if unstable or if drugs fail </plain></SENT>
+<SENT sid="12" pm="."><plain><z:hpo ids='HP_0001663'>Ventricular fibrillation</z:hpo> needs defibrillation </plain></SENT>
+<SENT sid="13" pm="."><plain>Aggressive supportive care is needed during the post-resuscitation phase </plain></SENT>
+<SENT sid="14" pm="."><plain>There is no definite marker to determine futility of CPR </plain></SENT>
+<SENT sid="15" pm="."><plain>Short duration of arrest, early initiation of CPR, <z:hpo ids='HP_0002045'>hypothermia</z:hpo> as the cause of arrest, and in-hospital arrest have better prognosis </plain></SENT>
+</text></document>

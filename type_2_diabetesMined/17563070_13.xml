@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: Human islet amyloid <z:chebi fb="1" ids="15841">polypeptide</z:chebi> (hIAPP) aggregation plays a major role in the development of islet <z:hpo ids='HP_0011034'>amyloidosis</z:hpo> in type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="1" pm="."><plain>It is known that extracellular hIAPP oligomers are toxic to pancreatic beta-cells and associated with <z:mpath ids='MPATH_3'>apoptosis</z:mpath> </plain></SENT>
+<SENT sid="2" pm="."><plain>We therefore investigated the molecular mechanism by which extracellular hIAPP mediates pancreatic beta-cell <z:mpath ids='MPATH_3'>apoptosis</z:mpath> </plain></SENT>
+<SENT sid="3" pm="."><plain>RESEARCH DESIGN AND METHODS: MIN6 cells and primary cultures of human pancreatic islets were treated with freshly dissolved hIAPP <z:chebi fb="7" ids="16670">peptide</z:chebi> </plain></SENT>
+<SENT sid="4" pm="."><plain><z:mp ids='MP_0000002'>Morphology</z:mp> of the cultures was evaluated by electron microscopy </plain></SENT>
+<SENT sid="5" pm="."><plain>Gene expression was analyzed by microarray, RT-PCR, and immunoblot </plain></SENT>
+<SENT sid="6" pm="."><plain>Calcium levels were measured in fura-2-loaded cells </plain></SENT>
+<SENT sid="7" pm="."><plain><z:mpath ids='MPATH_3'>Apoptosis</z:mpath> was quantified by cytometry </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: Increased expression of several heat shock proteins and activation of the spliced form of XBP-1, a transcription factor for overexpression of chaperones during endoplasmic reticulum (ER) stress, were detected together with morphological evidence of ER dysfunction </plain></SENT>
+<SENT sid="9" pm="."><plain>Intracellular calcium overload was detected in association with this process </plain></SENT>
+<SENT sid="10" pm="."><plain>Moreover, reduction in the proteasome activity, which was detected over time, contributed to the intracellular accumulation of ubiquitinated proteins, leading to a functional suppression of the ubiquitin-proteasome pathway </plain></SENT>
+<SENT sid="11" pm="."><plain>In addition, impairment of the proteasome function contributed to <z:mpath ids='MPATH_3'>apoptosis</z:mpath>, while, despite the presence of hIAPP, cell viability improved when a proteasome activator was overexpressed </plain></SENT>
+<SENT sid="12" pm="."><plain>The key cytotoxic events induced by extracellular hIAPP were also observed in treated human islets </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSIONS: Our data suggest that ER stress responses are intracellular signaling mechanisms induced by extracellular hIAPP aggregation and that impairment of the ubiquitin-proteasome pathway is implicated in ER stress-mediated pancreatic beta-cell <z:mpath ids='MPATH_3'>apoptosis</z:mpath> </plain></SENT>
+</text></document>

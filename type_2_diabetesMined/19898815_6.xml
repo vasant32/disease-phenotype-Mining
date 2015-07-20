@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIMS/HYPOTHESIS: TCF7L2 is a type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> susceptibility gene and downstream effector of canonical wingless-type MMTV integration site family (WNT) signalling </plain></SENT>
+<SENT sid="1" pm="."><plain>However, it is unknown whether this pathway is active in adult pancreatic islets in vivo, and whether it is regulated in <z:hpo ids='HP_0001513'>obesity</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: We analysed activation of endogenous WNT signalling in the <z:chebi fb="32" ids="24621">endocrine</z:chebi> pancreas from <z:mp ids='MP_0002169'>wild-type</z:mp> and <z:mp ids='MP_0001261'>obese</z:mp> mice (ob/ob) using a reporter transgene (Topgal) </plain></SENT>
+<SENT sid="3" pm="."><plain>Regulation of WNT signalling was compared using gene chip experiments from isolated pancreatic islets </plain></SENT>
+<SENT sid="4" pm="."><plain>Activation of canonical WNT signalling in pancreatic islets and the mouse beta cell line MIN6 was measured using immunoblotting for cytosolic beta-catenin </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: Endogenous canonical WNT signalling was absent in the adult <z:chebi fb="32" ids="24621">endocrine</z:chebi> pancreas in both <z:mp ids='MP_0002169'>wild-type</z:mp> and <z:mp ids='MP_0001261'>obese</z:mp> mice </plain></SENT>
+<SENT sid="6" pm="."><plain>We identified WNT4 as an abundant WNT signalling molecule in adult pancreatic islets that is induced in two different insulin-resistant mouse models </plain></SENT>
+<SENT sid="7" pm="."><plain>Increased expression of WNT4 inhibited canonical WNT signalling in pancreatic islets and MIN6 cells </plain></SENT>
+<SENT sid="8" pm="."><plain>CONCLUSIONS/INTERPRETATION: Canonical WNT signalling is not active in adult beta cells in vivo </plain></SENT>
+<SENT sid="9" pm="."><plain>WNT4 provides a potential mechanism for suppression of canonical WNT signalling in <z:mp ids='MP_0001261'>obese</z:mp> mice </plain></SENT>
+</text></document>

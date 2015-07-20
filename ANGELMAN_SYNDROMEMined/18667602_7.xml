@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We used microarray analysis to identify renal cell transcripts that were upregulated with low <z:chebi fb="131" ids="25107">magnesium</z:chebi> </plain></SENT>
+<SENT sid="1" pm="."><plain>One transcript, identified as NIPA2 (nonimprinted in Prader-Willi/<z:e sem="disease" ids="C0162635" disease_type="Disease or Syndrome" abbrv="">Angelman syndrome</z:e>) subtype 2, was increased over twofold relative to cells cultured in <z:mpath ids='MPATH_458'>normal</z:mpath> <z:chebi fb="131" ids="25107">magnesium</z:chebi> </plain></SENT>
+<SENT sid="2" pm="."><plain>The deduced sequence comprises 129 amino acids with 8 predicted transmembrane regions </plain></SENT>
+<SENT sid="3" pm="."><plain>As the secondary structure of NIPA2 conformed to a membrane transport protein, we expressed it in Xenopus oocytes and determined that it mediated Mg(2+) uptake with two-electrode voltage-clamp and fluorescence studies </plain></SENT>
+<SENT sid="4" pm="."><plain>Mg(2+) transport was electrogenic, voltage dependent, and saturable, demonstrating a Michaelis affinity constant of 0.31 mM </plain></SENT>
+<SENT sid="5" pm="."><plain>Unlike other reported Mg(2+) transporters, NIPA2 was very selective for the Mg(2+) <z:chebi fb="36" ids="36916">cation</z:chebi> </plain></SENT>
+<SENT sid="6" pm="."><plain>NIPA2 <z:chebi fb="2" ids="33699">mRNA</z:chebi> is found in many tissues but particularly abundant in renal cells </plain></SENT>
+<SENT sid="7" pm="."><plain>With the use of immunofluorescence, it was shown that NIPA2 protein was normally localized to the early endosomes and plasma membrane and was recruited to the plasma membrane in response to low extracellular <z:chebi fb="131" ids="25107">magnesium</z:chebi> </plain></SENT>
+<SENT sid="8" pm="."><plain>We conclude that NIPA2 plays a role in <z:chebi fb="131" ids="25107">magnesium</z:chebi> metabolism and regulation of renal <z:chebi fb="131" ids="25107">magnesium</z:chebi> conservation </plain></SENT>
+</text></document>

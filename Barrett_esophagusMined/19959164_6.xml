@@ -1,0 +1,18 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: The incidence and risk factors for recurrence of <z:mpath ids='MPATH_589'>dysplasia</z:mpath> after ablation of <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> (BE) have not been well defined </plain></SENT>
+<SENT sid="1" pm="."><plain>OBJECTIVE: To determine the rate and predictors of <z:mpath ids='MPATH_589'>dysplasia</z:mpath>/<z:hpo ids='HP_0002664'>neoplasia</z:hpo> recurrence after photodynamic therapy (<z:chebi fb="7" ids="53228">PDT</z:chebi>) in BE </plain></SENT>
+<SENT sid="2" pm="."><plain>SETTING: Retrospective analysis of a prospective cohort of BE patients seen at a specialized BE unit </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: Patients underwent a standard protocol assessment with esophagogastroduodenoscopy and 4-quadrant biopsies every centimeter at 3-month intervals after ablation </plain></SENT>
+<SENT sid="4" pm="."><plain>Recurrence was defined as the appearance of any grade of <z:mpath ids='MPATH_589'>dysplasia</z:mpath> or <z:hpo ids='HP_0002664'>neoplasia</z:hpo> after 2 consecutive endoscopies without <z:mpath ids='MPATH_589'>dysplasia</z:mpath> </plain></SENT>
+<SENT sid="5" pm="."><plain>Entry histology, demographics, length of BE, presence and length of <z:hpo ids='HP_0000776'>diaphragmatic hernia</z:hpo>, EMR, stricture formation, <z:chebi fb="2" ids="35475">nonsteroidal anti-inflammatory drug</z:chebi> use, smoking, and the presence of nondysplastic BE or squamous epithelium were assessed for univariate associations </plain></SENT>
+<SENT sid="6" pm="."><plain>Time-to-recurrence analysis was done by using Cox proportional hazards regression </plain></SENT>
+<SENT sid="7" pm="."><plain>A multivariate model was constructed to establish independent associations with recurrence </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: A total of 363 patients underwent <z:chebi fb="7" ids="53228">PDT</z:chebi> with or without EMR </plain></SENT>
+<SENT sid="9" pm="."><plain>Of these, 261 patients were included in the final analysis (44 lost to follow-up, 46 had residual <z:mpath ids='MPATH_589'>dysplasia</z:mpath>, and 12 had no <z:mpath ids='MPATH_589'>dysplasia</z:mpath> at baseline) </plain></SENT>
+<SENT sid="10" pm="."><plain>Indication for ablation was low-grade <z:mpath ids='MPATH_589'>dysplasia</z:mpath> (53 patients, 20%), high-grade <z:mpath ids='MPATH_589'>dysplasia</z:mpath> (152 patients, 58%), and intramucosal <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> (56 patients, 21%) </plain></SENT>
+<SENT sid="11" pm="."><plain>Median follow-up was 36 months (interquartile range 18-79 months) </plain></SENT>
+<SENT sid="12" pm="."><plain>Recurrence occurred in 45 patients </plain></SENT>
+<SENT sid="13" pm="."><plain>Median time to recurrence was 17 months (interquartile range 8-45 months) </plain></SENT>
+<SENT sid="14" pm="."><plain>Significant predictors of recurrence on the multivariate model were older age (hazard ratio [HR] 1.04, P=.029), presence of residual nondysplastic BE (HR 2.88, P=.012), and a history of smoking (HR 2.68, P=.048) </plain></SENT>
+<SENT sid="15" pm="."><plain>LIMITATIONS: Possibility of missing prevalent <z:mpath ids='MPATH_589'>dysplasia</z:mpath> despite aggressive surveillance </plain></SENT>
+<SENT sid="16" pm="."><plain>CONCLUSION: Recurrence of <z:mpath ids='MPATH_589'>dysplasia</z:mpath>/<z:hpo ids='HP_0002664'>neoplasia</z:hpo> after <z:chebi fb="7" ids="53228">PDT</z:chebi> ablation is associated with advanced age, smoking, and residual BE </plain></SENT>
+</text></document>

@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Four children with <z:hpo ids='HP_0004810'>congenital hypoplastic anemia</z:hpo> (<z:e sem="disease" ids="C1260899" disease_type="Disease or Syndrome" abbrv="BDS">Diamond-Blackfan syndrome</z:e>) and 30 control children with <z:mpath ids='MPATH_458'>normal</z:mpath> erythropoiesis were studied by a cell culture method in which human marrow, grown in a plasma clot, responds to added erythropoietin (EPO) with the appearance of discrete colonies of nucleated erythroid cells </plain></SENT>
+<SENT sid="1" pm="."><plain>The colonies arise from EPO-responsive stem cells and are not related to the number of morphologically identifiable marrow erythroids plated </plain></SENT>
+<SENT sid="2" pm="."><plain>Results of studies on control marrow indicated that without EPO there was little or no colony formation </plain></SENT>
+<SENT sid="3" pm="."><plain>Increasing EPO doses or nucleated marrow cells per culture resulted in a linear increase in colony numbers </plain></SENT>
+<SENT sid="4" pm="."><plain>The optimal EPO concentration of 2.5 U/ml yielded a mean of 158 +/- 79 colonies/1 x 10(5) nucleated cells on day 7 of incubation </plain></SENT>
+<SENT sid="5" pm="."><plain>Even in the absence of recognizable erythroids, marrows of <z:hpo ids='HP_0000001'>all</z:hpo> four patients with <z:hpo ids='HP_0001903'>anemia</z:hpo> grew erythroid colonies </plain></SENT>
+<SENT sid="6" pm="."><plain>Two patients on no therapy had decreased colony numbers </plain></SENT>
+<SENT sid="7" pm="."><plain>The other two, on <z:chebi fb="0" ids="8382">prednisone</z:chebi>, had <z:mpath ids='MPATH_458'>normal</z:mpath> numbers </plain></SENT>
+<SENT sid="8" pm="."><plain>Sera from patients did not inhibit colony formation from either autologous or control marrow </plain></SENT>
+<SENT sid="9" pm="."><plain>In contrast, serum from an adult with acquired pure red cell <z:mpath ids='MPATH_58'>aplasia</z:mpath> produced striking inhibition of colony growth </plain></SENT>
+<SENT sid="10" pm="."><plain>It appears that the red cell failure in this disorder is not due to an absence of erythroid stem cells, and a serum inhibitor to erythropoiesis as seen in the <z:e sem="disease" ids="C0277564" disease_type="Disease or Syndrome" abbrv="">acquired disease</z:e> is unlikely </plain></SENT>
+</text></document>

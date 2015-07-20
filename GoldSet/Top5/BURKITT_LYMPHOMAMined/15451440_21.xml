@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Inhibitors of serine/threonine protein phosphatases can inhibit <z:mpath ids='MPATH_3'>apoptosis</z:mpath> </plain></SENT>
+<SENT sid="1" pm="."><plain>We investigated which protein phosphatases are critical for this protection using calyculin A, <z:chebi fb="0" ids="44658">okadaic acid</z:chebi>, and tautomycin </plain></SENT>
+<SENT sid="2" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> three phosphatase inhibitors prevented anisomycin-induced <z:mpath ids='MPATH_3'>apoptosis</z:mpath> in <z:hpo ids='HP_0001909'>leukemia</z:hpo> cell models </plain></SENT>
+<SENT sid="3" pm="."><plain>In vitro, calyculin A does not discriminate between PP1 and PP2A, while <z:chebi fb="0" ids="44658">okadaic acid</z:chebi> and tautomycin are more selective for PP2A and PP1, respectively </plain></SENT>
+<SENT sid="4" pm="."><plain>Increased phosphorylation of endogenous marker proteins was used to define concentrations that inhibited each phosphatase in cells </plain></SENT>
+<SENT sid="5" pm="."><plain>Concentrations of each inhibitor that prevented anisomycin-induced <z:mpath ids='MPATH_3'>apoptosis</z:mpath> correlated with inhibition of PP2A </plain></SENT>
+<SENT sid="6" pm="."><plain>The inhibitors prevented Bax translocation to mitochondria, indicating inhibition upstream of mitochondria </plain></SENT>
+<SENT sid="7" pm="."><plain>Tautomycin and calyculin A, but not <z:chebi fb="0" ids="44658">okadaic acid</z:chebi>, also prevented <z:mpath ids='MPATH_3'>apoptosis</z:mpath> induced through the CD95/Fas <z:hpo ids='HP_0011420'>death</z:hpo> receptor, and this protection correlated with inhibition of PP1 </plain></SENT>
+<SENT sid="8" pm="."><plain>The inhibitors prevented Fas receptor oligomerization, FADD recruitment, and caspase 8 activation </plain></SENT>
+<SENT sid="9" pm="."><plain>The differential effects of PP1 and PP2A in protection from <z:hpo ids='HP_0011420'>death</z:hpo> receptor and <z:hpo ids='HP_0001427'>mitochondrial</z:hpo>-mediated pathways of <z:hpo ids='HP_0011420'>death</z:hpo>, respectively, may help one to define critical steps in each pathway, and regulatory roles for serine/threonine phosphatases in <z:mpath ids='MPATH_3'>apoptosis</z:mpath> </plain></SENT>
+</text></document>

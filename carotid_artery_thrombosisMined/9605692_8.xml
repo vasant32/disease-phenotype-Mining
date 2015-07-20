@@ -1,0 +1,19 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: <z:chebi fb="2" ids="35475">Nonsteroidal anti-inflammatory drugs</z:chebi> (<z:chebi fb="1" ids="35475">NSAIDs</z:chebi>) may interfere with hemostasis during the perioperative period, and the combination of <z:chebi fb="1" ids="35475">NSAID</z:chebi> and enoxaparin could increase this effect </plain></SENT>
+<SENT sid="1" pm="."><plain>The aim of this prospective, blinded experimental study was to assess these effects using a model of <z:hpo ids='HP_0004420'>arterial thrombosis</z:hpo> and <z:mp ids='MP_0001914'>bleeding</z:mp> in the rabbit </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: After anesthesia was induced and monitors placed, the common carotid arteries were exposed, and 60% stenosis of the right common carotid artery was produced </plain></SENT>
+<SENT sid="3" pm="."><plain>Twenty minutes later, a compression injury of the artery was produced that triggered a series of cyclic episodes of <z:mp ids='MP_0005048'>thrombosis</z:mp> and clot lysis </plain></SENT>
+<SENT sid="4" pm="."><plain>This was manifested as cyclic flow reductions (CFR; measured with an electromagnetic flow meter) </plain></SENT>
+<SENT sid="5" pm="."><plain>After the first flow reduction was noted, the rabbits were immediately and randomly assigned to one of four groups (n = 10 each) that received intravenous infusions: control, ketorolac (2 mg/kg), enoxaparin (0.5 mg/kg), and ketorolac plus enoxaparin (2 mg/kg and 0.5 mg/kg, respectively) </plain></SENT>
+<SENT sid="6" pm="."><plain>The number of CFRs that occurred in the subsequent 20-min period was used as a measure of treatment effect </plain></SENT>
+<SENT sid="7" pm="."><plain>The contralateral common carotid artery was exposed, and both stenosis and injury were produced </plain></SENT>
+<SENT sid="8" pm="."><plain>The ability of the administered drug to prevent <z:mp ids='MP_0005048'>thrombosis</z:mp> was assessed as the number of CFRs that occurred during the first 20-min period after vessel injury </plain></SENT>
+<SENT sid="9" pm="."><plain>In addition, both before and after group assignment and drug injection, <z:mp ids='MP_0001914'>bleeding</z:mp> times were noted and a platelet aggregation test was performed </plain></SENT>
+<SENT sid="10" pm="."><plain>Laparotomy was followed by a spleen section, and the extent of the wound and the amount of splenic <z:mp ids='MP_0001914'>bleeding</z:mp> were measured </plain></SENT>
+<SENT sid="11" pm="."><plain>RESULTS: The treatment effect was indicated by the median number of CFRs, which was 5.5 in the control group, 1 in the ketorolac group, 2 in the enoxaparin group, and 0 in the ketorolac + enoxaparin group </plain></SENT>
+<SENT sid="12" pm="."><plain>The prevention effect was indicated by the median number of CFRs, which was 4 in the control group, 0 in the ketorolac group, 2 in the enoxaparin group, and 0.5 in the ketorolac + enoxaparin group </plain></SENT>
+<SENT sid="13" pm="."><plain><z:mp ids='MP_0001914'>Bleeding</z:mp> time was significantly lengthened in the enoxaparin and in the ketorolac + enoxaparin groups </plain></SENT>
+<SENT sid="14" pm="."><plain>Splenic and wound <z:mp ids='MP_0001914'>bleeding</z:mp> was greater in the ketorolac group </plain></SENT>
+<SENT sid="15" pm="."><plain>Platelet aggregation was completely inhibited in the ketorolac and the ketorolac + enoxaparin groups </plain></SENT>
+<SENT sid="16" pm="."><plain>CONCLUSIONS: Ketorolac had an important antithrombotic activity </plain></SENT>
+<SENT sid="17" pm="."><plain>The association of enoxaparin with ketorolac seemed to lengthen the <z:mp ids='MP_0001914'>bleeding</z:mp> time observed with ketorolac </plain></SENT>
+</text></document>

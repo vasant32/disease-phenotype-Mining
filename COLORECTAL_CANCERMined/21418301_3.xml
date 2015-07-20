@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND AIM: Oridonin is the active ingredient isolated from the Chinese herb Rabdosia rubescens </plain></SENT>
+<SENT sid="1" pm="."><plain>We used both in vivo and in vitro approaches to elucidate the underlying mechanism of the oridonin-mediated inhibition of <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: Two colorectal cell lines, Lovo and SW480, were treated with oridonin in solution </plain></SENT>
+<SENT sid="3" pm="."><plain>The effect of this treatment on the inhibition of the cell proliferation rate was determined by the <z:chebi fb="0" ids="53233">3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide</z:chebi> method </plain></SENT>
+<SENT sid="4" pm="."><plain>The changes in gene expression that occurred in both cell lines in response to treatment with oridonin were determined via an illumine expression sensor </plain></SENT>
+<SENT sid="5" pm="."><plain>Additionally, a <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> colostomy implantation model was established </plain></SENT>
+<SENT sid="6" pm="."><plain>Animals were injected intraperitoneally with an oridonin solution </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: The treatment of Lovo and SW480 cells with oridonin inhibited cell proliferation in a dose-dependent manner </plain></SENT>
+<SENT sid="8" pm="."><plain>Furthermore, the rate of inhibition increased with prolonged treatment </plain></SENT>
+<SENT sid="9" pm="."><plain>The growth rate of the <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> colostomy implantation model was significantly lower than control cells when treated with oridonin (P&lt;0.001), which meant that oridonin treatment had a significant effect on the <z:e sem="disease" ids="C0598934" disease_type="Neoplastic Process" abbrv="">tumor growth</z:e> rate </plain></SENT>
+<SENT sid="10" pm="."><plain>In the <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> model, activator protein-1 (AP-1) was the only gene found to be downregulated after oridonin treatment by the gene expression sensor </plain></SENT>
+<SENT sid="11" pm="."><plain>After 4 weeks of treatment, AP-1, nuclear factor-κB (NF-κB) and P38 were <z:hpo ids='HP_0000001'>all</z:hpo> found to be downregulated </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: Our study confirmed the inhibitory effects of oridonin on <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> </plain></SENT>
+<SENT sid="13" pm="."><plain>These results indicate that the downregulation of AP-1 might be an initial response to treatment by oridonin </plain></SENT>
+<SENT sid="14" pm="."><plain>This regulation could, in turn, affect the expression of the NF-κB and <z:chebi fb="0" ids="52290">mitogen</z:chebi>-activated protein kinase pathways, thereby inhibiting <z:e sem="disease" ids="C0598934" disease_type="Neoplastic Process" abbrv="">tumor growth</z:e> </plain></SENT>
+</text></document>

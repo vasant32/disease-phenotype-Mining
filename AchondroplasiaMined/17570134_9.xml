@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Mutations in cartilage oligomeric matrix protein (COMP) produce clinical phenotypes ranging from the severe end of the spectrum, <z:e sem="disease" ids="C0410538" disease_type="Disease or Syndrome" abbrv="PSACH">pseudoachondroplasia</z:e> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">PSACH</z:e>), which is a dwarfing condition, to a mild condition, <z:hpo ids='HP_0002654'>multiple epiphyseal dysplasia</z:hpo> (MED) </plain></SENT>
+<SENT sid="1" pm="."><plain>Patient chondrocytes have a unique <z:mp ids='MP_0000002'>morphology</z:mp> characterized by distended rER cisternae containing lamellar deposits of COMP and other extracellular matrix proteins </plain></SENT>
+<SENT sid="2" pm="."><plain>It has been difficult to determine why different mutations give rise to variable clinical phenotypes </plain></SENT>
+<SENT sid="3" pm="."><plain>Using our in vitro cell system, we previously demonstrated that the most common <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">PSACH</z:e> mutation, D469del, severely impedes trafficking of COMP and type IX collagen in chondrocytic cells, consistent with observations from patient cells </plain></SENT>
+<SENT sid="4" pm="."><plain>Here, we hypothesize that <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">PSACH</z:e> and MED mutations variably affect the cellular trafficking behavior of COMP and that the extent of defective trafficking correlates with clinical phenotype </plain></SENT>
+<SENT sid="5" pm="."><plain>Twelve different recombinant COMP mutations were expressed in rat <z:hpo ids='HP_0006765'>chondrosarcoma</z:hpo> cells and the percent cells with ER-retained COMP was assessed </plain></SENT>
+<SENT sid="6" pm="."><plain>For mutations in type 3 (T3) repeats, trafficking defects correlated with clinical phenotype; <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">PSACH</z:e> mutations had more cells retaining mutant COMP, while MED mutations had fewer </plain></SENT>
+<SENT sid="7" pm="."><plain>In contrast, the cellular trafficking pattern observed for mutations in the C-terminal globular domain (CTD) was not predictive of clinical phenotype </plain></SENT>
+<SENT sid="8" pm="."><plain>The results demonstrate that different COMP mutations in the T3 repeat domain have variable effects on intracellular transport, which correlate with clinical severity, while CTD mutations do not show such a correlation </plain></SENT>
+<SENT sid="9" pm="."><plain>These findings suggest that other unidentified factors contribute to the effect of the CTD mutations </plain></SENT>
+<SENT sid="10" pm="."><plain>J </plain></SENT>
+<SENT sid="11" pm="."><plain>Cell </plain></SENT>
+<SENT sid="12" pm="."><plain>Biochem </plain></SENT>
+<SENT sid="13" pm="."><plain>103: 778-787, 2008 </plain></SENT>
+<SENT sid="14" pm="."><plain>(c) 2007 Wiley-Liss, Inc </plain></SENT>
+</text></document>

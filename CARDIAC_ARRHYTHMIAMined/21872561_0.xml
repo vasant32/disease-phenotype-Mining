@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Identification of the site of successful radiofrequency catheter ablation (RFCA) for <z:e sem="disease" ids="C0043202" disease_type="Disease or Syndrome" abbrv="wpw">Wolff-Parkinson-White (WPW) syndrome</z:e> may be subjective </plain></SENT>
+<SENT sid="1" pm="."><plain>OBJECTIVE: The purpose of this study was to develop an automated signal analysis program to predict a successful ablation site </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: Patients who underwent successful RFCA for WPW from 2008- 2010 at our center were analyzed </plain></SENT>
+<SENT sid="3" pm="."><plain>Inclusion criteria were age &lt;21 years, loss of <z:hpo ids='HP_0004309'>preexcitation</z:hpo> in &lt;5 seconds, and sustained success at 3 months </plain></SENT>
+<SENT sid="4" pm="."><plain>Exclusion criteria were <z:hpo ids='HP_0002564'>congenital heart disease</z:hpo> and pacing during RFCA </plain></SENT>
+<SENT sid="5" pm="."><plain>The standard recording system signal was filtered into low frequency (LF 0-≤0.02 Hz) and high frequency (HF &gt;0.02-≤0.45 Hz) </plain></SENT>
+<SENT sid="6" pm="."><plain>Software identified the beginning of the HF signal, LF and R-wave peaks, LF/HF signal amplitude, and area under the HF/LF signals </plain></SENT>
+<SENT sid="7" pm="."><plain>Successful and unsuccessful (radiofrequency energy applied without accessory pathway block) signals were compared </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: Thirty patients were analyzed; 16 had both successful and unsuccessful signals, and 14 had a successful ablation with 1 radiofrequency application </plain></SENT>
+<SENT sid="9" pm="."><plain>Mean age was 13.7 ± 3.1 years, weight 54.9 ± 22.4 kg, and time to accessory pathway ablation 1.7 ± 1.4 seconds </plain></SENT>
+<SENT sid="10" pm="."><plain>Significant differences were found between successful and unsuccessful signals in area under HF signal, LF amplitude, LF to R time, HF ratio, and HF area × HF ratio </plain></SENT>
+<SENT sid="11" pm="."><plain>A receiver operating curve of HF area × HF ratio produced an area under the curve of 0.89 </plain></SENT>
+<SENT sid="12" pm="."><plain>An HF area × HF ratio of 3.1 distinguished successful from unsuccessful signals with 100% specificity and 81% sensitivity </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSION: Automated signal analysis retrospectively differentiated successful from unsuccessful signals in patients undergoing RFCA for WPW </plain></SENT>
+<SENT sid="14" pm="."><plain>This software may improve the safety and efficacy of RFCA in children </plain></SENT>
+</text></document>

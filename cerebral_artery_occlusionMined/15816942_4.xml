@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PURPOSE: <z:hpo ids='HP_0002133'>Status epilepticus</z:hpo> (SE) commonly occurs in children, whereas <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> is the most frequent neurologic insult in adults </plain></SENT>
+<SENT sid="1" pm="."><plain>The purpose of this study was to determine the effect of SE induced in immature (15 days old; PN15) male rats, on susceptibility to subsequent transient focal <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> induced in adulthood </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: SE was induced by flurothyl <z:chebi fb="91" ids="25698">ether</z:chebi> (FE) or <z:chebi fb="0" ids="31746">kainic acid</z:chebi> (KA) </plain></SENT>
+<SENT sid="3" pm="."><plain>Rats that did not develop <z:hpo ids='HP_0001250'>seizures</z:hpo> after FE or KA served as controls </plain></SENT>
+<SENT sid="4" pm="."><plain>Five weeks later, the now-adult rats were subjected to middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (MCAo) for 1 or 2 h by using the intraluminal filament technique </plain></SENT>
+<SENT sid="5" pm="."><plain>The extent of the <z:mpath ids='MPATH_124'>infarct</z:mpath> volume was evaluated 24 h later </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: In rats submitted to 1-h-long FE-SE, the volume of infarction was significantly reduced compared with that in rats exposed to FE without SE </plain></SENT>
+<SENT sid="7" pm="."><plain>Longer duration of FE-SE was acutely lethal </plain></SENT>
+<SENT sid="8" pm="."><plain>KA-SE induced prolonged behavioral SE (156 +/- 17.5 min) </plain></SENT>
+<SENT sid="9" pm="."><plain>In these rats, the volume of infarction was significantly larger compared with that in rats that did not show any electrographic <z:hpo ids='HP_0001250'>seizures</z:hpo> after KA administration </plain></SENT>
+<SENT sid="10" pm="."><plain>Comparison of FE and KA groups revealed that differences in the size of infarction were confined into cortical areas served by the <z:chebi fb="70" ids="34342">MCA</z:chebi> </plain></SENT>
+<SENT sid="11" pm="."><plain>Neither type of SE induced any obvious histologic changes in these neocortical regions before <z:hpo ids='HP_0001297'>stroke</z:hpo> induction </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: Early in life, SE can influence the outcome of a subsequent focal ischemic insult in adulthood </plain></SENT>
+<SENT sid="13" pm="."><plain>The extent of the <z:mpath ids='MPATH_124'>infarct</z:mpath> is related to the duration and cause of SE </plain></SENT>
+<SENT sid="14" pm="."><plain>Prolonged SE induced by KA worsens the outcome, whereas FE-SE has a neuroprotective effect </plain></SENT>
+</text></document>

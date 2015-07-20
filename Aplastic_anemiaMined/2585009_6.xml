@@ -1,0 +1,7 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>In case-control studies of adverse drug effects there is rarely much evidence to support the assumption that the hazard function among users is constant during therapy </plain></SENT>
+<SENT sid="1" pm="."><plain>Nonetheless, this assumption is often implicitly made </plain></SENT>
+<SENT sid="2" pm="."><plain>We will use both clinical reasoning and a simple model to show how non-constancy of the hazard function affects odds ratio interpretation </plain></SENT>
+<SENT sid="3" pm="."><plain>When the hazard function is non-constant and there is more than one temporal pattern of <z:e sem="disease" ids="C0242510" disease_type="Mental or Behavioral Dysfunction" abbrv="">drug usage</z:e>, the odds ratio will estimate a weighted mean of incidence ratios with weights dependent on the corresponding fractions of person-time </plain></SENT>
+<SENT sid="4" pm="."><plain>If the duration-specific incidence ratios differ widely, the odds ratio will depend not only on the drug but also on its usage pattern in the study population </plain></SENT>
+<SENT sid="5" pm="."><plain>This may explain some of the large regional odds ratio variation for dipyrone-related <z:mp ids='MP_0000334'>agranulocytosis</z:mp> in the International <z:mp ids='MP_0000334'>Agranulocytosis</z:mp> and <z:hpo ids='HP_0001915'>Aplastic Anemia</z:hpo> Study (JAMA 1986; 256: 1749-1757 </plain></SENT>
+</text></document>

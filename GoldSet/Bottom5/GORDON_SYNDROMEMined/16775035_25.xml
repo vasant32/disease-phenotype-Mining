@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The WNK (with no lysine kinase) kinases are a novel class of serine/threonine kinases that lack a characteristic <z:chebi fb="0" ids="32568">lysine residue</z:chebi> for ATP docking </plain></SENT>
+<SENT sid="1" pm="."><plain>Both WNK1 and WNK4 are expressed in the mammalian kidney, and mutations in either can cause the rare familial syndrome of <z:hpo ids='HP_0000822'>hypertension</z:hpo> and <z:hpo ids='HP_0002153'>hyperkalemia</z:hpo> (Gordon syndrome, or <z:hpo ids='HP_0008242'>pseudohypoaldosteronism</z:hpo> type 2) </plain></SENT>
+<SENT sid="2" pm="."><plain>The molecular basis for the action of WNK4 is through alteration in the membrane expression of the <z:chebi fb="1" ids="26710">NaCl</z:chebi> co-transporter (NCCT) and the renal outer-medullary K channel KCNJ1 (ROMK) </plain></SENT>
+<SENT sid="3" pm="."><plain>The actions of WNK1 are less well defined, and evidence to date suggests that it can affect NCCT expression but only in the presence of WNK4 </plain></SENT>
+<SENT sid="4" pm="."><plain>The results of co-expressing WNK1 with ROMK in Xenopus oocytes are reported for the first time </plain></SENT>
+<SENT sid="5" pm="."><plain>These studies show that WNK1 is able to suppress total current directly through ROMK by causing a marked reduction in its surface expression </plain></SENT>
+<SENT sid="6" pm="."><plain>The effect is mimicked by a kinase-dead mutant of WNK1 (368D &gt; A), suggesting that it is not dependent on its catalytic activity </plain></SENT>
+<SENT sid="7" pm="."><plain>Study of the time course of ROMK expression further suggests that WNK1 accelerates trafficking of ROMK from the membrane, and this effect seems to be dynamin dependent </plain></SENT>
+<SENT sid="8" pm="."><plain>Using fragments of full-length WNK1, it also is shown that the effect depends on residues in the middle section of the protein (502 to 1100 WNK1) that contains the acidic motif </plain></SENT>
+<SENT sid="9" pm="."><plain>Together, these findings emphasize that the molecular mechanisms that underpin WNK1 regulation of ROMK expression are distinct from those that affect NCCT expression </plain></SENT>
+</text></document>

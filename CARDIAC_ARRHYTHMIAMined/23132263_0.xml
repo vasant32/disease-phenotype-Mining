@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Renin and <z:chebi fb="0" ids="27584,30834">aldosterone</z:chebi> are involved in an organ perfusion pathway that may be an estimate of disease severity </plain></SENT>
+<SENT sid="1" pm="."><plain>The primary objective was to explore the relationship between outcome and <z:chebi fb="0" ids="27584,30834">aldosterone</z:chebi> and renin levels at medical intensive care unit (MICU) admissions in comparison to SAPS II scores </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: This retrospective study was conducted on patients admitted to the adult MICU during 12 months </plain></SENT>
+<SENT sid="3" pm="."><plain>Exclusion: subjects with <z:chebi fb="0" ids="16737">creatinine</z:chebi> &gt;176 mmol/l, <z:hpo ids='HP_0011010'>chronic</z:hpo> <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> and <z:chebi fb="2" ids="35457">ACE-inhibitor</z:chebi> therapy </plain></SENT>
+<SENT sid="4" pm="."><plain>Admission <z:chebi fb="0" ids="27584,30834">aldosterone</z:chebi> and renin plasma levels were measured and SAPS II scores were calculated </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULS: Eighty-two patients were included </plain></SENT>
+<SENT sid="6" pm="."><plain>Only the plasma renin median concentration difference between survivors and non-survivors was significant (P=0.0168) </plain></SENT>
+<SENT sid="7" pm="."><plain>The area under the ROC curve for mortality and plasma renin concentration was similar to that of SAPS II </plain></SENT>
+<SENT sid="8" pm="."><plain>The correlation between mortality and renin &gt;84 pg/mL showed an odds ratio of 5.78±3.45, P=0.003 </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSION: Renin was correlated to outcome in <z:e sem="disease" ids="C0010340" disease_type="Disease or Syndrome" abbrv="">critically ill</z:e> medical patients </plain></SENT>
+</text></document>

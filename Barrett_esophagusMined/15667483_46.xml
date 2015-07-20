@@ -1,0 +1,21 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Ambulatory pH monitoring while on therapy is often recommended in <z:hpo ids='HP_0002020'>gastroesophageal reflux disease</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">GERD</z:e>) patients with continued symptoms </plain></SENT>
+<SENT sid="1" pm="."><plain>However, to date, little data exist to justify this indication </plain></SENT>
+<SENT sid="2" pm="."><plain>AIM: To assess the role of pH monitoring in symptomatic patients despite aggressive therapy with typical or extra esophageal <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">GERD</z:e> </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: Retrospective review of 2,291 ambulatory pH tracings (1999-2003) identified subgroup of studies performed on <z:chebi fb="0" ids="49200">proton pump inhibitor</z:chebi> (<z:chebi fb="4" ids="53266">PPI</z:chebi>) therapy </plain></SENT>
+<SENT sid="4" pm="."><plain>Patients with prior fundoplication or <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> were excluded </plain></SENT>
+<SENT sid="5" pm="."><plain>Patients grouped on predominant presenting <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">GERD</z:e> symptoms: typical (heartburn and regurgitation) or extra esophageal (<z:hpo ids='HP_0100749'>chest pain</z:hpo>, cough, <z:hpo ids='HP_0001609'>hoarseness</z:hpo>, sore throat, <z:mp ids='MP_0001954'>shortness of breath</z:mp>, <z:hpo ids='HP_0002099'>asthma</z:hpo>) </plain></SENT>
+<SENT sid="6" pm="."><plain>The distribution of abnormal pH parameters in each group calculated and univariate analyses assessed the probability of abnormal pH in each group </plain></SENT>
+<SENT sid="7" pm="."><plain>Abnormal cutoff values traditionally used in clinical practice and more stringent cutoff values used to determine distribution of abnormality as a function of cutoff values </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: A total of 250 patients (mean age 54.3 yrs, 59% female) underwent pH monitoring on either daily (b.i.d.) or twice daily (q.d.) on <z:chebi fb="4" ids="53266">PPI</z:chebi> therapy: 115 (46%) with extra esophageal and 135 (54%) with typical <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">GERD</z:e> symptoms </plain></SENT>
+<SENT sid="9" pm="."><plain>Extra esophageal <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">GERD</z:e> patients were more likely to undergo pH monitoring on b.i.d </plain></SENT>
+<SENT sid="10" pm="."><plain><z:chebi fb="4" ids="53266">PPIs</z:chebi> (OR = 2.7; 95% CI = 1.6-4.4; p &lt; 0.01) </plain></SENT>
+<SENT sid="11" pm="."><plain>52 (93%) of typical and 74 (99%) of extra esophageal <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">GERD</z:e> patients on b.i.d </plain></SENT>
+<SENT sid="12" pm="."><plain><z:chebi fb="4" ids="53266">PPIs</z:chebi> tested <z:mpath ids='MPATH_458'>normal</z:mpath> </plain></SENT>
+<SENT sid="13" pm="."><plain>The odds of a <z:mpath ids='MPATH_458'>normal</z:mpath> pH values were 11 times higher for patients on b.i.d </plain></SENT>
+<SENT sid="14" pm="."><plain><z:chebi fb="4" ids="53266">PPIs</z:chebi> (OR = 11.4; 95% CI = 4.3-30.1, p &lt; 0.01) than those on q.d </plain></SENT>
+<SENT sid="15" pm="."><plain><z:chebi fb="4" ids="53266">PPIs</z:chebi> </plain></SENT>
+<SENT sid="16" pm="."><plain>CONCLUSIONS: 1) The likelihood of an abnormal esophageal pH for symptomatic <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">GERD</z:e> patients on b.i.d </plain></SENT>
+<SENT sid="17" pm="."><plain><z:chebi fb="4" ids="53266">PPI</z:chebi> is very small </plain></SENT>
+<SENT sid="18" pm="."><plain>2) In this group of patients failing b.i.d </plain></SENT>
+<SENT sid="19" pm="."><plain><z:chebi fb="4" ids="53266">PPIs</z:chebi> causes other than <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">GERD</z:e> should be sought </plain></SENT>
+</text></document>

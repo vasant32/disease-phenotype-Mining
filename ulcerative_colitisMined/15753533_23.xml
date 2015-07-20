@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>INTRODUCTION: Soluble cytokine receptors (sCRs) modulate the in vivo activity of cytokines </plain></SENT>
+<SENT sid="1" pm="."><plain>Deficient sCR production could participate in the pathogenesis and course of <z:hpo ids='HP_0100280'>Crohn's disease</z:hpo> (CD) </plain></SENT>
+<SENT sid="2" pm="."><plain>The aim of the study was to examine the profile of sCRs in CD patients and their modulation by infliximab and <z:chebi fb="0" ids="50858">corticosteroids</z:chebi> </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: We prospectively examined active CD patients (aCD) treated with either infliximab (n = 21) or <z:chebi fb="0" ids="50858">corticosteroids</z:chebi> (n = 9), CD patients in clinical remission (rCD, n = 20), <z:hpo ids='HP_0100279'>ulcerative colitis</z:hpo> patients (UC, n = 24), and healthy subjects (HS, n = 15) </plain></SENT>
+<SENT sid="4" pm="."><plain>Cultures of colonic biopsies were also examined from CD inflamed (n = 8), CD non-inflamed (n = 7), and healthy mucosa (n = 8) </plain></SENT>
+<SENT sid="5" pm="."><plain>Levels of <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumour</z:e> <z:mp ids='MP_0001651'>necrosis</z:mp> factor alpha (TNF-alpha), soluble TNF receptor I (sTNFRI), soluble TNF receptor II (sTNFRII), interleukin 1beta (IL-1beta), soluble IL-1 receptor I (sIL-1RI), soluble IL-1 receptor II (sIL-1RII), IL-6, soluble IL-6 receptor (sIL-6R), and sgp130 were measured using ELISA </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: Higher levels of sTNFRI (p&lt;0.05, p&lt;0.01), sTNFRII (p&lt;0.01, p&lt;0.01), sIL-1RI (p&lt;0.05, NS), IL-6 (p&lt;0.01, p&lt;0.01), and sIL-6R (p&lt;0.05, NS) were observed in aCD compared with rCD and HS </plain></SENT>
+<SENT sid="7" pm="."><plain>Interestingly, sIL-1RII (p&lt;0.05, p&lt;0.01) and sgp130 (p&lt;0.01, p&lt;0.01) were profoundly decreased in aCD compared with rCD and HS, and were negatively correlated with CRP </plain></SENT>
+<SENT sid="8" pm="."><plain>Deficient production of sIL-1RII was specific to CD (not observed in <z:hpo ids='HP_0100279'>ulcerative colitis</z:hpo>), and was further confirmed at the mucosal level </plain></SENT>
+<SENT sid="9" pm="."><plain>Infliximab decreased sTNFRII at one and four weeks (p&lt;0.05) and enhanced sIL-6R levels at one week (p&lt;0.05) </plain></SENT>
+<SENT sid="10" pm="."><plain><z:chebi fb="0" ids="50858">Corticosteroids</z:chebi> increased sIL-1RII levels at one week (p&lt;0.05) </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSION: CD is associated with dysregulated production of sCRs </plain></SENT>
+<SENT sid="12" pm="."><plain>Deficiency in sIL-1RII and sgp130 may be essential to CD pathogenesis </plain></SENT>
+<SENT sid="13" pm="."><plain>Their replacement through the use of fusion proteins could represent future alternative therapeutic strategies for CD </plain></SENT>
+</text></document>

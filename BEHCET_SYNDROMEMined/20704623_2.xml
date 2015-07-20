@@ -1,0 +1,22 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Genital aphthous <z:mpath ids='MPATH_579'>ulcers</z:mpath> of <z:e sem="disease" ids="C0004943" disease_type="Disease or Syndrome" abbrv="">Behcet's disease</z:e> (BD) are painful and usually resistant to local treatments </plain></SENT>
+<SENT sid="1" pm="."><plain>Pimecrolimus is an ascomycin macrolactam, used in inflammatory <z:e sem="disease" ids="C0037274" disease_type="Disease or Syndrome" abbrv="">skin diseases</z:e> </plain></SENT>
+<SENT sid="2" pm="."><plain>OBJECTIVE: To discover if pimecrolimus can accelerate the healing of BD genital aphthous <z:mpath ids='MPATH_579'>ulcers</z:mpath> </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: Ninety patients with genital aphthous <z:mpath ids='MPATH_579'>ulcers</z:mpath> were enrolled </plain></SENT>
+<SENT sid="4" pm="."><plain>Only patients treated with <z:chebi fb="0" ids="23359">colchicine</z:chebi> alone were selected </plain></SENT>
+<SENT sid="5" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> patients signed a written consent form </plain></SENT>
+<SENT sid="6" pm="."><plain>Patients were randomly assigned to pimecrolimus or placebo cream, applied twice daily for 1 week </plain></SENT>
+<SENT sid="7" pm="."><plain>The primary outcome was the healing period </plain></SENT>
+<SENT sid="8" pm="."><plain>Up to 7 days, it was considered as a positive result </plain></SENT>
+<SENT sid="9" pm="."><plain>Results were compared by chi-square test </plain></SENT>
+<SENT sid="10" pm="."><plain>The mean healing time was compared by analysis of variance </plain></SENT>
+<SENT sid="11" pm="."><plain>Analyses were done both by the 'intention-to-treat' and 'treatment-completed' methods </plain></SENT>
+<SENT sid="12" pm="."><plain>RESULTS: Both groups were similar at the entry (gender, age, <z:mpath ids='MPATH_579'>ulcer</z:mpath> size, pain intensity and treatment delay) </plain></SENT>
+<SENT sid="13" pm="."><plain>By intention-to-treat analysis, in the pimecrolimus group, 18 patients had positive and 27 negative results </plain></SENT>
+<SENT sid="14" pm="."><plain>In the control group, four had positive and 41 negative results </plain></SENT>
+<SENT sid="15" pm="."><plain>The difference was significant (chi(2) = 10.167, P = 0.001) </plain></SENT>
+<SENT sid="16" pm="."><plain>By treatment-completed analysis, with pimecrolimus, 18 patients had positive and 22 negative results </plain></SENT>
+<SENT sid="17" pm="."><plain>With placebo, four had positive, and 41 negative results </plain></SENT>
+<SENT sid="18" pm="."><plain>The difference was significant (chi(2) = 12.574, P = 0.0004) </plain></SENT>
+<SENT sid="19" pm="."><plain>Comparison of mean healing time in the pimecrolimus versus placebo group, demonstrated a significant acceleration both in intention-to-treat analysis (10.7 vs. 20.7 days, F = 17.466, P &lt; 0.0001) and treatment-completed analysis (8.3 vs. 20.7 days, F = 29.289, P &lt; 0.0001) </plain></SENT>
+<SENT sid="20" pm="."><plain>CONCLUSION: Pimecrolimus is safe and efficient in the treatment of BD <z:hpo ids='HP_0003249'>genital ulcers</z:hpo>, by accelerating the healing process </plain></SENT>
+</text></document>

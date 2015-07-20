@@ -1,0 +1,28 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The high-frequency oscillatory pattern of insulin release is disturbed in type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="1" pm="."><plain>Although <z:chebi fb="0" ids="26831">sulfonylurea</z:chebi> drugs are widely used for the treatment of this disease, their effect on insulin release patterns is not well established </plain></SENT>
+<SENT sid="2" pm="."><plain>The aim of the present study was to assess the impact of <z:hpo ids='HP_0011009'>acute</z:hpo> treatment and 5 weeks of <z:chebi fb="0" ids="26831">sulfonylurea</z:chebi> (<z:chebi fb="0" ids="31654">gliclazide</z:chebi>) treatment on insulin secretory dynamics in type 2 diabetic patients </plain></SENT>
+<SENT sid="3" pm="."><plain>To this end, 10 patients with type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> (age 53 +/- 2 years, BMI 27.5 +/- 1.1 kg/m(2), fasting plasma <z:chebi fb="105" ids="17234">glucose</z:chebi> 9.8 +/- 0.8 mmol/l, HbA(1c) 7.5 +/- 0.3%) were studied in a double-blind placebo-controlled prospective crossover design </plain></SENT>
+<SENT sid="4" pm="."><plain>Patients received 40-80 mg <z:chebi fb="0" ids="31654">gliclazide</z:chebi>/placebo twice daily for 5 weeks with a 6-week washout period intervening </plain></SENT>
+<SENT sid="5" pm="."><plain>Insulin pulsatility was assessed by 1-min interval blood sampling for 75 min 1) under baseline conditions (baseline), 2) 3 h after the first dose (80 mg) of <z:chebi fb="0" ids="31654">gliclazide</z:chebi> (<z:hpo ids='HP_0011009'>acute</z:hpo>) with the plasma <z:chebi fb="105" ids="17234">glucose</z:chebi> concentration clamped at the baseline value, 3) after 5 weeks of treatment (5 weeks), and 4) after 5 weeks of treatment with the plasma <z:chebi fb="105" ids="17234">glucose</z:chebi> concentration clamped during the sampling at the value of the baseline assessment (5 weeks-elevated) </plain></SENT>
+<SENT sid="6" pm="."><plain>Serum insulin concentration time series were analyzed by deconvolution, approximate entropy (ApEn), and spectral and autocorrelation methods to quantitate pulsatility and regularity </plain></SENT>
+<SENT sid="7" pm="."><plain>The P values given are <z:chebi fb="0" ids="31654">gliclazide</z:chebi> versus placebo; results are means +/- SE </plain></SENT>
+<SENT sid="8" pm="."><plain>Fasting plasma <z:chebi fb="105" ids="17234">glucose</z:chebi> was reduced after <z:chebi fb="0" ids="31654">gliclazide</z:chebi> treatment (baseline vs. 5 weeks: <z:chebi fb="0" ids="31654">gliclazide</z:chebi>, 10.0 +/- 0.9 vs. 7.8 +/- 0.6 mmol/l; placebo, 10.0 +/- 0.8 vs. 11.0 +/- 0.9 mmol/l, P = 0.001) </plain></SENT>
+<SENT sid="9" pm="."><plain>Insulin secretory burst mass was increased (baseline vs. <z:hpo ids='HP_0011009'>acute</z:hpo>: <z:chebi fb="0" ids="31654">gliclazide</z:chebi>, 43.0 +/- 12.0 vs. 61.0 +/- 17.0 pmol </plain></SENT>
+<SENT sid="10" pm="."><plain>l(-1) </plain></SENT>
+<SENT sid="11" pm="."><plain>pulse(-1); placebo, 36.1 +/- 8.4 vs. 30.3 +/- 7.4 pmol </plain></SENT>
+<SENT sid="12" pm="."><plain>l(-1) </plain></SENT>
+<SENT sid="13" pm="."><plain>pulse(-1), P = 0.047; 5 weeks-elevated: <z:chebi fb="0" ids="31654">gliclazide</z:chebi> vs. placebo, 49.7 +/- 13.3 vs. 37.1 +/- 9.5 pmol </plain></SENT>
+<SENT sid="14" pm="."><plain>l(-1) </plain></SENT>
+<SENT sid="15" pm="."><plain>pulse(-1), P &lt; 0.05) with a similar rise in burst amplitude </plain></SENT>
+<SENT sid="16" pm="."><plain>Basal (i.e., nonoscillatory) insulin secretion also increased (baseline vs. <z:hpo ids='HP_0011009'>acute</z:hpo>: <z:chebi fb="0" ids="31654">gliclazide</z:chebi>, 8.5 +/- 2.2 vs. 16.7 +/- 4.3 pmol </plain></SENT>
+<SENT sid="17" pm="."><plain>l(-1) </plain></SENT>
+<SENT sid="18" pm="."><plain>pulse(-1); placebo, 5.9 +/- 0.9 vs. 7.2 +/- 0.9 pmol </plain></SENT>
+<SENT sid="19" pm="."><plain>l(-1) </plain></SENT>
+<SENT sid="20" pm="."><plain>pulse(-1), P = 0.03; 5 weeks-elevated: <z:chebi fb="0" ids="31654">gliclazide</z:chebi> vs. placebo, 12.2 +/- 2.5 vs. 9.4 +/- 2.1 pmol </plain></SENT>
+<SENT sid="21" pm="."><plain>l(-1) </plain></SENT>
+<SENT sid="22" pm="."><plain>pulse(-1), P = 0.016) </plain></SENT>
+<SENT sid="23" pm="."><plain>The frequency and regularity of insulin pulses were not modified significantly by the <z:chebi fb="0" ids="35526">antidiabetic</z:chebi> therapy </plain></SENT>
+<SENT sid="24" pm="."><plain>There was, however, a correlation between individual values for the <z:hpo ids='HP_0011009'>acute</z:hpo> improvement of regularity, as measured by ApEn, and the decrease in fasting plasma <z:chebi fb="105" ids="17234">glucose</z:chebi> during short-term (5-week) <z:chebi fb="0" ids="31654">gliclazide</z:chebi> treatment (r = 0.74, P = 0.014, and r = 0.77, P = 0.009, for fine and coarse ApEn, respectively) </plain></SENT>
+<SENT sid="25" pm="."><plain>In conclusion, the <z:chebi fb="0" ids="26831">sulfonylurea</z:chebi> agent <z:chebi fb="0" ids="31654">gliclazide</z:chebi> augments insulin secretion by concurrently increasing pulse mass and basal insulin secretion without changing secretory burst frequency or regularity </plain></SENT>
+<SENT sid="26" pm="."><plain>The data suggest a possible relationship between the improvement in short-term glycemic control and the <z:hpo ids='HP_0011009'>acute</z:hpo> improvement of regularity of the in vivo insulin release process </plain></SENT>
+</text></document>

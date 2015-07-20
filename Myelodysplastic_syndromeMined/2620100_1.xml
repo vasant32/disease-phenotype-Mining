@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>An expert system is described that includes interpretation of the results from a complete blood count as well as data from bone marrow <z:hpo ids='HP_0002835'>aspiration</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>The system utilizes Bayes' rule </plain></SENT>
+<SENT sid="2" pm="."><plain>It has previously been tested on 180 cases of <z:hpo ids='HP_0001903'>anemia</z:hpo> including 20 benign and malignant <z:e sem="disease" ids="C1521860" disease_type="Disease or Syndrome" abbrv="">hematologic disorders</z:e> </plain></SENT>
+<SENT sid="3" pm="."><plain>On the data set, the system achieved 84% satisfactory diagnoses </plain></SENT>
+<SENT sid="4" pm="."><plain>In the present study, patients with <z:hpo ids='HP_0002863'>myelodysplastic syndromes</z:hpo> and with disorders of <z:chebi fb="4" ids="30413">heme</z:chebi> synthesis have been added to the test cases </plain></SENT>
+<SENT sid="5" pm="."><plain>For support, the expert system requires an <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">IBM</z:e> Personal Computer or equivalent </plain></SENT>
+<SENT sid="6" pm="."><plain>The program is available commercially (Coulter Electronics, Hialeah, FL) </plain></SENT>
+</text></document>

@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Recent studies have suggested that the <z:e sem="disease" ids="C0024138,C0024141,C0024131,C0409974" disease_type="Disease or Syndrome" abbrv="">lupus</z:e> <z:chebi fb="3" ids="50249">anticoagulant</z:chebi> (LA) may be specific for prothrombin, prothrombin-<z:chebi fb="0" ids="16247">phospholipid</z:chebi> complexes, or beta 2 glycoprotein 1 (beta 2GP1) rather than <z:chebi fb="1" ids="16247">phospholipids</z:chebi> </plain></SENT>
+<SENT sid="1" pm="."><plain>We performed a series of experiments to determine whether LA is indeed <z:chebi fb="0" ids="16247">phospholipid</z:chebi> specific </plain></SENT>
+<SENT sid="2" pm="."><plain>IgG was purified from sera of six patients with the <z:e sem="disease" ids="C0085278" disease_type="Disease or Syndrome" abbrv="">antiphospholipid syndrome</z:e> (APS) and 10 healthy controls </plain></SENT>
+<SENT sid="3" pm="."><plain>The six IgG-APS preparations had both LA and anticardiolipin (aCL) activity </plain></SENT>
+<SENT sid="4" pm="."><plain>Incubation of the six IgG-APS preparations with <z:chebi fb="0" ids="28494">cardiolipin</z:chebi> (CL), phosphatidylserine (PS), <z:chebi fb="0" ids="49183">phosphatidylcholine</z:chebi> (PC), or PS/PC (20:80) liposomes in <z:chebi fb="3" ids="9754">Tris</z:chebi>-buffered saline, resulted in loss of LA activity from the supernatant </plain></SENT>
+<SENT sid="5" pm="."><plain>We postulated that loss of activity might have resulted from absorption of IgG LA antibodies by <z:chebi fb="1" ids="16247">phospholipids</z:chebi>, a dilutional effect, or the presence of <z:chebi fb="1" ids="16247">phospholipids</z:chebi> in the supernatant causing 'by-pass' of IgG LA inhibitory activity </plain></SENT>
+<SENT sid="6" pm="."><plain>To distinguish between these possibilities, we re-isolated IgG from the supernatants and re-tested them for LA activity </plain></SENT>
+<SENT sid="7" pm="."><plain>IgG re-isolated from the PS </plain></SENT>
+<SENT sid="8" pm="."><plain>CL and PS/PC supernatants had no LA activity, but LA activity remained in the PC supernatant </plain></SENT>
+<SENT sid="9" pm="."><plain>This suggested that IgG with LA activity was absorbed by negatively charged but not by zwitterionic <z:chebi fb="1" ids="16247">phospholipids</z:chebi> </plain></SENT>
+<SENT sid="10" pm="."><plain>In like manner, PS, CL and PS/PC, but not PC liposomes, absorbed IgG with aCL activity </plain></SENT>
+<SENT sid="11" pm="."><plain>Mixtures of the <z:chebi fb="0" ids="16247">phospholipid</z:chebi> liposomes with beta 2GP1 did not modify the absorption of IgG with LA or aCL activity </plain></SENT>
+<SENT sid="12" pm="."><plain>Finally, we demonstrated that IgG eluted from immunoglobulin-<z:chebi fb="0" ids="28494">cardiolipin</z:chebi> liposome complexes had LA activity </plain></SENT>
+<SENT sid="13" pm="."><plain>Based on these findings, we conclude that at least one population of antibodies with LA activity is <z:chebi fb="0" ids="16247">phospholipid</z:chebi> specific </plain></SENT>
+</text></document>

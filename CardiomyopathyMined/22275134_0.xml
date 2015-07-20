@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:mp ids='MP_0001625'>Cardiac hypertrophy</z:mp> has been known as an independent predictor for <z:e sem="disease" ids="C1301700" disease_type="Disease or Syndrome" abbrv="">cardiovascular morbidity</z:e> and mortality </plain></SENT>
+<SENT sid="1" pm="."><plain>Molecular mechanisms underlying the development of <z:hpo ids='HP_0001635'>heart failure</z:hpo> remain elusive </plain></SENT>
+<SENT sid="2" pm="."><plain>Recently, microRNAs (miRs) have been established as important regulators in <z:mp ids='MP_0001625'>cardiac hypertrophy</z:mp> </plain></SENT>
+<SENT sid="3" pm="."><plain>Here, we reported miR-221 was up-regulated in both transverse aortic constricted mice and patients with <z:hpo ids='HP_0001639'>hypertrophic cardiomyopathy</z:hpo> (HCM) </plain></SENT>
+<SENT sid="4" pm="."><plain>Forced expression of miR-221 by transfection of miR-221 mimics increased myocyte cell size and induced the re-expression of fetal genes, which were inhibited by the knockdown of endogenous miR-221 in cardiomyocytes </plain></SENT>
+<SENT sid="5" pm="."><plain>The TargetScan algorithm-based prediction identified that p27, a cardiac hypertrophic suppressor, is the putative target of miR-221, which was confirmed by luciferase assay and Western blotting </plain></SENT>
+<SENT sid="6" pm="."><plain>In conclusion, our results demonstrated that miR-221 regulated cardiomyocyte <z:mpath ids='MPATH_159'>hypertrophy</z:mpath> probably through down-regulation of p27, suggesting that miR-221 may be a new intervention target for <z:mp ids='MP_0001625'>cardiac hypertrophy</z:mp> </plain></SENT>
+</text></document>

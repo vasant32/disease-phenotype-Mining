@@ -1,0 +1,20 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Epstein-Barr virus (EBV) originating from Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (P3HR-1 and CC34-5), nasopharyngeal <z:mp ids='MP_0002038'>carcinoma</z:mp> (M-<z:chebi fb="81" ids="2365,53554">ABA</z:chebi>), transfusion <z:e sem="disease" ids="C0021345" disease_type="Disease or Syndrome" abbrv="">mononucleosis</z:e> (B95-8), and a patient with <z:hpo ids='HP_0004808'>acute myeloblastic leukemia</z:hpo> (QIMR-WIL) was isolated from virus-carrying lymphoid cell lines after induction with the <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> promoter 12-O-tetradecanoylphorbol-13-<z:chebi fb="49" ids="30089,47622">acetate</z:chebi> </plain></SENT>
+<SENT sid="1" pm="."><plain><z:mp ids='MP_0001799'>Viral</z:mp> DNA was analyzed by partial denaturation mapping and by use of the restriction endonucleases EcoRI, HindIII, and SalI and separation of fragments in 0.4% <z:chebi fb="2" ids="2511">agarose</z:chebi> </plain></SENT>
+<SENT sid="2" pm="."><plain>By using the restriction enzyme data of B95-8 (EBV) and W91 (EBV) obtained by Given and Kieff (D </plain></SENT>
+<SENT sid="3" pm="."><plain>Given and E </plain></SENT>
+<SENT sid="4" pm="."><plain>Kieff, J </plain></SENT>
+<SENT sid="5" pm="."><plain>Virol </plain></SENT>
+<SENT sid="6" pm="."><plain>28:524-542, 1978), maps were established for the other virus strains </plain></SENT>
+<SENT sid="7" pm="."><plain>Comigrating fragments were assumed to be identical or closely related among the different strains </plain></SENT>
+<SENT sid="8" pm="."><plain>Fragments of different strains migrating differently were isolated, purified, radioactively labeled, and mapped by hybridization against blots of separated <z:mp ids='MP_0001799'>viral</z:mp> fragments </plain></SENT>
+<SENT sid="9" pm="."><plain>The results were as follows </plain></SENT>
+<SENT sid="10" pm="."><plain>(i) <z:hpo ids='HP_0000001'>All</z:hpo> strains studied were closely related </plain></SENT>
+<SENT sid="11" pm="."><plain>(ii) The number of internal repeats was variable among and within <z:mp ids='MP_0001799'>viral</z:mp> strains </plain></SENT>
+<SENT sid="12" pm="."><plain>(iii) B95-8 (EBV) was the only strain with a large deletion of about 12,000 base pairs at the right-hand side of the molecule </plain></SENT>
+<SENT sid="13" pm="."><plain>At the same site, small deletions of about 400 to 500 base pairs were observed in P3HR-1 (EBV) and M-<z:chebi fb="81" ids="2365,53554">ABA</z:chebi> (EBV) DNA </plain></SENT>
+<SENT sid="14" pm="."><plain>(iv) P3HR-1 (EBV), the only nontransforming EBV strain, had a deletion of about 3,000 to 4,000 base pairs in the long unique region adjacent to the internal repeats carrying a HindIII site </plain></SENT>
+<SENT sid="15" pm="."><plain>(v) Small inserted sequences of 150 to 400 base pairs were observed in M-<z:chebi fb="81" ids="2365,53554">ABA</z:chebi> (EBV) and B95-8 (EBV) at identical sites in the middle of the long unique region </plain></SENT>
+<SENT sid="16" pm="."><plain>(vi) Near this site, an insertion of about 1,000 base pairs was found in P3HR-1 (EBV) DNA </plain></SENT>
+<SENT sid="17" pm="."><plain>(vii) The cleavage patterns of P3HR-1 virus DNA and the results of blot hybridizations with P3HR-1 virus fragments are not conclusive and point to the possibility that in addition to the <z:mpath ids='MPATH_458'>normal</z:mpath> cleavage pattern some <z:mp ids='MP_0001799'>viral</z:mp> sequences may be arranged differently </plain></SENT>
+<SENT sid="18" pm="."><plain>Even though it is possible that small differences in the genome organization may have significant biological effects, the great similarity among different EBV strains does not favor the hypothesis that disease-specific subtypes exist </plain></SENT>
+</text></document>

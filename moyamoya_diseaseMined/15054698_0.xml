@@ -1,0 +1,7 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A ten-year-old girl arrived at the hospital with progressive loss of muscular strength on the right side of the body </plain></SENT>
+<SENT sid="1" pm="."><plain>The cranial MRI showed left fronto-parietal <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> and atrophic changes in the left parietal lobe </plain></SENT>
+<SENT sid="2" pm="."><plain>Brain MRI initially disclosed a narrow left <z:chebi fb="70" ids="34342">MCA</z:chebi> </plain></SENT>
+<SENT sid="3" pm="."><plain>MRA and digital angiography confirmed the diagnosis of brain obstructive <z:hpo ids='HP_0011010'>chronic</z:hpo> <z:e sem="disease" ids="C0042373" disease_type="Disease or Syndrome" abbrv="">vascular disease</z:e> (<z:e sem="disease" ids="C0026654" disease_type="Disease or Syndrome" abbrv="MYMY|MYMY1">Moyamoya</z:e>) </plain></SENT>
+<SENT sid="4" pm="."><plain>Angiography results demonstrated occlusion of the left <z:chebi fb="70" ids="34342">MCA</z:chebi> and right posterior cerebral artery, with <z:e sem="disease" ids="C0026654" disease_type="Disease or Syndrome" abbrv="MYMY|MYMY1">Moyamoya</z:e> vessels </plain></SENT>
+<SENT sid="5" pm="."><plain>It therefore appears that in some patients <z:e sem="disease" ids="C0026654" disease_type="Disease or Syndrome" abbrv="MYMY|MYMY1">Moyamoya disease</z:e> is accompanied by posterior circulation involvement </plain></SENT>
+</text></document>

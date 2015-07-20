@@ -1,0 +1,7 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Cerebrovascular disease is a major cause of morbidity and mortality </plain></SENT>
+<SENT sid="1" pm="."><plain>Approximately 75% to 80% of <z:hpo ids='HP_0001297'>strokes</z:hpo> and <z:hpo ids='HP_0002326'>transient ischemic attacks</z:hpo> are due to <z:e sem="disease" ids="C0042373" disease_type="Disease or Syndrome" abbrv="">vascular disease</z:e> within the cartoid or cerebral circulation </plain></SENT>
+<SENT sid="2" pm="."><plain>Of the remaining 20% to 25%, perhaps 50% are due to a cardioembolic event </plain></SENT>
+<SENT sid="3" pm="."><plain>Transesophageal echocardiography is the best screening test available for an unexplained cerebrovascular event </plain></SENT>
+<SENT sid="4" pm="."><plain>Anticoagulation with <z:chebi fb="8" ids="10033">warfarin</z:chebi> is indicated in the majority of cases of cardioembolic emboli </plain></SENT>
+<SENT sid="5" pm="."><plain><z:hpo ids='HP_0005110'>Atrial fibrillation</z:hpo> is a major risk factor for <z:hpo ids='HP_0001297'>stroke</z:hpo> and prophylactic anticoagulation is warranted </plain></SENT>
+</text></document>

@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PURPOSE: To compare the relative diagnostic performance of MDCT, PET/CT and Primovist-enhanced MRI (P-MRI) in the pre-resection work-up of <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e>) <z:e sem="disease" ids="C0494165" disease_type="Neoplastic Process" abbrv="">liver metastases</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>METHOD AND MATERIALS: This was a retrospective study of consecutive referrals for <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e> <z:e sem="disease" ids="C0494165" disease_type="Neoplastic Process" abbrv="">liver metastases</z:e> </plain></SENT>
+<SENT sid="2" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> patients had MDCT, PET/CT and P-MRI examinations within 3 months of each other </plain></SENT>
+<SENT sid="3" pm="."><plain>They were divided into 2 groups: resected and unresected </plain></SENT>
+<SENT sid="4" pm="."><plain>Patients in the resected group underwent liver resection within 3 months of the imaging studies </plain></SENT>
+<SENT sid="5" pm="."><plain>In the unresected group, patients were unresectable by imaging criteria or are awaiting surgery </plain></SENT>
+<SENT sid="6" pm="."><plain>Standard of reference (SOR) was intra-operative ultrasound findings and pathology for the resected group </plain></SENT>
+<SENT sid="7" pm="."><plain>Intermodality comparison was the SOR for the unresected group </plain></SENT>
+<SENT sid="8" pm="."><plain>Number of lesions identified by each imaging modality for each patient was recorded </plain></SENT>
+<SENT sid="9" pm="."><plain>Sensitivity (95% CI) and <z:chebi fb="0" ids="53261">PPV</z:chebi> were calculated for each imaging modality in the resected group </plain></SENT>
+<SENT sid="10" pm="."><plain>RESULTS: There were 19 patients in the resected group and 11 patients in the unresected group </plain></SENT>
+<SENT sid="11" pm="."><plain>The sensitivity (96%) and <z:chebi fb="0" ids="53261">PPV</z:chebi> (0.91) of P-MRI were both superior to that of MDCT (P = 0.0009) and PET/CT (P = 0.0003) </plain></SENT>
+<SENT sid="12" pm="."><plain>Intermodality comparison showed that P-MRI detected more lesions than MDCT and PET/CT </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSION: The sensitivity and <z:chebi fb="0" ids="53261">PPV</z:chebi> of P-MRI was superior to that of MDCT and PET/CT </plain></SENT>
+<SENT sid="14" pm="."><plain>P-MRI probably has the most added value if used after MDCT and PET/CT in patients still considered eligible for liver resection </plain></SENT>
+</text></document>

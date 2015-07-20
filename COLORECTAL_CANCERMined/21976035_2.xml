@@ -1,0 +1,18 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PURPOSE: This study sought to prospectively determine the frequency of delayed <z:hpo ids='HP_0002017'>nausea and vomiting</z:hpo> with irinotecan-based chemotherapy following day 1 prophylaxis with a 5-HT3 receptor <z:chebi fb="68" ids="48706">antagonist</z:chebi> and <z:chebi fb="0" ids="41879">dexamethasone</z:chebi> </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: Patients with <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> aged ≥ 18 years with ECOG performance status ≤ 2 receiving irinotecan alone, combined with cetuximab or as part of a standard folinic acid, <z:chebi fb="0" ids="46345">5- fluorouracil</z:chebi>, irinotecan (FOLFIRI) regimen for the first time were eligible </plain></SENT>
+<SENT sid="2" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> patients received a 5-HT3 receptor <z:chebi fb="68" ids="48706">antagonist</z:chebi> and <z:chebi fb="0" ids="41879">dexamethasone</z:chebi> 8 mg on day 1 prior to irinotecan </plain></SENT>
+<SENT sid="3" pm="."><plain>No routine prophylaxis for delayed <z:hpo ids='HP_0002013'>emesis</z:hpo> was given </plain></SENT>
+<SENT sid="4" pm="."><plain><z:chebi fb="0" ids="50919">Antiemetic</z:chebi> outcome was recorded in patient-completed diaries for the 120-h study period after irinotecan administration </plain></SENT>
+<SENT sid="5" pm="."><plain>Primary endpoint was frequency of delayed (24-120 h) <z:hpo ids='HP_0002013'>emesis</z:hpo> </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: Forty-four patients were enrolled, and <z:hpo ids='HP_0000001'>all</z:hpo> are evaluable </plain></SENT>
+<SENT sid="7" pm="."><plain>The median age was 61 (39-79) years; the male-female ratio was 37:7 </plain></SENT>
+<SENT sid="8" pm="."><plain>Four patients (9%) experienced <z:hpo ids='HP_0002013'>vomiting</z:hpo> or retching during the delayed period </plain></SENT>
+<SENT sid="9" pm="."><plain>Three patients (7%) vomited during the first 24 h after irinotecan </plain></SENT>
+<SENT sid="10" pm="."><plain>The overall no <z:hpo ids='HP_0002013'>emesis</z:hpo> rate was 89% (39/44) </plain></SENT>
+<SENT sid="11" pm="."><plain>Fifteen patients (34%) experienced delayed <z:hpo ids='HP_0002018'>nausea</z:hpo> (mildin 11 patients, moderate in four patients) </plain></SENT>
+<SENT sid="12" pm="."><plain>Six patients (14%) took rescue <z:chebi fb="0" ids="50919">antiemetics</z:chebi> during the delayed period </plain></SENT>
+<SENT sid="13" pm="."><plain>Delayed and overall complete response (no <z:hpo ids='HP_0002013'>emesis</z:hpo> or use of rescue <z:chebi fb="0" ids="50919">antiemetics</z:chebi>) rates were 82% and 77% respectively </plain></SENT>
+<SENT sid="14" pm="."><plain>CONCLUSIONS: The use of a 5-HT3 <z:chebi fb="68" ids="48706">antagonist</z:chebi> and <z:chebi fb="0" ids="41879">dexamethasone</z:chebi> prior to irinotecan results in excellent control of <z:hpo ids='HP_0002017'>nausea and vomiting</z:hpo> (CR 86%) during the 24 h after chemotherapy </plain></SENT>
+<SENT sid="15" pm="."><plain>Without further <z:chebi fb="0" ids="50919">antiemetic</z:chebi> treatment, most patients (82%) will not experience delayed <z:hpo ids='HP_0002013'>emesis</z:hpo> or require rescue <z:chebi fb="0" ids="50919">antiemetics</z:chebi> </plain></SENT>
+<SENT sid="16" pm="."><plain>Routine prophylaxis for delayed <z:hpo ids='HP_0002013'>emesis</z:hpo> following irinotecan does not appear to be warranted </plain></SENT>
+</text></document>

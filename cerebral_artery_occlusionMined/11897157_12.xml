@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The possible ability of <z:chebi fb="0" ids="17154">nicotinamide</z:chebi> and ketamine to decrease infarction volume and DNA fragmentation was investigated in a middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> rat model </plain></SENT>
+<SENT sid="1" pm="."><plain>DNA fragmentation was measured with an enzyme linked immunoassay </plain></SENT>
+<SENT sid="2" pm="."><plain>Control <z:mpath ids='MPATH_124'>infarct</z:mpath> volume was 223.8 +/- 10.6 mm(3) </plain></SENT>
+<SENT sid="3" pm="."><plain>Ketamine alone did not alter <z:mpath ids='MPATH_124'>infarct</z:mpath> volume, 233.2 +/- 61.8 mm(3) </plain></SENT>
+<SENT sid="4" pm="."><plain><z:chebi fb="0" ids="17154">Nicotinamide</z:chebi> alone did not alter <z:mpath ids='MPATH_124'>infarct</z:mpath> volume, 235.2 +/- 62.8 mm(3) </plain></SENT>
+<SENT sid="5" pm="."><plain>The combination of ketamine and <z:chebi fb="0" ids="17154">nicotinamide</z:chebi> decreased <z:mpath ids='MPATH_124'>infarct</z:mpath> volume to 83.8 +/- 35.2 mm(3) </plain></SENT>
+<SENT sid="6" pm="."><plain>Ketamine produced <z:hpo ids='HP_0002045'>hypothermia</z:hpo> </plain></SENT>
+<SENT sid="7" pm="."><plain><z:chebi fb="0" ids="17154">Nicotinamide</z:chebi> and ketamine decreased <z:e sem="disease" ids="C1527311" disease_type="Disease or Syndrome" abbrv="">brain swelling</z:e> and DNA fragmentation in the cerebral cortex, striatum and hippocampus in rats perfused for 6 or 24 h </plain></SENT>
+<SENT sid="8" pm="."><plain>Ketamine may synergize the actions of <z:chebi fb="0" ids="17154">nicotinamide</z:chebi> and partially prevent brain damage from <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> and reperfusion </plain></SENT>
+</text></document>

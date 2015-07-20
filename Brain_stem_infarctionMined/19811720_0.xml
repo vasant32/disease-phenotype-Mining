@@ -1,0 +1,6 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 75-year-old woman with known diagnosis of <z:e sem="disease" ids="C0022739" disease_type="Disease or Syndrome" abbrv="KTS">Klippel-Trenaunay syndrome</z:e> presented with <z:hpo ids='HP_0011009'>acute onset</z:hpo> of <z:hpo ids='HP_0100749'>chest pain</z:hpo>, <z:hpo ids='HP_0002094'>dyspnea</z:hpo> and elevated cardiac enzymes </plain></SENT>
+<SENT sid="1" pm="."><plain>She had triple vessel <z:hpo ids='HP_0001677'>coronary artery disease</z:hpo> on subsequent coronary angiography </plain></SENT>
+<SENT sid="2" pm="."><plain>Given the unavailability of venous conduits secondary to lower extremity <z:e sem="disease" ids="C0042345" disease_type="Disease or Syndrome;Acquired Abnormality" abbrv="">varicosities</z:e>, coronary artery bypass grafting with radial and internal mammary arterial grafts was carried out </plain></SENT>
+<SENT sid="3" pm="."><plain>The radial artery graft went into spasm two days later and required intracoronary <z:chebi fb="1" ids="35620">vasodilators</z:chebi> to relieve the spasm </plain></SENT>
+<SENT sid="4" pm="."><plain>The patient remained hypotensive and finally expired </plain></SENT>
+</text></document>

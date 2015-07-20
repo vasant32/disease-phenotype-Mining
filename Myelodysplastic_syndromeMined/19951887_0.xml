@@ -1,0 +1,6 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 75-year-old man presented with painful oral and groin <z:mpath ids='MPATH_579'>ulcers</z:mpath> </plain></SENT>
+<SENT sid="1" pm="."><plain>The lack of any <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infections</z:e> and the location of the <z:mpath ids='MPATH_579'>ulcers</z:mpath> suggested <z:chebi fb="6" ids="22696">Beh</z:chebi>çet's disease </plain></SENT>
+<SENT sid="2" pm="."><plain>Subsequently, <z:hpo ids='HP_0001876'>pancytopenia</z:hpo> developed and bone marrow examination revealed <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>Cytogenetic examination revealed 7q- and 20q- but not 8+ </plain></SENT>
+<SENT sid="4" pm="."><plain>Immunosuppressive therapy with <z:chebi fb="0" ids="4031">cyclosporine</z:chebi> and <z:chebi fb="0" ids="50858">corticosteroid</z:chebi> resulted in a dramatic improvement in both clinical signs and hematologic abnormalities </plain></SENT>
+</text></document>

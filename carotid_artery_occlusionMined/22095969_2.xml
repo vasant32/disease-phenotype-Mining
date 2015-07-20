@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND PURPOSE: Our research focuses on interventional neuroradiology (<z:hpo ids='HP_0001297'>stroke</z:hpo> treatment including imaging methods) and general neuroimaging with an emphasis on functional <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e> imaging </plain></SENT>
+<SENT sid="1" pm="."><plain>Our aim was to determine the efficacy of revascularization (TIMI) of middle cerebral and/or carotid <z:mp ids='MP_0006134'>artery occlusion</z:mp> by means of mechanical recanalization techniques and to evaluate the impact of collateralization, mismatch in perfusion CT, time to revascularization, grade of revascularization on tissue, and clinical outcome in patients with <z:hpo ids='HP_0011009'>acute</z:hpo> <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>MATERIALS AND METHODS: Thirty-one patients with <z:chebi fb="70" ids="34342">MCA</z:chebi> and/or ICA occlusion were included </plain></SENT>
+<SENT sid="3" pm="."><plain><z:hpo ids='HP_0002140'>Ischemic stroke</z:hpo> was diagnosed by NECT, CTA, and volume PCT for grading collateralization and mismatch </plain></SENT>
+<SENT sid="4" pm="."><plain>Time to recanalization was measured from the <z:hpo ids='HP_0003674'>onset</z:hpo> of <z:hpo ids='HP_0001297'>stroke</z:hpo> to the time point of DSA-proved mechanical recanalization </plain></SENT>
+<SENT sid="5" pm="."><plain>Tissue outcome was calculated by segmentation of <z:mpath ids='MPATH_124'>infarct</z:mpath> size between pre- and postinterventional CT and percentage mismatch lost </plain></SENT>
+<SENT sid="6" pm="."><plain>Clinical outcome was determined by the mRS </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: Twenty-one of 31 patients (61.8%) presented with <z:chebi fb="70" ids="34342">MCA</z:chebi> and 10/31 patients (38.2%), with distal ICA occlusions </plain></SENT>
+<SENT sid="8" pm="."><plain>Sufficient recanalization (TIMI 2 and 3) was achieved in 23/31 (75%) </plain></SENT>
+<SENT sid="9" pm="."><plain>Clinical evaluation revealed an mRS score of ≤2 in 25.5% </plain></SENT>
+<SENT sid="10" pm="."><plain>Age (r = 0.439, P = .038) and TIMI (r = 0.544, P = .002) showed the strongest correlation with clinical outcome </plain></SENT>
+<SENT sid="11" pm="."><plain>Time to recanalization, TIMI score, and mismatch were associated with a good tissue outcome in ANOVA </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: Favorable outcome after mechanical recanalization of <z:hpo ids='HP_0011009'>acute</z:hpo> <z:chebi fb="70" ids="34342">MCA</z:chebi> and ICA occlusion depends on time to and grade of recanalization, mismatch, and collateralization </plain></SENT>
+<SENT sid="13" pm="."><plain>These results indicate that multimodal <z:hpo ids='HP_0001297'>stroke</z:hpo> imaging is helpful to guide therapy decisions and to indicate patients amenable for mechanical recanalization </plain></SENT>
+</text></document>

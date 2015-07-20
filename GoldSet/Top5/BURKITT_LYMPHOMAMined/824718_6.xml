@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A factor on human lymphocytes has been identified as factor B of the alternative pathway </plain></SENT>
+<SENT sid="1" pm="."><plain>Lymphocytes can replace factor B in the fluid phase formation of C3 convertase with cobra venom factor (CVF) </plain></SENT>
+<SENT sid="2" pm="."><plain>This lymphocyte activity is inhibited by specific anti-human factor B, and it is shown by Burkitt <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cell lines cultured in the absence of any factor B source </plain></SENT>
+<SENT sid="3" pm="."><plain>After the reaction with CVF <z:hpo ids='HP_0000001'>all</z:hpo> the C3-converting activity is found in the cell supernatant, and the same cells can undergo several successive cycles of 'activation' by CVF </plain></SENT>
+<SENT sid="4" pm="."><plain>Factor B is distinct from the C3b receptor, and its presence could not be detected antigenically on the lymphocyte membrane </plain></SENT>
+<SENT sid="5" pm="."><plain>It may be secreted by the cells, but the reaction was not affected by <z:chebi fb="199" ids="26708">sodium</z:chebi> <z:chebi fb="0" ids="40910">azide</z:chebi> or <z:chebi fb="0" ids="23528">cytochalasin</z:chebi> B </plain></SENT>
+<SENT sid="6" pm="."><plain>No detectable factor B activity was found in the culture medium of cells grown in the absence of CVF </plain></SENT>
+</text></document>

@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: We investigated whether metabolic biomarkers and single nucleotide polymorphisms (SNPs) improve <z:mp ids='MP_0002055'>diabetes</z:mp> prediction beyond age, anthropometry, and lifestyle risk factors </plain></SENT>
+<SENT sid="1" pm="."><plain>RESEARCH DESIGN AND METHODS: A case-cohort study within a prospective study was designed </plain></SENT>
+<SENT sid="2" pm="."><plain>We randomly selected a subcohort (n = 2,500) from 26,444 participants, of whom 1,962 were <z:mp ids='MP_0002055'>diabetes</z:mp> free at baseline </plain></SENT>
+<SENT sid="3" pm="."><plain>Of the 801 incident type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> cases identified in the cohort during 7 years of follow-up, 579 remained for analyses after exclusions </plain></SENT>
+<SENT sid="4" pm="."><plain>Prediction models were compared by receiver operatoring characteristic (ROC) curve and integrated discrimination improvement </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: Case-control discrimination by the lifestyle characteristics (ROC-AUC: 0.8465) improved with plasma <z:chebi fb="105" ids="17234">glucose</z:chebi> (ROC-AUC: 0.8672, P &lt; 0.001) and A1C (ROC-AUC: 0.8859, P &lt; 0.001) </plain></SENT>
+<SENT sid="6" pm="."><plain>ROC-AUC further improved with <z:chebi fb="4" ids="47775">HDL cholesterol</z:chebi>, <z:chebi fb="4" ids="17855">triglycerides</z:chebi>, gamma-glutamyltransferase, and alanine aminotransferase (0.9000, P = 0.002) </plain></SENT>
+<SENT sid="7" pm="."><plain>Twenty SNPs did not improve discrimination beyond these characteristics (P = 0.69) </plain></SENT>
+<SENT sid="8" pm="."><plain>CONCLUSIONS: Metabolic markers, but not genotyping for 20 diabetogenic SNPs, improve discrimination of incident type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> beyond lifestyle risk factors </plain></SENT>
+</text></document>

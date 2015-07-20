@@ -1,0 +1,5 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>An 81-year-old man with <z:hpo ids='HP_0005110'>atrial fibrillation</z:hpo> presented with embolic <z:hpo ids='HP_0001297'>stroke</z:hpo> in the right middle cerebral artery </plain></SENT>
+<SENT sid="1" pm="."><plain>During intravenous thrombolysis, he became <z:e sem="disease" ids="C0009421" disease_type="Disease or Syndrome" abbrv="">comatose</z:e> and developed a recurrent embolism in the top of the basilar artery </plain></SENT>
+<SENT sid="2" pm="."><plain>Intra-arterial mechanical disruption of the <z:mpath ids='MPATH_110'>embolus</z:mpath> failed to recanalize </plain></SENT>
+<SENT sid="3" pm="."><plain>Laboratory studies on admission demonstrated <z:hpo ids='HP_0001894'>thrombocytosis</z:hpo>, but echocardiography performed after thrombolysis did not identify an embolic source, including mural <z:e sem="disease" ids="C0087086" disease_type="Disease or Syndrome" abbrv="">thrombi</z:e> </plain></SENT>
+</text></document>

@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: In depolarized myocardial <z:mpath ids='MPATH_124'>infarct</z:mpath> epicardial border zones, the cardiac <z:chebi fb="199" ids="26708">sodium</z:chebi> channel is largely inactivated, contributing to slow conduction and reentry </plain></SENT>
+<SENT sid="1" pm="."><plain>We have demonstrated that adenoviral delivery of the skeletal muscle <z:chebi fb="0" ids="29101">Na(+)</z:chebi> channel (SkM1) to epicardial border zones normalizes conduction and reduces induction of <z:hpo ids='HP_0004756'>ventricular tachycardia</z:hpo>/<z:hpo ids='HP_0001663'>ventricular fibrillation</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>We now studied the impact of canine mesenchymal stem cells (cMSCs) in delivering SkM1 </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS AND RESULTS: cMSCs were isolated and transfected with SkM1 </plain></SENT>
+<SENT sid="4" pm="."><plain>Coculture experiments showed cMSC/SkM1 but not cMSC alone and maintained fast conduction at depolarized potentials </plain></SENT>
+<SENT sid="5" pm="."><plain>We studied 3 groups in the canine 7d <z:mpath ids='MPATH_124'>infarct</z:mpath>: sham, cMSC, and cMSC/SkM1 </plain></SENT>
+<SENT sid="6" pm="."><plain>In vivo epicardial border zones electrograms were broad and fragmented in sham, narrower in cMSCs, and narrow and unfragmented in cMSC/SkM1 (P&lt;0.05) </plain></SENT>
+<SENT sid="7" pm="."><plain>During programmed electrical stimulation of epicardial border zones, QRS duration in cMSC/SkM1 was shorter than in cMSC and sham (P&lt;0.05) </plain></SENT>
+<SENT sid="8" pm="."><plain>Programmed electrical stimulation-induced <z:hpo ids='HP_0004756'>ventricular tachycardia</z:hpo>/<z:hpo ids='HP_0001663'>ventricular fibrillation</z:hpo> was equivalent in <z:hpo ids='HP_0000001'>all</z:hpo> groups (P&gt;0.05) </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSION: cMSCs provide efficient delivery of SkM1 current </plain></SENT>
+<SENT sid="10" pm="."><plain>The interventions performed (cMSCs or cMSC/SkM1) were neither antiarrhythmic nor proarrhythmic </plain></SENT>
+<SENT sid="11" pm="."><plain>Comparing outcomes with cMSC/SkM1 and <z:mp ids='MP_0001799'>viral</z:mp> gene delivery highlights the criticality of the delivery platform to SkM1 antiarrhythmic efficacy </plain></SENT>
+</text></document>

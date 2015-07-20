@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The aim of this study was to investigate where neurologists look when they view brain computed tomography (CT) images and to evaluate how they deploy their visual attention by comparing their gaze distribution with saliency maps </plain></SENT>
+<SENT sid="1" pm="."><plain>Brain CT images showing <z:hpo ids='HP_0001297'>cerebrovascular accidents</z:hpo> were presented to 12 neurologists and 12 control subjects </plain></SENT>
+<SENT sid="2" pm="."><plain>The subjects' ocular fixation positions were recorded using an eye-tracking device (Eyelink 1000) </plain></SENT>
+<SENT sid="3" pm="."><plain>Heat maps were created based on the eye-fixation patterns of each group and compared between the two groups </plain></SENT>
+<SENT sid="4" pm="."><plain>The heat maps revealed that the areas on which control subjects frequently fixated often coincided with areas identified as outstanding in saliency maps, while the areas on which neurologists frequently fixated often did not </plain></SENT>
+<SENT sid="5" pm="."><plain>Dwell time in regions of interest (ROI) was likewise compared between the two groups, revealing that, although dwell time on large lesions was not different between the two groups, dwell time in clinically important areas with low salience was longer in neurologists than in controls </plain></SENT>
+<SENT sid="6" pm="."><plain>Therefore it appears that neurologists intentionally scan clinically important areas when reading brain CT images showing <z:hpo ids='HP_0001297'>cerebrovascular accidents</z:hpo> </plain></SENT>
+<SENT sid="7" pm="."><plain>Both neurologists and control subjects used the "bottom-up salience" form of visual attention, although the neurologists more effectively used the "top-down instruction" form </plain></SENT>
+</text></document>

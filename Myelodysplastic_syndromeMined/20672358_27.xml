@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Recurrence is a major cause of treatment failure after allogeneic transplantation for <z:hpo ids='HP_0004808'>acute myelogenous leukemia</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">AML</z:e>) and <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e>), and treatment options are very limited </plain></SENT>
+<SENT sid="1" pm="."><plain><z:chebi fb="0" ids="2038">Azacitidine</z:chebi> is a DNA methyltransferase inhibitor with activity in myeloid disease </plain></SENT>
+<SENT sid="2" pm="."><plain>The authors hypothesized that low-dose <z:chebi fb="0" ids="2038">azacitidine</z:chebi> administered after transplant would reduce recurrence rates, and conducted a study to determine a safe dose/schedule combination </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: Forty-five high-risk patients were treated </plain></SENT>
+<SENT sid="4" pm="."><plain>Median age was 60 years; median number of comorbidities was 3; 67% were not in remission </plain></SENT>
+<SENT sid="5" pm="."><plain>By using a Bayesian adaptive method to determine the best dose/schedule combination based on time to toxicity, the authors investigated combinations of 5 daily <z:chebi fb="0" ids="2038">azacitidine</z:chebi> doses, 8, 16, 24, 32, and 40 mg/m2, and 4 schedules: 1, 2, 3, or 4 cycles, each with 5 days of drug and 25 days of rest </plain></SENT>
+<SENT sid="6" pm="."><plain>Cycle 1 started on Day +40 </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: Reversible <z:hpo ids='HP_0001873'>thrombocytopenia</z:hpo> was the dose-limiting toxicity </plain></SENT>
+<SENT sid="8" pm="."><plain>The optimal combination was 32 mg/m2 given for 4 cycles </plain></SENT>
+<SENT sid="9" pm="."><plain>Median follow-up was 20.5 months </plain></SENT>
+<SENT sid="10" pm="."><plain>One-year event-free and overall survival were 58% and 77%, justifying further studies to estimate long-term clinical benefit </plain></SENT>
+<SENT sid="11" pm="."><plain>No dose significantly affected DNA global methylation </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: <z:chebi fb="0" ids="2038">Azacitidine</z:chebi> at 32 mg/m2 given for 5 days is safe and can be administered after allogeneic transplant for at least 4 cycles to heavily pretreated <z:e sem="disease" ids="C1332153" disease_type="Neoplastic Process" abbrv="">AML/MDS</z:e> patients </plain></SENT>
+<SENT sid="13" pm="."><plain>The trial also suggested that this treatment may prolong event-free and overall survival, and that more cycles may be associated with greater benefit </plain></SENT>
+</text></document>

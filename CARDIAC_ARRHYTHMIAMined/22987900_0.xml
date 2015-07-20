@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>An 85-year-old lady presented to our institution following multiple episodes of transient <z:hpo ids='HP_0007185'>loss of consciousness</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Her admission ECG revealed a junctional <z:hpo ids='HP_0001662'>bradycardia</z:hpo> with significant QT prolongation </plain></SENT>
+<SENT sid="2" pm="."><plain>Telemetry captured a <z:hpo ids='HP_0001664'>torsades de pointes</z:hpo> <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>Possible offending drugs (digoxin and hydroxychloroquine) were stopped and she was given intravenous <z:chebi fb="131" ids="25107">magnesium</z:chebi> and <z:chebi fb="120" ids="26216">potassium</z:chebi> </plain></SENT>
+<SENT sid="4" pm="."><plain>Despite this, she continued to have runs of torsades </plain></SENT>
+<SENT sid="5" pm="."><plain>An <z:chebi fb="0" ids="6046">isoprenaline</z:chebi> infusion was commenced to increase her resting heart rate </plain></SENT>
+<SENT sid="6" pm="."><plain>Her QT interval shortened and she had no further <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> </plain></SENT>
+<SENT sid="7" pm="."><plain>Investigation into the cause of her <z:hpo ids='HP_0001662'>bradycardia</z:hpo> and prolonged QT revealed profound <z:hpo ids='HP_0000821'>hypothyroidism</z:hpo> </plain></SENT>
+<SENT sid="8" pm="."><plain><z:chebi fb="0" ids="18332">Levothyroxine</z:chebi> was commenced but the patient remained <z:hpo ids='HP_0001662'>bradycardia</z:hpo> and required a permanent pacemaker </plain></SENT>
+<SENT sid="9" pm="."><plain>She had no further <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> and was discharged home safely </plain></SENT>
+<SENT sid="10" pm="."><plain>This is a very rare case of severe <z:hpo ids='HP_0000832'>primary hypothyroidism</z:hpo> presenting with <z:hpo ids='HP_0001664'>torsades de pointes</z:hpo> </plain></SENT>
+</text></document>

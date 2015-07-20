@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: Adiponectin is a plasma protein expressed in adipose tissue </plain></SENT>
+<SENT sid="1" pm="."><plain>Hypoadiponectinemia is associated with <z:hpo ids='HP_0003233'>low HDL cholesterol</z:hpo> and high plasma <z:chebi fb="4" ids="17855">triglycerides</z:chebi>, which also characterize <z:chebi fb="1" ids="6495">lipoprotein</z:chebi> lipase (LPL) deficiency syndromes </plain></SENT>
+<SENT sid="2" pm="."><plain>Recently, dramatically increased LPL activity was reported in mice overexpressing adiponectin </plain></SENT>
+<SENT sid="3" pm="."><plain>We therefore speculated that adiponectin may directly affect LPL in humans </plain></SENT>
+<SENT sid="4" pm="."><plain>RESEARCH DESIGN AND METHODS: We measured plasma adiponectin and postheparin LPL in 206 nondiabetic men and in a second group of 110 patients with type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="5" pm="."><plain>Parameters were correlated with markers of systemic <z:mp ids='MP_0001845'>inflammation</z:mp> (C-reactive protein [CRP]) and <z:hpo ids='HP_0000855'>insulin resistance</z:hpo> (homeostatis model assessment of <z:hpo ids='HP_0000855'>insulin resistance</z:hpo> [HOMA-IR]) </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: Nondiabetic subjects with decreased plasma adiponectin had lower LPL activity (r=0.42, P &lt;0.0001) </plain></SENT>
+<SENT sid="7" pm="."><plain>This association of plasma adiponectin with LPL activity was confirmed in the second group of patients with type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> (r=0.37, P &lt;0.0001) </plain></SENT>
+<SENT sid="8" pm="."><plain>Multivariate analysis revealed that adiponectin was the strongest factor influencing LPL activity, accounting for 23% of the variation in LPL activity in nondiabetic subjects and for 26% of the variation in LPL activity in type 2 diabetic patients </plain></SENT>
+<SENT sid="9" pm="."><plain>These associations were independent of plasma CRP and HOMA-IR </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSIONS: These results demonstrate an association of decreased postheparin LPL activity with low plasma adiponectin that is independent of systemic <z:mp ids='MP_0001845'>inflammation</z:mp> and <z:hpo ids='HP_0000855'>insulin resistance</z:hpo> </plain></SENT>
+<SENT sid="11" pm="."><plain>Therefore, LPL may represent a link between low adiponectin levels and <z:e sem="disease" ids="C0242339" disease_type="Disease or Syndrome" abbrv="">dyslipidemia</z:e> in both nondiabetic individuals and patients with type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+</text></document>

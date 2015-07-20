@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We report a case of non-curatively resected <z:hpo ids='HP_0012126'>gastric cancer</z:hpo> successfully treated with postoperative continuous chemotherapy, resulting in long-term survival of 19 months </plain></SENT>
+<SENT sid="1" pm="."><plain>A 75-year-old woman underwent non-curative resection with total gastrectomy for advanced <z:hpo ids='HP_0012126'>gastric cancer</z:hpo> with peritoneal <z:e sem="disease" ids="C0027627" disease_type="Neoplastic Process" abbrv="mets">metastasis</z:e> in June, 2005 </plain></SENT>
+<SENT sid="2" pm="."><plain>Postoperatively, at first, she received oral administration of S-1 </plain></SENT>
+<SENT sid="3" pm="."><plain>However, due to grade 2-3 <z:hpo ids='HP_0002018'>nausea</z:hpo> and <z:hpo ids='HP_0002039'>anorexia</z:hpo>, the dose of S-1 was reduced </plain></SENT>
+<SENT sid="4" pm="."><plain>After four courses, the value of the <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> markers increased </plain></SENT>
+<SENT sid="5" pm="."><plain>Next, we chose sequential <z:chebi fb="0" ids="44185">methotrexate</z:chebi> and <z:chebi fb="0" ids="46345">5-fluorouracil</z:chebi> therapy, but no decrease <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> markers could be obtained </plain></SENT>
+<SENT sid="6" pm="."><plain>Then, 9 months after surgery, biweekly paclitaxel (PTX) chemotherapy was performed </plain></SENT>
+<SENT sid="7" pm="."><plain>The value of the <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> markers gradually decreased or stopped increasing, and PTX was administered 18 times </plain></SENT>
+<SENT sid="8" pm="."><plain>In this period, the quality of life of this patient was good </plain></SENT>
+<SENT sid="9" pm="."><plain>Eighteen months after surgery, the value of the <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> markers increased again, and S-1 and <z:chebi fb="9" ids="27656">CPT</z:chebi>-11 combination therapy was chosen </plain></SENT>
+<SENT sid="10" pm="."><plain>However, the patient died of <z:e sem="disease" ids="C0751955" disease_type="Disease or Syndrome" abbrv="">brain infarction</z:e> 19 months after surgery </plain></SENT>
+<SENT sid="11" pm="."><plain>Thus, continuous and persevering chemotherapy could be effective for advanced <z:hpo ids='HP_0012126'>gastric cancer</z:hpo> with peritoneal <z:e sem="disease" ids="C0027627" disease_type="Neoplastic Process" abbrv="mets">metastasis</z:e> and may be promising for long-term survival </plain></SENT>
+</text></document>

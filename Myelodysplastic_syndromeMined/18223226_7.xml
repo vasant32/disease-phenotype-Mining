@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PURPOSE: To determine the safety and describe the antitumor activity of tipifarnib in patients with <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e>) using an alternate-week schedule </plain></SENT>
+<SENT sid="1" pm="."><plain>EXPERIMENTAL DESIGN: Patients with <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> were given tipifarnib, escalating from 100 mg orally twice daily until the maximum tolerated dose for 8 weeks followed by maintenance therapy (same dose/schedule) for patients with stable disease or better </plain></SENT>
+<SENT sid="2" pm="."><plain>RESULTS: Sixty-three patients were treated </plain></SENT>
+<SENT sid="3" pm="."><plain>The most common toxicity was <z:e sem="disease" ids="C0854467" disease_type="Disease or Syndrome" abbrv="">myelosuppression</z:e> (60% of patients) </plain></SENT>
+<SENT sid="4" pm="."><plain>Twenty percent of patients had no side effects </plain></SENT>
+<SENT sid="5" pm="."><plain>Nonhematologic toxicities included <z:mp ids='MP_0002899'>fatigue</z:mp> (20%), <z:hpo ids='HP_0000988'>skin rash</z:hpo> (9%), <z:hpo ids='HP_0002014'>diarrhea</z:hpo> (16%), increase in liver transaminases (14%) and <z:chebi fb="0" ids="16990">bilirubin</z:chebi> (11%), and <z:hpo ids='HP_0002018'>nausea</z:hpo> (11%) </plain></SENT>
+<SENT sid="6" pm="."><plain>Dose-limiting toxicities of <z:hpo ids='HP_0001251'>ataxia</z:hpo> (n = 1), <z:mp ids='MP_0002899'>fatigue</z:mp> (n = 1), <z:hpo ids='HP_0002018'>nausea</z:hpo> (n = 1), and neutropenic <z:hpo ids='HP_0001945'>fever</z:hpo> (n = 2) occurred at tipifarnib doses above 1,200 mg/d </plain></SENT>
+<SENT sid="7" pm="."><plain>Sixteen of 61 (26%) evaluable patients responded (3 complete remissions and 13 hematologic improvements) with major platelet responses being most common (11 of 16 responders) </plain></SENT>
+<SENT sid="8" pm="."><plain>There was no obvious dose-response relationship </plain></SENT>
+<SENT sid="9" pm="."><plain>Four of the 16 responders (25%; including a complete responder) were treated at the lowest dose level (100 mg twice daily) </plain></SENT>
+<SENT sid="10" pm="."><plain>Only one responder had a Ras mutation </plain></SENT>
+<SENT sid="11" pm="."><plain>Giving tipifarnib resulted in potent inhibition of <z:chebi fb="0" ids="24017">farnesyl</z:chebi> transferase (usually more than 75%) in peripheral blood mononuclear cells regardless of dose </plain></SENT>
+<SENT sid="12" pm="."><plain>Partial <z:chebi fb="0" ids="24017">farnesyl</z:chebi> transferase inhibition persisted during the week off </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSIONS: Alternate-week tipifarnib is active and well tolerated in patients with <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> at doses up to and including 600 mg orally twice daily </plain></SENT>
+<SENT sid="14" pm="."><plain>The biological activity of tipifarnib is not dependent on dose </plain></SENT>
+</text></document>

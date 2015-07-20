@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Adequate management of a patient with progressing <z:hpo ids='HP_0001297'>stroke</z:hpo> should include the following </plain></SENT>
+<SENT sid="1" pm="."><plain>(1) Understanding of the pathophysiologic mechanisms causing <z:e sem="disease" ids="C0007785" disease_type="Disease or Syndrome" abbrv="">cerebral infarction</z:e> </plain></SENT>
+<SENT sid="2" pm="."><plain>(2) prompt diagnosis </plain></SENT>
+<SENT sid="3" pm="."><plain>When the possibility of progressing <z:hpo ids='HP_0001297'>stroke</z:hpo> is considered by the physician, it automatically becomes the priority diagnosis </plain></SENT>
+<SENT sid="4" pm="."><plain>(3) Prompt clinical and laboratory evaluation should be initiated </plain></SENT>
+<SENT sid="5" pm="."><plain>(4) Prompt institution of <z:chebi fb="3" ids="50249">anticoagulant</z:chebi> treatment unless contraindicated is appropriate </plain></SENT>
+<SENT sid="6" pm="."><plain><z:chebi fb="5" ids="28304">Heparin</z:chebi> followed by <z:chebi fb="0" ids="10034">coumadin</z:chebi> is used most commonly </plain></SENT>
+<SENT sid="7" pm="."><plain>(5) If there is not prompt cessation of progression over the next 1--3 hr (following adequate anticoagulation), the patient should have a repeat CAT scan, and in many instances, a carotid angiogram to investigate the possibility of misdiagnosis or that an ulcerated atherosclerotic plaque is present releasing emboli not affected by anticoagulation </plain></SENT>
+<SENT sid="8" pm="."><plain>(6) If any progression occurs, the question of antiedema treatment should be raised </plain></SENT>
+</text></document>

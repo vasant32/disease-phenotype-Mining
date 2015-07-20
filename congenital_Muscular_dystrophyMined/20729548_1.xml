@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Collagen VI is an extracellular protein that most often contains the three genetically distinct <z:chebi fb="0" ids="16541">polypeptide chains</z:chebi>, α1(VI), α2(VI), and α3(VI), although three recently identified chains, α4(VI), α5(VI), and α6(VI), may replace α3(VI) in some situations </plain></SENT>
+<SENT sid="1" pm="."><plain>Each chain has a triple helix flanked by N- and C-terminal globular domains that share homology with the <z:e sem="disease" ids="C0042974" disease_type="Disease or Syndrome" abbrv="">von Willebrand</z:e> factor type A (VWA) domains </plain></SENT>
+<SENT sid="2" pm="."><plain>During biosynthesis, the three chains come together to form triple helical monomers, which then assemble into dimers and tetramers </plain></SENT>
+<SENT sid="3" pm="."><plain>Tetramers are secreted from the cell and align end-to-end to form microfibrils </plain></SENT>
+<SENT sid="4" pm="."><plain>The precise molecular mechanisms responsible for assembly are unclear </plain></SENT>
+<SENT sid="5" pm="."><plain>Mutations in the three collagen VI genes can disrupt collagen VI biosynthesis and matrix organization and are the cause of the inherited disorders Bethlem <z:hpo ids='HP_0003198'>myopathy</z:hpo> and Ullrich <z:hpo ids='HP_0003741'>congenital muscular dystrophy</z:hpo> </plain></SENT>
+<SENT sid="6" pm="."><plain>We have identified a Ullrich <z:hpo ids='HP_0003741'>congenital muscular dystrophy</z:hpo> patient with compound heterozygous mutations in α2(VI) </plain></SENT>
+<SENT sid="7" pm="."><plain>The first mutation causes skipping of exon 24, and the <z:chebi fb="2" ids="33699">mRNA</z:chebi> is degraded by nonsense-mediated decay </plain></SENT>
+<SENT sid="8" pm="."><plain>The second mutation is a two-amino acid deletion in the C1 VWA domain </plain></SENT>
+<SENT sid="9" pm="."><plain>Recombinant C1 domains containing the deletion are insoluble and retained intracellularly, indicating that the mutation has detrimental effects on domain folding and structure </plain></SENT>
+<SENT sid="10" pm="."><plain>Despite this, mutant α2(VI) chains retain the ability to associate into monomers, dimers, and tetramers </plain></SENT>
+<SENT sid="11" pm="."><plain>However, we show that secreted mutant tetramers containing structurally abnormal C1 VWA domains are unable to associate further into microfibrils, directly demonstrating the critical importance of a correctly folded α2(VI) C1 domain in microfibril formation </plain></SENT>
+</text></document>

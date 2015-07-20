@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIM: The objective of the study was to establish the dose response of IN-105 tablets and explore a possible therapeutic window in type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> subjects poorly controlled on <z:chebi fb="0" ids="6801">metformin</z:chebi> </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: The primary objective was to examine the effect of sequential single ascending doses of IN-105 on the plasma <z:chebi fb="105" ids="17234">glucose</z:chebi> concentration under fed conditions </plain></SENT>
+<SENT sid="2" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> subjects received, sequentially, matching placebo, 10, 15, 20 and 30 mg IN-105 tablets in five consecutive periods </plain></SENT>
+<SENT sid="3" pm="."><plain>Tablets were administered 20 min prior to meal in <z:hpo ids='HP_0000001'>all</z:hpo> the periods </plain></SENT>
+<SENT sid="4" pm="."><plain>Plasma levels of immunoreactive insulin, C-<z:chebi fb="7" ids="16670">peptide</z:chebi> and <z:chebi fb="105" ids="17234">glucose</z:chebi> were measured up to 180 min from the time of dosing </plain></SENT>
+<SENT sid="5" pm="."><plain>The changes in postprandial <z:chebi fb="105" ids="17234">glucose</z:chebi> levels at 120 min in response to IN-105 administration were also compared against those of placebo </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: Changes in <z:chebi fb="105" ids="17234">glucose</z:chebi> from baseline (mean +/- s.d.) at 140 min (2 h postprandial) were 94.84 +/- 22.3, 79.45 +/- 43.00, 70.68 +/- 35.71, 63.47 +/- 42.75 and 53.06 +/- 47.27 mg/dL, respectively, and exhibited linear dose-response </plain></SENT>
+<SENT sid="7" pm="."><plain>The insulin C(max) values were found to be 50.8 +/- 26.0 mU/L for placebo, 100.3 +/- 66.7 with 10 mg IN-105, 177.69 +/- 150.3 with 15 mg IN-105, 246.2 +/- 245.2 with 20 mg IN-105 and 352.5 +/- 279.3 mU/L with 30 mg of IN-105 </plain></SENT>
+<SENT sid="8" pm="."><plain>CONCLUSIONS: IN-105 absorption is proportional to the dose administered </plain></SENT>
+<SENT sid="9" pm="."><plain>The 2-h postprandial <z:chebi fb="105" ids="17234">glucose</z:chebi> excursion was reduced in a dose proportional manner </plain></SENT>
+<SENT sid="10" pm="."><plain>Circulating C-<z:chebi fb="7" ids="16670">peptide</z:chebi> levels were found to be suppressed in proportion to the IN-105 exposure </plain></SENT>
+<SENT sid="11" pm="."><plain>IN-105 reduces <z:chebi fb="105" ids="17234">glucose</z:chebi> excursion despite lower endogenous insulin secretion </plain></SENT>
+<SENT sid="12" pm="."><plain>IN-105 seems to have a wide therapeutic window as no clinical <z:e sem="disease" ids="C0020615" disease_type="Disease or Syndrome" abbrv="">hypoglycaemia</z:e> was observed at any of the doses studied </plain></SENT>
+</text></document>

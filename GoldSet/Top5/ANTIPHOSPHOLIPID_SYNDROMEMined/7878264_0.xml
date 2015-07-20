@@ -1,0 +1,7 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The case of a 35 years old female patient is here reported </plain></SENT>
+<SENT sid="1" pm="."><plain>Her previous medical records included repeated <z:e sem="disease" ids="C0000786" disease_type="Disease or Syndrome" abbrv="">miscarriages</z:e> and ischaemic <z:mpath ids='MPATH_579'>ulcers</z:mpath> in the right leg </plain></SENT>
+<SENT sid="2" pm="."><plain>She developed <z:mp ids='MP_0005048'>thrombosis</z:mp> at the left common femoral artery with serum <z:hpo ids='HP_0003613'>antiphospholipid antibodies</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>The patient was treated with <z:chebi fb="2" ids="50249">anticoagulants</z:chebi> and two months later developed multiorganic failure </plain></SENT>
+<SENT sid="4" pm="."><plain>She was successfully managed with plasmapheresis, high dose <z:chebi fb="0" ids="8382">prednisone</z:chebi>, and <z:chebi fb="2" ids="50249">anticoagulants</z:chebi> </plain></SENT>
+<SENT sid="5" pm="."><plain>The clinical picture was considered to be a catastrophic <z:e sem="disease" ids="C0085278" disease_type="Disease or Syndrome" abbrv="">antiphospholipid syndrome</z:e> </plain></SENT>
+</text></document>

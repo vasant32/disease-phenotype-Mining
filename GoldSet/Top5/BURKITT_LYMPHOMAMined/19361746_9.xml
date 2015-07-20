@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Patients with chemorefractory aggressive non-Hodgkin's <z:hpo ids='HP_0002665'>lymphomas</z:hpo> (NHL) generally have poor clinical outcomes with available therapies </plain></SENT>
+<SENT sid="1" pm="."><plain>Allogeneic transplantation may be curative, but few studies are available to guide transplant decision making in this setting </plain></SENT>
+<SENT sid="2" pm="."><plain>We examined allogeneic transplantation outcomes for 46 patients with chemorefractory, aggressive NHL patients who had either stable disease (SD; n = 32) or progressive disease (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">PD</z:e>; n = 14), respectively, following last salvage treatment </plain></SENT>
+<SENT sid="3" pm="."><plain>The median age was 46 years (range: 22-63 years) </plain></SENT>
+<SENT sid="4" pm="."><plain>Thirty-nine patients received matched sibling allografts, whereas 7 underwent unrelated donor transplantation </plain></SENT>
+<SENT sid="5" pm="."><plain>Diagnoses included diffuse large B-cell <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (n = 18), Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (n = 3), transformed B cell <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (n = 5), mantle cell <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (n = 11), and peripheral T cell <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (n = 9) </plain></SENT>
+<SENT sid="6" pm="."><plain>The median number of prior therapies was 3 (range: 2-8) </plain></SENT>
+<SENT sid="7" pm="."><plain>Median follow-up of surviving patients is 5 years </plain></SENT>
+<SENT sid="8" pm="."><plain>Five-year overall survival (OS), progression-free survival (PFS), and relapse rate for the whole cohort (n = 46) were 38%, 34%, and 35%, respectively </plain></SENT>
+<SENT sid="9" pm="."><plain>The rate of grade II-IV <z:hpo ids='HP_0011009'>acute</z:hpo> <z:e sem="disease" ids="C0018133" disease_type="Disease or Syndrome" abbrv="GVH">graft-versus-host disease</z:e> (aGVHD) was 43% </plain></SENT>
+<SENT sid="10" pm="."><plain>Of the 33 evaluable patients 75% developed <z:hpo ids='HP_0011010'>chronic</z:hpo> GVHD (cGVHD) </plain></SENT>
+<SENT sid="11" pm="."><plain>Overall nonrelapse mortality (NRM) rate was 34% </plain></SENT>
+<SENT sid="12" pm="."><plain>The 5-year OS and PFS rates for patients with SD and <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">PD</z:e> were 46% versus 21% (P = .01; log-rank test), and 46% versus 7% (P = .0002; log-rank test), respectively </plain></SENT>
+<SENT sid="13" pm="."><plain>This study confirms that allogeneic transplant is curative for a subset of chemorefractory patients with SD </plain></SENT>
+<SENT sid="14" pm="."><plain>However, patients with <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">PD</z:e> had uniformly poor outcomes following allografting with conventional conditioning approaches </plain></SENT>
+<SENT sid="15" pm="."><plain>Given the outcomes seen here in the setting of <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">PD</z:e>, such patients should proceed with transplant only in the setting of investigational therapy </plain></SENT>
+</text></document>

@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Neurodegenerative and cerebrovascular diseases show a distinct distribution of regional <z:mpath ids='MPATH_127'>atrophy</z:mpath> and <z:e sem="disease" ids="C0871456" disease_type="Disease or Syndrome" abbrv="">subcortical lesions</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>OBJECTIVE: To develop an easily applicable landmark-based method for segmentation of the brain into the four cerebral lobes from MRI images </plain></SENT>
+<SENT sid="2" pm="."><plain>METHOD: The segmentation method relies on a combination of anatomical landmarks and geometrical definitions </plain></SENT>
+<SENT sid="3" pm="."><plain>It is applied on the surface reconstruction of the MRI volume </plain></SENT>
+<SENT sid="4" pm="."><plain>The internal borders between the lobes are defined on the axial slices of the brain </plain></SENT>
+<SENT sid="5" pm="."><plain>The reliability of this method was determined from MRI scans of 10 subjects </plain></SENT>
+<SENT sid="6" pm="."><plain>To illustrate the use of the method, it was applied to MRI scans of an independent group of 10 healthy elderly subjects and 10 patients with vascular <z:hpo ids='HP_0000726'>dementia</z:hpo> to determine the regional distribution of white matter hyperintensities (WMH) </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: The intra-rater relative error (and intra-class correlation coefficient) of the lobe segmentation ranged from 1.6% to 6.9% (from 0.91 to 0.99) </plain></SENT>
+<SENT sid="8" pm="."><plain>The inter-rater relative error (and intra-class correlation coefficient) ranged from 1.4% to 5.2% (from 0.96 to 0.99) </plain></SENT>
+<SENT sid="9" pm="."><plain>Density of WMH was significantly higher in <z:hpo ids='HP_0000001'>all</z:hpo> four lobes in VD patients compared to controls (p&lt;0.05) </plain></SENT>
+<SENT sid="10" pm="."><plain>Within each group, WMH density was significantly higher in frontal and parietal than in temporal and occipital lobes (p&lt;0.05) </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSION: This landmark based method can accommodate age and disease-related changes in brain <z:mp ids='MP_0000002'>morphology</z:mp> </plain></SENT>
+<SENT sid="12" pm="."><plain>It may be particularly useful for the study of neurodegenerative and cerebrovascular disease and for the validation of template-based automated techniques </plain></SENT>
+</text></document>

@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PURPOSE: High-dose therapy (HDT) is currently under investigation for patients with advanced low-grade non-Hodgkin <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (NHL) </plain></SENT>
+<SENT sid="1" pm="."><plain>We report on the toxicity of a modified HDT that combines total-body irradiation (TBI) with involved-field irradiation (IF-RT) for patients with bulky disease or residual <z:hpo ids='HP_0002665'>lymphomas</z:hpo> &gt; 2 cm after induction chemotherapy </plain></SENT>
+<SENT sid="2" pm="."><plain>PATIENTS AND METHODS: 41 patients received HDT which consisted of high-dose <z:chebi fb="0" ids="4027">cyclophosphamide</z:chebi> and fractionated TBI (6 x 2 Gy) followed by autologous stem cell transplantation </plain></SENT>
+<SENT sid="3" pm="."><plain>Eleven patients received IF-RT prior to TBI, three patients had already received another radiotherapy treatment prior to HDT </plain></SENT>
+<SENT sid="4" pm="."><plain>RESULTS: After a medium follow-up of 19 months we observed an overall survival rate of 100%, and a relapse-free survival rate of 78% </plain></SENT>
+<SENT sid="5" pm="."><plain>Severe toxicity was observed only in one patient who developed a <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo>, and another patient who showed signs of <z:e sem="disease" ids="C0032285" disease_type="Disease or Syndrome" abbrv="PNEUM">pneumonitis</z:e> </plain></SENT>
+<SENT sid="6" pm="."><plain>About two thirds of the patients claimed minor toxicity of grade I-II according the LENT-SOMA scale, predominantly as a decrease in concentration, reduced sexual functioning, and musculo-skeletal pain </plain></SENT>
+<SENT sid="7" pm="."><plain>Correspondingly, laboratory tests showed grade I-II changes of blood counts, liver enzymes, hormone levels, and lung function </plain></SENT>
+<SENT sid="8" pm="."><plain>There was no excess toxicity in the patients who received IF-RT additional to TBI </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSIONS: HDT including TBI and prior IF-RT is feasible without excess morbidity </plain></SENT>
+<SENT sid="10" pm="."><plain>Careful follow-up is required to detect <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo> or <z:chebi fb="32" ids="24621">endocrine</z:chebi> changes of ovarian or testicular function </plain></SENT>
+</text></document>

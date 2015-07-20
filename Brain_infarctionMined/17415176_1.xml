@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: Augmented reality (AR) is a technique in which an overlay of a virtual image to a live picture is performed to create a new image in which both original images coexist as a single image </plain></SENT>
+<SENT sid="1" pm="."><plain>This results in the visualization of internal structures through overlying tissues </plain></SENT>
+<SENT sid="2" pm="."><plain>The objective was to describe an easy, inexpensive, and successful method to coregister with AR in an image-guided surgery setting using the resources at hand </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: Cortical information was obtained with a volumetric acquisition of 200 0.8-mm thick, cerebral magnetic resonance imaging scans in an axial T1-weighted sequence </plain></SENT>
+<SENT sid="4" pm="."><plain>For the venous <z:mp ids='MP_0000002'>anatomy</z:mp>, a contrast phase at 7 mm/s velocity was used </plain></SENT>
+<SENT sid="5" pm="."><plain>This data was reconstructed in a three-dimensional fashion using MRIcro software (v </plain></SENT>
+<SENT sid="6" pm="."><plain>1.37, freeware, courtesy of Chris Rorden) and was overlaid to a digital image of the cerebral cortex either pre- or intraoperatively </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: Eight patients were studied </plain></SENT>
+<SENT sid="8" pm="."><plain>There was an adequate coregistration in seven of the patients as confirmed by intraoperative ultrasound, frame-based stereotaxy, or obvious anatomic homology between the three-dimensional magnetic resonance imaging scan virtual reconstruction and the live image obtained during surgery </plain></SENT>
+<SENT sid="9" pm="."><plain>AR was not possible in one case of a <z:e sem="disease" ids="C0742035" disease_type="Disease or Syndrome" abbrv="">cerebellar lesion</z:e> </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSION: AR coregistration capabilities are adequate when revised by other intraoperative guidance devices </plain></SENT>
+<SENT sid="11" pm="."><plain>When performed with "freeware" software and conventional digital cameras, it is relatively inexpensive, which makes it a potential tool for surgical planning and noncontinuous intraoperative guidance in neurosurgery </plain></SENT>
+<SENT sid="12" pm="."><plain>Its largest drawbacks are the inability to function in deep-seated lesions and its lack of tracking devices, which gives it a noncontinuous coregistration nature </plain></SENT>
+</text></document>

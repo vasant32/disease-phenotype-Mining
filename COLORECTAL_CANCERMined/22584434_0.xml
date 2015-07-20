@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Preclinical and experimental data in vivo indicate that Lethal-7 (Let-7) microRNA downregulates KRAS with antitumor effects in the presence of activating KRAS mutations </plain></SENT>
+<SENT sid="1" pm="."><plain>We quantified the Let-7a isoform in KRAS-mutated colorectal <z:mp ids='MP_0002038'>carcinomas</z:mp> from patients who received salvage cetuximab plus irinotecan </plain></SENT>
+<SENT sid="2" pm="."><plain>The study population was retrospectively identified among <z:e sem="disease" ids="C0948380" disease_type="Neoplastic Process" abbrv="">metastatic colorectal cancer</z:e> patients who underwent third-line therapy with cetuximab plus irinotecan in a period when only epidermal growth factor receptor (EGFR) expression was required for anti-EGFR therapy </plain></SENT>
+<SENT sid="3" pm="."><plain>In 59 patients harboring KRAS mutations, Let-7a levels were analyzed for association with overall survival (OS) and progression-free survival (PFS) times </plain></SENT>
+<SENT sid="4" pm="."><plain>An exploratory subgroup analysis was performed using the rs61764370 (LCS6 T&gt;G) polymorphism that experimentally impairs Let-7 binding to KRAS <z:chebi fb="2" ids="33699">mRNA</z:chebi> </plain></SENT>
+<SENT sid="5" pm="."><plain>In the whole group, higher Let-7a levels were significantly associated with better survival outcomes </plain></SENT>
+<SENT sid="6" pm="."><plain>For the primary OS endpoint, the multivariate hazard ratio was 0.82 (95% confidence interval, 0.73-0.91; p = .01) </plain></SENT>
+<SENT sid="7" pm="."><plain>The same findings with an accentuated positive effect of high Let-7a levels on both OS and PFS times were observed in an exploratory analysis of the 45 <z:mp ids='MP_0002169'>wild-type</z:mp> LCS6 patients (excluding 14 carriers of the LCS6 G allele variant) </plain></SENT>
+<SENT sid="8" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> survival associations were confirmed after excluding patients with KRAS codon 13 mutations </plain></SENT>
+<SENT sid="9" pm="."><plain>Among the clinicopathologic features, high Let-7a levels were associated with grade 2-3 skin toxicity (p = .002) </plain></SENT>
+<SENT sid="10" pm="."><plain>In patients with KRAS mutations, Let-7a analysis may serve to identify subgroups of patients who may still benefit from EGFR inhibition and this may open up new perspectives for alternative treatment strategies </plain></SENT>
+</text></document>

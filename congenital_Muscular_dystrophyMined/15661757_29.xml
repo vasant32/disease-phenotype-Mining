@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The dystroglycanopathies are a novel group of human <z:hpo ids='HP_0003560'>muscular dystrophies</z:hpo> due to mutations in known or putative glycosyltransferase enzymes </plain></SENT>
+<SENT sid="1" pm="."><plain>They share the common pathological feature of a hypoglycosylated form of alpha-dystroglycan, diminishing its ability to bind extracellular matrix ligands </plain></SENT>
+<SENT sid="2" pm="."><plain>The LARGE glycosyltransferase is mutated in both the <z:e sem="disease" ids="C0026850" disease_type="Disease or Syndrome;Congenital Abnormality" abbrv="">myodystrophy</z:e> mouse and <z:hpo ids='HP_0003741'>congenital muscular dystrophy</z:hpo> type 1D (MDC1D) </plain></SENT>
+<SENT sid="3" pm="."><plain>We have transfected various cell lines with a variety of LARGE expression constructs in order to characterize their subcellular localization and effect on alpha-dystroglycan glycosylation </plain></SENT>
+<SENT sid="4" pm="."><plain><z:mp ids='MP_0002169'>Wild-type</z:mp> LARGE co-localized with the Golgi marker GM130 and stimulated the production of highly glycosylated alpha-dystroglycan (hyperglycosylation) </plain></SENT>
+<SENT sid="5" pm="."><plain>MDC1D mutants had no effect on alpha-dystroglycan glycosylation and failed to localize correctly, confirming their pathogenicity </plain></SENT>
+<SENT sid="6" pm="."><plain>The two predicted catalytic domains of LARGE contain three conserved DxD motifs </plain></SENT>
+<SENT sid="7" pm="."><plain>Systematically mutating each of these motifs to <z:chebi fb="0" ids="50155">NNN</z:chebi> resulted in the mislocalization of one construct, while <z:hpo ids='HP_0000001'>all</z:hpo> failed to have any effect on alpha-dystroglycan glycosylation </plain></SENT>
+<SENT sid="8" pm="."><plain>A construct lacking the transmembrane domain also failed to localize at the Golgi apparatus </plain></SENT>
+<SENT sid="9" pm="."><plain>These results indicate that LARGE needs to both physically interact with alpha-dystroglycan and function as a glycosyltransferase in order to stimulate alpha-dystroglycan hyperglycosylation </plain></SENT>
+<SENT sid="10" pm="."><plain>We have also cloned and overexpressed a homologue of LARGE, glycosyltransferase-like 1B (GYLTL1B) </plain></SENT>
+<SENT sid="11" pm="."><plain>Like LARGE it localized to the Golgi apparatus and stimulated alpha-dystroglycan hyperglycosylation </plain></SENT>
+<SENT sid="12" pm="."><plain>These results suggest that GYLTL1B may be a candidate gene for <z:hpo ids='HP_0003560'>muscular dystrophy</z:hpo> and that its overexpression could compensate for the deficiency of both LARGE and other glycosyltransferases </plain></SENT>
+</text></document>

@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Seventy-five adult patients with newly diagnosed <z:hpo ids='HP_0006721'>acute lymphoblastic leukemia</z:hpo> (ALL) were analyzed for CD34 expression on leukemic cells </plain></SENT>
+<SENT sid="1" pm="."><plain>CD34 was significantly associated with B-cell lineage ALL (p = 0.0002) </plain></SENT>
+<SENT sid="2" pm="."><plain>In B-lineage ALL, CD34 positivity was significantly associated with expressions of CD9 (p = 0.001), CD19 (p = 0.00001) and CD22 (p = 0.002) </plain></SENT>
+<SENT sid="3" pm="."><plain>CD34 was more expressed in <z:e sem="disease" ids="C0023435" disease_type="Neoplastic Process" abbrv="">B-ALLs</z:e> with higher WBC cell count (p = 0.04), and higher percentage of peripheral blood leukemic cells (p = 0.005), total or partial <z:mp ids='MP_0004026'>monosomy</z:mp> of chromosome 7 (p = 0.0001) or Ph+ chromosome (p = 0.01); and less expressed in cases with hyperdiploidy (&gt; or = 50 chromosomes) (p = 0.03) </plain></SENT>
+<SENT sid="4" pm="."><plain>CD34 was more expressed in poor risk <z:e sem="disease" ids="C0023435" disease_type="Neoplastic Process" abbrv="">B-ALLs</z:e> patients, defined according to Hoelzer criteria (p = 0.01) </plain></SENT>
+<SENT sid="5" pm="."><plain>In T-lineage ALL, CD34 positivity was inversely correlated with the expression of CD10 (p = 0.05) </plain></SENT>
+<SENT sid="6" pm="."><plain>After intensive induction therapy, 58 of 73 evaluable patients (79%) achieved a complete remission (CR) </plain></SENT>
+<SENT sid="7" pm="."><plain>CD34 positivity was correlated with the persistence of blast cells in day 15 bone marrow aspirates (p = 0.001) and after one course of induction chemotherapy (p = 0.01) </plain></SENT>
+<SENT sid="8" pm="."><plain>With a median follow-up of 11 months, no statistical differences were seen in <z:hpo ids='HP_0001909'>leukemia</z:hpo>-free survival and overall survival between CD34 positive and negative cases, even when stratifying by immunophenotype </plain></SENT>
+<SENT sid="9" pm="."><plain>We conclude that CD34 expression is associated with features of poor prognosis in <z:e sem="disease" ids="C0751606" disease_type="Neoplastic Process" abbrv="">adult ALL</z:e> </plain></SENT>
+<SENT sid="10" pm="."><plain>Its study might therefore become useful in the design of future prognostic models </plain></SENT>
+</text></document>

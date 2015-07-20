@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0001297'>Stroke</z:hpo> therapy aims to save penumbral tissue from <z:mpath ids='MPATH_3'>apoptosis</z:mpath> that is activated in response to the ischemic injury </plain></SENT>
+<SENT sid="1" pm="."><plain>Since the c-Jun transcription factor plays a crucial role in promoting <z:mpath ids='MPATH_3'>apoptosis</z:mpath>, inhibition of its activation might reduce the final <z:mpath ids='MPATH_124'>infarct</z:mpath> size and thus increase functional outcome </plain></SENT>
+<SENT sid="2" pm="."><plain>To test this hypothesis we made use of four genetically modified mouse lines influencing the c-Jun pathway at various steps </plain></SENT>
+<SENT sid="3" pm="."><plain>Upon transient middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> for 90 min and 24 h of reperfusion, <z:mpath ids='MPATH_124'>infarct</z:mpath> volume and number of ATF-2-, TUNEL- and cleaved Caspase-3-positive cells were determined in conditional c-Jun knock-out mice (cond </plain></SENT>
+<SENT sid="4" pm="."><plain>c-Jun), mice overexpressing JunB (JunBtg), mice lacking the phosphoacceptor serines 63 and 73 of c-Jun (JunAA) and in mice overexpressing Bcl-2 (Bcl-2tg) </plain></SENT>
+<SENT sid="5" pm="."><plain>Cond </plain></SENT>
+<SENT sid="6" pm="."><plain>c-Jun as well as JunAA mice did not show significant differences in the <z:mpath ids='MPATH_124'>infarct</z:mpath> size when compared to their non-mutant controls </plain></SENT>
+<SENT sid="7" pm="."><plain>By contrast smaller <z:mpath ids='MPATH_124'>infarct</z:mpath> volumes were detected in transgenic mice merely attenuating c-Jun action (JunBtg and Bcl-2tg) </plain></SENT>
+<SENT sid="8" pm="."><plain>ATF-2, TUNEL or cleaved Caspase-3 staining revealed no significant differences between the experimental groups </plain></SENT>
+<SENT sid="9" pm="."><plain>A complete lack of functional c-Jun might be compensated by other cellular mechanisms, in contrast to its reduced function </plain></SENT>
+<SENT sid="10" pm="."><plain>Thus, our data suggest that attenuation rather than a complete block of c-Jun action appears to be more promising for therapy of <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+</text></document>

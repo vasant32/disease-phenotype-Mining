@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: Prolonged exposure of isolated islets of Langerhans to elevated levels of fatty acids, in the presence of high <z:chebi fb="105" ids="17234">glucose</z:chebi>, impairs insulin gene expression via a transcriptional mechanism involving nuclear exclusion of pancreas-duodenum homeobox-1 (Pdx-1) and loss of MafA expression </plain></SENT>
+<SENT sid="1" pm="."><plain>Whether such a phenomenon also occurs in vivo is unknown </plain></SENT>
+<SENT sid="2" pm="."><plain>Our objective was therefore to ascertain whether <z:hpo ids='HP_0011010'>chronic</z:hpo> nutrient oversupply inhibits insulin gene expression in vivo </plain></SENT>
+<SENT sid="3" pm="."><plain>RESEARCH DESIGN AND METHODS: Wistar rats received alternating 4-h infusions of <z:chebi fb="105" ids="17234">glucose</z:chebi> and Intralipid for a total of 72 h </plain></SENT>
+<SENT sid="4" pm="."><plain>Control groups received alternating infusions of <z:chebi fb="105" ids="17234">glucose</z:chebi> and saline, saline and Intralipid, or saline only </plain></SENT>
+<SENT sid="5" pm="."><plain>Insulin and C-<z:chebi fb="7" ids="16670">peptide</z:chebi> secretion were measured under hyperglycemic clamps </plain></SENT>
+<SENT sid="6" pm="."><plain>Insulin secretion and gene expression were assessed in isolated islets, and beta-cell mass was quantified by morphometric analysis </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: Neither C-<z:chebi fb="7" ids="16670">peptide</z:chebi> secretion nor insulin sensitivity was different among infusion regimens </plain></SENT>
+<SENT sid="8" pm="."><plain>Insulin content and insulin <z:chebi fb="2" ids="33699">mRNA</z:chebi> levels were lower in islets isolated from rats infused with <z:chebi fb="105" ids="17234">glucose</z:chebi> plus Intralipid </plain></SENT>
+<SENT sid="9" pm="."><plain>This was associated with reduced Pdx-1 binding to the endogenous insulin promoter, and an increased proportion of Pdx-1 localized in the cytoplasm versus the nucleus </plain></SENT>
+<SENT sid="10" pm="."><plain>In contrast, MafA <z:chebi fb="2" ids="33699">mRNA</z:chebi> and protein levels and beta-cell mass and proliferation were unchanged </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: Cyclical and alternating infusions of <z:chebi fb="105" ids="17234">glucose</z:chebi> and Intralipid in <z:mpath ids='MPATH_458'>normal</z:mpath> rats inhibit insulin gene expression without affecting insulin secretion or beta-cell mass </plain></SENT>
+<SENT sid="12" pm="."><plain>We conclude that fatty acid inhibition of insulin gene expression, in the presence of high <z:chebi fb="105" ids="17234">glucose</z:chebi>, is an early functional defect that may contribute to beta-cell failure in type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+</text></document>

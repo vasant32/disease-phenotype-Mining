@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The molecular pathogenesis of Barrett's <z:mpath ids='MPATH_160'>metaplasia</z:mpath> (BM) of the esophagus is poorly understood </plain></SENT>
+<SENT sid="1" pm="."><plain>The change to an intestinal phenotype occurs on a background of <z:hpo ids='HP_0100633'>esophagitis</z:hpo> due to refluxing acid and bile </plain></SENT>
+<SENT sid="2" pm="."><plain>CDX1, an important regulator of <z:mpath ids='MPATH_458'>normal</z:mpath> intestinal development, was studied as a potential key molecule in the pathogenesis of BM </plain></SENT>
+<SENT sid="3" pm="."><plain>CDX1 <z:chebi fb="2" ids="33699">mRNA</z:chebi> and protein were universally expressed in <z:hpo ids='HP_0000001'>all</z:hpo> samples of BM tested but not in <z:mpath ids='MPATH_458'>normal</z:mpath> esophageal squamous or gastric body epithelia </plain></SENT>
+<SENT sid="4" pm="."><plain>This tissue-specific expression was attributable to the methylation status of the CDX1 promoter </plain></SENT>
+<SENT sid="5" pm="."><plain>Conjugated <z:chebi fb="0" ids="22868">bile salts</z:chebi> and the inflammatory cytokines TNF-alpha and IL-1beta were <z:hpo ids='HP_0000001'>all</z:hpo> found to increase CDX1 <z:chebi fb="2" ids="33699">mRNA</z:chebi> expression in vitro </plain></SENT>
+<SENT sid="6" pm="."><plain>These effects were primarily mediated by NF-kappaB signaling but only occurred when the CDX1 promoter was unmethylated or partially methylated </plain></SENT>
+<SENT sid="7" pm="."><plain>The data suggest that CDX1 is a key molecule linking etiological agents of BM to the development of an intestinal phenotype </plain></SENT>
+<SENT sid="8" pm="."><plain>Although the initial trigger for CDX1 promoter demethylation is not yet identified, it seems likely that demethylation of its promoter may be the key to the induction and maintenance of CDX1 expression and so of the BM phenotype </plain></SENT>
+</text></document>

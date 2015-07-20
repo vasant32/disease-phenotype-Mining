@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0005110'>Atrial fibrillation</z:hpo> (AF) affects 2.3 million people in the United States and is currently the most common <z:hpo ids='HP_0011675'>cardiac arrhythmia</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Its overall prevalence is only increasing as the population ages </plain></SENT>
+<SENT sid="2" pm="."><plain>The classical risk factors for developing AF include <z:hpo ids='HP_0000822'>hypertension</z:hpo>, valvular disease, ischemic <z:hpo ids='HP_0001638'>cardiomyopathy</z:hpo>, and <z:hpo ids='HP_0000820'>thyroid disease</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>In some patients with AF, an underlying <z:e sem="disease" ids="C0741949" disease_type="Disease or Syndrome" abbrv="">cardiovascular pathology</z:e> is not identified and the etiology remains unknown </plain></SENT>
+<SENT sid="4" pm="."><plain>Treatment modalities for AF typically include rate control medications, antiarrhythmics and radio frequency ablation (RFA), each of which is accompanied by its own risk of complications </plain></SENT>
+<SENT sid="5" pm="."><plain>We report a case of symptomatic AF that was refractory to multiple antiarrhythmics and an RFA procedure which resolved with <z:chebi fb="0" ids="8382">prednisone</z:chebi> </plain></SENT>
+<SENT sid="6" pm="."><plain>In this case, AF was associated with <z:e sem="disease" ids="C0392077" disease_type="Disease or Syndrome" abbrv="">cardiac sarcoidosis</z:e>, a disorder that is thought to be due to granulomatous involvement of the myocardium and increased systemic <z:mp ids='MP_0001845'>inflammation</z:mp> </plain></SENT>
+</text></document>

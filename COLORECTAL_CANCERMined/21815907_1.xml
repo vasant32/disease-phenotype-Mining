@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Invariant natural killer T (iNKT) cells are considered innate-like lymphocytes, and regulate the immunity against <z:mp ids='MP_0001845'>inflammation</z:mp> and <z:mp ids='MP_0002006'>tumorigenesis</z:mp> </plain></SENT>
+<SENT sid="1" pm="."><plain>However, the impact of iNKT cells in <z:mp ids='MP_0001845'>inflammation</z:mp>-associated <z:mp ids='MP_0002006'>tumorigenesis</z:mp> remains unclear </plain></SENT>
+<SENT sid="2" pm="."><plain>In this study, we examined the physiological role of iNKT cells in a mouse <z:hpo ids='HP_0002583'>colitis</z:hpo>-associated <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> model </plain></SENT>
+<SENT sid="3" pm="."><plain>C57BL/6 (B6) and Jα18 NKT cell-deficient KO (KO) mice were used </plain></SENT>
+<SENT sid="4" pm="."><plain><z:hpo ids='HP_0002583'>Colitis</z:hpo>-associated <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> was induced by azoxymethane (AOM) and <z:chebi fb="0" ids="52071">dextran</z:chebi> <z:chebi fb="0" ids="32149">sodium sulfate</z:chebi> (DSS) </plain></SENT>
+<SENT sid="5" pm="."><plain>The resulting <z:mp ids='MP_0001845'>inflammation</z:mp> and <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumours</z:e> were examined </plain></SENT>
+<SENT sid="6" pm="."><plain>The surface markers of mononuclear cells from the liver and the colon were assessed by FACS </plain></SENT>
+<SENT sid="7" pm="."><plain>The levels of IL-13 from the colon were measured by ELISA. α-galactosylceramide (GC), or its close analog OCH, was administered intraperitoneally on the first day of each cycle of DSS-administration </plain></SENT>
+<SENT sid="8" pm="."><plain>In the AOM/DSS model, hepatic iNKT cells were significantly decreased </plain></SENT>
+<SENT sid="9" pm="."><plain>In KO mice there were significantly greater numbers of <z:e sem="disease" ids="C0009375" disease_type="Neoplastic Process" abbrv="">colon tumours</z:e> and more severe <z:mp ids='MP_0001845'>inflammation</z:mp> than in B6 mice </plain></SENT>
+<SENT sid="10" pm="."><plain>FACS analysis revealed that the population of NK1.1 (+) T cells (non-invariant NKT cells) in the colon was increased when compared to B6 mice </plain></SENT>
+<SENT sid="11" pm="."><plain>The secretion of IL-13 was increased in the colon of KO mice after AOM/DSS </plain></SENT>
+<SENT sid="12" pm="."><plain>The number of <z:e sem="disease" ids="C0009375" disease_type="Neoplastic Process" abbrv="">colon tumours</z:e> was significantly decreased in the GC-treated group compared to the control group </plain></SENT>
+<SENT sid="13" pm="."><plain>GC-treatment significantly inhibited IL-13 secretion from the colonic mononuclear cells and the number of colonic NK1.1 (+) T cells was significantly decreased </plain></SENT>
+<SENT sid="14" pm="."><plain>These results suggest that iNKT cells may play a critical role in the prevention of <z:e sem="disease" ids="C0178874" disease_type="Neoplastic Process" abbrv="">tumour progression</z:e> and <z:mp ids='MP_0001845'>inflammation</z:mp> in the AOM/DSS model </plain></SENT>
+</text></document>

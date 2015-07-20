@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: The effectiveness of photodynamic therapy (<z:chebi fb="7" ids="53228">PDT</z:chebi>) for ablation of high grade <z:mpath ids='MPATH_589'>dysplasia</z:mpath> (HGD) in <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> (BE) is typically reported histologically </plain></SENT>
+<SENT sid="1" pm="."><plain>Following successful <z:chebi fb="7" ids="53228">PDT</z:chebi>, Barrett's mucosa is replaced with neosquamous mucosa </plain></SENT>
+<SENT sid="2" pm="."><plain>The objective of this study was to compare the expression of p53 protein in neosquamous mucosa as compared to that in HGD samples not treated with <z:chebi fb="7" ids="53228">PDT</z:chebi> </plain></SENT>
+<SENT sid="3" pm="."><plain>PATIENTS AND METHODS: The patients were divided into two groups </plain></SENT>
+<SENT sid="4" pm="."><plain>Group I patients (n = 12) had been treated with <z:chebi fb="7" ids="53228">PDT</z:chebi> for HGD and provided 23 biopsy samples of neosquamous mucosa </plain></SENT>
+<SENT sid="5" pm="."><plain>Group II patients (n = 10) had not received any ablative therapies for BE and provided 14 HGD samples </plain></SENT>
+<SENT sid="6" pm="."><plain>The immunohistochemical (IHC) staining for p53 protein was performed using mouse anti-human monoclonal antibody DO-1 </plain></SENT>
+<SENT sid="7" pm="."><plain>The degree of p53 protein expression in the cell nuclei was scored using an established IHC scoring system (0 for negative samples and range of 2 to 8 for positive samples) </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: The HGD samples showed diffuse strong p53 staining </plain></SENT>
+<SENT sid="9" pm="."><plain>The median IHC score for HGD was 7.0 </plain></SENT>
+<SENT sid="10" pm="."><plain>The median IHC score for neosquamous mucosa following <z:chebi fb="7" ids="53228">PDT</z:chebi> was 4.0, with positive scores indicating weak staining in the basal layer of the neosquamous samples </plain></SENT>
+<SENT sid="11" pm="."><plain>There was significantly lower p53 expression in the neosquamous samples compared to that in the HGD samples (p &lt; 0.001) </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSION: Significantly lower p53 protein expression was detected in neosquamous mucosa of patients who had received <z:chebi fb="7" ids="53228">PDT</z:chebi> for HGD, suggesting a decreased risk for <z:e sem="disease" ids="C0178874" disease_type="Neoplastic Process" abbrv="">neoplastic progression</z:e> after treatment </plain></SENT>
+</text></document>

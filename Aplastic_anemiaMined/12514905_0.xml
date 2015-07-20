@@ -1,0 +1,23 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Haematopoietic stem cell transplantation is indicated in several haematologic and <z:e sem="disease" ids="C0019247" disease_type="Disease or Syndrome" abbrv="">genetic diseases</z:e>, the most notable being <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> and <z:hpo ids='HP_0001909'>leukemias</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Bone marrow has been the traditional source of these cells </plain></SENT>
+<SENT sid="2" pm="."><plain>Human umbilical cord blood (UCB) has recently become an alternative source of haematopoietic stem cells for transplants </plain></SENT>
+<SENT sid="3" pm="."><plain>The advantages of cord blood include noninvasive collection without risk to mother and neonate, low risk of <z:mp ids='MP_0001799'>viral</z:mp> <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infection</z:e>, and immunologic immaturity of cord cells </plain></SENT>
+<SENT sid="4" pm="."><plain>Single umbilical cord blood donation is usually sufficient for transplantation to adult recipients </plain></SENT>
+<SENT sid="5" pm="."><plain>Additionally, banking of HLA-typed UCB appears valuable in patients lacking a family donor </plain></SENT>
+<SENT sid="6" pm="."><plain>This study has focused on basic "perinatological" parameters of umbilical cord blood: average volume of single donation UCB and initial storage conditions before isolation of haematopoietic stem cells </plain></SENT>
+<SENT sid="7" pm="."><plain>Additionally, the mean content of CD34+ haematopoietic stem cells in leukocyte, lymphocyte and mononuclear cell fractions was established </plain></SENT>
+<SENT sid="8" pm="."><plain>Correlations between levels of so-called pro-inflammatory cytokines (present in cord blood serum) and number, viability and clonogenicity of cord blood mononuclear cells were checked </plain></SENT>
+<SENT sid="9" pm="."><plain>UCB samples were obtained by "open" collection during vaginal deliveries and cesarean sections </plain></SENT>
+<SENT sid="10" pm="."><plain>The collected blood was stored in solutions of <z:chebi fb="2" ids="50249">anticoagulants</z:chebi> (ACD, CPDA-1, <z:chebi fb="5" ids="28304">heparin</z:chebi>) and culture media (PBS, Iscove medium, RPMI), during several time intervals (0-1 h, 1-6 h, 6-12 h, 12-24 h) and at two temperatures (+4 degrees C, ambient) </plain></SENT>
+<SENT sid="11" pm="."><plain>UCB volumes, as well as MNC counts, correlated with delivery type, placental weight, neonatal body weight and duration of pregnancy </plain></SENT>
+<SENT sid="12" pm="."><plain>The concentration, viability and clonogenicity of MNCs were assessed after collection and storage </plain></SENT>
+<SENT sid="13" pm="."><plain>The subpopulation of CD34+ haematopoietic stem cells was isolated from MNCs using monoclonal antibodies and magnetic-based separation </plain></SENT>
+<SENT sid="14" pm="."><plain>The number, viability and clonogenicity of CD34+ cells were evaluated </plain></SENT>
+<SENT sid="15" pm="."><plain>Subsequently in some samples, the concentration of proinflammatory cytokines (IL-1 alpha, IL-1 beta, IL-6, IL-8, and TNF-alpha), number of mononuclear cells and in vitro clonogenicity of myeloid progenitors (CFU-GM) were determined </plain></SENT>
+<SENT sid="16" pm="."><plain>It was found that the collected blood volume depended on neonatal body weight (Fig. 1) </plain></SENT>
+<SENT sid="17" pm="."><plain>Umbilical blood could be stored either at ambient temperature (Fig. 4) or +4 degrees C (recommended because of reduced risk of <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infection</z:e>) for up to 24 hours in RPMI solution (Fig. 5) with <z:chebi fb="5" ids="28304">heparin</z:chebi> (Fig. 2, 3) </plain></SENT>
+<SENT sid="18" pm="."><plain>CD34+ cell count correlated with mononuclear cell count only (Fig. 6) </plain></SENT>
+<SENT sid="19" pm="."><plain>A negative correlation between the number of mononuclear cells and concentration of TNF-alpha was revealed (Fig. 7), as well as between the number of detectable CFU-GM and concentration of IL-1 beta (Fig. 8) </plain></SENT>
+<SENT sid="20" pm="."><plain>In conclusion, UCB collection and short-term storage is a safe and simple method for graftable haematopoietic stem cell recovery </plain></SENT>
+<SENT sid="21" pm="."><plain>Save for IL-1 beta and TNF-alpha, cytokine levels did not correlate with the studied parameters of umbilical cord blood </plain></SENT>
+</text></document>

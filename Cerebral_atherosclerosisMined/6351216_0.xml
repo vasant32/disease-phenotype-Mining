@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>As decided in the protocol, the AICLA study ended when <z:hpo ids='HP_0000001'>all</z:hpo> the 604 patients had completed a follow up of three years </plain></SENT>
+<SENT sid="1" pm="."><plain><z:e sem="disease" ids="C0001511" disease_type="Disease or Syndrome;Acquired Abnormality" abbrv="">Adhesion</z:e> to the protocol and drug compliance were excellent </plain></SENT>
+<SENT sid="2" pm="."><plain>Side effects, particularly <z:hpo ids='HP_0004398'>peptic ulcers</z:hpo> and <z:mp ids='MP_0001914'>bleedings</z:mp> of various origins were more frequent in the 2 treatment groups containing aspirin </plain></SENT>
+<SENT sid="3" pm="."><plain>The number of fatal and non fatal <z:e sem="disease" ids="C0007785" disease_type="Disease or Syndrome" abbrv="">cerebral infarction</z:e> was 31 in the P group, 17 in the <z:chebi fb="37" ids="15365">ASA</z:chebi> group, and 18 in the <z:chebi fb="37" ids="15365">ASA</z:chebi> + D group </plain></SENT>
+<SENT sid="4" pm="."><plain>Taking into account the duration of follow up for each patient, these figures correspond to cummulate rates of 18 p </plain></SENT>
+<SENT sid="5" pm="."><plain>100 in the P group and 10.5 p </plain></SENT>
+<SENT sid="6" pm="."><plain>100 in the 2 others </plain></SENT>
+<SENT sid="7" pm="."><plain>Analysis with the Mantel Method showed: 1 - a difference at the 6 p </plain></SENT>
+<SENT sid="8" pm="."><plain>100 level between the 3 groups and between P an AD; 2 - A difference at the 5 p </plain></SENT>
+<SENT sid="9" pm="."><plain>100 level between P and A; 3 - No difference between A and AD; 4 - A difference at the 2 p </plain></SENT>
+<SENT sid="10" pm="."><plain>100 level between the P group and the two treated groups taken together </plain></SENT>
+<SENT sid="11" pm="."><plain>Among other diseases occurring during the trial, the only significant difference concerned <z:hpo ids='HP_0001658'>myocardial infarction</z:hpo>, less frequent in the 2 treated groups (p less than 0.05) </plain></SENT>
+<SENT sid="12" pm="."><plain>Subgroup analysis failed to show a significant sex difference in the efficacy of aspirin </plain></SENT>
+<SENT sid="13" pm="."><plain>It is concluded that, in patients such as those defined in the protocol, Aspirin (1 g) has a significant beneficial effect in the secondary prevention of atherothrombotic <z:e sem="disease" ids="C0007785" disease_type="Disease or Syndrome" abbrv="">cerebral infarction</z:e> </plain></SENT>
+</text></document>

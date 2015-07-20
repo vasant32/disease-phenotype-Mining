@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Wnt/β-catenin signaling plays key roles in embryonic development and tissue homeostasis </plain></SENT>
+<SENT sid="1" pm="."><plain>Dapper3/Dact3, one of the three members of the Dapper gene family, is transcriptionally repressed in <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> and may function as a negative regulator of Wnt/β-catenin signaling </plain></SENT>
+<SENT sid="2" pm="."><plain>To investigate its physiological functions, we generated a mouse strain harboring conditional null alleles of Dapper3 (Dapper3flox/flox), and homozygous Dapper3 deficient (Dapper3-/-) mice were produced after crossing with EIIa-cre transgenic mice </plain></SENT>
+<SENT sid="3" pm="."><plain>We found that Dapper3 is not essential for mouse embryogenesis, postnatal survival and reproduction </plain></SENT>
+<SENT sid="4" pm="."><plain>However, adult Dapper3-/- mice exhibited a mild reduction in body weight compared with their <z:mp ids='MP_0002169'>wild-type</z:mp> littermates, suggesting a functional role of Dapper3 in postnatal growth </plain></SENT>
+<SENT sid="5" pm="."><plain>To investigate the role of Dapper3 in <z:mp ids='MP_0003985'>renal fibrosis</z:mp>, we employed the unilateral <z:hpo ids='HP_0006000'>ureteral obstruction</z:hpo> (UUO) model </plain></SENT>
+<SENT sid="6" pm="."><plain>Dapper3 <z:chebi fb="2" ids="33699">mRNA</z:chebi> expression was upregulated in kidney after UUO </plain></SENT>
+<SENT sid="7" pm="."><plain>Loss of the Dapper3 gene enhanced myofibroblast activation and extracellular matrix overproduction in the obstructed kidney </plain></SENT>
+<SENT sid="8" pm="."><plain>Moreover, this aggravated fibrotic phenotype was accompanied with accumulation of Dishevelled2 and β-catenin proteins and activation of Wnt targeted fibrotic genes </plain></SENT>
+<SENT sid="9" pm="."><plain>In primary renal tubular cells, Dapper3 inhibits Wnt induced epithelial-to-mesenchymal transition </plain></SENT>
+<SENT sid="10" pm="."><plain>Consistently, Dapper3 interacted with and downregulated Dishevelled2 protein, and attenuated the Wnt-responsive Topflash reporter expression </plain></SENT>
+<SENT sid="11" pm="."><plain>These findings together suggest that Dapper3 antagonizes the fibrotic actions of Wnt signaling in kidney </plain></SENT>
+</text></document>

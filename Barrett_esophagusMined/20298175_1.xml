@@ -1,0 +1,18 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Barrett's <z:mpath ids='MPATH_160'>metaplasia</z:mpath> is discussed in the context of a general theory for the formation of <z:mpath ids='MPATH_160'>metaplasias</z:mpath> based on developmental biology </plain></SENT>
+<SENT sid="1" pm="."><plain>The phenotype of a particular tissue type becomes established during embryonic development by the expression of a specific set of transcription factors </plain></SENT>
+<SENT sid="2" pm="."><plain>If this combination becomes altered, then the tissue type can be altered </plain></SENT>
+<SENT sid="3" pm="."><plain>Such events may occur by mutation or by environmental effects on gene expression, normally within the stem cell population of the tissue </plain></SENT>
+<SENT sid="4" pm="."><plain>A macroscopic patch of <z:mpath ids='MPATH_605'>metaplastic tissue</z:mpath> will arise only if the new gene activity state is self-sustaining in the absence of its original causes, and if the new tissue type can outgrow the parent tissue type </plain></SENT>
+<SENT sid="5" pm="."><plain>An important candidate gene for the causation of Barrett's <z:mpath ids='MPATH_160'>metaplasia</z:mpath> is Cdx2 (Caudal-type homeobox 2) </plain></SENT>
+<SENT sid="6" pm="."><plain>In <z:mpath ids='MPATH_458'>normal</z:mpath> development, this is expressed in the future intestine, but not the future foregut </plain></SENT>
+<SENT sid="7" pm="."><plain>Mouse knockout studies have shown that it is needed for intestinal development, and that its loss from adult intestine can lead to squamous transformations </plain></SENT>
+<SENT sid="8" pm="."><plain>It is also expressed in Barrett's <z:mpath ids='MPATH_160'>metaplasia</z:mpath> and can be activated in oesophageal cell cultures by treatment with <z:chebi fb="1" ids="3098">bile acids</z:chebi> </plain></SENT>
+<SENT sid="9" pm="."><plain>We have investigated the ability of Cdx2 to bring about intestinal transformations in oesophageal epithelium </plain></SENT>
+<SENT sid="10" pm="."><plain>Our results show that Cdx2 can activate a programme of intestinal gene expression when overexpressed in HET-1A cells, or in fetal epithelium, but not in the adult epithelium </plain></SENT>
+<SENT sid="11" pm="."><plain>This suggests that Cdx2, although necessary for formation of intestinal tissue, is not sufficient to provoke Barrett's <z:mpath ids='MPATH_160'>metaplasia</z:mpath> in adult life and that overexpression of additional transcription factors is necessary </plain></SENT>
+<SENT sid="12" pm="."><plain>In terms of diet and nutrition, there is a known association of Barrett's <z:mpath ids='MPATH_160'>metaplasia</z:mpath> with <z:hpo ids='HP_0001513'>obesity</z:hpo> </plain></SENT>
+<SENT sid="13" pm="."><plain>This may work through an increased risk of <z:e sem="disease" ids="C0017168" disease_type="Disease or Syndrome" abbrv="GERD">gastro-oesophageal reflux</z:e> </plain></SENT>
+<SENT sid="14" pm="."><plain>Acid and bile are known to activate Cdx2 expression in oesophageal cells </plain></SENT>
+<SENT sid="15" pm="."><plain>It may also increase circulating levels of TNFalpha (<z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumour</z:e> <z:mp ids='MP_0001651'>necrosis</z:mp> factor alpha), which activates Cdx2 </plain></SENT>
+<SENT sid="16" pm="."><plain>In addition, there may be effects of diet on the composition of the bile </plain></SENT>
+</text></document>

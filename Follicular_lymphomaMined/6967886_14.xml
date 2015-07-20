@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">Tumor</z:e> cells were obtained from a patient with nodular <z:hpo ids='HP_0002665'>lymphoma</z:hpo>, a monoclonal B cell <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">malignancy</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>These non-Ig-secreting <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cells were hybridized to mouse <z:mp ids='MP_0009440'>myeloma</z:mp> cells </plain></SENT>
+<SENT sid="2" pm="."><plain>Hybridomas secreting human Ig were obtained in high frequency </plain></SENT>
+<SENT sid="3" pm="."><plain>One clone, which was a stable producer of human heavy and light chains, but which had lost production of mouse light chains, was chosen for study </plain></SENT>
+<SENT sid="4" pm="."><plain>It secreted a human IgM pentamer </plain></SENT>
+<SENT sid="5" pm="."><plain>The Ig produced by this clone was purified and used as an immunogen for the production of anti-idiotype antibodies </plain></SENT>
+<SENT sid="6" pm="."><plain>These antibodies recognized the specific cell surface Ig of the <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cells and have been used to detect idiotype-bearing cells in the blood of the original patient, even at times when the disease was in clinical remission </plain></SENT>
+<SENT sid="7" pm="."><plain>Moreover, free idiotype could be detected in the patient's serum </plain></SENT>
+<SENT sid="8" pm="."><plain>Both the levels of Id+ cells and free idiotype correlated with disease activity, rising in relapse and falling in remission </plain></SENT>
+</text></document>

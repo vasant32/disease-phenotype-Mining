@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIM: This study was conducted to test the selectivity of DC031050 on cardiac and neuronal <z:chebi fb="120" ids="26216">potassium</z:chebi> channels </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: Human <z:chebi fb="91" ids="25698">ether</z:chebi>-à-go-go related gene (hERG), KCNQ and Kv1.2 channels were expressed in <z:chebi fb="0" ids="29327">CHO</z:chebi> cells </plain></SENT>
+<SENT sid="2" pm="."><plain>The delayed rectifier <z:chebi fb="120" ids="26216">potassium</z:chebi> current (I(K)) was recorded from dissociated hippocampal pyramidal neurons of neonatal rats </plain></SENT>
+<SENT sid="3" pm="."><plain>Whole-cell voltage patch clamp was used to record the voltage-activated <z:chebi fb="120" ids="26216">potassium</z:chebi> currents </plain></SENT>
+<SENT sid="4" pm="."><plain>Drug-containing solution was delivered using a RSC-100 Rapid Solution Changer </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: Both DC031050 and <z:chebi fb="0" ids="4681">dofetilide</z:chebi> potently inhibited hERG currents with IC(50) values of 2.3 ± 1.0 and 17.9 ± 1.2 nmol/L, respectively </plain></SENT>
+<SENT sid="6" pm="."><plain>DC031050 inhibited the I(K) current with an IC(50) value of 2.7 ± 1.5 μmol/L, which was &gt;1000 times the concentration required to inhibit hERG current </plain></SENT>
+<SENT sid="7" pm="."><plain>DC031050 at 3 μmol/L did not significantly affect the voltage-dependence of the steady activation, steady inactivation of I(K), or the rate of I(K) from inactivation </plain></SENT>
+<SENT sid="8" pm="."><plain>Intracellular application of DC031050 (5 μmol/L) was insufficient to inhibit I(K) </plain></SENT>
+<SENT sid="9" pm="."><plain>DC031050 up to 10 μmol/L had no effects on KCNQ2 and Kv1.2 channel currents </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSION: DC031050 is a highly selective hERG <z:chebi fb="0" ids="50509">potassium channel blocker</z:chebi> with a substantial safety margin of activity over neuronal <z:chebi fb="120" ids="26216">potassium</z:chebi> channels, thus holds significant potential for therapeutic application as a class III antiarrhythmic agent </plain></SENT>
+</text></document>

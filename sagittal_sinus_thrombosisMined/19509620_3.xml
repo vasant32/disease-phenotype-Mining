@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Cerebral sinovenous <z:mp ids='MP_0005048'>thrombosis</z:mp> (CSVT) after closed head injury is an uncommon but potentially serious complication </plain></SENT>
+<SENT sid="1" pm="."><plain>The aim of this study was to determine whether diffusion weighted imaging (DWI) provide predictive information regarding prognosis </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: We retrospectively reviewed a series of 11 patients with CSVT after closed head injury </plain></SENT>
+<SENT sid="3" pm="."><plain>Each patient underwent computed tomography and magnetic resonance imaging within 24 hours of <z:hpo ids='HP_0003674'>onset</z:hpo> of symptoms, including DWI, magnetic resonance venography, and conventional sequences </plain></SENT>
+<SENT sid="4" pm="."><plain>Apparent diffusion coefficient (<z:chebi fb="49" ids="35181">ADC</z:chebi>) values were measured in seven regions of interest in 7 of 11 patients using DWI </plain></SENT>
+<SENT sid="5" pm="."><plain>Follow-up imaging and clinical outcome were assessed 6 months or later after initial presentation </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: The most affected sinus was the posterior portion of the superior sagittal sinus </plain></SENT>
+<SENT sid="7" pm="."><plain>There was a mean time interval of 4.1 days between subsequent venous <z:hpo ids='HP_0001297'>stroke</z:hpo> and the initial insult </plain></SENT>
+<SENT sid="8" pm="."><plain><z:hpo ids='HP_0002181'>Brain edema</z:hpo> improved in 6 of 11 patients on follow-up imaging </plain></SENT>
+<SENT sid="9" pm="."><plain>Six of 11 patients recovered successfully, although high or mixed DWI intensity associated with moderately decreased <z:chebi fb="49" ids="35181">ADC</z:chebi> (0.53-0.57 x 10(-3) mm2/s) </plain></SENT>
+<SENT sid="10" pm="."><plain>Two other patients with <z:mp ids='MP_0008817'>hematomas</z:mp> developed venous infarction, despite mixed DWI with <z:hpo ids='HP_0001425'>heterogeneous</z:hpo> <z:chebi fb="49" ids="35181">ADC</z:chebi> value (0.55-1.11 x 10(-3) mm2/s) </plain></SENT>
+<SENT sid="11" pm="."><plain>The other three patients, with high DWI and strongly decreased <z:chebi fb="49" ids="35181">ADC</z:chebi> values (0.26-0.27 x 10(-3) mm2/s), developed severe brain <z:mpath ids='MPATH_127'>atrophy</z:mpath> after superior sagittal sinus <z:mp ids='MP_0005048'>thrombosis</z:mp> </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: The prospective cutoff point of <z:chebi fb="49" ids="35181">ADC</z:chebi> value may be higher in CSVT after head injury with traumatic <z:mp ids='MP_0008817'>hematoma</z:mp> </plain></SENT>
+<SENT sid="13" pm="."><plain>The territory of venous infarction was found to be larger in infants after treatment failure </plain></SENT>
+<SENT sid="14" pm="."><plain>In infants, CSVT can demonstrate initially cytotoxic <z:hpo ids='HP_0002181'>brain edema</z:hpo>, which is reversible with anticoagulation therapy </plain></SENT>
+</text></document>

@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PURPOSE: Density of circuits and size reduction of microelectronic devices increase the sensitivity to natural terrestrial radiation environment </plain></SENT>
+<SENT sid="1" pm="."><plain>Atmospheric particles, mainly <z:chebi fb="112" ids="30222">neutrons</z:chebi> can cause non-destructive or destructive failures in most electronic circuits, including volatile static memories </plain></SENT>
+<SENT sid="2" pm="."><plain>The failure occurrence probability of a soft error in real life is very low </plain></SENT>
+<SENT sid="3" pm="."><plain>However, in the last few years, a safety alert had to be communicated to the physicians for a few defibrillator models potentially affected by background levels of atmospheric ionizing cosmic radiation </plain></SENT>
+<SENT sid="4" pm="."><plain>The aim of this study was to test in vitro a variety of currently available pacemakers exposed to experimental neutron irradiation </plain></SENT>
+<SENT sid="5" pm="."><plain>METHODS: The neutron irradiation at high flux fast neutron beam was performed using Cyclone facility, with the cyclotron of the University of Leuven, Belgium </plain></SENT>
+<SENT sid="6" pm="."><plain>The neutron energy spectrum was obtained with a peak around 20 mega-electron volt (MeV) energy range from 3 to 50 MeV, and tests were performed at three fluence levels: 1E9, 5E9, and 1E10 <z:chebi fb="112" ids="30222">neutrons</z:chebi>/cm(2) </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: A total of 14 tests were conducted on 14 devices from four manufacturers </plain></SENT>
+<SENT sid="8" pm="."><plain>Following the test, the devices were functioning normally in eight cases </plain></SENT>
+<SENT sid="9" pm="."><plain>In six cases, the response at interrogation was a message on the programmer screen announcing an electrical reset </plain></SENT>
+<SENT sid="10" pm="."><plain>In <z:hpo ids='HP_0000001'>all</z:hpo> of these cases, the programmer reset command was activated and immediately restored <z:mpath ids='MPATH_458'>normal</z:mpath> functioning and programmability </plain></SENT>
+<SENT sid="11" pm="."><plain>For a same model, the electrical reset was present at high fluence (1E10 or/and 5E9 n/cm²) and not at the lower level (1E9 n/cm²) </plain></SENT>
+<SENT sid="12" pm="."><plain>Obvious differences among manufacturers were shown in this small sample study </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSIONS: This experiment shows the sensibility of modern pacemakers to neutron-induced soft errors and effectiveness of backup reversion in response to irradiation </plain></SENT>
+<SENT sid="14" pm="."><plain>The lower neutron fluence associated with a positive test was used to propose the calculation of the very low soft error rate for the tested devices in real-life atmospheric radiation </plain></SENT>
+</text></document>

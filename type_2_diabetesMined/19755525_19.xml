@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: Alteration in endoplasmic reticulum (ER) stress in diabetic hearts and its effect on cytoprotective signaling are unclear </plain></SENT>
+<SENT sid="1" pm="."><plain>Here, we examine the hypothesis that ER stress in diabetic hearts impairs phospho-<z:chebi fb="15" ids="28087">glycogen</z:chebi> synthase kinase (GSK)-3beta-mediated suppression of <z:hpo ids='HP_0001427'>mitochondrial</z:hpo> permeability transition pore (mPTP) opening, compromising myocardial response to cytoprotective signaling </plain></SENT>
+<SENT sid="2" pm="."><plain>RESEARCH DESIGN AND METHODS: A rat model of type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> (OLETF) and its control (LETO) were treated with tauroursodeoxycholic acid (TUDCA) (100 mg  </plain></SENT>
+<SENT sid="3" pm="."><plain>kg(-1)  </plain></SENT>
+<SENT sid="4" pm="."><plain>day(-1) for 7 days), an ER stress modulator </plain></SENT>
+<SENT sid="5" pm="."><plain>Infarction was induced by 20-min <z:e sem="disease" ids="C0151814" disease_type="Disease or Syndrome" abbrv="">coronary occlusion</z:e> and 2-h reperfusion </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: Levels of ER chaperones (GRP78 and GRP94) in the myocardium and level of nonphoshopho-GSK-3beta in the mitochondria were significantly higher in OLETF than in LETO rats </plain></SENT>
+<SENT sid="7" pm="."><plain>TUDCA normalized levels of GRP78 and GRP94 and <z:hpo ids='HP_0001427'>mitochondrial</z:hpo> GSK-3beta in OLETF rats </plain></SENT>
+<SENT sid="8" pm="."><plain>Administration of erythropoietin (EPO) induced phosphorylation of Akt and GSK-3beta and reduced <z:mpath ids='MPATH_124'>infarct</z:mpath> size (% risk area) from 47.4 +/- 5.2% to 23.9 +/- 3.5% in LETO hearts </plain></SENT>
+<SENT sid="9" pm="."><plain>However, neither phosphorylation of Akt and GSK-3beta nor <z:mpath ids='MPATH_124'>infarct</z:mpath> size limitation was induced by EPO in OLETF rats </plain></SENT>
+<SENT sid="10" pm="."><plain>The threshold for mPTP opening was significantly lower in mitochondria from EPO-treated OLETF rats than in those from EPO-treated LETO rats </plain></SENT>
+<SENT sid="11" pm="."><plain>TUDCA restored responses of GSK-3beta, mPTP opening threshold, and <z:mpath ids='MPATH_124'>infarct</z:mpath> size to EPO receptor activation in OLETF rats </plain></SENT>
+<SENT sid="12" pm="."><plain>There was a significant correlation between mPTP opening threshold and phospho-GSK-3beta-to-total GSK-3beta ratio in the <z:hpo ids='HP_0001427'>mitochondrial</z:hpo> fraction </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSIONS: Disruption of protective signals leading to GSK-3beta phosphorylation and increase in <z:hpo ids='HP_0001427'>mitochondrial</z:hpo> GSK-3beta are dual mechanisms by which increased ER stress inhibits EPO-induced suppression of mPTP opening and cardioprotection in diabetic hearts </plain></SENT>
+</text></document>

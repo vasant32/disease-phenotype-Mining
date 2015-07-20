@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: <z:chebi fb="0" ids="50659">Dronedarone</z:chebi> (D) is developed to maintain sinus rhythm in patients suffering from <z:hpo ids='HP_0005110'>atrial fibrillation</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>The aim of the present study was to investigate, whether <z:chebi fb="0" ids="50659">dronedarone</z:chebi> also has an antiarrhythmic potential in the ventricle and to elucidate the mechanisms for its low proarrhythmic potential in an experimental whole heart model </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS AND RESULTS: Thirty-five rabbits underwent <z:hpo ids='HP_0011010'>chronic</z:hpo> treatment with D (n = 15; 50 mg · kg(-1) · d(-1)) and <z:chebi fb="0" ids="2663">amiodarone</z:chebi> (A; n = 20; 50 mg · kg(-1) · d(-1)) </plain></SENT>
+<SENT sid="3" pm="."><plain>Hearts were perfused on a Langendorff apparatus </plain></SENT>
+<SENT sid="4" pm="."><plain>Results were compared with hearts acutely treated with sotalol (S; 50-100 μM; n = 14) </plain></SENT>
+<SENT sid="5" pm="."><plain>A 12-lead electrocardiogram and up to 8 ventricular epi- and endocardial monophasic action potentials showed a significant prolongation of QT interval (D: +24 milliseconds, A: +28 milliseconds, S: +35 milliseconds (50 μM), +56 milliseconds (100 μM); P &lt; 0.02) compared with baseline </plain></SENT>
+<SENT sid="6" pm="."><plain>In contrast to D and A, S led to a significant increase in dispersion of repolarization and exhibited reverse use dependence </plain></SENT>
+<SENT sid="7" pm="."><plain>D, A, and S increased refractory period, resulting in a significant increase in postrepolarization refractoriness (effective refractory period minus action potential duration; D = +12 milliseconds; A = +14 milliseconds; S = +25 milliseconds; P &lt; 0.05) </plain></SENT>
+<SENT sid="8" pm="."><plain>S led to a triangular action potential configuration, whereas D and A caused a fast phase 3 prolongation </plain></SENT>
+<SENT sid="9" pm="."><plain>After lowering of <z:chebi fb="120" ids="26216">potassium</z:chebi> concentration, 50% of S-treated hearts showed <z:hpo ids='HP_0001664'>torsade de pointes</z:hpo>, in contrast to an absence of <z:hpo ids='HP_0001664'>torsade de pointes</z:hpo> in D and A </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSIONS: Prolongation of myocardial repolarization and postrepolarization refractoriness by D may act antiarrhythmic </plain></SENT>
+<SENT sid="11" pm="."><plain>A fast phase 3 repolarization in the absence of both increased dispersion of repolarization and reverse use dependence prevents proarrhythmia </plain></SENT>
+</text></document>

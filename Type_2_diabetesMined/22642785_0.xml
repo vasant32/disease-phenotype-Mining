@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Aims  To investigate whether brachial blood pressure (BP) variables [systolic (SBP), diastolic (<z:chebi fb="4" ids="35861">DBP</z:chebi>) BP, pulse (PP) and mean arterial pressure (MAP)] are similar determinants of prevalent electrocardiographic <z:hpo ids='HP_0001712'>left ventricular hypertrophy</z:hpo> (LVH) in sub-Saharan Africans with type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="1" pm="."><plain>Methods  The study included 420 individuals (49% men) with type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> who were receiving <z:hpo ids='HP_0011010'>chronic</z:hpo> care in two main referral centers in the two major cities (Douala and Yaounde) of Cameroon </plain></SENT>
+<SENT sid="2" pm="."><plain>Logistic regressions models were used to estimate the odd ratio (OR) and 95% confidence interval (95% CI) for a standard deviation (SD) higher level of SBP (25 mmHg), <z:chebi fb="4" ids="35861">DBP</z:chebi> (13), PP (18) and MAP (20) with the risk of LVH </plain></SENT>
+<SENT sid="3" pm="."><plain>Discrimination was assessed and compared with c-statistics and relative integrated discrimination improvement (RIDI, %) </plain></SENT>
+<SENT sid="4" pm="."><plain>Results  The multivariable adjusted OR (95% CI) for prevalent LVH with each SD higher pressure variable was: 1.61 (1.22-2.11) for SBP, 1.27 (0.99-1.63) for <z:chebi fb="4" ids="35861">DBP</z:chebi>, 1.62 (1.23-2.15) for PP and 1.44 (1.11-1.87) for MAP </plain></SENT>
+<SENT sid="5" pm="."><plain>C-statistics comparison showed no difference in the discrimination power of models with each of the BP variables (p-values&gt;0.09) </plain></SENT>
+<SENT sid="6" pm="."><plain>However, RIDI showed an enhancement in models' discrimination when other BP variables were replaced with PP </plain></SENT>
+<SENT sid="7" pm="."><plain>Such an enhancement however was marginal for SBP </plain></SENT>
+<SENT sid="8" pm="."><plain>Using BP combinations modestly improved discrimination </plain></SENT>
+<SENT sid="9" pm="."><plain>Conclusions  PP and SBP were the best predictors of prevalent LVH in this population, while <z:chebi fb="4" ids="35861">DBP</z:chebi> was the less effective predictor </plain></SENT>
+<SENT sid="10" pm="."><plain>These findings have implications for cardiovascular risk stratification and monitoring of risk reducing therapies </plain></SENT>
+</text></document>

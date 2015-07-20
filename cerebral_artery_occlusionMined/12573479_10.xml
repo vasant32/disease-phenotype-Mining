@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND PURPOSE: The suture middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (MCAO) model is widely used for the simulation of focal <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> in rats </plain></SENT>
+<SENT sid="1" pm="."><plain>This technique causes hypothalamic injury resulting in <z:hpo ids='HP_0001945'>hyperthermia</z:hpo>, which can worsen outcome and obscure neuroprotective effects </plain></SENT>
+<SENT sid="2" pm="."><plain>Herein, we introduce a new MCAO model that avoids these disadvantages </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: Permanent MCAO was performed by intraarterial embolization using six TiO(2) macrospheres (0.3-0.4 mm in diameter) or by the suture occlusion technique </plain></SENT>
+<SENT sid="4" pm="."><plain>Body temperature was monitored, functional and histologic outcome was assessed after 24 h </plain></SENT>
+<SENT sid="5" pm="."><plain>Additional 16 rats were subjected to macrosphere or suture MCAO </plain></SENT>
+<SENT sid="6" pm="."><plain>Lesion progression was evaluated using magnetic resonance imaging (MRI) </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: The animals subjected to suture MCAO developed <z:hpo ids='HP_0001945'>hyperthermia</z:hpo> (&gt;39 degrees C), while the temperature remained <z:mpath ids='MPATH_458'>normal</z:mpath> in the macrosphere MCAO group </plain></SENT>
+<SENT sid="8" pm="."><plain><z:mpath ids='MPATH_124'>Infarct</z:mpath> size, functional outcome and model failure rate were not significantly different between the groups </plain></SENT>
+<SENT sid="9" pm="."><plain>Lesion size on MRI increased within the first 90 min and remained unchanged thereafter in both groups </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSIONS: The macrosphere MCAO model provides reproducible focal <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo>, similar to the established suture technique, but avoids hypothalamic damage and <z:hpo ids='HP_0001945'>hyperthermia</z:hpo> </plain></SENT>
+<SENT sid="11" pm="."><plain>This model, therefore, may be more appropriate for the preclinical evaluation of neuroprotective therapies and can also be used for <z:hpo ids='HP_0001297'>stroke</z:hpo> studies under difficult conditions, e.g., in awake animals or inside the MRI scanner </plain></SENT>
+</text></document>

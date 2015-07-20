@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The common leucocyte antigen, CD45, is widely expressed on the surface of lymphocytes </plain></SENT>
+<SENT sid="1" pm="."><plain>In T and B cells, CD45 has an important role in the early events of receptor signalling </plain></SENT>
+<SENT sid="2" pm="."><plain>However, the role of various CD45 isoforms in B-cell receptor (BCR)- and cytokine-induced signalling and proliferation is still unclear </plain></SENT>
+<SENT sid="3" pm="."><plain>In the present study, we establish two follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cell lines expressing either CD45RA (HF28RA) or CD45R0 (HF28R0) isoforms </plain></SENT>
+<SENT sid="4" pm="."><plain>It was observed that the two isoforms had distinct effects on BCR- or cytokine-induced cellular proliferation </plain></SENT>
+<SENT sid="5" pm="."><plain>BCR stimulation significantly increased the proliferation of HF28R0 cells, in contrast to a decreased proliferation of HF28RA cells </plain></SENT>
+<SENT sid="6" pm="."><plain>Moreover, proliferation of HF28R0 cells significantly increased after the addition of interleukin-2 (IL-2), IL-4, IL-6, IL-10, IL-12, IL-13, IL-15, interferon-gamma and <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumour</z:e> <z:mp ids='MP_0001651'>necrosis</z:mp> factor-alpha cytokines, whereas most of these cytokines significantly inhibited the proliferation of HF28RA cells </plain></SENT>
+<SENT sid="7" pm="."><plain>In addition, the cell lines had their individual cytokine <z:chebi fb="2" ids="33699">mRNA</z:chebi> expression profiles after BCR stimulation </plain></SENT>
+<SENT sid="8" pm="."><plain>We also analysed the effect of CD45 isoforms on intracellular signalling after BCR stimulation </plain></SENT>
+<SENT sid="9" pm="."><plain>It was found out that the kinetics of ERK1/2 MAP kinase phosphorylation was clearly faster in HF28R0 than in HF28RA cells </plain></SENT>
+<SENT sid="10" pm="."><plain>The phosphorylation of other analysed MAP kinases or PTKs was very similar in the cell lines </plain></SENT>
+</text></document>

@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We have previously found that in failing human hearts, Rho-associated coiled-coil protein kinase 1 (ROCK1) is processed by caspase-3 into an active isoform, ROCKΔ1 </plain></SENT>
+<SENT sid="1" pm="."><plain>The purpose of the current investigation was to elucidate the pathological consequences of truncated ROCK1 accumulation in the heart, the associated molecular mechanism of ROCKΔ1-mediated cardiac phenotype, and the molecular signaling between Rho kinase activation in cardiomyocytes and extracellular matrix response </plain></SENT>
+<SENT sid="2" pm="."><plain>We generated transgenic mice expressing ROCKΔ1 in cardiomyocytes to mimic the situation observed in human <z:e sem="disease" ids="C0018799" disease_type="Disease or Syndrome" abbrv="">heart disease</z:e>, whereas an additional kinase-deficient mouse was generated as a control </plain></SENT>
+<SENT sid="3" pm="."><plain>The ROCKΔ1 transgenic mice developed fibrotic <z:hpo ids='HP_0001638'>cardiomyopathy</z:hpo> with diastolic dysfunction </plain></SENT>
+<SENT sid="4" pm="."><plain>Transgenic hearts displayed activated TGFβ1 and NF-κB signaling and a release of a subset of cytokines and were susceptible to <z:chebi fb="0" ids="2719,48432">angiotensin II</z:chebi> stress </plain></SENT>
+<SENT sid="5" pm="."><plain>Treatment with a Rho kinase inhibitor attenuated the fibrotic phenotype </plain></SENT>
+<SENT sid="6" pm="."><plain>Cardiac fibroblasts differentiated into myofibroblasts when cocultured with transgenic cardiomyocytes but not with <z:mp ids='MP_0002169'>wild-type</z:mp> cardiomyocytes </plain></SENT>
+<SENT sid="7" pm="."><plain>Inhibitors of Rho kinase as well as TGFβR1 and NF-κB decreased these effects </plain></SENT>
+<SENT sid="8" pm="."><plain>The serum response factor-dependent TGFβ1 regulation was shown to be responsible for the Rho kinase-mediated activation of TGFβ1 signaling </plain></SENT>
+<SENT sid="9" pm="."><plain>We conclude that ROCKΔ1 is a novel fibrotic factor </plain></SENT>
+<SENT sid="10" pm="."><plain>Activation of TGFβ1 and NF-κB signaling contributes to the Rho kinase-mediated pathological <z:mp ids='MP_0003045'>fibrosis</z:mp> </plain></SENT>
+</text></document>

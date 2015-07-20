@@ -1,0 +1,18 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Lowering of blood pressure (BP) in the <z:hpo ids='HP_0011009'>acute</z:hpo> phase of <z:hpo ids='HP_0001297'>stroke</z:hpo> is reported both to worsen and to improve the outcome </plain></SENT>
+<SENT sid="1" pm="."><plain>To investigate whether <z:hpo ids='HP_0001425'>heterogeneity</z:hpo> exists between <z:hpo ids='HP_0001297'>stroke</z:hpo> subtypes in the response to BP lowering, we analysed data from the Intravenous Nimodipine West European <z:hpo ids='HP_0001297'>Stroke</z:hpo> Trial (INWEST) </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: INWEST enrolled <z:hpo ids='HP_0011009'>acute</z:hpo> ischaemic <z:hpo ids='HP_0001297'>stroke</z:hpo> patients within 24 h (n = 295) to the following groups: placebo (n = 100), 1 mg/h nimodipine (n = 101) or 2 mg/h nimodipine (n = 94) </plain></SENT>
+<SENT sid="3" pm="."><plain>Patients were retrospectively classified as total anterior circulation <z:mpath ids='MPATH_124'>infarct</z:mpath> (TACI) (i.e. <z:hpo ids='HP_0001269'>hemiparesis</z:hpo> + hemianopia + <z:hpo ids='HP_0002357'>dysphasia</z:hpo>) and non-TACI (exclusion of any one of these) </plain></SENT>
+<SENT sid="4" pm="."><plain>Main outcome measures were neurological (Orgogozo) and functional (Barthel) scores at day 21 </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: 106 patients were labelled as TACI and 62 as non-TACI </plain></SENT>
+<SENT sid="6" pm="."><plain>No significant difference in BP was observed between the TACI and non-TACI subtypes at baseline, nor did the subtypes differ in BP course within the treatment groups </plain></SENT>
+<SENT sid="7" pm="."><plain>A higher proportion of non-TACI patients received postrandomisation <z:chebi fb="0" ids="35674">antihypertensive agents</z:chebi> in addition to the study drug compared with TACI patients (55% non-TACI vs. 26% TACI, p &lt; 0.005) </plain></SENT>
+<SENT sid="8" pm="."><plain>For TACI patients, there was no outcome difference between the placebo- and nimodipine-treated groups </plain></SENT>
+<SENT sid="9" pm="."><plain>For non-TACI patients, placebo had a significantly better neurological (p = 0.004) and functional (p = 0.04) outcome than the high-dose nimodipine group </plain></SENT>
+<SENT sid="10" pm="."><plain>In multivariate analysis for TACI patients, BP reduction and nimodipine treatment had no relation with outcome </plain></SENT>
+<SENT sid="11" pm="."><plain>Baseline <z:hpo ids='HP_0001297'>stroke</z:hpo> severity (p &lt; 0.005) was the only significant predictor of the outcome at day 21 </plain></SENT>
+<SENT sid="12" pm="."><plain>For non-TACI patients, diastolic BP (<z:chebi fb="4" ids="35861">DBP</z:chebi>) reduction (p = 0.03) and nimodipine treatment (p = 0.001) were related to neurological deterioration and nimodipine treatment (p = 0.01) to functional deterioration </plain></SENT>
+<SENT sid="13" pm="."><plain>Systolic BP reduction was associated with neurological (p &lt; 0.005) and functional improvement (p = 0.01) </plain></SENT>
+<SENT sid="14" pm="."><plain>Baseline <z:hpo ids='HP_0001297'>stroke</z:hpo> severity (p &lt; 0.005) was related to both neurological and functional outcome </plain></SENT>
+<SENT sid="15" pm="."><plain>CONCLUSION: BP lowering and nimodipine treatment had no significant effect on outcome for TACI patients </plain></SENT>
+<SENT sid="16" pm="."><plain>For non-TACI patients, <z:chebi fb="4" ids="35861">DBP</z:chebi> lowering worsened the neurological outcome and high-dose nimodipine worsened both the neurological and functional outcome </plain></SENT>
+</text></document>

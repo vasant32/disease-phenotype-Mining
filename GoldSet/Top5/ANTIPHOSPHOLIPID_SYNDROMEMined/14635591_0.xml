@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 33 years old woman was admitted to the hospital after four days with cough, <z:hpo ids='HP_0002094'>dyspnea</z:hpo>, orthopnea and <z:hpo ids='HP_0002105'>hemoptysis</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Blood pressure was 170/90 mmHg, pulse was 112 and temperature was <z:mpath ids='MPATH_458'>normal</z:mpath> </plain></SENT>
+<SENT sid="2" pm="."><plain>She had <z:hpo ids='HP_0000961'>cyanosis</z:hpo> and a left ventricular gallop, without heart murmurs </plain></SENT>
+<SENT sid="3" pm="."><plain>A chest radiograph revealed <z:hpo ids='HP_0100598'>pulmonary edema</z:hpo> and echocardiogram showed a global left ventricular systolic disfunction </plain></SENT>
+<SENT sid="4" pm="."><plain>Oxygen and <z:chebi fb="0" ids="47426">furosemide</z:chebi> were started, but cardiopulmonary collapse ensued </plain></SENT>
+<SENT sid="5" pm="."><plain>The patient was supported with mechanical ventilation and treated with inotropic drugs </plain></SENT>
+<SENT sid="6" pm="."><plain>A right sided cardiac catheterization showed pulmonary wedge pressure of 18 mmHg and a cardiac index of 3 l/min/m2 </plain></SENT>
+<SENT sid="7" pm="."><plain>The levels of <z:chebi fb="0" ids="16737">creatinine</z:chebi> and <z:chebi fb="20" ids="16199">urea</z:chebi> nitrogen were elevated and a urine protein was 97 mg/dl </plain></SENT>
+<SENT sid="8" pm="."><plain>Coagulation tests were <z:mpath ids='MPATH_458'>normal</z:mpath> except by a positive lupic <z:chebi fb="3" ids="50249">anticoagulant</z:chebi> </plain></SENT>
+<SENT sid="9" pm="."><plain>Markers of <z:e sem="disease" ids="C0009782" disease_type="Disease or Syndrome" abbrv="">connective tissue diseases</z:e> or <z:hpo ids='HP_0002633'>vasculitis</z:hpo> were negatives </plain></SENT>
+<SENT sid="10" pm="."><plain>The clinical evolution suggested that a catastrophic <z:e sem="disease" ids="C0085278" disease_type="Disease or Syndrome" abbrv="">antiphospholipid syndrome</z:e> was ongoing </plain></SENT>
+<SENT sid="11" pm="."><plain>Intravenous corticoids, gammaglobulin and <z:chebi fb="0" ids="4027">cyclophosphamide</z:chebi> were administered with transient improvement </plain></SENT>
+<SENT sid="12" pm="."><plain>On her fourth day of treatment, the patient presented sudden <z:mp ids='MP_0001182'>pulmonary bleeding</z:mp> and embolism </plain></SENT>
+<SENT sid="13" pm="."><plain>A plasmapheresis was performed with improvement of renal, cardiac and pulmonary function </plain></SENT>
+<SENT sid="14" pm="."><plain>After this episode, the patient has been treated with <z:chebi fb="0" ids="8382">prednisone</z:chebi> and oral <z:chebi fb="2" ids="50249">anticoagulants</z:chebi> treatment for the last two years, without further clinical events </plain></SENT>
+</text></document>

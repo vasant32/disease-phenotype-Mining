@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A phosphorothioate oligonucleotide (PS-ODN) with sequence identical to the repeat sequence of the mammalian telomere, 5'-d(TTAGGG)-3', was incubated with a Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo>-derived (OMA-BL1) cell line </plain></SENT>
+<SENT sid="1" pm="."><plain>This hexanucleotide inhibits telomerase activity in cell lysates, lengthens cell doubling time, and induces <z:mpath ids='MPATH_3'>apoptosis</z:mpath> </plain></SENT>
+<SENT sid="2" pm="."><plain>Concatenated repeats (12-, 18-, and 24-mers) of the 5'-d(TTAGGG)-3' motif induce similar cellular responses </plain></SENT>
+<SENT sid="3" pm="."><plain>Scrambled sequences do not efficiently inhibit telomerase activity or significantly alter cell growth and viability </plain></SENT>
+<SENT sid="4" pm="."><plain>The in vivo efficacy of this PS-ODN was evaluated in a xenograft human-<z:mp ids='MP_0003815'>nude</z:mp> mouse model </plain></SENT>
+<SENT sid="5" pm="."><plain>Once <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumors</z:e> were established these animals were administered the telomere mimic, 5'-d(TTAGGG)-3', a control scrambled sequence 5'-d(TGTGAG)-3', or saline for 14 days via a subcutaneous osmotic pumps in a blinded study monitoring <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> size with dose and time </plain></SENT>
+<SENT sid="6" pm="."><plain>A significant decrease in <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> size was observed in animals given 50 micrograms/mouse/day 5'-d(TTAGGG)-3', but not following 5'-d(TGTGAG)-3', relative to the saline-treated animals </plain></SENT>
+<SENT sid="7" pm="."><plain>The antitumor activity of the 6-mer telomere mimic demonstrated a dose dependency including a reduction in metastatic nodules in the spleen </plain></SENT>
+<SENT sid="8" pm="."><plain>No activity was observed with the scrambled controls </plain></SENT>
+<SENT sid="9" pm="."><plain>In addition to antitumor activity we observed an increase in the mouse hematopoietic progenitor cell populations, BFU-e and CFU-GM </plain></SENT>
+<SENT sid="10" pm="."><plain>These results demonstrated the effects of a short hexameric oligonucleotide telomere mimic in vitro and in vivo and the potential utility of short oligonucleotides as telomerase inhibitors </plain></SENT>
+</text></document>

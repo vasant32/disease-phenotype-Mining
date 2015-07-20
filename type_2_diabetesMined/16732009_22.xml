@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: To compare the efficacy and safety profile of adding inhaled human insulin (INH; Exubera) or <z:chebi fb="0" ids="6801">metformin</z:chebi> to <z:chebi fb="0" ids="26831">sulfonylurea</z:chebi> monotherapy in patients with poorly controlled type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="1" pm="."><plain>RESEARCH DESIGN AND METHODS: We performed an open-label, parallel, 24-week, multicenter trial </plain></SENT>
+<SENT sid="2" pm="."><plain>At week -1, patients uncontrolled on <z:chebi fb="0" ids="26831">sulfonylurea</z:chebi> monotherapy were divided into two HbA(1c) (A1C) arms: &gt; or =8 to &lt; or =9.5% (moderately high) and &gt;9.5 to &lt; or =12% (very high) </plain></SENT>
+<SENT sid="3" pm="."><plain>Patients were randomized to adjunctive premeal INH (n = 225) or <z:chebi fb="0" ids="6801">metformin</z:chebi> (n = 202) </plain></SENT>
+<SENT sid="4" pm="."><plain>The primary efficacy end point was change in A1C from baseline </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: In the A1C &gt;9.5% arm, INH demonstrated a significantly greater reduction in A1C than <z:chebi fb="0" ids="6801">metformin</z:chebi> </plain></SENT>
+<SENT sid="6" pm="."><plain>Mean adjusted changes from baseline were -2.17 and -1.79%, respectively; between-treatment difference was -0.38% (95% CI -0.63 to -0.14, P = 0.002) </plain></SENT>
+<SENT sid="7" pm="."><plain>In the A1C &lt; or =9.5% arm, mean adjusted A1C changes were -1.94 and -1.87%, respectively (-0.07% [-0.33 to 0.19], P = 0.610), consistent with the noninferiority criterion </plain></SENT>
+<SENT sid="8" pm="."><plain><z:hpo ids='HP_0001943'>Hypoglycemia</z:hpo> (events/subject-month) was greater in the INH (0.33) than in the <z:chebi fb="0" ids="6801">metformin</z:chebi> (0.15) group (risk ratio 2.16 [95% CI 1.67-2.78]), but there were no associated discontinuations </plain></SENT>
+<SENT sid="9" pm="."><plain>Other adverse events, except increased cough in the INH group, were similar </plain></SENT>
+<SENT sid="10" pm="."><plain>At week 24, changes in pulmonary function parameters were small and comparable between groups </plain></SENT>
+<SENT sid="11" pm="."><plain>Insulin antibody binding increased more with INH but did not have any associated clinical manifestations </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: In patients with type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> poorly controlled on a <z:chebi fb="0" ids="26831">sulfonylurea</z:chebi> (A1C &gt;9.5%), the addition of premeal INH significantly improves glycemic control compared with adjunctive <z:chebi fb="0" ids="6801">metformin</z:chebi> and is well tolerated </plain></SENT>
+</text></document>

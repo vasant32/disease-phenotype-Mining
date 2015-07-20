@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Beta2-<z:chebi fb="2" ids="17089">glycoprotein</z:chebi> I (beta2GPI) is an absolute requirement for the binding of autoimmune anticardiolipin Abs (aCL) to <z:chebi fb="0" ids="28494">cardiolipin</z:chebi> (CL) </plain></SENT>
+<SENT sid="1" pm="."><plain>We evaluated the target recognition of human beta2GPI by IgG derived from two patients with primary and two with <z:e sem="disease" ids="C0409983" disease_type="Disease or Syndrome" abbrv="">secondary antiphospholipid syndrome</z:e> </plain></SENT>
+<SENT sid="2" pm="."><plain>The total IgG serum fractions and beta2GPI affinity-purified IgGs were assessed by using various domain-deleted mutants (DM) of human beta2GPI (DMs: I-III, I-IV, II-V, III-V, IV-V, and V) and mouse mAbs against individual beta2GPI domains </plain></SENT>
+<SENT sid="3" pm="."><plain>The four IgGs bound slightly to CL in the absence of beta2GPI and showed increased binding in the beta2GPI presence </plain></SENT>
+<SENT sid="4" pm="."><plain>Following affinity purification of the IgGs on a beta2GPI column, reactivity toward CL was absent </plain></SENT>
+<SENT sid="5" pm="."><plain>DMs containing domain V inhibited the binding of biotinylated beta2GPI to CL </plain></SENT>
+<SENT sid="6" pm="."><plain>The addition to CL-coated plates of DM V, but not the other DMs, reduced the binding of <z:hpo ids='HP_0000001'>all</z:hpo> four IgGs </plain></SENT>
+<SENT sid="7" pm="."><plain>The anti-beta2GPI IgGs bound only to complete beta2GPI and DM I-IV coated on the plates </plain></SENT>
+<SENT sid="8" pm="."><plain>The binding to plate-adsorbed beta2GPI could be inhibited by complete beta2GPI and DM I-IV, the latter being a more efficient inhibitor </plain></SENT>
+<SENT sid="9" pm="."><plain>Further, the human anti-beta2GPI IgGs could compete with the binding to beta2GPI of Cof-21 mouse mAb (directed at domain IV), but not with the two other mouse mAbs </plain></SENT>
+<SENT sid="10" pm="."><plain>The results suggest that some "autoimmune:" beta2GPI-dependent anticardiolipin Abs recognize a beta2GPI target that is distinct from the CL-binding site in domain V </plain></SENT>
+<SENT sid="11" pm="."><plain>The target site for some <z:e sem="disease" ids="C0085278" disease_type="Disease or Syndrome" abbrv="">antiphospholipid syndrome</z:e> IgGs appear to reside in domain IV of beta2GPI </plain></SENT>
+</text></document>

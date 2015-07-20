@@ -1,0 +1,6 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 10-year-old girl presented with T-cell lymphoblastic <z:hpo ids='HP_0002665'>lymphoma</z:hpo> of the mediastinum coexisting with <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Bone marrow examination showed trilineage <z:mpath ids='MPATH_589'>dysplasia</z:mpath> with no evidence of <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cells </plain></SENT>
+<SENT sid="2" pm="."><plain>Intensive chemotherapy led to a marked reduction in the <z:e sem="disease" ids="C0025063" disease_type="Neoplastic Process" abbrv="">mediastinal tumor</z:e>, but no improvement in bone marrow findings </plain></SENT>
+<SENT sid="3" pm="."><plain>Unrelated cord blood transplantation was performed, resulting in completely chimeric bone marrow cells </plain></SENT>
+<SENT sid="4" pm="."><plain>A possible explanation for the simultaneous presentation of T-cell lymphoblastic <z:hpo ids='HP_0002665'>lymphoma</z:hpo> and <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo> is that transformation occurs in pluripotent stem cells differentiating into myeloid and lymphoid cells </plain></SENT>
+</text></document>

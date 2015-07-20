@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 13-year-old boy had a history of severe <z:hpo ids='HP_0002315'>headache</z:hpo> for two weeks </plain></SENT>
+<SENT sid="1" pm="."><plain>He also had <z:hpo ids='HP_0001250'>seizures</z:hpo> and vomited many times </plain></SENT>
+<SENT sid="2" pm="."><plain>Neurological examination was <z:mpath ids='MPATH_458'>normal</z:mpath> except for bilateral <z:e sem="disease" ids="C0030353" disease_type="Disease or Syndrome" abbrv="">papilloedema</z:e> </plain></SENT>
+<SENT sid="3" pm="."><plain>Sagittal T1-weighted magnetic resonance (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e>) images showed loss of the <z:mpath ids='MPATH_458'>normal</z:mpath> flow void in the superior sagittal sinus </plain></SENT>
+<SENT sid="4" pm="."><plain>There was hyperintensity, which came from <z:hpo ids='HP_0011011'>subacute</z:hpo> <z:mp ids='MP_0005048'>thrombosis</z:mp> in the posterior half of the superior sagittal sinus </plain></SENT>
+<SENT sid="5" pm="."><plain><z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e> venography confirmed loss of flow signal in the superior sagittal sinus </plain></SENT>
+<SENT sid="6" pm="."><plain>There was also <z:mp ids='MP_0005048'>thrombosis</z:mp> of the right transverse, right sigmoid, and left transverse sinuses, and haemorrhagic infarctions in the right frontal and left parietal regions </plain></SENT>
+<SENT sid="7" pm="."><plain>A diagnosis of dural sinus <z:mp ids='MP_0005048'>thrombosis</z:mp> with cerebral venous infarction was made </plain></SENT>
+<SENT sid="8" pm="."><plain>CT, <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e> imaging, <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e> venography, and CT venography findings are discussed in patients with <z:hpo ids='HP_0005305'>cerebral venous thrombosis</z:hpo> </plain></SENT>
+</text></document>

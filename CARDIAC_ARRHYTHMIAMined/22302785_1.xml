@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>RATIONALE: <z:mp ids='MP_0004924'>Abnormal behavior</z:mp> of the cardiac <z:chebi fb="0" ids="8925">ryanodine</z:chebi> receptor (RyR2) has been linked to <z:hpo ids='HP_0011675'>cardiac arrhythmias</z:hpo> and <z:hpo ids='HP_0001635'>heart failure</z:hpo> (HF) after <z:hpo ids='HP_0001658'>myocardial infarction</z:hpo> (MI) </plain></SENT>
+<SENT sid="1" pm="."><plain>It has been proposed that protein kinase A (PKA) hyperphosphorylation of the RyR2 at a single residue, Ser-2808, is a critical mediator of RyR dysfunction, depressed cardiac performance, and HF after MI </plain></SENT>
+<SENT sid="2" pm="."><plain>OBJECTIVE: We used a mouse model (RyRS2808A) in which PKA hyperphosphorylation of the RyR2 at Ser-2808 is prevented to determine whether loss of PKA phosphorylation at this site averts <z:e sem="disease" ids="C0856742" disease_type="Disease or Syndrome" abbrv="">post MI</z:e> cardiac pump dysfunction </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS AND RESULTS: MI was induced in <z:mp ids='MP_0002169'>wild-type</z:mp> (WT) and S2808A mice </plain></SENT>
+<SENT sid="4" pm="."><plain>Myocyte and cardiac function were compared in WT and S2808A animals before and after MI </plain></SENT>
+<SENT sid="5" pm="."><plain>The effects of the PKA activator <z:chebi fb="0" ids="6046">Isoproterenol</z:chebi> (Iso) on L-type Ca(2+) current (I(CaL)), contractions, and [Ca(2+)](I) transients were also measured </plain></SENT>
+<SENT sid="6" pm="."><plain>Both WT and S2808A mice had depressed pump function after MI, and there were no differences between groups </plain></SENT>
+<SENT sid="7" pm="."><plain>MI size was also identical in both groups </plain></SENT>
+<SENT sid="8" pm="."><plain>L type Ca(2+) current, contractions, Ca(2+) transients, and SR Ca(2+) load were also not significantly different in WT versus S2808A myocytes either before or after MI </plain></SENT>
+<SENT sid="9" pm="."><plain>Iso effects on Ca(2+) current, contraction, Ca(2+) transients, and SR Ca(2+) load were identical in WT and S2808A myocytes before and after MI at both low and high concentrations </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSIONS: These results strongly support the idea that PKA phosphorylation of RyR-S2808 is irrelevant to the development of cardiac dysfunction after MI, at least in the mice used in this study </plain></SENT>
+</text></document>

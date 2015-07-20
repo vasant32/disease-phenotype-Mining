@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>c-Jun N-terminal kinases (JNKs), a family of MAP kinases, are central mediators of <z:mpath ids='MPATH_3'>apoptosis</z:mpath> and <z:hpo ids='HP_0002180'>neurodegeneration</z:hpo>, but also of plasticity and regeneration </plain></SENT>
+<SENT sid="1" pm="."><plain>Current concepts suggest that the compartmentalisation i.e. the distribution within cellular organelles and structures rather than substrate affinity determines the pathological and physiological function of individual JNKs </plain></SENT>
+<SENT sid="2" pm="."><plain>In contrast to JNK mediated activation of pro-apoptotic Bcl-2/<z:chebi fb="0" ids="30153">BH3</z:chebi>-only substrates, findings on the presence and activation of JNK isoforms in mitochondria are rare </plain></SENT>
+<SENT sid="3" pm="."><plain>Here we have analysed the specific localisation and activation of JNK1, JNK2 and JNK3 as well as of their upstream MKK4/7 in brain mitochondria following transient middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (MCAo) </plain></SENT>
+<SENT sid="4" pm="."><plain>The <z:hpo ids='HP_0001427'>mitochondrial</z:hpo> preparations were free of cytoskeletal, nuclear and ER contaminations, the specificity of antibodies was demonstrated in brain mitochondria from JNK deficient untreated mice </plain></SENT>
+<SENT sid="5" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> JNKs were present in mitochondria with JNK1 as the major carrier of a strong basal JNK activity </plain></SENT>
+<SENT sid="6" pm="."><plain>Surprisingly, JNK activity was hardly detectable in the remaining cytoplasm </plain></SENT>
+<SENT sid="7" pm="."><plain>Between 2 and 18 h following MCAo, the pattern of JNK isoforms in mitochondria completely changed </plain></SENT>
+<SENT sid="8" pm="."><plain>Presence and activation of JNK1 almost completely disappeared </plain></SENT>
+<SENT sid="9" pm="."><plain>In striking contrast, presence and activation of JNK2 and, even more pronounced, of JNK3 substantially increased </plain></SENT>
+<SENT sid="10" pm="."><plain>At the level of the upstream MKKs, complexes of MKK4:JNK1 were diminished, whereas complexes of JNK3 with MKK4 and MKK7 were enhanced </plain></SENT>
+<SENT sid="11" pm="."><plain>These data strongly suggest that the basal physiological JNK1 activity is replaced in mitochondria by activated JNK2 and JNK3 following neurodegenerative events </plain></SENT>
+<SENT sid="12" pm="."><plain>This pattern of "JNK1 goes and JNK3 comes" might be essential for the initiation of <z:mpath ids='MPATH_3'>apoptosis</z:mpath> and suggests the search for targets of compartment-specific neuroprotective strategies </plain></SENT>
+</text></document>

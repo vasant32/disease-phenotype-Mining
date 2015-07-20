@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: The <z:e sem="disease" ids="C0085278" disease_type="Disease or Syndrome" abbrv="">antiphospholipid syndrome</z:e> (APS) is characterized by the persistent presence of anti-β(2) -<z:chebi fb="2" ids="17089">glycoprotein</z:chebi> I (β(2) -GPI) autoantibodies. β(2) -GPI can exist in two conformations </plain></SENT>
+<SENT sid="1" pm="."><plain>In plasma it is a circular protein, whereas it adopts a fish-hook conformation after binding to <z:chebi fb="1" ids="16247">phospholipids</z:chebi> </plain></SENT>
+<SENT sid="2" pm="."><plain>Only the latter conformation is recognized by patient antibodies. β(2) -GPI has been shown to interact with Streptococcus pyogenes </plain></SENT>
+<SENT sid="3" pm="."><plain>OBJECTIVE: To evaluate the potential of S. pyogenes-derived proteins to induce anti-β(2) -GPI autoantibodies </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS AND RESULTS: Four S. pyogenes surface proteins (M1 protein, protein H, streptococcal collagen-like protein A [SclA], and streptococcal collagen-like protein B [SclB]) were found to interact with β(2) -GPI </plain></SENT>
+<SENT sid="5" pm="."><plain>Only binding to protein H induces a conformational change in β(2) -GPI, thereby exposing a cryptic <z:chebi fb="0" ids="53000">epitope</z:chebi> for APS-related autoantibodies </plain></SENT>
+<SENT sid="6" pm="."><plain>Mice were injected with the four proteins </plain></SENT>
+<SENT sid="7" pm="."><plain>Only mice injected with protein H developed antibodies against the patient antibody-related <z:chebi fb="0" ids="53000">epitope</z:chebi> in domain I of β(2) -GPI </plain></SENT>
+<SENT sid="8" pm="."><plain>Patients with <z:e sem="disease" ids="C0877148" disease_type="Disease or Syndrome" abbrv="">pharyngotonsillitis</z:e> caused by S. pyogenes who developed anti-protein H antibodies also generated anti-β(2) -GPI antibodies </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSIONS: Our study has demonstrated that a <z:mp ids='MP_0001794'>bacterial</z:mp> protein can induce a conformational change in β(2) -GPI, resulting in the formation of antiβ(2) -GPI autoantibodies </plain></SENT>
+<SENT sid="10" pm="."><plain>This constitutes a novel mechanism for the formation of anti-β(2) -GPI autoantibodies </plain></SENT>
+</text></document>

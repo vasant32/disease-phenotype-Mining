@@ -1,0 +1,49 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Most of the evidence that supports the hypothesis that the c-myc gene is abnormally regulated in Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">BL</z:e>) is indirect </plain></SENT>
+<SENT sid="1" pm="."><plain>The putative abnormal expression of c-myc is likely, at least in part, to be a consequence of the usurpation of its regulatory sequences by immunoglobulin enhancer elements, which are invariably juxtaposed to c-myc by the translocations associated with this <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> (C </plain></SENT>
+<SENT sid="2" pm="."><plain>M </plain></SENT>
+<SENT sid="3" pm="."><plain>Croce, J </plain></SENT>
+<SENT sid="4" pm="."><plain>Erikson, A </plain></SENT>
+<SENT sid="5" pm="."><plain>Ar-Rushdi, D </plain></SENT>
+<SENT sid="6" pm="."><plain>Aden, and K </plain></SENT>
+<SENT sid="7" pm="."><plain>Nishikura, Proc </plain></SENT>
+<SENT sid="8" pm="."><plain>Natl </plain></SENT>
+<SENT sid="9" pm="."><plain>Acad </plain></SENT>
+<SENT sid="10" pm="."><plain>Sci </plain></SENT>
+<SENT sid="11" pm="."><plain>USA, 81: 3170-3174, 1984) </plain></SENT>
+<SENT sid="12" pm="."><plain>We have developed a differentiation induction model system to examine this issue more directly </plain></SENT>
+<SENT sid="13" pm="."><plain>In a variety of non-<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">BL</z:e> cell lines, differentiation induction results in the down-regulation of c-myc (G </plain></SENT>
+<SENT sid="14" pm="."><plain>P </plain></SENT>
+<SENT sid="15" pm="."><plain>Studzinski, A </plain></SENT>
+<SENT sid="16" pm="."><plain>K </plain></SENT>
+<SENT sid="17" pm="."><plain>Bhandal, and Z </plain></SENT>
+<SENT sid="18" pm="."><plain>S </plain></SENT>
+<SENT sid="19" pm="."><plain>Brelvi, Proc </plain></SENT>
+<SENT sid="20" pm="."><plain>Soc </plain></SENT>
+<SENT sid="21" pm="."><plain>Exp </plain></SENT>
+<SENT sid="22" pm="."><plain>Biol </plain></SENT>
+<SENT sid="23" pm="."><plain>Med., 179: 288-295, 1985; Y </plain></SENT>
+<SENT sid="24" pm="."><plain>Matsui, R </plain></SENT>
+<SENT sid="25" pm="."><plain>Takahasi, K </plain></SENT>
+<SENT sid="26" pm="."><plain>Minara, T </plain></SENT>
+<SENT sid="27" pm="."><plain>Nakagawa, T </plain></SENT>
+<SENT sid="28" pm="."><plain>Koizumi, Y </plain></SENT>
+<SENT sid="29" pm="."><plain>Nakao, T </plain></SENT>
+<SENT sid="30" pm="."><plain>Sugiyama, and T </plain></SENT>
+<SENT sid="31" pm="."><plain>Fugita, <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">Cancer</z:e> Res., 49: 1366-1371, 1985; T </plain></SENT>
+<SENT sid="32" pm="."><plain>Mitchell, E </plain></SENT>
+<SENT sid="33" pm="."><plain>Sariban, and D </plain></SENT>
+<SENT sid="34" pm="."><plain>Kufe, Mol </plain></SENT>
+<SENT sid="35" pm="."><plain>Pharmacol., 30: 398-402, 1986; Z </plain></SENT>
+<SENT sid="36" pm="."><plain>S </plain></SENT>
+<SENT sid="37" pm="."><plain>Brelvi, and G </plain></SENT>
+<SENT sid="38" pm="."><plain>P </plain></SENT>
+<SENT sid="39" pm="."><plain>Studzinski, J </plain></SENT>
+<SENT sid="40" pm="."><plain>Cell </plain></SENT>
+<SENT sid="41" pm="."><plain>Physiol., 128: 171-179, 1986) </plain></SENT>
+<SENT sid="42" pm="."><plain>Since <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">BL</z:e> is of B-cell origin, differentiation is associated with persistent or increased expression of immunoglobulin genes </plain></SENT>
+<SENT sid="43" pm="."><plain>Therefore, if c-myc and c-mu are coregulated in <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">BL</z:e> via immunoglobulin enhancer sequences, persistent or increased expression of the c-myc gene, rather than down-regulation, should occur in differentiated <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">BL</z:e> cells </plain></SENT>
+<SENT sid="44" pm="."><plain>Differentiation was induced in four <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">BL</z:e> cell lines with <z:chebi fb="1" ids="28177">theophylline</z:chebi> (7 x 10(-3) M), and <z:chebi fb="2" ids="33699">mRNA</z:chebi> was examined by Northern blot analysis </plain></SENT>
+<SENT sid="45" pm="."><plain>In <z:hpo ids='HP_0000001'>all</z:hpo> four <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">BL</z:e> lines studied (JD38, AG876, KK124, and Daudi), there was persistent or increased expression of both c-mu and c-myc genes (detected with a third exon c-myc probe), in contrast to the decreased expression of the c-myc gene observed in the three Epstein-Barr virus transformed lines studied (A3317, TC84, and CB34) </plain></SENT>
+<SENT sid="46" pm="."><plain>In the <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">BL</z:e> cell line, JD38, the c-myc gene is truncated (the second and third exons are translocated to chromosome 14 while the first exon remains on chromosome 8) </plain></SENT>
+<SENT sid="47" pm="."><plain>In this line, we demonstrated that <z:chebi fb="1" ids="28177">theophylline</z:chebi> induced differentiation results in down-regulation of the first exon while the level of expression of the translocated second and third exons remains unchanged or increases.(ABSTRACT TRUNCATED AT 400 WORDS) </plain></SENT>
+</text></document>

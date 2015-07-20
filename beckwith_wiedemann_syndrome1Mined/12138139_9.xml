@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:e sem="disease" ids="C0004903" disease_type="Disease or Syndrome;Congenital Abnormality" abbrv="">Beckwith-Wiedemann syndrome</z:e> (BWS) is a somatic <z:hpo ids='HP_0001548'>overgrowth</z:hpo> syndrome characterized by a variable incidence of congenital anomalies, including hemihyperplasia and <z:hpo ids='HP_0000792'>renal malformations</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>BWS is associated with disruption of <z:mp ids='MP_0003121'>genomic imprinting</z:mp> and/or mutations in one or more genes encoded on 11p15.5, including CDKN1C (p57(KIP2)) </plain></SENT>
+<SENT sid="2" pm="."><plain>It was hypothesized that genotypic and epigenotypic abnormalities of the 11p15.5 region affecting CDKN1C were associated with renal abnormalities </plain></SENT>
+<SENT sid="3" pm="."><plain>Medical records for 159 individuals with BWS were reviewed </plain></SENT>
+<SENT sid="4" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> underwent at least one abdominal ultrasonographic evaluation </plain></SENT>
+<SENT sid="5" pm="."><plain>Testing for paternal <z:mp ids='MP_0008867'>uniparental disomy</z:mp> (UPD) at 11p15.5, CDKN1C mutations, and imprinting defects at KvDMR1 was performed for 96, 32, and 47 patients, respectively </plain></SENT>
+<SENT sid="6" pm="."><plain>Of the 159 patients, 67 (42%) exhibited renal abnormalities, mainly nephromegaly (25%), collecting system abnormalities (11%), and <z:hpo ids='HP_0000107'>renal cysts</z:hpo> (10.5%) </plain></SENT>
+<SENT sid="7" pm="."><plain>The frequency of renal lesions among patients who were tested for genetic abnormalities did not differ from that among patients who were not tested </plain></SENT>
+<SENT sid="8" pm="."><plain>Paternal UPD was demonstrated in 22 of 96 cases (23%), CDKN1C mutations in eight of 32 cases (25%), and KvDMR1 imprinting defects in 21 of 47 cases (45%) </plain></SENT>
+<SENT sid="9" pm="."><plain>The 22 UPD-positive patients exhibited a significantly higher incidence of renal abnormalities (P = 0.0026) </plain></SENT>
+<SENT sid="10" pm="."><plain>Surprisingly, the eight patients with CDKN1C mutations exhibited no significant increase in the incidence of renal lesions (P = 0.29) </plain></SENT>
+<SENT sid="11" pm="."><plain>Imprinting defects at KvDMR1, which might downregulate CDKN1C, were also not associated with a significant difference in the incidence of <z:e sem="disease" ids="C0022658" disease_type="Disease or Syndrome" abbrv="">renal disease</z:e> </plain></SENT>
+<SENT sid="12" pm="."><plain>Whereas UPD at 11p15.5 in BWS was associated with a higher incidence of renal abnormalities, mutations at CDKN1C and KvDMR1 imprinting defects were not, suggesting that imprinted genes on 11p15.5 other than CDKN1C are critical for renal development </plain></SENT>
+</text></document>

@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Epidemiologic studies report cardiovascular protection conferred by <z:chebi fb="6" ids="25681">omega-3 fatty acids</z:chebi>, in particular <z:chebi fb="0" ids="36005">docosahexaenoic acid</z:chebi> (DHA) </plain></SENT>
+<SENT sid="1" pm="."><plain>However, few experimental studies have addressed its potential in <z:hpo ids='HP_0011009'>acute</z:hpo> <z:hpo ids='HP_0001297'>stroke</z:hpo> treatment </plain></SENT>
+<SENT sid="2" pm="."><plain>The present study used multimodal MRI to assess in vivo the neuroprotection conferred by DHA and by a brain-targeting form of DHA-containing <z:chebi fb="0" ids="11230">lysophosphatidylcholine</z:chebi> (AceDoPC) in experimental <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>Rats underwent intraluminal middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (MCAO) and were treated at reperfusion by intravenous injection of i) saline, ii) plasma from donor rats, iii) DHA or iv) AceDoPC, both solubilized in plasma </plain></SENT>
+<SENT sid="4" pm="."><plain>Twenty-four hours after reperfusion, animals underwent behavioral tests and were sacrificed </plain></SENT>
+<SENT sid="5" pm="."><plain>Multiparametric MRI (MRA, DWI, PWI, T2-WI) was performed at H0, during occlusion, and at H24, before sacrifice </plain></SENT>
+<SENT sid="6" pm="."><plain>Brain tissue was used for assay of F(2)-isoprostanes as <z:chebi fb="23" ids="18059">lipid</z:chebi> peroxidation markers </plain></SENT>
+<SENT sid="7" pm="."><plain>Initial lesion size and PWI/DWI mismatch were comparable in the four groups </plain></SENT>
+<SENT sid="8" pm="."><plain>Between H0 and H24, lesion size increased in the saline group (mean ± s.d.: +18% ± 20%), was stable in the plasma group (-3% ± 29%), and decreased in the DHA (-17% ± 15%, P=0.001 compared to saline) and AceDoPC (-34% ± 27%, P=0.001 compared to saline) groups </plain></SENT>
+<SENT sid="9" pm="."><plain>Neuroscores in the AceDoPC group tended to be lower than in the other groups (P=0.07) </plain></SENT>
+<SENT sid="10" pm="."><plain>Treatments (pooled DHA and AceDoPC groups) significantly decreased <z:chebi fb="23" ids="18059">lipid</z:chebi> peroxidation as compared to controls (pooled saline and vehicle) (P=0.03) </plain></SENT>
+<SENT sid="11" pm="."><plain>MRI-based assessment demonstrated the neuroprotective effect of DHA in the MCAO model </plain></SENT>
+<SENT sid="12" pm="."><plain>Results further highlighted the therapeutic potential of engineered brain-targeting forms of <z:chebi fb="6" ids="25681">omega-3 fatty acids</z:chebi> for <z:hpo ids='HP_0011009'>acute</z:hpo> <z:hpo ids='HP_0001297'>stroke</z:hpo> treatment </plain></SENT>
+</text></document>

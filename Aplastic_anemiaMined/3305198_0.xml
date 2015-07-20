@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>In Essen 142 bone marrow transplantations were carried out between December 1975 and February 1985 </plain></SENT>
+<SENT sid="1" pm="."><plain>In 74 cases the indication was <z:hpo ids='HP_0002488'>acute leukemia</z:hpo> in relapse (n = 23) or in first or consecutive remission (n = 51) </plain></SENT>
+<SENT sid="2" pm="."><plain>The conditioning regimen consisted of <z:chebi fb="0" ids="4027">cyclophosphamide</z:chebi> or the combination of <z:chebi fb="0" ids="4027">cyclophosphamide</z:chebi> and total body irradiation </plain></SENT>
+<SENT sid="3" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> patients were treated under strict gnotobiotic care </plain></SENT>
+<SENT sid="4" pm="."><plain>To mitigate the risk of <z:e sem="disease" ids="C0010823" disease_type="Disease or Syndrome" abbrv="">CMV infections</z:e>, intravenous CMV-hyperimmune globulin and CMV-negative blood products have been applied routinely for 2 years </plain></SENT>
+<SENT sid="5" pm="."><plain>MTX was used as prophylaxis against GvHD </plain></SENT>
+<SENT sid="6" pm="."><plain>In the prognostically unfavorable group of <z:hpo ids='HP_0002488'>acute leukemia</z:hpo> in relapse, only one patient showed long-term survival </plain></SENT>
+<SENT sid="7" pm="."><plain>In this patient, leukemic relapse occurred 6 years after transplantation </plain></SENT>
+<SENT sid="8" pm="."><plain>The survival rate of <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">AML</z:e> patients grafted during the first remission is 55% (16/29) with a median observation time of 41 months </plain></SENT>
+<SENT sid="9" pm="."><plain>For patients grafted in first or consecutive remission of <z:hpo ids='HP_0006721'>acute lymphoblastic leukemia</z:hpo>, the survival rate is 50% (7/14) with a maximal observation time of 34 months </plain></SENT>
+<SENT sid="10" pm="."><plain>The overall incidence of GvHD in patients at risk was 28% in <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo>, 26% in <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">AML</z:e>, 9% in ALL, and 63% in <z:mp ids='MP_0005481'>CML</z:mp> </plain></SENT>
+<SENT sid="11" pm="."><plain>In <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo>, no patient developed an interstitial <z:hpo ids='HP_0002090'>pneumonia</z:hpo> </plain></SENT>
+<SENT sid="12" pm="."><plain>In <z:hpo ids='HP_0001909'>leukemia</z:hpo>, the risk of fatal interstitial <z:hpo ids='HP_0002090'>pneumonia</z:hpo> was 34% </plain></SENT>
+</text></document>

@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: <z:chebi fb="0" ids="2038">5-azacytidine</z:chebi> (azacytidine), a DNA hypomethylating agent, was recently approved as the first therapeutic agent for the treatment of <z:hpo ids='HP_0002863'>myelodysplastic syndromes</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>The present subcutaneous dosing schedule, 75 mg/m(2) for 7/28 days, is based on early clinical studies and may constitute a practical problem for patients </plain></SENT>
+<SENT sid="2" pm="."><plain>The present in vitro study aimed at evaluating the pharmacodynamics of azacytidine, thereby providing a rationale for clinical dose-finding studies </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: P39 cells were incubated with 0.1, 0.5, and 1 microM azacytidine daily for 24, 48, and 72 hours, followed by 48 hours in drug-free medium </plain></SENT>
+<SENT sid="4" pm="."><plain>The effects of azacytidine on cell growth, proliferation, <z:mpath ids='MPATH_3'>apoptosis</z:mpath>, cell cycle status, and promoter methylation of E-cadherin, ER, and HIC genes were studied </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: Azacytidine decreased cell growth and proliferation, <z:mp ids='MP_0006042'>increased apoptosis</z:mp>, and affected cell cycle status in a dose-dependent manner </plain></SENT>
+<SENT sid="6" pm="."><plain>However, the exposure time, 24 to 72 hours, at doses between 0.5 and 1 microM, did not significantly affect any of these variables </plain></SENT>
+<SENT sid="7" pm="."><plain>Using first-order exponential pharmacokinetic model, we found that the effect of 1, 2, or 3 microM over 24 hours did not differ from that of 0.5 to 1 microM given over 48 to 72 hours </plain></SENT>
+<SENT sid="8" pm="."><plain>Induction of promoter hypomethylation was observed already after 24 hours of exposure with &gt;or=0.5 microM azacytidine with no clear dose-effect relationship </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSION: Our results indicate that optimal cellular effects of azacytidine might be achieved by shorter exposure times </plain></SENT>
+<SENT sid="10" pm="."><plain>The model provides information about the relation between azacytidine dose intensity and exposure time on malignant myeloid cells, which could serve as a rationale for further clinical development of practical, safe, and cost-effective dosing schedules </plain></SENT>
+</text></document>

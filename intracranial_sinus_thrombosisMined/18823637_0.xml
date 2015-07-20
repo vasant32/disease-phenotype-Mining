@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND PURPOSE: <z:hpo ids='HP_0005305'>Cerebral venous thrombosis</z:hpo> (CVT) is a <z:e sem="disease" ids="C0678236" disease_type="Disease or Syndrome" abbrv="">rare disease</z:e> with a variable outcome </plain></SENT>
+<SENT sid="1" pm="."><plain>The aim of this study was to develop and validate a predictive outcome score for CVT patients </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: The score was based on the 8 predictive variables of poor outcome (modified Rankin Scale score&gt;2) from the International Study on Cerebral Vein and Dural Sinus <z:mp ids='MP_0005048'>Thrombosis</z:mp>: age &gt;37, male, mental status disorder, <z:hpo ids='HP_0001259'>coma</z:hpo>, <z:hpo ids='HP_0002170'>intracranial hemorrhage</z:hpo>, deep CVT, <z:hpo ids='HP_0011450'>CNS infection</z:hpo>, and <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">malignancy</z:e> </plain></SENT>
+<SENT sid="3" pm="."><plain>To assign a weighted index (WI), the natural logarithm of the hazard ratio of each variable was calculated, multiplied by 10 and rounded to the nearest integer </plain></SENT>
+<SENT sid="4" pm="."><plain>The individual score of each patient was the sum of the WI </plain></SENT>
+<SENT sid="5" pm="."><plain>The validation sample consisted of a retrospective single center cohort of 90 CVT patients </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: Sixteen patients (18%) had a poor outcome </plain></SENT>
+<SENT sid="7" pm="."><plain>The predictive score had an area under the receiver operating characteristic curve of 0.81 (95% CI 0.71-0.90) </plain></SENT>
+<SENT sid="8" pm="."><plain>The cut-off score with the maximum sum of sensitivity and specificity was a score&gt; or =14 with sensitivity of 88% (81%-95%) and specificity of 70% (61%-79%) </plain></SENT>
+<SENT sid="9" pm="."><plain>The predictive value of a score&lt;14 for good outcome was 96% (92%-100%), whereas the predictive value of a score&gt; or =14 for poor outcome was 39% (29%-49%) </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSIONS: This relatively simple predictive outcome score may be useful in CVT patients </plain></SENT>
+<SENT sid="11" pm="."><plain>A cut-off score of 14 reliably predicts good outcome, but is less accurate in predicting poor outcome </plain></SENT>
+</text></document>

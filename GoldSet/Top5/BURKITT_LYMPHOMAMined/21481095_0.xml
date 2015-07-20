@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 35-year-old Japanese woman in the 24th week of gestation with bilateral breast enlargement was referred to hospital </plain></SENT>
+<SENT sid="1" pm="."><plain>She was diagnosed with Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> and admitted for detailed evaluation and treatment </plain></SENT>
+<SENT sid="2" pm="."><plain>Early delivery and subsequent chemotherapy was chosen after considering the gestational week, her general condition and the wishes of the patient and her husband </plain></SENT>
+<SENT sid="3" pm="."><plain>She gave birth to a male infant by cesarean section in the 25(th) week of gestation </plain></SENT>
+<SENT sid="4" pm="."><plain>It had been planned to begin high-dose chemotherapy, such as CODOX-M/IVAC, on day 7 of the puerperium; however, her general condition worsened and chemotherapy was therefore begun on day 2 after the birth </plain></SENT>
+<SENT sid="5" pm="."><plain>Eight hours after chemotherapy (<z:chebi fb="0" ids="4027">cyclophosphamide</z:chebi>, <z:chebi fb="0" ids="28445">vincristine</z:chebi> and <z:chebi fb="0" ids="28748">doxorubicin</z:chebi>), she developed <z:hpo ids='HP_0001695'>cardiac arrest</z:hpo> due to <z:e sem="disease" ids="C0041364" disease_type="Disease or Syndrome" abbrv="">tumor lysis syndrome</z:e> </plain></SENT>
+<SENT sid="6" pm="."><plain>Despite medical treatment, her <z:hpo ids='HP_0001892'>bleeding tendency</z:hpo> did not improve and she died of <z:hpo ids='HP_0002093'>respiratory failure</z:hpo> with <z:mp ids='MP_0010909'>alveolar bleeding</z:mp> five days after chemotherapy </plain></SENT>
+</text></document>

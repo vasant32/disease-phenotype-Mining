@@ -1,0 +1,18 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Several reports have found that <z:hpo ids='HP_0011010'>chronic</z:hpo> <z:e sem="disease" ids="C0022658" disease_type="Disease or Syndrome" abbrv="">kidney disease</z:e> (CKD) is an independent risk factor for <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>However, little is known about whether cerebrovascular disease conversely predicts the outcome of kidney function </plain></SENT>
+<SENT sid="2" pm="."><plain>In view of the similarities between vascular beds of the kidney and brain, we hypothesized that silent <z:e sem="disease" ids="C0751955" disease_type="Disease or Syndrome" abbrv="">brain infarction</z:e> (SBI) could reflect the degree of injury in renal small vessels and predict the risk of progression of <z:e sem="disease" ids="C0022658" disease_type="Disease or Syndrome" abbrv="">kidney disease</z:e> </plain></SENT>
+<SENT sid="3" pm="."><plain>STUDY DESIGN: Prospective cohort study </plain></SENT>
+<SENT sid="4" pm="."><plain>SETTING &amp; PARTICIPANTS: 142 patients with CKD (stages 3-5) admitted to our clinic for education about CKD from January 2006 to July 2007 were recruited and followed up for 2 years </plain></SENT>
+<SENT sid="5" pm="."><plain>PREDICTOR: SBI </plain></SENT>
+<SENT sid="6" pm="."><plain>OUTCOMES: Composite primary outcomes: doubling of serum <z:chebi fb="0" ids="16737">creatinine</z:chebi> level, development of <z:hpo ids='HP_0003774'>end-stage renal disease</z:hpo> defined as dialysis or transplant, and <z:hpo ids='HP_0011420'>death</z:hpo> from cardiovascular causes </plain></SENT>
+<SENT sid="7" pm="."><plain>Secondary outcome: rate of decrease in estimated glomerular filtration rate </plain></SENT>
+<SENT sid="8" pm="."><plain>MEASUREMENTS: Brain magnetic resonance imaging was performed to determine the presence or absence of SBI </plain></SENT>
+<SENT sid="9" pm="."><plain>RESULTS: At baseline, 87 patients had SBI </plain></SENT>
+<SENT sid="10" pm="."><plain>During follow-up, 43 patients (30.3%) developed the following primary outcomes: doubling of serum <z:chebi fb="0" ids="16737">creatinine</z:chebi> level (8 patients), dialysis therapy (32 patients), and <z:hpo ids='HP_0011420'>death</z:hpo> from cardiovascular causes (3 patients) </plain></SENT>
+<SENT sid="11" pm="."><plain>In crude analysis, the presence of SBI predicted time to primary outcomes (P=0.01) </plain></SENT>
+<SENT sid="12" pm="."><plain>A multivariate Cox model confirmed the presence of SBI to be an independent predictor of study outcomes (HR, 2.16; 95% CI, 1.01-4.64; P=0.04) </plain></SENT>
+<SENT sid="13" pm="."><plain>Estimated glomerular filtration rate decreased more in patients with SBI than in those without SBI (-0.11/y vs -0.06/y relative to baseline value; P=0.005) </plain></SENT>
+<SENT sid="14" pm="."><plain>LIMITATIONS: Study size was small </plain></SENT>
+<SENT sid="15" pm="."><plain>CONCLUSION: We showed that SBI was an important independent prognostic factor for the progression of <z:e sem="disease" ids="C0022658" disease_type="Disease or Syndrome" abbrv="">kidney disease</z:e> in patients with CKD </plain></SENT>
+<SENT sid="16" pm="."><plain>Our findings suggest that patients with SBI should be considered a high-risk population for decreased kidney function </plain></SENT>
+</text></document>

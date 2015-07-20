@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Duchenne <z:hpo ids='HP_0003560'>muscular dystrophy</z:hpo> (DMD) <z:hpo ids='HP_0001638'>cardiomyopathy</z:hpo> patients currently have no therapeutic options </plain></SENT>
+<SENT sid="1" pm="."><plain>We evaluated catheter-based transendocardial delivery of a recombinant adeno-associated virus (rAAV) expressing a small nuclear U7 <z:chebi fb="40" ids="33697">RNA</z:chebi> (U7smOPT) complementary to specific cis-acting splicing signals </plain></SENT>
+<SENT sid="2" pm="."><plain>Eliminating specific exons restores the open reading frame resulting in translation of truncated dystrophin protein </plain></SENT>
+<SENT sid="3" pm="."><plain>To test this approach in a clinically relevant DMD model, golden retriever <z:hpo ids='HP_0003560'>muscular dystrophy</z:hpo> (GRMD) dogs received serotype 6 rAAV-U7smOPT via the intracoronary or transendocardial route </plain></SENT>
+<SENT sid="4" pm="."><plain>Transendocardial injections were administered with an injection-tipped catheter and fluoroscopic guidance using X-ray fused with magnetic resonance imaging (XFM) roadmaps </plain></SENT>
+<SENT sid="5" pm="."><plain>Three months after treatment, tissues were analyzed for DNA, <z:chebi fb="40" ids="33697">RNA</z:chebi>, dystrophin protein, and histology </plain></SENT>
+<SENT sid="6" pm="."><plain>Whereas intracoronary delivery did not result in effective transduction, transendocardial injections, XFM guidance, enabled 30±10 non-overlapping injections per animal </plain></SENT>
+<SENT sid="7" pm="."><plain>Vector DNA was detectable in <z:hpo ids='HP_0000001'>all</z:hpo> samples tested and ranged from &lt;1 to &gt;3000 vector genome copies per cell </plain></SENT>
+<SENT sid="8" pm="."><plain><z:chebi fb="40" ids="33697">RNA</z:chebi> analysis, western blot analysis, and immunohistology demonstrated extensive expression of skipped <z:chebi fb="40" ids="33697">RNA</z:chebi> and dystrophin protein in the treated myocardium </plain></SENT>
+<SENT sid="9" pm="."><plain>Left ventricular function remained unchanged over a 3-month follow-up </plain></SENT>
+<SENT sid="10" pm="."><plain>These results demonstrated that effective transendocardial delivery of rAAV-U7smOPT was achieved using XFM </plain></SENT>
+<SENT sid="11" pm="."><plain>This approach restores an open reading frame for dystrophin in affected dogs and has potential clinical utility.Gene Therapy advance online publication, 3 May 2012; doi:10.1038/gt.2012.38 </plain></SENT>
+</text></document>

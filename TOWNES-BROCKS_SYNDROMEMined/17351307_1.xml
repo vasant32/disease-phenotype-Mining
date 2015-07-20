@@ -1,0 +1,5 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:e sem="disease" ids="C0265246,C1531578" disease_type="Disease or Syndrome;Congenital Abnormality" abbrv="">Townes-Brocks syndrome</z:e> (<z:chebi fb="2" ids="127105">TBS</z:chebi>) is an <z:hpo ids='HP_0000006'>autosomal dominant</z:hpo> disorder with multiple malformations and variable expression </plain></SENT>
+<SENT sid="1" pm="."><plain>Major findings include external <z:hpo ids='HP_0000598'>ear anomalies</z:hpo>, hearing loss, limb deformity, <z:mp ids='MP_0003130'>imperforate anus</z:mp>, and <z:hpo ids='HP_0000792'>renal malformations</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain><z:hpo ids='HP_0000821'>Hypothyroidism</z:hpo> is not a recognized feature of <z:chebi fb="2" ids="127105">TBS</z:chebi> </plain></SENT>
+<SENT sid="3" pm="."><plain>We are reporting a case of <z:chebi fb="2" ids="127105">TBS</z:chebi> with <z:hpo ids='HP_0000821'>hypothyroidism</z:hpo>, a rare association </plain></SENT>
+</text></document>

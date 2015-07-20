@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>As <z:chebi fb="3" ids="44915">propofol</z:chebi> has been reported to have effects similar to those of thiopentone on cerebral blood flow, intracranial pressure and cerebral metabolic rate, we postulated that it might also have a protective effect on focal <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>This experiment was designed to test whether or not <z:chebi fb="3" ids="44915">propofol</z:chebi> can alter <z:mpath ids='MPATH_124'>infarct</z:mpath> volume resulting from permanent focal <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> in rats </plain></SENT>
+<SENT sid="2" pm="."><plain>Forty-five rats were randomly assigned to three groups, <z:hpo ids='HP_0000001'>all</z:hpo> of which received xylaxine (5 mg kg-1 im) and ketamine (100 mg kg-1 ip) anesthesia </plain></SENT>
+<SENT sid="3" pm="."><plain>Rectal temperatures were controlled at 36-37 degrees C </plain></SENT>
+<SENT sid="4" pm="."><plain>A right temporal craniotomy was performed and the middle cerebral artery (<z:chebi fb="70" ids="34342">MCA</z:chebi>) was ligated with a 10-O suture </plain></SENT>
+<SENT sid="5" pm="."><plain>Both common carotid arteries (CCAs) were then occluded for 60 minutes using <z:hpo ids='HP_0002617'>aneurysm</z:hpo> clips </plain></SENT>
+<SENT sid="6" pm="."><plain>In Group 1 rats (n = 15), <z:mpath ids='MPATH_458'>normal</z:mpath> saline (1 ml kg-1 i.v.) was given right after <z:chebi fb="70" ids="34342">MCA</z:chebi> and CCAs ligation </plain></SENT>
+<SENT sid="7" pm="."><plain>In Group 2 rats (N = 15), <z:chebi fb="3" ids="44915">propofol</z:chebi> (10 mg kg-1 i.v </plain></SENT>
+<SENT sid="8" pm="."><plain>bolus) was given right after <z:chebi fb="70" ids="34342">MCA</z:chebi> and CCAs ligation </plain></SENT>
+<SENT sid="9" pm="."><plain>In Group 3 rats (n = 15), continuous intravenous infusion of <z:chebi fb="3" ids="44915">propofol</z:chebi> (16 mg kg-1 hr-1) was given for four hours following <z:chebi fb="70" ids="34342">MCA</z:chebi> and CCAs ligation, during which time mean arterial pressure was maintained approximately 90 mmHg </plain></SENT>
+<SENT sid="10" pm="."><plain>Twenty-four hours after <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e>, the brains were removed, frozen, sectioned and stained with 2% 2,3,5-triphenyltetrazolium <z:chebi fb="76" ids="17996">chloride</z:chebi> </plain></SENT>
+<SENT sid="11" pm="."><plain>The cross-sectional area of infarction on each brain slice was measured using computer imaging analysis.(ABSTRACT TRUNCATED AT 250 WORDS) </plain></SENT>
+</text></document>

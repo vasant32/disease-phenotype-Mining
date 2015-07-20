@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND/AIMS: Allelic losses of chromosome 17p and overexpression of p53 protein have been reported in Barrett's <z:mp ids='MP_0009308'>adenocarcinomas</z:mp> </plain></SENT>
+<SENT sid="1" pm="."><plain>This study aimed to determine the stage in which p53 mutations arise in <z:e sem="disease" ids="C0178874" disease_type="Neoplastic Process" abbrv="">neoplastic progression</z:e> in <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> and their relationship to the <z:e sem="disease" ids="C1516669" disease_type="Neoplastic Process" abbrv="">clonal evolution</z:e> of <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: Fourteen patients with high-grade <z:mpath ids='MPATH_589'>dysplasia</z:mpath>, <z:mp ids='MP_0009308'>adenocarcinoma</z:mp>, or both arising in <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> were evaluated </plain></SENT>
+<SENT sid="3" pm="."><plain>Flow cytometric cell sorting was used to obtain purified populations of neoplastic cells for analysis of p53 mutations </plain></SENT>
+<SENT sid="4" pm="."><plain>DNA was extracted, and exons 5 through 9 of the p53 gene were amplified by polymerase chain reaction </plain></SENT>
+<SENT sid="5" pm="."><plain>Amplified DNA was sequenced and analyzed by automated sequencing </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: Nine of the 14 patients had p53 mutations </plain></SENT>
+<SENT sid="7" pm="."><plain>Six of the 9 patients had regions of high-grade <z:mpath ids='MPATH_589'>dysplasia</z:mpath> that could be evaluated; <z:hpo ids='HP_0000001'>all</z:hpo> 6 had p53 mutations in high-grade <z:mpath ids='MPATH_589'>dysplasia</z:mpath> </plain></SENT>
+<SENT sid="8" pm="."><plain>In 3 patients, the same p53 mutations were found in both high-grade <z:mpath ids='MPATH_589'>dysplasia</z:mpath> and <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> </plain></SENT>
+<SENT sid="9" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> 14 patients had <z:mp ids='MP_0004024'>aneuploidy</z:mp> </plain></SENT>
+<SENT sid="10" pm="."><plain>In 4 patients, diploid cell populations could also be evaluated for p53 mutations; 3 of the 4 patients had p53 mutations in diploid cell populations </plain></SENT>
+<SENT sid="11" pm="."><plain>In 2 patients, the same p53 mutation was found in multiple aneuploid cell populations within a <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: p53 mutations occur frequently in Barrett's <z:mp ids='MP_0009308'>adenocarcinomas</z:mp> </plain></SENT>
+<SENT sid="13" pm="."><plain>They develop in diploid cell populations </plain></SENT>
+<SENT sid="14" pm="."><plain>The same p53 mutations are then found in aneuploid cell populations in high-grade <z:mpath ids='MPATH_589'>dysplasia</z:mpath>, in <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e>, and in multiple aneuploid cell populations in <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> </plain></SENT>
+</text></document>

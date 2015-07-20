@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: Tissue plasminogen activator (tPA) as a main thrombolytic drug for <z:hpo ids='HP_0011009'>acute</z:hpo> <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> remains complicated by risk of hemorrhagic transformation </plain></SENT>
+<SENT sid="1" pm="."><plain>However, whether endogenous tPA is also involved in hemorrhagic transformation is yet unclear </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: We randomly assigned male Sprague-Dawley rats into three groups: the <z:chebi fb="5" ids="28304">heparin</z:chebi> group, the control group and the sham operated group </plain></SENT>
+<SENT sid="3" pm="."><plain>The ischemic rat models were induced by middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> through intraluminal thread technique for 2 hours, followed by 24 hours of reperfusion </plain></SENT>
+<SENT sid="4" pm="."><plain><z:chebi fb="5" ids="28304">Heparin</z:chebi> or saline was intermittent peritoneally injected after reperfusion </plain></SENT>
+<SENT sid="5" pm="."><plain>The extent of <z:hpo ids='HP_0001342'>cerebral hemorrhage</z:hpo>, the <z:mpath ids='MPATH_124'>infarct</z:mpath> volume, as well as the content and activity of endogenous tPA were evaluated </plain></SENT>
+<SENT sid="6" pm="."><plain>The matrix metalloproteinase 9 (MMP-9) expression and activity were also measured </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: <z:hpo ids='HP_0000001'>All</z:hpo> rats receiving <z:chebi fb="5" ids="28304">heparin</z:chebi> after reperfusion were subjected to hemorrhagic transformation </plain></SENT>
+<SENT sid="8" pm="."><plain><z:mp ids='MP_0001914'>Hemorrhage</z:mp> volume in the <z:chebi fb="5" ids="28304">heparin</z:chebi> group was remarkably present </plain></SENT>
+<SENT sid="9" pm="."><plain>There was significant difference between the two groups (p&lt;0.01) </plain></SENT>
+<SENT sid="10" pm="."><plain>In the <z:chebi fb="5" ids="28304">heparin</z:chebi> group, the expressions of endogenous tPA and MMP-9 obviously increased, while their content and activity had significant differences compared with that of the control group (p&lt;0.01) </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSION: Endogenous tPA, through enhancement of MMP-9 expression and proteolytic activation, plays an important role in the pathogenesis of hemorrhagic transformation after cerebral reperfusion induced by <z:chebi fb="5" ids="28304">heparin</z:chebi> </plain></SENT>
+</text></document>

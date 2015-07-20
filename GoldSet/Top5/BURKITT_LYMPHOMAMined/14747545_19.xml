@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Suppression of the cellular apoptotic program by the oncogenic herpesvirus Epstein-Barr virus (EBV) is central to both the establishment of <z:e sem="disease" ids="C0872054" disease_type="Disease or Syndrome" abbrv="">latent infection</z:e> and the development of EBV-associated <z:e sem="disease" ids="C0006826" disease_type="Neoplastic Process" abbrv="">malignancies</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>We have previously shown that expression of the EBV latent membrane protein 1 (LMP1) in Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cell lines leads to increased <z:chebi fb="2" ids="33699">mRNA</z:chebi> levels from the cellular antiapoptotic bfl-1 gene (also known as A1) </plain></SENT>
+<SENT sid="2" pm="."><plain>Furthermore, ectopic expression of Bfl-1 in an EBV-positive cell line exhibiting a latency type 1 infection protects against <z:mpath ids='MPATH_3'>apoptosis</z:mpath> induced by growth factor deprivation (B </plain></SENT>
+<SENT sid="3" pm="."><plain>N </plain></SENT>
+<SENT sid="4" pm="."><plain>D'Souza, M </plain></SENT>
+<SENT sid="5" pm="."><plain>Rowe, and D </plain></SENT>
+<SENT sid="6" pm="."><plain>Walls, J </plain></SENT>
+<SENT sid="7" pm="."><plain>Virol </plain></SENT>
+<SENT sid="8" pm="."><plain>74:6652-6658, 2000) </plain></SENT>
+<SENT sid="9" pm="."><plain>We now report that LMP1 drives bfl-1 promoter activity through interactions with components of the <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> <z:mp ids='MP_0001651'>necrosis</z:mp> factor receptor (TNFR)/CD40 signaling pathway </plain></SENT>
+<SENT sid="10" pm="."><plain>We present evidence that this process is NF-kappa B dependent, involves the recruitment of TNFR-associated factor 2, and is mediated to a greater extent by the carboxyl-terminal activating region 2 (CTAR2) relative to the CTAR1 domain of LMP1 </plain></SENT>
+<SENT sid="11" pm="."><plain>Activation of CD40 receptor also led to increased bfl-1 mRNA levels and an NF-kappa B-dependent increase in bfl-1 promoter activity in Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo>-derived cell lines </plain></SENT>
+<SENT sid="12" pm="."><plain>We have delineated a 95-bp region of the promoter that functions as an LMP1-dependent transcriptional enhancer in this cellular context </plain></SENT>
+<SENT sid="13" pm="."><plain>This sequence contains a novel NF-kappa B-like binding motif that is essential for transactivation of bfl-1 by LMP1, CD40, and the NF-kappa B subunit protein p65 </plain></SENT>
+<SENT sid="14" pm="."><plain>These findings highlight the role of LMP1 as a mediator of EBV-host cell interactions and may indicate an important route by which it exerts its cellular growth transforming properties </plain></SENT>
+</text></document>

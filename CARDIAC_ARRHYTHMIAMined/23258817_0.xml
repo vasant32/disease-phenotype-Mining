@@ -1,0 +1,19 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIMS: Assess whether automatic remote home monitoring (HM) permits same-day evaluation of implantable cardioverter defibrillator (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">ICD</z:e>) system dysfunction.METHODS AND RESULTS: Compromised <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">ICD</z:e> system integrity (generator/lead) demands prompt evaluation </plain></SENT>
+<SENT sid="1" pm="."><plain>Home monitoring promises earlier discovery but may be limited by technological differences and follow-up mechanism </plain></SENT>
+<SENT sid="2" pm="."><plain>We tested whether HM enabled event review within 24 h, and contrasted differing messaging mechanisms </plain></SENT>
+<SENT sid="3" pm="."><plain>Nine hundred and eight patients in the TRUST prospective multicentre trial were followed by HM for 15 months </plain></SENT>
+<SENT sid="4" pm="."><plain><z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">ICD</z:e> system problems automatically triggered notifications: repeatedly ('redundant') for impedance deviations and elective replacement indication (ERI), but only a single transmission for '30 J ineffective' </plain></SENT>
+<SENT sid="5" pm="."><plain>Detection time from event <z:hpo ids='HP_0003674'>onset</z:hpo> to physician evaluation was measured </plain></SENT>
+<SENT sid="6" pm="."><plain>Forty-three system-related alerts occurred; 42% were asymptomatic, 42% were actionable, and 22 of 43 (51%) were viewed within 24 h </plain></SENT>
+<SENT sid="7" pm="."><plain>Redundant notifications were: 1 ERI, 9 shock impedance, 2 ventricular and 6 atrial pacing impedance </plain></SENT>
+<SENT sid="8" pm="."><plain>Most (11/18; 61%) were detected in &lt;24 h </plain></SENT>
+<SENT sid="9" pm="."><plain>Others elicited daily notifications without interruption until resolution </plain></SENT>
+<SENT sid="10" pm="."><plain>For single transmissions, 11 of 25 (44%) events were detected on the same day </plain></SENT>
+<SENT sid="11" pm="."><plain>Most (56%, 14/25) were detected between 1 and 39 days (mean 10.0 ± 13.0 days) </plain></SENT>
+<SENT sid="12" pm="."><plain>Ten of 14 events were detected by HM and 4 at the time of office visits </plain></SENT>
+<SENT sid="13" pm="."><plain>These observations suggest single transmissions were vulnerable to detection failure </plain></SENT>
+<SENT sid="14" pm="."><plain>Mean detection time of redundant events was 1.1 ± 1.8 vs. single transmission 5.6 ± 10.9 days (P = 0.05) </plain></SENT>
+<SENT sid="15" pm="."><plain>Hence, redundant notification avoided late detection.CONCLUSION: Same-day discovery of <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">ICD</z:e> dysfunction, even if asymptomatic, was achievable </plain></SENT>
+<SENT sid="16" pm="."><plain>For those events not evaluated within 24 h, repetitive messaging promoted earlier discovery </plain></SENT>
+<SENT sid="17" pm="."><plain>Reorganization of clinical follow-up methods may maintain early reaction ability.CLINICAL TRIALS REGISTRATION INFORMATION: ClinicalTrials.gov; NCT00336284 </plain></SENT>
+</text></document>

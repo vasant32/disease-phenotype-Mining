@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVES: Cardiac repolarization, measured as QT and Tpeak to Tend (TpTe) intervals on the ECG, is important, as irregularities caused by diseases, <z:hpo ids='HP_0001714'>ventricular hypertrophy</z:hpo>, drugs and genetic defects can trigger <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> which predispose human patients to <z:hpo ids='HP_0001279'>syncope</z:hpo> and <z:hpo ids='HP_0001645'>sudden cardiac death</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>In horses, repolarization is not well described and therefore QT analysis cannot yet be used diagnostically </plain></SENT>
+<SENT sid="2" pm="."><plain>Therefore, we sought to describe reference values for the <z:mpath ids='MPATH_458'>normal</z:mpath> QT and TpTe intervals in Standardbreds and to determine the best method for heart rate (HR) correction </plain></SENT>
+<SENT sid="3" pm="."><plain>ANIMALS: 30 Standardbreds </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS: QT and TpTe intervals were measured during rest and exercise and plotted against HR converted to Rpeak to Rpeak interval (RR) </plain></SENT>
+<SENT sid="5" pm="."><plain>Data were fitted with relevant regression models </plain></SENT>
+<SENT sid="6" pm="."><plain>Intra- and inter-observer agreement was assessed using Bland-Altman analyses </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: Data were best described by a piecewise linear model (r(2) &gt; 0.97) </plain></SENT>
+<SENT sid="8" pm="."><plain>Average prediction error of this model was smaller than for both Bazett and Fridericia corrections </plain></SENT>
+<SENT sid="9" pm="."><plain>Coefficient of repeatability of intra- and inter-observer variability was 8.76 ms and 5.64 ms respectively and coefficient of variation was 1.77% and 2.76% respectively </plain></SENT>
+<SENT sid="10" pm="."><plain>TpTe increased with RR in stallions </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: The QT interval in Standardbred horses shortens with decreasing RR interval (increasing HR) as in humans, but in a markedly different order as it clearly follows a piecewise linear model </plain></SENT>
+<SENT sid="12" pm="."><plain>The equine QT interval can be measured easily and there is small intra- and inter-observer variability </plain></SENT>
+<SENT sid="13" pm="."><plain>This model of the equine QT interval provides clinicians with a method that could support a diagnosis of repolarization disturbances in horses </plain></SENT>
+</text></document>

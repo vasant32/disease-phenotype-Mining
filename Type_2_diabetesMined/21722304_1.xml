@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Ischaemic post-conditioning (PostC) is a clinically relevant cardioprotective modality that has been confirmed in many species including human </plain></SENT>
+<SENT sid="1" pm="."><plain>It remains unknown if PostC can still protect heart in Type 2 <z:mp ids='MP_0002055'>diabetes</z:mp>, a rapidly growing disease in the world </plain></SENT>
+<SENT sid="2" pm="."><plain>This study investigated the efficacy of PostC in the leptin receptor-deficient db/db mice, which possess Type 2 diabetic characteristics including <z:hpo ids='HP_0001513'>obesity</z:hpo>, <z:e sem="disease" ids="C0020456" disease_type="Disease or Syndrome" abbrv="">hyperglycaemia</z:e> and hyperleptinaemia </plain></SENT>
+<SENT sid="3" pm="."><plain>Adult male C57BL/6J <z:mp ids='MP_0002169'>wild-type</z:mp> (WT) and db/db mice were anaesthetized, mechanically ventilated and subjected to left coronary <z:mp ids='MP_0006134'>artery occlusion</z:mp> for 30 min. followed by 24 hrs of reperfusion </plain></SENT>
+<SENT sid="4" pm="."><plain>For the PostC groups, the hearts underwent six cycles of 10 sec. of reperfusion and 10 sec. of re-occlusion at the <z:hpo ids='HP_0003674'>onset</z:hpo> of reperfusion </plain></SENT>
+<SENT sid="5" pm="."><plain>The mice were sacrificed at the end of 24 hrs reperfusion for <z:mpath ids='MPATH_124'>infarct</z:mpath> size measurement </plain></SENT>
+<SENT sid="6" pm="."><plain>PostC significantly reduced <z:mpath ids='MPATH_124'>infarct</z:mpath> size in WT mice (n = 6/group; P &lt; 0.05), but not in the db/db mice </plain></SENT>
+<SENT sid="7" pm="."><plain>To identify alterations in protein expression by PostC, proteomic analyses were performed in the heart samples using two-dimensional differential in-gel electrophoresis with three CyDye labelling, followed by mass spectrometry </plain></SENT>
+<SENT sid="8" pm="."><plain>The results show that <z:hpo ids='HP_0001427'>mitochondrial</z:hpo> proteins (F(1)-ATPase γ and Echs1) were down-regulated by PostC in WT heart </plain></SENT>
+<SENT sid="9" pm="."><plain>Such change was absent in the db/db heart </plain></SENT>
+<SENT sid="10" pm="."><plain>On the other hand, PostC reduced Hsp20 in the diabetic heart </plain></SENT>
+<SENT sid="11" pm="."><plain>In summary, PostC fails to protect Type 2 diabetic mice against <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischaemia</z:e>-reperfusion injury </plain></SENT>
+<SENT sid="12" pm="."><plain>The potential protein targets for the loss of PostC may include F(1)-ATPase γ, Echs1 and Hsp20 that could regulate cellular ATP consumption/production and defense response to ischaemic stress </plain></SENT>
+</text></document>

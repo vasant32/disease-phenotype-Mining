@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: <z:hpo ids='HP_0001677'>Coronary artery disease</z:hpo> (CAD) is the major cause of morbidity and mortality in type 2 diabetic patients </plain></SENT>
+<SENT sid="1" pm="."><plain>Severe <z:hpo ids='HP_0100512'>vitamin D deficiency</z:hpo> has been shown to predict cardiovascular mortality in type 2 diabetic patients </plain></SENT>
+<SENT sid="2" pm="."><plain>RESEARCH DESIGN AND METHODS: We investigated the association among severe <z:hpo ids='HP_0100512'>vitamin D deficiency</z:hpo>, coronary calcium score (CCS), and asymptomatic CAD in type 2 diabetic patients with elevated urinary albumin excretion rate (UAER) &gt;30 mg/24 h </plain></SENT>
+<SENT sid="3" pm="."><plain>This was a cross-sectional study including 200 type 2 diabetic patients without a history of CAD </plain></SENT>
+<SENT sid="4" pm="."><plain>Severe <z:hpo ids='HP_0100512'>vitamin D deficiency</z:hpo> was defined as plasma 25-hydroxyvitamin D (p-25[OH]D3) &lt;12.5 nmol/L </plain></SENT>
+<SENT sid="5" pm="."><plain>Patients with plasma N-terminal pro-brain natriuretic <z:chebi fb="7" ids="16670">peptide</z:chebi> &gt;45.2 ng/L or CCS ≥400 were stratified as being high risk for CAD (n= 133) </plain></SENT>
+<SENT sid="6" pm="."><plain>High-risk patients were examined by myocardial perfusion imaging (MPI; n = 109), computed tomography angiography (n = 20), or coronary angiography (CAG; n = 86) </plain></SENT>
+<SENT sid="7" pm="."><plain>Patients' p-25(OH)D3 levels were determined by high-performance liquid chromatography/tandem mass spectrometry </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: The median (range) <z:chebi fb="27" ids="27300">vitamin D</z:chebi> level was 36.9 (3.8-118.6) nmol/L </plain></SENT>
+<SENT sid="9" pm="."><plain>The prevalence of severe <z:hpo ids='HP_0100512'>vitamin D deficiency</z:hpo> was 9.5% (19/200) </plain></SENT>
+<SENT sid="10" pm="."><plain>MPI or CAG demonstrated significant CAD in 70 patients (35%) </plain></SENT>
+<SENT sid="11" pm="."><plain>The prevalence of CCS ≥400 was 34% (68/200) </plain></SENT>
+<SENT sid="12" pm="."><plain>Severe <z:hpo ids='HP_0100512'>vitamin D deficiency</z:hpo> was associated with CCS ≥400 (odds ratio [OR] 4.3, 95% CI [1.5-12.1], P = 0.005) </plain></SENT>
+<SENT sid="13" pm="."><plain>This association persisted after adjusting for risk factors (4.6, 1.5-13.9, P = 0.007) </plain></SENT>
+<SENT sid="14" pm="."><plain>Furthermore, severe <z:hpo ids='HP_0100512'>vitamin D deficiency</z:hpo> was associated with asymptomatic CAD (adjusted OR 2.9, 1.02-7.66, P = 0.047) </plain></SENT>
+<SENT sid="15" pm="."><plain>CONCLUSIONS: In high-risk type 2 diabetic patients with elevated UAER, low levels of <z:chebi fb="27" ids="27300">vitamin D</z:chebi> are associated with asymptomatic CAD </plain></SENT>
+</text></document>

@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Epstein-Barr virus (EBV) is a ubiquitous human herpesvirus implicated in <z:hpo ids='HP_0002665'>lymphomas</z:hpo>, such as Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo>, Hodgkin's <z:hpo ids='HP_0002665'>lymphoma</z:hpo>, and NK/T cell <z:hpo ids='HP_0002665'>lymphoma</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>MicroRNAs (miRNAs) are 19-25 nucleotide long single-stranded <z:chebi fb="40" ids="33697">RNAs</z:chebi> involved in post-transcriptional gene regulation </plain></SENT>
+<SENT sid="2" pm="."><plain>miRNAs are mainly transcribed by <z:chebi fb="40" ids="33697">RNA</z:chebi> polymerase II (pol II) to have stem-loop structures and subsequently processed by Drosha and Dicer </plain></SENT>
+<SENT sid="3" pm="."><plain>EBV miRNAs are expressed in B cells, nasopharyngeal <z:mp ids='MP_0002038'>carcinoma</z:mp> cells, and gastric <z:mp ids='MP_0002038'>carcinoma</z:mp> cells infected with EBV </plain></SENT>
+<SENT sid="4" pm="."><plain>EBV miRNAs can be divided into two groups: BHRF1 miRNAs and BART miRNAs </plain></SENT>
+<SENT sid="5" pm="."><plain>In this study, we investigated the biogenesis of EBV miRNAs </plain></SENT>
+<SENT sid="6" pm="."><plain>Treatment of the SNU-719 EBV-positive <z:hpo ids='HP_0012126'>gastric cancer</z:hpo> cell line with α-amanitin at a concentration that selectively inhibits <z:chebi fb="40" ids="33697">RNA</z:chebi> polymerase II activity decreased the expression levels of BART miRNAs </plain></SENT>
+<SENT sid="7" pm="."><plain>The expression levels of BART miRNAs were also reduced by <z:chebi fb="40" ids="33697">RNA</z:chebi> interference targeting Drosha and Dicer </plain></SENT>
+<SENT sid="8" pm="."><plain>Two of each C/EBPβ and c-Myc binding sites are located upstream of the proposed initiation sites for primary BART miRNA transcripts </plain></SENT>
+<SENT sid="9" pm="."><plain>Knockdown of C/EBPβ but not c-Myc using siRNAs reduced BART miRNA expression by 25-55% compared with the control </plain></SENT>
+<SENT sid="10" pm="."><plain>These results suggest that BART miRNAs are transcribed by pol II and undergo a similar biogenesis process with cellular miRNAs </plain></SENT>
+</text></document>

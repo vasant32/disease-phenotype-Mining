@@ -1,0 +1,30 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIM OF THE STUDY: Was to estimate the influence of the <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> on the clinical signs and post-surgical results of the <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">GERD</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>PATIENTS AND METHODS: Within 1998-2001 193 patients have been operated upon in our clinic due to <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">GERD</z:e>, 81 male and 112 female </plain></SENT>
+<SENT sid="2" pm="."><plain>Mean patient age was 55 years (from 16 to 84 years) </plain></SENT>
+<SENT sid="3" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> patients had complaints on heartburn and regurgitation </plain></SENT>
+<SENT sid="4" pm="."><plain>We assessed the severity of heartburn, regurgitation, <z:hpo ids='HP_0002015'>dysphagia</z:hpo> with the help of a special scale ranging from 1 (absence of symptoms) to 5 (most severe symptoms) </plain></SENT>
+<SENT sid="5" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> patients underwent gastric and esophageal radiological investigation with <z:chebi fb="8" ids="32594,32595">barium</z:chebi> contrast as well as esophago-gastro-duodenoscopy (EGDS) with biopsy </plain></SENT>
+<SENT sid="6" pm="."><plain>In 190 cases esophageal <z:hpo ids='HP_0100790'>hernia</z:hpo> was found </plain></SENT>
+<SENT sid="7" pm="."><plain>The reflux-<z:hpo ids='HP_0100633'>esophagitis</z:hpo> was classified according to Savary-Miller after endoscopic examination </plain></SENT>
+<SENT sid="8" pm="."><plain><z:hpo ids='HP_0100633'>Esophagitis</z:hpo> of degree I-III was diagnosed presurgically in 176 cases, <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> in 16 (9.1%) cases </plain></SENT>
+<SENT sid="9" pm="."><plain>In 13 cases we found a short metaplastic segment (&lt; 3 cm), in 3 cases a long segment (&gt; 3 cm) </plain></SENT>
+<SENT sid="10" pm="."><plain>In 15 cases we found <z:mpath ids='MPATH_160'>metaplasia</z:mpath> without <z:mpath ids='MPATH_589'>dysplasia</z:mpath>, in 1 case low-grade <z:mpath ids='MPATH_589'>dysplasia</z:mpath> </plain></SENT>
+<SENT sid="11" pm="."><plain>In order to assess the presence of BM influence on presurgical clinical signs, the severity of <z:hpo ids='HP_0100633'>esophagitis</z:hpo>, and the regression rate of symptoms after surgery, we divided the patients into two groups and compared them: group I (with Barrett's <z:mpath ids='MPATH_160'>metaplasia</z:mpath>), and group II (without Barrett's <z:mpath ids='MPATH_160'>metaplasia</z:mpath>) </plain></SENT>
+<SENT sid="12" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> patients underwent laparoscopic Nissen or Toupet fondoplications </plain></SENT>
+<SENT sid="13" pm="."><plain>For group I patients we performed 14 Nissen and 2 Toupet procedures, in group II 148 Nissen and 29 Toupet interventions </plain></SENT>
+<SENT sid="14" pm="."><plain>The regression of clinical and endoscopic symptoms was assessed 6 months after surgery by re-questioning the patients and with the help of EGDS </plain></SENT>
+<SENT sid="15" pm="."><plain>In cases of <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> endoscopic biopsies from <z:hpo ids='HP_0000001'>all</z:hpo> 4 esophageal segments were performed </plain></SENT>
+<SENT sid="16" pm="."><plain>The patients of group I were followed-up by performing EGDS every 6 months </plain></SENT>
+<SENT sid="17" pm="."><plain>The mean follow-up period after surgery was 28 months </plain></SENT>
+<SENT sid="18" pm="."><plain>RESULTS: No statistically significant difference was found when comparing the groups for age (group I--59/SD 11, and group II--54/SD 13.2), gender, disease duration (group I--13.2/SD 13.7 years, group II--8.2/SD 10.5 years), radiologically determined hernial size or preoperative severity of <z:hpo ids='HP_0100633'>esophagitis</z:hpo> </plain></SENT>
+<SENT sid="19" pm="."><plain>The regression of the severity of heartburn and regurgitation was prominent in both groups with no significant difference between the groups </plain></SENT>
+<SENT sid="20" pm="."><plain><z:hpo ids='HP_0002015'>Dysphagia</z:hpo> before and after surgery was comparable in both groups </plain></SENT>
+<SENT sid="21" pm="."><plain><z:hpo ids='HP_0100633'>Esophagitis</z:hpo> confirmed by EGDS remained in 3 of 16 cases in group I and in 9 of 164 cases in group II </plain></SENT>
+<SENT sid="22" pm="."><plain>The metaplastic changes in group I were followed every 6 months for 16-36 months (mean 28 months) </plain></SENT>
+<SENT sid="23" pm="."><plain>In 13 cases the metaplastic segment demonstrated no changes, it became shorter in 3 cases </plain></SENT>
+<SENT sid="24" pm="."><plain>We didn't observe any complete regression of <z:mpath ids='MPATH_160'>metaplasia</z:mpath> </plain></SENT>
+<SENT sid="25" pm="."><plain>In the case with preoperative low grade <z:mpath ids='MPATH_589'>dysplasia</z:mpath>, the length of the segment did not change, we observed neither histological progression or regression </plain></SENT>
+<SENT sid="26" pm="."><plain>CONCLUSIONS: Barrett's <z:mpath ids='MPATH_160'>metaplasia</z:mpath> had no influence on the regression of symptoms of <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">GERD</z:e> and <z:hpo ids='HP_0100633'>esophagitis</z:hpo> after antireflux surgery </plain></SENT>
+<SENT sid="27" pm="."><plain>No histological progression of Barrett's <z:mpath ids='MPATH_160'>metaplasia</z:mpath> has been observed after antireflux surgery </plain></SENT>
+<SENT sid="28" pm="."><plain>The EGDS follow-up should not be very frequent in cases of <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> without <z:mpath ids='MPATH_589'>dysplasia</z:mpath> and good postsurgical regression of symptoms </plain></SENT>
+</text></document>

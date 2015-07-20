@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:e sem="disease" ids="C0034091" disease_type="Disease or Syndrome" abbrv="">Pulmonary veno-occlusive disease</z:e> (PVOD) is a rare cause of <z:hpo ids='HP_0002092'>pulmonary hypertension</z:hpo> (PH); <z:hpo ids='HP_0003613'>Antiphospholipid antibody</z:hpo> (APL) is another known cause of <z:hpo ids='HP_0002092'>pulmonary hypertension</z:hpo>, due to recurrent pulmonary <z:hpo ids='HP_0001907'>thromboembolism</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>The coincidence of both causes, PVOD and APL, without <z:hpo ids='HP_0001907'>thromboembolism</z:hpo>, in PH has not been reported previously in children </plain></SENT>
+<SENT sid="2" pm="."><plain>A 12.5-year-old boy presented with a one year history of <z:mp ids='MP_0002899'>fatigue</z:mp> </plain></SENT>
+<SENT sid="3" pm="."><plain><z:hpo ids='HP_0002092'>Pulmonary hypertension</z:hpo> was diagnosed by echocardiography </plain></SENT>
+<SENT sid="4" pm="."><plain>Pulmonary function tests revealed a moderate restrictive pattern and elevated granulocytes were detected in bronchoalveolar lavage </plain></SENT>
+<SENT sid="5" pm="."><plain>An isolated high-titer APL was detected </plain></SENT>
+<SENT sid="6" pm="."><plain>Open lung biopsy established the diagnosis of PVOD, with no evidence of pulmonary <z:mp ids='MP_0005048'>thrombosis</z:mp>, but with accompanying interstitial and alveolar cellular infiltration </plain></SENT>
+<SENT sid="7" pm="."><plain>We speculate that APL may have played a role in the pathogenesis of PVOD </plain></SENT>
+<SENT sid="8" pm="."><plain><z:chebi fb="0" ids="8382">Prednisone</z:chebi>++ improved the symptoms of the <z:hpo ids='HP_0006515'>interstitial pneumonitis</z:hpo> and was stopped; on follow up of 30 months, the patient ist in stable condition on therapy with nifedipin, <z:chebi fb="0" ids="50438">phenprocoumon</z:chebi> and digoxin </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSIONS: PVOD and APL may be present simultaneously as a rare cause of PH </plain></SENT>
+<SENT sid="10" pm="."><plain><z:hpo ids='HP_0006515'>Interstitial pneumonitis</z:hpo> may accompany PVOD and produce the leading symptoms </plain></SENT>
+<SENT sid="11" pm="."><plain>Open lung biopsy is essential for early establishment of the diagnosis </plain></SENT>
+</text></document>

@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Patients with <z:e sem="disease" ids="C0009405" disease_type="Neoplastic Process" abbrv="">Lynch syndrome</z:e> (LS) have a high risk of developing <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> due to mutations in mismatch repair genes </plain></SENT>
+<SENT sid="1" pm="."><plain>Because dietary factors, alone and in combination, influence <z:hpo ids='HP_0003745'>sporadic</z:hpo> colorectal <z:e sem="disease" ids="C0596263" disease_type="Neoplastic Process" abbrv="">carcinogenesis</z:e>, the association of dietary patterns with colorectal <z:mpath ids='MPATH_270'>adenomas</z:mpath> in LS patients was assessed </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: In the GEOLynch cohort of 486 persons with LS, dietary information was collected, using a food frequency questionnaire </plain></SENT>
+<SENT sid="3" pm="."><plain>Dietary pattern scores were obtained by principal components analysis </plain></SENT>
+<SENT sid="4" pm="."><plain>Hazard ratios (HR) between dietary patterns and colorectal <z:mpath ids='MPATH_270'>adenomas</z:mpath> were calculated using Cox regression models </plain></SENT>
+<SENT sid="5" pm="."><plain>Robust sandwich variance estimates were used to control for dependency within families </plain></SENT>
+<SENT sid="6" pm="."><plain>Final models were adjusted for age, sex, smoking habits, colorectal <z:mpath ids='MPATH_270'>adenoma</z:mpath> history, and extent of colon resection </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: During a median follow-up of 20 months, colorectal <z:mpath ids='MPATH_270'>adenomas</z:mpath> were detected in 58 persons </plain></SENT>
+<SENT sid="8" pm="."><plain>Four dietary patterns were identified: a "Prudent," "Meat," "Snack," and "Cosmopolitan" pattern </plain></SENT>
+<SENT sid="9" pm="."><plain>Individuals within the highest tertile of the "Prudent" pattern had a HR of 0.73 (95% confidence interval [CI], 0.32-1.66) for colorectal <z:mpath ids='MPATH_270'>adenomas</z:mpath>, compared with the lowest tertile </plain></SENT>
+<SENT sid="10" pm="."><plain>Those with high "Meat" pattern scores had a HR of 1.70 (95% CI, 0.83-3.52) </plain></SENT>
+<SENT sid="11" pm="."><plain>A high "Snack" pattern was associated with an increased risk of colorectal <z:mpath ids='MPATH_270'>adenomas</z:mpath> (HR, 2.16; 95% CI, 1.03-4.49) </plain></SENT>
+<SENT sid="12" pm="."><plain>A HR of 1.25 (95% CI, 0.61-2.55) was observed for persons in the highest tertile of the "Cosmopolitan" pattern </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSIONS: These findings suggest that dietary patterns may be associated with development of colorectal <z:mpath ids='MPATH_270'>adenoma</z:mpath> in patients with <z:e sem="disease" ids="C0009405" disease_type="Neoplastic Process" abbrv="">Lynch syndrome</z:e> </plain></SENT>
+<SENT sid="14" pm="."><plain>The directions of these findings are corroborative with those observed in studies investigating <z:hpo ids='HP_0003745'>sporadic</z:hpo> <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> </plain></SENT>
+</text></document>

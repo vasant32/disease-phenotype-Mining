@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Following <z:hpo ids='HP_0001658'>myocardial infarction</z:hpo> (MI) <z:mp ids='MP_0001845'>inflammatory responses</z:mp> transform cardiac fibroblasts to myofibroblasts, which in vitro studies show form heterocellular gap junctions with cardiac myocytes via Connexin43 (Cx43) </plain></SENT>
+<SENT sid="1" pm="."><plain>The ability to form heterocellular junctions in the intact heart and the impact of these junctions on propagation is unclear </plain></SENT>
+<SENT sid="2" pm="."><plain>We used a canine model of MI and characterized the distribution and quantity of myofibroblasts in surviving epicardial cells [epicardial border zone (EBZ)] </plain></SENT>
+<SENT sid="3" pm="."><plain>We found a significant increase in myofibroblasts within the EBZ and no gap junction plaques between myofibroblasts and myocytes </plain></SENT>
+<SENT sid="4" pm="."><plain>Because myofibroblasts produce IL-1β, which downregulates Cx43, we asked whether myofibroblast proliferation causes loss of Cx43 near myofibroblast clusters </plain></SENT>
+<SENT sid="5" pm="."><plain>In vitro studies showed that IL-1β caused loss of Cx43 and reduced coupling </plain></SENT>
+<SENT sid="6" pm="."><plain>Western blot showed a significant increase of IL-1β in the EBZ, and immunohistochemistry showed a loss of Cx43 in regions of myofibroblasts in the intact heart </plain></SENT>
+<SENT sid="7" pm="."><plain>Additionally, dye studies in intact heart showed no coupling between myocytes and myofibroblasts </plain></SENT>
+<SENT sid="8" pm="."><plain>To quantify the effect of myofibroblasts on propagation we used a two-dimensional subcellular computer model of the EBZ, which showed that <z:hpo ids='HP_0001425'>heterogeneities</z:hpo> in myofibroblast density lead to conduction abnormalities </plain></SENT>
+<SENT sid="9" pm="."><plain>In conclusion, an increase of myofibroblasts in the infarcted heart causes <z:hpo ids='HP_0001425'>heterogeneous</z:hpo> Cx43 levels, possibly as a result of the release of IL-1β and decreased cell-cell communication, which leads to conduction abnormalities following MI </plain></SENT>
+</text></document>

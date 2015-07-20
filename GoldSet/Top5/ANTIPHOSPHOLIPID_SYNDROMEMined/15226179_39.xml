@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Increasing evidence suggests that autoantibodies directly contribute to <z:hpo ids='HP_0100724'>hypercoagulability</z:hpo> in the <z:e sem="disease" ids="C0085278" disease_type="Disease or Syndrome" abbrv="">antiphospholipid syndrome</z:e> (APS) </plain></SENT>
+<SENT sid="1" pm="."><plain>One proposed mechanism is the antibody-induced expression of tissue factor (TF) by blood monocytes </plain></SENT>
+<SENT sid="2" pm="."><plain>Dilazep, an antiplatelet agent, is an <z:chebi fb="3" ids="16335">adenosine</z:chebi> uptake inhibitor known to block induction of monocyte TF expression by <z:mp ids='MP_0001794'>bacterial</z:mp> <z:chebi fb="0" ids="16412">lipopolysaccharide</z:chebi> </plain></SENT>
+<SENT sid="3" pm="."><plain>In the current study we characterized the effects of immunoglobulin G (IgG) from patients with APS on monocyte TF activity and investigated whether dilazep is capable of blocking this effect </plain></SENT>
+<SENT sid="4" pm="."><plain>IgG from 13 of 16 patients with APS significantly increased monocyte TF activity, whereas <z:mpath ids='MPATH_458'>normal</z:mpath> IgG had no effect </plain></SENT>
+<SENT sid="5" pm="."><plain>Time-course experiments demonstrated that APS IgG-induced monocyte TF <z:chebi fb="2" ids="33699">mRNA</z:chebi> levels were maximal at 2 hours and TF activity on the cell surface was maximal at 6 hours </plain></SENT>
+<SENT sid="6" pm="."><plain>Dilazep inhibited antibody-induced monocyte TF activity in a dose-dependent fashion but had no effect on TF <z:chebi fb="2" ids="33699">mRNA</z:chebi> expression </plain></SENT>
+<SENT sid="7" pm="."><plain>The effect of dilazep was blocked by <z:chebi fb="1" ids="28177">theophylline</z:chebi>, a nonspecific <z:chebi fb="3" ids="16335">adenosine</z:chebi> receptor <z:chebi fb="68" ids="48706">antagonist</z:chebi> </plain></SENT>
+<SENT sid="8" pm="."><plain>In conclusion, IgG from certain patients with APS induce monocyte TF activity </plain></SENT>
+<SENT sid="9" pm="."><plain>Dilazep inhibits the increased expression of monocyte TF activity at a posttranscriptional level, probably by way of its effect as an <z:chebi fb="3" ids="16335">adenosine</z:chebi> uptake inhibitor </plain></SENT>
+<SENT sid="10" pm="."><plain>Pharmacologic agents that block monocyte TF activity may be a novel therapeutic approach in APS </plain></SENT>
+</text></document>

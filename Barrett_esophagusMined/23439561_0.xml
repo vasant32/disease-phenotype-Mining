@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The mechanisms of progression from <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> (BE) to esophageal <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> (EA) are not known </plain></SENT>
+<SENT sid="1" pm="."><plain>Cycloxygenase-2 (COX-2)-derived <z:chebi fb="11" ids="26333">prostaglandin</z:chebi> E₂ (<z:chebi fb="0" ids="26338">PGE</z:chebi>₂) has been shown to be important in esophageal <z:mp ids='MP_0002006'>tumorigenesis</z:mp> </plain></SENT>
+<SENT sid="2" pm="."><plain>We have shown that COX-2 mediates acid-induced <z:chebi fb="0" ids="26338">PGE</z:chebi>₂ production </plain></SENT>
+<SENT sid="3" pm="."><plain>The <z:chebi fb="11" ids="26333">prostaglandin</z:chebi> E synthase (PGES) responsible for acid-induced <z:chebi fb="0" ids="15551">PGE2</z:chebi> production in BE, however, is not known </plain></SENT>
+<SENT sid="4" pm="."><plain>We found that microsomal PGES1 (mPGES1), mPGES2, and cytosolic PGES (cPGES) were present in FLO EA cells </plain></SENT>
+<SENT sid="5" pm="."><plain>Pulsed acid treatment significantly increased mPGES1 <z:chebi fb="2" ids="33699">mRNA</z:chebi> and protein levels but had little or no effect on mPGES2 or cPGES <z:chebi fb="2" ids="33699">mRNA</z:chebi> </plain></SENT>
+<SENT sid="6" pm="."><plain>Knockdown of mPGES1 by mPGES1 small interfering <z:chebi fb="40" ids="33697">RNA</z:chebi> (siRNA) blocked acid-induced increase in <z:chebi fb="0" ids="15551">PGE2</z:chebi> production and <z:chebi fb="0" ids="17748">thymidine</z:chebi> incorporation </plain></SENT>
+<SENT sid="7" pm="."><plain>Knockdown of <z:chebi fb="1" ids="16474">NADPH</z:chebi> oxidase, NOX5-S, a variant lacking calcium-binding domains, by NOX5 siRNA significantly inhibited acid-induced increase in mPGES1 expression, <z:chebi fb="0" ids="17748">thymidine</z:chebi> incorporation, and <z:chebi fb="0" ids="15551">PGE2</z:chebi> production </plain></SENT>
+<SENT sid="8" pm="."><plain>Overexpression of NOX5-S significantly increased the luciferase activity in FLO cells transfected with a nuclear factor κB (NF-κB) in vivo activation reporter plasmid pNF-κB-Luc </plain></SENT>
+<SENT sid="9" pm="."><plain>Knockdown of NF-κB1 p50 by p50 siRNA significantly decreased acid-induced increase in mPGES1 expression, <z:chebi fb="0" ids="17748">thymidine</z:chebi> incorporation, and <z:chebi fb="0" ids="26338">PGE</z:chebi>₂ production </plain></SENT>
+<SENT sid="10" pm="."><plain>Two novel NF-κB binding elements, GGAGTCTCCC and CGGGACACCC, were identified in the mPGES1 gene promoter </plain></SENT>
+<SENT sid="11" pm="."><plain>We conclude that mPGES1 mediates acid-induced increase in <z:chebi fb="0" ids="26338">PGE</z:chebi>₂ production and cell proliferation </plain></SENT>
+<SENT sid="12" pm="."><plain>Acid-induced mPGES1 expression depends on activation of NOX5-S and NF-κB1 p50 </plain></SENT>
+<SENT sid="13" pm="."><plain>Microsomal PGES1 may be a potential target to prevent or treat EA </plain></SENT>
+</text></document>

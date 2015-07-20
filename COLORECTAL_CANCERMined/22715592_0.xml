@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Circulating <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> cells (CTCs) from peripheral blood are emerging as a useful tool for the detection of <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">malignancy</z:e>, monitoring disease progression, and measuring response to therapy </plain></SENT>
+<SENT sid="1" pm="."><plain>We describe a unique microfluidic chip that was capable of efficient and selective separation of CTCs from peripheral whole blood samples </plain></SENT>
+<SENT sid="2" pm="."><plain>The ability of microfluidic chip to capture CTCs from PBS and whole blood samples was tested </plain></SENT>
+<SENT sid="3" pm="."><plain>Sixty-eight peripheral blood samples from 68 colorectal <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> patients were investigated for the presence of CTCs by microchip technology </plain></SENT>
+<SENT sid="4" pm="."><plain>The frequency of CTCs was analyzed statistically for correlation with relevant clinical data </plain></SENT>
+<SENT sid="5" pm="."><plain>We also examined samples from 20 healthy individuals as controls </plain></SENT>
+<SENT sid="6" pm="."><plain>The calculated capture efficiency was 85.7% and decreased significantly at flow rates above 2.0 ml/h </plain></SENT>
+<SENT sid="7" pm="."><plain>The number of CTCs isolated ranged from 3 to 236/ml for colorectal patients [99 +/- 64 (mean +/- SD) CTCs/ml] </plain></SENT>
+<SENT sid="8" pm="."><plain>None of the 20 healthy subjects had any identifiable CTCs </plain></SENT>
+<SENT sid="9" pm="."><plain>We identified CTCs in 46 (67.65%) of the 68 patients: in two of nine (22.22%) Dukes A, in 10 of 24 (41.67%) Dukes B, in 21 of 22 (95.45%) Dukes C, and in <z:hpo ids='HP_0000001'>all</z:hpo> 13 Dukes D patients </plain></SENT>
+<SENT sid="10" pm="."><plain>The detection rate in Dukes C and D patients was much higher than in Dukes A and B patients (97.73% vs. 36.36%) (p &lt; 0.01) </plain></SENT>
+<SENT sid="11" pm="."><plain>A significant correlation between detection of CTCs and clinical stage (r = 0.792, p &lt; 0.01) was found, which was higher than carcinoembryonic antigen (r = 0.285, p &gt; 0.01), carbohydrate antigen 19-9 (r = 0.258, p &gt; 0.01), alpha-fetoprotein (r = 0.096, p &gt; 0.01), and <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> antigen 125 (r = 0.134, p &gt; 0.01) </plain></SENT>
+<SENT sid="12" pm="."><plain>Microfluidic chip provides a novel method for capturing CTCs </plain></SENT>
+<SENT sid="13" pm="."><plain>The presence of CTCs correlated with clinical stage </plain></SENT>
+<SENT sid="14" pm="."><plain>It is important to evaluate CK-positive and <z:chebi fb="0" ids="51231">DAPI</z:chebi>-stained <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> cells together to determine the role of CTCs in <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> behavior and disease progression </plain></SENT>
+</text></document>

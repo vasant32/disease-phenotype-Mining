@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We identified a novel GTPase, SLIP-GC, with expression limited to a few tissues, in particular germinal center B cells </plain></SENT>
+<SENT sid="1" pm="."><plain>It lacks homology to any known proteins, indicating that it may belong to a novel family of GTPases </plain></SENT>
+<SENT sid="2" pm="."><plain>SLIP-GC is expressed in germinal center B cells and in <z:hpo ids='HP_0002665'>lymphomas</z:hpo> derived from germinal center B cells such as large diffuse B cell <z:hpo ids='HP_0002665'>lymphomas</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>In cell lines, SLIP-GC is expressed in <z:hpo ids='HP_0002665'>lymphomas</z:hpo> that express activation-induced deaminase (AID) and that likely undergo somatic hypermutation </plain></SENT>
+<SENT sid="4" pm="."><plain>SLIP-GC is a nuclear protein, and it localizes to replication factories </plain></SENT>
+<SENT sid="5" pm="."><plain>Reduction of SLIP-GC levels in the Burkitt <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cell line Raji and in non-Hodgkin <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cell lines resulted in an increase in DNA breaks and <z:mpath ids='MPATH_3'>apoptosis</z:mpath> that was AID-dependent, as simultaneous reduction of AID abrogated the deleterious effects of SLIP-GC reduction </plain></SENT>
+<SENT sid="6" pm="."><plain>These results strongly suggest that SLIP-GC is a replication-related protein in germinal center B cells whose reduction is toxic to cells through an AID-dependent mechanism </plain></SENT>
+</text></document>

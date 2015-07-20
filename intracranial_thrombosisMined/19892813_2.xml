@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND PURPOSE: <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e> including MRV is an established method to diagnose CVT </plain></SENT>
+<SENT sid="1" pm="."><plain>However, it remains unsettled which <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e> imaging modalities offer the highest diagnostic accuracy </plain></SENT>
+<SENT sid="2" pm="."><plain>We evaluated the accuracy of a combined, dynamic (1.5 seconds per dataset) and static (voxel size, 1.1 x 0.9 x 1.5 mm), contrast-enhanced MRV method (combo-4D MRV) relative to other established <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e>/MRV modalities </plain></SENT>
+<SENT sid="3" pm="."><plain>MATERIALS AND METHODS: A total of 39 patients with CVT (n = 20) and control subjects (n = 19) underwent combo-4D MRV, 2D TOF MRV, GRE imaging, and T2W imaging </plain></SENT>
+<SENT sid="4" pm="."><plain>For these modalities, diagnostic accuracy (ROCs) for CVT affecting 53 out of 234 predefined venous segments was determined </plain></SENT>
+<SENT sid="5" pm="."><plain>Sensitivity and specificity were separately calculated for different stages of CVT (<z:hpo ids='HP_0011009'>acute</z:hpo>/<z:hpo ids='HP_0011011'>subacute</z:hpo>/<z:hpo ids='HP_0011010'>chronic</z:hpo>) </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: Combo-4D MRV showed the highest accuracy (AUC, 0.99 [95% CI, 0.97-1.0]; sensitivity, 97% [84%-100%]) for thrombosed dural sinuses </plain></SENT>
+<SENT sid="7" pm="."><plain>For <z:hpo ids='HP_0000001'>all</z:hpo> thrombosed segments including cortical veins, its sensitivity was best (76% [64%-84%]; AUC, 0.92 [0.88-0.96]), followed by TOF MRV (72% [59%-81%]; AUC, 0.93 [0.88-0.97]) </plain></SENT>
+<SENT sid="8" pm="."><plain>Even for <z:hpo ids='HP_0011010'>chronic</z:hpo> CVT, it showed a relatively high sensitivity of 67% (30%-90%) </plain></SENT>
+<SENT sid="9" pm="."><plain>For thrombosed cortical veins alone, GRE images achieved the highest sensitivity (66% [46%-81%]; AUC, 0.88 [0.78-0.97]) </plain></SENT>
+<SENT sid="10" pm="."><plain>Specificities of <z:hpo ids='HP_0000001'>all</z:hpo> modalities ranged from 96% to 99% </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: Combo-4D MRV showed an excellent accuracy for the diagnosis of dural sinus <z:mp ids='MP_0005048'>thrombosis</z:mp> </plain></SENT>
+<SENT sid="12" pm="."><plain>The analysis of dynamic patterns of contrast enhancement in dural sinuses appeared useful to identify <z:hpo ids='HP_0011010'>chronic</z:hpo> <z:mp ids='MP_0005048'>thrombosis</z:mp> </plain></SENT>
+<SENT sid="13" pm="."><plain>To diagnose thrombosed cortical veins, GRE images should primarily be analyzed </plain></SENT>
+</text></document>

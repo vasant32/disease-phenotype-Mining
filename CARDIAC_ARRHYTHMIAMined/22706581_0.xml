@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>G protein-gated inward rectifier K+ (GIRK) channels function as cellular mediators of a wide range of hormones and <z:chebi fb="65" ids="25512">neurotransmitters</z:chebi> and are expressed in the brain, heart, skeletal muscle and <z:chebi fb="32" ids="24621">endocrine</z:chebi> tissue(1,2) </plain></SENT>
+<SENT sid="1" pm="."><plain>GIRK channels become activated following the binding of ligands (<z:chebi fb="65" ids="25512">neurotransmitters</z:chebi>, hormones, drugs, etc.) to their plasma membrane-bound, G protein-coupled receptors (GPCRs) </plain></SENT>
+<SENT sid="2" pm="."><plain>This binding causes the stimulation of G proteins (Gi and Go) which subsequently bind to and activate the GIRK channel </plain></SENT>
+<SENT sid="3" pm="."><plain>Once opened the GIRK channel allows the movement of K+ out of the cell causing the resting membrane potential to become more negative </plain></SENT>
+<SENT sid="4" pm="."><plain>As a consequence, GIRK channel activation in neurons decreases spontaneous action potential formation and inhibits the release of excitatory <z:chebi fb="65" ids="25512">neurotransmitters</z:chebi> </plain></SENT>
+<SENT sid="5" pm="."><plain>In the heart, activation of the GIRK channel inhibits pacemaker activity thereby slowing the heart rate </plain></SENT>
+<SENT sid="6" pm="."><plain>GIRK channels represent novel targets for the development of new therapeutic agents for the treatment neuropathic pain, drug <z:mp ids='MP_0002555'>addiction</z:mp>, <z:hpo ids='HP_0011675'>cardiac arrhythmias</z:hpo> and other disorders(3) </plain></SENT>
+<SENT sid="7" pm="."><plain>However, the pharmacology of these channels remains largely unexplored </plain></SENT>
+<SENT sid="8" pm="."><plain>Although a number of drugs including anti-arrhythmic agents, antipsychotic drugs and antidepressants block the GIRK channel, this inhibition is not selective and occurs at relatively high drug concentrations(3) </plain></SENT>
+<SENT sid="9" pm="."><plain>Here, we describe a real-time screening assay for identifying new modulators of GIRK channels </plain></SENT>
+<SENT sid="10" pm="."><plain>In this assay, neuronal AtT20 cells, expressing GIRK channels, are loaded with membrane potential-sensitive fluorescent dyes such as bis-(1,3-dibutylbarbituric acid) trimethine oxonol [DiBAC4(3)] or HLB 021-152 (Figure 1) </plain></SENT>
+<SENT sid="11" pm="."><plain>The dye molecules become strongly fluorescent following uptake into the cells (Figure 1) </plain></SENT>
+<SENT sid="12" pm="."><plain>Treatment of the cells with GPCR ligands stimulates the GIRK channels to open </plain></SENT>
+<SENT sid="13" pm="."><plain>The resulting K+ efflux out of the cell causes the membrane potential to become more negative and the fluorescent signal to decrease (Figure 1) </plain></SENT>
+<SENT sid="14" pm="."><plain>Thus, drugs that modulate K+ efflux through the GIRK channel can be assayed using a fluorescent plate reader </plain></SENT>
+<SENT sid="15" pm="."><plain>Unlike other ion channel screening assays, such atomic absorption spectrometry(4) or radiotracer analysis(5), the GIRK channel fluorescent assay provides a fast, real-time and inexpensive screening procedure </plain></SENT>
+</text></document>

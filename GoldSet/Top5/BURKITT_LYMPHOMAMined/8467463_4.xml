@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: To prevent drug resistance, the authors designed a protocol that featured early intensive rotating drug pairs as part of the therapy for <z:hpo ids='HP_0006721'>acute lymphoblastic leukemia</z:hpo> (ALL) </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: After <z:chebi fb="0" ids="8382">prednisone</z:chebi>, <z:chebi fb="0" ids="28445">vincristine</z:chebi>, asparaginase, and <z:chebi fb="0" ids="41977">daunorubicin</z:chebi> induction, 12 intensive treatments (ABACABACABAC) were given in 30 weeks: A--intermediate-dose <z:chebi fb="0" ids="44185">methotrexate</z:chebi> (IDMTX) plus intermediate-dose <z:chebi fb="0" ids="50667">mercaptopurine</z:chebi> (MP); B--<z:chebi fb="1" ids="16040">cytosine</z:chebi> <z:chebi fb="0" ids="22601">arabinoside</z:chebi> (AC) plus <z:chebi fb="0" ids="41977">daunorubicin</z:chebi> (DNR); C--AC plus teniposide (VM-26) </plain></SENT>
+<SENT sid="2" pm="."><plain>Triple intrathecal chemotherapy (AC, MTX, and <z:chebi fb="2" ids="17650">hydrocortisone</z:chebi>) was given for central <z:mp ids='MP_0008912'>nervous</z:mp> system (<z:chebi fb="7" ids="29425,29426,29441,29447">CNS</z:chebi>) prophylaxis </plain></SENT>
+<SENT sid="3" pm="."><plain>Continuation therapy consisted of weekly MTX and daily MP until 2.5 years of continuous complete remission had been achieved </plain></SENT>
+<SENT sid="4" pm="."><plain>RESULTS: Seventy-four children (age range, 1-19 years) at high risk of relapse were treated </plain></SENT>
+<SENT sid="5" pm="."><plain>Of 55 with B-lineage (early pre-B, pre-B) ALL, 24 have failed (2 induction failures, 2 <z:hpo ids='HP_0011420'>deaths</z:hpo> from <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infection</z:e>, and 20 relapses) </plain></SENT>
+<SENT sid="6" pm="."><plain>The event-free survival (EFS) rate at 4 years was 55.5% (standard error [SE] +/- 7.7%) </plain></SENT>
+<SENT sid="7" pm="."><plain>Of 19 patients with T-cell ALL, 12 have failed (2 induction failures and 10 relapses) </plain></SENT>
+<SENT sid="8" pm="."><plain>The EFS rate at 4 years was 32.6% (SE +/- 26.8%) </plain></SENT>
+<SENT sid="9" pm="."><plain>Toxicities were significantly more common after AC and DNR or AC and VM-26 than IDMTX and MP </plain></SENT>
+<SENT sid="10" pm="."><plain>There were no toxicity-related <z:hpo ids='HP_0011420'>deaths</z:hpo> during intensive treatments </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSION: Early intensive rotating therapy is tolerable and warrants consideration for additional trials of patients with high-risk, B-lineage ALL </plain></SENT>
+</text></document>

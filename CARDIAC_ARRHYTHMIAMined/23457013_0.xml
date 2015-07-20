@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Background: Overexpression of <z:hpo ids='HP_0001427'>mitochondrial</z:hpo> uncoupling proteins (UCPs) attenuates <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e>/reperfusion (IR) injury in cultured cardiomyocytes </plain></SENT>
+<SENT sid="1" pm="."><plain>However, it is not known whether UCPs play an essential role in cardioprotection in the intact heart </plain></SENT>
+<SENT sid="2" pm="."><plain>This study evaluated the cardioprotective efficacy of UCPs against IR injury and characterized the mechanism of UCP-mediated protection in addition the role of UCPs in ischemic preconditioning (<z:chebi fb="76" ids="53004">IPC</z:chebi>) </plain></SENT>
+<SENT sid="3" pm="."><plain>Method and Results: Cardiac UCP3 knockout (UCP3(-/-)) and <z:mp ids='MP_0002169'>wild type</z:mp> (WT) mice heart were subjected to the in vitro and in vivo models of IR injury and <z:chebi fb="76" ids="53004">IPC</z:chebi> </plain></SENT>
+<SENT sid="4" pm="."><plain>Isolated UCP3(-/-) mouse hearts were retrogradely perfused found to have poorer recovery of left ventricular function compared to WT hearts under IR conditions </plain></SENT>
+<SENT sid="5" pm="."><plain>In vivo occlusion of the left coronary artery resulted in two-fold larger <z:mpath ids='MPATH_124'>infarcts</z:mpath> in UCP3(-/-) mice compared to WT mice </plain></SENT>
+<SENT sid="6" pm="."><plain>Moreover, the incidence of in vivo IR <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> was higher in UCP3(-/-) mice </plain></SENT>
+<SENT sid="7" pm="."><plain>Myocardial energetics were significantly impaired with IR as reflected by a decreased ATP content and an increase in the <z:chebi fb="47" ids="16027,28971">AMP</z:chebi>/ATP ratio </plain></SENT>
+<SENT sid="8" pm="."><plain>UCP3(-/-) hearts generated more reactive oxygen species (ROS) than WT hearts during IR </plain></SENT>
+<SENT sid="9" pm="."><plain>Pretreatment of UCP3(-/-) hearts with the pharmacologic uncoupling agent, FCCP, improved post-ischemic functional recovery </plain></SENT>
+<SENT sid="10" pm="."><plain>Also the protective efficacy of ischemic preconditioning (<z:chebi fb="76" ids="53004">IPC</z:chebi>) was abolished in UCP3(-/-) mice </plain></SENT>
+<SENT sid="11" pm="."><plain>Conclusions: UCP3 plays a critical role in cardioprotection against IR injury and the <z:chebi fb="76" ids="53004">IPC</z:chebi> phenomenon </plain></SENT>
+<SENT sid="12" pm="."><plain>There is increased myocardial vulnerability to IR injury in hearts lacking UCP3 </plain></SENT>
+<SENT sid="13" pm="."><plain>The mechanisms of UCP3-mediated cardioprotection include regulation of myocardial energetics and ROS generation by UCP3 during IR </plain></SENT>
+</text></document>

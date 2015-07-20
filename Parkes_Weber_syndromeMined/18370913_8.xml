@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Vascular malformation signaling pathways are the least understood out of <z:hpo ids='HP_0000001'>all</z:hpo> cutaneous endothelial lesions </plain></SENT>
+<SENT sid="1" pm="."><plain>The overexpression of Akt is known to cause vascular malformations in endothelial cells of mice </plain></SENT>
+<SENT sid="2" pm="."><plain>Since there are no Akt inhibitors approved for clinical use, we examined phosphorylated S6 expression, a downstream target of Akt </plain></SENT>
+<SENT sid="3" pm="."><plain>Phosphorylated S6 indicates potential sensitivity to <z:chebi fb="0" ids="9168">rapamycin</z:chebi> </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS AND RESULTS: Immunohistochemistry for phospho-s6k against phospho-S6 ribosomal protein was performed on specimens of vascular malformations taken from Sturge- Weber patients </plain></SENT>
+<SENT sid="5" pm="."><plain>Of the specimens, 70.8% were immunopositive for phospho-s6k </plain></SENT>
+<SENT sid="6" pm="."><plain>CONCLUSION: Endothelial expression of Akt is responsible for <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> responsiveness to <z:chebi fb="0" ids="9168">rapamycin</z:chebi> </plain></SENT>
+<SENT sid="7" pm="."><plain>We demonstrate that expression of phosphorylated S6 is elevated in specimens </plain></SENT>
+<SENT sid="8" pm="."><plain>Our findings provide a rationale for clinical trials of <z:chebi fb="0" ids="9168">rapamycin</z:chebi> on Sturge-Weber or <z:e sem="disease" ids="C0022739" disease_type="Disease or Syndrome" abbrv="KTS">Klippel-Trenaunay</z:e>-Weber patients </plain></SENT>
+</text></document>

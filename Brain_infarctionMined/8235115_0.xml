@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 41-year old woman was admitted to a local hospital because of leg pain, <z:hpo ids='HP_0100749'>chest pain</z:hpo> and <z:hpo ids='HP_0002094'>dyspnea</z:hpo> after taking <z:chebi fb="0" ids="50114">estrogen</z:chebi> for two months for irregular menstruation </plain></SENT>
+<SENT sid="1" pm="."><plain>On admission to the hospital, her lung scintigram showed multiple segmental perfusion defects in the right lung </plain></SENT>
+<SENT sid="2" pm="."><plain>Pulmonary angiography showed several <z:e sem="disease" ids="C0087086" disease_type="Disease or Syndrome" abbrv="">thrombi</z:e> in the proximal pulmonary artery </plain></SENT>
+<SENT sid="3" pm="."><plain>A diagnosis of pulmonary <z:hpo ids='HP_0001907'>thromboembolism</z:hpo> was made </plain></SENT>
+<SENT sid="4" pm="."><plain>AT-III activity was found to be only 50% of <z:mpath ids='MPATH_458'>normal</z:mpath> value, indicating that the pulmonary thromboemboli were due to AT-III deficiency </plain></SENT>
+<SENT sid="5" pm="."><plain>The patient was then put on <z:chebi fb="2" ids="50249">anticoagulants</z:chebi> for two years </plain></SENT>
+<SENT sid="6" pm="."><plain>When she was 43-year-old, she was admitted to Keio University Hospital because of worsening of <z:hpo ids='HP_0002094'>dyspnea</z:hpo> </plain></SENT>
+<SENT sid="7" pm="."><plain>After admission her <z:hpo ids='HP_0002094'>dyspnea</z:hpo> had got better due to bed rest </plain></SENT>
+<SENT sid="8" pm="."><plain>Her brain CT, which was performed because of her <z:hpo ids='HP_0001288'>gait disturbance</z:hpo>, indicated past right <z:e sem="disease" ids="C0236073" disease_type="Disease or Syndrome" abbrv="">cerebellar infarction</z:e> </plain></SENT>
+<SENT sid="9" pm="."><plain>We gave her 2 mg of <z:chebi fb="8" ids="10033">warfarin</z:chebi> and maintained a thrombotest of about 30% </plain></SENT>
+<SENT sid="10" pm="."><plain>The investigation of her family revealed that her son also showed decrease AT-III activity, indicating a congenital abnormality </plain></SENT>
+<SENT sid="11" pm="."><plain>26 families with this disease have been reported in Japan </plain></SENT>
+<SENT sid="12" pm="."><plain>Most had venous thromboemboli, but only a few cases had <z:e sem="disease" ids="C0751955" disease_type="Disease or Syndrome" abbrv="">brain infarction</z:e> as well </plain></SENT>
+<SENT sid="13" pm="."><plain>In addition, it is suggested that an <z:chebi fb="0" ids="50114">estrogen</z:chebi> therapy for irregular menstruation may have contributed, in this particular case, to the <z:hpo ids='HP_0003674'>onset</z:hpo> of thromboemboli </plain></SENT>
+</text></document>

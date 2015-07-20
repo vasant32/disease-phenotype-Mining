@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We report a case of benign intracranial <z:hpo ids='HP_0000822'>hypertension</z:hpo> (BIH) resulting from <z:chebi fb="0" ids="50858">corticosteroid</z:chebi> withdrawal </plain></SENT>
+<SENT sid="1" pm="."><plain>A 36-year-old woman was admitted to hospital because of an intractable <z:hpo ids='HP_0002315'>headache</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>A neurological examination on admission showed no abnormalities other than a <z:hpo ids='HP_0002315'>headache</z:hpo> and <z:hpo ids='HP_0002018'>nausea</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>CT, MRI, and angiogram examinations showed no abnormalities </plain></SENT>
+<SENT sid="4" pm="."><plain>Hematological and laboratory data were also <z:mpath ids='MPATH_458'>normal</z:mpath> </plain></SENT>
+<SENT sid="5" pm="."><plain>Continuous monitoring of her cerebrospinal fluid (CSF) pressure showed a value of over 25 mmHg during sleep, but <z:hpo ids='HP_0001085'>papilledema</z:hpo> was not observed </plain></SENT>
+<SENT sid="6" pm="."><plain>A diagnosis of BIH was made, with <z:chebi fb="0" ids="50858">corticosteroid</z:chebi> withdrawal considered to be the most probable cause </plain></SENT>
+<SENT sid="7" pm="."><plain>The patient was given isosorbide solution for 3 months </plain></SENT>
+<SENT sid="8" pm="."><plain>However, her clinical condition continued to deteriorate; she eventually began to develop <z:hpo ids='HP_0000572'>visual loss</z:hpo>, photopsia, and <z:e sem="disease" ids="C0233794" disease_type="Mental or Behavioral Dysfunction" abbrv="">memory disturbances</z:e> </plain></SENT>
+<SENT sid="9" pm="."><plain>She underwent lumboperitoneal shunt surgery, which immediately eliminated the <z:hpo ids='HP_0002315'>headache</z:hpo>, photopsia, and <z:e sem="disease" ids="C0233794" disease_type="Mental or Behavioral Dysfunction" abbrv="">memory disturbances</z:e> </plain></SENT>
+<SENT sid="10" pm="."><plain>She regained her vision over a five-month period </plain></SENT>
+<SENT sid="11" pm="."><plain>BIH should be considered as a differential diagnosis when an intractable <z:hpo ids='HP_0002315'>headache</z:hpo> develops after <z:chebi fb="0" ids="50858">corticosteroid</z:chebi> withdrawal, especially in young women </plain></SENT>
+</text></document>

@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND PURPOSE: Little is known about the <z:e sem="disease" ids="C0948265" disease_type="Disease or Syndrome" abbrv="">metabolic syndrome</z:e> (MetS) and the risk of incident <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>This study is designed to identify particular clusters of MetS components that carry the highest risk of incident <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: We analyzed the public use data from the population-based <z:hpo ids='HP_0002621'>Atherosclerosis</z:hpo> Risk in Communities study </plain></SENT>
+<SENT sid="3" pm="."><plain>At baseline, 14 993 <z:hpo ids='HP_0001297'>stroke</z:hpo>-free middle-aged individuals were followed-up over 9 years for incident <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+<SENT sid="4" pm="."><plain>MetS components were defined according to the National Heart, Lung, and Blood Institute/American Heart Association criteria </plain></SENT>
+<SENT sid="5" pm="."><plain>Incident <z:hpo ids='HP_0001297'>stroke</z:hpo> was identified using a standardized incident events identification and classification protocol </plain></SENT>
+<SENT sid="6" pm="."><plain>Proportional hazard models were used to assess the RRs and 95% CIs of <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> associated with MetS and its different clusters </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: At baseline, the prevalence of MetS was 39% </plain></SENT>
+<SENT sid="8" pm="."><plain>The mean age was 54, with 26% blacks and 55% females </plain></SENT>
+<SENT sid="9" pm="."><plain>The hazard ratio of incident <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> associated with MetS among women (hazard ratio, 2.41; 95% CI, 1.69 to 3.49) and men (hazard ratio, 2.11; 95% CI, 1.56-2.85) was similar </plain></SENT>
+<SENT sid="10" pm="."><plain>There was a dose-response relationship between the numbers of MetS components and the risk of incidence <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+<SENT sid="11" pm="."><plain>Persons with either elevated blood pressure or elevated fasting <z:chebi fb="105" ids="17234">glucose</z:chebi> in the clusters to form a MetS had the highest risk for incident <z:hpo ids='HP_0001297'>stroke</z:hpo> (hazard ratio, 2.74-4.16 comparing to the reference group) than MetS without these 2 components (hazard ratio, &lt;/=2.00 comparing to the reference group) </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: The data support the need to target MetS, especially MetS, with these 2 highest risk components (elevated blood pressure or elevated fasting <z:chebi fb="105" ids="17234">glucose</z:chebi>) in the clusters </plain></SENT>
+</text></document>

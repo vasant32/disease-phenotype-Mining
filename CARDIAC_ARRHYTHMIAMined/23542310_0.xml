@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: The ability to recapitulate mature adult phenotypes is critical to development of human induced pluripotent stem cell-derived cardiomyocytes (hiPSC-CM) as models of disease </plain></SENT>
+<SENT sid="1" pm="."><plain>The present study examines the characteristics of the transient outward current (Ito) and its contribution to the hiPSC-CM action potential (AP) </plain></SENT>
+<SENT sid="2" pm="."><plain>METHOD: Embryoid bodies were made from a hiPS cell line reprogrammed with Oct4, Nanog, Lin28 and Sox2 </plain></SENT>
+<SENT sid="3" pm="."><plain>Sharp microelectrodes were used to record APs from beating-clusters (BC) and patch-clamp techniques were used to record Ito in single hiPSC-CM </plain></SENT>
+<SENT sid="4" pm="."><plain><z:chebi fb="2" ids="33699">mRNA</z:chebi> levels of Kv1.4, KChIP2 and Kv4.3 were quantified from BCs </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: BCs exhibited spontaneous beating (60.5±2.6 bpm) and maximum-diastolic-potential (MDP) of 67.8±0.8 mV (n=155) </plain></SENT>
+<SENT sid="6" pm="."><plain>A small <z:chebi fb="0" ids="34385">4-aminopyridine</z:chebi>-sensitive phase-1-repolarization was observed in only 6/155 BCs </plain></SENT>
+<SENT sid="7" pm="."><plain>A robust Ito was recorded in the majority of cells (13.7±1.9 pA/pF at +40 mV; n=14) </plain></SENT>
+<SENT sid="8" pm="."><plain>Recovery of Ito from inactivation (at -80 mV) showed slow kinetics (τ1=200±110 ms (12%) and τ2=2380±240 ms (80%)) accounting for its minimal contribution to the AP </plain></SENT>
+<SENT sid="9" pm="."><plain>Transcript data revealed relatively high expression of Kv1.4 and low expression of KChIP2 compared to human native ventricular tissues </plain></SENT>
+<SENT sid="10" pm="."><plain>Mathematical modeling predicted that restoration of IK1 to <z:mpath ids='MPATH_458'>normal</z:mpath> levels would result in a more negative MDP and a prominent phase-1-repolarization </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSION: The slow recovery kinetics of Ito coupled with a depolarized MDP account for the lack of an AP notch in the majority of hiPSC-CM </plain></SENT>
+<SENT sid="12" pm="."><plain>These characteristics reveal a deficiency for the development of in vitro models of inherited <z:hpo ids='HP_0011675'>cardiac arrhythmia</z:hpo> syndromes in which Ito-induced AP notch is central to the disease phenotype </plain></SENT>
+</text></document>

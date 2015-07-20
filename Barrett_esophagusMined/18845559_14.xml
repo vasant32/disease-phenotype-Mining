@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> (BE) is the replacement of <z:mpath ids='MPATH_458'>normal</z:mpath> squamous esophageal mucosa with an intestinalized columnar epithelium </plain></SENT>
+<SENT sid="1" pm="."><plain>The molecular mechanisms underlying its development are not understood </plain></SENT>
+<SENT sid="2" pm="."><plain>Cdx2 is an intestine-specific transcription factor that is ectopically expressed in BE, but its role in this process is unclear </plain></SENT>
+<SENT sid="3" pm="."><plain>Herein, we describe a novel cell culture model for BE </plain></SENT>
+<SENT sid="4" pm="."><plain>Retroviral-mediated Cdx2 expression in immortalized human esophageal keratinocytes [EPC-human telomerase reverse transcriptase (hTERT)] could transiently be established but not maintained and was associated with a reduction in cell proliferation </plain></SENT>
+<SENT sid="5" pm="."><plain>Coexpression of cyclin D1, but not a dominant-negative p53, rescued proliferation in the Cdx2-expressing cells </plain></SENT>
+<SENT sid="6" pm="."><plain>Cdx2 expression in the EPC-hTERT.D1 cells <z:mp ids='MP_0000352'>decreased cell proliferation</z:mp> but did not induce intestinalization </plain></SENT>
+<SENT sid="7" pm="."><plain>We investigated for other treatments to enhance intestinalization and found that acidic culture conditions uniformly killed EPC-hTERT.D1.Cdx2 cells </plain></SENT>
+<SENT sid="8" pm="."><plain>However, treatment with 5-aza-2-deoxycytidine (5-AzaC) to demethylate epigenetically silenced genes did appear to be tolerated </plain></SENT>
+<SENT sid="9" pm="."><plain>Multiple Cdx2 target genes, markers of intestinal differentiation and markers of BE, were induced by this 5-AzaC treatment </plain></SENT>
+<SENT sid="10" pm="."><plain>More interestingly, the expression level of several of these genes was enhanced only in the EPC-hTERT.D1-Cdx2 cells treated with 5-AzaC </plain></SENT>
+<SENT sid="11" pm="."><plain>Two of these, SLC26a3/DRA (downregulated in <z:mpath ids='MPATH_270'>adenoma</z:mpath>) and <z:chebi fb="1" ids="29101">Na+</z:chebi>/H+ exchanger 2 (NHE2), were not previously known to be elevated in BE; however, we confirmed their elevation in BE tissue samples </plain></SENT>
+<SENT sid="12" pm="."><plain>5-AzaC treatment also induced cell senescence, even at low doses </plain></SENT>
+<SENT sid="13" pm="."><plain>We conclude that ectopic proliferation signals, alterations in epigenetic gene regulation and the inhibition of <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> suppressor mechanisms are required for Cdx2-mediated intestinalization of human esophageal keratinocytes in BE </plain></SENT>
+</text></document>

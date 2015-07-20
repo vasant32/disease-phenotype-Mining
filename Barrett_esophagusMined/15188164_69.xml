@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND &amp; AIMS: White people in the United States are several-fold more affected by esophageal <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> than black people </plain></SENT>
+<SENT sid="1" pm="."><plain>It remains unknown whether this racial discrepancy reflects a higher prevalence of <z:hpo ids='HP_0002020'>gastroesophageal reflux disease</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">GERD</z:e>) symptoms or a higher degree of esophageal damage </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: A cross-sectional survey followed by endoscopy was performed among employees at a VA medical center </plain></SENT>
+<SENT sid="3" pm="."><plain>The association between race and <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">GERD</z:e> symptoms and erosive <z:hpo ids='HP_0100633'>esophagitis</z:hpo> was analyzed in logistic regression analyses controlling for demographic, clinical, and histologic variables </plain></SENT>
+<SENT sid="4" pm="."><plain>RESULTS: A total of 496 of 915 people (54%) returned interpretable questionnaires, and endoscopy was performed in 215 participants </plain></SENT>
+<SENT sid="5" pm="."><plain>The mean age was 45 years, and 336 (68%) were women </plain></SENT>
+<SENT sid="6" pm="."><plain>Racial distribution was 43% black, 34% white, and 23% other races </plain></SENT>
+<SENT sid="7" pm="."><plain>Heartburn occurring at least weekly was reported in 27%, 23%, and 24% of these racial groups, respectively </plain></SENT>
+<SENT sid="8" pm="."><plain>The age-adjusted prevalence of heartburn or regurgitation was not significantly different among the groups </plain></SENT>
+<SENT sid="9" pm="."><plain>Erosive <z:hpo ids='HP_0100633'>esophagitis</z:hpo> was found in 50 of 215 participants (23%); 31 of these cases were mild </plain></SENT>
+<SENT sid="10" pm="."><plain>Only one person had <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> (0.4%) </plain></SENT>
+<SENT sid="11" pm="."><plain>For weekly heartburn or regurgitation, black participants had significantly less frequent erosive <z:hpo ids='HP_0100633'>esophagitis</z:hpo> than white participants (24% vs. 50%; P = 0.03) </plain></SENT>
+<SENT sid="12" pm="."><plain>With multiple adjustments, black participants had a persistently lower risk of <z:hpo ids='HP_0100633'>esophagitis</z:hpo> (adjusted odds ratio, 0.22-0.46; P &lt; 0.001) </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSIONS: White and black people in the United States have a similarly high prevalence of <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">GERD</z:e> symptoms </plain></SENT>
+<SENT sid="14" pm="."><plain>However, black people have a lower prevalence of <z:hpo ids='HP_0100633'>esophagitis</z:hpo> for the same frequency of <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">GERD</z:e> symptoms </plain></SENT>
+<SENT sid="15" pm="."><plain><z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> was rare in this study, even among those with frequent symptoms </plain></SENT>
+</text></document>

@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:chebi fb="240" ids="33364,33400">Platinum</z:chebi> is the key drug in current treatment of <z:e sem="disease" ids="C1140680" disease_type="Neoplastic Process" abbrv="">ovarian cancer</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>The overall survival rate of patients with advanced <z:e sem="disease" ids="C1140680" disease_type="Neoplastic Process" abbrv="">ovarian cancer</z:e> has improved </plain></SENT>
+<SENT sid="2" pm="."><plain>Recently, therapy-related <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo>(T-<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e>)and therapy-related <z:hpo ids='HP_0001909'>leukemia</z:hpo>( TRL)have been reported with increasing frequency in the literature </plain></SENT>
+<SENT sid="3" pm="."><plain>In this paper, we report two cases of TMDS followed by TRL after chemotherapy(TC therapy consisting of <z:chebi fb="2" ids="31355">carboplatin</z:chebi> and paclitaxel)with <z:e sem="disease" ids="C1140680" disease_type="Neoplastic Process" abbrv="">ovarian cancer</z:e> stageIIIc </plain></SENT>
+<SENT sid="4" pm="."><plain>The interval from the primary chemotherapy to TMDS was 23 months or 90 months </plain></SENT>
+<SENT sid="5" pm="."><plain>The abnormal karyotype was observed in chromosomal analysis </plain></SENT>
+<SENT sid="6" pm="."><plain>Neither cases were given chemotherapy for TMDS, and died of the <z:hpo ids='HP_0002721'>immunodeficiency</z:hpo> </plain></SENT>
+<SENT sid="7" pm="."><plain>TRL and T-<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> are the most serious complications of chemotherapy </plain></SENT>
+<SENT sid="8" pm="."><plain>If <z:hpo ids='HP_0001876'>pancytopenia</z:hpo> is detected, bone marrow and cytogenetic examinations should be performed to rule out TMDS </plain></SENT>
+</text></document>

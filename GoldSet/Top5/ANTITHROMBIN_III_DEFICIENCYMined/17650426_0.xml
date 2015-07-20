@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: To study the molecular mechanisms of antithrombin (AT) deficiency caused by AT gene mutations T98I and A404T </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: <z:mp ids='MP_0002169'>Wild-type</z:mp> and mutant AT cDNA expression plasmids (ATwt, AT T98I and AT A404T) were constructed and transfected into the monkey fibroblast of the line COS-7 or Chinese hamster ovary (<z:chebi fb="0" ids="29327">CHO</z:chebi>) cells </plain></SENT>
+<SENT sid="2" pm="."><plain><z:chebi fb="0" ids="31206">NH4Cl</z:chebi> </plain></SENT>
+<SENT sid="3" pm="."><plain>ALLN and <z:chebi fb="0" ids="48080">brefeldin A</z:chebi> were added </plain></SENT>
+<SENT sid="4" pm="."><plain>ELISA was used to detect the AT: Ag </plain></SENT>
+<SENT sid="5" pm="."><plain>Pulse-chase experiment and immunofluorescence assay were used to detect the radioactivity of the <z:chebi fb="0" ids="37983">35S</z:chebi>-labeled AT </plain></SENT>
+<SENT sid="6" pm="."><plain>Fluorescence real-time PCR was used to detect the expression of AT <z:chebi fb="2" ids="33699">mRNA</z:chebi>, protein degradation inhibition was used to elucidate the mutant T98I degradation pathway inside the cells </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: AT T98I was not secreted from the cells and was gradually degraded inside the cells </plain></SENT>
+<SENT sid="8" pm="."><plain>There was partial secretion of AT A404T, but most of the molecule was not secreted but was degraded intracellularly </plain></SENT>
+<SENT sid="9" pm="."><plain>Fluorescence real-time PCR indicated that the mutant AT <z:chebi fb="2" ids="33699">mRNA</z:chebi> was transcribed at a similar or even higher level as that of <z:mp ids='MP_0002169'>wild-type</z:mp> (wt) </plain></SENT>
+<SENT sid="10" pm="."><plain>Pulse-chase labeling studies suggested both AT variants did not accumulate, but degraded intracellularly </plain></SENT>
+<SENT sid="11" pm="."><plain>Protein degradation inhibition experiment showed that mutant AT T98I was degraded intracellularly through the proteasome pathway </plain></SENT>
+<SENT sid="12" pm="."><plain>Immunohistochemical staining of the transfected cells revealed that <z:chebi fb="0" ids="29327">CHO</z:chebi> cells expressing the AT T98I mutant were stained diffusely without perinuclear enhancement and cells expressing AT A404T mutant mainly in the whole cytoplasm with weaker perinuclear enhancement </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSION: Impaired secretion of the mutant AT molecules, due to intracellular degradation, is the molecular mechanism of AT deficiency caused by T98I and A404T mutation </plain></SENT>
+</text></document>

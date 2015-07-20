@@ -1,0 +1,7 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> patients are prone to develop transfusional <z:e sem="disease" ids="C0282193" disease_type="Disease or Syndrome" abbrv="">iron overload</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain><z:e sem="disease" ids="C0282193" disease_type="Disease or Syndrome" abbrv="">Iron overload</z:e> may partly explain why transfusion dependency is associated with a decreased likelihood of survival </plain></SENT>
+<SENT sid="2" pm="."><plain>Our matched-pair analysis included 94 patients on long-term chelation therapy and 94 matched patients without it </plain></SENT>
+<SENT sid="3" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> patients had <z:e sem="disease" ids="C0282193" disease_type="Disease or Syndrome" abbrv="">iron overload</z:e>, defined as serum ferritin (SF) above 1000 ng/ml or a history of multiple transfusions and SF ≥ 500 ng/ml </plain></SENT>
+<SENT sid="4" pm="."><plain>Median SF was 1954 ng/ml in chelated and 875 ng/ml in non-chelated patients </plain></SENT>
+<SENT sid="5" pm="."><plain>The difference in median survival (74 vs. 49 months, respectively; p=0.002) supports the idea that iron chelation therapy is beneficial for <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> patients </plain></SENT>
+</text></document>

@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Molecular-cytogenetic methods were used to analyse and specify complex genome rearrangements in malignant cells </plain></SENT>
+<SENT sid="1" pm="."><plain>Twelve samples of bone marrow cells were collected from patients with <z:hpo ids='HP_0002863'>myelodysplastic syndromes</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e>) </plain></SENT>
+<SENT sid="2" pm="."><plain>The complex karyotypes were examined by multicolour fluorescence in situ hybridization (mFISH), high-resolution multicolour banding (mBAND) and array comparative genomic hybridization (aCGH) </plain></SENT>
+<SENT sid="3" pm="."><plain>For aCGH, DNA was isolated from fixed bone marrow cells in <z:chebi fb="43" ids="17790">methanol</z:chebi> and <z:chebi fb="22" ids="15366">acetic acid</z:chebi> and amplified by whole-genome amplification </plain></SENT>
+<SENT sid="4" pm="."><plain>Three samples were analysed by the oligonucleotide array NimbleGen on the basis of full service </plain></SENT>
+<SENT sid="5" pm="."><plain>BAC-based Haematochips (BlueGnome) were used for the other nine samples </plain></SENT>
+<SENT sid="6" pm="."><plain>Sensitivity and detection limits of both methods were compared </plain></SENT>
+<SENT sid="7" pm="."><plain>The results obtained by mFISH/mBAND were in most cases confirmed by the microarray technique </plain></SENT>
+<SENT sid="8" pm="."><plain>aCGH detected 43 unbalanced chromosomal changes that were also identified by classical cytogenetics and FISH </plain></SENT>
+<SENT sid="9" pm="."><plain>Moreover, aCGH discovered 14 additional changes </plain></SENT>
+<SENT sid="10" pm="."><plain>Cryptic amplifications and deletions were characterized with a resolution of 0.5 Mb </plain></SENT>
+<SENT sid="11" pm="."><plain>In one bone marrow sample with suspected <z:mp ids='MP_0004026'>monosomy</z:mp> 5 detected by conventional cytogenetic analysis, aCGH revealed a 22.3 Mb region of chromosome 5 inserted in another autosome within the complex karyotype </plain></SENT>
+<SENT sid="12" pm="."><plain>Amplified DNA was successfully used for aCGH in 11 out of 12 cases, improving resolution of unbalanced chromosomal aberrations </plain></SENT>
+<SENT sid="13" pm="."><plain>The combination of both approaches brought more detailed description of complex karyotypes and is highly recommended </plain></SENT>
+</text></document>

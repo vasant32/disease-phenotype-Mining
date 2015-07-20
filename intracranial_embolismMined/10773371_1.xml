@@ -1,0 +1,20 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Research on microembolic signals (<z:chebi fb="28" ids="39005,39010">MES</z:chebi>) using the dual-gate technique has shown promising results, when the time difference (Deltat) of a <z:chebi fb="28" ids="39005,39010">MES</z:chebi> in two sample volumes (SVs) placed serially has been measured manually </plain></SENT>
+<SENT sid="1" pm="."><plain>On the other hand, the computerized discrimination of <z:chebi fb="28" ids="39005,39010">MES</z:chebi> and artefacts has been reported not to be superior to algorithms based on a single SV </plain></SENT>
+<SENT sid="2" pm="."><plain>Therefore, a dataset containing <z:chebi fb="28" ids="39005,39010">MES</z:chebi> as well as four types of artefacts was made to test a preliminary version of a new algorithm for automated emboli detection </plain></SENT>
+<SENT sid="3" pm="."><plain>We monitored 20 patients during carotid endarterectomy (n = 17) and heart surgery (n = 3) </plain></SENT>
+<SENT sid="4" pm="."><plain>Two transcranial Doppler (TCD) signals with a partial overlap of the SVs were recorded online and analysed off-line with an algorithm based on three consecutive steps: 1 </plain></SENT>
+<SENT sid="5" pm="?"><plain>Is there an intensity increase in both channels (64-point FFT; 50% overlap) </plain></SENT>
+<SENT sid="6" pm="."><plain>2 </plain></SENT>
+<SENT sid="7" pm="?"><plain>What is the expected time difference (Deltat), with the velocity measured in channel 1 as the calculation basis </plain></SENT>
+<SENT sid="8" pm="."><plain>3 </plain></SENT>
+<SENT sid="9" pm="?"><plain>What is the 'exact' Deltat (pseudo-Wigner power function) </plain></SENT>
+<SENT sid="10" pm="."><plain>Two human experts decided whether a signal was a <z:chebi fb="28" ids="39005,39010">MES</z:chebi> or belonged to one of the four artefact groups </plain></SENT>
+<SENT sid="11" pm="."><plain>Of a total of 97 MES, 28% (n = 27) could not be detected in the distal channel </plain></SENT>
+<SENT sid="12" pm="."><plain>Thus, 72% (n = 70) of the <z:chebi fb="28" ids="39005,39010">MES</z:chebi> were present in both channels and could be analysed based on the abovementioned criteria </plain></SENT>
+<SENT sid="13" pm="."><plain>Of these 70 MES, 87% (n = 61) were correctly identified off-line </plain></SENT>
+<SENT sid="14" pm="."><plain>We assessed artefact rejection for four different types of artefacts: changes of TCD settings, probe movement, low flow artefacts and electrocautery </plain></SENT>
+<SENT sid="15" pm="."><plain>The reliability of artefact rejection was 98% for setting changes (n = 382), 96% for probe movement (n = 477) and 98% for low flow artefacts (n = 91), but only 68% for electrocautery (n = 264) </plain></SENT>
+<SENT sid="16" pm="."><plain>These preliminary results are promising, but need careful interpretation: 28% of the <z:chebi fb="28" ids="39005,39010">MES</z:chebi> were not detectable in the distal SV, probably due to a poor signal-to-noise ratio (SNR) and anatomical restrictions </plain></SENT>
+<SENT sid="17" pm="."><plain>Electrocautery signals were insufficiently rejected </plain></SENT>
+<SENT sid="18" pm="."><plain>However, even an artefact rejection of 96% can be insufficient if the number of <z:chebi fb="28" ids="39005,39010">MES</z:chebi> is very small compared to the number of artefacts </plain></SENT>
+</text></document>

@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Fifty consecutive adult patients with <z:hpo ids='HP_0006721'>acute lymphoblastic leukemia</z:hpo> (ALL) were treated with an intensive cyclical chemotherapy and the mean received dose of individual cytotoxic drug was retrospectively studied </plain></SENT>
+<SENT sid="1" pm="."><plain>The median age was 28 years </plain></SENT>
+<SENT sid="2" pm="."><plain>Twenty-one (43%) had white blood cell (WBC) count over 30 x 10(9)/l </plain></SENT>
+<SENT sid="3" pm="."><plain>Of the 26 patients with successful cytogenetic studies, ten (28%) had unfavorable clonal chromosomal abnormalities (four Philadelphia chromosome, six others) </plain></SENT>
+<SENT sid="4" pm="."><plain>A high complete remission (CR) rate (86%) was achieved </plain></SENT>
+<SENT sid="5" pm="."><plain>This was associated with delivery of 100% of the planned dosage of <z:chebi fb="0" ids="28445">vincristine</z:chebi>, <z:chebi fb="0" ids="8382">prednisone</z:chebi>, and <z:chebi fb="0" ids="41977">daunorubicin</z:chebi> at induction </plain></SENT>
+<SENT sid="6" pm="."><plain>Dose reduction of asparaginase, the fourth drug in the induction protocol, was recorded in 20 (40%) patients </plain></SENT>
+<SENT sid="7" pm="."><plain>The CR rate of these patients was not adversely affected </plain></SENT>
+<SENT sid="8" pm="."><plain>Dose reduction was recorded during consolidation (38 of 43 remitters) and maintenance (18 of 20 remitters) as a result of treatment toxicity </plain></SENT>
+<SENT sid="9" pm="."><plain>The mean received dose of teniposide, Ara-C, asparaginase, <z:chebi fb="0" ids="50667">mercaptopurine</z:chebi>, and <z:chebi fb="0" ids="44185">methotrexate</z:chebi> was 73% (SD 7%), 73% (SD 7%), 62% (SD 41%), 65% (SD 15%) and 73% (SD 17%) of the planned dosage, respectively </plain></SENT>
+<SENT sid="10" pm="."><plain>The 5-year overall survival and <z:hpo ids='HP_0001909'>leukemia</z:hpo>-free survival (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">LFS</z:e>) were 11% (95% CI: 0-27%) and 13% (95% CI: 0-26%), respectively </plain></SENT>
+<SENT sid="11" pm="."><plain>Even standard-risk patients had 4-year <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">LFS</z:e> of only 26% (95% CI: 0-57%) </plain></SENT>
+<SENT sid="12" pm="."><plain>Among 36 remitters not withdrawn from consolidation, there were 29 treatment failures after a median follow-up of 42 months; 25 (86%) of these were <z:hpo ids='HP_0001909'>leukemia</z:hpo> relapse, three (10%) were toxic <z:hpo ids='HP_0011420'>death</z:hpo> during consolidation, and one patient (4%) died from therapy-related <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo> </plain></SENT>
+<SENT sid="13" pm="."><plain>We postulate inadequate drug delivery during postremission therapy contributed to the high relapse rate in the whole group as well as the standard-risk patients </plain></SENT>
+</text></document>

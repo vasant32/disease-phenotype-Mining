@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0100633'>Esophagitis</z:hpo> caused by reflux is one of the most frequent diseases diagnosed by endoscopy of the upper gastrointestinal tract </plain></SENT>
+<SENT sid="1" pm="."><plain>Reflux may be physiological </plain></SENT>
+<SENT sid="2" pm="."><plain>The main pathological conditions causing reflux are the <z:hpo ids='HP_0002036'>hiatus hernias</z:hpo> and sequelae of surgical procedures </plain></SENT>
+<SENT sid="3" pm="."><plain><z:hpo ids='HP_0100633'>Esophagitis</z:hpo> occurs exclusively in the layer of stratified epithelium </plain></SENT>
+<SENT sid="4" pm="."><plain>In early stages it presents as white stripes of <z:mpath ids='MPATH_580'>erosion</z:mpath> with a typical red frame or as a peptic lesion </plain></SENT>
+<SENT sid="5" pm="."><plain>The colors red or white are dependent upon depth of the process, coating and stage of healing </plain></SENT>
+<SENT sid="6" pm="."><plain>Pathogenesis, various forms of manifestation, and complications of the reflux disease can be understood if one knows about mucosal <z:mpath ids='MPATH_160'>metaplasias</z:mpath> which may occur </plain></SENT>
+<SENT sid="7" pm="."><plain>This metaplastic process involves replacement of areas of stratified epithelium by cylindrical epithelium </plain></SENT>
+<SENT sid="8" pm="."><plain>Peptic stenosis located highly in the esophagus usually indicates a distal segment of cylindrical epithelium </plain></SENT>
+<SENT sid="9" pm="."><plain>The so called <z:hpo ids='HP_0100580'>endobrachyesophagus</z:hpo> (<z:hpo ids='HP_0100580'>Barrett esophagus</z:hpo>) occurs in rare cases congenitally - it can be also found after complete healing of the <z:hpo ids='HP_0100633'>esophagitis</z:hpo> without any signs of <z:mp ids='MP_0001845'>inflammation</z:mp> or stenosis </plain></SENT>
+<SENT sid="10" pm="."><plain>Therefore it seems appropriate to introduce an additional classification for the <z:hpo ids='HP_0100580'>Barrett esophagus</z:hpo> (E0, EI-IV) </plain></SENT>
+<SENT sid="11" pm="."><plain>The reflux disease is clinically important because of its tenacious clinical symptomatology and its complications </plain></SENT>
+<SENT sid="12" pm="."><plain><z:hpo ids='HP_0100580'>Endobrachyesophagus</z:hpo> has been recognized as a <z:e sem="disease" ids="C0032927" disease_type="Neoplastic Process" abbrv="">precancerous condition</z:e> and should be controlled regularly </plain></SENT>
+</text></document>

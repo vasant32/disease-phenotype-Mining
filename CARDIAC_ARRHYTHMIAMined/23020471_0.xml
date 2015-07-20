@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Pacemaker interactions can lead to complex wave dynamics seen in certain types of <z:hpo ids='HP_0011675'>cardiac arrhythmias</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>We use experimental and mathematical models of pacemakers in <z:hpo ids='HP_0001425'>heterogeneous</z:hpo> excitable media to investigate how pacemaker interactions can be a mechanism for wave break and reentrant wave dynamics </plain></SENT>
+<SENT sid="2" pm="."><plain>Embryonic chick ventricular cells are cultured in vitro so as to create a dominant central pacemaker site that entrains other pacemakers in the medium </plain></SENT>
+<SENT sid="3" pm="."><plain>Exposure of those cultures to a <z:chebi fb="0" ids="50509">potassium channel blocker</z:chebi>, E-4031, leads to emergence of peripheral pacemakers that compete with each other and with the central pacemaker </plain></SENT>
+<SENT sid="4" pm="."><plain>Waves emitted by faster pacemakers break up over the slower pacemaker to form reentrant waves </plain></SENT>
+<SENT sid="5" pm="."><plain>Similar dynamics are observed in a modified FitzHugh-Nagumo model of <z:hpo ids='HP_0001425'>heterogeneous</z:hpo> excitable media with two distinct sites of pacemaking </plain></SENT>
+<SENT sid="6" pm="."><plain>These findings elucidate a mechanism of pacemaker-induced reentry in excitable media </plain></SENT>
+</text></document>

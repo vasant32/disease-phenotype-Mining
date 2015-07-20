@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: The incretin hormone GIP (<z:chebi fb="105" ids="17234">glucose</z:chebi>-dependent insulinotropic <z:chebi fb="1" ids="15841">polypeptide</z:chebi>) promotes pancreatic β-cell function by potentiating insulin secretion and β-cell proliferation </plain></SENT>
+<SENT sid="1" pm="."><plain>Recently, a combined analysis of several genome-wide association studies (Meta-analysis of <z:chebi fb="105" ids="17234">Glucose</z:chebi> and Insulin-Related Traits Consortium [MAGIC]) showed association to postprandial insulin at the GIP receptor (GIPR) locus </plain></SENT>
+<SENT sid="2" pm="."><plain>Here we explored mechanisms that could explain the protective effects of GIP on islet function </plain></SENT>
+<SENT sid="3" pm="."><plain>RESEARCH DESIGN AND METHODS: Associations of GIPR rs10423928 with metabolic and anthropometric phenotypes in both nondiabetic (N = 53,730) and type 2 diabetic individuals (N = 2,731) were explored by combining data from 11 studies </plain></SENT>
+<SENT sid="4" pm="."><plain>Insulin secretion was measured both in vivo in nondiabetic subjects and in vitro in islets from cadaver donors </plain></SENT>
+<SENT sid="5" pm="."><plain>Insulin secretion was also measured in response to exogenous GIP </plain></SENT>
+<SENT sid="6" pm="."><plain>The in vitro measurements included protein and gene expression as well as measurements of β-cell viability and proliferation </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: The A allele of GIPR rs10423928 was associated with impaired <z:chebi fb="105" ids="17234">glucose</z:chebi>- and GIP-stimulated insulin secretion and a decrease in BMI, lean body mass, and waist circumference </plain></SENT>
+<SENT sid="8" pm="."><plain>The decrease in BMI almost completely neutralized the effect of <z:e sem="disease" ids="C0948379" disease_type="Disease or Syndrome" abbrv="">impaired insulin secretion</z:e> on risk of type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="9" pm="."><plain>Expression of GIPR <z:chebi fb="2" ids="33699">mRNA</z:chebi> was decreased in human islets from carriers of the A allele or patients with type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="10" pm="."><plain>GIP stimulated osteopontin (OPN) <z:chebi fb="2" ids="33699">mRNA</z:chebi> and protein expression </plain></SENT>
+<SENT sid="11" pm="."><plain>OPN expression was lower in carriers of the A allele </plain></SENT>
+<SENT sid="12" pm="."><plain>Both GIP and OPN prevented cytokine-induced reduction in cell viability (<z:mpath ids='MPATH_3'>apoptosis</z:mpath>) </plain></SENT>
+<SENT sid="13" pm="."><plain>In addition, OPN stimulated cell proliferation in insulin-secreting cells </plain></SENT>
+<SENT sid="14" pm="."><plain>CONCLUSIONS: These findings support β-cell proliferative and antiapoptotic roles for GIP in addition to its action as an incretin hormone </plain></SENT>
+<SENT sid="15" pm="."><plain>Identification of a link between GIP and OPN may shed new light on the role of GIP in preservation of functional β-cell mass in humans </plain></SENT>
+</text></document>

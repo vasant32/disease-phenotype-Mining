@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIM: To study the changes and mechanisms of protein-tyrosine kinase (PTK) and protein-tyrosine phosphatase (<z:chebi fb="0" ids="52242">PTP</z:chebi>) activities in the hippocamal synaptosome following <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo>/reperfusion (I/R) in gerbil </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: Transient (15 min) global <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> was produced by bilateral carotid <z:mp ids='MP_0006134'>artery occlusion</z:mp> </plain></SENT>
+<SENT sid="2" pm="."><plain>Total PTK and <z:chebi fb="0" ids="52242">PTP</z:chebi> activities were measured by [r-32P] incorporation and colorimetric analysis, respectively </plain></SENT>
+<SENT sid="3" pm="."><plain>Src and proline-rich tyrosine kinase2 (PYK2) activities were measured by immunoprecipitation and [r-32P] incorporation </plain></SENT>
+<SENT sid="4" pm="."><plain>RESULTS: Total PTK activity increased significantly after I/R, but the <z:chebi fb="0" ids="52242">PTP</z:chebi> activity did not change </plain></SENT>
+<SENT sid="5" pm="."><plain>The Src activity was much higher than PYK2 activity in sham-operated controls </plain></SENT>
+<SENT sid="6" pm="."><plain>I/R mainly caused a pronounced increase in Src activity, but not PYK2 activity </plain></SENT>
+<SENT sid="7" pm="."><plain>The increase in Src activity had no relation to the expression of Src protein </plain></SENT>
+<SENT sid="8" pm="."><plain>Administration of ketamine (KT) or <z:chebi fb="1" ids="7565">nifedipine</z:chebi> (ND) 20 min before <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> caused a decrease in total PTK and Src activities, and no change in the PYK2 and <z:chebi fb="0" ids="52242">PTP</z:chebi> activities </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSION: The increase in PTK activity caused by I/R may be mainly due to the increase in Src activity </plain></SENT>
+<SENT sid="10" pm="."><plain>This increase in Src activity has no relation to the expression of Src protein </plain></SENT>
+<SENT sid="11" pm="."><plain>But it is related to the activation of <z:chebi fb="0" ids="31882">NMDA</z:chebi> (<z:chebi fb="0" ids="31882">N-methyl-D-aspartate</z:chebi>) receptor (NR) and L-type voltage-gated calcium channel (L-type VGCC) </plain></SENT>
+<SENT sid="12" pm="."><plain>In other words, the increase in total PTK and Src activities induced by I/R may be mediated via NR and L-type VGCC </plain></SENT>
+<SENT sid="13" pm="."><plain>The <z:chebi fb="0" ids="52242">PTP</z:chebi> activity did not change during I/R </plain></SENT>
+</text></document>

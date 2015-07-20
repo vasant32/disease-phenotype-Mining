@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Pharmacogenetic markers related to drug metabolism and mechanisms of action could help to better select patients with <z:e sem="disease" ids="C0948380" disease_type="Neoplastic Process" abbrv="">metastatic colorectal cancer</z:e> (mCRC) for treatment </plain></SENT>
+<SENT sid="1" pm="."><plain>Genetic interaction analysis is used as a rational tool to study the contribution of polygenic variation in relation to drug response </plain></SENT>
+<SENT sid="2" pm="."><plain>PATIENTS AND METHODS: A selection of 17 polymorphisms in genes encoding drug targets, pathway molecules and detoxification enzymes was analyzed in 279 previously untreated mCRC patients treated with <z:chebi fb="0" ids="31348">capecitabine</z:chebi>, <z:chebi fb="0" ids="31941">oxaliplatin</z:chebi> and bevacizumab (CAPOX-B) </plain></SENT>
+<SENT sid="3" pm="."><plain>Multifactor dimensionality reduction analysis was used to identify a genetic interaction profile for progression-free survival (PFS) </plain></SENT>
+<SENT sid="4" pm="."><plain>RESULTS: Median PFS was 10.9 [95% confidence interval (CI) 9.4-12.4] months </plain></SENT>
+<SENT sid="5" pm="."><plain>A genetic interaction profile consisting of the TYMS enhancer region and VEGF +405G&gt;C polymorphisms was significantly associated with PFS </plain></SENT>
+<SENT sid="6" pm="."><plain>Median PFS was 13.3 (95% CI 11.4-15.3) and 9.7 (95% CI 7.6-11.8) months for the beneficial and unfavorable genetic profiles, respectively, corresponding to a hazards ratio for PFS of 1.58 (95% CI 1.14-2.19) </plain></SENT>
+<SENT sid="7" pm="."><plain>None of the studied polymorphisms were individually associated with PFS </plain></SENT>
+<SENT sid="8" pm="."><plain>CONCLUSIONS: Our results support a genetic interaction between the TYMS enhancer region and VEGF +405G&gt;C polymorphisms as a predictor of the efficacy of CAPOX-B in mCRC patients </plain></SENT>
+</text></document>

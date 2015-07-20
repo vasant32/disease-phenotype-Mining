@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Patients with extensive brain <z:mpath ids='MPATH_124'>infarcts</z:mpath> are at increased risk for <z:hpo ids='HP_0001297'>stroke</z:hpo>-associated <z:hpo ids='HP_0011947'>respiratory tract infections</z:hpo> (SARTI), which cause worse outcome </plain></SENT>
+<SENT sid="1" pm="."><plain>The benefit of general antibiotic prophylaxis is controversial </plain></SENT>
+<SENT sid="2" pm="."><plain>Early diagnosis of SARTI may improve patient selection for antimicrobial therapy </plain></SENT>
+<SENT sid="3" pm="."><plain>Procalcitonin (PCT) is widely recognized as serum marker for <z:mp ids='MP_0001794'>bacterial</z:mp> <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infections</z:e> </plain></SENT>
+<SENT sid="4" pm="."><plain>Its diagnostic value with respect to SARTI has not been assessed systematically </plain></SENT>
+<SENT sid="5" pm="."><plain>METHODS: Serum PCT levels were analyzed in <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> patients (n = 50) at day 1 (d1) and day 4 (d4) after <z:hpo ids='HP_0001297'>stroke</z:hpo> <z:hpo ids='HP_0003674'>onset</z:hpo> </plain></SENT>
+<SENT sid="6" pm="."><plain>PCT test performance was assessed by receiver operator characteristics (ROC) curve analysis </plain></SENT>
+<SENT sid="7" pm="."><plain>Multivariable logistic regression analysis was applied to identify early predictors for SARTI </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: Higher d4 serum PCT levels were associated with SARTI; ROC curve analysis revealed an area under the curve (AUC) of 0.79 (95%-confidence interval (CI) 0.61-0.96) </plain></SENT>
+<SENT sid="9" pm="."><plain>A 0.25-ng/ml cutoff resulted in a test sensitivity and specificity of 42 and 96%, respectively </plain></SENT>
+<SENT sid="10" pm="."><plain>Positive (LR+) and negative (LR-) likelihood ratios were 10.8 and 0.6, respectively </plain></SENT>
+<SENT sid="11" pm="."><plain>In predicting SARTI, multivariable logistic regression analysis controlling for <z:mpath ids='MPATH_124'>infarct</z:mpath> volume ruled out an independent explanatory effect of serum PCT </plain></SENT>
+<SENT sid="12" pm="."><plain>Greater <z:mpath ids='MPATH_124'>infarct</z:mpath> volume (odds ratio (OR) 1.06, 95%-CI 1.02-1.1) prevailed as independent SARTI-predictor </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSIONS: In the absence of clinical signs, post-<z:hpo ids='HP_0001297'>stroke</z:hpo> screening for SARTI using serum PCT levels is not useful since test sensitivity is low </plain></SENT>
+<SENT sid="14" pm="."><plain>If the clinical suspicion for SARTI is strong, serum PCT-testing (&gt;0.25 ng/ml) may improve diagnostic accuracy by improving specificity </plain></SENT>
+</text></document>

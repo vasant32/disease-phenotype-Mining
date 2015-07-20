@@ -1,0 +1,6 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The in vivo regulation of coagulation is mainly controlled by plasma inhibitors in which antithrombin III (AT III) plays an importance role </plain></SENT>
+<SENT sid="1" pm="."><plain>AT III is a <z:chebi fb="2" ids="17089">glycoprotein</z:chebi> which inhibits <z:hpo ids='HP_0000001'>all</z:hpo> serine proteases, except factor, VIIa, generated during the coagulation process </plain></SENT>
+<SENT sid="2" pm="."><plain>The proteases are inactivated by formation of an equimolecular complex and this reaction is greatly enhanced in the presence of <z:chebi fb="5" ids="28304">heparin</z:chebi> </plain></SENT>
+<SENT sid="3" pm="."><plain>A similar catalytic process could occur in vivo, involving <z:chebi fb="5" ids="28304">heparin</z:chebi>-like substances present on the surface of the surface of the endothelial cell </plain></SENT>
+<SENT sid="4" pm="."><plain>The physiological importance of AT III is clearly demonstrated by the high incidence of <z:hpo ids='HP_0001907'>thromboembolic disease</z:hpo> in patients with congenital AT III défficiency </plain></SENT>
+</text></document>

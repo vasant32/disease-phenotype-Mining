@@ -1,0 +1,19 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The substantial role of endothelin-1 (ET-1) in the development of <z:e sem="disease" ids="C0265110" disease_type="Disease or Syndrome" abbrv="">cerebral vasospasm</z:e> (CVS) after subarachnoidal <z:mp ids='MP_0001914'>hemorrhage</z:mp> (SAH) has been demonstrated by numerous experimental and, recently, clinical investigations </plain></SENT>
+<SENT sid="1" pm="."><plain>Whether the expression or function of the ET(B) receptor is altered in CVS is still unclear, however </plain></SENT>
+<SENT sid="2" pm="."><plain>The aim of the present study was, therefore, to characterize the cerebroarterial ET(B) receptor function during CVS </plain></SENT>
+<SENT sid="3" pm="."><plain>Experimental CVS was induced by the rat double-<z:mp ids='MP_0001914'>hemorrhage</z:mp> model </plain></SENT>
+<SENT sid="4" pm="."><plain>Reduction of the cerebral blood flow (CBF) was confirmed by magnetic resonance perfusion-weighted imaging </plain></SENT>
+<SENT sid="5" pm="."><plain>Animals were sacrificed on days 3 (d3) and 5 (d5) after CVS induction </plain></SENT>
+<SENT sid="6" pm="."><plain>The basilar arteries (BA) were dissected, cut into ring segments, and prepared for measurement of isometric force in an organ bath </plain></SENT>
+<SENT sid="7" pm="."><plain>Concentration-effect curves (CECs) were constructed by cumulative application of ET-1, <z:chebi fb="9" ids="15355">acetylcholine</z:chebi> (<z:chebi fb="93" ids="22614">Ach</z:chebi>), or sarafotoxin S6c (S6c) </plain></SENT>
+<SENT sid="8" pm="."><plain>Segments with (E+) endothelial function were used </plain></SENT>
+<SENT sid="9" pm="."><plain>CECs were compared by the maximum effect (E(max)), the pD2, and the shift calculated on the pD2 level </plain></SENT>
+<SENT sid="10" pm="."><plain>The pD2 is the negative decadic logarithm of the concentration producing the half maximal effect (-log10EC50) </plain></SENT>
+<SENT sid="11" pm="."><plain>After SAH, the relative regional CBF in the d3 and d5 groups was reduced to 63% and 32%, respectively, of the CBF in controls </plain></SENT>
+<SENT sid="12" pm="."><plain>ET-1 induced a dose-dependent contraction of segments with and segments without CVS </plain></SENT>
+<SENT sid="13" pm="."><plain>In E+ segments, the E(max) for ET-1 was not significantly changed after SAH (mean values [ +/- <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">SEM</z:e>] of 104% +/- 4% for the control group, 106% +/- 4% for the d3 group, and 104% +/- 3% for the d5 group) </plain></SENT>
+<SENT sid="14" pm="."><plain>The CECs, however, were significantly shifted to the left versus the control by factors of 2.4 in the d3 group and 3.6 in the d5 group </plain></SENT>
+<SENT sid="15" pm="."><plain>Relaxation by S6c was significantly reduced after SAH (E(max:) 73% +/- 11% in the control group, 21% +/- 13% in the d3 group, and 13% +/- 8% in the d5 group), whereas relaxation associated with <z:chebi fb="93" ids="22614">Ach</z:chebi> was not significantly changed (E(max): 45% +/- 7% in the control group, 56% +/- 6% in the d3 group, and 43% +/- 6% in the d5 group) </plain></SENT>
+<SENT sid="16" pm="."><plain>Significant contraction by S6c was not observed in E+ and E - segments in any of the study groups </plain></SENT>
+<SENT sid="17" pm="."><plain>The present data indicate the loss of the ET(B) receptor-mediated relaxation of the cerebral arteries in cases of CVS, which is independent of the endothelial nitric <z:chebi fb="177" ids="25741,29356">oxide</z:chebi> synthase level </plain></SENT>
+</text></document>

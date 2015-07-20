@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>This investigation examined promoter DNA methylation of the <z:chebi fb="3" ids="50113">androgen</z:chebi> receptor (AR) gene in non-Hodgkin's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (NHL) representing different stages of B-cell differentiation </plain></SENT>
+<SENT sid="1" pm="."><plain>Steroid hormones are important <z:chebi fb="32" ids="24621">endocrine</z:chebi> messengers with a broad range of physiological functions, including regulation of B-cell lymphopoiesis </plain></SENT>
+<SENT sid="2" pm="."><plain>Some of these effects are mediated via specific receptors such as AR that can act as a ligand-dependent transcription factor for other genes </plain></SENT>
+<SENT sid="3" pm="."><plain>DNA was isolated from 76 NHL specimens representing pregerminal center, germinal center, and postgerminal center states of differentiation </plain></SENT>
+<SENT sid="4" pm="."><plain>Initial methylation data were obtained from oligonucleotide microarrays and was confirmed and extended using methylation-specific PCR </plain></SENT>
+<SENT sid="5" pm="."><plain>Methylation of the AR gene promoter was present in a nonrandom pattern </plain></SENT>
+<SENT sid="6" pm="."><plain>Those <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumors</z:e> derived from pregerminal center or postgerminal center stages showed virtually no methylation and expressed AR <z:chebi fb="2" ids="33699">mRNA</z:chebi> </plain></SENT>
+<SENT sid="7" pm="."><plain>Cases of germinal center origin, mainly follicular <z:hpo ids='HP_0002665'>lymphomas</z:hpo> and some diffuse large B-cell <z:hpo ids='HP_0002665'>lymphomas</z:hpo>, showed hypermethylation </plain></SENT>
+<SENT sid="8" pm="."><plain>Studies with NHL cell lines revealed that demethylation or reversal of <z:chebi fb="0" ids="15358">histone</z:chebi> deacetylation partially restored AR expression but reversal of both simultaneously provided a synergistic release from suppression </plain></SENT>
+<SENT sid="9" pm="."><plain>Promoter methylation of AR occurs in a differentiation stage-selective manner; those cases arising in the germinal center are preferentially methylated </plain></SENT>
+<SENT sid="10" pm="."><plain>Full re-expression of AR requires both demethylation and reacetylation, a finding that may affect treatment decisions </plain></SENT>
+</text></document>

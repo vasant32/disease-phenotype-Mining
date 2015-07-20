@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: The results of a pilot <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> screening programme by biennial immunochemical faecal occult blood test (FOBT) are reported </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: <z:hpo ids='HP_0000001'>All</z:hpo> residents aged between 50 and 69 years in the Italian province of Lecco were invited to have a FOBT </plain></SENT>
+<SENT sid="2" pm="."><plain>Those with a positive result were offered colonoscopy </plain></SENT>
+<SENT sid="3" pm="."><plain>FOBT uptake and compliance with colonoscopy were assessed </plain></SENT>
+<SENT sid="4" pm="."><plain>Detection rate and positive predictive value (<z:chebi fb="0" ids="53261">PPV</z:chebi>) for <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> and <z:mpath ids='MPATH_270'>adenoma</z:mpath> were calculated </plain></SENT>
+<SENT sid="5" pm="."><plain><z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">Tumour</z:e> stages were compared between screen-detected <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancers</z:e> and other <z:e sem="disease" ids="C1527249" disease_type="Neoplastic Process" abbrv="">colorectal cancers</z:e> diagnosed within the target age group </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: Some 38,693 (49.6 per cent) of 78,083 individuals had a FOBT and 2392 (6.2 per cent) had a positive result </plain></SENT>
+<SENT sid="7" pm="."><plain><z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">Colorectal cancer</z:e> was diagnosed in 4.6 per cent and advanced <z:mpath ids='MPATH_270'>adenoma</z:mpath> in 32.7 per cent </plain></SENT>
+<SENT sid="8" pm="."><plain><z:chebi fb="0" ids="53261">PPVs</z:chebi> were 4.0 per cent for <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e>, 28.1 per cent for advanced <z:mpath ids='MPATH_270'>adenoma</z:mpath> and 36.6 per cent for any <z:mpath ids='MPATH_270'>adenoma</z:mpath> </plain></SENT>
+<SENT sid="9" pm="."><plain>There was a significant difference in incidence of stage III/IV disease between screened and non-screened cohorts </plain></SENT>
+<SENT sid="10" pm="."><plain>Compliance for colonoscopy was 92.0 per cent </plain></SENT>
+<SENT sid="11" pm="."><plain>Major determinants of compliance were age less than 59 years, female sex, high education level and non-manual work </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSION: These results justify extension of <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> screening to other regions of Italy </plain></SENT>
+</text></document>

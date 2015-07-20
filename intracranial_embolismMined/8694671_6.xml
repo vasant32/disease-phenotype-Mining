@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Patients presenting with <z:hpo ids='HP_0001297'>stroke</z:hpo> or transient cerebral ischemic episodes often undergo transesophageal echocardiography (TEE) as part of their initial evaluation </plain></SENT>
+<SENT sid="1" pm="."><plain>Previous studies have demonstrated that TEE is superior to transthoracic echocardiography for the detection of potential cardiac sources of embolism </plain></SENT>
+<SENT sid="2" pm="."><plain>In our institution, this scenario now represents the most frequent reason for requesting TEE </plain></SENT>
+<SENT sid="3" pm="."><plain>For the most part, these TEE examinations are ordered by a neurologist, and transthoracic echocardiography is not performed beforehand </plain></SENT>
+<SENT sid="4" pm="."><plain>PATIENTS: Over a 2-year period, TEE was requested for 137 patients at our institution for the evaluation of a cerebral ischemic event </plain></SENT>
+<SENT sid="5" pm="."><plain>The complete hospital chart was available for review in 106 of these patients, and they form the study group </plain></SENT>
+<SENT sid="6" pm="."><plain>METHODS: <z:hpo ids='HP_0000001'>All</z:hpo> patients underwent TEE using either a biplane or omniplane transducer, with Doppler color flow imaging and saline contrast administration performed in every case </plain></SENT>
+<SENT sid="7" pm="."><plain>Studies were reviewed for the presence of possible cardiac or aortic sources of <z:e sem="disease" ids="C0007780" disease_type="Disease or Syndrome" abbrv="">cerebral emboli</z:e>, and hospital charts were reviewed to collect clinical information </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: A potential cardiovascular embolic source was detected in 35% of patients </plain></SENT>
+<SENT sid="9" pm="."><plain>Abnormalities were discovered in 53% (16/30) of patients with <z:hpo ids='HP_0005110'>atrial fibrillation</z:hpo> vs 28% (21/76) of patients in sinus rhythm (P &lt; .001) </plain></SENT>
+<SENT sid="10" pm="."><plain>Both patients who had left atrial <z:e sem="disease" ids="C0302148,C0087086" disease_type="Disease or Syndrome;Acquired Abnormality" abbrv="">thrombus</z:e> and 12 of 13 with left atrial spontaneous contrast had <z:hpo ids='HP_0005110'>atrial fibrillation</z:hpo> (P &lt; .001) </plain></SENT>
+<SENT sid="11" pm="."><plain>Protruding aortic atherosclerotic debris was the most frequent abnormality among patients in sinus rhythm </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: It may not be cost-effective to perform TEE as a routine diagnostic procedure in patients presenting with cerebral ischemic events </plain></SENT>
+<SENT sid="13" pm="."><plain>Most patients with <z:hpo ids='HP_0005110'>atrial fibrillation</z:hpo> are candidates for empiric <z:chebi fb="0" ids="10034">warfarin sodium</z:chebi> therapy, and patients in sinus rhythm usually have findings for which there is no recommended therapy or for which only aspirin is indicated </plain></SENT>
+</text></document>

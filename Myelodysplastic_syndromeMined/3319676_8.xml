@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>20 patients with <z:hpo ids='HP_0002863'>myelodysplastic syndromes</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e>) were treated with <z:chebi fb="1" ids="4315">danazol</z:chebi>, 800 mg daily in 4 divided doses </plain></SENT>
+<SENT sid="1" pm="."><plain>18 patients were evaluable for response </plain></SENT>
+<SENT sid="2" pm="."><plain>3 patients (17%), whose principal problem was <z:hpo ids='HP_0001903'>anemia</z:hpo>, responded to treatment, but only with an increase in platelet count </plain></SENT>
+<SENT sid="3" pm="."><plain>Responses were short-lived and lacked clinical significance </plain></SENT>
+<SENT sid="4" pm="."><plain>No patients with <z:hpo ids='HP_0001903'>anemia</z:hpo> or <z:hpo ids='HP_0001882'>leukopenia</z:hpo> responded to treatment and none of the 7 patients with a platelet count less than 30 x 10(9)/l responded </plain></SENT>
+<SENT sid="5" pm="."><plain><z:chebi fb="1" ids="4315">Danazol</z:chebi> appears to have limited clinical utility in the treatment of <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> </plain></SENT>
+<SENT sid="6" pm="."><plain>However, occasional patients with <z:hpo ids='HP_0001873'>thrombocytopenia</z:hpo> may benefit </plain></SENT>
+</text></document>

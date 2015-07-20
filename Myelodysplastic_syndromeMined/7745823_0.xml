@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Events observed during a follow-up period are generally more informative when predicting the prognosis of patients than the clinical data available at the start of follow-up </plain></SENT>
+<SENT sid="1" pm="."><plain>The present paper has aimed to introduce a modified landmark method for estimating a survival curve for patients in whom an event related to their survival had occurred at a given landmark time during the follow-up period </plain></SENT>
+<SENT sid="2" pm="."><plain>Survival curves were compared graphically by the conventional method, the Mantel-Byar method, the landmark method and the modified landmark method </plain></SENT>
+<SENT sid="3" pm="."><plain>The subjects were ninety-five patients with <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo> who had been diagnosed between 1979 and 1992 at Tokyo Medical College Hospital, and followed-up until September, 1993 </plain></SENT>
+<SENT sid="4" pm="."><plain>Disease evolution was used as the event </plain></SENT>
+<SENT sid="5" pm="."><plain>The survival curves for patients with and without the event, calculated by the conventional method, were biased and not applicable to the actual patients at the start of follow-up before the occurrence of the event </plain></SENT>
+<SENT sid="6" pm="."><plain>The curves obtained using the Mantel-Byar method were not biased but similarly not applicable to the actual patients </plain></SENT>
+<SENT sid="7" pm="."><plain>The landmark method gave unbiased curves applicable to patients with and without the event at a given landmark time, but the curve for those with the event included a lead time from the <z:hpo ids='HP_0003674'>onset</z:hpo> of the event to the landmark time </plain></SENT>
+<SENT sid="8" pm="."><plain>The modified method gave an unbiased estimation of survival for patients in whom the event had just occurred around a given landmark time </plain></SENT>
+</text></document>

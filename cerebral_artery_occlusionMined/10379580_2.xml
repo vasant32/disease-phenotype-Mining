@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>In the method of in situ hybridization autoradiography, quantitative comparisons among multiple <z:chebi fb="2" ids="33699">mRNA</z:chebi> signals have proven difficult for many reasons, attributable both to technical factors (e.g. different probe specific activities) as well as to large differences in the patterns and levels of expression of different genes in pathologic states </plain></SENT>
+<SENT sid="1" pm="."><plain>Here we report a standardized normalization procedure for in situ hybridization autoradiography, employing a Bayes classifier, which permits the comparison of multiple <z:chebi fb="2" ids="33699">mRNA</z:chebi> probes </plain></SENT>
+<SENT sid="2" pm="."><plain>Autoradiograms of different probes in individual animals are first digitized and converted to units of radioactivity </plain></SENT>
+<SENT sid="3" pm="."><plain>Next, pixel-distribution histograms are generated for each <z:chebi fb="2" ids="33699">mRNA</z:chebi> signal </plain></SENT>
+<SENT sid="4" pm="."><plain>The Bayes classifier is then used to establish an optimal threshold to distinguish activated and non-activated pixels </plain></SENT>
+<SENT sid="5" pm="."><plain>This threshold also defines the minimal level of <z:chebi fb="2" ids="33699">mRNA</z:chebi> expression </plain></SENT>
+<SENT sid="6" pm="."><plain>The maximal <z:chebi fb="2" ids="33699">mRNA</z:chebi> signal is defined as the mean + 3 SD of the activated pixel distribution </plain></SENT>
+<SENT sid="7" pm="."><plain>We then use a linear transformation to convert each pixel from absolute activity to percentage of maximal <z:chebi fb="2" ids="33699">mRNA</z:chebi> signal for that particular probe </plain></SENT>
+<SENT sid="8" pm="."><plain>The normalized autoradiographic images can then be averaged to represent group trends and can be compared by standard statistical methods </plain></SENT>
+<SENT sid="9" pm="."><plain>We illustrate this normalization procedure using in situ hybridization autoradiography for three genes (GADD45, HSP70 and MAP2) expressed in the brains of rats studied at various recirculation times following transient (2 h) middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> </plain></SENT>
+<SENT sid="10" pm="."><plain>The Bayes classifier is reviewed and its analytical application is presented </plain></SENT>
+<SENT sid="11" pm="."><plain>Step-by-step examples of intermediate steps are presented, construction of averaged data sets, and pixel-based statistical comparisons among expressed genes </plain></SENT>
+</text></document>

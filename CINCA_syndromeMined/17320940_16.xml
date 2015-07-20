@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: <z:e sem="disease" ids="C1610600" disease_type="Disease or Syndrome;Congenital Abnormality" abbrv="">Familial cold autoinflammatory syndrome</z:e> (FCAS) is characterized by <z:e sem="disease" ids="C0015230" disease_type="Disease or Syndrome" abbrv="">rash</z:e>, <z:hpo ids='HP_0001945'>fever</z:hpo>, and <z:hpo ids='HP_0002829'>arthralgia</z:hpo> in response to cold exposure </plain></SENT>
+<SENT sid="1" pm="."><plain>CIAS1, the gene that codes for cryopyrin, is mutated in FCAS </plain></SENT>
+<SENT sid="2" pm="."><plain>Treatment with anakinra (IL-1 receptor <z:chebi fb="68" ids="48706">antagonist</z:chebi>) prevents symptoms, indicating a crucial role for IL-1 in this disease </plain></SENT>
+<SENT sid="3" pm="."><plain>OBJECTIVE: To study cytokine responses to cold exposure in monocytes from subjects with FCAS </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS: Adherence-enriched monocytes were incubated at 32 degrees C or 37 degrees C </plain></SENT>
+<SENT sid="5" pm="."><plain>Transcription and release of IL-1beta, IL-6, and TNF-alpha were monitored by quantitative PCR and ELISA </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: The FCAS monocytes but not control cells responded to 4 h incubation at 32 degrees C with significant secretion of IL-1beta </plain></SENT>
+<SENT sid="7" pm="."><plain>At 16 h, IL-1beta, IL-6, and TNF-alpha were <z:hpo ids='HP_0000001'>all</z:hpo> significantly elevated in FCAS monocytes at 32 degrees C </plain></SENT>
+<SENT sid="8" pm="."><plain>Increased cytokine transcription was observed in <z:hpo ids='HP_0000001'>all</z:hpo> monocytes at 4 hours, but at 16 hours it was only seen in FCAS monocytes incubated at 32 degrees C </plain></SENT>
+<SENT sid="9" pm="."><plain>Incubation at 32 degrees C for as little as 1 hour sufficed to induce measurable IL-1beta release </plain></SENT>
+<SENT sid="10" pm="."><plain>Caspase-1 inhibitors prevented the cold-induced IL-1beta release, whereas a purinergic <z:chebi fb="68" ids="48706">antagonist</z:chebi> did not </plain></SENT>
+<SENT sid="11" pm="."><plain>Anakinra had no effect on the early IL-1beta release but significantly reduced the late-phase transcription and release of <z:hpo ids='HP_0000001'>all</z:hpo> cytokines </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSION: FCAS monocytes respond to mild <z:hpo ids='HP_0002045'>hypothermia</z:hpo> with IL-1beta release, which in turn induces autocrine transcription and secretion of IL-6 and TNF-alpha as well as stimulation of further IL-1beta production </plain></SENT>
+<SENT sid="13" pm="."><plain>CLINICAL IMPLICATIONS: These results confirm the central role of IL-1beta in FCAS and support the use of IL-1 targeted therapy in these patients </plain></SENT>
+</text></document>

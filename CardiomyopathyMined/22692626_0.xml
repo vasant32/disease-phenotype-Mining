@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVES: The study sought to investigate whether there is stress-induced worsening of left ventricular mechanical dyssynchrony (LVMD) in patients with ischemic <z:hpo ids='HP_0001638'>cardiomyopathy</z:hpo> (ICM), determine the predictors of LVMD response (LVMDR) and its incremental prognostic value </plain></SENT>
+<SENT sid="1" pm="."><plain>BACKGROUND: The effect of stress <z:mp ids='MP_0001532'>physiology</z:mp> on LVMD in patients with ICM has not been adequately evaluated, and the prognostic value of abnormal LVMDR beyond traditional predictors of mortality remains uncertain </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: 489 consecutive patients with ICM, LV ejection fraction (EF) &lt;35% undergoing rest/stress Rb-82 gated PET were evaluated </plain></SENT>
+<SENT sid="3" pm="."><plain>LVMD was determined by phase analysis (SD) from gated rest and peak stress images; LVMDR was defined as stress SD - rest SD, and stratified by tertiles </plain></SENT>
+<SENT sid="4" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo>-cause mortality was the primary outcome </plain></SENT>
+<SENT sid="5" pm="."><plain>Linear regression was performed to determine the predictors of LVMDR, and Cox proportional hazard modeling to assess its independent prognostic value </plain></SENT>
+<SENT sid="6" pm="."><plain>Integrated discrimination improvement (IDI) and net reclassification improvement (NRI) were performed to determine incremental value of abnormal LVMDR </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: Independent predictors of worse LVMD at peak stress were perfusion defect size (PDS) and resting heart rate; while higher resting LVEF, LVEF reserve and rest phase SD were associated with lower LVMDR </plain></SENT>
+<SENT sid="8" pm="."><plain>Over a mean follow-up of 2.0 ± 1.4 years, 123 patients (25%) died </plain></SENT>
+<SENT sid="9" pm="."><plain>After multivariate analysis, LVMDR was an independent predictor of <z:hpo ids='HP_0000001'>all</z:hpo>-cause mortality (HR 1.19[1.01;1.38], per 10° increase, P = .04) and reclassified 18% of patients with IDI 1.4% (P = .02) and NRI 9% (P = .057) </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSION: In patients with ICM, an increase of LVMD during peak gating stress as compared to rest was an independent predictor of <z:hpo ids='HP_0000001'>all</z:hpo>-cause mortality, and had a modest incremental prognostic value </plain></SENT>
+<SENT sid="11" pm="."><plain>Future studies are needed to validate our findings </plain></SENT>
+</text></document>

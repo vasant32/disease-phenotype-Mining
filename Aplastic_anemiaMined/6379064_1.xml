@@ -1,0 +1,7 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Immunologically mediated <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> (AA) in mice was induced by the i.v. injection of 10(7) lymph node cells (LNC) from H-2k identical but Mls mismatched CBA/J donor mice into previously irradiated (600 rad total body gamma) C3H/HeJ mice </plain></SENT>
+<SENT sid="1" pm="."><plain><z:chebi fb="0" ids="4031">Cyclosporin A</z:chebi> (CsA), 25 mg/kg, was administered subcutaneously from day -1 to day 30 </plain></SENT>
+<SENT sid="2" pm="."><plain>Control mice included C3H/HeJ mice which received 600 rad alone, C3H/HeJ mice which received 600 rad plus CsA as above, and C3H/HeJ mice which received 600 rad total body irradiation followed by 10(7) LNC from CBA/J donors </plain></SENT>
+<SENT sid="3" pm="."><plain>CsA failed to prevent lethal AA </plain></SENT>
+<SENT sid="4" pm="."><plain>These results suggest that the pathogenetic mechanisms operating in immunologically mediated AA differ from the mechanisms operating in rodents transplanted with allogeneically mismatched marrow or spleen cells which develop <z:e sem="disease" ids="C0018133" disease_type="Disease or Syndrome" abbrv="GVH">graft-versus-host disease</z:e> </plain></SENT>
+<SENT sid="5" pm="."><plain>The results are consistent with a non-T cell-dependent mechanism causing the AA </plain></SENT>
+</text></document>

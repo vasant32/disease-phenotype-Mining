@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0002863'>Myelodysplastic syndromes</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e>) are characterized by hypercellular bone marrow, peripheral cytopenia and an increased rate of intramedullary <z:mpath ids='MPATH_3'>apoptosis</z:mpath> </plain></SENT>
+<SENT sid="1" pm="."><plain><z:mp ids='MP_0003674'>Oxidative stress</z:mp> is known as an important factor that leads to <z:mpath ids='MPATH_3'>apoptosis</z:mpath> in <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> </plain></SENT>
+<SENT sid="2" pm="."><plain>Thus, <z:chebi fb="0" ids="2636">amifostine</z:chebi> was investigated in a randomized, multicentre phase II-study (n = 44 pts.; 22 amifostine, 22 best supportive care) </plain></SENT>
+<SENT sid="3" pm="."><plain>We found an overall haematologic response rate of 18% </plain></SENT>
+<SENT sid="4" pm="."><plain>One patient developed a complete and persisting haematologic remission </plain></SENT>
+<SENT sid="5" pm="."><plain>Haematologic progression rate was 46% in the treatment group and 64% in the control group </plain></SENT>
+<SENT sid="6" pm="."><plain>We conclude that <z:chebi fb="0" ids="2636">amifostine</z:chebi> has the potential to induce haematologic response in individual patients suffering from <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> </plain></SENT>
+</text></document>

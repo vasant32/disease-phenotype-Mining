@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We studied the effects of deoxyribonucleases on the detection of 5-<z:chebi fb="1" ids="22927,47265">bromo</z:chebi>-2-deoxyuridine (BrdUrd) by anti-BrdUrd monoclonal antibodies (mAbs) </plain></SENT>
+<SENT sid="1" pm="."><plain>After DNase I treatment, BrdUrd was detected in cells fixed on slides with the anti-BrdUrd mAbs, B44 and BMC9318 </plain></SENT>
+<SENT sid="2" pm="."><plain>The level of detection related to the degree of DNA digestion </plain></SENT>
+<SENT sid="3" pm="."><plain>DNA digestion of 25-75% resulted in levels of staining comparable to control preparations in which DNA was denatured by heating with <z:chebi fb="0" ids="16397">formamide</z:chebi> </plain></SENT>
+<SENT sid="4" pm="."><plain>Staining with the mAbs of DNase I-treated cells was abolished with S1 nuclease, a <z:chebi fb="0" ids="9160">single-stranded DNA</z:chebi>-specific nuclease </plain></SENT>
+<SENT sid="5" pm="."><plain>When exonuclease III was used after DNase I treatment, the staining intensity of cells fixed on slides increased, and BrdUrd could be detected in suspended cells by flow cytometry </plain></SENT>
+<SENT sid="6" pm="."><plain>Since this enzymatic method leading to the detection of BrdUrd does not involve cell loss, or destruction of either cellular <z:mp ids='MP_0000002'>morphology</z:mp> or <z:chebi fb="0" ids="53000">epitope</z:chebi> reactivity, as occurs with traditional DNA denaturation procedures, it is useful for kinetic studies of phenotypically mixed populations </plain></SENT>
+<SENT sid="7" pm="."><plain>Furthermore, staining with anti-BrdUrd mAb of cells treated with exonuclease III offers a simple approach to quantitation of apoptotic cells, in which an endogenous endonuclease is activated </plain></SENT>
+</text></document>

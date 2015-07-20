@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIM: Saliva is one of the most abundant secretions in the human body and its collection is easy and noninvasive </plain></SENT>
+<SENT sid="1" pm="."><plain>The aim of this study was to find a medium that can be used to diagnose and monitor <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="2" pm="."><plain>In this, saliva could play a major role </plain></SENT>
+<SENT sid="3" pm="."><plain>To substantiate the role of saliva as a diagnostic tool, we compared saliva samples with blood <z:chebi fb="105" ids="17234">glucose</z:chebi> and glycated <z:chebi fb="0" ids="35143">hemoglobin</z:chebi> (HbA(1c)) in healthy and diabetic subjects </plain></SENT>
+<SENT sid="4" pm="."><plain>MATERIALS AND METHODS: Included in the study were 106 patients, newly diagnosed with type 2 <z:hpo ids='HP_0000819'>diabetes mellitus</z:hpo> and 15 healthy control subjects </plain></SENT>
+<SENT sid="5" pm="."><plain>The patients and control subjects were asked to come to the clinic in the morning, after an 8-hour fast </plain></SENT>
+<SENT sid="6" pm="."><plain>At that time, 5 mL of venous blood was collected, 2 mL of which was collected in an <z:chebi fb="0" ids="42191">ethylenediaminetetraacetic acid</z:chebi> (EDTA)-containing blood collection tube and sent for HbA(1c) estimation </plain></SENT>
+<SENT sid="7" pm="."><plain>Unstimulated saliva was collected from both groups as well </plain></SENT>
+<SENT sid="8" pm="."><plain>The saliva and sera from the blood samples were subjected to <z:chebi fb="105" ids="17234">glucose</z:chebi> estimation </plain></SENT>
+<SENT sid="9" pm="."><plain>RESULTS: The correlation coefficient between serum <z:chebi fb="105" ids="17234">glucose</z:chebi> and salivary <z:chebi fb="105" ids="17234">glucose</z:chebi> in the control group was calculated and the r value was found to be 0.5216, which was statistically significant (P &lt; 0.05) </plain></SENT>
+<SENT sid="10" pm="."><plain>The correlation coefficient between serum <z:chebi fb="105" ids="17234">glucose</z:chebi> and salivary <z:chebi fb="105" ids="17234">glucose</z:chebi> in the patient group was also calculated and the r value was found to be 0.7686, which was highly significant (P &lt; 0.01) </plain></SENT>
+<SENT sid="11" pm="."><plain>Finally, the correlation coefficient between HbA(1c) level and salivary <z:chebi fb="105" ids="17234">glucose</z:chebi> in the patient group was calculated and the r value was found to be 0.5662, which was also highly significant (P &lt; 0.01) </plain></SENT>
+</text></document>

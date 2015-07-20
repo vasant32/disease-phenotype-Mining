@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A high risk of <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> was reported in myotonic <z:mpath ids='MPATH_554'>dystrophy</z:mpath> (MD) </plain></SENT>
+<SENT sid="1" pm="."><plain>The purpose of the study was to evaluate the value of non-invasive and invasive investigations for the <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> detection and when to repeat the investigations </plain></SENT>
+<SENT sid="2" pm="."><plain>129 patients, mean age 41 ± 14 years, with MD, were asymptomatic, except 4 </plain></SENT>
+<SENT sid="3" pm="."><plain>Electrocardiogram (ECG), left ventricular ejection fraction determination, Holter monitoring, signal-averaged ECG, electrophysiological study (51) were obtained and repeated each year in patients without conduction abnormalities </plain></SENT>
+<SENT sid="4" pm="."><plain>Electrocardiogram and Holter monitoring were <z:mpath ids='MPATH_458'>normal</z:mpath> in 72 and 89 patients, respectively </plain></SENT>
+<SENT sid="5" pm="."><plain>Standard deviation of the mean RR intervals (SDNN) was &lt;100 ms in 30 patients </plain></SENT>
+<SENT sid="6" pm="."><plain>Late potentials were present in 32 patients, without <z:hpo ids='HP_0004756'>ventricular tachycardia</z:hpo> (VT) correlation </plain></SENT>
+<SENT sid="7" pm="."><plain>Ejection fraction was <z:mpath ids='MPATH_458'>normal</z:mpath> in <z:hpo ids='HP_0000001'>all</z:hpo> but six patients (60±10.5%) </plain></SENT>
+<SENT sid="8" pm="."><plain>HV interval was prolonged in 0 of 8 patients with <z:mpath ids='MPATH_458'>normal</z:mpath> ECG, 1 of 9 with isolated <z:hpo ids='HP_0011705'>first degree atrioventricular block</z:hpo>, 9 of 16 with <z:e sem="disease" ids="C0920014" disease_type="Disease or Syndrome" abbrv="">hemiblock</z:e>, and 10 of 15 with <z:hpo ids='HP_0011710'>bundle branch block</z:hpo> </plain></SENT>
+<SENT sid="9" pm="."><plain><z:hpo ids='HP_0005110'>Atrial fibrillation</z:hpo> (AF) was induced in 22 patients, non-sustained VT in 6 patients, and <z:hpo ids='HP_0011704'>sick sinus syndrome</z:hpo> noted in 10 patients </plain></SENT>
+<SENT sid="10" pm="."><plain>The mean time for the ECG change was 5±1 years </plain></SENT>
+<SENT sid="11" pm="."><plain>After 10±7.5 years, AF occurred in 15 patients; 12 patients died </plain></SENT>
+<SENT sid="12" pm="."><plain>Multivariate analysis indicated that both AF at ECG and SDNN lower than 100 ms were independent predictors of <z:hpo ids='HP_0011420'>death</z:hpo> </plain></SENT>
+<SENT sid="13" pm="."><plain>HV increase was noted only in patients with <z:mp ids='MP_0010508'>abnormal ECG</z:mp> </plain></SENT>
+<SENT sid="14" pm="."><plain>The most frequent <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> was AF and was associated with a high risk of <z:hpo ids='HP_0011420'>death</z:hpo> </plain></SENT>
+<SENT sid="15" pm="."><plain>The repetition of ECG every year is probably not useful </plain></SENT>
+</text></document>

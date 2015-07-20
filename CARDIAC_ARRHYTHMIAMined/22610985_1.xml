@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Hyperkalaemia is a common potentially fatal complication of <z:hpo ids='HP_0011010'>chronic</z:hpo> <z:e sem="disease" ids="C0022658" disease_type="Disease or Syndrome" abbrv="">kidney disease</z:e> (CKD) </plain></SENT>
+<SENT sid="1" pm="."><plain>It may manifest as electrocardiogram (ECG) changes, the earliest of which is T-wave 'tenting' </plain></SENT>
+<SENT sid="2" pm="."><plain>However, this occurs in less than half of episodes of hyperkalaemia </plain></SENT>
+<SENT sid="3" pm="."><plain>The aim of this study was to determine what other clinical features relate to the probability of T-wave tenting; and if there is a longer-term survival difference between patients who develop tenting and those who do not </plain></SENT>
+<SENT sid="4" pm="."><plain>METHOD: One hundred and forty-five patients with <z:hpo ids='HP_0003774'>end-stage renal disease</z:hpo> who had standard 12-lead ECG and concurrent serum <z:chebi fb="120" ids="26216">potassium</z:chebi> measurement were enrolled </plain></SENT>
+<SENT sid="5" pm="."><plain>The presence of tenting and the ratio of the amplitude of the tallest precordial T-wave and R-wave were determined (T:R) </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: Tenting was as common in <z:mpath ids='MPATH_458'>normal</z:mpath> range serum <z:chebi fb="120" ids="26216">potassium</z:chebi> as hyperkalaemia (33 versus 31%) and less common than in <z:hpo ids='HP_0001712'>left ventricular hypertrophy</z:hpo> (44%) </plain></SENT>
+<SENT sid="7" pm="."><plain>T:R was less sensitive (24 versus 33%) but more specific (85 versus 67%) than tenting at correctly identifying hyperkalaemia ≥ 6.0 mmol/L </plain></SENT>
+<SENT sid="8" pm="."><plain>Tenting became less common with increasing age </plain></SENT>
+<SENT sid="9" pm="."><plain>Dialysis patients were more likely to show increased T:R that pre-dialysis Stage 5 CKD </plain></SENT>
+<SENT sid="10" pm="."><plain>Elevated T:R was not associated with worse cardiovascular outcome but was associated with increased risk of <z:hpo ids='HP_0001699'>sudden death</z:hpo> over a mean follow-up of 3.8 years (hazard ratio = 8.3, P = 0.021) </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: The reason for the variability in T-wave changes is not clear </plain></SENT>
+<SENT sid="12" pm="."><plain>The ratio of precordial T-wave to R-wave amplitude is a more specific measure than tenting but both are poorly sensitive at detecting hyperkalaemia </plain></SENT>
+<SENT sid="13" pm="."><plain>The greater risk for <z:hpo ids='HP_0001699'>sudden death</z:hpo> may represent a susceptibility to <z:hpo ids='HP_0011675'>cardiac arrhythmia</z:hpo> during repolarization </plain></SENT>
+</text></document>

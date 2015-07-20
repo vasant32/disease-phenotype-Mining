@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIM: In Japan the combination of fluorouracil (5-FU), leucovorin and <z:chebi fb="0" ids="31941">oxaliplatin</z:chebi> (FOLFOX) was approved as adjuvant therapy for stage III or high-risk stage II <z:hpo ids='HP_0003003'>colon cancer</z:hpo> only in September 2009 </plain></SENT>
+<SENT sid="1" pm="."><plain>In this study we evaluated the safety and efficacy of FOLFOX as adjuvant chemotherapy for stage IIIb or IV <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e>) patients in a Japanese group at a single institute </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: A total of 45 consecutive patients received 12 cycles of adjuvant FOLFOX for stage IIIb (n = 31) or IV (n = 14) <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e> </plain></SENT>
+<SENT sid="3" pm="."><plain>Toxicity and disease-free survival (DFS) were analyzed retrospectively </plain></SENT>
+<SENT sid="4" pm="."><plain>RESULTS: The median dose intensities of <z:chebi fb="0" ids="31941">oxaliplatin</z:chebi> and 5-FU were 0.7 and 0.74, respectively </plain></SENT>
+<SENT sid="5" pm="."><plain><z:chebi fb="0" ids="31941">Oxaliplatin</z:chebi> was discontinued in 10 (22%) patients due to an allergic reaction in five, neurotoxicity in four and gastrointestinal toxicity in one </plain></SENT>
+<SENT sid="6" pm="."><plain>No severe neurotoxicity occurred </plain></SENT>
+<SENT sid="7" pm="."><plain>The median duration from completion of treatment until complete recovery from <z:hpo ids='HP_0009830'>peripheral neuropathy</z:hpo> was 582 days (95% CI, 486-678) </plain></SENT>
+<SENT sid="8" pm="."><plain>Two-year DFS for stages IIIb and IV was 56.9% and 56.3%, respectively (log-rank, P = 0.533) </plain></SENT>
+<SENT sid="9" pm="."><plain>Univariate analysis revealed that severe vessel invasion, <z:e sem="disease" ids="C0494165" disease_type="Neoplastic Process" abbrv="">liver metastasis</z:e> and higher baseline levels of CA19-9 were associated with shorter DFS in stage IV patients </plain></SENT>
+<SENT sid="10" pm="."><plain>Multivariate analysis including the selected biomarkers revealed none as a significant prognostic factor </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSION: Adjuvant FOLFOX was well tolerated in a Japanese cohort of both stage IIIb and IV <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e> patients </plain></SENT>
+</text></document>

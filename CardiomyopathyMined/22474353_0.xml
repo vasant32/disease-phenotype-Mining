@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0001427'>Mitochondrial</z:hpo> complex I (CI) deficiency is the most common <z:hpo ids='HP_0001427'>mitochondrial</z:hpo> enzyme defect in humans </plain></SENT>
+<SENT sid="1" pm="."><plain>Treatment of <z:hpo ids='HP_0001427'>mitochondrial</z:hpo> disorders is currently inadequate, emphasizing the need for experimental models </plain></SENT>
+<SENT sid="2" pm="."><plain>In humans, mutations in the NDUFS6 gene, encoding a CI subunit, cause severe CI deficiency and <z:hpo ids='HP_0003811'>neonatal death</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>In this study, we generated a CI-deficient mouse model by knockdown of the Ndufs6 gene using a gene-trap embryonic stem cell line </plain></SENT>
+<SENT sid="4" pm="."><plain>Ndufs6(gt/gt) mice have essentially complete knockout of the Ndufs6 subunit in heart, resulting in marked CI deficiency </plain></SENT>
+<SENT sid="5" pm="."><plain>Small amounts of <z:mp ids='MP_0002169'>wild-type</z:mp> Ndufs6 <z:chebi fb="2" ids="33699">mRNA</z:chebi> are present in other tissues, apparently due to tissue-specific <z:chebi fb="2" ids="33699">mRNA</z:chebi> splicing, resulting in milder CI defects </plain></SENT>
+<SENT sid="6" pm="."><plain>Ndufs6(gt/gt) mice are born healthy, attain <z:mpath ids='MPATH_458'>normal</z:mpath> weight and maturity, and are fertile </plain></SENT>
+<SENT sid="7" pm="."><plain>However, after 4 mo in males and 8 mo in females, Ndufs6(gt/gt) mice are at increased risk of <z:hpo ids='HP_0001635'>cardiac failure</z:hpo> and <z:hpo ids='HP_0011420'>death</z:hpo> </plain></SENT>
+<SENT sid="8" pm="."><plain>Before overt <z:hpo ids='HP_0001635'>heart failure</z:hpo>, Ndufs6(gt/gt) hearts show decreased ATP synthesis, accumulation of hydroxyacylcarnitine, but not reactive oxygen species (ROS) </plain></SENT>
+<SENT sid="9" pm="."><plain>Ndufs6(gt/gt) mice develop biventricular enlargement by 1 mo, most pronounced in males, with scattered <z:mp ids='MP_0003045'>fibrosis</z:mp> and abnormal <z:hpo ids='HP_0001427'>mitochondrial</z:hpo> but <z:mpath ids='MPATH_458'>normal</z:mpath> myofibrillar ultrastructure </plain></SENT>
+<SENT sid="10" pm="."><plain>Ndufs6(gt/gt) isolated working heart preparations show markedly reduced left ventricular systolic function, cardiac output, and functional work capacity </plain></SENT>
+<SENT sid="11" pm="."><plain>This reduced energetic and functional capacity is consistent with a known susceptibility of individuals with <z:hpo ids='HP_0001427'>mitochondrial</z:hpo> <z:hpo ids='HP_0001638'>cardiomyopathy</z:hpo> to metabolic crises precipitated by stresses </plain></SENT>
+<SENT sid="12" pm="."><plain>This model of CI deficiency will facilitate studies of pathogenesis, modifier genes, and testing of therapeutic approaches </plain></SENT>
+</text></document>

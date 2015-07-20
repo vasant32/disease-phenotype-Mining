@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:e sem="disease" ids="C0001080" disease_type="Disease or Syndrome;Congenital Abnormality" abbrv="">Achondroplasias</z:e> are the most common genetic forms of <z:hpo ids='HP_0003510'>dwarfism</z:hpo> in humans </plain></SENT>
+<SENT sid="1" pm="."><plain>They are associated with activating mutations in FGFR3, which signal through the Stat and MAPK pathways in a ligand-independent manner to impair chondrocyte proliferation and differentiation </plain></SENT>
+<SENT sid="2" pm="."><plain>Snail1 has been implicated in chondrocyte differentiation as it represses Collagen II and aggrecan transcription in vitro </plain></SENT>
+<SENT sid="3" pm="."><plain>Here we demonstrate that Snail1 overexpression in the developing bone leads to <z:e sem="disease" ids="C0001080" disease_type="Disease or Syndrome;Congenital Abnormality" abbrv="">achondroplasia</z:e> in mice </plain></SENT>
+<SENT sid="4" pm="."><plain>Snail1 acts downstream of FGFR3 signaling in chondrocytes, regulating both Stat and MAPK pathways </plain></SENT>
+<SENT sid="5" pm="."><plain>Moreover, FGFR3 requires Snail1 during bone development and disease as the inhibition of Snail1 abolishes its signaling even through achondroplastic- and thanatophoric-activating FGFR3 forms </plain></SENT>
+<SENT sid="6" pm="."><plain>Significantly, Snail1 is aberrantly upregulated in thanatophoric versus <z:mpath ids='MPATH_458'>normal</z:mpath> cartilages from <z:hpo ids='HP_0003826'>stillborns</z:hpo> </plain></SENT>
+<SENT sid="7" pm="."><plain>Thus, Snail activity may likely be considered a target for <z:e sem="disease" ids="C0001080" disease_type="Disease or Syndrome;Congenital Abnormality" abbrv="">achondroplasia</z:e> therapies </plain></SENT>
+</text></document>

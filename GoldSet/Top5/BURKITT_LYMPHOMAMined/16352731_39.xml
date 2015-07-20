@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Epstein-Barr virus (EBV) stimulates the proliferation of latently infected B cells and promotes lymphoid <z:e sem="disease" ids="C0006826" disease_type="Neoplastic Process" abbrv="">malignancies</z:e> in humans </plain></SENT>
+<SENT sid="1" pm="."><plain>To address the role of EBV latency protein Epstein-Barr nuclear antigen 3C (EBNA3C) in regulation of the <z:hpo ids='HP_0009919'>retinoblastoma</z:hpo> protein (Rb), we transfected EBNA3C into 293, BJAB, and SAOS-2 cells </plain></SENT>
+<SENT sid="2" pm="."><plain>In this context, a dominant effect of EBNA3C is to decrease Rb protein levels </plain></SENT>
+<SENT sid="3" pm="."><plain>EBNA3C also rescues an Rb-induced flat <z:mp ids='MP_0005384'>cell phenotype</z:mp> and targets Rb for proteasome- and ubiquitin-dependent degradation </plain></SENT>
+<SENT sid="4" pm="."><plain>Further, EBNA3C forms a stable complex with Rb in cells when the proteasome machinery is inhibited and interacts with Rb in vitro, mapping to a conserved domain at the terminus of EBNA3C </plain></SENT>
+<SENT sid="5" pm="."><plain>Deletion analysis of EBNA3C identified a motif within amino acids 140-149 important for both the binding and regulation of Rb </plain></SENT>
+<SENT sid="6" pm="."><plain>This motif is of particular interest, because it has also been linked to regulation of the Skp1/Cul1/F-box complex, SCF(Skp2) </plain></SENT>
+<SENT sid="7" pm="."><plain>Indeed, inhibition of Skp2 function with a dominant-negative molecule reduces the ability of EBNA3C to degrade Rb </plain></SENT>
+<SENT sid="8" pm="."><plain>Skp2 has no detectable effect on Rb levels in the absence of EBNA3C, suggesting that SCF(Skp2) is specifically usurped by EBNA3C for the enhancement of Rb degradation </plain></SENT>
+<SENT sid="9" pm="."><plain>That EBNA3C has exploited this association suggests that other human <z:e sem="disease" ids="C0006826" disease_type="Neoplastic Process" abbrv="">malignancies</z:e> might use a similar strategy to regulate the Rb protein </plain></SENT>
+</text></document>

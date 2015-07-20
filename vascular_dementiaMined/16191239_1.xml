@@ -1,0 +1,7 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Vascular <z:hpo ids='HP_0000726'>dementia</z:hpo> (VaD) is a disorder with no cure and limited treatment options </plain></SENT>
+<SENT sid="1" pm="."><plain>Similarities between VaD and <z:e sem="disease" ids="C0002395" disease_type="Disease or Syndrome" abbrv="SDAT">Alzheimer's disease</z:e> (AD) arise on a number of levels </plain></SENT>
+<SENT sid="2" pm="."><plain>Both involve progressive decline in cognition, functional ability, and behavior, and there is evidence for a central role of reduced cholinergic neurotransmission in the two illnesses </plain></SENT>
+<SENT sid="3" pm="."><plain>Treatment strategies in VaD have historically focused on prevention, although evidence of cognitive benefits with preventative treatment is scarce </plain></SENT>
+<SENT sid="4" pm="."><plain><z:chebi fb="0" ids="38462">Acetylcholinesterase inhibitors</z:chebi> represent a rational treatment possibility for symptomatic therapy of patients with VaD </plain></SENT>
+<SENT sid="5" pm="."><plain>A recent large-scale trial of galantamine in patients with VaD or AD with cerebrovascular disease (AD + <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CVD</z:e>) represents the first placebo-controlled trial showing clinically relevant benefits in these important patient populations </plain></SENT>
+</text></document>

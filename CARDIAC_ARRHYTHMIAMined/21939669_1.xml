@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Cardiac arrhythmogenesis is regulated by channel proteins whose protein levels are in turn regulated by the ubiquitin-proteasome system (UPS) </plain></SENT>
+<SENT sid="1" pm="."><plain>We have previously reported on UPS impairment induced by E334K cardiac myosin-binding protein C (cMyBPC), which causes <z:hpo ids='HP_0001639'>hypertrophic cardiomyopathy</z:hpo> (HCM) accompanied by <z:hpo ids='HP_0011675'>arrhythmia</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>We hypothesized that UPS impairment induced by E334K cMyBPC causes accumulation of cardiac channel proteins, leading to electrophysiological dysfunction </plain></SENT>
+<SENT sid="3" pm="."><plain><z:mp ids='MP_0002169'>Wild-type</z:mp> or E334K cMyBPC was overexpressed in <z:e sem="disease" ids="C0019829" disease_type="Neoplastic Process" abbrv="hd">HL</z:e>-1 cells and primary cultured neonatal rat cardiac myocytes </plain></SENT>
+<SENT sid="4" pm="."><plain>The expression of E334K cMyBPC suppressed cellular proteasome activities </plain></SENT>
+<SENT sid="5" pm="."><plain>The protein levels of K(v)1.5, Na(v)1.5, Hcn4, Ca(v)3.2, Ca(v)1.2, Serca, RyR2, and Ncx1 were significantly higher in cells expressing E334K cMyBPC than in <z:mp ids='MP_0002169'>wild type</z:mp> </plain></SENT>
+<SENT sid="6" pm="."><plain>They further increased in cells pretreated with MG132 and had longer protein decays </plain></SENT>
+<SENT sid="7" pm="."><plain>The channel proteins retained the correct localization </plain></SENT>
+<SENT sid="8" pm="."><plain>Cells expressing E334K cMyBPC exhibited higher Ca(2+) transients and longer action potential durations (APDs), accompanied by afterdepolarizations and higher <z:mpath ids='MPATH_3'>apoptosis</z:mpath> </plain></SENT>
+<SENT sid="9" pm="."><plain>Those augments of APD and Ca(2+) transients were recapitulated by a simulation model </plain></SENT>
+<SENT sid="10" pm="."><plain>Although a Ca(2+) <z:chebi fb="68" ids="48706">antagonist</z:chebi>, azelnidipine, neither protected E334K cMyBPC from degradation nor affected E334K cMyBPC incorporation into the sarcomere, it normalized the APD and Ca(2+) transients and partially reversed the levels of those proteins regulating <z:mpath ids='MPATH_3'>apoptosis</z:mpath>, thereby attenuating <z:mpath ids='MPATH_3'>apoptosis</z:mpath> </plain></SENT>
+<SENT sid="11" pm="."><plain>In conclusion, UPS impairment caused by E334K cMyBPC may modify the levels of channel proteins, leading to electrophysiological dysfunction </plain></SENT>
+<SENT sid="12" pm="."><plain>Therefore, UPS impairment due to a mutant cMyBPC may partly contribute to the observed clinical <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> in HCM patients </plain></SENT>
+</text></document>

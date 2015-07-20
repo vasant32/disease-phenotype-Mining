@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:chebi fb="0" ids="49200">Proton pump inhibitors</z:chebi> (<z:chebi fb="4" ids="53266">PPI</z:chebi>) are the antisecretory drugs of choice to manage <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">GERD</z:e>-related problems </plain></SENT>
+<SENT sid="1" pm="."><plain>The therapeutic goal in patients with non erosive reflux disease (NERD) and low-grade-<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">GERD</z:e> is to relieve symptoms, therefore <z:chebi fb="4" ids="53266">PPI</z:chebi> are given "on demand" </plain></SENT>
+<SENT sid="2" pm="."><plain>Severe <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">GERD</z:e> requires long term treatment to heal lesions and to prevent relapses and complications </plain></SENT>
+<SENT sid="3" pm="."><plain><z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> has to be regarded as a precancerous lesion, therefore surveillance strategy is required </plain></SENT>
+<SENT sid="4" pm="."><plain><z:e sem="disease" ids="C0267167" disease_type="Disease or Syndrome" abbrv="">Functional dyspepsia</z:e> is a common reason for <z:e sem="disease" ids="C0857493" disease_type="Disease or Syndrome" abbrv="">upper gastrointestinal symptoms</z:e> </plain></SENT>
+<SENT sid="5" pm="."><plain>If there are no alarming symptoms, you can omit endoscopy in younger patients </plain></SENT>
+<SENT sid="6" pm="."><plain>The treatment is empirical and symptom driven </plain></SENT>
+<SENT sid="7" pm="."><plain>Psychologic therapy is a promising avenue in some patients </plain></SENT>
+</text></document>

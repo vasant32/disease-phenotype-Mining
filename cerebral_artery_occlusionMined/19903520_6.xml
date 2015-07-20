@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The c-Jun-N-terminal kinase signaling pathway (JNK) is highly activated during <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> and plays an important role in <z:mpath ids='MPATH_3'>apoptosis</z:mpath> and <z:mp ids='MP_0001845'>inflammation</z:mp> </plain></SENT>
+<SENT sid="1" pm="."><plain>We have previously demonstrated that D-JNKI1, a specific JNK inhibitor, is strongly neuroprotective in animal models of <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>We presently evaluated if D-JNKI1 modulates post-ischemic <z:mp ids='MP_0001845'>inflammation</z:mp> such as the activation and accumulation of microglial cells </plain></SENT>
+<SENT sid="3" pm="."><plain>Outbred CD1 mice were subjected to 45 min middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (MCAo) </plain></SENT>
+<SENT sid="4" pm="."><plain>D-JNKI1 (0.1 mg/kg) or vehicle (saline) was administered intravenously 3 h after MCAo <z:hpo ids='HP_0003674'>onset</z:hpo> </plain></SENT>
+<SENT sid="5" pm="."><plain>Lesion size at 48 h was significantly reduced, from 28.2+/-8.5 mm(3) (n=7) to 13.9+/-6.2 mm(3) in the treated group (n=6) </plain></SENT>
+<SENT sid="6" pm="."><plain>Activation of the JNK pathway (phosphorylation of c-Jun) was observed in neurons as well as in Isolectin B4 positive microglia </plain></SENT>
+<SENT sid="7" pm="."><plain>We quantified activated microglia (CD11b) by measuring the average intensity of CD11b labelling (infra-red emission) within the ischemic tissue </plain></SENT>
+<SENT sid="8" pm="."><plain>No significant difference was found between groups </plain></SENT>
+<SENT sid="9" pm="."><plain><z:hpo ids='HP_0002637'>Cerebral ischemia</z:hpo> was modelled in vitro by subjecting rat organotypic hippocampal slice cultures to oxygen (5%) and <z:chebi fb="105" ids="17234">glucose</z:chebi> deprivation for 30 min </plain></SENT>
+<SENT sid="10" pm="."><plain>In vitro, D-JNKI1 was found predominantly in NeuN positive neurons of the CA1 region and in few Isolectin B4 positive microglia </plain></SENT>
+<SENT sid="11" pm="."><plain>Furthermore, 48 h after OGD, microglia were activated whereas resting microglia were found in controls and in D-JNKI1-treated slices </plain></SENT>
+<SENT sid="12" pm="."><plain>Our study shows that D-JNKI1 reduces the <z:mpath ids='MPATH_124'>infarct</z:mpath> volume 48 h after transient MCAo and does not act on the activation and accumulation of microglia at this time point </plain></SENT>
+<SENT sid="13" pm="."><plain>In contrast, in vitro data show an indirect effect of D-JNKI1 on the modulation of microglial activation </plain></SENT>
+</text></document>

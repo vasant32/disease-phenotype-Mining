@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: <z:hpo ids='HP_0011009'>Acute</z:hpo> ischaemic or haemorrhagic cerebrovascular events may produce myocardial damage </plain></SENT>
+<SENT sid="1" pm="."><plain>Cardiac troponin I is an indicator of cardiac cell injury with very high sensitivity and specificity </plain></SENT>
+<SENT sid="2" pm="."><plain>MATERIAL AND METHODS: We measured troponin I in 149 <z:hpo ids='HP_0011009'>acute</z:hpo> <z:hpo ids='HP_0001297'>stroke</z:hpo> patients admitted to the <z:hpo ids='HP_0001297'>stroke</z:hpo> unit of Trondheim University Hospital, Norway, in January to June 1999 </plain></SENT>
+<SENT sid="3" pm="."><plain>RESULTS: 40 patients (27%) had troponin I values at 0.4 microgram/l or higher, indicating myocardial injury </plain></SENT>
+<SENT sid="4" pm="."><plain>10 patients (6.7%) had troponin I values above 2.0 micrograms/l </plain></SENT>
+<SENT sid="5" pm="."><plain>Similarly, the mean value of CK-MB vas higher in the patients with myocardial injury, and these patients had more often ECG findings suggesting <z:e sem="disease" ids="C0151744" disease_type="Disease or Syndrome" abbrv="IHD">myocardial ischaemia</z:e> </plain></SENT>
+<SENT sid="6" pm="."><plain>Patients with myocardial injury had a higher rate of previous <z:hpo ids='HP_0002326'>TIA</z:hpo> and <z:hpo ids='HP_0001635'>heart failure</z:hpo> </plain></SENT>
+<SENT sid="7" pm="."><plain>ECG showed <z:hpo ids='HP_0005110'>atrial fibrillation</z:hpo> in 13 of 39 patients with myocardial damage </plain></SENT>
+<SENT sid="8" pm="."><plain>Patients with detectable levels of troponin I had more embolic <z:e sem="disease" ids="C0751955" disease_type="Disease or Syndrome" abbrv="">brain infarctions</z:e> than thrombotic <z:e sem="disease" ids="C0751955" disease_type="Disease or Syndrome" abbrv="">brain infarctions</z:e> </plain></SENT>
+<SENT sid="9" pm="."><plain>Patients with myocardial injury did more often have abnormal values of CRP </plain></SENT>
+<SENT sid="10" pm="."><plain>9 of 10 patients with troponin I-values above 2.0 micrograms/l had abnormal CRP values </plain></SENT>
+<SENT sid="11" pm="."><plain>No differences in glycosylated <z:chebi fb="34" ids="35143">haemoglobin</z:chebi>, cholesterol, heart rate, blood pressure or body temperature were found </plain></SENT>
+<SENT sid="12" pm="."><plain>Patients with the highest troponin I values had lower systolic blood pressure, and a higher heart rate, but these differences were not statistically significant </plain></SENT>
+<SENT sid="13" pm="."><plain>Patients with troponin I values above 2.0 micrograms/l had lower functional and neurological scores at admittance </plain></SENT>
+<SENT sid="14" pm="."><plain>Patients with myocardial injury were more often discharged to nursing homes </plain></SENT>
+<SENT sid="15" pm="."><plain>INTERPRETATION: Many patients with an <z:hpo ids='HP_0011009'>acute</z:hpo> <z:hpo ids='HP_0001297'>stroke</z:hpo> have at the same time a myocardial injury, determined by elevated troponin I values </plain></SENT>
+</text></document>

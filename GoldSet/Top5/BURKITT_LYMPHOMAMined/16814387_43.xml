@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Epratuzumab is a humanized anti-CD22 monoclonal antibody currently in clinical trials for treatment of non-Hodgkin <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (NHL) and certain <z:hpo ids='HP_0002960'>autoimmune diseases</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Here we report the results of investigations of epratuzumab's mode of action in comparison to and in combination with the anti-CD20 mAb, rituximab </plain></SENT>
+<SENT sid="2" pm="."><plain>In vitro cell growth inhibition, induction of <z:mpath ids='MPATH_3'>apoptosis</z:mpath>, and the ability of the mAbs to mediate complement-dependent cytotoxicity (CDC) and antibody-dependent cellular cytotoxicity (ADCC) were evaluated </plain></SENT>
+<SENT sid="3" pm="."><plain>We also investigated the potential activity of epratuzumab in the regulation of B-cell antigen receptor (BCR) activation </plain></SENT>
+<SENT sid="4" pm="."><plain>Epratuzumab and rituximab displayed very distinct modes of action; epratuzumab acts as an immunomodulatory agent, while rituximab is an acutely cytotoxic therapeutic antibody </plain></SENT>
+<SENT sid="5" pm="."><plain>Epratuzumab has distinct effects on cell growth from rituximab </plain></SENT>
+<SENT sid="6" pm="."><plain>For example, rituximab+anti-human IgG Fcgamma yielded marked inhibition of proliferation in human NHL cell lines, while epratuzumab had little or no effect in this assay </plain></SENT>
+<SENT sid="7" pm="."><plain>However, when cells were immobilized and stimulated with anti-IgM, epratuzumab, but not rituximab, caused a significant antiproliferative effect </plain></SENT>
+<SENT sid="8" pm="."><plain>Unlike rituximab, no CDC could be detected, and ADCC was modest but significant with epratuzumab </plain></SENT>
+<SENT sid="9" pm="."><plain>Importantly, combining rituximab and epratuzumab did not decrease rituximab's ability to induce <z:mpath ids='MPATH_3'>apoptosis</z:mpath>, CDC, and ADCC </plain></SENT>
+<SENT sid="10" pm="."><plain>In fact, the combination is more effective than rituximab alone in inhibiting proliferation of Daudi Burkitt <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cells in the presence of second antibody, and at least equally effective to rituximab in the absence of crosslinking </plain></SENT>
+<SENT sid="11" pm="."><plain>These observations suggest that it may be possible to enhance clinical efficacy by combination therapy comprised of anti-CD20 and anti-CD22 mAbs </plain></SENT>
+</text></document>

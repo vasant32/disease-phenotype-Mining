@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>INTRODUCTION: <z:e sem="disease" ids="C0085278" disease_type="Disease or Syndrome" abbrv="">Antiphospholipid Syndrome</z:e> (APS) is an immune thrombophylia of unknown etiology which leads to vascular <z:mp ids='MP_0005048'>thrombosis</z:mp> and gestational complications </plain></SENT>
+<SENT sid="1" pm="."><plain>CLINICAL REPORT: A 27-year old woman who had been diagnosed APS four years before was admitted in the Emergency Room five days after a spontaneous delivery due to [corrected] pain in the upper right abdominal quadrant </plain></SENT>
+<SENT sid="2" pm="."><plain>Blood analysis revealed AST and ALT rise and <z:hpo ids='HP_0001873'>thrombocytopenia</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>CT scan was suggestive of liver infarction due to venous <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> </plain></SENT>
+<SENT sid="4" pm="."><plain>Abdominal eco-doppler diagnosed vena porta left branch <z:mp ids='MP_0005048'>thrombosis</z:mp> and compensatory arterial circulation </plain></SENT>
+<SENT sid="5" pm="."><plain>Treatment included low molecular weight <z:chebi fb="5" ids="28304">heparin</z:chebi> and <z:chebi fb="0" ids="50858">corticosteroids</z:chebi> which led to progressive clinical, laboratory and imagiological recovery </plain></SENT>
+<SENT sid="6" pm="."><plain>DISCUSSION: Portal venous system <z:mp ids='MP_0005048'>thrombosis</z:mp> is extremely rare in the absence of local risk factors and the most common and catastrophic complication is intestinal <z:mp ids='MP_0001651'>necrosis</z:mp> </plain></SENT>
+</text></document>

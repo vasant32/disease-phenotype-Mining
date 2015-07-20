@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>In MRI applications where short acquisition time is necessary, the increase of acquisition speed is often at the expense of image resolution and SNR </plain></SENT>
+<SENT sid="1" pm="."><plain>In such cases, the newly developed parallel acquisition techniques could provide images without mentioned limitations and in reasonably shortened measurement time </plain></SENT>
+<SENT sid="2" pm="."><plain>A newly designed eight-channel head coil array (i-PAT coil) allowing for parallel acquisition of independently reconstructed images (GRAPPA mode) has been tested for its applicability in neuroradiology </plain></SENT>
+<SENT sid="3" pm="."><plain>Image homogeneity was tested in standard phantom and healthy volunteers </plain></SENT>
+<SENT sid="4" pm="."><plain>BOLD signal changes were studied in a group of six volunteers using finger tapping stimulation </plain></SENT>
+<SENT sid="5" pm="."><plain>Phantom studies revealed an important drop of signal even after the use of a normalization filter in the center of the image and an important increase of artifact power with reduction of measurement time strongly depending on the combination of acceleration parameters </plain></SENT>
+<SENT sid="6" pm="."><plain>The additional application of a parallel acquisition technique such as GRAPPA decreases measurement time in the range of about 30%, but further reduction is often possible only at the expense of SNR </plain></SENT>
+<SENT sid="7" pm="."><plain>This technique performs best in conditions in which imaging speed is important, such as CE MRA, but time resolution still does not allow the acquisition of angiograms separating the arterial and venous phase </plain></SENT>
+<SENT sid="8" pm="."><plain>Significantly larger areas of BOLD activation were found using the i-PAT coil compared to the standard head coil </plain></SENT>
+<SENT sid="9" pm="."><plain>Being an eight-channel surface coil array, peripheral cortical structures profit from high SNR as high-resolution imaging of small <z:hpo ids='HP_0002539'>cortical dysplasias</z:hpo> and functional activation of cortical areas imaged by BOLD contrast </plain></SENT>
+<SENT sid="10" pm="."><plain>In BOLD contrast imaging, susceptibility artifacts are reduced, but only if an appropriate combination of acceleration parameters is used </plain></SENT>
+</text></document>

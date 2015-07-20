@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We describe two female patients with <z:hpo ids='HP_0002725'>systemic lupus erythematosus</z:hpo> (SLE) who developed severe <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Although each patient had received multiple medications including diphenylhydantoin, the relationship to these drugs to the development of marrow <z:mpath ids='MPATH_58'>aplasia</z:mpath> was unclear </plain></SENT>
+<SENT sid="2" pm="."><plain>After administration of an oral <z:chebi fb="3" ids="50113">androgen</z:chebi> (oxymethalone) and <z:chebi fb="0" ids="50858">corticosteroids</z:chebi>, there was complete hematologic recovery </plain></SENT>
+<SENT sid="3" pm="."><plain>Both patients relapsed when oxymethalone was withdrawn, and both recovered when <z:chebi fb="3" ids="50113">androgen</z:chebi> therapy was reinstituted, with or without high-dose <z:chebi fb="0" ids="8382">prednisone</z:chebi> </plain></SENT>
+<SENT sid="4" pm="."><plain>In both patients, there was complete reversal of <z:hpo ids='HP_0001876'>pancytopenia</z:hpo> despite the presence of initially severe marrow <z:mpath ids='MPATH_58'>aplasia</z:mpath> (less than 10% cellularity) </plain></SENT>
+<SENT sid="5" pm="."><plain>However, in both cases, prolonged <z:chebi fb="3" ids="50113">androgen</z:chebi> therapy (2 months) was required before hematologic improvement occurred </plain></SENT>
+<SENT sid="6" pm="."><plain><z:chebi fb="5" ids="50113">Androgens</z:chebi> are known to stimulate hematopoiesis in man, and they appear to influence immune function in a mouse model of SLE </plain></SENT>
+<SENT sid="7" pm="."><plain>Thus <z:chebi fb="5" ids="50113">androgens</z:chebi> may be particularly useful in the treatment of SLE-associated <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> </plain></SENT>
+</text></document>

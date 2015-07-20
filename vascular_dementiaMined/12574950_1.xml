@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: In vascular <z:hpo ids='HP_0000726'>dementia</z:hpo> (VaD), assessment of cerebral blood flow by single <z:chebi fb="23" ids="30212">photon</z:chebi> emission computed tomography (CBF SPECT) has been used to detect a patchy decrease of blood flow or a frontal reduction </plain></SENT>
+<SENT sid="1" pm="."><plain>In addition to reduced blood flow, the <z:hpo ids='HP_0001425'>heterogeneous</z:hpo> distribution of cerebral blood flow is often observed in VaD </plain></SENT>
+<SENT sid="2" pm="."><plain>However, no objective method to evaluate the <z:hpo ids='HP_0001425'>heterogeneity</z:hpo> has been established </plain></SENT>
+<SENT sid="3" pm="."><plain>In this study, we applied three-dimensional fractal analysis (3D-FA) to CBF SPECT images as a method for assessing the <z:hpo ids='HP_0001425'>heterogeneity</z:hpo> of the cerebral blood flow distribution in VaD </plain></SENT>
+<SENT sid="4" pm="."><plain>Subjects and METHODS: The subjects included 18 patients with a diagnosis of VaD (aged 69.7 +/- 8.3) based on neuropsychological testing and imaging findings and 18 age-matched controls (aged 66.9 +/- 10.3) </plain></SENT>
+<SENT sid="5" pm="."><plain>CBF SPECT images were obtained with (99m)Tc-hexamethyl propyleneamine <z:chebi fb="0" ids="25750">oxime</z:chebi> </plain></SENT>
+<SENT sid="6" pm="."><plain>On the reconstructed images, we obtained a linear regression equation between the cut-off values (from 35 to 50 %) and the number of voxels with a radioactivity exceeding the cut-off value transformed into natural logarithms, and then calculated the fractal dimension from the slope of the regression line thus obtained </plain></SENT>
+<SENT sid="7" pm="."><plain>The Mini-Mental State Examination (MMSE) was used to evaluate cognitive function </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: The fractal dimensions were 1.084 +/- 0.153 and 0.853 +/- 0.062 (mean +/- SD) in the VaD and control groups, respectively </plain></SENT>
+<SENT sid="9" pm="."><plain>The fractal dimension was significantly greater in the VaD group than in the control group (p &lt; 0.0001) </plain></SENT>
+<SENT sid="10" pm="."><plain>A significant negative correlation was observed between the fractal dimension and the MMSE score in the VaD group (r = 0.871, p &lt; 0.0001) </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: Because the CBF SPECT images of VaD patients showed a higher fractal dimension, these images were quantitatively more <z:hpo ids='HP_0001425'>heterogeneous</z:hpo> than those of age-matched controls </plain></SENT>
+<SENT sid="12" pm="."><plain>In the VaD group, cognitive function was shown to decline as the fractal dimension increased and images became more <z:hpo ids='HP_0001425'>heterogeneous</z:hpo> </plain></SENT>
+</text></document>

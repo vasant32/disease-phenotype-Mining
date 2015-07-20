@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND PURPOSE: We assessed the value of T-wave alternans (TWA) in prediction of <z:hpo ids='HP_0001645'>sudden cardiac death</z:hpo> (SCD) in patients with <z:hpo ids='HP_0011009'>acute</z:hpo> <z:hpo ids='HP_0001658'>myocardial infarction</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">AMI</z:e>) </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: Consecutive patients (N = 227) were enrolled and were monitored with 24-hour ambulatory electrocardiogram within 1 to 15 days after <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">AMI</z:e> </plain></SENT>
+<SENT sid="2" pm="."><plain>T-wave alternans was identified by a modified moving average (<z:chebi fb="0" ids="34840">MMA</z:chebi>) algorithm computer software </plain></SENT>
+<SENT sid="3" pm="."><plain>The primary end point was SCD or lethal <z:hpo ids='HP_0004308'>ventricular arrhythmia</z:hpo> </plain></SENT>
+<SENT sid="4" pm="."><plain>We analyzed the hazard ratios (HRs) using the previously determined 47 μV TWA cutpoint </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: During the 16 ± 7-month follow-up, 10 (4.4%) patients died suddenly </plain></SENT>
+<SENT sid="6" pm="."><plain>T-wave alternans (≥47 μV) predicted SCD (HR, 17.78 [95% confidence interval, 3.75-84.31]; P &lt; .0001) </plain></SENT>
+<SENT sid="7" pm="."><plain>Moreover, patients with 5 or more TWA episodes (≥47 μV) were at higher risk for SCD (HR, 20.75 [95% confidence interval, 5.77-74.57]; P &lt; .0001) </plain></SENT>
+<SENT sid="8" pm="."><plain>CONCLUSIONS: T-wave alternans (≥47 μV) monitored at 1 to 15 days after <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">AMI</z:e>-predicted heightened risk of SCD </plain></SENT>
+<SENT sid="9" pm="."><plain>Prediction is improved when the frequency of TWA episodes (��47 μV) is analyzed </plain></SENT>
+</text></document>

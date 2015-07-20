@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>In contrast to necrotic cells, the clearance of apoptotic ones usually is an anti-inflammatory process which elicits only a marginal immune response </plain></SENT>
+<SENT sid="1" pm="."><plain>During <z:mpath ids='MPATH_3'>apoptosis</z:mpath> phosphatidylserine (PS) is exposed on the outer leaflet of the cytoplasmic membrane and serves as target for the PS receptor of phagocytes </plain></SENT>
+<SENT sid="2" pm="."><plain>The latter is responsible for anti-inflammatory signalling and the induction of TGFbeta </plain></SENT>
+<SENT sid="3" pm="."><plain>We were interested whether the immunogenicity of apoptotic cells can be increased by masking PS </plain></SENT>
+<SENT sid="4" pm="."><plain>We observed that treatment of xenogeneic apoptotic cells with annexin V (AxV) significantly increased the humoral immune response against surface <z:chebi fb="0" ids="53000">epitopes</z:chebi> of these cells </plain></SENT>
+<SENT sid="5" pm="."><plain>Furthermore, AxV-coated irradiated <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumour</z:e> cells were able to elicit a long lasting <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumour</z:e> specific cytotoxic T lymphocyte response </plain></SENT>
+<SENT sid="6" pm="."><plain>AxV efficiently blocked the uptake of irradiated cells by macrophages but not by dendritic cells </plain></SENT>
+<SENT sid="7" pm="."><plain>Furthermore, AxV skewed the phagocytosis of irradiated cells towards <z:mp ids='MP_0001845'>inflammation</z:mp> </plain></SENT>
+<SENT sid="8" pm="."><plain>Investigation of patients with <z:hpo ids='HP_0002960'>autoimmune diseases</z:hpo> further supported the role of anionic surface <z:chebi fb="1" ids="16247">phospholipids</z:chebi> for anti-inflammatory clearance of apoptotic cells </plain></SENT>
+<SENT sid="9" pm="."><plain>Impaired clearance and opsonisation with anti-<z:chebi fb="0" ids="16247">phospholipid</z:chebi>-antibodies are discussed to be responsible for the development of <z:hpo ids='HP_0002725'>systemic lupus erythematosus</z:hpo> and anti-<z:chebi fb="0" ids="16247">phospholipid</z:chebi>-syndrome, respectively </plain></SENT>
+<SENT sid="10" pm="."><plain>Presentation of cryptic <z:chebi fb="0" ids="53000">epitopes</z:chebi> from late apoptotic cells in a proinflammatory context may challenge T cell tolerance </plain></SENT>
+<SENT sid="11" pm="."><plain>In addition, accumulation of uncleared apoptotic debris in the germinal centres of lymph nodes may result in the survival of autoreactive B cells </plain></SENT>
+</text></document>

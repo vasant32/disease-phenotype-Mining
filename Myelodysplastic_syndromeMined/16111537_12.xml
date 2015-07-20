@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Treatment of <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e>) with epoietin is costly </plain></SENT>
+<SENT sid="1" pm="."><plain>However, cardiac morbidity associated with <z:hpo ids='HP_0001903'>anemia</z:hpo> has not been investigated in <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> </plain></SENT>
+<SENT sid="2" pm="."><plain>We studied this aspect in 39 patients </plain></SENT>
+<SENT sid="3" pm="."><plain>Echocardiography detected cardiac remodeling in 11 of 12 transfusion-dependent versus 13 of 27 transfusion-free patients (P=0.017) </plain></SENT>
+<SENT sid="4" pm="."><plain><z:chebi fb="0" ids="35143">Hemoglobin</z:chebi> independently indicated <z:mp ids='MP_0001625'>cardiac hypertrophy</z:mp> (P=0.004); each unit increase predicted a 49% reduction in the risk of remodeling confirmed by the area under the ROC curve (0.84, P&lt;0.0001) </plain></SENT>
+<SENT sid="5" pm="."><plain>At Hb 10.7 g/dL, sensitivity was 96% and specificity 64% </plain></SENT>
+<SENT sid="6" pm="."><plain>Below this level quality of life was poorer </plain></SENT>
+<SENT sid="7" pm="."><plain>Our results suggest early treatment, to be confirmed by future trials </plain></SENT>
+</text></document>

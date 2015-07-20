@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:chebi fb="0" ids="44423">Hydroxyurea</z:chebi> (HU), as an inhibitor of <z:chebi fb="0" ids="26561">ribonucleotide</z:chebi> reductase (RR) through interaction with the R2 component, has been used in the treatment of <z:e sem="disease" ids="C0006826" disease_type="Neoplastic Process" abbrv="">malignancies</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>Recently, therapeutic strategies in Epstein-Barr Virus (EBV)-targeted <z:hpo ids='HP_0002665'>lymphoma</z:hpo> have been reported </plain></SENT>
+<SENT sid="2" pm="."><plain>In order to study the effect of HU on EBV, infected Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">BL</z:e>) Raji cells were passaged in medium containing 50 microM HU for more than 2 months </plain></SENT>
+<SENT sid="3" pm="."><plain>EBV DNA was eliminated in about 40% of the cells in the HU-treated cultures </plain></SENT>
+<SENT sid="4" pm="."><plain>The cells were cloned from such cultures, and only EBV-positive clones could be isolated in 102 examined clones </plain></SENT>
+<SENT sid="5" pm="."><plain>No differences were observed in the EBV-latent state, EBV-gene expression, or cell growth between HU-untreated Raji cells and HU-treated clones </plain></SENT>
+<SENT sid="6" pm="."><plain>However, relative to parental Raji cells, the HU-treated Raji clones were almost eight times resistant to growth inhibition by HU according to the ID50 value, and the expression of the R2 component of RR increased more than two to three times </plain></SENT>
+<SENT sid="7" pm="."><plain>These results indicate that HU not only efficiently eliminates the EBV genome from Raji cells but also induces HU resistance </plain></SENT>
+<SENT sid="8" pm="."><plain>HU resistance was accompanied by over-expression of the R2 component of RR </plain></SENT>
+<SENT sid="9" pm="."><plain>However, the HU-resistant clones were sensitive to <z:chebi fb="0" ids="175901">gemcitabine</z:chebi>, another inhibitor of RR, and this seems highly relevant to chemotherapeutic combination in the use of these drugs </plain></SENT>
+</text></document>

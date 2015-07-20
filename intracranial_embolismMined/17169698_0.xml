@@ -1,0 +1,6 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The transcranial Doppler (TCD) radio-frequency (RF) signal can provide additional information on events recorded during ultrasonic monitoring </plain></SENT>
+<SENT sid="1" pm="."><plain>Embolic signals appear as uniform and predictable shapes within the RF signal, enabling pattern recognition and image processing techniques to be used for their automated detection </plain></SENT>
+<SENT sid="2" pm="."><plain>This paper uses principal component analysis (<z:chebi fb="20" ids="36751">PCA</z:chebi>) to characterise the typical variation in embolic signal shape, within the RF signal, using training sets of in vitro and in vivo data </plain></SENT>
+<SENT sid="3" pm="."><plain><z:chebi fb="20" ids="36751">PCA</z:chebi> techniques are then utilised to discriminate between previously unseen embolic and artifact signals </plain></SENT>
+<SENT sid="4" pm="."><plain>Although the results of this study show that the algorithms described in this paper do not yet have the accuracy required for their use in a clinical setting, it does demonstrate that this novel technique has the potential to be developed further </plain></SENT>
+</text></document>

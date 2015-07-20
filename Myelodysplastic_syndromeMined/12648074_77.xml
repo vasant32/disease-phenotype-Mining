@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We have published previously a prototype of a decision model for anaemic patients with <z:hpo ids='HP_0002863'>myelodysplastic syndromes</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e>), in which transfusion need and serum erythropoietin (S-Epo) were used to define three groups with different probabilities of erythroid response to treatment with granulocyte colony-stimulating factor (G-CSF) + Epo </plain></SENT>
+<SENT sid="1" pm="."><plain>S-Epo &lt;/= 500 U/l and a transfusion need of &lt; 2 units/month predicted a high probability of response to treatment, S-Epo &gt; 500 U/l and &gt;/= 2 units/month for a poor response, whereas the presence of only one negative prognostic marker predicted an intermediate response </plain></SENT>
+<SENT sid="2" pm="."><plain>A total of 53 patients from a prospective study were included in our evaluation sample </plain></SENT>
+<SENT sid="3" pm="."><plain>Patients with good or intermediate probability of response were treated with G-CSF + Epo </plain></SENT>
+<SENT sid="4" pm="."><plain>The overall response rate was 42% with 28.3% achieving a complete and 13.2% a partial response to treatment </plain></SENT>
+<SENT sid="5" pm="."><plain>The response rates were 61% and 14% in the good and intermediate predictive groups respectively </plain></SENT>
+<SENT sid="6" pm="."><plain>The model retained a significant predictive value in the evaluation sample (P &lt; 0.001) </plain></SENT>
+<SENT sid="7" pm="."><plain>Median duration of response was 23 months </plain></SENT>
+<SENT sid="8" pm="."><plain>Scores for global health and quality of life (QOL) were significantly lower in <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> patients than in a reference population, and <z:mp ids='MP_0002899'>fatigue</z:mp> and dyspnoea was significantly more prominent </plain></SENT>
+<SENT sid="9" pm="."><plain>Global QOL improved in patients responding to treatment (P = 0.01) </plain></SENT>
+<SENT sid="10" pm="."><plain>The validated decision model defined a subgroup of patients with a response rate of 61% (95% confidence interval 48-74%) to treatment with G-CSF + Epo </plain></SENT>
+<SENT sid="11" pm="."><plain>The majority of these patients have shown complete and durable responses </plain></SENT>
+</text></document>

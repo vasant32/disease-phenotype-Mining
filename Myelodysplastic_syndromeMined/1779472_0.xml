@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:chebi fb="0" ids="35143">Hemoglobin</z:chebi> (Hb) synthesis in colony-forming-unit erythroid (CFU-E) colonies from the bone marrow of 10 <z:mpath ids='MPATH_458'>normal</z:mpath> subjects and 6 patients with <z:hpo ids='HP_0002863'>myelodysplastic syndromes</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e>) was studied using microcytofluorometry </plain></SENT>
+<SENT sid="1" pm="."><plain>Hb content was determined utilizing a photochemical reaction in which the intracellular Hb is converted into fluorescent <z:chebi fb="2" ids="8337">porphyrin</z:chebi> </plain></SENT>
+<SENT sid="2" pm="."><plain>Briefly, the CFU-E in plasma clots was assayed according to Tepperman's method </plain></SENT>
+<SENT sid="3" pm="."><plain>Bone-marrow mononuclear cells were then dispensed onto petri dishes containing the plasma clots </plain></SENT>
+<SENT sid="4" pm="."><plain>The cells in plasma clots were cultured for seven days and then air-dried </plain></SENT>
+<SENT sid="5" pm="."><plain>The samples were then fixed with pure <z:chebi fb="43" ids="17790">methanol</z:chebi> </plain></SENT>
+<SENT sid="6" pm="."><plain>Thereafter, the dishes were exposed to ultraviolet light (lambda = 405 nm) in the presence of an SH-donor (0.2 M mercaptoethylamine <z:chebi fb="16" ids="36807">hydrochloride</z:chebi>) </plain></SENT>
+<SENT sid="7" pm="."><plain>The intensity of <z:chebi fb="2" ids="8337">porphyrin</z:chebi> fluorescence was measured using a microcytofluorometer </plain></SENT>
+<SENT sid="8" pm="."><plain>When the photochemical reaction was carried out for 50 min, the intensity of fluorescence was found to be proportional to the mean corpuscular Hb (MCH) level, suggesting that the intracellular Hb level can be determined as a function of the intensity of this fluorescence </plain></SENT>
+<SENT sid="9" pm="."><plain>The number of CFU-E colonies in <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> patients was smaller than that in <z:mpath ids='MPATH_458'>normal</z:mpath> subjects </plain></SENT>
+<SENT sid="10" pm="."><plain>In addition, intracolony Hb level was markedly lower in the <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> cases than in <z:mpath ids='MPATH_458'>normal</z:mpath> subjects </plain></SENT>
+<SENT sid="11" pm="."><plain>Our findings suggest that the maturation process of CFU-E is impaired in <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> patients </plain></SENT>
+</text></document>

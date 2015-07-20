@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Optical coherence tomography (OCT) is an emerging medical imaging technology which generates high resolution, cross-sectional images in situ, without the need for excisional biopsy </plain></SENT>
+<SENT sid="1" pm="."><plain>Previous clinical studies using endoscopic OCT with standard 10-15 microm axial resolution have demonstrated its capability in diagnosing <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> (BE) and high-grade <z:mpath ids='MPATH_589'>dysplasia</z:mpath> (HGD) </plain></SENT>
+<SENT sid="2" pm="."><plain>Quantitative OCT image analysis has shown promise for detecting HGD in <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> patients </plain></SENT>
+<SENT sid="3" pm="."><plain>We recently developed an endoscopic OCT system with an improved axial resolution of approximately 5 microm </plain></SENT>
+<SENT sid="4" pm="."><plain>The goal in this manuscript is to compare standard resolution OCT and ultrahigh resolution OCT (UHR-OCT) for image quality and computer-aided detection using <z:mpath ids='MPATH_458'>normal</z:mpath> and <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> </plain></SENT>
+<SENT sid="5" pm="."><plain>OCT images of gastrointestinal (GI) tissues were obtained using UHR-OCT (5.5 microm) and standard resolution OCT (13 microm) </plain></SENT>
+<SENT sid="6" pm="."><plain>Image quality including the speckle size and sharpness was compared </plain></SENT>
+<SENT sid="7" pm="."><plain>Texture features of endoscopic OCT images from <z:mpath ids='MPATH_458'>normal</z:mpath> and <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> were extracted using quantitative metrics including spatial frequency analysis and statistical texture analysis </plain></SENT>
+<SENT sid="8" pm="."><plain>These features were analyzed using principal component analysis (<z:chebi fb="20" ids="36751">PCA</z:chebi>) to reduce the vector dimension and increase the discriminative power, followed by linear discrimination analysis (LDA) </plain></SENT>
+<SENT sid="9" pm="."><plain>UHR-OCT images of GI tissues improved visualization of fine architectural features compared to standard resolution OCT </plain></SENT>
+<SENT sid="10" pm="."><plain>In addition, the quantitative image feature analysis showed enhanced discrimination of <z:mpath ids='MPATH_458'>normal</z:mpath> and <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> with UHR-OCT </plain></SENT>
+<SENT sid="11" pm="."><plain>The ability of UHR-OCT to resolve tissue <z:mp ids='MP_0000002'>morphology</z:mp> at improved resolution enables visualization of subtle features in OCT images, which may be useful in disease diagnosis </plain></SENT>
+<SENT sid="12" pm="."><plain>Enhanced classification of image features using UHR-OCT promises to help in the computer-aided diagnosis of GI diseases </plain></SENT>
+</text></document>

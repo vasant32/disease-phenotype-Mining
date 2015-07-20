@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PURPOSE: We present a case report comparing 1.5 fast spin-echo (FSE) and high-resolution 8 Tesla (T) gradient echo (GE) MRI of a patient with multiple lacunar <z:mpath ids='MPATH_124'>infarcts</z:mpath> </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: A 51-year-old man with a history of previous <z:e sem="disease" ids="C0333559" disease_type="Disease or Syndrome" abbrv="">lacunar infarctions</z:e> was studied with two-dimensional Fourier transform axial 8 T GE MRI using the following parameters: 3 mm thick slices skip 3 mm, flip-angle approximately 20 degrees, TR 800 milliseconds, TE 12 milliseconds, 1024 x 1024 matrix, field of view (FOV) 20 cm, and bandwidth 50 kHz </plain></SENT>
+<SENT sid="2" pm="."><plain>These images were then compared with routine clinical 1.5 T T2-weighted FSE images with 5 mm thick sections, 256 x 256, FOV 20, TR 5650, TE 102, and 16 echo train length </plain></SENT>
+<SENT sid="3" pm="."><plain>RESULTS: The majority of the infarctions were seen as areas of high signal intensity on both the 1.5 and 8 T images </plain></SENT>
+<SENT sid="4" pm="."><plain>They were seen in the <z:chebi fb="47" ids="37409">corona</z:chebi> radiata or the basal ganglia </plain></SENT>
+<SENT sid="5" pm="."><plain>More lesions were seen on the 8 T images </plain></SENT>
+<SENT sid="6" pm="."><plain>Low intensity signal was best demonstrated on the 8 T images at segments of the periphery of a few of the larger <z:mpath ids='MPATH_124'>infarcts</z:mpath> </plain></SENT>
+<SENT sid="7" pm="."><plain>There were a few small punctate low signal intensity regions localized at the termination of some of the microvessels on the 8 T images only </plain></SENT>
+<SENT sid="8" pm="."><plain>The foci of decreased signal intensity in regions of <z:hpo ids='HP_0011010'>chronic</z:hpo> <z:mp ids='MP_0001914'>hemorrhage</z:mp> appeared larger on the 8 T images compared with the 1.5 T images </plain></SENT>
+<SENT sid="9" pm="."><plain>The 8 T images demonstrated direct visualization of many small vessels, primarily in the deep white matter, which were not visible on the 1.5 T images </plain></SENT>
+<SENT sid="10" pm="."><plain>On the 8 T images, some of the <z:mpath ids='MPATH_124'>infarcts</z:mpath> appeared to be located between the medullary veins of the deep white matter </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSION: This case report indicates that GE 8 T images demonstrate more infarctions compared with the FSE 1.5 T images </plain></SENT>
+<SENT sid="12" pm="."><plain>It is possible to simultaneously identify the microvessels of the brain, small foci of <z:mp ids='MP_0001914'>hemorrhage</z:mp>, and <z:e sem="disease" ids="C0333559" disease_type="Disease or Syndrome" abbrv="">lacunar infarctions</z:e> using 8 T MRI </plain></SENT>
+</text></document>

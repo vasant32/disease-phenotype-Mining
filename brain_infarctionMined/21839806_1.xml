@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Cortical spreading <z:hpo ids='HP_0000716'>depression</z:hpo> (CSD) has been shown to cause secondary cell loss in experimental models of brain injury and in patients, and blocking of CSD is a potential neuroprotective strategy </plain></SENT>
+<SENT sid="1" pm="."><plain>Here we tested the hypothesis that gap junctions affect CSD under physiological conditions as well as <z:mpath ids='MPATH_124'>infarct</z:mpath> development in a rat two-vein occlusion model suited to study pathophysiology of the penumbra (n = 71) </plain></SENT>
+<SENT sid="2" pm="."><plain>We applied the gap junction blocker carbenoxolone (CBX) or saline intra-ventricularly </plain></SENT>
+<SENT sid="3" pm="."><plain>Interestingly, CBX temporarily increased systemic blood pressure and cortical blood flow (41% and 53%, 15 min after 250 μg CBX) </plain></SENT>
+<SENT sid="4" pm="."><plain>We induced CSD with cortical microinjection of <z:chebi fb="11" ids="32588">potassium chloride</z:chebi> (<z:chebi fb="0" ids="32588">KCl</z:chebi>), counted how many spontaneous CSDs after CSD induction were elicited and measured the propagation velocity </plain></SENT>
+<SENT sid="5" pm="."><plain>After 250 μg CBX administration, significant 37.5 ± 6.5 additional CSDs were seen </plain></SENT>
+<SENT sid="6" pm="."><plain>CSD velocity increased significantly after 50 μg and 250 μg CBX </plain></SENT>
+<SENT sid="7" pm="."><plain>Occlusion of two adjacent cortical veins using <z:chebi fb="0" ids="52261">Rose Bengal</z:chebi> dye and fiberoptic illumination followed by 250 μg CBX or saline showed a significant more than doubling of <z:mpath ids='MPATH_124'>infarct</z:mpath> volumes 7 days after CBX </plain></SENT>
+<SENT sid="8" pm="."><plain>The current experiments provide evidence that CBX can accelerate the initiation and propagation of CSD suggesting opening of gap junctions is not required for CSD propagation </plain></SENT>
+<SENT sid="9" pm="."><plain>Blocking gap junctions worsens outcome from focal <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> </plain></SENT>
+<SENT sid="10" pm="."><plain>Hence, measures intended to improve spatial buffering via astroglial gap junctions could have therapeutic potential in disease processes involving CSD </plain></SENT>
+</text></document>

@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: <z:hpo ids='HP_0001657'>Long QT syndrome</z:hpo> (LQTS) is a cardiac <z:e sem="disease" ids="C1720983" disease_type="Disease or Syndrome" abbrv="">channelopathy</z:e> predisposing to <z:hpo ids='HP_0001279'>syncope</z:hpo> and <z:hpo ids='HP_0001699'>sudden death</z:hpo> secondary to <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">LQT</z:e>-triggered <z:hpo ids='HP_0004308'>ventricular arrhythmias</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain><z:hpo ids='HP_0001657'>Long QT syndrome</z:hpo> has been regarded as a purely electrical disease </plain></SENT>
+<SENT sid="2" pm="."><plain>Recent reports have shown by echocardiography that LQTS patients have contraction abnormalities that are associated with <z:hpo ids='HP_0011675'>cardiac arrhythmias</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>The purpose of this study was to determine the spectrum and prevalence of echocardiographic anomalies in a large cohort of patients diagnosed genetically and/or clinically with LQTS </plain></SENT>
+<SENT sid="4" pm="."><plain>OUTCOME MEASURES: Two-dimensional and Doppler echocardiographic studies performed during medical evaluation in Mayo's LQTS Clinic were reviewed for 216 LQTS patients </plain></SENT>
+<SENT sid="5" pm="."><plain>Echocardiograms were evaluated for morphologic abnormalities and atrial and ventricular size and function </plain></SENT>
+<SENT sid="6" pm="."><plain>Left atrial volume was indexed by body mass </plain></SENT>
+<SENT sid="7" pm="."><plain>Arrhythmic events were defined as a history of aborted <z:hpo ids='HP_0001695'>cardiac arrest</z:hpo>, documented <z:hpo ids='HP_0004756'>ventricular tachycardia</z:hpo> or <z:mp ids='MP_0006109'>fibrillation</z:mp>, and <z:hpo ids='HP_0001279'>syncope</z:hpo> </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: While 75% of patients had <z:mpath ids='MPATH_458'>normal</z:mpath> standard echocardiograms, 54 patients (25%) had at least one abnormal echocardiographic finding </plain></SENT>
+<SENT sid="9" pm="."><plain>Most common were subclinical cardiomyopathic changes, including increased left atrial volume index (n = 25), left or right ventricular enlargement (n = 7), and grade I-II diastolic dysfunction (n = 7) </plain></SENT>
+<SENT sid="10" pm="."><plain>Left atrial volume index was higher in LQTS patients with arrhythmic events compared with those without (24.4 ± 5.5���mL/m(2) vs. 22.3 ± 6.1 mL/m(2) , P =.02) </plain></SENT>
+<SENT sid="11" pm="."><plain>Corrected QT intervals and left atrial volume index correlated significantly albeit weakly (r(2) = 0.04, P &lt;.01) </plain></SENT>
+<SENT sid="12" pm="."><plain>Concomitant <z:hpo ids='HP_0002564'>congenital heart disease</z:hpo> was found in two patients </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSIONS: Subclinical cardiomyopathic changes were found in nearly 20% of LQTS patients </plain></SENT>
+<SENT sid="14" pm="."><plain>Left atrial enlargement was the most common finding and was associated with prolonged corrected QT and arrhythmic events </plain></SENT>
+<SENT sid="15" pm="."><plain>These changes may stem from underlying contraction abnormalities caused by ion channel dysfunction </plain></SENT>
+</text></document>

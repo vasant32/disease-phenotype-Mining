@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND PURPOSE: Time-of-flight <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e> angiography (TOF MRA), with its advantage of high spatial resolution, is widely used for visualization of intracranial arteries </plain></SENT>
+<SENT sid="1" pm="."><plain>Fat signal intensity from bone marrow can interfere with vessel signal intensity, especially in maximum intensity projection reconstructions </plain></SENT>
+<SENT sid="2" pm="."><plain>Use of a technique such as fat saturation or water excitation can reduce this signal intensity </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: Ten volunteers were included in this study </plain></SENT>
+<SENT sid="4" pm="."><plain>TOF MRA was performed by using spoiled gradient echo sequences on a 1.5-T <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e> unit either with or without water excitation </plain></SENT>
+<SENT sid="5" pm="."><plain>Water excitation was performed by using a binomial excitation pulse pair, with a null in the excitation profile at the fat frequency to obtain fat suppression </plain></SENT>
+<SENT sid="6" pm="."><plain>Two blinded neuroradiologists then judged the images </plain></SENT>
+<SENT sid="7" pm="."><plain>Additional studies by using a phantom with a flow of about 2 mL/s were performed under the same conditions </plain></SENT>
+<SENT sid="8" pm="."><plain>Image quality obtained with and that without water excitation was graded as similar by both neuroradiologists </plain></SENT>
+<SENT sid="9" pm="."><plain>RESULTS: As the main finding, the sequences by using water excitation revealed an important pitfall: apparent carotid <z:mp ids='MP_0006135'>artery stenosis</z:mp> was detected in 4/10 and occlusions in 1/10 cases </plain></SENT>
+<SENT sid="10" pm="."><plain>Use of a flow phantom could reveal the same pitfall </plain></SENT>
+<SENT sid="11" pm="."><plain>Intracranial vessel disease was excluded in <z:hpo ids='HP_0000001'>all</z:hpo> volunteers by using Doppler sonography </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSION: The type of water excitation tested here can induce significant artifacts in cerebral TOF MRA </plain></SENT>
+<SENT sid="13" pm="."><plain>These artifacts can be misinterpreted as carotid <z:mp ids='MP_0006135'>artery stenosis</z:mp> or even occlusion, whereas the benefit brought by water excitation with respect to fat suppression is less significant </plain></SENT>
+</text></document>

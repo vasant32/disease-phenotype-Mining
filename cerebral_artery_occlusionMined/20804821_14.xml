@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Toll-like receptors (TLRs) are signaling receptors in the innate immune system that is a specific immunologic response to systemic <z:mp ids='MP_0001794'>bacterial</z:mp> <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infection</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>We investigated whether <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> induced by the middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (MCAO) for 2 h differed in mice that lack a functional TLR3, TLR4, or TLR9 signaling pathway </plain></SENT>
+<SENT sid="2" pm="."><plain>TLR4, but not TLR3 or TLR9, knock-out (KO) mice had significantly smaller <z:mpath ids='MPATH_124'>infarct</z:mpath> area and volume at 24 h after <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e>-reperfusion (I/R) compared with <z:mp ids='MP_0002169'>wild-type</z:mp> mice </plain></SENT>
+<SENT sid="3" pm="."><plain>In addition, TLR4 KO mice improved in neurological deficits after I/R compared with <z:mp ids='MP_0002169'>wild-type</z:mp> mice </plain></SENT>
+<SENT sid="4" pm="."><plain>Moreover, we investigated the expression of TLR4 in the ischemic brain with immunohistochemistry </plain></SENT>
+<SENT sid="5" pm="."><plain>The number of TLR4-positive cells gradually increased from 1 h after MCAO to 22 h after I/R </plain></SENT>
+<SENT sid="6" pm="."><plain>We also examined the localization of TLR4 in the ischemic area </plain></SENT>
+<SENT sid="7" pm="."><plain>TLR4 was localized with CD11b-positive microglial cells in the ischemic striatum and the number of CD11b-positive microglial cells was smaller in TLR4 KO mice than in <z:mp ids='MP_0002169'>wild-type</z:mp> mice </plain></SENT>
+<SENT sid="8" pm="."><plain>In addition, we investigated the translocation of NF-κB among TLR3, 4, and 9 KO mice after I/R injury using western blotting </plain></SENT>
+<SENT sid="9" pm="."><plain>NF-κB's p65 subunit was decreased in TLR4 KO mice compared to <z:mp ids='MP_0002169'>wild-type</z:mp> mice, but not TLR3 or 9 KO mice </plain></SENT>
+<SENT sid="10" pm="."><plain>These data suggest that TLR4 knockout, but not TLR3 or TLR9 knockout, may play a neuroprotective role in ischemic brain injury induced by MCAO in mice </plain></SENT>
+</text></document>

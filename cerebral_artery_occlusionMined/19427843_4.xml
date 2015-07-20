@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Fibrates are <z:chebi fb="23" ids="18059">lipid</z:chebi> lowering drugs and found as ligands for peroxisome proliferator-activated receptors (PPARs) </plain></SENT>
+<SENT sid="1" pm="."><plain>A clinical study has shown that one type of fibrate <z:chebi fb="0" ids="5296">gemfibrozil</z:chebi> reduces <z:hpo ids='HP_0001297'>stroke</z:hpo> incidence in men </plain></SENT>
+<SENT sid="2" pm="."><plain>However, it remains unknown whether <z:chebi fb="0" ids="5296">gemfibrozil</z:chebi> improves outcome after <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>We hypothesized that prophylactic administration of <z:chebi fb="0" ids="5296">gemfibrozil</z:chebi> improves outcome after <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> </plain></SENT>
+<SENT sid="4" pm="."><plain>In this study, we measured the impact of <z:chebi fb="0" ids="5296">gemfibrozil</z:chebi> in two permanent middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (MCAO) models in young adult male mice on <z:mpath ids='MPATH_458'>normal</z:mpath> diet </plain></SENT>
+<SENT sid="5" pm="."><plain>First, we tested <z:chebi fb="0" ids="5296">gemfibrozil</z:chebi> in a filamentous MCAO model </plain></SENT>
+<SENT sid="6" pm="."><plain>Pretreatment with <z:chebi fb="0" ids="5296">gemfibrozil</z:chebi> (30 mg/kg) for 7 days moderately but significantly reduced <z:mpath ids='MPATH_124'>infarct</z:mpath> size at 24 h after MCAO </plain></SENT>
+<SENT sid="7" pm="."><plain>A higher dose (120 mg/kg) did not attenuate <z:mpath ids='MPATH_124'>infarct</z:mpath> size </plain></SENT>
+<SENT sid="8" pm="."><plain>Rather, it tended to increase <z:e sem="disease" ids="C1527311" disease_type="Disease or Syndrome" abbrv="">brain swelling</z:e> </plain></SENT>
+<SENT sid="9" pm="."><plain>Second, we tested in a distal MCAO model </plain></SENT>
+<SENT sid="10" pm="."><plain><z:chebi fb="0" ids="5296">Gemfibrozil</z:chebi> (30 mg/kg) for 7 days before and after <z:hpo ids='HP_0001297'>stroke</z:hpo> significantly attenuated cortical lesion size at 7 days after MCAO </plain></SENT>
+<SENT sid="11" pm="."><plain>Cortical blood flow measured by laser speckle imaging was improved by <z:chebi fb="0" ids="5296">gemfibrozil</z:chebi> in the ischemic hemisphere </plain></SENT>
+<SENT sid="12" pm="."><plain>In non-<z:hpo ids='HP_0001297'>stroke</z:hpo> animals <z:chebi fb="0" ids="5296">gemfibrozil</z:chebi> also altered gene expression levels of PPARs in both the aorta and brain in organ specific manners; however, endothelial nitric <z:chebi fb="177" ids="25741,29356">oxide</z:chebi> synthase (eNOS) was not significantly affected </plain></SENT>
+<SENT sid="13" pm="."><plain>These findings suggested the possibility that the observed <z:mpath ids='MPATH_124'>infarct</z:mpath> reductions and cortical blood flow improvements in ischemic brains were not through eNOS-mediated mechanisms </plain></SENT>
+<SENT sid="14" pm="."><plain>Further investigations may be meritorious to examine whether prophylactic usage of <z:chebi fb="0" ids="5296">gemfibrozil</z:chebi> against <z:hpo ids='HP_0001297'>stroke</z:hpo> is beneficial </plain></SENT>
+</text></document>

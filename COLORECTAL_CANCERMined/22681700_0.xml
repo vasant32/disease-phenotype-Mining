@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Local control appears to be an important treatment aim in patients with limited <z:e sem="disease" ids="C0027627" disease_type="Neoplastic Process" abbrv="mets">metastases</z:e> (oligometastases) of <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e>) </plain></SENT>
+<SENT sid="1" pm="."><plain>Those patients show a favourable prognosis, if--in addition to the local effective treatment--an occurrence of new <z:e sem="disease" ids="C0027627" disease_type="Neoplastic Process" abbrv="mets">metastases</z:e> may also be postponed by effective systemic therapy </plain></SENT>
+<SENT sid="2" pm="."><plain>The purpose of this dose escalation phase I study was to establish the efficacy of local radiotherapy (RT) of oligometastatic <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e> with a concurrent standard chemotherapy regimen </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: Patients with first-, second- or third-line therapy of oligometastatic <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e> (1-3 metastases or local recurrence plus max </plain></SENT>
+<SENT sid="4" pm="."><plain>2 metastases) received <z:chebi fb="0" ids="31348">capecitabine</z:chebi> (825 mg/m²/d BID d 1-14; 22-35) and <z:chebi fb="0" ids="31941">oxaliplatin</z:chebi> (50 mg/m² d 1, 8, 22, 29) </plain></SENT>
+<SENT sid="5" pm="."><plain>3D-conformal RT of <z:hpo ids='HP_0000001'>all</z:hpo> metastatic lesions was delivered in 2.0 Gy up to 36 Gy to 50 Gy (3 dose levels) </plain></SENT>
+<SENT sid="6" pm="."><plain>Primary endpoint was the maximal tolerable dose (MTD) of RT defined as the level at which two or more of six patients experienced dose-limiting toxicity (DLT) </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: Between 09/2004 and 08/2007, 9 patients (7 male, 2 female, 50-74 years) were enrolled, 6 patients treated at dose level 1 (36 Gy), 3 patients at dose level 2 (44 Gy) </plain></SENT>
+<SENT sid="8" pm="."><plain>1 patient from the first cohort experienced DLT (<z:chebi fb="0" ids="31941">oxaliplatin</z:chebi>-related hypersensitivity reaction) </plain></SENT>
+<SENT sid="9" pm="."><plain>No radiation-induced DLT occurred </plain></SENT>
+<SENT sid="10" pm="."><plain>6/9 patients achieved objective response (partial remission) </plain></SENT>
+<SENT sid="11" pm="."><plain>One year after initiation, <z:hpo ids='HP_0000001'>all</z:hpo> patients were alive, 6 patients survived (16 to 54 months) patients died of <z:e sem="disease" ids="C0178874" disease_type="Neoplastic Process" abbrv="">tumor progression</z:e> (14 to 23 months) </plain></SENT>
+<SENT sid="12" pm="."><plain>The phase II part of the trial had to be closed due to recruitment failure </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSIONS: Local 3D-CRT to metastatic lesions in addition to standard chemotherapy was feasible, DLT was not documented </plain></SENT>
+<SENT sid="14" pm="."><plain>3/9 patients survived for a period of 3.5 to 4.4 years (time at the last evaluation) </plain></SENT>
+<SENT sid="15" pm="."><plain>Radiotherapy of metastatic lesions should be incorporated into subsequent trials </plain></SENT>
+</text></document>

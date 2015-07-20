@@ -1,0 +1,18 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: <z:hpo ids='HP_0001919'>Acute kidney injury</z:hpo> (AKI) and <z:hpo ids='HP_0002140'>ischemic stroke</z:hpo> may occur in the same cardiac surgical patient </plain></SENT>
+<SENT sid="1" pm="."><plain>It is not known if an interaction exists between these organ injuries </plain></SENT>
+<SENT sid="2" pm="."><plain>Isolated <z:e sem="disease" ids="C0920646" disease_type="Disease or Syndrome" abbrv="">renal ischemia</z:e>/reperfusion is associated with dysfunction in remote, otherwise <z:mpath ids='MPATH_458'>normal</z:mpath> organs, including the brain </plain></SENT>
+<SENT sid="3" pm="."><plain>In a rat model of simultaneous bilateral renal <z:mp ids='MP_0006134'>artery occlusion</z:mp> (BRAO) and middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (MCAO), the authors tested the hypothesis that AKI would worsen experimental <z:hpo ids='HP_0001297'>stroke</z:hpo> outcome </plain></SENT>
+<SENT sid="4" pm="."><plain>DESIGN: Sixty thermoregulated anesthetized rats were randomized to (1) 40-minute BRAO, (2) 80-minute MCAO, or (3) simultaneous BRAO + MCAO </plain></SENT>
+<SENT sid="5" pm="."><plain>Serum <z:chebi fb="0" ids="16737">creatinine</z:chebi> was measured at baseline and 2 and 7 days after organ reperfusion </plain></SENT>
+<SENT sid="6" pm="."><plain>Neurologic function and brain and kidney histologies were measured on day 7 </plain></SENT>
+<SENT sid="7" pm="."><plain>In a parallel study, serum cytokines were measured over 16 hours </plain></SENT>
+<SENT sid="8" pm="."><plain>SETTING: Laboratory </plain></SENT>
+<SENT sid="9" pm="."><plain>PARTICIPANTS: Male Wistar rats </plain></SENT>
+<SENT sid="10" pm="."><plain>INTERVENTIONS: Combined or isolated BRAO and MCAO </plain></SENT>
+<SENT sid="11" pm="."><plain>MEASUREMENTS AND MAIN RESULTS: AKI was similar between the BRAO and BRAO + MCAO groups, with greater 48-hour <z:chebi fb="0" ids="16737">creatinine</z:chebi> increases (p &lt; 0.02) and renal histopathologic scores (p &lt; 0.001) in these groups than with MCAO alone </plain></SENT>
+<SENT sid="12" pm="."><plain>Neurologic scores correlated with cerebral <z:mpath ids='MPATH_124'>infarct</z:mpath> size (p = 0.0001) </plain></SENT>
+<SENT sid="13" pm="."><plain>There were no differences in neurologic score (p = 0.53) and cerebral <z:mpath ids='MPATH_124'>infarct</z:mpath> volume (p = 0.21) between the MCAO and BRAO + MCAO groups </plain></SENT>
+<SENT sid="14" pm="."><plain>There was no association between cerebral <z:mpath ids='MPATH_124'>infarct</z:mpath> size or neurologic score and 48-hour <z:chebi fb="0" ids="16737">creatinine</z:chebi> increase </plain></SENT>
+<SENT sid="15" pm="."><plain>Interleukin-6 was increased during reperfusion (p &lt; 0.0001), but a difference among groups was absent (p = 0.41) </plain></SENT>
+<SENT sid="16" pm="."><plain>CONCLUSIONS: In contrast to the effects reported for AKI on <z:mpath ids='MPATH_458'>normal</z:mpath> remote organs, AKI had no influence on <z:mpath ids='MPATH_124'>infarct</z:mpath> size or neurologic function after experimental ischemic cerebral <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+</text></document>

@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Higher biologic systems operate far from equilibrium resulting in order, complexity, fluctuation of inherent parameters, and dissipation of energy </plain></SENT>
+<SENT sid="1" pm="."><plain>According to the decomplexification theory, disease is characterized by a loss of system complexity </plain></SENT>
+<SENT sid="2" pm="."><plain>We analyzed such complexity in patients after <z:hpo ids='HP_0002138'>subarachnoid hemorrhage</z:hpo> (SAH), by applying the standard technique of variability analysis and the novel method of fractal analysis to middle cerebral artery blood flow velocity (FV) and arterial blood pressure (ABP) </plain></SENT>
+<SENT sid="3" pm="."><plain>In 31 SAH -patients, FV (using transcranial Doppler sonography) and direct ABP were measured </plain></SENT>
+<SENT sid="4" pm="."><plain>The standard deviations (s.d.) and coefficients of variation (CV=relative s.d.) for FV and ABP time series of length 2(10) secs were calculated as measures of variability </plain></SENT>
+<SENT sid="5" pm="."><plain>The spectral index beta(low) and the Hurst coefficient H(bdSWV) were analyzed as fractal measures </plain></SENT>
+<SENT sid="6" pm="."><plain>Outcome was assessed 1 year after SAH according to the Glasgow Outcome Scale (GOS) </plain></SENT>
+<SENT sid="7" pm="."><plain>Both FV (beta(low)=2.2+/-0.4, mean+/-s.d.) and ABP (beta(low)=2.3+/-0.4) were classified as nonstationary (fractal Brownian motion) signals </plain></SENT>
+<SENT sid="8" pm="."><plain>FV showed significantly (P&lt;0.05) higher variability (CV=7.2+/-2.5%) and Hurst coefficient (H(bdSWV)=0.26+/-0.13) as compared with ABP (CV=5.5+/-2.7%, H(bdSWV)=0.19+/-0.11) </plain></SENT>
+<SENT sid="9" pm="."><plain>Better outcome (GOS) correlated significantly (P&lt;0.05) with higher s.d. of FV (Spearman's r(s)=0.51, r(s)(2)=0.26) and ABP (r(s)=0.57, r(s)(2)=0.32), as well as with a higher Hurst coefficient of ABP (r(s)=0.46, r(s)(2)=0.21) </plain></SENT>
+<SENT sid="10" pm="."><plain><z:e sem="disease" ids="C0265110" disease_type="Disease or Syndrome" abbrv="">Cerebral vasospasm</z:e> reduced CV of FV, but left H(bdSWV) unchanged </plain></SENT>
+<SENT sid="11" pm="."><plain>FV and ABP fluctuated markedly despite homeostatic control </plain></SENT>
+<SENT sid="12" pm="."><plain>A reduced variability of FV and ABP might indicate a loss of complexity and was associated with a less favorable outcome </plain></SENT>
+<SENT sid="13" pm="."><plain>Therefore, the decomplexification theory of illness may apply to SAH </plain></SENT>
+</text></document>

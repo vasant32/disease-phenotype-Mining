@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: The population benefit of screening depends not only on the effectiveness of the test, but also on adherence, which, for <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e>) screening remains low </plain></SENT>
+<SENT sid="1" pm="."><plain>An advance notification letter may increase adherence, however, no population-based randomized trials have been conducted to provide evidence of this </plain></SENT>
+<SENT sid="2" pm="."><plain>METHOD: In 2008, a representative sample of the Dutch population (aged 50-74 years) was randomized </plain></SENT>
+<SENT sid="3" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> 2493 invitees in group A were sent an advance notification letter, followed two weeks later by a standard invitation </plain></SENT>
+<SENT sid="4" pm="."><plain>The 2507 invitees in group B only received the standard invitation </plain></SENT>
+<SENT sid="5" pm="."><plain>Non-respondents in both groups were sent a reminder 6 weeks after the invitation </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: The advance notification letters resulted in a significantly higher adherence (64.4% versus 61.1%, p-value 0.019) </plain></SENT>
+<SENT sid="7" pm="."><plain>Multivariate logistic regression analysis showed no significant interactions between group and age, sex, or socio-economic status </plain></SENT>
+<SENT sid="8" pm="."><plain>Cost analysis showed that the incremental cost per additional detected advanced <z:hpo ids='HP_0002664'>neoplasia</z:hpo> due to sending an advance notification letter was € 957 </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSION: This population-based randomized trial demonstrates that sending an advance notification letter significantly increases adherence by 3.3% </plain></SENT>
+<SENT sid="10" pm="."><plain>The incremental cost per additional detected advanced <z:hpo ids='HP_0002664'>neoplasia</z:hpo> is acceptable </plain></SENT>
+<SENT sid="11" pm="."><plain>We therefore recommend that such letters are incorporated within the standard <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CRC</z:e>-screening invitation process </plain></SENT>
+</text></document>

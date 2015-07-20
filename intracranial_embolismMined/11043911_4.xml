@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Reversible focal <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> may lead to delayed tissue injury despite primary restoration of blood flow and metabolism </plain></SENT>
+<SENT sid="1" pm="."><plain>The authors investigated whether such delayed changes also occur after thrombolytic treatment of <z:hpo ids='HP_0001727'>thromboembolic stroke</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>Clot embolism of the middle cerebral artery (<z:chebi fb="70" ids="34342">MCA</z:chebi>) was produced in C57/B16J mice by intracarotid injection of heterologous clots </plain></SENT>
+<SENT sid="3" pm="."><plain>One hour after embolism, one group was treated with intracarotid infusion of rt-PA (10 mg/kg) </plain></SENT>
+<SENT sid="4" pm="."><plain>The untreated control group received an equal amount of vehicle </plain></SENT>
+<SENT sid="5" pm="."><plain>Just before <z:hpo ids='HP_0003674'>onset</z:hpo> of treatment and after 1, 3 </plain></SENT>
+<SENT sid="6" pm="."><plain>6, and 24 hours, animals were frozen in situ and cerebral blood flow (CBF), cerebral protein synthesis (CPS), ATP content, and DNA fragmentations (TUNEL) were imaged on cryostat sections using double tracer autoradiography. bioluminescence, and immunohistochemical techniques, respectively </plain></SENT>
+<SENT sid="7" pm="."><plain>In untreated animals (n = 20), CPS was suppressed in approximately 68% of hemispheric transsection at 1 hour after embolization </plain></SENT>
+<SENT sid="8" pm="."><plain>The ATP depleted area was smaller (approximately 58%), but between 6 and 24 hours it merged with that of CPS suppression </plain></SENT>
+<SENT sid="9" pm="."><plain>TUNEL-positive neurons became visible between 6 and 24 hours exclusively in regions with ATP <z:mpath ids='MPATH_63'>depletion</z:mpath> </plain></SENT>
+<SENT sid="10" pm="."><plain>rt-PA-induced thrombolysis (n = 20) led to the gradual improvement of blood flow </plain></SENT>
+<SENT sid="11" pm="."><plain>At 24 hours </plain></SENT>
+<SENT sid="12" pm="."><plain>ATP <z:mpath ids='MPATH_63'>depletion</z:mpath> was fully reversed and the CPS suppression area declined to approximately 16% of hemispheric transsection </plain></SENT>
+<SENT sid="13" pm="."><plain>Despite progressive metabolic recovery, large numbers of neurons became TUNEL-positive and animals died between 24 and 48 hours </plain></SENT>
+<SENT sid="14" pm="."><plain>Thrombolysis after clot embolism restores metabolic activity including protein synthesis, but the therapeutic benefit is limited by secondary injury that requires additional treatment to improve final outcome </plain></SENT>
+</text></document>

@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Recent studies have shown that administration of granulocyte colony-stimulating factor (G-CSF) is neuroprotective </plain></SENT>
+<SENT sid="1" pm="."><plain>However, the precise mechanisms of the neuroprotective effect of G-CSF are not entirely known </plain></SENT>
+<SENT sid="2" pm="."><plain>We carried out 90-min transient middle <z:e sem="disease" ids="C0596298" disease_type="Disease or Syndrome" abbrv="">cerebral occlusion</z:e> (tMCAO) of rats </plain></SENT>
+<SENT sid="3" pm="."><plain>The rats were injected with vehicle or G-CSF (50 mug/kg) immediately after reperfusion and sacrificed 8, 24, or 72 hr later </plain></SENT>
+<SENT sid="4" pm="."><plain>2,3,5-Triphenyltetrazolium <z:chebi fb="76" ids="17996">chloride</z:chebi> (TTC) staining was carried out using brain sections of 72 hr, and immunohistochemistry was carried out with those of 8, 24, and 72 hr </plain></SENT>
+<SENT sid="5" pm="."><plain>TTC-staining showed a significant reduction of <z:mpath ids='MPATH_124'>infarct</z:mpath> volume in the G-CSF-treated group (**P &lt; 0.01) </plain></SENT>
+<SENT sid="6" pm="."><plain>Immunohistochemistry showed a significant decrease of the number of cells expressing <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> <z:mp ids='MP_0001651'>necrosis</z:mp> factor-alpha (TNF-alpha) at 8-72 hr, transforming growth factor-beta (TGF-beta) and inducible nitric <z:chebi fb="177" ids="25741,29356">oxide</z:chebi> synthase (iNOS) at 24 and 72 hr after tMCAO in the peri-ischemic area (*P &lt; 0.05 each) </plain></SENT>
+<SENT sid="7" pm="."><plain>Our data suggest that the suppression of inflammatory cytokines and iNOS expression may be one mechanism of neuroprotection by G-CSF </plain></SENT>
+</text></document>

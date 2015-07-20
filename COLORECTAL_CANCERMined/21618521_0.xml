@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The human suppressive T cells that stably express transcription factor FOXP3, or regulatory T cells (Tregs), are thought to suppress antitumor immune responses </plain></SENT>
+<SENT sid="1" pm="."><plain>The most specific marker for human Tregs is the demethylation of CpG <z:chebi fb="0" ids="47885">dinucleotides</z:chebi> located in the first intron of FOXP3 (FOXP3i1) </plain></SENT>
+<SENT sid="2" pm="."><plain>FOXP3i1 is completely methylated in other hematopoietic cells, including nonsuppressive T cells that transiently express FOXP3 after activation </plain></SENT>
+<SENT sid="3" pm="."><plain>Previously, we and others reported estimations of the frequency of Tregs in the blood of <z:hpo ids='HP_0002861'>melanoma</z:hpo> patients using a FOXP3i1 methylation-specific qPCR assay </plain></SENT>
+<SENT sid="4" pm="."><plain>Here, we attempted to quantify Tregs inside <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> samples using this assay </plain></SENT>
+<SENT sid="5" pm="."><plain>However, we found demethylated FOXP3i1 sequences in the <z:hpo ids='HP_0002861'>melanoma</z:hpo> cells themselves </plain></SENT>
+<SENT sid="6" pm="."><plain>This demethylation was not associated with substantial FOXP3 <z:chebi fb="2" ids="33699">mRNA</z:chebi> or protein expression, even though the demethylation extended to the promoter and terminal regions of the gene in some <z:hpo ids='HP_0002861'>melanoma</z:hpo> cells </plain></SENT>
+<SENT sid="7" pm="."><plain>Our results imply that analyzing Treg frequencies by quantification of demethylated FOXP3i1 will require that <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e>-infiltrating T cells be separated from <z:hpo ids='HP_0002861'>melanoma</z:hpo> cells </plain></SENT>
+</text></document>

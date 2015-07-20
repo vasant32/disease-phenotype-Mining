@@ -1,0 +1,19 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>1 </plain></SENT>
+<SENT sid="1" pm="."><plain>The present study was designed to investigate the neuroprotective effect of trimetazidine (TMZ) following focal <z:e sem="disease" ids="C0917798" disease_type="Disease or Syndrome" abbrv="">cerebral ischaemia</z:e>-reperfusion (I/R) injury in rat forebrain </plain></SENT>
+<SENT sid="2" pm="."><plain>2 </plain></SENT>
+<SENT sid="3" pm="."><plain>Cerebral I/R injury was induced in rats by middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (MCAO) for 2 h, followed by reperfusion for 22 h </plain></SENT>
+<SENT sid="4" pm="."><plain>Trimetazidine (5 and 25 mg/kg, i.p.) was administered 1 h after induction of MCAO </plain></SENT>
+<SENT sid="5" pm="."><plain>The effects of TMZ were investigated by measuring neurological deficit, volume of <z:mpath ids='MPATH_124'>infarct</z:mpath> and <z:e sem="disease" ids="C1527311" disease_type="Disease or Syndrome" abbrv="">brain swelling</z:e> after 22 h reperfusion </plain></SENT>
+<SENT sid="6" pm="."><plain><z:mp ids='MP_0003674'>Oxidative stress</z:mp> and inflammatory reactivity were assessed by estimating anti-oxidant markers and myeloperoxidase (MPO) activity in brain homogenates </plain></SENT>
+<SENT sid="7" pm="."><plain>Rectal temperature was measured during the study </plain></SENT>
+<SENT sid="8" pm="."><plain>The effects of TMZ on blood-brain barrier (<z:chebi fb="2" ids="33602">BBB</z:chebi>) permeability and <z:mpath ids='MPATH_3'>apoptosis</z:mpath> were also investigated in rat brain </plain></SENT>
+<SENT sid="9" pm="."><plain><z:mpath ids='MPATH_3'>Apoptosis</z:mpath> was observed by DNA fragmentation studies using <z:chebi fb="2" ids="2511">agarose</z:chebi> gel electrophoresis </plain></SENT>
+<SENT sid="10" pm="."><plain>3 </plain></SENT>
+<SENT sid="11" pm="."><plain>Treatment with TMZ significantly (P &lt; 0.01) reduced <z:mpath ids='MPATH_124'>infarct</z:mpath> volume and <z:e sem="disease" ids="C1527311" disease_type="Disease or Syndrome" abbrv="">brain swelling</z:e> </plain></SENT>
+<SENT sid="12" pm="."><plain><z:chebi fb="1" ids="18421">Superoxide</z:chebi> dismutase (SOD) activity was reduced in ipsilateral hemispheres of vehicle (saline)-treated reperfused (RI) animals </plain></SENT>
+<SENT sid="13" pm="."><plain>Treatment with TMZ significantly restored SOD activity (P &lt; 0.01) and <z:chebi fb="0" ids="16856">glutathione</z:chebi> levels (P &lt; 0.05) after reperfusion compared with RI animals </plain></SENT>
+<SENT sid="14" pm="."><plain><z:chebi fb="23" ids="18059">Lipid</z:chebi> peroxidation, MPO activity, <z:chebi fb="2" ids="33602">BBB</z:chebi> permeability and rectal temperature were <z:hpo ids='HP_0000001'>all</z:hpo> significantly (P &lt; 0.01, P &lt; 0.05 and P &lt; 0.001, respectively) reduced in TMZ-treated animals compared with RI animals </plain></SENT>
+<SENT sid="15" pm="."><plain>4 </plain></SENT>
+<SENT sid="16" pm="."><plain>These results suggest that TMZ protects the brain against cerebral I/R injury and that this neuroprotective activity could be mediated by its anti-oxidant properties </plain></SENT>
+<SENT sid="17" pm="."><plain>The reduction in rectal temperature by TMZ treatment may be responsible for maintaining the delicate energy balance during I/R injury in rat brain and could have contributed to the neuroprotective activity of TMZ </plain></SENT>
+</text></document>

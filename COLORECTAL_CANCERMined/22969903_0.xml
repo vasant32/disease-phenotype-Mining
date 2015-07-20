@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>CD133 and CD44 have been considered as markers for <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> stem cells (<z:chebi fb="11" ids="17437,53115">CSCs</z:chebi>) </plain></SENT>
+<SENT sid="1" pm="."><plain>The association of CD133 and CD44 expression with radiation has not been fully examined in <z:e sem="disease" ids="C0007113" disease_type="Neoplastic Process" abbrv="">rectal cancer</z:e> </plain></SENT>
+<SENT sid="2" pm="."><plain>Both CD133 (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">PROM</z:e>) and CD44 <z:chebi fb="2" ids="33699">mRNA</z:chebi> levels were measured in post-chemoradiotherapy (CRT) specimens of 52 rectal <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> patients using real-time RT-PCR and compared to clinicopathological variables and clinical outcome </plain></SENT>
+<SENT sid="3" pm="."><plain>Their protein levels were examined in the radiation-treated HT29 human <z:hpo ids='HP_0003003'>colon cancer</z:hpo> cell line </plain></SENT>
+<SENT sid="4" pm="."><plain>Post-CRT CD133 in <z:e sem="disease" ids="C0242594" disease_type="Neoplastic Process" abbrv="">residual cancer</z:e> cells was significantly higher than matched pre-CRT CD133 in biopsy specimens (n=30) </plain></SENT>
+<SENT sid="5" pm="."><plain>By contrast, CD44 was significantly lower in post-CRT specimens (P&lt;0.01) </plain></SENT>
+<SENT sid="6" pm="."><plain>CD133 was associated with distant recurrence after CRT followed by surgery (P&lt;0.05) </plain></SENT>
+<SENT sid="7" pm="."><plain>Patients with elevated CD133 in <z:e sem="disease" ids="C0242594" disease_type="Neoplastic Process" abbrv="">residual cancer</z:e> cells showed poor disease-free survival (P&lt;0.05) </plain></SENT>
+<SENT sid="8" pm="."><plain>No significant association between post-CRT CD44 and clinical outcome was found </plain></SENT>
+<SENT sid="9" pm="."><plain>The in vitro study showed that CD133 protein was increased in a radiation dose-dependent manner, despite of the decreased number of clonogenic radiation-surviving cells </plain></SENT>
+<SENT sid="10" pm="."><plain>CD44 protein was decreased after irradiation </plain></SENT>
+<SENT sid="11" pm="."><plain>CD133, but not CD44, was increased in radiation-resistant surviving <z:hpo ids='HP_0003003'>colon cancer</z:hpo> cells </plain></SENT>
+<SENT sid="12" pm="."><plain>Post-CRT CD133 in <z:e sem="disease" ids="C0242594" disease_type="Neoplastic Process" abbrv="">residual cancer</z:e> cells may predict metachronous distant recurrence and poor survival of <z:e sem="disease" ids="C0007113" disease_type="Neoplastic Process" abbrv="">rectal cancer</z:e> patients after CRT </plain></SENT>
+</text></document>

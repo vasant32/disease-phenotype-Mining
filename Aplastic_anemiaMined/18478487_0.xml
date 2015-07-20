@@ -1,0 +1,18 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: In humans approx </plain></SENT>
+<SENT sid="1" pm="."><plain>10% of the total body <z:chebi fb="19" ids="27568">selenium</z:chebi> (Se) content is present in the blood being evenly distributed among plasma and red cells </plain></SENT>
+<SENT sid="2" pm="."><plain>The important role of Se in antioxidative biological pathways is proven </plain></SENT>
+<SENT sid="3" pm="."><plain>Many parents of children with <z:e sem="disease" ids="C0006826" disease_type="Neoplastic Process" abbrv="">malignancies</z:e> ask for supplementation with Se as part of complementary therapy during or after the oncological treatment </plain></SENT>
+<SENT sid="4" pm="."><plain>However, toxic Se concentrations may easily be reached in children </plain></SENT>
+<SENT sid="5" pm="."><plain>In order to analyse whether Se is also supplied by red cell transfusions (RCT), we determined Se concentration in whole blood prior and after packed RCT in pediatric patients with hemato-oncological diseases </plain></SENT>
+<SENT sid="6" pm="."><plain>PATIENTS AND METHODS: EDTA-blood was collected from 17 patients (median age: 4 years, range: 1 month - 17 years) with <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo>, <z:hpo ids='HP_0002488'>acute leukemia</z:hpo> and <z:e sem="disease" ids="C0280100" disease_type="Neoplastic Process" abbrv="">solid tumours</z:e> prior and after RCT (n=60) </plain></SENT>
+<SENT sid="7" pm="."><plain>Patients received a median of 2 transfusions (range: 1-14) </plain></SENT>
+<SENT sid="8" pm="."><plain>Samples were also collected from the transfusion blood bags and Se concentration was determined quantitatively by atomic absorption spectrometry </plain></SENT>
+<SENT sid="9" pm="."><plain>RESULTS: 95% of the specimen collected from the transfusion bags exhibited <z:chebi fb="19" ids="27568">selenium</z:chebi> concentrations within the <z:mpath ids='MPATH_458'>normal</z:mpath> adult range </plain></SENT>
+<SENT sid="10" pm="."><plain>Mean Se concentration in the patients' blood prior to RCT was 66.2 microg/l (range: 38.0-166.4 microg/l) and increased to 70.7 microg/l (range: 14.1-105.1 microg/l) thereafter (statistically not significant) </plain></SENT>
+<SENT sid="11" pm="."><plain>Applying age dependant reference values Se concentrations were below the lower limit in 45% of the samples prior to RCT and only in 26% after RCT </plain></SENT>
+<SENT sid="12" pm="."><plain>The reason for this increase was the fact that Se concentrations were often just marginally below the age-dependant lower limit prior to RCT and in the lower <z:mpath ids='MPATH_458'>normal</z:mpath> range thereafter </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSION: 43% of the patients with hemato-oncological diseases in this study exhibited no Se deficiency at any time point </plain></SENT>
+<SENT sid="14" pm="."><plain>In the remaining 57% of the patients a transient or persistent Se deficiency was detected with blood levels partially far below the lower threshold of the age adjusted <z:mpath ids='MPATH_458'>normal</z:mpath> range </plain></SENT>
+<SENT sid="15" pm="."><plain>The Se deficiency was corrected in four out of eight patients by RCT </plain></SENT>
+<SENT sid="16" pm="."><plain>As Se levels may fluctuate in individual pts a supplementation should only be initiated if based on regular monitoring of the Se concentration </plain></SENT>
+</text></document>

@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0000726'>Dementia</z:hpo> is one of the most disabling conditions </plain></SENT>
+<SENT sid="1" pm="."><plain><z:e sem="disease" ids="C0002395" disease_type="Disease or Syndrome" abbrv="SDAT">Alzheimer's disease</z:e> and vascular <z:hpo ids='HP_0000726'>dementia</z:hpo> (VaD) are the most frequent causes </plain></SENT>
+<SENT sid="2" pm="."><plain>Subcortical VaD is consequent to deep-brain small vessel disease (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">SVD</z:e>) and is the most frequent form of VaD </plain></SENT>
+<SENT sid="3" pm="."><plain>Its pathological hallmarks are ischemic white matter changes and lacunar <z:mpath ids='MPATH_124'>infarcts</z:mpath> </plain></SENT>
+<SENT sid="4" pm="."><plain>Degenerative and vascular changes often coexist, but mechanisms of interaction are incompletely understood </plain></SENT>
+<SENT sid="5" pm="."><plain>The term mild <z:hpo ids='HP_0100543'>cognitive impairment</z:hpo> defines a transitional state between <z:mpath ids='MPATH_458'>normal</z:mpath> ageing and <z:hpo ids='HP_0000726'>dementia</z:hpo> </plain></SENT>
+<SENT sid="6" pm="."><plain>Pre-<z:hpo ids='HP_0000726'>dementia</z:hpo> stages of VaD are also acknowledged (vascular mild <z:hpo ids='HP_0100543'>cognitive impairment</z:hpo>, VMCI) </plain></SENT>
+<SENT sid="7" pm="."><plain>Progression relates mostly to the subcortical VaD type, but determinants of such transition are unknown </plain></SENT>
+<SENT sid="8" pm="."><plain>Variability of phenotypic expression is not fully explained by severity grade of lesions, as depicted by conventional MRI that is not sensitive to microstructural and metabolic alterations </plain></SENT>
+<SENT sid="9" pm="."><plain>Advanced neuroimaging techniques seem able to achieve this </plain></SENT>
+<SENT sid="10" pm="."><plain>Beside hypoperfusion, blood-brain-barrier dysfunction has been also demonstrated in subcortical VaD </plain></SENT>
+<SENT sid="11" pm="."><plain>The aim of the Vascular Mild <z:hpo ids='HP_0100543'>Cognitive Impairment</z:hpo> Tuscany Study is to expand knowledge about determinants of transition from mild <z:hpo ids='HP_0100543'>cognitive impairment</z:hpo> to <z:hpo ids='HP_0000726'>dementia</z:hpo> in patients with cerebral <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">SVD</z:e> </plain></SENT>
+<SENT sid="12" pm="."><plain>This paper summarizes the main aims and methodological aspects of this multicenter, ongoing, observational study enrolling patients affected by VMCI with <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">SVD</z:e> </plain></SENT>
+</text></document>

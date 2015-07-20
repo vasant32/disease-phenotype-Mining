@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND PURPOSE: The benefit of recanalization in basilar <z:mp ids='MP_0006134'>artery occlusion</z:mp> (BAO) has been established </plain></SENT>
+<SENT sid="1" pm="."><plain>The baseline extent of brain stem damage may also influence the outcome </plain></SENT>
+<SENT sid="2" pm="."><plain>We investigated whether a baseline diffusion-weighted imaging (DWI) score may provide additional prognostic value in BAO </plain></SENT>
+<SENT sid="3" pm="."><plain>MATERIALS AND METHODS: We analyzed baseline clinical and DWI parameters in consecutive patients treated with endovascular procedures for <z:hpo ids='HP_0011009'>acute</z:hpo> BAO </plain></SENT>
+<SENT sid="4" pm="."><plain>Brain stem DWI lesions were assessed by using a semiquantitative score based on arterial territory segmentation </plain></SENT>
+<SENT sid="5" pm="."><plain>Outcome at 3 months was dichotomized according to the modified Rankin Scale (mRS) as favorable (mRS, 0-2) or unfavorable (mRS, 3-6) </plain></SENT>
+<SENT sid="6" pm="."><plain>Spearman rank correlation tests assessed the correlation between DWI and clinical variables </plain></SENT>
+<SENT sid="7" pm="."><plain>Univariate and multivariate logistic regression analyses were used to identify clinical and <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e> imaging predictors of outcome </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: Twenty-nine patients were included </plain></SENT>
+<SENT sid="9" pm="."><plain>The brain stem DWI score (median, 3; range, 0-14) was correlated with the baseline National Institutes of Health <z:hpo ids='HP_0001297'>Stroke</z:hpo> Scale (NIHSS) score and the presence and length of <z:hpo ids='HP_0001259'>coma</z:hpo> (r = 0.67, 0.49, and 0.53, respectively; P &lt; .01) </plain></SENT>
+<SENT sid="10" pm="."><plain>Recanalization was achieved in 76% </plain></SENT>
+<SENT sid="11" pm="."><plain>A higher baseline NIHSS score (P = .02) and brain stem DWI score (P = .03), a lower Glasgow <z:hpo ids='HP_0001259'>Coma</z:hpo> Scale score (P = .04), and the presence of <z:hpo ids='HP_0001259'>coma</z:hpo> (P = .05) were associated with poor outcome in univariate analysis </plain></SENT>
+<SENT sid="12" pm="."><plain>Multivariate analysis showed that the brain stem DWI score was the only independent baseline predictor for clinical outcome (P = .026) </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSIONS: Baseline brain stem DWI lesion score is an independent marker of outcome in BAO </plain></SENT>
+</text></document>

@@ -1,0 +1,7 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Rat carotid arteries were injured electrically (350 V, 2 mA DC for 5 min) before and after the intravenous administration of <z:chebi fb="5" ids="28304">heparin</z:chebi> (1,000 U/kg), VK 744 (25, 50, 100 mg/kg) <z:chebi fb="37" ids="15365">ASA</z:chebi> (100, 200 mg/kg) and <z:chebi fb="0" ids="9342">sulfinpyrazone</z:chebi> (50, 100, 150, 200 mg/kg) </plain></SENT>
+<SENT sid="1" pm="."><plain><z:e sem="disease" ids="C0302148,C0087086" disease_type="Disease or Syndrome;Acquired Abnormality" abbrv="">Thrombus</z:e> growth was quantified by recording arterial temperature change distal to the injury </plain></SENT>
+<SENT sid="2" pm="."><plain><z:chebi fb="5" ids="28304">Heparin</z:chebi> completely blocked <z:e sem="disease" ids="C0302148,C0087086" disease_type="Disease or Syndrome;Acquired Abnormality" abbrv="">thrombus</z:e> formation in most experiments </plain></SENT>
+<SENT sid="3" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> other agents exhibited antithrombotic activity with <z:chebi fb="0" ids="9342">sulfinpyrazone</z:chebi> being most potent </plain></SENT>
+<SENT sid="4" pm="."><plain>None was as effective as <z:chebi fb="5" ids="28304">heparin</z:chebi> </plain></SENT>
+<SENT sid="5" pm="."><plain>This model may be a useful tool for screening antithrombotic drugs </plain></SENT>
+</text></document>

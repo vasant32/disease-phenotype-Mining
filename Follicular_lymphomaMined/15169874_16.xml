@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The p38 <z:chebi fb="0" ids="52290">mitogen</z:chebi>-activated protein kinase (MAPK) is a key mediator of stress, extracellular-, growth factor-, and cytokine-induced signaling, and has been implicated in the development of <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>Our previous work showed evidence for p38 MAPK activation in a subset of transformed follicular <z:hpo ids='HP_0002665'>lymphomas</z:hpo> (Elenitoba-Johnson et al </plain></SENT>
+<SENT sid="2" pm="."><plain>(2003) Proc </plain></SENT>
+<SENT sid="3" pm="."><plain>Natl </plain></SENT>
+<SENT sid="4" pm="."><plain>Acad </plain></SENT>
+<SENT sid="5" pm="."><plain>Sci </plain></SENT>
+<SENT sid="6" pm="."><plain>U.S.A </plain></SENT>
+<SENT sid="7" pm="."><plain>100, 7259) </plain></SENT>
+<SENT sid="8" pm="."><plain>We demonstrated that inhibition of p38 MAPK by SB203580 resulted in dose- and time-dependent caspase-3-mediated <z:mpath ids='MPATH_3'>apoptosis</z:mpath> </plain></SENT>
+<SENT sid="9" pm="."><plain>In order to further elucidate the basis of the cellular effects of SB203580, we have employed a systems biologic approach involving cDNA microarray and quantitative proteomic analysis of transformed follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo> derived-cells (OCI Ly-1) treated with SB203580 </plain></SENT>
+<SENT sid="10" pm="."><plain>Gene expression profiling revealed differential expression (&gt;/=1.5-fold) of 374 genes/ESTs in cells treated for 3 h and 515 genes/ESTs in cells treated for 21 h </plain></SENT>
+<SENT sid="11" pm="."><plain>The majority (52% at 3 h and 91% at 21 h) were down-regulated, including genes encoding growth cytokines, transcriptional regulators and cytoskeletal proteins </plain></SENT>
+<SENT sid="12" pm="."><plain>Quantitative proteomic analysis using ICAT-LC-MS/MS identified 277 differentially expressed proteins at 3 h and 350 proteins at 21 h of treatment with SB203580, the majority of which were also down-regulated </plain></SENT>
+<SENT sid="13" pm="."><plain>Analysis of functional groups of the differentially expressed proteins implicated components of diverse overlapping pathways including the IL-6/phosphatidylinositol 3-kinase, insulin-like growth factor 2/Ras/Raf, WNT8d/Frizzled, MAPK-activated protein kinase 2, and nuclear factor kappaB </plain></SENT>
+<SENT sid="14" pm="."><plain>The differential phosphorylation status of selected kinase-active proteins was validated by Western blotting analysis </plain></SENT>
+<SENT sid="15" pm="."><plain>Our complementary genomic and proteomic approach reveal the global cellular consequences of SB203580 treatment and provide insights into its growth inhibitory effect on transformed follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cells </plain></SENT>
+</text></document>

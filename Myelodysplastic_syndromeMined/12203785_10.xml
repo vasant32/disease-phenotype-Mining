@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>ETV6/<z:chebi fb="18" ids="30182">TEL</z:chebi> is the first transcription factor identified that is specifically required for hematopoiesis within the bone marrow </plain></SENT>
+<SENT sid="1" pm="."><plain>This gene has been found to have multiple fusion partners of which 16 have been cloned </plain></SENT>
+<SENT sid="2" pm="."><plain>Fluorescence in situ hybridization (FISH) analysis in a patient with <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e>) revealed a t(1;12)(p36;p13) involving ETV6, with the breakpoint in this gene between exon 2 and exon 3 </plain></SENT>
+<SENT sid="3" pm="."><plain>We report here the cloning of a novel ETV6 partner located on 1p36.1, involved in the t(1;12) </plain></SENT>
+<SENT sid="4" pm="."><plain>3' RACE-PCR from <z:chebi fb="40" ids="33697">RNA</z:chebi> identified a novel sequence fused to exon 2 of ETV6 </plain></SENT>
+<SENT sid="5" pm="."><plain>Database searches localized this sequence in a <z:mp ids='MP_0001794'>bacterial</z:mp> artificial chromosome (BAC) mapped to 1p36 by fingerprint analysis </plain></SENT>
+<SENT sid="6" pm="."><plain>This result was confirmed by FISH using this BAC as probe </plain></SENT>
+<SENT sid="7" pm="."><plain>5' and 3' RACE experiments with primers from this novel sequence were carried out on <z:chebi fb="40" ids="33697">RNA</z:chebi> from a healthy donor and identified a novel full-length <z:chebi fb="2" ids="33699">mRNA</z:chebi>, which we named MDS2 (<z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo> 2) </plain></SENT>
+<SENT sid="8" pm="."><plain>RT-PCR experiments were performed on a panel of human cDNAs to analyze the expression pattern of this gene and they revealed four splicing variants </plain></SENT>
+<SENT sid="9" pm="."><plain>RT-PCR analysis showed that ETV6-MDS2, but not the reciprocal MDS2-ETV6 fusion transcript, was expressed in the bone marrow of the patient </plain></SENT>
+<SENT sid="10" pm="."><plain>The product of the ETV6-MDS2 fusion transcript predicts a short ETV6 protein containing the first 54 amino acids of ETV6 plus four novel amino acids, lacking both the PTN and the DNA-binding domains </plain></SENT>
+<SENT sid="11" pm="."><plain>Possible mechanisms to account for the development of <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> in this patient are discussed </plain></SENT>
+</text></document>

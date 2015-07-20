@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: The pathophysiology leading to pulmonary side effects during haemodialysis and haemodiafiltration is not yet fully understood </plain></SENT>
+<SENT sid="1" pm="."><plain><z:hpo ids='HP_0011010'>Chronic</z:hpo> microembolization, which can be demonstrated by pulsed Doppler ultrasound, may be one cause </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: The study cohort consisted of 24 long-term dialysis patients undergoing haemodialysis (n=21) and online-haemodiafiltration (n=3), respectively </plain></SENT>
+<SENT sid="3" pm="."><plain>The subclavian vein downstream to the venous access was investigated during different phases of the procedure using a 2-MHz pulsed ultrasound device </plain></SENT>
+<SENT sid="4" pm="."><plain>RESULTS: In <z:hpo ids='HP_0000001'>all</z:hpo> periods investigated (connection, dialysis, disconnection), numerous microembolic signals (<z:chebi fb="28" ids="39005,39010">MES</z:chebi>) were found in the subclavian vein </plain></SENT>
+<SENT sid="5" pm="."><plain>The numbers of <z:chebi fb="28" ids="39005,39010">MES</z:chebi> detected during haemodiafiltration (314-709 MES per 10 min) were higher than during haemodialysis (0-81 MES per 10 min) </plain></SENT>
+<SENT sid="6" pm="."><plain>CONCLUSIONS: The composition (gaseous or solid) and origin (pump, tubing system or shunt) of the microemboli detected remains unclear </plain></SENT>
+<SENT sid="7" pm="."><plain><z:hpo ids='HP_0011010'>Chronic</z:hpo> microembolization may be one cause of pulmonary <z:e sem="disease" ids="C0274417" disease_type="Disease or Syndrome" abbrv="">complications of haemodialysis</z:e> and haemodiafiltration </plain></SENT>
+<SENT sid="8" pm="."><plain>The detection method described in this article will help us to better understand this process and to determine what role microemboli might play in pulmonary and central <z:mp ids='MP_0008912'>nervous</z:mp> system disorders </plain></SENT>
+<SENT sid="9" pm="."><plain>It may also help to optimize the devices and techniques used </plain></SENT>
+</text></document>

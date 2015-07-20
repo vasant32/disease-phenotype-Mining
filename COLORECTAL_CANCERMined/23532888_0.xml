@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PURPOSE: This randomized, double-blind, placebo-controlled, phase IIb study evaluated adding <z:chebi fb="0" ids="50924">sorafenib</z:chebi> to first-line modified FOLFOX6 (mFOLFOX6) for <z:e sem="disease" ids="C0948380" disease_type="Neoplastic Process" abbrv="">metastatic colorectal cancer</z:e> (mCRC) </plain></SENT>
+<SENT sid="1" pm="."><plain>EXPERIMENTAL DESIGN: Patients were randomized to <z:chebi fb="0" ids="50924">sorafenib</z:chebi> (400 mg BID) or placebo, combined with mFOLFOX6 (<z:chebi fb="0" ids="31941">oxaliplatin</z:chebi> 85 mg/m2; levo-leucovorin 200 mg/m2; fluorouracil 400 mg/m2 bolus and 2400 mg/m2 continuous infusion) every 14 days </plain></SENT>
+<SENT sid="2" pm="."><plain>Primary endpoint was progression-free survival (PFS) </plain></SENT>
+<SENT sid="3" pm="."><plain>Target sample was 120 events in 180 patients for &gt;85% power (2-sided α=0.20) to detect a hazard ratio (HR)=0.65 </plain></SENT>
+<SENT sid="4" pm="."><plain>RESULTS: Of 198 patients randomized, median PFS for <z:chebi fb="0" ids="50924">sorafenib</z:chebi> plus mFOLFOX6 was 9.1 versus 8.7 months for placebo plus mFOLFOX6 (HR=0.88, 95% CI 0.64-1.23; P=.46) </plain></SENT>
+<SENT sid="5" pm="."><plain>There was no difference between treatment arms for overall survival (OS) </plain></SENT>
+<SENT sid="6" pm="."><plain>Subgroup analyses of PFS and OS showed no difference between treatment arms by KRAS or BRAF status (mutant and <z:mp ids='MP_0002169'>wild-type</z:mp>) </plain></SENT>
+<SENT sid="7" pm="."><plain>The most common Grade 3/4 adverse events in the <z:chebi fb="0" ids="50924">sorafenib</z:chebi> and placebo arms were <z:hpo ids='HP_0001875'>neutropenia</z:hpo> (48% v 22%), <z:hpo ids='HP_0009830'>peripheral neuropathy</z:hpo> (16% v 21%), and Grade 3 hand-foot skin reaction (20% v 0%) </plain></SENT>
+<SENT sid="8" pm="."><plain>Treatment discontinuation due to adverse events was 9% and 6%, respectively </plain></SENT>
+<SENT sid="9" pm="."><plain>Generally, dose intensity (duration and cumulative doses) was lower in the <z:chebi fb="0" ids="50924">sorafenib</z:chebi> arm than in the placebo arm </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSIONS: This study did not detect a PFS benefit with the addition of <z:chebi fb="0" ids="50924">sorafenib</z:chebi> to first-line mFOLFOX6 for mCRC </plain></SENT>
+<SENT sid="11" pm="."><plain>KRAS and BRAF status did not appear to impact treatment outcomes but the subgroups were small </plain></SENT>
+<SENT sid="12" pm="."><plain>These results do not support further development of <z:chebi fb="0" ids="50924">sorafenib</z:chebi> in combination with mFOLFOX6 in molecularly-unselected patients with mCRC </plain></SENT>
+</text></document>

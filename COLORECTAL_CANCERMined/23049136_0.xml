@@ -1,0 +1,7 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Treatment switching is a frequent occurrence in clinical trials, where, during the course of the trial, patients who fail on the control treatment may change to the experimental treatment </plain></SENT>
+<SENT sid="1" pm="."><plain>Analysing the data without accounting for switching yields highly biased and inefficient estimates of the treatment effect </plain></SENT>
+<SENT sid="2" pm="."><plain>In this paper, we propose a novel class of semiparametric semicompeting risks transition survival models to accommodate treatment switches </plain></SENT>
+<SENT sid="3" pm="."><plain>Theoretical properties of the proposed model are examined and an efficient expectation-maximization algorithm is derived for obtaining the maximum likelihood estimates </plain></SENT>
+<SENT sid="4" pm="."><plain>Simulation studies are conducted to demonstrate the superiority of the model compared with the intent-to-treat analysis and other methods proposed in the literature </plain></SENT>
+<SENT sid="5" pm="."><plain>The proposed method is applied to data from a <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> clinical trial </plain></SENT>
+</text></document>

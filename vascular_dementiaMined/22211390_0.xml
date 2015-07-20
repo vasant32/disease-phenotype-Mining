@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVES: To determine whether adhering to a healthy lifestyle in midlife may reduce the risk of <z:hpo ids='HP_0000726'>dementia</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>DESIGN: Case-control study nested in a prospective cohort </plain></SENT>
+<SENT sid="2" pm="."><plain>SETTING: The Honolulu-Asia Aging Study, Oahu, Hawaii </plain></SENT>
+<SENT sid="3" pm="."><plain>PARTICIPANTS: Three thousand four hundred sixty-eight Japanese-American men (mean age 52 in 1965-1968) examined for <z:hpo ids='HP_0000726'>dementia</z:hpo> 25 years later </plain></SENT>
+<SENT sid="4" pm="."><plain>MEASUREMENTS: Men at low risk were defined as those with the following midlife characteristics: nonsmoking, body mass index (BMI) less than 25.0 kg/m(2) , physically active, and having a healthy diet (based on alcohol, dairy, meat, fish, fruits, vegetables, cereals, and ratio of monounsaturated to saturated fat) </plain></SENT>
+<SENT sid="5" pm="."><plain>Logistic regression was used to calculate odds ratios (ORs) and 95% confidence intervals (CIs) for developing overall <z:hpo ids='HP_0000726'>dementia</z:hpo>, <z:e sem="disease" ids="C0002395" disease_type="Disease or Syndrome" abbrv="SDAT">Alzheimer's disease</z:e> (AD), and vascular <z:hpo ids='HP_0000726'>dementia</z:hpo> (VaD), adjusting for potential confounders </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: <z:hpo ids='HP_0000726'>Dementia</z:hpo> was diagnosed in 6.4% of men (52.5% with AD, 35.0% with VaD) </plain></SENT>
+<SENT sid="7" pm="."><plain>Examining the risk factors individually, BMI was most strongly associated with greater risk of overall <z:hpo ids='HP_0000726'>dementia</z:hpo> (OR = 1.87, 95% CI = 1.26-2.77; BMI &gt; 25.0 vs &lt;22.6 kg/m(2) ) </plain></SENT>
+<SENT sid="8" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> of the individual risk factors except diet score were significantly associated with VaD, whereas none were significantly associated with AD alone </plain></SENT>
+<SENT sid="9" pm="."><plain>Men with <z:hpo ids='HP_0000001'>all</z:hpo> four low-risk characteristics (7.2% of the cohort) had the lowest OR for overall <z:hpo ids='HP_0000726'>dementia</z:hpo> (OR = 0.36, 95% CI = 0.15-0.84) </plain></SENT>
+<SENT sid="10" pm="."><plain>There were no significant associations between the combined low-risk characteristics and the risk of AD alone </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSION: Among Japanese-American men, having a healthy lifestyle in midlife is associated with a lower risk of <z:hpo ids='HP_0000726'>dementia</z:hpo> in late life </plain></SENT>
+</text></document>

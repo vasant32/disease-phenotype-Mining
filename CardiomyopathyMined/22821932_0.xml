@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Rationale: A delicate balance between protein synthesis and degradation maintains cardiac size and function </plain></SENT>
+<SENT sid="1" pm="."><plain>TRIM63 encoding Muscle RING Finger 1 (MuRF1) maintains muscle protein homeostasis by tagging the sarcomere proteins with ubiquitin for subsequent degradation by the ubiquitin-proteasome system (UPS) </plain></SENT>
+<SENT sid="2" pm="."><plain>Objective: To determine the pathogenic role of TRIM63 in human <z:hpo ids='HP_0001639'>hypertrophic cardiomyopathy</z:hpo> (HCM) </plain></SENT>
+<SENT sid="3" pm="."><plain>Methods and Results: Sequencing of TRIM63 gene in 302 HCM probands (250 white individuals) and 339 control subjects (262 white individuals) led to identification of 2 missense (p.A48V and p.I130M) and a deletion (p.Q247*) variants exclusively in the HCM probands </plain></SENT>
+<SENT sid="4" pm="."><plain>These 3 variants were absent in 751 additional control subjects screened by TaqMan assays </plain></SENT>
+<SENT sid="5" pm="."><plain>Likewise, rare variants were enriched in the white HCM population (11/250, 4.4% versus 3/262, 1.1%, respectively, P=0.024) </plain></SENT>
+<SENT sid="6" pm="."><plain>Expression of the mutant TRIM63 was associated with mislocalization of TRIM63 to sarcomere Z disks, impaired auto-ubiquitination, reduced ubiquitination and UPS-mediated degradation of myosin heavy chain 6, cardiac myosin binding protein C, calcineurin (PPP3CB), and p-MTOR in adult cardiac myocytes </plain></SENT>
+<SENT sid="7" pm="."><plain>Induced expression of the mutant TRIM63 in the mouse heart was associated with <z:mp ids='MP_0001625'>cardiac hypertrophy</z:mp>, activation of the MTOR-S6K and calcineurin pathways, and expression of the hypertrophic markers, which were normalized on turning off expression of the mutant protein </plain></SENT>
+<SENT sid="8" pm="."><plain>Conclusions: TRIM63 mutations, identified in patients with HCM, impart loss-of-function effects on E3 ligase activity and are probably causal mutations in HCM </plain></SENT>
+<SENT sid="9" pm="."><plain>The findings implicate impaired protein degradation in the pathogenesis of HCM </plain></SENT>
+</text></document>

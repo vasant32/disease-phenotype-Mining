@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Diagnosis of <z:hpo ids='HP_0003613'>antiphospholipid antibody</z:hpo> syndrome includes laboratory testing for <z:e sem="disease" ids="C0024138,C0024141,C0024131,C0409974" disease_type="Disease or Syndrome" abbrv="">lupus</z:e> <z:chebi fb="2" ids="50249">anticoagulants</z:chebi> (LAs) </plain></SENT>
+<SENT sid="1" pm="."><plain>Guidelines for testing have been published, but approaches vary, often incorporating multiple tests </plain></SENT>
+<SENT sid="2" pm="."><plain>We evaluated the performance of the activated partial thromboplastin time using 2 reagents, a dilute Russell viper venom time, and a hexagonal <z:chebi fb="0" ids="16247">phospholipid</z:chebi> assay for detecting LAs in 105 adults </plain></SENT>
+<SENT sid="3" pm="."><plain>Of the patients, 26 were taking <z:chebi fb="2" ids="50249">anticoagulants</z:chebi> at the time of testing </plain></SENT>
+<SENT sid="4" pm="."><plain>Based on findings, an algorithm was derived for optimal detection of LAs using 2 easily performed, automated, integrated test systems </plain></SENT>
+<SENT sid="5" pm="."><plain>Of 105 patient samples, 30 (28.6%) were positive for LAs, using the algorithm interpretive criteria </plain></SENT>
+<SENT sid="6" pm="."><plain>Of these 30 positive results, 10 were detected in the 26 patients taking <z:chebi fb="2" ids="50249">anticoagulants</z:chebi> </plain></SENT>
+<SENT sid="7" pm="."><plain>Analysis by chi2 showed no difference in performance of the integrated tests between samples from patients taking and not taking <z:chebi fb="2" ids="50249">anticoagulants</z:chebi> </plain></SENT>
+<SENT sid="8" pm="."><plain>The algorithm is offered as a means for standardization of laboratory testing for LAs </plain></SENT>
+</text></document>

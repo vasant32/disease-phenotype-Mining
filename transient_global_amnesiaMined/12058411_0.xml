@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:hpo ids='HP_0010534'>Transient global amnesia</z:hpo>(<z:mp ids='MP_0004110'>TGA</z:mp>) had been recognized as a disease without abnormal findings on neuroimaging before magnetic resonance(MRI) imaging was practicable </plain></SENT>
+<SENT sid="1" pm="."><plain>Recently, abnormal findings on MRI reported in cases of <z:mp ids='MP_0004110'>TGA</z:mp> </plain></SENT>
+<SENT sid="2" pm="."><plain>We here reported a case of <z:mp ids='MP_0004110'>TGA</z:mp> showing a transient abnormal intensity in left hippocampus on MRI diffusion-weighted image </plain></SENT>
+<SENT sid="3" pm="."><plain>A 52-year-old man suddenly became to unable to keep his recent memory without histories of trauma or <z:e sem="disease" ids="C0014544" disease_type="Disease or Syndrome" abbrv="">epilepsy</z:e> </plain></SENT>
+<SENT sid="4" pm="."><plain>He showed no abnormal neurologic findings excepting for the recent memory </plain></SENT>
+<SENT sid="5" pm="."><plain>MRI performed within an hour after <z:hpo ids='HP_0003674'>onset</z:hpo> demonstrated no abnormality on T1- and T2-weighted images </plain></SENT>
+<SENT sid="6" pm="."><plain>Diffusion-weighted image (b = 1,000) showed hyperintensity in the left medial temporal lobe, and the apparent diffusion coefficient(<z:chebi fb="49" ids="35181">ADC</z:chebi>) in this region was lower(72.8 cm2/s) than that in the contralateral region(94.4 cm2/s) </plain></SENT>
+<SENT sid="7" pm="."><plain><z:mp ids='MP_0004110'>TGA</z:mp> was completely resolved 17 hours after <z:hpo ids='HP_0003674'>onset</z:hpo> </plain></SENT>
+</text></document>

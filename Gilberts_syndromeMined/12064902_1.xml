@@ -1,0 +1,4 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A patient with <z:hpo ids='HP_0004870'>chronic hemolytic anemia</z:hpo> and <z:e sem="disease" ids="C0017758" disease_type="Disease or Syndrome" abbrv="">G6PD deficiency</z:e> was noted to be severely jaundiced and to have a high serum ferritin level </plain></SENT>
+<SENT sid="1" pm="."><plain>Analysis of his DNA revealed only heterozygosity for the c.187 C--&gt;G (H63D) mutation of HFE, but showed that he was homozygous for the <z:chebi fb="15" ids="17659">UDP</z:chebi> glucuronosyltransferase promoter mutation of <z:e sem="disease" ids="C0017551" disease_type="Disease or Syndrome" abbrv="">Gilbert's disease</z:e> and that he had a previously undescribed mutation of G6PD, c.832 T--&gt;C (Ser278Pro) </plain></SENT>
+<SENT sid="2" pm="."><plain>The new variant was named G6PD La Jolla </plain></SENT>
+</text></document>

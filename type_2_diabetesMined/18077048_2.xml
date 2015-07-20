@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: Molecular background of diabetic <z:hpo ids='HP_0000488'>retinopathy</z:hpo> (DR) remains unknown </plain></SENT>
+<SENT sid="1" pm="."><plain>An interesting group of candidate genes encode proteins involved in <z:hpo ids='HP_0000855'>insulin resistance</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>AIM: To search for association between the PPARgamma, calpain 10, PTPN1 genes and DR in type 2 <z:hpo ids='HP_0000819'>diabetes mellitus</z:hpo> (T2DM) </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: We examined 238 T2DM subjects without DR (NDR) and 121 with DR (mean <z:mp ids='MP_0002055'>diabetes</z:mp> duration: 9.1+/-6.8 and 15.1+/-7.7, respectively) </plain></SENT>
+<SENT sid="4" pm="."><plain>The subjects were genotyped for four markers: Pro12Ala of PPARgamma, SNP43 of calpain 10, rs3787345 and rs754118 of PTPN1 </plain></SENT>
+<SENT sid="5" pm="."><plain>The distributions of the genotypes were compared using the chi(2)-test and Fisher exact test </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: The alleles and genotypes were not associated with DR in non-stratified analysis </plain></SENT>
+<SENT sid="7" pm="."><plain>To investigate the impact of T2DM duration, we performed analysis that excluded short duration NDR subjects and long-duration DR subjects </plain></SENT>
+<SENT sid="8" pm="."><plain>It allowed obtaining groups with similar T2DM duration but different DR status (DR: 88 individuals, 11.4+/-5.3 years; NDR: 136 individuals, 13.2 years+/-6.2, respectively) </plain></SENT>
+<SENT sid="9" pm="."><plain>This analysis suggested that the alanine variant of Pro12Ala might be associated with decreased risk of DR (p=0.026 for alleles, p=0.038 and p=0.014 for genotypes in additive and dominant models, respectively) </plain></SENT>
+<SENT sid="10" pm="."><plain>In multivariable logistic regression that included non-genetic parameters, Pro12Ala was not an independent risk factor (p=0.28) </plain></SENT>
+<SENT sid="11" pm="."><plain>Further analysis showed, however, that Pro12Ala remained significant when <z:chebi fb="20" ids="16199">urea</z:chebi> level was excluded from the model </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSION: The alanine variant of the Pro12Ala polymorphism of PPARgamma might be associated with decreased risk of DR in T2DM </plain></SENT>
+<SENT sid="13" pm="."><plain>This effect may be indirect, at least in part, due to <z:e sem="disease" ids="C0011881" disease_type="Disease or Syndrome" abbrv="">diabetic kidney disease</z:e> </plain></SENT>
+</text></document>

@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Patients treated with haemodialysis are at high risk of <z:hpo ids='HP_0001645'>sudden cardiac death</z:hpo> (SCD) often caused by <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain><z:hpo ids='HP_0005110'>Atrial fibrillation</z:hpo> (AF) is frequent among haemodialysis patients and is associated with increased mortality </plain></SENT>
+<SENT sid="2" pm="."><plain>Prolonged QTc is a risk marker of <z:hpo ids='HP_0004308'>ventricular arrhythmia</z:hpo> and is thereby associated with SCD </plain></SENT>
+<SENT sid="3" pm="."><plain>Studies have suggested that n-3 PUFA may have an antiarrhythmic effect, but the exact mechanism is not clear </plain></SENT>
+<SENT sid="4" pm="."><plain>The aim of this study was to examine whether AF was associated with n-3 PUFA in plasma <z:chebi fb="1" ids="16247">phospholipids</z:chebi> and whether supplementation with n-3 PUFA would shorten the QTc interval in haemodialysis patients compared to placebo </plain></SENT>
+<SENT sid="5" pm="."><plain>In a double-blinded randomised, placebo-controlled intervention trial 206 haemodialysis patients with <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CVD</z:e> were treated with 1·7 g n-3 PUFA or placebo (olive oil) daily for 3 months </plain></SENT>
+<SENT sid="6" pm="."><plain>Blood samples and electrocardiogram evaluations were carried out at baseline and after 3 months </plain></SENT>
+<SENT sid="7" pm="."><plain>The QT interval, PQ interval and heart rate were measured in <z:hpo ids='HP_0000001'>all</z:hpo> patients with sinus rhythm (SR) </plain></SENT>
+<SENT sid="8" pm="."><plain>At baseline 13 % of patients had AF </plain></SENT>
+<SENT sid="9" pm="."><plain>The content of the n-3 PUFA, DHA, was significantly lower (P &lt; 0·05) in serum of patients with AF compared with patients with SR </plain></SENT>
+<SENT sid="10" pm="."><plain>Thus, the DHA content was independently negatively associated with AF </plain></SENT>
+<SENT sid="11" pm="."><plain>Supplementation with n-3 PUFA did not shorten the QT interval significantly compared to the placebo group (P = 0·42), although subgroup analysis within the n-3 PUFA group revealed a shortening effects on QTc (P = 0·01) </plain></SENT>
+<SENT sid="12" pm="."><plain>In conclusion, an inverse association was found between the presence of AF and the plasma DHA in haemodialysis patients </plain></SENT>
+<SENT sid="13" pm="."><plain>Intervention with n-3 PUFA did not shorten the QTc interval compared to placebo </plain></SENT>
+</text></document>

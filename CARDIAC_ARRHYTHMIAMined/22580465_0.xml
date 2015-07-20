@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Cardiac cryoablation applied for treating <z:hpo ids='HP_0011675'>cardiac arrhythmias</z:hpo> has shown promising results after intervention, particularly for the creation of elongated lesions </plain></SENT>
+<SENT sid="1" pm="."><plain>A model for simulating and assessing cryoablation interventions was developed, evaluated and validated with animal experiments </plain></SENT>
+<SENT sid="2" pm="."><plain>We employed two simulations of different freezing outlet settings for a loop shaped cryocatheter, applying Pennes heat equation for cardiac tissue </plain></SENT>
+<SENT sid="3" pm="."><plain>Our experiments demonstrated that an equidistantly spaced freezing outlet distribution of 5mm led to an improved formation of lesions, i.e., elongated lesions were observed throughout the transmural cardiac volume and on the epicardial structure </plain></SENT>
+<SENT sid="4" pm="."><plain>A complete transmural frozen lesion was not achieved with a freezing outlet distance of 10mm </plain></SENT>
+<SENT sid="5" pm="."><plain>These simulation results could be experimentally verified by morphological and histological examinations </plain></SENT>
+<SENT sid="6" pm="."><plain>Using our simulation model we were able to optimize the intervention procedure by predicting and assessing the freezing process </plain></SENT>
+<SENT sid="7" pm="."><plain>This should further increase the success rate of cardiac cryoablation in clinical interventions </plain></SENT>
+</text></document>

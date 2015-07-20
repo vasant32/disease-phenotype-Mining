@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:e sem="disease" ids="C0085278" disease_type="Disease or Syndrome" abbrv="">Antiphospholipid syndrome</z:e> is associated with an increased risk of <z:mp ids='MP_0005048'>thrombosis</z:mp> and pregnancy loss </plain></SENT>
+<SENT sid="1" pm="."><plain>Annexin A5 (Anxa5) is a candidate autoantigen </plain></SENT>
+<SENT sid="2" pm="."><plain>It is not known, however, whether endogenous Anxa5 prevents foetal loss during <z:mpath ids='MPATH_458'>normal</z:mpath> pregnancy </plain></SENT>
+<SENT sid="3" pm="."><plain>We found significant reductions in <z:mp ids='MP_0002288'>litter size</z:mp> and foetal weight in Anxa5-null mice (Anxa5-KO) </plain></SENT>
+<SENT sid="4" pm="."><plain>These changes occurred even when only the mother was Anxa5-KO </plain></SENT>
+<SENT sid="5" pm="."><plain>A small amount of placental <z:mpath ids='MPATH_179'>fibrin deposition</z:mpath> was observed in the decidual tissues, but did not noticeably differ between <z:mp ids='MP_0002169'>wild-type</z:mp> and Anxa5-KO mice </plain></SENT>
+<SENT sid="6" pm="."><plain>However, immunoreactivity for integrin beta 3/CD61, a platelet marker, was demonstrated within <z:e sem="disease" ids="C0087086" disease_type="Disease or Syndrome" abbrv="">thrombi</z:e> in the arterial canals only in Anxa5-KO mothers </plain></SENT>
+<SENT sid="7" pm="."><plain>Subcutaneous administration of the <z:chebi fb="3" ids="50249">anticoagulant</z:chebi> <z:chebi fb="5" ids="28304">heparin</z:chebi> to pregnant Anxa5-KO mice significantly reduced pregnancy loss, suggesting that maternal Anxa5 is crucial for maintaining intact placental circulation </plain></SENT>
+<SENT sid="8" pm="."><plain>Hence, the presence of maternal Anxa5 minimises the risk of <z:mp ids='MP_0005048'>thrombosis</z:mp> in the placental circulation and reduces the risk of foetal loss </plain></SENT>
+</text></document>

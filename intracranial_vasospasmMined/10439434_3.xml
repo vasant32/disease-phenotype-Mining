@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>RS-5186, which inhibits <z:chebi fb="0" ids="15627">thromboxane A2</z:chebi> (<z:chebi fb="0" ids="15627">TXA2</z:chebi>) synthetase activity, ameliorated delayed <z:e sem="disease" ids="C0265110" disease_type="Disease or Syndrome" abbrv="">cerebral vasospasm</z:e> in a canine two-<z:mp ids='MP_0001914'>hemorrhage</z:mp> model </plain></SENT>
+<SENT sid="1" pm="."><plain><z:hpo ids='HP_0002138'>Subarachnoid hemorrhage</z:hpo> was induced in 15 dogs, which were divided into two groups </plain></SENT>
+<SENT sid="2" pm="."><plain>In the RS-5186-treated group (9 dogs), 50 mg kg-1 of RS-5186 was administered twice a day for seven days </plain></SENT>
+<SENT sid="3" pm="."><plain>The remaining six dogs without administration of RS-5186 were used as a control group </plain></SENT>
+<SENT sid="4" pm="."><plain>In the RS-5186-treated group, the angiographic diameter of the basilar artery on Day 7 after <z:hpo ids='HP_0002138'>subarachnoid hemorrhage</z:hpo> was constricted to 60.9% +/- 11.6% (n = 9, mean +/- SD) of that on Day 0, before <z:hpo ids='HP_0002138'>subarachnoid hemorrhage</z:hpo> </plain></SENT>
+<SENT sid="5" pm="."><plain>The corresponding value was 42.8% +/- 6.1% (n = 6) in the control group </plain></SENT>
+<SENT sid="6" pm="."><plain>There was a statistically significant difference between these percentages </plain></SENT>
+<SENT sid="7" pm="."><plain>In the RS-5186-treated group, plasma <z:chebi fb="0" ids="28728">thromboxane B2</z:chebi> level on Day 7 was 144.3 +/- 28.1 pg ml-1 (n = 4), which was lower than the 815.5 +/- 162.0 pg ml-1 (n = 4) in the control group (p &lt; 0.0005) </plain></SENT>
+<SENT sid="8" pm="."><plain>The plasma 6-keto-<z:chebi fb="0" ids="28852">prostaglandin F1 alpha</z:chebi> level on Day 7 was 180.5 +/- 66.5 pg ml-1 (n = 4) in the RS-5186-treated group, and higher than 107.3 +/- 12.4 pg ml-1 (n = 4) in the control group (p = 0.0734) </plain></SENT>
+<SENT sid="9" pm="."><plain>Thus, administration of RS-5186 reduced <z:chebi fb="0" ids="15627">TXA2</z:chebi> plasma level and had a beneficial effect on angiographically-detected delayed vasospasm </plain></SENT>
+</text></document>

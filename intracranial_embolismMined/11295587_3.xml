@@ -1,0 +1,4 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We describe a 46-year-old man who developed infective <z:hpo ids='HP_0100584'>endocarditis</z:hpo>, <z:hpo ids='HP_0001287'>meningitis</z:hpo>, sternal <z:mpath ids='MPATH_612'>abscess</z:mpath>, and infective <z:e sem="disease" ids="C0007780" disease_type="Disease or Syndrome" abbrv="">cerebral emboli</z:e> after cardiac transplantation </plain></SENT>
+<SENT sid="1" pm="."><plain>Staphylococcus aureus was the infective organism </plain></SENT>
+<SENT sid="2" pm="."><plain>We successfully managed the patient with <z:chebi fb="1" ids="5098">flucloxacillin</z:chebi> and <z:chebi fb="0" ids="29013">fusidic acid</z:chebi> to treat <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infection</z:e>, and with prostacyclin for systemic embolization </plain></SENT>
+</text></document>

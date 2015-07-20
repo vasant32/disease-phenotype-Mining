@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We increased the specificity of flow cytometric detection of platelet-associated immunoglobulin (PAIg) by a combination of platelet gating and cutoff for positivity determined by the use of receiver operating characteristic (ROC) curve analysis, and we evaluated the significance of elevated PAIg in non-immune thrombocytopenic <z:hpo ids='HP_0000979'>purpura</z:hpo> (<z:chebi fb="0" ids="16039">ITP</z:chebi>) patients </plain></SENT>
+<SENT sid="1" pm="."><plain>Blood samples from 118 patients with a platelet count &lt;100 x 10(9)/L were used in this study </plain></SENT>
+<SENT sid="2" pm="."><plain>Flow cytometric detection of PAIg was performed </plain></SENT>
+<SENT sid="3" pm="."><plain>To obtain the cutoff of the surface-bound immunoglobulin for the discrimination of <z:chebi fb="0" ids="16039">ITP</z:chebi> and non-<z:chebi fb="0" ids="16039">ITP</z:chebi>, ROC curve analysis was used </plain></SENT>
+<SENT sid="4" pm="."><plain>The sensitivity of a positive PAIgG and PAIgM test for <z:chebi fb="0" ids="16039">ITP</z:chebi> in thrombocytopenic patients was 74.6%; the specificity was 79.7%; the positive predictive value 78.6%; and the negative predictive value 75.8% </plain></SENT>
+<SENT sid="5" pm="."><plain>Among 3 patients with <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo>, 2 showed increased PAIg </plain></SENT>
+<SENT sid="6" pm="."><plain>Six of 20 patients with benign disease showed positivity for PAIg </plain></SENT>
+<SENT sid="7" pm="."><plain>Among these patients, 4 with elevated PAIg were diagnosed with <z:e sem="disease" ids="C0023895" disease_type="Disease or Syndrome" abbrv="">liver disease</z:e> </plain></SENT>
+<SENT sid="8" pm="."><plain>This study demonstrates that flow cytometric detection of PAIg combined with ROC curve analysis is a convenient, sensitive, and specific test, compared to previous methods, and it is useful for the differential diagnosis of thrombocytopenic patients </plain></SENT>
+</text></document>

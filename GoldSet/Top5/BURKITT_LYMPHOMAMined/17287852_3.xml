@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The expression of c-myc is deregulated in Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> by the translocation t(8;14) </plain></SENT>
+<SENT sid="1" pm="."><plain>Most of the increased c-myc expression is from the P1 promoter, which is normally a minor promoter </plain></SENT>
+<SENT sid="2" pm="."><plain>How the P1 promoter is activated by the immunoglobulin heavy chain gene enhancers is not understood </plain></SENT>
+<SENT sid="3" pm="."><plain>We identified a YY1 site in the immunoglobulin heavy-chain gene <z:chebi fb="1" ids="30606,30609">HS3</z:chebi> enhancer, which increased c-myc P1 promoter activity, and a MARE site, which decreased c-myc P1 activity </plain></SENT>
+<SENT sid="4" pm="."><plain>Small Maf proteins bound to the MARE site both in vitro and in vivo, recruited <z:chebi fb="0" ids="15358">histone</z:chebi> deacetylase 2, and resulted in deacetylation of <z:chebi fb="0" ids="15358">histones</z:chebi> H3 and H4 at the c-myc promoter region </plain></SENT>
+<SENT sid="5" pm="."><plain>In contrast, YY1 recruited CBP and increased <z:chebi fb="0" ids="15358">histone</z:chebi> acetylation at the c-myc promoter </plain></SENT>
+<SENT sid="6" pm="."><plain>Rb interacts with YY1 to prevent DNA binding in <z:mpath ids='MPATH_458'>normal</z:mpath> B cells, but no significant interaction with YY1 was detected in Burkitt's cells, and binding of YY1 to the <z:chebi fb="1" ids="30606,30609">HS3</z:chebi> enhancer was observed by chromatin immunoprecipitaton </plain></SENT>
+<SENT sid="7" pm="."><plain>Increased expression of MafK and/or decreased expression of YY1 by silencing <z:chebi fb="40" ids="33697">RNA</z:chebi> downregulated endogenous c-myc <z:chebi fb="2" ids="33699">mRNA</z:chebi> levels and increased the sensitivity of the cells to <z:chebi fb="0" ids="28748">doxorubicin</z:chebi> </plain></SENT>
+<SENT sid="8" pm="."><plain>Mutation of the major active sites (nuclear factor-kappa B and YY1) in the enhancers prevented c-myc activation </plain></SENT>
+</text></document>

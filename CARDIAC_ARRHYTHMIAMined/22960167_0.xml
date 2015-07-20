@@ -1,0 +1,7 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Due to a lack of integration between different sensors, false alarms (FA) in the intensive care unit (ICU) are frequent and can lead to reduced standard of care </plain></SENT>
+<SENT sid="1" pm="."><plain>We present a novel framework for FA reduction using a machine learning approach to combine up to 114 signal quality and physiological features extracted from the electrocardiogram, photoplethysmograph, and optionally the arterial blood pressure waveform </plain></SENT>
+<SENT sid="2" pm="."><plain>A machine learning algorithm was trained and evaluated on a database of 4107 expert-labeled life-threatening <z:hpo ids='HP_0011675'>arrhythmias</z:hpo>, from 182 separate ICU visits </plain></SENT>
+<SENT sid="3" pm="."><plain>On the independent test data, FA suppression results with no true alarm (TA) suppression were 86.4% for <z:mp ids='MP_0004086'>asystole</z:mp>, 100% for extreme <z:hpo ids='HP_0001662'>bradycardia</z:hpo> and 27.8% for extreme <z:hpo ids='HP_0001649'>tachycardia</z:hpo> </plain></SENT>
+<SENT sid="4" pm="."><plain>For the <z:hpo ids='HP_0004756'>ventricular tachycardia</z:hpo> alarms, the best FA suppression performance was 30.5% with a TA suppression rate below 1% </plain></SENT>
+<SENT sid="5" pm="."><plain>To reduce the TA suppression rate to zero, a reduction in FA suppression performance to 19.7% was required </plain></SENT>
+</text></document>

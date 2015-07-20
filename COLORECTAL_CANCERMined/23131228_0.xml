@@ -1,0 +1,19 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>INTRODUCTION: Management of malignant colorectal <z:mpath ids='MPATH_491'>polyps</z:mpath> is controversial </plain></SENT>
+<SENT sid="1" pm="."><plain>The options are resection or surveillance </plain></SENT>
+<SENT sid="2" pm="."><plain>Resection margin status is accepted as an independent predictor of adverse outcome </plain></SENT>
+<SENT sid="3" pm="."><plain>However, the rate of adverse outcome in <z:mpath ids='MPATH_491'>polyps</z:mpath> with a resection margin of &lt;1mm has not been investigated </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS: A retrospective search of the pathology database was undertaken </plain></SENT>
+<SENT sid="5" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> <z:mpath ids='MPATH_491'>polyp</z:mpath> <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancers</z:e> were included </plain></SENT>
+<SENT sid="6" pm="."><plain>A single histopathologist reviewed <z:hpo ids='HP_0000001'>all</z:hpo> of the included <z:mpath ids='MPATH_491'>polyp</z:mpath> <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancers</z:e> </plain></SENT>
+<SENT sid="7" pm="."><plain><z:mpath ids='MPATH_491'>Polyps</z:mpath> were divided into three groups: clear resection margin, involved resection margin and unknown resection margin </plain></SENT>
+<SENT sid="8" pm="."><plain><z:mpath ids='MPATH_491'>Polyps</z:mpath> were also analysed for <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumour</z:e> grade, <z:mp ids='MP_0000002'>morphology</z:mp>, Haggitt/Kikuchi level and lymphovascular invasion </plain></SENT>
+<SENT sid="9" pm="."><plain>Adverse outcome was defined as <z:e sem="disease" ids="C0543478" disease_type="Neoplastic Process" abbrv="">residual tumour</z:e> at the polypectomy site and/or <z:e sem="disease" ids="C0686619" disease_type="Neoplastic Process" abbrv="">lymph node metastases</z:e> in the surgical group and local or distant recurrence in the surveillance group </plain></SENT>
+<SENT sid="10" pm="."><plain>RESULTS: Sixty-five <z:mpath ids='MPATH_491'>polyps</z:mpath> (34 male patients, mean age: 73 years, range: 50-94 years) were included </plain></SENT>
+<SENT sid="11" pm="."><plain>Forty-six had clear <z:mpath ids='MPATH_491'>polyp</z:mpath> resection margins; none had any adverse outcomes </plain></SENT>
+<SENT sid="12" pm="."><plain>Sixteen patients had involved <z:mpath ids='MPATH_491'>polyp</z:mpath> resection margins and twelve of these underwent surgery: seven had <z:e sem="disease" ids="C0543478" disease_type="Neoplastic Process" abbrv="">residual tumour</z:e> and two of these patients had <z:e sem="disease" ids="C0686619" disease_type="Neoplastic Process" abbrv="">lymph node metastases</z:e> </plain></SENT>
+<SENT sid="13" pm="."><plain>Four underwent surveillance, of whom two developed local recurrence </plain></SENT>
+<SENT sid="14" pm="."><plain>Three patients had resection margins on which the histopathologist was unable to comment </plain></SENT>
+<SENT sid="15" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> patients with a clear resection margin had no adverse outcome regardless of other predictive factors </plain></SENT>
+<SENT sid="16" pm="."><plain>CONCLUSIONS: <z:mpath ids='MPATH_491'>Polyp</z:mpath> <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancers</z:e> with clear resection margins, even those with &lt;1mm clearance, can be treated safely with surveillance in our experience </plain></SENT>
+<SENT sid="17" pm="."><plain><z:mpath ids='MPATH_491'>Polyp</z:mpath> <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancers</z:e> with unknown or involved resection margins should be treated surgically </plain></SENT>
+</text></document>

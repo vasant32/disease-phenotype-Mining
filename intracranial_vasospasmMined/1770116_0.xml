@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Transcranial Doppler Ultrasonography (TCD) is now commonly used to evaluate the cerebral hemodynamics </plain></SENT>
+<SENT sid="1" pm="."><plain>However, the blood velocity measured with TCD is not always accurate, because as a rule the direction of the blood flow does not completely coincide with that of the ultrasonic beam </plain></SENT>
+<SENT sid="2" pm="."><plain>The error in the measurement could be as large as 15% </plain></SENT>
+<SENT sid="3" pm="."><plain>This could be eliminated by calculating pulsatility index (PI) from the Doppler ultrasonography </plain></SENT>
+<SENT sid="4" pm="."><plain>This study evaluates the reliability of the PI as an index of cerebral hemodynamics </plain></SENT>
+<SENT sid="5" pm="."><plain>In total, 164 measurements were made in patients with various cerebrovascular diseases (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CVD</z:e>), including 14 of brain <z:hpo ids='HP_0011420'>death</z:hpo> patients (group B) and 14 of inpending <z:e sem="disease" ids="C0019270" disease_type="Disease or Syndrome" abbrv="">herniation</z:e> patients (group I) </plain></SENT>
+<SENT sid="6" pm="."><plain>Of <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">CVD</z:e>, 46 were <z:e sem="disease" ids="C0242670" disease_type="Disease or Syndrome" abbrv="">persistent vegetative state</z:e> patients (group V), and 43 were in relatively good conditions (group A) </plain></SENT>
+<SENT sid="7" pm="."><plain>Other including 15 of <z:hpo ids='HP_0000238'>hydrocephalus</z:hpo> patients (group H) and 19 of <z:e sem="disease" ids="C0265110" disease_type="Disease or Syndrome" abbrv="">cerebral vasospasm</z:e> after <z:hpo ids='HP_0002138'>subarachnoid hemorrhages</z:hpo> (group S) were also investigated </plain></SENT>
+<SENT sid="8" pm="."><plain>Nineteen <z:mpath ids='MPATH_458'>normal</z:mpath> young volunteers (group N) were used as controls </plain></SENT>
+<SENT sid="9" pm="."><plain>The mean level of PI in group N shows 0.82 </plain></SENT>
+<SENT sid="10" pm="."><plain>PI in group A was increased to 1.04, and in group V, 1.27 </plain></SENT>
+<SENT sid="11" pm="."><plain>Furthermore in the brain <z:hpo ids='HP_0011420'>death</z:hpo> group, the mean level of PI was increased to 3.86, which was statistically significant </plain></SENT>
+<SENT sid="12" pm="."><plain>It was concluded that measurement of PI was very useful to evaluate the changes of cerebral hemodynamics, and the levels of PI was affected more with the changes in diastolic than in systolic flow velocity </plain></SENT>
+</text></document>

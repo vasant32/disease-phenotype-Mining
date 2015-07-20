@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Epstein-Barr virus (EBV) nuclear antigen leader protein (EBNA-LP) is a phosphoprotein suggested to play important roles in EBV-induced immortalization of B cells </plain></SENT>
+<SENT sid="1" pm="."><plain>One of the potential functions of EBNA-LP is a cooperative induction with EBNA-2 of <z:mp ids='MP_0001799'>viral</z:mp> and cellular gene expression, including that of the genes for <z:mp ids='MP_0001799'>viral</z:mp> latent membrane protein 1 (LMP-1) and cellular cyclin D2 </plain></SENT>
+<SENT sid="2" pm="."><plain>We report here that the phosphorylation of EBNA-LP by cellular kinase(s) is critical to its ability to cooperate with EBNA-2 in up-regulating the expression of LMP-1 in a B-<z:hpo ids='HP_0002665'>lymphoma</z:hpo> cell line </plain></SENT>
+<SENT sid="3" pm="."><plain>Our conclusion is based on the following observations </plain></SENT>
+<SENT sid="4" pm="."><plain>(i) Mass-spectrometric analysis of purified EBNA-LP and mutational analyses of EBNA-LP revealed that the <z:chebi fb="0" ids="32848">serine residue</z:chebi> at position 35 in the W2 repeat domain is the major phosphorylation site of EBNA-LP in vivo </plain></SENT>
+<SENT sid="5" pm="."><plain>(ii) Substitutions of this site in each W2 repeat domain with alanine markedly reduced the ability of the protein to induce LMP-1 expression in combination with EBNA-2 in Akata cells </plain></SENT>
+<SENT sid="6" pm="."><plain>(iii) Replacement at the major phosphorylation sites with glutamic acids restored the <z:mp ids='MP_0002169'>wild-type</z:mp> phenotype </plain></SENT>
+<SENT sid="7" pm="."><plain>It is well established that this substitution mimics constitutive phosphorylation </plain></SENT>
+<SENT sid="8" pm="."><plain>These results indicated that the coactivator function of EBNA-LP is regulated by phosphorylation </plain></SENT>
+</text></document>

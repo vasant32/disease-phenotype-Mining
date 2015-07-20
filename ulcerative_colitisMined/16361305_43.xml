@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND AIMS: Genetic association between <z:hpo ids='HP_0100280'>Crohn's disease</z:hpo> (CD) and OCTN1 (SLC22A4) C1672T/OCTN2 (SLC22A5) G-207C variants in IBD5 has recently been reported </plain></SENT>
+<SENT sid="1" pm="."><plain>These genes encode solute carriers and the association was suggested to be distinct from the background IBD5 risk haplotype </plain></SENT>
+<SENT sid="2" pm="."><plain>There have been conflicting reports of the association between markers in the IBD5 region and <z:hpo ids='HP_0100279'>ulcerative colitis</z:hpo> (UC) and interaction (epistasis) between this locus and CARD15 </plain></SENT>
+<SENT sid="3" pm="."><plain>Our aim was to ascertain the contribution of OCTN variants to UC and CD in a large independent UK dataset, to seek genetic evidence that the OCTN association is distinct from the IBD5 risk haplotype and to identify interactions between the IBD5 and CARD15 loci </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS: A total of 1104 unrelated Caucasian subjects with <z:e sem="disease" ids="C0021390" disease_type="Disease or Syndrome" abbrv="">inflammatory bowel disease</z:e> (IBD) (496 CD, 512 UC, 96 indeterminate) and 750 ethnically matched controls were genotyped for three single nucleotide polymorphisms (SNPs) in the CD associated genes (OCTN1+1672, OCTN2-207, and IGR2230), and two flanking IBD5 tagging SNPs, IGR2096 and IGR3096 </plain></SENT>
+<SENT sid="5" pm="."><plain>Data were analysed by logistic regression methods within STATA </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: OCTN variants were as strongly associated with UC and IBD overall as they were with CD (p = 0.0001; OR 1.3 (95% confidence interval 1.1-1.5)) </plain></SENT>
+<SENT sid="7" pm="."><plain>OCTN variants were in tight linkage disequilibrium with the extended IBD5 risk haplotype D' 0.79 and 0.88, and r2 = 0.62 and 0.72 for IGR2096 and 3096, respectively </plain></SENT>
+<SENT sid="8" pm="."><plain>There was no deviation from a multiplicative model of interaction between CARD15 and IBD5 on the penetrance scale </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSIONS: The OCTN variants were associated with susceptibility to IBD overall </plain></SENT>
+<SENT sid="10" pm="."><plain>The effect was equally strong in UC and CD </plain></SENT>
+<SENT sid="11" pm="."><plain>Although OCTN variants may account for the increased risk of IBD associated with IBD5, a role for other candidate genes within this extended haplotype was not excluded </plain></SENT>
+<SENT sid="12" pm="."><plain>There was no statistical evidence of interaction between CARD15 and either OCTN or IBD5 variants in susceptibility to IBD </plain></SENT>
+</text></document>

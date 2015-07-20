@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The B cell surface antigen receptor, surface IgM (sIgM), is involved in B cell activation and proliferation </plain></SENT>
+<SENT sid="1" pm="."><plain>CD40 is involved in regulating IgE production and B cell survival </plain></SENT>
+<SENT sid="2" pm="."><plain>Cross-linking of B cell sIgM activates the Ras/Raf/p42erk2 pathway </plain></SENT>
+<SENT sid="3" pm="."><plain>In contrast, ligation of CD40 by antibody or soluble gp39 (CD40 ligand) leads to activation of the c-Jun kinase (JNK)/stress-activated protein kinase pathway </plain></SENT>
+<SENT sid="4" pm="."><plain>JNK/stress-activated protein kinase activation correlated with the stimulation of MEK kinase activity </plain></SENT>
+<SENT sid="5" pm="."><plain>CD40 does not activate the p42erk2 pathway, and sIgM fails to regulate the JNK/stress-activated protein kinase pathway in B cells </plain></SENT>
+<SENT sid="6" pm="."><plain>Thus, two important cell surface receptors involved in controlling specific B cell response differentially regulate sequential protein kinase pathways involving different members of the <z:chebi fb="0" ids="52290">mitogen</z:chebi>-activated protein kinase family </plain></SENT>
+<SENT sid="7" pm="."><plain>Anti-CD40 also rescued B cell <z:mpath ids='MPATH_3'>apoptosis</z:mpath> induced by anti-IgM </plain></SENT>
+<SENT sid="8" pm="."><plain>CD40 ligation did not affect the sIgM stimulation of p42erk2 activity </plain></SENT>
+<SENT sid="9" pm="."><plain>Conversely, sIgM ligation did not influence CD40 stimulation of JNK/stress-activated protein kinase </plain></SENT>
+<SENT sid="10" pm="."><plain>These results suggest that independent, parallel protein kinase response pathways are involved in the integration of sIgM and CD40 control of B <z:mp ids='MP_0005384'>cell phenotype</z:mp> and function </plain></SENT>
+</text></document>

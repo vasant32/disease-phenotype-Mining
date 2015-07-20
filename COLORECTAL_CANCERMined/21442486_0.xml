@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: To investigate the effect of phosphatidylinositol- 3-kinases(PI3K) P85α silence on cell cycle and <z:mpath ids='MPATH_3'>apoptosis</z:mpath> of <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> cells </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: Four shRNA vectors(shRNA/89, 324, 1073 and 1123) and one negative control vector were designed and stably transfected into SW480 cells </plain></SENT>
+<SENT sid="2" pm="."><plain>Western blotting was used to determine the expression level of P85α </plain></SENT>
+<SENT sid="3" pm="."><plain>Flow cytometry was used to determine the PI-labeled cycle after stable transfection </plain></SENT>
+<SENT sid="4" pm="."><plain>Annexin V-<z:chebi fb="0" ids="37926">FITC</z:chebi> kit was used to determine the <z:mpath ids='MPATH_3'>apoptosis</z:mpath> </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: Western blotting analysis showed that the expression level of PI3K P85α protein was significantly decreased in cells transfected with shRNA/324 vector </plain></SENT>
+<SENT sid="6" pm="."><plain>The inhibition rate was 90% </plain></SENT>
+<SENT sid="7" pm="."><plain>The group was selected for the following experiments </plain></SENT>
+<SENT sid="8" pm="."><plain>G1 phase cells in the interference group and the control group were (62.4±2.7)% and (51.2±3.5)%, respectively </plain></SENT>
+<SENT sid="9" pm="."><plain>S phase cells in the interference group and the control group were (23.9±1.7)% and (34.1±3.4)%, respectively </plain></SENT>
+<SENT sid="10" pm="."><plain><z:mpath ids='MPATH_3'>Apoptosis</z:mpath> cells induced by 5-FU of interference group and control group were(11.1±3.7)% and (1.4±0.6)%, respectively </plain></SENT>
+<SENT sid="11" pm="."><plain>The differences were <z:hpo ids='HP_0000001'>all</z:hpo> significant (P&lt;0.05) </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: <z:mpath ids='MPATH_63'>Depletion</z:mpath> of PI3K P85α can significantly induce SW480 cell cycle arrest and sensitize SW480 cells to 5-FU induced <z:mpath ids='MPATH_3'>apoptosis</z:mpath> </plain></SENT>
+<SENT sid="13" pm="."><plain>PI3K P85α may be a new therapeutic target for <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> cells </plain></SENT>
+</text></document>

@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: A study was undertaken to identify the molecular cause of Welander distal <z:hpo ids='HP_0003198'>myopathy</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">WDM</z:e>), a classic <z:hpo ids='HP_0000006'>autosomal dominant</z:hpo> distal <z:hpo ids='HP_0003198'>myopathy</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: The genetic linkage was confirmed and defined by microsatellite and single nucleotide polymorphism haplotyping </plain></SENT>
+<SENT sid="2" pm="."><plain>The whole linked genomic region was sequenced with targeted high-throughput and Sanger sequencing, and coding transcripts were sequenced on the cDNA level </plain></SENT>
+<SENT sid="3" pm="."><plain><z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">WDM</z:e> muscle biopsies were studied by Western blotting and immunofluorescence microscopy </plain></SENT>
+<SENT sid="4" pm="."><plain>Splicing of TIA1 and its target genes in muscle and myoblast cultures was analyzed by reverse transcriptase polymerase chain reaction </plain></SENT>
+<SENT sid="5" pm="."><plain>Mutant TIA1 was characterized by cell biological studies on HeLa cells, including quantification of stress granules by high content analysis and fluorescence recovery after photobleaching (FRAP) experiments </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: The linked haplotype at 2p13 was narrowed down to &lt;806 kb </plain></SENT>
+<SENT sid="7" pm="."><plain>Sequencing by multiple methods revealed only 1 segregating coding mutation, c.1362 G&gt;A (p.E384K) in the <z:chebi fb="40" ids="33697">RNA</z:chebi>-binding protein TIA1, a key component of stress granules </plain></SENT>
+<SENT sid="8" pm="."><plain>Immunofluorescence microscopy of <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">WDM</z:e> biopsies showed a focal increase of TIA1 in atrophic and vacuolated fibers </plain></SENT>
+<SENT sid="9" pm="."><plain>In HeLa cells, mutant TIA1 constructs caused a mild increase in stress granule abundance compared to <z:mp ids='MP_0002169'>wild type</z:mp>, and showed slower average fluorescence recovery in FRAP </plain></SENT>
+<SENT sid="10" pm="."><plain>INTERPRETATION: <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">WDM</z:e> is caused by mutated TIA1 through a dominant pathomechanism probably involving altered stress granule dynamics </plain></SENT>
+<SENT sid="11" pm="."><plain>Ann Neurol 2013 </plain></SENT>
+</text></document>

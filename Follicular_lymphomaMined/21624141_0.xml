@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Clustering is a widely used technique for analysis of gene expression data </plain></SENT>
+<SENT sid="1" pm="."><plain>Most clustering methods group genes based on the distances, while few methods group genes according to the similarities of the distributions of the gene expression levels </plain></SENT>
+<SENT sid="2" pm="."><plain>Furthermore, as the biological annotation resources accumulated, an increasing number of genes have been annotated into functional categories </plain></SENT>
+<SENT sid="3" pm="."><plain>As a result, evaluating the performance of clustering methods in terms of the functional consistency of the resulting clusters is of great interest </plain></SENT>
+<SENT sid="4" pm="."><plain>RESULTS: In this paper, we proposed the WDCM (Weibull Distribution-based Clustering Method), a robust approach for clustering gene expression data, in which the gene expressions of individual genes are considered as the random variables following unique Weibull distributions </plain></SENT>
+<SENT sid="5" pm="."><plain>Our WDCM is based on the concept that the genes with similar expression profiles have similar distribution parameters, and thus the genes are clustered via the Weibull distribution parameters </plain></SENT>
+<SENT sid="6" pm="."><plain>We used the WDCM to cluster three <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> gene expression data sets from the <z:e sem="disease" ids="C0242379" disease_type="Neoplastic Process" abbrv="">lung cancer</z:e>, B-cell follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo> and <z:hpo ids='HP_0002862'>bladder carcinoma</z:hpo> and obtained well-clustered results </plain></SENT>
+<SENT sid="7" pm="."><plain>We compared the performance of WDCM with k-means and Self Organizing Map (SOM) using functional annotation information given by the Gene Ontology (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">GO</z:e>) </plain></SENT>
+<SENT sid="8" pm="."><plain>The results showed that the functional annotation ratios of WDCM are higher than those of the other methods </plain></SENT>
+<SENT sid="9" pm="."><plain>We also utilized the external measure Adjusted Rand Index to validate the performance of the WDCM </plain></SENT>
+<SENT sid="10" pm="."><plain>The comparative results demonstrate that the WDCM provides the better clustering performance compared to k-means and SOM algorithms </plain></SENT>
+<SENT sid="11" pm="."><plain>The merit of the proposed WDCM is that it can be applied to cluster incomplete gene expression data without imputing the missing values </plain></SENT>
+<SENT sid="12" pm="."><plain>Moreover, the robustness of WDCM is also evaluated on the incomplete data sets </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSIONS: The results demonstrate that our WDCM produces clusters with more consistent functional annotations than the other methods </plain></SENT>
+<SENT sid="14" pm="."><plain>The WDCM is also verified to be robust and is capable of clustering gene expression data containing a small quantity of missing values </plain></SENT>
+</text></document>

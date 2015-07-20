@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIM: Spontaneously Diabetic Torii (SDT) rat is a new model of non-<z:mp ids='MP_0001261'>obese</z:mp> type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="1" pm="."><plain>SDT rats show severe ocular complications such as <z:hpo ids='HP_0000518'>cataracts</z:hpo>, <z:hpo ids='HP_0007917'>tractional retinal detachment</z:hpo> with fibrous proliferation and massive haemorrhaging in the anterior chamber </plain></SENT>
+<SENT sid="2" pm="."><plain>In the present study, blood <z:chebi fb="105" ids="17234">glucose</z:chebi> levels of SDT rats were controlled in order to examine whether these ocular complications are caused by <z:e sem="disease" ids="C0020456" disease_type="Disease or Syndrome" abbrv="">hyperglycaemia</z:e> </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: SDT rats were treated with an insulin implant to control blood <z:chebi fb="105" ids="17234">glucose</z:chebi> </plain></SENT>
+<SENT sid="4" pm="."><plain>To evaluate <z:chebi fb="46" ids="15035">retinal</z:chebi> function, we used electroretinograms (ERG) and measured vascular endothelial growth factor (VEGF) concentrations within the aqueous humour </plain></SENT>
+<SENT sid="5" pm="."><plain>Finally, we studied <z:chebi fb="46" ids="15035">retinal</z:chebi> flat-mounts and trypsin digestion to evaluate <z:hpo ids='HP_0002597'>vascular abnormalities</z:hpo> in SDT rats </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: Forty-four-week-old SDT rats displayed an increase in VEGF concentrations within the aqueous humour and significant prolongation of the peak latencies in ERG (Sigma(OP(1)-OP(4)); Sprague-Dawley (SD): 146.2 +/- 1.06 ms; SDT: 166.3 +/- 2.38 ms; SDT + insulin: 149.2 +/- 1.83 ms) </plain></SENT>
+<SENT sid="7" pm="."><plain><z:chebi fb="46" ids="15035">Retinal</z:chebi> flat-mounts of SDT rats showed venous dilation and meandering vascular networks </plain></SENT>
+<SENT sid="8" pm="."><plain>Furthermore, acellular capillaries were observed in the <z:chebi fb="46" ids="15035">retinal</z:chebi> trypsin digestion </plain></SENT>
+<SENT sid="9" pm="."><plain>Insulin treatment prevented these ocular abnormalities in SDT rats </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSIONS: These findings indicate that ocular complications of SDT rats are caused by <z:e sem="disease" ids="C0020456" disease_type="Disease or Syndrome" abbrv="">hyperglycaemia</z:e> </plain></SENT>
+<SENT sid="11" pm="."><plain>The features of SDT rats indicate their usefulness for the future study of diabetic <z:hpo ids='HP_0000488'>retinopathy</z:hpo> </plain></SENT>
+</text></document>

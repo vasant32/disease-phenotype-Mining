@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 59-year-old man was admitted to our hospital with upper <z:hpo ids='HP_0002027'>abdominal pain</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>His serum alpha-fetoprotein (AFP) level was very high, 1500 ng/ml </plain></SENT>
+<SENT sid="2" pm="."><plain>Upper gastrointestinal endoscopy revealed depressed lesion at 36 cm from the upper incisors, with columnar epithelium lining the esophagus circumferentially to the oral side of the lesion </plain></SENT>
+<SENT sid="3" pm="."><plain>Histological examination of biopsy specimens revealed a tubular <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> as well as the presence of gastric columnar epithelium with <z:mpath ids='MPATH_167'>intestinal metaplasia</z:mpath> </plain></SENT>
+<SENT sid="4" pm="."><plain>Immunohistochemistry demonstrated AFP in the <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> cells </plain></SENT>
+<SENT sid="5" pm="."><plain>From these results, a diagnosis of AFP-producing esophageal <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> occurring in <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo>, a condition which is extremely rare in Japan, was established </plain></SENT>
+<SENT sid="6" pm="."><plain>Computed tomography (CT) showed multiple <z:e sem="disease" ids="C0027627" disease_type="Neoplastic Process" abbrv="mets">metastasis</z:e> on the liver and wide-ranging lymph node <z:e sem="disease" ids="C0027627" disease_type="Neoplastic Process" abbrv="mets">metastasis</z:e> </plain></SENT>
+<SENT sid="7" pm="."><plain>Chemotherapy was not effective and the patient died about 2 months after the start of treatment </plain></SENT>
+<SENT sid="8" pm="."><plain>The AFP-producing esophageal <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> presented here had biological characteristics similar to those of AFP-producing <z:hpo ids='HP_0012126'>gastric cancer</z:hpo> </plain></SENT>
+</text></document>

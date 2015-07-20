@@ -1,0 +1,4 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We report a case of HIV-associated carotid <z:hpo ids='HP_0002633'>vasculitis</z:hpo>, causing <z:e sem="disease" ids="C0007785" disease_type="Disease or Syndrome" abbrv="">cerebral infarction</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>Immediate <z:chebi fb="0" ids="50858">corticosteroid</z:chebi> treatment was followed by improvement, with radiological documentation of reversal of the vasculitic changes, preventing <z:mp ids='MP_0006134'>arterial occlusion</z:mp> </plain></SENT>
+<SENT sid="2" pm="."><plain><z:hpo ids='HP_0002633'>Vasculitis</z:hpo> should be considered as a diagnosis in <z:hpo ids='HP_0001297'>stroke</z:hpo> in HIV and steroid treatment considered as a potentially life-saving intervention </plain></SENT>
+</text></document>

@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:e sem="disease" ids="C0002395" disease_type="Disease or Syndrome" abbrv="SDAT">Alzheimer's disease</z:e> (AD) and subcortical ischemic vascular <z:hpo ids='HP_0000726'>dementia</z:hpo> (SIVD) have overlapping pathologies and risk factors, but their underlying neurodegenerative mechanisms are basically different </plain></SENT>
+<SENT sid="1" pm="."><plain>We performed magnetic resonance spectroscopy (MRS) to study metabolite differences between the two diseases in vivo </plain></SENT>
+<SENT sid="2" pm="."><plain>The subjects were 31 patients with SIVD and 99 with AD </plain></SENT>
+<SENT sid="3" pm="."><plain>Additionally, 45 elderly subjects were recruited as controls </plain></SENT>
+<SENT sid="4" pm="."><plain>We measured N-acetylaspartate (<z:chebi fb="8" ids="32918">NAA</z:chebi>), glutamine and <z:chebi fb="6" ids="14321,29987">glutamate</z:chebi> (Glx), and <z:chebi fb="0" ids="17268">myoinositol</z:chebi> (mIns) concentration quantitatively using a 1.5-T <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e> scanner </plain></SENT>
+<SENT sid="5" pm="."><plain>N-acetylaspartate and Glx concentrations decreased in the hippocampus and cingulate/precuneal cortices (PCC) in both AD and SIVD patients, and the <z:chebi fb="8" ids="32918">NAA</z:chebi> decrease in the hippocampus was more prominent in AD than in SIVD </plain></SENT>
+<SENT sid="6" pm="."><plain>Interestingly, the pattern of mIns concentration changes differed between the two disorders; mIns was increased in AD but not increased in SIVD </plain></SENT>
+<SENT sid="7" pm="."><plain>If one differentiates between AD and SIVD by the mIns concentration in the hippocampus, the area under the receiver operating characteristic curve was 0.95, suggesting a high potential for discrimination </plain></SENT>
+<SENT sid="8" pm="."><plain>Our results suggest that proton MRS can provide useful information to differentiate between AD and SIVD </plain></SENT>
+<SENT sid="9" pm="."><plain>The difference of mIns concentrations in the hippocampus and PCC seems to reflect the different neurodegenerative mechanisms of the two disorders </plain></SENT>
+</text></document>

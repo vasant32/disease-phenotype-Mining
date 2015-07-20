@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The innate immune system, which corresponds to the first line of defense against microorganisms, brings into play cell surface and intracellular sensors that detect pathogen ligands and danger signals </plain></SENT>
+<SENT sid="1" pm="."><plain>Among them, <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">NOD</z:e>-like receptors (NLRs) are intracellular proteins involved in inflammatory signaling pathways </plain></SENT>
+<SENT sid="2" pm="."><plain>NLRs are part of multiprotein complexes, called inflammasomes, which usually bring into play a NLR, an adaptor protein called ASC, and the pro-inflammatory caspase 1 protein </plain></SENT>
+<SENT sid="3" pm="."><plain>The activation of inflammasome by different stimuli triggers the proteolytic cleavage of pro-caspase 1 into active caspase 1, which, in turn, converts pro-interleukin 1β (pro-IL1β) into the mature IL1β </plain></SENT>
+<SENT sid="4" pm="."><plain>IL1β plays a crucial role in systemic <z:mp ids='MP_0001845'>inflammation</z:mp> due to its ability to induce the expression of a large panel of pro-inflammatory genes and to act on various target organs </plain></SENT>
+<SENT sid="5" pm="."><plain>Mutations in NLR genes are responsible for several autoinflammatory and/or <z:hpo ids='HP_0002960'>autoimmune disorders</z:hpo> </plain></SENT>
+<SENT sid="6" pm="."><plain>For example, mutations in NLRP3, which are responsible for three Mendelian autoinflammatory disorders called cryopyrinopathies, lead to inflammasome autoactivation </plain></SENT>
+<SENT sid="7" pm="."><plain>Peripheral blood mononuclear cells from patients carrying NLRP3 mutations secrete high levels of IL1β; in many patients presenting with autoinflammatory disorders, blocking IL1 activity by anti-IL1 therapy significantly improves their manifestations </plain></SENT>
+<SENT sid="8" pm="."><plain>The mechanisms leading to IL1β hypersecretion in other autoinflammatory disorders remain to be identified, as is the case for the role of each inflammasome in vivo </plain></SENT>
+<SENT sid="9" pm="."><plain>Better knowledge in this field should also contribute to the development of new anti-inflammatory treatments </plain></SENT>
+</text></document>

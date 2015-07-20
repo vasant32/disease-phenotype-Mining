@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Neuroprotective properties of bilobalide, a specific constituent of Ginkgo extracts, were tested in a mouse model of <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>After 24h of middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (MCAO), bilobalide reduced <z:mpath ids='MPATH_124'>infarct</z:mpath> areas in the core region (striatum) by 40-50% when given at 10mg/kg 1h prior to MCAO </plain></SENT>
+<SENT sid="2" pm="."><plain>Neuroprotection was also observed at lower doses, or when the drug was given 1h past <z:hpo ids='HP_0001297'>stroke</z:hpo> induction </plain></SENT>
+<SENT sid="3" pm="."><plain>Sensorimotor function in mice was improved by bilobalide as shown by corner and chimney tests </plain></SENT>
+<SENT sid="4" pm="."><plain>When brain metabolism in situ was monitored by microdialysis, MCAO caused a rapid disappearance of extracellular <z:chebi fb="105" ids="17234">glucose</z:chebi> in the striatum which returned to baseline levels after reperfusion </plain></SENT>
+<SENT sid="5" pm="."><plain>Extracellular levels of <z:chebi fb="6" ids="14321,29987">glutamate</z:chebi> were increased by more than ten-fold in striatal tissue, and by four- to fivefold in hippocampal tissue (penumbra) </plain></SENT>
+<SENT sid="6" pm="."><plain>Bilobalide did not affect <z:chebi fb="105" ids="17234">glucose</z:chebi> levels but strongly attenuated <z:chebi fb="6" ids="14321,29987">glutamate</z:chebi> release in both core and penumbra regions </plain></SENT>
+<SENT sid="7" pm="."><plain>Bilobalide was equally active when given locally via the microdialysis probe and also reduced <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e>-induced <z:chebi fb="6" ids="14321,29987">glutamate</z:chebi> release in vitro in brain slices </plain></SENT>
+<SENT sid="8" pm="."><plain>We conclude that bilobalide is a strong neuroprotectant in vivo at doses that can be used therapeutically in humans </plain></SENT>
+<SENT sid="9" pm="."><plain>The mechanism of action evidently involves reduction of <z:chebi fb="6" ids="14321,29987">glutamate</z:chebi> release, thereby reducing excitotoxicity </plain></SENT>
+</text></document>

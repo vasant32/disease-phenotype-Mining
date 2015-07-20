@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The objective of this study was to investigate, whether the plant-derived isothiocyanate <z:chebi fb="0" ids="47807">Sulforaphane</z:chebi> (SFN) enhances the antitumor activities of the chemotherapeutic agent <z:chebi fb="0" ids="31941">oxaliplatin</z:chebi> (Ox) in a cell culture model of <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>Caco-2 cells were cultured under standard conditions and treated with increasing concentrations of SFN [1-20 μM] and/or Ox [100 nM-10 μM] </plain></SENT>
+<SENT sid="2" pm="."><plain>For co-incubation, cells were pre-treated with SFN for 24 h </plain></SENT>
+<SENT sid="3" pm="."><plain>Cell growth was determined by BrdU incorporation </plain></SENT>
+<SENT sid="4" pm="."><plain>Drug interactions were assessed using the combination-index method (CI) (Cl &lt; 1 indicates synergism) </plain></SENT>
+<SENT sid="5" pm="."><plain>Apoptotic events were characterized by different ELISA techniques </plain></SENT>
+<SENT sid="6" pm="."><plain>Protein levels were examined by Western blot analysis </plain></SENT>
+<SENT sid="7" pm="."><plain>Annexin V- and <z:chebi fb="0" ids="51240">propidium iodide</z:chebi> (PI) staining followed by FACS analysis was used to differentiate between apoptotic and necrotic events </plain></SENT>
+<SENT sid="8" pm="."><plain>SFN and Ox alone inhibited cell growth of Caco-2 cells in a dose-dependent manner, an effect, which could be synergistically enhanced, when cells were incubated with the combination of both agents </plain></SENT>
+<SENT sid="9" pm="."><plain>Co-treated cells further displayed distinctive morphological changes that occurred during the apoptotic process, such as cell surface exposure of phosphatidylserine, membrane blebbing as well as the occurence of cytoplasmic <z:chebi fb="0" ids="15358">histone</z:chebi>-associated DNA fragments </plain></SENT>
+<SENT sid="10" pm="."><plain>Further observations thereby pointed toward simultaneous activation of both extrinsic and intrinsic apoptotic pathways </plain></SENT>
+<SENT sid="11" pm="."><plain>With increasing concentrations and treatment duration, a shift from apoptotic to necrotic cell <z:hpo ids='HP_0011420'>death</z:hpo> could be observed </plain></SENT>
+<SENT sid="12" pm="."><plain>In conclusion, the data suggest that the isothiocyanate SFN sensitizes <z:hpo ids='HP_0003003'>colon cancer</z:hpo> cells to Ox-induced cell growth inhibition via induction of different modes of cell <z:hpo ids='HP_0011420'>death</z:hpo> </plain></SENT>
+</text></document>

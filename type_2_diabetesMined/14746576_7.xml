@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Patients with type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> who are failing on oral agents will generally gain a large amount of body fat when switched to insulin treatment </plain></SENT>
+<SENT sid="1" pm="."><plain>This adverse effect may be related to <z:hpo ids='HP_0011010'>chronic</z:hpo> <z:mp ids='MP_0002079'>hyperinsulinism</z:mp> induced by long-acting insulin compounds </plain></SENT>
+<SENT sid="2" pm="."><plain>AIM: To test the concept that regain of glycaemic control can be achieved without causing <z:mp ids='MP_0005456'>weight gain</z:mp>, using a regimen free of long-acting insulin </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: In a 3-month open-label pilot study including 25 patients with moderate overweight and secondary failure, we investigated whether nocturnal glycaemic control could be achieved with <z:chebi fb="0" ids="5383">glimepiride</z:chebi> administered at 20:00 hours </plain></SENT>
+<SENT sid="4" pm="."><plain>The starting dose was 1-2 mg, with subsequent titration up to a maximum of 6 mg </plain></SENT>
+<SENT sid="5" pm="."><plain>Rapid-acting insulin analogues were used three times daily to regain postprandial <z:chebi fb="105" ids="17234">glucose</z:chebi> control </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: Glycaemic control at 3 months was established with <z:chebi fb="0" ids="5383">glimepiride</z:chebi> in a dose of 4.4 +/- 0.3 mg/day (mean +/- standard error of the mean), and a total daily insulin dose of 24.1 +/- 2.6 IU </plain></SENT>
+<SENT sid="7" pm="."><plain>Fasting <z:chebi fb="105" ids="17234">glucose</z:chebi> levels decreased from 12.7 +/- 0.6 mmol/l to 8.1 +/- 0.3 mmol/l (p &lt; 0.001), and target levels were reached in 14 of 25 patients (56%) </plain></SENT>
+<SENT sid="8" pm="."><plain>Mean HbA1c decreased from 10.5 +/- 0.4 to 7.7 +/- 0.2% (p &lt; 0.001) </plain></SENT>
+<SENT sid="9" pm="."><plain>Symptomatic nocturnal <z:e sem="disease" ids="C0020615" disease_type="Disease or Syndrome" abbrv="">hypoglycaemia</z:e> was not reported </plain></SENT>
+<SENT sid="10" pm="."><plain>Body weight did not change (85.7 +/- 3.6 kg vs. 85.7 +/- 3.3 kg, p = 0.99) </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSION: The data suggest that this new approach may be useful in about 50% of type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> patients presenting with failure on maximal oral treatment </plain></SENT>
+</text></document>

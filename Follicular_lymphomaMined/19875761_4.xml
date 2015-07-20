@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: The purpose was to examine the prognostic impact of features of <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> cells and immune microenvironment in patients with follicular <z:hpo ids='HP_0002665'>lymphoma</z:hpo> treated with and without anti-CD20 monoclonal antibody therapy </plain></SENT>
+<SENT sid="1" pm="."><plain>PATIENTS AND METHODS: Tissue microarrays were constructed from archived tissue obtained from patients on three sequential Southwest <z:hpo ids='HP_0002664'>Oncology</z:hpo> Group (SWOG) trials for FL </plain></SENT>
+<SENT sid="2" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> three trials included <z:chebi fb="0" ids="48120">anthracycline</z:chebi>-based chemotherapy </plain></SENT>
+<SENT sid="3" pm="."><plain>Anti-CD20 monoclonal antibodies were included for patients in the latter two trials </plain></SENT>
+<SENT sid="4" pm="."><plain>Immunohistochemistry was used to study the number and distribution of cells staining for forkhead box protein P3 (FOXP3) and <z:hpo ids='HP_0002665'>lymphoma</z:hpo>-associated macrophages (LAMs) and the number of <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cells staining for <z:mp ids='MP_0009440'>myeloma</z:mp>-associated antigen-1 (MUM-1) </plain></SENT>
+<SENT sid="5" pm="."><plain>Cox proportional hazards regression was used to evaluate the association between marker expression and overall survival (OS) </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: The number or pattern of infiltrating FOXP3 cells and LAMs did not correlate with OS in sequential SWOG studies for FL </plain></SENT>
+<SENT sid="7" pm="."><plain>The presence of MUM-1 correlated with lower OS for patients who received monoclonal antibody but not for those treated with chemotherapy alone </plain></SENT>
+<SENT sid="8" pm="."><plain>CONCLUSIONS: Immune cell composition of lymph nodes did not correlate with OS in this analysis of trials in FL </plain></SENT>
+<SENT sid="9" pm="."><plain>The mechanism of the observed correlation between MUM-1 expression and adverse prognosis in patients receiving monoclonal antibody therapy requires confirmation </plain></SENT>
+</text></document>

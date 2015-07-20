@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Affinity maturation of the humoral immune response is caused by single base changes that are introduced into the V regions of the Ig genes during a brief period of B cell differentiation </plain></SENT>
+<SENT sid="1" pm="."><plain>It has recently become possible to study V region mutation in some human Burkitt's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cell lines that mutate their V regions and express surface markers that suggest they arose from the <z:e sem="disease" ids="C1608408" disease_type="Neoplastic Process" abbrv="">malignant transformation</z:e> of germinal center B cells </plain></SENT>
+<SENT sid="2" pm="."><plain>Ramos Burkitt's cells constitutively mutate their V regions at a rate of approximately 2 x 10(-5) mutations/bp/generation </plain></SENT>
+<SENT sid="3" pm="."><plain>However, the sequencing of unselected V regions suggested that our Ramos cell line was progressively losing its ability to undergo V region hypermutation </plain></SENT>
+<SENT sid="4" pm="."><plain>To accurately quantify this process, subclones with different nonsense mutations in the mu heavy chain V region were identified </plain></SENT>
+<SENT sid="5" pm="."><plain>Reversion analysis and sequencing of unselected V regions were used to examine the clonal stability of V region hypermutation </plain></SENT>
+<SENT sid="6" pm="."><plain>Even after only 1 month in culture, stable and unstable subclones could be identified </plain></SENT>
+<SENT sid="7" pm="."><plain>The identification of mutating and non-mutating subclones of Ramos provided a unique opportunity to identify factors involved in the mutational process </plain></SENT>
+<SENT sid="8" pm="."><plain>Differential gene expression between mutating and non-mutating Ramos clones was examined by RT-PCR and cDNA microarray analyses </plain></SENT>
+<SENT sid="9" pm="."><plain>We found that the expression of activation-induced <z:chebi fb="0" ids="17562">cytidine</z:chebi> deaminase (AID), a putative <z:chebi fb="0" ids="17562">cytidine</z:chebi> deaminase, correlated with mutation rates in Ramos subclones </plain></SENT>
+<SENT sid="10" pm="."><plain>These results suggest that the hypermutation phenotype is inherently unstable in Ramos and that long culture periods favor outgrowth of non-mutating cells that express lower levels of AID </plain></SENT>
+</text></document>

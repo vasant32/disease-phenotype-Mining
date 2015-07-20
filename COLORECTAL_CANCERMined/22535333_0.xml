@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PURPOSE: We are trying to identify predictive factors of high risk of toxicity by analyzing candidate genes in the irinotecan pathways in order to identify useful tools to improve mCRC patient management under real practice conditions </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: Genomic DNA was genotyped for UGT1A1 (*28, *60 and *93) from <z:hpo ids='HP_0000001'>all</z:hpo> 101 patients, and irinotecan dose was 180 mg/m(2) every second week </plain></SENT>
+<SENT sid="2" pm="."><plain>Clinical data were obtained by retrospective chart review </plain></SENT>
+<SENT sid="3" pm="."><plain>The primary endpoint is to find out whether the pharmacogenetic test in the clinical practice may predict toxicity </plain></SENT>
+<SENT sid="4" pm="."><plain>RESULTS: Grade 3/4 <z:hpo ids='HP_0002014'>diarrhea</z:hpo> occurred in twelve patients and required dose reduction in six patients, and <z:hpo ids='HP_0001875'>neutropenia</z:hpo> reached grade 3/4 in 19 patients (only one patient with *28/*28 genotype) </plain></SENT>
+<SENT sid="5" pm="."><plain>The UGT1A1*93 seemed to relate with grade 3/4 <z:hpo ids='HP_0001875'>neutropenia</z:hpo> but only in the heterozygote state (G/A), p = 0.071, and UGT1A*60 showed no association with <z:hpo ids='HP_0001875'>neutropenia</z:hpo> </plain></SENT>
+<SENT sid="6" pm="."><plain>Twenty-eight percentage of patients required the use of G-CSF; 64.3% of them harbored *1/*28 or *28/*28 genotypes, p = 0.003 </plain></SENT>
+<SENT sid="7" pm="."><plain>Thirty-seven (36.6%) patients required dose reduction of irinotecan and/or 5-FU owing to toxicity, mainly <z:hpo ids='HP_0001875'>neutropenia</z:hpo> and <z:hpo ids='HP_0002014'>diarrhea</z:hpo> </plain></SENT>
+<SENT sid="8" pm="."><plain>No significant association was detected between *28, *60 and *93 UGT1A variants and severe irinotecan-associated hematologic or GI toxicity </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSION: The impact of increased risk of toxicity attributed to the UGT1A variants may be offset by irinotecan in clinical practice by dose reduction or the use of colony-stimulating factor </plain></SENT>
+</text></document>

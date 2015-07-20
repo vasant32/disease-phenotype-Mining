@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:chebi fb="0" ids="39015">Apolipoprotein</z:chebi> E (apoE), a 34-KD glycosylated <z:chebi fb="23" ids="18059">lipid</z:chebi>-binding protein, is expressed as three common isoforms in humans (E2, E3, or E4) </plain></SENT>
+<SENT sid="1" pm="."><plain>Clinical evidence suggests that the apoE genotype (APOE) may be a risk factor for poor outcome after <z:hpo ids='HP_0011009'>acute</z:hpo> central <z:mp ids='MP_0008912'>nervous</z:mp> system injury </plain></SENT>
+<SENT sid="2" pm="."><plain>This was examined further in transgenic mice constructed with the human APOE3 or APOE4 gene under the control of human promoter and tissue expression elements </plain></SENT>
+<SENT sid="3" pm="."><plain>Presence of human apoE3 and apoE4 proteins in brains of human APOE homozygous transgenic mice was confirmed by Western blotting </plain></SENT>
+<SENT sid="4" pm="."><plain>APOE3 (n = 12) and APOE4 (n = 10) mice underwent 60 minutes of middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> </plain></SENT>
+<SENT sid="5" pm="."><plain>After 24-hour recovery, <z:mpath ids='MPATH_124'>infarct</z:mpath> size was measured </plain></SENT>
+<SENT sid="6" pm="."><plain><z:mpath ids='MPATH_124'>Infarct</z:mpath> volumes (mean +/- standard deviation) were smaller in the APOE3 group (cortex: APOE3 = 18 +/- 4 mm3; APOE4 = 30 +/- 11 mm3, P = 0.04; subcortex: APOE3 = 12 +/- 4 mm3; APOE4 = 18 +/- 4 mm3, P = 0.003) </plain></SENT>
+<SENT sid="7" pm="."><plain><z:hpo ids='HP_0001269'>Hemiparesis</z:hpo> was less severe in APOE3 mice (P = 0.02) </plain></SENT>
+<SENT sid="8" pm="."><plain>These data indicate that human isoform-specific effects of apoE are relevant to <z:hpo ids='HP_0011009'>acute</z:hpo> pathomechanisms of focal ischemic brain damage when examined in the mouse </plain></SENT>
+<SENT sid="9" pm="."><plain>APOE transgenic mice may provide an appropriate model to examine the mechanistic basis for the differential effects of human apoE isoforms in <z:hpo ids='HP_0011009'>acute</z:hpo> central <z:mp ids='MP_0008912'>nervous</z:mp> system injury </plain></SENT>
+</text></document>

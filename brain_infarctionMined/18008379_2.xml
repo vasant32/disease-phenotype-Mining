@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A methodology for modeling covariate effects on the time-to-event data is developed </plain></SENT>
+<SENT sid="1" pm="."><plain>The covariates are allowed to be time dependent and their effects are modeled using polynomial splines in order to account for possibly non-linear effects </plain></SENT>
+<SENT sid="2" pm="."><plain>The methodology is applied to examine the effects on the incidence <z:e sem="disease" ids="C0751955" disease_type="Disease or Syndrome" abbrv="">brain infarction</z:e> based on a cohort study in Hisayama, Japan </plain></SENT>
+<SENT sid="3" pm="."><plain>The results indicate that at least two non-linear effects are significant (body mass index and systolic blood pressure) and there is a time-varying drug effect </plain></SENT>
+<SENT sid="4" pm="."><plain>The resulting significant risk factors are assessed by the proposed method that is more flexible and hence less biased than the traditional procedures where linear effects are imposed </plain></SENT>
+<SENT sid="5" pm="."><plain>These results are extremely important to the local medical investigation </plain></SENT>
+<SENT sid="6" pm="."><plain>In particular, more insight has been gained by examining the non-linear effects </plain></SENT>
+</text></document>

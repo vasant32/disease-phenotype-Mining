@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: Dynamic susceptibility contrast (DSC) enhanced MRI was used to study relative cerebral blood volume (rCBV) </plain></SENT>
+<SENT sid="1" pm="."><plain>MATERIALS AND METHODS: We examined 15 healthy subjects and 47 patients with <z:mp ids='MP_0005412'>vascular stenosis</z:mp> or occlusion, with <z:e sem="disease" ids="C0751955" disease_type="Disease or Syndrome" abbrv="">brain infarctions</z:e>, and with cerebral <z:hpo ids='HP_0002664'>neoplasms</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>During bolus injection of Gd-<z:chebi fb="0" ids="30629">diethylenetriamine</z:chebi> pentaacetic acid, a series of rapid T2*-weighted fast low angle shot two-dimensional images were recorded from the same slice </plain></SENT>
+<SENT sid="3" pm="."><plain>From these images, changes in signal intensity during bolus passage were computed pixel-by-pixel and converted into contrast agent concentration curves </plain></SENT>
+<SENT sid="4" pm="."><plain>Applying the principles of indicator dilution theory, images of rCBV were calculated </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS AND CONCLUSION: Regions of infarctions show almost zero rCBV </plain></SENT>
+<SENT sid="6" pm="."><plain>In patients with high-grade <z:mp ids='MP_0005412'>vascular stenosis</z:mp> or occlusion a bolus delay in comparison to the unaffected side and an increased mean transit time can be observed </plain></SENT>
+<SENT sid="7" pm="."><plain>Some of the affected areas show an increased rCBV, which is a well-known physiological mechanism that takes place to compensate for the reduced cerebral blood pressure </plain></SENT>
+<SENT sid="8" pm="."><plain>In <z:mp ids='MP_0009277'>brain tumors</z:mp>, rCBV imaging reveals focal or homogeneous areas of increased blood volume </plain></SENT>
+<SENT sid="9" pm="."><plain>This can even be observed in low-grade <z:hpo ids='HP_0009592'>astrocytomas</z:hpo> with unaffected blood-brain barrier </plain></SENT>
+<SENT sid="10" pm="."><plain>In CBV imaging, the effects of radiotherapy on <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> tissue can be monitored as a significant decrease of rCBV in <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e> tissue after therapy </plain></SENT>
+</text></document>

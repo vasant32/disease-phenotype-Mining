@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>INTRODUCTION: We investigated the activated protein C resistance (APCR) phenotype and the <z:e sem="disease" ids="C0024138,C0024141,C0024131,C0409974" disease_type="Disease or Syndrome" abbrv="">lupus</z:e> <z:chebi fb="3" ids="50249">anticoagulant</z:chebi> (LA), activity induced by anti-beta2-<z:chebi fb="2" ids="17089">glycoprotein</z:chebi>-I (anti-beta2GP-I) antibodies </plain></SENT>
+<SENT sid="1" pm="."><plain>PATIENTS AND METHODS: We studied plasma and sera samples from 29 patients with persistently positive anti-beta2GP-I: 22 with <z:mp ids='MP_0005048'>thrombosis</z:mp> (12 with primary APS, 10 with APS secondary to SLE) and seven without <z:mp ids='MP_0005048'>thrombosis</z:mp> (<z:hpo ids='HP_0000001'>all</z:hpo> with SLE); 25 healthy subjects were studied as controls </plain></SENT>
+<SENT sid="2" pm="."><plain>We detected anticardiolipin antibodies (ACA); IgG (and its subclasses) and IgM anti-beta2GP-I, on irradiated and non-irradiated plates by ELISA </plain></SENT>
+<SENT sid="3" pm="."><plain>APCR was assessed by the activated partial thromboplastin time (APTT)-based assay and by the modified test </plain></SENT>
+<SENT sid="4" pm="."><plain>The FV Leiden mutation was studied by PCR </plain></SENT>
+<SENT sid="5" pm="."><plain>LA determination included screening and confirmatory dRVVT </plain></SENT>
+<SENT sid="6" pm="."><plain>Serum anti-2 GP-I were affinity purified on <z:chebi fb="0" ids="2511">sepharose</z:chebi> columns and their isotype, subclass, and reactivity against various antigens were studied by ELISA </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: We found that titers of IgG anti-beta2GP-I on irradiated plates were higher than on non-irradiated plates (p = 0.002), IgG2 was the predominant subclass </plain></SENT>
+<SENT sid="8" pm="."><plain>Fifteen patients (13 with <z:mp ids='MP_0005048'>thrombosis</z:mp>) had LA and 15 (also 13 with <z:mp ids='MP_0005048'>thrombosis</z:mp>) induced the APCR phenotype </plain></SENT>
+<SENT sid="9" pm="."><plain>Eleven (<z:hpo ids='HP_0000001'>all</z:hpo> with <z:mp ids='MP_0005048'>thrombosis</z:mp>) had both </plain></SENT>
+<SENT sid="10" pm="."><plain>Two patients were heterozygous for the Leiden mutation </plain></SENT>
+<SENT sid="11" pm="."><plain>Two purified antibodies, monospecific for beta2GP-I, induced an in vitro APCR phenotype and LA activity </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: Our results seem to indicate that the inhibition of the APC <z:chebi fb="3" ids="50249">anticoagulant</z:chebi> function by IgG2 anti-beta2GP-I with LA activity may be one of the responsible mechanisms of <z:hpo ids='HP_0100724'>thrombophilia</z:hpo> in patients with APS </plain></SENT>
+</text></document>

@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Although carotid ligation or balloon occlusion has been an accepted method for the inaccessible ICA <z:hpo ids='HP_0002617'>aneurysm</z:hpo>, there have been several reports of growth or rupture of the <z:hpo ids='HP_0002617'>aneurysm</z:hpo>, and <z:e sem="disease" ids="C0007780" disease_type="Disease or Syndrome" abbrv="">cerebral embolism</z:e> originating from the site of <z:mp ids='MP_0006134'>arterial occlusion</z:mp> or from the <z:hpo ids='HP_0002617'>aneurysm</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>The hemodynamic changes after operation are suspected to play some role in these events </plain></SENT>
+<SENT sid="2" pm="."><plain>It is, therefore, very important to predict what will happen after operation in individual patients </plain></SENT>
+<SENT sid="3" pm="."><plain>However, it is usually difficult because multiple factors are related in a complex fashion in a living body </plain></SENT>
+<SENT sid="4" pm="."><plain>One of the effective means is to simulate these hemodynamic conditions by a hydraulic vascular model </plain></SENT>
+<SENT sid="5" pm="."><plain>We have already reported the hemodynamic changes resulting from EC-IC bypass for <z:chebi fb="70" ids="34342">MCA</z:chebi> stenosis </plain></SENT>
+<SENT sid="6" pm="."><plain>In this research, a glass-model <z:hpo ids='HP_0002617'>aneurysm</z:hpo> of 2.5 cm in diameter is placed at the ICA bifurcation of the model to evaluate hemodynamics after therapeutic carotid occlusion with or without EC-IC bypass </plain></SENT>
+<SENT sid="7" pm="."><plain>Dye was injected into the <z:hpo ids='HP_0002617'>aneurysm</z:hpo> and intensity change of the light transmitted there was measured by a photocell </plain></SENT>
+<SENT sid="8" pm="."><plain>Half-life of the dye was calculated from thus obtained clearance curve and was regarded as an index of intraaneurysmal stagnation, while <z:mpath ids='MPATH_110'>embolus</z:mpath> formation in an <z:hpo ids='HP_0002617'>aneurysm</z:hpo> is considered to be due to the stagnation there </plain></SENT>
+<SENT sid="9" pm="."><plain>The results obtained are: 1 </plain></SENT>
+<SENT sid="10" pm="."><plain>Half-life of the dye increases significantly after carotid ligation even if collateral flow through the anterior communicating artery (A-com) or EC-IC bypass equals the ICA flow before ligation </plain></SENT>
+<SENT sid="11" pm="."><plain>2 </plain></SENT>
+<SENT sid="12" pm="."><plain>The higher collateral flow through A-com results in the more normograde flow in M1 portion, which shortens the half-life.(ABSTRACT TRUNCATED AT 250 WORDS) </plain></SENT>
+</text></document>

@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: The mechanisms of <z:e sem="disease" ids="C0265110" disease_type="Disease or Syndrome" abbrv="">cerebral vasospasm</z:e> after <z:hpo ids='HP_0002138'>subarachnoid hemorrhage</z:hpo> (SAH) remain controversial </plain></SENT>
+<SENT sid="1" pm="."><plain>Recent data have implicated two small heat shock proteins (<z:chebi fb="24" ids="50430">HSPs</z:chebi>), namely HSP20 and HSP27, in the regulation of vascular tone </plain></SENT>
+<SENT sid="2" pm="."><plain>Increases in the phosphorylation of HSP20 are associated with vasorelaxation, and increases in the phosphorylation of HSP27 are associated with impaired vasorelaxation </plain></SENT>
+<SENT sid="3" pm="."><plain>Therefore, we hypothesized that alterations in the expression and/or phosphorylation of these two small <z:chebi fb="24" ids="50430">HSPs</z:chebi> might play a role in <z:e sem="disease" ids="C0265110" disease_type="Disease or Syndrome" abbrv="">cerebral vasospasm</z:e> after SAH </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS: A rat model of endovascular <z:mpath ids='MPATH_81'>perforation</z:mpath> was used to induce SAH </plain></SENT>
+<SENT sid="5" pm="."><plain>Middle cerebral arteries were harvested from control animals, sham-treated animals, and animals with SAH, 48 hours after SAH induction </plain></SENT>
+<SENT sid="6" pm="."><plain>Dose-response curves for endothelium-independent (<z:chebi fb="0" ids="29321">sodium nitroprusside</z:chebi>, 10(-8) to 10(-4) mol/L) and endothelium-dependent (bradykinin, 10(-10) to 10(-5) mol/L) relaxing agents were recorded ex vivo </plain></SENT>
+<SENT sid="7" pm="."><plain>Physiological responses were correlated with the expression and phosphorylation of HSP20 and HSP27 by using one- and two-dimensional immunoblots </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: There was impaired endothelium-independent and endothelium-dependent relaxation in cerebral vessels after SAH </plain></SENT>
+<SENT sid="9" pm="."><plain>These changes were associated with decreased expression of both total and phosphorylated HSP20 and increases in the amount of phosphorylated HSP27 </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSION: In this model, impaired relaxation of cerebral vessels after SAH was associated with increases in the amount of phosphorylated HSP27 and decreases in the expression and phosphorylation of HSP20 </plain></SENT>
+<SENT sid="11" pm="."><plain>These data are consistent with alterations in the expression and phosphorylation of these small <z:chebi fb="24" ids="50430">HSPs</z:chebi> in other models of vasospasm </plain></SENT>
+</text></document>

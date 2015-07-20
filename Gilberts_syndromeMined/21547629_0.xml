@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 72-year-old woman complaining of <z:hpo ids='HP_0002094'>dyspnea</z:hpo> on effort was diagnosed as having <z:hpo ids='HP_0001653'>mitral regurgitation</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e>) </plain></SENT>
+<SENT sid="1" pm="."><plain>Asymptomatic <z:hpo ids='HP_0000952'>jaundice</z:hpo> had initially been noticed during primary school, and an examination had shown <z:hpo ids='HP_0002904'>hyperbilirubinemia</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>After the diagnosis of constitutional <z:hpo ids='HP_0000952'>jaundice</z:hpo>, she had remained well without further examination or medical treatment </plain></SENT>
+<SENT sid="3" pm="."><plain>Laboratory data showed a total serum <z:chebi fb="0" ids="16990">bilirubin</z:chebi> (TB) level of 12.2 mg/dl and a direct <z:chebi fb="0" ids="16990">bilirubin</z:chebi> level of 0.6 mg/dl </plain></SENT>
+<SENT sid="4" pm="."><plain>Transesophageal echocardiography showed severe <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MR</z:e>, and we replaced the mitral valve </plain></SENT>
+<SENT sid="5" pm="."><plain>Postoperatively, genetic analyses identified constitutional <z:hpo ids='HP_0000952'>jaundice</z:hpo> as <z:e sem="disease" ids="C0017551" disease_type="Disease or Syndrome" abbrv="">Gilbert's syndrome</z:e> with Y486D mutation </plain></SENT>
+<SENT sid="6" pm="."><plain>The TB level gradually decreased </plain></SENT>
+<SENT sid="7" pm="."><plain>Four years after operation she is doing well with moderate <z:hpo ids='HP_0002904'>hyperbilirubinemia</z:hpo> and a TB level of 5 mg/dl </plain></SENT>
+<SENT sid="8" pm="."><plain>She is free from <z:hpo ids='HP_0001635'>heart failure</z:hpo> </plain></SENT>
+</text></document>

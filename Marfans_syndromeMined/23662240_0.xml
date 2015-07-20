@@ -1,0 +1,5 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 59-year-old male patient with <z:e sem="disease" ids="C0024796" disease_type="Disease or Syndrome" abbrv="MFS|MFS1">Marfan's syndrome</z:e> was referred to our clinic due to <z:hpo ids='HP_0011009'>acute</z:hpo> <z:hpo ids='HP_0100749'>chest pain</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>His medical history contains complex surgery for type A <z:hpo ids='HP_0002647'>aortic dissection</z:hpo> 19 years ago including composite root replacement using a mechanical aortic valve </plain></SENT>
+<SENT sid="2" pm="."><plain>Immediate computed tomography indicated <z:mpath ids='MPATH_81'>perforation</z:mpath> at the distal ascending aortic anastomosis plus complete <z:mpath ids='MPATH_625'>avulsion</z:mpath> of both coronary ostia </plain></SENT>
+<SENT sid="3" pm="."><plain>The patient underwent successful rescue surgery with ascending aortic and arch replacement using a modified Cabrol technique </plain></SENT>
+</text></document>

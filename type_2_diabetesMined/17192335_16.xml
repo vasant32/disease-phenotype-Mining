@@ -1,0 +1,17 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: We sought to develop <z:hpo ids='HP_0001297'>stroke</z:hpo> risk equations for Chinese patients with type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> in Hong Kong </plain></SENT>
+<SENT sid="1" pm="."><plain>RESEARCH DESIGN AND METHODS: A total of 7,209 Hong Kong Chinese type 2 diabetic patients without a history of <z:hpo ids='HP_0001297'>stroke</z:hpo> at baseline were analyzed </plain></SENT>
+<SENT sid="2" pm="."><plain>The data were randomly and evenly divided into the training subsample and the test subsample </plain></SENT>
+<SENT sid="3" pm="."><plain>In the training subsample, stepwise Cox models were used to develop the risk equation </plain></SENT>
+<SENT sid="4" pm="."><plain>Validation of the U.K </plain></SENT>
+<SENT sid="5" pm="."><plain>Prospective <z:mp ids='MP_0002055'>Diabetes</z:mp> Study (UKPDS) <z:hpo ids='HP_0001297'>stroke</z:hpo> risk engine and the current <z:hpo ids='HP_0001297'>stroke</z:hpo> equation was performed in the test dataset </plain></SENT>
+<SENT sid="6" pm="."><plain>The life-table method was used to check calibration, and the area under the receiver operating characteristic curve (aROC) was used to check discrimination </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: A total of 372 patients developed incident <z:hpo ids='HP_0001297'>stroke</z:hpo> during a median of 5.37 years (interquartile range 2.88-7.78) of follow-up </plain></SENT>
+<SENT sid="8" pm="."><plain>Age, A1C, spot urine albumin-to-<z:chebi fb="0" ids="16737">creatinine</z:chebi> ratio (ACR), and history of <z:e sem="disease" ids="C0010068" disease_type="Disease or Syndrome" abbrv="">coronary heart disease</z:e> (CHD) were independent predictors </plain></SENT>
+<SENT sid="9" pm="."><plain>The performance of the UKPDS <z:hpo ids='HP_0001297'>stroke</z:hpo> engine was suboptimal in our cohort </plain></SENT>
+<SENT sid="10" pm="."><plain>The newly developed risk equation defined by these four predictors had adequate performance in the test subsample </plain></SENT>
+<SENT sid="11" pm="."><plain>The predicted <z:hpo ids='HP_0001297'>stroke</z:hpo>-free probability by the current equation was within the 95% CI of the observed probability </plain></SENT>
+<SENT sid="12" pm="."><plain>The aROC was 0.77 for predicting <z:hpo ids='HP_0001297'>stroke</z:hpo> within 5 years </plain></SENT>
+<SENT sid="13" pm="."><plain>The risk score was computed as follows: 0.0634 x age (years) + 0.0897 x A1C + 0.5314 x log(10) (ACR) (mg/mmol) + 0.5636 x history of CHD (1 if yes) </plain></SENT>
+<SENT sid="14" pm="."><plain>The 5-year <z:hpo ids='HP_0001297'>stroke</z:hpo> probability can be calculated by: 1 - 0.9707(EXP (Risk Score - 4.5674)) </plain></SENT>
+<SENT sid="15" pm="."><plain>CONCLUSIONS: Although the risk equation performed reasonably well in Chinese type 2 diabetic patients, external validation is required in other populations </plain></SENT>
+</text></document>

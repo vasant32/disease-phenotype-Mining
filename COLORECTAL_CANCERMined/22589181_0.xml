@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>New disease specific biomarkers, especially for <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e>, are urgently needed to improve individual diagnosis, prognosis, and treatment selection, that is, for personalized medicine </plain></SENT>
+<SENT sid="1" pm="."><plain>Genetic mutations that affect protein function drive <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> </plain></SENT>
+<SENT sid="2" pm="."><plain>Therefore, the detection of such mutations represents a source of <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> specific biomarkers </plain></SENT>
+<SENT sid="3" pm="."><plain>Here we confirm the implementation of the mutant protein specific immuno-SRM (where SRM is selective reaction monitoring) mass spectrometry method of <z:mp ids='MP_0011356'>RAS</z:mp> proteins reported by Wang et al </plain></SENT>
+<SENT sid="4" pm="."><plain>[Proc </plain></SENT>
+<SENT sid="5" pm="."><plain>Natl </plain></SENT>
+<SENT sid="6" pm="."><plain>Acad </plain></SENT>
+<SENT sid="7" pm="."><plain>Sci </plain></SENT>
+<SENT sid="8" pm="."><plain>USA 2011, 108, 2444-2449], which exploits an antibody to simultaneously capture the different forms of the target protein and the resolving power and sensitivity of LC-MS/MS and improve the technique by using a more sensitive mass spectrometer </plain></SENT>
+<SENT sid="9" pm="."><plain>The mutant form G12D was quantified by SRM on a QTRAP 5500 mass spectrometer and the MIDAS workflow was used to confirm the sequence of the targeted <z:chebi fb="7" ids="16670">peptides</z:chebi> </plain></SENT>
+<SENT sid="10" pm="."><plain>This assay has been applied to quantify <z:mp ids='MP_0002169'>wild type</z:mp> and mutant <z:mp ids='MP_0011356'>RAS</z:mp> proteins in patient <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumors</z:e>, xenografted human tissue, and benign human epidermal <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumors</z:e> at high sensitivity </plain></SENT>
+<SENT sid="11" pm="."><plain>The limit of detection for the target proteins was as low as 12 amol (0.25 pg) </plain></SENT>
+<SENT sid="12" pm="."><plain>It requires low starting amounts of tissue (ca.15 mg) that could be obtained from a needle <z:hpo ids='HP_0002835'>aspiration</z:hpo> biopsy </plain></SENT>
+<SENT sid="13" pm="."><plain>The described strategy could find application in the clinical arena and be applied to the study of expression of protein variants in disease </plain></SENT>
+</text></document>

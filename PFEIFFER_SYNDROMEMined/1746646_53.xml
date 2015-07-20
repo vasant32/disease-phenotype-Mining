@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>For problems of classification and comparison in biological research, the primary focus is on the similarity of forms </plain></SENT>
+<SENT sid="1" pm="."><plain>A biological form can be conveniently defined as consisting of size and shape </plain></SENT>
+<SENT sid="2" pm="."><plain>Several approaches for comparing biological shapes using landmark data are available </plain></SENT>
+<SENT sid="3" pm="."><plain>Lele (1991a) critically discusses these approaches and proposes a new method based on the Euclidean distance matrix representation of the form of an object </plain></SENT>
+<SENT sid="4" pm="."><plain>The purpose of this paper is to extend this new methodology to the comparison of groups of objects </plain></SENT>
+<SENT sid="5" pm="."><plain>We develop the statistical versions of various concepts introduced by Lele (1991a) and use them for developing statistical procedures for testing the hypothesis of shape difference between biological forms </plain></SENT>
+<SENT sid="6" pm="."><plain>We illustrate the use of this method by studying morphological differences between <z:mpath ids='MPATH_458'>normal</z:mpath> children and those affected with <z:e sem="disease" ids="C0010273" disease_type="Disease or Syndrome;Congenital Abnormality" abbrv="">Crouzon</z:e> and <z:e sem="disease" ids="C0001193" disease_type="Disease or Syndrome;Congenital Abnormality" abbrv="">Apert syndromes</z:e> and craniofacial sexual dimorphism in Cebus apella </plain></SENT>
+</text></document>

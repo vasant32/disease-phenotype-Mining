@@ -1,0 +1,19 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Bone marrow transplantation (BMT) is the best curative approach for younger patients with severe <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> (SAA) </plain></SENT>
+<SENT sid="1" pm="."><plain>Major obstacles to success of allogeneic BMT include <z:e sem="disease" ids="C0018133" disease_type="Disease or Syndrome" abbrv="GVH">graft-versus-host disease</z:e> (GVHD), graft rejection and treatment related toxicities </plain></SENT>
+<SENT sid="2" pm="."><plain>Experience with 14 SAA patients who received BMT is reported here </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: From December 1986 to May 1995, 14 patients with SAA were treated with BMT; 13 were allogeneic, and 1 was syngeneic </plain></SENT>
+<SENT sid="4" pm="."><plain>There were nine males and five females whose average age was 24.7 years (range 15-36 years) </plain></SENT>
+<SENT sid="5" pm="."><plain>The median pretransplant disease duration was 93 days (range 7-610 days) </plain></SENT>
+<SENT sid="6" pm="."><plain>Five patients were nontransfused before BMT </plain></SENT>
+<SENT sid="7" pm="."><plain>The pretransplant conditioning regimen consisted of 200 mg/kg <z:chebi fb="0" ids="4027">cyclophosphamide</z:chebi> (CY) intravenously, divided over four consecutive days, followed by 300 cGy total-body irradiation (TBI) on the day before BMT </plain></SENT>
+<SENT sid="8" pm="."><plain>Two untransfused, one transfused patient and one syngeneic transplant received CY only as preconditioning </plain></SENT>
+<SENT sid="9" pm="."><plain>For GVHD prophylaxis, the 13 patients were given a combination of <z:chebi fb="0" ids="4031">cyclosporine</z:chebi> and a short course of <z:chebi fb="0" ids="44185">methotrexate</z:chebi> </plain></SENT>
+<SENT sid="10" pm="."><plain>RESULTS: Of the 14 patients, 11 were still alive 10 to 90 months later, with functional engraftment; the median survival of 39 months </plain></SENT>
+<SENT sid="11" pm="."><plain>There were three <z:hpo ids='HP_0011420'>deaths</z:hpo> including one with primary graft failure with <z:hpo ids='HP_0002170'>intracranial hemorrhage</z:hpo>, and two with delayed graft rejection and <z:hpo ids='HP_0100806'>sepsis</z:hpo> </plain></SENT>
+<SENT sid="12" pm="."><plain>The patient who received syngeneic BMT developed late graft failure six months post-transplant, but was successfully treated with a second BMT </plain></SENT>
+<SENT sid="13" pm="."><plain><z:hpo ids='HP_0011009'>Acute</z:hpo> GVHD occurred among 5 of the 13 engrafted patients, only one of whom was Grade III clinically </plain></SENT>
+<SENT sid="14" pm="."><plain><z:hpo ids='HP_0011010'>Chronic</z:hpo> GVHD was observed in 2 out of 10 evaluable patients </plain></SENT>
+<SENT sid="15" pm="."><plain>CONCLUSIONS: The combination of CY and TBI is an effective, well-tolerated conditioning regimen for BMT in patients with SAA </plain></SENT>
+<SENT sid="16" pm="."><plain>The <z:hpo ids='HP_0011009'>acute</z:hpo> GVHD rate was low in our patients receiving <z:chebi fb="0" ids="4031">cyclosporine</z:chebi> </plain></SENT>
+<SENT sid="17" pm="."><plain>BMT is the treatment-of-choice for patients under the age of 40 with SAA, for those with human leucocyte antigen (HLA)-identical siblings or an identical twin and particularly for those patients who have not received transfusion </plain></SENT>
+</text></document>

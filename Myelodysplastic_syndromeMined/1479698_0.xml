@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 56-year-old man had a <z:hpo ids='HP_0100243'>leiomyosarcoma</z:hpo> of the small intestine in 1987 </plain></SENT>
+<SENT sid="1" pm="."><plain>After surgery, he received <z:chebi fb="0" ids="4027">cyclophosphamide</z:chebi> for 2 years </plain></SENT>
+<SENT sid="2" pm="."><plain>In December, 1990, he exhibited severe <z:hpo ids='HP_0001876'>pancytopenia</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>His hematological data were as follows: Hb 7.4g/dl, ret </plain></SENT>
+<SENT sid="4" pm="."><plain>0.8%, WBC 1,700/microliters with <z:e sem="disease" ids="C0002890" disease_type="Disease or Syndrome" abbrv="">leukoerythroblastosis</z:e> and 2.8 x 10(4)/microliters platelets </plain></SENT>
+<SENT sid="5" pm="."><plain>A bone marrow <z:hpo ids='HP_0002835'>aspiration</z:hpo> was a dry tap </plain></SENT>
+<SENT sid="6" pm="."><plain>A bone marrow biopsy specimen showed a hypercellular marrow with <z:hpo ids='HP_0011974'>myelofibrosis</z:hpo>, <z:e sem="disease" ids="C0162679" disease_type="Neoplastic Process" abbrv="">leukemic infiltration</z:e> (10.2%) and slight dyserythropoiesis </plain></SENT>
+<SENT sid="7" pm="."><plain>Both <z:chebi fb="1" ids="53262">PPO</z:chebi> and GPIIb/IIIa reaction were positive for blast cells and atypical megakaryoblasts </plain></SENT>
+<SENT sid="8" pm="."><plain>A diagnosis of <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> with an abnormality in megakaryocytic lineage was made </plain></SENT>
+<SENT sid="9" pm="."><plain>The patient was treated with 1,25-dihydroxy-<z:chebi fb="0" ids="28940">vitamin D3</z:chebi>, however this therapy was temporary and he developed into <z:hpo ids='HP_0011009'>acute</z:hpo> megakaryoblastic <z:hpo ids='HP_0001909'>leukemia</z:hpo> (M7) </plain></SENT>
+<SENT sid="10" pm="."><plain>This report suggested that some cases of therapy-related <z:hpo ids='HP_0001909'>leukemia</z:hpo> (TRL) mainly involve megakaryocytic lineage and are diagnosed as <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> with <z:hpo ids='HP_0011974'>myelofibrosis</z:hpo> which transform to M7 </plain></SENT>
+<SENT sid="11" pm="."><plain>The fact that <z:chebi fb="61" ids="27565">PAS</z:chebi> stain of erythroblasts in the patient reported here was positive may suggest involvement of development of more precise immunological markers of differentiation and EM study will permit better diagnosis of TRL and may therefore facilitate new therapeutic approaches </plain></SENT>
+</text></document>

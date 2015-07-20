@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: To determine clinical, laboratory analysis, and necropsy findings for equids with oleander <z:e sem="disease" ids="C0302332" disease_type="Disease or Syndrome" abbrv="">toxicosis</z:e> and to identify factors associated with outcome </plain></SENT>
+<SENT sid="1" pm="."><plain>DESIGN: Retrospective case series </plain></SENT>
+<SENT sid="2" pm="."><plain>ANIMALS: 30 equids </plain></SENT>
+<SENT sid="3" pm="."><plain>PROCEDURES: Medical records of equids with detectable concentrations of oleandrin in serum, plasma, urine, or gastrointestinal fluid samples and equids that had not received cardiac <z:chebi fb="0" ids="24400">glycoside</z:chebi> drugs but had detectable concentrations of digoxin in serum were identified via a medical records database search </plain></SENT>
+<SENT sid="4" pm="."><plain>Descriptive statistics were calculated for medical history, physical examination, laboratory analysis, and necropsy variables </plain></SENT>
+<SENT sid="5" pm="."><plain>Logistic regression analysis was used to identify physical examination and laboratory analysis factors significantly associated with outcome </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: 3 of 30 (10.0%) equids died before or immediately after arrival at the hospital </plain></SENT>
+<SENT sid="7" pm="."><plain>Of the other 27 equids, 23 (85.2%) had gastrointestinal tract abnormalities, <z:hpo ids='HP_0002157'>azotemia</z:hpo> was detected for 19 (70.4%), and a <z:hpo ids='HP_0011675'>cardiac arrhythmia</z:hpo> was ausculted for 18 (66.7%) </plain></SENT>
+<SENT sid="8" pm="."><plain>Mortality rate for <z:hpo ids='HP_0000001'>all</z:hpo> equids was 50.0%; mortality rate for hospitalized equids was 44.4% </plain></SENT>
+<SENT sid="9" pm="."><plain>The most common cause of <z:hpo ids='HP_0011420'>death</z:hpo> was cardiac dysfunction </plain></SENT>
+<SENT sid="10" pm="."><plain>Odds of survival to discharge from the hospital were lower for equids with <z:hpo ids='HP_0011675'>cardiac arrhythmias</z:hpo> versus those without <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> and decreased with increasing Hct and serum <z:chebi fb="105" ids="17234">glucose</z:chebi> concentrations </plain></SENT>
+<SENT sid="11" pm="."><plain>Odds of survival increased with increasing serum <z:chebi fb="76" ids="17996">chloride</z:chebi> concentration and duration of hospitalization </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS AND CLINICAL RELEVANCE: Equids with oleander <z:e sem="disease" ids="C0302332" disease_type="Disease or Syndrome" abbrv="">toxicosis</z:e> frequently had simultaneous gastrointestinal tract, cardiac, and renal problems </plain></SENT>
+<SENT sid="13" pm="."><plain>Oleander intoxication should be a differential diagnosis for equids with colic in geographic areas where oleander is found, especially when <z:hpo ids='HP_0002157'>azotemia</z:hpo> or <z:hpo ids='HP_0011675'>cardiac arrhythmias</z:hpo> are detected concurrently </plain></SENT>
+</text></document>

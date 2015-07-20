@@ -1,0 +1,21 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Patients with advanced <z:e sem="disease" ids="C0376545" disease_type="Neoplastic Process" abbrv="">hematological malignancies</z:e> ineligible for conventional myeloablative allogeneic hematopoietic stem cell transplantation (HSCT) due to advanced age or medical contraindications were enrolled in multi-center study to investigate the safety and efficacy of nonmyeloablative HSCT using a 2 Gy total body irradi ation (TBI)-based regimen </plain></SENT>
+<SENT sid="1" pm="."><plain>A total of 192 patients (median age 55) were treated with HLA-matched sibling peripheral blood stem cell (PBSC) grafts, and 63 patients (median age 53) received a 10 of 10 HLA-antigen matched unrelated donor (URD) HSCT (PBSC graft, n = 48; marrow graft, n = 15) </plain></SENT>
+<SENT sid="2" pm="."><plain>Diagnoses included <z:hpo ids='HP_0006775'>multiple myeloma</z:hpo> (n = 61), <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo> (n = 55), <z:hpo ids='HP_0011010'>chronic</z:hpo> myeloid <z:hpo ids='HP_0001909'>leukemia</z:hpo> (n = 31), non-Hodgkin <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (n = 31), <z:hpo ids='HP_0004808'>acute myeloid leukemia</z:hpo> (n = 28), <z:hpo ids='HP_0005550'>chronic lymphocytic leukemia</z:hpo> (n = 24), <z:e sem="disease" ids="C0019829" disease_type="Neoplastic Process" abbrv="hd">Hodgkin Disease</z:e> (n = 14) </plain></SENT>
+<SENT sid="3" pm="."><plain>The conditioning regimen was fludarabine 30 mg/m2/d x 3 days and 2 Gy TBI </plain></SENT>
+<SENT sid="4" pm="."><plain>Ninety-five related HSCT patients received 2 Gy TBI without fludarabine </plain></SENT>
+<SENT sid="5" pm="."><plain>Postgrafting immunosuppression was combined <z:chebi fb="0" ids="168396">mycophenolate</z:chebi> mofetil an <z:chebi fb="0" ids="4031">cyclosporine</z:chebi> </plain></SENT>
+<SENT sid="6" pm="."><plain>Transplants were well tolerated with a median of 0 days of hospitalization in the first 60 days for eligible patients </plain></SENT>
+<SENT sid="7" pm="."><plain>For related HSCT recipients, median follow-up was 289 (100-1,188) days </plain></SENT>
+<SENT sid="8" pm="."><plain>Nonfatal graft rejection occurred in 6.8% </plain></SENT>
+<SENT sid="9" pm="."><plain>Of those with sustained engraftment, <z:e sem="disease" ids="C0018133" disease_type="Disease or Syndrome" abbrv="GVH">graft-versus-host disease</z:e> (GVHD) occurred in 49% (33% grade II, 11% grade III, 5% grade IV) </plain></SENT>
+<SENT sid="10" pm="."><plain>Day-100 non-relapse mortality was 6% </plain></SENT>
+<SENT sid="11" pm="."><plain>Overall, 59% (114/192) of patients were alive </plain></SENT>
+<SENT sid="12" pm="."><plain>The relapse/disease progression mortality was 18%, and non-relapse mortality was 22% </plain></SENT>
+<SENT sid="13" pm="."><plain>The projecte 2-year survival and progression-free survival were 50% and 40% </plain></SENT>
+<SENT sid="14" pm="."><plain>For the URD HSCT recipients, median follow-up was 190 (100-468) days </plain></SENT>
+<SENT sid="15" pm="."><plain>Graft rejection occurred in 27% (17/63) of patients, mostly in recipients of marrow grafts (9/15) </plain></SENT>
+<SENT sid="16" pm="."><plain><z:hpo ids='HP_0011009'>Acute</z:hpo> GVHD occurred in 63% (50% grade II, 13% grade III) of 46 engrafted patients </plain></SENT>
+<SENT sid="17" pm="."><plain><z:hpo ids='HP_0011010'>Chronic</z:hpo> GVHD requiring therapy occurred in 50% of patients </plain></SENT>
+<SENT sid="18" pm="."><plain>Of the 63 URD HSCT patients, 54% were alive, 37% in CR, 3% PR, and 14% with disease progression or relapse </plain></SENT>
+<SENT sid="19" pm="."><plain>Related and unrelated nonmyeloablative HSCT is feasible and potentially curative in patients with advanced <z:e sem="disease" ids="C0376545" disease_type="Neoplastic Process" abbrv="">hematological malignancies</z:e> who have no other treatment options </plain></SENT>
+</text></document>

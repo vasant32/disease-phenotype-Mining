@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: Type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> is caused by both environmental and genetic factors </plain></SENT>
+<SENT sid="1" pm="."><plain>To better understand the genetic factors we used forward genetics to discover genes that have not previously been implicated in the development of <z:hpo ids='HP_0003074'>hyperglycemia</z:hpo> or <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="2" pm="."><plain>RESEARCH DESIGN AND METHODS: Offspring of ethylnitrosurea-mutagenized C57BL/6 mice were bred to homozygosity, maintained on high-fat diet, and screened for <z:hpo ids='HP_0003074'>hyperglycemia</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>The phenotype in one diabetic family of mice was mapped among hybrid F2s with single nucleotide polymorphic markers, followed by candidate gene sequencing to identify the gene harboring the causative mutation </plain></SENT>
+<SENT sid="4" pm="."><plain>Subsequent analysis was done on <z:mp ids='MP_0002169'>wild-type</z:mp>, heterozygous, and homozygous mutant mice on a pure C57BL/6 background </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: <z:mp ids='MP_0002055'>Diabetes</z:mp> mapped to a point mutation in the Sec61a1 gene that encodes a His to Tyr substitution at amino acid 344 (Y344H) </plain></SENT>
+<SENT sid="6" pm="."><plain>Metabolic profiling, histological examination, and electron microscopy revealed that <z:hpo ids='HP_0003074'>hyperglycemia</z:hpo> was a result of insulin insufficiency due to beta-cell <z:mpath ids='MPATH_3'>apoptosis</z:mpath> brought on by endoplasmic reticulum (ER) stress </plain></SENT>
+<SENT sid="7" pm="."><plain>Transgenic beta-cell-specific expression of Sec61a1 in mutant mice rescued <z:mp ids='MP_0002055'>diabetes</z:mp>, beta-cell <z:mpath ids='MPATH_3'>apoptosis</z:mpath>, and ER stress </plain></SENT>
+<SENT sid="8" pm="."><plain>In vitro experiments showed that Sec61alpha1 plays a critical role in the beta-cell response to <z:chebi fb="105" ids="17234">glucose</z:chebi> </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSIONS: Here we phenotypically characterize <z:mp ids='MP_0002055'>diabetes</z:mp> in mice with a novel point mutation in a basic component of the cell's ER protein translocation machinery, Sec61alpha1 </plain></SENT>
+<SENT sid="10" pm="."><plain>Translocation by the mutant protein does not appear to be affected </plain></SENT>
+<SENT sid="11" pm="."><plain>Rather, ER homeostasis is perturbed leading to beta-cell <z:hpo ids='HP_0011420'>death</z:hpo> and <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+</text></document>

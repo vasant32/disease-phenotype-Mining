@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>AIM: It has been shown that <z:hpo ids='HP_0002621'>atherosclerosis</z:hpo> is an <z:e sem="disease" ids="C1290884" disease_type="Disease or Syndrome" abbrv="">inflammatory disease</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>Recent data suggest that <z:mp ids='MP_0001845'>inflammation</z:mp> precedes type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="2" pm="."><plain>Hence, we wanted to study the interrelationship between IL-6, insulin sensitivity, <z:chebi fb="23" ids="18059">lipids</z:chebi> and numerous <z:hpo ids='HP_0011009'>acute</z:hpo>-phase proteins </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: Twenty-one healthy individuals [16 males/5 females, age 27.9+/-1.8 years, body mass index (BMI) 24.1+/-0.8 kg/m(2)] participated in the study </plain></SENT>
+<SENT sid="4" pm="."><plain>Each patient went through a 4-h hyperinsulinaemic (40 mU/m(2)/min) euglycaemic clamp and 4-h saline infusion </plain></SENT>
+<SENT sid="5" pm="."><plain>Blood samples were taken before and at the end of the infusions </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: Plasma interleukin (IL)-6 concentration correlated inversely with insulin sensitivity (M-value) (r=-0.49, p&lt;0.05) </plain></SENT>
+<SENT sid="7" pm="."><plain>Moreover, the plasma levels of IL-6 associated with c-<z:chebi fb="7" ids="16670">peptide</z:chebi> (r=0.49, p&lt;0.05), fat% (r=0.43, p&lt;0.05) and diastolic blood pressure (r=0.46, p&lt;0.05) </plain></SENT>
+<SENT sid="8" pm="."><plain>alpha-1-acid <z:chebi fb="2" ids="17089">glycoprotein</z:chebi> was related to HbA1(c) (r=0.47, p&lt;0.05), insulin (r=0.55, p&lt;0.01), diastolic blood pressure (r=0.58, p&lt;0.01), systolic blood pressure (r=0.58, p&lt;0.01) and <z:chebi fb="4" ids="17855">triglycerides</z:chebi> (r=0.58, p&lt;0.01) </plain></SENT>
+<SENT sid="9" pm="."><plain>Haptoglobin was correlated with insulin (r=0.46, p&lt;0.05), total cholesterol (r=0.61, p&lt;0.01), BMI (r=0.58, p&lt;0.01), fat% (r=0.63, p&lt;0.01) and <z:chebi fb="23" ids="18059">lipid</z:chebi> oxidation during clamp (r=0.43, p&lt;0.05) </plain></SENT>
+<SENT sid="10" pm="."><plain>Diastolic blood pressure decreased during the clamp (from 78.3+/-1.9 to 72.1+/-2.0 mmHg, p=0.001) </plain></SENT>
+<SENT sid="11" pm="."><plain>Insulin infusion did not affect the serum levels of most <z:hpo ids='HP_0011009'>acute</z:hpo>-phase proteins </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: Our study suggests that low grade <z:mp ids='MP_0001845'>inflammation</z:mp>, as reflected by IL-6, A1GP and haptoglobin contributes to the regulation of insulin sensitivity, <z:chebi fb="23" ids="18059">lipid</z:chebi> metabolism and blood pressure in <z:mpath ids='MPATH_458'>normal</z:mpath> human <z:mp ids='MP_0001532'>physiology</z:mp> </plain></SENT>
+</text></document>

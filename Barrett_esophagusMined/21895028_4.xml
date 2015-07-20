@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The availability of confocal endomicroscopy motivates the development of optical contrast agents that can delineate the morphologic and metabolic features of gastrointestinal <z:hpo ids='HP_0002664'>neoplasia</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>This study evaluates 2-NBDG, a fluorescent <z:chebi fb="0" ids="15866">deoxyglucose</z:chebi>, the uptake of which is associated with increased metabolic activity, in the identification of Barrett's-associated <z:hpo ids='HP_0002664'>neoplasia</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>Surveillance biopsies from patients with varying pathologic grades of <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> were incubated ex vivo at 37°C with 2-NBDG and imaged with a fluorescence confocal microscope </plain></SENT>
+<SENT sid="3" pm="."><plain>Images were categorized as neoplastic (high grade <z:mpath ids='MPATH_589'>dysplasia</z:mpath>, esophageal <z:mp ids='MP_0009308'>adenocarcinoma</z:mp>) or metaplastic (<z:mpath ids='MPATH_167'>intestinal metaplasia</z:mpath>, low grade <z:mpath ids='MPATH_589'>dysplasia</z:mpath>) based on the degree of glandular 2-NBDG uptake </plain></SENT>
+<SENT sid="4" pm="."><plain>Classification accuracy was assessed using histopathology as the gold standard </plain></SENT>
+<SENT sid="5" pm="."><plain>Forty-four biopsies were obtained from twenty-six patients; 206 sites were imaged </plain></SENT>
+<SENT sid="6" pm="."><plain>The glandular mean fluorescence intensity of neoplastic sites was significantly higher than that of metaplastic sites (p&lt;0.001) </plain></SENT>
+<SENT sid="7" pm="."><plain><z:hpo ids='HP_0011010'>Chronic</z:hpo> <z:mp ids='MP_0001845'>inflammation</z:mp> was associated with increased 2-NBDG uptake in the lamina propria but not in glandular epithelium </plain></SENT>
+<SENT sid="8" pm="."><plain>Sites could be classified as neoplastic or not with 96% sensitivity and 90% specificity based on glandular mean fluorescence intensity </plain></SENT>
+<SENT sid="9" pm="."><plain>Classification accuracy was not affected by the presence of <z:mp ids='MP_0001845'>inflammation</z:mp> </plain></SENT>
+<SENT sid="10" pm="."><plain>By delineating the metabolic and morphologic features of <z:hpo ids='HP_0002664'>neoplasia</z:hpo>, 2-NBDG shows promise as a topical contrast agent for confocal imaging </plain></SENT>
+<SENT sid="11" pm="."><plain>Further in vivo testing is needed to determine its performance in identifying <z:hpo ids='HP_0002664'>neoplasia</z:hpo> during confocal endomicroscopic imaging </plain></SENT>
+</text></document>

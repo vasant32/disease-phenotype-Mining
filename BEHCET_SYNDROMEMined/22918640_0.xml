@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PURPOSE: 1,25-Dihydroxyvitamin D3 (VitD3) has been shown to have immunoregulatory properties in animal models </plain></SENT>
+<SENT sid="1" pm="."><plain>In this study, we investigated its inhibitory effect on the immune response in <z:chebi fb="6" ids="22696">Beh</z:chebi>çet's disease (BD) patients and the possible mechanisms involved </plain></SENT>
+<SENT sid="2" pm="."><plain>METHODS: Naive CD4(+) T cells from active BD patients and <z:mpath ids='MPATH_458'>normal</z:mpath> controls were cultured under Th17 polarizing conditions in the presence or absence of VitD3, and cytokine production was determined by ELISA and flow cytometry </plain></SENT>
+<SENT sid="3" pm="."><plain><z:chebi fb="2" ids="33699">mRNA</z:chebi> expression of several factors related to Th17 cell function was determined by real-time PCR </plain></SENT>
+<SENT sid="4" pm="."><plain><z:chebi fb="40" ids="33697">RNA</z:chebi> interference for IFN regulatory factor 8 (IRF-8) was performed to study whether it was involved in the inhibitory effect of VitD3 on Th17 cell differentiation </plain></SENT>
+<SENT sid="5" pm="."><plain>The effect of VitD3-treated dendritic cells (DCs) on CD4(+) T cell response was determined by ELISA and flow cytometry </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: Stimulation of naive CD4(+) T cells under Th17 polarizing conditions showed a higher Th17 cell differentiation in active BD patients </plain></SENT>
+<SENT sid="7" pm="."><plain>The addition of VitD3 significantly inhibited Th17 cell differentiation both in BD patients and in <z:mpath ids='MPATH_458'>normal</z:mpath> controls </plain></SENT>
+<SENT sid="8" pm="."><plain>The knockdown of IRF-8 by <z:chebi fb="40" ids="33697">RNA</z:chebi> interference significantly decreased the suppressive effect of VitD3 on Th17 differentiation </plain></SENT>
+<SENT sid="9" pm="."><plain>VitD3 was able to inhibit the gene expression of RORC, IL-17, IL-23R, CCR6, and Th1 cell differentiation, but upregulated IL-10 expression </plain></SENT>
+<SENT sid="10" pm="."><plain>VitD3-treated DCs significantly inhibited the Th17 and Th1 response </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: The findings suggest that the inhibitory effect of VitD3 on the Th17 and Th1 response was mediated via both T cells and DCs and that the IRF-8 pathway is involved in the direct inhibition of VitD3 on Th17 cell differentiation </plain></SENT>
+</text></document>

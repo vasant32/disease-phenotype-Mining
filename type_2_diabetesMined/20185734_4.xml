@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: To determine the pharmacokinetic and pharmacodynamic properties of an oral insulin (OI) formulation compared with subcutaneously injected regular human insulin (RHI) </plain></SENT>
+<SENT sid="1" pm="."><plain>RESEARCH DESIGN AND METHODS: Ten male patients with type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> (means +/- SD; A1C 7.0 +/- 1.1%; BMI 28.3 +/- 2.7 kg/m(2)) received either 300 units of insulin combined with 400 mg of delivery agent orally or 15 units RHI subcutaneously under isoglycemic clamp conditions </plain></SENT>
+<SENT sid="2" pm="."><plain>RESULTS: Maximum insulin concentration was greater and <z:hpo ids='HP_0003674'>onset</z:hpo> of action was faster with OI (C(max) 93 +/- 71 vs. 33 +/- 11 microU/ml; AUC(GIR)((0-1h)) 173 +/- 86 vs. 27 +/- 32 mg/kg; P &lt; 0.05) </plain></SENT>
+<SENT sid="3" pm="."><plain>Mean insulin concentration and <z:chebi fb="105" ids="17234">glucose</z:chebi> infusion rate returned to baseline within 3 h after OI administration </plain></SENT>
+<SENT sid="4" pm="."><plain>Relative bioavailability of OI was 7 +/- 4% (1st 2 h) </plain></SENT>
+<SENT sid="5" pm="."><plain>CONCLUSIONS: This proof-of-concept study demonstrated that absorption of OI is feasible under fasting conditions </plain></SENT>
+<SENT sid="6" pm="."><plain>OI has a fast <z:hpo ids='HP_0003674'>onset</z:hpo> and a short duration of action but also shows a rather high between-subject variability in absorption </plain></SENT>
+</text></document>

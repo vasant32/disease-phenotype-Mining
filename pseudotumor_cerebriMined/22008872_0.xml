@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Idiopathic intracranial <z:hpo ids='HP_0000822'>hypertension</z:hpo> (IIH) primarily affects young <z:mp ids='MP_0001261'>obese</z:mp> females, and potentially causes <z:hpo ids='HP_0000572'>visual loss</z:hpo> and severe <z:hpo ids='HP_0002315'>headache</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>The aim of this experiment is to examine relapse rate and long-term outcome in IIH patients </plain></SENT>
+<SENT sid="2" pm="."><plain>The methods involved in this experiment include a prospective controlled study of 18 newly diagnosed IIH patients followed for a mean observation period of 21.1 (±8.0) months </plain></SENT>
+<SENT sid="3" pm="."><plain>Treatment regime included <z:chebi fb="40" ids="35498">diuretics</z:chebi>, dietary recommendations and check-up visits at a dietician </plain></SENT>
+<SENT sid="4" pm="."><plain>Baseline and follow-up included neurological examination, detailed <z:hpo ids='HP_0002315'>headache</z:hpo> history and comprehensive neuro-ophthalmological examination, including fundus photography, Humphrey visual fields, and measurement of the <z:chebi fb="46" ids="15035">retinal</z:chebi> thickness (RT) and <z:chebi fb="46" ids="15035">retinal</z:chebi> nerve fiber layers (RNFL) by optical coherence tomography (OCT) </plain></SENT>
+<SENT sid="5" pm="."><plain>Relapse was defined as recurrence of either: (1) <z:hpo ids='HP_0001085'>papilledema</z:hpo> or (2) symptoms and demonstrated raised ICP </plain></SENT>
+<SENT sid="6" pm="."><plain>The result of this experiment is that relapse was found in 28% </plain></SENT>
+<SENT sid="7" pm="."><plain>Visual function improved from baseline to follow-up and was generally favorable </plain></SENT>
+<SENT sid="8" pm="."><plain>In patients without relapse of <z:hpo ids='HP_0001085'>papilledema</z:hpo> RT and RNFL were significantly thinner than in healthy controls (p = 0.003 and 0.02), although <z:mpath ids='MPATH_127'>atrophy</z:mpath> was clinically detectable in only one patient </plain></SENT>
+<SENT sid="9" pm="."><plain><z:hpo ids='HP_0002315'>Headache</z:hpo> was still present in 67% of the patients at follow-up </plain></SENT>
+<SENT sid="10" pm="."><plain><z:hpo ids='HP_0002315'>Headache</z:hpo> was heterogenic and unrelated to relapse </plain></SENT>
+<SENT sid="11" pm="."><plain>After an initial reduction, weight increased again in the relapse group compared to <z:mp ids='MP_0001262'>reduced weight</z:mp> in the non-relapse group (p = 0.013) </plain></SENT>
+<SENT sid="12" pm="."><plain>Thus, the conclusions drawn are that <z:hpo ids='HP_0002315'>headache</z:hpo> was persistent, difficult to classify, and equally represented in relapse and non-relapse patients </plain></SENT>
+<SENT sid="13" pm="."><plain><z:hpo ids='HP_0002315'>Headache</z:hpo> was thus a poor marker of active disease </plain></SENT>
+<SENT sid="14" pm="."><plain>Relapse rate was high and clinically undetectable optic disc <z:mpath ids='MPATH_127'>atrophy</z:mpath> was discovered in apparently well treated IIH patients </plain></SENT>
+</text></document>

@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Two DNA methyltransferase inhibitors, <z:chebi fb="0" ids="2038">azacitidine</z:chebi> and <z:chebi fb="0" ids="50131">decitabine</z:chebi>, are currently approved for the treatment of <z:hpo ids='HP_0002863'>myelodysplastic syndrome</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e>) </plain></SENT>
+<SENT sid="1" pm="."><plain>Choosing between these drugs is an important practical issue </plain></SENT>
+<SENT sid="2" pm="."><plain>In this retrospective study, patients receiving AZA-7d (<z:chebi fb="0" ids="2038">azacitidine</z:chebi> 75 mg/m(2) subcutaneously × 7 days, n = 75) or DEC-5d (<z:chebi fb="0" ids="50131">decitabine</z:chebi> 20 mg/m(2) intravenously × 5 days, n = 74) were compared </plain></SENT>
+<SENT sid="3" pm="."><plain>The rates of hematologic response (complete response [CR]/partial response [PR]/marrow CR) were 12.0 % (AZA-7d) vs. 29.7 % (DEC-5d) (P = 0.008), and the overall response rates (CR/PR/marrow CR/hematologic improvement) were 52.0 % (AZA-7d) vs. 63.5 % (DEC-5d) (P = 0.155) </plain></SENT>
+<SENT sid="4" pm="."><plain>Grade 3 or higher <z:hpo ids='HP_0001875'>neutropenia</z:hpo> occurred more frequently with DEC-5d (79.6 %) than with AZA-7d (72.2 %) (P = 0.040) </plain></SENT>
+<SENT sid="5" pm="."><plain>Overall survival probabilities at 2 years were 42.1 % (AZA-7d) vs. 42.2 % (DEC-5d) (P = 0.944) </plain></SENT>
+<SENT sid="6" pm="."><plain>Subgroup analysis revealed that AZA-7d associated with higher survival rates than DEC-5d in patients whose <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> duration exceeded 1 year or who had poor performance status </plain></SENT>
+<SENT sid="7" pm="."><plain>In conclusion, both AZA-7d and DEC-5d regimens were effective in treating patients with <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">MDS</z:e> </plain></SENT>
+<SENT sid="8" pm="."><plain>However, the two regimens differed in terms of clinical responses and toxicities </plain></SENT>
+<SENT sid="9" pm="."><plain>One hypomethylating regimen may be superior to the other regimen in particular subgroups </plain></SENT>
+</text></document>

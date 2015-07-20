@@ -1,0 +1,18 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND PURPOSE: <z:chebi fb="0" ids="17154">Nicotinamide</z:chebi> protects against brain damage in <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e>-reperfusion </plain></SENT>
+<SENT sid="1" pm="."><plain>However, the dosage and time of treatment require clarification </plain></SENT>
+<SENT sid="2" pm="."><plain>It is also not clear if <z:chebi fb="0" ids="17154">nicotinamide</z:chebi> can protect against both <z:mp ids='MP_0001651'>necrosis</z:mp> and <z:mpath ids='MPATH_3'>apoptosis</z:mpath> </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: Dose-response and time-effect studies were designed </plain></SENT>
+<SENT sid="4" pm="."><plain>Transient focal <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> was induced by middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> (MCAO) for 90 min </plain></SENT>
+<SENT sid="5" pm="."><plain>Different doses of <z:chebi fb="0" ids="17154">nicotinamide</z:chebi> were injected upon reperfusion </plain></SENT>
+<SENT sid="6" pm="."><plain>In time-effect studies, 500 mg/kg <z:chebi fb="0" ids="17154">nicotinamide</z:chebi> was administered at different times after the <z:hpo ids='HP_0003674'>onset</z:hpo> of reperfusion </plain></SENT>
+<SENT sid="7" pm="."><plain>Neurological finding scores were recorded </plain></SENT>
+<SENT sid="8" pm="."><plain><z:mpath ids='MPATH_124'>Infarct</z:mpath> volumes were measured </plain></SENT>
+<SENT sid="9" pm="."><plain>RESULTS: In contrast to controls, neurological deficit scores and <z:mpath ids='MPATH_124'>infarct</z:mpath> volumes were greatly reduced by treatment with <z:chebi fb="0" ids="17154">nicotinamide</z:chebi> </plain></SENT>
+<SENT sid="10" pm="."><plain>The ED(50) of <z:chebi fb="0" ids="17154">nicotinamide</z:chebi> was 239+/-79 mg/kg (P=.95) </plain></SENT>
+<SENT sid="11" pm="."><plain>It was found that <z:chebi fb="0" ids="17154">nicotinamide</z:chebi> injected during the first 6 h of reperfusion could effectively inhibit the development of brain damage </plain></SENT>
+<SENT sid="12" pm="."><plain>The optimal dose of <z:chebi fb="0" ids="17154">nicotinamide</z:chebi> was 500 mg/kg and gave a maximal response </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSIONS: Poly(<z:chebi fb="13" ids="16761">ADP</z:chebi>-<z:chebi fb="1" ids="33942">ribose</z:chebi>) polymerase (PARP) plays a key role in DNA repair in <z:hpo ids='HP_0001297'>stroke</z:hpo> </plain></SENT>
+<SENT sid="14" pm="."><plain>Excessive PARP activity consumes <z:chebi fb="0" ids="13389">NAD</z:chebi> leading to energy <z:mpath ids='MPATH_63'>depletion</z:mpath> and neuronal damage </plain></SENT>
+<SENT sid="15" pm="."><plain>As an inhibitor of PARP, <z:chebi fb="0" ids="17154">nicotinamide</z:chebi> promotes the supply of energy </plain></SENT>
+<SENT sid="16" pm="."><plain>The results suggest that early application of <z:chebi fb="0" ids="17154">nicotinamide</z:chebi> at a suitable dosage significantly ameliorates necrotic and apoptotic brain injury after focal <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e>-reperfusion </plain></SENT>
+</text></document>

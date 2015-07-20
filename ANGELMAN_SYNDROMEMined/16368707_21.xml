@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Prader-Willi syndrome (PWS) and <z:e sem="disease" ids="C0162635" disease_type="Disease or Syndrome" abbrv="">Angelman syndrome (AS)</z:e> are caused by the loss of imprinted gene expression from chromosome 15q11-q13 </plain></SENT>
+<SENT sid="1" pm="."><plain>Imprinted gene expression in the region is regulated by a bipartite imprinting centre (IC), comprising the PWS-IC and the AS-IC </plain></SENT>
+<SENT sid="2" pm="."><plain>The PWS-IC is a positive regulatory element required for bidirectional activation of a number of paternally expressed genes </plain></SENT>
+<SENT sid="3" pm="."><plain>The function of the AS-IC appears to be to suppress PWS-IC function on the maternal chromosome through a methylation imprint acquired during female gametogenesis </plain></SENT>
+<SENT sid="4" pm="."><plain>Here we have placed the entire mouse locus under the control of a human PWS-IC by targeted replacement of the mouse PWS-IC with the equivalent human region </plain></SENT>
+<SENT sid="5" pm="."><plain>Paternal <z:hpo ids='HP_0000005'>inheritance</z:hpo> of the human PWS-IC demonstrates for the first time that a positive regulatory element in the PWS-IC has diverged </plain></SENT>
+<SENT sid="6" pm="."><plain>These mice show <z:mp ids='MP_0002082'>postnatal lethality</z:mp> and <z:hpo ids='HP_0001510'>growth deficiency</z:hpo>, phenotypes not previously attributed directly to the affected genes </plain></SENT>
+<SENT sid="7" pm="."><plain>Following maternal <z:hpo ids='HP_0000005'>inheritance</z:hpo>, the human PWS-IC is able to acquire a methylation imprint in mouse oocytes, suggesting that acquisition of the methylation imprint is conserved </plain></SENT>
+<SENT sid="8" pm="."><plain>However, the imprint is lost in somatic cells, showing that maintenance has diverged </plain></SENT>
+<SENT sid="9" pm="."><plain>This <z:mp ids='MP_0003122'>maternal imprinting</z:mp> defect results in expression of maternal Ube3a-as and repression of Ube3a in cis, providing evidence that Ube3a is regulated by its antisense and creating the first reported mouse model for AS imprinting defects </plain></SENT>
+</text></document>

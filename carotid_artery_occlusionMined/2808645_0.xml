@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Cerebral metabolism was investigated in <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> in fasted Mongolian gerbils by in vivo magnetic resonance spectroscopy (MRS) </plain></SENT>
+<SENT sid="1" pm="."><plain><z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">Ischemia</z:e> was induced by bilateral carotid <z:mp ids='MP_0006134'>artery occlusion</z:mp> and continued for 30 min </plain></SENT>
+<SENT sid="2" pm="."><plain>Recovery was achieved by releasing the occlusion </plain></SENT>
+<SENT sid="3" pm="."><plain>High energy adenylates, free phosphates as well as intracellular pH were measured by <z:chebi fb="0" ids="37971">31P</z:chebi>-MRS </plain></SENT>
+<SENT sid="4" pm="."><plain>Cerebral <z:chebi fb="4" ids="24996">lactate</z:chebi> levels were determined by 1H-MRS </plain></SENT>
+<SENT sid="5" pm="."><plain>Furthermore, extracellular <z:chebi fb="199" ids="26708">sodium</z:chebi> levels were monitored by <z:chebi fb="0" ids="52634">23Na</z:chebi>-MRS </plain></SENT>
+<SENT sid="6" pm="."><plain>The results showed that intracellular pH decreased to pH = 6.601 at 7.5-15 min after carotid ligation and was regulated back to pH = 6.670 during <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> </plain></SENT>
+<SENT sid="7" pm="."><plain>pH returned to preischemic levels 45 min after <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> and there was an overshoot (pH = 7.241) in pH levels at 67.5-75 min after recirculation </plain></SENT>
+<SENT sid="8" pm="."><plain>The accumulation of <z:chebi fb="4" ids="24996">lactate</z:chebi> was slower and the accumulation continued after intracellular pH started to regulate back to <z:mpath ids='MPATH_458'>normal</z:mpath> levels </plain></SENT>
+<SENT sid="9" pm="."><plain><z:chebi fb="4" ids="24996">Lactate</z:chebi> decreased following recirculation, but was still higher than the preischemic level at 90 min after recirculation </plain></SENT>
+<SENT sid="10" pm="."><plain>The results show that changes in intracellular pH is not parallel those in <z:chebi fb="4" ids="24996">lactate</z:chebi> levels, suggesting a different mechanism for regulating intracellular pH </plain></SENT>
+<SENT sid="11" pm="."><plain>The signal intensity of <z:chebi fb="199" ids="26708">sodium</z:chebi> was dropped before ATP disappeared, and rapidly normalized at 14-26 min after recirculation, at which time ATP had also normalized </plain></SENT>
+<SENT sid="12" pm="."><plain>This result suggests that the loss of signal intensity of <z:chebi fb="0" ids="52634">23Na</z:chebi> shows depolarization induced by <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e> and Na-K ATP pump failure </plain></SENT>
+</text></document>

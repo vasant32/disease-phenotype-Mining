@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVES: To compare adherence between once-daily (QD) and twice-daily (BID) dosing with <z:hpo ids='HP_0011010'>chronic</z:hpo>-use prescription medications used by patients with <z:e sem="disease" ids="C0007222" disease_type="Disease or Syndrome" abbrv="CVD">cardiovascular disease</z:e> </plain></SENT>
+<SENT sid="1" pm="."><plain>STUDY DESIGN: Retrospective cohort database analysis </plain></SENT>
+<SENT sid="2" pm="."><plain>Methods: Analysis consisted of 1,077,474 patients aged &gt;18 years with a prescription index date from January 1 to December 31, 2007, for an <z:chebi fb="0" ids="35526">antidiabetic</z:chebi>, <z:chebi fb="0" ids="35679">antihyperlipidemic</z:chebi>, antiplatelet, or cardiac agent with QD or BID dosing </plain></SENT>
+<SENT sid="3" pm="."><plain>Adherence (medication possession ratio [MPR]) was the number of days of medication supplied between the first prescription fill date and the subsequent 365 days divided by 365 days </plain></SENT>
+<SENT sid="4" pm="."><plain>Overall mean MPR and comparisons between dosing frequency groups were assessed with a generalized estimating equation </plain></SENT>
+<SENT sid="5" pm="."><plain>Covariates included age at index date, gender, Charlson comorbidity index, therapeutic class, dosing frequency, and the interaction between therapeutic class and dosing frequency group </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: Overall, the adjusted mean MPR ± standard error (SE) value for QD agents was 13.6% greater than BID agents (0.66 ± 0.0006 vs 0.57 ± 0.0016; P &lt;.01) </plain></SENT>
+<SENT sid="7" pm="."><plain>The adjusted mean MPR value for QD agents was 2.9%, 17.5%, and 29.4% greater than BID agents in the <z:chebi fb="0" ids="35526">antidiabetic</z:chebi>, <z:chebi fb="0" ids="35679">antihyperlipidemic</z:chebi>, and antiplatelet therapeutic classes, respectively </plain></SENT>
+<SENT sid="8" pm="."><plain>For cardiac agents, the adjusted mean MPR value was similar between QD and BID agents </plain></SENT>
+<SENT sid="9" pm="."><plain><z:chebi fb="0" ids="3441">Carvedilol</z:chebi> represented approximately 80% of the cardiac agents in the BID group </plain></SENT>
+<SENT sid="10" pm="."><plain>The adjusted mean MPR ± SE for <z:chebi fb="0" ids="3441">carvedilol</z:chebi> phosphate QD was 0.73 ± 0.0024 and 0.65 ± 0.0027 for <z:chebi fb="0" ids="3441">carvedilol</z:chebi> BID (11% difference; P &lt;.01) </plain></SENT>
+<SENT sid="11" pm="."><plain>CONCLUSIONS: In this large analysis, the QD dosing regimen was related to greater adherence versus a BID regimen </plain></SENT>
+</text></document>

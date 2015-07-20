@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND AND PURPOSE: <z:chebi fb="1" ids="18421">Superoxide</z:chebi> may play an important role in <z:e sem="disease" ids="C0265110" disease_type="Disease or Syndrome" abbrv="">cerebral vasospasm</z:e> after <z:hpo ids='HP_0002138'>subarachnoid hemorrhage</z:hpo> (SAH) </plain></SENT>
+<SENT sid="1" pm="."><plain>Our first goal was to determine the effect of gene transfer of extracellular <z:chebi fb="1" ids="18421">superoxide</z:chebi> dismutase (ECSOD) on vasospasm after experimental SAH </plain></SENT>
+<SENT sid="2" pm="."><plain>Our second goal was to determine whether tissue binding of ECSOD via the <z:chebi fb="5" ids="28304">heparin</z:chebi>-binding domain (HBD) is important for the effect of the enzyme </plain></SENT>
+<SENT sid="3" pm="."><plain>Thus, we examined effects of gene transfer of ECSOD with the HBD deleted (ECSODDeltaHBD) </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODS: Adenovirus expressing human ECSOD (AdECSOD), ECSODDeltaHBD (AdECSODDeltaHBD), or no transgene (AdBglII) was injected into the cisterna magna of anesthetized rabbits 30 minutes after induction of experimental SAH </plain></SENT>
+<SENT sid="5" pm="."><plain>Cerebral angiography, an assay for ECSOD activity in cerebrospinal fluid (CSF), and Western blotting for human ECSOD in the basilar artery were performed </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: Baseline diameter of the basilar artery averaged 0.77+/-0.01 mm (mean+/-<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">SEM</z:e>) and was similar in <z:hpo ids='HP_0000001'>all</z:hpo> treatment groups </plain></SENT>
+<SENT sid="7" pm="."><plain>Decreases in diameter of the basilar artery 2 days after SAH were smaller after AdECSOD (11+/-3%; n=10) than after AdBglII (25+/-4%; n=7; P&lt;0.05) </plain></SENT>
+<SENT sid="8" pm="."><plain>ECSOD activity was not detected in CSF before SAH and gene transfer </plain></SENT>
+<SENT sid="9" pm="."><plain>Of 8 rabbits treated with AdECSOD, in which ECSOD activity in CSF was measured after SAH, 5 animals had detectable ECSOD activity in CSF (46+/-13 U/mL) </plain></SENT>
+<SENT sid="10" pm="."><plain>In these 5 rabbits, the diameter decreased by only 6+/-3%, and ECSOD protein was detected in the basilar artery </plain></SENT>
+<SENT sid="11" pm="."><plain>After AdECSODDeltaHBD (n=4), despite high levels of ECSOD activity in CSF (91+/-19 U/mL), vessel diameter decreased by 20+/-2%, and no ECSODDeltaHBD protein was detected in the basilar artery </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: Gene transfer of ECSOD reduces <z:e sem="disease" ids="C0265110" disease_type="Disease or Syndrome" abbrv="">cerebral vasospasm</z:e> after experimental SAH </plain></SENT>
+<SENT sid="13" pm="."><plain>Tissue binding of the enzyme is essential for cerebral vascular effects of ECSOD </plain></SENT>
+</text></document>

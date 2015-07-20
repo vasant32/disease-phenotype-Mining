@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: To determine if pediatric patients with a history of lone <z:hpo ids='HP_0005110'>atrial fibrillation</z:hpo> (AF) have other forms of <z:hpo ids='HP_0004755'>supraventricular tachycardia</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">SVT</z:e>) that may potentially trigger AF </plain></SENT>
+<SENT sid="1" pm="."><plain>STUDY DESIGN: A multicenter review of patients with lone AF who underwent electrophysiology (EP) study from 2006-2011 was performed </plain></SENT>
+<SENT sid="2" pm="."><plain>Inclusion criteria: age ≤21 years, <z:mpath ids='MPATH_458'>normal</z:mpath> ventricular function, structurally <z:mpath ids='MPATH_458'>normal</z:mpath> heart, history of AF, and EP study and/or ablation performed </plain></SENT>
+<SENT sid="3" pm="."><plain>Exclusion criteria: <z:hpo ids='HP_0002564'>congenital heart disease</z:hpo> or <z:hpo ids='HP_0001638'>cardiomyopathy</z:hpo> </plain></SENT>
+<SENT sid="4" pm="."><plain>Patient demographics, findings at EP study and follow-up data were recorded </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: Eighteen patients met inclusion criteria </plain></SENT>
+<SENT sid="6" pm="."><plain>The mean age was 17.9 ± 2.2 years, weight was 82 ± 21 kg, body mass index was 27 ± 6, and 15 (83%) were males </plain></SENT>
+<SENT sid="7" pm="."><plain>Eleven (61%) were overweight or <z:mp ids='MP_0001261'>obese</z:mp> </plain></SENT>
+<SENT sid="8" pm="."><plain>Seven (39%) had inducible <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">SVT</z:e> during EP study: 5 atrioventricular nodal re-entry <z:hpo ids='HP_0001649'>tachycardia</z:hpo> (71%) and 2 concealed accessory pathways with inducible <z:hpo ids='HP_0011688'>atrioventricular re-entry tachycardia</z:hpo> (29%) </plain></SENT>
+<SENT sid="9" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> 7 patients with inducible <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">SVT</z:e> underwent radiofrequency ablation </plain></SENT>
+<SENT sid="10" pm="."><plain>There were no complications during EP study and/or ablation for <z:hpo ids='HP_0000001'>all</z:hpo> 18 patients </plain></SENT>
+<SENT sid="11" pm="."><plain>The mean follow-up was 1.7 ± 1.5 years and there were no recurrences in the 7 patients who underwent ablation </plain></SENT>
+<SENT sid="12" pm="."><plain>There were 2 recurrences of AF in patients with no other form of <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">SVT</z:e> during EP study </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSIONS: Inducible <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">SVT</z:e> was found in 39% of pediatric patients undergoing EP study for lone AF </plain></SENT>
+<SENT sid="14" pm="."><plain>EP study should be considered for pediatric patients presenting with lone AF </plain></SENT>
+</text></document>

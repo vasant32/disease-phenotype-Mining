@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Pseudomembranous <z:hpo ids='HP_0002583'>colitis</z:hpo> (PMC) usually manifests as <z:hpo ids='HP_0001945'>fever</z:hpo> and <z:hpo ids='HP_0002014'>diarrhea</z:hpo> in hospitalized patients treated with systemic antibiotics </plain></SENT>
+<SENT sid="1" pm="."><plain>We described a case of PMC with <z:hpo ids='HP_0005214'>intestinal obstruction</z:hpo> but without <z:hpo ids='HP_0002014'>diarrhea</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>A 60-year-old man was hospitalized for chemotherapy for the treatment of Burkitt <z:hpo ids='HP_0002665'>lymphoma</z:hpo> of the stomach </plain></SENT>
+<SENT sid="3" pm="."><plain>The patient became febrile and complained of <z:e sem="disease" ids="C1446787,C0270814" disease_type="Disease or Syndrome;Sign or Symptom" abbrv="">crampy</z:e> <z:hpo ids='HP_0002027'>abdominal pain</z:hpo> during the post-chemotherapy nadir </plain></SENT>
+<SENT sid="4" pm="."><plain>Plain abdominal radiography showed some intestinal gas and niveau </plain></SENT>
+<SENT sid="5" pm="."><plain>Because stool cytotoxin assay for clostridium difficile was positive and colon fiberscopic examination showed a pseudomembrane at the left side of the colon, and a diagnosis of PMC was made </plain></SENT>
+<SENT sid="6" pm="."><plain>Treatment with intracolonic <z:chebi fb="0" ids="28001">vancomycin</z:chebi> administration by colonoscopy and nasoileus tube was successful </plain></SENT>
+<SENT sid="7" pm="."><plain>Physicians should take into account the possibility of <z:e sem="disease" ids="C0021843" disease_type="Disease or Syndrome;Acquired Abnormality" abbrv="">bowel obstruction</z:e> due to PMC occurring in patients undergoing chemotherapy and perform emergency colonoscopy examination of suspected cases </plain></SENT>
+</text></document>

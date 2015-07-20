@@ -1,0 +1,7 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Bone marrow transplantation is a major therapeutic approach for treatment of patients with severe <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> or <z:hpo ids='HP_0002488'>acute leukemia</z:hpo> refractory to chemotherapy </plain></SENT>
+<SENT sid="1" pm="."><plain>It is possible only if an HLA matched sibing is found </plain></SENT>
+<SENT sid="2" pm="."><plain>ABO compatibility is not necessary </plain></SENT>
+<SENT sid="3" pm="."><plain>The conditionning regimen includes high doses of <z:chebi fb="0" ids="4027">cyclophosphamide</z:chebi> associated or not with a 1 000 rads total body irradiation </plain></SENT>
+<SENT sid="4" pm="."><plain>In <z:hpo ids='HP_0002488'>acute leukemia</z:hpo>, the two year percentage survival is 17%, in <z:hpo ids='HP_0001915'>aplastic anemia</z:hpo> it is 40% </plain></SENT>
+<SENT sid="5" pm="."><plain>Complications are immunologic : rejection, <z:e sem="disease" ids="C0018133" disease_type="Disease or Syndrome" abbrv="GVH">graft versus host disease</z:e> and persistent severe <z:hpo ids='HP_0002721'>immune deficiency</z:hpo> </plain></SENT>
+</text></document>

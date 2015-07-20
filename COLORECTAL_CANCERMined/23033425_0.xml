@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The ability to accurately locate a <z:mpath ids='MPATH_491'>polyp</z:mpath> found on computed tomographic colonography (CTC) at subsequent optical colonoscopy (OC) is an important task in <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> screening </plain></SENT>
+<SENT sid="1" pm="."><plain>We present a method to more accurately match <z:mpath ids='MPATH_491'>polyp</z:mpath> locations at CTC and OC </plain></SENT>
+<SENT sid="2" pm="."><plain>A colonoscope was modeled as a flexible tube with negligible stretch and minimal strain </plain></SENT>
+<SENT sid="3" pm="."><plain>The path of the colonoscope was estimated using a minimal-energy curve method </plain></SENT>
+<SENT sid="4" pm="."><plain>The energy function was defined and optimized by a subdivision scheme </plain></SENT>
+<SENT sid="5" pm="."><plain>The prediction of <z:mpath ids='MPATH_491'>polyp</z:mpath> locations at OC from CTC was converted to an optimization problem </plain></SENT>
+<SENT sid="6" pm="."><plain>The prediction performance was evaluated on 134 <z:mpath ids='MPATH_491'>polyps</z:mpath> by comparing the predicted with the true <z:mpath ids='MPATH_491'>polyp</z:mpath> locations at OC </plain></SENT>
+<SENT sid="7" pm="."><plain>The method can accurately predict <z:mpath ids='MPATH_491'>polyp</z:mpath> locations at OC to within ±0.5 colonoscope mark (5 cm) for more than 58% of <z:mpath ids='MPATH_491'>polyps</z:mpath> and to within ±1 colonoscope mark (10 cm) for more than 96% of <z:mpath ids='MPATH_491'>polyps</z:mpath>, significantly improving upon previously published methods </plain></SENT>
+<SENT sid="8" pm="."><plain>This method can be easily incorporated into routine OC practice and allow the colonoscopist to begin the examination by targeting locations of potential <z:mpath ids='MPATH_491'>polyps</z:mpath> found at CTC </plain></SENT>
+</text></document>

@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>PURPOSE: To prospectively perform computed tomography (CT) in rats to determine whether ischemic <z:hpo ids='HP_0000969'>edema</z:hpo> can be reversed by using early arterial reperfusion </plain></SENT>
+<SENT sid="1" pm="."><plain>MATERIALS AND METHODS: This study was approved by the local animal protection committee </plain></SENT>
+<SENT sid="2" pm="."><plain>A suture model was used to occlude the right middle cerebral artery (<z:chebi fb="70" ids="34342">MCA</z:chebi>) in rats for 1, 2, 3, or 4 hours </plain></SENT>
+<SENT sid="3" pm="."><plain>X-ray attenuation of the brain was measured directly before reperfusion and repeatedly during reperfusion for up to 24 hours </plain></SENT>
+<SENT sid="4" pm="."><plain><z:mpath ids='MPATH_124'>Infarct</z:mpath> volumes were determined with triphenyltetrazolium <z:chebi fb="76" ids="17996">chloride</z:chebi> staining </plain></SENT>
+<SENT sid="5" pm="."><plain>Means of attenuation and <z:mpath ids='MPATH_124'>infarct</z:mpath> volume were compared between hemispheres and groups with a paired t test and analysis of variance </plain></SENT>
+<SENT sid="6" pm="."><plain>Mixed linear models were applied to compare attenuation among groups over time </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: During <z:chebi fb="70" ids="34342">MCA</z:chebi> occlusion, attenuation decreased to 69.3 HU +/- 1.9 (standard deviation) after 1 hour (n=12), 66.6 HU +/- 2.0 after 2 hours (n=10), 65.4 HU +/- 2.9 after 3 hours (n=11), and 64.1 HU +/- 1.8 after 4 hours (n=9) (P&lt;.0001) </plain></SENT>
+<SENT sid="8" pm="."><plain>After reperfusion, attenuation remained stable in the 1-hour occlusion group (P=.16) but further and steadily declined in the 2-, 3-, and 4-hour occlusion groups (P&lt;.001) </plain></SENT>
+<SENT sid="9" pm="."><plain>Attenuation during reperfusion in the 1-hour occlusion group differed significantly from that in the 2-, 3-, and 4-hour occlusion groups </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSION: CT is able to help monitor ischemic <z:hpo ids='HP_0000969'>edema</z:hpo> after <z:chebi fb="70" ids="34342">MCA</z:chebi> occlusion and reperfusion </plain></SENT>
+<SENT sid="11" pm="."><plain>Ischemic <z:hpo ids='HP_0002181'>brain edema</z:hpo> was not consistently reversible with reperfusion, even after 1 hour of occlusion, and further increased with reperfusion induced at 2 hours or later </plain></SENT>
+</text></document>

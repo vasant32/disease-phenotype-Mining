@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>We investigated a 56-year-old Japanese man with <z:hpo ids='HP_0005543'>protein C deficiency</z:hpo>, who was referred to our hospital because of venous sinus <z:mp ids='MP_0005048'>thrombosis</z:mp> and pulmonary <z:hpo ids='HP_0001907'>thromboembolism</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>Protein C (PC) activity and the corresponding antigen level in plasma were 66% and 106% of the <z:mpath ids='MPATH_458'>normal</z:mpath> values, respectively </plain></SENT>
+<SENT sid="2" pm="."><plain>Both the activity and antigen levels of protein C were reduced by approximately 50% in plasma from the patient's mother </plain></SENT>
+<SENT sid="3" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> exons and their flanking intron regions were amplified by PCR from genomic DNA </plain></SENT>
+<SENT sid="4" pm="."><plain>Sequencing analysis of the PCR fragments revealed that the patient was heterozygous for a C to T substitution at nucleotide position 6218, resulting in a single amino acid substitution of arginine (CGG) by tryptophan (TGG) at codon 169 of the heavy chain </plain></SENT>
+<SENT sid="5" pm="."><plain>We analyzed the patient, his mother, and <z:mpath ids='MPATH_458'>normal</z:mpath> controls by a Sac II digestion study of exon 7 and found that the patient and his mother had the same C to T point mutation at base 6218 </plain></SENT>
+<SENT sid="6" pm="."><plain>This mutation could have been responsible for the defective activation of the molecule and the resulting thrombotic disorder </plain></SENT>
+<SENT sid="7" pm="."><plain>The patient is now being treated with <z:chebi fb="8" ids="10033">warfarin</z:chebi>, and so far no further clinical thrombotic episode has occurred </plain></SENT>
+</text></document>

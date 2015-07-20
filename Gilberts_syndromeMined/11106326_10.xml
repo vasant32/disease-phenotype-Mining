@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: <z:e sem="disease" ids="C0017551" disease_type="Disease or Syndrome" abbrv="">Gilbert syndrome</z:e> is a clinically inconsequential entity of mild <z:hpo ids='HP_0008282'>unconjugated hyperbilirubinemia</z:hpo> caused by an A(TA)(n)<z:chebi fb="2" ids="32497">TAA</z:chebi> insertion polymorphism (UGT1A1*28) in the promoter region of the gene coding for the enzyme <z:chebi fb="15" ids="17659">UDP</z:chebi>-glucuronosyltransferase 1 (EC 2.4.1 </plain></SENT>
+<SENT sid="1" pm="."><plain>17; UGT1A1) </plain></SENT>
+<SENT sid="2" pm="."><plain>Present methods for genotyping this polymorphism are laborious </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: Hybridization probes were designed complementary to the <z:mp ids='MP_0002169'>wild type</z:mp> (TA)(6) and to alleles with (TA)(7) and (TA)(8) repeats in the promoter region </plain></SENT>
+<SENT sid="4" pm="."><plain>Melting points were measured in samples representing <z:hpo ids='HP_0000001'>all</z:hpo> currently known alleles with (TA)(5) to (TA)(8) repeats </plain></SENT>
+<SENT sid="5" pm="."><plain>Probe melting points were predicted with a thermodynamic nearest-neighbor model for Watson-Crick paired probes </plain></SENT>
+<SENT sid="6" pm="."><plain>The dominant secondary structures resulting from probe hybridization were predicted by thermodynamic free energy calculations </plain></SENT>
+<SENT sid="7" pm="."><plain>Alternatively samples were genotyped based on amplicon size resolved by high-resolution <z:chebi fb="0" ids="53656">polyacrylamide</z:chebi> gel electrophoresis </plain></SENT>
+<SENT sid="8" pm="."><plain>RESULTS: Only short probes (22-24 bases) could be successfully used for genotyping this locus because of the very low stability of this TA repeat </plain></SENT>
+<SENT sid="9" pm="."><plain>Assays based on (TA)(7) or (TA)(8) genotype-compatible hybridization probes effectively discriminated five to eight TA repeats </plain></SENT>
+<SENT sid="10" pm="."><plain>The consecutive use of two different detection probes was necessary for better discrimination of some heterozygous genotypes </plain></SENT>
+<SENT sid="11" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> results were in concordance with the alternative genotyping method </plain></SENT>
+<SENT sid="12" pm="."><plain>Of 100 investigated Caucasians (50 males, 50 females), 9 (9%) were homozygous for the (TA)(7) allele </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSIONS: The presented method for genotyping the (TA)(n) promoter polymorphism of the UGT1A1 gene with the LightCycler has the potential to genotype <z:hpo ids='HP_0000001'>all</z:hpo> currently known (TA)(n) repeats in a single assay and is sensitive toward possible new genotypes </plain></SENT>
+<SENT sid="14" pm="."><plain>Our findings also show that thermodynamic calculations are of practical value for the design of hybridization probe assays for the genotyping of insertion/deletion polymorphisms </plain></SENT>
+</text></document>

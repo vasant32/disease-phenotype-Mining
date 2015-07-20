@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Computer models provide a powerful platform for investigating mechanisms that underlie atrial rhythm disturbances </plain></SENT>
+<SENT sid="1" pm="."><plain>We have used novel techniques to build a structurally-detailed, image-based model of 3-D atrial <z:mp ids='MP_0000002'>anatomy</z:mp> </plain></SENT>
+<SENT sid="2" pm="."><plain>A volume image of the atria from a <z:mpath ids='MPATH_458'>normal</z:mpath> sheep heart was acquired using serial surface macroscopy, then smoothed and down-sampled to 50 μm(3) resolution </plain></SENT>
+<SENT sid="3" pm="."><plain>Atrial surface geometry was identified and myofiber orientations were estimated throughout by eigen-analysis of the 3-D image structure tensor </plain></SENT>
+<SENT sid="4" pm="."><plain>Sinus node, crista terminalis, pectinate muscle, Bachman's bundle, and pulmonary veins were segmented on the basis of anatomic characteristics </plain></SENT>
+<SENT sid="5" pm="."><plain><z:hpo ids='HP_0001425'>Heterogeneous</z:hpo> electrical properties were assigned to this structure and electrical activation was simulated on it at 100 μm(3) resolution, using both biophysically-detailed and reduced-order cell activation models with spatially-varying membrane kinetics </plain></SENT>
+<SENT sid="6" pm="."><plain>We confirmed that the model reproduced key features of the <z:mpath ids='MPATH_458'>normal</z:mpath> spread of atrial activation </plain></SENT>
+<SENT sid="7" pm="."><plain>Furthermore, we demonstrate that vulnerability to rhythm disturbance caused by structural <z:hpo ids='HP_0001425'>heterogeneity</z:hpo> in the posterior left atrium is exacerbated by spatial variation of repolarization kinetics across this region </plain></SENT>
+<SENT sid="8" pm="."><plain>These results provide insight into mechanisms that may sustain <z:hpo ids='HP_0004757'>paroxysmal atrial fibrillation</z:hpo> </plain></SENT>
+<SENT sid="9" pm="."><plain>We conclude that image-based computer models that incorporate realistic descriptions of atrial myofiber architecture and electrophysiologic properties have the potential to analyse and identify complex substrates for <z:hpo ids='HP_0005110'>atrial fibrillation</z:hpo> </plain></SENT>
+</text></document>

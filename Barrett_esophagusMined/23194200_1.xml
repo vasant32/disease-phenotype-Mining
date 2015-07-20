@@ -1,0 +1,18 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>UNLABELLED: <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> (BE) is an asymptomatic, pre-malignant condition of the esophagus that can progress to esophageal <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> (EAC) </plain></SENT>
+<SENT sid="1" pm="."><plain>BE arises typically in individuals with long-standing <z:hpo ids='HP_0002020'>gastroesophageal reflux disease</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">GERD</z:e>) </plain></SENT>
+<SENT sid="2" pm="."><plain>The <z:e sem="disease" ids="C0178874" disease_type="Neoplastic Process" abbrv="">neoplastic progression</z:e> of BE has been extensively studied histologically and defined as a <z:mpath ids='MPATH_160'>metaplasia</z:mpath>- dyplasia- <z:mp ids='MP_0002038'>carcinoma</z:mp> sequence </plain></SENT>
+<SENT sid="3" pm="."><plain>However the genetic basis of this process is poorly understood </plain></SENT>
+<SENT sid="4" pm="."><plain>It is conceived that preclinical models of BE may facilitate discovery of molecular markers due to ease of longitudinal sampling </plain></SENT>
+<SENT sid="5" pm="."><plain>Clinical markers to stratify the patients at higher risk are vital to institute appropriate therapeutic intervention since EAC has very poor prognosis </plain></SENT>
+<SENT sid="6" pm="."><plain>We developed a dynamic in-vitro BE <z:e sem="disease" ids="C0596263" disease_type="Neoplastic Process" abbrv="">carcinogenesis</z:e> (BEC) model by exposing naïve Barrett's epithelium cell line (BAR-T) to acid and bile at pH4 (B4), 5min/day for a year </plain></SENT>
+<SENT sid="7" pm="."><plain>The BEC model acquired malignant characteristics after <z:hpo ids='HP_0011010'>chronic</z:hpo> repeated exposure to B4 similar to the sequential progression of BE to EAC in vivo </plain></SENT>
+<SENT sid="8" pm="."><plain>AIM: To study cytogenetic changes during progressive transformation in the BEC model </plain></SENT>
+<SENT sid="9" pm="."><plain>RESULTS: We observed that the BAR-T cells progressively acquired several chromosomal abnormalities in the BEC model </plain></SENT>
+<SENT sid="10" pm="."><plain>Evidence of chromosomal loss (-Y) rearrangements [t(10;16) and dup (11q)] and clonal selection appeared during the early stages of the BEC model </plain></SENT>
+<SENT sid="11" pm="."><plain>Clonal selection resulted in a stabilized monoclonal population of cells that had a changed <z:mp ids='MP_0000002'>morphology</z:mp> and formed colony in soft agar </plain></SENT>
+<SENT sid="12" pm="."><plain>BAR-T cells grown in parallel without any exposure did not show any of these abnormalities </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSIONS: Prolonged acid and bile exposure induced chromosomal aberrations and clonal selection in benign BAR-T cells </plain></SENT>
+<SENT sid="14" pm="."><plain>Since <z:mp ids='MP_0004024'>aneuploidy</z:mp> preceded morphological/dysplastic changes in the BEC model, chromosomal aberrations may be an early predictor of BE progression </plain></SENT>
+<SENT sid="15" pm="."><plain>The [t(10;16) and dup(11q)] aberrations identified in this study harbor several genes associated with <z:e sem="disease" ids="C1306459,C0006826" disease_type="Neoplastic Process" abbrv="">cancer</z:e> and may be responsible for neoplastic behavior of cells </plain></SENT>
+<SENT sid="16" pm="."><plain>After further validation, in-vivo, they may be clinically useful for diagnosis of BE, progressing to <z:mpath ids='MPATH_589'>dysplasia</z:mpath>/esophageal <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> </plain></SENT>
+</text></document>

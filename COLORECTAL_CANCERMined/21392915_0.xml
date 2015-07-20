@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The aim was to determine the feasibility of vascular quantification of the bowel wall for different anatomical segments of the colorectum </plain></SENT>
+<SENT sid="1" pm="."><plain>Following institutional ethical approval and informed consent, 39 patients with <z:e sem="disease" ids="C1527249,C0009402" disease_type="Neoplastic Process" abbrv="">colorectal cancer</z:e> underwent perfusion CT </plain></SENT>
+<SENT sid="2" pm="."><plain>Blood flow (BF), blood volume (BV), mean transit time (<z:chebi fb="0" ids="53233">MTT</z:chebi>), and permeability surface area product (PS) were assessed for different segments of the colorectum: ascending, transverse, descending colon, sigmoid, or rectum, that were distant from the <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e>, and which were proven <z:mpath ids='MPATH_458'>normal</z:mpath> on contemporary colonoscopy, and subsequent imaging and clinical follow up </plain></SENT>
+<SENT sid="3" pm="."><plain>Mean (SD) for BF, BV, <z:chebi fb="0" ids="53233">MTT</z:chebi> and PS for the different anatomical colorectal segments were obtained and compared using a pooled t-test </plain></SENT>
+<SENT sid="4" pm="."><plain>Significance was at 5% </plain></SENT>
+<SENT sid="5" pm="."><plain>Assessment was not possible in 9 of 39 (23%) patients as the bowel wall was ≤ 5 mm precluding quantitative analysis </plain></SENT>
+<SENT sid="6" pm="."><plain>Forty-four segments were evaluated in the remaining 30 patients </plain></SENT>
+<SENT sid="7" pm="."><plain>Mean BF was higher in the proximal than distal colon: 24.0 versus 17.8 mL/min/100g tissue; p=0.009; BV, <z:chebi fb="0" ids="53233">MTT</z:chebi> and PS were not significantly different; BV: 3.46 versus 3.15 mL/100g tissue, p=0.45; <z:chebi fb="0" ids="53233">MTT</z:chebi>: 15.1 versus 18.3s; p=0.10; PS: 6.84 versus 8.97 mL/min/100 tissue, p=0.13, respectively </plain></SENT>
+<SENT sid="8" pm="."><plain>In conclusion, assessment of bowel wall perfusion may fail in 23% of patients </plain></SENT>
+<SENT sid="9" pm="."><plain>The colorectum demonstrates segmental differences in perfusion </plain></SENT>
+</text></document>

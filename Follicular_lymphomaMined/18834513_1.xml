@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>UNLABELLED: Most microarray experiments are carried out with the purpose of identifying genes whose expression varies in relation with specific conditions or in response to environmental stimuli </plain></SENT>
+<SENT sid="1" pm="."><plain>In such studies, genes showing similar mean expression values between two or more groups are considered as not differentially expressed, even if hidden subclasses with different expression values may exist </plain></SENT>
+<SENT sid="2" pm="."><plain>In this paper we propose a new method for identifying differentially expressed genes, based on the area between the ROC curve and the rising diagonal (ABCR) </plain></SENT>
+<SENT sid="3" pm="."><plain>ABCR represents a more general approach than the standard area under the ROC curve (AUC), because it can identify both proper (i.e., concave) and not proper ROC curves (NPRC) </plain></SENT>
+<SENT sid="4" pm="."><plain>In particular, NPRC may correspond to those genes that tend to escape standard selection methods </plain></SENT>
+<SENT sid="5" pm="."><plain>RESULTS: We assessed the performance of our method using data from a publicly available database of 4026 genes, including 14 <z:mpath ids='MPATH_458'>normal</z:mpath> B cell samples (NBC) and 20 <z:hpo ids='HP_0001425'>heterogeneous</z:hpo> <z:hpo ids='HP_0002665'>lymphomas</z:hpo> (namely: 9 follicular <z:hpo ids='HP_0002665'>lymphomas</z:hpo> and 11 <z:hpo ids='HP_0005550'>chronic lymphocytic leukemias</z:hpo>) </plain></SENT>
+<SENT sid="6" pm="."><plain>Moreover, NBC also included two sub-classes, i.e., 6 heavily stimulated and 8 slightly or not stimulated samples </plain></SENT>
+<SENT sid="7" pm="."><plain>We identified 1607 differentially expressed genes with an estimated False Discovery Rate of 15% </plain></SENT>
+<SENT sid="8" pm="."><plain>Among them, 16 corresponded to NPRC and <z:hpo ids='HP_0000001'>all</z:hpo> escaped standard selection procedures based on AUC and t statistics </plain></SENT>
+<SENT sid="9" pm="."><plain>Moreover, a simple inspection to the shape of such plots allowed to identify the two subclasses in either one class in 13 cases (81%) </plain></SENT>
+<SENT sid="10" pm="."><plain>CONCLUSION: NPRC represent a new useful tool for the analysis of microarray data </plain></SENT>
+</text></document>

@@ -1,0 +1,4 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>A 3-year-old boy developed <z:hpo ids='HP_0001973'>idiopathic thrombocytopenic purpura</z:hpo> (<z:chebi fb="0" ids="16039">ITP</z:chebi>) and <z:e sem="disease" ids="C0023234" disease_type="Disease or Syndrome" abbrv="">Perthes' disease</z:e> concurrently </plain></SENT>
+<SENT sid="1" pm="."><plain><z:hpo ids='HP_0003613'>Antiphospholipid antibodies</z:hpo> were detected in the serum of the patient </plain></SENT>
+<SENT sid="2" pm="."><plain>Therefore, it is possible that <z:e sem="disease" ids="C0023234" disease_type="Disease or Syndrome" abbrv="">Perthes' disease</z:e> in this patient might be one of the manifestations of <z:chebi fb="0" ids="16039">ITP</z:chebi>-associated <z:e sem="disease" ids="C0085278" disease_type="Disease or Syndrome" abbrv="">antiphospholipid syndrome</z:e> </plain></SENT>
+</text></document>

@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The treatment of patients with <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> is similar to that of any patient with underlying <z:hpo ids='HP_0002020'>gastroesophageal reflux disease</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">GERD</z:e>) </plain></SENT>
+<SENT sid="1" pm="."><plain>The treatment of reflux includes medical and surgical therapy </plain></SENT>
+<SENT sid="2" pm="."><plain>A key component of medical therapy is the use of a <z:chebi fb="0" ids="49200">proton pump inhibitor</z:chebi> to treat the underlying <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">GERD</z:e> </plain></SENT>
+<SENT sid="3" pm="."><plain>The major controversy is whether the end point of therapy should be the control of reflux symptoms or the control of esophageal pH </plain></SENT>
+<SENT sid="4" pm="."><plain>When controlling reflux symptoms with <z:chebi fb="0" ids="49200">proton pump inhibitor</z:chebi> therapy, it is important to eliminate <z:hpo ids='HP_0000001'>all</z:hpo> of the symptoms of reflux </plain></SENT>
+<SENT sid="5" pm="."><plain>An alternative to medical therapy is surgical fundoplication, which is currently performed laparoscopically </plain></SENT>
+<SENT sid="6" pm="."><plain>Fundoplication may be indicated when a patient has persistent regurgitation even while on <z:chebi fb="0" ids="49200">proton pump inhibitor</z:chebi> therapy </plain></SENT>
+<SENT sid="7" pm="."><plain>An individual patient also may choose fundoplication, preferring surgical intervention to taking medication long term on a daily basis </plain></SENT>
+<SENT sid="8" pm="."><plain>Patients with <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> also have the risk of the developing of <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> of the esophagus </plain></SENT>
+<SENT sid="9" pm="."><plain>Therefore, there is an additional goal in the therapy for individuals with Barrett's to prevent progression to <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> </plain></SENT>
+<SENT sid="10" pm="."><plain>The standard approach to the issue of the premalignant nature of <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> is surveillance endoscopy with biopsy in order to detect <z:mpath ids='MPATH_589'>dysplasia</z:mpath>, a cytologic and architectural histologic change </plain></SENT>
+<SENT sid="11" pm="."><plain><z:mpath ids='MPATH_589'>Dysplasia</z:mpath> is the first step in the neoplastic process, an early stage offering the opportunity of intervention and longer-term survival </plain></SENT>
+</text></document>

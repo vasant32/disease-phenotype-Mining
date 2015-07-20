@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The data of a closed phase I/II trial in patients with resistant Hodgkin's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> indicate promising results using a chemically linked anti-CD25 ricin-A immunotoxin (IT) (RFT5-SMPT-dgA) </plain></SENT>
+<SENT sid="1" pm="."><plain>This IT is based on the high-affinity moab RFT5 </plain></SENT>
+<SENT sid="2" pm="."><plain>Since recombinant DNA technology permits the readier production of large amounts of ITs, we constructed a new RFT5-based fusion toxin [RFT5(scFv)-<z:chebi fb="209" ids="16000,53460">ETA</z:chebi>'] </plain></SENT>
+<SENT sid="3" pm="."><plain>We isolated <z:chebi fb="2" ids="33699">mRNA</z:chebi> from the hybridoma cell line RFT5, synthesized first strand cDNA and performed RT-PCR </plain></SENT>
+<SENT sid="4" pm="."><plain>Amplified coding regions of the light and heavy chain variable domains were joined together with a synthetic (Gly4-Ser)3 linker </plain></SENT>
+<SENT sid="5" pm="."><plain>The resulting single chain variable fragment (scFv) was fused to a modified Pseudomonas aeruginosa exotoxin A (<z:chebi fb="209" ids="16000,53460">ETA</z:chebi>') lacking its cell-binding domain I </plain></SENT>
+<SENT sid="6" pm="."><plain>After IPTG-induced expression in Escherichia coli, the 70 kDa His-tagged fusion protein [RFT5(scFv)-<z:chebi fb="209" ids="16000,53460">ETA</z:chebi>'] was isolated by osmotic shock and sonication under denaturing conditions </plain></SENT>
+<SENT sid="7" pm="."><plain>The recombinant toxin was purified on a Ni2+-<z:chebi fb="0" ids="39054">NTA</z:chebi> chelating <z:chebi fb="0" ids="2511">sepharose</z:chebi> and eluted with 250 mM <z:chebi fb="0" ids="14434,16069">imidazole</z:chebi> </plain></SENT>
+<SENT sid="8" pm="."><plain>Pooled protein was renatured, dialyzed and concentrated by precipitation </plain></SENT>
+<SENT sid="9" pm="."><plain>Binding properties of RFT5(scFv)-<z:chebi fb="209" ids="16000,53460">ETA</z:chebi>' were assessed on the CD25-expressing cell line L540cy by ELISA, immunohistochemistry and FACS analysis </plain></SENT>
+<SENT sid="10" pm="."><plain>CD25-specific binding was confirmed by immunoprecipitation experiments with recombinant human IL-2 receptor alpha </plain></SENT>
+<SENT sid="11" pm="."><plain>The in vitro toxicity of the chimeric protein was tested on the Hodgkin-derived cell lines L540cy, L428, L1236, a monocyte cell line U937 and a Burkitt <z:hpo ids='HP_0002665'>lymphoma</z:hpo> cell line BL38 </plain></SENT>
+<SENT sid="12" pm="."><plain>RFT5(scFv)-<z:chebi fb="209" ids="16000,53460">ETA</z:chebi>' inhibited protein biosynthesis of L540cy and L428 cells by 50% at concentrations (IC50) of 18 and 12 ng/ml, respectively </plain></SENT>
+<SENT sid="13" pm="."><plain>CD25-specific toxicity was confirmed by competitive toxicity assays </plain></SENT>
+<SENT sid="14" pm="."><plain>These data confirm for the first time binding specificity and toxicity of a recombinant anti-CD25 immunotoxin, against Hodgkin-derived cell lines; its applicability on Hodgkin's <z:hpo ids='HP_0002665'>lymphoma</z:hpo> needs yet to be evaluated in vivo </plain></SENT>
+</text></document>

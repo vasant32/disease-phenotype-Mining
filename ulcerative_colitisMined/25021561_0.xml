@@ -1,0 +1,21 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>INTRODUCTION: The <z:chebi fb="0" ids="35666">thiopurines</z:chebi>, <z:chebi fb="2" ids="2948">azathioprine</z:chebi> (AZA) and <z:chebi fb="0" ids="50667">mercaptopurine</z:chebi> (MP), commonly used in the treatment of <z:e sem="disease" ids="C0021390" disease_type="Disease or Syndrome" abbrv="">inflammatory bowel diseases</z:e> (IBD), are typically dosed according to patient's body weight </plain></SENT>
+<SENT sid="1" pm="."><plain>A previous meta-analysis showed higher remission rates in patients with "therapeutic" levels of 6-thioguanine (6-TGN), but weight based dosing correlates poorly with 6-TGN levels (1) </plain></SENT>
+<SENT sid="2" pm="."><plain>6-TGN testing is not universally available, results are not available immediately and repeated measurements are necessary to ensure dose adequacy and adherence to therapy </plain></SENT>
+<SENT sid="3" pm="."><plain>Proxy measures such as mean corpuscular volume (MCV) and lymphocyte count (LC) have been advocated as markers of dose adequacy </plain></SENT>
+<SENT sid="4" pm="."><plain>We aimed to analyse the relationship between 6-TGN levels, MCV, LC and other putative surrogate markers of therapeutic 6-TGN levels </plain></SENT>
+<SENT sid="5" pm="."><plain>METHODS: This retrospective study was conducted at the Royal Liverpool University Hospital </plain></SENT>
+<SENT sid="6" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> patients who had concurrent measurements of 6-TGN and full blood count were included in the analysis </plain></SENT>
+<SENT sid="7" pm="."><plain>6-TGN levels were classed as sub-therapeutic (&lt;230), therapeutic (230-450) or supra-therapeutic (&gt;450) </plain></SENT>
+<SENT sid="8" pm="."><plain>The association between 6-TGN, patient demographics, MCV, LC and other putative surrogate markers was estimated using a multivariable linear regression model for continuous 6-TGN and a proportional odds logistic regression model for the ordered 6TGN levels </plain></SENT>
+<SENT sid="9" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> results were declared statistically significant if p &lt; 0.05 </plain></SENT>
+<SENT sid="10" pm="."><plain>RESULTS: A total of 106 patients (48 male, 58 female) were included and contributed 133 measurements </plain></SENT>
+<SENT sid="11" pm="."><plain>Of these patients 58 (55%) had <z:hpo ids='HP_0100280'>Crohn's disease</z:hpo> and 47 (44%) had <z:hpo ids='HP_0100279'>ulcerative colitis</z:hpo> </plain></SENT>
+<SENT sid="12" pm="."><plain>The mean <z:chebi fb="2" ids="2948">azathioprine</z:chebi> dose was 123.5 mg (SD 73.8) or 1.70 mg/kg (SD 0.67) </plain></SENT>
+<SENT sid="13" pm="."><plain>After adjusting for other variables, a one unit increase in MCV, was associated with a 10.88 unit increase in 6TGN levels, Figure 1 (95% CI: 7.63 and 14.014, p &lt; 0.0001) and a one unit increase in ALT was associated with a 2.67 unit decrease in 6TGN levels (95% CI: 0.36 to 4.97 p = 0.0237) </plain></SENT>
+<SENT sid="14" pm="."><plain>There was no correlation between LC, NC, WCC or ALKPHOS and 6-TGN levels </plain></SENT>
+<SENT sid="15" pm="."><plain>CONCLUSION: MCV and 6-TGN nucleotide levels increase together </plain></SENT>
+<SENT sid="16" pm="."><plain>If 6-TGN levels are not available, MCV can be used as a crude but imperfect surrogate marker of dose adequacy and toxicity </plain></SENT>
+<SENT sid="17" pm="."><plain>REFERENCE: Osterman MT, Kundu R, Lichtenstein GR, Lewis JD </plain></SENT>
+<SENT sid="18" pm="."><plain>Association of 6-thioguanine nucleotide levels and <z:e sem="disease" ids="C0021390" disease_type="Disease or Syndrome" abbrv="">inflammatory bowel disease</z:e> activity: a meta-analysis </plain></SENT>
+<SENT sid="19" pm="."><plain>Gastroenterology 2006;130:1047-53 DISCLOSURE OF INTEREST: None Declared </plain></SENT>
+</text></document>

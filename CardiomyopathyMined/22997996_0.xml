@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: Evaluation of left ventricular (LV) function and dyssynchrony is of vital importance </plain></SENT>
+<SENT sid="1" pm="."><plain>A newly-developed three-dimensional (3D) speckle tracking echocardiography (STE) has the potential to circumvent limitations of two-dimensional STE </plain></SENT>
+<SENT sid="2" pm="."><plain>Our study was to evaluate LV function and dyssynchrony by 3D-STE </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS AND RESULTS: Fifty-two non-ischaemic <z:hpo ids='HP_0001644'>dilated cardiomyopathy</z:hpo> patients (<z:chebi fb="20" ids="15767">DCM</z:chebi>) with complete <z:hpo ids='HP_0011713'>left bundle-branch block</z:hpo> and 55 healthy subjects were enrolled </plain></SENT>
+<SENT sid="4" pm="."><plain>Of these patients, 24 underwent cardiac resynchronization therapy (CRT) </plain></SENT>
+<SENT sid="5" pm="."><plain>3D-STE was performed before and 1 month after CRT </plain></SENT>
+<SENT sid="6" pm="."><plain>We measured 3D (3DS), longitudinal (LS), circumferential (CS) and radial (RS) strain of the LV </plain></SENT>
+<SENT sid="7" pm="."><plain>LV dyssynchrony was evaluated by the standard deviation of time to peak negative value of 3D strain (3DS-SD) and time to reach the minimum regional volume of 16 segments (SDI) related to the heart cycle </plain></SENT>
+<SENT sid="8" pm="."><plain><z:chebi fb="20" ids="15767">DCM</z:chebi> patients had significantly lower global 3DS (-17.12 +/- 6.70% vs -38.38 +/- 4.28%, P &lt; 0.01), significantly greater 3DS-SD (11.11 +/- 5.14% vs 4.04 +/- 1.43%, P &lt; 0.01) and SDI (9.69 +/- 4.82% vs 4.23 +/- 1.33%, P &lt; 0.01) than <z:mpath ids='MPATH_458'>normal</z:mpath> volunteers </plain></SENT>
+<SENT sid="9" pm="."><plain>3DS, LS, CS, RS had an excellent correlation with LV ejection fraction (LVEF) (r2 = -0.94, -0.91, -0.93, 0.89, respectively, P &lt; 0.01 for <z:hpo ids='HP_0000001'>all</z:hpo>) </plain></SENT>
+<SENT sid="10" pm="."><plain>3DS-SD correlated well with SDI (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">ICC</z:e> = 0.85) </plain></SENT>
+<SENT sid="11" pm="."><plain>For mild, moderate and severe systolic dysfunction, 3DS-SDs were 4.56 +/- 1.53%, 9.87 +/- 2.58%, and 14.55 +/- 4.71%, respectively (P &lt; 0.01) and SDIs were 4.46 +/- 1.27%, 8.19 +/- 2.35%, and 12.83 +/- 4.87%, respectively (P &lt; 0.01), but independently of QRS width </plain></SENT>
+<SENT sid="12" pm="."><plain>After CRT therapy, global 3DS (-13.12 +/- 2.63% to -14.06 +/- 2.53%, P = 0.025), 3DS-SDs (12.99 +/- 3.92% to 11.53 +/- 4.53%, P = 0.015) and SDIs (10.85 +/- 3.74% to 9.50 +/- 4.63%, P = 0.013) were markedly improved </plain></SENT>
+<SENT sid="13" pm="."><plain>CONCLUSION: When image quality is optimal, 3D STE seems to be a promising approach assessing LV function and dyssynchrony </plain></SENT>
+</text></document>

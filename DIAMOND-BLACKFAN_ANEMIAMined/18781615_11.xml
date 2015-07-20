@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Mutations in ribosomal proteins RPS19, RPS24 and RPS17 have been reported in Diamond-Blackfan <z:hpo ids='HP_0001903'>Anemia</z:hpo> (<z:chebi fb="28" ids="35299">DBA</z:chebi>), an <z:hpo ids='HP_0000006'>autosomal dominant</z:hpo> disease characterised by pure red cell <z:mpath ids='MPATH_58'>aplasia</z:mpath> </plain></SENT>
+<SENT sid="1" pm="."><plain><z:chebi fb="28" ids="35299">DBA</z:chebi> is the prototype of ribosomapathies: a protein synthesis defect in a tissue with a high cellular turnover is considered the cause of the erythroid progenitor failure </plain></SENT>
+<SENT sid="2" pm="."><plain>We have created the Diamond-Blackfan <z:hpo ids='HP_0001903'>Anemia</z:hpo> mutation database to curate and record <z:chebi fb="28" ids="35299">DBA</z:chebi> gene mutations, together with their functional consequences and clinical phenotypes </plain></SENT>
+<SENT sid="3" pm="."><plain>This locus-specific resource is open to future submissions and is available online (http://www.dbagenes.unito.it) </plain></SENT>
+<SENT sid="4" pm="."><plain>It is founded on the Leiden Open (source) Variation Database (LOVD) system and includes data from sequence and structure analysis tools, genomic database resources and published reports </plain></SENT>
+<SENT sid="5" pm="."><plain>It lists <z:hpo ids='HP_0000001'>all</z:hpo> identified variants and background genomic information </plain></SENT>
+<SENT sid="6" pm="."><plain>Phenotypic data are accessed by selecting a particular mutation </plain></SENT>
+<SENT sid="7" pm="."><plain>The database includes 219 unique variants of which 86 are disease-causing mutations </plain></SENT>
+<SENT sid="8" pm="."><plain>The database will be supplemented with other <z:chebi fb="28" ids="35299">DBA</z:chebi> genes as soon as they are reported and their mutations are identified and it should be of assistance to clinicians and investigators involved in <z:chebi fb="28" ids="35299">DBA</z:chebi> research and care </plain></SENT>
+</text></document>

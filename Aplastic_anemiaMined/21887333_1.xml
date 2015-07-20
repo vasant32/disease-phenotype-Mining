@@ -1,0 +1,14 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: Erythroid development requires the action of erythropoietin (EPO) on committed progenitors to match red cell output to demand </plain></SENT>
+<SENT sid="1" pm="."><plain>In this process, iron acts as a critical cofactor, with <z:e sem="disease" ids="C0240066" disease_type="Disease or Syndrome" abbrv="">iron deficiency</z:e> blunting EPO-responsiveness of erythroid progenitors </plain></SENT>
+<SENT sid="2" pm="."><plain>Aconitase enzymes have recently been identified as possible signal integration elements that couple erythropoiesis with iron availability </plain></SENT>
+<SENT sid="3" pm="."><plain>In the current study, a regulatory role for aconitase during erythropoiesis was ascertained using a direct inhibitory strategy </plain></SENT>
+<SENT sid="4" pm="."><plain>METHODOLOGY/PRINCIPAL FINDINGS: In C57BL/6 mice, infusion of an aconitase active-site inhibitor caused a <z:hpo ids='HP_0001908'>hypoplastic anemia</z:hpo> and suppressed responsiveness to hemolytic challenge </plain></SENT>
+<SENT sid="5" pm="."><plain>In a murine model of <z:hpo ids='HP_0001901'>polycythemia</z:hpo> vera, aconitase inhibition rapidly normalized red cell counts, but did not perturb other lineages </plain></SENT>
+<SENT sid="6" pm="."><plain>In primary erythroid progenitor cultures, aconitase inhibition impaired proliferation and maturation but had no effect on viability or ATP levels </plain></SENT>
+<SENT sid="7" pm="."><plain>This inhibition correlated with a blockade in EPO signal transmission specifically via ERK, with preservation of JAK2-STAT5 and Akt activation </plain></SENT>
+<SENT sid="8" pm="."><plain>Correspondingly, a physical interaction between ERK and <z:hpo ids='HP_0001427'>mitochondrial</z:hpo> aconitase was identified and found to be sensitive to aconitase inhibition </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSIONS/SIGNIFICANCE: Direct aconitase inhibition interferes with erythropoiesis in vivo and in vitro, confirming a lineage-selective regulatory role involving its enzymatic activity </plain></SENT>
+<SENT sid="10" pm="."><plain>This inhibition spares metabolic function but impedes EPO-induced ERK signaling and disturbs a newly identified ERK-aconitase physical interaction </plain></SENT>
+<SENT sid="11" pm="."><plain>We propose a model in which aconitase functions as a licensing factor in ERK-dependent proliferation and differentiation, thereby providing a regulatory input for iron in EPO-dependent erythropoiesis </plain></SENT>
+<SENT sid="12" pm="."><plain>Directly targeting aconitase may provide an alternative to phlebotomy in the treatment of <z:hpo ids='HP_0001901'>polycythemia</z:hpo> vera </plain></SENT>
+</text></document>

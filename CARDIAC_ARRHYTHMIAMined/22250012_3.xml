@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The I(Ks) <z:chebi fb="120" ids="26216">potassium</z:chebi> channel, critical to control of heart electrical activity, requires assembly of α (KCNQ1) and β (KCNE1) subunits </plain></SENT>
+<SENT sid="1" pm="."><plain>Inherited mutations in either I(Ks) channel subunit are associated with <z:hpo ids='HP_0011675'>cardiac arrhythmia</z:hpo> syndromes </plain></SENT>
+<SENT sid="2" pm="."><plain>Two mutations (S140G and V141M) that cause familial <z:hpo ids='HP_0005110'>atrial fibrillation</z:hpo> (AF) are located on adjacent residues in the first membrane-spanning domain of KCNQ1, S1 </plain></SENT>
+<SENT sid="3" pm="."><plain>These mutations impair the deactivation process, causing channels to appear constitutively open </plain></SENT>
+<SENT sid="4" pm="."><plain>Previous studies suggest that both mutant phenotypes require the presence of KCNE1 </plain></SENT>
+<SENT sid="5" pm="."><plain>Here we found that despite the proximity of these two mutations in the primary protein structure, they display different functional dependence in the presence of KCNE1 </plain></SENT>
+<SENT sid="6" pm="."><plain>In the absence of KCNE1, the S140G mutation, but not V141M, confers a pronounced slowing of channel deactivation and a hyperpolarizing shift in voltage-dependent activation </plain></SENT>
+<SENT sid="7" pm="."><plain>When coexpressed with KCNE1, both mutants deactivate significantly slower than <z:mp ids='MP_0002169'>wild-type</z:mp> KCNQ1/KCNE1 channels </plain></SENT>
+<SENT sid="8" pm="."><plain>The differential dependence on KCNE1 can be correlated with the physical proximity between these positions and KCNE1 as shown by <z:chebi fb="0" ids="48343">disulfide</z:chebi> cross-linking studies: V141C forms <z:chebi fb="0" ids="48343">disulfide</z:chebi> bonds with cysteine-substituted KCNE1 residues, whereas S140C does not </plain></SENT>
+<SENT sid="9" pm="."><plain>These results further our understanding of the structural relationship between KCNE1 and KCNQ1 subunits in the I(Ks) channel, and provide mechanisms for understanding the effects on channel deactivation underlying these two <z:hpo ids='HP_0005110'>atrial fibrillation</z:hpo> mutations </plain></SENT>
+</text></document>

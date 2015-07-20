@@ -1,0 +1,8 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>CD22 is a member of the <z:chebi fb="0" ids="26667">sialic acid</z:chebi>-binding Ig-like lectin (Siglec) family that is known to be a regulator of B cell signaling </plain></SENT>
+<SENT sid="1" pm="."><plain>Its B cell-specific expression makes it an attractive target for immunotoxin-mediated B cell <z:mpath ids='MPATH_63'>depletion</z:mpath> therapy for the treatment of B cell <z:hpo ids='HP_0002665'>lymphomas</z:hpo> and <z:hpo ids='HP_0002960'>autoimmune diseases</z:hpo> </plain></SENT>
+<SENT sid="2" pm="."><plain>Although CD22 is well documented to be an endocytic receptor, it is believed that after internalization, it is targeted for degradation </plain></SENT>
+<SENT sid="3" pm="."><plain>We show in this study that CD22 is instead constitutively recycled to the cell surface </plain></SENT>
+<SENT sid="4" pm="."><plain>We also find that glycan ligand-based cargo is released from CD22 and accumulates intracellularly as CD22 recycles between the cell surface and endosomal compartments </plain></SENT>
+<SENT sid="5" pm="."><plain>In contrast, Abs to CD22 do not accumulate but remain bound to CD22 and recycle to the cell surface </plain></SENT>
+<SENT sid="6" pm="."><plain>The results have implications for development of agents that target CD22 as an endocytic receptor for delivery of cytotoxic cargo to B cells </plain></SENT>
+</text></document>

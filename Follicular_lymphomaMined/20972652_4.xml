@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Phase I study was conducted to evaluate the safety, pharmacokinetics (PK) and efficacy of the oral mammalian target of <z:chebi fb="0" ids="9168">rapamycin</z:chebi> inhibitor, everolimus (RAD001), in patients with relapsed or refractory non-Hodgkin <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (NHL) </plain></SENT>
+<SENT sid="1" pm="."><plain>Patients received everolimus 5 or 10 mg orally once daily </plain></SENT>
+<SENT sid="2" pm="."><plain>Dose escalation was based on the safety assessment and the probability of dose-limiting toxicities (DLTs) using a Bayesian logistic model </plain></SENT>
+<SENT sid="3" pm="."><plain>DLTs were evaluated in six patients at each dose level during the initial 28 days of study treatment </plain></SENT>
+<SENT sid="4" pm="."><plain>A total of 13 patients were enrolled; 5 mg (seven) and 10 mg (six) </plain></SENT>
+<SENT sid="5" pm="."><plain>No DLTs were observed at either dose level </plain></SENT>
+<SENT sid="6" pm="."><plain>Frequently observed potentially drug-related adverse events included <z:hpo ids='HP_0001882'>leukopenia</z:hpo> (8/13), <z:hpo ids='HP_0001873'>thrombocytopenia</z:hpo> (8/13), elevated hepatic transaminase (9/13), <z:hpo ids='HP_0010280'>stomatitis</z:hpo> (7/13), <z:hpo ids='HP_0001903'>anemia</z:hpo> (6/13), and <z:e sem="disease" ids="C0027441" disease_type="Disease or Syndrome" abbrv="">nasopharyngitis</z:e> (6/13) </plain></SENT>
+<SENT sid="7" pm="."><plain><z:hpo ids='HP_0000001'>All</z:hpo> adverse events were reversible </plain></SENT>
+<SENT sid="8" pm="."><plain>Non-infectious <z:e sem="disease" ids="C0032285" disease_type="Disease or Syndrome" abbrv="PNEUM">pneumonitis</z:e> (grade 1) in one patient resolved following discontinuation of everolimus </plain></SENT>
+<SENT sid="9" pm="."><plain>Two patients with diffuse large B cell <z:hpo ids='HP_0002665'>lymphoma</z:hpo> and two patients with follicular <z:hpo ids='HP_0002665'>lymphomas</z:hpo> achieved objective responses with an overall response rate of 31% (4/13) </plain></SENT>
+<SENT sid="10" pm="."><plain>The pharmacokinetic profiles were not different from those in non-Japanese patients </plain></SENT>
+<SENT sid="11" pm="."><plain>Everolimus was well tolerated at doses up to 10 mg/day and showed potential efficacy in relapsed or refractory NHL, warranting further investigation </plain></SENT>
+</text></document>

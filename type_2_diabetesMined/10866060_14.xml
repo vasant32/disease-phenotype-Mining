@@ -1,0 +1,13 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>Elevated urinary albumin excretion (UAE) is a predictor of the development of <z:hpo ids='HP_0000112'>nephropathy</z:hpo> and cardiovascular mortality </plain></SENT>
+<SENT sid="1" pm="."><plain>To study whether genetic factors may determine UAE, we examined familial aggregation of UAE in 96 large multigenerational pedigrees ascertained for type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="2" pm="."><plain>A total of 1,269 subjects had UAE measured as the urinary albumin-to-<z:chebi fb="0" ids="16737">creatinine</z:chebi> ratio (ACR) </plain></SENT>
+<SENT sid="3" pm="."><plain>This included 630 subjects with type 2 <z:mp ids='MP_0002055'>diabetes</z:mp> and 639 subjects without <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+<SENT sid="4" pm="."><plain>A significant correlation (Spearman's correlation 0.34, P &lt; 0.001) was found between the median ACR values determined separately in nondiabetic and diabetic members of the same family </plain></SENT>
+<SENT sid="5" pm="."><plain>To determine whether this familial aggregation of ACR could be explained by the transmission of 1 or more major genes and thus be suitable for gene mapping studies, segregation analyses were performed </plain></SENT>
+<SENT sid="6" pm="."><plain>In these analyses, ACR was modeled as a continuous trait with the inclusion of age, sex, and duration of <z:mp ids='MP_0002055'>diabetes</z:mp> as covariates </plain></SENT>
+<SENT sid="7" pm="."><plain>Likelihood ratio tests were performed to test competing hypotheses, and Akaike's information criterion was used to determine the most parsimonious models </plain></SENT>
+<SENT sid="8" pm="."><plain>The Mendelian model with <z:hpo ids='HP_0001426'>multifactorial inheritance</z:hpo> was supported more strongly than Mendelian <z:hpo ids='HP_0000005'>inheritance</z:hpo> alone </plain></SENT>
+<SENT sid="9" pm="."><plain>These analyses suggested that the best model for ACR levels was multifactorial with evidence for a common major gene </plain></SENT>
+<SENT sid="10" pm="."><plain>When the analyses were repeated for diabetic subjects only, the evidence for Mendelian <z:hpo ids='HP_0000005'>inheritance</z:hpo> was improved, although a single major locus with additional multifactorial effects was more strongly supported </plain></SENT>
+<SENT sid="11" pm="."><plain>The results from the current study suggest that levels of UAE are determined by a mixture of genes with large and small effects as well as other measured covariates, such as <z:mp ids='MP_0002055'>diabetes</z:mp> </plain></SENT>
+</text></document>

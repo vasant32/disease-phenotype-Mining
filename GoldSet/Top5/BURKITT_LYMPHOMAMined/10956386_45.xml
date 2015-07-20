@@ -1,0 +1,11 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The product of the proto-oncogene c-myc (myc) is a potent activator of cell proliferation </plain></SENT>
+<SENT sid="1" pm="."><plain>In Burkitt <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (<z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">BL</z:e>), a human B-cell <z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">tumor</z:e>, myc is consistently found to be transcriptionally activated by chromosomal translocation </plain></SENT>
+<SENT sid="2" pm="."><plain>The mechanisms by which myc promotes cell cycle progression in B-cells is not known </plain></SENT>
+<SENT sid="3" pm="."><plain>As a model for myc activation in <z:e sem="disease" ids="AmbiguousAbbrv" disease_type="AmbiguousAbbrv" abbrv="ambiguous">BL</z:e> cells, we have established a human EBV-EBNA1 positive B-cell line, P493-6, in which myc is expressed under the control of a <z:chebi fb="9" ids="27902">tetracycline</z:chebi> regulated promoter </plain></SENT>
+<SENT sid="4" pm="."><plain>If the expression of myc is switched off, P493-6 cells arrest in G0/G1 in the presence of serum </plain></SENT>
+<SENT sid="5" pm="."><plain>Re-expression of myc activates the cell cycle without inducing <z:mpath ids='MPATH_3'>apoptosis</z:mpath>. myc triggers the expression of cyclin D2, cyclin E and Cdk4, followed by the activation of cyclin E-associated kinase and hyper-phosphorylation of Rb </plain></SENT>
+<SENT sid="6" pm="."><plain>The transcription factor E2F-1 is expressed in proliferating and arrested cells at constant levels </plain></SENT>
+<SENT sid="7" pm="."><plain>The Cdk inhibitors p16, p21, p27 and p57 are expressed at low or not detectable levels in proliferating cells and are not induced after repression of myc </plain></SENT>
+<SENT sid="8" pm="."><plain>Ectopic expression of p16 inhibits cell cycle progression </plain></SENT>
+<SENT sid="9" pm="."><plain>These data suggest that myc triggers proliferation of P493-6 cells by promoting the expression of a set of cell cycle activators but not by inactivating cell cycle inhibitors </plain></SENT>
+</text></document>

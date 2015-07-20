@@ -1,0 +1,12 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: <z:hpo ids='HP_0001639'>Hypertrophic cardiomyopathy</z:hpo> and <z:hpo ids='HP_0001644'>dilated cardiomyopathy</z:hpo> arise from mutations in genes encoding sarcomere proteins including MYH7, MYBPC3, and TTN </plain></SENT>
+<SENT sid="1" pm="."><plain>Genetic diagnosis of <z:hpo ids='HP_0001638'>cardiomyopathy</z:hpo> relies on complete sequencing of the gene coding regions, and most pathogenic variation is rare </plain></SENT>
+<SENT sid="2" pm="."><plain>The 1000 Genomes Project is an ongoing consortium designed to deliver whole genome sequence information from an ethnically diverse population and, therefore, is a rich source to determine both common and rare genetic variants </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS AND RESULTS: We queried the 1000 Genomes Project database of 1092 individuals for exonic variants within 3 sarcomere genes MHY7, MYBPC3, and TTN </plain></SENT>
+<SENT sid="4" pm="."><plain>We focused our analysis on protein-altering variation, including nonsynonymous single nucleotide polymorphisms, insertion/deletion polymorphisms, or splice site altering variants </plain></SENT>
+<SENT sid="5" pm="."><plain>We identified known and predicted pathogenic variation in MYBPC3 and MYH7 at a higher frequency than what would be expected based on the known prevalence of <z:hpo ids='HP_0001638'>cardiomyopathy</z:hpo> </plain></SENT>
+<SENT sid="6" pm="."><plain>We also found substantial variation, including protein-disrupting sequences, in TTN </plain></SENT>
+<SENT sid="7" pm="."><plain>CONCLUSIONS: <z:hpo ids='HP_0001638'>Cardiomyopathy</z:hpo> is a genetically <z:hpo ids='HP_0001425'>heterogeneous</z:hpo> disorder caused by mutations in multiple genes </plain></SENT>
+<SENT sid="8" pm="."><plain>The frequency of predicted pathogenic protein-altering variation in <z:hpo ids='HP_0001638'>cardiomyopathy</z:hpo> genes suggests that many of these variants may be insufficient to cause disease on their own but may modify phenotype in a genetically susceptible host </plain></SENT>
+<SENT sid="9" pm="."><plain>This is suggested by the high prevalence of TTN insertion/deletions in the 1000 Genomes Project cohort </plain></SENT>
+<SENT sid="10" pm="."><plain>Given the possibility of additional genetic variants that modify the phenotype of a primary driver mutation, broad-based genetic testing should be employed </plain></SENT>
+</text></document>

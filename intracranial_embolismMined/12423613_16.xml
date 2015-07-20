@@ -1,0 +1,23 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: We wanted to describe the epidemiological aspects of infective <z:hpo ids='HP_0100584'>endocarditis</z:hpo> (IE) in a French hospital and identify the prognostic factors </plain></SENT>
+<SENT sid="1" pm="."><plain>METHODS: We reviewed the clinical, echocardiographic and microbiological features, and the outcome of 89 patients (90 episodes, median age 60 years) with IE over 18 months </plain></SENT>
+<SENT sid="2" pm="."><plain>Logistic regression analysis was used to identify prognostic factors for <z:hpo ids='HP_0011420'>death</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>RESULTS: A native valve was involved in 68 cases (75.5%); in 7 of these the patient was an intravenous drug user </plain></SENT>
+<SENT sid="4" pm="."><plain>A prosthetic valve was involved in 22 cases (24.5%); 5 of these were of early <z:hpo ids='HP_0003674'>onset</z:hpo> </plain></SENT>
+<SENT sid="5" pm="."><plain>Diagnosis was definite in 87% of cases </plain></SENT>
+<SENT sid="6" pm="."><plain>Median time to diagnosis was 3 days </plain></SENT>
+<SENT sid="7" pm="."><plain>Twenty-five patients (28%) were immunocompromised </plain></SENT>
+<SENT sid="8" pm="."><plain>A portal of entry, usually cutaneous, was identified in 65% of cases </plain></SENT>
+<SENT sid="9" pm="."><plain>Sixty-two percent of patients had an underlying <z:e sem="disease" ids="C0018799" disease_type="Disease or Syndrome" abbrv="">heart disorder</z:e>, usually degenerative </plain></SENT>
+<SENT sid="10" pm="."><plain>The <z:e sem="disease" ids="C0021311,C0009450" disease_type="Disease or Syndrome" abbrv="">infection</z:e> involved the left heart in more than 75% of cases </plain></SENT>
+<SENT sid="11" pm="."><plain>One or more vegetations were detected in 75% of cases </plain></SENT>
+<SENT sid="12" pm="."><plain>The median size of vegetation was 15 mm </plain></SENT>
+<SENT sid="13" pm="."><plain>Isolated agents were mainly staphylococci (n=40 (44%), including 12 coagulase-negative isolates), and streptococci (n=23 (25%), including 7 enterococci) </plain></SENT>
+<SENT sid="14" pm="."><plain>In 11 cases (12%), cultures remained negative </plain></SENT>
+<SENT sid="15" pm="."><plain>Nineteen episodes were nosocomial and Staphylococcus aureus was implicated in 11 of them </plain></SENT>
+<SENT sid="16" pm="."><plain>Fifty percent of patients had at least one complication: <z:hpo ids='HP_0001635'>heart failure</z:hpo> (n=42), <z:mp ids='MP_0003606'>kidney failure</z:mp> (n=44), embolism (n=35), septic shock (n=19) </plain></SENT>
+<SENT sid="17" pm="."><plain>Surgery was performed in 49 cases (54%) due to <z:hpo ids='HP_0001635'>heart failure</z:hpo> (n=19), <z:e sem="disease" ids="C0007780" disease_type="Disease or Syndrome" abbrv="">cerebral embolism</z:e> (n=12), and/or severe valve lesions (n=27) </plain></SENT>
+<SENT sid="18" pm="."><plain>Eighteen patients died, 10 of whom were infected with S. aureus </plain></SENT>
+<SENT sid="19" pm="."><plain>Nosocomial IE (P=0.0008), <z:hpo ids='HP_0001635'>heart failure</z:hpo> (P=0.004) and prosthetic valve (P=0.01), but not S. aureus were independently associated with <z:hpo ids='HP_0011420'>death</z:hpo> </plain></SENT>
+<SENT sid="20" pm="."><plain>CONCLUSIONS: S. aureus was the main microorganism isolated in our patients </plain></SENT>
+<SENT sid="21" pm="."><plain>However, it was not independently predictive of fatal outcome </plain></SENT>
+</text></document>

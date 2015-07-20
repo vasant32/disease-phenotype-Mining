@@ -1,0 +1,15 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: The mechanisms by which <z:hpo ids='HP_0002020'>gastroesophageal reflux</z:hpo> promotes malignant progression in <z:hpo ids='HP_0100580'>Barrett's esophagus</z:hpo> are poorly understood </plain></SENT>
+<SENT sid="1" pm="."><plain>The phosphatidylinositol-3-kinase (PI3 kinase)/Akt pathway regulates proliferation and <z:mpath ids='MPATH_3'>apoptosis</z:mpath> </plain></SENT>
+<SENT sid="2" pm="."><plain>We hypothesized that the PI3 kinase/Akt pathway mediates the pro-proliferative and antiapoptotic effects of bile </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: The Barrett's <z:mp ids='MP_0009308'>adenocarcinoma</z:mp> cell line, SEG-1, was exposed to the conjugated <z:chebi fb="0" ids="3098">bile salt</z:chebi>, <z:chebi fb="0" ids="36274">glycochenodeoxycholic acid</z:chebi> (GCDA) </plain></SENT>
+<SENT sid="4" pm="."><plain>Cell number was measured by the <z:chebi fb="0" ids="53233">MTT</z:chebi> incorporation assay and by Coulter counter </plain></SENT>
+<SENT sid="5" pm="."><plain>PI3 kinase/Akt activity was inferred from Western blots of phosphorylated and total Akt </plain></SENT>
+<SENT sid="6" pm="."><plain>Proliferation and <z:mpath ids='MPATH_3'>apoptosis</z:mpath> were determined by BrdU incorporation and cell <z:hpo ids='HP_0011420'>death</z:hpo> ELISA </plain></SENT>
+<SENT sid="7" pm="."><plain>RESULTS: A dose-dependent cell number increase was seen with a 20-minute exposure to GCDA </plain></SENT>
+<SENT sid="8" pm="."><plain>On Western blot, 200 micromol/L GCDA caused a 3-fold increase in Akt phosphorylation within 20 minutes, which was inhibited by 90% with the addition of <z:chebi fb="0" ids="50914">PI3 kinase inhibitor</z:chebi>, LY294002 </plain></SENT>
+<SENT sid="9" pm="."><plain>LY294002 produced dose-dependent inhibition of GCDA-induced cell number increases </plain></SENT>
+<SENT sid="10" pm="."><plain>200 micromol/L GCDA <z:mp ids='MP_0006043'>decreased apoptosis</z:mp> by 25% </plain></SENT>
+<SENT sid="11" pm="."><plain>Addition of LY294002 did not completely inhibit the antiapoptotic effect of bile </plain></SENT>
+<SENT sid="12" pm="."><plain>CONCLUSIONS: <z:chebi fb="0" ids="22868">Bile salts</z:chebi> activate the PI3 kinase/Akt signaling pathway and stimulate cell growth in SEG-1 </plain></SENT>
+<SENT sid="13" pm="."><plain>The majority of this PI3 kinase-mediated effect is secondary to increases in proliferation rather than to decreases in <z:mpath ids='MPATH_3'>apoptosis</z:mpath> </plain></SENT>
+</text></document>

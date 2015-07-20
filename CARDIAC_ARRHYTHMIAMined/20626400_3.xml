@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>BACKGROUND: The antianginal agent ranolazine (R) has shown some promise as an antiarrhythmic agent but its mechanism of action is not known </plain></SENT>
+<SENT sid="1" pm="."><plain>Previously, we have shown that R suppresses <z:hpo ids='HP_0004308'>ventricular arrhythmias</z:hpo> at a concentration &gt;10 μM that may affect multiple ion currents including IKr </plain></SENT>
+<SENT sid="2" pm="."><plain>PURPOSE: The present study was carried out to determine the effects of low dose (4 μM) of R that primarily inhibits late I(Na) on <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e>/reperfusion induced <z:hpo ids='HP_0004308'>ventricular arrhythmias</z:hpo> </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: We subjected 20 anesthetized rats to 5 min of proximal left coronary <z:mp ids='MP_0006134'>artery occlusion</z:mp> followed by 5 min of reperfusion </plain></SENT>
+<SENT sid="4" pm="."><plain>Rats were randomized to vehicle control (C; n = 10) versus low dose R (n = 10; 3.33 mg/kg i.v. bolus plus 3.2 mg/kg/h R started 20 min prior to occlusion, which yields a concentration of 4 μM, within the known level that blocks late Na channels but well below the level that has effect on IKr or peak I(Na)) </plain></SENT>
+<SENT sid="5" pm="."><plain>Reperfusion-induced <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> were quantitated by electrocardiographic monitoring </plain></SENT>
+<SENT sid="6" pm="."><plain>RESULTS: In the C group 9/10 rats developed any <z:hpo ids='HP_0011675'>arrhythmias</z:hpo> versus 3/10 in the R group (P = 0.02); 6/10 developed <z:hpo ids='HP_0004756'>ventricular tachycardia</z:hpo> (VT) in the C group versus 0/10 in the R group (P = 0.01) </plain></SENT>
+<SENT sid="7" pm="."><plain>The median number of episodes of VT were 1.5 in the C group versus 0 in the R group (P = 0.005) </plain></SENT>
+<SENT sid="8" pm="."><plain>Sustained VT (&gt;10 sec) occurred in 3/10 C and 0/10 in R (P = 0.21) </plain></SENT>
+<SENT sid="9" pm="."><plain>The median duration of VT was 1.8 seconds in C versus 0 in R (P = 0.005) </plain></SENT>
+<SENT sid="10" pm="."><plain><z:hpo ids='HP_0001663'>Ventricular fibrillation</z:hpo> occurred in 1/10 in C and 0 in R </plain></SENT>
+<SENT sid="11" pm="."><plain><z:mp ids='MP_0009732'>Ventricular premature beats</z:mp> (<z:mp ids='MP_0009732'>VPBs</z:mp>) occurred in 9/10 C and 3/10 R rats (P = 0.02) </plain></SENT>
+<SENT sid="12" pm="."><plain>The median number of <z:mp ids='MP_0009732'>VPBs</z:mp> was 5.5 in the C group versus 0 in R group (P = 0.01) </plain></SENT>
+<SENT sid="13" pm="."><plain>The ischemic risk zones were equivalent in the C and R groups (35 ± 3% and 32 ± 3% of the left ventricle, respectively) </plain></SENT>
+<SENT sid="14" pm="."><plain>CONCLUSIONS: In conclusion, data show that the marked antiarrhythmic effect of R in the setting of <z:hpo ids='HP_0011009'>acute</z:hpo> <z:e sem="disease" ids="C0022116" disease_type="Disease or Syndrome" abbrv="">ischemia</z:e>/reperfusion occurs at low doses consistent with inhibition of late I(Na)  </plain></SENT>
+</text></document>

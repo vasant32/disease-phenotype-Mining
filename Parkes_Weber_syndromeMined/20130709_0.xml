@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>OBJECTIVE: Oral <z:chebi fb="0" ids="27690">acetazolamide</z:chebi> is a potent medical treatment for pediatric <z:hpo ids='HP_0000501'>glaucoma</z:hpo>, but ophthalmologists may have concerns that it retards <z:mp ids='MP_0005456'>weight gain</z:mp> in children and may choose surgical management instead </plain></SENT>
+<SENT sid="1" pm="."><plain>DESIGN: Retrospective chart review </plain></SENT>
+<SENT sid="2" pm="."><plain>PARTICIPANTS: Twenty-two well children with <z:hpo ids='HP_0000501'>glaucoma</z:hpo> taking <z:chebi fb="0" ids="27690">acetazolamide</z:chebi> orally for &gt;or=3 months </plain></SENT>
+<SENT sid="3" pm="."><plain>METHODS: <z:mp ids='MP_0001259'>Abnormal weight</z:mp> gain was determined using downward crossing of 2 percentile lines on growth charts and change in z score for weight using a hierarchical linear model </plain></SENT>
+<SENT sid="4" pm="."><plain>RESULTS: One patient with <z:e sem="disease" ids="C0038505" disease_type="Disease or Syndrome;Congenital Abnormality" abbrv="PKWS">Sturge-Weber syndrome</z:e> and <z:hpo ids='HP_0001510'>growth failure</z:hpo> was excluded when <z:hpo ids='HP_0000824'>growth hormone deficiency</z:hpo> was diagnosed </plain></SENT>
+<SENT sid="5" pm="."><plain>Two patients crossed 2 lines downward; both showed <z:hpo ids='HP_0001942'>metabolic acidosis</z:hpo> </plain></SENT>
+<SENT sid="6" pm="."><plain>The trend for the 2 reversed after medication was discontinued </plain></SENT>
+<SENT sid="7" pm="."><plain>The other 20 tracked steadily on growth curves </plain></SENT>
+<SENT sid="8" pm="."><plain>Eleven patients (11/22, 50%) showed a decline in z score for weight over the follow-up period, and the remainder showed an increase, for an overall estimate of slope in this sample of 0.01, which was not significant (p = 0.8) </plain></SENT>
+<SENT sid="9" pm="."><plain>CONCLUSIONS: Oral <z:chebi fb="0" ids="27690">acetazolamide</z:chebi> may cause poor <z:mp ids='MP_0005456'>weight gain</z:mp> in a small subset of children on treatment </plain></SENT>
+<SENT sid="10" pm="."><plain><z:hpo ids='HP_0001942'>Metabolic acidosis</z:hpo> may be a mediating factor for <z:hpo ids='HP_0001510'>growth failure</z:hpo> </plain></SENT>
+<SENT sid="11" pm="."><plain>Our data suggest that <z:chebi fb="0" ids="27690">acetazolamide</z:chebi> does not cause significant weight changes in cases of pediatric <z:hpo ids='HP_0000501'>glaucoma</z:hpo> </plain></SENT>
+<SENT sid="12" pm="."><plain>Growth parameters should be followed </plain></SENT>
+<SENT sid="13" pm="."><plain><z:hpo ids='HP_0000824'>Growth hormone deficiency</z:hpo> should be considered in <z:e sem="disease" ids="C0038505" disease_type="Disease or Syndrome;Congenital Abnormality" abbrv="PKWS">Sturge-Weber syndrome</z:e> </plain></SENT>
+<SENT sid="14" pm="."><plain>Prospective study is needed </plain></SENT>
+</text></document>

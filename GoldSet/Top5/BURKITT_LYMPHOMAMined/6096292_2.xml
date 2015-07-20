@@ -1,0 +1,9 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The Epstein-Barr virus (EBV) abortive producer cell line Daudi may be induced to an incomplete cycle of <z:mp ids='MP_0001799'>viral</z:mp> production by chemicals such as 12-O-tetradecanoylphorbol-13-<z:chebi fb="49" ids="30089,47622">acetate</z:chebi> (<z:chebi fb="6" ids="15702,53394">TPA</z:chebi>) and <z:chebi fb="0" ids="17968">n-butyrate</z:chebi> </plain></SENT>
+<SENT sid="1" pm="."><plain>These chemicals greatly increase expression of the early antigen but not that of <z:mp ids='MP_0001799'>viral</z:mp> capsid antigen </plain></SENT>
+<SENT sid="2" pm="."><plain>DNA from these cells was cleaved with various restriction enzymes specific for the mCG sites </plain></SENT>
+<SENT sid="3" pm="."><plain><z:mp ids='MP_0001799'>Viral</z:mp> sequences (mostly in an episomal form) were tested for their methylation patterns and compared to the methylation pattern of the producer cell line B95-8 </plain></SENT>
+<SENT sid="4" pm="."><plain>The BamHI C, V, and H EBV DNA fragments appeared to be nonmethylated in B95-8 whether or not induced by <z:chebi fb="6" ids="15702,53394">TPA</z:chebi> </plain></SENT>
+<SENT sid="5" pm="."><plain>The same fragments were partially methylated in noninduced Daudi cells </plain></SENT>
+<SENT sid="6" pm="."><plain>Treatment of the latter with <z:chebi fb="6" ids="15702,53394">TPA</z:chebi> and <z:chebi fb="0" ids="17968">n-butyrate</z:chebi> increased the amount of <z:mp ids='MP_0001799'>viral</z:mp> DNA per cell, and hypomethylation of some EBV DNA sites occurred in parallel </plain></SENT>
+<SENT sid="7" pm="."><plain>Transcription changes were noted only at the level of the BamHI H fragment; cytoplasmic <z:chebi fb="40" ids="33697">RNA</z:chebi> molecules specific for this region were detected only after induction </plain></SENT>
+</text></document>

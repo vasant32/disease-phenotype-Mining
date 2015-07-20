@@ -1,0 +1,16 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain><z:chebi fb="0" ids="38870">Inhalation anesthetics</z:chebi> are effective chemical preconditioning agents in experimental <z:hpo ids='HP_0002637'>cerebral ischemia</z:hpo> </plain></SENT>
+<SENT sid="1" pm="."><plain>However, previous work has been performed exclusively in male animals </plain></SENT>
+<SENT sid="2" pm="."><plain>We determined if there is a gender difference in ischemic outcome after <z:chebi fb="0" ids="6015">isoflurane</z:chebi> preconditioning (IsoPC), and if this sex-specific response is linked to differences in Akt phosphorylation or expression of neuronal inducible cell-<z:hpo ids='HP_0011420'>death</z:hpo> putative kinase (NIPK), a negative modulator of Akt activation </plain></SENT>
+<SENT sid="3" pm="."><plain>Young and middle-aged male and female mice were preconditioned for 4 h with air (sham PC) or 1.0% IsoPC and recovered for 24 h </plain></SENT>
+<SENT sid="4" pm="."><plain>Cortices were subdissected from preconditioned young male and female mice for measurement of Akt phosphorylation (Western blot) and NIPK <z:chebi fb="2" ids="33699">mRNA</z:chebi> (quantitative polymerase chain reaction) </plain></SENT>
+<SENT sid="5" pm="."><plain>Additional cohorts underwent 2 h of reversible middle cerebral <z:mp ids='MP_0006134'>artery occlusion</z:mp> </plain></SENT>
+<SENT sid="6" pm="."><plain>Lastly, male and female Akt1(+/+) and Akt1(-/-) mice were studied to determine if gender differences in ischemic outcome after IsoPC is Akt1-dependent </plain></SENT>
+<SENT sid="7" pm="."><plain>Infarction volume was determined at 22 h reperfusion (2,3,5-triphenyltetrazolium <z:chebi fb="76" ids="17996">chloride</z:chebi>) </plain></SENT>
+<SENT sid="8" pm="."><plain>As expected, IsoPC decreased ischemic damage as compared with sham PC in young and middle-aged male mice </plain></SENT>
+<SENT sid="9" pm="."><plain>In contrast, IsoPC markedly increased infarction in young female mice and had no effect in middle-aged female mice </plain></SENT>
+<SENT sid="10" pm="."><plain>Cortical phospho-Akt was increased by IsoPC versus sham PC only in male mice </plain></SENT>
+<SENT sid="11" pm="."><plain>No increase was observed in IsoPC female mice </plain></SENT>
+<SENT sid="12" pm="."><plain>NIPK <z:chebi fb="2" ids="33699">mRNA</z:chebi> was higher in female mice than in male mice regardless of preconditioning status </plain></SENT>
+<SENT sid="13" pm="."><plain>Male IsoPC neuroprotection was lost in Akt1-deficient male mice </plain></SENT>
+<SENT sid="14" pm="."><plain>We conclude that IsoPC is beneficial only in ischemic male brain and that sex differences in IsoPC are mediated through Akt activation and basal NIPK expression </plain></SENT>
+</text></document>

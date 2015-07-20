@@ -1,0 +1,10 @@
+<document xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:z="http://www.ebi.ac.uk/z" source="Whatizit"><text><SENT sid="0" pm="."><plain>The majority of paediatric Burkitt <z:hpo ids='HP_0002665'>lymphoma</z:hpo> (pBL) patients that relapse will die of disease, but markers for this high-risk subset are unknown </plain></SENT>
+<SENT sid="1" pm="."><plain>MYC translocations characterize pBL, but additional genetic changes may relate to prognosis and serve as potential biomarkers </plain></SENT>
+<SENT sid="2" pm="."><plain>We utilized a molecular inversion probe single nucleotide polymorphism assay to perform high resolution, genome-wide copy number analysis on archival formalin-fixed, paraffin-embedded pBL and germline tissues </plain></SENT>
+<SENT sid="3" pm="."><plain>We identified copy number abnormalities (CNAs) in 18/28 patients (64%) with a total of 62 CNAs that included 32 gains and 30 copy number losses </plain></SENT>
+<SENT sid="4" pm="."><plain>We identified seven recurrent CNAs including 1q gain (7/28, 25%), 13q gain (3/28, 11%), and 17p loss (4/28, 14%) </plain></SENT>
+<SENT sid="5" pm="."><plain>The minimum common amplified region on 13q was at 13q31 and included the MIR17HG (MIR17-92) locus </plain></SENT>
+<SENT sid="6" pm="."><plain>Samples with this gain had higher levels of MIR17 <z:chebi fb="40" ids="33697">RNA</z:chebi> and showed a tendency for early relapse </plain></SENT>
+<SENT sid="7" pm="."><plain><z:e sem="disease" ids="C0027651" disease_type="Neoplastic Process" abbrv="">Tumour</z:e>-specific <z:mp ids='MP_0008867'>uniparental disomy</z:mp> was identified in 32% of cases and usually was recurrent </plain></SENT>
+<SENT sid="8" pm="."><plain>These results demonstrate that high-resolution copy number analysis can be performed on archival <z:hpo ids='HP_0002665'>lymphoma</z:hpo> tissue specimens, which has significance for the study of <z:e sem="disease" ids="C0678236" disease_type="Disease or Syndrome" abbrv="">rare diseases</z:e> </plain></SENT>
+</text></document>
